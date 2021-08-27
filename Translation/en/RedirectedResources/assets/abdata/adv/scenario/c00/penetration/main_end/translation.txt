@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ、案外疲れちゃうのね……でも、楽しかったわ」=
+「ふぅ、案外疲れちゃうのね……でも、楽しかったわ」=Fuu, that was pretty tiring, all things considered... but, it was fun.

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「みっともない姿見せちまった……でも、おまえの前ならいいか」=
+「みっともない姿見せちまった……でも、おまえの前ならいいか」=I'm sorry you had to see that. But... It's okay when you're around.

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごく気持ちよかった。ふふっ、あなたの弱いところ、少し分かってきたわ」=
+「すごく気持ちよかった。ふふっ、あなたの弱いところ、少し分かってきたわ」=“It's good that it felt really pleasant. Fufu, your weak spot, I know a little more about it now.”

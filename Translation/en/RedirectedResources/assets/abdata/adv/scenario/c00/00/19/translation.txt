@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「まだ余韻が続いてるわ……。ねぇ、また……してくれるわよね？」=
+「まだ余韻が続いてるわ……。ねぇ、また……してくれるわよね？」=The afterglow's still lingering... Hey, you'll... do me again, right?

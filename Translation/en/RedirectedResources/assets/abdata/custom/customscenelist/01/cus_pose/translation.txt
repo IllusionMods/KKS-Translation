@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//Ｈ１=
-//Ｈ２=
-//Ｈ３=
-//Ｈ４=
-//Ｈ５=
+Ｈ１=H-Pose 1
+Ｈ２=H-Pose 2
+Ｈ３=H-Pose 3
+Ｈ４=H-Pose 4
+Ｈ５=H-Pose 5

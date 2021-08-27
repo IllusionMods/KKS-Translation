@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//なし=
-//リボン=
-//細リボン=
-//ネクタイ=
-//ルーズネクタイ短=
-//ルーズネクタイ長=
-//のど輪=
+なし=None
+リボン=Ribbon
+細リボン=Fine Ribbon
+ネクタイ=Necktie
+ルーズネクタイ短=Loose Necktie (Short)
+ルーズネクタイ長=Loose Necktie (Long)
+のど輪=Throat Guard

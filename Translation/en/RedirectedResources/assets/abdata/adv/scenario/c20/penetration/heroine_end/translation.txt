@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私も、なんだかいつも以上に気持ちよくて……よかったら、また一緒に……」=
+「私も、なんだかいつも以上に気持ちよくて……よかったら、また一緒に……」=Somehow, I feel better than usual... if you'd like, let's do this again sometime...

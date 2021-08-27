@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 //「ねぇ、まだ起きてる？」=
-//「どうかしたの？」=
+「どうかしたの？」=What's the matter?
 //「急にね、あなたに会いたくなったの」=
 //「だからね、ぎゅって抱きしめてほしいなぁ」=
 //「……もう寝ちゃってたのかな。はぁ……私を帰って寝よう」=

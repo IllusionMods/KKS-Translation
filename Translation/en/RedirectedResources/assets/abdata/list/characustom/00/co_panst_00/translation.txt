@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//なし=
-//パンストA=
-//パンストB=
-//厚手パンストA=
-//厚手パンストB=
-//スパッツ=
-//アンダースコート=
-//ガーターベルト=
-//網タイツ=
-//レギンス=
-//将校のガーターベルト=
-//ウェディングガーター=
-//ベースボールストッキング=
-//膝サポーター=
-//ロングスパッツ=
-//ガードル=
+なし=None
+パンストA=Pantyhose A
+パンストB=Pantyhose B
+厚手パンストA=Thick Pantyhose A
+厚手パンストB=Thick Pantyhose B
+スパッツ=Spats
+アンダースコート=Underskirt Panties
+ガーターベルト=Garter Belt
+網タイツ=Fishnet Tights
+レギンス=Leggings
+将校のガーターベルト=Commissioned Officer Garter Belt
+ウェディングガーター=Wedding Garters
+ベースボールストッキング=Baseball Stockings
+膝サポーター=Kneepads
+ロングスパッツ=Long Spats
+ガードル=Girdle
 //プリティーガーター=
-//シンプルガーター=
+シンプルガーター=Simple Garters

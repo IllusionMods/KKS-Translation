@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//乳首リング=
-//乳首リングジュエル=
-//乳首クリップ=
-//乳首洗濯ばさみ=
-//乳首ローター=
+乳首リング=Nipple Ring
+乳首リングジュエル=Jeweled Nipple Ring
+乳首クリップ=Nipple Clip
+乳首洗濯ばさみ=Nipple Clothespin
+乳首ローター=Nipple Rotor

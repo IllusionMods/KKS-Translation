@@ -4,13 +4,13 @@
 //OPTION[100]:気持ちに応える=
 //気持ちに応える=
 //OPTION[100]:……ごめん=
-//……ごめん=
+……ごめん=...I'm sorry.
 //OPTION[101]:いいよ=
-//いいよ=
+いいよ=It's fine.
 //OPTION[101]:ごめん=
-//ごめん=
+ごめん=...I'm sorry.
 //OPTION[102]:いいよ=
-//OPTION[102]:ごめん=
+OPTION[102]:ごめん=I'm sorry.
 //OPTION[103]:いいよ=
 //OPTION[103]:ごめん=
 //OPTION[104]:いいよ=

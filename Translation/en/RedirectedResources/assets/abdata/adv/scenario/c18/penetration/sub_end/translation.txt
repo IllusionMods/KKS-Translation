@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「二人を気持ちよくして……すごいですね」=
+「二人を気持ちよくして……すごいですね」=You made us both feel good... you're so amazing.

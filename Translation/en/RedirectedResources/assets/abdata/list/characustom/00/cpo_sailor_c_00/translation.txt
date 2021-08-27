@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//なし=
-//タイプ１=
-//タイプ２=
-//タイプ３=
-//タイプ４=
-//タイプ５=
-//タイプ６=
-//タイプ7=
+なし=None
+タイプ１=Type 1
+タイプ２=Type 2
+タイプ３=Type 3
+タイプ４=Type 4
+タイプ５=Type 5
+タイプ６=Type 6
+タイプ7=Type 7

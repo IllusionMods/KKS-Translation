@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//ベビードール=
-//裸サロペット=
-//裸サスペンダー=
-//裸エプロン=
+ベビードール=Babydoll
+裸サロペット=Naked Overalls
+裸サスペンダー=Naked Suspenders
+裸エプロン=Naked Apron
 //裸フリルエプロン=
-//亀甲縛り=
-//体操着（汚れ）=
+亀甲縛り=Bondage Ropes
+体操着（汚れ）=Gym Uniform (Male)

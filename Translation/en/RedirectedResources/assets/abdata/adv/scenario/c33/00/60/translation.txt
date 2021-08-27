@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 //「ねぇ、いる……？」=
-//「どうしたの？」=
+「どうしたの？」=Something wrong?
 //「ふふっ、お邪魔するわね」=
 //「あら、あなたの愛しい彼女が部屋に来たのよ？　私が何を求めているか……わかってるわよね？」=
 //「……もう、寝ているのかしら？　仕方ないわね……」=

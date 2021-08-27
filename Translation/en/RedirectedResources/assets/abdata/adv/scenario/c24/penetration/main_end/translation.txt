@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あなたがとっても嬉しそうで、よかったです……♡　あ、私も３人で出来て、気持ちよかったですよ……？」=
+「あなたがとっても嬉しそうで、よかったです……♡　あ、私も３人で出来て、気持ちよかったですよ……？」=I'm glad, you seem to have enjoyed it...♡ Ah, I enjoyed it too, you know...?

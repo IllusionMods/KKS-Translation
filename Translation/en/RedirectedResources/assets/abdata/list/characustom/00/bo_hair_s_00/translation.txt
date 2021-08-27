@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//なし=
-//ほそロング=
-//おさげ=
-//太い=
-//ふとロング=
-//はねロング=
-//ウェーブロング=
-//三つ編み=
+なし=None
+ほそロング=Fine And Long
+おさげ=Twintails
+太い=Thick
+ふとロング=Thick And Long
+はねロング=Feathered Long
+ウェーブロング=Wavy Long
+三つ編み=Braided

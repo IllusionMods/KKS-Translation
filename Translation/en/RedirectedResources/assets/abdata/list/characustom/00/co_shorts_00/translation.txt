@@ -1,26 +1,26 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//なし=
-//リボンショーツ=
-//レーストップショーツ=
-//ハイレッグショーツ=
-//ローライズショーツ=
-//スポーツショーツ=
-//スタンダードショーツ=
-//くまパンツ=
-//ビキニ水着=
-//ブーメランパンツ=
-//ふんどし=
-//ファンシーショーツ=
-//リボンレースーショーツ=
-//エレガントショーツ=
-//ビキニ水着(フリル付き)=
-//ウェディングショーツ=
-//キュートショーツ=
-//ハートリボンショーツ=
-//フラワーレースショーツ=
-//マイクロビキニ=
+なし=None
+リボンショーツ=Ribbon Panties
+レーストップショーツ=Lace Topped Panties
+ハイレッグショーツ=Hi-Leg Panties
+ローライズショーツ=Lowrise Panties
+スポーツショーツ=Sports Panties
+スタンダードショーツ=Standard Panties
+くまパンツ=Bear Panties
+ビキニ水着=Bikini Swimsuit
+ブーメランパンツ=Boomerang Panties
+ふんどし=Fundoshi
+ファンシーショーツ=Fancy Panties
+リボンレースーショーツ=Lace Ribbon Panties
+エレガントショーツ=Elegant Panties
+ビキニ水着(フリル付き)=Bikini Swimsuit (With Frills)
+ウェディングショーツ=Wedding Panties
+キュートショーツ=Cute Panties
+ハートリボンショーツ=Heart Ribbon Panties
+フラワーレースショーツ=Flower Lace Panties
+マイクロビキニ=Micro Bikini
 //フリルセパレート（下）=
 //レイヤードビキニ=
 //フリルビキニ=

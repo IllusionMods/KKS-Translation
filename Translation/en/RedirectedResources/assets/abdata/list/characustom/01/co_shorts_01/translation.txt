@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//オープンレースショーツ=
-//エンブレムシール(下)=
+オープンレースショーツ=Open Lace Panties
+エンブレムシール(下)=Emblem Seal (Lower)

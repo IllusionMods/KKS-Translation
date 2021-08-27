@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//リュックサック=
-//背負いボストン=
-//背負いカバン=
-//ポスターリュックサック=
-//小悪魔の翼左用=
-//小悪魔の翼右用=
-//悪魔の翼左用=
-//悪魔の翼右用=
-//天使の翼左用=
-//天使の翼右用=
-//ギターケース=
-//アーマープレート=
+リュックサック=Backpack
+背負いボストン=Boston Bag
+背負いカバン=Leather Backpack
+ポスターリュックサック=Backpack With Posters
+小悪魔の翼左用=Left Devil Wing
+小悪魔の翼右用=Right Devil Wing
+悪魔の翼左用=Left Demon Wing
+悪魔の翼右用=Right Demon Wing
+天使の翼左用=Left Angel Wing
+天使の翼右用=Right Angel Wing
+ギターケース=Guitar Case
+アーマープレート=Armor Plate
 //ボディバッグ（左）=
 //ボディバッグ（右）=
 //レザーバッグ=

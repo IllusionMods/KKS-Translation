@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「まさかとは思うけど、ずっと様子を伺ってた……とかじゃないわよね？」=
+「まさかとは思うけど、ずっと様子を伺ってた……とかじゃないわよね？」=I don't really think I was but, something like being too passive... I wasn't like that, was I?
