@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//ひかり=
+ひかり=Hikari
 //比嘉=
 //ひかり 比嘉=
 //比嘉 ひかり=

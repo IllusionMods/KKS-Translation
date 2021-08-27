@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//未選択=
-//なし=
-//唇=
-//胸=
-//股間=
-//アナル=
-//尻=
-//乳首=
+未選択=None Selected
+なし=None
+唇=Lips
+胸=Chest
+股間=Crotch
+アナル=Anus
+尻=Butt
+乳首=Nipple Stiffness
