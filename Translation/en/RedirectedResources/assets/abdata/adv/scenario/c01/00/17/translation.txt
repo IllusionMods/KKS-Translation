@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
+//「ど、どうでしたか？　私は気持ちよくしてもらえましたけど、あなたのことは……」=
+//「俺も気持ちよかったよ、すごく」=
+//「ほ、本当ですか？　でしたら安心しました」=

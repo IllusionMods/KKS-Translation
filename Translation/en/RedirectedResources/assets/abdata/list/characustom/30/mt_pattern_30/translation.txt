@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
+//金魚柄=
+//桜麻柄=
+//桜花流水柄=
+//紫陽花市松柄=
+//紫陽花柄=
+//朝顔柄=
+//朝顔流水柄=
+//鱗文様=

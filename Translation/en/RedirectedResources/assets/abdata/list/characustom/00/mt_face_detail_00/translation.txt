@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
+//なし=
+//シワ=
+//強調１=
+//強調２=
+//境界線=
+//目周りの影=

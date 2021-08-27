@@ -1,0 +1,5 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
+//「おはようございます。昨日のお疲れはちゃんと取れたようですね」=
+//「私ですか？　あなたの寝顔がこんなそばにあるのに、おちおち寝てなど……って、私のことはどうでもいいんです」=

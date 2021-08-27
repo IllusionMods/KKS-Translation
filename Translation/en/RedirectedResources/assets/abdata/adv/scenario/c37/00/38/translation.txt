@@ -1,0 +1,7 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
+//「二人乗り用のカヤックを借りましょう」=
+//「そうだね、やるなら一緒に力を合わせたいよね」=
+//「はい、私達ならきっと上手くいきます」=
+//「よし、頑張ろう！」=

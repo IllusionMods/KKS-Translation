@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
+//左の口元=
+//右の口元=
+//左の口上=
+//右の口上=
+//左の目元=
+//右の目元=
+//額中央=
+//そばかす=

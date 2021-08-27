@@ -1,0 +1,7 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
+//「あなたの部屋、ちゃんと防音なのかしら？」=
+//「それは……保証できないけど」=
+//「なら、調べてみましょ」=
+//「私の声がどれくらい通るか、確認すればいいのよ、ふふっ」=
