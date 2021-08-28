@@ -120,7 +120,7 @@ If `zz_machineTranslation.txt` files are present only lines that are not transla
 The `assets` folder inside of `Bepinex\Translation\en\RedirectedResources` can be compressed into a .zip archive to be read by the game (simply right-click on the assets folder and then compress to .zip). Uncompressed files under `assets` are also still loaded. The game has to be restarted in order to see updated translations.
 
 
-The plugin [TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) is required for these translations. Always keep it updated.
+The plugin [TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) is required for these translations. Always keep it updated. (not ready yet, you early adopter!)
 
 ### Structure of the "RedirectedResources" directory
 
