@@ -11,10 +11,11 @@ The translations are applied while the game is running and do not require replac
 - [BepInEx 5.4.x+](https://github.com/BepInEx/BepInEx/releases/)
 - [BepisPlugins for KKS](https://github.com/bbepis/BepisPlugins/releases)
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
-- [KKS_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) (required for most resources)
-- [KKS_Subtitles](https://github.com/IllusionMods/KK_Plugins#subtitles) (required to see subtitles)
-- [KKS_TranslationHelper](https://gebo1.github.io/GeBoPlugins/src/TranslationHelper/) (Optional, but recommended)
-- [KKS_TranslationCacheCleaner](https://gebo1.github.io/GeBoPlugins/src/TranslationCacheCleaner/) (optional, but recommended)
+
+[//]: # "- [KKS_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) (required for most resources)"
+[//]: # "- [KKS_Subtitles](https://github.com/IllusionMods/KK_Plugins#subtitles) (required to see subtitles)"
+[//]: # "- [KKS_TranslationHelper](https://gebo1.github.io/GeBoPlugins/src/TranslationHelper/) (Optional, but recommended)"
+[//]: # "- [KKS_TranslationCacheCleaner](https://gebo1.github.io/GeBoPlugins/src/TranslationCacheCleaner/) (optional, but recommended)"
 
 ## Installation
 
@@ -127,19 +128,20 @@ Table with the localization of the translations for each part of the game:
 
 | Folder                                  | Description               |
 |-----------------------------------------|---------------------------|
-| `action/list/event`                     | Event titles              |
-| `adv`                                   | main game dialogs         |
-| `communication`                         | main game dialogs         |
-| `custom/customscenelist`                | Maker Pose Text           |
-| `etcetra/list/nickname`                 | Call Names                |
-| `h/list/*/animationinfo_*`              | Positions (game versions) |
-| `h/list/*/hpointtoggle`                 | Positions (game versions) |
-| `h/list/*/personality_voice*`           | H Subtitles               |
-| `list/characustom`                      | Maker stuff               |
-| `list/characustom/*/cha_sample_voice_*` | Personality names         |
-| `list/random_name`                      | Random names              |
-| `map/list/mapinfo`                      | Map names                 |
-| `studio/info`                           | Studio stuff              |
+
+[//]: # "| `action/list/event`                     | Event titles              |"
+[//]: # "| `adv`                                   | main game dialogs         |"
+[//]: # "| `communication`                         | main game dialogs         |"
+[//]: # "| `custom/customscenelist`                | Maker Pose Text           |"
+[//]: # "| `etcetra/list/nickname`                 | Call Names                |"
+[//]: # "| `h/list/*/animationinfo_*`              | Positions (game versions) |"
+[//]: # "| `h/list/*/hpointtoggle`                 | Positions (game versions) |"
+[//]: # "| `h/list/*/personality_voice*`           | H Subtitles               |"
+[//]: # "| `list/characustom`                      | Maker stuff               |"
+[//]: # "| `list/characustom/*/cha_sample_voice_*` | Personality names         |"
+[//]: # "| `list/random_name`                      | Random names              |"
+[//]: # "| `map/list/mapinfo`                      | Map names                 |"
+[//]: # "| `studio/info`                           | Studio stuff              |"
 
 
 #### Personalities
@@ -148,58 +150,60 @@ Table with the localization of the translations for each part of the game:
 
 | ID | Name       | Eng Name           | Source                            |
 |:--:|:-----------|:-------------------|:----------------------------------|
-| 00 | セクシー系お姉さま  | Sexy               |                                   |
-| 01 | お嬢様        | Ojousama           |                                   |
-| 02 | タカビー       | Snobby             |                                   |
-| 03 | 小悪魔っ子      | Kouhai             |                                   |
-| 04 | ミステリアス     | Mysterious         |                                   |
-| 05 | 電波         | Weirdo             |                                   |
-| 06 | 大和撫子       | Yamamoto Nadeshiko |                                   |
-| 07 | ボーイッシュ     | Tomboy             |                                   |
-| 08 | 純粋無垢な子供    | Pure               |                                   |
-| 09 | アホの子       | Simple             |                                   |
-| 10 | 邪気眼        | Delusional         |                                   |
-| 11 | 母性的お姉さん    | Motherly           |                                   |
-| 12 | 姉御肌        | Big Sisterly       |                                   |
-| 13 | コギャル       | Gyaru              |                                   |
-| 14 | 不良少女       | Delinquent         |                                   |
-| 15 | 野生的        | Wild               |                                   |
-| 16 | 意識高いクールな女性 | Wannabe            |                                   |
-| 17 | ひねくれ       | Reluctant          |                                   |
-| 18 | 不幸少女       | Jinxed             |                                   |
-| 19 | 文学少女       | Bookish            |                                   |
-| 20 | モジモジ       | Timid              |                                   |
-| 21 | 正統派ヒロイン    | Typical Schoolgirl |                                   |
-| 22 | ミーハー       | Trendy             |                                   |
-| 23 | オタク女子      | Otaku              |                                   |
-| 24 | ヤンデレ       | Yandere            |                                   |
-| 25 | ダル         | Lazy               |                                   |
-| 26 | 無口         | Quiet              |                                   |
-| 27 | 意地っ張り      | Stubborn           |                                   |
-| 28 | ロリばばあ      | Old-Fashioned      |                                   |
-| 29 | 素直クール      | Humble             |                                   |
-| 30 | 気さく        | Friendly           | Free DLC                          |
-| 31 | 勝ち気        | Willful            | Personality Expansion DLC (07/27) |
-| 32 | 誠実         | Honest             | Personality Expansion DLC (07/27) |
-| 33 | 艶やか        | Glamorous          | Personality Expansion DLC (07/27) |
-| 34 | 帰国子女       | Returnee           | AfterSchool Expansion DLC (12/21) |
-| 35 | 方言娘        | Slangy             | AfterSchool Expansion DLC (12/21) |
-| 36 | Sッ気        | Sadistic           | AfterSchool Expansion DLC (12/21) |
-| 37 | 無感情        | Emotionless        | AfterSchool Expansion DLC (12/21) |
-| 38 | 几帳面        | Perfectionist      | Yoyaku Preorder Exclusive DLC     |
+
+[//]: # "| 00 | セクシー系お姉さま  | Sexy               |                                   |"
+[//]: # "| 01 | お嬢様        | Ojousama           |                                   |"
+[//]: # "| 02 | タカビー       | Snobby             |                                   |"
+[//]: # "| 03 | 小悪魔っ子      | Kouhai             |                                   |"
+[//]: # "| 04 | ミステリアス     | Mysterious         |                                   |"
+[//]: # "| 05 | 電波         | Weirdo             |                                   |"
+[//]: # "| 06 | 大和撫子       | Yamamoto Nadeshiko |                                   |"
+[//]: # "| 07 | ボーイッシュ     | Tomboy             |                                   |"
+[//]: # "| 08 | 純粋無垢な子供    | Pure               |                                   |"
+[//]: # "| 09 | アホの子       | Simple             |                                   |"
+[//]: # "| 10 | 邪気眼        | Delusional         |                                   |"
+[//]: # "| 11 | 母性的お姉さん    | Motherly           |                                   |"
+[//]: # "| 12 | 姉御肌        | Big Sisterly       |                                   |"
+[//]: # "| 13 | コギャル       | Gyaru              |                                   |"
+[//]: # "| 14 | 不良少女       | Delinquent         |                                   |"
+[//]: # "| 15 | 野生的        | Wild               |                                   |"
+[//]: # "| 16 | 意識高いクールな女性 | Wannabe            |                                   |"
+[//]: # "| 17 | ひねくれ       | Reluctant          |                                   |"
+[//]: # "| 18 | 不幸少女       | Jinxed             |                                   |"
+[//]: # "| 19 | 文学少女       | Bookish            |                                   |"
+[//]: # "| 20 | モジモジ       | Timid              |                                   |"
+[//]: # "| 21 | 正統派ヒロイン    | Typical Schoolgirl |                                   |"
+[//]: # "| 22 | ミーハー       | Trendy             |                                   |"
+[//]: # "| 23 | オタク女子      | Otaku              |                                   |"
+[//]: # "| 24 | ヤンデレ       | Yandere            |                                   |"
+[//]: # "| 25 | ダル         | Lazy               |                                   |"
+[//]: # "| 26 | 無口         | Quiet              |                                   |"
+[//]: # "| 27 | 意地っ張り      | Stubborn           |                                   |"
+[//]: # "| 28 | ロリばばあ      | Old-Fashioned      |                                   |"
+[//]: # "| 29 | 素直クール      | Humble             |                                   |"
+[//]: # "| 30 | 気さく        | Friendly           | Free DLC                          |"
+[//]: # "| 31 | 勝ち気        | Willful            | Personality Expansion DLC (07/27) |"
+[//]: # "| 32 | 誠実         | Honest             | Personality Expansion DLC (07/27) |"
+[//]: # "| 33 | 艶やか        | Glamorous          | Personality Expansion DLC (07/27) |"
+[//]: # "| 34 | 帰国子女       | Returnee           | AfterSchool Expansion DLC (12/21) |"
+[//]: # "| 35 | 方言娘        | Slangy             | AfterSchool Expansion DLC (12/21) |"
+[//]: # "| 36 | Sッ気        | Sadistic           | AfterSchool Expansion DLC (12/21) |"
+[//]: # "| 37 | 無感情        | Emotionless        | AfterSchool Expansion DLC (12/21) |"
+[//]: # "| 38 | 几帳面        | Perfectionist      | Yoyaku Preorder Exclusive DLC     |"
 
 ##### NPC Personalities
 
 
 | ID  | Name    | Eng Name        |
 |:---:|:--------|:----------------|
-| -1  | リナ・ロベール | Lina Roberts    |
-| -2  | 橋本麗奈    | Hashimoto Reina |
-| -4  | 櫻井野乃花   | Sakurai Nonoka  |
-| -5  | 姫川舞     | Himekawa Mai    |
-| -8  | 柊このみ    | Hiiragi Konomi  |
-| -9  | 結城桜     | Yuuki Sakura    |
-| -10 | 水瀬亜依    | Minase Ai       |
+
+[//]: # "| -1  | リナ・ロベール | Lina Roberts    |"
+[//]: # "| -2  | 橋本麗奈    | Hashimoto Reina |"
+[//]: # "| -4  | 櫻井野乃花   | Sakurai Nonoka  |"
+[//]: # "| -5  | 姫川舞     | Himekawa Mai    |"
+[//]: # "| -8  | 柊このみ    | Hiiragi Konomi  |"
+[//]: # "| -9  | 結城桜     | Yuuki Sakura    |"
+[//]: # "| -10 | 水瀬亜依    | Minase Ai       |"
 
 
 
@@ -207,10 +211,11 @@ Table with the localization of the translations for each part of the game:
 
 | Type                   | Location (replace `##` with ID from table above) |
 |------------------------|--------------------------------------------------|
-| Dialog (adv)           | `adv/scenario/c##/*`                             |
-| Dialog (communication) | `communication/info_*/*_##`                      |
-| Call Names             | `etcetra/list/nickname/*/c##`                      |
-| H Lines                | `h/list/*/personality_voice_c##_*`               |
+
+[//]: # "| Dialog (adv)           | `adv/scenario/c##/*`                             |"
+[//]: # "| Dialog (communication) | `communication/info_*/*_##`                      |"
+[//]: # "| Call Names             | `etcetra/list/nickname/*/c##`                      |"
+[//]: # "| H Lines                | `h/list/*/personality_voice_c##_*`               |"
 
 NPC Personalities only have entries under Dialog (adv) and H Lines.
 
@@ -252,17 +257,18 @@ Some prefixes can be combined with numbers, which limit them to matching specifi
 
 | asset location                         | prefix       | Notes                                                             |
 |----------------------------------------|--------------|-------------------------------------------------------------------|
-| `adv/scenario/`                        | `CHOICE:`    |                                                                   |
-| `communication/*/optiondisplayitems_*` | `OPTION[x]:` | `x` will be an integer representing a question ID                 |
-| `etcetra/list/nickname`                | `SPECIAL:`   |                                                                   |
-| `list/random_name`                     | `NAME[x]:`   | `x` is the column (1-2 surname, 3-4 female given, 5-6 male given) |
+
+[//]: # "| `adv/scenario/`                        | `CHOICE:`    |                                                                   |"
+[//]: # "| `communication/*/optiondisplayitems_*` | `OPTION[x]:` | `x` will be an integer representing a question ID                 |"
+[//]: # "| `etcetra/list/nickname`                | `SPECIAL:`   |                                                                   |"
+[//]: # "| `list/random_name`                     | `NAME[x]:`   | `x` is the column (1-2 surname, 3-4 female given, 5-6 male given) |"
 
 
 
 ## Tools
 
-- [TranslationSync](https://github.com/IllusionMods/TranslationTools#translationsync) is a plugin for formatting and copy/pasting translations between files when there are duplicate entries.
-- Release Tool - Tool that cleans up the translation files to remove any unnecessary untranslated parts (in this repo).
+[//]: # "- [TranslationSync](https://github.com/IllusionMods/TranslationTools#translationsync) is a plugin for formatting and copy/pasting translations between files when there are duplicate entries."
+- [Release Tool](https://github.com/SpockBauru/TranslationTools_Illusion#releasetool) - Tool that cleans up the translation files to remove any unnecessary untranslated parts (in this repo).
 - [Yomichan](https://foosoft.net/projects/yomichan/) - This browser plugin allows you to see the definition of Japanese words by putting your mouse over them in the browser and pressing shift.
 - Dictionaries:
   - https://jisho.org/
