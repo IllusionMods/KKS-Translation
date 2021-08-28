@@ -83,18 +83,12 @@ Where "xxx" represents the number of the desired scope level. Below is a table c
 |------:|-------------------------|
 | -1    | Global                  |
 |  1    | Global Extended         |
-|  2    |                         |
 |  3    | Chara Maker             |
 |  4    | Main Menu               |
-|  5    |                         |
 |  6    | Main Game UI            |
-|  7    |                         |
 |  8    | H-Scenes Menus          |
 |  9    | H-Scenes Location       |
-| 10    |                         |
 | 11    | Free H Menu             |
-| 12    |                         |
-| 13    |                         |
 | 14    | ADV Dialogues           |
 | 15    | Chara Uploader          |
 | 16    | Chara Downloader        |
