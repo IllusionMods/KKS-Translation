@@ -150,7 +150,6 @@ Table with the localization of the translations for each part of the game:
 
 | ID | Name       | Eng Name           | Source                            |
 |:--:|:-----------|:-------------------|:----------------------------------|
-
 | 00 | セクシー系お姉さま  | Sexy               |                                   |
 | 01 | お嬢様        | Ojousama           |                                   |
 | 02 | タカビー       | Snobby             |                                   |
