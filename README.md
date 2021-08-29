@@ -151,45 +151,45 @@ Table with the localization of the translations for each part of the game:
 | ID | Name       | Eng Name           | Source                            |
 |:--:|:-----------|:-------------------|:----------------------------------|
 
-[//]: # "| 00 | セクシー系お姉さま  | Sexy               |                                   |"
-[//]: # "| 01 | お嬢様        | Ojousama           |                                   |"
-[//]: # "| 02 | タカビー       | Snobby             |                                   |"
-[//]: # "| 03 | 小悪魔っ子      | Kouhai             |                                   |"
-[//]: # "| 04 | ミステリアス     | Mysterious         |                                   |"
-[//]: # "| 05 | 電波         | Weirdo             |                                   |"
-[//]: # "| 06 | 大和撫子       | Yamamoto Nadeshiko |                                   |"
-[//]: # "| 07 | ボーイッシュ     | Tomboy             |                                   |"
-[//]: # "| 08 | 純粋無垢な子供    | Pure               |                                   |"
-[//]: # "| 09 | アホの子       | Simple             |                                   |"
-[//]: # "| 10 | 邪気眼        | Delusional         |                                   |"
-[//]: # "| 11 | 母性的お姉さん    | Motherly           |                                   |"
-[//]: # "| 12 | 姉御肌        | Big Sisterly       |                                   |"
-[//]: # "| 13 | コギャル       | Gyaru              |                                   |"
-[//]: # "| 14 | 不良少女       | Delinquent         |                                   |"
-[//]: # "| 15 | 野生的        | Wild               |                                   |"
-[//]: # "| 16 | 意識高いクールな女性 | Wannabe            |                                   |"
-[//]: # "| 17 | ひねくれ       | Reluctant          |                                   |"
-[//]: # "| 18 | 不幸少女       | Jinxed             |                                   |"
-[//]: # "| 19 | 文学少女       | Bookish            |                                   |"
-[//]: # "| 20 | モジモジ       | Timid              |                                   |"
-[//]: # "| 21 | 正統派ヒロイン    | Typical Schoolgirl |                                   |"
-[//]: # "| 22 | ミーハー       | Trendy             |                                   |"
-[//]: # "| 23 | オタク女子      | Otaku              |                                   |"
-[//]: # "| 24 | ヤンデレ       | Yandere            |                                   |"
-[//]: # "| 25 | ダル         | Lazy               |                                   |"
-[//]: # "| 26 | 無口         | Quiet              |                                   |"
-[//]: # "| 27 | 意地っ張り      | Stubborn           |                                   |"
-[//]: # "| 28 | ロリばばあ      | Old-Fashioned      |                                   |"
-[//]: # "| 29 | 素直クール      | Humble             |                                   |"
-[//]: # "| 30 | 気さく        | Friendly           | Free DLC                          |"
-[//]: # "| 31 | 勝ち気        | Willful            | Personality Expansion DLC (07/27) |"
-[//]: # "| 32 | 誠実         | Honest             | Personality Expansion DLC (07/27) |"
-[//]: # "| 33 | 艶やか        | Glamorous          | Personality Expansion DLC (07/27) |"
-[//]: # "| 34 | 帰国子女       | Returnee           | AfterSchool Expansion DLC (12/21) |"
-[//]: # "| 35 | 方言娘        | Slangy             | AfterSchool Expansion DLC (12/21) |"
-[//]: # "| 36 | Sッ気        | Sadistic           | AfterSchool Expansion DLC (12/21) |"
-[//]: # "| 37 | 無感情        | Emotionless        | AfterSchool Expansion DLC (12/21) |"
-[//]: # "| 38 | 几帳面        | Perfectionist      | Yoyaku Preorder Exclusive DLC     |"
+| 00 | セクシー系お姉さま  | Sexy               |                                   |
+| 01 | お嬢様        | Ojousama           |                                   |
+| 02 | タカビー       | Snobby             |                                   |
+| 03 | 小悪魔っ子      | Kouhai             |                                   |
+| 04 | ミステリアス     | Mysterious         |                                   |
+| 05 | 電波         | Weirdo             |                                   |
+| 06 | 大和撫子       | Yamamoto Nadeshiko |                                   |
+| 07 | ボーイッシュ     | Tomboy             |                                   |
+| 08 | 純粋無垢な子供    | Pure               |                                   |
+| 09 | アホの子       | Simple             |                                   |
+| 10 | 邪気眼        | Delusional         |                                   |
+| 11 | 母性的お姉さん    | Motherly           |                                   |
+| 12 | 姉御肌        | Big Sisterly       |                                   |
+| 13 | コギャル       | Gyaru              |                                   |
+| 14 | 不良少女       | Delinquent         |                                   |
+| 15 | 野生的        | Wild               |                                   |
+| 16 | 意識高いクールな女性 | Wannabe            |                                   |
+| 17 | ひねくれ       | Reluctant          |                                   |
+| 18 | 不幸少女       | Jinxed             |                                   |
+| 19 | 文学少女       | Bookish            |                                   |
+| 20 | モジモジ       | Timid              |                                   |
+| 21 | 正統派ヒロイン    | Typical Schoolgirl |                                   |
+| 22 | ミーハー       | Trendy             |                                   |
+| 23 | オタク女子      | Otaku              |                                   |
+| 24 | ヤンデレ       | Yandere            |                                   |
+| 25 | ダル         | Lazy               |                                   |
+| 26 | 無口         | Quiet              |                                   |
+| 27 | 意地っ張り      | Stubborn           |                                   |
+| 28 | ロリばばあ      | Old-Fashioned      |                                   |
+| 29 | 素直クール      | Humble             |                                   |
+| 30 | 気さく        | Friendly           |                                   |
+| 31 | 勝ち気        | Willful            |                                   |
+| 32 | 誠実         | Honest             |                                   |
+| 33 | 艶やか        | Glamorous          |                                   |
+| 34 | 帰国子女       | Returnee           |                                   |
+| 35 | 方言娘        | Slangy             |                                   |
+| 36 | Sッ気        | Sadistic           |                                   |
+| 37 | 無感情        | Emotionless        |                                   |
+| 38 | 几帳面        | Perfectionist      |                                   |
 
 ##### NPC Personalities
 
