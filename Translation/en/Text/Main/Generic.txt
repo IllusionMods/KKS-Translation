@@ -5,8 +5,10 @@
 //*******************************************************************
 //*******************************************************************
 
-// Scope of the file: Only applies to Koikatsu Sunshine main game
+// Scope of the file: Applies to all scenes with the generic 
+// "-1" and "1" Global level
 #set exe KoikatsuSunshine
+#set level -1,1
 
 //---------------------------------------------------------
 // Exit Box
