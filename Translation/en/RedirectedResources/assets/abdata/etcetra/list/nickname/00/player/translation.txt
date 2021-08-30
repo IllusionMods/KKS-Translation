@@ -7,7 +7,7 @@
 あきら=Akira
 あつし=Atsushi
 あゆむ=Ayumu
-//あっ○○=A-○○
+あっ○○=A-○○
 あき○○=Aki-○○
 いおり=Iori
 いくと=Ikuto

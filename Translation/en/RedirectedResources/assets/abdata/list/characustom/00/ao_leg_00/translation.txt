@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-チアガーターリボン（左）=Cheerleader Garter Ribbon (Left)
-チアガーターリボン（右）=Cheerleader Garter Ribbon (Right)
-フリルガーターリング（左）=Frilly Garter Ribbon (Left)
-フリルガーターリング（右）=Frilly Garter Ribbon (Right)
-プリティー注射ガーターリング（左）=Pretty Syringe Garter Ring (Left)
-プリティー注射ガーターリング（右）=Pretty Syringe Garter Ring (Right)
-メカフット（左）=Mecha Foot (Left)
-メカフット（右）=Mecha Foot (Right)
+チアガーターリボン（左）=Cheerleader Garter Ribbon (L)
+チアガーターリボン（右）=Cheerleader Garter Ribbon (R)
+フリルガーターリング（左）=Frilly Garter Ribbon (L)
+フリルガーターリング（右）=Frilly Garter Ribbon (R)
+プリティー注射ガーターリング（左）=Pretty Syringe Garter Ring (L)
+プリティー注射ガーターリング（右）=Pretty Syringe Garter Ring (R)
+メカフット（左）=Mecha Foot (L)
+メカフット（右）=Mecha Foot (R)
