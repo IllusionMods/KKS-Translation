@@ -1,0 +1,49 @@
+//*******************************************************************
+//*******************************************************************
+// Note: This file contains only UI elements for Chara Maker
+//       that need special handling based on resolution
+//*******************************************************************
+//*******************************************************************
+
+//Scope of the file: Only applies to the Chara Maker for Koikatsu Sunshine main game in resolutions >= 1080p
+
+#set required-resolution width > 1919
+#set exe KoikatsuSunshine
+#set level 3
+
+
+// these leave the circled number in place in higher resolutions
+
+//Face -> Iris
+r:^白目の色([①-⑨])$=Sclera Color $1
+//Typo from Older Versions
+r:^瞳の色([①-⑨])$=Eye Color $1
+
+//Hair -> Hair Accessory Options
+r:^髪飾りの色([①-⑨])$=Hair Accessory Color $1
+
+//Clothing -> Shared Options
+r:^服の色([①-⑨])$=Cloth Color $1
+r:^服の柄([①-⑨])$=Cloth Pattern $1
+r:^柄([①-⑨])の左右位置$=Pattern $1 Horizontal
+r:^柄([①-⑨])の上下位置$=Pattern $1 Vertical
+r:^柄([①-⑨])の回転$=Pattern $1 Rotation
+r:^柄([①-⑨])の大きさ\\(幅\\)$=Pattern $1 Width
+r:^柄([①-⑨])の大きさ\\(高さ\\)$=Pattern $1 Height
+r:^柄([①-⑨])の色$=Pattern Color $1
+//Clothing -> Misc. Options
+r:^オプション([①-⑨])を表示$=Show Option $1
+
+//Slot Menu Dialogue
+r:^カラー([①-⑨])$=Color $1
+
+//Slot Colors
+r:^スロット([０-９0-9]+) カラー([①-⑨])$=Slot $1 Color $2
+//Accessory Parent List
+r:^下腹部([①-⑨])$=Crotch $1
+r:^腹下([①-⑨])$=Crotch $1
+
+//Accessories -> Transfer Menu
+r:^調整([①-⑨])をコピー$=Copy Adjustment $1
+r:^調整([①-⑨])を左右反転コピー$=Flip Adjustment $1 Hor. On Copy
+r:^調整([①-⑨])を上下反転コピー$=Flip Adjustment $1 Ver. On Copy

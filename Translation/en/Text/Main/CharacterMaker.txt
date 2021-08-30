@@ -153,7 +153,7 @@ r:^下まぶたの形状([０-９0-9]+)$=Lower Eyelid Shape $1
 
 //Face -> Iris
 白目のグラデ種類=Sclera Type
-r:^白目の色([①-⑨])$=Sclera Color $1
+sr:^白目の色([①-⑨])$=Sclera Color $1
 ハイライト上の種類=Upper Highlight Type
 ハイライト上の色=Upper Highlight Color
 ハイライト下の種類=Lower Highlight Type
@@ -174,7 +174,7 @@ r:^白目の色([①-⑨])$=Sclera Color $1
 左目=Left Eye
 右目=Right Eye
 瞳の種類=Eye Type
-r:^瞳の色([①-⑨])$=Eye Color $1
+sr:^瞳の色([①-⑨])$=Eye Color $1
 瞳のグラデ種類=Eye Gradient Type
 瞳のグラデ合成方法=Eye Gradient Strength
 瞳のグラデ上下調整=Eye Gradient Vertical
@@ -365,7 +365,7 @@ r:^ボディーペイント([０-９0-9]+)の種類$=Body Paint $1 Selection
 ハイライトの色=Highlight Color
 
 //Hair -> Hair Accessory Options
-r:^髪飾りの色([①-⑨])$=Hair Accessory Color $1
+sr:^髪飾りの色([①-⑨])$=Hair Accessory Color $1
 髪飾りの色を初期に戻す=Set Accessory Color To Default
 
 //Hair -> Back Hair
@@ -422,17 +422,17 @@ r:^横髪の装飾の色([０-９0-9]+)$=Side Hair Accessory $1 Color
 柄の種類=Pattern Type
 胴の種類=Body Type
 襟の種類=Collar Type
-r:^服の色([①-⑨])$=Cloth Color $1
-r:^服の柄([①-⑨])$=Cloth Pattern $1
-r:^柄([①-⑨])の左右位置$=Pattern $1 Horizontal
-r:^柄([①-⑨])の上下位置$=Pattern $1 Vertical
-r:^柄([①-⑨])の回転$=Pattern $1 Rotation
-r:^柄([①-⑨])の大きさ\\(幅\\)$=Pattern $1 Width
-r:^柄([①-⑨])の大きさ\\(高さ\\)$=Pattern $1 Height
-r:^柄([①-⑨])の色$=Pattern Color $1
+sr:^服の色([①-⑨])$=Cloth Color $1
+sr:^服の柄([①-⑨])$=Cloth Pattern $1
+sr:^柄([①-⑨])の左右位置$=Pattern $1 Horizontal
+sr:^柄([①-⑨])の上下位置$=Pattern $1 Vertical
+sr:^柄([①-⑨])の回転$=Pattern $1 Rotation
+sr:^柄([①-⑨])の大きさ\\(幅\\)$=Pattern $1 Width
+sr:^柄([①-⑨])の大きさ\\(高さ\\)$=Pattern $1 Height
+sr:^柄([①-⑨])の色$=Pattern Color $1
 
 //Clothing -> Misc. Options
-r:^オプション([①-⑨])を表示$=Show Option $1
+sr:^オプション([①-⑨])を表示$=Show Option $1
 
 //Clothing -> Top Labels
 r:^トップスの色([０-９0-9]+)$=Top $1 Color
@@ -557,7 +557,7 @@ r:^スロット([０-９0-9]+)$=Slot $1
 親=Parent
 親を初期設定に戻す=Reset To Default Parent
 左右の親を入れ替え=Swap Sides
-r:^カラー([①-⑨])$=Color $1
+sr:^カラー([①-⑨])$=Color $1
 アクセサリの色を初期に戻す=Reset To Original Color
 r:^調整([０-９0-9]+)$=Adjustment $1
 クリックで編集します=Click To Edit
@@ -591,7 +591,7 @@ r:^スロット([０-９0-9]+)の親を選択$=Slot $1 Parent Selection
 r:^スロット([０-９0-9]+)の調整([０-９0-9]+)$=Slot $1 Adjustment $2
 
 //Slot Colors
-r:^スロット([０-９0-9]+) カラー([①-⑨])$=Slot $1 Color $2
+sr:^スロット([０-９0-9]+) カラー([①-⑨])$=Slot $1 Color $2
 
 
 //Accessory Parent List
@@ -657,8 +657,8 @@ r:^スロット([０-９0-9]+) カラー([①-⑨])$=Slot $1 Color $2
 右中指=R. Mid Finger
 右薬指=R. Ring Finger
 --------------------- 下腹部 ---------------------=-------------------- Crotch --------------------
-r:^下腹部([①-⑨])$=Crotch $1
-r:^腹下([①-⑨])$=Crotch $1
+sr:^下腹部([①-⑨])$=Crotch $1
+sr:^腹下([①-⑨])$=Crotch $1
 
 //Accessory Adjustments Box
 XYZの文字を左右ドラッグでも調整できます=You can also adjust X/Y/Z by dragging left or right.
@@ -678,9 +678,9 @@ r:^([０-９0-9]+\.[０-９0-9]+)$=$1
 コピー先を選択して下さい=Item Destination
 左右の親を切り替える=Swap Sides When Transfering
 スロットをコピー=Copy Slot
-r:^調整([①-⑨])をコピー$=Copy Adjustment $1
-r:^調整([①-⑨])を左右反転コピー$=Flip Adjustment $1 Hor. On Copy
-r:^調整([①-⑨])を上下反転コピー$=Flip Adjustment $1 Ver. On Copy
+sr:^調整([①-⑨])をコピー$=Copy Adjustment $1
+sr:^調整([①-⑨])を左右反転コピー$=Flip Adjustment $1 Hor. On Copy
+sr:^調整([①-⑨])を上下反転コピー$=Flip Adjustment $1 Ver. On Copy
 
 
 //-------------------------------------------------------------------
