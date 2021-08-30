@@ -35,9 +35,9 @@
 ※ 各項目の変形に関するものをまとめたものとなります。=※ You can adjust all option sliders at once in this list.
 
 //Used for both Facepaint as well as Body Paint
-sr:"^ペイント([０-９0-9]+)の種類$"=Paint $1 Type
-sr:"^ペイント([０-９0-9]+)の色$"=Paint $1 Color
-sr:"^ペイント([０-９0-9]+)回転$"=Paint $1 Rotation
+r:^ペイント([０-９0-9]+)の種類$=Paint $1 Type
+r:^ペイント([０-９0-9]+)の色$=Paint $1 Color
+r:^ペイント([０-９0-9]+)回転$=Paint $1 Rotation
 
 //-------------------------------------------------------------------
 // Color Picker Menu
@@ -330,18 +330,18 @@ r:^ペイント([０-９0-9]+)位置プリセット$=Paint $1 Position Presets
 //Body -> Body Paint
 //Paint 01 Type
 //Paint 01 Color
-sr:"^ペイント([０-９0-9]+)の配置$"=Paint $1 Position
-sr:"^ペイント([０-９0-9]+)左右補正$"=Paint $1 Horizontal
-sr:"^ペイント([０-９0-9]+)上下補正$"=Paint $1 Vertical
-sr:"^ペイント([０-９0-9]+)サイズ補正$"=Paint $1 Size
+r:^ペイント([０-９0-9]+)の配置$=Paint $1 Position
+r:^ペイント([０-９0-9]+)左右補正$=Paint $1 Horizontal
+r:^ペイント([０-９0-9]+)上下補正$=Paint $1 Vertical
+r:^ペイント([０-９0-9]+)サイズ補正$=Paint $1 Size
 //Paint 01 Rotation
 //Paint 02 Type
 //Paint 02 Color
 //Paint 02 Rotation
 
 //Body -> Body Paint -> Body Paint Misc. Labels
-sr:"^ボディーペイント([０-９0-9]+)の配置$"=Body Paint $1 Position
-sr:"^ボディーペイント([０-９0-9]+)の種類$"=Body Paint $1 Selection
+r:^ボディーペイント([０-９0-9]+)の配置$=Body Paint $1 Position
+r:^ボディーペイント([０-９0-9]+)の種類$=Body Paint $1 Selection
 
 //-------------------------------------------------------------------
 // Hair Menu
@@ -365,7 +365,7 @@ sr:"^ボディーペイント([０-９0-9]+)の種類$"=Body Paint $1 Selection
 ハイライトの色=Highlight Color
 
 //Hair -> Hair Accessory Options
-sr:"^髪飾りの色([①-⑨])$"=Hair Accessory Color $1
+r:^髪飾りの色([①-⑨])$=Hair Accessory Color $1
 髪飾りの色を初期に戻す=Set Accessory Color To Default
 
 //Hair -> Back Hair
@@ -374,7 +374,7 @@ sr:"^髪飾りの色([①-⑨])$"=Hair Accessory Color $1
 後ろ髪の根本の色=Back Hair Root Color
 後ろ髪の毛先の色=Back Hair Tip Color
 後ろ髪のアウトラインの色=Back Hair Outline Color
-sr:"^後ろ髪の装飾の色([０-９0-9]+)$"=Back Hair Accessory $1 Color
+r:^後ろ髪の装飾の色([０-９0-9]+)$=Back Hair Accessory $1 Color
 後ろ髪のハイライトの色=Back Hair Highlight Color
 
 //Hair -> Front Hair
@@ -384,7 +384,7 @@ sr:"^後ろ髪の装飾の色([０-９0-9]+)$"=Back Hair Accessory $1 Color
 前髪の根本の色=Front Hair Root Color
 前髪の毛先の色=Front Hair Tip Color
 前髪のアウトラインの色=Front Hair Outline Color
-sr:"^前髪の装飾の色([０-９0-9]+)$"=Front Hair Accessory $1 Color
+r:^前髪の装飾の色([０-９0-9]+)$=Front Hair Accessory $1 Color
 
 //Hair -> Side Hair
 横髪の種類=Side Hair Type
@@ -392,7 +392,7 @@ sr:"^前髪の装飾の色([０-９0-9]+)$"=Front Hair Accessory $1 Color
 横髪の根本の色=Side Hair Root Color
 横髪の毛先の色=Side Hair Tip Color
 横髪のアウトラインの色=Side Hair Outline Color
-sr:"^横髪の装飾の色([０-９0-9]+)$"=Side Hair Accessory $1 Color
+r:^横髪の装飾の色([０-９0-9]+)$=Side Hair Accessory $1 Color
 
 //Hair -> Extensions
 エクステの種類=Extension Type
@@ -422,55 +422,55 @@ sr:"^横髪の装飾の色([０-９0-9]+)$"=Side Hair Accessory $1 Color
 柄の種類=Pattern Type
 胴の種類=Body Type
 襟の種類=Collar Type
-sr:"^服の色([①-⑨])$"=Cloth Color $1
-sr:"^服の柄([①-⑨])$"=Cloth Pattern $1
-sr:"^柄([①-⑨])の左右位置$"=Pattern $1 Horizontal
-sr:"^柄([①-⑨])の上下位置$"=Pattern $1 Vertical
-sr:"^柄([①-⑨])の回転$"=Pattern $1 Rotation
-sr:"^柄([①-⑨])の大きさ\\(幅\\)$"=Pattern $1 Width
-sr:"^柄([①-⑨])の大きさ\\(高さ\\)$"=Pattern $1 Height
-sr:"^柄([①-⑨])の色$"=Pattern Color $1
+r:^服の色([①-⑨])$=Cloth Color $1
+r:^服の柄([①-⑨])$=Cloth Pattern $1
+r:^柄([①-⑨])の左右位置$=Pattern $1 Horizontal
+r:^柄([①-⑨])の上下位置$=Pattern $1 Vertical
+r:^柄([①-⑨])の回転$=Pattern $1 Rotation
+r:^柄([①-⑨])の大きさ\\(幅\\)$=Pattern $1 Width
+r:^柄([①-⑨])の大きさ\\(高さ\\)$=Pattern $1 Height
+r:^柄([①-⑨])の色$=Pattern Color $1
 
 //Clothing -> Misc. Options
-sr:"^オプション([①-⑨])を表示$"=Show Option $1
+r:^オプション([①-⑨])を表示$=Show Option $1
 
 //Clothing -> Top Labels
-sr:"^トップスの色([０-９0-9]+)$"=Top $1 Color
-sr:"^トップス柄の色([０-９0-9]+)$"=Top Pattern $1 Color
+r:^トップスの色([０-９0-9]+)$=Top $1 Color
+r:^トップス柄の色([０-９0-9]+)$=Top Pattern $1 Color
 
 //Clothing -> Bottom Labels
-sr:"^ボトムスの色([０-９0-9]+)$"=Bottom $1 Color
-sr:"^ボトムス柄の色([０-９0-9]+)$"=Bottom Pattern $1 Color
+r:^ボトムスの色([０-９0-9]+)$=Bottom $1 Color
+r:^ボトムス柄の色([０-９0-9]+)$=Bottom Pattern $1 Color
 
 //Clothing -> Bra Labels
-sr:"^インナー\(上\)の色([０-９0-9]+)$"=Bra $1 Color
-sr:"^インナー上の色([０-９0-9]+)$"=Bra $1 Color
-sr:"^インナー\(上\)柄の色([０-９0-9]+)$"=Bra Pattern $1 Color
-sr:"^インナー上柄の色([０-９0-9]+)$"=Bra Pattern $1 Color
+r:^インナー\(上\)の色([０-９0-9]+)$=Bra $1 Color
+r:^インナー上の色([０-９0-9]+)$=Bra $1 Color
+r:^インナー\(上\)柄の色([０-９0-9]+)$=Bra Pattern $1 Color
+r:^インナー上柄の色([０-９0-9]+)$=Bra Pattern $1 Color
 
 //Clothing -> Underwear Labels
-sr:"^インナー\(下\)の色([０-９0-9]+)$"=Underwear $1 Color
-sr:"^インナー下の色([０-９0-9]+)$"=Underwear $1 Color
-sr:"^インナー\(下\)柄の色([０-９0-9]+)$"=Underwear Pattern $1 Color
-sr:"^インナー下柄の色([０-９0-9]+)$"=Underwear Pattern $1 Color
+r:^インナー\(下\)の色([０-９0-9]+)$=Underwear $1 Color
+r:^インナー下の色([０-９0-9]+)$=Underwear $1 Color
+r:^インナー\(下\)柄の色([０-９0-9]+)$=Underwear Pattern $1 Color
+r:^インナー下柄の色([０-９0-9]+)$=Underwear Pattern $1 Color
 
 //Clothing -> Glove Labels
-sr:"^手袋の色([０-９0-9]+)$"=Glove $1 Color
-sr:"^手袋柄の色([０-９0-9]+)$"=Glove Pattern $1 Color
+r:^手袋の色([０-９0-9]+)$=Glove $1 Color
+r:^手袋柄の色([０-９0-9]+)$=Glove Pattern $1 Color
 
 //Clothing -> Pantyhose Labels
-sr:"^パンストの色([０-９0-9]+)$"=Pantyhose $1 Color
-sr:"^パンスト柄の色([０-９0-9]+)$"=Pantyhose Pattern $1 Color
+r:^パンストの色([０-９0-9]+)$=Pantyhose $1 Color
+r:^パンスト柄の色([０-９0-9]+)$=Pantyhose Pattern $1 Color
 
 //Clothing -> Legwear Labels
-sr:"^靴下の色([０-９0-9]+)$"=Legwear $1 Color
-sr:"^靴下柄の色([０-９0-9]+)$"=Legwear Pattern $1 Color
+r:^靴下の色([０-９0-9]+)$=Legwear $1 Color
+r:^靴下柄の色([０-９0-9]+)$=Legwear Pattern $1 Color
 
 //Clothing -> Shoe Labels
-sr:"^内履きの色([０-９0-9]+)$"=Shoes $1 Color
-sr:"^内履き柄の色([０-９0-9]+)$"=Shoes Pattern $1 Color
-sr:"^外履きの色([０-９0-9]+)$"=Shoes $1 Color
-sr:"^外履き柄の色([０-９0-9]+)$"=Shoes Pattern $1 Color
+r:^内履きの色([０-９0-9]+)$=Shoes $1 Color
+r:^内履き柄の色([０-９0-9]+)$=Shoes Pattern $1 Color
+r:^外履きの色([０-９0-9]+)$=Shoes $1 Color
+r:^外履き柄の色([０-９0-9]+)$=Shoes Pattern $1 Color
 
 //Clothing -> Tops
 トップスを初期の状態に戻す=Restore Default Top Settings
@@ -485,7 +485,7 @@ sr:"^外履き柄の色([０-９0-9]+)$"=Shoes Pattern $1 Color
 装飾の柄の色=Decoration Pattern Color
 //Without Emotion Creators Preorder Bonus
 エンブレムの種類=Emblem Type
-sr:"^エンブレム([０-９0-9]+)の種類$"=Emblem $1 Type
+r:^エンブレム([０-９0-9]+)の種類$=Emblem $1 Type
 袖の種類=Sleeve Type
 
 //Cosmetic Hackery...
@@ -540,7 +540,7 @@ r:"^パーツ([A-Z])$"=Part $1
 タイプ=Type
 
 //Slot Lists
-sr:"^スロット([０-９0-9]+)$"=Slot $1
+r:^スロット([０-９0-9]+)$=Slot $1
 入れ替え=Transfer
 
 //Slot Type Labels
@@ -557,9 +557,9 @@ sr:"^スロット([０-９0-9]+)$"=Slot $1
 親=Parent
 親を初期設定に戻す=Reset To Default Parent
 左右の親を入れ替え=Swap Sides
-sr:"^カラー([①-⑨])$"=Color $1
+r:^カラー([①-⑨])$=Color $1
 アクセサリの色を初期に戻す=Reset To Original Color
-sr:"^調整([０-９0-9]+)$"=Adjustment $1
+r:^調整([０-９0-9]+)$=Adjustment $1
 クリックで編集します=Click To Edit
 操作軸を表示する=Show Control Axis
 //(                                )= \(                         \)
@@ -587,11 +587,11 @@ sr:"^調整([０-９0-9]+)$"=Adjustment $1
 アクセサリ（股間）の種類=Accessory (Crotch) Type
 
 //Slot Adjustment
-sr:"^スロット([０-９0-9]+)の親を選択$"=Slot $1 Parent Selection
-sr:"^スロット([０-９0-9]+)の調整([０-９0-9]+)$"=Slot $1 Adjustment $2
+r:^スロット([０-９0-9]+)の親を選択$=Slot $1 Parent Selection
+r:^スロット([０-９0-9]+)の調整([０-９0-9]+)$=Slot $1 Adjustment $2
 
 //Slot Colors
-sr:"^スロット([０-９0-9]+) カラー([①-⑨])$"=Slot $1 Color $2
+r:^スロット([０-９0-9]+) カラー([①-⑨])$=Slot $1 Color $2
 
 
 //Accessory Parent List
@@ -657,8 +657,8 @@ sr:"^スロット([０-９0-9]+) カラー([①-⑨])$"=Slot $1 Color $2
 右中指=R. Mid Finger
 右薬指=R. Ring Finger
 --------------------- 下腹部 ---------------------=-------------------- Crotch --------------------
-sr:"^下腹部([①-⑨])$"=Crotch $1
-sr:"^腹下([①-⑨])$"=Crotch $1
+r:^下腹部([①-⑨])$=Crotch $1
+r:^腹下([①-⑨])$=Crotch $1
 
 //Accessory Adjustments Box
 XYZの文字を左右ドラッグでも調整できます=You can also adjust X/Y/Z by dragging left or right.
@@ -671,16 +671,16 @@ r:"^拡縮 ([Ａ-Ｚ])$"=$1 Scale
 値をコピー=Copy Value
 値を貼り付け=Paste Value
 全てリセット=Reset All
-sr:"^([０-９0-9]+\.[０-９0-9]+)$"=$1
+r:^([０-９0-9]+\.[０-９0-9]+)$=$1
 
 //Accessories -> Transfer Menu
 コピー元を選択して下さい=Item Source
 コピー先を選択して下さい=Item Destination
 左右の親を切り替える=Swap Sides When Transfering
 スロットをコピー=Copy Slot
-sr:"^調整([①-⑨])をコピー$"=Copy Adjustment $1
-sr:"^調整([①-⑨])を左右反転コピー$"=Flip Adjustment $1 Hor. On Copy
-sr:"^調整([①-⑨])を上下反転コピー$"=Flip Adjustment $1 Ver. On Copy
+r:^調整([①-⑨])をコピー$=Copy Adjustment $1
+r:^調整([①-⑨])を左右反転コピー$=Flip Adjustment $1 Hor. On Copy
+r:^調整([①-⑨])を上下反転コピー$=Flip Adjustment $1 Ver. On Copy
 
 
 //-------------------------------------------------------------------
@@ -899,7 +899,7 @@ BGMの音量=BGM Volume
 //Right Sidebar -> Hand Patterns
 左手のパターン=Left Hand Pattern
 右手のパターン=Right Hand Pattern
-sr:"^パターン([０-９0-9]+)$"=Pattern $1
+r:^パターン([０-９0-9]+)$=Pattern $1
 
 //Right Sidebar -> Light Direction Options
 ライトの向き調整=Light Direction
