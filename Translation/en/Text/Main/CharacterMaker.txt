@@ -217,12 +217,12 @@ sr:"^瞳の色([①-⑨])$"=Eye Color $1
 チークの色=Cheek Color
 リップの種類=Lip Type
 リップの色=Lip Color
-sr:"^フェイスペイント([０-９0-9]+)の種類$"=Facepaint $1 Type
-sr:"^フェイスペイント([０-９0-9]+)配置$"=Facepaint $1 Position
-sr:"^ペイント([０-９0-9]+)左右位置$"=Paint $1 Horizontal
-sr:"^ペイント([０-９0-9]+)上下位置$"=Paint $1 Vertical
-sr:"^ペイント([０-９0-9]+)大きさ$"=Paint $1 Size
-sr:"^ペイント([０-９0-9]+)位置プリセット$"=Paint $1 Position Presets
+r:^フェイスペイント([０-９0-9]+)の種類$=Facepaint $1 Type
+r:^フェイスペイント([０-９0-9]+)配置$=Facepaint $1 Position
+r:^ペイント([０-９0-9]+)左右位置$=Paint $1 Horizontal
+r:^ペイント([０-９0-9]+)上下位置$=Paint $1 Vertical
+r:^ペイント([０-９0-9]+)大きさ$=Paint $1 Size
+r:^ペイント([０-９0-9]+)位置プリセット$=Paint $1 Position Presets
 
 //Face -> Sliders
 顔全体の横幅=Face Width
