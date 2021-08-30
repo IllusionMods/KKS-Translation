@@ -7,10 +7,10 @@
 深いくっきり影=Deep, Sharp Shadows
 境界線のある影=Boundary Line Shadows
 完全なめらか影=Perfect, Smooth Shadows
-//重ね標準影=
-//重ねなめらか影=
-//重ねなだらか影=
-//重ね環境影=
-//重ね変則影=
-//重ねくっきり影=
+重ね標準影=Overlap Shadows, Standard
+重ねなめらか影=Overlap Shadows, Smooth
+重ねなだらか影=Overlap Shadows, Gentle
+重ね環境影=Overlap Shadows, Environment
+重ね変則影=Overlap Shadows, Irregular
+重ねくっきり影=Overlap Shadows, Sharp
 影なし=No Shadows

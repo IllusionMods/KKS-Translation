@@ -37,5 +37,5 @@
 オーバル腕時計=Oval Wristwatch
 和風制服の袖（右）=Japanese-Style Uniform Sleeve (Right)
 和風制服の袖（左）=Japanese-Style Uniform Sleeve (Left)
-//海雫のブレスレット=
-//ボストンバッグ=
+海雫のブレスレット=Sea Drop Bracelet
+ボストンバッグ=Boston Bag

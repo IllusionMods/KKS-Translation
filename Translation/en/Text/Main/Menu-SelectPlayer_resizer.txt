@@ -1,0 +1,24 @@
+//*******************************************************************
+//*******************************************************************
+// Note: Text sizes and other alignment config for texts in Free-H
+//       Menu. Don't change if you don't know what are you doing
+// More info in: https://github.com/bbepis/XUnity.AutoTranslator#ui-font-resizing
+//*******************************************************************
+//*******************************************************************
+
+//Scope of the file: Only applies to the Player Select Menu
+//                   for Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+//#set level 14
+
+//Nickname
+EntryPlayer(Clone)/Canvas/selectionBG/Information/Names/NickName/Title=ChangeFontSizeByPercentage(0.95)
+
+//Change Nickname button
+EntryPlayer(Clone)/Canvas/selectionBG/Information/Names/NickName/CallButtonLayout=ChangeFontSizeByPercentage(0.8)
+
+//Nickname called 
+EntryPlayer(Clone)/NickNameSettingScene/Canvas/BG2/Info/CallIcons=ChangeFontSizeByPercentage(0.9)
+
+//Little tabs at the top (NOT WORKING!!!!)
+EntryPlayer(Clone)/NickNameSettingScene/Canvas/50SoundsInitialButtons=ChangeFontSizeByPercentage(0.5)
