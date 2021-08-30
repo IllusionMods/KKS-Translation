@@ -35,8 +35,8 @@
 三角巾=Bandanna
 プリティーナースキャップ=Pretty Nurse Cap
 魔法の帽子=Magical Hat
-猫耳（右）=Cat Ear (Right)
-猫耳（左）=Cat Ear (Left)
+猫耳（右）=Cat Ear (R)
+猫耳（左）=Cat Ear (L)
 鈴付きリボン=Ribbon and Bell
 将校の帽子=Commissioned Officer Hat
 メイドヘアバンド=Maid Hairband
