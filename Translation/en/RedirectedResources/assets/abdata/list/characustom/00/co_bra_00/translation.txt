@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-なし=None
+なし=Nothing
 リボンブラ=Ribbon Bra
 レーストップブラ=Lace Top Bra
 三角ブラ=Triangle Bra
@@ -30,13 +30,13 @@
 ハートリボンブラ=Heart Ribbon Bra
 フラワーレースブラ=Flower Lace Bra
 マイクロビキニ=Micro Bikini
-//スカートワンピース=
-//フリルバンドゥ=
-//フリルビキニ=
-//斜めフリルビキニ（上）=
-//結びビキニ=
-//サークルバンドゥ=
-//Yフロントビキニ=
-//新スクール水着=
-//ハイネックビキニ=
-//ショルダーリボンビキニ=
+スカートワンピース=One-Piece Dress
+フリルバンドゥ=Frilly Bands
+フリルビキニ=Frilly Bikini
+斜めフリルビキニ（上）=Slanted Frilled Bikini (Top)
+結びビキニ=Knotted Bikini
+サークルバンドゥ=Circle Band
+Yフロントビキニ=Y-Fronted Bikini
+新スクール水着=New-Style School Swimsuit
+ハイネックビキニ=High-Neck Bikini
+ショルダーリボンビキニ=Shoulder-Ribboned Bikini
