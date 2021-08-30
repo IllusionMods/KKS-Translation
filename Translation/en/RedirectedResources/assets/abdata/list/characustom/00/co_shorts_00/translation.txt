@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-なし=None
+なし=Nothing
 リボンショーツ=Ribbon Panties
 レーストップショーツ=Lace Topped Panties
 ハイレッグショーツ=Hi-Leg Panties
@@ -21,12 +21,12 @@
 ハートリボンショーツ=Heart Ribbon Panties
 フラワーレースショーツ=Flower Lace Panties
 マイクロビキニ=Micro Bikini
-//フリルセパレート（下）=
-//レイヤードビキニ=
-//フリルビキニ=
-//斜めフリルビキニ（下）=
-//結びビキニ=
-//ローライズビキニ=
-//ソフトTバック=
-//サイドストリングビキニ=
-//リボンビキニ=
+フリルセパレート（下）=Separate Frills (Lower)
+レイヤードビキニ=Layered Bikini
+フリルビキニ=Frilly Bikini
+斜めフリルビキニ（下）=Slanted Frilly Bikini (Bottom)
+結びビキニ=Knotted Bikini
+ローライズビキニ=Low-Rise Bikini
+ソフトTバック=Soft T-Back
+サイドストリングビキニ=Side-String Bikini
+リボンビキニ=Ribbon Bikini
