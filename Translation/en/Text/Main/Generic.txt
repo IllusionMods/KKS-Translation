@@ -1,0 +1,92 @@
+//*******************************************************************
+//*******************************************************************
+// Note: Generic texts that appear all accross the game or have the
+//       generic scope levels -1 or 1
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Only applies to Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+
+//---------------------------------------------------------
+// Exit Box
+//---------------------------------------------------------
+終了確認=Exit Confirmation
+ゲームを終了しますか？=Quit The Game?
+はい=Yes
+いいえ=No
+やめる=Stop
+
+//---------------------------------------------------------
+// Back to Main Menu Box
+//---------------------------------------------------------
+タイトルへの切替確認=Confirm Return to Main Menu
+タイトルへ戻りますか？=Back to the Main Menu?
+
+//---------------------------------------------------------
+// Converting card menu
+//---------------------------------------------------------
+「コイカツ」のデータを「コイカツサンシャイン」のデータに変換します。=Converting "Koikatsu" cards to "Koikatsu Sunshine" cards.
+※ ファイル数が多いと時間がかかる可能性があります。=※ It may take some time if the number of files is large.
+※ インストールフォルダ/UserData/chara/ に入っていた以前のデータは/UserData/chara/old/ に移動します。=※ The previous data in the folder /UserData/chara/ will be moved to /UserData/chara/old/.
+何かキーを押して下さい=Press any key.
+
+//---------------------------------------------------------
+// Load menu
+//---------------------------------------------------------
+ロードする=Load
+※ロードするデータを選択▼=※Select the file to load▼
+
+//Load box
+ロード確認=Load Confirmation
+以下のデータをロードします。=Load the following file:
+※セーブされていないデータは破棄されます※=※ Data not saved will be discarded *
+
+//Delete box:
+削除確認=Delete Confirmation
+以下のデータを削除しますか？=Do you want to delete the following file?
+※削除したデータは復帰しません※=※ Deleted files cannot be restored. ※
+削除する=Delete
+
+//---------------------------------------------------------
+// Save menu
+//---------------------------------------------------------
+セーブする=Save
+※セーブするデータを選択▼=※Select the file to save▼
+
+//Save Box
+セーブ確認=Save Confirmateion
+データをセーブします。=Save file.
+▼※以下のデータに上書きしますか※▼=▼ Do you want to overwrite the following file? ▼
+
+
+//---------------------------------------------------------
+// Album menu
+//---------------------------------------------------------
+●アルバム●=● Album ●
+ページ=Page
+
+//---------------------------------------------------------
+// Game Right Menu
+//---------------------------------------------------------
+撮影モード=1st Person
+
+//---------------------------------------------------------
+// Character List, load in various places
+//---------------------------------------------------------
+キャラ一覧\n=Character List\n
+日付=Date
+目的=Purpose
+性格=Personality
+
+バカンス=Vacation
+知的好奇心=Curiosity
+アウトドア=Activities
+ランダム=Random
+キャンセル=Cancel
+
+//---------------------------------------------------------
+// Unsorted: Things that I don't know where they came from
+//---------------------------------------------------------
+確認=Confirmation
+メモを記入できます=You can write the notes.

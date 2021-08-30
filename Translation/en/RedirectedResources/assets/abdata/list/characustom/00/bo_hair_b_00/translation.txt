@@ -70,11 +70,11 @@
 ふわセミロング=Fluffy, Shoulder Length
 つんはねショート=Short, Upswept Spikes
 ローツインテール=Narrow Twintails
-//ナチュラルウェーブロング=
-//切りそろえアシンメトリ=
-//後ろ結わえ=
-//くせセミロング=
+ナチュラルウェーブロング=Natural Wavy Long
+切りそろえアシンメトリ=Asymmetric Bob
+後ろ結わえ=Braided Tied Back
+くせセミロング=Curly Semi-Long
 //編みツインテール=
-//ボリュームサイドテール(左)=
-//ボリュームサイドテール(右)=
+ボリュームサイドテール(左)=Voluminous Side-Tail (Left)
+ボリュームサイドテール(右)=Voluminous Side-Tail (right)
 //くせっ毛ミディアム=
