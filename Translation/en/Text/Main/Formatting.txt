@@ -1,14 +1,21 @@
 //*******************************************************************
 //*******************************************************************
 // Note: This file contains only UI related regexes
+// 
+// DO NOT use regular "quotes" in regexes, 
+//    they breaks things, so use these “quotes”
 //*******************************************************************
 //*******************************************************************
 
 //Scope of the file: Only applies to the main game
 #set exe KoikatsuSunshine
+// TBD: figure out scope levels for each regex to minimize usage
 
-// TBD: figure out scope levels
-sr:^『([\S\s]+)』$='"$1"'
-sr:^話題(?<color_open_i><color[^>]+>)『(?<topic_name>[^』]+)』</color>を入手した。$=Topic ${color_open_i}"${topic_name}"</color> obtained.
+sr:^『([\S\s]+)』$=“$1”
+
 r:^本日残り(\d+)回$=$1 remaining today
 r:^残り(\d+)個$=$1 remaining
+
+#set scope level 6
+sr:^話題\s*(?<color_open>[<]color[^>]+[>])\s*『(?<topic_name>[^』]+)』\s*(?<color_close>[<]\/color[>])\s*を入手した。$=Topic ${color_open}“${topic_name}”${color_close} obtained.
+#unset scope level 6
