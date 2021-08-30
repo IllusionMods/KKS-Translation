@@ -5,5 +5,5 @@
 ハッピB=Happi B
 ハッピA(男)=Happi A (Male)
 ハッピB(男)=Happi B (Male)
-ミニ丈浴衣=Miniskirted Yukata
+ミニ丈浴衣=Short Yukata
 浴衣=Yukata
