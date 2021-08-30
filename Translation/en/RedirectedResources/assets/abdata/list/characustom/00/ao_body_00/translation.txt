@@ -13,6 +13,6 @@
 天使の翼右用=Right Angel Wing
 ギターケース=Guitar Case
 アーマープレート=Armor Plate
-ボディバッグ（左）=Cross Fanny Pack (Left)
-ボディバッグ（右）=Cross Fanny Pack (Right)
-レザーバッグ=Leather Backpack
+ボディバッグ（左）=Body Strap Bag (Left)
+ボディバッグ（右）=Body Strap Bag (Right)
+レザーバッグ=Leather Bag

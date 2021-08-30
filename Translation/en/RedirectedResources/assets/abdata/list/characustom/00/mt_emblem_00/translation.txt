@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-なし=None
+なし=Nothing
 赤と青=Red And Blue
-//C=
-//H=
+C=Letter "C"
+H=Letter "H"
 年数Ⅰ=Year Ⅰ
 年数Ⅱ=Year Ⅱ
 年数Ⅲ=Year Ⅲ
@@ -29,8 +29,8 @@
 桔梗の紋(黒)=Kikyou Crest (Black)
 三つ巴(白)=Tomoe Triplet (White)
 三つ巴(黒)=Tomoe Triplet (Black)
-//CAUTION=
-//DANGER=
+CAUTION=CAUTION
+DANGER=DANGER
 背番号00=Jersey Number 00
 背番号01=Jersey Number 01
 背番号02=Jersey Number 02
@@ -53,4 +53,4 @@
 背番号19=Jersey Number 19
 背番号20=Jersey Number 20
 一角獣=Unicorn
-//風獅子=
+風獅子=Wind Lion

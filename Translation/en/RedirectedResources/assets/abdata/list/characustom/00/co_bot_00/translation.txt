@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-なし=None
+なし=Nothing
 ブルマ=Bloomers
 ショートジャージ=Short Jersey Shorts
 ハーフジャージ=Long Jersey Shorts
@@ -58,18 +58,18 @@ CAタイトスカート=Cabin Attendant Tight Skirt
 プリーツスカートD=Pleated Skirt D
 クラシカルメイドスカートA=Classical Maid Skirt A
 クラシカルメイドスカートB=Classical Maid Skirt B
-ファータイトスカート=Fur Tight Skirt
+ファータイトスカート=Furry Tight Skirt
 シャカパン=Nylon Track Pants
-フリンジスカート=Fringe Skirt
-フリルスイムボトム=Flared Swim Bottom
-フリルミニスカート=Ruffle Mini-Skirt
+フリンジスカート=Fringed Skirt
+フリルスイムボトム=Frilly Swimming Skirt
+フリルミニスカート=Frilly Miniskirt
 ロングパレオ=Long Pareo
-腰巻コーデ&デニムパンツ=Waistcoat & Denim Pants
-リボンキュロット=Ribbon Pleated Skirt
+腰巻コーデ&デニムパンツ=Wrapped Shirt & Denim Shorts
+リボンキュロット=Ribbon Culottes
 ハイウエストパンツ=High-Waisted Shorts
-ベルトスカート=Belt Pleated Skirt
-七分丈パンツ=Cropped Pants
-フレアショートパンツ=Flared Shorts
-パンクボトムス=Punk Bottom
-ダークレーススカート=Gothic Lace Skirt
-つなぎ=All in One Denim
+ベルトスカート=Belted Skirt
+七分丈パンツ=Shin-Length Pants
+フレアショートパンツ=Flare Shorts
+パンクボトムス=Punk Bottoms
+ダークレーススカート=Dark Lace Skirt
+つなぎ=Waist-Tied Bodysuit

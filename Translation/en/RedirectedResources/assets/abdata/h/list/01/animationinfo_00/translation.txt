@@ -8,7 +8,7 @@
 椅子バック愛撫=Caress (chair)
 机バック愛撫=Caress (desk)
 壁バック愛撫=Caress (wall)
-//座り愛撫=
+座り愛撫=Sitting Caress
 机しゃがみ愛撫=Desk Squatting
 本棚愛撫=Bookshelf Caress
 いたずら愛撫=Mischievous Caress

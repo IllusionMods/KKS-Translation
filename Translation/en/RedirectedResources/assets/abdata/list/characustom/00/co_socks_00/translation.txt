@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-なし=None
+なし=Nothing
 ハイソックス=High Socks
 色分けハイソックス=Colored Cuff High Socks
 ルーズソックス=Loose Socks
@@ -17,7 +17,7 @@
 フリルニーソックス=Frilly Kneesocks
 クルーソックス（折り返し）=Crew Socks (Cuffed)
 レッグウォーマー=Leg Warmers
-//アミニーソックス=
+アミニーソックス=Netted Kneesocks
 魔法のニーソックス=Magical Kneesocks
 巫女ニーソックス=Shrine Maiden Kneesocks
 メカソックス=Mecha Socks

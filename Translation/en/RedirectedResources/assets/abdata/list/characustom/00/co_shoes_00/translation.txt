@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-なし=None
+なし=Nothing
 ローファー=Loafers
 上履き=Uwabaki
 運動靴=Sneakers
@@ -21,7 +21,7 @@
 草履=Zori
 ハイカットスニーカー=High-Cut Sneakers
 ダンスシューズ=Dance Shoes
-//プリティーナースシューズ=
+プリティーナースシューズ=Pretty Nurse Shoes
 魔法のブーツ=Magical Boots
 将校のブーツ=Commissioned Officer Boots
 ラウンドパンプス=Round Pumps
@@ -46,8 +46,8 @@ CAシューズ=Cabin Attendant Shoes
 メイドシューズ=Maid Shoes
 チャイナシューズ=China Shoes
 ストラップサンダル=Strap Sandals
-//スリッパ=
+スリッパ=Slippers
 パンクシューズ=Punk Shoes
-//レースアップシューズ=
-//ウィングチップサンダル=
-//グランリボンパンプス=
+レースアップシューズ=Lace-up Shoes
+ウィングチップサンダル=Wingtip Sandals
+グランリボンパンプス=Grand Ribbon Pumps

@@ -5,7 +5,7 @@
 チアガーターリボン（右）=Cheerleader Garter Ribbon (Right)
 フリルガーターリング（左）=Frilly Garter Ribbon (Left)
 フリルガーターリング（右）=Frilly Garter Ribbon (Right)
-//プリティー注射ガーターリング（左）=
-//プリティー注射ガーターリング（右）=
+プリティー注射ガーターリング（左）=Pretty Syringe Garter Ring (Left)
+プリティー注射ガーターリング（右）=Pretty Syringe Garter Ring (Right)
 メカフット（左）=Mecha Foot (Left)
 メカフット（右）=Mecha Foot (Right)

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-妖精の羽左用=Fairy Wing Left
-妖精の羽右用=Fairy Wing Right
-光蝶=Butterflies
+妖精の羽左用=Left Fairy Wing
+妖精の羽右用=Right Fairy Wing
+光蝶=Glowing Butterflies
