@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-なし=None
+なし=Nothing
 パンストA=Pantyhose A
 パンストB=Pantyhose B
 厚手パンストA=Thick Pantyhose A
@@ -17,5 +17,5 @@
 膝サポーター=Kneepads
 ロングスパッツ=Long Spats
 ガードル=Girdle
-//プリティーガーター=
+プリティーガーター=Pretty Garters
 シンプルガーター=Simple Garters
