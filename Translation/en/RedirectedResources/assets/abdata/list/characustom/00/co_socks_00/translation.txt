@@ -17,7 +17,7 @@
 フリルニーソックス=Frilly Kneesocks
 クルーソックス（折り返し）=Crew Socks (Cuffed)
 レッグウォーマー=Leg Warmers
-//アミニーソックス=
+アミニーソックス=Netted Kneesocks
 魔法のニーソックス=Magical Kneesocks
 巫女ニーソックス=Shrine Maiden Kneesocks
 メカソックス=Mecha Socks
