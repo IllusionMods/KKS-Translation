@@ -33,7 +33,7 @@
 スカートワンピース=One-Piece Dress
 フリルバンドゥ=Frilly Bands
 フリルビキニ=Frilly Bikini
-斜めフリルビキニ（上）=Slanted Frilled Bikini (Top)
+斜めフリルビキニ（上）=Slanted Frilly Bikini (Top)
 結びビキニ=Knotted Bikini
 サークルバンドゥ=Circle Band
 Yフロントビキニ=Y-Fronted Bikini
