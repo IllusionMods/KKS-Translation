@@ -153,7 +153,7 @@ sr:"^下まぶたの形状([０-９0-9]+)$"=Lower Eyelid Shape $1
 
 //Face -> Iris
 白目のグラデ種類=Sclera Type
-sr:"^白目の色([①-⑨])$"=Sclera Color $1
+r:^白目の色([①-⑨])$=Sclera Color $1
 ハイライト上の種類=Upper Highlight Type
 ハイライト上の色=Upper Highlight Color
 ハイライト下の種類=Lower Highlight Type
