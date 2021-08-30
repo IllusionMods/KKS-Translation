@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//水風船=
-//綿あめ=
-//祭りうちわ=
+水風船=Water Balloon
+綿あめ=Cotton Candy
+祭りうちわ=Festival Fan
