@@ -33,7 +33,7 @@
 うさぎの着ぐるみ頭=Rabbit Costume Head
 いぬの着ぐるみ頭=Dog Costume Head
 三角巾=Bandanna
-//プリティーナースキャップ=
+プリティーナースキャップ=Pretty Nurse Cap
 魔法の帽子=Magical Hat
 猫耳（右）=Cat Ear (Right)
 猫耳（左）=Cat Ear (Left)
