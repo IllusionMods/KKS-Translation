@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-なし=Nothing
+なし=None
 四角=Rectangular
 三角=Triangle
 小三角=Small Triangle
