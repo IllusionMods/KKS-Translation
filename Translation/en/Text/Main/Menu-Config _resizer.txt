@@ -1,0 +1,15 @@
+//*******************************************************************
+//*******************************************************************
+// Note: Text sizes and other alignment config for texts in Config
+//       Menu. Don't change if you don't know what are you doing
+// More info in: https://github.com/bbepis/XUnity.AutoTranslator#ui-font-resizing
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Applies to all scenes with the generic 
+// "-1" Global level
+#set exe KoikatsuSunshine
+#set level -1
+
+ConfigScene(Clone)/Canvas/imgWindow/ScrollView/Content/Node Graphic/Garphic/title=UGUI_HorizontalOverflow(overflow)
+ConfigScene(Clone)/Canvas/imgWindow/ScrollView/Content/Node Graphic/Garphic/title=ChangeFontSizeByPercentage(0.95)

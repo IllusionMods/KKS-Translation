@@ -1,0 +1,41 @@
+//*******************************************************************
+//*******************************************************************
+// Player Select menu
+//*******************************************************************
+//*******************************************************************
+
+//Scope of the file: Only applies to the Player Select Menu
+//                   for Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level 14
+
+//-------------------------------------------------------------------
+// Select Player Menu
+//-------------------------------------------------------------------
+プレイヤーを選択して下さい ▼=Please Select a Player ▼
+
+新規作成=Create New
+滞在目的=Porpuse for Stay
+研修旅行=Study Tour
+
+誕生日/=Birthday/
+月=Month
+日=Day
+
+血液型/=Blood Type/
+型=Type
+
+愛称=Nickname
+
+変更=Change
+決定=Decide
+
+//-------------------------------------------------------------------
+// Change Nickname Menu
+//-------------------------------------------------------------------
+呼ばれる愛称を選択してください▼=Choose a nickname to be called ▼
+この女の子に呼ばれる愛称を設定▼=Set a nickname for this girl to be called ▼
+プレイヤーの名前▼=Player name ▼
+共通で呼ばれる愛称=Nickname called commonly
+個別で呼ばれる愛称=Nickname called individually
+共通の愛称に戻す=Return to common nickname

@@ -1,0 +1,59 @@
+//*******************************************************************
+//*******************************************************************
+// Note: Text sizes and other alignment config for texts in Free-H
+//       Menu. Don't change if you don't know what are you doing
+// More info in: https://github.com/bbepis/XUnity.AutoTranslator#ui-font-resizing
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Only applies to the Free-H Menu for 
+// Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level 11
+
+//Action -> Masturbation
+FreeHScene/Canvas/Panel/SelectTab3P/Tab/MasturbationTab=ChangeFontSizeByPercentage(0.95)
+
+//---------------------------------------------------------
+// General Tab
+//---------------------------------------------------------
+//Time of Day
+FreeHScene/Canvas/Panel/Normal/TimeZone=AutoResize(true)
+
+//Enter H-Scene
+FreeHScene/Canvas/Panel/EnterBG=AutoResize(true)
+
+//---------------------------------------------------------
+// Masturbation Tab
+//---------------------------------------------------------
+//Time of Day
+FreeHScene/Canvas/Panel/Masturbation/TimeZone=AutoResize(true)
+
+//Discovery
+FreeHScene/Canvas/Panel/Masturbation/Discovery/Title=AutoResize(true)
+
+//---------------------------------------------------------
+// Lesbian Tab
+//---------------------------------------------------------
+//Time of Day
+FreeHScene/Canvas/Panel/Lesbian/TimeZone=AutoResize(true)
+
+//---------------------------------------------------------
+// 3P Tab
+//---------------------------------------------------------
+//Select Girl -> Name
+FreeHScene/Canvas/Panel/3P/FemaleSelect/FemaleName_01/State/name/NameTitle=AutoResize(true)
+FreeHScene/Canvas/Panel/3P/FemaleSelect/FemaleName_02/State/name/NameTitle=AutoResize(true)
+
+//Select Girl -> Personality
+FreeHScene/Canvas/Panel/3P/FemaleSelect/FemaleName_01/State/Personal/PersonalTitle=ChangeFontSizeByPercentage(0.8)
+FreeHScene/Canvas/Panel/3P/FemaleSelect/FemaleName_02/State/Personal/PersonalTitle=ChangeFontSizeByPercentage(0.8)
+
+
+//Time of Day
+FreeHScene/Canvas/Panel/3P/main/TimeZone=AutoResize(true)
+
+//---------------------------------------------------------
+// CharacterSelect
+//---------------------------------------------------------
+FreeHCharaSelect(Clone)/previewcharacanvas/charaFileControl/charaFileWindow/WinRect/imgBack/Header=ChangeFontSizeByPercentage(0.85)

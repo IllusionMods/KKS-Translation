@@ -5,7 +5,7 @@
 エレガントリボン=Elegant Ribbon
 テールリボン=Tail Ribbon
 ウォレットチェーン=Wallet Chain
-刀の鞘=Sword Scabbard
+刀の鞘=Sword Sheath
 小悪魔尻尾=Devil Tail
 悪魔尻尾=Demon Tail
 ウサギ尻尾=Rabbit Tail

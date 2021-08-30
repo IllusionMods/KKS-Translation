@@ -49,4 +49,4 @@
 島柄A=Island Pattern A
 島柄B=Island Pattern B
 スミレ畑=Violet Field
-エレガント花柄=Elegant Flower Pattern
+エレガント花柄=Elegant Floral Pattern
