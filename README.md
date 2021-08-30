@@ -21,12 +21,12 @@ The translations are applied while the game is running and do not require replac
 ## Installation
 
 1. Ensure you have the prerequisites installed.
-2. Go to the [releases page](https://github.com/IllusionMods/KoikatsuStoryTranslation/releases) and download the latest version. Alternatively, advanced users can get the latest beta translations by clicking on the "Clone or download" button above. If you are a translator, read the sections below to see how to contribute to the translations.
+2. Go to the [releases page](https://github.com/IllusionMods/KKS-Translation/releases) and download the latest version. Alternatively, advanced users can get the latest beta translations by clicking on the "Clone or download" button above. If you are a translator, read the sections below to see how to contribute to the translations.
 3. Extract the zip and place the BepInEx folder inside your game folder (where the file game executable is).
 
 ## Contribution
 
-There are over 175,000 unique lines of text that need translation and any help is appreciated. Regardless of your translation skill and Japanese knowledge you can still help with translations. Even if you have no experience, you can help by proofreading or using machine translation services such as Google Translate or DeepL (recommended). In the case of machine translations, clean up the translation using sanity and a little logic.
+There are tens of thousands of unique lines of text that need translation and any help is appreciated. Regardless of your translation skill and Japanese knowledge you can still help with translations. Even if you have no experience, you can help by proofreading or using machine translation services such as Google Translate or DeepL (recommended). In the case of machine translations, clean up the translation using sanity and a little logic.
 
 Translation done purely by machines must be kept in the designated files (`zz_machineTranslation.txt` files within `RedirectedResources`). These should be considered placeholders until manual translations are available (those should go into `translation.txt`). The goal is to have everything, manually translated.
 
