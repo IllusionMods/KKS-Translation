@@ -137,8 +137,8 @@ r:"^耳の角度([A-Z])軸$"=Ear Angle $1 Axis
 コンフィグ依存=Config Decides
 
 //Face -> Eyes
-sr:"^上まぶたの形状([０-９0-9]+)$"=Upper Eyelid Shape $1
-sr:"^下まぶたの形状([０-９0-9]+)$"=Lower Eyelid Shape $1
+r:^上まぶたの形状([０-９0-9]+)$=Upper Eyelid Shape $1
+r:^下まぶたの形状([０-９0-9]+)$=Lower Eyelid Shape $1
 目の上下=Eye Vertical Position
 目の横位置=Eye Spacing
 目の前後=Eye Depth
