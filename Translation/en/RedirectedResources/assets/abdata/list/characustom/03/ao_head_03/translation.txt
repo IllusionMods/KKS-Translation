@@ -3,5 +3,5 @@
 //
 チゴマゲ=Chigomage Hair
 クラゲ=Jellyfish
-珊瑚(右)=Coral (Right)
-珊瑚(左)=Coral (Left)
+珊瑚(右)=Coral (R)
+珊瑚(左)=Coral (L)

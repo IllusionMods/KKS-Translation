@@ -38,6 +38,6 @@
 ウェディング雫=Wedding Earring
 ぼんぼりピアス=Paper Lamp Earring
 目隠し=Blindfold
-クマノミ=Anemone Fish Earring
+クマノミ=Clownfish Earring
 ホオズキ=Ground Cherry Earring
 フラワー=Flower Earring

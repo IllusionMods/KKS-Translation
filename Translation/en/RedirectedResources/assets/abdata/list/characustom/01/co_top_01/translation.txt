@@ -5,6 +5,6 @@
 裸サロペット=Naked Overalls
 裸サスペンダー=Naked Suspenders
 裸エプロン=Naked Apron
-裸フリルエプロン=Naked Frilled Apron
+裸フリルエプロン=Naked Frilly Apron
 亀甲縛り=Bondage Ropes
 体操着（汚れ）=Gym Uniform (Male)

@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//金魚柄=
-//桜麻柄=
-//桜花流水柄=
-//紫陽花市松柄=
-//紫陽花柄=
-//朝顔柄=
-//朝顔流水柄=
-//鱗文様=
+金魚柄=Goldfish
+桜麻柄=Cherry Flowers
+桜花流水柄=Cherry Blossom Stream
+紫陽花市松柄=Checkered Hydrangea
+紫陽花柄=Hydrangea
+朝顔柄=Morning Glory
+朝顔流水柄=Morning Glory Stream
+鱗文様=Scales

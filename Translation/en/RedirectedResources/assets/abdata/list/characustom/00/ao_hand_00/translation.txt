@@ -53,4 +53,4 @@
 包丁=Kitchen Knife
 フライパン=Frying Pan
 芭蕉扇=Folding Fan
-キャリーバッグ=Carry Bag
+キャリーバッグ=Wheeled Travel Bag

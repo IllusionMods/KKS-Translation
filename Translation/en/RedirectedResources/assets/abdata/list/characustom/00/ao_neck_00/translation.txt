@@ -39,5 +39,5 @@ CAネッカチーフ=Cabin Attendant Neckerchief
 シトリースカーフ=Sitri's Scarf
 シトリータイ=Sitri's Tie
 ニットのリボン=Knit Ribbon
-海星のネックレス=Sea Star Necklace
+海星のネックレス=Starfish Necklace
 レースチョーカー=Lace Choker

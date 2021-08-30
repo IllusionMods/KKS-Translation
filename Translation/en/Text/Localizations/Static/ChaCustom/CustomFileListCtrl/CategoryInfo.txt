@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-自作=Your Work
-他作=Other's Work
+自作=Made by You
+他作=Made by Others
 プリセット=Presets

@@ -40,6 +40,6 @@
 Ｓッ気=Sadistic
 無感情=Emotionless
 几帳面=Perfectionist
-//島っ娘=
-//案内人=
+島っ娘=Island Girl
+案内人=Guide
 モブ=Mob
