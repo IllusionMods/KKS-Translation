@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 バカンス=Vacation
-//灯台=
+灯台=Lighthouse
 アウトドア=Outdoors
 知的好奇心=Curiosity
 ランダム=Random
