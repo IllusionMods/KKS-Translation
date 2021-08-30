@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-なし=None
+なし=Nothing
 ストライプ=Vertical Stripes
 斜めストライプ=Slanted Stripes
 ボーダー=Horizontal Stripes
@@ -44,9 +44,9 @@
 斜めチェックA=Slanted Checkered A
 斜めチェックB=Slanted Checkered B
 中華模様=Chinese Pattern
-//アロハ模様=
+アロハ模様=Aloha Pattern
 ひまわり=Sunflower
-//島柄A=
-//島柄B=
-//スミレ畑=
-//エレガント花柄=
+島柄A=Island Pattern A
+島柄B=Island Pattern B
+スミレ畑=Violet Field
+エレガント花柄=Elegant Flower Pattern
