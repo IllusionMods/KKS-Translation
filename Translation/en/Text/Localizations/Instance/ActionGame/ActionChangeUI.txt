@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//オナニーを見る=
-//覗く=
-//案内人=
-//レズＨを見る=
-//話題の取得=
-//休息する=
-//ショップ=
-//賽銭箱=
-//エステ=
-//水をやる=
-//様子を見る=
+オナニーを見る=Watch Masturbation
+覗く=Peek
+案内人=Guide
+レズＨを見る=Watch Lesbianism
+話題の取得=Learn a Topic
+休息する=Have a Rest
+ショップ=Shop
+賽銭箱=Offering Box
+エステ=Salon
+水をやる=Play in the Water
+様子を見る=Watch the Situation
