@@ -7,10 +7,10 @@
 深いくっきり影=Deep, Sharp Shadows
 境界線のある影=Boundary Line Shadows
 完全なめらか影=Perfect, Smooth Shadows
-//重ね標準影=
-//重ねなめらか影=
-//重ねなだらか影=
-//重ね環境影=
-//重ね変則影=
-//重ねくっきり影=
+重ね標準影=Layered, Normal Shadows
+重ねなめらか影=Layered, Smooth Shadows
+重ねなだらか影=Layered, Sloping Shadows
+重ね環境影=Layered, Environmental Shadows
+重ね変則影=Layered, Unusual Shadows
+重ねくっきり影=Layered, Sharp Shadows
 影なし=No Shadows
