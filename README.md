@@ -190,6 +190,7 @@ Table with the localization of the translations for each part of the game:
 | 36 | Sッ気        | Sadistic           |                                   |
 | 37 | 無感情        | Emotionless        |                                   |
 | 38 | 几帳面        | Perfectionist      |                                   |
+| 39 | 島っ娘        | Island Girl        |                                   |
 
 ##### NPC Personalities
 
