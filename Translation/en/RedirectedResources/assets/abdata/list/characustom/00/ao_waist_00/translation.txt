@@ -18,8 +18,8 @@
 白木拵え納刀=Sheathed Wooden Sword
 白木拵えの鞘=Wooden Sword Sheath
 2連鞘刀=Twin Sheathed Swords
-鬼神の腰当右用=Demon God's Hip Guard (Right)
-鬼神の腰当左用=Demon God's Hip Guard (Left)
+鬼神の腰当右用=Demon God's Hip Guard (R)
+鬼神の腰当左用=Demon God's Hip Guard (L)
 メカアンプ=Mecha Amplifier
 騎士の腰当右用=Knight's Right Hip Armor
 騎士の腰当左用=Knight's Left Hip Armor

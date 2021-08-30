@@ -32,8 +32,8 @@
 第三の目=Third Eye
 ワンポイント=Starpoint Earring
 土星=Saturn Earring
-鬼神の額当て（右）=Demon God's Brow Guard (Right)
-鬼神の額当て（左）=Demon God's Brow Guard (Left)
+鬼神の額当て（右）=Demon God's Brow Guard (R)
+鬼神の額当て（左）=Demon God's Brow Guard (L)
 雫=Drop Earring
 ウェディング雫=Wedding Earring
 ぼんぼりピアス=Paper Lamp Earring
