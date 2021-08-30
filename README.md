@@ -13,7 +13,8 @@ The translations are applied while the game is running and do not require replac
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 
 [//]: # "- [KKS_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) (required for most resources)"
-[//]: # "- [KKS_Subtitles](https://github.com/IllusionMods/KK_Plugins#subtitles) (required to see subtitles)"
+- [KKS_Subtitles](https://github.com/IllusionMods/KK_Plugins#subtitles) (required to see subtitles)
+
 [//]: # "- [KKS_TranslationHelper](https://gebo1.github.io/GeBoPlugins/src/TranslationHelper/) (Optional, but recommended)"
 [//]: # "- [KKS_TranslationCacheCleaner](https://gebo1.github.io/GeBoPlugins/src/TranslationCacheCleaner/) (optional, but recommended)"
 
