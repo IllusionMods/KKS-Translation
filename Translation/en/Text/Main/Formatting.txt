@@ -16,10 +16,9 @@ sr:^『([\S\s]+)』$=“$1”
 r:^本日残り(\d+)回$=$1 remaining today
 r:^残り(\d+)個$=$1 remaining
 
-#set scope level 6
+#set level 6
 sr:^話題\s*(?<color_open>[<]color[^>]+[>])\s*『(?<topic_name>[^』]+)』\s*(?<color_close>[<]\/color[>])\s*を入手した。$=Topic ${color_open}“${topic_name}”${color_close} obtained.
-#unset scope level 6
-
+#unset level 6
 
 // map names in status scene
 sr:^●([\s\S]+)●$=●$1●

@@ -80,7 +80,7 @@ sr:^(.{3,5})/$=$1:
 
 // /ActionScene/UI/HStatus
 性癖慣れ=Sexual Experience
-※コイカツポイントを20pt消費します。=※ Consumes 20 Koikatsu points.
+r:^※コイカツポイントを(\d+)pt消費します。$=※ Consumes $1 Koikatsu point(s).
 
 // /ActionScene/UI/PhotoUI
 画面表示・非表示=Show/Hide Display
