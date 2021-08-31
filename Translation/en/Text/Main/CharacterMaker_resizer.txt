@@ -1,0 +1,25 @@
+//*******************************************************************
+//*******************************************************************
+// Note: Text sizes and other alignment config for texts in Character
+//       Maker. Don't change if you don't know what are you doing
+// More info in: https://github.com/bbepis/XUnity.AutoTranslator#ui-font-resizing
+//*******************************************************************
+//*******************************************************************
+
+//Scope of the file: Only applies to the Chara Maker for Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level 3
+
+
+//---------------------------------------------------------
+// Load/Save Character
+//---------------------------------------------------------
+//Load Character -> Personality Checkbox
+CustomScene/CustomRoot/FrontUIGroup/CustomUIGroup/CvsMenuTree/06_SystemTop/charaFileControl/charaFileWindow/WinRect/imgBack/Header=ChangeFontSizeByPercentage(0.85)
+
+//Load Character-> Personality Button
+CustomScene/CustomRoot/FrontUIGroup/CustomUIGroup/CvsMenuTree/06_SystemTop/charaFileControl/charaFileWindow/WinRect/imgBack/SortButtons/tglSortPersonality=AutoResize(false)
+CustomScene/CustomRoot/FrontUIGroup/CustomUIGroup/CvsMenuTree/06_SystemTop/charaFileControl/charaFileWindow/WinRect/imgBack/SortButtons/tglSortPersonality=ChangeFontSizeByPercentage(0.5)
+
+//Load Character -> Cards
+CustomScene/CustomRoot/FrontUIGroup/CustomUIGroup/CvsMenuTree/06_SystemTop/charaFileControl/charaFileWindow/WinRect/ListArea=AutoResize(true)
