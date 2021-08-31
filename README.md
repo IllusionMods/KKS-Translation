@@ -149,7 +149,7 @@ Table with the localization of the translations for each part of the game:
 
 ##### Character Personalities
 
-| ID | Name           | Eng Name          | Source    |
+| ID | Name           | English Name      | Source    |
 |:--:|:---------------|:------------------|:----------|
 | 00 | セクシー　　　　| Sexy               | Base Game |
 | 01 | お嬢様　　　　　| Ojousama           | Base Game |
