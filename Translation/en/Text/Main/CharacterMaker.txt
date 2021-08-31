@@ -899,7 +899,7 @@ BGMの音量=BGM Volume
 //Right Sidebar -> Hand Patterns
 左手のパターン=Left Hand Pattern
 右手のパターン=Right Hand Pattern
-r:^パターン([０-９0-9 ]+)$=Pattern $1
+r:^パターン([０-９0-9\s]+)$=Pattern $1
 
 //Right Sidebar -> Light Direction Options
 ライトの向き調整=Light Direction
