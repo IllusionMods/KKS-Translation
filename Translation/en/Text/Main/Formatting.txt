@@ -19,3 +19,21 @@ r:^残り(\d+)個$=$1 remaining
 #set scope level 6
 sr:^話題\s*(?<color_open>[<]color[^>]+[>])\s*『(?<topic_name>[^』]+)』\s*(?<color_close>[<]\/color[>])\s*を入手した。$=Topic ${color_open}“${topic_name}”${color_close} obtained.
 #unset scope level 6
+
+
+// map names in status scene
+sr:^●([\s\S]+)●$=●$1●
+
+// Sections of this string are dumped in Text/Localizations
+// Could be done as static strings, but new locations are added they'll be dumped, 
+// and if the colors are adjusted this keeps working
+sr:^(?<color_open>[<]color[^>]+[>])\s*『(?<location>[^』]+)』\s*(?<color_close>[<]\/color[>])\s*(?<suffix>に以下からランダムでキャラを滞在させます。)$=${color_open}“${location}”${color_close} ${suffix}
+sr:^(?<place>.{1,4})の空室$=${place} Vacancies
+全施設の空室=All Vacancies
+選択した空室=Selected Vacancy
+
+
+// Save/Load
+// Sections of this string are dumpend under Text/Localizations
+sr:^(?<your_room>自室)\s*[\(（](?<location>[^\)）]+)[\)）]\s*/\s*(?<time>.+)$=${your_room} (${location})/${time}
+

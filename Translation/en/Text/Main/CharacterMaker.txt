@@ -63,14 +63,11 @@ RGB=RGB
 左クリックで適応、右クリックで削除します=Left-Click To Apply, Right-Click To Delete
 
 //-------------------------------------------------------------------
-// Top Menu
+// Top Menu (see Generic for types)
 //-------------------------------------------------------------------
 //Clothing Selection Stuff
 コーディネートタイプ=Clothing Type
-私服=Casual Clothes
-水着=Swimsuit
-寝間着=Nightwear
-風呂場=Bathroom
+
 
 //-------------------------------------------------------------------
 // Face Menu
