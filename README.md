@@ -149,48 +149,48 @@ Table with the localization of the translations for each part of the game:
 
 ##### Character Personalities
 
-| ID | Name       | Eng Name           | Source                            |
-|:--:|:-----------|:-------------------|:----------------------------------|
-| 00 | セクシー系お姉さま  | Sexy               |                                   |
-| 01 | お嬢様        | Ojousama           |                                   |
-| 02 | タカビー       | Snobby             |                                   |
-| 03 | 小悪魔っ子      | Kouhai             |                                   |
-| 04 | ミステリアス     | Mysterious         |                                   |
-| 05 | 電波         | Weirdo             |                                   |
-| 06 | 大和撫子       | Yamamoto Nadeshiko |                                   |
-| 07 | ボーイッシュ     | Tomboy             |                                   |
-| 08 | 純粋無垢な子供    | Pure               |                                   |
-| 09 | アホの子       | Simple             |                                   |
-| 10 | 邪気眼        | Delusional         |                                   |
-| 11 | 母性的お姉さん    | Motherly           |                                   |
-| 12 | 姉御肌        | Big Sisterly       |                                   |
-| 13 | コギャル       | Gyaru              |                                   |
-| 14 | 不良少女       | Delinquent         |                                   |
-| 15 | 野生的        | Wild               |                                   |
-| 16 | 意識高いクールな女性 | Wannabe            |                                   |
-| 17 | ひねくれ       | Reluctant          |                                   |
-| 18 | 不幸少女       | Jinxed             |                                   |
-| 19 | 文学少女       | Bookish            |                                   |
-| 20 | モジモジ       | Timid              |                                   |
-| 21 | 正統派ヒロイン    | Typical Schoolgirl |                                   |
-| 22 | ミーハー       | Trendy             |                                   |
-| 23 | オタク女子      | Otaku              |                                   |
-| 24 | ヤンデレ       | Yandere            |                                   |
-| 25 | ダル         | Lazy               |                                   |
-| 26 | 無口         | Quiet              |                                   |
-| 27 | 意地っ張り      | Stubborn           |                                   |
-| 28 | ロリばばあ      | Old-Fashioned      |                                   |
-| 29 | 素直クール      | Humble             |                                   |
-| 30 | 気さく        | Friendly           |                                   |
-| 31 | 勝ち気        | Willful            |                                   |
-| 32 | 誠実         | Honest             |                                   |
-| 33 | 艶やか        | Glamorous          |                                   |
-| 34 | 帰国子女       | Returnee           |                                   |
-| 35 | 方言娘        | Slangy             |                                   |
-| 36 | Sッ気        | Sadistic           |                                   |
-| 37 | 無感情        | Emotionless        |                                   |
-| 38 | 几帳面        | Perfectionist      |                                   |
-| 39 | 島っ娘        | Island Girl        |                                   |
+| ID | Name           | English Name      | Source    |
+|:--:|:---------------|:------------------|:----------|
+| 00 | セクシー　　　　| Sexy               | Base Game |
+| 01 | お嬢様　　　　　| Ojousama           | Base Game |
+| 02 | 高飛車　　　　　| Snobby             | Base Game |
+| 03 | 後輩キャラ　　　| Kouhai             | Base Game |
+| 04 | ミステリアス　　| Mysterious         | Base Game |
+| 05 | 電波　　　　　　| Weirdo             | Base Game |
+| 06 | 大和撫子　　　　| Yamato Nadeshiko   | Base Game |
+| 07 | ボーイッシュ　　| Tomboy             | Base Game |
+| 08 | 純真無垢　　　　| Pure               | Base Game |
+| 09 | 単純　　　　　　| Simple             | Base Game |
+| 10 | 邪気眼　　　　　| Delusional         | Base Game |
+| 11 | 母性的　　　　　| Motherly           | Base Game |
+| 12 | 姉御肌　　　　　| Big Sisterly       | Base Game |
+| 13 | ギャル　　　　　| Gyaru              | Base Game |
+| 14 | 不良少女　　　　| Delinquent         | Base Game |
+| 15 | 野生的　　　　　| Wild               | Base Game |
+| 16 | 意識高いクール　| Wannabe            | Base Game |
+| 17 | ひねくれ　　　　| Reluctant          | Base Game |
+| 18 | 不幸少女　　　　| Jinxed             | Base Game |
+| 19 | 文学少女　　　　| Bookish            | Base Game |
+| 20 | モジモジ　　　　| Timid              | Base Game |
+| 21 | 正統派ヒロイン　| Typical Schoolgirl | Base Game |
+| 22 | ミーハー　　　　| Trendy             | Base Game |
+| 23 | オタク女子　　　| Otaku              | Base Game |
+| 24 | ヤンデレ　　　　| Yandere            | Base Game |
+| 25 | ものぐさ　　　　| Lazy               | Base Game |
+| 26 | 無口　　　　　　| Quiet              | Base Game |
+| 27 | 意地っ張り　　　| Stubborn           | Base Game |
+| 28 | のじゃっ子　　　| Old-Fashioned      | Base Game |
+| 29 | 素直クール　　　| Humble             | Base Game |
+| 30 | 気さく　　　　　| Friendly           | Base Game |
+| 31 | 勝ち気　　　　　| Willful            | Base Game |
+| 32 | 誠実　　　　　　| Honest             | Base Game |
+| 33 | 艶やか　　　　　| Glamorous          | Base Game |
+| 34 | 帰国子女　　　　| Returnee           | Base Game |
+| 35 | 方言娘　　　　　| Slangy             | Base Game |
+| 36 | Sッ気　　　　　 | Sadistic           | Base Game |
+| 37 | 無感情　　　　　| Emotionless        | Base Game |
+| 38 | 几帳面　　　　　| Perfectionist      | Base Game |
+| 39 | 島っ娘　　　　　| Island Girl        | Base Game |
 
 ##### NPC Personalities
 
