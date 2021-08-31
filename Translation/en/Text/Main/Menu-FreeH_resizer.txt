@@ -54,6 +54,12 @@ FreeHScene/Canvas/Panel/3P/FemaleSelect/FemaleName_02/State/Personal/PersonalTit
 FreeHScene/Canvas/Panel/3P/main/TimeZone=AutoResize(true)
 
 //---------------------------------------------------------
-// CharacterSelect
+// Load Character
 //---------------------------------------------------------
+//Load Character -> Personality Checkbox
 FreeHCharaSelect(Clone)/previewcharacanvas/charaFileControl/charaFileWindow/WinRect/imgBack/Header=ChangeFontSizeByPercentage(0.85)
+
+//Load Character -> Cards
+FreeHCharaSelect(Clone)/previewcharacanvas/charaFileControl/charaFileWindow/WinRect/ListArea=AutoResize(true)
+
+
