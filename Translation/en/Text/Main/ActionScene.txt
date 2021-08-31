@@ -52,7 +52,7 @@
 自室に誘う=Invite to Room
 エッチしたい=Ask for Sex
 
-人=Person
+// 人=
 
 // /ActionScene/UI/HeroineStatus/Canvas/BG/background/CharaView
 向かう=Go to
@@ -61,7 +61,7 @@
 
 アルバイト=Part-time Job
 
-sr:^(.{3,5}+)\/$=$1/
+sr:^(.{3,5})/$=$1:
 誕生日=Birthday
 血液型=Blood Type
 月=Month
