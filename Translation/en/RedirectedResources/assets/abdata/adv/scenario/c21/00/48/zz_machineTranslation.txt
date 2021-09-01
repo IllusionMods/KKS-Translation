@@ -1,6 +1,6 @@
-「流石はホテルのレストラン、メニューがいっぱいだね」="It's a hotel restaurant with a full menu.
-「うん。それにどれも美味しそう」="Yes. And it all looks delicious.
-「ついつい頼み過ぎちゃいそうだね」="I think I'm going to ask for too much.
-「男の子なんだから、全部食べられるんじゃないの？」="He's a boy. He can eat all the food.
-「そこまで大食いじゃないよ」="I'm not that big of a glutton.
-「私が手伝ってあげるから、いっぱい頼んじゃお」="I'll help you. You can ask a lot.
+「流石はホテルのレストラン、メニューがいっぱいだね」=It's a hotel restaurant with a full menu.
+「うん。それにどれも美味しそう」=Yes. And it all looks delicious.
+「ついつい頼み過ぎちゃいそうだね」=I think I'm going to ask for too much.
+「男の子なんだから、全部食べられるんじゃないの？」=He's a boy. He can eat all the food.
+「そこまで大食いじゃないよ」=I'm not that big of a glutton.
+「私が手伝ってあげるから、いっぱい頼んじゃお」=I'll help you. You can ask a lot.

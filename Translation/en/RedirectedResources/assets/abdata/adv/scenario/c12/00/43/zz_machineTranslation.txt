@@ -1,7 +1,7 @@
-「なぁ、おまえは他に楽器を弾けたりするのか？」="Hey, do you play any other instruments?
-「いや特には弾けないよ。こういう風に習うのは三線が初めて」="No, I don't play anything special. This is the first time I've learned to play the sanshin.
-「ふーん、そっか。勝手なイメージだけど、男って一度は楽器に挑戦してみるものなのかと思ってたよ」="Hmm, I see. I thought men were supposed to try their hand at playing an instrument at least once.
-「憧れがなかったと言えば嘘になるかな。実際弾ける人ってカッコよく見えるし」="I'd be lying if I said I didn't admire you. People who can play look cool.
-「ちなみに、女の子視点では楽器弾ける人ってどう？」="By the way, from a girl's point of view, how about someone who can play an instrument?
-「熱中できる趣味がある人ってのは輝いてるし、あたし的にはいいと思うよ」="I think it's great that you have a hobby that you're passionate about.
+「なぁ、おまえは他に楽器を弾けたりするのか？」=Hey, do you play any other instruments?
+「いや特には弾けないよ。こういう風に習うのは三線が初めて」=No, I don't play anything special. This is the first time I've learned to play the sanshin.
+「ふーん、そっか。勝手なイメージだけど、男って一度は楽器に挑戦してみるものなのかと思ってたよ」=Hmm, I see. I thought men were supposed to try their hand at playing an instrument at least once.
+「憧れがなかったと言えば嘘になるかな。実際弾ける人ってカッコよく見えるし」=I'd be lying if I said I didn't admire you. People who can play look cool.
+「ちなみに、女の子視点では楽器弾ける人ってどう？」=By the way, from a girl's point of view, how about someone who can play an instrument?
+「熱中できる趣味がある人ってのは輝いてるし、あたし的にはいいと思うよ」=I think it's great that you have a hobby that you're passionate about.
 （なるほど……三線の体験、頑張ってみようかな）=(I see. ...... I'll try my best to experience the sanshin.)

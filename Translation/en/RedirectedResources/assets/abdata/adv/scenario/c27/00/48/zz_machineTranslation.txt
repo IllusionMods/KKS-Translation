@@ -1,5 +1,5 @@
-「甘いものの中でも、やっぱり砂糖を使ったものが多いみたいね」="It seems that most of the sweets are made with sugar.
-「そうみたいだね……う、これはかなりの甘さだな……？」="Looks like it. ...... Wow, that's pretty sweet. ......?
-「ぐ……で、でも、私はこのくらいの甘さでも平気よ？」="I'm not afraid of this kind of sweetness, though.
-「ちょっと飲み物追加で頼もうかな……いる？」="I think I'll order some more drinks. ......?
-「つ、ついでだし、頼んじゃっても…………お願い……」="Oh, and while you're at it, can I ask you to ............ please ......
+「甘いものの中でも、やっぱり砂糖を使ったものが多いみたいね」=It seems that most of the sweets are made with sugar.
+「そうみたいだね……う、これはかなりの甘さだな……？」=Looks like it. ...... Wow, that's pretty sweet. ......?
+「ぐ……で、でも、私はこのくらいの甘さでも平気よ？」=I'm not afraid of this kind of sweetness, though.
+「ちょっと飲み物追加で頼もうかな……いる？」=I think I'll order some more drinks. ......?
+「つ、ついでだし、頼んじゃっても…………お願い……」=Oh, and while you're at it, can I ask you to ............ please ......

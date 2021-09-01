@@ -1,8 +1,8 @@
-「へ……あ、その……好きって……俺のことが、だよね？」="Did you ...... like me, or did you ...... like me?
-「……うん。私を……あなたの彼女に、してください……」="...... Yeah. Please make me ...... your girlfriend. ......"
-「それとも、私なんかじゃ……ダメ？」="Or maybe I'm not ...... good enough?
-「そんなことないよっ！　いきなりだから、びっくりしただけで……」="That's not true!　I was just surprised when you came out of nowhere. ......
-「俺も……俺も[H名]のことが好きだよ」="Me too. ...... I like [H名] too.
-「本当に……？　夢じゃ、ないのよね？」="Are you sure about ......?　You're not dreaming, are you?
-「うん、改めてこれからよろしくね」="Yeah, let's do it again.
-「嬉しいわ……こちらこそ、よろしくお願いします」="I'm glad you're here. ...... I look forward to working with you.
+「へ……あ、その……好きって……俺のことが、だよね？」=Did you ...... like me, or did you ...... like me?
+「……うん。私を……あなたの彼女に、してください……」=...... Yeah. Please make me ...... your girlfriend. ......
+「それとも、私なんかじゃ……ダメ？」=Or maybe I'm not ...... good enough?
+「そんなことないよっ！　いきなりだから、びっくりしただけで……」=That's not true!　I was just surprised when you came out of nowhere. ......
+「俺も……俺も[H名]のことが好きだよ」=Me too. ...... I like [H名] too.
+「本当に……？　夢じゃ、ないのよね？」=Are you sure about ......?　You're not dreaming, are you?
+「うん、改めてこれからよろしくね」=Yeah, let's do it again.
+「嬉しいわ……こちらこそ、よろしくお願いします」=I'm glad you're here. ...... I look forward to working with you.

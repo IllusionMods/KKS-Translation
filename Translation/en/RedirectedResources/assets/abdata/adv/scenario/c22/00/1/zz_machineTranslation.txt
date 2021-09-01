@@ -1,6 +1,6 @@
-「ウソ……私の事、好きなの？」="No ......, do you like me?"
-「ウソじゃないよ。本当にきみのことが好きなんだ……俺と、付き合って欲しい」="I'm not lying. I really like you. ...... I want you to go out with me.
-「うん……いいよ」="Yeah, ...... is good.
-「いいの？」="Are you sure?
-「うん、だって……私も、君の事好きだから……」="Yeah, because ...... I like you, too, .......
-「だから……ぜひ、お付き合い、して下さい」="So ......, please go out with me.
+「ウソ……私の事、好きなの？」=No ......, do you like me?
+「ウソじゃないよ。本当にきみのことが好きなんだ……俺と、付き合って欲しい」=I'm not lying. I really like you. ...... I want you to go out with me.
+「うん……いいよ」=Yeah, ...... is good.
+「いいの？」=Are you sure?
+「うん、だって……私も、君の事好きだから……」=Yeah, because ...... I like you, too, .......
+「だから……ぜひ、お付き合い、して下さい」=So ......, please go out with me.

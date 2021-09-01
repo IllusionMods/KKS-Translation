@@ -1,5 +1,5 @@
-「ここではオイル塗りが出来るみたいだよ」="They have oiling here."
-「ふーん……オイルを塗ったらどうなるのだ？」="Hmmm. ...... What happens when you put oil on it?
-「綺麗になる……えーとつまり、魔力が高まるってことだよ」="It's beautiful. ...... Well, I mean, it's magical.
-「なに！？　汝よ、それは本当か？　そんな簡単なことで魔力が高まるのであれば、やらない手はないぞ！」="What?　Thou art sure of that?　If something as simple as that can increase your magic power, there's no reason not to try it!
-「本当だよ。じゃあ、俺が塗ってあげるね」="It's true. I'll paint it for you.
+「ここではオイル塗りが出来るみたいだよ」=They have oiling here.
+「ふーん……オイルを塗ったらどうなるのだ？」=Hmmm. ...... What happens when you put oil on it?
+「綺麗になる……えーとつまり、魔力が高まるってことだよ」=It's beautiful. ...... Well, I mean, it's magical.
+「なに！？　汝よ、それは本当か？　そんな簡単なことで魔力が高まるのであれば、やらない手はないぞ！」=What?　Thou art sure of that?　If something as simple as that can increase your magic power, there's no reason not to try it!
+「本当だよ。じゃあ、俺が塗ってあげるね」=It's true. I'll paint it for you.

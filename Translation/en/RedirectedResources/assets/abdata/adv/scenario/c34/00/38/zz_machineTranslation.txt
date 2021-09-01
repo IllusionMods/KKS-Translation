@@ -1,5 +1,5 @@
-「Ｂｅａｃｈデース！　ワタシと何して遊びますカ？」="Beach day!　What do you want to play with me?
-「そうだなー……んー、[H名]と遊べれば何でもよかったからなー……」="Well ......, I'd be happy with anything as long as I could play with [H名]. ......"
-「それならワタシ、アナタと一緒に遊びたかったアリマス！」="I wish I could have been there to play with you.
-「お、なになに？」="Oh, what's that?
-「ソレハ――」="It's...
+「Ｂｅａｃｈデース！　ワタシと何して遊びますカ？」=Beach day!　What do you want to play with me?
+「そうだなー……んー、[H名]と遊べれば何でもよかったからなー……」=Well ......, I'd be happy with anything as long as I could play with [H名]. ......
+「それならワタシ、アナタと一緒に遊びたかったアリマス！」=I wish I could have been there to play with you.
+「お、なになに？」=Oh, what's that?
+「ソレハ――」=It's...

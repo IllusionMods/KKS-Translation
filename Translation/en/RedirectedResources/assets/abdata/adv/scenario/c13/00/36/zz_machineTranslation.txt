@@ -1,6 +1,6 @@
-「ねぇ、カヤックに乗ってみない？」="Hey, do you want to go kayaking?
-「カヤック？　オールで漕ぐヤツ？」="Kayak?　The kind with the oars?
-「うん。マングローブ林の中を、カヤックに乗って進むんだ」="Yeah. We're going to go kayaking through the mangroves.
-「ふぅ～ん、なんか冒険ぽくって面白そうかも」="Hmmm, it looks like an interesting adventure.
-「それじゃ、一緒に行こうか」="All right, I'll go with you.
-「うん、行く、行くー！」="Yeah, let's go, let's go!
+「ねぇ、カヤックに乗ってみない？」=Hey, do you want to go kayaking?
+「カヤック？　オールで漕ぐヤツ？」=Kayak?　The kind with the oars?
+「うん。マングローブ林の中を、カヤックに乗って進むんだ」=Yeah. We're going to go kayaking through the mangroves.
+「ふぅ～ん、なんか冒険ぽくって面白そうかも」=Hmmm, it looks like an interesting adventure.
+「それじゃ、一緒に行こうか」=All right, I'll go with you.
+「うん、行く、行くー！」=Yeah, let's go, let's go!

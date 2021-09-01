@@ -1,6 +1,6 @@
-「ダイビングか……」="Diving, ......."
-「興味があるの？」="You're interested?
-「うん、深海と宇宙はとても近しい存在だから」="Yeah, because the deep sea and space are so close.
-「えっと……ダイビングってそこまで深くは潜らないよ？」="Let's see, ...... diving doesn't go that deep, right?
-「知ってるよ。でも、少しは力を感じることが出来るかなって思ってるの」="I know. But I'm hoping to feel a little bit of power.
-「そっか、じゃあやってみようか」="Right, let's try it.
+「ダイビングか……」=Diving, .......
+「興味があるの？」=You're interested?
+「うん、深海と宇宙はとても近しい存在だから」=Yeah, because the deep sea and space are so close.
+「えっと……ダイビングってそこまで深くは潜らないよ？」=Let's see, ...... diving doesn't go that deep, right?
+「知ってるよ。でも、少しは力を感じることが出来るかなって思ってるの」=I know. But I'm hoping to feel a little bit of power.
+「そっか、じゃあやってみようか」=Right, let's try it.

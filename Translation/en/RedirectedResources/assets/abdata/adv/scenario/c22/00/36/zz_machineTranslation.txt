@@ -1,6 +1,6 @@
-「砂浜を散歩するのって、気持ちいいね」="It's nice to walk on the beach.
-「うん、気持ちいいけど……これって遊びのうちに入るのかな？」="Yeah, it feels good, but ......, is that part of the game?
-「のんびりできて、楽しいと思うんだけど……だったら綺麗な貝殻でも探してみる？」="I think it'll be fun to relax. ...... would you like to look for some beautiful shells?
-「でも、持って帰ったら怒られるんでしょ？」="But if I take it home, you'll get mad, right?
-「うん、基本的にダメみたい」="Yeah, it's basically a disaster.
-「だったら、私もお散歩だけでいいかなー」="Maybe I'll just go for a walk.
+「砂浜を散歩するのって、気持ちいいね」=It's nice to walk on the beach.
+「うん、気持ちいいけど……これって遊びのうちに入るのかな？」=Yeah, it feels good, but ......, is that part of the game?
+「のんびりできて、楽しいと思うんだけど……だったら綺麗な貝殻でも探してみる？」=I think it'll be fun to relax. ...... would you like to look for some beautiful shells?
+「でも、持って帰ったら怒られるんでしょ？」=But if I take it home, you'll get mad, right?
+「うん、基本的にダメみたい」=Yeah, it's basically a disaster.
+「だったら、私もお散歩だけでいいかなー」=Maybe I'll just go for a walk.

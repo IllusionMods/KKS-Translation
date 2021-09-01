@@ -1,6 +1,6 @@
-「この食堂、色々面白いメニューが揃ってるね」="This restaurant has a lot of interesting dishes."
-「ワタシ達の地元じゃ、ほとんど見かけないお料理ばっかりだよ」="We don't see many of these dishes in our hometown.
-「この辺じゃ、当たり前に食べられてるんだろうね」="I'm sure it's a common food around here.
-「味もしっかりしてて、どれも美味しいんだなぁ」="They all taste good. They all have a good flavor.
-「あのメニューも気になるよね」="I'm also curious about that menu.
-「頼もうよ。ワタシも頑張って残さず食べますぞ」="I'm sure you'll be happy to hear that. I'll do my best to eat everything.
+「この食堂、色々面白いメニューが揃ってるね」=This restaurant has a lot of interesting dishes.
+「ワタシ達の地元じゃ、ほとんど見かけないお料理ばっかりだよ」=We don't see many of these dishes in our hometown.
+「この辺じゃ、当たり前に食べられてるんだろうね」=I'm sure it's a common food around here.
+「味もしっかりしてて、どれも美味しいんだなぁ」=They all taste good. They all have a good flavor.
+「あのメニューも気になるよね」=I'm also curious about that menu.
+「頼もうよ。ワタシも頑張って残さず食べますぞ」=I'm sure you'll be happy to hear that. I'll do my best to eat everything.

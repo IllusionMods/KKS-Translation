@@ -1,1 +1,1 @@
-「――[Pあだ名]」="[P nickname]."
+「――[Pあだ名]」=[P nickname].

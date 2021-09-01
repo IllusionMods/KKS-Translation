@@ -1,6 +1,6 @@
-「これは……箸が止まらなくなっちゃうな」="This is ...... something I can't stop eating."
-「私もなのです！　おかずが豊富で、どんどん食べちゃうですよー」="Me too!　There are so many side dishes, I'm going to eat them all!
-「この定食を頼んで正解だったね。今度もこれを頼もうっと」="It was a good decision to order this set meal. I'll order it again.
-「私はまだ出会えていない美味しいモノを求めて、違うメニューを注文するです！」="I'm going to order from a different menu in search of something delicious that I haven't found yet!
-「探求心があるね。それじゃ、中身汁ってのを頼んでみたら？」="You're inquisitive. Well, why don't you ask for some of that soup?
-「な、中身……！？　ちょっと響きが怖いですが、挑戦あるのみです！」="What's in ......?　It sounds a little scary, but I'm up for the challenge!
+「これは……箸が止まらなくなっちゃうな」=This is ...... something I can't stop eating.
+「私もなのです！　おかずが豊富で、どんどん食べちゃうですよー」=Me too!　There are so many side dishes, I'm going to eat them all!
+「この定食を頼んで正解だったね。今度もこれを頼もうっと」=It was a good decision to order this set meal. I'll order it again.
+「私はまだ出会えていない美味しいモノを求めて、違うメニューを注文するです！」=I'm going to order from a different menu in search of something delicious that I haven't found yet!
+「探求心があるね。それじゃ、中身汁ってのを頼んでみたら？」=You're inquisitive. Well, why don't you ask for some of that soup?
+「な、中身……！？　ちょっと響きが怖いですが、挑戦あるのみです！」=What's in ......?　It sounds a little scary, but I'm up for the challenge!

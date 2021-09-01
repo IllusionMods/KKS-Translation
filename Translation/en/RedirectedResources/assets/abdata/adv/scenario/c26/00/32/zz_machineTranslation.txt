@@ -1,5 +1,5 @@
-「あ……これ、ほしい……」="Oh, ......, I want ...... this.
-「ん？　２つのシーサー……？」="Hmm?　Two Caesars ......?
-「うん……おそろいの、並べるの……これは、あなたと私……」="Yeah, ...... we'll put our matching ...... things together, you and me, ......."
-「なるほどね。それじゃ、俺も買ってこうかな？」="I see. Well, I'll get some, then, won't I?
-「うん……ずっと一緒が、続きますように……」="Yes ...... may we always be together ......"
+「あ……これ、ほしい……」=Oh, ......, I want ...... this.
+「ん？　２つのシーサー……？」=Hmm?　Two Caesars ......?
+「うん……おそろいの、並べるの……これは、あなたと私……」=Yeah, ...... we'll put our matching ...... things together, you and me, .......
+「なるほどね。それじゃ、俺も買ってこうかな？」=I see. Well, I'll get some, then, won't I?
+「うん……ずっと一緒が、続きますように……」=Yes ...... may we always be together ......

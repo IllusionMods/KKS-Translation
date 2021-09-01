@@ -1,5 +1,5 @@
-「さて、何を借りてみようかな……何かやってみたいのってある？」="Well, what shall we rent? ...... Is there anything you'd like to try?
-「ムムム、沢山ありマス……アナタ、読めますカ……？」="Mmmm, there's a lot of ....... Can you read ......?"
-「おっと、そうだなぁ……コレなんかどうかな？」="Whoa, whoa, whoa. How about ......?
-「……あぁ、コレ、なんとなくわかりマス。出来そうデス」="...... Oh, I can see this. I think I can do it.
-「ＯＫ、それじゃ早速借りてやってみよっか」="Okay, well, let's borrow it and try it.
+「さて、何を借りてみようかな……何かやってみたいのってある？」=Well, what shall we rent? ...... Is there anything you'd like to try?
+「ムムム、沢山ありマス……アナタ、読めますカ……？」=Mmmm, there's a lot of ....... Can you read ......?
+「おっと、そうだなぁ……コレなんかどうかな？」=Whoa, whoa, whoa. How about ......?
+「……あぁ、コレ、なんとなくわかりマス。出来そうデス」=...... Oh, I can see this. I think I can do it.
+「ＯＫ、それじゃ早速借りてやってみよっか」=Okay, well, let's borrow it and try it.

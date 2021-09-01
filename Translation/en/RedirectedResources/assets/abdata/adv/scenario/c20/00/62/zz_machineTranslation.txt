@@ -1,5 +1,5 @@
-「それじゃあ、俺がオイルを塗ってあげるよ」="All right, I'll do the oiling.
-「はい……あの、だったら……ま、前もお願いして、いいですか……」="Yes ......, well then ......, can I have the previous one as well ......?"
-「もちろん、俺はいいけど……大丈夫なの？」="Sure, I'll do it. ...... Are you sure?
-「あの……あなたの事、信用してますから……」="Um, ......, I trust you, .......
-「そう言われたら、ちゃんと塗らない訳には行かないね」="I'll do the same. - Well, if you say so, I can't help but apply it properly.
+「それじゃあ、俺がオイルを塗ってあげるよ」=All right, I'll do the oiling.
+「はい……あの、だったら……ま、前もお願いして、いいですか……」=Yes ......, well then ......, can I have the previous one as well ......?
+「もちろん、俺はいいけど……大丈夫なの？」=Sure, I'll do it. ...... Are you sure?
+「あの……あなたの事、信用してますから……」=Um, ......, I trust you, .......
+「そう言われたら、ちゃんと塗らない訳には行かないね」=I'll do the same. - Well, if you say so, I can't help but apply it properly.

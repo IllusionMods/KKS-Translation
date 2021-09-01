@@ -1,36 +1,36 @@
-「<color=yellow>釣り</color>って楽しいよね」="<color=yellow>Fishing is fun, isn't it?
-「釣りあげた時の手ごたえもいいし、のんびり待ってるのも楽しいよ」="The feeling of catching a fish is great, and waiting leisurely is fun, too.
-「私、<color=yellow>シュノーケリング</color>って好きなの」="I like <color=yellow>snorkeling</color>.
-「手軽に海の魚と触れ合える感じがいいよね」="I like snorkeling because it's an easy way to get in touch with the fish in the sea.
-「その遊びも、いいね」="I like that, too.
-「確かに、そっちも面白そうかも」="Yeah, that sounds fun too.
-「好みじゃなかったの？　でも、意外と面白いと思うよ」="You don't like it?　I think it's a lot of fun.
-「違ったんだね……でも、やってみたら気に入るかも」="I didn't know that. ...... But if you try it, you might like it.
-「<color=yellow>水牛</color>って、よく見たら可愛いよね」="<color=yellow>Buffalo</color> is pretty if you look closely.
-「瞳も綺麗だし、ゆっくり歩てるのを見ると、こっちものんびりしてきちゃう」="They have beautiful eyes, and when you see them walking slowly, you start to relax too.
-「私、<color=yellow>ネコ</color>って好きなの」="I like <color=yellow>cats</color>.
-「鳴き声も可愛いし、昼寝してるのを見るとついつい撫でたくなっちゃう」="Their purr is so cute, and when I see them napping, I just want to pet them.
-「<color=yellow>ハイビスカス</color>って、綺麗で素敵だと思う」="I think <color=yellow>hibiscus</color> is beautiful and wonderful.
-「道で咲いてるのを見かけると、この島へようこそって、歓迎されてる気分になるんだよね」="<color=yellow>I think hibiscus</color> is beautiful and lovely. <color=yellow>When I see them blooming on the street, I feel like I'm being welcomed to the island.
-「この島の<color=yellow>星空</color>って、本当に綺麗だよね」="The <color=yellow>starry skies of this island</color> are really beautiful, aren't they?
-「自然に囲まれたこの島が、星明りに照らされてる風景って、すごく幻想的だと思う」="I think it's really fantastic to see this island, surrounded by nature, lit up by starlight.
-「そういう見方もあるんだね。面白いかも」="I guess that's one way of looking at it. It's interesting.
-「確かに、そうやって考えると楽しいかも」="Yeah, it's fun to think about it that way.
-「興味ないの？　だけど、いつか好きになって欲しいかな」="You're not interested?　But I'd like you to like me someday.
-「そういう話じゃないんだ？　結構気に入ってもらえると思ったんだけどな」="That's not what you're talking about?　I thought you'd like it.
-「<color=yellow>チンアナゴ</color>って、よく見ると面白いよね」="<color=yellow>Chinagoes are interesting when you look at them closely, aren't they?
-「ユラユラ揺れてると思ったら、すぐに引っ込んだり……なんだか見ていて飽きない感じ」="They sway and sway, but then they pull back. ...... It's like they never get tired of being watched.
-「私、<color=yellow>クマノミ</color>って結構好きなの」="I like <color=yellow>tiger fish</color> a lot.
-「熱帯魚の中でも、特に好きかな。イソギンチャクに隠れちゃう所とか、可愛いと思う」="I like them a lot. I think it's cute when it hides in the anemone.
-「それね。私もいいと思う」="That's right. I think it's nice, too.
-「やっぱり、それも素敵だと思う」="I think it's nice, too.
-「あんまり好きじゃなかった？　私は結構いいと思ったんだけど」="You didn't like it much?　I thought it was pretty cool.
-「そんなに興味なかったかな……悪くないと思うんだけど」="I guess I wasn't that interested. ...... It's not bad.
-「私、<color=yellow>名物料理</color>って、かなり興味があるんだよね」="I'm quite interested in <color=yellow>specialties</color>, you know?
-「色々試してみたいけど、やっぱりラフテーがいいかな」="I'd like to try some of them, but I think I'll stick with roughage.
-「<color=yellow>シーサー</color>って色んな所で見かけるよね」="You see <I>Shisa</I> everywhere, don't you?
-「どれも可愛くって好きだけど、やっぱり魔除けなんだから、格好いい方がいいよね」="I like all of them because they're cute, but they're supposed to ward off evil, so they should be cool.
-「そうだね。それも素敵だと思う」="That's right. Yeah, I think that would be nice too.
-「なるほど、それも良さそうだね」="I see. That sounds good too.
-「そう……分かってもらえると思ったんだけどな」="Yeah, I was hoping you'd understand .......
-「あれ、違った？　あんまり興味なかったみたいだね」="Oh, no?　You didn't seem very interested.
+「<color=yellow>釣り</color>って楽しいよね」=<color=yellow>Fishing is fun, isn't it?
+「釣りあげた時の手ごたえもいいし、のんびり待ってるのも楽しいよ」=The feeling of catching a fish is great, and waiting leisurely is fun, too.
+「私、<color=yellow>シュノーケリング</color>って好きなの」=I like <color=yellow>snorkeling</color>.
+「手軽に海の魚と触れ合える感じがいいよね」=I like snorkeling because it's an easy way to get in touch with the fish in the sea.
+「その遊びも、いいね」=I like that, too.
+「確かに、そっちも面白そうかも」=Yeah, that sounds fun too.
+「好みじゃなかったの？　でも、意外と面白いと思うよ」=You don't like it?　I think it's a lot of fun.
+「違ったんだね……でも、やってみたら気に入るかも」=I didn't know that. ...... But if you try it, you might like it.
+「<color=yellow>水牛</color>って、よく見たら可愛いよね」=<color=yellow>Buffalo</color> is pretty if you look closely.
+「瞳も綺麗だし、ゆっくり歩てるのを見ると、こっちものんびりしてきちゃう」=They have beautiful eyes, and when you see them walking slowly, you start to relax too.
+「私、<color=yellow>ネコ</color>って好きなの」=I like <color=yellow>cats</color>.
+「鳴き声も可愛いし、昼寝してるのを見るとついつい撫でたくなっちゃう」=Their purr is so cute, and when I see them napping, I just want to pet them.
+「<color=yellow>ハイビスカス</color>って、綺麗で素敵だと思う」=I think <color=yellow>hibiscus</color> is beautiful and wonderful.
+「道で咲いてるのを見かけると、この島へようこそって、歓迎されてる気分になるんだよね」=<color=yellow>I think hibiscus</color> is beautiful and lovely. <color=yellow>When I see them blooming on the street, I feel like I'm being welcomed to the island.
+「この島の<color=yellow>星空</color>って、本当に綺麗だよね」=The <color=yellow>starry skies of this island</color> are really beautiful, aren't they?
+「自然に囲まれたこの島が、星明りに照らされてる風景って、すごく幻想的だと思う」=I think it's really fantastic to see this island, surrounded by nature, lit up by starlight.
+「そういう見方もあるんだね。面白いかも」=I guess that's one way of looking at it. It's interesting.
+「確かに、そうやって考えると楽しいかも」=Yeah, it's fun to think about it that way.
+「興味ないの？　だけど、いつか好きになって欲しいかな」=You're not interested?　But I'd like you to like me someday.
+「そういう話じゃないんだ？　結構気に入ってもらえると思ったんだけどな」=That's not what you're talking about?　I thought you'd like it.
+「<color=yellow>チンアナゴ</color>って、よく見ると面白いよね」=<color=yellow>Chinagoes are interesting when you look at them closely, aren't they?
+「ユラユラ揺れてると思ったら、すぐに引っ込んだり……なんだか見ていて飽きない感じ」=They sway and sway, but then they pull back. ...... It's like they never get tired of being watched.
+「私、<color=yellow>クマノミ</color>って結構好きなの」=I like <color=yellow>tiger fish</color> a lot.
+「熱帯魚の中でも、特に好きかな。イソギンチャクに隠れちゃう所とか、可愛いと思う」=I like them a lot. I think it's cute when it hides in the anemone.
+「それね。私もいいと思う」=That's right. I think it's nice, too.
+「やっぱり、それも素敵だと思う」=I think it's nice, too.
+「あんまり好きじゃなかった？　私は結構いいと思ったんだけど」=You didn't like it much?　I thought it was pretty cool.
+「そんなに興味なかったかな……悪くないと思うんだけど」=I guess I wasn't that interested. ...... It's not bad.
+「私、<color=yellow>名物料理</color>って、かなり興味があるんだよね」=I'm quite interested in <color=yellow>specialties</color>, you know?
+「色々試してみたいけど、やっぱりラフテーがいいかな」=I'd like to try some of them, but I think I'll stick with roughage.
+「<color=yellow>シーサー</color>って色んな所で見かけるよね」=You see <I>Shisa</I> everywhere, don't you?
+「どれも可愛くって好きだけど、やっぱり魔除けなんだから、格好いい方がいいよね」=I like all of them because they're cute, but they're supposed to ward off evil, so they should be cool.
+「そうだね。それも素敵だと思う」=That's right. Yeah, I think that would be nice too.
+「なるほど、それも良さそうだね」=I see. That sounds good too.
+「そう……分かってもらえると思ったんだけどな」=Yeah, I was hoping you'd understand .......
+「あれ、違った？　あんまり興味なかったみたいだね」=Oh, no?　You didn't seem very interested.

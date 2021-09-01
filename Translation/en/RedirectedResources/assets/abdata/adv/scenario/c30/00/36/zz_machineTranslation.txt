@@ -1,5 +1,5 @@
-「さて、何を借りてみようかな……」="Well, what shall I borrow? ......
-「折角二人で来たなら、二人で出来るものがいいよね」="If it's just the two of us, we should do something together.
-「そうだねぇ、何かやってみたいものとかある？」="Well, is there anything you'd like to try?
-「んー？　キミの判断に任せるよー」="Hmm?　I'll let you be the judge.
-「そ、そうか、責任重大だな……それじゃぁ――」="Yeah, well, that's a lot of responsibility. ...... Well, then--
+「さて、何を借りてみようかな……」=Well, what shall I borrow? ......
+「折角二人で来たなら、二人で出来るものがいいよね」=If it's just the two of us, we should do something together.
+「そうだねぇ、何かやってみたいものとかある？」=Well, is there anything you'd like to try?
+「んー？　キミの判断に任せるよー」=Hmm?　I'll let you be the judge.
+「そ、そうか、責任重大だな……それじゃぁ――」=Yeah, well, that's a lot of responsibility. ...... Well, then--

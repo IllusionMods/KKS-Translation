@@ -1,5 +1,5 @@
-「ねぇ、いる……かしら？」="Hey, are you ......?
-「あぁ、入ってきていいよ？」="Yeah, can you come in?
-「お、お邪魔するわね……」="Oh, sorry to bother you. ......
-「ほ、ほら、恋人が来てあげたのよ？　……する事くらい、わかるでしょ……？」="Look, look, my girlfriend came to see you.　You know what you have to do ....... ......?
-「……いない、か……どこ行ったのかしら……」="...... gone or ...... where is he?"
+「ねぇ、いる……かしら？」=Hey, are you ......?
+「あぁ、入ってきていいよ？」=Yeah, can you come in?
+「お、お邪魔するわね……」=Oh, sorry to bother you. ......
+「ほ、ほら、恋人が来てあげたのよ？　……する事くらい、わかるでしょ……？」=Look, look, my girlfriend came to see you.　You know what you have to do ....... ......?
+「……いない、か……どこ行ったのかしら……」=...... gone or ...... where is he?

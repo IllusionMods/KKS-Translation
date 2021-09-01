@@ -1,6 +1,6 @@
-「[H名]……ありがとう、嬉しいよ」="[H名]...... Thank you, that's nice."
-「俺も前から[H名]のことが気になっててさ、いつか告白しようと思ってたんだ」="I've had my eye on you for a while now and I've been meaning to tell you.
-「へっ？　あなたも、私のことが好きだったの……？」="Huh?　Did you like me too ......?
-「うん、好きだよ。だから……俺たち付き合おう！」="Yeah, I like him. So ...... we should go out!
-「……幸せ過ぎて、なんだか夢を見てるみたい」="...... I'm so happy, it's like I'm dreaming.
-「でも、夢じゃないんだもんね。えへへ、やったぁ！　ずっと仲良しでいようね！」="But it's not a dream, is it? It's not a dream.　We're going to be friends forever!
+「[H名]……ありがとう、嬉しいよ」=[H名]...... Thank you, that's nice.
+「俺も前から[H名]のことが気になっててさ、いつか告白しようと思ってたんだ」=I've had my eye on you for a while now and I've been meaning to tell you.
+「へっ？　あなたも、私のことが好きだったの……？」=Huh?　Did you like me too ......?
+「うん、好きだよ。だから……俺たち付き合おう！」=Yeah, I like him. So ...... we should go out!
+「……幸せ過ぎて、なんだか夢を見てるみたい」=...... I'm so happy, it's like I'm dreaming.
+「でも、夢じゃないんだもんね。えへへ、やったぁ！　ずっと仲良しでいようね！」=But it's not a dream, is it? It's not a dream.　We're going to be friends forever!

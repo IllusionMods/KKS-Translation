@@ -1,5 +1,5 @@
-「ねぇ……部屋にいる？」="Hey ......, are you in your room?
-「どうしたの、何かあった？」="What's wrong, what's wrong?
-「なんていうか……ちょっと一人でいるのが寂しくなっちゃったんだよねー」="What can I say? ...... I'm feeling a little lonely being alone.
-「だから、[P名]くんと一緒に、寝ようかな～って……いいでしょ、ね？」="So I thought I'd sleep with [P name]. ...... It's nice, right?"
-「……居ないのぉ？　もう、タイミング悪ぅ」="...... aren't you here?　It's bad timing.
+「ねぇ……部屋にいる？」=Hey ......, are you in your room?
+「どうしたの、何かあった？」=What's wrong, what's wrong?
+「なんていうか……ちょっと一人でいるのが寂しくなっちゃったんだよねー」=What can I say? ...... I'm feeling a little lonely being alone.
+「だから、[P名]くんと一緒に、寝ようかな～って……いいでしょ、ね？」=So I thought I'd sleep with [P name]. ...... It's nice, right?
+「……居ないのぉ？　もう、タイミング悪ぅ」=...... aren't you here?　It's bad timing.

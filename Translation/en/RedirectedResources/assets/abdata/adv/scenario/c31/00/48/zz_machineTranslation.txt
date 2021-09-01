@@ -1,7 +1,7 @@
-「メニューをずっと見てるけど、どうかしたの？」="You keep looking at the menu. What's wrong?
-「どんな料理が出てくるか全く想像できないメニューがあってな……これなんだが」="There's a dish on the menu that I can't even imagine what it's going to be. ...... This is it.
-「『ナーベーラーンブシー』か……ナーベーってのは鍋のことかな？」="'Nabey Rambusy' or ...... Nabey is a pot, right?
-「ここの方言はけっこう変わっているから、そんな単純ではないと思うぞ」="I don't think it's that simple. The dialect here is quite unusual.
-「そっか……じゃあ、検索してみる？」="I see. ...... So you want to do a search?
-「現代人の悪いところが出たな。すぐに調べたりせずに想像力を働かせろ」="That's what's wrong with modern people. Don't be so quick to look things up. Use your imagination.
-「ご、ごめん……」="I'm sorry. ......"
+「メニューをずっと見てるけど、どうかしたの？」=You keep looking at the menu. What's wrong?
+「どんな料理が出てくるか全く想像できないメニューがあってな……これなんだが」=There's a dish on the menu that I can't even imagine what it's going to be. ...... This is it.
+「『ナーベーラーンブシー』か……ナーベーってのは鍋のことかな？」='Nabey Rambusy' or ...... Nabey is a pot, right?
+「ここの方言はけっこう変わっているから、そんな単純ではないと思うぞ」=I don't think it's that simple. The dialect here is quite unusual.
+「そっか……じゃあ、検索してみる？」=I see. ...... So you want to do a search?
+「現代人の悪いところが出たな。すぐに調べたりせずに想像力を働かせろ」=That's what's wrong with modern people. Don't be so quick to look things up. Use your imagination.
+「ご、ごめん……」=I'm sorry. ......

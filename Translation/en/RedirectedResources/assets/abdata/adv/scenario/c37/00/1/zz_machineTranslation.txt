@@ -1,6 +1,6 @@
-「そうですか、わかりました」="Okay, okay.
-「……えっと、返事は……？」="...... Um, did you reply to ......?
+「そうですか、わかりました」=Okay, okay.
+「……えっと、返事は……？」=...... Um, did you reply to ......?
 「？　わかりました、と言ったはずですが？」="What?　I said, "Okay," didn't I?
-「……えっと、一応、付き合ってくれるって事でいいのかな？」="...... Well, are you sure you want to go out with me?
-「はい。お互い、恋人同士という事でこれからもよろしくお願いします」="Yes. I hope we can continue to be lovers.
-「う、うん、よろしくね……？」="Yeah, yeah, nice to meet you. ......?
+「……えっと、一応、付き合ってくれるって事でいいのかな？」=...... Well, are you sure you want to go out with me?
+「はい。お互い、恋人同士という事でこれからもよろしくお願いします」=Yes. I hope we can continue to be lovers.
+「う、うん、よろしくね……？」=Yeah, yeah, nice to meet you. ......?

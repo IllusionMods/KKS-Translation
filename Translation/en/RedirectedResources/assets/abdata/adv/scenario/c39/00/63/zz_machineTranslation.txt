@@ -1,4 +1,4 @@
-「えへ、でーじよかったさー♪　キミにお願いして正解だったねー」="I'm so glad I asked you to do it.
-「ありがとー。気持ち良かったよー」="Thanks. That felt good.
-「悪くなかったはずー。ありがとー」="It wasn't bad. Thank you.
-「あい？　本当に終わっちゃうわけ？」="Ai?　Is it really over?
+「えへ、でーじよかったさー♪　キミにお願いして正解だったねー」=I'm so glad I asked you to do it.
+「ありがとー。気持ち良かったよー」=Thanks. That felt good.
+「悪くなかったはずー。ありがとー」=It wasn't bad. Thank you.
+「あい？　本当に終わっちゃうわけ？」=Ai?　Is it really over?

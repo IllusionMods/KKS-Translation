@@ -1,5 +1,5 @@
-「滝の音って、なんか癒されると思わない？」="The sound of a waterfall is soothing, don't you think?
-「はい、よく分かります。でも、どうして癒されるんでしょう？　不思議です」="Yes, I know exactly what you mean. But why is it soothing?　I wonder.
-「うーん、野生の本能、とか？　ほら、俺たちにとって水は生きる為に欠かせないものだからさ」="Hmmm, wild instincts?　You know, water is essential for our survival.
-「滝の音がする＝そこには水がある、って感じで癒されるんじゃないかな」="The sound of a waterfall means there's water there, and that's soothing.
-「ふふ、ユニークな仮説ですね」="Hmm, that's a unique theory."
+「滝の音って、なんか癒されると思わない？」=The sound of a waterfall is soothing, don't you think?
+「はい、よく分かります。でも、どうして癒されるんでしょう？　不思議です」=Yes, I know exactly what you mean. But why is it soothing?　I wonder.
+「うーん、野生の本能、とか？　ほら、俺たちにとって水は生きる為に欠かせないものだからさ」=Hmmm, wild instincts?　You know, water is essential for our survival.
+「滝の音がする＝そこには水がある、って感じで癒されるんじゃないかな」=The sound of a waterfall means there's water there, and that's soothing.
+「ふふ、ユニークな仮説ですね」=Hmm, that's a unique theory.

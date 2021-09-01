@@ -1,6 +1,6 @@
-「……俺のこと、好きだったんだ」="...... You liked me.
-「うん……ちゃんと、伝わったよね？」="Yeah, ......, you got that, right?"
-「大丈夫、伝わったよ……俺も、きみの事が好きだから」="Don't worry, I got the message. ...... I like you, too.
-「君も私の事を……だったら私達、恋人同士になれるのかな」="I don't know if we'd be lovers if you had ...... feelings for me.
-「なれるよ……これからもよろしくね」="You can be. ...... Keep up the good work."
-「こちらこそ、よろしくお願いします」="It's nice to meet you, too.
+「……俺のこと、好きだったんだ」=...... You liked me.
+「うん……ちゃんと、伝わったよね？」=Yeah, ......, you got that, right?
+「大丈夫、伝わったよ……俺も、きみの事が好きだから」=Don't worry, I got the message. ...... I like you, too.
+「君も私の事を……だったら私達、恋人同士になれるのかな」=I don't know if we'd be lovers if you had ...... feelings for me.
+「なれるよ……これからもよろしくね」=You can be. ...... Keep up the good work.
+「こちらこそ、よろしくお願いします」=It's nice to meet you, too.

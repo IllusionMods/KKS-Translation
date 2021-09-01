@@ -1,5 +1,5 @@
-「ふふっ、それで……アタシを部屋に連れ込んでどうするつもりー？　やらしいことしたい感じ？」="Hmmm, so what are you going to do with ...... me in your room?　Are you trying to make me do something naughty?
-「うん……[H名]が俺の部屋まで来てくれたんだし……このまま帰したくない」="Yeah, ......[H名] came to my room, and ...... I don't want to leave him there.
-「やっぱり～。いいよ、アタシもそのつもりで付いて来たから」="I knew it! I've been following you for a while now.
-「[H名]……好きだ」="I love [H名].......
-「アタシも、キミの事大好きだからね」="I like you a lot, too.
+「ふふっ、それで……アタシを部屋に連れ込んでどうするつもりー？　やらしいことしたい感じ？」=Hmmm, so what are you going to do with ...... me in your room?　Are you trying to make me do something naughty?
+「うん……[H名]が俺の部屋まで来てくれたんだし……このまま帰したくない」=Yeah, ......[H名] came to my room, and ...... I don't want to leave him there.
+「やっぱり～。いいよ、アタシもそのつもりで付いて来たから」=I knew it! I've been following you for a while now.
+「[H名]……好きだ」=I love [H名].......
+「アタシも、キミの事大好きだからね」=I like you a lot, too.

@@ -1,2 +1,2 @@
-「それじゃあ私、先に出て部屋に戻るから」="I'll be out in a minute. I'll be back in my room.
-「また後でねー」="See you later.
+「それじゃあ私、先に出て部屋に戻るから」=I'll be out in a minute. I'll be back in my room.
+「また後でねー」=See you later.

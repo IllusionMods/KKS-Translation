@@ -1,7 +1,7 @@
-「冗談じゃ……ないのよね？」="Are you kidding me? You're not ......?
-「うん、本気だよ。本気で好きなんだ」="Yeah, I'm serious. I really like it.
-「そ、そう……ごめんなさい、突然のことで頭が混乱していて……」="Yeah. ...... I'm sorry, I'm just a little confused all of a sudden. ......
-「こっちこそ、急にごめんね。その……返事はいつでもいいから」="I'm sorry for the rush. I'm sorry for the short notice, but I'm always ready to ...... answer.
-「……大丈夫、気持ちの整理がついたわ。私も、あなたのことが好きよ」="...... Don't worry, I've sorted out my feelings. I like you, too.
-「ほ、本当？　それじゃ……」="Oh, really?　Okay, .......
-「うん。これからは、彼氏彼女としてよろしくね？」="Yes. From now on, let's be boyfriend and girlfriend, okay?
+「冗談じゃ……ないのよね？」=Are you kidding me? You're not ......?
+「うん、本気だよ。本気で好きなんだ」=Yeah, I'm serious. I really like it.
+「そ、そう……ごめんなさい、突然のことで頭が混乱していて……」=Yeah. ...... I'm sorry, I'm just a little confused all of a sudden. ......
+「こっちこそ、急にごめんね。その……返事はいつでもいいから」=I'm sorry for the rush. I'm sorry for the short notice, but I'm always ready to ...... answer.
+「……大丈夫、気持ちの整理がついたわ。私も、あなたのことが好きよ」=...... Don't worry, I've sorted out my feelings. I like you, too.
+「ほ、本当？　それじゃ……」=Oh, really?　Okay, .......
+「うん。これからは、彼氏彼女としてよろしくね？」=Yes. From now on, let's be boyfriend and girlfriend, okay?

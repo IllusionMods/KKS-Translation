@@ -1,4 +1,4 @@
-「カヤックとなると一人乗りと二人乗りがあるけど……」="There are two types of kayaks: single-seater and two-seater. ......
-「なら二人乗り一択ね、一緒にがんばりましょ？」="Then we'll just have to ride together. Let's do it together.
-「了解、二人で力を合わせれば楽勝かな？」="Okay. If we work together, we'll be fine.
-「うんうん、私達の力、見せつけちゃおっか」="Yeah, let's show them what we can do.
+「カヤックとなると一人乗りと二人乗りがあるけど……」=There are two types of kayaks: single-seater and two-seater. ......
+「なら二人乗り一択ね、一緒にがんばりましょ？」=Then we'll just have to ride together. Let's do it together.
+「了解、二人で力を合わせれば楽勝かな？」=Okay. If we work together, we'll be fine.
+「うんうん、私達の力、見せつけちゃおっか」=Yeah, let's show them what we can do.

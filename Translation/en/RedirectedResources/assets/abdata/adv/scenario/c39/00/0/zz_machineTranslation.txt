@@ -1,7 +1,7 @@
-「キミのこと、もっと知りたいって言ったら……迷惑かなー？」="Would it bother you if I told you I wanted to know more about you?
-「全然迷惑じゃないよ！　でも、一つだけ条件が……」="I'm not bothering you at all!　But there is one condition: ......
-「なに？　訛りを直せとかは難しいよー？　これはもう、ちょっとやそっとで直るものじゃ……」="What?　It's hard to fix your accent.　It's not something that can be fixed with a little bit of .......
-「いや、訛りは可愛いからそのままで大丈夫。条件はその……俺も[H名]のことがもっと知りたいなって」="No, the accent is cute and you can keep it. No, you can keep your accent, it's cute. The condition is that ...... I want to know more about [H名].
-「じゃあ、お互い教えっこだねぇ。あとその、自分の訛り……可愛いってほんとに思ってくれてるのー？」="So, let's teach each other. Also, do you really think my accent is ...... cute?
-「もちろん！　なんか特殊な方言とかあったら教えて欲しいくらいだよ」="Of course!　If you have any special dialect, I'd like to know it.
-「えへへ、しに嬉しい！　えっとね『しに』とか『でーじ』は『とっても』って意味よー」="I'm so happy for you!　I'm not sure what to say, but I'm not sure what to say.
+「キミのこと、もっと知りたいって言ったら……迷惑かなー？」=Would it bother you if I told you I wanted to know more about you?
+「全然迷惑じゃないよ！　でも、一つだけ条件が……」=I'm not bothering you at all!　But there is one condition: ......
+「なに？　訛りを直せとかは難しいよー？　これはもう、ちょっとやそっとで直るものじゃ……」=What?　It's hard to fix your accent.　It's not something that can be fixed with a little bit of .......
+「いや、訛りは可愛いからそのままで大丈夫。条件はその……俺も[H名]のことがもっと知りたいなって」=No, the accent is cute and you can keep it. No, you can keep your accent, it's cute. The condition is that ...... I want to know more about [H名].
+「じゃあ、お互い教えっこだねぇ。あとその、自分の訛り……可愛いってほんとに思ってくれてるのー？」=So, let's teach each other. Also, do you really think my accent is ...... cute?
+「もちろん！　なんか特殊な方言とかあったら教えて欲しいくらいだよ」=Of course!　If you have any special dialect, I'd like to know it.
+「えへへ、しに嬉しい！　えっとね『しに』とか『でーじ』は『とっても』って意味よー」=I'm so happy for you!　I'm not sure what to say, but I'm not sure what to say.

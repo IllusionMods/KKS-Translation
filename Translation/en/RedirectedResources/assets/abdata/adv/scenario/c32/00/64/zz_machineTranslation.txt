@@ -1,4 +1,4 @@
-「ありがとうございました、あなたに塗ってもらえてとても幸せです」="Thank you very much. I'm very happy to have you painting me.
-「やはりあなたの手は気持ちいいですね、ありがとうございました」="Your hands feel great after all, thank you very much.
-「お疲れさまでした、次もまた、よろしくお願いします」="Thank you for your hard work. I look forward to working with you again.
-「また来ましょう。その時は、改めてお願いしますね」="We'll come back. We'll come back again. We'll come back again.
+「ありがとうございました、あなたに塗ってもらえてとても幸せです」=Thank you very much. I'm very happy to have you painting me.
+「やはりあなたの手は気持ちいいですね、ありがとうございました」=Your hands feel great after all, thank you very much.
+「お疲れさまでした、次もまた、よろしくお願いします」=Thank you for your hard work. I look forward to working with you again.
+「また来ましょう。その時は、改めてお願いしますね」=We'll come back. We'll come back again. We'll come back again.

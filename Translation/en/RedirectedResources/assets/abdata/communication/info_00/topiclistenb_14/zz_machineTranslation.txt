@@ -1,36 +1,36 @@
-「<color=yellow>ツリーイング</color>って面白いよな」="<color=yellow>Treeing</color> is interesting, isn't it?
-「それいいな。私、木登りとか結構好きなんだよ」="I like that. I like tree climbing a lot.
-「やっぱ、ビーチって言えば<color=yellow>バナナボート</color>だよな」="The beach is all about banana boats, right?
-「いいよな。あぁ言うスピード感のあるやつ、大好きだぜ」="It's good. I love that kind of speedy stuff.
-「<color=yellow>カヤック</color>って最高だよな」="Kayaks are the best.
-「アレ漕いでると、なんか探検してる気分になって燃えて来るんだよな」="When you're paddling that thing, you feel like you're exploring, and it burns you up.
-「おう、それも面白そうだな」="Yeah, that sounds like fun.
-「そっちもなかなか盛り上がりそうじゃねぇか」="That sounds like a lot of fun.
-「なんだ、乗り気じゃないんだな？　結構面白いと思うぜ」="What, you're not into it?　I think it's pretty funny.
-「お前はあんまり好きじゃないみたいだな。やったら変わると思うぜ」="You don't seem to like it much. You don't seem to like it much. You'll change when you try it.
-「<color=yellow>パワースポット</color>って、なんかカッコいいよな」="<color=yellow>Power Spot</color> is kind of cool, isn't it?
-「まず、名前の響きがいいよな。すげぇ力が溢れてるって感じがするぜ」="First of all, I like the sound of the name. First of all, I like the sound of the name. It sounds like it's full of power.
-「<color=yellow>ガジュマル</color>の木ってすげぇよな」="<color=yellow>Banyan tree</color> is amazing.
-「あの、幹が絡まり合ってる感じ……自然の力強さを感じるぜ」="The way the trunks are intertwined, you can feel the power of ...... nature.
-「あれな。私も悪くないとおもうぜ」="You know. I think it's not bad either.
-「知ってる知ってる、あれもいいよな」="I know, I know. It's good, too.
-「そうか……私は好きなんだけど、お前もちゃんと見た方がいいぞ」="Yeah. ...... I like it, but you should see it.
-「なんだ、お前はそんなに気に入ってないのか？　勿体ないぞ」="What, you don't like it that much?　It's a waste of time.
-「<color=yellow>チンアナゴ</color>って、面白いよな」="<color=yellow>Chinagoes are funny, aren't they?
-「あいつら揃って穴から顔出して揺れてる所とか、愛嬌あっていいと思うぜ」="They're funny, aren't they?
-「<color=yellow>シオマネキ</color>ってすげぇカッコいいよな」="<color=yellow>Shiromonera</color> are really cool, aren't they?
-「あのでっかい片手がいいんだよな。迫力があって私は好きだぜ」="I like its big hand, don't you? I like it because it's powerful.
-「あぁ、確かにあれも面白いよな」="Yeah, that's interesting, too.
-「なるほどな、それもいい感じだな」="I see. That's a nice touch.
-「そうか……でも、お前が思ってるよりずっといいんだぜ？」="Yeah, ...... is a lot better than you think, though, isn't it?
-「なんだ、反応よくないな……ちゃんと見ればお前も気に入ると思うぜ」="Yeah, it's not a good response. ...... I think you'd like it if you saw it.
-「<color=yellow>お土産</color>買う時ってワクワクするよな。旅の思い出にもなるからな」="<color=yellow>Buying souvenirs</color> is exciting, isn't it? It's a great way to remember your trip.
-「やっぱり、お土産買うなら、ちゃんと渡す相手の事も考えないとだめだぞ」="<color=yellow>Buying souvenirs is exciting because it gives you memories of your trip.
-「<color=yellow>シークヮーサージュース</color>って、旨いよな」="<color=yellow>Shikwasa Juice</color> is delicious, isn't it?
-「私、ああ言う酸っぱいのが、結構好きなんだ。口の中がさっぱりするからな」="I like that kind of sour stuff. I like that kind of sour stuff a lot, it refreshes the palate.
-「私だって、<color=yellow>ぬいぐるみ</color>とか割と好きなんだぞ」="I also like <color=yellow>stuffed animals</color> a lot.
-「ぬいぐるみか、いいと思うぜ。私も嫌いじゃないし」="Stuffed animals are good. I don't mind them either.
-「そうか、そっちも悪くないな」="Yeah, that's not so bad.
-「わかった、それもいいと思うぜ」="All right, I think that's a good idea.
-「どうした、そんなに興味ないのか？　……残念だぜ」="What's the matter, you're not interested?　...... Too bad.
-「そうか……少しは、わかってもらえると思ったんだけどな」="Well, ......, I thought you'd understand a little better.
+「<color=yellow>ツリーイング</color>って面白いよな」=<color=yellow>Treeing</color> is interesting, isn't it?
+「それいいな。私、木登りとか結構好きなんだよ」=I like that. I like tree climbing a lot.
+「やっぱ、ビーチって言えば<color=yellow>バナナボート</color>だよな」=The beach is all about banana boats, right?
+「いいよな。あぁ言うスピード感のあるやつ、大好きだぜ」=It's good. I love that kind of speedy stuff.
+「<color=yellow>カヤック</color>って最高だよな」=Kayaks are the best.
+「アレ漕いでると、なんか探検してる気分になって燃えて来るんだよな」=When you're paddling that thing, you feel like you're exploring, and it burns you up.
+「おう、それも面白そうだな」=Yeah, that sounds like fun.
+「そっちもなかなか盛り上がりそうじゃねぇか」=That sounds like a lot of fun.
+「なんだ、乗り気じゃないんだな？　結構面白いと思うぜ」=What, you're not into it?　I think it's pretty funny.
+「お前はあんまり好きじゃないみたいだな。やったら変わると思うぜ」=You don't seem to like it much. You don't seem to like it much. You'll change when you try it.
+「<color=yellow>パワースポット</color>って、なんかカッコいいよな」=<color=yellow>Power Spot</color> is kind of cool, isn't it?
+「まず、名前の響きがいいよな。すげぇ力が溢れてるって感じがするぜ」=First of all, I like the sound of the name. First of all, I like the sound of the name. It sounds like it's full of power.
+「<color=yellow>ガジュマル</color>の木ってすげぇよな」=<color=yellow>Banyan tree</color> is amazing.
+「あの、幹が絡まり合ってる感じ……自然の力強さを感じるぜ」=The way the trunks are intertwined, you can feel the power of ...... nature.
+「あれな。私も悪くないとおもうぜ」=You know. I think it's not bad either.
+「知ってる知ってる、あれもいいよな」=I know, I know. It's good, too.
+「そうか……私は好きなんだけど、お前もちゃんと見た方がいいぞ」=Yeah. ...... I like it, but you should see it.
+「なんだ、お前はそんなに気に入ってないのか？　勿体ないぞ」=What, you don't like it that much?　It's a waste of time.
+「<color=yellow>チンアナゴ</color>って、面白いよな」=<color=yellow>Chinagoes are funny, aren't they?
+「あいつら揃って穴から顔出して揺れてる所とか、愛嬌あっていいと思うぜ」=They're funny, aren't they?
+「<color=yellow>シオマネキ</color>ってすげぇカッコいいよな」=<color=yellow>Shiromonera</color> are really cool, aren't they?
+「あのでっかい片手がいいんだよな。迫力があって私は好きだぜ」=I like its big hand, don't you? I like it because it's powerful.
+「あぁ、確かにあれも面白いよな」=Yeah, that's interesting, too.
+「なるほどな、それもいい感じだな」=I see. That's a nice touch.
+「そうか……でも、お前が思ってるよりずっといいんだぜ？」=Yeah, ...... is a lot better than you think, though, isn't it?
+「なんだ、反応よくないな……ちゃんと見ればお前も気に入ると思うぜ」=Yeah, it's not a good response. ...... I think you'd like it if you saw it.
+「<color=yellow>お土産</color>買う時ってワクワクするよな。旅の思い出にもなるからな」=<color=yellow>Buying souvenirs</color> is exciting, isn't it? It's a great way to remember your trip.
+「やっぱり、お土産買うなら、ちゃんと渡す相手の事も考えないとだめだぞ」=<color=yellow>Buying souvenirs is exciting because it gives you memories of your trip.
+「<color=yellow>シークヮーサージュース</color>って、旨いよな」=<color=yellow>Shikwasa Juice</color> is delicious, isn't it?
+「私、ああ言う酸っぱいのが、結構好きなんだ。口の中がさっぱりするからな」=I like that kind of sour stuff. I like that kind of sour stuff a lot, it refreshes the palate.
+「私だって、<color=yellow>ぬいぐるみ</color>とか割と好きなんだぞ」=I also like <color=yellow>stuffed animals</color> a lot.
+「ぬいぐるみか、いいと思うぜ。私も嫌いじゃないし」=Stuffed animals are good. I don't mind them either.
+「そうか、そっちも悪くないな」=Yeah, that's not so bad.
+「わかった、それもいいと思うぜ」=All right, I think that's a good idea.
+「どうした、そんなに興味ないのか？　……残念だぜ」=What's the matter, you're not interested?　...... Too bad.
+「そうか……少しは、わかってもらえると思ったんだけどな」=Well, ......, I thought you'd understand a little better.

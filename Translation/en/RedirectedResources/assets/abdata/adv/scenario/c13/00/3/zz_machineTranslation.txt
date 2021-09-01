@@ -1,6 +1,6 @@
-「それ、本気なの？」="Are you sure about that?
-「いくらアタシでも、こんな事冗談で言わないって……それで、どうなの？」="Even I wouldn't joke about something like this. ...... So, what do you think?
-「ありがとう。俺も、[H名]の事、すごく好きだよ」="Thank you. I really like you, too, [H名].
-「マジで？！　それじゃあ、返事はＯＫって事？」="Seriously?　So you're okay with my answer?
-「もちろん。俺で良かったら、[H名]と付き合うよ」="Of course. I'll go out with [H名] if you want.
-「ヤッター！　これでアタシ達、恋人同士だね……これからも、宜しくね」="Yay!　Now we're lovers. ...... I'll look forward to seeing you again.
+「それ、本気なの？」=Are you sure about that?
+「いくらアタシでも、こんな事冗談で言わないって……それで、どうなの？」=Even I wouldn't joke about something like this. ...... So, what do you think?
+「ありがとう。俺も、[H名]の事、すごく好きだよ」=Thank you. I really like you, too, [H名].
+「マジで？！　それじゃあ、返事はＯＫって事？」=Seriously?　So you're okay with my answer?
+「もちろん。俺で良かったら、[H名]と付き合うよ」=Of course. I'll go out with [H名] if you want.
+「ヤッター！　これでアタシ達、恋人同士だね……これからも、宜しくね」=Yay!　Now we're lovers. ...... I'll look forward to seeing you again.

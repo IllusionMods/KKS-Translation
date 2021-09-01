@@ -1,7 +1,7 @@
-「折角だし、ビーチらしいことをして遊びたいよね」="Let's do something beachy for a change.
-「そうですね。でも……ビーチらしい遊びは、何があるんでしょうか？」="That's right. But what about ...... beachy fun?
-「うーん、定番はビーチバレーかな。二人でも出来るし」="It's not that I don't like it or anything. It can be played by two people.
-「な、なるほど……ですが、すみません……私の場合、足を引っ張ってしまうと思います……」="I see. ...... But I'm sorry, ...... I'm afraid I'm going to have to drag you down. ......
-「別に俺は気にしないけど……[H名]が乗り気じゃないなら、のんびり砂浜でもあるこうか」="I don't mind, but if ......[H名] doesn't want to go, we can relax and go to the beach.
-「ふたりで海辺の生き物を探したりしよう」="Let's both look for creatures on the beach."
-「あ……はいっ、ありがとうございます」="Oh ......, yes, thank you."
+「折角だし、ビーチらしいことをして遊びたいよね」=Let's do something beachy for a change.
+「そうですね。でも……ビーチらしい遊びは、何があるんでしょうか？」=That's right. But what about ...... beachy fun?
+「うーん、定番はビーチバレーかな。二人でも出来るし」=It's not that I don't like it or anything. It can be played by two people.
+「な、なるほど……ですが、すみません……私の場合、足を引っ張ってしまうと思います……」=I see. ...... But I'm sorry, ...... I'm afraid I'm going to have to drag you down. ......
+「別に俺は気にしないけど……[H名]が乗り気じゃないなら、のんびり砂浜でもあるこうか」=I don't mind, but if ......[H名] doesn't want to go, we can relax and go to the beach.
+「ふたりで海辺の生き物を探したりしよう」=Let's both look for creatures on the beach.
+「あ……はいっ、ありがとうございます」=Oh ......, yes, thank you.

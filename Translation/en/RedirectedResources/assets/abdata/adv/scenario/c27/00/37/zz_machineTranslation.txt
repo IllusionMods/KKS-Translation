@@ -1,6 +1,6 @@
-「何か借りてみたりアクティビティとかしてみる？」="Do you want to borrow something or do an activity or something?
-「そうね、二人で出来そうなものってあるかしら？」="Well, is there anything we can do together?
-「んー、じゃあコレとかどうかな？」="Hmm, how about this?
-「……結構密着するのね」="...... It's pretty close.
-「あ……嫌だったかな？」="Oh, ...... did you not like that?
-「べ、別に嫌って訳じゃないから……ほら、やってみましょ？」="It's not that I don't like it. ...... Come on, let's try it.
+「何か借りてみたりアクティビティとかしてみる？」=Do you want to borrow something or do an activity or something?
+「そうね、二人で出来そうなものってあるかしら？」=Well, is there anything we can do together?
+「んー、じゃあコレとかどうかな？」=Hmm, how about this?
+「……結構密着するのね」=...... It's pretty close.
+「あ……嫌だったかな？」=Oh, ...... did you not like that?
+「べ、別に嫌って訳じゃないから……ほら、やってみましょ？」=It's not that I don't like it. ...... Come on, let's try it.

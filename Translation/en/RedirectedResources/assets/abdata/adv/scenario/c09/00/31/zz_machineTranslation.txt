@@ -1,6 +1,6 @@
-「灯台って、どうしてこんな場所に建ってるの？」="Why are lighthouses built in places like this?
-「航海中の船に場所を知らせる為だよ。内陸の方に建ってたら見えないでしょ」="It's a way to let ships know where you are. If it's built inland, they can't see it.
-「後悔中の船……？　言ってる意味はよく分からないけど、分かったわ」="Regretting the ship ......?　I don't know what you mean, but I get it.
-「分からないのに、何が分かったの？」="If you don't know, what do you know?
-「あたしには分からないことが、分かったのよ」="You've taught me something I didn't know I needed to know.
+「灯台って、どうしてこんな場所に建ってるの？」=Why are lighthouses built in places like this?
+「航海中の船に場所を知らせる為だよ。内陸の方に建ってたら見えないでしょ」=It's a way to let ships know where you are. If it's built inland, they can't see it.
+「後悔中の船……？　言ってる意味はよく分からないけど、分かったわ」=Regretting the ship ......?　I don't know what you mean, but I get it.
+「分からないのに、何が分かったの？」=If you don't know, what do you know?
+「あたしには分からないことが、分かったのよ」=You've taught me something I didn't know I needed to know.
 （なんで誇らしげに言うんだろう……）=(Why does he say it so proudly? ......)

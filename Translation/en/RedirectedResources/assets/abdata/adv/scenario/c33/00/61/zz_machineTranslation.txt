@@ -1,5 +1,5 @@
-「あら、ここのオイルは使い放題なのかしら？」="Oh, I wonder if they have unlimited oil?
-「そうみたい。ここでオイルエステ的な事をご自由にってことかな？」="I guess so. You mean I can use this place to do my oil-therapy thing?
-「そう。なら折角だし、あなたに塗ってもらおうかしら？」="Yes. Then why don't I have you paint it for me?
-「え？　確かにスタッフは見当たらないけど、俺でいいの？」="What?　I mean, I don't see any staff. Are you sure it's me?
-「勿論よ。あ、でもあくまで背中だけよ？　変な事しちゃダメだからね？」="Of course. Of course, but only on your back.　Don't do anything funny, okay?
+「あら、ここのオイルは使い放題なのかしら？」=Oh, I wonder if they have unlimited oil?
+「そうみたい。ここでオイルエステ的な事をご自由にってことかな？」=I guess so. You mean I can use this place to do my oil-therapy thing?
+「そう。なら折角だし、あなたに塗ってもらおうかしら？」=Yes. Then why don't I have you paint it for me?
+「え？　確かにスタッフは見当たらないけど、俺でいいの？」=What?　I mean, I don't see any staff. Are you sure it's me?
+「勿論よ。あ、でもあくまで背中だけよ？　変な事しちゃダメだからね？」=Of course. Of course, but only on your back.　Don't do anything funny, okay?

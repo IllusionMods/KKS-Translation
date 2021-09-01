@@ -1,5 +1,5 @@
-「オイル塗り……なんだか美容に良さそうな気がするのですっ」="Oiling ...... seems like it would be good for my beauty.
-「興味あるの？　じゃあ俺が塗ってあげるよ」="You're interested?　Then I'll paint it for you.
-「……下心はないですよね？」="...... You don't have ulterior motives, do you?
-「当然だよっ」="Of course.
-「えへへ、冗談なのです。よろしくお願いするですねっ」="I'm just kidding. I'm just kidding. Please take care of me.
+「オイル塗り……なんだか美容に良さそうな気がするのですっ」=Oiling ...... seems like it would be good for my beauty.
+「興味あるの？　じゃあ俺が塗ってあげるよ」=You're interested?　Then I'll paint it for you.
+「……下心はないですよね？」=...... You don't have ulterior motives, do you?
+「当然だよっ」=Of course.
+「えへへ、冗談なのです。よろしくお願いするですねっ」=I'm just kidding. I'm just kidding. Please take care of me.

@@ -1,6 +1,6 @@
-「え、もちろん本当だったらすごく嬉しいけど……」="Well, of course I'd be very happy if that were true, but ......
-「ふーん？　嬉しいだけ？」="Hmm?　You're just happy?
-「えっと、付き合ったりとかいちゃいちゃしてみたい、かな……？」="Well, do you want to go out with me or make out with me, ......?
-「よし、じゃあ付き合おっか。カップル成立っと」="Okay, let's go out. As a couple.
-「え？　……え？」="What?　...... What?
-「ふふっ、これから末永くよろしくね……？」="Hmm, I'll look forward to working with you for a long time. ......?
+「え、もちろん本当だったらすごく嬉しいけど……」=Well, of course I'd be very happy if that were true, but ......
+「ふーん？　嬉しいだけ？」=Hmm?　You're just happy?
+「えっと、付き合ったりとかいちゃいちゃしてみたい、かな……？」=Well, do you want to go out with me or make out with me, ......?
+「よし、じゃあ付き合おっか。カップル成立っと」=Okay, let's go out. As a couple.
+「え？　……え？」=What?　...... What?
+「ふふっ、これから末永くよろしくね……？」=Hmm, I'll look forward to working with you for a long time. ......?

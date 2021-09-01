@@ -1,36 +1,36 @@
-「私、<color=yellow>シュノーケリング</color>に興味があります♡」="I'm interested in <color=yellow>snorkeling</color>.
-「あなたと一緒に潜れたなら、同じ海水に溶け込んだみたいで、堪らないでしょうね♡」="If I could dive with you, I would feel like I'm in the same ocean, it would be so exciting.
-「私、<color=yellow>トレッキング</color>にすごく興味があるんです♡」="I'm really interested in <color=yellow>trekking</color>.
-「ただ、あなたと歩きたいだけなんです♡　そしたら、景色もまるで違ってくると思うので♡」="I just want to walk with you.
-「それは、素晴らしいですね♡」="That sounds wonderful.
-「分かります。素敵ですね♡」="I understand. It's so nice.
-「興味ないんですか？　大丈夫です、あなたならきっと良さに気づきますから♡」="You're not interested?　Don't worry, I'm sure you'll find it interesting.
-「面白くありませんか？　もしよかったら、一度試してみてください♡」="Isn't it interesting?　If you want, you can try it out.
-「私、<color=yellow>水牛</color>を見ると妄想が止まらなくなるんです♡」="I can't stop fantasizing about <color=yellow>water buffaloes</color> when I see them.
-「あなたと一緒に水牛に乗って、島中を回ってみたいです♡」="I'd like to ride around the island with you on a buffalo.
-「<color=yellow>マングローブ</color>、とても神秘的だと思います♡」="I think the <color=yellow>mangroves</color> are very mysterious.
-「あの絡まり合った幹が、私たちの運命を表しているようです♡」="Those tangled trunks seem to represent our destiny.
-「私、<color=yellow>パワースポット</color>は見逃さないようにしてるんです♡」="I try not to miss any <color=yellow>power spots</color>.
-「縁結びのパワースポットがあったら、必ず行くつもりですから♡」="If there is a power spot for marriage, I will definitely go there.
-「私、<color=yellow>星空</color>を見上げるのが大好きなんです♡」="I love to look up at the <color=yellow>starry sky</color>.
-「あなたと見上げる星空。新しい星座を見つけて、あなたと名前を付けたいです♡」="I love to look up at the <color=yellow>starry sky</color>. I want to find a new constellation and name it after you.
-「もちろん、それも素敵だと思います♡」="Of course, I think that would be wonderful too.
-「あなたの見る目は、素晴らしいですね♡」="You have a wonderful eye for detail.
-「そんなに興味ありませんか？　悪くないと思ったんですが……」="Are you not that interested?　I thought it wasn't bad. ......
-「そうですか……あなたの好みがわからないなんて、自分が許せません……」="I see. ...... I can't forgive myself for not knowing what you like. ......
-「<color=yellow>サンゴ</color>って、神秘的だと思いませんか？」="<color=yellow>Coral</color> is mysterious, don't you think?
-「大きさによっては千年生きるものもあるそうです……私も、千年変わらぬ想いを抱いてみたいです♡」="<color=yellow>Coral</color> is mysterious, isn't it? <color=yellow>Some corals live for a thousand years, depending on their size. ...... I'd like to have the same feelings for you for a thousand years.
-「<color=yellow>クマノミ</color>って、とても素敵だと思います♡」="I think <color=yellow>tardigrades</color> are very beautiful.
+「私、<color=yellow>シュノーケリング</color>に興味があります♡」=I'm interested in <color=yellow>snorkeling</color>.
+「あなたと一緒に潜れたなら、同じ海水に溶け込んだみたいで、堪らないでしょうね♡」=If I could dive with you, I would feel like I'm in the same ocean, it would be so exciting.
+「私、<color=yellow>トレッキング</color>にすごく興味があるんです♡」=I'm really interested in <color=yellow>trekking</color>.
+「ただ、あなたと歩きたいだけなんです♡　そしたら、景色もまるで違ってくると思うので♡」=I just want to walk with you.
+「それは、素晴らしいですね♡」=That sounds wonderful.
+「分かります。素敵ですね♡」=I understand. It's so nice.
+「興味ないんですか？　大丈夫です、あなたならきっと良さに気づきますから♡」=You're not interested?　Don't worry, I'm sure you'll find it interesting.
+「面白くありませんか？　もしよかったら、一度試してみてください♡」=Isn't it interesting?　If you want, you can try it out.
+「私、<color=yellow>水牛</color>を見ると妄想が止まらなくなるんです♡」=I can't stop fantasizing about <color=yellow>water buffaloes</color> when I see them.
+「あなたと一緒に水牛に乗って、島中を回ってみたいです♡」=I'd like to ride around the island with you on a buffalo.
+「<color=yellow>マングローブ</color>、とても神秘的だと思います♡」=I think the <color=yellow>mangroves</color> are very mysterious.
+「あの絡まり合った幹が、私たちの運命を表しているようです♡」=Those tangled trunks seem to represent our destiny.
+「私、<color=yellow>パワースポット</color>は見逃さないようにしてるんです♡」=I try not to miss any <color=yellow>power spots</color>.
+「縁結びのパワースポットがあったら、必ず行くつもりですから♡」=If there is a power spot for marriage, I will definitely go there.
+「私、<color=yellow>星空</color>を見上げるのが大好きなんです♡」=I love to look up at the <color=yellow>starry sky</color>.
+「あなたと見上げる星空。新しい星座を見つけて、あなたと名前を付けたいです♡」=I love to look up at the <color=yellow>starry sky</color>. I want to find a new constellation and name it after you.
+「もちろん、それも素敵だと思います♡」=Of course, I think that would be wonderful too.
+「あなたの見る目は、素晴らしいですね♡」=You have a wonderful eye for detail.
+「そんなに興味ありませんか？　悪くないと思ったんですが……」=Are you not that interested?　I thought it wasn't bad. ......
+「そうですか……あなたの好みがわからないなんて、自分が許せません……」=I see. ...... I can't forgive myself for not knowing what you like. ......
+「<color=yellow>サンゴ</color>って、神秘的だと思いませんか？」=<color=yellow>Coral</color> is mysterious, don't you think?
+「大きさによっては千年生きるものもあるそうです……私も、千年変わらぬ想いを抱いてみたいです♡」=<color=yellow>Coral</color> is mysterious, isn't it? <color=yellow>Some corals live for a thousand years, depending on their size. ...... I'd like to have the same feelings for you for a thousand years.
+「<color=yellow>クマノミ</color>って、とても素敵だと思います♡」=I think <color=yellow>tardigrades</color> are very beautiful.
 「クマノミの家族を見ていると、将来のあなたと私を思い浮かべてしまうんです♡」="<color=yellow>Bearded Sea Fishes</color> "When I see a family of bearded sea fans, I think of you and I in the future.
-「海には、素敵なものが沢山ありますね♡」="There are so many wonderful things in the ocean, aren't there?
-「素晴らしいものを教えてもらえて、嬉しいです♡」="There are so many wonderful things in the ocean. - I'm glad you told me about all the wonderful things.
-「思っていたのと違いましたか？　なかなか、いいものだと思ったんですが……」="Was it different from what you thought it would be?　I thought it was pretty good. ......
-「興味ないんですね……とても残念です……」="You're not interested. ...... I'm so sorry. ......
-「私、<color=yellow>名物料理</color>に興味があるんです♡」="I'm interested in <color=yellow>specialty food</color>.
-「男性のためには胃袋を掴むのが重要だと聞いているので、あなたのために作ってあげたいんです♡」="I've heard that it's important to grab a man's stomach, so I'd like to make one for you.
-「<color=yellow>紅型</color>って、素敵な文化ですよね♡」="<color=yellow>Beniigata</color> is a wonderful culture, isn't it?
-「私も、あんな風に艶やかに、あなた色に染め上げて欲しいです♡」="<color=yellow>Beniigata</color> is a wonderful culture, isn't it? - I want to be dyed in your color, just like that.
-「なるほど、そっちも素敵ですね♡」="I see, that's wonderful, too.
-「そうですね、とてもよくわかります♡」="Yes, I understand very well.
-「面白くなさそうですか？　上手く説明できない自分が腹立たしいです……」="Doesn't that sound interesting?　I'm annoyed that I can't explain it well. ......
-「そんなに興味がないんですね？　あなたの好きなもの、なんでも知っていたいのに……」="You're not that interested, are you?　I wish I knew everything you like. ......
+「海には、素敵なものが沢山ありますね♡」=There are so many wonderful things in the ocean, aren't there?
+「素晴らしいものを教えてもらえて、嬉しいです♡」=There are so many wonderful things in the ocean. - I'm glad you told me about all the wonderful things.
+「思っていたのと違いましたか？　なかなか、いいものだと思ったんですが……」=Was it different from what you thought it would be?　I thought it was pretty good. ......
+「興味ないんですね……とても残念です……」=You're not interested. ...... I'm so sorry. ......
+「私、<color=yellow>名物料理</color>に興味があるんです♡」=I'm interested in <color=yellow>specialty food</color>.
+「男性のためには胃袋を掴むのが重要だと聞いているので、あなたのために作ってあげたいんです♡」=I've heard that it's important to grab a man's stomach, so I'd like to make one for you.
+「<color=yellow>紅型</color>って、素敵な文化ですよね♡」=<color=yellow>Beniigata</color> is a wonderful culture, isn't it?
+「私も、あんな風に艶やかに、あなた色に染め上げて欲しいです♡」=<color=yellow>Beniigata</color> is a wonderful culture, isn't it? - I want to be dyed in your color, just like that.
+「なるほど、そっちも素敵ですね♡」=I see, that's wonderful, too.
+「そうですね、とてもよくわかります♡」=Yes, I understand very well.
+「面白くなさそうですか？　上手く説明できない自分が腹立たしいです……」=Doesn't that sound interesting?　I'm annoyed that I can't explain it well. ......
+「そんなに興味がないんですね？　あなたの好きなもの、なんでも知っていたいのに……」=You're not that interested, are you?　I wish I knew everything you like. ......

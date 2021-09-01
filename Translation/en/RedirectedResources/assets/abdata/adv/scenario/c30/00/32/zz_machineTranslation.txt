@@ -1,5 +1,5 @@
-「ねぇ、これなんてどう？」="Hey, how about this?"
-「ん、つがいの置物……？」="Hmm, a pair of ornaments ......?"
-「そ。お土産としてもいいでしょ？」="Why? It's a nice souvenir.
-「そうだね、どれどれ、どのくらい種類あるのかな……」="Yeah, well, I wonder how many different kinds there are. ......
-「これなんてどう？　何だか私達っぽくない？　すっごく可愛いし――」="How about this?　How about this one? It's kind of like us, right?　It's so cute.
+「ねぇ、これなんてどう？」=Hey, how about this?
+「ん、つがいの置物……？」=Hmm, a pair of ornaments ......?
+「そ。お土産としてもいいでしょ？」=Why? It's a nice souvenir.
+「そうだね、どれどれ、どのくらい種類あるのかな……」=Yeah, well, I wonder how many different kinds there are. ......
+「これなんてどう？　何だか私達っぽくない？　すっごく可愛いし――」=How about this?　How about this one? It's kind of like us, right?　It's so cute.

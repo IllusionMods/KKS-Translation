@@ -1,6 +1,6 @@
-「粘土を捏ねるのって、楽しいよね」="It's fun to knead the clay.
-「ええ。でもけっこう力がいるから、難しいわね」="Yes. But it's very difficult because it requires a lot of strength.
-「あんまり気負わずに作ればいいんじゃないの」="Why don't you just take it easy on the cooking?
-「そうは言っても、やっぱりしっかりした物が作りたいから」="That being said, I still want to make something solid."
-「俺は一緒に体験できれば、それで楽しいけどね」="I'd be happy to experience it with you.
-「楽しいか、楽しくないかで言えば、もちろん私だって楽しいに決まってるわ」="If it's fun or not, of course it's fun for me.
+「粘土を捏ねるのって、楽しいよね」=It's fun to knead the clay.
+「ええ。でもけっこう力がいるから、難しいわね」=Yes. But it's very difficult because it requires a lot of strength.
+「あんまり気負わずに作ればいいんじゃないの」=Why don't you just take it easy on the cooking?
+「そうは言っても、やっぱりしっかりした物が作りたいから」=That being said, I still want to make something solid.
+「俺は一緒に体験できれば、それで楽しいけどね」=I'd be happy to experience it with you.
+「楽しいか、楽しくないかで言えば、もちろん私だって楽しいに決まってるわ」=If it's fun or not, of course it's fun for me.

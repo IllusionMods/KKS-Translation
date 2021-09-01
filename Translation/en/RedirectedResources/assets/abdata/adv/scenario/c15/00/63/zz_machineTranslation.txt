@@ -1,4 +1,4 @@
-「うん、ありがとなー。すごく気持ち良かったぞー」="Yes, thank you. That felt really good.
-「いい感じだった。これなら満足だぞー」="That was nice. I'm happy with that.
-「悪くなかったぞー。ありがとなー」="It wasn't bad. Thank you.
-「なんだ？　塗り方がわからなかったのかー？」="What?　You didn't know how to paint it?
+「うん、ありがとなー。すごく気持ち良かったぞー」=Yes, thank you. That felt really good.
+「いい感じだった。これなら満足だぞー」=That was nice. I'm happy with that.
+「悪くなかったぞー。ありがとなー」=It wasn't bad. Thank you.
+「なんだ？　塗り方がわからなかったのかー？」=What?　You didn't know how to paint it?

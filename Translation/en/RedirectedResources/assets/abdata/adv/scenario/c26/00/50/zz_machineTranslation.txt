@@ -1,4 +1,4 @@
-「さて、何にしようかな……」="Well, what shall we do? ......"
-「……これにする」="I'll take ...... this."
-「お、いいね。　俺もそれ好きだよ」="Oh, that's nice.　I like that.
-「うん……あなたの好きなもの、いっぱい共有したい……」="Yeah ...... I want to share a lot of your favorite things ......."
+「さて、何にしようかな……」=Well, what shall we do? ......
+「……これにする」=I'll take ...... this.
+「お、いいね。　俺もそれ好きだよ」=Oh, that's nice.　I like that.
+「うん……あなたの好きなもの、いっぱい共有したい……」=Yeah ...... I want to share a lot of your favorite things .......

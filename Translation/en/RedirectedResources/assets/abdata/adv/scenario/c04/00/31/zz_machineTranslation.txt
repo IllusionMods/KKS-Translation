@@ -1,6 +1,6 @@
-「これは……絵になるなぁ」="This is ...... very picturesque."
-「うん？　何の話？」="Yeah?　What are you talking about?
-「この景色ときみの姿が、なんというか様になってるなって思ったんだ」="I just thought the view and your figure was kind of neat.
-「それは、褒めているのかしら？」="Is that supposed to be a compliment?
-「もちろん！　俺にもうちょっと語彙力があれば、この美しさを伝えられるんだけど……」="Of course!　If only I had a little more vocabulary, I could tell you how beautiful this is. ......
-「う、うーん、あんまりピンときてないんだけど……褒めて貰えて悪い気はしないわ」="Ummm, I'm not really sure what to make of it, but I don't feel bad about the ...... compliment.
+「これは……絵になるなぁ」=This is ...... very picturesque.
+「うん？　何の話？」=Yeah?　What are you talking about?
+「この景色ときみの姿が、なんというか様になってるなって思ったんだ」=I just thought the view and your figure was kind of neat.
+「それは、褒めているのかしら？」=Is that supposed to be a compliment?
+「もちろん！　俺にもうちょっと語彙力があれば、この美しさを伝えられるんだけど……」=Of course!　If only I had a little more vocabulary, I could tell you how beautiful this is. ......
+「う、うーん、あんまりピンときてないんだけど……褒めて貰えて悪い気はしないわ」=Ummm, I'm not really sure what to make of it, but I don't feel bad about the ...... compliment.

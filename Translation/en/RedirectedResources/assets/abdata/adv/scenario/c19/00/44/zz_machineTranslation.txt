@@ -1,6 +1,6 @@
-「三線には結構色々な型があるらしいね」="I heard there are many types of sanshin.
-「……型？　どういう事？」="Type ......?　What do you mean?
-「地域や作り手によって、大きさや棹の形が違って、音色も微妙に変わってくるんだって」="The size and shape of the pole varies depending on the region and the maker, and the tone changes slightly.
-「へぇ、三線にも色々と物語があるんだね」="Wow, there's a lot of stories behind the sanshin, isn't there?
-「そうだね、それじゃ折角だから頑張って演奏してみようか」="Right, well, since we're here, why don't we try our best to play it?
-「うん、あなたのおかげで物語を感じながら演奏できそう……」="Yeah, you're making me feel like I'm playing a story. ......
+「三線には結構色々な型があるらしいね」=I heard there are many types of sanshin.
+「……型？　どういう事？」=Type ......?　What do you mean?
+「地域や作り手によって、大きさや棹の形が違って、音色も微妙に変わってくるんだって」=The size and shape of the pole varies depending on the region and the maker, and the tone changes slightly.
+「へぇ、三線にも色々と物語があるんだね」=Wow, there's a lot of stories behind the sanshin, isn't there?
+「そうだね、それじゃ折角だから頑張って演奏してみようか」=Right, well, since we're here, why don't we try our best to play it?
+「うん、あなたのおかげで物語を感じながら演奏できそう……」=Yeah, you're making me feel like I'm playing a story. ......

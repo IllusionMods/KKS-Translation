@@ -1,36 +1,36 @@
-「<color=yellow>釣り</color>って、いいよね」="<color=yellow>Fishing is great, isn't it?
-「魚を待ってる時のドキドキ感とか、ヒットしたときの手ごたえとか、最高だよ」="The thrill of waiting for a fish, the feeling when you get a hit, it's great.
-「<color=yellow>バナナボート</color>って楽しいと思わない？」="Don't you think <color=yellow>banana boats</color> are fun?
-「あのスピード感が最高だよね。水しぶきも気持ち良くって、暑い日にぴったりだと思う」="That sense of speed is the best. It's great to feel the speed and the splash of the water, and I think it's perfect for hot days.
-「私、<color=yellow>カヤック</color>って結構好きなんだ」="I like <color=yellow>kayaking</color> a lot.
-「カヤックに乗ってると、なんだか探検してる気分になって、テンションが上がるんだよ」="When I'm in a kayak, I feel like I'm exploring, and it gets me excited.
-「いいね、それも面白そう」="Yeah, that sounds fun too.
-「そっか、そっちもいいね」="Okay, that sounds good too.
-「あんまり良くないかな？　君なら好きになると思うんだけど」="Not so good, huh?　I think you'd like it.
-「面白そうじゃないかな？　やってみたら変わると思うよ」="Doesn't it sound interesting?　I think you'd change your mind if you tried it.
-「私、<color=yellow>マングローブ</color>って結構気に入ってるんだ」="I like <color=yellow>mangroves</color> a lot.
-「すごいよね、水辺にあんな木がいっぱい生えてるなんて。南国ならではって感じ="It's amazing, all those trees growing by the water. It's like a tropical country.
-「<color=yellow>ハイビスカス</color>の花って、すごく可愛いよね」="The <color=yellow>hibiscus</color> flowers are really pretty, aren't they?
-「南国ムードがいっぱい漂ってるし、見てると気持ちが華やかになるよね」="They're full of tropical atmosphere and they make you feel gorgeous.
-「いいね、それも好きになりそう」="I like it. I think I'll like that too.
-「なるほどね、そっちもいい感じだね」="I see. That's a nice touch, too.
-「結構悪くないと思うんだけど……実際に見たら、変わると思うよ」="I think it's not so bad. ...... I think you'll change your mind when you see it.
-「そんなに興味湧かなかった？　すごくいいと思うんだけどな」="You didn't find it that interesting?　I think it's really nice.
-「砂浜によく<color=yellow>サンゴ</color>が打ち上げられてるよね」="There's a lot of <color=yellow>coral</color> washed up on the beach.
-「ああいうサンゴとか、拾って持って帰っちゃダメなんだよね。気をつけないと」="You can't pick up coral like that and take it home. You have to be careful.
-「<color=yellow>シオマネキ</color>ってよく見ると、結構カッコいいよね」="<color=yellow>Shiomaneki</color> is pretty cool when you look at it closely.
-「あのアンバランスなハサミとか、独特の動きとか……なかなかいい感じだよね」="The unbalanced scissors and the unique movements of the ...... are pretty cool.
-「そうだね。そういう見方もあるよね」="That's right. That's one way of looking at it.
-「うん、私もその感想、分かるかも」="Yeah, I know what you mean.
-「海って言っても色々あるからね……伝えるのは難しいかも」="There are many different types of oceans. ...... It's hard to convey.
-「そっか、興味ないんだ……私が上手にお話しできたら良かったんだけど」="I see. You're not interested. ...... I wish I could have been better at talking to you.
-「<color=yellow>お土産</color>を選ぶのって、すっごく楽しいよね」="Choosing <color=yellow>souvenirs</color> is really fun, isn't it?
-「お土産を買うこと自体が、旅の思い出に含まれるんだもんね」="<color=yellow>Buying souvenirs is part of the trip itself, right?
-「<color=yellow>シークヮーサージュース</color>って、スッキリしてて美味しいよね」="<color=yellow>Shikwasa juice</color> is refreshing and delicious, right?
-「酸っぱいけど、ちゃんと甘くって……飲んだら目が覚める感じがするよ」="<color=yellow>Shikwasa juice</color> is refreshing and delicious. <color=yellow>It's sour, but it's also sweet.
-「<color=yellow>三線</color>の音って、なんだか元気が出て来るよね」="The sound of the <color=yellow>sanshin</color> is kind of energizing, isn't it?
-「旋律もこの島の空気に合ってて、聴いてるだけで体が動いてきちゃうよ」="The melody fits the air of this island, and just listening to it makes my body move.
-「いいよね、私も悪くないと思う」="It's good. I think it's not bad either.
-「そっか、それもいいかも知れないね」="Well, that might be a good idea.
-「あんまり興味ないのかな……私は、結構いいと思うんだけどな」="Maybe you're not interested. ...... I think it's pretty good.
-「そうなんだ……いいと思うんだけど、伝わりづらかったかな」="Yeah, I think it's ...... good, but I don't know if I'm getting it across.
+「<color=yellow>釣り</color>って、いいよね」=<color=yellow>Fishing is great, isn't it?
+「魚を待ってる時のドキドキ感とか、ヒットしたときの手ごたえとか、最高だよ」=The thrill of waiting for a fish, the feeling when you get a hit, it's great.
+「<color=yellow>バナナボート</color>って楽しいと思わない？」=Don't you think <color=yellow>banana boats</color> are fun?
+「あのスピード感が最高だよね。水しぶきも気持ち良くって、暑い日にぴったりだと思う」=That sense of speed is the best. It's great to feel the speed and the splash of the water, and I think it's perfect for hot days.
+「私、<color=yellow>カヤック</color>って結構好きなんだ」=I like <color=yellow>kayaking</color> a lot.
+「カヤックに乗ってると、なんだか探検してる気分になって、テンションが上がるんだよ」=When I'm in a kayak, I feel like I'm exploring, and it gets me excited.
+「いいね、それも面白そう」=Yeah, that sounds fun too.
+「そっか、そっちもいいね」=Okay, that sounds good too.
+「あんまり良くないかな？　君なら好きになると思うんだけど」=Not so good, huh?　I think you'd like it.
+「面白そうじゃないかな？　やってみたら変わると思うよ」=Doesn't it sound interesting?　I think you'd change your mind if you tried it.
+「私、<color=yellow>マングローブ</color>って結構気に入ってるんだ」=I like <color=yellow>mangroves</color> a lot.
+「すごいよね、水辺にあんな木がいっぱい生えてるなんて。南国ならではって感じ=It's amazing, all those trees growing by the water. It's like a tropical country.
+「<color=yellow>ハイビスカス</color>の花って、すごく可愛いよね」=The <color=yellow>hibiscus</color> flowers are really pretty, aren't they?
+「南国ムードがいっぱい漂ってるし、見てると気持ちが華やかになるよね」=They're full of tropical atmosphere and they make you feel gorgeous.
+「いいね、それも好きになりそう」=I like it. I think I'll like that too.
+「なるほどね、そっちもいい感じだね」=I see. That's a nice touch, too.
+「結構悪くないと思うんだけど……実際に見たら、変わると思うよ」=I think it's not so bad. ...... I think you'll change your mind when you see it.
+「そんなに興味湧かなかった？　すごくいいと思うんだけどな」=You didn't find it that interesting?　I think it's really nice.
+「砂浜によく<color=yellow>サンゴ</color>が打ち上げられてるよね」=There's a lot of <color=yellow>coral</color> washed up on the beach.
+「ああいうサンゴとか、拾って持って帰っちゃダメなんだよね。気をつけないと」=You can't pick up coral like that and take it home. You have to be careful.
+「<color=yellow>シオマネキ</color>ってよく見ると、結構カッコいいよね」=<color=yellow>Shiomaneki</color> is pretty cool when you look at it closely.
+「あのアンバランスなハサミとか、独特の動きとか……なかなかいい感じだよね」=The unbalanced scissors and the unique movements of the ...... are pretty cool.
+「そうだね。そういう見方もあるよね」=That's right. That's one way of looking at it.
+「うん、私もその感想、分かるかも」=Yeah, I know what you mean.
+「海って言っても色々あるからね……伝えるのは難しいかも」=There are many different types of oceans. ...... It's hard to convey.
+「そっか、興味ないんだ……私が上手にお話しできたら良かったんだけど」=I see. You're not interested. ...... I wish I could have been better at talking to you.
+「<color=yellow>お土産</color>を選ぶのって、すっごく楽しいよね」=Choosing <color=yellow>souvenirs</color> is really fun, isn't it?
+「お土産を買うこと自体が、旅の思い出に含まれるんだもんね」=<color=yellow>Buying souvenirs is part of the trip itself, right?
+「<color=yellow>シークヮーサージュース</color>って、スッキリしてて美味しいよね」=<color=yellow>Shikwasa juice</color> is refreshing and delicious, right?
+「酸っぱいけど、ちゃんと甘くって……飲んだら目が覚める感じがするよ」=<color=yellow>Shikwasa juice</color> is refreshing and delicious. <color=yellow>It's sour, but it's also sweet.
+「<color=yellow>三線</color>の音って、なんだか元気が出て来るよね」=The sound of the <color=yellow>sanshin</color> is kind of energizing, isn't it?
+「旋律もこの島の空気に合ってて、聴いてるだけで体が動いてきちゃうよ」=The melody fits the air of this island, and just listening to it makes my body move.
+「いいよね、私も悪くないと思う」=It's good. I think it's not bad either.
+「そっか、それもいいかも知れないね」=Well, that might be a good idea.
+「あんまり興味ないのかな……私は、結構いいと思うんだけどな」=Maybe you're not interested. ...... I think it's pretty good.
+「そうなんだ……いいと思うんだけど、伝わりづらかったかな」=Yeah, I think it's ...... good, but I don't know if I'm getting it across.

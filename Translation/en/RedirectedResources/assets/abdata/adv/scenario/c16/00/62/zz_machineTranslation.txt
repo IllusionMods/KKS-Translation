@@ -1,5 +1,5 @@
-「それじゃあ、俺がオイルを塗ってあげるよ」="All right, I'll do the oiling.
-「助かるわ……だったら、ちゃんと全身塗ってもらおうかしら」="Thank you. ...... I'll make sure you get a full body application.
-「全身って、前の方にも塗っていいって事？」="Does that mean I can apply it to the front of my body?
-「えぇ、そうよ。その代わり、真面目に塗ってくれないとダメよ」="Yes, it is. But you have to take it seriously.
-「分かってる、真面目に塗るよ。任せて」="I know. I'll take it seriously. I got it.
+「それじゃあ、俺がオイルを塗ってあげるよ」=All right, I'll do the oiling.
+「助かるわ……だったら、ちゃんと全身塗ってもらおうかしら」=Thank you. ...... I'll make sure you get a full body application.
+「全身って、前の方にも塗っていいって事？」=Does that mean I can apply it to the front of my body?
+「えぇ、そうよ。その代わり、真面目に塗ってくれないとダメよ」=Yes, it is. But you have to take it seriously.
+「分かってる、真面目に塗るよ。任せて」=I know. I'll take it seriously. I got it.

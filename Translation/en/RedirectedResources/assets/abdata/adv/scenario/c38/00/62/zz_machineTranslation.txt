@@ -1,5 +1,5 @@
-「それじゃ、またオイルを塗ろっか」="Well, let's get you oiled up.
-「ありがとうございます……なら、前の方もお願いしていいですか？」="Thank you, ....... Can I have the front one, please?
-「前の方って……色々当たっちゃうかも知れないけど……？」="You know, the last one is ....... I might get a lot of hits. ......?
-「大丈夫です……そこは、貴方を信用していますから」="It's okay. ...... I trust you there.
-「なら、信用に応えられるよう、頑張ってみようかな」="Then I'll try my best to live up to your trust.
+「それじゃ、またオイルを塗ろっか」=Well, let's get you oiled up.
+「ありがとうございます……なら、前の方もお願いしていいですか？」=Thank you, ....... Can I have the front one, please?
+「前の方って……色々当たっちゃうかも知れないけど……？」=You know, the last one is ....... I might get a lot of hits. ......?
+「大丈夫です……そこは、貴方を信用していますから」=It's okay. ...... I trust you there.
+「なら、信用に応えられるよう、頑張ってみようかな」=Then I'll try my best to live up to your trust.

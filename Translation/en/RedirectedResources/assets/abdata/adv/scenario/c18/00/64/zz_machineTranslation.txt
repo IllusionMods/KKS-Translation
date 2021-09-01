@@ -1,4 +1,4 @@
-「こんなに気持ちいいなんて……最高でした」="I never thought it would feel this good. ...... It was great.
-「綺麗に塗ってもらえて、とっても気持ち良かったです」="It felt so good to have a clean coat.
-「素敵でした。ありがとうございます」="It was wonderful. Thank you very much.
-「えっと……塗らないで、終わりなんですか？」="Well, ......, is that the end of it?
+「こんなに気持ちいいなんて……最高でした」=I never thought it would feel this good. ...... It was great.
+「綺麗に塗ってもらえて、とっても気持ち良かったです」=It felt so good to have a clean coat.
+「素敵でした。ありがとうございます」=It was wonderful. Thank you very much.
+「えっと……塗らないで、終わりなんですか？」=Well, ......, is that the end of it?

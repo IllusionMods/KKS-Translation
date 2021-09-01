@@ -1,4 +1,4 @@
-「さて……何を注文しようかな。せっかくだし、二人で分けて食べる？」="Now, ......, what shall we order? Now that we're here, do you want to share?
-「では、こちらの天ぷらの盛り合わせはいかがでしょう。ご飯も注文すれば、丁度良い量かと思います」="Then how about this tempura platter? If you order some rice, it will be just the right amount.
-「あ……ですが、殿方には物足りないでしょうか？」="Oh, ......, is that not enough for you, gentlemen?
-「はは、気遣ってくれてありがとう。俺はもう一品何か頼もうかな」="Haha, thanks for thinking of me. I think I'll order something else.
+「さて……何を注文しようかな。せっかくだし、二人で分けて食べる？」=Now, ......, what shall we order? Now that we're here, do you want to share?
+「では、こちらの天ぷらの盛り合わせはいかがでしょう。ご飯も注文すれば、丁度良い量かと思います」=Then how about this tempura platter? If you order some rice, it will be just the right amount.
+「あ……ですが、殿方には物足りないでしょうか？」=Oh, ......, is that not enough for you, gentlemen?
+「はは、気遣ってくれてありがとう。俺はもう一品何か頼もうかな」=Haha, thanks for thinking of me. I think I'll order something else.

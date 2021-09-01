@@ -1,4 +1,4 @@
-「何か欲しいものとかあった？」="Is there something you want?
-「いえ。ですが、見たことのないお土産とかを見つけたくなりませんか？」="No. But wouldn't you like to find a souvenir or something you've never seen before?
-「あーわかるなぁ。たまに、え、これ商品なの？　ってのもあったりするよね」="I know what you mean. I know, I know.　I know. Sometimes I wonder if it's even a product.
-「はい、好奇心をくすぐってくれますね」="Yes, you tickle my curiosity.
+「何か欲しいものとかあった？」=Is there something you want?
+「いえ。ですが、見たことのないお土産とかを見つけたくなりませんか？」=No. But wouldn't you like to find a souvenir or something you've never seen before?
+「あーわかるなぁ。たまに、え、これ商品なの？　ってのもあったりするよね」=I know what you mean. I know, I know.　I know. Sometimes I wonder if it's even a product.
+「はい、好奇心をくすぐってくれますね」=Yes, you tickle my curiosity.

@@ -1,4 +1,4 @@
-「ありがとう。とっても満足できたわ♡」="Thank you. Thank you. I'm very satisfied.
-「君の手、気持ち良かったわ♪」="Your hands felt so good.
-「塗ってくれてありがとう。君は疲れてないかしら？」="Thank you for applying it. You're not tired, are you?
-「えっと、やり方が分からないってわけじゃ……ないわよね？」="Well, it's not like you don't know how to do it ......, is it?
+「ありがとう。とっても満足できたわ♡」=Thank you. Thank you. I'm very satisfied.
+「君の手、気持ち良かったわ♪」=Your hands felt so good.
+「塗ってくれてありがとう。君は疲れてないかしら？」=Thank you for applying it. You're not tired, are you?
+「えっと、やり方が分からないってわけじゃ……ないわよね？」=Well, it's not like you don't know how to do it ......, is it?

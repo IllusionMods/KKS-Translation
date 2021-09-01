@@ -1,4 +1,4 @@
-「悪くないわね、いい感じだったわ」="No, it wasn't bad. It was good.
-「なかなか、いいんじゃないかしら」="It was pretty good, wasn't it?
-「そうね、こんな感じかしら」="Yeah, I think that's it.
-「何もしないの？　それはそれでいいけど」="You're not going to do anything?　That's fine.
+「悪くないわね、いい感じだったわ」=No, it wasn't bad. It was good.
+「なかなか、いいんじゃないかしら」=It was pretty good, wasn't it?
+「そうね、こんな感じかしら」=Yeah, I think that's it.
+「何もしないの？　それはそれでいいけど」=You're not going to do anything?　That's fine.

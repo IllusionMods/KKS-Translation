@@ -1,6 +1,6 @@
-「マングローブを観察するなら、カヤックに乗るのが一番だね」="The best way to see the mangroves is in a kayak.
-「私……上手に乗れるでしょうか……」="I ...... don't know if I can ride well ......
-「大丈夫だよ。初心者でも簡単に乗れるらしいから」="It's okay. I heard it's easy for beginners to ride.
-「わかりました……頑張ってみます」="Okay, I'll try my best to ......."
-「安心して。落ちたら俺が助けてあげるから」="Don't worry. If you fall, I'll save you.
-「はい……よろしくお願いします」="Yes ......, I look forward to working with you."
+「マングローブを観察するなら、カヤックに乗るのが一番だね」=The best way to see the mangroves is in a kayak.
+「私……上手に乗れるでしょうか……」=I ...... don't know if I can ride well ......
+「大丈夫だよ。初心者でも簡単に乗れるらしいから」=It's okay. I heard it's easy for beginners to ride.
+「わかりました……頑張ってみます」=Okay, I'll try my best to .......
+「安心して。落ちたら俺が助けてあげるから」=Don't worry. If you fall, I'll save you.
+「はい……よろしくお願いします」=Yes ......, I look forward to working with you.

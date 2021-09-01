@@ -1,6 +1,6 @@
-「民宿の食堂って、こんなにご飯の種類が多かったんだね」="I didn't know there were so many different kinds of food in a guest house.
-「そうですね。地元の家庭料理で溢れていますね」="That's true. It's full of local home cooking.
-「見たこともない料理が多いけど、どれも美味しいよ」="A lot of the food I've never seen before, but it's all good.
-「はい。味も不思議と、なんだか懐かしい感じがします」="Yes. The taste is strange and nostalgic.
-「これだけ美味しいと、ついついおかわりしたくなっちゃうね」="If it's this good, I'm going to have to have a second helping.
-「折角ですから、お腹いっぱい頂きましょう」="Let's eat our fill, shall we?
+「民宿の食堂って、こんなにご飯の種類が多かったんだね」=I didn't know there were so many different kinds of food in a guest house.
+「そうですね。地元の家庭料理で溢れていますね」=That's true. It's full of local home cooking.
+「見たこともない料理が多いけど、どれも美味しいよ」=A lot of the food I've never seen before, but it's all good.
+「はい。味も不思議と、なんだか懐かしい感じがします」=Yes. The taste is strange and nostalgic.
+「これだけ美味しいと、ついついおかわりしたくなっちゃうね」=If it's this good, I'm going to have to have a second helping.
+「折角ですから、お腹いっぱい頂きましょう」=Let's eat our fill, shall we?

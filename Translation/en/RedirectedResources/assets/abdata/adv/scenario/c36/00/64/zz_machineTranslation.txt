@@ -1,4 +1,4 @@
-「少し貴方の実力を軽んじていたかもしれないわね。私を満足させるなんて、見直したわ」="I may have underestimated your abilities a little. I'm impressed that you can satisfy me.
-「貴方にしては頑張った方かしら。次も期待しているわ」="I think you did well for yourself. I look forward to the next one.
-「ま、こんなものね。次はもう少し私を満足させてみせなさい」="Well, that's about it. Next time, you'll have to satisfy me a little more.
-「結局塗らないなんて、何がしたかったのか理解が出来ないわ」="I don't understand why you didn't paint it.
+「少し貴方の実力を軽んじていたかもしれないわね。私を満足させるなんて、見直したわ」=I may have underestimated your abilities a little. I'm impressed that you can satisfy me.
+「貴方にしては頑張った方かしら。次も期待しているわ」=I think you did well for yourself. I look forward to the next one.
+「ま、こんなものね。次はもう少し私を満足させてみせなさい」=Well, that's about it. Next time, you'll have to satisfy me a little more.
+「結局塗らないなんて、何がしたかったのか理解が出来ないわ」=I don't understand why you didn't paint it.

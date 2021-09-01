@@ -1,6 +1,6 @@
-「へ？　それって……私のことが、ですか？」="Huh?　Is that ...... about me?
-「……うん、そうだよ。俺と付き合って欲しい」="...... Yeah, I do. I want you to go out with me."
-「び、びっくりしました……ど、どうしましょう」="I'm so surprised. ...... What should I do?
-「ごめん、驚かせるつもりはなかったんだけど」="I'm sorry. I didn't mean to startle you.
-「あ、謝らないで下さいっ！　……幸せ過ぎて、驚いただけですから」="Oh, please don't apologize!　I'm just surprised that you're so ...... happy.
-「私で良ければ、よろしくお願いしますっ」="If it's okay with you, it's okay with me.
+「へ？　それって……私のことが、ですか？」=Huh?　Is that ...... about me?
+「……うん、そうだよ。俺と付き合って欲しい」=...... Yeah, I do. I want you to go out with me.
+「び、びっくりしました……ど、どうしましょう」=I'm so surprised. ...... What should I do?
+「ごめん、驚かせるつもりはなかったんだけど」=I'm sorry. I didn't mean to startle you.
+「あ、謝らないで下さいっ！　……幸せ過ぎて、驚いただけですから」=Oh, please don't apologize!　I'm just surprised that you're so ...... happy.
+「私で良ければ、よろしくお願いしますっ」=If it's okay with you, it's okay with me.

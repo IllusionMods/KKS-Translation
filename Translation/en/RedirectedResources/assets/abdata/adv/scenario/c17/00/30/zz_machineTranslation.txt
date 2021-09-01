@@ -1,6 +1,6 @@
-「マイナスイオンがいっぱい出てるんだろうなぁ」="I bet it's full of negative ions.
-「マイナスイオンなんて、本当にあるのかしら」="Are there really negative ions?
-「あるはずだよ。だって滝の傍ってすごく気分がいいし」="It should be. Because it feels so good to be by a waterfall.
-「気の所為とまではいわないけど、それこそ気分の問題でしょ」="I wouldn't go so far as to say it's your imagination, but that's your mood.
-「そうだよ、だから何か気分が良くなる物質が出てるってことだよ」="Yeah, so there's some kind of substance that makes you feel better.
-「……かなり暴論な気がするわね」="...... Sounds pretty violent to me.
+「マイナスイオンがいっぱい出てるんだろうなぁ」=I bet it's full of negative ions.
+「マイナスイオンなんて、本当にあるのかしら」=Are there really negative ions?
+「あるはずだよ。だって滝の傍ってすごく気分がいいし」=It should be. Because it feels so good to be by a waterfall.
+「気の所為とまではいわないけど、それこそ気分の問題でしょ」=I wouldn't go so far as to say it's your imagination, but that's your mood.
+「そうだよ、だから何か気分が良くなる物質が出てるってことだよ」=Yeah, so there's some kind of substance that makes you feel better.
+「……かなり暴論な気がするわね」=...... Sounds pretty violent to me.

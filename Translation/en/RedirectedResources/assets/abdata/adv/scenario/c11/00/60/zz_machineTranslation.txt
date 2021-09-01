@@ -1,5 +1,5 @@
-「ねえ……お部屋にいれてくれない？」="Hey ......, can I come in your room?"
+「ねえ……お部屋にいれてくれない？」=Hey ......, can I come in your room?
 「どうしたの？」=Something wrong?
-「夜遅くにごめんなさいね……今すぐあなたに会いたくなっちゃって、我慢出来なかったの」="I'm sorry to bother you so late at night. ...... I wanted to see you so badly right now, I couldn't resist.
-「あなたの温もりで……私を慰めてほしいわ」="I want you to comfort ...... me with your warmth.
-「もう寝ちゃってるみたいね……残念だけど、会えるのはまた明日かしら……」="I think he's asleep. ...... I'm sorry, but I'll see you tomorrow. ......
+「夜遅くにごめんなさいね……今すぐあなたに会いたくなっちゃって、我慢出来なかったの」=I'm sorry to bother you so late at night. ...... I wanted to see you so badly right now, I couldn't resist.
+「あなたの温もりで……私を慰めてほしいわ」=I want you to comfort ...... me with your warmth.
+「もう寝ちゃってるみたいね……残念だけど、会えるのはまた明日かしら……」=I think he's asleep. ...... I'm sorry, but I'll see you tomorrow. ......

@@ -1,36 +1,36 @@
-「<color=yellow>シュノーケリング</color>ってなかなか楽しいわね」="<color=yellow>Snorkeling</color> is pretty fun, isn't it?
-「水が綺麗だから、海の中が本当に素敵なのよ」="<color=yellow>Snorkeling is quite fun. <color=yellow>The water is so clean, it's really nice under the sea.
-「<color=yellow>トレッキング</color>って気持ちいいわよね」="<color=yellow>Trekking is very pleasant, isn't it?
-「自然に包まれてのんびりできるあの感覚、普段は味わえないわ」="<color=yellow>Trekking is so nice, isn't it? <color=yellow>You don't get to experience that feeling of being surrounded by nature.
-「なるほど、そっちも楽しそうね」="Well, that sounds like fun.
-「わかるわ。それも試してみたいわね」="I know what you mean. I'd like to try that, too.
-「そう、あまり好きじゃなさそうね。試してみたら変わるかも知れないわよ」="Well, you don't seem to like it much. You might change your mind if you try it.
-「あまりお気に召さなかったみたいね。食わず嫌いは良くないわよ」="You don't seem to like it much. It's not good to be a picky eater.
-「<color=yellow>水牛</color>ってよく見たら可愛いわよね」="<color=yellow>Buffaloes</color> are pretty when you look at them.
-「あののんびりした歩みを見ていると、時間がゆっくり流れてるような気がするわ」="I feel like time is passing so slowly when I watch them take their leisurely steps.
-「<color=yellow>マングローブ</color>って、不思議な魅力があるわよね」="<color=yellow>Mangroves</color> have a mysterious charm, don't they?
+「<color=yellow>シュノーケリング</color>ってなかなか楽しいわね」=<color=yellow>Snorkeling</color> is pretty fun, isn't it?
+「水が綺麗だから、海の中が本当に素敵なのよ」=<color=yellow>Snorkeling is quite fun. <color=yellow>The water is so clean, it's really nice under the sea.
+「<color=yellow>トレッキング</color>って気持ちいいわよね」=<color=yellow>Trekking is very pleasant, isn't it?
+「自然に包まれてのんびりできるあの感覚、普段は味わえないわ」=<color=yellow>Trekking is so nice, isn't it? <color=yellow>You don't get to experience that feeling of being surrounded by nature.
+「なるほど、そっちも楽しそうね」=Well, that sounds like fun.
+「わかるわ。それも試してみたいわね」=I know what you mean. I'd like to try that, too.
+「そう、あまり好きじゃなさそうね。試してみたら変わるかも知れないわよ」=Well, you don't seem to like it much. You might change your mind if you try it.
+「あまりお気に召さなかったみたいね。食わず嫌いは良くないわよ」=You don't seem to like it much. It's not good to be a picky eater.
+「<color=yellow>水牛</color>ってよく見たら可愛いわよね」=<color=yellow>Buffaloes</color> are pretty when you look at them.
+「あののんびりした歩みを見ていると、時間がゆっくり流れてるような気がするわ」=I feel like time is passing so slowly when I watch them take their leisurely steps.
+「<color=yellow>マングローブ</color>って、不思議な魅力があるわよね」=<color=yellow>Mangroves</color> have a mysterious charm, don't they?
 「マングローブって名前の木があるわけじゃないのよ。汽水域の植物群落をそう呼ぶみたい」=<color=yellow>Mangroves</color> have a mysterious charm. "There are no trees named mangroves. There are no trees called mangroves, but rather plant communities in brackish water.
-「<color=yellow>パワースポット</color>ってなんだか神秘的よね」="There's something mysterious about <color=yellow>power spots</color>.
-「私はオカルトを否定するつもりはないわ。私達が知りえない力だって確かに存在するはずよ」="I'm not going to deny the occult. I'm not going to deny the occult. I'm sure there are powers we don't know about.
-「この島の<color=yellow>星空</color>は、本当に素晴らしいわ」="The <color=yellow>starry skies of this island are truly amazing.
-「周りに光が少なくて、星がはっきりと見えるのよ。自然が豊かなおかげだわ」="There's not much light around, so you can see the stars clearly. We can see the stars clearly because there is very little light around us, thanks to the abundance of nature.
-「なるほど、そういう見方もできるのね」="I see. That's one way of looking at it.
-「そんな魅力もあったなんて、気が付かなかったわ」="I didn't realize it had that kind of charm.
-「あなたの嗜好を否定するつもりはないわ。でも、一度ちゃんと見てみる事をおススメするわ」="I don't mean to deny your taste. I don't mean to disagree with your taste, but I'd like to suggest that you take a closer look.
-「わかってるわ、ただ興味がわかないだけなんでしょ。私の説得力が足らなかったのかしら？」="I know, you're just not interested. Did I not convince you enough?
-「やっぱり<color=yellow>サンゴ</color>礁は素敵よね」="The <color=yellow>coral</color> reefs are wonderful, aren't they?
-「それ自体、カラフルで綺麗だし、何より周りの水を綺麗している所がすごいわ」="It's colorful and beautiful in its own right, and it's amazing how it cleans the water around it.
-「<color=yellow>クマノミ</color>って、とても可愛いと思わない？」="Don't you think <color=yellow>tardigrades</color> are very cute?
-「イソギンチャクと共生している所とか、すごく愛らしいと思うわ」="<color=yellow>They live in symbiosis with anemones.
-「いいわね、それも素敵だわ」="That's nice. That's nice, too.
-「私にもわかるわ。確かに良さそうね」="I know what you mean. I know what you mean. It looks nice.
-「そこには興味がないのね？　残念だわ、もう少し見てもらえばわかると思うけど」="You're not interested in that, are you?　That's a pity. You'll see.
-「あら、わかってくれないのね？　アナタになら、きっと良さが伝わると思ったんだけど」="Oh, you don't get it, do you?　I thought you would appreciate it.
-「やっぱり、<color=yellow>名物料理</color>は押さえておくべきでしょ」="I thought you'd appreciate the <color=yellow>specialties</color>.
-「何事も経験よ。それに美味しく食べられるなら、一石二鳥だわ」="Everything is an experience. Everything is an experience, and if you can eat well, you can kill two birds with one stone.
-「<color=yellow>紅型</color>染めって、本当に奇麗よね」="<color=yellow> Bingata dyeing is really beautiful.
-「伝統文化と、現代のデザインが見事に融合していて、本当に見ていて飽きないわ」="It's such a beautiful combination of traditional culture and modern design, I never get tired of it.
-「いいわね、そっちも素敵だと思うわ」="I like it. I think it's beautiful too.
-「さすがね、いい着眼点だわ」="That's a good point. That's a good point.
-「ちょっと、難しかったのかしら？　分かってもらえると思ったのだけど」="I'm sorry, was that too difficult?　I thought you'd understand.
-「難しいのね。わかってもらえないのが、こんなに悔しいなんて……」="It's hard. It's so frustrating when people don't understand. ......
+「<color=yellow>パワースポット</color>ってなんだか神秘的よね」=There's something mysterious about <color=yellow>power spots</color>.
+「私はオカルトを否定するつもりはないわ。私達が知りえない力だって確かに存在するはずよ」=I'm not going to deny the occult. I'm not going to deny the occult. I'm sure there are powers we don't know about.
+「この島の<color=yellow>星空</color>は、本当に素晴らしいわ」=The <color=yellow>starry skies of this island are truly amazing.
+「周りに光が少なくて、星がはっきりと見えるのよ。自然が豊かなおかげだわ」=There's not much light around, so you can see the stars clearly. We can see the stars clearly because there is very little light around us, thanks to the abundance of nature.
+「なるほど、そういう見方もできるのね」=I see. That's one way of looking at it.
+「そんな魅力もあったなんて、気が付かなかったわ」=I didn't realize it had that kind of charm.
+「あなたの嗜好を否定するつもりはないわ。でも、一度ちゃんと見てみる事をおススメするわ」=I don't mean to deny your taste. I don't mean to disagree with your taste, but I'd like to suggest that you take a closer look.
+「わかってるわ、ただ興味がわかないだけなんでしょ。私の説得力が足らなかったのかしら？」=I know, you're just not interested. Did I not convince you enough?
+「やっぱり<color=yellow>サンゴ</color>礁は素敵よね」=The <color=yellow>coral</color> reefs are wonderful, aren't they?
+「それ自体、カラフルで綺麗だし、何より周りの水を綺麗している所がすごいわ」=It's colorful and beautiful in its own right, and it's amazing how it cleans the water around it.
+「<color=yellow>クマノミ</color>って、とても可愛いと思わない？」=Don't you think <color=yellow>tardigrades</color> are very cute?
+「イソギンチャクと共生している所とか、すごく愛らしいと思うわ」=<color=yellow>They live in symbiosis with anemones.
+「いいわね、それも素敵だわ」=That's nice. That's nice, too.
+「私にもわかるわ。確かに良さそうね」=I know what you mean. I know what you mean. It looks nice.
+「そこには興味がないのね？　残念だわ、もう少し見てもらえばわかると思うけど」=You're not interested in that, are you?　That's a pity. You'll see.
+「あら、わかってくれないのね？　アナタになら、きっと良さが伝わると思ったんだけど」=Oh, you don't get it, do you?　I thought you would appreciate it.
+「やっぱり、<color=yellow>名物料理</color>は押さえておくべきでしょ」=I thought you'd appreciate the <color=yellow>specialties</color>.
+「何事も経験よ。それに美味しく食べられるなら、一石二鳥だわ」=Everything is an experience. Everything is an experience, and if you can eat well, you can kill two birds with one stone.
+「<color=yellow>紅型</color>染めって、本当に奇麗よね」=<color=yellow> Bingata dyeing is really beautiful.
+「伝統文化と、現代のデザインが見事に融合していて、本当に見ていて飽きないわ」=It's such a beautiful combination of traditional culture and modern design, I never get tired of it.
+「いいわね、そっちも素敵だと思うわ」=I like it. I think it's beautiful too.
+「さすがね、いい着眼点だわ」=That's a good point. That's a good point.
+「ちょっと、難しかったのかしら？　分かってもらえると思ったのだけど」=I'm sorry, was that too difficult?　I thought you'd understand.
+「難しいのね。わかってもらえないのが、こんなに悔しいなんて……」=It's hard. It's so frustrating when people don't understand. ......

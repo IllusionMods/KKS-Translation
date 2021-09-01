@@ -1,4 +1,4 @@
-「ねぇ、まだ起きてる？」="Hey, are you still up?
-「急にね、あなたに会いたくなったの」="Suddenly, I wanted to see you.
-「だからね、ぎゅって抱きしめてほしいなぁ」="So I want you to give me a big hug.
-「……もう寝ちゃってたのかな。はぁ……私を帰って寝よう」="I'll see you tomorrow. ...... I guess you fell asleep already. Haha ...... let me go home and go to bed.
+「ねぇ、まだ起きてる？」=Hey, are you still up?
+「急にね、あなたに会いたくなったの」=Suddenly, I wanted to see you.
+「だからね、ぎゅって抱きしめてほしいなぁ」=So I want you to give me a big hug.
+「……もう寝ちゃってたのかな。はぁ……私を帰って寝よう」=I'll see you tomorrow. ...... I guess you fell asleep already. Haha ...... let me go home and go to bed.

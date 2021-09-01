@@ -1,2 +1,2 @@
-「今日はこのまま、あなたの部屋でゆっくりと……というわけには行きませんね」="I don't think I'll be able to stay in your room ...... today.
-「では、私は自分の部屋に戻ります。また後でお会いしましょう」="I'm going back to my room. I'm going back to my room. I'll see you later.
+「今日はこのまま、あなたの部屋でゆっくりと……というわけには行きませんね」=I don't think I'll be able to stay in your room ...... today.
+「では、私は自分の部屋に戻ります。また後でお会いしましょう」=I'm going back to my room. I'm going back to my room. I'll see you later.

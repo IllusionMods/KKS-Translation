@@ -1,5 +1,5 @@
-「美容オイルがたくさん置いてあるね」="There's a lot of beauty oil here.
-「うん、しかも全部使い放題みたい。サービス良いね」="Yeah, and it looks like we can use everything. The service is good.
-「折角だし、使ってみる？　俺が塗ってあげるよ」="You want to try it?　I'll paint it for you.
-「本当に？　だったら、お願いしようかな」="Really?　I'm gonna ask you to do it.
-「それじゃあ、任せて。綺麗に塗ってあげるからね」="I'll take care of it. I'll paint you beautifully.
+「美容オイルがたくさん置いてあるね」=There's a lot of beauty oil here.
+「うん、しかも全部使い放題みたい。サービス良いね」=Yeah, and it looks like we can use everything. The service is good.
+「折角だし、使ってみる？　俺が塗ってあげるよ」=You want to try it?　I'll paint it for you.
+「本当に？　だったら、お願いしようかな」=Really?　I'm gonna ask you to do it.
+「それじゃあ、任せて。綺麗に塗ってあげるからね」=I'll take care of it. I'll paint you beautifully.

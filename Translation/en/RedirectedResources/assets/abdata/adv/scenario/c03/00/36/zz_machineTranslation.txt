@@ -1,4 +1,4 @@
-「さてと、何をしよっか？　やりたいことってあったりする？」="Well, what do you want to do?　Is there anything you want to do?
-「私はあなたに任せるですよ」="I'll leave you to it.
-「じゃあ、これとかどう？　船に引っ張ってもらいながら海面を滑るやつ」="How about this?　The one where the boat pulls you along and you slide on the surface of the sea.
-「ふぇっ！？　しょ、初心者の私が挑むにはハードルが高すぎるですよ！？」="What?　It's too high a hurdle for a beginner like me to tackle!
+「さてと、何をしよっか？　やりたいことってあったりする？」=Well, what do you want to do?　Is there anything you want to do?
+「私はあなたに任せるですよ」=I'll leave you to it.
+「じゃあ、これとかどう？　船に引っ張ってもらいながら海面を滑るやつ」=How about this?　The one where the boat pulls you along and you slide on the surface of the sea.
+「ふぇっ！？　しょ、初心者の私が挑むにはハードルが高すぎるですよ！？」=What?　It's too high a hurdle for a beginner like me to tackle!

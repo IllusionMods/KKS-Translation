@@ -1,4 +1,4 @@
-「見慣れない料理ばかりだけど、どれも美味しいね」="It's all very strange, but it's all very good.
-「はい……きっと、どれも全部ここの郷土料理なんでしょうね」="Yes ......, I'm sure they're all local dishes here.
-「滅多に食べられないんだから、たくさん食べておかないと勿体ないよ」="You don't get to eat them very often, so you'd better eat a lot.
-「そうですね……私も、もっと食べますから」="That's right. ...... I'll eat more.
+「見慣れない料理ばかりだけど、どれも美味しいね」=It's all very strange, but it's all very good.
+「はい……きっと、どれも全部ここの郷土料理なんでしょうね」=Yes ......, I'm sure they're all local dishes here.
+「滅多に食べられないんだから、たくさん食べておかないと勿体ないよ」=You don't get to eat them very often, so you'd better eat a lot.
+「そうですね……私も、もっと食べますから」=That's right. ...... I'll eat more.

@@ -1,36 +1,36 @@
-「<color=yellow>シュノーケリング</color>って、面白いのよ」="<color=yellow>Snorkeling is fun.
-「熱帯魚を間近でみることが出来るから、何度もやってみたくなるのよね～」="<color=yellow>Snorkeling is fun because you get to see tropical fish up close, so you want to try it again and again.
-「もう<color=yellow>トレッキング</color>はやってみた？」="Have you tried <color=yellow>trekking yet?
-「自然を肌で感じられてリフレッシュできるから、みんなにやってほしいわ」="I want everyone to try it because it's a refreshing way to feel nature.
-「へぇ、そっちも楽しそうね」="Oh, that sounds fun too.
-「ふふ、君はそれが好きなのね」="Hmm, you like that.
-「よかったら今度やってみて？　絶対楽しめるはずよ」="You should try it sometime.　I'm sure you'll enjoy it.
-「うーん、あんまり興味がなかった？　ごめんなさいね」="Hmm, not really into it?　I'm sorry.
-「<color=yellow>水牛</color>ってのんびり歩く姿が可愛いわよね」="<color=yellow>Buffaloes are so cute, aren't they?
-「見ているだけで、なんだか癒されるわ～♪」="Just looking at them makes me feel relaxed.
-「私、<color=yellow>マングローブ</color>を見たのって初めてなの」="This is the first time I've seen mangroves.
-「あんな場所に木が生えてるなんて、不思議な光景よね～」="I've never seen <color=yellow>mangroves</color> before. It's strange to see trees growing in such a place.
-「この島の<color=yellow>パワースポット</color>には興味ある？」="Are you interested in the <color=yellow>power spots</color> on this island?
-「ああいう場所に行くと、良いことがありそうよね♡」="I'm sure you'll find something good in those places.
-「この島は<color=yellow>星空</color>が綺麗よね。夜になると、ついつい空を見上げちゃうわ」="The <color=yellow>starry skies</color> on this island are beautiful, aren't they? I can't help looking up at the sky at night.
-「まさに天然のプラネタリウムよね～」="It's like a natural planetarium.
-「あぁ、それね。私も知ってるわ」="Oh, that's right. I know that one.
-「うんうん、それもいいわよね」="Yeah, that's nice, too.
-「強引に勧めるつもりはないけど……機会があったら見に行ってみて」="I don't mean to be pushy, but if you get a chance, you should go to .......
-「お勧めのスポットがあるから、今度案内しましょうか？」="I have a spot I'd like to recommend, maybe I can show you.
-「本当に砂浜に<color=yellow>サンゴ</color>が落ちてるのね。ちょっとビックリしたわ」="There really is <color=yellow>coral</color> on the beach. I'm a little surprised.
-「でも持ち帰っちゃいけないのよね～、残念……」="But you can't take it home. It's a pity. ......
-「<color=yellow>クマノミ</color>って可愛いわよね～」="<color=yellow>Bearded fish</color> are cute, aren't they?
-「ついつい、水族館に足を運んじゃうわ」="They make me want to go to the aquarium.
-「へぇ～、私もチェックしてみるわ」="Oh, I'll check it out.
-「ふぅん、君はそっちが好きなんだ」="Hmm, you like that one.
-「えっと、あんまりおもしろい話じゃなかったかしら……」="Well, I hope that wasn't too interesting. ......
-「あぁ……私の話、よく聞こえてなかった？」="Oh, ......, you didn't hear me very well, did you?
-「ここの<color=yellow>名物料理</color>はもう食べた？」="Have you tried their <color=yellow>specialties</color> yet?
-「私、炊き込みご飯のじゅーしーが好きだわ」="I like jussies with steamed rice.
-「<color=yellow>紅型</color>の雑貨を買おうか迷ってるの」="I'm thinking of buying some Bingata goods.
-「手ぬぐいが一番気になってるの。いいモノはちょっと値段が張るんだけどね……」="I'm most interested in the tenugui. I'm most interested in tenugui, though the good ones are a bit pricey. ......
-「うんうん、そっちもいいわよね」="Yeah, that's nice, too.
-「へぇ、それが君のお勧めね。覚えておくわ」="Oh, so that's your recommendation. I'll keep that in mind.
-「あー……今はそういう話をしていなかったんだけど……」="Oh, ......, that's not what I was talking about. ......
-「んー……君はあんまり興味がないみたいね」="Hmm, ...... doesn't sound like something you'd be interested in.
+「<color=yellow>シュノーケリング</color>って、面白いのよ」=<color=yellow>Snorkeling is fun.
+「熱帯魚を間近でみることが出来るから、何度もやってみたくなるのよね～」=<color=yellow>Snorkeling is fun because you get to see tropical fish up close, so you want to try it again and again.
+「もう<color=yellow>トレッキング</color>はやってみた？」=Have you tried <color=yellow>trekking yet?
+「自然を肌で感じられてリフレッシュできるから、みんなにやってほしいわ」=I want everyone to try it because it's a refreshing way to feel nature.
+「へぇ、そっちも楽しそうね」=Oh, that sounds fun too.
+「ふふ、君はそれが好きなのね」=Hmm, you like that.
+「よかったら今度やってみて？　絶対楽しめるはずよ」=You should try it sometime.　I'm sure you'll enjoy it.
+「うーん、あんまり興味がなかった？　ごめんなさいね」=Hmm, not really into it?　I'm sorry.
+「<color=yellow>水牛</color>ってのんびり歩く姿が可愛いわよね」=<color=yellow>Buffaloes are so cute, aren't they?
+「見ているだけで、なんだか癒されるわ～♪」=Just looking at them makes me feel relaxed.
+「私、<color=yellow>マングローブ</color>を見たのって初めてなの」=This is the first time I've seen mangroves.
+「あんな場所に木が生えてるなんて、不思議な光景よね～」=I've never seen <color=yellow>mangroves</color> before. It's strange to see trees growing in such a place.
+「この島の<color=yellow>パワースポット</color>には興味ある？」=Are you interested in the <color=yellow>power spots</color> on this island?
+「ああいう場所に行くと、良いことがありそうよね♡」=I'm sure you'll find something good in those places.
+「この島は<color=yellow>星空</color>が綺麗よね。夜になると、ついつい空を見上げちゃうわ」=The <color=yellow>starry skies</color> on this island are beautiful, aren't they? I can't help looking up at the sky at night.
+「まさに天然のプラネタリウムよね～」=It's like a natural planetarium.
+「あぁ、それね。私も知ってるわ」=Oh, that's right. I know that one.
+「うんうん、それもいいわよね」=Yeah, that's nice, too.
+「強引に勧めるつもりはないけど……機会があったら見に行ってみて」=I don't mean to be pushy, but if you get a chance, you should go to .......
+「お勧めのスポットがあるから、今度案内しましょうか？」=I have a spot I'd like to recommend, maybe I can show you.
+「本当に砂浜に<color=yellow>サンゴ</color>が落ちてるのね。ちょっとビックリしたわ」=There really is <color=yellow>coral</color> on the beach. I'm a little surprised.
+「でも持ち帰っちゃいけないのよね～、残念……」=But you can't take it home. It's a pity. ......
+「<color=yellow>クマノミ</color>って可愛いわよね～」=<color=yellow>Bearded fish</color> are cute, aren't they?
+「ついつい、水族館に足を運んじゃうわ」=They make me want to go to the aquarium.
+「へぇ～、私もチェックしてみるわ」=Oh, I'll check it out.
+「ふぅん、君はそっちが好きなんだ」=Hmm, you like that one.
+「えっと、あんまりおもしろい話じゃなかったかしら……」=Well, I hope that wasn't too interesting. ......
+「あぁ……私の話、よく聞こえてなかった？」=Oh, ......, you didn't hear me very well, did you?
+「ここの<color=yellow>名物料理</color>はもう食べた？」=Have you tried their <color=yellow>specialties</color> yet?
+「私、炊き込みご飯のじゅーしーが好きだわ」=I like jussies with steamed rice.
+「<color=yellow>紅型</color>の雑貨を買おうか迷ってるの」=I'm thinking of buying some Bingata goods.
+「手ぬぐいが一番気になってるの。いいモノはちょっと値段が張るんだけどね……」=I'm most interested in the tenugui. I'm most interested in tenugui, though the good ones are a bit pricey. ......
+「うんうん、そっちもいいわよね」=Yeah, that's nice, too.
+「へぇ、それが君のお勧めね。覚えておくわ」=Oh, so that's your recommendation. I'll keep that in mind.
+「あー……今はそういう話をしていなかったんだけど……」=Oh, ......, that's not what I was talking about. ......
+「んー……君はあんまり興味がないみたいね」=Hmm, ...... doesn't sound like something you'd be interested in.

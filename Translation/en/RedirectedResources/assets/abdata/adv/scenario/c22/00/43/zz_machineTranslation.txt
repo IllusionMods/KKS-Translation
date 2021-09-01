@@ -1,6 +1,6 @@
-「よし、頑張ってカッコいいシーサーを作るぞ」="All right, let's make a cool shisa.
-「私も、可愛いシーサー作りたいな」="I'd like to make a pretty shisa.
-「シーサーは口が開いてるのがオスで、閉じてるのがメスなんだって」="The male shisa has an open mouth and the female has a closed mouth.
-「それじゃ、私は口を閉じて女の子にしようかな」="Well, I guess I'll shut up and be a girl.
-「俺は口を開けて、オスを作るよ」="I'm gonna open my mouth and make a male.
-「両方できたら、一緒に飾ってみたいね」="If I could have both, I'd display them together.
+「よし、頑張ってカッコいいシーサーを作るぞ」=All right, let's make a cool shisa.
+「私も、可愛いシーサー作りたいな」=I'd like to make a pretty shisa.
+「シーサーは口が開いてるのがオスで、閉じてるのがメスなんだって」=The male shisa has an open mouth and the female has a closed mouth.
+「それじゃ、私は口を閉じて女の子にしようかな」=Well, I guess I'll shut up and be a girl.
+「俺は口を開けて、オスを作るよ」=I'm gonna open my mouth and make a male.
+「両方できたら、一緒に飾ってみたいね」=If I could have both, I'd display them together.

@@ -1,36 +1,36 @@
-「<color=yellow>ツリーイング</color>って、最高に面白いぞー」="<color=yellow>Tree climbing</color> is the most fun you'll ever have.
-「木登りって全身使うから、面白いんだぞ」="Climbing trees is fun because you use your whole body.
-「あたし、<color=yellow>バナナボート</color>大好きだぞ」="I love <color=yellow>banana boats.
-「あの海の上を走る疾走感がたまらないぞー」="I love the feeling of running on the ocean.
-「<color=yellow>カヤック</color>って、本当に楽しいなー」="<color=yellow>Kayaking is really fun.
-「自分で漕いで進むあの感じ、自然の一部になった感じでワクワクするぞー」="That feeling of paddling along by yourself, feeling like you're a part of nature, it's exciting.
-「なるほどなー。そっちも面白そうだぞー」="I see. That sounds interesting too.
-「そんなのもあるのか。悪くないなー」="I didn't know such a thing existed. That's not bad.
-「キミはそういうの興味ないのか？　勿体ないぞー」="You're not interested in that?　It's a waste of time.
-「なんだー……やってみたら面白いと思うんだけどな―」="I think it'd be fun to try .......
-「<color=yellow>パワースポット</color>って、何となくいい匂いがするんだぞー」="<color=yellow>Power spots smell so good."
-「あたし、あういう神秘的な空気、好きだぞー……絶対何かある気がする」="I like that kind of mystical atmosphere. ...... I think there's definitely something there.
-「<color=yellow>ガジュマル</color>は力強くて、結構好きだぞ」="I like the <color=yellow>Banyan</color> because it's strong.
-「あの茎が絡み合って、複雑な感じが面白いなー」="I like the way the stems are intertwined, the complexity.
-「そうか、それもすごいと思うぞ」="Yeah, I think it's great, too.
-「うん、そっちもいいかも知れないな―」="Yeah, that's a good one, too.
-「ちゃんと見たら、キミも好きになると思うんだけどな―」="I think you'll like it when you see it."
-「そうかー……でも、後からでも、きっと好きになると思うぞ」="Yeah, I'm sure you'll like it, too, ......, or later.
-「<color=yellow>チンアナゴ</color>ってすっごく面白いなー」="<color=yellow>Chinagoes</color> are so interesting.
-「あのゆらゆら揺れてる感じが、すっごく楽しそうで好きだぞー」="I like the way they sway, they look so happy."
-「<color=yellow>シオマネキ</color>って、すっごくカッコいいよな」="<color=yellow>The <color=yellow>chinamanefish</color> are really cool, aren't they?
-「大きいハサミを動かしてる姿が、勇ましくっていいんだよなー」="I like the way they move the big scissors, it's so brave.
-「それもいいな。気になって来たぞ」="I like that too. Now I'm curious.
-「なるほど、そっちもあるのか。すごいぞー」="I see, you have that too? That's great.
-「興味ないのか？　大丈夫、見ればきっと好きになるぞ」="You're not interested?　Don't worry, you'll love it.
-「好きじゃないのか？　でも、よく見たら気に入るかも知れないぞ」="You don't like it?　But if you take a closer look, you might like it.
-「<color=yellow>お土産</color>の事を考えるだけでワクワクするぞー」="I'm excited just thinking about the <color=yellow> souvenir</color>.
-「気に入ったお土産をもらった時は、本当に嬉しいからなー」="It's really nice when you get a souvenir you like.
-「<color=yellow>シークヮーサージュース</color>って、酸味があって美味しいぞ」="<color=yellow>Shikwasa juice</color> is very tart and delicious.
-「あたし、ああ言う柑橘系の果汁が結構好きなんだ」="I like that kind of citrus juice a lot.
-「<color=yellow>ぬいぐるみ</color>は大好きだぞー。見たら欲しくなるぞー」="I love stuffed animals. You'll want one when you see one.
-「あたし、ああいうぬいぐるみとか集めるの、大好きだぞー」="I love to collect stuffed animals like that.
-「言われてみれば、それもいい感じだなー」="Now that you mention it, that sounds good.
-「なるほどー。何となく欲しくなって来たぞ」="I see. I'm starting to like them.
-「そうか、興味ないかー。いいと思うんだけどなー」="Oh, you're not interested? I'm sure it's nice.
-「キミは気にならないのかー……分かってほしいのになー」="You don't care about ......, you should know that."
+「<color=yellow>ツリーイング</color>って、最高に面白いぞー」=<color=yellow>Tree climbing</color> is the most fun you'll ever have.
+「木登りって全身使うから、面白いんだぞ」=Climbing trees is fun because you use your whole body.
+「あたし、<color=yellow>バナナボート</color>大好きだぞ」=I love <color=yellow>banana boats.
+「あの海の上を走る疾走感がたまらないぞー」=I love the feeling of running on the ocean.
+「<color=yellow>カヤック</color>って、本当に楽しいなー」=<color=yellow>Kayaking is really fun.
+「自分で漕いで進むあの感じ、自然の一部になった感じでワクワクするぞー」=That feeling of paddling along by yourself, feeling like you're a part of nature, it's exciting.
+「なるほどなー。そっちも面白そうだぞー」=I see. That sounds interesting too.
+「そんなのもあるのか。悪くないなー」=I didn't know such a thing existed. That's not bad.
+「キミはそういうの興味ないのか？　勿体ないぞー」=You're not interested in that?　It's a waste of time.
+「なんだー……やってみたら面白いと思うんだけどな―」=I think it'd be fun to try .......
+「<color=yellow>パワースポット</color>って、何となくいい匂いがするんだぞー」=<color=yellow>Power spots smell so good.
+「あたし、あういう神秘的な空気、好きだぞー……絶対何かある気がする」=I like that kind of mystical atmosphere. ...... I think there's definitely something there.
+「<color=yellow>ガジュマル</color>は力強くて、結構好きだぞ」=I like the <color=yellow>Banyan</color> because it's strong.
+「あの茎が絡み合って、複雑な感じが面白いなー」=I like the way the stems are intertwined, the complexity.
+「そうか、それもすごいと思うぞ」=Yeah, I think it's great, too.
+「うん、そっちもいいかも知れないな―」=Yeah, that's a good one, too.
+「ちゃんと見たら、キミも好きになると思うんだけどな―」=I think you'll like it when you see it.
+「そうかー……でも、後からでも、きっと好きになると思うぞ」=Yeah, I'm sure you'll like it, too, ......, or later.
+「<color=yellow>チンアナゴ</color>ってすっごく面白いなー」=<color=yellow>Chinagoes</color> are so interesting.
+「あのゆらゆら揺れてる感じが、すっごく楽しそうで好きだぞー」=I like the way they sway, they look so happy.
+「<color=yellow>シオマネキ</color>って、すっごくカッコいいよな」=<color=yellow>The <color=yellow>chinamanefish</color> are really cool, aren't they?
+「大きいハサミを動かしてる姿が、勇ましくっていいんだよなー」=I like the way they move the big scissors, it's so brave.
+「それもいいな。気になって来たぞ」=I like that too. Now I'm curious.
+「なるほど、そっちもあるのか。すごいぞー」=I see, you have that too? That's great.
+「興味ないのか？　大丈夫、見ればきっと好きになるぞ」=You're not interested?　Don't worry, you'll love it.
+「好きじゃないのか？　でも、よく見たら気に入るかも知れないぞ」=You don't like it?　But if you take a closer look, you might like it.
+「<color=yellow>お土産</color>の事を考えるだけでワクワクするぞー」=I'm excited just thinking about the <color=yellow> souvenir</color>.
+「気に入ったお土産をもらった時は、本当に嬉しいからなー」=It's really nice when you get a souvenir you like.
+「<color=yellow>シークヮーサージュース</color>って、酸味があって美味しいぞ」=<color=yellow>Shikwasa juice</color> is very tart and delicious.
+「あたし、ああ言う柑橘系の果汁が結構好きなんだ」=I like that kind of citrus juice a lot.
+「<color=yellow>ぬいぐるみ</color>は大好きだぞー。見たら欲しくなるぞー」=I love stuffed animals. You'll want one when you see one.
+「あたし、ああいうぬいぐるみとか集めるの、大好きだぞー」=I love to collect stuffed animals like that.
+「言われてみれば、それもいい感じだなー」=Now that you mention it, that sounds good.
+「なるほどー。何となく欲しくなって来たぞ」=I see. I'm starting to like them.
+「そうか、興味ないかー。いいと思うんだけどなー」=Oh, you're not interested? I'm sure it's nice.
+「キミは気にならないのかー……分かってほしいのになー」=You don't care about ......, you should know that.

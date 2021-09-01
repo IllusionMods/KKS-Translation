@@ -1,6 +1,6 @@
-「友達へのお土産を選びたいんだけど、なにか珍しいものはないもんかね」="I'd like to pick up a souvenir for my friend. I'm looking for something unusual.
-「名産品なんて大体珍しいと思うけど？」="You know how rare most of these things are?
-「その中でも特にってこと。なんていうか……『こんなものを見つけるなんてさすがだ！』って関心される感じのやつ」="I mean one of them in particular. I mean the ones that make you go, '...... I'm so proud of you for finding this! I mean the ones that make you go, "Wow, I'm impressed that you found this!"
-「う～ん……じゃあ、お菓子じゃなくて他のものに目を付けたらどう？　女の子に贈るなら美容品とかさ」="If you want to give a gift to a girl, why don't you look at something else instead of sweets?　If you're giving a gift to a girl, maybe beauty products?
-「フェイスマスクとかアロマとか色々置いてあるみたいだよ」="They have face masks and aromas and stuff.
-「なるほどね、それはアリだな！」="I see. That's a good idea!
+「友達へのお土産を選びたいんだけど、なにか珍しいものはないもんかね」=I'd like to pick up a souvenir for my friend. I'm looking for something unusual.
+「名産品なんて大体珍しいと思うけど？」=You know how rare most of these things are?
+「その中でも特にってこと。なんていうか……『こんなものを見つけるなんてさすがだ！』って関心される感じのやつ」=I mean one of them in particular. I mean the ones that make you go, '...... I'm so proud of you for finding this! I mean the ones that make you go, "Wow, I'm impressed that you found this!
+「う～ん……じゃあ、お菓子じゃなくて他のものに目を付けたらどう？　女の子に贈るなら美容品とかさ」=If you want to give a gift to a girl, why don't you look at something else instead of sweets?　If you're giving a gift to a girl, maybe beauty products?
+「フェイスマスクとかアロマとか色々置いてあるみたいだよ」=They have face masks and aromas and stuff.
+「なるほどね、それはアリだな！」=I see. That's a good idea!

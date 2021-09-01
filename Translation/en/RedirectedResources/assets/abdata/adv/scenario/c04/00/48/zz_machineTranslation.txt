@@ -1,5 +1,5 @@
-「あなたは、嫌いな食べ物ってある？」="Do you have a food you don't like?
-「苦手な食べ物はあるけど、嫌いって程ではないかな」="There are some foods I don't like, but not so much that I don't like them.
-「昔は割と好き嫌いがあったんだけど、だんだん食べられる様になったよ」="I used to be a bit of a picky eater, but I'm getting better at it.
-「年を取ると味覚は劣化するらしいから、それで食べられる様になったのかもしれないわね」="They say our taste buds deteriorate as we get older, so maybe that's why we're able to eat.
-「大人になったからじゃなくて、老化だったのか……悲しい」="It's not because I'm an adult, it's because I'm aging. ...... It's sad.
+「あなたは、嫌いな食べ物ってある？」=Do you have a food you don't like?
+「苦手な食べ物はあるけど、嫌いって程ではないかな」=There are some foods I don't like, but not so much that I don't like them.
+「昔は割と好き嫌いがあったんだけど、だんだん食べられる様になったよ」=I used to be a bit of a picky eater, but I'm getting better at it.
+「年を取ると味覚は劣化するらしいから、それで食べられる様になったのかもしれないわね」=They say our taste buds deteriorate as we get older, so maybe that's why we're able to eat.
+「大人になったからじゃなくて、老化だったのか……悲しい」=It's not because I'm an adult, it's because I'm aging. ...... It's sad.

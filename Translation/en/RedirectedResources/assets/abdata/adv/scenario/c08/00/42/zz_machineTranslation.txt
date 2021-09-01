@@ -1,5 +1,5 @@
-「どう？　順調にシーサー作れてる？」="How's it going?　How's the Shisa coming along?
-「ちょっと苦戦してるけど、悪くないと思うよ」="I'm struggling a little, but I think I'm doing okay.
-「こうやって何かを作るのって、久しぶりだな～。子供の頃を思い出して、楽しいよぉ」="It's been a long time since we've made something like this. It reminds me of when I was a kid. It's fun.
-「はは、そっか。なら誘って正解だったよ」="Haha, I see. Then it was a good decision to invite you.
-「うんっ、ありがとぉ。でも手が止まってるよ？　あなたが作ってくれないと、私のシーサー、一人ぼっちになっちゃう」="Yes, thank you. But your hand is stuck.　If you don't make it, my shisa will be all alone.
+「どう？　順調にシーサー作れてる？」=How's it going?　How's the Shisa coming along?
+「ちょっと苦戦してるけど、悪くないと思うよ」=I'm struggling a little, but I think I'm doing okay.
+「こうやって何かを作るのって、久しぶりだな～。子供の頃を思い出して、楽しいよぉ」=It's been a long time since we've made something like this. It reminds me of when I was a kid. It's fun.
+「はは、そっか。なら誘って正解だったよ」=Haha, I see. Then it was a good decision to invite you.
+「うんっ、ありがとぉ。でも手が止まってるよ？　あなたが作ってくれないと、私のシーサー、一人ぼっちになっちゃう」=Yes, thank you. But your hand is stuck.　If you don't make it, my shisa will be all alone.

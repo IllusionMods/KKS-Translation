@@ -1,6 +1,6 @@
-「中々悪くない品揃えですわ」="It's not a bad selection.
-「なにか買いたいモノはあった？」="Is there anything you want to buy?
-「この色鮮やかな小物入れは、惹かれるものがありますわね」="This brightly colored accessory case is very attractive.
-「ああ、紅型染めのやつだね。俺も気になってたんだ」="Oh, it's dyed with Bingata. I've been wondering about that.
-「ただ、わたくしのコーディネートとはあまり相性が良くなくて、悩んでおりますの」="It's just that I'm having a hard time coordinating with you.
+「中々悪くない品揃えですわ」=It's not a bad selection.
+「なにか買いたいモノはあった？」=Is there anything you want to buy?
+「この色鮮やかな小物入れは、惹かれるものがありますわね」=This brightly colored accessory case is very attractive.
+「ああ、紅型染めのやつだね。俺も気になってたんだ」=Oh, it's dyed with Bingata. I've been wondering about that.
+「ただ、わたくしのコーディネートとはあまり相性が良くなくて、悩んでおりますの」=It's just that I'm having a hard time coordinating with you.
 （こういう風にお洒落にこだわりを持っているから、綺麗なんだろうなぁ）=(I guess she's beautiful because she's so particular about dressing up like this.

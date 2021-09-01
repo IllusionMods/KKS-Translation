@@ -1,6 +1,6 @@
-「パワースポットらしいけど、[H名]は何か感じる？」="I heard it's a power spot, but do you feel anything, [H名]?
-「今のところ特にないわね。でも人間が知覚できないだけで、何かしらの力はあるんだと思うわ」="Not at the moment. But I think it has some kind of power that humans just can't perceive.
-「それか……すぐ効果が現れるんじゃなくて、時間が必要なのかも」="Or maybe ...... it doesn't work right away, maybe it needs time.
-「たとえばどれぐらい？」="Like how much?
-「う～ん、十年ぐらいかしら？」="Hmmm, ten years?
-「流石にかかりすぎだと思うな……」="I think it's taking too long. ......
+「パワースポットらしいけど、[H名]は何か感じる？」=I heard it's a power spot, but do you feel anything, [H名]?
+「今のところ特にないわね。でも人間が知覚できないだけで、何かしらの力はあるんだと思うわ」=Not at the moment. But I think it has some kind of power that humans just can't perceive.
+「それか……すぐ効果が現れるんじゃなくて、時間が必要なのかも」=Or maybe ...... it doesn't work right away, maybe it needs time.
+「たとえばどれぐらい？」=Like how much?
+「う～ん、十年ぐらいかしら？」=Hmmm, ten years?
+「流石にかかりすぎだと思うな……」=I think it's taking too long. ......

@@ -1,6 +1,6 @@
-「海が綺麗だね」="The sea is beautiful.
-「本当だな、もっと沖の方まで行ってみたいぞ」="It's true. I'd like to go further out to sea.
-「でも、たまには浜辺でのんびりするのもいいんじゃない？」="But sometimes it's nice to relax on the beach, isn't it?
-「そうか……確かに、キミと二人ならそれも楽しそうだな！　なら、頑張ってのんびりするぞー」="I'm sure you and I could have a lot of fun together.　I'm going to do my best to relax.
-「のんびりー！　のんびりー！　もっとのんびりー！」="Relax!　Relax!　More relaxed!
-「いや、そこまで頑張らなくても……」="No, you don't have to go that far, .......
+「海が綺麗だね」=The sea is beautiful.
+「本当だな、もっと沖の方まで行ってみたいぞ」=It's true. I'd like to go further out to sea.
+「でも、たまには浜辺でのんびりするのもいいんじゃない？」=But sometimes it's nice to relax on the beach, isn't it?
+「そうか……確かに、キミと二人ならそれも楽しそうだな！　なら、頑張ってのんびりするぞー」=I'm sure you and I could have a lot of fun together.　I'm going to do my best to relax.
+「のんびりー！　のんびりー！　もっとのんびりー！」=Relax!　Relax!　More relaxed!
+「いや、そこまで頑張らなくても……」=No, you don't have to go that far, .......

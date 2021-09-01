@@ -1,6 +1,6 @@
-「少しお尋ねしたいのですが、この島のお料理の中で、何が一番お好きですか？」="I'd like to ask you a few questions. What do you like best about the cuisine of this island?
-「うーん、どれも美味しいから一番を決めるのは難しいなぁ。しいて挙げるなら……ソーキそばかな」="Hmm, it's hard to choose the best because they are all delicious. It's hard to choose the best because they are all delicious.
-「なるほど、参考になりましたわ」="Well, that's very informative.
-「何の参考になったか、聞いてもいい？」="Can I ask you what you were referring to?
-「お父様とお母様に、旅の思い出に何か振る舞おうと思っていまして。ただ、何を作るか迷っていましたの」="I was thinking of treating your mother and father to something to remember their trip. I just couldn't decide what to make.
-「なるほど、納得。ご両親、きっと喜んでくれると思うよ」="I see, that makes sense. I'm sure your parents will be very happy to hear that.
+「少しお尋ねしたいのですが、この島のお料理の中で、何が一番お好きですか？」=I'd like to ask you a few questions. What do you like best about the cuisine of this island?
+「うーん、どれも美味しいから一番を決めるのは難しいなぁ。しいて挙げるなら……ソーキそばかな」=Hmm, it's hard to choose the best because they are all delicious. It's hard to choose the best because they are all delicious.
+「なるほど、参考になりましたわ」=Well, that's very informative.
+「何の参考になったか、聞いてもいい？」=Can I ask you what you were referring to?
+「お父様とお母様に、旅の思い出に何か振る舞おうと思っていまして。ただ、何を作るか迷っていましたの」=I was thinking of treating your mother and father to something to remember their trip. I just couldn't decide what to make.
+「なるほど、納得。ご両親、きっと喜んでくれると思うよ」=I see, that makes sense. I'm sure your parents will be very happy to hear that.

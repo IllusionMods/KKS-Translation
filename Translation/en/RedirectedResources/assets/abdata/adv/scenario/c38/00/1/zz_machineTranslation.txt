@@ -1,6 +1,6 @@
-「あの……今のは、もしかして……私に対しての告白、なのでしょうか？」="Could ...... that be a confession to ...... me?
-「そうだよ、俺は[H名]と付き合いたいと思ってる」="Yeah, I'm thinking I want to go out with [H名].
-「ありがとう、御座います……私も、貴方の事が好きです」="Thank you, sir. ...... I like you, too."
-「そうなんだね、良かった……それじゃあ、返事は……」="Yeah, that's good. ...... Well, I'll get back to you at .......
-「もちろん、お受けします。ぜひ、お付き合いさせて下さい」="Of course, I'll accept. I'd love to go out with you.
-「あぁ、貴方と恋人同士になれるなんて、夢みたいです」="Oh, it's a dream come true to be in love with you.
+「あの……今のは、もしかして……私に対しての告白、なのでしょうか？」=Could ...... that be a confession to ...... me?
+「そうだよ、俺は[H名]と付き合いたいと思ってる」=Yeah, I'm thinking I want to go out with [H名].
+「ありがとう、御座います……私も、貴方の事が好きです」=Thank you, sir. ...... I like you, too.
+「そうなんだね、良かった……それじゃあ、返事は……」=Yeah, that's good. ...... Well, I'll get back to you at .......
+「もちろん、お受けします。ぜひ、お付き合いさせて下さい」=Of course, I'll accept. I'd love to go out with you.
+「あぁ、貴方と恋人同士になれるなんて、夢みたいです」=Oh, it's a dream come true to be in love with you.

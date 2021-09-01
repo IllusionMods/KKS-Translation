@@ -1,4 +1,4 @@
-「色々な種類がありますね」="There are so many different kinds.
-「何かしてみたいものってある？」="Is there something you'd like to do?
-「あなたがしたいものを……いえ、こちらをやってみたいと思います」="Whatever you want to do ......, no, I'd like to do this."
-「ふむ、それじゃ借りてやってみよっか」="Hmm. Well, let's try it out.
+「色々な種類がありますね」=There are so many different kinds.
+「何かしてみたいものってある？」=Is there something you'd like to do?
+「あなたがしたいものを……いえ、こちらをやってみたいと思います」=Whatever you want to do ......, no, I'd like to do this.
+「ふむ、それじゃ借りてやってみよっか」=Hmm. Well, let's try it out.

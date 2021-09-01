@@ -1,6 +1,6 @@
-「この滝、パワースポットって言われてるみたいだよ」="This waterfall is supposed to be a power spot.
-「パワースポット……何か逸話みたいなのってあるのかな？」="A power spot ....... Is there some kind of anecdote about it?
-「伝説みたいな感じのやつ？」="You mean like a legend?
-「そう……私ね、そういう物語的なものを探すのが大好きなの」="Yeah, ...... I love to look for these narrative things.
-「なるほど、そういうのなら探せばありそうだよね」="Well, that's what you're looking for, isn't it?
-「うん。だから、私すごく楽しみ。面白いお話だといいな」="Yes. So I'm really looking forward to it. I hope it's an interesting story.
+「この滝、パワースポットって言われてるみたいだよ」=This waterfall is supposed to be a power spot.
+「パワースポット……何か逸話みたいなのってあるのかな？」=A power spot ....... Is there some kind of anecdote about it?
+「伝説みたいな感じのやつ？」=You mean like a legend?
+「そう……私ね、そういう物語的なものを探すのが大好きなの」=Yeah, ...... I love to look for these narrative things.
+「なるほど、そういうのなら探せばありそうだよね」=Well, that's what you're looking for, isn't it?
+「うん。だから、私すごく楽しみ。面白いお話だといいな」=Yes. So I'm really looking forward to it. I hope it's an interesting story.

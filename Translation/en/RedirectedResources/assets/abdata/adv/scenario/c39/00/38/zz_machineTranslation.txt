@@ -1,6 +1,6 @@
-「一人の時は海ってどうやって遊んだらいいかよく分からなかったけど……[H名]と一緒なら何でも楽しめそう」="When I was alone, I didn't know how to play in the ocean, but with ......[H名], I can enjoy everything.
-「それ、自分も一緒よー。キミとは海をただボーっと眺めてるだけでも、ずっと飽きずにいられそう」="I'll do the same. I'm sure I could spend the rest of my life just gazing at the ocean with you.
-「実際飽きないだろうね。こういう時、[H名]と恋人になってよかったって改めて思うよ」="I'll never get tired of it. It's times like this that I realize how lucky I am to be in love with [H名].
-「それも一緒よー。キミとなら……泳いだり、砂のお城を作ったり、海で遊べること何でもしてみたいさー」="It's the same with you. I want to swim with you at ......, build sandcastles, and do whatever else we can do in the ocean.
-「よし、じゃあ折角だし……全部やっちゃおうか！」="All right, let's go to ...... and do it all!
-「えへへ、いいよー。全部付き合う～♪　二人でこの海を制覇してしまおー」="I'll go along with all of it. I'll go with you all the way. We'll conquer this ocean together.
+「一人の時は海ってどうやって遊んだらいいかよく分からなかったけど……[H名]と一緒なら何でも楽しめそう」=When I was alone, I didn't know how to play in the ocean, but with ......[H名], I can enjoy everything.
+「それ、自分も一緒よー。キミとは海をただボーっと眺めてるだけでも、ずっと飽きずにいられそう」=I'll do the same. I'm sure I could spend the rest of my life just gazing at the ocean with you.
+「実際飽きないだろうね。こういう時、[H名]と恋人になってよかったって改めて思うよ」=I'll never get tired of it. It's times like this that I realize how lucky I am to be in love with [H名].
+「それも一緒よー。キミとなら……泳いだり、砂のお城を作ったり、海で遊べること何でもしてみたいさー」=It's the same with you. I want to swim with you at ......, build sandcastles, and do whatever else we can do in the ocean.
+「よし、じゃあ折角だし……全部やっちゃおうか！」=All right, let's go to ...... and do it all!
+「えへへ、いいよー。全部付き合う～♪　二人でこの海を制覇してしまおー」=I'll go along with all of it. I'll go with you all the way. We'll conquer this ocean together.

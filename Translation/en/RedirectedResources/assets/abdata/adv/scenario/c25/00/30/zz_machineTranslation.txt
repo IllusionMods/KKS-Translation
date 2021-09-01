@@ -1,5 +1,5 @@
-「この辺、空気が涼しくて気持ちいいな～」="The air around here is nice and cool.
-「水しぶきが飛んでるから、気温が下がるんだろうね」="The water is splashing, so the temperature must be dropping.
-「近くにベッドがあったら、ゆっくり眠れるのかな～」="I wish I had a bed nearby so I could sleep.
-「こんな所にあったら湿気っちゃうよ」="It's so damp in here.
-「そっか～……名案だと思ったのにな～」="I see. - ...... I thought it was a good idea.
+「この辺、空気が涼しくて気持ちいいな～」=The air around here is nice and cool.
+「水しぶきが飛んでるから、気温が下がるんだろうね」=The water is splashing, so the temperature must be dropping.
+「近くにベッドがあったら、ゆっくり眠れるのかな～」=I wish I had a bed nearby so I could sleep.
+「こんな所にあったら湿気っちゃうよ」=It's so damp in here.
+「そっか～……名案だと思ったのにな～」=I see. - ...... I thought it was a good idea.

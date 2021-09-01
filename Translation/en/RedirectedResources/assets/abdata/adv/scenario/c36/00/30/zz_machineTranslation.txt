@@ -1,7 +1,7 @@
-「……それで、貴方はいつこの滝に飛び込むの？　その為に私はここまで来たんだから、早くしなさい」="...... So, when are you going to jump into this waterfall?　That's what I came here for, so hurry up."
-「なんで俺が飛び込むことになってるの！？」="Why am I supposed to jump in?
-「ここはパワースポットなんだから、力を貰う為に何らかの儀式がいるのは当たり前のことでしょう？」="Since it's a power spot, it's only natural that there would be some kind of ritual to get the power, right?
-「力を貰う為に飛び込むパワースポットなんて嫌すぎるよ……」="I don't like the idea of going to a power spot to get power. ......
-「そもそも、[H名]さんはそういうの信じないタイプなんじゃないの？」="Aren't you the type of person who doesn't believe in such things?
-「ええ、信じていないわよ。でも、貴方がここが本物だと証明してくれたら信じるわ。だから飛び込みなさい」="Yeah, I don't believe you. I don't believe you, but I will if you prove to me that this place is real. So jump in.
-「何が何でも俺を飛び込ませたいんだね……」="You want me to jump in at any cost. ......
+「……それで、貴方はいつこの滝に飛び込むの？　その為に私はここまで来たんだから、早くしなさい」=...... So, when are you going to jump into this waterfall?　That's what I came here for, so hurry up.
+「なんで俺が飛び込むことになってるの！？」=Why am I supposed to jump in?
+「ここはパワースポットなんだから、力を貰う為に何らかの儀式がいるのは当たり前のことでしょう？」=Since it's a power spot, it's only natural that there would be some kind of ritual to get the power, right?
+「力を貰う為に飛び込むパワースポットなんて嫌すぎるよ……」=I don't like the idea of going to a power spot to get power. ......
+「そもそも、[H名]さんはそういうの信じないタイプなんじゃないの？」=Aren't you the type of person who doesn't believe in such things?
+「ええ、信じていないわよ。でも、貴方がここが本物だと証明してくれたら信じるわ。だから飛び込みなさい」=Yeah, I don't believe you. I don't believe you, but I will if you prove to me that this place is real. So jump in.
+「何が何でも俺を飛び込ませたいんだね……」=You want me to jump in at any cost. ......

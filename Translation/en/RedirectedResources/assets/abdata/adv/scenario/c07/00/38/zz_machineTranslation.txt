@@ -1,7 +1,7 @@
-「はぁ、はぁ……砂浜に来てやることが、かけっこって……思っても、みなかった……」="Ha, ha, ha. ...... I never thought I'd come to a beach and have to run. ......
-「おいおい、もうバテてるのか？　情けないぞー！」="Are you sure you don't want some?　You're pathetic!
-「砂に足をとられるから……走りにくいんだよ……」="It's hard to run in ...... because your feet get caught in the sand.
-「それが目的なんだって！　ほら、もっと体力をつけるんだ！」="That's what they want!　Come on, you've got to get stronger!
-「俺に体力をつけさせて、何の意味があるのさ……？」="What's the point of letting me build up my strength, ......?
-「そ、それは……あれだよ……お姫様だ……いやっ！　何でもない、何も言ってないぞ！」="That's ...... that's a ...... princess. ...... No!　I didn't say anything! I didn't say anything!
+「はぁ、はぁ……砂浜に来てやることが、かけっこって……思っても、みなかった……」=Ha, ha, ha. ...... I never thought I'd come to a beach and have to run. ......
+「おいおい、もうバテてるのか？　情けないぞー！」=Are you sure you don't want some?　You're pathetic!
+「砂に足をとられるから……走りにくいんだよ……」=It's hard to run in ...... because your feet get caught in the sand.
+「それが目的なんだって！　ほら、もっと体力をつけるんだ！」=That's what they want!　Come on, you've got to get stronger!
+「俺に体力をつけさせて、何の意味があるのさ……？」=What's the point of letting me build up my strength, ......?
+「そ、それは……あれだよ……お姫様だ……いやっ！　何でもない、何も言ってないぞ！」=That's ...... that's a ...... princess. ...... No!　I didn't say anything! I didn't say anything!
 （……頑張ろう）=(......) Let's go for it.

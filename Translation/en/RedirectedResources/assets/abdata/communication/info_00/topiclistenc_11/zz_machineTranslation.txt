@@ -1,36 +1,36 @@
-「あなたは、<color=yellow>シュノーケリング</color>に興味あるかしら？」="Would you be interested in <color=yellow>snorkeling</color>?
-「お魚を眺めながら綺麗な海を泳げて、とてもワクワクするのよね～」="It's so exciting to swim in the beautiful ocean while watching the fish!
-「もう<color=yellow>トレッキング</color>は体験してみた？」="Have you tried <color=yellow>trekking</color> yet?
-「うふふ、気軽に楽しめるから、みんなにおすすめしてるの」="I recommend it to everyone because it's so easy and fun.
-「あらあら、あなたはそれが好きなのね」="Oh, my, you love it, don't you?
-「ふふっ。そっちも楽しいわよね～」="Oh, you like that. It's fun, too.
-「あら……よかったら、挑戦してみてほしいわ」="Oh, ......, I'd like you to try it.
-「あなたも楽しめると思うから、機会があったらやってみてね」="I think you'll enjoy it, too, if you get a chance.
-「島を歩いてる<color=yellow>水牛</color>ちゃん、可愛いわよね～」="Isn't that little buffalo walking around the island so cute?
-「あのつぶらな瞳が特にキュートだわ♪」="Those dull eyes are especially cute.
-「<color=yellow>マングローブ</color>林って、眺めてるだけでも楽しいわよね～」="Mangrove forests are fun to look at, aren't they?
-「鳥さんカニさんお魚さん……色んな子が暮らしてるんだけど、どの子も可愛いわ」="Birds, crabs, fish, ......, all kinds of kids live here, and they're all cute.
-「この島にも、<color=yellow>パワースポット</color>はあるのね」="I guess there are <color=yellow>power spots</color> on this island, too.
-「全国にどのぐらいあるのかしら？　調べてみたら、面白いかもしれないわね」="I wonder how many there are in Japan?　It would be interesting to find out.
-「ここの<color=yellow>星空</color>はとても綺麗よね……」="The <color=yellow>starry sky</color> here is very beautiful. ......
-「一番お星様が綺麗に見えるスポットはどこかしら？　見つけたら、あなたにも教えてあげるわ」="Where is the best spot to see the stars?　I'll let you know when I find it.
-「ふふふ、それも素敵だと思うわ～」="I think that would be great.
-「分かるわ。本当に見どころがたくさんあるわね～」="I know what you mean. There are so many places to see.
-「あんまり興味ないかしら？　でも、きっとあなたも好きになると思うわ」="Not so interesting, huh?　But I'm sure you'll like it.
-「あら……私の伝え方がよくなかったのかしら」="Oh, ......, maybe I didn't communicate it well.
-「<color=yellow>サンゴ</color>は今でも新種が発見されたりするんですって」="<color=yellow>They're still discovering new species of coral</color>.
-「全部でどのぐらいのサンゴがこの島にはいるのかしら？　みんなに会ってみたいわ～」="I wonder how many corals there are on this island?　I'd love to meet them all!
-「<color=yellow>クマノミ</color>って、本当にイソギンチャクとずっと一緒にいるのね」="<I wonder how many corals are on this island?
-「仲良く暮らしていて、なんだか微笑ましいわ～」="They live so well together, it's kind of funny.
-「うふふ、その子たちも素敵ね～」="They're so cute too!"
-「あら？　あなたは、その子が好きなのね」="Oh?　You like them, don't you?
-「あなたにも分からないことがあるのね～。今度調べてみるといいわ」="You don't know what you're talking about, do you? Maybe you should look into it.
-「島の海について調べてみるといわ。楽しいからおすすめよ」="You should try to find out about the sea on the island. It's fun. I recommend it.
-「あなたはこの島の<color=yellow>名物料理</color>の中でなにが好きなの？」="What's your favorite <color=yellow>specialty food</color> of the island?
-「私はやっぱりゴーヤチャンプルーかしら。ゴーヤの苦みがアクセントになって美味しいのよね～」="I'd have to say bitter melon stir-fry. The bitterness of the bitter gourd accents the dish and makes it delicious.
-「<color=yellow>紅型</color>の小物をプレゼントされたら、あなたは嬉しいかしら？」="Would you be happy to receive a <color=yellow> Bingata</color> accessory as a gift?
-「本をよく読んでいる子だから、ブックカバーあたりにしようかと思ってるの」="She reads a lot, so I'm thinking of a book cover.
-「そっちも素敵よね～。やっぱり悩ましいわ」="I'm thinking of a book cover since she reads a lot. That sounds wonderful.
-「うふふ、それがあなたのおすすめね」="Mmm, that's your recommendation.
-「うーん……あなたなら食いついてくれると思ってたんだけど」="Hmmm. ...... I was hoping you'd take a chance on that.
-「そうねぇ、それも素敵だけど、今の話題にも興味を持ってくれたら嬉しいわ」="Yeah, that's great, but I hope you're interested in the topic at hand.
+「あなたは、<color=yellow>シュノーケリング</color>に興味あるかしら？」=Would you be interested in <color=yellow>snorkeling</color>?
+「お魚を眺めながら綺麗な海を泳げて、とてもワクワクするのよね～」=It's so exciting to swim in the beautiful ocean while watching the fish!
+「もう<color=yellow>トレッキング</color>は体験してみた？」=Have you tried <color=yellow>trekking</color> yet?
+「うふふ、気軽に楽しめるから、みんなにおすすめしてるの」=I recommend it to everyone because it's so easy and fun.
+「あらあら、あなたはそれが好きなのね」=Oh, my, you love it, don't you?
+「ふふっ。そっちも楽しいわよね～」=Oh, you like that. It's fun, too.
+「あら……よかったら、挑戦してみてほしいわ」=Oh, ......, I'd like you to try it.
+「あなたも楽しめると思うから、機会があったらやってみてね」=I think you'll enjoy it, too, if you get a chance.
+「島を歩いてる<color=yellow>水牛</color>ちゃん、可愛いわよね～」=Isn't that little buffalo walking around the island so cute?
+「あのつぶらな瞳が特にキュートだわ♪」=Those dull eyes are especially cute.
+「<color=yellow>マングローブ</color>林って、眺めてるだけでも楽しいわよね～」=Mangrove forests are fun to look at, aren't they?
+「鳥さんカニさんお魚さん……色んな子が暮らしてるんだけど、どの子も可愛いわ」=Birds, crabs, fish, ......, all kinds of kids live here, and they're all cute.
+「この島にも、<color=yellow>パワースポット</color>はあるのね」=I guess there are <color=yellow>power spots</color> on this island, too.
+「全国にどのぐらいあるのかしら？　調べてみたら、面白いかもしれないわね」=I wonder how many there are in Japan?　It would be interesting to find out.
+「ここの<color=yellow>星空</color>はとても綺麗よね……」=The <color=yellow>starry sky</color> here is very beautiful. ......
+「一番お星様が綺麗に見えるスポットはどこかしら？　見つけたら、あなたにも教えてあげるわ」=Where is the best spot to see the stars?　I'll let you know when I find it.
+「ふふふ、それも素敵だと思うわ～」=I think that would be great.
+「分かるわ。本当に見どころがたくさんあるわね～」=I know what you mean. There are so many places to see.
+「あんまり興味ないかしら？　でも、きっとあなたも好きになると思うわ」=Not so interesting, huh?　But I'm sure you'll like it.
+「あら……私の伝え方がよくなかったのかしら」=Oh, ......, maybe I didn't communicate it well.
+「<color=yellow>サンゴ</color>は今でも新種が発見されたりするんですって」=<color=yellow>They're still discovering new species of coral</color>.
+「全部でどのぐらいのサンゴがこの島にはいるのかしら？　みんなに会ってみたいわ～」=I wonder how many corals there are on this island?　I'd love to meet them all!
+「<color=yellow>クマノミ</color>って、本当にイソギンチャクとずっと一緒にいるのね」=<I wonder how many corals are on this island?
+「仲良く暮らしていて、なんだか微笑ましいわ～」=They live so well together, it's kind of funny.
+「うふふ、その子たちも素敵ね～」=They're so cute too!
+「あら？　あなたは、その子が好きなのね」=Oh?　You like them, don't you?
+「あなたにも分からないことがあるのね～。今度調べてみるといいわ」=You don't know what you're talking about, do you? Maybe you should look into it.
+「島の海について調べてみるといわ。楽しいからおすすめよ」=You should try to find out about the sea on the island. It's fun. I recommend it.
+「あなたはこの島の<color=yellow>名物料理</color>の中でなにが好きなの？」=What's your favorite <color=yellow>specialty food</color> of the island?
+「私はやっぱりゴーヤチャンプルーかしら。ゴーヤの苦みがアクセントになって美味しいのよね～」=I'd have to say bitter melon stir-fry. The bitterness of the bitter gourd accents the dish and makes it delicious.
+「<color=yellow>紅型</color>の小物をプレゼントされたら、あなたは嬉しいかしら？」=Would you be happy to receive a <color=yellow> Bingata</color> accessory as a gift?
+「本をよく読んでいる子だから、ブックカバーあたりにしようかと思ってるの」=She reads a lot, so I'm thinking of a book cover.
+「そっちも素敵よね～。やっぱり悩ましいわ」=I'm thinking of a book cover since she reads a lot. That sounds wonderful.
+「うふふ、それがあなたのおすすめね」=Mmm, that's your recommendation.
+「うーん……あなたなら食いついてくれると思ってたんだけど」=Hmmm. ...... I was hoping you'd take a chance on that.
+「そうねぇ、それも素敵だけど、今の話題にも興味を持ってくれたら嬉しいわ」=Yeah, that's great, but I hope you're interested in the topic at hand.

@@ -1,7 +1,7 @@
-「灯台って、なんの為に建ってるの？」="What are lighthouses for?
-「船が迷わない為の目印……だったかな」="It's a beacon to keep ships from getting lost. ......, I think.
-「海の上には基本的に何もないから、灯台の光を頼りに航海をするんだよ」="There's basically nothing on the sea, so you have to rely on the light of the lighthouse to navigate.
-「へぇ～、そうなんだ。すっごく大事な役割があるなんて、灯台はすごいねぇ」="Oh, really? It's amazing that lighthouses have such an important role to play.
-「でも、ネットの記事で読んだんだけど、ＧＰＳの影響で老朽化した灯台は取り壊されるかもしれないんだって」="But I read on the Internet that the old lighthouse may be torn down due to GPS.
-「ＧＰＳって聞いたことあるけど、なぁに？」="I've heard of GPS. What is it?
-「……俺のことなんでも知ってる人だって、勘違いしてない？」="...... Are you under the impression that you know everything about me?
+「灯台って、なんの為に建ってるの？」=What are lighthouses for?
+「船が迷わない為の目印……だったかな」=It's a beacon to keep ships from getting lost. ......, I think.
+「海の上には基本的に何もないから、灯台の光を頼りに航海をするんだよ」=There's basically nothing on the sea, so you have to rely on the light of the lighthouse to navigate.
+「へぇ～、そうなんだ。すっごく大事な役割があるなんて、灯台はすごいねぇ」=Oh, really? It's amazing that lighthouses have such an important role to play.
+「でも、ネットの記事で読んだんだけど、ＧＰＳの影響で老朽化した灯台は取り壊されるかもしれないんだって」=But I read on the Internet that the old lighthouse may be torn down due to GPS.
+「ＧＰＳって聞いたことあるけど、なぁに？」=I've heard of GPS. What is it?
+「……俺のことなんでも知ってる人だって、勘違いしてない？」=...... Are you under the impression that you know everything about me?

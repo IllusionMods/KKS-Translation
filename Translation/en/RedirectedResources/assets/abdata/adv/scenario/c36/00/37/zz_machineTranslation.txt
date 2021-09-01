@@ -1,5 +1,5 @@
-「あの……[H名]さん？　一緒に遊ぶはずなんじゃ……なんで俺は砂に埋められてるの？」="That ......[H名]?　We're supposed to be playing ...... together, so why am I buried in the sand?
-「は？　貴方と一緒に遊ぶなんて、一言も言っていないわ。私は貴方で遊んであげると言ったのよ」="What?　I never said anything about playing with you. I said I would play with you.
-「そっか……俺は普通にスイカ割りとかして、[H名]さんと遊びたかったよ」="I wanted to play with [H名] and split watermelons like a normal person.
-「へぇ、口答えするのね。それじゃあ、このまま放置しようかしら」="Oh, you talk back. Well, I guess I'll just leave it there.
-「こんなガチガチに固めた状態で！？　ごめんなさい、幾らでも遊んでいいから放置するのだけは止めてくださいっ！」="In such a hardened state?　I'm sorry, you can play with it as much as you want, just don't leave it!
+「あの……[H名]さん？　一緒に遊ぶはずなんじゃ……なんで俺は砂に埋められてるの？」=That ......[H名]?　We're supposed to be playing ...... together, so why am I buried in the sand?
+「は？　貴方と一緒に遊ぶなんて、一言も言っていないわ。私は貴方で遊んであげると言ったのよ」=What?　I never said anything about playing with you. I said I would play with you.
+「そっか……俺は普通にスイカ割りとかして、[H名]さんと遊びたかったよ」=I wanted to play with [H名] and split watermelons like a normal person.
+「へぇ、口答えするのね。それじゃあ、このまま放置しようかしら」=Oh, you talk back. Well, I guess I'll just leave it there.
+「こんなガチガチに固めた状態で！？　ごめんなさい、幾らでも遊んでいいから放置するのだけは止めてくださいっ！」=In such a hardened state?　I'm sorry, you can play with it as much as you want, just don't leave it!

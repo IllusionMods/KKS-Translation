@@ -1,5 +1,5 @@
-「豊富な品揃えね。土産物から服まで色々揃ってるみたい」="It's a great selection. They've got everything from souvenirs to clothes.
-「見たことが無いような珍しいものもあるよね」="There are rare things you've never seen before.
-「勉強不足ね。前もって調べて置けば、ちゃんと分かるものよ」="You didn't learn enough. If you do your research, you'll know what you're talking about.
-「なら、あれはなんて言うお土産？」="So what's that for?
-「え……あれ？　その……ごめんなさい、私も人のことを言える立場じゃなかったわ」="What ...... is that?　That ...... I'm sorry, I'm not in a position to speak for others.
+「豊富な品揃えね。土産物から服まで色々揃ってるみたい」=It's a great selection. They've got everything from souvenirs to clothes.
+「見たことが無いような珍しいものもあるよね」=There are rare things you've never seen before.
+「勉強不足ね。前もって調べて置けば、ちゃんと分かるものよ」=You didn't learn enough. If you do your research, you'll know what you're talking about.
+「なら、あれはなんて言うお土産？」=So what's that for?
+「え……あれ？　その……ごめんなさい、私も人のことを言える立場じゃなかったわ」=What ...... is that?　That ...... I'm sorry, I'm not in a position to speak for others.

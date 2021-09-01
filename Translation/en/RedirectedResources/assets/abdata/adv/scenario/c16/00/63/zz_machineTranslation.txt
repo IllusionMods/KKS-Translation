@@ -1,4 +1,4 @@
-「ありがとう、すごく気持ち良かったわ」="Thank you. That felt really good.
-「いい感じだったわ、どうもありがとう」="It looked good. Thank you very much.
-「綺麗に塗ってくれたのね。助かったわ」="You painted it beautifully. Thank you.
-「どうしたの？　塗ってくれなかったのね」="What's the matter?　You didn't paint it.
+「ありがとう、すごく気持ち良かったわ」=Thank you. That felt really good.
+「いい感じだったわ、どうもありがとう」=It looked good. Thank you very much.
+「綺麗に塗ってくれたのね。助かったわ」=You painted it beautifully. Thank you.
+「どうしたの？　塗ってくれなかったのね」=What's the matter?　You didn't paint it.

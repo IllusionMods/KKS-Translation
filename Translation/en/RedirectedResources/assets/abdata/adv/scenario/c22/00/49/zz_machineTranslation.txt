@@ -1,6 +1,6 @@
-「ホテルのレストランで食べるのが一番わかりやすいかな」="It's a hotel restaurant, so I guess it's a bit luxurious.
-「うん。ハンバーグにパスタにカレー……全部わかりやすいね」="Yeah. Hamburgers, pasta, curry, ......, it's all very clear.
-「どれもみんな美味しいよ」="It's all very good.
-「そうだね。ついつい食べすぎちゃうかも」="That's true. I'll probably end up eating too much.
-「お腹いっぱいだったら言ってね。俺、まだ食べれるから」="Let me know if you're full. I can still eat.
-「わかったー。ちょっと手伝ってもらうかも」="Okay. I might need some help.
+「ホテルのレストランで食べるのが一番わかりやすいかな」=It's a hotel restaurant, so I guess it's a bit luxurious.
+「うん。ハンバーグにパスタにカレー……全部わかりやすいね」=Yeah. Hamburgers, pasta, curry, ......, it's all very clear.
+「どれもみんな美味しいよ」=It's all very good.
+「そうだね。ついつい食べすぎちゃうかも」=That's true. I'll probably end up eating too much.
+「お腹いっぱいだったら言ってね。俺、まだ食べれるから」=Let me know if you're full. I can still eat.
+「わかったー。ちょっと手伝ってもらうかも」=Okay. I might need some help.

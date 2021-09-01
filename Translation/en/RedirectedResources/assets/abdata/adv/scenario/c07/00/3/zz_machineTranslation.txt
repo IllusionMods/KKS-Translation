@@ -1,7 +1,7 @@
-「うん、付き合おうか、俺たち」="Yeah, we're dating.
-「あはは……やっぱりダメだよなぁ……」="Haha ...... I knew it was a bad idea ......
-「って、はぁ！？　お前は今、付き合うって言ったのか！？」="What?　Did you just say you're going out with me?
-「確かに言ったよ。付き合おうって」="I did say that. You asked me to go out with you.
-「俺も……[H名]のことが好きだったんだ。両想いなんだから、付き合わない理由なんてないでしょ？」="I liked ......[H名] too. It's a two-way street, so there's no reason not to go out with him, right?"
-「そ、そうだったのか……ほっ、良かったぜ」="Oh, yeah? ...... Oh, that's good.
-「じゃあ……なんだ。あ、改めてよろしくな！」="So it's ....... Nice to meet you again!
+「うん、付き合おうか、俺たち」=Yeah, we're dating.
+「あはは……やっぱりダメだよなぁ……」=Haha ...... I knew it was a bad idea ......
+「って、はぁ！？　お前は今、付き合うって言ったのか！？」=What?　Did you just say you're going out with me?
+「確かに言ったよ。付き合おうって」=I did say that. You asked me to go out with you.
+「俺も……[H名]のことが好きだったんだ。両想いなんだから、付き合わない理由なんてないでしょ？」=I liked ......[H名] too. It's a two-way street, so there's no reason not to go out with him, right?
+「そ、そうだったのか……ほっ、良かったぜ」=Oh, yeah? ...... Oh, that's good.
+「じゃあ……なんだ。あ、改めてよろしくな！」=So it's ....... Nice to meet you again!

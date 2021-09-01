@@ -1,5 +1,5 @@
-「オイル塗り……ふーん、そんなことが出来るんだ」="Oiling ......? I didn't know you could do that.
-「せっかくだし塗っていく？　俺、手伝うよ」="Do you want to paint it?　I'll help you.
-「塗ったら、宇宙を感じられるかな？」="If I do, will I feel the universe?
-「それは……やってみないとわからないけど、気持ちはいいと思うよ」="I'll have to try ...... that, but I think it'll feel good.
-「じゃあ……お願いするね」="......, please.
+「オイル塗り……ふーん、そんなことが出来るんだ」=Oiling ......? I didn't know you could do that.
+「せっかくだし塗っていく？　俺、手伝うよ」=Do you want to paint it?　I'll help you.
+「塗ったら、宇宙を感じられるかな？」=If I do, will I feel the universe?
+「それは……やってみないとわからないけど、気持ちはいいと思うよ」=I'll have to try ...... that, but I think it'll feel good.
+「じゃあ……お願いするね」=......, please.

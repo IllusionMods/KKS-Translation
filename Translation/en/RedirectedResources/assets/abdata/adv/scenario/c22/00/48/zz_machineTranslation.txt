@@ -1,6 +1,6 @@
-「この民宿、結構な量のご飯が出るね」="This guest house serves a lot of food.
-「うん。それにあんまり見たことないお料理が多いよ」="Yeah. And there's a lot of dishes I haven't seen before.
-「いわゆる、地元の郷土料理なんだろうね」="I'd like to come back to . - I guess that's what they call local food.
-「これは分かる、ゴーヤーチャンプルーでしょ？」="I know, bitter melon stir-fry, right?"
-「うん、じゃあ、そっちは？」="Yeah, well, what about you?
-「分かんないけど……美味しいから、私は好きだよ」="I don't know, but it's ...... delicious, so I like it.
+「この民宿、結構な量のご飯が出るね」=This guest house serves a lot of food.
+「うん。それにあんまり見たことないお料理が多いよ」=Yeah. And there's a lot of dishes I haven't seen before.
+「いわゆる、地元の郷土料理なんだろうね」=I'd like to come back to . - I guess that's what they call local food.
+「これは分かる、ゴーヤーチャンプルーでしょ？」=I know, bitter melon stir-fry, right?
+「うん、じゃあ、そっちは？」=Yeah, well, what about you?
+「分かんないけど……美味しいから、私は好きだよ」=I don't know, but it's ...... delicious, so I like it.

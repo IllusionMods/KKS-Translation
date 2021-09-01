@@ -1,5 +1,5 @@
-「わかりました、準備をお願いします」="All right, please get ready.
-「あ、えっと、本当にするけど、いいの……？」="Oh, um, I really do. Are you sure you want to ......?
-「はい、問題ありません。が、強いて言えば私は不慣れですので、優しくして頂ければと思います」="Yes, no problem. But if you don't mind, I'm not used to this kind of thing, so I'd appreciate it if you could be gentle with me.
-「う、うん、善処するよ……」="Yeah, yeah, I'll take care of it. ......
-「では、よろしくお願いします」="Thank you very much.
+「わかりました、準備をお願いします」=All right, please get ready.
+「あ、えっと、本当にするけど、いいの……？」=Oh, um, I really do. Are you sure you want to ......?
+「はい、問題ありません。が、強いて言えば私は不慣れですので、優しくして頂ければと思います」=Yes, no problem. But if you don't mind, I'm not used to this kind of thing, so I'd appreciate it if you could be gentle with me.
+「う、うん、善処するよ……」=Yeah, yeah, I'll take care of it. ......
+「では、よろしくお願いします」=Thank you very much.

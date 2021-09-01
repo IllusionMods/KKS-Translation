@@ -1,6 +1,6 @@
-「滝の近くって気持ちがいいよね」="It's so nice to be near a waterfall.
-「うん、空気も涼しくって、なんだか爽やかな感じがする」="Yeah, the air is cooler, and it's kind of refreshing.
-「やっぱり、マイナスイオン的なものが出てるのかな」="I wonder if there are negative ions in the air.
-「よくわかんないけど、なんかいいものが出てるような気がするね」="I don't know, but I think there's something good in there.
-「さすがにパワースポットって言われてるだけの事はあるか」="I guess that's why they call it a power spot.
-「私も、いっぱいパワーもらっちゃおうかな、えへへ」="I'm going to get a lot of power, too, huh?
+「滝の近くって気持ちがいいよね」=It's so nice to be near a waterfall.
+「うん、空気も涼しくって、なんだか爽やかな感じがする」=Yeah, the air is cooler, and it's kind of refreshing.
+「やっぱり、マイナスイオン的なものが出てるのかな」=I wonder if there are negative ions in the air.
+「よくわかんないけど、なんかいいものが出てるような気がするね」=I don't know, but I think there's something good in there.
+「さすがにパワースポットって言われてるだけの事はあるか」=I guess that's why they call it a power spot.
+「私も、いっぱいパワーもらっちゃおうかな、えへへ」=I'm going to get a lot of power, too, huh?

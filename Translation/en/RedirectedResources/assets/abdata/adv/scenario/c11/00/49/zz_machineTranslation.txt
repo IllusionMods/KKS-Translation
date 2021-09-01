@@ -1,5 +1,5 @@
-「もう少しお野菜を摂った方がいいんじゃないかしら？」="I think you need to eat more vegetables.
-「やっぱりそうか……男はつい茶色の食べ物に惹かれちゃうんだよね」="I knew it. ...... Men are always attracted to brown food.
-「から揚げとかが美味しいのはすごく分かるけど、バランスを考えないとダメよ」="I understand that fried food is delicious, but you have to balance it out.
-「島の新鮮なお野菜だってあるんだから、しっかり食べましょう」="We have fresh vegetables from the island, so let's eat well.
+「もう少しお野菜を摂った方がいいんじゃないかしら？」=I think you need to eat more vegetables.
+「やっぱりそうか……男はつい茶色の食べ物に惹かれちゃうんだよね」=I knew it. ...... Men are always attracted to brown food.
+「から揚げとかが美味しいのはすごく分かるけど、バランスを考えないとダメよ」=I understand that fried food is delicious, but you have to balance it out.
+「島の新鮮なお野菜だってあるんだから、しっかり食べましょう」=We have fresh vegetables from the island, so let's eat well.
 （本当にお母さんみたいだな……）=(You really are like a mother. ......)

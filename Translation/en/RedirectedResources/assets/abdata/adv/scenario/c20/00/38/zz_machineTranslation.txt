@@ -1,6 +1,6 @@
-「それじゃあ、シュノーケリングでもしてみようか」="Maybe we'll go snorkeling.
-「そうですね……一緒に海の中をお散歩しましょう」="Yes, ...... let's go for a walk in the ocean together.
-「どうかな、散歩できるほど潜れないと思うけど」="I don't know. I don't think I can dive enough to walk.
-「そうなんですか……それじゃあ、お魚と遊ぶのは？」="Oh, yeah? ...... Well, what about playing with the fish?
-「うん、それなら出来ると思うよ」="Yeah, I think I can do that.
-「なら、それがいいです……一緒に遊びましょうね」="Then I'd like that. ...... Let's play together.
+「それじゃあ、シュノーケリングでもしてみようか」=Maybe we'll go snorkeling.
+「そうですね……一緒に海の中をお散歩しましょう」=Yes, ...... let's go for a walk in the ocean together.
+「どうかな、散歩できるほど潜れないと思うけど」=I don't know. I don't think I can dive enough to walk.
+「そうなんですか……それじゃあ、お魚と遊ぶのは？」=Oh, yeah? ...... Well, what about playing with the fish?
+「うん、それなら出来ると思うよ」=Yeah, I think I can do that.
+「なら、それがいいです……一緒に遊びましょうね」=Then I'd like that. ...... Let's play together.

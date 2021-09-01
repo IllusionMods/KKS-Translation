@@ -1,6 +1,6 @@
-「それじゃあ、何をレンタルしようか」="Okay, what do you want to rent?
-「あたしはバナナボートがいいぞー！」="I like banana boats!"
-「バナナボートか……アレって結構揺れるんだよなぁ」="Banana boats. ...... They're pretty bumpy, aren't they?
-「なんだ、キミは苦手なのかー？」="What, you don't like it?
-「いや、苦手って訳じゃないけど……」="No, it's not that I'm bad at .......
-「大丈夫だぞー！　絶対楽しいに決まってるからなー」="I'm fine!　It's gonna be fun!
+「それじゃあ、何をレンタルしようか」=Okay, what do you want to rent?
+「あたしはバナナボートがいいぞー！」=I like banana boats!
+「バナナボートか……アレって結構揺れるんだよなぁ」=Banana boats. ...... They're pretty bumpy, aren't they?
+「なんだ、キミは苦手なのかー？」=What, you don't like it?
+「いや、苦手って訳じゃないけど……」=No, it's not that I'm bad at .......
+「大丈夫だぞー！　絶対楽しいに決まってるからなー」=I'm fine!　It's gonna be fun!

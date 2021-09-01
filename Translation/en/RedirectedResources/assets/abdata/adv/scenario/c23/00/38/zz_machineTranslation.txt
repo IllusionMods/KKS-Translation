@@ -1,6 +1,6 @@
-「それじゃあ、カヤックに乗ってマングローブを見に行こうか」="So, let's go kayaking and see the mangroves."
-「なんだか、ジャングルを進む探検隊みたいなんだなぁ」="It's like an expedition through the jungle.
-「奥地まで行ったら、何か大発見があるかも知れないね」="Maybe we'll make some great discoveries in the backcountry.
-「新種の動物とか、花を見つけたりして……」="New animals, new flowers... ......
-「そしたら、それに俺たちの名前が付くかも」="Maybe we'll get our own name for it.
-「そうなったら楽しいなぁ。何だかワクワクしてきたよ」="That would be fun. I'm starting to get excited.
+「それじゃあ、カヤックに乗ってマングローブを見に行こうか」=So, let's go kayaking and see the mangroves.
+「なんだか、ジャングルを進む探検隊みたいなんだなぁ」=It's like an expedition through the jungle.
+「奥地まで行ったら、何か大発見があるかも知れないね」=Maybe we'll make some great discoveries in the backcountry.
+「新種の動物とか、花を見つけたりして……」=New animals, new flowers... ......
+「そしたら、それに俺たちの名前が付くかも」=Maybe we'll get our own name for it.
+「そうなったら楽しいなぁ。何だかワクワクしてきたよ」=That would be fun. I'm starting to get excited.

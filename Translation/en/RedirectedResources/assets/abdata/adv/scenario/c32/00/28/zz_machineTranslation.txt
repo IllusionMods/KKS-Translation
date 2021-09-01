@@ -1,2 +1,2 @@
-「お邪魔します」="Thank you for your time.
-「ここでならあなたに好きなだけ尽くせる、というわけですね。お任せ下さい」="I can give you as much as you want here, you know. I'm at your service.
+「お邪魔します」=Thank you for your time.
+「ここでならあなたに好きなだけ尽くせる、というわけですね。お任せ下さい」=I can give you as much as you want here, you know. I'm at your service.

@@ -1,7 +1,7 @@
-「魔界にも海ってあるの？」="Is there an ocean in the demon world?
-「あ、でも魔界の場合、血の海とかになってるのかな？」="Oh, but in the demon world, is it a sea of blood or something?
-「それは魔界ではなく地獄の話だ。魔界にも海はあるが……泳ぐ習慣はあまりないぞ」="It's not about the demon world, it's about hell. There are oceans in the demon world, but they don't have ...... much of a swimming habit.
-「海を好む種族の縄張りになっていて、我らはあまり近づかないのだ」="It's the territory of a species that likes the sea, and we don't get too close.
-「そっか、じゃあ[H名]はあんまり海で遊んだことはないんだね」="Okay, so you've never been to the beach much.
-「う、うむ。だから、その……どんな遊びがあるのか、教えてほしい……」="Hmmm. So, I'd like to know what kind of ...... fun you have. ......
-「うん、たくさん遊ぼう！」="Yeah, let's have lots of fun!
+「魔界にも海ってあるの？」=Is there an ocean in the demon world?
+「あ、でも魔界の場合、血の海とかになってるのかな？」=Oh, but in the demon world, is it a sea of blood or something?
+「それは魔界ではなく地獄の話だ。魔界にも海はあるが……泳ぐ習慣はあまりないぞ」=It's not about the demon world, it's about hell. There are oceans in the demon world, but they don't have ...... much of a swimming habit.
+「海を好む種族の縄張りになっていて、我らはあまり近づかないのだ」=It's the territory of a species that likes the sea, and we don't get too close.
+「そっか、じゃあ[H名]はあんまり海で遊んだことはないんだね」=Okay, so you've never been to the beach much.
+「う、うむ。だから、その……どんな遊びがあるのか、教えてほしい……」=Hmmm. So, I'd like to know what kind of ...... fun you have. ......
+「うん、たくさん遊ぼう！」=Yeah, let's have lots of fun!

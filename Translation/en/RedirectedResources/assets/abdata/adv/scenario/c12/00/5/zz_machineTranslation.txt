@@ -1,4 +1,4 @@
-「……ついに、この時が来たって感じだな」="....... It's like the time has finally come.
-「断ったりしないけどさ、ひとつだけお願いがあるんだ。わかってると思うけど、あたしは初めてだから……その……優しく……」="I won't say no, but I do have one request. As you know, I've never been to ...... before, so please be kind and .......
-「うん、もちろん。ありがとう、[H名]」="Yeah, sure. Thank you, [H名].
-「う、うん……じゃあ……し、しようか？」="Uh-huh. ...... So, do you want me to ......?"
+「……ついに、この時が来たって感じだな」=....... It's like the time has finally come.
+「断ったりしないけどさ、ひとつだけお願いがあるんだ。わかってると思うけど、あたしは初めてだから……その……優しく……」=I won't say no, but I do have one request. As you know, I've never been to ...... before, so please be kind and .......
+「うん、もちろん。ありがとう、[H名]」=Yeah, sure. Thank you, [H名].
+「う、うん……じゃあ……し、しようか？」=Uh-huh. ...... So, do you want me to ......?

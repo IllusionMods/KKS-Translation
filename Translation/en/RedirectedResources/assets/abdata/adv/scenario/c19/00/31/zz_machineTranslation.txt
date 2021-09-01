@@ -1,6 +1,6 @@
-「近づいて見たら、結構立派な灯台だね」="It's a pretty impressive lighthouse when you get up close.
-「この光を見て、船が安全に航海してるんだよね？」="This light is what keeps the ship sailing safely, isn't it?
-「そうだね。灯台にも色々あって、遠くを照らすものや近くの海を照らすためのものもあるんだ」="Yes, it is. There are many kinds of lighthouses, some to light up the distance and some to light up the sea nearby.
-「そうなの？　あなたって灯台に詳しいんだ」="Really?　You know a lot about lighthouses, don't you?
-「いや、一応研修だからね。少し調べた程度だよ」="No, I can do it by myself. - No, it's just a training course. I've only done a little research.
-「すごいと思うよ。私も見習わないと」="I think it's great. I'll have to learn from you.
+「近づいて見たら、結構立派な灯台だね」=It's a pretty impressive lighthouse when you get up close.
+「この光を見て、船が安全に航海してるんだよね？」=This light is what keeps the ship sailing safely, isn't it?
+「そうだね。灯台にも色々あって、遠くを照らすものや近くの海を照らすためのものもあるんだ」=Yes, it is. There are many kinds of lighthouses, some to light up the distance and some to light up the sea nearby.
+「そうなの？　あなたって灯台に詳しいんだ」=Really?　You know a lot about lighthouses, don't you?
+「いや、一応研修だからね。少し調べた程度だよ」=No, I can do it by myself. - No, it's just a training course. I've only done a little research.
+「すごいと思うよ。私も見習わないと」=I think it's great. I'll have to learn from you.

@@ -1,4 +1,4 @@
-「[H名]……いいよね？」="[H名]...... okay?"
-「そんなにエッチしたがってたなんて……あなたはちょっと性欲が強すぎるのでは？」="I can't believe you wanted to have sex so badly. ...... You're a little oversexed, aren't you?
-「うっ……もしかして、引いちゃう？」="...... Are you going to pull it?
-「普通ならそうかもしれませんが、あなたはワタシの彼氏ですから……求めて貰えるのは嬉しいですぞ」="Normally, yes, but you're my boyfriend, and I'm glad you're asking for .......
+「[H名]……いいよね？」=[H名]...... okay?
+「そんなにエッチしたがってたなんて……あなたはちょっと性欲が強すぎるのでは？」=I can't believe you wanted to have sex so badly. ...... You're a little oversexed, aren't you?
+「うっ……もしかして、引いちゃう？」=...... Are you going to pull it?
+「普通ならそうかもしれませんが、あなたはワタシの彼氏ですから……求めて貰えるのは嬉しいですぞ」=Normally, yes, but you're my boyfriend, and I'm glad you're asking for .......

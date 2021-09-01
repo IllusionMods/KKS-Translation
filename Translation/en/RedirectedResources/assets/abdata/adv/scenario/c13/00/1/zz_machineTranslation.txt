@@ -1,5 +1,5 @@
-「そ、それってつまり、アタシに彼女になって欲しいって事？」="Well, does that mean you want me to be your girlfriend?"
-「うん、俺と付き合って欲しい」="Yeah, I want you to be my boyfriend.
-「うん！　分かった！　アタシで良かったら、キミとその……付き合うからっ」="Yeah!　Okay!　If it's okay with me, I'll go out with you ......."
-「ありがとう。[H名]と付き合えるなんて、俺、すごく嬉しいよ」="Thank you. I'm so happy you're going out with [H名].
-「アタシも、アタシも嬉しい……えっと、これからも、宜しくね」="I'm happy, I'm happy, I'm happy, I'm happy, I'm happy, I'm happy. ......
+「そ、それってつまり、アタシに彼女になって欲しいって事？」=Well, does that mean you want me to be your girlfriend?
+「うん、俺と付き合って欲しい」=Yeah, I want you to be my boyfriend.
+「うん！　分かった！　アタシで良かったら、キミとその……付き合うからっ」=Yeah!　Okay!　If it's okay with me, I'll go out with you .......
+「ありがとう。[H名]と付き合えるなんて、俺、すごく嬉しいよ」=Thank you. I'm so happy you're going out with [H名].
+「アタシも、アタシも嬉しい……えっと、これからも、宜しくね」=I'm happy, I'm happy, I'm happy, I'm happy, I'm happy, I'm happy. ......

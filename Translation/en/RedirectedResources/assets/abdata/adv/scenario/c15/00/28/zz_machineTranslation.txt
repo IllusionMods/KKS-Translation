@@ -1,4 +1,4 @@
-「あのさ、[H名]……」="You know, [H名], .......
-「言わなくても分かってるぞ！　キミからそういう匂いがしてきたからな」="You don't have to tell me that!　I can smell it on you.
-「やっぱり、匂いでわかっちゃうの？」="Can you smell it?
-「その匂いを嗅いだら、あたしも興奮してきたから……二人で気持ち良くなろうね」="That smell is making me very excited. ...... Let's make each other feel good.
+「あのさ、[H名]……」=You know, [H名], .......
+「言わなくても分かってるぞ！　キミからそういう匂いがしてきたからな」=You don't have to tell me that!　I can smell it on you.
+「やっぱり、匂いでわかっちゃうの？」=Can you smell it?
+「その匂いを嗅いだら、あたしも興奮してきたから……二人で気持ち良くなろうね」=That smell is making me very excited. ...... Let's make each other feel good.

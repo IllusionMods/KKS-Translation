@@ -1,4 +1,4 @@
-「かなり気持ち良かったぜ。お前、オイル塗るの上手いな」="That felt pretty good. You're a good oiler.
-「いい感じだったぜ。綺麗に塗ってくれてありがとな」="It looked good. Thank you for painting it so nicely.
-「こんなもんかな……普通に気持ち良かったぜ」="It's not supposed to be like this. ...... It just felt good.
-「どうしたんだ？　まだ塗ってないだろ？　オイル切れてるのか？」="What's wrong with you?　You haven't applied it yet.　Are you out of oil?
+「かなり気持ち良かったぜ。お前、オイル塗るの上手いな」=That felt pretty good. You're a good oiler.
+「いい感じだったぜ。綺麗に塗ってくれてありがとな」=It looked good. Thank you for painting it so nicely.
+「こんなもんかな……普通に気持ち良かったぜ」=It's not supposed to be like this. ...... It just felt good.
+「どうしたんだ？　まだ塗ってないだろ？　オイル切れてるのか？」=What's wrong with you?　You haven't applied it yet.　Are you out of oil?

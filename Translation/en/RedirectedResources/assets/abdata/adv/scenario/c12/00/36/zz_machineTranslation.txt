@@ -1,7 +1,7 @@
-「手軽に出来るビーチバレーでもしようか」="Let's play some easy beach volleyball.
-「おっけー。じゃあ負けた方はジュース奢りってことで」="Okay. Okay, loser gets to buy the juice.
-「なんか、青春って感じがするね」="I feel like I'm coming of age.
-「青春？　どうしてだ？」="Youth?　Why?
-「だって、異性と……女の子と海で遊んでるんだよ？　これこそ青春でしょ」="Because you're playing in the ocean with ...... girls of the opposite sex.　That's what adolescence is all about.
-「っ……きゅ、急に意識させることを言うなよ……集中できなくなるじゃん……」="......, don't suddenly say something that will make me conscious ......, it will make it hard to concentrate ......."
-「それが狙いだったり。隙だらけだよっと！」="That's what I'm aiming for. There are so many gaps!
+「手軽に出来るビーチバレーでもしようか」=Let's play some easy beach volleyball.
+「おっけー。じゃあ負けた方はジュース奢りってことで」=Okay. Okay, loser gets to buy the juice.
+「なんか、青春って感じがするね」=I feel like I'm coming of age.
+「青春？　どうしてだ？」=Youth?　Why?
+「だって、異性と……女の子と海で遊んでるんだよ？　これこそ青春でしょ」=Because you're playing in the ocean with ...... girls of the opposite sex.　That's what adolescence is all about.
+「っ……きゅ、急に意識させることを言うなよ……集中できなくなるじゃん……」=......, don't suddenly say something that will make me conscious ......, it will make it hard to concentrate .......
+「それが狙いだったり。隙だらけだよっと！」=That's what I'm aiming for. There are so many gaps!

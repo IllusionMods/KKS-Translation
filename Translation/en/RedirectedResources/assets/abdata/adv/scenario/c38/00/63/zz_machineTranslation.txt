@@ -1,4 +1,4 @@
-「ありがとうございます、とても気持ち良かったです」="Thank you. That felt really good.
-「素晴らしかったです、どうもありがとうございます」="It was wonderful. Thank you very much.
-「綺麗に塗ってくれて、嬉しいです」="Thank you. - I'm glad you painted it so beautifully.
-「どうかしたんですか？　塗ってくれませんでしたね」="What's wrong?　You didn't paint me.
+「ありがとうございます、とても気持ち良かったです」=Thank you. That felt really good.
+「素晴らしかったです、どうもありがとうございます」=It was wonderful. Thank you very much.
+「綺麗に塗ってくれて、嬉しいです」=Thank you. - I'm glad you painted it so beautifully.
+「どうかしたんですか？　塗ってくれませんでしたね」=What's wrong?　You didn't paint me.

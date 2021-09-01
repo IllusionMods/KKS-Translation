@@ -1,4 +1,4 @@
-「はぁ～、オイルってこんなに気持ち良かったんだね」="Wow, I didn't know oil could feel so good."
-「ありがとう、最高に気持ち良かった」="Thank you. That felt really good.
-「こんなに綺麗に塗ってもらえて、嬉しい」="I'm so happy that you painted me so beautifully.
-「どうしたの？　塗らないで終わっちゃうの？」="What's the matter?　You're not going to finish it?
+「はぁ～、オイルってこんなに気持ち良かったんだね」=Wow, I didn't know oil could feel so good.
+「ありがとう、最高に気持ち良かった」=Thank you. That felt really good.
+「こんなに綺麗に塗ってもらえて、嬉しい」=I'm so happy that you painted me so beautifully.
+「どうしたの？　塗らないで終わっちゃうの？」=What's the matter?　You're not going to finish it?

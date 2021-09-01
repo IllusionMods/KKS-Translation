@@ -1,5 +1,5 @@
-「またオイルを塗ってあげるよ」="I'll oil it for you.
-「ありがとう……それじゃあ、もう前の方も塗ってもらっちゃおうかな」="Thank you ....... I think I'll get the front one painted now.
-「わかった……なるべく慎重に塗るから」="Okay. ...... I'll apply it as carefully as possible.
-「そうしてもらえると嬉しいよ……それじゃ、よろしくね」="That'd be great. ...... I'll see you then.
-「任せて、頑張るよ」="I'm on it. I'm on it.
+「またオイルを塗ってあげるよ」=I'll oil it for you.
+「ありがとう……それじゃあ、もう前の方も塗ってもらっちゃおうかな」=Thank you ....... I think I'll get the front one painted now.
+「わかった……なるべく慎重に塗るから」=Okay. ...... I'll apply it as carefully as possible.
+「そうしてもらえると嬉しいよ……それじゃ、よろしくね」=That'd be great. ...... I'll see you then.
+「任せて、頑張るよ」=I'm on it. I'm on it.

@@ -1,5 +1,5 @@
-「それで、何をして遊ぶつもりですの？」="And what are you going to do with it?
-「二人で何を借りるか考えようと思ってたから、まだ決めてないよ」="I've been trying to figure out what we're going to rent, so I haven't decided yet.
-「おほほほ、わたくしに意見を求めるのは良いことですわ！」="Oh, it's good that you ask me for my opinion!
-「さっそく決めにかかりましょう。これなんていかが？」="Let's get on with it. How about this one?
-「えっと……それは一人用だね。せっかくだし、二人で楽しめるものにしようよ」="Well, ......, that's for one person. Since we're here, let's do something we can both enjoy.
+「それで、何をして遊ぶつもりですの？」=And what are you going to do with it?
+「二人で何を借りるか考えようと思ってたから、まだ決めてないよ」=I've been trying to figure out what we're going to rent, so I haven't decided yet.
+「おほほほ、わたくしに意見を求めるのは良いことですわ！」=Oh, it's good that you ask me for my opinion!
+「さっそく決めにかかりましょう。これなんていかが？」=Let's get on with it. How about this one?
+「えっと……それは一人用だね。せっかくだし、二人で楽しめるものにしようよ」=Well, ......, that's for one person. Since we're here, let's do something we can both enjoy.

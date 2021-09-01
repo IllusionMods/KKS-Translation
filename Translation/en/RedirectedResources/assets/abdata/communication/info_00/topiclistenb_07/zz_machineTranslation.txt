@@ -1,36 +1,36 @@
-「お前は<color=yellow>ツリーイング</color>をやったことあるか？」="Have you ever done <color=yellow>treeing</color>?
-「小さい頃に夢見た木登り体験が出来て、すっげー楽しかったぜ！」="I dreamed of climbing a tree when I was little, and it was so much fun!
-「海のレジャーといえば、やっぱり<color=yellow>バナナボート</color>だと思わないか？」="<color=yellow>Banana boat</color> is one of the most popular leisure activities in the ocean, don't you think?
-「爽快で何度も乗りたくなるんだよな～」="It's so exhilarating, I want to ride it again and again!
-「自然を見て回れる<color=yellow>カヤック</color>も、楽しいもんだな」="<color=yellow>Kayaking, where you can see the nature, is also fun.
-「まぁ、つい気合が入って早く漕ぎそうになるんだけど……ははは」="Well, I get so excited that I tend to paddle too fast.
-「ああ、それも面白いよな」="Yeah, it's fun, too.
-「へぇ～、お前はそっちが好きなのか～」="Oh, you like that one?
-「あの楽しさが分からないのか？　お前は損してるな～」="Can't you see the fun in that?　You're missing out!
-「おいおい、この島でレジャーを楽しまないでどうするんだよ」="Hey, hey, what are you doing on this island if you don't enjoy leisure activities?
-「お前は<color=yellow>パワースポット</color>に興味あるか？」="Are you interested in <color=yellow>power spots</color>?
-「効果はよく分かんないけど、ありがたい感じがするよな」="I don't know how they work, but I feel grateful for them.
-「<color=yellow>ガジュマル</color>の樹って、なんか逞しいよな」="<I>Banyan trees</I> are kind of strong, aren't they?
-「生命力に溢れてるっていうか……見てるだけで、力が湧いてくるぜ」="It's like it's full of life force. Just looking at it on ...... gives me strength.
-「ふーん、そういうのもあるんだな」="Hmm, so there is such a thing.
-「あ、それは私も知ってるぞ」="Yeah, I've heard that too.
-「ん～、なんか話が噛み合わないな」="Hmm, I don't know what you're talking about.
-「ま、良いところだからお前も行ってみろよ」="Well, it's a nice place. You should go there.
-「<color=yellow>チンアナゴ</color>って変な生き物だよな～」="<color=yellow>Chinagoes are strange creatures, aren't they?
-「砂に埋まってる部分がどうなってるのか気になるぜ」="I'm curious to see what happens to the parts buried in the sand.
-「<color=yellow>シオマネキ</color>は片方だけハサミがデカいから、バランスを崩しそうだよな」="I wonder what's going on with the part buried in the sand. <color=yellow>The <color=yellow>silverhead</color> has a big scissors on one side, so it's going to throw you off balance.
-「あれ、絶対歩きにくいだろ？　それなのにあいつらは頑張って生きてて……偉いと思うぜ」="<color=ellow>They're definitely hard to walk with, aren't they?　It's definitely hard to walk, and I think it's ...... great that they're still alive.
-「はは、そいつも面白いと思うぜ」="Ha, I think that's funny too.
-「なるほど、そっちも面白そうな気がするぜ」="Yeah, I think that's interesting too.
-「面白いから、お前も見てみろよ」="It's funny. You should see it.
-「せっかくの機会なんだし、お前も探したらいいぞ」="Why don't you take the opportunity to find out?
-「どんな<color=yellow>お土産</color>を買うか、お前はもう決めたか？」="Have you decided what kind of <color=yellow>souvenir</color> you're going to buy yet?
-「やっぱり定番だし外せないよな～。はは、センスが合って嬉しいぜ」="Have you decided what kind of <color=yellow>souvenir</color> you want to buy? Haha, I'm glad you have good taste.
-「<color=yellow>シークヮーサージュース</color>を飲んでみたんだが……やっぱり酸っぱいな」="I tried the <color=yellow>Shikwasa Juice</color> at ...... and it's still sour.
-「でも癖になる味だったぜ。店によって味付けが違うらしいから、飲み比べるのも面白いかもな」="But the taste was addictive. I've heard that different stores have different flavors, so it would be interesting to compare them.
-「その……私が<color=yellow>ぬいぐるみ</color>を買ったら、おかしいと思うか？」="Do you think it would be funny if ...... I bought a <color=yellow>stuffed animal</color>?
-「そ、そうか……変じゃないんだな。へへ、さんきゅーな」="Well, I guess it's not ...... weird. Heh, thank you.
-「へぇ、お前のオススメはそれなんだな」="Oh, so that's what you'd recommend?
-「ふーん、そっちもいいかもな」="Hmm. That's a good one, too.
-「私が言うのもなんだけど、もっと興味をもった方がいいんじゃないか？」="If I may say so myself, I think you should be more interested.
-「ん～、私が話題選びをミスったみたいだな……」="Hmm, looks like I picked the wrong topic. ......
+「お前は<color=yellow>ツリーイング</color>をやったことあるか？」=Have you ever done <color=yellow>treeing</color>?
+「小さい頃に夢見た木登り体験が出来て、すっげー楽しかったぜ！」=I dreamed of climbing a tree when I was little, and it was so much fun!
+「海のレジャーといえば、やっぱり<color=yellow>バナナボート</color>だと思わないか？」=<color=yellow>Banana boat</color> is one of the most popular leisure activities in the ocean, don't you think?
+「爽快で何度も乗りたくなるんだよな～」=It's so exhilarating, I want to ride it again and again!
+「自然を見て回れる<color=yellow>カヤック</color>も、楽しいもんだな」=<color=yellow>Kayaking, where you can see the nature, is also fun.
+「まぁ、つい気合が入って早く漕ぎそうになるんだけど……ははは」=Well, I get so excited that I tend to paddle too fast.
+「ああ、それも面白いよな」=Yeah, it's fun, too.
+「へぇ～、お前はそっちが好きなのか～」=Oh, you like that one?
+「あの楽しさが分からないのか？　お前は損してるな～」=Can't you see the fun in that?　You're missing out!
+「おいおい、この島でレジャーを楽しまないでどうするんだよ」=Hey, hey, what are you doing on this island if you don't enjoy leisure activities?
+「お前は<color=yellow>パワースポット</color>に興味あるか？」=Are you interested in <color=yellow>power spots</color>?
+「効果はよく分かんないけど、ありがたい感じがするよな」=I don't know how they work, but I feel grateful for them.
+「<color=yellow>ガジュマル</color>の樹って、なんか逞しいよな」=<I>Banyan trees</I> are kind of strong, aren't they?
+「生命力に溢れてるっていうか……見てるだけで、力が湧いてくるぜ」=It's like it's full of life force. Just looking at it on ...... gives me strength.
+「ふーん、そういうのもあるんだな」=Hmm, so there is such a thing.
+「あ、それは私も知ってるぞ」=Yeah, I've heard that too.
+「ん～、なんか話が噛み合わないな」=Hmm, I don't know what you're talking about.
+「ま、良いところだからお前も行ってみろよ」=Well, it's a nice place. You should go there.
+「<color=yellow>チンアナゴ</color>って変な生き物だよな～」=<color=yellow>Chinagoes are strange creatures, aren't they?
+「砂に埋まってる部分がどうなってるのか気になるぜ」=I'm curious to see what happens to the parts buried in the sand.
+「<color=yellow>シオマネキ</color>は片方だけハサミがデカいから、バランスを崩しそうだよな」=I wonder what's going on with the part buried in the sand. <color=yellow>The <color=yellow>silverhead</color> has a big scissors on one side, so it's going to throw you off balance.
+「あれ、絶対歩きにくいだろ？　それなのにあいつらは頑張って生きてて……偉いと思うぜ」=<color=ellow>They're definitely hard to walk with, aren't they?　It's definitely hard to walk, and I think it's ...... great that they're still alive.
+「はは、そいつも面白いと思うぜ」=Ha, I think that's funny too.
+「なるほど、そっちも面白そうな気がするぜ」=Yeah, I think that's interesting too.
+「面白いから、お前も見てみろよ」=It's funny. You should see it.
+「せっかくの機会なんだし、お前も探したらいいぞ」=Why don't you take the opportunity to find out?
+「どんな<color=yellow>お土産</color>を買うか、お前はもう決めたか？」=Have you decided what kind of <color=yellow>souvenir</color> you're going to buy yet?
+「やっぱり定番だし外せないよな～。はは、センスが合って嬉しいぜ」=Have you decided what kind of <color=yellow>souvenir</color> you want to buy? Haha, I'm glad you have good taste.
+「<color=yellow>シークヮーサージュース</color>を飲んでみたんだが……やっぱり酸っぱいな」=I tried the <color=yellow>Shikwasa Juice</color> at ...... and it's still sour.
+「でも癖になる味だったぜ。店によって味付けが違うらしいから、飲み比べるのも面白いかもな」=But the taste was addictive. I've heard that different stores have different flavors, so it would be interesting to compare them.
+「その……私が<color=yellow>ぬいぐるみ</color>を買ったら、おかしいと思うか？」=Do you think it would be funny if ...... I bought a <color=yellow>stuffed animal</color>?
+「そ、そうか……変じゃないんだな。へへ、さんきゅーな」=Well, I guess it's not ...... weird. Heh, thank you.
+「へぇ、お前のオススメはそれなんだな」=Oh, so that's what you'd recommend?
+「ふーん、そっちもいいかもな」=Hmm. That's a good one, too.
+「私が言うのもなんだけど、もっと興味をもった方がいいんじゃないか？」=If I may say so myself, I think you should be more interested.
+「ん～、私が話題選びをミスったみたいだな……」=Hmm, looks like I picked the wrong topic. ......

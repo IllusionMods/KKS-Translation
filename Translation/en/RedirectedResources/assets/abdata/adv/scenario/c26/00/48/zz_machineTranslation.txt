@@ -1,5 +1,5 @@
-「ん……独特な匂い……」="Hmm ...... has a distinct smell ......"
-「う、うん……あでも、味は普通に美味しいよ？」="Yeah, yeah ......, but it tastes just as good, you know?"
-「……本当？」="...... Really?"
-「うん。　ほら、食べてみなよ？」="Yeah.　You should try it.
-「……いただきます」="...... I'll take it.
+「ん……独特な匂い……」=Hmm ...... has a distinct smell ......
+「う、うん……あでも、味は普通に美味しいよ？」=Yeah, yeah ......, but it tastes just as good, you know?
+「……本当？」=...... Really?
+「うん。　ほら、食べてみなよ？」=Yeah.　You should try it.
+「……いただきます」=...... I'll take it.

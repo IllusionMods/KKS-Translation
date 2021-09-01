@@ -1,2 +1,2 @@
-「今日もお疲れ様です」="Thank you again for your hard work today.
-「では、一日の最後に、私の身体で癒されていって下さい」="So, at the end of the day, let my body heal you.
+「今日もお疲れ様です」=Thank you again for your hard work today.
+「では、一日の最後に、私の身体で癒されていって下さい」=So, at the end of the day, let my body heal you.
