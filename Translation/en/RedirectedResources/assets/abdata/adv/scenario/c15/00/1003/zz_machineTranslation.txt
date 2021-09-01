@@ -1,0 +1,15 @@
+「ちょっとお店を見てこうよ」=Let's take a look at the store.
+「おー、いいぞー」=Oh, that's good.
+「それ気に入ったの？　アロハシャツかな」=What do you like about it?　The aloha shirt.
+「気に入ったってわけじゃないぞ？　なんとなく手に取っただけだ=It's not that I liked it, okay?　I just picked it up for some reason.
+「いいんじゃない？　[H名]はアロハ似合いそうだよ」=Not bad, huh?　I think [H名] would look good in an aloha.
+「似合う？　なんでだ」=Do they look alike?　Why not?
+「……なんとなくかな？」=......... sort of?
+「あはは、あたしの真似っこだー」=Ha-ha-ha. He's trying to be me.
+「まあいいか。キミが似合うって言うなら、これあたしのお土産にしよっかな」=It's okay. If you think it suits you, I'll take it as a souvenir.
+「なんなら俺が買ってプレゼントしよっか？」=If you want, I can buy you a present.
+「そんなのしなくていいから、キミはキミのお土産を買うんだぞ」=You don't need to do that. You need to buy your own souvenirs.
+「それも味気なくない？　あ、じゃあ[H名]は俺のを選んでよ。それで贈り合うってことで……どうかな」=Isn't that tasteless?　Oh, then choose my [H名]. How about we give each other ......?
+「う！？　そ、それはちょっと、あたしには難しすぎるなー……」=Oh!　Well, that's a little too difficult for me. ......
+「キミに似合う贈り物か。ち、ちょっと時間がほしいぞ、すぐには決められない」=That's a gift for you. I need some time. I can't decide right away.
+（自分のはあんなに簡単に決めたのに……）=(It was such an easy decision for me. ......)

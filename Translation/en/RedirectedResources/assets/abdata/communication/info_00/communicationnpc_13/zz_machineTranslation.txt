@@ -1,0 +1,206 @@
+「あれ？　困ったことがありましたか？」=What?　Is there a problem?
+「私に何か聞きたいことでもありました？　何でも聞いてください！」=Is there something you want to ask me?　Ask me anything!
+「えへ、楽しんでくださいねっ」=Have fun!
+「お勧めのお土産ってなにかあります？」=Do you have any suggestions for souvenirs?
+「定番だけど、ちんすこうですかねぇ。数が多いので、配るのに困らないですよ」=It's a standard one, but it's probably chinsuko. There are a lot of them, so you won't have any trouble handing them out.
+「今日もいい天気ですね」=It's a beautiful day, isn't it?
+「はいっ、気持ちがいいです」=Yes, it's nice.
+「何か方言を教えてもらってもいいですか？」=Can I ask you to teach me some dialect?
+「えーと……『ちばりよー』なんてどうでしょう？　『頑張れー』ってニュアンスの応援する言葉なんです」=Well, how about ...... "Chibariyo"?　It's a cheering word with the nuance of "good luck.
+「はいっ、何かあったら遠慮なく声をかけてください」=Yes, if you need anything, please don't hesitate to call me.
+「うん？　何か用事ー？」=Yes?　What do you want?
+「お、自分の出番ねー？」=Oh, it's my turn, isn't it?
+「ん？　あぁ、奇遇やっさー」=Hmm?　Oh, what a coincidence.
+「島を観光してる途中ねー？　楽しんでー」=You're on your way to see the island.　Have fun.
+「島のいい所、たくさんしってほしいさぁ」=I want you to see all the best parts of the island.
+「この後用事があるから、また今度ねー」=I've got some business to take care of later, so I'll see you next time.
+「ここの料理って、どれも美味しいよね」=You know, all the food here is really good.
+「ほんとぉ？　中には合わない人もいるから、美味しいって言ってくれて嬉しいやっさー」=Really?　Some people don't like it, so I'm glad you said it's good.
+「漫画とか読んだりする？」=Do you read manga?
+「読むよー。でも紙の本は届くのが遅いから、最近は電子書籍を買うことが多いねー」=Yes, I do. I do, but paper books are slow to arrive, so I tend to buy e-books these days.
+「また方言を教えてもらってもいい？」=Can I ask you to teach me your dialect again?
+「それじゃあ……『ゆんたく』！　今してる『お喋り』のことさー」=Can I ask you to teach me another dialect?" "Well, ...... 'yuntaku'!　That's what I'm talking about.
+「困ったことがあったら、いつでも自分を頼ってねー」=If you have any problems, you can always count on me.
+「はいたーい！　どうしたの？　困ったことでもあったー？」=Yes!　What's wrong?　Are you in trouble?
+「あいっ、何か用事ねー？」=Yes, what do you want?
+「えへ、声をかけてくれて嬉しいさー！」=Yeah, I'm glad you asked!
+「旅行は楽しんでるー？　たくさん思い出作ってねー」=Are you enjoying your trip?　Make lots of memories.
+「まだ仕事中だから、一緒には遊べないよー？」=I'm still working, so I can't hang out with you, okay?
+「おばぁに呼ばれてるから、また今度ねー」=My grandmother wants to see me.
+「今、好きな人っている？」=Is there anyone you like right now?
+「ふぇっ！？　……そ、そのぉ…………気になる人は、いるよー……？」=What?　...... Well, I mean, ............ there's someone I'm interested in. ......?
+「都会に憧れはある？」=Do you like the city?
+「うんっ、色んなことに興味はあるよー！　でも……今はまだ、島を離れたくはないさー」=Yes, I'm interested in a lot of things!　But ...... I don't want to leave the island just yet.
+「こっちの人がよく使う方言ってなに？」=What's the most common dialect people here use?
+「『てーげー』だはず。『大体』とか『適当』とかそんなニュアンスさー。おおらかな人が多いから、よく聞くよー」=What's the most common dialect people here use? I think it's 'tegee,' which means 'roughly' or 'appropriately. I hear it a lot because people here are very open-minded.
+「歩いてたら『あっがぁー！』って大きな声が聞こえてきて、びっくりしたことがあるんだよね」="When I was walking, I heard a loud voice saying, 'Agaaah! When I was walking, I was once surprised to hear a loud voice saying, "Agaa!
+「『あがっ』は痛かったときに漏れちゃう言葉さー。きっと誰かが転んだりしてたんだろうねー」=When I was walking, I heard a loud 'Agaa! Someone must have fallen or something.
+「またやーたい！」=I want to do it again!
+「えへへ、会いに来てくれたの？　でーじ嬉しいさぁ♪」=Oh, you came to see me?　I'm so happy.
+「自分も会いたいと思ってたさー♪」=I was hoping to see you too.
+「ひかり……好きだよ」=I love Hikari. I love .......
+「自分もだよ。えへ、かなさんどー♪」=Me too. I love you too, Kana.
+「二人の思い出をたくさん作りたいよね」=We should make lots of memories together, right?
+「うん……離ればなれになっても寂しくない様に、色んなことをしたいさぁ」=Yeah, ...... I want to do a lot of things so we won't be lonely when we're apart.
+「離島だと、買い物が大変そうだよね」=It's going to be hard to shop on a remote island, isn't it?
+「それは……まぁ、仕方がないことさー。離島の宿命だからねぇ」=That's ...... something that can't be helped. It's the fate of remote islands.
+「今更なんだけど、挨拶って『はいさい』が普通じゃないの？」=I know it's a little late, but isn't the usual greeting 'haisai'?
+「『はいさい』は男言葉よー。だから女の自分は『はいたい』を使ってるわけさー」=Haisai" is a man's language. Haisai is a man's language. That's why I, a woman, use hai.
+「えへ……普段、あんまり同年代の人と話す機会がないので、なんだか楽しいですっ」=I don't usually have a chance to talk to people my own age, so it's kind of fun.
+「そうなんですか？」=Is that so?
+「いつもは年上の方や、家族連れの小さな子と話すことが多いので……」=I usually talk to older people or small children with their families. ......
+「もしよかったら、これからも声をかけてもらえると嬉しいなぁ……なんて」=If you want, I'd be happy to talk to you at .......
+「それなら一つ提案」=I have a suggestion.
+「俺たち歳も近いと思うし、敬語は止めて話さない？　そっちの方がもっと仲良くなれると思うんだ」=I think we're close in age, so why don't we stop using honorifics?　I think we can get to know each other better that way.
+「えっと……普通に話していいの？」=Well, ......, can we just talk like normal people?
+「うん。そっちの方が俺も楽だしね。それに……俺もなんだけど、敬語使うのあんまり得意じゃないよね？」=Yes. It's easier for me too. And ...... I'm not very good at using honorifics either, am I?
+「あはは……やっぱりバレてたねー。じゃあこれからは、方言で話すことにするさー」=Hahaha ......, I knew you knew. I'm going to start using dialect from now on.
+「あらためてよろしくね！」=Nice to meet you again!
+「こちらこそ、よろしく」=Nice to meet you, too.
+「なんか、こうしてキミと話すのもすっかり当たり前になったねー」=It's become quite normal for me to talk to you like this.
+「はは、確かにそうだね」=Yeah, that's true.
+「このバイトを始めた時は、こんなにお客さんと仲良くなれるなんて思ってなかったやっさー」=When I started this job, I didn't think I'd get to know the customers so well.
+「そういえば、どうしてこのバイトをしてるの？」=Speaking of which, why do you do this job?
+「島の外の話を聞きたかったのが一番の理由さーね。話すことは好きだったし、自分に向いてると思ったわけ」=The main reason is that I wanted to hear about things outside the island. I like to talk, and I thought I'd be good at it.
+「実際こうしてキミと出会えたし、やってよかったって思ってるよー」=And now that I've met you, I'm really glad I did it.
+「俺も、ひかりがバイトしてくれて良かったって思ってるよ。あの時、声をかけて貰えなかったら途方に暮れてたし……」=I'm also glad that Hikari got the job. If you hadn't approached me, I would have been at a loss. ......
+「えへへ、そう言ってくれて嬉しいさぁ。人にお礼を言われると元気がでるからね、もっと頑張ろって力が湧いてくるよぉ」=I'm glad you said that. I'm glad you said that. When people thank you, it cheers me up and gives me the strength to work even harder.
+「でも……ぷふっ、くすくす……あの時の困った顔は、一生忘れんはずー」=But I'll never forget the ...... pfft, ...... pfft, ...... pfft, ...... pfft, I'll never forget the look of trouble on your face.
+「出来れば今すぐ忘れてほしいけど……まあいいや」=I wish I could forget it right now, but it's ...... okay.
+「その……俺、ひかりのことが好きなんだ」=That ...... I like Hikari.
+「……へ？　じ、自分のことが好きって……冗談で言ってるわけ？」=...... What?　Are you joking when you say you like ...... yourself?
+「冗談なんかじゃない。本気だよ」=It's not a joke. I'm serious.
+「で、でも……キミが帰ったら、自分たちは離ればなれになるんだよ？」=But ...... if you leave, we'll be separated, you know?
+「わかってる。……わかってるけど、それでも俺の気持ちを伝えておきたかったんだ」=I know. I know. ...... I know, but I just wanted to tell you how I feel.
+「……ごめん、迷惑だったよね」=...... Sorry, that was annoying.
+「えっと……迷惑なんかじゃないよ？　その……本当は自分も、キミに惹かれてたから……」=Well, ...... it's not annoying, okay?　The ...... truth is, I was attracted to you too. ......
+「ひかり……」=Hikari ......
+「別れがくるって分かってたから、自分は勇気を出せなかったの。伝えちゃいけないと思って……」=I knew I was going to have to say goodbye, so I couldn't muster up the courage. I thought I shouldn't tell you. ......
+「この気持ちには、気づかなかったことにしようって……忘れてようと思ってた」=I was going to pretend that I didn't know about these feelings, that I was going to ...... forget about them.
+「だけど、もう……我慢しなくていいよね？　自分たち、両想いなんだよね？」=But we don't have to ...... put up with that anymore, do we?　We're both in love, right?
+「うん、そうだよっ。俺たちは両想いだ！　好きだよ、ひかり！」=Yes, we do. Yes, we're both in love!　I love you, Hikari!
+「えへへ、自分も大好きよー！」=I love you, too!
+「この島を離れる最後の日まで傍にいる……！　島を離れても、絶対に忘れないよ！」=I'll be by your side until the last day we leave this island. ......!　I'll never forget you, even if we're off the island!
+「にふぇーでーびる……自分は幸せ者さぁ」=I'll never forget you!
+「比嘉さんのおすすめのスポットってどこですか？」=Higa-san, what are your favorite spots?
+「うーん、どこも良い場所ですが……やっぱり一番は自慢の海ですね！」=Hmmm, all places are good, but the best place is ...... the sea, which I'm very proud of!
+「島を観光していて、見つけたんですけど……」=I found it when I was touring the island. ......
+「あはは、内地の人には珍しいですよね。でもすぐに慣れると思いますよ」=I found it while sightseeing on the island at . Haha, it's quite unusual for people from the mainland. But you'll get used to it.
+「ここには珍しい生き物がたくさんいますよね」=There are a lot of unusual creatures here, aren't there?
+「陸も海も、南国ならではの動物がいっぱいですよ。まだ見つけてない生き物もいると思うので、是非探してみてください！」=There are lots of tropical animals on land and in the sea. I'm sure there are some that we haven't found yet, so please look for them!
+「遊ぶ場場所がたくさんあって、何をしようか困っちゃうんですよね」=There are so many places to play, it's hard to decide what to do.
+「えへへ……時間が許す限り、満足行くまで楽しんでくださいね！」=There are so many places to play, it's hard to decide what to do. ...... Please enjoy yourself as much as time permits!
+「この島で一番売れてる商品ってなんですか？」=What's the best-selling product on the island?
+「う～ん……調べたことないので勘ですけど、さんぴん茶とかですかね？　暑いので水分補給の為に買ってる人はよく見かけますよ」=Hmmm... ...... I haven't researched it, so I'm just guessing, but I'd say Sanpin tea.　It's hot, so I see a lot of people buying it to stay hydrated.
+「ここの文化については詳しいんですか？」=Are you familiar with the culture here?
+「この仕事の為に勉強したので、だいたいのことは答えられると思います！　何かわからないことがあったら、何でも聞いてくださいっ」=I studied for this job, so I think I can answer most of your questions!　If you have any questions, please feel free to ask.
+「この前、見かけたんですが……」=I saw you at ...... the other day.
+「それは珍しいですよ！　滅多に見れないので……本当に羨ましいです～」=That's very rare!　I'm really jealous of ...... since I rarely see them!
+「他のお客さんに人気があるスポットって、海以外だとどこかな？」=What's the most popular place for people to go when they're not at the beach?
+「色んな所でやってる体験コーナーが人気だはず。たくさんの人が申し込んでるよー」=I'm sure the hands-on experience corners at various places are popular. A lot of people have signed up.
+「島の人は普段なにを食べてるの？」=What do people usually eat on the island?
+「そばが多いねー。色んなトッピングがあるから皆に人気よー。自分はソーキそばが一番好きやっさー！」=A lot of people eat soba. Soba is very popular because there are many different toppings. I like soki-soba best!
+「この島って何が一番人気かな？」=What's the most popular food on this island?
+「ありがたいことにどれも人気があるからねー。一番を決めるのは難しいさぁ」=Thankfully, they are all popular. It's hard to choose the best.
+「そういえば、この島には精霊が住んでるんだよね？　えーと、なんて名前だったけな……」=Oh, by the way, there are spirits living on this island, aren't there?　Well, what's his name? ......
+「それは多分キジムナーだねー。子供の姿をしてて、人懐っこいんだよー。……自分は見たことないけど」=It's probably Kijimuna. It looks like a child and is very friendly. I've never seen one before. ......
+「ここは本当に良いところだね」=It's a really nice place.
+「えへへ……自分は産まれた育ったこの島が大好きだから、褒めて貰えてでーじ嬉しいさー！」=I love this island where I was born and raised, so I'm really happy to hear your praise!
+「食堂のメニューの『ぜんざい』を頼んでた人がいたんだけど、かき氷が出て来てビックリしたよ」="I'm really happy to hear that! "Someone ordered 'zenzai' from the cafeteria menu, but was surprised to be served shaved ice.
+「あはは、ここじゃ夏の定番スイーツだからね。自分もぜんざいは温かいのが普通って知った時はビックリしたさぁ」=I was surprised to see shaved ice. I was also surprised when I found out that zenzai is usually served warm.
+「あのさ、この前知ったんだけど……」=You know, I just found out about .......
+「へぇ、よく調べたねー。島に興味を持ってくれて嬉しいさー！」=Wow, you did a lot of research. I'm glad you're interested in the island!
+「この間、見かけたんだけど……」=I saw something on ...... the other day.
+「それに注目するなんて流石だねー！　もうこの島をマスターしたといっても過言じゃないよー！」=I'm glad you're interested in the island!　It's no exaggeration to say that you've mastered this island!
+「ガイドブックで読んだんですけど、ここには珍しい猫がいるんですね」=I read in the guidebook that there are rare cats here.
+「たぶん<color=#ffa801ff>ヤマネコ</color>のことですね。とっても珍しくて、私もまだ一度しか会ったことがないんです」=I read in the guidebook that there is a rare cat here..." "Probably the <color=#ffa801ff>bobcat</color>. It's so rare that I've only met one myself.
+「島の人は、<color=#ffa801ff>自然公園</color>や<color=#ffa801ff>路地</color>を歩いてるときに見かけたことがあるそうですよ」=People on the island have seen them while walking in <color=#ffa801ff>nature parks</color> and <color=#ffa801ff>alleyways.
+「もし見つけられたら、ラッキーですね！」=If you find one, you're in luck!
+「あ！　注意しないといけないことを忘れてました！」=Oh!　I forgot to pay attention!
+「<color=#ffa801ff>浜辺</color>のヤシの木の近くや、<color=#ffa801ff>自然公園</color>には<color=#ffa801ff>ヤシガニ</color>が出ることがあるんです」=There are <color=#ffa801ff>coconut crabs</color> near palm trees on <color=#ffa801ff>beaches</color> and in <color=#ffa801ff>nature parks.
+「珍しいからって近づいたりしたらダメですよ？　指を挟まれたら……ああ、想像しただけで恐ろしい……」=Just because they're rare doesn't mean you should get too close.　If you get your fingers caught in one, ...... Oh, I'm terrified just thinking about it. ......
+（コイカツするのが目的なんだし……ちょっと聞きにくいけど、確認しておこうかな）=(The purpose of this is to get coitus,......, and it's a little hard to hear, but I'll check it out.
+「その……どんな場所で告白されたら、ドキドキしますか？」=That ...... kind of place would make you nervous if someone confessed to you?
+「へっ？　告白……？　え、えーと……告白、告白……」=Huh?　Confession ......?　Well, let's see, ...... confession, confession .......
+「そう、ですねぇ……<color=#ffa801ff>流れ星が綺麗</color>に見えるような場所で<color=#ffa801ff>告白</color>されるのは……いいと思います」=Yes, I think it would be ...... nice to be confessed in a place where you can see <color=#ffa801ff>a beautiful shooting star</color>.
+「って、私の好みを話してもしかたないですね！　恥ずかしい……」=I can't help it if I tell you what I like!　It's embarrassing .......
+「最初に教えてくれましたけど、本当に海が綺麗ですね。ついビーチに足を運んじゃいます」=The first thing you told me is that the ocean is really beautiful. You told me at the beginning that the sea is really beautiful, and it makes me want to go to the beach.
+「えへへ、ありがとうございます！　実は……島の人しか知らない綺麗な<color=#ffa801ff>ビーチがもう一つ</color>あるんですよ」=Thank you very much!　Actually, ...... there is another <color=#ffa801ff>beautiful beach</color> that only the islanders know about.
+「まあ、今は道が崩れて立ち入りが禁止されてるんですけど……見に行きたくても、危ないから入ったりしないでくださいね？」=Well, now the road has collapsed and it's off limits, but ...... even if you want to go see it, please don't go in because it's dangerous, okay?
+「……でも、しばらく人の手が入ってないから、珍しい生き物を見れたりするかもしれんねー」=...... hasn't been touched by humans for a while, so you might see some rare creatures there.
+「そういえば、有名な恋愛スポットがあるんですよね？」=Oh, by the way, there is a famous love spot there, isn't there?
+「それは<color=#ffa801ff>灯台</color>にある<color=#ffa801ff>ウムイの鐘</color>のことですね。ウムイは方言で、思いって意味なんです」="That's the <color=#ffa801ff>Umui Bell</color> at the <color=#ffa801ff>lighthouse</color>. Umui is a dialect word meaning "thought.
+「鳴らした二人は必ず結ばれるという噂が昔からあって、<color=#ffa801ff>カップル</color>で訪れる方をよく見かけますよ」=There's an old rumor that two people who ring the bell will always be united, so you'll often see <color=#ffa801ff>couples</color> visiting here.
+「いつか私も誰かと……なんてことをたまに考えちゃったりします」=I sometimes think about ...... with someone someday.
+「そういえば……最近、<color=#ffa801ff>ホテルのプールサイド</color>で注文できる<color=#ffa801ff>トロピカルドリンク</color>が人気なんですよ」=Come to think of it, ...... has recently become a popular <color=#ffa801ff>tropical drink</color> that you can order at <color=#ffa801ff>the hotel poolside</color>.
+「ドリンクを<color=#ffa801ff>恋人同士</color>で一緒に飲むのが、ちょっとしたブームになってるらしいです」=Apparently it's becoming a bit of a craze for <color=#ffa801ff>lovers</color> to drink them together.
+「人気が出るのは嬉しいんですけど、ひとりだとちょっと頼みづらいんですよねー……あはは」=I'm glad it's getting popular, but it's a little hard to order when you're alone. ...... Haha.
+「普段から遊んでる<color=#ffa801ff>カップル</color>をよく見かけるんですか？」=Do you often see <color=#ffa801ff>couples</color> playing together on a regular basis?
+「そうですねー、<color=#ffa801ff>島の色んなところ</color>で見かけますよ」=Yes, I see them in <color=#ffa801ff>everywhere on the island</color>.
+「ビーチ、公園、灯台、お土産屋さん……いっぱい遊んでくれてるみたいです」=Beaches, parks, lighthouses, souvenir shops, ....... They seem to have a lot of fun.
+「あなたにも、そういったお相手はいるんですか？　……って、そんな踏み込んだこと聞いちゃダメですね」=Do you have a partner like that?　Do you have such a partner? ...... I shouldn't ask such an in-depth question.
+「色んなレジャーがあると思うんですけど、一番人気ってなんですか？」=I think there are many leisure activities, but what is the most popular?
+「うーん、やっぱり<color=#ffa801ff>バナナボート</color>ですかね？　<color=#ffa801ff>浜辺のレンタルショップ</color>に行列が出来てるのをよく見ますよ」=Hmm, I guess <color=#ffa801ff>banana boats</color>?　I often see a line forming at the <color=#ffa801ff>rental shops</color> on the beach.
+「でも……あれに乗る<color=#ffa801ff>カップル</color>はみんなして、すごく密着するんですよね……」=But ...... all the <color=#ffa801ff>couples</color> who ride them get very close together. ......
+「ここへ来て開放的な気分になるのか……イチャイチャしてる方は多いです」=There are a lot of people who come here to feel free and ...... make out with each other.
+「ガイドブックで読んだんだけど、ここには珍しい猫がいるんだね」=I read in the guidebook that there are some rare cats here.
+「たぶん<color=#ffa801ff>ヤマネコ</color>のことだはず。でーじ珍しいから、自分も一回したこと見たことないさーね」=I read in a guidebook that there are rare cats here. They're so rare that I've never seen one myself.
+「おじぃやおばぁは、<color=#ffa801ff>自然公園</color>とか<color=#ffa801ff>路地</color>を歩いてるときに見かけたって言ってたよー」=My grandparents said they saw them when they were walking in <color=#ffa801ff>nature parks</color> or <color=#ffa801ff>alleyways</color>.
+「もし見つけることが出来たら、ラッキーやっさー！」=If you can find him, you're in luck!
+「あいっ！　注意しないといけないことを忘れてた！」=Oh!　I forgot to pay attention!
+「<color=#ffa801ff>浜辺</color>のヤシの木の近くや、<color=#ffa801ff>自然公園</color>には<color=#ffa801ff>ヤシガニ</color>が出るから気を付けてねー？」=Watch out for coconut crabs near palm trees on <color=#ffa801ff>the beach</color> and in <color=#ffa801ff>nature parks.
+「珍しいからって近づいたりしたらダメよー。指を挟まれたりしたら……うぅ、想像しただけで痛くなってくるさぁ」=Don't approach them just because they are rare. Don't go near them just because they're rare. If you get your fingers caught in one, ......, it'll hurt just thinking about it.
+「その……どんな場所で告白されたら、ドキドキするかな？」=What kind of place would make you nervous if someone confessed to you?
+「へっ？　告白ね……？　え、えーと……告白、告白かぁ……」=Huh?　Confession. ......?　Well, let's see. ...... Confession, confession, confession. ......
+「うーん……<color=#ffa801ff>流れ星が綺麗に見える</color>場所で<color=#ffa801ff>告白</color>されるのは……憧れがあるさーね」=Hmmm, I'd love to be ...... confessed in a place with a beautiful view of shooting stars.
+「って、自分の好みを話しても参考にはならんねー。恥ずかしいやっさー……」=It's not helpful to talk about your own preferences. It's embarrassing. ......
+「最初に教えてくれたけど、本当に海が綺麗だよね。ついビーチに足を運んじゃうよ」=The first thing you told me is that the ocean is really beautiful. It makes me want to go to the beach.
+「えへ、でーじ嬉しい！　実は……<color=#ffa801ff>もう一つ</color>島人しから知らない<color=#ffa801ff>ビーチ</color>があって、そこも綺麗だったさーね」=I'm so happy!　Actually, there's another <color=#ffa801ff>beach</color> on ...... that only the islanders know about, and it's beautiful too.
+「まあ、今は道が崩れて立ち入り禁止になってるんだけど……だから興味があっても、危ないから入るのはダメよー？」=Well, now the road has collapsed and it's off-limits, but ...... so even if you're interested, don't go in there because it's dangerous.
+「そういえば、有名な恋愛スポットがあるんだよね？」=Oh, by the way, there's a famous love spot there, isn't there?
+「それは<color=#ffa801ff>灯台</color>にある<color=#ffa801ff>ウムイの鐘</color>だはず。ウムイは方言で、思いって意味さーね」="It's the <color=#ffa801ff>Umui Bell</color> at the <color=#ffa801ff>lighthouse</color>. "Umui" is a dialect word meaning "thought.
+「鳴らした二人は必ず結ばれるという噂が昔からあって、<color=#ffa801ff>カップル</color>が訪れるのをよく見かけるよー」=There's an old rumor that two people who ring the bell will always get married, and I often see <color=#ffa801ff>couples</color> visiting.
+「自分もいつか誰かと……なんてことをたまに考えちゃったりするさー」=I sometimes think about ...... with someone someday.
+「そういえば……最近、<color=#ffa801ff>ホテルのプールサイド</color>で注文できる<color=#ffa801ff>トロピカルドリンク</color>が人気みたいよー」=Speaking of which, ...... has recently become popular for its <color=#ffa801ff>tropical drinks</color> that can be ordered poolside at <color=#ffa801ff>hotels.
+「ドリンクを<color=#ffa801ff>恋人同士</color>で一緒に飲むのが、ちょっとしたブームになってるって聞いたさぁ」=I heard that it's becoming a bit of a craze for <color=#ffa801ff>lovers</color> to drink the drinks together.
+「人気が出るのは嬉しいけど、ひとりだとちょっと頼みづらいよねー……あはは」=I'm glad it's becoming popular, but it's a little hard to order when you're alone. ...... Haha.
+「普段から遊んでる<color=#ffa801ff>カップル</color>をよく見かけるの？」=Do you see a lot of <color=#ffa801ff>couples</color> playing around?
+「うん、<color=#ffa801ff>島の色んなところ</color>で見かけるよー」=Yes, I see them in <color=#ffa801ff>everywhere on the island.
+「ビーチ、公園、灯台、お土産屋さん……いっぱい遊んでくれてるみたいやっさー」=Beaches, parks, lighthouses, souvenir shops... ...... They seem to have a lot of fun.
+「キミにも、そういう相手はいるねー？　……って、自分は何聞いてるんだろ……忘れて忘れて～」=You have a partner, don't you?　I don't know what I'm asking. ...... Forget it, forget it.
+「色んなレジャーがあるけど、一番人気ってなんだろ？」=What's the most popular leisure activity of all?
+「たぶん<color=#ffa801ff>バナナボート</color>だはず。<color=#ffa801ff>浜辺のレンタルショップ</color>に行列が出来てるのをよく見かけるさぁ」=It's probably <color=#ffa801ff>banana boats</color>. You can often see a line forming at the <color=#ffa801ff>rental shop</color> on the beach.
+「でも……あれに乗る<color=#ffa801ff>カップル</color>はみんなして、すっごくくっついたりしてるよねー」=But all the <color=#ffa801ff>couples</color> on ...... are so close together, aren't they?
+「ここへ来て開放的な気分になるんかねぇ？　イチャイチャしてる人は多いよー」=Do you feel liberated when you come here?　There are a lot of people flirting.
+「あの、さ……俺、ひかりとエッチしたいと思ってるんだ」=You know, ...... I'm thinking about having sex with Hikari.
+「……う、うん……自分たちは恋人同士だから、そういうことも、しないといけないよね……」=......Uh, yeah, ......we're lovers, so we have to do that kind of thing, don't we ......
+「その……嫌だったら言ってね？　ひかりを困らせたくはないんだ」=You can tell me if you don't like that .......　I don't want to embarrass Hikari.
+「ううん、嫌なわけないよー。自分はキミのこと好きなんだよ？　断るはずがないさー」=No, I don't want to. I like you, you know.　How could I say no?
+「ただ、やっぱり初めてのことだから緊張しちゃって……らしくないのは分かってるんだけど」=It's just that I'm nervous because it's my first time and I know it's not like .......
+「月並みなこと言っちゃうけど、優しくしてほしいさぁ」=I know it's not like  to say this, but I want you to be nice to me.
+「約束する。絶対、気持ち良くしてみせるから」=I promise. I promise I'll make you feel good.
+「えっとさ……今からエッチしない？」=So, ......, do you want to have sex now?
+「……うん、いいよー。えへ、気持ち良くしてほしいさぁ♪」=...... Yeah, sure. Yeah, I want you to make me feel good.
+「あのさ、俺の部屋に来ない？」=Hey, do you want to come to my room?
+「部屋に？　ぁ……うん、わかった。付いていくさー」=In my room?　Yeah. ...... Yeah, okay. I'll come with you.
+「えっと……私の顔になにか付いてますか？」=Um, ...... do I have something on my face?
+「ぅ……その……あんまり見ないでください……」=Oh, ......, don't look too ...... hard.
+「へっ……？　あ、握手ですか……？」=Huh, ......?　Oh, are you shaking my hand, ......?
+「あいっ！？　なにをするわけっ」=Aah!　What are you doing?
+「えぇと……なんで頭を撫でられたんでしょう……？」=Well, ...... why did he pat me on the head, ......?
+「ひゃっ……ご、ゴミでも付いてました……？」=Oh, my God, ...... did you get a piece of garbage on your head, ......?
+「遠慮せずなんでも聞いてくださいね！」=Don't hesitate to ask me anything!
+「ん？　自分の顔になにか付いてる？」=What?　Do I have something on my face?
+「むぅー……じっと胸を見るのは失礼よー？」=Mmm, ...... is it rude to stare at my breasts?
+「はっさ、なんで手を握ったのー？」=Huh, why did you hold my hand?
+「あぎじゃびよー！　触らんけー！！」=I'm not touching you!　Don't touch me!
+「えへ……なんかくすぐったいさー」=Yeah, ......, that tickles.
+「あいっ……急に触れたらびっくりするさー」=Oh, ......, you'd be surprised.
+「何でも聞いていいよー。遠慮しないでー」=You can ask me anything. Don't be shy.
+「ぅ……そんなに見られたら顔が赤くなるさーね……」=Oh ......, you're gonna get red in the face if you look at me like that .......
+「へ、変な気分になるから胸を見るのは止めてー……」=Hey, stop looking at my breasts, it makes me feel weird. ......
+「ん……ドキドキするさー……」=Hmm ...... makes me nervous ......
+「な、なにするわけ！？　いくら恋人でも急に触るのはダメー！」=What are you doing?　I don't care if you're my girlfriend, you can't touch me all of a sudden!
+「えへへ……キミに撫でられるの、でーじ好き……」=Heh, ...... I love it when you stroke me. ......
+「えへ、自分のほっぺやわらかいねー？」=Oh, my cheeks are so soft, aren't they?
+「えへ……なんでも聞いていいよー？」=Heh ......, you can ask me anything.

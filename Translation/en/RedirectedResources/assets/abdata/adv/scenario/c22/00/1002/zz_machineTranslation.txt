@@ -1,0 +1,14 @@
+「卓球台があるよ。ちょっとやっていかない？」=There's a ping-pong table. Let's have a go.
+「よーし、頑張ってみるよ！　でも私、こういうの苦手だから、上手にできるかなぁ……」=All right, I'll do my best!　But I'm not very good at this stuff. I don't know if I can do it .......
+「だったらさ、勝負じゃなくて、何回ラリーを続けられるか挑戦しよう。それなら楽しくない？」=Then, instead of a game, let's see how many times we can keep rallying. Wouldn't that be fun?
+「あ……うんっ！　だったら協力ゲームって感じで楽しいかも！」=Oh, ...... yes!　Then it'll be fun to play a cooperative game!
+「でしょ？　それじゃ早速やってみよう！」=Right?　Let's get on with it!
+「あーっ、失敗しちゃった！　ごめんね！」=Oh, I messed up!　I'm sorry!
+「大丈夫大丈夫！　でも今のラリーはいい感じだったんじゃない？」=It's okay!　But that was a good rally, wasn't it?
+「うん、最初に想像していたよりもずいぶん長く続けられたよ♪　私たち、もしかして相性抜群なのかも……なんて。えへへ」=We've been doing this a lot longer than I thought we would. Maybe we're a perfect match ....... Heh.
+「そうだね。[H名]からの球、すごく返しやすかったよ」=That's right. That ball from [H名] was really easy to return.
+「私の方こそ、だよ！　君が打ち返しやすいところに打ってくれてるの、すごく伝わってきたもん」=I'm the one who's doing it!　I could feel that you were hitting me where it was easy to hit back.
+「なんていうか……大切にされてるなぁって気がして……君のそういうところ、本当に好きだなぁ……なんて思ったよ♪」=It's not that I'm not a good person, but it's just that I'm not a good person.
+「[H名]……」=[H名]......
+「さ、さーてとっ！　それじゃもう一回挑戦しよ♪　君からどうぞ」=Well, well, well!　Let's try again. You go first.
+「うん、もっと長く続けられるように頑張ろう！」=Yeah, let's try to make it last longer!

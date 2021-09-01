@@ -1,0 +1,15 @@
+「ちょっとだけ卓球をしていかない？」=Do you want to play a little ping-pong?
+「サーブはどっちからにする？　それと、何ゲームするかも決めないといけないわね」=Which way to serve?　And we have to decide how many games we want to play.
+「あはは、ノリノリだね」=Ha-ha. You're so excited.
+「こういう勝負ごとは真剣に取り組むからこそ楽しいものでしょ？」=This kind of game is only fun if you take it seriously, right?
+「それは確かに、[H名]の言う通りだ」=That's true, [H名] is right.
+「意見が一致したわね。それじゃあ……１ゲームの一発勝負にしましょうか。もし、私が勝ったら……フフッ」=We're in agreement. Let's have a shot at the ......1 game. If I win, ...... pfft.
+「え？　怖い……罰ゲーム先に決めておいてよ」=What?　Scary. ...... You'll have to decide on the punishment first.
+「アナタが勝てばいいだけでしょう？　それとも、自信がないのかしら？」=I don't know what to say.　Or are you unsure?
+「くっ、言ってくれるね。よしっ、俺も本気で行くよ！」=You're telling me. Okay, I'm going to be serious too!
+「これで１１点。まさか、本当に私が勝ってしまうなんて思わなかったわ」=That's 11 points. I never thought I'd actually win.
+（くぅ、罰ゲームが気になって集中できなかった……）=(Damn, I couldn't concentrate because I was worried about the punishment game: ......)
+「なんて……花を持たせてくれたのでしょう？　アナタは優しいから」=How ...... did you let me have the flowers?　You're so sweet.
+「そ、そういうことも……あったりするかも？」=Yeah, that could ...... happen, too?
+「でも、勝ちは勝ちよね？　罰として……手でも、繋いでもらおうかしら」=But a win is a win, right?　As punishment, I'm going to ...... ask you to hold my hand.
+「あはは、喜んで」=Ha-ha, I'm happy.

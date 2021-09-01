@@ -1,0 +1,6 @@
+「うーん、何を注文するか迷ってしまいます。あなたはもう決めましたか？」=Hmm, I'm not sure what to order. Have you decided yet?
+「そばとじゅーしーっていうご飯のセットにしたよ。メニューのここにあるやつ」=I got a set of soba noodles and a rice dish called jussi. It's on the menu here.
+「あ、美味しそうですね。私も同じものにします」=Oh, that sounds delicious. I'll have the same one.
+「他になにか頼む？　二人でシェアできるものとか」=Can I get you anything else?　Something for both of us to share?
+「えーと……では、この天ぷらはいかがでしょう？」=Um, ......, how about this tempura?
+「それ俺も気になってたんだ。よし、じゃあこれで注文しちゃおうか」=That's what I was wondering too. I've been thinking about that too. - All right, let's order it.

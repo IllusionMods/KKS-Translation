@@ -1,0 +1,36 @@
+「私、<color=yellow>釣り</color>って好きなんだ」=I like <color=yellow>fishing</color>.
+「棹と糸の感覚で魚と駆け引きする感じ、面白いよね」=It's fun to play with the fish using a pole and line.
+「<color=yellow>バナナボート</color>って、楽しいよね」=<color=yellow>Banana boat</color> is fun, isn't it?
+「スピードとスリルがあって、水しぶきもキラキラして、本当、海のレジャーって感じ」=The speed, the thrill, the splash, the sparkle, it's like a real leisure activity at sea.
+「<color=yellow>カヤック</color>って、結構楽しいよね」=<Yellow>Kayaking</color> is pretty fun, isn't it?
+「慣れたら操縦も簡単だし、自分の力でゆっくり進める所が面白いんだよね」=It's easy to maneuver once you get used to it, and it's fun to go slowly by yourself.
+「へぇ、それも面白そうかも」=Yeah, that sounds fun too.
+「いいね、それもやってみたい」=Yeah, I'd like to try that.
+「興味なかった？　そっか、でもやってみたら気に入ると思うな」=You're not interested?　No, but I think you'd like it if you tried it.
+「そんなに面白そうじゃなかった？　試しにやってみたらいいと思うよ」=It doesn't sound that interesting?　I think you should give it a try.
+「<color=yellow>マングローブ</color>って不思議だよね」=<color=yellow>Mangroves are strange, aren't they?
+「あんな水辺にいっぱい木が生えてるなんて、なんだか別の生き物みたい」=It's like a different kind of life, all those trees growing in the water.
+「私、<color=yellow>ハイビスカス</color>って好きなんだ」=I like <color=yellow>hibiscus</color>.
+「綺麗だし、可愛いし……あの花を見るだけで、南国気分が盛り上がるんだよね」=They're beautiful and pretty. ...... Just looking at those flowers makes me feel tropical.
+「そうなんだ、それも良さそうだね」=Oh, yeah, that sounds good too.
+「へぇ、キミのお薦めなら気になるかも」=Yeah, I might be interested in your recommendation.
+「いいと思うんだけどな……見たらきっと気に入ると思うよ」=I'm sure you'll like it when you see it on .......
+「あんまり興味ないのかな？　キミならきっと好きになると思うけど」=You're not really interested?　I'm sure you'd like it.
+「砂浜に沢山<color=yellow>サンゴ</color>が落ちてて、びっくりしちゃったよ」=I was surprised to see so much <color=yellow>coral</color> on the beach.
+「でも、海の中のサンゴも、本当に奇麗なんだよね」=But coral in the ocean is really beautiful, too.
+「私、<color=yellow>シオマネキ</color>って、結構可愛くって好きなんだ」=I like <color=yellow>silkworms</color> because they're pretty cute.
+「砂浜でのんびりしてるかと思ったら、意外と逃げ足が速いんだよね」=You'd think they'd be relaxing on the beach, but they're surprisingly quick on the run.
+「そんなのもあるんだ、面白そう」=I didn't know there was such a thing, that sounds interesting.
+「すごいね、それも見てみたいかも」=Wow, I'd like to see that.
+「あれ、あんまり面白くなかった？　私の説明が悪かったのかな」=Wasn't that interesting?　Maybe I didn't explain it well enough.
+「そんなに響いてなさそうだね……実際に見たらすごいと思うんだけど」=It doesn't seem to have that much impact on you. ...... It would be amazing to see it in person.
+「<color=yellow>お土産</color>ってなんだかワクワクするよね」=<color=yellow>Souvenirs</color> are kind of exciting, aren't they?
+「やっぱり、喜んでもらえたら、こっちも嬉しいし……選んでるだけで楽しくなってくるよ」=<color=yellow>Souvenirs</color> are exciting, aren't they? <color=yellow>When people are happy, we're happy too. ...... Just picking them out is fun.
+「<color=yellow>シークヮーサージュース</color>って美味しいよね」=<color=yellow>Shikwasa Juice</color> is delicious, isn't it?
+「甘酸っぱくて、ちょっと苦みがあって、爽やかなんだよね。すっごく体にいいって感じがするの」=It's sweet and sour, a little bitter, and refreshing. It's sweet and sour, a little bitter and refreshing, and it feels really good for you.
+「私、<color=yellow>三線</color>のあの音、すごく気に入ってるんだ」=I really like the sound of the <color=yellow>sanshin</color>.
+「曲にもよると思うけど、すごく陽気で楽しい雰囲気がするよね」=I think it depends on the song, but it has a very cheerful and fun atmosphere.
+「いいね、そっちも面白そう」=I like that. That sounds fun too.
+「私もそれ、いいと思う」=I like that too.
+「ちょっとわかりづらかったかな……もうちょっとうまく伝えられたらいいんだけど」=It's a little confusing. ...... I wish I could explain it better.
+「あんまり興味なかった？　私の説明じゃ伝わらなかったかな」=You're not really interested?　I hope I didn't make myself too clear.

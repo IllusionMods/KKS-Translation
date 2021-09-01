@@ -1,0 +1,36 @@
+「<color=yellow>釣り</color>はひたすら没頭出来るのでお勧めですよ？」=<color=yellow>Fishing</color> is a great way to get lost in it, you know?
+「それに釣りをしている最中は自分を見直す時間にも使えたりもします」=<color=yellow>Fishing</color> is a great way to lose yourself in it, you know? <color=yellow>And while you're fishing, you can also use it as a time for self-reflection.
+「<color=yellow>バナナボート</color>を乗りこなすにはコツが必要なんですよ？」=<I>You have to have a knack for riding a banana boat</I>, right?
+「なかなか難しいですが、一度掴んでしまえば、ですよね」=It's not easy, but once you get the hang of it...
+「<color=yellow>カヤック</color>でのバランス感覚、難しいですよね」=<I>It's hard to balance in a kayak</I>.
+「やはり何度も乗って慣れるのが一番手っ取り早そうですね」=I guess the quickest way is to get used to it by riding it a lot.
+「なるほど、そちらも気になりますね」=I see. I'm curious about that, too.
+「ふむ、それも試してみたくなりますね」=Hmm, I'm tempted to give that a try.
+「これであなたも興味を持っていただければ、と思います」=I hope this will get you interested.
+「是非ともチャレンジしてみて下さい」=I hope you'll give it a try.
+「あなたも<color=yellow>マングローブ</color>の不思議に触れてみませんか？」=Would you like to experience the wonders of <color=yellow>mangroves</color>?
+「なるほど、あなたとはいろいろと語り合えそうです」=Well, you and I have a lot to talk about.
+「あなたは<color=yellow>ハイビスカス</color>についてどれほど知っていますか？」=How much do you know about <color=yellow>hibiscus</color>?
+「あら、ご存じだったんですね」=Oh, you know about it.
+「なるほど……勉強になります」=I see. ...... I'm learning.
+「そうだったんですね、それは私も知りませんでした」=Oh, I didn't know that. I didn't know that either.
+「一知識として留めておいてもいいかもしれません」=You might want to keep that in mind.
+「あなたの知識になれば幸いです」=I hope it helps you.
+「<color=yellow>サンゴ</color>は、ああ見えて動物に部類されているという事、知っていましたか？」=Did you know that <color=yellow>coral</color> is an animal, despite its appearance?
+「私も初めて知った時は驚きました……」=I was surprised when I first heard about it. ......
+「この島の<color=yellow>シオマネキ</color>には固有名称があるんでしょうかね？」=Does the <color=yellow>silkworm</color> on this island have a specific name?
+「はい、一つにシオマネキと言っても、様々な種類がいるようなので……」=Yes, there are many different species. ......
+「あら、そのような生態も……気になりますね」=Oh, I'm curious about the biology of .......
+「ふふっ、豊富な知識をお持ちですね」=Hmm, you have a lot of knowledge.
+「これを期に調べてみてもいいかもしれませんね」=You have a lot of knowledge. - Maybe this is a good opportunity to look into it.
+「こういった生態を調べるのは楽しいですよね」=It's fun to find out about the biology of these things.
+「あなたの方で気になる<color=yellow>お土産</color>はありましたか？」=Did you find any <color=yellow>souvenirs</color> that caught your attention?
+「そんなお土産もあったんですね……今度見に行ってみます」=I didn't know there were such souvenirs. ...... I'll go check them out next time.
+「こういった南島で<color=yellow>シークヮーサージュース</color>が愛飲される理由、知っていますか？」=Do you know why <color=yellow>Shikwasa Juice</color> is so popular in these southern islands?
+「はい、単に美味しいだけでなく、熱中症にも健康的にも効果的なところも大きいみたいです」=Yes, it's not only delicious, but it's also very effective in fighting heat stroke and health problems.
+「<color=yellow>三線</color>と三味線の違い、あなたは知っていますか？」=Do you know the difference between <color=yellow>sanshin</color> and shamisen?
+「文字は似ていても素材やよく使用される地域と、まったく違うものなんですよね」=The characters may be similar, but the materials and the regions where they are often used are completely different.
+「あら、それは私も知りませんでした」=Oh, I didn't know that either.
+「ふむ、そういったものもあるのですね」=Oh, I didn't know that. - Well, there are such things, aren't there?
+「どうでしょう、気になってきましたか？」=I don't know, are you curious?
+「今度一緒に調べてみましょうか？」=Would you like me to look into it with you?
