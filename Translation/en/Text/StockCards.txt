@@ -1,0 +1,267 @@
+//------------------------------------------------------------------------------
+// Default Character Names
+//------------------------------------------------------------------------------
+
+// Format is as follows:
+// 1: Full character name
+// 2: Last name only
+// 3: First name only
+// 4: Character nickname
+//
+// This isn't a hard-and-fast rule or something the plugin requires, mainly just
+// kept in a specific order for anyone who is reading the file visually and does
+// not know what piece of information denotes what.
+
+//------------------------------------------------------------------------------
+// Base Game
+//------------------------------------------------------------------------------
+
+// Default Female Character
+春野 千佳=Haruno Chika
+春野=Haruno
+千佳=Chika
+ちかりん=Chikarin
+
+// 0: Sexy
+高岡 結香=Takaoka Yuika
+高岡=Takaoka
+結香=Yuika
+ユイ=Yui
+
+// 1: Ojousama
+三枝 葵=Saigusa Aoi
+三枝=Saigusa
+葵=Aoi
+アオイ=Aoi
+
+// 2: Snobby
+大鳥 由菜=Ootori Yuna
+大鳥=Ootori
+由菜=Yuna
+ユナ様=Yuna-sama
+
+// 3: Kouhai
+奥田 実咲=Okuda Misaki
+奥田=Okuda
+実咲=Misaki
+みさきち=Misakichi
+
+// 4: Mysterious
+磯部 沙菜=Isobe Sana
+磯部=Isobe
+沙菜=Sana
+サナ=Sana
+
+// 5: Weirdo
+横井 柚葉=Yokoi Yuzuha
+横井=Yokoi
+柚葉=Yuzuha
+ユズハ=Yuzuha
+
+// 6: Yamato (not YAMAMOTO!) Nadeshiko
+和泉 里穂=Izumi Riho
+和泉=Izumi
+里穂=Riho
+りほ=Riho
+
+// 7: Tomboy
+梅田 優里=Umeda Yuuri
+梅田=Umeda
+優里=Yuuri
+ユーリ=Yuuri
+
+// 8: Pure
+羽田 絵里=Haneda Eiri
+羽田=Haneda
+絵里=Eiri
+はたえり=Hataeri
+
+// 9: Simple
+本間 幸恵=Honma Yukie
+本間=Honma
+幸恵=Yukie
+ゆっきー=Yuukii
+
+// 10: Delusional
+峰 鈴音=Takashi Suzune
+峰=Takashi
+鈴音=Suzune
+// This is "Bell" - it's a pun off the kanji in her given name.
+// 鈴 = "Bell", 音 = "Sound"
+ベル=Bell
+
+// 11: Motherly
+春日 陽花=Kasuga Haruka
+春日=Kasuga
+陽花=Haruka
+はるかさん=Haruka-san
+
+// 12: Big Sisterly
+寺西 菫=Teranishi Sumire
+寺西=Teranishi
+菫=Sumire
+すみ姉ぇ=Sumi-nee
+
+// 13: Gyaru
+山本 舞香=Yamamoto Maiko
+山本=Yamamoto
+舞香=Maiko
+マイ=Mai
+
+// 14: Delinquent
+相原 麗奈=Aihara Rena
+相原=Aihara
+麗奈=Rena
+レナ=Rena
+
+// 15: Wild
+熊倉 裕子=Kumakura Yuko
+熊倉=Kumakura
+裕子=Yuko
+// Bear-ko? Bear Girl? Kumako? Not sure which one to go with, so just went with my gut.
+くま子=Kumako
+
+// 16: Wannabe
+船橋 由菜=Funabashi Yuna
+船橋=Funabashi
+由菜=Yuna
+ユナ=Yuna
+
+// 17: Reluctant
+尾上 有紗=Onoe Arisa
+尾上=Onoe
+有紗=Arisa
+アリサ=Arisa
+
+// 18: Jinxed
+臼井 義美=Usui Yoshimi
+臼井=Usui
+義美=Yoshimi
+よっしー=Yosshii
+
+// 19: Bookish
+野口 葉月=Noguchi Hazuki
+野口=Noguchi
+葉月=Hazuki
+のぐっち=Nogucchi
+
+// 20: Timid
+飯田 佐奈=Iida Sana
+飯田=Iida
+佐奈=Sana
+さなっぺ=Sanappe
+
+// 21: Typical Schoolgirl
+高津 珠美=Takatsu Tamami
+高津=Takatsu
+珠美=Tamami
+タマ=Tama
+
+// 22: Trendy
+神崎 杏理=Kanzaki Anri
+神崎=Kanzaki
+杏理=Anri
+アン=An
+
+// 23: Otaku
+渡辺 汐里=Watanabe Shiori
+渡辺=Watanabe
+汐里=Shiori
+しおりん=Shiorin
+
+// 24: Yandere
+椎名 紅葉=Shiina Iroha
+椎名=Shiina
+紅葉=Iroha
+しーな=Shiina
+
+// 25: Lazy
+寺内 恵美=Terauchi Chiemi
+寺内=Terauchi
+恵美=Chiemi
+ちえみ=Chiemi
+
+// 26: Quiet
+日高 恵理子=Hidaka Eriko
+日高=Hidaka
+恵理子=Eriko
+// Technically this should be "Eerin" but the sound would be "Ei" anyway, so...
+えーりん=Eirin
+
+// 27: Stubborn
+新垣 凛花=Shingaki Rinka
+新垣=Shingaki
+凛花=Rinka
+りんか=Rinka
+
+// 28: Old-Fashioned
+坪田 音々=Tsubota Nene
+坪田=Tsubota
+音々=Nene
+ねねじゃ=Nene-jya
+
+// 29: Humble
+高瀬 一花=Takase Ichika
+高瀬=Takase
+一花=Ichika
+いっちー=Icchii
+
+// 30: Friendly
+卯月 かなめ=Uzuki Kaname
+卯月=Uzuki
+かなめ=Kaname
+// Nickname doubles as first name in her case.
+
+// 31: Willful
+来栖 捺月=Kuzumi Natsuki
+来栖=Kuzumi
+捺月=Natsuki
+なつき=Natsuki
+
+// 32: Honest
+花園 詩織=Hanazono Shiori
+花園=Hanazono
+詩織=Shiori
+// Same nickname as Otaku, so no need to list it twice.
+
+// 33: Glamorous
+百瀬 妃奈乃=Momose Hinano
+百瀬=Momose
+妃奈乃=Hinano
+ひなの=Hinano
+
+// 34: Returnee
+滝川 かれん=Takagawa Karen
+滝川=Takagawa
+かれん=Karen
+// Nickname doubles as first name in her case.
+
+// 35: Slangy
+河野 珠子=Kawano Tamako
+河野=Kawano 
+珠子=Tamako
+たまちゃん=Tama-chan
+
+// 36: Sadistic
+白峰 一乃=Shiramine Kazuno
+白峰=Shiramine
+一乃=Kazuno
+かずのん=Kazunon
+
+// 37: Emotionless
+堀北 一瑠=Horitaka Itsuru
+堀北=Horitaka
+一瑠=Itsuru
+いちる=Ichiru
+
+// 38: Perfectionist
+伊丹 里沙=Itami Risa
+伊丹=Itami
+里沙=Risa
+リサ=Risa
+
+// 39: Island Girl
+玉城 優=Tamaki Yuu
+玉城=Tamaki
+優=Yuu
+ゆう=Yuu

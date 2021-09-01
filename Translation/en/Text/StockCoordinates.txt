@@ -1,0 +1,25 @@
+//-------------------------------------------------------------------------------
+// Stock Coordinate Cards
+//-------------------------------------------------------------------------------
+
+// There's no real good way to order these except by file date, I guess.
+// The player can reorder by name or date, anyway.
+
+寝間着　パジャマ=Nightwear: Pajamas
+水着　ショルダーフリル=Swimwear: Frilly Shoulders
+水着　フリルセパレート=Swimwear: Separate Frills
+水着　ロングパレオ=Swimwear: Long Pareo
+私服　フリルシャツ=Casual: Frilly Shirt
+私服　肩出し結びTシャツ=Casual: Shoulder-Joined T-Shirt
+私服　袖なしパーカー=Casual: Sleeveless Parka
+風呂場=Bathroom
+妖精=Fairy
+クマ=Bear
+リス=Squirrel
+乙姫=Young Princess
+ハッピA(男)=Happi A (Male)
+ハッピA=Happi A
+ハッピB(男)=Happi B (Male)
+ハッピB=Happi B
+ミニ丈浴衣=Short Yukata
+浴衣=Yukata
