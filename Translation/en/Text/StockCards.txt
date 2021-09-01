@@ -16,6 +16,29 @@
 // Base Game
 //------------------------------------------------------------------------------
 
+//--------------------------------------
+// Male Characters
+//--------------------------------------
+
+柏木 壮亮=Kashiwagi Sousuke
+柏木=Kashiwagi
+壮亮=Sousuke
+そうちゃん=Sou-chan
+
+北条 ロイ=Houjou Roy
+北条=Houjou
+ロイ=Roy
+// Same nickname as Sousuke
+
+近藤 拓磨=Kondo Takuma
+近藤=Kondo
+拓磨=Takuma
+// Same nickname as Sousuke
+
+//--------------------------------------
+// Female Characters
+//--------------------------------------
+
 // Default Female Character
 春野 千佳=Haruno Chika
 春野=Haruno
