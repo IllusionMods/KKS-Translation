@@ -1,0 +1,122 @@
+//*******************************************************************
+//*******************************************************************
+// Main Game Action Scene
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Only applies to main game interactions in
+// Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level 6
+
+
+
+// /ActionScene/UI/ActionMenuCanvas/Menu Root
+アルバム=Album
+二人で自撮り=2 Shot Selfie
+滞在目的=Purpose of Stay
+部屋に帰る=Return to Room
+マップワープ=Map Warp
+レア=Rare
+スマホ=Smart Phone
+名簿=List of Names
+奉仕=Service
+コンフィグ=Configuration
+ヘルプ=Help
+ロード=Load
+セーブ=Save
+滞在先=Accommodations
+話題交換=Topic Exchange
+タイトルに戻る=Return to Title
+一日の行動終了の確認=Confirm end of day
+部屋に帰りますか？=Return to your room?
+
+
+
+// /ActionScene/UI/ActionMoveGuideCanvas/Root/Menu/
+情報切替え\n=Switch Info\n
+同レアリティ話題３つを\nワンランク上の話題と\nランダムに交換=Exchange 3 topics of the same rarity for \ntopics of a higher rank.
+
+// /ActionScene/UI/CallMenuCanvas/BackImage/Frame/Address/CallTitle
+男のステータス=Male Status
+
+// /ActionScene/UI/CallMenuCanvas
+連絡先が登録されていません=No contact information is registered.
+出かける=Go Out
+連絡先=Contact Info
+待ち合わせ中…=Meet me...
+
+// /ActionScene/UI/Communication/Canvas/R18
+
+// Could be worded better with resizers
+自室に誘う=Invite to Room
+エッチしたい=Ask for Sex
+
+// 人=
+
+// /ActionScene/UI/HeroineStatus/Canvas/BG/background/CharaView
+向かう=Go to
+現在地=Location
+彼女を呼び出しますか？=Want to call her?
+
+アルバイト=Part-time Job
+
+sr:^(.{3,5})/$=$1:
+誕生日=Birthday
+血液型=Blood Type
+月=Month
+日=Day
+型=Type
+アクティブ=Activity
+メニュー表示・非表示=Show/Hide Menu
+累計=Total
+
+
+// Sorting
+好意順=By Affection
+名前順=By Name
+//取り込み中のようだ=
+
+
+// /ActionScene/UI/HStatus
+性癖慣れ=Sexual Experience
+r:^※コイカツポイントを(\d+)pt消費します。$=※ Consumes $1 Koikatsu point(s).
+
+// /ActionScene/UI/PhotoUI
+画面表示・非表示=Show/Hide Display
+ズーム=Zoom
+
+// /ActionScene/UI/PlayerStatus
+お泊り=Staying
+お祈り=Prayer
+所持数=Num Items
+滞在先=Accommodations
+現在地=Location
+恋人数=Num Lovers
+滞在目的=Purpose of Visit
+
+
+交換する話題=Topic Exchange
+思うに任す=Leave it to me
+祈り結果=Prayer Result
+個数=Num
+入手=Obtain
+入手話題=Obtained Topics
+
+
+
+種類=Type
+
+
+// /ActionScene/UI/PrayMenuCanvas
+お賽銭を入れますか？=Give an offering?
+ショートカット一覧=Shortcuts
+コイカツポイント=Koikatsu points
+
+// /ActionScene/UI/ShopMenuCanvas
+所有コイカツポイント=Current Koikatsu Points
+ポイント\nショップ=Points\nStore
+去る=*It leaves.
+去る=Leave
+滞在先\n変更=Change\nAccomodations
+

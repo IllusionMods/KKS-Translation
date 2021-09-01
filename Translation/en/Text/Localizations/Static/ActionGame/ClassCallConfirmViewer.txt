@@ -4,4 +4,4 @@
 ホテル=Hotel
 民宿=Guest House
 合宿所=Boarding House
-に以下からランダムでキャラを滞在させます。=will have the following characters randomly staying in it.
+に以下からランダムでキャラを滞在させます。=will be occupied by a random character.
