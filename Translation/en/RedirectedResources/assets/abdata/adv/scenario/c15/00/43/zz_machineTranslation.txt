@@ -1,0 +1,5 @@
+「シーサーを作るのって……なかなか難しいんだなー」="Making a shisa is ...... quite difficult.
+「見本を見ながらやればいいんじゃない？」="Why don't you just do it by sample?
+「見てるぞー……見てるけど、難しいんだー」="I'm looking at ....... I'm looking, but it's too hard.
+「そうなると……もう頑張ってとしか言えないかな」="Well, I guess I'll just have to say good luck with .......
+「おぉ、頑張るぞー！」="Oh, I'm going for it!

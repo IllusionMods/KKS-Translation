@@ -1,0 +1,15 @@
+「カップルドリンクだって。頼んでみようよ」="Couple drink. Let's order a couple drink.
+「ふぅむ、お主がカップルドリンクとか言い出した時は、酔狂なものよと思ったのじゃが……」="Hmm, I thought you were crazy when you started talking about couples drinks. ......
+「そんなこと思ってたの？」="You were thinking that?
+「思っておったが口にはせんかった。わしは彼氏を立てる奥ゆかしいタイプじゃからな」="I was thinking it, but I didn't say it. I thought about it, but I didn't say it. I'm the kind of guy who's not afraid to stand up for his boyfriend.
+「今、言っちゃったのは[H名]の中の奥ゆかしさと折り合いついてるの？」="Do you have to deal with the fact that you just said that to [H名]?
+「自らに我慢を強いながらこの時間を乗り切るつもりでおったが、気が変わったので白状したのじゃ」="I was going to make it through this time by being patient with myself, but I changed my mind and told you.
+「うむ、これはよい」="Yes, this is good."
+「逆に何がそこまで気に入ったわけ？」="What do you like so much about it?
+「気に入ったというよりは、突き抜けた……のかのう？」="It's not so much that I liked it as that it stuck out ......, didn't it?
+「清々しいまでにバカバカしい。これはあれじゃ、同じ阿呆なら踊らにゃ……の類じゃな」="Thank you for mixing it up. It's like, if you're a fool, you have to dance .......
+「まあ、そうかもね？　俺達、言い訳のしようもないバカップルなんだから開き直って楽しもうよ」="Well, maybe it is?　We're a couple with no excuses, so let's just open up and have fun.
+「バカップル、か……ふふ、くすぐった響きなのじゃ」="Couple or ......, it sounds ticklish.
+「面白い。それなら馬鹿を究めてやるのじゃ！」="Interesting. I'll try not to be a pain in the ass.
+「当然、お主にも付き合ってもらうからの？」="Of course you'll go out with me, won't you?
+「もちろん。どんと来いだよ」="Sure. Come on in.

@@ -1,0 +1,15 @@
+「すみません。実はやってみたいことがあるのですが……」="I'm sorry. Actually, there's something I'd like to try. ......
+「どんなこと？」="What is it?
+「……お互いを愛称で呼び合う、というものです」="......We call each other by our nicknames."
+「ふ、深い意味はありませんよ？　ただ、親しみを込めてこのようなことも良いかと……」="There is no deep meaning.　I just thought it would be nice to do something like this as a friendly gesture. ......
+「全然いいよ。愛称で呼び合ったら、今よりもっと仲良しな感じになれそうだし」="That's totally fine. If we call each other by our nicknames, we'll be even closer than before.
+「あ……ありがとうございます。では私から……」="Oh ...... thank you so much. I'll start with ......."
+「……[Pあだ名]」=...[Pあだ名]
+「う、うん……」="Uh-uh. ......"
+「『うん』って……それだけですか？」="'Yes'? Is that all you have on ......?"
+「思ったより照れくさくて反応に困って……ごめんね、[Hあだ名]」="I was more embarrassed than I thought I'd be and had trouble responding. ...... Sorry, [nickname]."
+「うっ……た、確かに照れくさいですね。毎回これでは恥ずかしくて倒れてしまいそうです」="Ugh ......, you're right, it's embarrassing. I'm going to collapse from embarrassment every time I do this.
+「……ですが、嬉しい気持ちもあるんです。また、呼んでみてもいいですか？」="......, but I'm also happy. Can I call on you again?"
+「もちろん。というか、またとは言わず、ずっと愛称でもいいんじゃないかな」="Sure. I mean, you could call me by my nickname all the time, not just once in a while.
+「ずっとはその……先ほども言いましたが、恥ずかしい気持ちがあるので……」="I don't want to be with you forever. ...... As I said before, I'm embarrassed about it.
+「そっか。じゃあ、愛称はたまに呼び合う感じにしよっか」="I see. Then let's call each other by our nicknames from time to time.

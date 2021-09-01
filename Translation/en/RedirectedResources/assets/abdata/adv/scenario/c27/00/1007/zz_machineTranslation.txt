@@ -1,0 +1,16 @@
+「ねぇ、見て？　あっちの方に変なのがいたわ」="Hey, look!　There's something weird over there.
+「あはは、変なのじゃわからないよ」="Ha-ha. I don't know if it's funny.
+「他に説明のしようがないんだもの。魚の種類とかちっとも詳しくないし」="There's no other way to describe it. I don't know anything about fish.
+「それはまあ、俺も……」="That's well, I'm with .......
+「あっ！　あそこにも変なの！」="Oh!　There's something weird in there!
+「変なのばっかりだね」="It's always weird.
+「土地柄かしら？　珍しい魚がたくさんいるわね」="What is it about this place?　There's a lot of rare fish here.
+「と言っても、水族館とかに行き慣れてるわけじゃないんだけど」="It's not like I'm used to going to aquariums or anything, though.
+「そうだね。水族館って言ったら、やっぱりデートで来る場所ってイメージがあるし」="Yes, I do. Aquariums have an image of a place where people go on dates.
+「……あんたは落ち着いてるみたいだけど、こ、こういう所は行き慣れてたりするの？」="...... You seem calm. Are you used to going to places like this?
+「たとえば、私以外の……」="Like, for example, my other ......
+「や、やっぱりいいわ！　なんでもない。それより……」="No, I don't want to!　It's nothing. It's .......
+「少なくとも、これからは[H名]とだけ来るだろうね」="At least I'll only be coming with [H名] from now on.
+「そ、そう……じゃなくて、二人きりかはわからないでしょ！」="Yeah, not ...... that. You don't know if it's just you and me!
+「先の話だけど……こういうところは家族で来るのも定番、って感じがするし……子供と一緒にとか」="I know it's a bit far-fetched, but ...... I feel like this kind of place is usually a family place. ...... Maybe with kids.
+（それはさすがに、だいぶ先の話かな……）=(That's a long way off, indeed. ......)

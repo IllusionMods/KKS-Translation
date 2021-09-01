@@ -1,0 +1,13 @@
+「ちょっと卓球しない？」="Let's play a little ping-pong.
+「えっと……ご、ごめんね、卓球ってどうやって始まるんだっけ」="Well, ...... I'm sorry, how does table tennis start?
+「そこから？」="And that's it?
+「運動は全般的に苦手なの……コートに線があるけど、どこに入れば点になるのかな……」="I'm not very good at sports in general. ...... There's a line on the court, where do I put the dots? ......
+「ルールとか、あんまり難しく考えなくていいよ。楽しめれば勝ちだから」="Don't think too hard about the rules. Don't think too hard about the rules, as long as you have fun, you win.
+「楽しむ……ね、わかった！　これも経験」="Have fun at ....... Okay!　It's an experience.
+「それじゃあ、よろしくね？」="All right, then?
+「そろそろ休憩にしようか？　思ったよりも盛り上がったね」="Let's take a break, shall we?　This is more fun than I thought it would be.
+「ふうっ、疲れるよりも肩が凝っちゃった」="Phew, my shoulders are more stiff than tired."
+「そんなに生真面目にやらなくても適当でよかったのに」="You don't have to be so serious. You could've just gone for it.
+「……大丈夫、ちゃんと楽しんだから。たまには身体を動かすのもいいかも」="...... Don't worry, I had a good time. It's good to get some exercise once in a while.
+「そう？　それならよかった」="Yeah?　That's good.
+「うん、たまにだったらまた付き合ってもいいよ。……下手でも笑わないでくれるなら」=I think I like you a lot more than I used to." "Yeah, I'd be happy to go out with you again if it's just once in a while. Yeah, I'd be happy to go out with you again sometimes, if you don't laugh when I'm bad at .......

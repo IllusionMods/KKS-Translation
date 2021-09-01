@@ -1,0 +1,7 @@
+「さてと、お主は何にするかの？」="Well, what do you want?
+「んー……じゃあこれにしようかな？」="Hmmm ...... I think I'll try this one then?"
+「ふむ、ならわしも同じものを頼もう」="Hmm, then I'll order the same thing."
+「あれ、違うのじゃなくてもいいの？」="Are you sure you don't want a different one?
+「うむ、恋人として、お主の見るもの聞くもの食べるもの……いろんな感覚を共有したいのじゃ」="Yes, as your lover, I want to share your ...... senses of what you see, hear and eat.
+「そっか、そうだね……注文したものが当たりだといいなぁ……」="I see. ...... I hope my order is a winner. ......
+「まぁ外れたら外れたで、お主と同じ苦しみを味わうというのも一興じゃと思うぞ……？」="If you don't get it, I'm sure you'll be glad you did. ......?

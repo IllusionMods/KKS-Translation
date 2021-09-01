@@ -1,0 +1,6 @@
+「Ｄａｔｉｎｇ……俺と付き合いたいって事？」="Dating......, you mean you want to go out with me?
+「Ｙｅｓ,アナタが欲しいデス……！」="Yes, I want you. ......
+「お国柄か、熱の伝わり方がやっぱりすごいな……」="Maybe it's the country, but I'm amazed at how much heat is transmitted. ......
+「ダメ、デスカ……？」="No. Death. ......?
+「……いや、俺も[H名]の事好きだし。うん、付き合おうか！」="...... No, I like [H名], too. Yeah, let's go out!
+「ｒｅａｌｌｙ！?　アリガトガザイマス！　ワタシ、ｖｅｒｙ　ｖｅｒｙ　ｈａｐｐｙデス！！」="Really?　Thank you so much!　I'm very, very happy!

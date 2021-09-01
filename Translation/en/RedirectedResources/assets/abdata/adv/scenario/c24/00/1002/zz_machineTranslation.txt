@@ -1,0 +1,16 @@
+「卓球台があるし、やっていかない？」="There's a ping-pong table. Why don't we play?
+「あの……私、卓球はあまりしたことがなくて……すみません、練習しておけばよかったんですけど……」="Um, ...... I've never really played table tennis. ...... I'm sorry, I should have practiced. ......
+「もしかして初卓球？　ルールもわからない感じ？」="Is this your first time playing table tennis?　Do you feel like you don't know the rules?
+「いえ、まったくの初めてじゃないです。ルールもいちおうわかります、けど……」="No, it's not my first time at all. I know some of the rules, but ......
+「なら勝負とかじゃなくて、普通にラリーにしよう……そうだ、長く続けば続くほど俺たちの仲も続くってことにしよう」="Then let's make it a regular rally, not a competition. ...... That's right, the longer it goes on, the longer we'll be together.
+「えっえっ、そんなっ、責任重大ですっ」="What are you going to do? - What? No, no, no. It's a big responsibility.
+「よーし、頑張ろう。はい、行くよ～」="Alright, let's go for it. Okay, here we go.
+「そんなっ、えっあっ、あ～っ……」="Oh, no, no, no, no. ......
+「はぁ……はぁ……どれぐらい続いた？　というか、俺が失敗しちゃってごめん……」="Ha...... ha...... how long did it last?　I mean, I'm sorry I messed up. ......
+「い、いえ♡　はぁ♡　はぁ♡　とっても長く続きましたから……♡　これで、私たちの仲は安泰ですね……♡　はぁ♡　はぁ♡」=
+「永遠にも感じるラリーだったから、一生分は続くんじゃないかな」="It was a rally that felt like an eternity, so it would probably last a lifetime.
+「それなら、もう１回しませんか？　来世の分も稼いでおきたいので♡　あ、でも疲れましたよね、休憩を挟みましょうか？」="In that case, why don't we do it again?　In that case, why don't we do it again? I want to earn enough money for my next life ♡ But you're tired, don't you think we should take a break?
+「いや、こうなったらトコトンやって稼げるだけ稼ごう」="No, let's just go all out and make as much money as we can.
+「はいっ♡　あ、でも、もし私が失敗してラリーが途切れたらちょっと不吉でしょうか……」="I'm sorry, I have to drink while the ice is blessing us.
+「俺だって失敗したんだから、[H名]がしちゃいけない理由はないよ。というか、失敗しても何度でも挑戦したらいいさ」="I've made mistakes too, so there's no reason why [H名] shouldn't. There's no reason why [H名] shouldn't do it.
+「失敗しても何度でも……♡　はい♡　なんだか恋愛の鉄則みたいで嬉しいです♡　何かがあっても私、何度だってあなたを諦めないです♡」="Even if I fail, I'll do it again and again. ...... ♡ Yes ♡ I'm glad it's like an ironclad rule of love. ♡ No matter what happens, I won't give up on you again and again.

@@ -1,0 +1,16 @@
+「お土産を探してみようよ」="Let's go look for some souvenirs.
+「へぇ、夏らしいの見つけたねー」="Wow, what a summery find.
+「む？　うむ、夏らしいといえばそうかもしれないのじゃ」="Hmm?　Well, it's summery, I suppose.
+「それ気に入ったんじゃないの？」="Don't you like it?
+「気に入ったというか……まぁ、目についたと言えなくもないのじゃ」="It's not that I liked it, it's just ...... that it caught my eye.
+「なら、買っちゃえば？　思い出にもなるだろうし」="Why don't you just buy one?　It's a good memory.
+「お主のようにそうパッパッと判断できればよいのかもしれぬが……」="I wish I could be as quick to judge as you are. ......
+「何か引っかかるの？　めっちゃ高額とか」="What's the catch?　Like, really expensive?
+「そういわけでなくてな……その、なんじゃ……」="That's not what I meant. ...... What's ...... that?
+「……わしにこういうハイカラなものは似合わないかもしれぬ、と思っての」="...... I'm not sure I'm cut out for this kind of high-fashion stuff.
+「なんだ、そんなこと？　[H名]は可愛いから何を着たって似合うよ」="What's that?　[You're a pretty girl. You'll look good in anything.
+「かわっ、お、お主……！」="Oh, my God, you're ......!
+「そう思ってなかったらお付き合いしてないから」="If I didn't think so, I wouldn't be in a relationship with you.
+「そうかもしれぬが……」="Maybe so, but ......
+「あはは。それで、どうするのそれ？　なんなら俺がプレゼントしようか」="Haha. So, what are you going to do with it?　I'll give it to you.
+「よ、よい！　自分で買うのじゃ」="Good, good!　You'll have to buy it yourself.

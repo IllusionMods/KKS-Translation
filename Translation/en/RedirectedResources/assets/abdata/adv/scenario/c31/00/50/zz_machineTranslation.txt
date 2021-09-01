@@ -1,0 +1,6 @@
+「おまえが頼んだそのお好み焼きみたいなやつはなんだ？」="What's that okonomiyaki thing you ordered?
+「これ？　ヒラヤーチーだよ。ニラがたっぷりで美味しいけど、食べてみる？」="This?　It's hiraya-chi. It's full of chives. It's delicious. You want some?
+「欲しかったわけでは……いや、ここは厚意に甘えるとしよう。では一口……」="I didn't want it ......, but I'll take your word for it. I'll take a bite. ......
+「どう？」="How's it going?
+「うん、美味しいなっ。お好み焼きに似ているなら簡単だろうし、旅行から帰っても作れそうだ」="Yes, it's delicious. If it's similar to okonomiyaki, it'll be easy to make when we get back from our trip.
+「それじゃあ、後でレシピを聞いてみよっか」="I'll ask you for the recipe later.

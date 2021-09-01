@@ -1,0 +1,36 @@
+「おまえは、<color=yellow>ツリーイング</color>に興味あるか？」="Are you interested in <color=yellow>treeing</color>?"
+「もうチェック済みとはさすがだ！　あんな風に樹の上で楽しめるなんていいよなー」="I'm impressed you've already checked it out!　It's nice to be able to have fun in a tree like that.
+「海のレジャーといえば、やっぱり<color=yellow>バナナボート</color>だよな」="Speaking of leisure activities in the ocean, <color=yellow>banana boats</color> are a must.
+「みんなもよく遊んでるみたいだし、やっぱり人気があるな～」="Everyone seems to be enjoying it a lot, it's really popular!
+「この島に来て初めてやったけど、<color=yellow>カヤック</color>って楽しいな」="This is the first time I've done it since I came to this island, but <color=yellow>kayaking</color> is fun.
+「他の場所でもやってみようかな。こことは違った景色が楽しめそうじゃん？」="I think I'll try kayaking in other places. I think I'll try it in other places. I'm sure I'll enjoy different scenery from here.
+「お、そっちも面白そうだ」="Oh, that sounds fun, too.
+「へえ～、おまえはこっちが好きなんだ」="Oh, you like this one.
+「ありゃ……おまえは好きだと思ったんだけど、違ったみたいだ」="Yeah, I thought you'd like ......, but I guess not.
+「おまえもきっとはまると思うぞ。だからやってみてくれ」="I thought you'd like it, but you didn't. - I think you'll like it, too. I think you'll like it.
+「この島にも、<color=yellow>パワースポット</color>はあるんだな」="Are there any <color=yellow>power spots</color> on this island?
+「分かんないけどご利益はあるだろうし、何度か足を運んでおくか」="I don't know, but I'm sure it's good for you. I'll make a few visits.
+「世の中には、めちゃくちゃ大きな<color=yellow>ガジュマル</color>の樹があるみたいだぞ」="I heard there are some really big banyan trees in the world.
+「画像で見たけど、すごく迫力があってさ……なんか自然の雄大さを感じたよ」="I've seen images of them, and they're really impressive. ...... They give you a sense of the grandeur of nature.
+「ああ、分かる。あたしも見たぞ」="Yeah, I know. I saw it too.
+「そっちもいい感じだよな～」="That's pretty cool, too.
+「うーん、そこまで興味ないって感じか」="Well, I guess you're not that interested.
+「おまえも楽しめると思ったんだけど……チョイスをミスったか」="I thought you'd enjoy it too, but I guess I made a mistake in choosing .......
+「<color=yellow>チンアナゴ</color>って不思議な魅力があると思わないか？」="<color=yellow>Chinago</color> has a strange charm, don't you think?
+「みんな集まって顔を出してるけど、砂の中で身体が絡まったりしてないのかな？　どうなってるのか気になる……」="They all gather together and show their faces, but don't their bodies get tangled up in the sand?　I'm wondering what's going on. ......"
+「<color=yellow>シオマネキ</color>のハサミって、どうして片方だけ大きいんだろ？」="Why are the scissors of the <color=yellow>silverback</color> so big on one side?
+「縄張り争いの為なら、両方大きさな方が有利だと思うけど……どっちもでかいとバランスが悪くなるのかな」="If it's a territorial battle, it's better to have both of them big. ...... If both of them are big, it's unbalanced.
+「おまえは海の生き物について詳しいんだな」="You know a lot about marine life, don't you?
+「知ってる知ってる。そういうやつもいるよな」="I know, I know. I know, I know. Some people do.
+「おまえでも分からないことはあるんだな」="There are things you don't know.
+「面白いし、探してみるといいぞ」="It's interesting. You should look into it.
+「おまえは、どんな<color=yellow>お土産</color>を買うか決めた？」="Have you decided what kind of <color=yellow>souvenir</color> you're going to buy?
+「やっぱり配れるお菓子がベターだよな。わかるわかる」="What kind of <color=yellow>souvenir</color> have you decided to buy? I know, I know.
+「<color=yellow>シークヮーサージュース</color>が売られてるのはよく見かけるな」="I often see Shikwasa juice on sale.
+「はは、そんなに酸っぱかったのか？　あたしが飲んだときは、さっぱりして美味しかったぞ」="Haha, was it that sour?　When I drank it, it was refreshing and tasty.
+「ここでも、<color=yellow>ぬいぐるみ</color>は人気みたいだな～」="<color=yellow>Plush toys seem to be popular here too.
+「へ？　あたしにプレゼントする？　いやいや、似合わないって！　気持ちだけありがたく貰っておくよ」="Huh?　Do you want to give it to me?　No, no, no, it's not for you!　I'll just take the gift.
+「おお、それもいいな。教えてくれてさんきゅ」="Oh, that's nice too. Thank you for telling me.
+「なるほど、それがおまえのおすすめってわけか」="I see. So that's your recommendation.
+「色んな発見があるし、もっと島を見て回るといいんじゃないか？」="There's so much to discover. You should see more of the island, don't you think?
+「お前なら知ってると思ったんだけど、意外だな」="I thought you'd know about it, but I'm surprised.

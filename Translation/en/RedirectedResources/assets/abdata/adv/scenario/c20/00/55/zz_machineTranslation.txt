@@ -1,0 +1,14 @@
+「あ、あの！　ちょっと、お願いしたいことがあるんです」="Oh, my God!　I'd like to ask you a favor.
+「どうしたの？」=Something wrong?
+「その……あなたの愛称を考えてきたんです。よかったら呼んでみてもいいですか？」="I've been thinking of a nickname for you ....... I can call you that if you like."
+「本当？　うん、どんな愛称なのか聞いてみたいな」="Really?　Yeah, I'd love to hear what your nickname is.
+「えっと、あまり期待はしないでくださいね？　で、では失礼して……」="Well, don't get your hopes up, okay?　So, if you'll excuse me, I have to go to .......
+「……[Pあだ名]」=...[Pあだ名]
+「おお、いいね。それじゃあ、俺も。……[Hあだ名]」="Oh, good. I'll go with you. ......[H nickname]"
+「はう……も、もしかして私の愛称ですか……？」="Huh ...... is that also my nickname ......?"
+「うん、実は俺も考えてたんだ」="Yeah, I was actually thinking about that.
+「そ、そうだったんですか。なんだか通じ合ってるみたいで……嬉しいです」="I'm sorry I startled you. - Oh, really? I'm ...... glad we're on the same page.
+「よかったら、また呼んでみてもいいですか……？」="Can I invite you back to ...... if you want?
+「もちろん……っていうか、これからずっとでもいいよ」="Of course I'll buy it at ....... I mean, I'll buy it all the time.
+「それは、ちょっと……恥ずかしいです……。それに、ずっと呼んでしまうと、特別な感じが薄れてしまいそうなのも……」="That's a little ...... embarrassing. Besides, if I call you all the time, it might make you feel less special. ......
+（反応が可愛いなぁ）=(Her reaction is so cute.)

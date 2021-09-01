@@ -1,0 +1,7 @@
+「二人でのんびり浜辺を散策するのも悪くないね」="A leisurely stroll along the beach is not a bad idea.
+「こういうのんびりした時間、都会じゃ味わえないわね」="You don't get this kind of relaxing time in the city.
+「それにしても、色んな貝殻が落ちてるなぁ」="There's a lot of shells out there.
+「ふふ、どれも綺麗だわ」="Mmm, they're all so beautiful.
+「でも、[H名]さんの方が綺麗だよ」="But you're more beautiful than [name].
+「まったく、調子のいいことを言って……」="Oh, my God, you're so full of it. ......
+「いやぁ、照れた顔も可愛くて最高だね！」="No, you look so cute when you're embarrassed!

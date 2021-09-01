@@ -1,0 +1,36 @@
+「おまえは、<color=yellow>ツリーイング</color>をやってみたことはあるか？」="Have you ever tried <color=yellow>tree climbing</color>?
+「ああやって木に登れるのは楽しいよな。柄にもなく童心に帰って楽しんだよ」="It's fun to climb a tree like that, isn't it? It's fun to be able to climb trees like that. I enjoyed it like a child.
+「海のレジャーの定番といえば、<color=yellow>バナナボート</color>だな」="One of the most popular leisure activities in the sea is <color=yellow>banana boat</color>.
+「フッ、やはりおまえもそう思うか。ド定番だからこそ外せないレジャーだ」="You think so, too? <color=yellow>banana boat</color>.
+「<color=yellow>カヤック</color>に乗ったのは初めてだったんだが、かなり楽しめたぞ」="It was my first time on a <color=yellow>kayak</color>, and I enjoyed it a lot.
+「自然の中を悠々と漕いでいくのは、この島ならではの醍醐味だろうな」="Paddling in the middle of nature is probably the best part of this island.
+「それも面白いと思うぞ」="I'm sure you'll enjoy it too.
+「ふぅん。おまえはそれが好きなのか」="Hmm. You like that?
+「私のオススメだ。やってみて損はないぞ」="That's my recommendation. You'll like it.
+「おまえも気に入るはずだから、挑戦してみるといいぞ」="I think you'll like it. You should try it.
+「この島には色々と<color=yellow>パワースポット</color>があるみたいだぞ」="There's a lot of <color=yellow>power spots</color> on this island.
+「本気で心の底から信じてるわけではないが……何かしらご利益はあるんじゃないか？」="I don't believe it with all my heart, but I'm sure there's some kind of ...... benefit.
+「大きな<color=yellow>ガジュマル</color>の樹は、思わず息を呑んでしまうような迫力があるな」="The big <color=yellow>Banyan</color> tree is so powerful that it takes your breath away.
+「生命力に溢れているというか……見ているだけで元気が出る気がするんだ」="It's so full of life force that just looking at it ...... makes me feel energized.
+「なるほど……それは面白そうだ」="I see. ...... That sounds interesting.
+「おまえはそっちに興味があるんだな」="You're interested in that, aren't you?
+「機会があったら、行ってみたらどうだ」="Why don't you go there when you get a chance?
+「せっかくの観光だし、見て回るといいんじゃないか」="Since we're going sightseeing, why don't we take a look around?
+「水族館に<color=yellow>チンアナゴ</color>がいたんだが……なんというか不思議な魅力があったな」="There was a <color=yellow>chinago</color> at the aquarium ...... that was kind of fascinating.
+「全員そろって同じ方向を眺めて、何を考えているんだろうな？　意思疎通をしてみたいものだ」="I wonder what they're thinking when they're all looking in the same direction?　I'd like to see them communicate with each other.
+「そういえば、この間<color=yellow>シオマネキ</color>を見かけたんだ。本当に片方だけハサミが大きいんだな」="By the way, I saw a <color=yellow>silverback</color> the other day. I saw a <color=yellow>silverhead</color> the other day, and it had really big scissors on one side.
+「あんなにサイズが違うとバランスをとるのが難しいと思っていたが、器用に歩いていたよ」="I thought it would be difficult to balance them with such a difference in size, but they walked with such dexterity.
+「ふぅん。それも面白いな」="Hmmm. That's interesting.
+「フッ、海について勉強してきているのか」="So, you've been studying the ocean?
+「見識を広めることをおすすめする。知識があって損をすることはないからな」="You've been studying the ocean? It never hurts to be knowledgeable.
+「もう少し島を歩いてみてはどうだ？　思いがけない出会いがあるとおもうぞ」="Why don't you walk around the island some more?　You'll be surprised at what you find.
+「お菓子の<color=yellow>お土産</color>を買おうと思っているんだが、なにかオススメはあるか？」="I'm thinking of buying some snacks as souvenirs, any suggestions?
+「……なるほど、それは配るのに適しているな。おかげでいい買い物ができそうだ」="Do you have any suggestions? I'm thinking of buying some souvenirs.
+「<color=yellow>シークヮーサージュース</color>はもう飲んでみたか？」="Have you tried the <color=yellow>Shikwasa Juice</color> yet?
+「あの酸っぱさはなかなか癖になると思わないか？　私は見かけたらつい買ってしまうようになった」="Have you tried the <color=ellow>Shikwasa Juice</color> yet? Don't you think its sourness is quite addictive?　I've started to buy it whenever I see it.
+「……どこの観光地でも、可愛い<color=yellow>ぬいぐるみ</color>の類は売られているんだな」="...... Every tourist spot sells cute <color=yellow>stuffed animals</color>, don't they?
+「い、いやっ、買ってほしいとねだったわけではないからな？　ただそう思って呟いただけだっ。決して欲しいわけではないっ」="No, no, I wasn't asking you to buy it, okay?　I just mumbled that thought. It's not that I want it.
+「……それも良さそうだな。参考にさせてもらおう」="...... sounds like a good idea. I'll take that as a reference.
+「おまえはそれが気に入っているのか」="Do you like it?
+「おまえなら知っていると思ったんだが……意外だな」="I thought you'd know about ....... That's surprising.
+「フッ、リサーチ不足なんじゃないか？」="You're not doing enough research, are you?

@@ -1,0 +1,16 @@
+「ちょっとお店を見て回ってもいい？」="Can I have a look around the stores?
+「ええ、大丈夫よ」="Yeah, it's okay.
+「どうしたの？　なんだか随分と熱心に箱を見てるね」="What's wrong?　What's wrong? You're looking at the box very intently.
+「気になるじゃない。賞味期限とか、成分とか、他にも色々」="I do. Expiration dates, ingredients, that sort of thing.
+「たかがお土産で考え過ぎだって思うかもしれないけど……実は私、あまり誰かに贈り物したことがないの」="You might think I'm overthinking this whole souvenir thing, but ...... I've never really given anyone gifts.
+「どうせ贈るなら喜ばれたい、みたいなこと？」="If I'm going to give a gift, I want it to be appreciated, you know?
+「それはそうでしょう。目の前で相手の頬が引きつったりしたら一生のトラウマよ？」="I'm sure it is. If you see their cheeks twitch in front of you, you'll be traumatized for life.
+「そこまで失礼な人、そうそういないよ」="Not many people would be that rude.
+「さっきも言った通り、考え過ぎているのは自覚してる」="Like I said, I'm aware I'm overthinking things.
+（……[H名]の場合、本当にそうなんだろうな）=(......[H名], you really are, aren't you?
+「……見えてきたわ。他の人も、あれこれ思い悩んだ挙げ句、こういうお菓子とか無難なところに着地するのね」="I'm starting to see ....... I can see that other people, after all their troubles, have landed on a safe place like this, with sweets.
+「まあ、もらって困るものではないよ」="Well, it's not a bad gift.
+「そう。アナタがそう言うのなら、これを買うことにするわ」="Yeah. Well, if that's what you want, then I'm buying this.
+「ちょっ、急にこっちに責任を回さないでよ！？」="Wait, don't suddenly shift the blame to me!
+「味はどうすればいいのかしら？　無難なプレーンか……他の変わり種の方が喜ばれると思う？」="What flavor should I choose?　Do you think they'll like plain or ...... some other variant?
+（お土産を選ぶの本当に苦手なんだな。意外だ……）=(You're really bad at picking out souvenirs, aren't you? Surprising. ......)

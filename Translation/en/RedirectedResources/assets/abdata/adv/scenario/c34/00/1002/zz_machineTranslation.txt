@@ -1,0 +1,17 @@
+「卓球台があるし、一勝負しない？」="There's a ping-pong table. Let's play a game.
+「Ｙａｙ♪　Ｐｉｎｇ　ｐｏｎｇダイスキ♪」="Yay, I love ping pong."
+「あはは、ピンポンか。あっちでもやってたんだ？」="Ha-ha, ping pong. You play ping pong over there?
+「トキドキ、ネ！　公園にこのｔａｂｌｅ、あるカラ！」="You're a sweet guy.　There's this table in the park!
+「え、公園に卓球台あるの？」="Oh, there's a ping-pong table in the park?
+「大きいトコロにあって、ｇａｌｌｅｒｙもイッパイ、ミンナで楽しくＰｉｎｇ　ｐｏｎｇ♪　Ｐｉｎｇ　ｐｏｎｇ♪」="It's in a big place with a lot of galleries.
+「へぇ～、それは楽しそうだね」="Wow, that sounds like fun.
+「ワタシはミンナで楽しくも、アナタとふたりでも、ドッチも楽しいヨ♡」="I'll have fun with you, or I'll have fun with you.
+「[H名]はいつでも楽しそうでいいね。俺も楽しんじゃうぞ」="[H名] always seems to be having fun. I'm going to have fun with you.
+「Ｙｅａｈ♪　ふたりでｌｅｔ’ｓ　Ｐｉｎｇ　ｐｏｎｇ♪」="Yeah, let's ping pong together
+「さすがにやってただけあってうまいね～」="It's as good as it gets.
+「Ｔｈａｎｋｓ♪　マダマダできるケド、Ｏｎｅ　ｍｏｒｅ？」="Thanks." "I can do it, but one more?"
+「望むところ！」="I hope so!
+「ＯＫ～♪　……Ｉ　ｋｎｏｗ！　勝った方が、負けた方にＣｈｕするの、賭けナイ？」="OK. ......I know, I bet the winner gives the loser a kiss.
+「えっ！？」="What?
+「ソッチの方が、盛り上がる、デショ♡　ｌｅｔ’ｓ　ｌｏｖｅ　ｌｏｖｅ　Ｐｉｎｇ　ｐｏｎｇ♪」="Let's love love Ping pong, that's more exciting."
+（[H名]、大胆だなぁ～……これは勝っても負けても嬉しいね）=([H名], you're so bold~ ...... I'll be happy whether I win or lose this one.)

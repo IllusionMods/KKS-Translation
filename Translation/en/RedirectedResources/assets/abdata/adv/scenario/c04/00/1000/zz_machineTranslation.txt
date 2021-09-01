@@ -1,0 +1,16 @@
+「カップルドリンクが飲めるんだって。頼んでみようよ」="They have a couple's drink. Let's try it.
+「ドリンクが来たけど、このストローの形は……」="Here's your drink, but the straw looks like .......
+「そういうメニューなんだから、らしい形をしてるのは当然なんじゃない？」="Since it's such a menu, isn't it natural that it should look like one?
+「さすがはカップルドリンクだね」="That's a couple's drink.
+「うん、私とあなたはカップル、恋人同士……。こういうことをするのも普通よね」="Yes, you and I are a couple, we are lovers ....... It's normal for us to do this.
+「もしかして照れてるの？」="Are you embarrassed?
+「そんなことないわ。ただ……」="That's not true. It's just .......
+「ただ？」="Just?
+「同じタイミングで飲もうとすると、必然的に顔を近づけることになるでしょ？」="If we try to drink at the same time, we'll inevitably end up close to each other, won't we?
+「そうなったら、あなたを間近で見つめることになるから……」="When I do, I'll be staring at you up close and personal. ......
+「やっぱり照れてるんじゃないか。顔が赤いよ？」="I think you're embarrassed. Your face is red.
+「……からかうなんて意地悪ね」="...... You're so mean to make fun of me.
+「あはは、ごめんね。それで飲むの飲まないの？」="Haha, sorry. So you're not going to drink it?
+「まあ、飲むけど……」="Well, I'll have a drink. ......
+「うんうん、人間素直が一番だよ。照れる[H名]も可愛いね」="Yeah, yeah, yeah. You're so cute when you're embarrassed.
+「もう……バカ」="It's ...... stupid.

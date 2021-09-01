@@ -1,0 +1,14 @@
+「愛称で呼び合ってみたいな」="I'd like to call you by your nickname.
+「唐突じゃな……何かあったのか？」="That was abrupt. ...... What's going on?
+「この前、愛称で呼び合ってるカップルを見て羨ましいと思って」="I saw a couple the other day who called each other by their nicknames and I was jealous.
+「なるほど、そういうわけか。確かにわしらにはなかったのう。うむ、物は試しじゃ、やってみるか」="Oh, I see. We didn't have any. Well, let's give it a try.
+「ありがとう。それじゃあ、俺の事は[Pあだ名]って呼んでくれる？」="Thank you. So, can you call me [P nickname]?
+「……なんかわしの知ってるのと違う気がするが……まぁいいじゃろ」="......It's different from what I know, but ......that's okay.
+「ちゃんとわしの愛称も考えておるんじゃろな？」="You're thinking of my nickname, aren't you?
+「もちろん、この日の為にしっかり考えてあるよ」="Of course, I've thought of everything for this day.
+「用意周到じゃのう……。ごほん……では、参るぞ！」="Well, yeah, I guess so. You're well prepared, ....... ......, here we go!
+「……[Pあだ名]」=...[Pあだ名]
+「[Hあだ名]」=[Hあだ名]
+「お、思ったより恥ずかしいのぅ……これ」="Oh, this is more embarrassing than I thought. ......
+「そんな[Hあだ名]の顔が見れるなら、またやってもらおうかな」="If I could see that look on [nickname]'s face, I'd have him do it again.
+「そ、そういう意地悪な理由ならやらんぞ！　そんな顔をしてもダメじゃ！　ダメ、じゃぞ？」="No, I won't do it for that kind of nasty reason!　You can't look at me like that!　No, huh?

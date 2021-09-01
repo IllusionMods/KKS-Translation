@@ -1,0 +1,5 @@
+「ねぇ、これ美味しそうやない？」="Hey, doesn't this look good?"
+「ふむ、初めて見るメニューだけど、[H名]が言うなら頼んでみる価値ありそうかな？」="Hmm, I've never seen this menu before, but if [H名] says it's worth a try?"
+「ふふっ、もし合わなくても、二人でがんばれば食べきれるやろ？」="Even if we don't get along, we'll still be able to eat together, right?
+「まぁ、そうならない事を祈りたいが……好奇心には抗えないからなぁ」="Well, I wish I hadn't, but ...... I can't resist curiosity.
+「そうそう。いろんな事、二人で共感していきとーよ」="Yes, yes. We're going to share a lot of things together.

@@ -1,0 +1,7 @@
+「ふーむ、何かこの旅路の思い出になるような土産はないかのう……」="Hmm, any souvenirs to remember this journey by? ......
+「それってペアルック的なものとか？」="Is that like a pairing?
+「んや、お主との思い出になりそうなものであれば何でもよいかの？」="Well, anything that will give you something to remember you by?"
+「……あんまりこだわりとかはないかな？」="...... You're not too particular?
+「そういうわけではないが……お主と買った土産を見て、今日この日を思い出すことが出来るのであれば、とな」="Not that I'm saying that, but ...... I was hoping that the souvenirs you and I bought would remind you of this day.
+「なるほどね……そしたら、しっかり思い出せるような、印象の残るようなお土産を探さないとな」="I see. ...... Then we'll have to find a souvenir that will leave a lasting impression that we can remember.
+「うむ、二人で一緒に探すのじゃ」="Well, we'll find it together."

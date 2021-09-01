@@ -1,0 +1,6 @@
+「あなたは何かお土産を買ったりしたですか？　買ってたらお聞きしたいですっ」="Did you buy any souvenirs?　I'd like to know if you did.
+「友達用にいくつか買ったよ」="I bought a few things for my friends.
+「えーと、色んな味が入ったちんすこうと、定番お菓子のご当地限定味とかだったかな」="Let's see... Chinsuko with various flavors, and some local flavors of standard snacks.
+「お、いいセンスなのですっ。それじゃあ、私も友達へのお土産はそれにするのですー！」="Oh, I have good taste. I'm going to buy one for my friend.
+「うーん、でも男用だからなぁ。女の子にあげるなら、もう少し考えた方がいいんじゃない？」="Hmm, but it's for guys. Hmm, but it's for guys. If you're going to give it to a girl, you might want to think about it a little more.
+「そうですか？　お菓子の好みなんて、男女で変わらないと思うです」="Really?　I don't think men and women have different tastes in sweets.

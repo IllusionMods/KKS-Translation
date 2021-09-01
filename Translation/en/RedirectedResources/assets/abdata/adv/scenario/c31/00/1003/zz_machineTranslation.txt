@@ -1,0 +1,14 @@
+「お土産を見よっか」="Let's look at the souvenirs.
+「へぇ……なかなかイカしてるな、これ」="...... That's pretty cool, man.
+「お、アロハシャツが気になってるの？」="Oh, you're interested in the aloha shirt?
+「ああ。なかなかクールだと思わないか？」="Yeah. That's pretty cool, don't you think?
+「うーん。クールかどうかはともかく、着こなしによってはすごく格好よくなるよね」="Hmm. It may or may not be cool, but depending on how you wear it, it can be really cool.
+「しかも、ちゃんと着ればフォーマルにもなるし」="And it's formal when worn properly.
+「そうだな。だが、少し悩んでいてな……」="Yes, I do. But I'm a little torn. ......
+「どんなところに悩んでるの？」="What's troubling you?
+「その……なんだ、もっと女らしい方がいいのかと思ったんだ」="That ...... is why I thought it would be better to be more feminine.
+「おまえはどう思う？　もっと女らしい服装の方がいいと思うか？」="What do you think?　Do you think I should wear something more feminine?
+「そうだね……女らしい服装の[H名]も良いと思うよ」="Yeah, I think ...... [H名] in feminine attire would be nice.
+「でも、[H名]は[H名]らしい格好をしているのが一番好きかな」="But I think I like [name] best when she's dressed like [name].
+「フフッ……そうか。おまえ、本当に私のことが好きなんだな」="...... I see. You really like me, don't you?
+「よし、これは買うことにしよう。折角ならおまえも買ってペアルックにするか？　なんてな」="All right, I'm buying this. All right, I'm going to buy one of these. Why don't you buy one too and we can pair up?　Oh, yeah.

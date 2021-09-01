@@ -1,0 +1,5 @@
+「潮風が気持ちいいね」="The sea breeze feels good.
+「あ、でも悪魔的には塩ってあんまりよくないのかな？」="Oh, but is salt really bad for demons?
+「ククッ、我を塩で祓うことなど出来ないぞ。残念だったな！」="No, you can't exorcise me with salt. Too bad!
+「我と汝は契約を結んだのだ。汝が嫌と言っても、離れるつもりはないからな……？」="I have made a covenant with thee. I have made a covenant with thee, and I will not leave thee, even if thou wilt not. ......?
+「[H名]……もちろん、俺だって離れるつもりはないよ」="[H名]...... Of course, I have no intention of leaving you either.

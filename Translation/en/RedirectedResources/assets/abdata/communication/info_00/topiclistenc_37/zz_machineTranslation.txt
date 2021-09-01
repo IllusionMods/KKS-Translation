@@ -1,0 +1,36 @@
+「あなたは<color=yellow>シュノーケリング</color>に興味ありますか？」="Are you interested in <color=yellow>snorkeling</color>?
+「海を堪能するには欠かせないアクティビティですね」="It's a must-do activity to enjoy the ocean.
+「あなたは<color=yellow>トレッキング</color>がどのようなものか知っていますか？」="Do you know what <color=yellow>trekking</color> is?
+「そうですね、ハイキングと登山の中間のようなものです」="Yes, it's something in between hiking and mountain climbing.
+「なるほど、そのようなアクティビティもあるのですね」="Oh, so there is such an activity?
+「あなたはソレをすでに経験したことがあるのですね」="You've done it before, haven't you?
+「これを機に是非興味をもって頂ければと思います」="I hope this will be a good opportunity to get you interested.
+「どうでしょう、気になりましたか？」="What do you think, are you interested?"
+「<color=yellow>水牛</color>車は私たち観光客に人気の様ですね」="The <color=yellow>water buffalo</color> car seems to be very popular with us tourists.
+「はい……のんびりしていて、私も好きです」="Yes. ...... I like them too, they're relaxing.
+「<color=yellow>マングローブ</color>とはなにか、あなたは語れますか？」="Can you tell us what a <color=yellow>mangrove</color> is?
+「はい、植物固有の名称ではなく群衆を指していますね」="<color=yellow>mangroves</color>? - Yes, you're referring to a group of people, not a specific plant.
+「<color=yellow>パワースポット</color>について、あなたはどれ程語れますか？」="How much can you tell me about <color=yellow>power spots</color>?
+「はい、霊場や聖地などもその一種のようです」="<color=yellow>How much can you say about <color=yellow>power spots</color>?
+「<color=yellow>星空</color>にどれだけロマンがあるか、あなたはわかりますか？」="Do you know how romantic the <color=yellow>starry sky</color> is?
+「見えている星の光は遥か昔のもの、というのが信じられませんよね」="Do you know how romantic the <color=yellow>starry skies</color> are? It's hard to believe that the starlight we see is so far back in time.
+「なるほど、やはり自然界というのは底が知れませんね」="I see, the natural world is unfathomable, isn't it?
+「まだまだ私の知らない知識は多いみたいです」="I guess there's still a lot I don't know.
+「これで一つ、あなたへ知識を与える事が出来ました」="Now I've given you something to think about.
+「少しでも知って頂ければと思います」="I hope you will learn something."
+「<color=yellow>サンゴ</color>が海にもたらすものが何か、わかりますか？」="Do you know what <color=yellow>coral</color> does for the ocean?"
+「はい、海中が綺麗なのも珊瑚のおかげとも言われています」="Yes, it's said that coral is responsible for the cleanliness of the ocean.
+「<color=yellow>クマノミ</color>についてあなたはどれ程の知識を持っていますか？」="How much do you know about <color=yellow>tardigrades</color>?
+「そうですね、やはりイソギンチャクとの共生が有名ですね」="Well, they are famous for their symbiosis with sea anemones.
+「なるほど、流石、海は広いですね」="Well, the ocean is a big place, isn't it?
+「私も知らない海の知識が沢山ありますね」="I know a lot of things about the ocean that I don't know.
+「あなたも海について詳しくなって頂けたらと思います」="I hope you can learn more about the ocean too.
+「これで少しでも海が好きになって頂けたらと思います」="I hope this will make you like the ocean a little more."
+「ここの<color=yellow>名物料理</color>は試してみましたか？」="Have you tried their <color=yellow>specialties</color>?
+「私も、あれなら何度でも食べられますね」="I could eat that again and again.
+「<color=yellow>紅型</color>染めの特徴、あなたは伝えられますか？」="Can you tell us what makes Bingata dyeing so special?
+「そうですね、普通の染め物とは製法が大きく違いますね」="Yes, it's very different from other dyeing methods.
+「なるほど、それは知りませんでした」="I see. I didn't know that.
+「そうですか、そういったものもあるのですね」="I see. So there are such things.
+「あなたも是非これを機に調べてみて下さい」="You should definitely take this opportunity to look into it."
+「どうでしょう、少しでも気になってくれたらと思います」="I don't know. I hope it'll make you curious.

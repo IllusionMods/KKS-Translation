@@ -1,0 +1,3 @@
+「うーん、何を食べようかしらね……？」="Hmm, what should I have? ......?
+「こういう所で悩んだら……そうだなぁ、俺だったらいつも食べ慣れてそうなのを注文するかな？」="If I had a problem with a place like this, I'd go to ...... and order something I'm used to eating.
+「ふーん、あなたはそうするのね……なら、私もそうしてみようかしら？」="Hmm, so you do ......, maybe I should try that?

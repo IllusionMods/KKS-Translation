@@ -1,0 +1,7 @@
+「おーっほっほっほ！　その心意気、よくってよ！」="Oh-ho-ho-ho!　I like your spirit.
+「……えっと、返事はどうなのかな？」="...... Um, how about a reply?
+「うふふ、今の告白を受けて、あなたの気持ちを無下にすることなんて出来ませんわ」="I can't disrespect your feelings after what you've just told me.
+「わたくしも、あなたの事が気になっていましたの。これから、よろしくお願いいたしますわね」="I've been thinking about you too. I'm looking forward to working with you.
+「やった！　こちらこそよろしくね」="Yay!　Nice to meet you, too.
+「でも油断はなさらないように。わたくしに相応しくないと思ったら、即刻関係を解消いたしますわ」="But don't let your guard down. If I find you unworthy of me, I will terminate our relationship immediately.
+「うん、[H名]さんに相応しい男になれるように頑張るよ」="Yeah, I'll try my best to be a man worthy of [H名].

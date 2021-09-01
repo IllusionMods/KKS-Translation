@@ -1,0 +1,5 @@
+「美容向けのオイルが置いてあるんだね」="I see you have a beauty oil.
+「これ、好きに使っていいんでしょ？」="You can use this as you like, right?
+「そうみたい……じゃあ、俺が塗ってあげようか？」="Yeah, I think so. ...... Well, do you want me to do it for you?
+「いいよー。綺麗に塗ってねー」="Okay. Make sure you paint it nice.
+「よぉし、任せといてよ」="All right, I'm on it.

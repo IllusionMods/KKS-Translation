@@ -1,0 +1,6 @@
+「色んなものが売ってるね」="So many different things to buy.
+「なんかいいもんねぇかな……」="I wonder if there's anything good on .......
+「お土産とか結構面白そうなもの売ってそうだけど」="It looks like they sell some interesting souvenirs.
+「私、Ｔシャツが欲しんだよな。こう……気合の入った文字が書いてるヤツ」="I need a T-shirt. I want a T-shirt with these ...... fancy words on it.
+「そういうのなら多分あるんじゃないかな、一緒に探そうか？」="Maybe there is such a thing. Shall we look for it together?
+「ありがとよ、よろしく頼むぜ！」="Thanks, man. I'm looking forward to it!

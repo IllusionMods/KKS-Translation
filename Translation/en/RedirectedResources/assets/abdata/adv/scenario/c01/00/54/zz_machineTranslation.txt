@@ -1,0 +1,14 @@
+「あのさ。もし良かったらなんだけど、愛称で呼び合ってみない？」="You know what? If you don't mind, would you like to call each other by your nicknames?
+「愛称……ですか。構いませんよ。なんだか新鮮な感じになりそうですね」="Nickname ......? I don't mind. It's gonna be kind of fresh.
+「ありがとう。それじゃあまず、俺のことは[Pあだ名]って呼んでくれるかな」="Thank you. Well, first of all, can you call me [P nickname]?
+「えっ？　そ、それは愛称なのでしょうか。なにか違うような……」="What?　Is that a term of endearment? Is that a nickname or is it something different ......?
+「普通とはちょっと違うかもしれないけど、そう呼んでほしいんだ。ダメ？」="I know it's not exactly normal, but that's what I want you to call me. No?"
+「ええと…………わ、わかりました。他ならぬあなたのお願いですから……良いですよ」="Well, ............, I get it. Since it's your request, ...... it's fine.
+「ありがとう！　それじゃあ、俺から呼ぶね」="Thank you!　I'll call you that.
+「は、はい……分かりました」="Yes, yes ......, I understand.
+「[Hあだ名]……」="[Hあだ名]……"
+「……[Pあだ名]」=...[Pあだ名]
+「……ううぅ、は、恥ずかしいです……」="...... Ugh, I'm so embarrassed. ......
+「嫌だった？」="You didn't like it?
+「い、いえ、そんなことは……たまに呼び合う分には……その、問題ないと思います」="No, no, it's not. ...... I think it's fine if we call each other ...... from time to time.
+「そっか。なら、時々こうやって呼んでみるね」="I see. Then I'll try calling them like this from time to time.

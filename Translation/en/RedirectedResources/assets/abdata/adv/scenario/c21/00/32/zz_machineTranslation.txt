@@ -1,0 +1,6 @@
+「どうする？　何か買い物でもしていく？」="What do you say?　Do you want to go shopping or something?
+「そうだね。パパとママにもお土産買っていきたいからなぁ」="Yes, we can. I want to buy some souvenirs for my mom and dad.
+「色んな物が売ってるよね……これだけあったら何買うか迷いそうだね」="There's so much stuff here. ...... It's hard to decide what to buy.
+「うん。お菓子とかもいいけど、日持ちしないとダメだから」="Yeah. Sweets would be nice, but they have to last.
+「民芸品とかはどうかな？」="How about some folk art?
+「ママはそういうの好きだけど、パパは興味ないんだよね……お土産ってなかなか難しいね」="Mom likes it, but Dad doesn't. ...... Souvenirs are hard to come by.

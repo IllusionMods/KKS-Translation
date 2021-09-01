@@ -1,0 +1,5 @@
+「なるほど、カヤックでマングローブ林を見て回るわけか。面白そうだな」="I see. So we're going to kayak around the mangrove forest. Sounds like fun.
+「さっそくやってみようか。[H名]は前と後ろ、どっちがいい？」="Let's get started. Do you want [H名] in the front or the back?
+「後ろ側で頼む。前は……いや、何でもない」="Back side, please. The front is ....... No, it's nothing.
+「俺はどっちでもいいんだけど、言い淀まれると気になるなぁ」="I don't mind either way, but I don't care if you don't.
+「……まぁその、おまえが後ろにいると……視線が気になって集中出来そうになかったんだよ」="...... Well, you know, I couldn't concentrate with you behind me because of the ...... stares.

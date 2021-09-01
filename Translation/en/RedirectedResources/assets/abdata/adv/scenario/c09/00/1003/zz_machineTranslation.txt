@@ -1,0 +1,14 @@
+「お土産を見てみようよ」="Let's look at the souvenirs.
+「旅行のお土産っていったらお菓子よね！　定番だわ」="The most common souvenir of a trip is sweets!　It's a classic.
+「もらって困るものじゃないしね」="It's not like we're friends.
+「絶対って言える？　賞味期限がタイトだったとしても……かしら」="How can you be sure?　Even if the expiration date is tight, it's .......
+「なんで、もらった相手を困らせる方向にシフトしたのさ」="Why did you shift to embarrassing the recipient?
+「あたしが悪人みたいな言い方しないで。[P名]の危機感が足りないから指摘しただけでしょ」="Don't make it sound like I'm a bad person. [I'm just pointing out that you're not feeling safe enough.
+「危機感？　ま、まあ、うん、ありがとう気をつけるよ」="A sense of urgency?　Well, yeah, thanks. I'll be careful.
+「いいのよ。あたしって目配り……だっけ？　リーダーらしい振る舞いができるタイプだから」="It's okay. I'm an attentive ...... person, aren't I?　I'm the type of person who can act like a leader.
+「調子出てきたね。その勢いでベストなお土産を見繕ってくれる？」="You're getting better. Will you use that momentum to find me the best souvenirs?
+「そうね……うーん、あれも……これも、なかなかおいしそうではあるけど。ご当地らしさも考慮すると……」="Well, that ...... and that ...... look pretty good too. I'm sure you're right. ...... Well, that one ...... looks pretty good, too, considering the local flavor. ......
+「やっぱりこれだわ！　断然これっ！！」="This is it!　That's the one!
+「最初からずっとそれを持ってたよね？」="You've had it with you since the beginning, haven't you?
+「直感ってことね！　これ絶対においしいわよ。一緒に食べましょ」="It's all about intuition!　It's absolutely delicious. Let's eat it together.
+「さっきまでのうんちくはなかったことでいいわけね？」="So all that crap we talked about before never happened, right?

@@ -1,0 +1,15 @@
+「ちょっと一勝負しない？」="Let's play a game.
+「いざ、尋常に勝負なのじゃ！」="Now let's play fair!
+「勇ましいとこ出鼻をくじくみいで悪いけど……もしかして、卓球苦手だった？」="I'm sorry to burst your bubble, but ...... you're not very good at table tennis, are you?
+「なぜ、そんなことを聞くのじゃ？」="Why are you asking me that?
+「構えがぎこちないから？」="I'm a little awkward with my stance.
+「お、お主も似たようなものじゃろう。どうせ腕前も似たりよったりに決まっておる」="I'm sure you're just like me. I'm sure you're just as good at it as I am.
+「そう言うなら何か賭けようか？」="Well, if you say so, what do you want to bet?
+「よ、よいぞ？　負けたらなんでも言うことを聞いてやるのじゃ」="All right?　If you lose, I'll do whatever you want.
+「言ったね？　それじゃ、勝負」="You didn't?　All right, let's play.
+「あのぅ、そろそろ……」="Well, it's time to ......
+「ぐぬぬ、ま、まだじゃ！　わしはまだ負けておらん！」="No, not yet, not yet!　I'm not defeated yet!
+「もう、２０点くらい点差がついてるんだけど」="I'm already behind by about 20 points.
+「ようやくコツがつかめてきたところなのじゃ！　流れが変わる、そういう予感がわしにはある！」="I'm just starting to get the hang of it!　I have a feeling the tide is about to turn!
+「さあ！　もう一本」="Come on!　One more.
+「もう、俺の負けでいいので許してください……」="Please forgive me if I lose. ......

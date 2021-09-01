@@ -1,0 +1,6 @@
+「ここのご飯美味しいね」="The food here is really good.
+「いい感じだよねー！　何食べても美味しいしー」="It's nice, isn't it?　Everything is good.
+「ソーキそばとかラフテーとか、メニューも多いし」="There's a lot of stuff on the menu, like soki soba and rafta.
+「アタシの食べてるソーキそば、マジで美味しいから！」="My soki soba is really good!
+「それじゃあ、俺ももう少し何か食べようかな」="Well, I'm gonna get something more to eat.
+「うん、注文しなって～。アタシも付き合うから」="Yeah, go ahead and order. I'll go with you.

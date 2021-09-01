@@ -1,0 +1,6 @@
+「何か買い物するの？」="Are you going shopping?
+「そうですね……お土産とか、何か珍しいものがあれば……」="Well, ...... if you have any souvenirs or anything unusual, ......
+「でも、これだけ品ぞろえがあると、結構迷いそうだね」="But with such a large selection, I'm sure you'll get lost.
+「はい……島中のお土産物が、全部揃ってるみたいです」="Yes ......, it seems like they have all the souvenirs from all over the island.
+「この瓶とか綺麗だよね」="These jars are beautiful, aren't they?
+「それ……お酒みたいですから、さすがに買えませんよ」="It's like ...... alcohol. You can't buy that.

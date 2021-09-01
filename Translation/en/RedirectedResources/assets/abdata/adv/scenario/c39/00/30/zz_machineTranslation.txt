@@ -1,0 +1,6 @@
+「ここ、かなりのパワースポットらしいよ。何かお願い事とかしていこうか？」="I heard this place is a power spot. Do you want to make a wish or something?
+「うん！　折角来たんだし、お願いしないと損よねー。キミは何をお願いするのー？」="Yes!　I've come here for a reason, so I'd be remiss if I didn't ask you for a favor. What are you going to ask for?
+「そうだなぁ……無病息災とか健康第一とか？」="I guess. ...... Good health, health first?
+「うーん、確かに大事なことだけど……ちょっと地味なお願いだねぇ……」="Hmm, it's definitely important, but ...... it's a bit of a humble request. ......
+「じゃあ思い切って……[H名]ともっと仲良くなれますようにって、お願いしちゃおうかな」="I think I'll go out on a limb and ask ......[H名] to be my best friend.
+「えっ、そ、そんなのわざわざお願いしなくてもきっと大丈夫よー？　ここはほら、パワースポットなんだし……」="I'm sure you'll be fine without having to ask for such a thing.　You know, this is a power spot. ......

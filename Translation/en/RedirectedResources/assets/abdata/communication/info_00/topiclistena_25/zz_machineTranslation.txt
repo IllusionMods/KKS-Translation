@@ -1,0 +1,36 @@
+「私、<color=yellow>釣り</color>って結構いいと思うんだよね～」="I think <color=yellow>fishing</color> is pretty good, don't you?
+「釣り糸を垂らしてるだけで、釣り人気分になれるっすからね～」="I think <color=yellow>fishing</color> is pretty good. - You can become popular just by dangling a fishing line.
+「私、<color=yellow>シュノーケリング</color>気に入ってるんすよね」="I like snorkeling, don't you?
+「海の中を眺めながら、プカプカ浮かんでるのが、楽でいいっすよね～」="It's nice and easy to just float around, looking at the sea."
+「そうだね～、それもいいかもね～」="Yeah, that's a good idea, too.
+「なるほど～、そっちも面白そうっすね～」="I see. That sounds interesting too."
+「興味ないっすか～……なかなかいいと思うんだけどな～」="You're not interested? - I think ...... is pretty cool.
+「イマイチっすかね～……面白いと思うんだけどな～」="Not so good?" "I think ...... is interesting..."
+「私、案外<color=yellow>水牛</color>が好きなんすよ～」="I really like <color=yellow>water buffalo</color>.
+「あの、のんびりした歩み……まさに牛歩の鑑って感じっすよね～」="<color=yellow>I really like the buffalo</color>.
+「<color=yellow>ネコ</color>っていいっすよね～。私<color=yellow>ネコ</color>好きなんすよ～」="<color=yellow>Cats</color> are great, aren't they? I like <color=yellow>cats</color>.
+「生まれ変われるなら、飼いネコになりたいっす……それで、のんびり寝てたいっすね～」="If I could be reborn, I'd like to be a domesticated cat. ...... And I'd like to sleep in peace.
+「私、実は<color=yellow>ハイビスカス</color>の花が好きなんすよね～」="I actually like <color=yellow>hibiscus</color> flowers.
+「ザ・南国って感じの花だもんね～。花言葉も、花の色によって違うらしいっすよ～」="I actually like <color=yellow>hibiscus</color> flowers. I heard that the language of flowers differs depending on the color of the flower.
+「この島の<color=yellow>星空</color>って、すっごく綺麗で気持ちいいっすよね～」="The <color=yellow>starry sky</color> of this island is so beautiful and pleasant.
+「周りに明るい場所が少ないから、星が眩しいくらい光って見えるっすよ～」="There are not many bright places around, so the stars shine so brightly.
+「いいっすね～、それも見ごたえありそうだね～」="That's nice. It looks like it would be a sight to behold.
+「うんうん、それも興味あるかな～」="Yeah, I'm interested in that too."
+「そんなに興味ないのか～……分かってもらえると思ってたっすよ～」="You're not that interested? ...... I thought you'd understand.
+「あんまり響かなかったみたいっすね～……いいと思うんだけどな～」="It doesn't seem to have made much of an impression on you. ...... I think it's good.
+「<color=yellow>チンアナゴ</color>を見てると、心が和むんすよね～」="When I see <color=yellow>chinago</color>, it soothes my heart.
+「あの、ニョロっと揺れてて、隠れる時は素早いとか、見てて飽きないんすよね～」="<color=yellow>Chinago</color> makes me feel relaxed.
+「実は私、<color=yellow>クマノミ</color>って好きなんすよ」="Actually, I like <color=yellow>tiger anemones</color>.
+「イソギンチャクと共生して、引きこもってる感じが、何となく共感できるんすよね～」="I actually like <color=yellow>tardigrades</color>. They live in symbiosis with sea anemones, and I can relate to the feeling of their seclusion.
+「おぉ～、それも素敵っすね」="Oh, that's nice too.
+「わかるっすよ～、それもいい感じだよね～」="I know what you mean. - That's a nice touch, too.
+「なかなか分かってもらえないんすね～……残念だよ～」="It's hard to get people to understand. ...... It's a shame.
+「そんなに好きじゃないんすか～……一度見たら変わると思うんだけどな～」="You don't like it that much? ...... I'm sure it'll change once you see it.
+「私、この島の<color=yellow>名物料理</color>に、かなり興味があるんすよ～」="I'm quite interested in the <color=yellow>specialties</color> of this island.
+「もちろん食べたいって言うのもあるんすけど、まずは全部見てみたいんだよね～」="Of course I want to eat them, but I want to see them all first.
+「実は私、結構<color=yellow>シーサー</color>気に入ってるんすよ」="Actually, I'm quite fond of <color=yellow>Shisa</color>.
+「魔除けなのに、なんだか親しみのある表情で……見てて和むんすよね～」="Even though it's an amulet, it has a friendly expression that makes me feel relaxed when I see it on .......
+「いいっすね～、それも理解出来るっすよ～」="That's good. I can understand that.
+「それも悪くないっすね、気に入りそうだよ～」="That's not a bad idea. You'll like it.
+「理解できないっすか～……説明するのが難しいっすね」="You don't get it? ...... It's hard to explain.
+「難しいかなぁ……分かって欲しいんすけどね～」="Isn't it difficult to explain? ...... I want you to understand..."

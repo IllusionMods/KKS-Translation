@@ -1,0 +1,14 @@
+「あ、あのさぁ。ちょっと提案なんだけど」="Oh, you know what? I have a suggestion.
+「ん？　どうしたの？　急に改まって」="Hmm?　What's the matter?　You've suddenly changed your mind.
+「いやその……おまえの事……愛称で呼んでみたいかなーとか、思ったりしてー。はは、ははは……」="I'd like to call you ...... by your nickname, you know. Ha, ha, ha, ......."
+「おー、いいね！　[H]からそういう事言われると思ってなかったから新鮮かも」="Oh, that's good!　[I never thought I'd hear that from you, so it's refreshing.
+「ぐっ、なんだよその言い草は。あ、あたしだって……恋人っぽい事に憧れとか……あるんだぞ」="What the hell is wrong with you? I've got a ...... yearning for something loverly and ...... too.
+「うぁ、ごめん！　その、気が変わってなければ……愛称で呼んでくれる？」="Oh, I'm sorry!　I mean, if you haven't changed your mind, can you call me by my ...... nickname?
+「う、うん……いいよ。えと……いくぞ？　……[Pあだ名]」="Uh, yeah, ...... is fine. I'm glad you asked.　......[P nickname]"
+「っ……な、なんか、いいね。照れるけど、一気に距離が近付いた感じがする」="It's hard to say no when someone says it like that. ...... It's kind of nice. I'm embarrassed, but I feel like I'm getting closer.
+「あ、あはは……そ、そうかな。なら良かった……かな」="Ah, haha ......, I see. That's good. ......?
+「あー、俺も愛称で呼んでみていい？」="Uh, can I call you by your nickname?
+「えっ！　そうだな、じゃないと不公平だもんな。い、いいぞ。好きに呼びなよ」="What?　Yeah, it would be unfair if I didn't. That's good. Call it what you want.
+「じゃあいくよ。……[Hあだ名]」="Okay, here we go. ......[H nickname]"
+「んぁっ！　なんかゾクってした……これは程々にしておこう……色々まずい気がする」="Hmm!　I'm creeped out. ...... I'll try to keep this to a minimum. ...... I have a bad feeling about this.
+「はは、そうだね……お互い少しずつ慣れてく感じにしようか」="Ha, yes. ...... Let's get used to each other little by little.

@@ -1,0 +1,17 @@
+「[H名]さん、深海魚の水槽があるみたいだよ」="Mr. [H名], I think they have a deep-sea fish tank.
+「[H名]さん？　そんなに囓りついてなにを見てるの？」="Mr. [H名]?　What are you staring at?
+「別に……なかなか興味深いと思っていただけよ」="I just thought it was ...... pretty interesting.
+「小魚の群れが？　えっと、この魚の種類は……」="A school of small fish?　Well, what kind of fish is this ......?
+「種類はなんだって良いわ」="I don't care what kind.
+「えっ？　でも、興味を持っているんじゃないの？」="What?　But you're interested in it, aren't you?
+「ええ。こう……簡単にぐちゃっと潰せそうなのが良いわよね」="Yes. It's good that it's so ...... easy to mess up.
+「[H名]さん、怖いよ！？」="[H名], you're scaring me!"
+「フフッ、冗談よ。でも、ここまで群れられると、それなりに見応えがあるわね」="I'm just kidding. I'm just kidding. But it's quite a sight to see them all crowded together like this.
+「貴方はどう思う？　私のように、踏み潰したくなるのかしら？」="What do you think?　Does it make you want to stomp them out like it does me?
+「いや……特にそういう感想はないかな。普通に可愛いとか、綺麗とか、この魚知ってるーとか……」="No, ...... I don't have any particular thoughts on that. No, I don't think that's what I meant. I just thought it was cute, beautiful, and I know this fish. ......
+「今は、[H名]さんと一緒に水族館デートできてるのが楽しいかな」="I think I'm enjoying my aquarium date with [H名] now.
+「……そう。まぁ、貴方が楽しめているならそれでいいんじゃない」="...... Yes. Well, if you're enjoying it, that's fine.
+「それで、向こうに深海魚の水槽があるんだったかしら？」="So, they have a deep-sea fish tank over there, right?
+「うん。良かったら一緒に見に行きたいなって思ったんだけど……」="Yeah. I was wondering if you'd like to go with me to see it. ......
+「そうね、深海魚は深海魚で滑稽よね。地上まで引きずり上げられて、見世物になっているんだもの」="Well, deep-sea fish are funny deep-sea fish, aren't they? They're dragged up to the surface and made a spectacle of.
+「は、はは……楽しみ方は人それぞれだけど……。[H名]さんは変わってるね……」="Ha, ha, ....... Everyone has their own way of enjoying ....... You're different, [H名]. ......

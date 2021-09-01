@@ -1,0 +1,4 @@
+「大変心地よかったです」="It was very pleasant."
+「お陰様で、身体が楽になった様な気がいたします」="I feel so much better now.
+「お疲れ様でした。次は私の番でしょうか？　え？　貴方はよろしいのですか？」="Thank you for your time. Is it my turn now?　What?　Are you sure you want to do this?
+「あの……結局おいるを塗っていないような気がするのですが……？」="I don't think you've ...... applied any skin after all.

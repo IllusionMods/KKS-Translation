@@ -1,0 +1,5 @@
+「のう、居るか……？」="Are you there, ......?
+「あぁ、入ってきていいよ？」="Yeah, can you come in?
+「では、お邪魔するぞ……」="Well, I'm sorry to bother you, .......
+「その、どうしてもお主が欲しくなってしもうての……わしの我儘、許してほしいのじゃ……」="Well, I couldn't help but want you ...... and I hope you'll forgive my selfishness ......."
+「……返事なし、か……どこに行ったんじゃろう……」="No ...... reply, or ...... where did he go? ......"

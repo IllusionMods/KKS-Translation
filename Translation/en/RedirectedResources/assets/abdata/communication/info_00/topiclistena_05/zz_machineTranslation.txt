@@ -1,0 +1,36 @@
+「<color=yellow>釣り</color>に興味ある？」="Are you interested in <color=yellow>fishing</color>?"
+「深海魚を釣ってみたいんだけど、難しいみたい」="<color=yellow>I'd like to try my hand at catching some deep-sea fish, but they seem so difficult.
+「<color=yellow>シュノーケリング</color>をやったことある？」="Have you ever tried <color=yellow>snorkeling</color>?
+「深くは潜れないけど……海の世界が覗けて楽しいよね」="You can't dive very deep, but it's fun to look into the world of the ...... ocean.
+「ふ～ん、そういうのもあるんだね」="Hmm, I didn't know that existed.
+「へぇ～、それも面白そう」="Yeah, that sounds fun too.
+「……よかったら、あなたもやってみて」="...... If you want, you can try it too.
+「……あなたも、楽しめると思うよ」="...... I think you'll enjoy it.
+「<color=yellow>水牛</color>が町を歩いてるのって、不思議な光景だよね」="<color=yellow>It's a strange sight to see a water buffalo walking around town, isn't it?
+「身体が大きいから、初めて見た時はビックリしちゃった」="They're so big, I was surprised when I first saw them.
+「島にいる<color=yellow>ネコ</color>に懐かれたかもしれないの」="I think the cat on the island might have missed me.
+「あの子を宇宙には連れていくわけにはいかないから……ちょっと困ってる」="I'm in a bit of trouble because I can't take her into space.
+「<color=yellow>ハイビスカス</color>の花って綺麗だよね」="Aren't <color=yellow>hibiscus</color> flowers beautiful?
+「“かれら”にも似合うかなぁ」="I wonder if they'd look good on them.
+「ここは空気が澄んでいて、<color=yellow>星空</color>がよく見えるんだよ」="The air is so clear here, you can see the <color=yellow>starry sky</color>.
+「“かれら”と交信しやすいから、宇宙に行くまではこの島に住んでようかな」="It's easy to communicate with them, so I think I'll live on this island until I go into space.
+「ふ～ん、素敵だね」="Hmm, that sounds nice.
+「そう……あなたは、それがお気に入りなんだ」="Yeah, ......, that's your favorite.
+「……あなたにも、見てほしい」="...... I want you to see it, too.
+「……おすすめのスポットがあるから、今度教えてあげる」="...... I'll tell you about some of my favorite spots.
+「水族館の<color=yellow>チンアナゴ</color>はもう見にいった？」="Have you been to the aquarium to see the <color=yellow>chin conger eels</color>?
+「見てるとなんだか癒されるから、“かれら”にもおすすめしたの」="I recommended it to them because it's really relaxing.
+「やっぱり<color=yellow>クマノミ</color>は人気なんだね」="I guess <color=yellow>tiger anemones</color> are popular.
+「グッズがたくさんあって、売り切れてたりもしたよ」="There were so many of them, some were even sold out.
+「へぇー、そっちも気になるなぁ……」="Wow, I'm curious about that one, too. ......
+「なるほど……それも悪くないね」="I see. ...... That's not so bad.
+「……可愛いから、あなたにもおすすめ」="...... It's cute. I recommend it to you.
+「……あなたも、見に行くといいよ」="...... You should go check it out.
+「ここの<color=yellow>名物料理</color>の中では何が好き？」="What's your favorite <color=yellow>specialty food</color> here?"
+「わたしは……そばが一番美味しかったかも。そばは宇宙食にもなってるしね」="What's your favorite dish here? I think I liked the  soba the best. It's also a space food.
+「<color=yellow>シーサー</color>はどこにでもいるんだね」="<color=yellow>Shisa</color> are everywhere, aren't they?
+「うんうん……まるで“かれら”みたい」="Yeah, yeah, ......, it's just like them.
+「うん、そっちもいいよね」="Yeah, that's good, too.
+「それも“かれら”に教えてあげたいなぁ」="I wish I could tell them that.
+「……違う話の方がよかった？」="...... Would you prefer a different story?
+「……わたしの声が、小さかったのかな」="...... I'm not sure I'm speaking loud enough.

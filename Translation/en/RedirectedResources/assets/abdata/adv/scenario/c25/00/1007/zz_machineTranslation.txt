@@ -1,0 +1,16 @@
+「お～、魚～……」="Oh, fish. ......"
+「そりゃ魚だよ」="It's a fish.
+「ほほう、ほ～……おお？　魚があっちにも」="Whoa, whoa, whoa. ...... Oh?　There's a fish over there.
+「そりゃ、水族館なんだから、至るところに魚はいるよ」="Well, it's an aquarium. There are fish all over the place.
+「そっか～……」="I see. ......
+「なんの納得？　[H名]はこういうとこ好きそうかなって思ったんだけど」="What do you mean?　I thought [H名] might like this kind of thing.
+「バタバタしてないのはいいね。割と好みだけど～……」="I like that it's not a flurry. I rather like it. ......"
+「魚って意外とキビキビ泳いでるんだね～。もっとこうのんびりしてるものかと思ってたっす」="Fish are surprisingly fast swimmers, aren't they? I thought they'd be more relaxed.
+「……そういう意味では、若干の裏切られた感がしたり？」="...... In that sense, you feel a little betrayed?
+「それは、勝手に魚達を仲間扱いしてた[H名]が悪いよ」="That's your fault for treating the fish like they're your friends.
+「私の心の理解者は誰もいないってこと？　……ショックだ～」=How can you not feel for me when you tried to protect my happiness?" "You mean there is no one who understands my heart?　...... I'm shocked.
+「お、俺はっ？」="Oh, what about me?
+「……ふえっ？　[P名]は別格っていうか。それくらい私にとっては近い存在で～……」="...... Huh?　It's not like [P name] is special. That's how close he is to me. ......
+「ごほんっ」="Oh, boy.
+「さて、せっかくだからもうちょっと見てこ～？　あんこうとかもっともっさりしたのいないかな～」="Well, since we're here, let's take a look around.　Let's see if we can find some more anchovies or something chunkier.
+（はぐらかした……）=(He's goofing off: ......)

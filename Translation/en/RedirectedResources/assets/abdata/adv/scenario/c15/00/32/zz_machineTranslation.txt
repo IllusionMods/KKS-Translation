@@ -1,0 +1,6 @@
+「このお店、色んなものが売ってるよね」="This store sells so many different things.
+「面白いモノが欲しいぞー。何かないかなー」="I want something interesting. I need something interesting.
+「面白いモノね……ここでしか買えない限定品みたいな？」="Interesting stuff, like ......, limited edition stuff you can only buy here?
+「そういうんじゃなくて、ザリガニとかカブトムシとか、そういうのがいいぞ」="Not that kind of souvenir. A crayfish or a beetle or something like that would be nice.
+「さすがに、売ってないと思うけど……」="As expected, I don't think they're selling ......
+「そうか……じゃあ、ヤドカリでもいいんだけどなー」="Oh, yeah? ...... Well, I could be a hermit crab.

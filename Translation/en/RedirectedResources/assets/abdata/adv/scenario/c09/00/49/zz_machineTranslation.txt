@@ -1,0 +1,6 @@
+「こっちのそばって、けっこう麺が太いわよね」="The noodles here are really thick.
+「そもそも蕎麦粉を使ってないみたいだから、普通のそばの麺とはだいぶ違うらしいよ」="I heard they don't use buckwheat flour, so they are very different from normal soba noodles.
+「蕎麦粉ってなに？」="What's buckwheat flour?
+「えーと……めちゃくちゃ簡単に言うと、そばの元になる粉だよ」="Well, ...... to put it very simply, it's the powder from which soba is made.
+「どういうこと？　このそばは、蕎麦粉を使ってないんでしょ？　なのにどうしてそばなの？」="What do you mean?　This soba does not use buckwheat flour, right?　So why is it soba?
+「……あとで調べてあげるから、とりあえずご飯を食べようか」="...... I'll look it up for you later, but for now, let's get some food.

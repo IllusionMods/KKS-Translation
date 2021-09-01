@@ -1,0 +1,15 @@
+「綺麗な水槽……こんなにたくさんの魚がいるんですね。何種類くらいいるんでしょうか？」="A beautiful aquarium: ...... There are so many fish in this aquarium. How many kinds are there?
+「うーん、どのくらいだろう……？　この水族館でも特にメインの水槽だもんね。相当な数がいそう」="Hmm, I wonder how long ......?　This is the main tank in this aquarium, right? There must be a lot of them.
+「ですよね。実際の海の中もこんな風に多様な魚で溢れていると思うと……なんだかすごく神秘的です」="That's right. When I think that the actual sea is filled with such a variety of fish, ...... I feel very mysterious.
+「基本的に海は海面からしか見たことがないので……今度、海中の様子を撮影した映像なども見てみます」="Basically, I've only seen the ocean from the surface. ...... I'll have to look at some underwater footage next time.
+「あ、それいいかも。俺も一緒に見たいな」="Oh, that's good. I want to see it with you.
+「ええ、ぜひ。ふふっ、なるほど……こういうことなんですね」="Yes, by all means. Hmm, so that's what ...... is all about, huh?
+「……？　何が？」="......?　What?
+「いえ、恋人同士の会話というものが……いつも、どんな場所でも、次の約束に繋がっていくんだなぁって……」="No, it's just that the conversations between lovers ...... always lead to the next appointment, no matter where you are .......
+「貴方とそういう関係になれたこと……改めて幸せだなぁって思って……ふふっ、変なこと考えてごめんなさい」="I'm so happy to be in that kind of relationship with you. ...... I'm so happy again. ...... Hmm, I'm sorry for my strange thoughts.
+「ううん、全然変じゃないよ。俺も[H名]と色々な約束ができるの嬉しい。映像だけじゃなくて、いつか実際にダイビングもしよう」="No, it's not weird at all. No, it's not weird at all. I'm glad that I can make some promises to [H名]. I'm happy to make promises to [H名].
+「いいですね。国内のスポットもそうですけど、海外なんかも行ってみたいです」="That's good. I'd like to visit domestic spots, but I'd also like to go abroad.
+「魚を見るだけじゃなくて、海底の遺跡を見たり……ふふっ、貴方と話しているとどんどん夢が膨らんでいきます」="I ordered a platter of fish and squid tempura. ...... Not only do I want to see the fish, I want to see the ruins at the bottom of the ocean. ...... Hmmm, talking to you makes my dreams come true.
+「俺もだよ。いつかこの水槽の中みたいに綺麗な場所を[H名]と泳ぎたいな」="Me too. Someday I want to swim with you in a place as beautiful as this tank.
+「ええ、約束です。早速、色々な場所を調べてみますね。善は急げ、ですから」="Yes, I promise. I'm going to check out a lot of places as soon as I can. I'll check out some places as soon as I can, because better late than never.
+（[H名]、すごく嬉しそうな顔してる。きっと俺も同じような表情してるんだろうな）=([H名], you look so happy. I'm sure I have the same expression on my face.

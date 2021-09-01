@@ -1,0 +1,36 @@
+「アナタは<color=yellow>Ｔｒｅｅｉｎｇ</color>知ってマス？」="Have you heard of <color=yellow>Treeing</color>?
+「Ｙｅｓ！　高いところ登る、気持ちいデス！」="Yes! Climbing high feels good!
+「<color=yellow>バナナボート</color>ｔｅｃｈｎｉｃ、アナタワカル？」="Do you know <color=yellow>banana boat</color> technique?
+「流石デース、今度見せてほしいデス！」="<Yes!
+「<color=yellow>ｋａｙａｋ</color>＆ｃａｎｏｅ，違いワカル？」="<color=yellow>kayak and canoe, what's the difference?
+「ハイ、似てるけどｒｏｏｔｓ、まったく違うデス」="Yes, they are similar, but the roots are completely different.
+「ムム、詳しく教えてくだサイ」="Mmm. Tell me more.
+「ワタシ、その情報知りまセンデシタ」="I don't know that information.
+「フフッ、お役立てマシタ？」="I don't have that information. - Oh, well, it's useful, isn't it?
+「覚えタ？　これでアナタも一人前デース！」="You remember?　You're on your own now!
+「<color=yellow>ｐｏｗｅｒ　ｓｐｏｔ</color>，アナタは感じル？」="Can you feel the <color=yellow>power spot</color>?
+「ハイ、とてもｓｐｉｒｉｔｕａｌデース」="Yes, it's very spiritual.
+「<color=yellow>ガジュマル</color>、種類ワカル？」="<color=yellow>Banyan, do you know what kind it is?
+「ハイ、イチ……ジク？　同じ種類みたいデス」="Yes, it's the same kind.　It's the same kind.
+「Ｏｈ，ワタシ、知識増えマシタ！」="Oh, I'm getting more knowledgeable!
+「ナルホド、ワタシ、覚えマシタ！」="Oh, I've learned something!
+「どうデスカ？　勉強なりまシタ？」="How's it going?　Did you learn anything?
+「今度詳しく教えてあげマース！」="I'll tell you more next time!
+「<color=yellow>チンアナゴ</color>、アナタどう思ウ？」="What do you think of the <color=yellow>chinago</color>?
+「Ｙｅｓ！　アナタもｃｕｔｅ思いますカ♡」="Do you think it's cute too?
+「<color=yellow>シオマネキ</color>なｃｒａｂ、どのくらい知ってマス？」="How much do you know about the <color=yellow>Shiomaneki</color> crab?
+「あのｃｌａｗ，大きくてかっこいいデスネ！」="That claw is so big and cool!
+「Ｏｈ，ワタシ、それ知らなカッタヨー」="Oh, I don't know anything about that.
+「それ、もっと詳しく教えてくだサイ」="Can you tell me more about that?
+「フフッ、もっと知りたいデスカ？」="Huh, you want to know more?
+「どんどん覚えていってくだサーイ！」="Keep learning!
+「<color=yellow>お土産</color>、何あるカ見ましたカ？」="Have you seen the <color=yellow>souvenirs</color>?
+「ソレデス！　ワタシも欲しい思ってマシタ！」="That's it!　I've been wanting one too!
+「<color=yellow>シークヮーサーｊｕｉｃｅ</color>，アナタ詳しいデスカ？」="Are you familiar with <color=yellow>Shikwasa juice</color>?
+「Ｏｈ，そんなｅｆｆｅｃｔあったデスカ！」="Oh, I didn't know there was such an effect!
+「ｃｕｔｅな<color=yellow>ぬいぐるみ</color>ありマシタ。知ってマス？」="There's a cute <color=yellow>plushie</color>. Do you know it?
+「アレは買うデス。絶対買うデスヨ！」="I'll buy that one. I'll definitely buy it!
+「Ｏｈ，ソレ、今度見つけてみマス」="Oh, I'll try to find it next time.
+「ナルホド、ワタシ、興味出てきマシタ！」="I'm getting interested.
+「アナタも、ワタシと同じになれると嬉しいデス！」="I hope you can be like me!"
+「ハイ、ワタシオススメデース！」="Hi, I recommend it.

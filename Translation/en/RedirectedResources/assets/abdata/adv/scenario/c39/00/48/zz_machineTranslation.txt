@@ -1,0 +1,5 @@
+「[H名]にとって、おふくろの味って何？　ゴーヤチャンプルーとか？」="What does mother's food taste like to [H名]?　Like bitter melon stir-fry?
+「わ、なんでわかったのー？　えへへ、大当たりだよー」="Wow, how did you know that?　How'd you know? - Oh, you hit the jackpot.
+「はは、なんとなくそうなんじゃないかなって。丁度メニューにあるし、俺も食べてみようかな」="I think you're right. It's on the menu. I'm going to try it.
+「苦みが嫌って人もいるけど、料理の仕方で気にならなくなったりするからー。きっとここのも美味しいよー」="Some people don't like the bitterness, but the way it's cooked can make it disappear. I'm sure it's delicious here.
+「ちなみに、チャンプルーは『ごちゃまぜ』って意味よー。ゴーヤー以外にも色んなチャンプルーって名前の料理があるさー」="By the way, Chanpuru means 'mixed up'. Besides bitter melon, there are many other dishes with the name Chanpuru.

@@ -1,0 +1,36 @@
+「貴方、この島で<color=yellow>釣り</color>はやってみた？」="Have you tried <color=yellow>fishing</color> on this island?
+「私は初めて挑戦してみたわ。意外と楽しいものね」="I've never tried it before. It's surprisingly fun.
+「貴方って、<color=yellow>バナナボート</color>に乗ったら絶対落ちてしまうでしょう？」="I bet you'd fall off a banana boat, wouldn't you?
+「フフッ、図星みたいね。分かりやすいわ」="Well, I guess you're right. That's easy to understand.
+「<color=yellow>カヤック</color>は疲れるという点に目を瞑れば、楽しいレジャーね」="<I>Kayaking</I> is a fun leisure activity, if you don't mind being tired.
+「その欠点は、私の代わりに誰かが漕いでくれたら解消するのだけれど？」="Wouldn't that drawback be eliminated if someone else paddled for me?
+「ふぅん。そんなレジャーもあるのね」="Hmmm. I didn't know there was such a thing.
+「……それも、中々面白そうね」="...... That sounds like a lot of fun.
+「まさか、やったことがないの？　何しにこの島へ来たのよ」="You've never done it before?　What brings you to this island?
+「これを機にやってみなさい。まぁ、貴方には難しいかもしれないけれどね」="You should try it. Well, it may be difficult for you.
+「<color=yellow>マングローブ</color>は根っこが丈夫らしいわ」="They say <color=yellow>mangroves</color> have strong roots.
+「貴方も、ちょっとやそっとじゃ倒れない様な根を張ってみせなさい。そうなれる様に私が鍛えてあげるわ」="Let's see you grow roots that won't fall over. I'll train you to do it.
+「この島では、色んな花が咲いているけれど代表的なのは<color=yellow>ハイビスカス</color>かしら」="There are many flowers blooming on this island, but the most common is the <color=yellow>hibiscus</color>.
+「あの鮮やかな赤色には惹かれるものがあるわね。南国を象徴する綺麗な花だと思うわ」="I'm attracted to the bright red color. I think it's a beautiful flower that symbolizes the tropics.
+「へぇ……貴方、意外とこの島のことを知っているのね」="Wow, ......, you really know a lot about this island, don't you?
+「知識をひけらかしているの？　それぐらい私も知っているわ」="Are you showing off your knowledge?　I know a lot about it.
+「無知にも限度があるわ。しっかり勉強しなさい」="There's a limit to your ignorance. Study hard.
+「何のための旅行なんだか……学習しておくことね」="You need to learn what this trip is all about. ......
+「<color=yellow>サンゴ</color>は海を綺麗にする役割があるそうよ」="<color=yellow>They say coral helps keep the ocean clean.
+「貴方もサンゴと一緒に暮らしていれば、少しは浄化されるんじゃないかしら」="Maybe if you lived with coral, it would help cleanse the ocean.
+「この間、貴方そっくりな<color=yellow>シオマネキ</color>がいたわよ」="The other day I saw a <color=yellow>silver crab</color> that looked just like you.
+「他のカニはあっという間に逃げて行ったのに、一匹だけノロノロと歩いていて……なんとも間抜けだったわ」="All the other crabs ran away so fast, but this one was walking so slowly, it was ...... so stupid.
+「そう……貴方の好みは知らないけど、興味が出たから調べてみるわ」="So ...... I don't know what you like, but I'm curious, I'll check it out.
+「……まあ、機会があったら水族館に行ってみるわ」="...... Well, I'll go to the aquarium when I get a chance.
+「貴方にこの話題を振った私が馬鹿だったみたいね」="I feel like an idiot for bringing this up with you.
+「もっと物事に興味を持って生きなさい。知識は人生を豊かにするのよ？」="You should be more interested in life. Knowledge enriches your life, you know?
+「貴方はどんな<color=yellow>お土産</color>を買ったの？　教えなさい」="What <color=yellow> souvenirs</color> did you buy?　Tell me."
+「……ふぅん、ありきたりね。でもまあ、奇抜なものを選んで引かれるよりはいいんじゃないかしら」="Tell me. ...... Hmm, that's a cliché. Hmmm... I guess it's better than being drawn away by something outlandish.
+「<color=yellow>シークヮーサージュース</color>はもう飲んでみたかしら？」="Have you tried the <color=yellow>Shikwasa Juice</color> yet?
+「今度、私の目の前で飲んでちょうだい。酸っぱがってる間抜けな顔を撮ってあげるわ」="Next time, drink it in front of me. Next time, drink it in front of me and I'll take a picture of your sour, dumb face.
+「<color=yellow>三線</color>の音色はなんだか落ち着くわね。貴方も練習して、弾ける様になってみたらどう？」="The sound of the <color=yellow>sanshin</color> is soothing. Why don't you practice and learn how to play it?
+「貴方には何の特技もないんだから、必死こいて身につけてみなさい」="You don't have any skills, so you should try hard to learn.
+「ふぅん。貴方のオススメはそれなのね。別に参考にしたりしないけど、覚えてはおくわ」="Hmm. So that's your recommendation. I won't use it as a reference, but I'll keep it in mind.
+「……気が向いたら、詳しく調べてみるわ」="...... I'll look into it more when I feel like it.
+「……貴方、何も知らないのね」="...... You don't know anything, do you?
+「はぁ……私の話についてこれるように、しっかり調べておきなさい」="Huh. ...... You'd better do your research so you can keep up with me.

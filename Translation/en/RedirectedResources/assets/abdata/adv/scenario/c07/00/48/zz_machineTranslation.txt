@@ -1,0 +1,6 @@
+「さてと、何を頼むか悩みどころだな～。今の気分は肉と魚どっちだと思う？」="Well, I'm not sure what to order. Do you think I'm in the mood for meat or fish?
+「俺に聞かれても分からないよ。単品で両方注文したら？」="I don't know if you're asking me. Why don't you order them both separately?
+「おお、ナイスアイデア！　肉はラフテーでいいとして、魚はどうしようかな～」="Oh, good idea!　I'll just rough-tail the meat, but what about the fish?
+「俺は……ソーキそばを頼もうかな」="I think I'll order the ...... soki soba.
+「そば美味しいよなぁ！　よし、私もそばにしよう」="Soba is delicious!　Okay, I'll have soba too.
+「じゃあ、そばの気分じゃん……」="I've been thinking about you too.

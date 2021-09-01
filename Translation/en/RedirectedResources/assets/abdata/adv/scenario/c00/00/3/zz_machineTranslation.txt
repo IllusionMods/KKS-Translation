@@ -1,0 +1,5 @@
+「ありがとう……！　すごく、すごく嬉しいよ」="Thank you. ......!　I'm so, so happy.
+「それじゃあ、私と……」="Okay, me and .......
+「うん、俺でよければ、[H名]の彼氏にしてください」="Yeah, I'd like to be [H名]'s boyfriend, if that's okay with you.
+「嬉しい……何だか夢をみてるみたい」="I'm so happy. ...... It's like I'm dreaming.
+「でも夢じゃないのよね……ふふっ、勇気を出してよかったわ」="But it's not a dream. ...... I'm glad I had the courage.

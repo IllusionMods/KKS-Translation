@@ -1,0 +1,5 @@
+「あなたは何か欲しいものはありますか？」="Is there anything you want?
+「んーそうだなぁ……あ、これなんかいいかもな」="Hmmm... ...... Oh, I think I like this one.
+「では、私もそれを買おうと思います」="Well, I'm going to buy it."
+「俺と同じものを共有したい……そんな感じ？」="Do you want to share the same ...... thing with me, like that?
+「はい、旅の思い出として、あなたとの思い出として共有していきたいのです」="Yes, I want to share my journey with you as a memory.
