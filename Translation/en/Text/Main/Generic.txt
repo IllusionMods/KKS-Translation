@@ -102,3 +102,9 @@
 寝間着=Pajamas
 風呂場=Bathing
 
+//---------------------------------------------------------
+// H-Scene: Change Location
+//---------------------------------------------------------
+//Dialog Box
+ポイント移動確認=Confirm new location
+選択した場所に移動しますか？=Move to the selected place?

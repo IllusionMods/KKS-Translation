@@ -1,0 +1,113 @@
+//*******************************************************************
+//*******************************************************************
+// Note: This file contains only UI elements, NOT items such as
+//       H-positions.
+//       Items must go to RedirectedResources folder.
+//*******************************************************************
+//*******************************************************************
+
+//Scope of the file: Only applies to the H-Scenes for Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level 8,9
+
+//-------------------------------------------------------------------
+// Clothing Menu
+//-------------------------------------------------------------------
+//Clothes
+女=Woman
+男=Man
+1人目=1st Girl
+2人目=2nd Girl
+
+服=Clothes
+アクセサリー=Accessories
+服装切り替え=Clothing Set
+衣装切り替え=Clothing Set
+コーディネート=Clothing Type
+
+風呂=Bathing
+お泊り=Pajamas
+
+//Clothes -> Clothes
+トップス=Top
+ボトムス=Bottom
+ブラ=Bra
+ショーツ=Underwear
+パンスト=Pantyhose
+靴下=Socks
+靴=Shoes
+
+全着=Wear All
+半脱=Half All
+全脱=Remove All
+
+// Accessories
+全て付ける=Show All
+全てはずす=Remove All
+メインを付ける=Show Main
+メインをはずす=Remove Main
+サブを付ける=Show Sub
+サブをはずす=Remove Sub
+
+//Clothing Set
+服の読み込み=Load Clothes
+読込み=Load
+
+//-------------------------------------------------------------------
+// Location Menu
+//-------------------------------------------------------------------
+表示選択=Choose Location
+
+椅子=Chair
+長椅子=Bench
+背もたれ無し長椅子=Backless Bench
+背もたれ無し椅子=Backless Chair
+机=Desk
+壁=Wall
+プール内立ち=Inside Pool
+プール=Pool
+バナナボート=Banana Boat
+寝=Floor
+3P座り=3P Sitting
+3P床=3P Floor
+テニスネット=Tennis Net
+フェンス=Fence
+卓球台=Ping-Pong Table
+
+//-------------------------------------------------------------------
+// Move Menu
+//-------------------------------------------------------------------
+軸の表示=Display Axis
+移動軸のリセット=Reset Axis
+回転軸のリセット=Reset Rotation
+軸の選択\n=Axis Type\n
+軸の速さ=Axis Speed
+軸の大きさ=Axis Size
+
+//-------------------------------------------------------------------
+// Lighting Menu
+//-------------------------------------------------------------------
+縦=Vert.
+横=Horiz.
+
+//Using Power because Strenght doesn't fit:
+強さ=Power
+
+//-------------------------------------------------------------------
+// H Menu
+//-------------------------------------------------------------------
+入れるよ=I'm putting it in
+アナル入れるよ=I'm putting it in your ass
+イレル=Penetrate
+アナルイレル=Penetrate (anal)
+入れて欲しい=Put it in
+ヌク=Pull Out
+ヌイテ=Pull Out
+中に出すよ=I'm cumming inside
+外に出すよ=I'm cumming outside
+またお願い=Do it again
+ユックリ=Slower
+ハヤク=Faster
+飲んでね=Swallow it
+吐いてね=Spit it
+イキそう=I'm about to cum

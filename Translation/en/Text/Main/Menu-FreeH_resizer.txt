@@ -62,4 +62,8 @@ FreeHCharaSelect(Clone)/previewcharacanvas/charaFileControl/charaFileWindow/WinR
 //Load Character -> Cards
 FreeHCharaSelect(Clone)/previewcharacanvas/charaFileControl/charaFileWindow/WinRect/ListArea=AutoResize(true)
 
-
+//---------------------------------------------------------
+// Select Map
+//---------------------------------------------------------
+//Map Names
+MapSelectMenu(Clone)/Canvas/Panel/BG/Image/ScrollView=ChangeFontSizeByPercentage(0.8)
