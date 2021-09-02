@@ -9,8 +9,6 @@
 休息する=Have a Rest
 ショップ=Shop
 賽銭箱=Offering Box
-//Commenting エステ=Salon because is conflicting with エステ=Esthetics in Config Menu.
-//Remember to check in the main game if scope level is needed or if its in RedirectedResources
-//エステ=Esthetics
+エステ=Salon
 水をやる=Play in the Water
 様子を見る=Watch the Situation
