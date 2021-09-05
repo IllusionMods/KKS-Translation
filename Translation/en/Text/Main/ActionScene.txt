@@ -17,7 +17,7 @@
 滞在目的=Purpose of Stay
 部屋に帰る=Return to Room
 マップワープ=Map Warp
-レア=Rare
+レア=Rarity
 スマホ=Smart Phone
 名簿=List of Names
 奉仕=Service
@@ -25,7 +25,7 @@
 ヘルプ=Help
 ロード=Load
 セーブ=Save
-滞在先=Bookings
+滞在先=Booking
 話題交換=Topic Exchange
 タイトルに戻る=Return to Title
 一日の行動終了の確認=Confirm end of day
@@ -57,7 +57,7 @@
 // /ActionScene/UI/HeroineStatus/Canvas/BG/background/CharaView
 ステータス情報=Status Information
 向かう=Go to
-現在地=Place
+現在地=Area
 彼女を呼び出しますか？=Want to call her?
 
 アルバイト=Part-time Job
@@ -100,20 +100,21 @@ r:^※コイカツポイントを(\d+)pt消費します。$=※ Consumes $1 Koik
 ズーム=Zoom
 
 // /ActionScene/UI/PlayerStatus
+プレイヤーステータス=Player Status
 お泊り=Staying
 お祈り=Prayer
-所持数=Num Items
-//滞在先=Bookings
-//現在地=Place
+所持数=Current
+//滞在先=Booking
+//現在地=Area
 恋人数=Lovers Count
 滞在目的=Purpose of Visit
 
 
 交換する話題=Topic Exchange
 思うに任す=Leave it to me
-祈り結果=Prayer Result
-個数=Num
-入手=Obtain
+祈り結果=Prayer
+個数=Count
+入手=Found
 入手話題=Obtained Topics
 
 
@@ -124,7 +125,7 @@ r:^※コイカツポイントを(\d+)pt消費します。$=※ Consumes $1 Koik
 // /ActionScene/UI/PrayMenuCanvas
 お賽銭を入れますか？=Give an offering?
 ショートカット一覧=Shortcuts
-コイカツポイント=Koikatsu points
+コイカツポイント=Koikatsu Points
 
 // /ActionScene/UI/ShopMenuCanvas
 所有コイカツポイント=Current Koikatsu Points

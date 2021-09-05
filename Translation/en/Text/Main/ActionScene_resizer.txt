@@ -17,3 +17,11 @@ ActionScene/UI/HeroineStatus/Canvas/BG/background/SortButtons=ChangeFontSizeByPe
 
 //Switch info button
 ActionScene/UI/HeroineStatus/Canvas/BG/background/btnChangeInfo=ChangeFontSizeByPercentage(0.95)
+
+//---------------------------------------------------------
+// Player Status
+//---------------------------------------------------------
+//Sort
+ActionScene/UI/PlayerStatus/Canvas/BackImage/BG/Right/Stock/imgBack=ChangeFontSizeByPercentage(0.8)
+//Blanking 人=Person
+ActionScene/UI/PlayerStatus/Canvas/BackImage/BG/Left/Lovers/Count/Unit=ChangeFontSizeByPercentage(0.0)
