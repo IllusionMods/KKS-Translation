@@ -1,0 +1,40 @@
+//*******************************************************************//
+//*******************************************************************
+// Girls Room Menu Resizers
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Applies to all scenes with the generic 
+// "-1" Global level on Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level -1
+
+//---------------------------------------------------------
+// Top Menu
+//---------------------------------------------------------
+EntryLive(Clone)/ClassroomCanvas/TabRoot=ChangeFontSizeByPercentage(0.8)
+
+// Top Menu -> This Location
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/RegisterBG/BG/Title=ChangeFontSizeByPercentage(0.9)
+
+// Top Menu -> This Location description
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/Explan=ChangeFontSizeByPercentage(0.9)
+
+//---------------------------------------------------------
+// Decide Buttom
+//---------------------------------------------------------
+EntryLive(Clone)/ClassroomCanvas/ReturnButton=ChangeFontSizeByPercentage(0.9)
+
+//---------------------------------------------------------
+// Right Menu
+//---------------------------------------------------------
+//Creata New
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewData/CharaCreate=ChangeFontSizeByPercentage(0.9)
+
+//Change Nickname
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewData/NickNameSetting/NickNameChange=ChangeFontSizeByPercentage(0.9)
+
+//Traits -> Title
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewData/AttributeTop/Root/AttributeTitle=ChangeFontSizeByPercentage(0.85)
+//Traits
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewData/AttributeTop/Root/Background=ChangeFontSizeByPercentage(0.8)

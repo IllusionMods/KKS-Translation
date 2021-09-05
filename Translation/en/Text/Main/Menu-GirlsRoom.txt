@@ -1,0 +1,118 @@
+//*******************************************************************
+//*******************************************************************
+// Girls Room Menu
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Applies to all scenes with the generic 
+// "-1" Global level on Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level -1
+
+//---------------------------------------------------------
+// Top Menu
+//---------------------------------------------------------
+滞在状況=Guest Status
+プレイヤー=Player
+※「 空室」にカーソルを合わせ、女の子を滞在させよう。=※ Hover your cursor over an empty room to choose where\nthe girl will stay. Double click to remove her.
+情報表示=Show Info
+
+//---------------------------------------------------------
+// Left Menu
+//---------------------------------------------------------
+この施設=This Location
+ランダムに滞在=Random Guests
+滞在を全解除=Clear All
+
+全施設=All Locations
+登録可能人数を最大にする=Increase the number of rooms
+滞在者の表示人数=Number of people to be shown
+
+決定=Decide
+
+//---------------------------------------------------------
+// Girl Select Menu
+//---------------------------------------------------------
+選択中=Select
+誕生日/=Birthday
+月= M
+日= D
+血液型/=Blood Type
+//Blanking the "Type" word after the "Blood type", because it don't make sense on english:
+型= 
+滞在目的=Purpuse for Stay
+性格:=Pers:
+愛称:=Nick:
+
+
+滞在者登録=Register Guest
+ランダムに登録=Random Registration
+<color%3Dorange>『選択した空席』</color>に\n以下からランダムで\nキャラを滞在させます。=<color%3Dorange>Selected Room</color> will be occupied by a random character.
+サンプルキャラ=Stock character
+キャラフォルダ=Character Folder
+ネットワーク=Network
+
+//---------------------------------------------------------
+// Right Menu
+//---------------------------------------------------------
+新規作成=Create New
+容姿変更=Appearance
+滞在先の変更=Change Location
+滞在を解除=Check-out
+
+プレイヤーの愛称=Player's Nickname
+変更=Change
+
+//Traits
+個性=Traits
+はらぺこ=Hungry
+チョロイ=Simple
+読書好き=Likes Reading
+音楽好き=Likes Music
+奥手=Immature
+フレンドリー=Friendly
+綺麗好き=Likes Cleanliness
+神出鬼没=Suddenly Appears
+一人好き=Likes Being Alone
+アクティブ=Active
+真面目=Diligent
+情報通=Well-Informed
+恋愛好き=Romantic
+おしゃべり=Chatty
+仲間意識=Fellowship
+のんびり=Relaxed
+頻尿=Pees Often
+女の子好き=Likes Girls
+ビッチ=Slutty
+むっつり=Gloomy
+寂しがり屋=Lonely
+
+//---------------------------------------------------------
+// Nickname Menu
+//---------------------------------------------------------
+個別に呼ばれる愛称を選択できます▼=You can choose a nickname to be called personally ▼
+呼ばれる愛称を選択してください▼=Choose a nickname to be called ▼
+この女の子に呼ばれる愛称を設定▼=Set a nickname to be called by this girl ▼
+プレイヤーの名前▼=Player name ▼
+共通で呼ばれる愛称=Default Nickname
+個別で呼ばれる愛称=Personal Nickname
+共通の愛称に戻す=Default Nickname
+
+//---------------------------------------------------------
+// Player Menu
+//---------------------------------------------------------
+プレイヤー情報=Player Info
+
+//---------------------------------------------------------
+// Dialog Boxes
+//---------------------------------------------------------
+//Release Room
+登録キャラの解除確認=Confirm the character removal
+解除しますか？=Do you want to remove this girl?
+
+//Release this room
+登録キャラの一括解除確認=Confirm bulk character removal
+施設内のキャラを解除しますか？=Do you want to remove all characters from this location?
+
+//Release all rooms
+全キャラを解除しますか？=Do you want to remove all characters?
