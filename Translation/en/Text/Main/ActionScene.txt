@@ -105,7 +105,7 @@ r:^※コイカツポイントを(\d+)pt消費します。$=※ Consumes $1 Koik
 所持数=Num Items
 //滞在先=Bookings
 //現在地=Place
-恋人数=Num Lovers
+恋人数=Lovers Count
 滞在目的=Purpose of Visit
 
 
