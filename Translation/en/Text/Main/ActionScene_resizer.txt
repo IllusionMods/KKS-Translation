@@ -1,0 +1,19 @@
+//*******************************************************************
+//*******************************************************************
+// Main Game Action Scene
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Only applies to main game interactions in
+// Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level 6
+
+//---------------------------------------------------------
+// Heroines List
+//---------------------------------------------------------
+//Sorting
+ActionScene/UI/HeroineStatus/Canvas/BG/background/SortButtons=ChangeFontSizeByPercentage(0.8)
+
+//Switch info button
+ActionScene/UI/HeroineStatus/Canvas/BG/background/btnChangeInfo=ChangeFontSizeByPercentage(0.95)

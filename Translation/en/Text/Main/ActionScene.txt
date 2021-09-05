@@ -25,7 +25,7 @@
 ヘルプ=Help
 ロード=Load
 セーブ=Save
-滞在先=Accommodations
+滞在先=Bookings
 話題交換=Topic Exchange
 タイトルに戻る=Return to Title
 一日の行動終了の確認=Confirm end of day
@@ -55,8 +55,9 @@
 // 人=
 
 // /ActionScene/UI/HeroineStatus/Canvas/BG/background/CharaView
+ステータス情報=Status Information
 向かう=Go to
-現在地=Location
+現在地=Place
 彼女を呼び出しますか？=Want to call her?
 
 アルバイト=Part-time Job
@@ -64,22 +65,34 @@
 sr:^(.{3,5})/$=$1:
 誕生日=Birthday
 血液型=Blood Type
-月=Month
-日=Day
-型=Type
+月= M
+日= D
+//Blanking the "Type" word after the "Blood type", because it doesn't make sense in English:
+型= 
 アクティブ=Activity
 メニュー表示・非表示=Show/Hide Menu
 累計=Total
+観光案内人=Tourist Guide
+
+//Switch Info
+Hした回数=H Count
+Hの経験=H Experience
+初めて=First Time
+不慣れ=Inexperienced
+慣れ=Experienced
+経験値=Status
+H度=H Level
+
 
 
 // Sorting
-好意順=By Affection
-名前順=By Name
+好意順=Affection
+名前順=Name
 //取り込み中のようだ=
 
 
 // /ActionScene/UI/HStatus
-性癖慣れ=Sexual Experience
+性癖慣れ=Experience
 r:^※コイカツポイントを(\d+)pt消費します。$=※ Consumes $1 Koikatsu point(s).
 
 // /ActionScene/UI/PhotoUI
@@ -90,8 +103,8 @@ r:^※コイカツポイントを(\d+)pt消費します。$=※ Consumes $1 Koik
 お泊り=Staying
 お祈り=Prayer
 所持数=Num Items
-滞在先=Accommodations
-現在地=Location
+//滞在先=Bookings
+//現在地=Place
 恋人数=Num Lovers
 滞在目的=Purpose of Visit
 
