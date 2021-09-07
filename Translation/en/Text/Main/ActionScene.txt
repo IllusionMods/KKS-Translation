@@ -134,3 +134,5 @@ r:^※コイカツポイントを(\d+)pt消費します。$=※ Consumes $1 Koik
 去る=Leave
 滞在先\n変更=Change\nStay
 
+//Unsorted
+オートセーブしました=Autosaved
