@@ -83,9 +83,9 @@ H段階=H-Level
 
 //Time of Day
 時間帯=Time Of Day
-朝=Morning
+朝=AM
 昼=Noon
-夕方=Evening
+夕方=PM
 夜=Night
 
 //---------------------------------------------------------

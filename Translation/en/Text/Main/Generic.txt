@@ -108,6 +108,7 @@
 水着=Swimsuit
 寝間着=Pajamas
 風呂場=Bathing
+お風呂=Bathing
 
 //---------------------------------------------------------
 // H-Scene: Change Location
