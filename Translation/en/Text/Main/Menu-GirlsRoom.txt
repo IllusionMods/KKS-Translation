@@ -68,7 +68,7 @@
 プレイヤーの愛称=Player's Nickname
 変更=Change
 
-全解除=All
+全解除=Clear All
 全選択=Select All
 
 //Traits
@@ -110,7 +110,7 @@
 // Player Menu
 //---------------------------------------------------------
 プレイヤー情報=Player Info
-呼ばれる愛称=Nickname Called
+呼ばれる愛称=Called by the Nickname
 
 //---------------------------------------------------------
 // Cute Guide Menu
