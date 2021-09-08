@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//オープニングを見ますか？=
-//「来ちゃったよ、南の島に……」=
-//あのふざけた話を叔母さんから聞かされた時、俺は戯言であって欲しいと切実に願っていた。=
-//しかし、ここまでたどり着いたことで、嘘でも冗談でもなかったことを思い知らされてしまう。=
-//「……俺は、本当にここでコイカツをしなきゃいけないんだな」=
-//心の中で盛大なため息を吐きながら、この島へ来ることになった切っ掛けを思い返していく――=
+//オープニングを見ますか？= Do you want to see the opening?
+//「来ちゃったよ、南の島に……」= Alright, here I am, on a remote tropical island...
+//あのふざけた話を叔母さんから聞かされた時、俺は戯言であって欲しいと切実に願っていた。= I really wished my aunt was joking when she told me about this.
+//しかし、ここまでたどり着いたことで、嘘でも冗談でもなかったことを思い知らされてしまう。= But now that we've come this far, I've no choice but to accept that this is, in fact, real.
+//「……俺は、本当にここでコイカツをしなきゃいけないんだな」= ...Well, guess I really am going to practice Koikatsu here for the time being.
+//心の中で盛大なため息を吐きながら、この島へ来ることになった切っ掛けを思い返していく――= Letting out a long sigh, I reflected back on why I came here in the first place
 叔母=Aunt
-//『こほん……あなたには研修旅行先の南の島で恋の活動、略してコイカツをしてもらうわ！』=
-//『あ、これは叔母ではなく学園長としての命令だから、あしからず』=
-//「……は？」=
+//『こほん……あなたには研修旅行先の南の島で恋の活動、略してコイカツをしてもらうわ！』= Ahem...
+//『あ、これは叔母ではなく学園長としての命令だから、あしからず』= Oh, and this is a direct order as school principal
+//「……は？」= ...Huh?
 //電話に出るなり、俺の叔母さんは全くもって意味不明なことを言い出した。=
 //『今、あなたには学園でただ一人の男子生徒として、男性に慣れていない女の子たちと接してもらっているわね』=
 //呆気にとられている内に説明（？）が始まってしまい、口を挟むタイミングを逃してしまう。=
