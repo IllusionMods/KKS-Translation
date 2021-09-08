@@ -1,0 +1,31 @@
+//*******************************************************************
+//*******************************************************************
+// Talk to the girl Menu
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Only applies to main game interactions in
+// Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level 6
+
+//---------------------------------------------------------
+//Right Menu
+//---------------------------------------------------------
+//Talk Menu
+話を振る=Subject
+世間話=Small Talk
+コイバナ=Love Talk
+エッチ=H Talk
+
+//Topic Menu
+話題を振る=Topics
+
+//Date Menu
+コイカツ=Dating
+一緒に観光=Tourism Together
+一緒に遊ぼう=Play Together
+一緒に体験しよう=Experience Together
+一緒に食事しよう=Eat Together
+ついてきて=Follow me
+告白する=Confess

@@ -1,0 +1,34 @@
+//*******************************************************************
+//*******************************************************************
+// Main Game Shop Menu
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Only applies to main game interactions in
+// Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level 6
+
+//---------------------------------------------------------
+//Main Shop Menu
+//---------------------------------------------------------
+ActionScene/UI/ShopMenuCanvas/Canvas/BackImage/KoikatsuPoint/Title=ChangeFontSizeByPercentage(0.9)
+
+//---------------------------------------------------------
+//Points Store
+//---------------------------------------------------------
+//Items
+ActionScene/UI/ShopMenuCanvas/Canvas/BackImage/ShopView/Panel/View/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.9)
+
+//Night Only Shop Disabled Label (Preparing)
+ActionScene/UI/ShopMenuCanvas/Canvas/BackImage/ShopView/Panel/Tag/Type2/Disabled/Standby/Text (TMP)=ChangeFontSizeByPercentage(0.75)
+
+//---------------------------------------------------------
+//Topics Exchange
+//---------------------------------------------------------
+//Inventory title
+ActionScene/UI/ShopMenuCanvas/Canvas/BackImage/ShopTradeView/Panel/BG/View/Stock/TitleBG/Title=ChangeFontSizeByPercentage(0.95)
+ActionScene/UI/ShopMenuCanvas/Canvas/BackImage/ShopTradeView/Panel/BG/View/Stock/TitleBG/Title=TMP_Alignment(Left)
+
+//Topics exchange title
+ActionScene/UI/ShopMenuCanvas/Canvas/BackImage/ShopTradeView/Panel/BG/View/Selection/TitleBG/Title=ChangeFontSizeByPercentage(0.88)
