@@ -1,26 +1,26 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//オープニングを見ますか？= Do you want to see the opening?
-//「来ちゃったよ、南の島に……」= Alright, here I am, on a remote tropical island...
-//あのふざけた話を叔母さんから聞かされた時、俺は戯言であって欲しいと切実に願っていた。= I really wished my aunt was joking when she told me about this.
-//しかし、ここまでたどり着いたことで、嘘でも冗談でもなかったことを思い知らされてしまう。= But now that we've come this far, I've no choice but to accept that this is, in fact, real.
-//「……俺は、本当にここでコイカツをしなきゃいけないんだな」= ...Well, guess I really am going to practice Koikatsu here for the time being.
-//心の中で盛大なため息を吐きながら、この島へ来ることになった切っ掛けを思い返していく――= Letting out a long sigh, I reflected back on why I came here in the first place
+//オープニングを見ますか？=Do you want to see the opening?
+//「来ちゃったよ、南の島に……」=Damn, guess I really did come to a remote tropical island...
+//あのふざけた話を叔母さんから聞かされた時、俺は戯言であって欲しいと切実に願っていた。=I really wished my aunt was joking when she told me about this.
+//しかし、ここまでたどり着いたことで、嘘でも冗談でもなかったことを思い知らされてしまう。=But now that I've set foot on here, I've no choice but to accept that it was, in fact, not a joke at all.
+//「……俺は、本当にここでコイカツをしなきゃいけないんだな」=...Looks like I am going to have to do Koikatsu here for real.
+//心の中で盛大なため息を吐きながら、この島へ来ることになった切っ掛けを思い返していく――=Letting out a long sigh, I reflected back on why I came here in the first place...
 叔母=Aunt
-//『こほん……あなたには研修旅行先の南の島で恋の活動、略してコイカツをしてもらうわ！』= Ahem...
-//『あ、これは叔母ではなく学園長としての命令だから、あしからず』= Oh, and this is a direct order as school principal
-//「……は？」= ...Huh?
-//電話に出るなり、俺の叔母さんは全くもって意味不明なことを言い出した。=
-//『今、あなたには学園でただ一人の男子生徒として、男性に慣れていない女の子たちと接してもらっているわね』=
-//呆気にとられている内に説明（？）が始まってしまい、口を挟むタイミングを逃してしまう。=
-//『でも、上手くいってないようだから、研修旅行を利用してあなたたちの仲を深めることにしたの』=
+//『こほん……あなたには研修旅行先の南の島で恋の活動、略してコイカツをしてもらうわ！』=Ahem...
+//『あ、これは叔母ではなく学園長としての命令だから、あしからず』=Oh, and this is a direct order from me, not as your aunt, but as your school principal, so no hard feelings.
+//「……は？」=...Huh?
+//電話に出るなり、俺の叔母さんは全くもって意味不明なことを言い出した。=My aunt immediately spouted out some absolute nonsense as soon as I got on the phone. 
+//『今、あなたには学園でただ一人の男子生徒として、男性に慣れていない女の子たちと接してもらっているわね』=OK, so to recap, as the only male student in school, we both know that you're helping me get the all the girl students to be comfortable around men, correct?
+//呆気にとられている内に説明（？）が始まってしまい、口を挟むタイミングを逃してしまう。=She started explaining (?) things while I was still being taken aback, leading me to lose my chance to interrupt her.
+//『でも、上手くいってないようだから、研修旅行を利用してあなたたちの仲を深めることにしたの』=But, since it looks like things aren't going well,
 //『ほら、南の島だから皆バカンス気分で浮ついちゃうものでしょ？　そうすれば、普段より仲良くなれるって寸法よ』=
 //『男に慣れる為に一番早い方法は恋愛をすることだから、友達から～なんてまどろっこしいこと言ってないで、恋をしちゃいなさい！』=
 //『初対面じゃないんだし遠慮することはないわ。女の子たちにも、あなたともっと仲良くするように触れ込んでおくから安心して』=
-//『あ、そうそう。島の宿泊施設は全部貸切りに出来たから、好きなところを使っちゃって。それじゃ、後はよろしくね～』=
-//「は？　ちょっと待って！　俺まだ何も言ってな――って切れてるし！　くそっ、言いたい事だけ言って切りやがった！」=
-//すぐさまかけ直したものの、電話に出る気配は一切ない。=
+//『あ、そうそう。島の宿泊施設は全部貸切りに出来たから、好きなところを使っちゃって。それじゃ、後はよろしくね～』=Oh, I almost forgot. The entire island's been rented out, so feel free to use whatever, whenever you like. That it's for me, and I'll leave the rest to you~
+//「は？　ちょっと待って！　俺まだ何も言ってな――って切れてるし！　くそっ、言いたい事だけ言って切りやがった！」=Wait what?! I haven't said anything about - goddamn she hung up! Damn that woman, saying what
+//すぐさまかけ直したものの、電話に出る気配は一切ない。=I immediately tried to call her back, but to no avail.
 //「くっ、律儀に話を聞いてる場合じゃなかった……南の島で女の子たちと恋をしろって、本気で言ってるのか？」=
 //普通なら質の悪い冗談だと一蹴できるが、相手は破天荒な叔母さんだ。一言一句本気と言う可能性は十二分にあり得た。=
 //「俺、どうしたらいいんだ……？」=
@@ -49,7 +49,7 @@
 //「って、喜んでる場合じゃなかった……えっと、他に何か聞きたいことはないですか？」=
 //「あ、じゃあ宿泊場所を教えてもらえますか？　一応、全部の宿泊施設を貸切れたと聞いているんですが……」=
 //「全部っ！？　はぁ～、すごぉ……でーじお金持ちやっさ～」=
-//「あの……？」=
+//「あの……？」=Um...?
 //「はっ！　すみません、えっと宿泊施設となると……ホテル、民宿、合宿所の三か所ありますよ。どこへお泊りになりますか？」=
 //「ホテルですね。海のそばに建っているので、すぐ遊びに行くことができますよ」=
 //「民宿ですねっ。この島の風土を一番感じられるところなので、すっごくお勧めなんです！」=
@@ -70,8 +70,8 @@
 //「あぁ、お風呂に入ったのに身体が重い……」=
 //（電車に乗って飛行機に乗って最後は船……そんだけ移動したんだから、疲れが溜まってるのは当たり前か）=
 //「ご飯も済ませたし、今日はもう寝るかなぁ」=
-//「ふぁ……おやすみ」=
+//「ふぁ……おやすみ」= *yawn*...Good night.
 //誰かが聞いているわけでもないがそう呟き、俺は睡魔に身を任せた。=
-//「ん…………あぁ、もう朝か。ふわぁぁ、よく寝た……」=
-//「さてと、せっかくの旅行だし何をしようかな」=
-//「……まずは出かける支度だな」=
+//「ん…………あぁ、もう朝か。ふわぁぁ、よく寝た……」=...Oh, it's already morning. *yawn*, that was some good shut-eye...
+//「さてと、せっかくの旅行だし何をしようかな」=Right, 
+//「……まずは出かける支度だな」=...
