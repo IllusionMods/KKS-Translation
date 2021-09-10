@@ -57,6 +57,16 @@ The translations are all inside the `Bepinex\Translation\en` folder. They are th
 
 Coordinate with other translators on the [Koikatsu Discord](https://discord.gg/urDt8CK) #lingual-studies channel. To avoid translation conflicts please ask if anyone is working on a file. If you have any questions about the quality of your translations, ask for advice on the server.
 
+### AutoTranslator Config Changes
+
+The following settings should be adjusted in your `AutoTranslatorConfig.ini` when working on translations.
+
+Under `[Behaviour]`:
+
+- `HandleRichText` - this **must** be set to `False` when working on translations. When enabled this feature gives a better end user experience when encountering untranslated text, but will make it more difficult to see what needs to be translated.
+- `EnableTextPathLogging` - set to `True` to see what controls are being set to what text, and at what scope levels.
+- `EnableTranslationHelper` - set to `True` to see what files translated strings are loaded from as they are applied.
+
 ### How to add or improve translations
 
 - If you want to make a simple edit simply open the file in question and click edit. After you are done editing, commit the changes and start a pull request.
