@@ -417,3 +417,4 @@
 「あの……[Pあだ名]……エッチ、しませんか？」=Would you like to ......[Pあだ名]...... have sex with me?
 「ふふっ、よかったらお話しませんか？」=Hmm. Would you like to talk about it?
 「ふふっ、[Pあだ名]。よかったらお話しませんか？」=Hmm, [Pあだ名]. Would you like to talk to me?
+「ふふっ♪　ふふふっ♪　あはっ♪　まぁっ♪」=Fufu ♪ Fufufu ♪ Aha ♪ Maa ♪

@@ -34,3 +34,4 @@
 「あら、そちらがあなたのお勧めですの？」=Oh, that's your recommendation?
 「おすすめですのに、あなたには魅力がわからないのかしら……」=I recommend it, but you don't see the charm in it. ......
 「もう少しセンスを磨くことをおすすめいたしますわ」=I suggest you improve your taste.
+「<color%3Dyellow>トレッキング</color>を続けていると、体力が付きそうですわね」=It looks like you'll get stronger if you keep <color%3Dyellow>trekking</color>.
