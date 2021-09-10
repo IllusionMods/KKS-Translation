@@ -1,34 +1,34 @@
-「<color=yellow>ツリーイング</color>、とても楽しいわよ？」=<Yellow>Treeing</color> is so much fun, isn't it?
+「<color%3Dyellow>ツリーイング</color>、とても楽しいわよ？」=<Yellow>Treeing</color> is so much fun, isn't it?
 「あの自然を普段見られない視点て見るのがとても気持ちいいのよ」=It's so nice to see nature from a perspective you don't normally get.
-「<color=yellow>バナナボート</color>の楽しさ、キミは知ってるかな？」=Do you know how fun it is to go banana boating?
+「<color%3Dyellow>バナナボート</color>の楽しさ、キミは知ってるかな？」=Do you know how fun it is to go banana boating?
 「うんうん、ただの遊びと思うとすーぐ投げ飛ばされちゃうのよね」=You know how fun banana boats are?
-「キミは<color=yellow>カヤック</color>についてどれだけ知ってるかな？」=How much do you know about <color=yellow>kayaking</color>?
+「キミは<color%3Dyellow>カヤック</color>についてどれだけ知ってるかな？」=How much do you know about <color%3Dyellow>kayaking</color>?
 「なーんだ、そこまで知ってたのね」=Oh, I didn't know you knew that much.
 「あら、それは私も知らなかったわね……」=Oh, I didn't know that either. ......
 「へぇ、それ、詳しく教えてもらえるかしら？」=Wow, can you tell me more about that?
 「これでキミも少しは興味出てくれたかな？」=I think you're getting the idea.
 「どう？　試してみたくなった？」=How's that?　Do you want to try it?
-「この島の<color=yellow>パワースポット</color>の起源って知ってる？」=Do you know where the <color=yellow>power spots on this island</color> came from?
+「この島の<color%3Dyellow>パワースポット</color>の起源って知ってる？」=Do you know where the <color%3Dyellow>power spots on this island</color> came from?
 「そう、その起源を知ると、よりパワーを感じられると思わない？」=Yes, and don't you think you'll feel more powerful if you know where they come from?
-「<color=yellow>ガジュマル</color>について、キミはどれほど知ってるかな？」=How much do you know about the banyan tree?
+「<color%3Dyellow>ガジュマル</color>について、キミはどれほど知ってるかな？」=How much do you know about the banyan tree?
 「そうなのよ、風水的にも効果があるらしいのよね」=Yeah, I heard it's also good for feng shui.
 「そういうのもあるのね、勉強になるわ」=That's a good point. I'm learning something.
 「あら、面白い情報ねそれ」=Oh, that's interesting information.
 「ふふっ、知れてよかったでしょ？」=It's good to know, isn't it?
 「これでキミはまた一つ知識を得た、というわけだ」=Now you've learned something new.
-「<color=yellow>チンアナゴ</color>ってすごく可愛いと思わない？」=Don't you think <color=yellow>chinagoes</color> are very cute?
+「<color%3Dyellow>チンアナゴ</color>ってすごく可愛いと思わない？」=Don't you think <color%3Dyellow>chinagoes</color> are very cute?
 「あのひょこっと顔を出してる姿が可愛いのよねー」=Don't you think they're so cute when they stick their little heads out?
-「<color=yellow>シオマネキ</color>知ってる？　片方の爪がでっかいカニなんだけど」=<color=yellow>Don't you know the <color=yellow>silverback</color>?　It's a crab with a big claw on one side.
+「<color%3Dyellow>シオマネキ</color>知ってる？　片方の爪がでっかいカニなんだけど」=<color%3Dyellow>Don't you know the <color%3Dyellow>silverback</color>?　It's a crab with a big claw on one side.
 「そうそう、あの爪に挟まれたら流石に痛そうだよねー……」=Yeah, it's really painful to get caught in those claws. ......
 「あら、それも可愛かったりするのかしら？」=Oh, I wonder if it's cute too?
 「へぇ、詳しく見てみたいわね、どこで見れるのかしら」=Yeah, I'd like to see it in detail. Where can I see it?
 「是非見てほしいわね、絶対気に入るわよ？」=You should see it. You'd love it, wouldn't you?
 「どうしてもキミと共感したくて教えたかったのよ」=I just wanted to share it with you so you could relate to it.
-「<color=yellow>お土産</color>にすっごいのがあったんだけど、見た？」=Did you see the amazing <color=yellow> souvenir</color>?
-「あれには流石に二度見しちゃったわ……どうしよう、買っちゃおうかな……」=Did you see the <color=yellow>great souvenir</color>?
-「<color=yellow>シークヮーサージュース</color>は飲んでみた？」=Have you tried the <color=yellow>Shikwasa Juice</color>?
+「<color%3Dyellow>お土産</color>にすっごいのがあったんだけど、見た？」=Did you see the amazing <color%3Dyellow> souvenir</color>?
+「あれには流石に二度見しちゃったわ……どうしよう、買っちゃおうかな……」=Did you see the <color%3Dyellow>great souvenir</color>?
+「<color%3Dyellow>シークヮーサージュース</color>は飲んでみた？」=Have you tried the <color%3Dyellow>Shikwasa Juice</color>?
 「こういった場所だからこそ、余計に美味しく感じるのよね」=It tastes even better in a place like this.
-「ねぇ、あそこの<color=yellow>ぬいぐるみ</color>、見た？」=Hey, did you see that stuffed animal over there?
+「ねぇ、あそこの<color%3Dyellow>ぬいぐるみ</color>、見た？」=Hey, did you see that stuffed animal over there?
 「そう、すごく可愛かったのよねー、後でまた見に行ってみよっと」=Yeah, it was really cute. I'll go and see it again later.
 「そうなの？　気になるわね……」=Really?　I'm curious. ......
 「へぇ、ちょっと興味出てきちゃったかも？」=Wow, I'm getting a little curious.

@@ -1,34 +1,34 @@
-「私、あまり上手ではありませんが、<color=yellow>釣り</color>が好きなんです」=I'm not a very good fisherman, but I like to <color=yellow>fish</color>.
-「たまに上手に釣れた時の、手の感覚が最高なんです」=<color=yellow>I'm not very good at it, but I like fishing.
-「<color=yellow>バナナボート</color>は、とてもエキサイトできますね」=<Yellow banana boat</color> is very exciting.
-「海の上を走る疾走感と、かかる水しぶきの涼しさが溜まりませんね」=<color=yellow>Banana boats are very exciting. <color=yellow>The feeling of running on the water and the coolness of the spray is irresistible.
-「私<color=yellow>カヤック</color>の事、結構楽しいと思います」=I think the kayaking thing is pretty fun.
+「私、あまり上手ではありませんが、<color%3Dyellow>釣り</color>が好きなんです」=I'm not a very good fisherman, but I like to <color%3Dyellow>fish</color>.
+「たまに上手に釣れた時の、手の感覚が最高なんです」=<color%3Dyellow>I'm not very good at it, but I like fishing.
+「<color%3Dyellow>バナナボート</color>は、とてもエキサイトできますね」=<Yellow banana boat</color> is very exciting.
+「海の上を走る疾走感と、かかる水しぶきの涼しさが溜まりませんね」=<color%3Dyellow>Banana boats are very exciting. <color%3Dyellow>The feeling of running on the water and the coolness of the spray is irresistible.
+「私<color%3Dyellow>カヤック</color>の事、結構楽しいと思います」=I think the kayaking thing is pretty fun.
 「操縦も難しいものではないですし、自分のペースで進める所が素敵ですね」=It's not difficult to maneuver, and it's nice to be able to go at your own pace.
 「なるほど、それも面白そうですね」=I see. That sounds interesting too.
 「いいですね、私も好きになれそうです」=I like it. I think I'd like it.
 「興味ありませんでしたか？　もしよかったら、いつかやってみて下さいね」=You're not interested?　You should try it sometime, if you want.
 「面白そうではありませんでしたか？　きっと気に入って下さると思いますよ」=Doesn't it sound interesting?　I'm sure you'll like it.
-「<color=yellow>マングローブ</color>って魅力的ですね」=<color=yellow>mangroves</color> are fascinating.
+「<color%3Dyellow>マングローブ</color>って魅力的ですね」=<color%3Dyellow>mangroves</color> are fascinating.
 「汽水域にのみ群生する、不思議な生態が神秘的です」=They grow only in brackish water, and their mysterious life is mysterious.
-「私、<color=yellow>ハイビスカス</color>の花が好きなんです」=I like <color=yellow>hibiscus</color> flowers.
-「南国を象徴する、あの凛とした姿と可愛らしさが相まって、とても気に入ってるんです」=I like the <color=ellow>hibiscus</color> flower very much because of its dignified appearance, symbolizing the tropics, combined with its cuteness.
+「私、<color%3Dyellow>ハイビスカス</color>の花が好きなんです」=I like <color%3Dyellow>hibiscus</color> flowers.
+「南国を象徴する、あの凛とした姿と可愛らしさが相まって、とても気に入ってるんです」=I like the <color%3Dellow>hibiscus</color> flower very much because of its dignified appearance, symbolizing the tropics, combined with its cuteness.
 「そうなんですか、それも素敵ですね」=Oh, really? That's nice too.
 「貴方がそう言うなら、私も気になります」=If you say so, I'm curious too.
 「悪くないと思うのですが……実際に見たらきっと変わると思いますよ」=I don't think it's a bad idea. ...... I'm sure that will change when you see it in person.
 「そこまで興味ありませんか？　悪くないと思うのですが……」=You're not that interested?　I don't think it's bad. ......
-「私、<color=yellow>サンゴ</color>の事、好きなんですよ」=I like <color=yellow>coral</color>.
-「海の中ので綺麗に輝いていて……実際に宝石として扱われるサンゴもあるらしいですよ」=<color=yellow>I like coral</color>. It shines so beautifully in the ocean that ...... some corals are actually considered jewels.
-「<color=yellow>シオマネキ</color>って、なんだか健気で可愛いですね」=<color=yellow>The <color=yellow>silkworm</color> is kind of cute and healthy, isn't it?
+「私、<color%3Dyellow>サンゴ</color>の事、好きなんですよ」=I like <color%3Dyellow>coral</color>.
+「海の中ので綺麗に輝いていて……実際に宝石として扱われるサンゴもあるらしいですよ」=<color%3Dyellow>I like coral</color>. It shines so beautifully in the ocean that ...... some corals are actually considered jewels.
+「<color%3Dyellow>シオマネキ</color>って、なんだか健気で可愛いですね」=<color%3Dyellow>The <color%3Dyellow>silkworm</color> is kind of cute and healthy, isn't it?
 「大きい手を振るあのしぐさ……とても愛らしいと思います」=The way they wave their big hands ...... is very adorable.
 「そんなものもあるんですね、すごいです」=I didn't know there was such a thing, that's amazing.
 「素晴らしいですね、それも見てみたいです」=That's great, I'd like to see that too.
 「あんまり面白くなかったですか？　上手く説明できなかったようですね」=Wasn't that interesting?　I'm afraid I didn't explain myself very well.
 「それほどご興味なさそうですね……実際にご覧になれば、分かっていただけると思いますが……」=You don't seem that interested. ...... You'll understand when you see it in person. ......
-「私、<color=yellow>お土産</color>を選ぶのが好きなんです」=I like to pick out <color=yellow>souvenirs</color>.
+「私、<color%3Dyellow>お土産</color>を選ぶのが好きなんです」=I like to pick out <color%3Dyellow>souvenirs</color>.
 「相手が喜んでくれるのではと想像しながら選ぶのは、とても楽しいですね」=It's a lot of fun to imagine what they would like.
-「<color=yellow>シークヮーサージュース</color>って、とっても爽やかですね」=<Yellow>Shikwasa juice</color> is very refreshing.
-「苦みと酸っぱさの具合がちょうどよくって、飲むと頭がすっきりするんです」=<color=yellow>Shikwasa Juice</color> is very refreshing. <color=yellow>It has just the right amount of bitterness and sourness, and it clears my head.
-「<color=yellow>三線</color>の音って、すごく心に浸み込んできますね」=The sound of the <color=yellow>sanshin</color> really penetrates my heart.
+「<color%3Dyellow>シークヮーサージュース</color>って、とっても爽やかですね」=<Yellow>Shikwasa juice</color> is very refreshing.
+「苦みと酸っぱさの具合がちょうどよくって、飲むと頭がすっきりするんです」=<color%3Dyellow>Shikwasa Juice</color> is very refreshing. <color%3Dyellow>It has just the right amount of bitterness and sourness, and it clears my head.
+「<color%3Dyellow>三線</color>の音って、すごく心に浸み込んできますね」=The sound of the <color%3Dyellow>sanshin</color> really penetrates my heart.
 「楽器自体の音色が、この土地の空気を感じさせてくれるようで、とても好きです」=I like the sound of the instrument itself because it gives me a sense of the local air.
 「いいですね、とても面白そうです」=I like it. It sounds very interesting.
 「それは、私もいいと思います」=That sounds very interesting. - It sounds good to me, too.

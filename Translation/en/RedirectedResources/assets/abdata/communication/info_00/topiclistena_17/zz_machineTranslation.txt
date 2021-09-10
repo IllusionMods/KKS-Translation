@@ -1,34 +1,34 @@
-「<color=yellow>釣り</color>って割と好きなのよね」=I like <color=yellow>fishing</color> a lot, don't you?
-「魚との駆け引きが、意外とのめり込むのよ」=<color=yellow>I like fishing a lot. <color=yellow>The game with the fish is surprisingly addicting.
-「<color=yellow>シュノーケリング</color>って、結構いいと思うわ」=I think <color=yellow>snorkeling</color> is pretty good.
+「<color%3Dyellow>釣り</color>って割と好きなのよね」=I like <color%3Dyellow>fishing</color> a lot, don't you?
+「魚との駆け引きが、意外とのめり込むのよ」=<color%3Dyellow>I like fishing a lot. <color%3Dyellow>The game with the fish is surprisingly addicting.
+「<color%3Dyellow>シュノーケリング</color>って、結構いいと思うわ」=I think <color%3Dyellow>snorkeling</color> is pretty good.
 「手軽に海と一つになれる感じが、悪くないと思うわ」=It's easy to become one with the ocean, and that's not a bad feeling.
 「そう、それもいいかも知れないわね」=Yeah, that might be a good idea.
 「ふぅん、そっちもなかなか悪くないかも知れないわね」=Hmm, that might not be so bad after all.
 「そう。でも、試してみたら、案外気に入るかも知れないわよ」=Yeah. But you should try it. You might like it.
 「気に入らなかった？　大丈夫よ、その内好きになるわ」=You don't like it?　Don't worry, you'll like it.
-「<color=yellow>水牛</color>って、意外と可愛いわよね」=<color=yellow>Buffalo</color> is surprisingly pretty.
+「<color%3Dyellow>水牛</color>って、意外と可愛いわよね」=<color%3Dyellow>Buffalo</color> is surprisingly pretty.
 「よくよく見ると、結構つぶらな瞳をしているのよ」=If you look closely, you'll notice that they have pretty dull eyes.
-「私、実は<color=yellow>ネコ</color>が好きなのよ」=I actually like <color=yellow>cats</color>.
+「私、実は<color%3Dyellow>ネコ</color>が好きなのよ」=I actually like <color%3Dyellow>cats</color>.
 「気まぐれだけど、意外と甘え上手な所が、憎めないのよね」=They're fickle, but they're also surprisingly sweet, which is hard to hate.
-「<color=yellow>ハイビスカス</color>って、いい花だと思わない？」=<color=yellow>Hibiscus</color> is a nice flower, don't you think?
+「<color%3Dyellow>ハイビスカス</color>って、いい花だと思わない？」=<color%3Dyellow>Hibiscus</color> is a nice flower, don't you think?
 「一見華やかだけど、何となく清楚な雰囲気があるのよね」=It looks gorgeous at first glance, but there's something innocent about it.
-「この島の<color=yellow>星空</color>ってすごく素敵よね」=The <color=yellow>starry skies</color> on this island are so beautiful.
+「この島の<color%3Dyellow>星空</color>ってすごく素敵よね」=The <color%3Dyellow>starry skies</color> on this island are so beautiful.
 「やっぱり緯度が違うから、星の見え方も普段と違うのよね」=Because of the different latitude, you can see the stars differently than usual.
 「そういう事ね。その楽しみ方は知らなかったわ」=That's right. I didn't know how to enjoy that.
 「なるほどね。変わった見方だと思うけど、面白そうだわ」=I see. It's an unusual way of looking at things, but it sounds interesting.
 「自然は色んな見方ができるんだから、きっと魅力に気づくはずよ」=Nature can be seen in so many different ways, I'm sure you'll find it fascinating.
 「興味がないって顔ね？　でも、きっと気に入ると思うわよ」=You look uninterested, don't you?　But I'm sure you'll like it.
-「<color=yellow>チンアナゴ</color>って面白いと思わない？」=Don't you find <color=yellow>chinagoes</color> interesting?
+「<color%3Dyellow>チンアナゴ</color>って面白いと思わない？」=Don't you find <color%3Dyellow>chinagoes</color> interesting?
 「あのフラフラ揺れてる姿が、なんだかとっても可愛いと思うわ」=I think they're kind of cute, the way they sway around.
-「私、<color=yellow>クマノミ</color>って好きなのよ」=I like <color=yellow>tiger anemones</color>.
-「泳ぎが苦手なのに、頭がいいのよね。共生なんてよく考えられてると思うわ」=I like <color=yellow>tardigrades</color>. They're not good swimmers, but they're smart. I think symbiosis is very well thought out.
+「私、<color%3Dyellow>クマノミ</color>って好きなのよ」=I like <color%3Dyellow>tiger anemones</color>.
+「泳ぎが苦手なのに、頭がいいのよね。共生なんてよく考えられてると思うわ」=I like <color%3Dyellow>tardigrades</color>. They're not good swimmers, but they're smart. I think symbiosis is very well thought out.
 「確かにそうね。その魅力は気が付かなかったわ」=That's true. I hadn't noticed the attraction.
 「ふぅん、なかなか変わったとらえ方ね……でも、面白そう」=Hmm, that's an unusual take on ......, but it sounds interesting.
 「そうなのね……海は広くて奥が深いんだから、もっと興味を持った方がいいわよ」=I see. ...... The ocean is big and deep, so you should be more interested in it.
 「今は分からなくてもいいわ。楽しみは後にとっておいた方がいいのかも知れないし」=You don't have to understand it now. Maybe it's better to save the fun for later.
-「やっぱり、何か<color=yellow>名物料理</color>は食べておいた方がいいわよね」=You should try some <color=yellow>local food</color>.
+「やっぱり、何か<color%3Dyellow>名物料理</color>は食べておいた方がいいわよね」=You should try some <color%3Dyellow>local food</color>.
 「地元の料理は、その地元で食べるのが一番いいと思うわ」=I think it's best to eat local food when it's local.
-「<color=yellow>シーサー</color>っていいわよね。私、好きよ」=<color=yellow>Shisa</color> is nice, isn't it? I like it.
+「<color%3Dyellow>シーサー</color>っていいわよね。私、好きよ」=<color%3Dyellow>Shisa</color> is nice, isn't it? I like it.
 「あんなに可愛いのに魔除けにもなるなんて、すごいと思うわ」=I think it's great that they're so cute and they can ward off evil.
 「そんなものもあったなんて、なんだかすごいわね」=I didn't know there was such a thing. It's amazing.
 「意外だったけど、それもいいわね」=I didn't expect that, but it's nice.

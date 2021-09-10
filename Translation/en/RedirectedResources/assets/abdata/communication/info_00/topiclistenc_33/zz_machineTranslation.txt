@@ -1,34 +1,34 @@
-「ねぇ、<color=yellow>シュノーケリング</color>とスキューバダイビングの違い、わかる？」=Hey, do you know the difference between <color=yellow>snorkeling</color> and scuba diving?
+「ねぇ、<color%3Dyellow>シュノーケリング</color>とスキューバダイビングの違い、わかる？」=Hey, do you know the difference between <color%3Dyellow>snorkeling</color> and scuba diving?
 「そう、あのタンクがあるかないかなのよね主に」=Yeah, it's about whether or not you have that tank, mainly.
-「あなたは<color=yellow>トレッキング</color>には何が必要かわかる？」=Do you know what you need for <color=yellow>trekking</color>?
+「あなたは<color%3Dyellow>トレッキング</color>には何が必要かわかる？」=Do you know what you need for <color%3Dyellow>trekking</color>?
 「そう、１番大事なのは景色を楽しむ事なのよね」=Well, the most important thing is to enjoy the scenery.
 「あら、それは私も知らなかったわ」=Oh, I didn't know that.
 「それ、もう少し詳しく教えてくれないかしら？」=Can you tell me more about that?
 「どう？　知れて良かったでしょう？」=What do you think?　It's good to know, isn't it?
 「ふふっ、興味湧いてくれたかしら？」=Hmm. Isn't that interesting?
-「<color=yellow>水牛</color>の目って、クリクリしていて可愛いと思わない？」=Don't you think the eyes of a <color=yellow>water buffalo</color> are pretty and pretty?
+「<color%3Dyellow>水牛</color>の目って、クリクリしていて可愛いと思わない？」=Don't you think the eyes of a <color%3Dyellow>water buffalo</color> are pretty and pretty?
 「ふふっ、あなたも魅力が分かるみたいね」=Hmm, you seem to find it fascinating.
-「<color=yellow>マングローブ</color>って木の名前じゃなく、植物群落などの総称だって事、知ってた？」=Did you know that <color=yellow>mangrove</color> is not the name of a tree, but a general term for a plant community?
+「<color%3Dyellow>マングローブ</color>って木の名前じゃなく、植物群落などの総称だって事、知ってた？」=Did you know that <color%3Dyellow>mangrove</color> is not the name of a tree, but a general term for a plant community?
 「そう、私も最初は木の名前だと思っていたのよね」=Yeah, I thought it was a tree name at first too.
-「<color=yellow>パワースポット</color>って実際どういった物かって知ってる？」=Do you know what a <color=yellow>power spot</color> actually is?
-「そうね、大地や自然などの力がみなぎる場所、というのが分かりやすいわね」=<color=yellow>A power spot</color> is a place where the power of the earth or nature is present.
-「澄んだ<color=yellow>星空</color>が見える理由、わかるかしら？」=Do you know why you can see clear <color=yellow>starry skies</color>?
+「<color%3Dyellow>パワースポット</color>って実際どういった物かって知ってる？」=Do you know what a <color%3Dyellow>power spot</color> actually is?
+「そうね、大地や自然などの力がみなぎる場所、というのが分かりやすいわね」=<color%3Dyellow>A power spot</color> is a place where the power of the earth or nature is present.
+「澄んだ<color%3Dyellow>星空</color>が見える理由、わかるかしら？」=Do you know why you can see clear <color%3Dyellow>starry skies</color>?
 「えぇ、地上からの光が少ないこと、空気が澄んでいること、どれも大事な要因ね」=Yes, less light from the ground and clearer air are all important factors.
 「へぇ、その情報、いいわね」=Oh, I like that information.
 「あら、そんな情報、どこから仕入れてきたのかしら？」=Oh, where do you get all this information?
 「あなたも色々調べてみると楽しいわよ？」=You should do some research. It's fun.
 「これでまた一つ知識が増えたわね？」=You'll have fun doing some research, won't you?
-「海にとって<color=yellow>サンゴ</color>がどれだけ重要か、あなたにわかるかしら？」=Do you have any idea how important <color=yellow>coral</color> is to the ocean?
+「海にとって<color%3Dyellow>サンゴ</color>がどれだけ重要か、あなたにわかるかしら？」=Do you have any idea how important <color%3Dyellow>coral</color> is to the ocean?
 「そう、綺麗な海を守るため、浄化作用としてとても重要な生き物なのよ」=Yes, they're very important for the cleanliness of the ocean.
-「<color=yellow>クマノミ</color>の生態、あなたは詳しかったりするかしら？」=Do you know much about the life of <color=yellow>clownfish</color>?
+「<color%3Dyellow>クマノミ</color>の生態、あなたは詳しかったりするかしら？」=Do you know much about the life of <color%3Dyellow>clownfish</color>?
 「そうそう、いつもイソギンチャクの傍にいるあの子よ」=Yes, that one that's always by the anemone.
 「へぇ、あなた、詳しいのね？」=Oh, you know a lot about them, don't you?
 「あら、あなた面白い事知ってるのね」=Oh, you know some interesting things, don't you?
 「ふふっ、ためになったでしょう？」=Hmm. Isn't that interesting?
 「これを機に色々見て見るといいわよ？」=This is a good opportunity for you to look around, okay?
-「ここの<color=yellow>名物料理</color>、あなたはチャレンジしてみたかしら？」=I wonder if you've tried any of their <color=yellow>specialties?
+「ここの<color%3Dyellow>名物料理</color>、あなたはチャレンジしてみたかしら？」=I wonder if you've tried any of their <color%3Dyellow>specialties?
 「へぇ、そんな味だったのね、私も気になっちゃうわ」=Oh, I didn't know it tasted like that. I'm curious too.
-「<color=yellow>紅型</color>染めについて、あなたはどれだけ知ってるのかしら？」=How much do you know about <color=yellow> Bingata dyeing</color>?
+「<color%3Dyellow>紅型</color>染めについて、あなたはどれだけ知ってるのかしら？」=How much do you know about <color%3Dyellow> Bingata dyeing</color>?
 「そうよね、もち米で作った糊を使うって、何だか時代を感じるわよね」=I know, using glue made from glutinous rice is kind of old-fashioned, isn't it?
 「あら、いいこと教えてくれてありがとう」=Oh, thank you for telling me that.
 「へぇ、やっぱり色々あるのねぇ」=Wow, there's a lot to it.
