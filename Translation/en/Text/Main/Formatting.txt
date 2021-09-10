@@ -47,5 +47,4 @@ sr:^(?<place>.{1,4})の空室$=${place} Rooms
 // second regex for other entries (ensures last character before '/' is not ')')
 // ******************************************************************
 sr:^(?<your_room>自室)\s*[\(（](?<location>[^\)）]+)[\)）]\s*/\s*(?<time>[朝昼夕夜])$=${your_room} (${location})/${time}
-sr:^(?<location>.*[^\)）])\s*/\s*(?<time>[朝昼夕夜])$=${location}/${time}
-
+sr:^(?<location>(?!自室\s*[\(（])[\S\s]{2,30})\s*/\s*(?<time>[朝昼夕夜])$=${location}/${time}
