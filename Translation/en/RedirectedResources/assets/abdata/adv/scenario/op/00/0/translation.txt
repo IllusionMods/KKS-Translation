@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 オープニングを見ますか？=Do you want to see the opening?
-「来ちゃったよ、南の島に……」=Damn, guess I really did come to a remote tropical island...
+「来ちゃったよ、南の島に……」=Haha, guess I really did come to a remote tropical island...
 あのふざけた話を叔母さんから聞かされた時、俺は戯言であって欲しいと切実に願っていた。=I really wished my aunt was joking when she told me about this.
 しかし、ここまでたどり着いたことで、嘘でも冗談でもなかったことを思い知らされてしまう。=But now that I've set foot on here, I've no choice but to accept that it was, in fact, not a joke at all.
 「……俺は、本当にここでコイカツをしなきゃいけないんだな」=...Looks like I am going to have to do Koikatsu here for real.
@@ -14,19 +14,19 @@
 電話に出るなり、俺の叔母さんは全くもって意味不明なことを言い出した。=My aunt immediately spouted out some absolute nonsense as soon as I got on the phone. 
 『今、あなたには学園でただ一人の男子生徒として、男性に慣れていない女の子たちと接してもらっているわね』=OK, so to recap, as the only male student in school, we both know that you're helping me get the all the girl students to be comfortable around men, correct?
 呆気にとられている内に説明（？）が始まってしまい、口を挟むタイミングを逃してしまう。=She started explaining (?) things while I was still being taken aback, leading me to lose my chance to interrupt her.
-//『でも、上手くいってないようだから、研修旅行を利用してあなたたちの仲を深めることにしたの』=But, since it looks like things aren't going to well, I've decided 
-//『ほら、南の島だから皆バカンス気分で浮ついちゃうものでしょ？　そうすれば、普段より仲良くなれるって寸法よ』=
-//『男に慣れる為に一番早い方法は恋愛をすることだから、友達から～なんてまどろっこしいこと言ってないで、恋をしちゃいなさい！』=
-//『初対面じゃないんだし遠慮することはないわ。女の子たちにも、あなたともっと仲良くするように触れ込んでおくから安心して』=
-//『あ、そうそう。島の宿泊施設は全部貸切りに出来たから、好きなところを使っちゃって。それじゃ、後はよろしくね～』=Oh, I almost forgot. The entire island's been rented out, so feel free to use whatever, whenever you like. That it's for me, and I'll leave the rest to you~
-//「は？　ちょっと待って！　俺まだ何も言ってな――って切れてるし！　くそっ、言いたい事だけ言って切りやがった！」=Wait what?! No, I haven't said anything about - goddamn she hung up! Damn that woman, saying whatever she wants then immediately hang up without hearing what people have to say!
+『でも、上手くいってないようだから、研修旅行を利用してあなたたちの仲を深めることにしたの』=But, since it looks like things aren't going too great, I've decided that this upcoming school trip would be the perfect opportunity for you guys to get closer.
+『ほら、南の島だから皆バカンス気分で浮ついちゃうものでしょ？　そうすれば、普段より仲良くなれるって寸法よ』=I mean, we all get a bit of that "vacation mood" and let ourselves get a bit "carried away" when vistiting a remote island, no? You won't get a better 
+//『男に慣れる為に一番早い方法は恋愛をすることだから、友達から～なんてまどろっこしいこと言ってないで、恋をしちゃいなさい！』=The fastest 
+『初対面じゃないんだし遠慮することはないわ。女の子たちにも、あなたともっと仲良くするように触れ込んでおくから安心して』=It's not like you'll be meeting the girls for the first time, so no need to be shy. I'll let the girls 
+『あ、そうそう。島の宿泊施設は全部貸切りに出来たから、好きなところを使っちゃって。それじゃ、後はよろしくね～』=Oh, I almost forgot. The entire island's been rented out to the school, so feel free to use whatever, whenever you like. And that it's for me, I'll leave the rest to you~
+//「は？　ちょっと待って！　俺まだ何も言ってな――って切れてるし！　くそっ、言いたい事だけ言って切りやがった！」=Wait what?! No, I haven't said anything about-goddamnit she hung up! Damn that woman, saying whatever she wants then immediately hang up without hearing what people have to say!
 //すぐさまかけ直したものの、電話に出る気配は一切ない。=I immediately tried to call her back, but to no avail.
-//「くっ、律儀に話を聞いてる場合じゃなかった……南の島で女の子たちと恋をしろって、本気で言ってるのか？」=
-//普通なら質の悪い冗談だと一蹴できるが、相手は破天荒な叔母さんだ。一言一句本気と言う可能性は十二分にあり得た。=
-//「俺、どうしたらいいんだ……？」=
-//「はぁ、思い出したらなんか腹が立って来た」=
-//しかし当の本人がここへ来ていないので、非常に残念ながら不満をぶつけることは出来ない。=
-//「文句を垂れてもしょうがないし……腹を括るしかないか」=
+「くっ、律儀に話を聞いてる場合じゃなかった……南の島で女の子たちと恋をしろって、本気で言ってるのか？」=Fuck, I really should have said something when I still had the chance..."Go and do lovey-dovey stuff with the girls on a remote island!"...like, is she for real?
+普通なら質の悪い冗談だと一蹴できるが、相手は破天荒な叔母さんだ。一言一句本気と言う可能性は十二分にあり得た。=Under normal circumstances, most people would probably treat this as an off-season April Fools' joke, but this is my loose-cannon aunt we're talking about. Everything she says could very well be serious.
+「俺、どうしたらいいんだ……？」=
+「はぁ、思い出したらなんか腹が立って来た」=*Sight*, just thinking about it makes me angry all of a sudden.
+//しかし当の本人がここへ来ていないので、非常に残念ながら不満をぶつけることは出来ない。=Regrettably, the person responsible for all this didn't actually come here, 
+「文句を垂れてもしょうがないし……腹を括るしかないか」=Well, complaining won't solve anything so...guess I have no choice but to man up.
 //「……けど、これから何をすればいいんだ？」=
 //島の宿泊施設を貸切ったとは聞いているが……こちらから向かうのか、迎えが来てくれるのかすら分からない。=
 //（施設の予約を忘れてたー、なんてことはないよな……？）=
@@ -68,10 +68,10 @@
 //（ほんと、声をかけてくれて助かった。これからも、何かとお世話になりそうだな）=
 //「よし、無事に着けたことだし、さっさと手続きして荷物を置きに行くか」=
 //「あぁ、お風呂に入ったのに身体が重い……」=
-//（電車に乗って飛行機に乗って最後は船……そんだけ移動したんだから、疲れが溜まってるのは当たり前か）=
-//「ご飯も済ませたし、今日はもう寝るかなぁ」=
-//「ふぁ……おやすみ」= *yawn*...Good night.
+（電車に乗って飛行機に乗って最後は船……そんだけ移動したんだから、疲れが溜まってるのは当たり前か）=First train, then plane, and finally ferry...Of course you'd get tired 
+「ご飯も済ませたし、今日はもう寝るかなぁ」=I've already eaten dinner, so the only thing left is to get some sleep I suppose.
+「ふぁ……おやすみ」= *yawns*...Good night.
 //誰かが聞いているわけでもないがそう呟き、俺は睡魔に身を任せた。=
-//「ん…………あぁ、もう朝か。ふわぁぁ、よく寝た……」=...Oh, it's already morning. *yawn*, that was some good shut-eye...
+//「ん…………あぁ、もう朝か。ふわぁぁ、よく寝た……」=...Oh, it's already morning. *yawns*, that was some good shut-eye...
 //「さてと、せっかくの旅行だし何をしようかな」=Right, 
 //「……まずは出かける支度だな」=...
