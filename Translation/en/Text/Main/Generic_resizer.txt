@@ -1,0 +1,22 @@
+//*******************************************************************
+//*******************************************************************
+// Note: Resizers sizers that appear only in -1 or in multiple levels
+//       including -1 and can't be scoped by level
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Only applies to Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+
+// Save/Load screen
+
+SaveLoad(Clone)/Panel/BG/Files/00/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/01/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/02/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/03/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/04/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/05/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/06/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/07/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/08/BG/Button/Information=AutoResize(true, 10, 20)
+SaveLoad(Clone)/Panel/BG/Files/09/BG/Button/Information=AutoResize(true, 10, 20)
