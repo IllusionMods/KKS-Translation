@@ -1,35 +1,35 @@
-「汝はこの島で<color=yellow>釣り</color>をやったことはあるか？」=Hast thou ever been <color=yellow>fishing</color> on this island?
+「汝はこの島で<color%3Dyellow>釣り</color>をやったことはあるか？」=Hast thou ever been <color%3Dyellow>fishing</color> on this island?
 「あれは楽しいな！　待っている間は設定を考え……ああ、いや何も言ってないぞ！　とにかく、我ははまったかもしれない」=That's fun!　While I'm waiting, I'm thinking about the setting ...... Oh, no, I didn't say anything!　Anyway, I think I might be hooked.
-「汝よ、<color=yellow>シュノーケリング</color>は面白いな！」=Thou, <color=yellow>snorkeling</color> is fun!
+「汝よ、<color%3Dyellow>シュノーケリング</color>は面白いな！」=Thou, <color%3Dyellow>snorkeling</color> is fun!
 「魔界にも、あれほどの娯楽はないぞ！　我はこの島にいる間、とことん遊びつくそうと思う」=There's nothing like it in the demon world!　I'm going to have a lot of fun while I'm on this island.
 「うむ、そちらのレジャーも楽しそうだな」=I'm going to have a lot of fun while I'm here.
 「それが汝のオススメなのだな」=Is that what you recommend?
 「えぇと……オススメだから、汝もやってみると良いぞ」=Well, ...... recommends it, so you might as well try it.
 「面白いと思うのだが……まさか、汝は“楽しい”という感情を奪われてしまったのか？」=I think it's fun. ...... Are you sure you're not deprived of the feeling of fun?
-「のんびり<color=yellow>水牛</color>が歩いているのは、なんとも不思議な光景だな」=It's a strange sight to see a lazy <color=yellow>water buffalo</color> walking around.
+「のんびり<color%3Dyellow>水牛</color>が歩いているのは、なんとも不思議な光景だな」=It's a strange sight to see a lazy <color%3Dyellow>water buffalo</color> walking around.
 「いまだに慣れないから、異国に迷い込んだのかと錯覚しそうになるぞ」=I still can't get used to it. I almost feel as if I've wandered into a foreign country.
-「汝よ……<color=yellow>ネコ</color>に好かれる方法を知っているか？」=Do you know how to make ......<color=yellow>cats</color> like you?
+「汝よ……<color%3Dyellow>ネコ</color>に好かれる方法を知っているか？」=Do you know how to make ......<color%3Dyellow>cats</color> like you?
 「たまに見かける島のネコに懐かれたいのだが……中々うまくいかないのだ。やはりネコは気まぐれなのだな……」=I'm trying to get the occasional island cat to take a liking to me, but I can't seem to get ...... it to work. Cats are fickle, after all. ......
-「<color=yellow>ハイビスカス</color>の花が赤い理由を汝は知っているか？」=Do you know why the <color=yellow>hibiscus</color> flower is red?
+「<color%3Dyellow>ハイビスカス</color>の花が赤い理由を汝は知っているか？」=Do you know why the <color%3Dyellow>hibiscus</color> flower is red?
 「実はだな……人の血を吸って赤く咲いているのだ！　な、汝？　どうしてがっかりした顔をしているのだ？」=In fact, ...... it blooms red because it sucks human blood!　You?　Why the disappointed look on your face?
-「この島の<color=yellow>星空</color>は……とても綺麗だと思わないか？」=The <color=yellow>starry sky</color> of this island is ...... very beautiful, don't you think?
+「この島の<color%3Dyellow>星空</color>は……とても綺麗だと思わないか？」=The <color%3Dyellow>starry sky</color> of this island is ...... very beautiful, don't you think?
 「魔界にもこれほど綺麗に見える場所はなかった……とこしえに生きる我にとっても、忘れられぬ光景だ」=There was no place in the world that looked as beautiful as this ......, and it's a sight I'll never forget.
 「うむ、我も知ってるぞ」=Yes, I know it too.
 「それも良いな」=I like that.
 「汝も見に行くと良いぞ。あれはいいものだ」=You should go and see it. It's a good one.
 「うぅ……汝の興味を引けなかったようだな……」=Ugh, ......, I'm afraid I've failed to interest you, .......
-「汝は<color=yellow>チンアナゴ</color>を見にいったか？」=Have you been to see the <color=yellow>chingoes</color>?
+「汝は<color%3Dyellow>チンアナゴ</color>を見にいったか？」=Have you been to see the <color%3Dyellow>chingoes</color>?
 「並んで埋まっている姿は愛嬌があるな。人気があるのも頷けるぞ」=They're so charming when they're buried in a row. No wonder they're so popular.
-「<color=yellow>クマノミ</color>のグッズはよく見かけるな」=I've seen a lot of <color=yellow>tiger fish</color> merchandise.
+「<color%3Dyellow>クマノミ</color>のグッズはよく見かけるな」=I've seen a lot of <color%3Dyellow>tiger fish</color> merchandise.
 「魔界の生き物も、クマノミぐらい可愛ければよかったのだが……残念だ」=I wish the creatures of the demon world were as cute as the beardies, but ...... that's a shame.
 「ほう……汝は詳しいのだな」=Well, ...... you know a lot about them.
 「なるほど……我も調べてみるぞ」=I see. ...... I'll look into it.
 「えっと……調べてみたら、面白いと思うぞ」=Well, ...... I think you'll find it interesting.
 「その……機会があったら、見に行くと良いぞ」=That ...... you should check out when you get a chance.
-「汝はここの<color=yellow>名物料理</color>の中では何が好きなのだ？」=What's your favorite <color=yellow>specialty dish</color> here?
+「汝はここの<color%3Dyellow>名物料理</color>の中では何が好きなのだ？」=What's your favorite <color%3Dyellow>specialty dish</color> here?
 「我のオススメはポーク卵だ！　おにぎりの具でもよく見かけるが、そのまま食べるのも美味しいと思うぞ」=My recommendation is pork and egg!　My recommendation is the pork egg! You can often find it in onigiri (rice balls), but I think it's also delicious on its own.
-「汝は<color=yellow>シーサー</color>について詳しいか？」=Do you know much about <color=yellow>Shisa</color>?
-「ククッ……我の家を守護するのに相応しい存在のようだ。財布と相談して購入を検討しよう！」=You know <color=yellow>shisa</color> well?" "...... seems to be a worthy guardian of my home. I'll consult my wallet and see if I can buy one!
+「汝は<color%3Dyellow>シーサー</color>について詳しいか？」=Do you know much about <color%3Dyellow>Shisa</color>?
+「ククッ……我の家を守護するのに相応しい存在のようだ。財布と相談して購入を検討しよう！」=You know <color%3Dyellow>shisa</color> well?" "...... seems to be a worthy guardian of my home. I'll consult my wallet and see if I can buy one!
 「ほう……汝はそれが好きなのだな」=Oh, ......, you like that, don't you?
 「汝の好みが少し分かった気がするぞ」=I think I know a little more about your tastes.
 「むぅ……汝の話も楽しそうではあるが、まずは我の話を聞いてほしいぞ……」=Mmm. ...... I'm sure you'll enjoy what you have to say, but you should hear what I have to say first. ......

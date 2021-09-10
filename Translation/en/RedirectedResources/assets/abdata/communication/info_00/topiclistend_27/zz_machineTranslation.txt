@@ -1,34 +1,34 @@
-「<color=yellow>釣り</color>はいいわよ？　ひたすら没頭出来るし」=<color=yellow>Fishing</color> is good, you know?　You can get lost in it.
+「<color%3Dyellow>釣り</color>はいいわよ？　ひたすら没頭出来るし」=<color%3Dyellow>Fishing</color> is good, you know?　You can get lost in it.
 「ふふっ、今度、大物釣ってあんたに見せびらかすんだから」=I'm going to catch a big one and show it off to you.
-「ふふっ、あんたに<color=yellow>バナナボート</color>が乗りこなせるかしら？」=I wonder if you can handle a banana boat.
+「ふふっ、あんたに<color%3Dyellow>バナナボート</color>が乗りこなせるかしら？」=I wonder if you can handle a banana boat.
 「ふ、ふーん、まぁ、あのくらい楽勝よね……？」=Hmmm, well, that's a piece of cake, isn't it ......?
-「マングローブでのアクティビティと言ったら<color=yellow>カヤック</color>よね？」=When you think of mangrove activities, you think <color=yellow>kayaking, right?
+「マングローブでのアクティビティと言ったら<color%3Dyellow>カヤック</color>よね？」=When you think of mangrove activities, you think <color%3Dyellow>kayaking, right?
 「水上からあの森林を見渡す感覚、たまらないわよね」=I love the feeling of looking out over the forest from the water, don't you?
 「……何よ、そっちも気になるじゃない」=...... What? I'm curious about that too.
 「ふぅん、今度やってみようかしら……」=Hmm. Maybe I'll try it sometime. ......
 「いいから黙ってやっときなさいっ」=Just shut up and do it.
 「ま、あんたもやってみればわかるわ」=Well, you'll find out when you try it.
-「ねぇ、<color=yellow>マングローブ</color>っていいと思わない？」=Hey, don't you think <color=yellow>mangroves</color> are great?
+「ねぇ、<color%3Dyellow>マングローブ</color>っていいと思わない？」=Hey, don't you think <color%3Dyellow>mangroves</color> are great?
 「でしょう？　なんか好きなのよね……なんでかしら？」=Don't you like it?　I kind of like ....... Why is that?
-「ねぇ、<color=yellow>ハイビスカス</color>って意外な所あるんだけど、知ってた？」=Hey, did you know that <color=yellow>hibiscus</color> is in some unexpected places?
+「ねぇ、<color%3Dyellow>ハイビスカス</color>って意外な所あるんだけど、知ってた？」=Hey, did you know that <color%3Dyellow>hibiscus</color> is in some unexpected places?
 「そう、南国でよく見かける割には暑さに弱いのよね」=Yeah, it's a tropical plant, but it's sensitive to heat.
 「へ、へぇ、まぁ私も知ってたし……？」=Oh, yeah, I knew that, too. ......?
 「……何よそれ、もっと詳しく教えなさいよ」=...... What's that? Tell me more about it.
 「ふふん、あんたもよく勉強することね」=Yeah, well, you're going to have to learn more.
 「どう？　少しは物知りになったでしょう？」=How's that?　How's that? How's that for knowledge?
-「海が綺麗な要因として<color=yellow>サンゴ</color>が活躍してるって知ってるわよね？」=You do know that <color=yellow>coral</color> plays an important role in the cleanliness of the ocean, right?
-「綺麗な海にはサンゴ礁がある、というのが納得出来るわよね」=You know that <color=yellow>coral</color> plays an important role in the cleanliness of our oceans, right?
-「<color=yellow>シオマネキ</color>って、どうして片方の爪が大きいのかしらね？」=Why does the <color=yellow>silverfish</color> have one big claw?
+「海が綺麗な要因として<color%3Dyellow>サンゴ</color>が活躍してるって知ってるわよね？」=You do know that <color%3Dyellow>coral</color> plays an important role in the cleanliness of the ocean, right?
+「綺麗な海にはサンゴ礁がある、というのが納得出来るわよね」=You know that <color%3Dyellow>coral</color> plays an important role in the cleanliness of our oceans, right?
+「<color%3Dyellow>シオマネキ</color>って、どうして片方の爪が大きいのかしらね？」=Why does the <color%3Dyellow>silverfish</color> have one big claw?
 「へぇ、あれってオスだけで、メスは両方とも爪が小さいのね」=Oh, it's only the males. Females have smaller claws on both sides.
 「あぁ、それもあるわね……」=Yeah, that's one thing. ......
 「ふぅん、あんた、そういうのに詳しいのね……」=Hmm, you know a lot about that. ......
 「ふふっ、これからもっと知識を付けることね」=Hmm. You're going to have to learn more.
 「ふふん、勉強になったかしら？」=Hmm, did I learn something?
-「ねぇ、ここの名物<color=yellow>土産</color>、どうだったかしら？」=Hey, what do you think of this <color=yellow>souvenir</color>?
+「ねぇ、ここの名物<color%3Dyellow>土産</color>、どうだったかしら？」=Hey, what do you think of this <color%3Dyellow>souvenir</color>?
 「あんたもそう思う？　アレは買おうか迷うわよね……」=You think so?　I'm not sure I'd buy that one. ......
-「ここの<color=yellow>シークヮーサージュース</color>、すっごく美味しいのよ？」=Their Shikwasa Juice is really good, you know?
+「ここの<color%3Dyellow>シークヮーサージュース</color>、すっごく美味しいのよ？」=Their Shikwasa Juice is really good, you know?
 「あのフルーティーな酸味がたまらないのよねぇ……」=I love the fruity sourness of it. ......
-「ねぇ、<color=yellow>三線</color>って三味線のことだって知ってた？」=Hey, did you know that <color=yellow>sanshin</color> is a shamisen?
+「ねぇ、<color%3Dyellow>三線</color>って三味線のことだって知ってた？」=Hey, did you know that <color%3Dyellow>sanshin</color> is a shamisen?
 「そうよね、私達だと三味線の方が馴染みがあるものね」=Yes, we're more familiar with the shamisen.
 「へぇ……そういうのもあるのね……」=Oh, ...... that's one of them. ......
 「ふぅん……あんた、そういうのも知ってるのね」=Hmm, ...... you know about that, too.
