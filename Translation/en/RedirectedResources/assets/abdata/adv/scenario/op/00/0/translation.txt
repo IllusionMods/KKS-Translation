@@ -30,8 +30,8 @@
 洒落にならない不安が頭を過った時、爽やかな香りと共に一人の女の子が現れた。=Just as fear of the absolute worst started to take shape in my head, a young girl appeared along with a refreshing scent.
 ひかり=Hikari
 「自分……じゃなくて、私、比嘉ひかりって言います！　この島で観光案内のアルバイトをしてるんです」=Me be...Sorry, I am Higa Hikari! I work as a tour guide on this island!
-//If anyone's got a better translation for 自分 then feel free to replace it. Best I could come up is replacing "I am" with "Me be". Also not sure what accent/dialect we should use for Hikari here.
-「あなたは、先ほどのフェリーに乗ってたお客様ですよね？」=
+//If anyone's got a better translation for 自分 then feel free to replace it. Best I could come up is replacing "I am" with "Me be". Also not sure what accent/dialect we should use for Hikari to keep it consistent throughout the game.
+「あなたは、先ほどのフェリーに乗ってたお客様ですよね？」=Are you one of the customers that boarded that last ferry?
 「あ、そうです。俺の名前は――」=Yes, that's right. My name is――
 //「俺の名前は[P名前]って言います。えっと、よろしくお願いします」=
 //「はい、よろしくお願いします！　早速ですが、何か困ってないですか？　私に出来る事なら何でも言ってください！」=
@@ -60,8 +60,8 @@
 //「えっと、ごめんなさい、最後に一つだけ……さっき言ってた『でーじ』ってどういう意味ですか？」=
 //「へっ？　あ、方言聞こえてたんだ、恥ずかしい……えぇと、意味……意味かぁ……」=
 //「『とっても』とか『ヤバイ』とか、そんな感じ……？」=
-//「へぇ、面白いですね。よかったら、方言とかも教えてもらえると嬉しいです」=
-//「あ、あはは……私でよければ。それじゃあ、いっぱい楽しんでください！」=
+「へぇ、面白いですね。よかったら、方言とかも教えてもらえると嬉しいです」=Oh, that's interesting. It'd be great if could you teach me more local words and expressions.
+「あ、あはは……私でよければ。それじゃあ、いっぱい楽しんでください！」=A, ahaha...if you'd have me. Alrighty then, enjoy your stay at the island!
 笑顔で手を振る比嘉さんに会釈をして、別れを済ます。=I gestured back as Higa-san smiled and waved her hands at me, ending our meeting.
 //（ほんと、声をかけてくれて助かった。これからも、何かとお世話になりそうだな）=
 //「よし、無事に着けたことだし、さっさと手続きして荷物を置きに行くか」=
