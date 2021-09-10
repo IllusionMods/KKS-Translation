@@ -1,0 +1,2 @@
+キャンディクリップA=Candy Clip A
+キャンディクリップB=Candy Clip B
