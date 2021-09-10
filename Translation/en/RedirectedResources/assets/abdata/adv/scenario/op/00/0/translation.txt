@@ -8,7 +8,7 @@
 「……俺は、本当にここでコイカツをしなきゃいけないんだな」=...Looks like I am going to have to do Koikatsu here for real.
 心の中で盛大なため息を吐きながら、この島へ来ることになった切っ掛けを思い返していく――=Letting out a long sigh, I reflected back on why I came here in the first place...
 叔母=Aunt
-//『こほん……あなたには研修旅行先の南の島で恋の活動、略してコイカツをしてもらうわ！』=Ahem...You're going to do love activities, in other words Koikatsu, 
+『こほん……あなたには研修旅行先の南の島で恋の活動、略してコイカツをしてもらうわ！』=Ahem...I'm here to inform you that you're going to do love activities, in other words Koikatsu, in your upcoming trip to the southern tropical island! 
 『あ、これは叔母ではなく学園長としての命令だから、あしからず』=Oh, and this is a direct order from me, not as your aunt, but as your school principal, so no hard feelings.
 「……は？」=...Huh?
 電話に出るなり、俺の叔母さんは全くもって意味不明なことを言い出した。=My aunt immediately spouted out some absolute nonsense as soon as I got on the phone. 
@@ -33,9 +33,9 @@
 //洒落にならない不安が頭を過った時、爽やかな香りと共に一人の女の子が現れた。=
 ひかり=Hikari
 「自分……じゃなくて、私、比嘉ひかりって言います！　この島で観光案内のアルバイトをしてるんです」=Me be...Sorry, I am Higa Hikari! I work as a tour guide on this island!
-//If anyone's got a better translation for 自分 then feel free to replace it. Best I could come up is replacing "I am" with "Me be"
-//「あなたは、先ほどのフェリーに乗ってたお客様ですよね？」=
-//「あ、そうです。俺の名前は――」=
+//If anyone's got a better translation for 自分 then feel free to replace it. Best I could come up is replacing "I am" with "Me be". Also not sure what accent/dialect we should use for Hikari here.
+「あなたは、先ほどのフェリーに乗ってたお客様ですよね？」=
+「あ、そうです。俺の名前は――」=Yes, that's right. My name is――
 //「俺の名前は[P名前]って言います。えっと、よろしくお願いします」=
 //「はい、よろしくお願いします！　早速ですが、何か困ってないですか？　私に出来る事なら何でも言ってください！」=
 //途方に暮れていた俺にとって、彼女の笑顔は太陽のように輝いて見えた。=
@@ -55,9 +55,9 @@
 //「ホテルですね。海のそばに建っているので、すぐ遊びに行くことができますよ」=
 //「民宿ですねっ。この島の風土を一番感じられるところなので、すっごくお勧めなんです！」=
 //「合宿所ですね。運動できる場所があるので、息抜きに良いと思いますよ」=
-//「それじゃあ、案内しますね！」=
-「はい、到着しました！　ここが[P姓]さんの宿泊場所になります」=And, we've arrived! This will be your 
-「ありがとうございます。船着き場から近いんですね」=Thank you, it's suprisingly close to the harbor
+「それじゃあ、案内しますね！」=Alrighty, let me show you the way there!
+「はい、到着しました！　ここが[P姓]さんの宿泊場所になります」=And, we've arrived! This is where you'll be staying at, [P姓]-san.
+「ありがとうございます。船着き場から近いんですね」=Thank you, it's suprisingly close to the harbor.
 「そうなんです。島自体がそんなに広くないので、他のスポットにも歩いて行けますよ」=Yup. The island isn't exactly big, so everything is within walking distance.
 //「それでは、案内はここまでになります。私は大体案内所にいますので、何かあったら遠慮なく声をかけてくださいね？」=
 //「えっと、ごめんなさい、最後に一つだけ……さっき言ってた『でーじ』ってどういう意味ですか？」=
@@ -74,5 +74,5 @@
 「ふぁ……おやすみ」= *yawn*...Good night.
 //誰かが聞いているわけでもないがそう呟き、俺は睡魔に身を任せた。=Saying goodnight (though it's not as if I have someone to say that to), I closed my eyes and quickly fell asleep.
 //「ん…………あぁ、もう朝か。ふわぁぁ、よく寝た……」=...Oh, it's already morning. *yawn*, that was some good shut-eye...
-//「さてと、せっかくの旅行だし何をしようかな」=Okay, 
-//「……まずは出かける支度だな」=...But first I should get dressed up to go outside.
+//「さてと、せっかくの旅行だし何をしようかな」=Right, 
+//「……まずは出かける支度だな」=...I should get dressed up and get ready to go outside first though.
