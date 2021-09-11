@@ -5,10 +5,10 @@
 「この光景を見られただけでも、ここに来た価値があったね」=It's worth coming here just to see this.
 「それも恋人と……[H名]と一緒だというのがすごく嬉しいよ」=I'm so happy to be with my girlfriend and ......[H名].
 「恥ずかしいことを言わないでください……」=Please don't say embarrassing things. ......
-「でも、私も[P名]さんと一緒に流れ星を見られてすごく嬉しいです」=But I'm also very happy to see the shooting star with [P name].
+「でも、私も[P名]さんと一緒に流れ星を見られてすごく嬉しいです」=But I'm also very happy to see the shooting star with [P名].
 「ははっ、ごめん。でも、それが俺の素直な気持ちだから」=Haha, sorry. I'm sorry, but that's just my honest feeling.
 「それは嬉しいですけど……」=That's nice of you to say, but ......
-「そ、その、私も[P名]さんと同じ気持ちです。素直に、嬉しいと思ってますから」=I feel the same way as you. I feel the same as [P name]. I'm honestly happy.
+「そ、その、私も[P名]さんと同じ気持ちです。素直に、嬉しいと思ってますから」=I feel the same way as you. I feel the same as [P名]. I'm honestly happy.
 「こんな私を恋人にしてくれて……。ありがとう、ございます」=Thank you ...... for making me your lover. Thank you, thank you.
 「[H名]……。は、はは、なんだろこれ」=[H名]....... Ha, ha, ha, what's this?
 「なんだかめちゃくちゃ恥ずかしいね。顔が熱いや」=I'm so embarrassed. Your face is so hot.
@@ -30,4 +30,4 @@
 「いいえ……。私は、何も願いごとをしていないです」=No. ....... I'm not making any wishes.
 「そうなの？」=Is that so?
 「はい。だって……」=Yes. Because .........
-「[P名]さんとここにいられる時点で、もうその願いは叶っていますから……」=When you're here with [P name], your wish has already come true. ......
+「[P名]さんとここにいられる時点で、もうその願いは叶っていますから……」=When you're here with [P名], your wish has already come true. ......

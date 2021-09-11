@@ -28,7 +28,7 @@
 「うふふふ、大丈夫です。万が一、文句を言われたらの話です。私の家族はそこまで強情な方々ではございません」=It's okay. It's just in case they complain. My family is not that stubborn.
 「それならいい、のかな。あ、もし結婚するってなったら婿養子になるのかな？」=I'm not sure if that's a good idea. Oh, if I get married, will I be adopted by my son-in-law?
 「とんでもございません、女はいずれ嫁ぐものです。結婚をするとき私は貴方の性になります、それは私の長年の夢でもございます」=I'm sure you're not the only one. I'm not sure what to do, but I'm sure it's a good idea.
-「[H名前]が[P姓] [H名]になるのか」=[H名] will become [P last name] [H first name]?
+「[H名前]が[P姓] [H名]になるのか」=[H名] will become [H名前] [P姓]?
 「……なんだか、ドキッとするね」=...... You're making me nervous.
 「よい響きです。もし貴方が受け入れてくだされば実現いたしますよ」=Sounds good. If you're open to it, we'll make it happen.
 「きみのこと、重いなんて思わない。ううん……」=I don't think you're heavy. No. ......

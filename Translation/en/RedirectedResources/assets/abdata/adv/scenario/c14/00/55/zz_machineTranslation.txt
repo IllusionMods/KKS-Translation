@@ -6,7 +6,7 @@
 「えらい自信満々だね。俺も考えないとな……何がいい？　とびっきり可愛いのとか？」=You're so confident. I'll have to think of something. ...... What would you like?　Something really cute?
 「柄じゃねーよ！　くだらないこと言ってないで、はやく考えろって」=It's not a pattern!　Stop talking nonsense and start thinking.
 「ごめんごめん……よしっ、いいの思いついたよ。それじゃ呼び合おうか」=Sorry, sorry, ....... Okay, I've got an idea. Let's call each other then.
-「おう！　えっと……[Pあだ名]」=Oh!　......[P nickname]
+「おう！　えっと……[Pあだ名]」=Oh!　......[Pあだ名]
 「[Hあだ名]……」=[Hあだ名]……
 「な、なんだお前……顔赤くなってるぞ！」=What's with your ...... blushing face?
 「たぶん、そっち程じゃないと思うけど……」=Maybe not as much as you. ......

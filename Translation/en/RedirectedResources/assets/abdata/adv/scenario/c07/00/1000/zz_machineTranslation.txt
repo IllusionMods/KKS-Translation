@@ -3,7 +3,7 @@
 「うん、美味しい！　やっぱり使ってるフルーツが違うのかな」=Yeah, it's good!　I wonder if they use different fruits.
 「そ、そうかもなー……」=Yeah, I think so. ......
 「どうかした？　さっきからそわそわしてるけど」=What's wrong?　You're looking a little fidgety.
-「逆になんで[P名]は平然としてんだよ。これ、飲む時に顔が近すぎだろ」=On the other hand, why is [P name] so unconcerned? You're too close to me when I drink this.
+「逆になんで[P名]は平然としてんだよ。これ、飲む時に顔が近すぎだろ」=On the other hand, why is [P名] so unconcerned? You're too close to me when I drink this.
 「カップルドリンクってそういうものでしょ？」=Isn't that what couples drinks are?
 「くあー、平然としてる！　腹立つー」=Damn, he's so calm!　I'm so angry.
 「平然とはしてないって。[H名]の言ってることも、わからなくはないし」=No, I'm not. [I don't know what you're talking about.

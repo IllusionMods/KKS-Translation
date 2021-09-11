@@ -15,7 +15,7 @@
 「うん、なんだか少女漫画みたい♪　でも、夢じゃないんだよね？　私はこの南の島でキミと恋人同士になった、超ラッキーな女の子なんだよね？」=Yeah, it's like a girl's cartoon, but I'm not dreaming, am I?　But it's not a dream, is it? I'm the lucky girl who got to be your girlfriend on this southern island, right?
 「超ラッキーなのは俺の方だと思うけどな」=I think I'm the one who's super lucky.
 「え～、超ラッキー度では私負けてないよっ♪　あっでも、勝ちたくないから――」=Well, I'm the luckiest guy in the world, but I don't want to win.
-[P名]・[H名]=[P name], [H名]
+[P名]・[H名]=[P名], [H名]
 「「二人とも同じぐらい超ラッキーってことで」」=I guess we're both as super lucky as each other.
 「あ～っハモった！　というかハモってくれた？　ふたりとも同じぐらい超ラッキーだから！　わ～、ロマンチック～♪」=Oh, that's good!　I mean, did you do it?　Because we're both equally lucky!　It's so romantic.
 「タイミング頑張りました」=I did my best with the timing.
