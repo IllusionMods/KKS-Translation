@@ -391,9 +391,9 @@
 「へへー」「やったー」「ふふー」「にーっ」「嬉しーなー」=Heh, heh, heh, heh, heh, heh, heh, heh, heh, heh, heh, heh, heh.
 「ムぅー！」「ウーっ！」「フーっ！」「こらー！」「めーっ、だぞ」=Mwah!" "Woof! "Whoo! "Hey!" "Mwah!
 「うぅ……」「うぇー……」「えー……」「うーん……」「あー……」=Uh......," "Uh......," "Uh......," "Uh......," "Uh......," "Uh.......
-「わー♪」「ほわー♪」「にゃー♪」「にゃはは♪」「ガウガウー♪」=
+「わー♪」「ほわー♪」「にゃー♪」「にゃはは♪」「ガウガウー♪」=Wow ♪" "How ♪" "Nya ♪" "Nyaha ♪" "Gaugau ♪
 「恥ずかしーなー」「照れるなー」「ちょ、ちょーっ！」「ひー！」「やめやめーっ」="I'm embarrassed, I'm embarrassed, I'm embarrassed, I'm embarrassed, I'm embarrassed, I'm embarrassed. "Hee!" "Stop, stop, stop!
-「なーなー」「なーってばー」「ねーねー」「ねーってばー」「聞ーて、聞ーて」=
+「なーなー」「なーってばー」「ねーねー」「ねーってばー」「聞ーて、聞ーて」=Nana" "Nateba" "Nee" "Neteba" "Listen, listen
 「ねぇ、[Hあだ名]。愛称で呼んでくれないかな」=Hey, [Hあだ名]. Can you call me by my nickname?
 「いいぞー。　……[Pあだ名]。えへへー、ちょっとだけ照れくさいな」=That's good.　......[Pあだ名]. Heh heh, that's a little embarrassing.
 「むー、今は嫌だぞ」=Mmm, I don't want to do that right now.

@@ -1,0 +1,26 @@
+//*******************************************************************
+//*******************************************************************
+// Main Game Map Warp
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Applies to all scenes with the generic 
+// "-1" Global level for the Main Game
+#set exe KoikatsuSunshine
+#set level -1
+
+//---------------------------------------------------------
+// Title
+//---------------------------------------------------------
+//MapSelectMenu(Clone)/Canvas/Panel/BG/Title
+マップワープ=Map Warp
+
+//---------------------------------------------------------
+// Location Cards
+//---------------------------------------------------------
+//Current Location
+//MapSelectMenu(Clone)/Canvas/Panel/BG/Image/ScrollView/Content/MapButton(Clone)/Now
+現在地=Current
+
+//Select Location
+ここに行く=Go There

@@ -1,0 +1,146 @@
+//*******************************************************************
+//*******************************************************************
+// Girls Room Menu Resizers
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Applies to all scenes with the generic 
+// "-1" Global level on Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level -1
+
+//---------------------------------------------------------
+// Top Menu
+//---------------------------------------------------------
+EntryLive(Clone)/ClassroomCanvas/TabRoot=ChangeFontSizeByPercentage(0.8)
+
+// Top Menu -> This Location
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/RegisterBG/BG/Title=ChangeFontSizeByPercentage(0.9)
+
+// Top Menu -> This Location description
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/Explan=ChangeFontSizeByPercentage(0.9)
+
+//---------------------------------------------------------
+// Decide Buttom
+//---------------------------------------------------------
+EntryLive(Clone)/ClassroomCanvas/ReturnButton=ChangeFontSizeByPercentage(0.9)
+
+//---------------------------------------------------------
+// Right Menu
+//---------------------------------------------------------
+//Create New
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewData/CharaCreate=ChangeFontSizeByPercentage(0.9)
+
+//Change Nickname
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewData/NickNameSetting/NickNameChange=ChangeFontSizeByPercentage(0.9)
+
+//Traits -> Title
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewData/AttributeTop/Root/AttributeTitle=ChangeFontSizeByPercentage(0.85)
+//Traits
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewData/AttributeTop/Root/Background=ChangeFontSizeByPercentage(0.8)
+
+//---------------------------------------------------------
+// Girls Cards
+//---------------------------------------------------------
+//Blood type
+//Need to make one for each "Seat_XX" from 00 to 99, need to seek for a better way to do it
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_00/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_01/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_02/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_03/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_04/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_05/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_06/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_07/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_08/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_09/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_10/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_11/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_12/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_13/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_14/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_15/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_16/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_17/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_18/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_19/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_20/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_21/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_22/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_23/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_24/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_25/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_26/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_27/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_28/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_29/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_30/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_31/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_32/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_33/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_34/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_35/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_36/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_37/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_38/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_39/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_40/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_41/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_42/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_43/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_44/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_45/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_46/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_47/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_48/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_49/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_50/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_51/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_52/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_53/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_54/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_55/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_56/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_57/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_58/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_59/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_60/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_61/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_62/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_63/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_64/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_65/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_66/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_67/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_68/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_69/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_70/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_71/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_72/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_73/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_74/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_75/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_76/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_77/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_78/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_79/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_80/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_81/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_82/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_83/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_84/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_85/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_86/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_87/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_88/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_89/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_90/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_91/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_92/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_93/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_94/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_95/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_96/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_97/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_98/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+EntryLive(Clone)/ClassroomCanvas/NPCEdit/PreviewSeat/View/Scroll View/Viewport/Seat/Seat_99/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)

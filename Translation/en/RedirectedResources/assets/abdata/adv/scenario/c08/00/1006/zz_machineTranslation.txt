@@ -1,6 +1,6 @@
 「知ってる？　ウムイの鐘を鳴らした二人は必ず結ばれるという言い伝えがあるみたいだよ」=Did you know?　There is a legend that two people who ring the bell of Umui will be united.
 「うんうん。素敵な言い伝えだよねぇ」=Yes, yes. It's a nice saying.
-「せっかくだから、私と[P名]君で鐘を鳴らそうよ。それで永遠の愛を誓おっ」=Since we're here, why don't [P name] and I ring the bell? Let's ring the bell and pledge our eternal love.
+「せっかくだから、私と[P名]君で鐘を鳴らそうよ。それで永遠の愛を誓おっ」=Since we're here, why don't [P名] and I ring the bell? Let's ring the bell and pledge our eternal love.
 「そうだね。さっそく鳴らしてみよう」=Yes, it is. Let's play it.
 「あっ！　ちょっと待って！」=Ah!　Wait a minute!
 「私たちって、今でも十分仲良しでしょ？」=We're still good friends, aren't we?
@@ -11,7 +11,7 @@
 「ダメだよ。[P名]君とまだまだ遊びたいもん」=No, you can't. [I still want to play with you.
 「あはは。冗談だよ」=Ha-ha. I'm kidding.
 「仮にラブラブ度が上がっても平気さ。言い伝え通り、将来的に結ばれるだけだから」=I don't care if we get more lovey-dovey. It's only a matter of time before they get together, as they say.
-「それもそっかぁ。この先もずっと[P名]君と一緒だもんね」=That's right. You'll always be with [P name], right?
+「それもそっかぁ。この先もずっと[P名]君と一緒だもんね」=That's right. You'll always be with [P名], right?
 「そういうこと。それじゃあ鳴らすよ」=That's it. I'll ring it.
 「うんっ。いくよ～、せ～の……」=Yeah. Here we go. ......
 「綺麗な音色だね」=It's a beautiful sound.

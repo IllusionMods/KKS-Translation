@@ -6,8 +6,8 @@
 「うっ、別に……嫌とは言ってないわ。ちょっとびっくりしただけよ」=Ugh, I didn't say I didn't like ....... I'm just a little surprised.
 「じゃあじゃあ！　俺は[H]の事、[Hあだ名]って呼んでいい？」=Okay, okay!　Can I call you [nickname]?
 「い、いいんじゃない。好きになさい」=No, it's not a problem. Do what you want.
-「よしっ！　では早速。ねぇ……[Hあだ名]」=Okay!　Let's get started. Hey, ......[H nickname].
-「うっ、な、なぁに…………[Pあだ名]」=Ugh, what's with the ............[P nickname]?
+「よしっ！　では早速。ねぇ……[Hあだ名]」=Okay!　Let's get started. Hey, ......[Hあだ名].
+「うっ、な、なぁに…………[Pあだ名]」=Ugh, what's with the ............[Pあだ名]?
 「おおぉ！　いい！　最高だよ！　ありがとう！」=Ooh!　Oh, my God!　That was awesome!　Thank you!
 「はぁ……たまに無茶振りしてくるのだから。付き合う身にもなりなさい」=I don't know." "Haha ......, you're so reckless sometimes. You have to be willing to go along with it.
 「あはは……ほら、そこは実際に付き合ってる仲って事で」=Hahaha ...... See, that's what I mean when I say we're actually dating.

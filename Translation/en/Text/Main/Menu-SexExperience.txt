@@ -1,0 +1,32 @@
+//*******************************************************************
+//*******************************************************************
+// H Experience
+//*******************************************************************
+//*******************************************************************
+
+// Scope of the file: Only applies to the H-Experience Screen for 
+// Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level 10
+
+//Sex Experience
+エッチ経験=Sex Experience
+女の子が絶頂した=The Girl Climaxed
+男が射精した\r=The Man Ejaculated\r
+同時絶頂した\r=Climaxed Simultaneously\r
+なにもしなかった=I did nothing
+
+//Bonus
+ボーナス=Bonus
+女の子からのエッチ誘い\r=Girl Asked For Sex\r
+性癖進行ボーナス=Sexual Progression
+
+//Familiarity
+性癖慣れ=Familiarity
+奉仕=Service
+
+//Dialog boxes
+新しい体位を覚えた=Learned a new position
+
+//End Button
+終了=End

@@ -6,7 +6,7 @@
 「……[Pあだ名]」=...[Pあだ名]
 「うわぁ、結構照れるかも……でも……うん、新鮮でいいね。俺も呼んでいい？」=Wow, that's pretty embarrassing ...... but ...... yeah, it's nice and fresh. Can I call you too?
 「うんっ！　えっと……お願いします」=Yes!　......, please.
-「それじゃ……[Hあだ名]」=Okay, ......[H nickname].
+「それじゃ……[Hあだ名]」=Okay, ......[Hあだ名].
 「わぁぁ、呼ぶのよりも呼ばれる方が恥ずかしい！」=Oh, I'm more embarrassed to be called than to be called!
 「だよね！　俺もそう思った。[Hあだ名]も同じなんだ？」=I know!　I thought so too. I thought so too. - [nickname] is the same?
 「もー、恥ずかしいよー！　でも……これからも時々は……こうやって呼び合いたいな」=I'm so embarrassed!　But ...... I hope we can call each other ...... from time to time.

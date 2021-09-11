@@ -24,7 +24,7 @@ ADV=Story
 サウンド=Sound
 音声=Voices
 マップ移動設定=Map Movement
-エステ=Esthetics
+エステ=Salon
 エッチ=H-Scene
 その他=Miscellaneous
 機能拡張=Extras
@@ -157,6 +157,8 @@ ON/OFF=ON / OFF
 頬赤の表示=Show Cheek Flushing
 注視点の表示=Show Crosshair
 アクセサリー常時表示=Always Show Accessories
+アクセサリー常時表示<color%3Dred><size%3D14>※2=Always Show Accessories <color%3Dred><size%3D14>※2
+
 //None
 頭の一部=Head Only
 //All

@@ -6,7 +6,7 @@
 「……[Pあだ名]」=...[Pあだ名]
 「おおお、確かに新鮮だ……ちょっとドキッとしたよ。俺も呼んでいい？」=Oh, it's definitely fresh. ...... I'm a little nervous. Can I come?
 「もちろんです！　お願いするですよ！」=Of course!　Please do!
-「えーっと……[Hあだ名]」=Uh, ......[H nickname].
+「えーっと……[Hあだ名]」=Uh, ......[Hあだ名].
 「ひあぁ、私もドキッとしたです！　破壊力抜群なのです！」=Oh, I was so nervous too!　It's very destructive!
 「あはは、[Hあだ名]の反応、可愛い。照れてるの？」=Haha, [nickname]'s reaction is cute. Are you embarrassed?
 「はぅっ……て、照れるに決まってるのです……あなたは平気なのですか？」=Huh. ...... Of course I'm embarrassed. ...... Are you okay with that?

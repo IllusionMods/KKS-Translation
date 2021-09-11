@@ -1,0 +1,211 @@
+//*******************************************************************
+//*******************************************************************
+// Note: This file contains translations to transcriptions that are
+//       embedded in Subtitles plugin regarding Chara Maker voices 
+//       when you select the girl's personality.
+//*******************************************************************
+//*******************************************************************
+
+//Scope of the file: Only applies to the Chara Maker for Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level 3
+
+//00 - Sexy
+私に声を掛けるなんて、見る目あるぅ=Coming after me? You've got a good eye.
+ここは女の子のヒミツの花園よ♡=This garden of delights is for ladies only♡
+君、運命って信じる=Do you believe in fate?
+
+//01 - Ojousama
+その……よろしくお願いしますね=Um... It's a pleasure to meet you.
+お疲れ様です=Good work today
+もしよろしければこの後……い、いえ、なんでもありません！　失礼します！=If you're not busy after this, why don't we, erm—\nN-nothing! It's nothing! Goodbye!
+
+//02 - Snobby
+いいこと？　決してわたくしを退屈をさせないようになさってね=But, just so we're clear! I will not tolerate dull conversation.
+当然ですわ。だってこのわたくしなんですもの=Of course I am. I couldn't be anything but!\nI'm simply glad you noticed.
+わたくしに釣り合う男性など滅多におりませんわ=Few men are worthy of my attention.
+
+//03 - Kouhai
+今日はいっぱい頑張るですよ！=Yes! Let's study lots and lots today!
+恥ずかしい……です……=Um... Stuff like that gets me all frazzled.
+は、ハレンチなのです……=Th-That's so... naughty!
+
+//04 - Mysterious
+……なんとなく、あなたが来る気がしたの=How strange. Something told me I'd see you here.
+誰にだって秘密はあると思うわ=I'm pretty sure everyone has one or two skeletons in their closet.
+あなたになら、私の全部をさらけ出せるかも……=Something tells me opening up to you might not be so bad.
+
+//05 - Weirdo
+宇宙にはわたしの仲間――“かれら”がいるの=From my brothers and sisters in the stars.
+あなたと……交信したい……=I want to... exchange transmissions.
+一緒にメッセージ、探そっか！=Let's go search for any messages they might have sent!
+
+//06 - Yamamamamamamamato Nadeshiko :P
+私もこれから、そのような経験をするのでしょうか=I wonder if I will ever experience something like that again.
+その…殿方と目を合わせるのは、慣れていないもので……=I... am not accustomed to meeting a man's gaze.
+何故か、貴方のにおいがすると、胸がドキドキして=Something about the way you smell makes my heart beat with excitement...
+
+//07 - Tomboy
+いいぜ、私でよければなんでも聞けよな！=Huh. Why not? I'm down to chat.
+私ってそんなに男っぽいのか？=Do I really look that much like a boy?
+ちょっとづつ、お前のこと分かってきた気がするよ=I'm starting to feel like I get you.
+
+//08 - Pure
+どうしたの。寂しくなっちゃったの。=What's wrong? I lonely.
+少しだけあなたに興味が沸いてきたみたいなの=I think I'm kinda interested in you.
+手を握るのはまだダメだってば=I thought I told you it's too soon for us to hold hands!
+
+//09 - Simple
+黙ってどうかした。もしもし。=Why are you being quiet? Hello?
+バカ！　嫌いなんて言ってないでしょ！=Dummy! I didn't say that at all!
+そんなにじろじろ見ないで。恥ずかしいじゃないの！=Stop staring at me like that! I'm getting all embarrassed!
+
+//10 - Delusional
+汝に興味が湧いた……=Thou hast piqued my interest.
+きたるべき神との大戦に備えねば！=Yes, we must hone our skills for the prophesized war against the accursed Gods of Light!
+ちょ、ちょっとその話は、我には過激すぎるぞ=Th-That topic is far too titillating for one such as I. I... don't mind, however.
+
+//11 - Motherly
+くすくす、おしゃべりって楽しいでしょ=Hehehe, isn't it fun to talk?
+おマセさんねぇ=What a curious young man!
+子供は元気が一番よね～=Playtime is important for growing up healthy and strong!
+
+//12 - Big Sisterly
+こういう時間も。悪くないなって最近思うよ=Time like this. I've been thinking lately that it's not so bad.
+うーん？私にようか？=Hmm? You want me to?
+おーい、鼻の下伸びてるぞー=*ahem* Gawking much? Best cut that out if you're smart.
+
+//13 - Gyaru
+やっぱり真面目な人ってポイント高いかな=I guess being a serious person is very important.
+女の子に興味あるんだ？　あは、顔真っ赤だよ？=Do you like girls? Ha, your face is totally red right now!
+セクハラはダ～メ=Wow, this is like, totally harassment.
+
+//14 - Delinquent
+おい、何してんだ？=Hey, what are you doing?
+いいぜ。暇つぶしに付き合ってやるよ=Why not. Got nothin' better to do.
+その……この後とかお前予定あんのか……？=So, um... Got any plans after this?
+
+//15 - Wild
+な、な、どこ行くんだい何か楽しいことあるのか？=Hey, hey, where are you going, do you have something fun to do?
+クンクン、クンクン。怪しいニオイが……=*sniff sniff* ... Hmm, you smell kinda fishy.
+ヤラしーこと考えてるにおいだぞ=You're thinking about sex! I can smell it all over you!
+
+//16 - Wannabe
+男は低俗と聞いていたけれど、ここまで見境がないなんて=I heard men could be vulgar, but you? You're scum.
+私は人間観察が趣味なの=My hobby is people-watching.
+アナタといる事に価値を見出せない、私は忙しいの=I see no value in interacting with you. Goodbye.
+
+//17 - Reluctant
+私と話がしたい？　他をあたってもらってもいいかしら=You expect me to talk to you? Not interested. Try someone else.
+あまりまじまじと見ないで=Quit looking at me like that.
+あなた変態ね……=Such a perv...
+
+//18 - Jinxed
+私の顔…何かついてますか？=My face... Do I have anything on it?
+お話ですか？嬉しいです=You want to talk? I'd love to.
+不安な時は強く抱きしめて欲しいです=If ever I look uneasy, just hold me tight, okay?
+
+//19 - Bookish
+なんだか、小説の主人公になったみたい……=Characters in the stories do things like this all the time.
+今は本を読みたいから、できれば遠慮したいかな……=I hope you don't mind, but I'm really in the mood to read.
+いらっしゃい。今日はどんな物語を紡ぎましょうか……=Welcome. What tale will our love weave today, I wonder?
+
+//20 - Timid
+うん。じっと見られると落ち着かないですね…=Yeah. It's uncomfortable to be stared at...
+きゃっ！？　あ、あなたでしたか……=Eeep! O-Oh, it was just you.
+あなたのためにも私……もっと女の魅力……磨きますからね……=I'll try to, um... sexy myself up more for you...
+
+//21 - Typical Schoolgirl
+さて、禁断の恋ってやつ！=Well, forbidden love, that is!
+あ、キミも気分転換？=Oh, are you here to clear your head too?
+あ、今エッチなこと考えてたでしょ=Hey, you're about to ask something rude, aren't you?
+
+//22 - Trendy
+男の子から見られると、ちょっと恥ずかしいね=It's kind of embarrassing when boys look at me.
+ただひたすら情報収集！　これに尽きるよー=You just gotta dig for information, that's all!
+君とお話すると、何だかドキドキしちゃうんだ……えへへ=My heart starts pounding when I talk with you... *giggle*
+
+//23 - Otaku
+調子はどうだい。=How are you doing?
+ゲームやアニメの話もまだ話したいことあるんだ=There're so many games and anime we have to talk about.
+ネトゲはいいですぞー=Online games are amazing!
+
+//24 - Yandere
+あなたとの時間が日に続けばいいのに=I wish my time with you could last into the day.
+あなたを見守っていたら、すぐに一日が過ぎてしまいました=The day passes by so quickly when I'm following you.
+ずっと夢に見ていました♡=I've always dreamed about this moment.♡
+
+//25 - Lazy
+……ダルいんで無理っす=I'm too tired to deal with this.
+その誘い方、まさかナンパっすか？=Wait, are you hitting on me?
+みんなのやる気が下がる～？　やる気は個人の問題だと思うんだけどな～=I bring everyone down? Your mood isn't my problem.
+
+//26 - Quiet
+……あなたと話す時間は、楽しいから好き=...Talking with you is fun. So, I like it.
+……ちょっと、疲れた=...Kinda tired.
+……今日もお話、聞かせて……？=...Keep me company?
+
+//27 - Subborn
+……な、何？　私に聞きたいことでもあるの？=...S-So? What did you want to talk about?
+わ～っ！　あんた馬鹿！？=Whaa! Are you crazy?!
+もしかして、このままキス……だ、ダメ！　まだダメぇっ！=Hang on, are we about to kiss...? S-Stop it! I'm not ready yet!
+
+//28 - Old-Fashioned
+縁側で二人に、ゆっくりするのも良いと思うのだ=I think it would be nice to relax, just the two of us, on the porch.
+お主にわしを楽しませることができるか見ものじゃな=Oho, really? Let us see if you have the skill to surprise one such as I.
+おや、どうした？　何か用かの？=Ho? You seek my council?
+
+//29 - Humble
+……そう。あなたも物好きですね=Oh? Is idle chatter perhaps one of your hobbies?
+……なんでしょうか=What is it?
+んっ……あなたの手、温かい……=Ahh... Your hand is so warm.
+
+//30 - Friendly
+なになに？　お姉さんに用かな？=What is it? You wanted to see your sister?
+うん、何か楽しい話はないかしら…=Yeah, I wonder if there's anything fun to talk about...
+……んー、どこ見てるのかな？=...Hmm, what are you looking at?
+
+//31 - Willful
+何をフラフラしている。時間は有限だぞ=What are you wandering around for? My time is limited.
+どうした？　用があるなら、聞いてやるぞ=What's the matter? If you need me, I'm here.
+お前、いい顔になってきたな=You're starting to look good.
+
+//32 - Honest
+何かご用でしょうか=What can I do for you?
+おしゃべりにも慣れてきたようで、何よりです=I'm glad to hear that you're getting used to talking.
+いつもより方が緩んでいますよ=You seem to be more relaxed than usual.
+
+//33 - Glamorous
+あなた、私に興味があるの？=Are you interested in me?
+あら、あなただったの=Oh, it's you.
+そういう考え方て、いかにも男の子らしくていいわね？=I love how you think like a boy, don't you?
+
+//34 - Returnee
+Ｈｕｇシマショー♪=Hug Shimmer Show ♪
+Ｏｈ！　Ｎｉｎｊａさん、ココはお忍び禁止デスヨ！？=Oh! Ninja-san, you can't be sneaky here!
+Ｈｉｙａ，Ｍｙ　ｓｗｅｅｔ♡=Hiya, My sweet♡
+
+//35 - Slangy
+今日も一日お疲れさまっ！　私も頑張ったけん、ほめてほめて～=Good work today! I worked hard too, so praise me!
+こ、こげな話はやめよ？　恥ずかしくてほっぺた熱くなるやん=Don't talk like this, okay? I'm so embarrassed that my cheeks are burning.
+えへへ、頑張ってる君、ばり格好良いよ♪=You're doing great, you're looking good ♪
+
+//36 - Sadistic
+なに？　まだ生きていたの？　はぁ、意地汚い=What? You're still alive? Huh, nasty.
+今すぐ私の前から消えなさい、愚図=Get out of my sight right now, you fool.
+なぁに？　苛めて欲しい？=What? You want me to torment you?
+
+//37 - Emotionless
+何故そんなに見つめるのでしょうか=Why are you staring so hard?
+似合いますか？=Do I look good?
+あ……すみません、あなたに見惚れていました=Oh... Sorry, I was just admiring you!
+
+//38 - Perfectionist
+あぁ,ちょうどあなたとお話ししたいと思っていました=Oh, I was just hoping to talk to you.
+あの、もしかして私……口説かれていますか？=Um, are you hitting on me... By any chance?
+んふふ、また何かございますか？=Hehehe... What can I do for you again?
+
+//39 - Island Girl
+何でも遠慮なく聞いてそのほうがうれしいさ=Don't hesitate to ask me anything, I'll be happy to help.
+さて何しようかね=So what do we do now?
+はいタイ！ くすくす、もうこの挨拶にも慣れた=Hai Tai! Hehe, I've gotten used to this greeting.

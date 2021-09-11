@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-朝=Morning
-昼=Midday
-夕=Evening
+朝=Dawn
+昼=Noon
+夕=Dusk
 夜=Night

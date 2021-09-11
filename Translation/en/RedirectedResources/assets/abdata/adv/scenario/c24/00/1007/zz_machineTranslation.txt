@@ -9,7 +9,7 @@
 「はい♡　あなたのことならなんでも知っていますから、絶対に満足してもらえるデートコースですよ♡　早速行っちゃいましょう♡」=Yes ♡ I know everything about you, so this is a date course that will definitely satisfy you ♡ Let's go right away ♡.
 「はい♡　ここに戻ってきました♡　どうでしたか、私のデートプラン、楽しんでもらえましたか♡」=Yes ♡ I'm back here ♡ How did you enjoy my date plan?
 「はぁ～～、すごいエスコートだったよ。もう俺の趣味全開というか、水族館ってこんなに楽しかったんだね」=It was a great escort. I'm not sure if it's my taste at all, but I didn't know aquariums could be so much fun.
-「うふふふ♡　私のあなたへの愛、フル活用しちゃいました♡」=
+「うふふふ♡　私のあなたへの愛、フル活用しちゃいました♡」=Ufufufu ♡ I have made full use of my love for you ♡
 「あなたが私のために水族館を選んでくれたのもわかっていましたから、その恩返しでもあります♡」=I also knew that you chose the aquarium for me, so I'm returning the favor, handsome.
 「あはは、[H名]に隠し事はできないね」=Haha, you can't hide anything from [H名].
 「ふふ♡　そうですけど、あなたが隠したそうにしてることは、あえて見ないふりしています♡」=Yes, but I'm pretending not to see what you're trying to hide from me.
