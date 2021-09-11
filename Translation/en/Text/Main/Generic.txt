@@ -1,6 +1,6 @@
 //*******************************************************************
 //*******************************************************************
-// Note: Generic texts that appear all accross the game or have the
+// Note: Generic texts that appear all across the game or have the
 //       generic scope levels -1 or 1
 //*******************************************************************
 //*******************************************************************
@@ -24,6 +24,12 @@
 //---------------------------------------------------------
 タイトルへの切替確認=Confirm Return to Main Menu
 タイトルへ戻りますか？=Back to the Main Menu?
+
+//---------------------------------------------------------
+// Back to Your Room Box
+//---------------------------------------------------------
+一日の行動終了の確認=Confirm the end of the day's activities
+部屋に帰りますか？=Return to your room?
 
 //---------------------------------------------------------
 // Converting card menu
@@ -72,6 +78,7 @@
 // Game Right Menu
 //---------------------------------------------------------
 撮影モード=1st Person
+三人称モード=3rd Person
 
 //---------------------------------------------------------
 // Character List, load in various places
@@ -101,6 +108,7 @@
 水着=Swimsuit
 寝間着=Pajamas
 風呂場=Bathing
+お風呂=Bath
 
 //---------------------------------------------------------
 // H-Scene: Change Location
@@ -108,3 +116,11 @@
 //Dialog Box
 ポイント移動確認=Confirm new location
 選択した場所に移動しますか？=Move to the selected place?
+
+
+//---------------------------------------------------------
+//Shop: Change Player's Stay
+//---------------------------------------------------------
+高級感漂う浜辺近くのリゾートホテル。レストランや屋外プールがある。=A resort hotel near the beach with a luxurious atmosphere. It has a restaurant and an outdoor pool.
+地元の民家を改装した縁側のある民宿。三線体験や、バーベキューも楽しめる。=A guest house renovated from a local house with a veranda. You can also learn to play the Sanshin (Okinawan guitar) and enjoy barbecues.
+研修を目的に建てられた合宿所。島文化に関する資料室やスポーツ施設がある。=A training center built for the purpose of training. It has a library of island culture and sports facilities.

@@ -35,10 +35,10 @@
 
 // /ActionScene/UI/ActionMoveGuideCanvas/Root/Menu/
 情報切替え\n=Switch Info\n
-同レアリティ話題３つを\nワンランク上の話題と\nランダムに交換=Exchange 3 topics of the same rarity for \ntopics of a higher rank.
+同レアリティ話題３つを\nワンランク上の話題と\nランダムに交換=Exchange 3 topics of the same rarity for a random topic of a higher rank.
 
 // /ActionScene/UI/CallMenuCanvas/BackImage/Frame/Address/CallTitle
-男のステータス=Male Status
+男のステータス=Player Status
 
 // /ActionScene/UI/CallMenuCanvas
 連絡先が登録されていません=No contact information is registered.
@@ -52,7 +52,7 @@
 自室に誘う=Invite to Room
 エッチしたい=Ask for Sex
 
-// 人=
+ 人=Person
 
 // /ActionScene/UI/HeroineStatus/Canvas/BG/background/CharaView
 ステータス情報=Status Information
@@ -115,7 +115,7 @@ r:^※コイカツポイントを(\d+)pt消費します。$=※ Consumes $1 Koik
 祈り結果=Prayer
 個数=Count
 入手=Found
-入手話題=Obtained Topics
+入手話題=Topics Inventory
 
 
 
@@ -132,5 +132,7 @@ r:^※コイカツポイントを(\d+)pt消費します。$=※ Consumes $1 Koik
 ポイント\nショップ=Points\nStore
 去る=*It leaves.
 去る=Leave
-滞在先\n変更=Change\nAccomodations
+滞在先\n変更=Change\nStay
 
+//Unsorted
+オートセーブしました=Autosaved

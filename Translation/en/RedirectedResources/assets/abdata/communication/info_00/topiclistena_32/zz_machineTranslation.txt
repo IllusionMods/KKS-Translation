@@ -1,35 +1,35 @@
-「あなたは本格的な<color=yellow>釣り</color>をしたことがありますか？」=Have you ever done any serious <color=yellow>fishing</color>?
-「趣味の釣りとはやはり次元が違いますね」=<color=yellow>Fishing is so much more than a hobby.
-「<color=yellow>シュノーケリング</color>のコツ、あなたはわかりますか？」=Do you have any tips on <color=yellow>snorkeling</color>?
+「あなたは本格的な<color%3Dyellow>釣り</color>をしたことがありますか？」=Have you ever done any serious <color%3Dyellow>fishing</color>?
+「趣味の釣りとはやはり次元が違いますね」=<color%3Dyellow>Fishing is so much more than a hobby.
+「<color%3Dyellow>シュノーケリング</color>のコツ、あなたはわかりますか？」=Do you have any tips on <color%3Dyellow>snorkeling</color>?
 「そうですね、ゆっくり身体を動かし、水の中に溶け込む事が大事です」=Yes, it's important to move slowly and blend into the water.
 「それは……後で詳しく教えてもらいたいです」=I'd like you to tell me more about that after .......
 「ふむ、その情報はどこから手に入れたのでしょう」=Hmm, where did you get that information?
 「今度、改めて体験してみて下さい」=You'll have to try it again next time.
 「どうでしょう、興味が出てきたでしょうか？」=What do you think? Are you interested?
-「あなたは<color=yellow>水牛</color>についてどう思いますか？」=What do you think of the <color=yellow>water buffalo</color>?
+「あなたは<color%3Dyellow>水牛</color>についてどう思いますか？」=What do you think of the <color%3Dyellow>water buffalo</color>?
 「はい、穏やかで、とても優しい性格をしていると思います」=Yes, I think they are gentle and have a very kind nature.
-「この島の<color=yellow>ネコ</color>、とてもかわいいですよね」=The <color=yellow>cats</color> on this island are very cute, aren't they?
+「この島の<color%3Dyellow>ネコ</color>、とてもかわいいですよね」=The <color%3Dyellow>cats</color> on this island are very cute, aren't they?
 「島特有の気質なのか、とてものんびりしていますよね」=They're very laid-back, which may be a characteristic of the island.
-「あなたは<color=yellow>ハイビスカス</color>に興味ありますか？」=Are you interested in <color=yellow>hibiscus</color>?
+「あなたは<color%3Dyellow>ハイビスカス</color>に興味ありますか？」=Are you interested in <color%3Dyellow>hibiscus</color>?
 「私は、帰ったら家で育ててみようと思っています」=I'm thinking of trying to grow some at home when I get back.
-「この島の<color=yellow>星空</color>を見て、あなたは何か感じませんでしたか？」=Didn't you feel anything when you saw the <color=yellow>starry sky</color> of this island?
+「この島の<color%3Dyellow>星空</color>を見て、あなたは何か感じませんでしたか？」=Didn't you feel anything when you saw the <color%3Dyellow>starry sky</color> of this island?
 「あの満天の星空……見上げていると、吸い込まれてしまいそうな気分になります」=When I look up at that star-filled ...... sky, I feel like I'm being sucked in.
 「……それは、私も見てみないとですね」=...... I'll have to take a look at that.
 「なるほど、そちらも興味があります」=I see. I'm interested in that too.
 「今度、じっくり観察してみるといいですよ」=You should take a closer look next time.
 「機会があれば観察してみて下さい」=Take a look at it when you get a chance.
-「<color=yellow>チンアナゴ</color>についてですが、あなたはどれだけ知っていますか？」=How much do you know about the <color=yellow>chinago</color>?
+「<color%3Dyellow>チンアナゴ</color>についてですが、あなたはどれだけ知っていますか？」=How much do you know about the <color%3Dyellow>chinago</color>?
 「そうですね。他にも、ご飯を食べている最中に絡まってしまうお茶目な所もあるようです」=Yes, I do. They also have a mischievous habit of getting tangled up in their food.
-「<color=yellow>クマノミ</color>と言えばイソギンチャクですが、どのような関係かわかりますか？」=Do you know how <color=yellow>tardigrades</color> are related to sea anemones?
+「<color%3Dyellow>クマノミ</color>と言えばイソギンチャクですが、どのような関係かわかりますか？」=Do you know how <color%3Dyellow>tardigrades</color> are related to sea anemones?
 「そうですね、上手いこと互いに共依存しているようです」=Well, they seem to be very well co-dependent on each other.
 「そうですか、そういったことも……」=Oh, yeah, that's what ...... is all about.
 「ふむ、それは私も知らない情報でした」=Hmm, that's information I didn't know.
 「こういった知識は水族館へ行けば得られるかもしれませんよ？」=Maybe you can get some of this knowledge at the aquarium?
 「これを機に海の生物を調べてみるのも楽しいと思います」=I think this is a great opportunity to learn more about marine life.
-「この島の<color=yellow>名物料理</color>、試してみましたか？」=Have you tried the island's <color=yellow>specialties</color>?
+「この島の<color%3Dyellow>名物料理</color>、試してみましたか？」=Have you tried the island's <color%3Dyellow>specialties</color>?
 「美味しいは美味しいのですが、こう、何の味と言われると表現の難しい味ですよね」=It's delicious, but it's hard to describe what it tastes like.
-「あなたは<color=yellow>シーサー</color>についてどれだけ知っていますか？」=How much do you know about <color=yellow>Shisa</color>?
-「そうですね。口が開いているのがオス、閉じているのがメス、というのもあります」=How much do you know about <color=yellow>Shisa</color>? Some say that the male has an open mouth and the female has a closed mouth.
+「あなたは<color%3Dyellow>シーサー</color>についてどれだけ知っていますか？」=How much do you know about <color%3Dyellow>Shisa</color>?
+「そうですね。口が開いているのがオス、閉じているのがメス、というのもあります」=How much do you know about <color%3Dyellow>Shisa</color>? Some say that the male has an open mouth and the female has a closed mouth.
 「なるほど、面白い情報が聞けました」=Well, that's interesting information.
 「なるほど、中々為になる情報ですね」=Well, that's very informative.
 「どうでしょう、気になってくれましたか？」=What do you think? Are you curious?

@@ -408,3 +408,5 @@
 「うぎゃ！？　男子は入っちゃダメだぞ！」=What?　Boys aren't allowed in here!
 「もー、入っちゃダメだぞ！　でも……今はあたししかいないから、ちょっとだけ居ても、いいぞ？」=You can't go in there!　But ......, I'm the only one here right now, so you can stay for a little bit, okay?
 「ひゃっ！　み、みんなの方は見るな！　早く出て行くんだっ」=Oh, my God!　Don't look at the others!　Now get out of here.
+「わー♪」「ほわー♪」「にゃー♪」「にゃはは♪」「ガウガウー♪」=Wow ♪" "How ♪" "Nya ♪" "Nyaha ♪" "Gaugau ♪
+「なーなー」「なーってばー」「ねーねー」「ねーってばー」「聞ーて、聞ーて」="Nana" "Nateba" "Nee" "Neteba" "Listen, listen"

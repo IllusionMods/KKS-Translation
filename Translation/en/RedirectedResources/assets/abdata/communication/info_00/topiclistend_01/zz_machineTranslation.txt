@@ -1,34 +1,34 @@
-「実は<color=yellow>釣り</color>に挑戦してみたんです。とても楽しかったですよ」=I actually tried my hand at <color=yellow>fishing</color>. It was a lot of fun.
+「実は<color%3Dyellow>釣り</color>に挑戦してみたんです。とても楽しかったですよ」=I actually tried my hand at <color%3Dyellow>fishing</color>. It was a lot of fun.
 「ふふ、面白いですよね。私、はまってしまうかもしれません」=It's interesting, isn't it? I think I might be addicted to it.
-「海のレジャーといえば、<color=yellow>バナナボート</color>ですよね。私、好きなんです」=Speaking of leisure activities in the sea, <color=yellow>banana boat</color> is one of them, isn't it? I like it.
+「海のレジャーといえば、<color%3Dyellow>バナナボート</color>ですよね。私、好きなんです」=Speaking of leisure activities in the sea, <color%3Dyellow>banana boat</color> is one of them, isn't it? I like it.
 「あなたも好きなんですねっ。好みが合って嬉しいです」=So you like it too. I'm glad we like the same things.
-「この島に来て、<color=yellow>カヤック</color>の楽しさを知りました」=When I came to this island, I learned how fun it is to <color=yellow>kayak</color>.
+「この島に来て、<color%3Dyellow>カヤック</color>の楽しさを知りました」=When I came to this island, I learned how fun it is to <color%3Dyellow>kayak</color>.
 「あんなに自然を感じることが出来るなんて、思ってもみなかったです」=I never thought I'd be able to experience nature like that.
 「そちらも面白そうですね」=That sounds interesting, too.
 「なるほど、私もやってみますね」=I see. I'll have to try that.
 「その……あなたも気に入ると思いますので……よかったら、やってみてください」=Well, ...... I think you'll like it. ...... You can try it, if you like.
 「えっと……あなたも好きになってくれたら嬉しいです」=Well, ......, I hope you like it too.
-「私、<color=yellow>マングローブ</color>を間近で見たのは初めてだったんです」=It was the first time I had seen <color=yellow>mangroves</color> up close.
+「私、<color%3Dyellow>マングローブ</color>を間近で見たのは初めてだったんです」=It was the first time I had seen <color%3Dyellow>mangroves</color> up close.
 「なんというか……自然の迫力に圧倒されますよね」=I was overwhelmed by the power of ...... nature.
-「島中に咲いている<color=yellow>ハイビスカス</color>、綺麗ですよね」=The <color=yellow>hibiscus</color> blooming all over the island is beautiful, isn't it?
-「特徴的な赤い花を見ていると、南国に来たことを実感します」=The <color=yellow>hibiscus</color> blooming all over the island is beautiful.
+「島中に咲いている<color%3Dyellow>ハイビスカス</color>、綺麗ですよね」=The <color%3Dyellow>hibiscus</color> blooming all over the island is beautiful, isn't it?
+「特徴的な赤い花を見ていると、南国に来たことを実感します」=The <color%3Dyellow>hibiscus</color> blooming all over the island is beautiful.
 「あ、私も知っていますよ」=Oh, I know them, too.
 「ええ、そちらも素敵ですね」=Yes, it's beautiful there, too.
 「とても素敵なので、機会があったら見にいってください」=It's very nice. You should see it when you get a chance.
 「その……興味を持ってもらえたら、嬉しいです」=I'd be happy if you'd be interested in that .......
-「研修旅行なので、<color=yellow>サンゴ</color>について色々調べてみたんです」=Since it's a study tour, I've been doing a lot of research on <color=yellow>coral</color>.
+「研修旅行なので、<color%3Dyellow>サンゴ</color>について色々調べてみたんです」=Since it's a study tour, I've been doing a lot of research on <color%3Dyellow>coral</color>.
 「実は植物ではなく、動物なんだそうですよ。こんな機会がなければ、ずっと知らなかったかもしれません」=I heard that they are actually animals, not plants. If I hadn't had this opportunity, I might not have known about it for a long time.
-「この間、<color=yellow>シオマネキ</color>のオスを見つけたんです」=The other day I found a male <color=yellow>silverback</color>.
-「大きな鋏をぶんぶんと振り回していて、とても可愛らしかったですよ。本当に潮を招いているようでした」=I found a male <color=ellow>Shiromane</color> the other day, and he was waving his big scissors around like he was inviting the tide. It was really inviting the tide.
+「この間、<color%3Dyellow>シオマネキ</color>のオスを見つけたんです」=The other day I found a male <color%3Dyellow>silverback</color>.
+「大きな鋏をぶんぶんと振り回していて、とても可愛らしかったですよ。本当に潮を招いているようでした」=I found a male <color%3Dellow>Shiromane</color> the other day, and he was waving his big scissors around like he was inviting the tide. It was really inviting the tide.
 「ふふ、あなたはそちらが好きなんですね」=Hmm, you like that one, don't you?
 「へぇ、お詳しいんですね」=Oh, you know a lot about it.
 「あら……あなたが知らないなんて、ちょっと意外です」=Oh, ......, I'm a little surprised you haven't heard of it.
 「もしよかったら、あなたも調べてみてください」=You should check it out if you want.
-「あなたは、どんな<color=yellow>お土産</color>を購入されましたか？」=What kind of <color=yellow>souvenirs</color> have you bought?
+「あなたは、どんな<color%3Dyellow>お土産</color>を購入されましたか？」=What kind of <color%3Dyellow>souvenirs</color> have you bought?
 「なるほど、色んな味が楽しめるちんすこうですね。素敵なセンスだと思います」=I see. It's chinsuko, which comes in a variety of flavors. I think you have great taste.
-「<color=yellow>シークヮーサージュース</color>を飲んでみましたか？」=Have you tried the <color=yellow>Shikwasa Juice</color>?
+「<color%3Dyellow>シークヮーサージュース</color>を飲んでみましたか？」=Have you tried the <color%3Dyellow>Shikwasa Juice</color>?
 「やっぱり酸っぱいですが、口当たりがよくスッキリしていましたよね。私、好きになったかもしれません」=It's still sour, but it's smooth and refreshing. I think I might like it now.
-「<color=yellow>三線</color>の音色って、どこか癒されませんか？」=Isn't the sound of the <color=yellow>sanshin</color> soothing in some way?
+「<color%3Dyellow>三線</color>の音色って、どこか癒されませんか？」=Isn't the sound of the <color%3Dyellow>sanshin</color> soothing in some way?
 「自分の故郷の音でもないのに落ち着くなんて、不思議ですよね」=It's strange how the sound of something that doesn't even come from your own hometown can soothe you.
 「そちらが、あなたのオススメなんですね」=So that's your recommendation?
 「ああ、そちらも素敵ですよね」=Oh, it's lovely there, too.

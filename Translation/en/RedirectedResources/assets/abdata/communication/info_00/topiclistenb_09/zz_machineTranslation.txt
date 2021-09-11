@@ -1,34 +1,34 @@
-「あんたはもう<color=yellow>ツリーイング</color>はやってみた？」=Have you tried <color=yellow>treeing</color> yet?
+「あんたはもう<color%3Dyellow>ツリーイング</color>はやってみた？」=Have you tried <color%3Dyellow>treeing</color> yet?
 「猿みたいに自由に……とまではいかないけど、木の上で遊べて楽しいわよね」=It's not quite as ...... free as monkeying, but it's fun to play in the trees.
-「<color=yellow>バナナボート</color>は何回乗っても飽きないわね！」=The <color=yellow>banana boat</color> never gets boring, no matter how many times you go on it!
+「<color%3Dyellow>バナナボート</color>は何回乗っても飽きないわね！」=The <color%3Dyellow>banana boat</color> never gets boring, no matter how many times you go on it!
 「あたし、帰るときはバナナボートでも全然大丈夫だわ！」=I'm totally fine with banana boats on the way home!
-「あんたも、<color=yellow>カヤック</color>は好き？」=Do you like to kayak?
+「あんたも、<color%3Dyellow>カヤック</color>は好き？」=Do you like to kayak?
 「カヤックを漕ぐのに熱中しすぎて、つい景色を見るのを忘れちゃうのよね～」=I get so absorbed in the kayaking that I forget to look at the scenery.
 「そっちも面白そうじゃない」=That sounds fun too.
 「それがあんたのお勧めってわけね」=So that's what you're suggesting.
 「あの楽しさが分からないわけ？　じゃあもっとやってみなさいよ」=Don't you know how fun it is?　You don't know how fun it is? - Then you should try it more often.
 「面白さが分からないなんて、楽しみ方を間違ってるんじゃない？」=If you can't see the fun in it, you're not enjoying it.
-「<color=yellow>パワースポット</color>って、なんか不思議な力をもらえるわよね」=<color=yellow>Power spots give you some kind of magical power, don't they?
+「<color%3Dyellow>パワースポット</color>って、なんか不思議な力をもらえるわよね」=<color%3Dyellow>Power spots give you some kind of magical power, don't they?
 「色んなパワースポットを巡っていったら、最強の力が手に入るのかしら」=I wonder if visiting different power spots will give me the strongest power.
-「大きな<color=yellow>ガジュマル</color>の樹の上って、秘密基地になりそうだと思わない？」=Don't you think the top of a big banyan tree would make a good secret base?
+「大きな<color%3Dyellow>ガジュマル</color>の樹の上って、秘密基地になりそうだと思わない？」=Don't you think the top of a big banyan tree would make a good secret base?
 「すごく丈夫そうだし、一人くらいなら住めると思うのよね～」=It looks so sturdy, I think it could house one person.
 「あんたは中々詳しいみたいね」=You seem to know a lot.
 「この島の自然のことは、あんたに聞いた方が良さそうね」=I think I'll have to ask you about the nature of this island.
 「もしかして知らないの？　ふふん、あたしの方が詳しいわね」=You don't know anything about it?　No, I know more than you.
 「あんたの知識もまだまだね」=You don't know shit either.
-「あんた、<color=yellow>チンアナゴ</color>はもう見にいった？」=Have you been to see the <color=yellow>chinagoes</color> yet?
+「あんた、<color%3Dyellow>チンアナゴ</color>はもう見にいった？」=Have you been to see the <color%3Dyellow>chinagoes</color> yet?
 「集団で砂に埋まってるのを見ると、まとめて引っこ抜きたくなるのよね～」=When I see them buried in the sand in groups, I want to pull them out all together.
-「<color=yellow>シオマネキ</color>って、なんで片方だけハサミがでかいのかしら？」=Why does the <color=yellow>chinamanefish have one pair of scissors so big?
+「<color%3Dyellow>シオマネキ</color>って、なんで片方だけハサミがでかいのかしら？」=Why does the <color%3Dyellow>chinamanefish have one pair of scissors so big?
 「あんなの絶対歩きにくいに決まってるわ」=I bet they're hard to walk with.
 「へぇ、やっぱり海は広いわねー」=Wow, it's a big ocean.
 「なるほど、あんたはそれが好きなのね」=I see. You like that, don't you?
 「まだ見てないなら、見に行った方がいいわよ」=If you haven't seen it yet, you should go see it.
 「面白いんだから、探してみなさいよ」=It's interesting. You should see it.
-「あんたは、もう<color=yellow>お土産</color>買った？」=Have you bought your <color=yellow> souvenirs yet?
+「あんたは、もう<color%3Dyellow>お土産</color>買った？」=Have you bought your <color%3Dyellow> souvenirs yet?
 「なんだ、買ってたのね。あたしが選んであんたに毒見……いや、何も言ってないわ」=Oh, yes, you did. I picked it out and gave it to you. ...... No, I didn't say anything.
-「<color=yellow>シークヮーサージュース</color>を飲んでみたけど、やっぱり酸っぱいわね」=I tried the <color=yellow>Shikwasa Juice</color>, but it's still sour.
+「<color%3Dyellow>シークヮーサージュース</color>を飲んでみたけど、やっぱり酸っぱいわね」=I tried the <color%3Dyellow>Shikwasa Juice</color>, but it's still sour.
 「でも味は嫌いじゃないわ。ちょっとしたマイブームになるかも」=But I don't mind the taste. I think I'm going to like it.
-「その……この年で<color=yellow>ぬいぐるみ</color>を買うのって、やっぱり変かしら？」=Do you think it's weird to buy a <color=yellow>stuffed animal</color> at this age?
+「その……この年で<color%3Dyellow>ぬいぐるみ</color>を買うのって、やっぱり変かしら？」=Do you think it's weird to buy a <color%3Dyellow>stuffed animal</color> at this age?
 「変じゃ……ないのね？　そ、そう……あんたに聞いてみてよかったわ」=It's not ...... weird, is it?　Yeah, well, I'm glad I asked ...... you.
 「それもいいわよね～。あたしも好きだわ」=That's a good idea. I like it too.
 「さすが名物って感じがするわ」=That's what I'm talking about.

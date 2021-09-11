@@ -10,13 +10,10 @@
 #set level 6
 
 //---------------------------------------------------------
-// Heroines List
+// Root Menu
 //---------------------------------------------------------
-//Sorting
-ActionScene/UI/HeroineStatus/Canvas/BG/background/SortButtons=ChangeFontSizeByPercentage(0.8)
-
-//Switch info button
-ActionScene/UI/HeroineStatus/Canvas/BG/background/btnChangeInfo=ChangeFontSizeByPercentage(0.95)
+//Return to Room
+ActionScene/UI/ActionMenuCanvas/Menu Root/Menu MapWarp/Home=ChangeFontSizeByPercentage(0.9)
 
 //---------------------------------------------------------
 // Player Status
@@ -25,3 +22,22 @@ ActionScene/UI/HeroineStatus/Canvas/BG/background/btnChangeInfo=ChangeFontSizeBy
 ActionScene/UI/PlayerStatus/Canvas/BackImage/BG/Right/Stock/imgBack=ChangeFontSizeByPercentage(0.8)
 //Blanking 人=Person
 ActionScene/UI/PlayerStatus/Canvas/BackImage/BG/Left/Lovers/Count/Unit=ChangeFontSizeByPercentage(0.0)
+
+//---------------------------------------------------------
+// Heroines List
+//---------------------------------------------------------
+//Sorting
+ActionScene/UI/HeroineStatus/Canvas/BG/background/SortButtons=ChangeFontSizeByPercentage(0.8)
+
+//Switch info button
+ActionScene/UI/HeroineStatus/Canvas/BG/background/btnChangeInfo=ChangeFontSizeByPercentage(0.95)
+
+//Blood Type Alignment
+//First line is for our cute guide Hikari, second for the rest 
+ActionScene/UI/HeroineStatus/Canvas/BG/background/CharaView/Scroll View/Viewport/Content/status_fix(Clone)/passport_fix/resize/text/Blood/BloodText=TMP_Alignment(Left)
+ActionScene/UI/HeroineStatus/Canvas/BG/background/CharaView/Scroll View/Viewport/Content/status_f(Clone)/passport_heroine/resize/text/Blood/BloodText=TMP_Alignment(Left)
+
+//---------------------------------------------------------
+// Movement Guide
+//---------------------------------------------------------
+ActionScene/UI/ActionMoveGuideCanvas/Root/Move/Text (TMP)=ChangeFontSizeByPercentage(0.75)

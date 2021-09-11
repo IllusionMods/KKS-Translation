@@ -47,7 +47,7 @@
 
 滞在者登録=Register Guest
 ランダムに登録=Random Registration
-<color%3Dorange>『選択した空席』</color>に\n以下からランダムで\nキャラを滞在させます。=<color%3Dorange>Selected Room</color> will be occupied by a random character.
+
 サンプルキャラ=Stock character
 キャラフォルダ=Character Folder
 ネットワーク=Network
@@ -60,8 +60,16 @@
 滞在先の変更=Change Location
 滞在を解除=Check-out
 
+//Change Girl's Location
+移動中=Moving
+ここに移動=Go Here
+入れ替える=Replace
+
 プレイヤーの愛称=Player's Nickname
 変更=Change
+
+全解除=Clear All
+全選択=Select All
 
 //Traits
 個性=Traits
@@ -102,6 +110,16 @@
 // Player Menu
 //---------------------------------------------------------
 プレイヤー情報=Player Info
+呼ばれる愛称=Called by the Nickname
+
+//---------------------------------------------------------
+// Cute Guide Menu
+//---------------------------------------------------------
+案内人情報=Guide Info
+観光案内人=Tourist Guide
+アルバイト=Part-time Job
+関係性=Relationship
+ワンポイントアドバイス=One Point Advice
 
 //---------------------------------------------------------
 // Dialog Boxes
@@ -116,3 +134,7 @@
 
 //Release all rooms
 全キャラを解除しますか？=Do you want to remove all characters?
+
+//Random Registration
+呼び出し先の確認=Confirm call destination 
+<color%3Dorange>『選択した空席』</color>に\n以下からランダムで\nキャラを滞在させます。=<color%3Dorange>Selected Room</color> will be occupied by a random character.
