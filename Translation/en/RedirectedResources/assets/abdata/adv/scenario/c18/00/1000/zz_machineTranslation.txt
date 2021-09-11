@@ -2,7 +2,7 @@
 「あっ……ジュースが来てしまいしたね……」=Oh, ......, the juice is here, .......
 「来てしまったって、なんだか来て欲しくなかったみたいだね？」=It's like you didn't want me to come.
 「そう言うわけでは無いんです。ただ……」=It's not like that. It's just .......
-「私が[P名]さんとカップルジュースを飲むというのが、まだ信じられなくて」=I still can't believe I'm drinking couple juice with [P name].
+「私が[P名]さんとカップルジュースを飲むというのが、まだ信じられなくて」=I still can't believe I'm drinking couple juice with [P名].
 「でも、恋人同士なんだからこれくらいは普通じゃないかな」=But I think it's normal for two lovers to do this.
 「こ、恋人……。そう、ですよね。私たちって恋人同士なんですよね」=I'm a lover ....... Yes, that's right. We're lovers, aren't we?
 「恋人ができるなんて、こんな幸せなこと……まだ夢のように感じてしまいます」=Having a lover is such a blessing. ...... It still feels like a dream.
@@ -11,6 +11,6 @@
 「それは当然だよ。そのつもりで注文したんだし」=That's a given. That's why I ordered it.
 「それとも[H名]は嫌だったかな？　それだったら、俺一人で飲んじゃうけど……」=Or maybe [H名] doesn't like it?　If that's the case, I'll just drink it alone. ......
 「だ、大丈夫です、飲めます」=No, I'm fine. I can drink.
-「ううん、そうじゃなくて……。私も、[P名]さんと一緒に飲みたいです」=No, it's not that. ....... I'd like to have a drink with [P name].
+「ううん、そうじゃなくて……。私も、[P名]さんと一緒に飲みたいです」=No, it's not that. ....... I'd like to have a drink with [P名].
 「じゃあ、あの……。いっせーので、口をつけませんか？」=So, um, ....... Would you like to take a sip?
 「うん、いいよ。じゃあ、いっせーのーでっ」=Yeah, it's nice. All right, let's go.

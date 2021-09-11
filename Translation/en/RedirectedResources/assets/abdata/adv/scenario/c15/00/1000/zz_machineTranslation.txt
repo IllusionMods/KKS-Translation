@@ -13,6 +13,6 @@
 「忘れたのか？　あたし達はお付き合いしてるんだぞ。恋人だ」=Have you forgotten?　We're in a relationship, remember? We're lovers.
 「わ、忘れてるわけないから」=I'm not gonna forget.
 「だったら顔を近づけるくらい平気だろ？　変なやつだなー」=Then I'll buy a key ring too.　You're a funny guy.
-「……[H名]が正しい、のか？」=......[Hname] is right, right?
+「……[H名]が正しい、のか？」=......[H名] is right, right?
 「そかそか、二人で飲むのか。せーので一緒にだぞ？　遅れるなよ」=Oh, yeah, we're drinking together? You're drinking with me?　Don't be late.
 （逆に俺が意識してたのが恥ずかしくなってきた……）=(On the other hand, I'm starting to feel embarrassed that I was so aware of it: ......)

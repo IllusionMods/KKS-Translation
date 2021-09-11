@@ -1,7 +1,7 @@
 「カップルドリンクが飲めるんだって。頼んでみようよ」=They have a couple's drink. Let's try it.
 「これがカップルドリンク♡　あなたと私のためだけに作られた、世界でひとつしかない愛情汁なんですね♡　幸せすぎて他界しちゃいそうです♡」=This is a couple's drink ♡ It's the only love juice in the world made just for you and me ♡ I'm so happy I'm going to pass away ♡
 「あはは、まだ飲んでないのに死んじゃったら駄目だよ」=Ha-ha. You don't want to die before you've had a drink.
-「あ♡　そうですよね♡　この幸せ絶頂な瞬間は絶対に壊したくないので、飲んでも絶対に死んだりしません♡　だから安心してくださいね♡」=
+「あ♡　そうですよね♡　この幸せ絶頂な瞬間は絶対に壊したくないので、飲んでも絶対に死んだりしません♡　だから安心してくださいね♡」=I don't want to ruin this moment of happiness, so please don't worry, I won't die even if I drink.
 「それなら安心だね」=That's a relief.
 「はいっ♡　あ、ごめんなさい、氷が私たちを祝福してくれている間に飲まないとですよね♡　どっちのストローから飲みたいですか？」=I'm sorry, but I have to drink while the ice is blessing us.
 「[H名]が決めていいよ」=It's your call.
@@ -18,4 +18,3 @@
 「頼もしすぎて心配じゃなくなってきた……でも危ないことは禁止だからね」=You're so reliable I'm not even worried about you. ...... But don't do anything dangerous.
 「あぁ♡　本当に大切にされてるのが伝わってきます♡　この相思相愛な関係を壊さないために、危ないことは絶対にしません♡　約束します♡」=Oh ♡ I can feel that you really care for me ♡ I won't do anything dangerous to destroy this loving relationship ♡ I promise ♡
 （カップルドリンクを飲んだだけなのにすごいことになっちゃったな……でもそれだけ愛されてるって思うと、嬉しいな……）=(We just had a couple drinks, but it turned out to be a big deal. ...... But it's nice to know that they love me that much. ......)
-「あ♡　そうですよね♡　この幸せ絶頂な瞬間は絶対に壊したくないので、飲んでも絶対に死んだりしません♡　だから安心してくださいね♡」=I don't want to ruin this moment of happiness, so please don't worry, I won't die even if I drink.

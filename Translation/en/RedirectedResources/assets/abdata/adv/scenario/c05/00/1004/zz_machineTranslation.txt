@@ -10,9 +10,9 @@
 「うっ……それは怖いかも……」=...... That could be scary. ......
 「大丈夫。心を落ち着かせて、ありのままに受け入れれば平気だよ」=Don't worry. You just have to calm down and accept it for what it is, and you'll be fine.
 「怖いなら、わたしがついてるから。いつか一緒に挨拶しに行こうね」=If you're scared, I'm here for you. Maybe one day we'll go and say hello.
-「わたしが[P名]くんを好きになったように、“かれら”もあなたのことを気に入ると思うから」=I'm sure they'll like you as much as I like [P name].
+「わたしが[P名]くんを好きになったように、“かれら”もあなたのことを気に入ると思うから」=I'm sure they'll like you as much as I like [P名].
 「わかった。そのときはきちんと言うよ。[H名]を大事にしますってね」=All right. I'll make sure to say it properly then. I'll tell them I'll take good care of [H名].
 「えへへ。照れちゃうなぁ～」=Heh. I'm so embarrassed!
 「でも今は、[H名]との生活を満喫したいかな」=But for now, I want to enjoy my life with [H名].
-「うん。わたしも、もうしばらく[P名]くんと地上にいたい」=Yeah. I want to be on the ground with [P name] for a while longer.
+「うん。わたしも、もうしばらく[P名]くんと地上にいたい」=Yeah. I want to be on the ground with [P名] for a while longer.
 「『ここ』でしかできないこと……たくさん経験したいな」=I want to experience a lot of things that can only be done ...... here.

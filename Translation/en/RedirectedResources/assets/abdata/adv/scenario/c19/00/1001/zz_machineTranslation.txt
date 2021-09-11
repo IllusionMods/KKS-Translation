@@ -2,7 +2,7 @@
 「ええ、そうしましょ」=Yes, let's do that.
 「風情……っていうのかな？　こういう時間って心に染み渡るように感じる」=I think it's called .......　I don't know, I don't know.
 「おじいちゃんの家で過ごした夏休み、みたいな？」=Like a summer vacation at Grandpa's house?
-「[P名]君はこういう夏を過ごしたことがあるの？　……私はちょっと記憶にないかな」=I don't know if you've ever had a summer like this, [P name]?　...... I'm not sure I remember.
+「[P名]君はこういう夏を過ごしたことがあるの？　……私はちょっと記憶にないかな」=I don't know if you've ever had a summer like this, [P名]?　...... I'm not sure I remember.
 「縁側で優雅に読書なんて、[H名]のイメージにぴったりだけどなぁ」=Reading a book on the porch is a perfect image of [H名].
 「……残念だけど遠方の親戚がいないの」=...... I'm sorry, but I have no distant relatives.
 「根本的な問題だったか」=That's the root of the problem.

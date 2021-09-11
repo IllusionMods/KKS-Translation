@@ -119,7 +119,7 @@
 「Ｏｈ，Ｔｉｍｅ　ｕｐデスネ……もっとアナタと居たいのに、ｓｏｒｒｙ……」=Oh, Time up...... I'm sorry...... I want to spend more time with you.
 「ずっと居たいけど、時間はｆｉｎｉｔｅデス……また声、聞かせてくだサイ」=I wish I could stay forever, but time is finite. ...... Let me hear your voice again.
 「Ｏｈ,ｓｏｒｒｙ……今は出来ないデス……」=Oh, sorry...... can't do it right now......
-「ソンナ……誰かが来たラ……ンンッ♡　ヤダ、考えたダケデ……♡」=
+「ソンナ……誰かが来たラ……ンンッ♡　ヤダ、考えたダケデ……♡」=Sonna ...... someone's coming ...... ♡
 「Ｏｈ，流石に見つかるの、怖いデース……」=Oh, I'm afraid they'll find me. ......
 「ＯＫ！　アナタと一緒にｓｉｇｈｔｓｅｅｉｎｇシマス！」=OK, I'll go sight-seeing with you!
 「Ｈｉ！　ワタシとｗａｔｅｒｆａｌｌ見に行コ？」=Hi, would you like to go see the waterfall with me?
@@ -139,4 +139,3 @@
 「Ｏｈ，ダメなら仕方ないデス……」=Oh, if you can't, I'll just have to go to .......
 「えっと、これからこっちの部屋に来ない？」=Well, why don't you come to my room now?
 「アナタのｒｏｏｍ？　それは行くしかないデス……！」=Your room? You'll have to go to ......!
-「ソンナ……誰かが来たラ……ンンッ♡　ヤダ、考えたダケデ……♡」=Sonna ...... someone's coming ...... ♡

@@ -31,7 +31,7 @@
 「自分……じゃなくて、私、比嘉ひかりって言います！　この島で観光案内のアルバイトをしてるんです」=I'm not ....... My name is Hikari Higa!　I work part-time as a tourist guide on this island.
 「あなたは、先ほどのフェリーに乗ってたお客様ですよね？」=You're the passenger on the ferry, aren't you?
 「あ、そうです。俺の名前は――」=Oh, yes. My name is--
-「俺の名前は[P名前]って言います。えっと、よろしくお願いします」=My name is [P name]. My name is [P name], and it's nice to meet you.
+「俺の名前は[P名前]って言います。えっと、よろしくお願いします」=My name is [P名], and it's nice to meet you.
 「はい、よろしくお願いします！　早速ですが、何か困ってないですか？　私に出来る事なら何でも言ってください！」=Yes, thank you very much!　I'll get right to it. Is there anything you need help with?　Anything I can do to help you, please let me know!
 途方に暮れていた俺にとって、彼女の笑顔は太陽のように輝いて見えた。=As I was at a loss, her smile seemed to shine like the sun.
 「ありがとうございます。実はよく分からないまま、この島に来ることになってしまって……正直、全てにおいて困っていたんです」=Thank you very much. To tell you the truth, I didn't know what to expect when I came to this island. ...... To be honest, I was having trouble with everything.
@@ -51,7 +51,7 @@
 「民宿ですねっ。この島の風土を一番感じられるところなので、すっごくお勧めなんです！」=It's a guest house. I highly recommend the guest house because it is the place where you can feel the climate of this island the most!
 「合宿所ですね。運動できる場所があるので、息抜きに良いと思いますよ」=It's a training camp. There are places to exercise, so it's good for relaxation.
 「それじゃあ、案内しますね！」=Well, I'll show you!
-「はい、到着しました！　ここが[P姓]さんの宿泊場所になります」=Yes, we're here!　This is where [P last name] will be staying.
+「はい、到着しました！　ここが[P姓]さんの宿泊場所になります」=Yes, we're here!　This is where [P姓] will be staying.
 「ありがとうございます。船着き場から近いんですね」=Thank you very much. You're close to the pier.
 「そうなんです。島自体がそんなに広くないので、他のスポットにも歩いて行けますよ」=That's right. The island itself is not that big, so you can walk to other spots.
 「それでは、案内はここまでになります。私は大体案内所にいますので、何かあったら遠慮なく声をかけてくださいね？」=That's it for the tour. I'll be at the information desk most of the time, so if you need anything, don't hesitate to call me, okay?

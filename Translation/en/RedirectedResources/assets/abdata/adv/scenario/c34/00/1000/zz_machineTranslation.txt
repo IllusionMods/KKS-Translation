@@ -7,7 +7,7 @@
 「よし、ふたりで初Ｒｅａｄｙ，ｓｅｔ，ｇｏ、やっちゃおうよ」=Okay, we're gonna do our first Ready, Set, Go.
 「モチロ～ン，ウイウイシイｌｏｖｅ　ｌｏｖｅ　ｃｏｕｐｌｅダネ♡」=Mochilon, we're a lovely, lovely couple.
 「あはは、そう言われると照れるね。それじゃ飲もうか」=Haha, that makes me embarrassed to hear you say that. Let's have a drink then.
-[P名]・[H名]=[P name], [H名]
+[P名]・[H名]=[P名], [H名]
 「「Ｒｅａｄｙ，ｓｅｔ，ｇｏ！」」=Ready, set, go!
 「Ｆｏｏｏｏ♪　アハッ、ｂｅ　ｓｔｉｌｌ　ｍｙ　ｂｅａｔｉｎｇ　ｈｅａｒｔ♪　まだムネがｄｏｋｉ　ｄｏｋｉしてるヨ♪」=Foooo, be still my beating heart..." "My heart is still doki doki...
 「飲んでる最中に[H名]がウィンクしてくるから俺もドキドキしちゃったよ」=I was drinking when [H名] winked at me and I got nervous too.
