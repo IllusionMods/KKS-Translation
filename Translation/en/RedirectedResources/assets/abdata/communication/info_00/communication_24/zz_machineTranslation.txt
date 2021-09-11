@@ -69,7 +69,7 @@
 「あなたといると、あっという間に時間が過ぎてしまいます……」=Time flies when I'm with you. ......
 「あなたと離れなければいけないなんて……時間とは残酷なものですね」=I can't believe I have to leave you. ...... Time is a cruel thing, isn't it?
 「きみのことが好きだ」=I like you.
-「うふふ♡　だめですよ、私を騙そうとしても……簡単には引っかかりませんから」=
+「うふふ♡　だめですよ、私を騙そうとしても……簡単には引っかかりませんから」=Ufufu ♡ No, even if you try to deceive me ... it won't get caught easily.
 「私はあなたを愛しています。どうかお付き合いしてください」=I love you. Please go out with me.
 「分かっています。まだその時ではないんですよね……私、待ちますから」=I know, I know. It's not the right time yet. ...... I'll wait.
 「誰かが通りがかりそうな場所で私を辱めたいんですね♡　いろいろ命令してください♡」=You want to humiliate me in a place where someone might pass by, so you can order me around.
@@ -97,7 +97,7 @@
 「あの、お食事なんて……一緒にどうでしょうか？」=You know, would you like to have dinner with me at ......?
 「一緒に来てくれるんですね……最高の食事になりそうです♡」=I'm glad you're coming with me. ...... It's going to be a great meal.
 「ダメですか……タイミングが悪かったみたいですね」=No. ...... I guess it's not the right time.
-「うふふ♡　私の身体、いっぱい堪能してください♡」=
+「うふふ♡　私の身体、いっぱい堪能してください♡」=Ufufu ♡ Please enjoy my body a lot ♡
 「恋人の水着は、一味違いますか？　私も水着もあなたのものですよ♡」=Is your girlfriend's swimsuit different from yours?　My swimsuit is yours, too.
 「あなたのお話、全て自分の鼓膜に浸み込ませたいです♡」=I want to soak up all your stories in my eardrums.
 「あなたとの時間が、私の幸せの源ですから♡」=I want to soak up all your stories in my eardrums. - Because time with you is the source of my happiness.
@@ -150,5 +150,3 @@
 「仕方がないですね……また別の機会にお願いします」=I can't help it. ...... Another time, please.
 「俺の部屋に来ない？」=Do you want to come to my room?
 「はい♡　あなたが招いてくれた以上、何が何でも絶対に行きます♡」=Yes, handsome, now that you've invited me, I'll definitely go no matter what.
-「うふふ♡　だめですよ、私を騙そうとしても……簡単には引っかかりませんから」=Ufufu ♡ No, even if you try to deceive me ... it won't get caught easily.
-「うふふ♡　私の身体、いっぱい堪能してください♡」=Ufufu ♡ Please enjoy my body a lot ♡
