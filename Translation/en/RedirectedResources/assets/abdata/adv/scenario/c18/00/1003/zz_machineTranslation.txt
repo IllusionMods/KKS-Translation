@@ -1,5 +1,5 @@
 「一緒にお土産をちょっと覗いていこうよ」=Let's take a quick peek at the souvenirs together.
-「このキーホルダー、とても可愛いですね。見てください、[P名]さん」=This key chain is very cute. Look at it, [P name].
+「このキーホルダー、とても可愛いですね。見てください、[P名]さん」=This key chain is very cute. Look at it, [P名].
 「それは、星の砂のキーホルダーだね」=That's a starburst key chain.
 「星の形をした砂も可愛いですけど、このキーホルダー自体も可愛い形していますよ」=The star-shaped sand is cute, but this key chain is also cute.
 「でも、不思議ですよね。どうして砂が星の形になるのでしょうか？」=But it is strange, isn't it? How can sand be in the shape of a star?

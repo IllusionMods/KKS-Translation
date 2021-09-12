@@ -6,7 +6,7 @@
 「おおっ、すっごくカラフルな色をしてるですよー！　綺麗なのです」=Oh, they're so colorful!　It's beautiful.
 「はっ！　あっちにはすごーくでっかいのがいるですー！」=Ha!　There's a really big one over there!
 「えへ、見どころ満点ですね！」=Yeah, there's a lot to see here!
-「俺……[H名]を連れてきてよかったよ」=I'm glad I brought ......[Hname] along.
+「俺……[H名]を連れてきてよかったよ」=I'm glad I brought ......[H名] along.
 「どーしてそんなに震えちゃってるですか！？」=Why are you shaking so much?
 「あまりにも無邪気にに喜んでくれるから、嬉しくてさ……」=I'm so happy to see you so innocently happy. ......
 「そ、そんな反応をされると、私が困っちゃうですよ？　一緒に笑顔で楽しんでほしいのですっ」=I don't want you to be afraid of me.　I want you to smile and have fun with me.

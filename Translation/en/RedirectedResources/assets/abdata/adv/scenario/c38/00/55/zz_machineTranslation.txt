@@ -1,12 +1,12 @@
-「あ、あのっ……[Pあだ名]……な、なんてー……」=Oh, you know, ......[P nickname]......, what a .......
+「あ、あのっ……[Pあだ名]……な、なんてー……」=Oh, you know, ......[Pあだ名]......, what a .......
 「へ！？　えっ、もう一回言ってもらっていい？」=Huh?　What? Can I hear you say that again?
 「うっ、そ、それは……少し難しいですね。今のはかなり、勇気を必要とするので……」=Ugh, well, that's ...... a little difficult. It takes a lot of courage to do that. ......
 「えぇ、そんなこと言わないでさ。ちょっと愛称で呼ぶだけでしょ？」=Yeah, don't say that. It's just a term of endearment, isn't it?
 「ちょっとなんてものじゃありません。昨日の夜から、ずっと悩んで、ようやく言えたのですよ？」=It's nothing like a little. I've been thinking about it since last night, and I finally said it.
 「そんなに！？　ごめん、なんか軽く考えてた……」=That much?　Sorry, I was thinking lightly. ......
 「あっ、いえ、謝らないでください。えぇと……貴方も愛称で呼んで頂けるなら、私も、もう一度……」=I'm not sure what to say. If you can call me by my nickname, then I can call you by yours again. ......
-「えっ、呼ぶ呼ぶ！　それで[H名]がいいなら、えっと……[Hあだ名]？　で、いい？」=What? Call me!　So if you want [H名], you can go to, um, ......[H nickname]?　Okay?
+「えっ、呼ぶ呼ぶ！　それで[H名]がいいなら、えっと……[Hあだ名]？　で、いい？」=What? Call me!　So if you want [H名], you can go to, um, ......[H名]?　Okay?
 「は、はい！　良いです！　うぅ、なんだかこそばゆいですね……顔が、熱くなってしまいます」=Yes, yes!　Yes!　Ugh, that's so embarrassing. ...... My face is getting hot.
-「[Hあだ名]、[Hあだ名]、[Hあだ名]、ほら、これだけ呼べばいいでしょ？　次は[H名]の番だよ？」=[H nickname], [H nickname], [H nickname], that's all you have to say, okay?　Now it's [H名]'s turn, okay?
-「はぁぅ、んっ、そんなに何度も呼ばれては、刺激が強過ぎますっ！　うぅ、意地悪です……[Pあだ名]」=Huh? Huh? That's too much stimulation to be called that many times!　Ugh, that's so mean. ......[P nickname]
+「[Hあだ名]、[Hあだ名]、[Hあだ名]、ほら、これだけ呼べばいいでしょ？　次は[H名]の番だよ？」=[Hあだ名], [Hあだ名], [Hあだ名], that's all you have to say, okay?　Now it's [H名]'s turn, okay?
+「はぁぅ、んっ、そんなに何度も呼ばれては、刺激が強過ぎますっ！　うぅ、意地悪です……[Pあだ名]」=Huh? Huh? That's too much stimulation to be called that many times!　Ugh, that's so mean. ......[Pあだ名]
 「うーん、いいっ、やっぱいいね！　これからも、好きな時に愛称で呼んでくれていいからねっ」=I'm so glad you're conscious of me.　You can call me by my nickname whenever you want, okay?

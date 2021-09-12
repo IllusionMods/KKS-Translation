@@ -10,7 +10,7 @@
 「二人で覚えとけばいいよね？」=We'll just have to remember that, okay?
 「うん、ずっと覚えてよう」=Yeah, I'll always remember that.
 「だね……あ！　そうだ、お願いしないと」=Yeah, ......!　Yes, I have to ask.
-「[P名]くんは？　とっくに流れ星に何かお願いした後だったりするのかな」=Where is [P name]?　I wonder if he's already asked the shooting star to do something.
+「[P名]くんは？　とっくに流れ星に何かお願いした後だったりするのかな」=Where is [P名]?　I wonder if he's already asked the shooting star to do something.
 「……んー？」=......?
 「なんでも願い放題だよ。流れ星、まだ全然止まりそうにないし」=I can wish for anything I want. The shooting stars don't seem to be stopping at all.
 「アタシも何か……うーん？　どうしようかな」=I want to do something too. ...... Hmm?　I don't know.

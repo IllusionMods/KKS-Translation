@@ -1,4 +1,4 @@
-「[Pあだ名]、はいたーい！」=[P nickname], I want to go!
+「[Pあだ名]、はいたーい！」=[Pあだ名], I want to go!
 「……へ？　今なんて？」=......?　What did you just say?
 「んぅ？　『はいたい』は『こんにちは』って意味の挨拶よー？　忘れちゃったー？」="Hmm?　Hmm? "Hatae" is a greeting that means "hello".　Did you forget?
 「いや、そっちは分かってるんだけど……俺のこと、なんか違う呼び方しなかった？」=No, I know you're not, but did you call me something different on ......?
@@ -7,6 +7,6 @@
 「よかったぁ。ならたまにはあだ名で呼んでもいーい？」=I'm glad. Then can I call you by your nickname sometimes?
 「もちろん。こっちからお願いしたいくらいだよ。[H名]と一気に距離が縮んだ気がするし」=Of course. I want to ask you to do the same. I feel like I'm getting closer to [H名].
 「じゃあ……キミも自分のこと、あだ名で呼んでくれたりするー？」=So, ......, do you call yourself by your nickname?
-「えっ、いいの？　うーん、それなら……[Hあだ名]とかどう？」=Oh, you don't mind?　Hmm, how about ......[H nickname] then?
+「えっ、いいの？　うーん、それなら……[Hあだ名]とかどう？」=Oh, you don't mind?　Hmm, how about ......[Hあだ名] then?
 「はぅっ……うん、それでいいよー。なんか、あだ名で呼ばれるとくすぐったくなるねぇ……」=I'm not sure what to call you. I feel ticklish when people call me by my nickname. ......
 「はは、そうだね。少しずつ使って慣れていこうか」=Yes, you're right. Let's use it little by little and get used to it.
