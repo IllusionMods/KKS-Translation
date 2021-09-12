@@ -1,3 +1,7 @@
+  
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 詳しく島の話題を聞く=Ask for an even more interesting topic on the island
 この島に関する、おススメの話題はいかがですか？=How about this topic? It's one that I'd definitely recommend.
 本日残り{0}回={0} items left for today
