@@ -1,3 +1,7 @@
+  
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 島の話題を聞く=Ask for an interesting topic on the island
 何かお困りですか？よければこの島の話題でもどうですか？=Are you in need of something? How about a topic on this island?
 本日残り{0}回={0} items left for today.
