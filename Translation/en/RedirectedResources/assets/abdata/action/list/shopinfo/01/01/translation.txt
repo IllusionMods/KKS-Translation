@@ -1,3 +1,7 @@
+  
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 電気マッサージ器=Vibrating Wand
 電気で動くマッサージ器。心地よい振動で体の奥まで刺激してくれます。=An electric massaging device. Its soft oscillations let ecstasy travel to the deepest part of your body.
 残り{0}個={0} left in stock.
