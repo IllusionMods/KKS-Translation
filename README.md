@@ -137,21 +137,36 @@ The plugin [TextResourceRedirector](https://github.com/IllusionMods/TranslationT
 
 Table with the localization of the translations for each part of the game:
 
-| Folder                                  | Description               |
-|-----------------------------------------|---------------------------|
+| Folder                                    | Description               | TextResourceRedirector Handler |
+|-------------------------------------------|---------------------------|--------------------------------|
+| `action/list/clubinfo`                    | Clubs/Purpose of Stay     | ClubInfoHandler                |
+| `action/list/monologue`                   | PC Monologue              | MonologueInfoHandler           |
+| `action/list/prayinfo`                    | Prayers                   | PrayInfoHandler                |
+| `action/list/shopinfo`                    | Shop                      | ShopInfoHandler                |
+| `action/list/topic`                       | Topic Names               | TopicHandler                   |
+| `action/list/sound/se/env`                | Environmental SFX         | EnvSEDataHandler               |
+| `action/list/sound/se/footstep`           | Footstep SFX              | FootSEDataHandler              |
+| `action/list/wherelive`                   | Booking Descriptions      | WhereLiveDataHander            |
+| `adv/scenario`                            | Cut Scene Text            | ScenarioDataHandler            |
+| `communication/*/communication_*`         | Heroine Dialog            | CommunicationInfoHandler       |
+| `communication/*/communicationnpc_*`      | NPC Dialog                | CommunicationNPCHandler        |
+| `communication/*/optiondisplayitems_*`    | Dialog Options            | ExcelDataHandler               |
+| `communication/*/tips_*`                  | Tips Dialog               | TODO                           |
+| `communication/*/topiclisten*`            | Listening Dialog          | TopicListenDataHandler         |
+| `communication/*/topicpersonalitygroup_*` | Personality Names         | TopicPersonalityGroupHandler   |
+| `communication/*/topictalkcommon*`        | Topic Dialog              | TopicTalkCommonHandler         |
+| `communication/*/topictalkrare*`          | Topic Dialog              | TopicTalkRareHandler           |
+| `custom/customscenelist`                  | Maker Dropdowns           | ExcelDataHandler               |
+| `etcetra/list/config`                     | Personality Names         | VoiceInfoDataHandler           |
+| `etcetra/list/nickname`                   | Call Names                | NickNameHandler                |
+| `h/list/*/animationinfo_*`                | Positions (game versions) | AnimatioInfoDataHandler        |
+| `h/list/*/personality_voice*`             | H Subtitles               | VoiceAllDataHandler            |
+| `h/list/*/result_topic*`                  | Topic Names               | TODO                           |
+| `list/characustom`                        | Maker Items, etc.         | MakerCustomDataHandler         |
+| `list/random_name`                        | Random Names              | ExcelDataHandler               |
+| `list/mapinfo`                            | Map Names                 | MapInfoHandler                 |
+| `list/mapthumbnailinfo`                   | Map Names (Save/Load)     | MapThumnailInfoHandler         |
 
-[//]: # "| `action/list/event`                     | Event titles              |"
-[//]: # "| `adv`                                   | main game dialogs         |"
-[//]: # "| `communication`                         | main game dialogs         |"
-[//]: # "| `custom/customscenelist`                | Maker Pose Text           |"
-[//]: # "| `etcetra/list/nickname`                 | Call Names                |"
-[//]: # "| `h/list/*/animationinfo_*`              | Positions (game versions) |"
-[//]: # "| `h/list/*/hpointtoggle`                 | Positions (game versions) |"
-[//]: # "| `h/list/*/personality_voice*`           | H Subtitles               |"
-[//]: # "| `list/characustom`                      | Maker stuff               |"
-[//]: # "| `list/characustom/*/cha_sample_voice_*` | Personality names         |"
-[//]: # "| `list/random_name`                      | Random names              |"
-[//]: # "| `map/list/mapinfo`                      | Map names                 |"
 [//]: # "| `studio/info`                           | Studio stuff              |"
 
 
@@ -205,16 +220,9 @@ Table with the localization of the translations for each part of the game:
 ##### NPC Personalities
 
 
-| ID  | Name    | Eng Name        |
-|:---:|:--------|:----------------|
-
-[//]: # "| -1  | リナ・ロベール | Lina Roberts    |"
-[//]: # "| -2  | 橋本麗奈    | Hashimoto Reina |"
-[//]: # "| -4  | 櫻井野乃花   | Sakurai Nonoka  |"
-[//]: # "| -5  | 姫川舞     | Himekawa Mai    |"
-[//]: # "| -8  | 柊このみ    | Hiiragi Konomi  |"
-[//]: # "| -9  | 結城桜     | Yuuki Sakura    |"
-[//]: # "| -10 | 水瀬亜依    | Minase Ai       |"
+| ID  | Name       | Eng Name    |
+|:---:|:-----------|:------------|
+| -13 | 比嘉ひかり | Hikari Higa |
 
 
 
@@ -222,13 +230,13 @@ Table with the localization of the translations for each part of the game:
 
 | Type                   | Location (replace `##` with ID from table above) |
 |------------------------|--------------------------------------------------|
+| Dialog (adv)           | `adv/scenario/c##/*`                             |
+| Dialog (communication) | `communication/info_*/*_##`                      |
+| Call Names             | `etcetra/list/nickname/*/c##`                    |
+| H Lines                | `h/list/*/personality_voice_c##_*`               |
 
-[//]: # "| Dialog (adv)           | `adv/scenario/c##/*`                             |"
-[//]: # "| Dialog (communication) | `communication/info_*/*_##`                      |"
-[//]: # "| Call Names             | `etcetra/list/nickname/*/c##`                      |"
-[//]: # "| H Lines                | `h/list/*/personality_voice_c##_*`               |"
 
-NPC Personalities only have entries under Dialog (adv) and H Lines.
+[//]: # "NPC Personalities only have entries under Dialog (adv) and H Lines."
 
 ### Specialized translation lines
 
@@ -243,19 +251,13 @@ Example:
 {0}と仲がいいと思ってるわ=I think I'm good friends with {0}.
 ```
 
-#### ADV Choices
-
-Because these strings are encoded into a larger entry in the resource files they require special handling by TextResourceRedirector to ensure the text that should no be replaced remains untouched, while allowing the displayed text to be translated. These lines will start with `CHOICE:` followed by the text that needs to be translated.  On the right side of the `=` you need only include the translated text without the `CHOICE:` prefix.
-
-Example:
-
-```
-CHOICE:受け取る=Accept
-```
-
 #### Optional Prefixes
 
-There are a number of assets that support the use of optional prefixing to get a more exact match. This allows for more specific translations in cases where multiple assets might match the same replacement code.  Matching for these assets will first try the prefixed match, then fall back to the standard un-prefixed match.  Given the following translation file:
+There are a number of assets that support the use of optional prefixing to get a more exact match. This allows for more specific translations in cases where multiple assets might match the same replacement code.  Matching for these assets will first try the prefixed match, then fall back to the standard un-prefixed match.
+
+Prefixed lines should start with the prefix (e.g. `SPECIAL:`) followed by the text that needs to be translated.  On the right side of the `=` you need only include the translated text without the prefix.
+
+Given the following translation file:
 
 ```
 PREFIX1:こんにちは=Hi!
@@ -268,11 +270,10 @@ Some prefixes can be combined with numbers, which limit them to matching specifi
 
 | asset location                         | prefix       | Notes                                                             |
 |----------------------------------------|--------------|-------------------------------------------------------------------|
+| `communication/*/optiondisplayitems_*` | `OPTION[x]:` | `x` will be an integer representing a question ID                 |
+| `etcetra/list/nickname`                | `SPECIAL:`   |                                                                   |
+| `list/random_name`                     | `NAME[x]:`   | `x` is the column (1-2 surname, 3-4 female given, 5-6 male given) |
 
-[//]: # "| `adv/scenario/`                        | `CHOICE:`    |                                                                   |"
-[//]: # "| `communication/*/optiondisplayitems_*` | `OPTION[x]:` | `x` will be an integer representing a question ID                 |"
-[//]: # "| `etcetra/list/nickname`                | `SPECIAL:`   |                                                                   |"
-[//]: # "| `list/random_name`                     | `NAME[x]:`   | `x` is the column (1-2 surname, 3-4 female given, 5-6 male given) |"
 
 
 
