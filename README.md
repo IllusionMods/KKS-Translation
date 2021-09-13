@@ -139,7 +139,7 @@ Table with the localization of the translations for each part of the game:
 
 | Folder                                    | Description               | TextResourceRedirector Handler |
 |-------------------------------------------|---------------------------|--------------------------------|
-| `action/list/clubinfo`                    | Club Names                | ClubInfoHandler                |
+| `action/list/clubinfo`                    | Clubs/Purpose of Stay     | ClubInfoHandler                |
 | `action/list/monologue`                   | PC Monologue              | MonologueInfoHandler           |
 | `action/list/prayinfo`                    | Prayers                   | PrayInfoHandler                |
 | `action/list/shopinfo`                    | Shop                      | ShopInfoHandler                |
@@ -253,7 +253,11 @@ Example:
 
 #### Optional Prefixes
 
-There are a number of assets that support the use of optional prefixing to get a more exact match. This allows for more specific translations in cases where multiple assets might match the same replacement code.  Matching for these assets will first try the prefixed match, then fall back to the standard un-prefixed match.  Given the following translation file:
+There are a number of assets that support the use of optional prefixing to get a more exact match. This allows for more specific translations in cases where multiple assets might match the same replacement code.  Matching for these assets will first try the prefixed match, then fall back to the standard un-prefixed match.
+
+Prefixed lines should start with the prefix (e.g. `SPECIAL:`) followed by the text that needs to be translated.  On the right side of the `=` you need only include the translated text without the prefix.
+
+Given the following translation file:
 
 ```
 PREFIX1:こんにちは=Hi!
