@@ -1,4 +1,13 @@
-//Circled numbers, because they are hard to read
+//*******************************************************************
+//*******************************************************************
+// Note: This file will replace circled number to arabic numbers,
+// Its intended to be used with "sr:" regex lines
+//*******************************************************************
+//*******************************************************************
+
+//Scope of the file: Only applies to resolutions < 1080p
+#set required-resolution width < 1920
+
 ⓪=0
 ①=1
 ②=2
