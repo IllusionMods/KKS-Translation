@@ -12,31 +12,13 @@
 //---------------------------------------------------------
 //Main Shop Menu
 //---------------------------------------------------------
-ポイント\nショップ=Points\nShop
-滞在先\n変更=Stay\nChange
-（<size%3D30>50</size>pt消費）=(Costs <size%3D30>50</size> pt)
+r:^（<size%3D30>(50)</size>pt消費）$=(Costs <size%3D30>$1</size> pt)
 
 //---------------------------------------------------------
 //Points Store
 //---------------------------------------------------------
 夜限定ショップ=Night Only Store
 準備中=Preparing
-
-//Shop Items
-島の話題を聞く=Hear about the island.
-何かお困りですか？よければこの島の話題でもどうですか？=Can I help you with something? Would you like to hear about the island?
-
-詳しく島の話題を聞く=Hear more about the island
-この島に関する、おススメの話題はいかがですか？=Would you like some recommended topics about the island?
-
-アサガオの種=Sunflower Seeds
-アサガオの種を購入しますか？=Do you want to buy sunflower seeds?
-
-鳥の巣=Bird's Nest
-灯台に再度鳥の巣を設置しますか？=Do you want to restore the bird's nest next to the lighthouse?
-
-シークレットビーチについて=About the Secret Beach
-灯台へ続く通路の落石を片付ければ通行は可能ですが、危険なので近づかないでください。=The pathway leading to the lighthouse is accessible once the fallen rocks have been cleared, but please stay away from the pathway because it is dangerous.
 
 //Subtitles
 未入荷=Out of Stock
@@ -47,37 +29,9 @@
 以下のアイテムを購入します。=Buy the following items.
 
 //---------------------------------------------------------
-//Night Only Store
+//Shop Items
 //---------------------------------------------------------
-Hな話題を聞く=Ask about hot topics
-ちょっとアダルトな話題はいかがですか？=Would you like to talk about something a little more adult?
-
-媚薬香水=Enchanting perfume
-香りを嗅ぐと気分がムラムラとしてくる特殊な香水。\n（翌日の一日間、女の子の行動に影響します）=A special kind of perfume that makes you feel horny when you smell it.\n(Affects the girl's behavior for the next day)
-
-利尿剤=Diuretic
-飲むと頻繁にトイレに行きたくなる薬。\n（翌日の一日間、女の子の行動に影響します）=A drug that makes you need to go to the bathroom frequently when you take it.\n(Affects the girl's behavior for the next day)
-
-発汗剤=Sweat drug
-飲むと発汗が促進され、頻繁にシャワーやお風呂に行きたくなる薬。\n（翌日の一日間、女の子の行動に影響します）=A drug that, when taken, promotes sweating and makes you want to take frequent showers and baths.\n(Affects the girl's behavior for the next day)
-
-性技テクニック指南書（壱の書）=Sexual technique manual (Book 1)
-女の子をHに慣れやすくしたり潮吹きさせるコツが載った伝説の指南書。その１。=A legendary instructional book with tips on how to get a girl used to sex and make her squirt. Part 1.
-
-性技テクニック指南書（弐の書）=Sexual technique manual (Book 2)
-女の子をHに慣れやすくしたり潮吹きさせるコツが載った伝説の指南書。その２。=A legendary instructional book with tips on how to get a girl used to sex and make her squirt. Part 2.
-
-性技テクニック指南書（参の書）=Sexual Techniques Manual (Book 3)
-女の子をHに慣れやすくしたり潮吹きさせるコツが載った伝説の指南書。その３。=A legendary instructional book with tips on how to get a girl used to sex and make her squirt. Part 3.
-
-//Vibrating Wand
-電気で動くマッサージ器。心地よい振動で体の奥まで刺激してくれます。=An electric massager. The pleasant vibrations stimulate you to the depths of your body.
-
-//Vibrating Dildo
-強力なバイブレーター。人間には真似できない激しい動きで快感を呼び起こします。=Powerful vibrator. It evokes pleasure with violent movements that cannot be imitated by humans.
-
-オナホ―ル=Masturbator
-アソコをすっぽり吸い込んでくれるオナホ―ル。吸い付きと柔らかさは人肌以上です。=A masturbator that completely envelopes your penis. The suction and softness is more than human skin.
+//RedirectedResources\assets\abdata\action\list\shopinfo
 
 //---------------------------------------------------------
 //Topics Exchange
