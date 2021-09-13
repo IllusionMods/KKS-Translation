@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
 //「<color%3Dyellow>ツリーイング</color>、とても楽しいわよ？」=
 //「あの自然を普段見られない視点て見るのがとても気持ちいいのよ」=

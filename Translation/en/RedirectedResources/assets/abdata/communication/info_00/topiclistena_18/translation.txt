@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
 //「<color%3Dyellow>釣り</color>って、楽しいと思いませんか？」=
 //「のんびり糸を垂らしているだけなら、何の事故も起きなくて安全ですからね」=

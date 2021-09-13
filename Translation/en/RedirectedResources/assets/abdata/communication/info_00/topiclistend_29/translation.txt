@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
 //「<color%3Dyellow>釣り</color>はひたすら没頭出来るのでお勧めですよ？」=
 //「それに釣りをしている最中は自分を見直す時間にも使えたりもします」=

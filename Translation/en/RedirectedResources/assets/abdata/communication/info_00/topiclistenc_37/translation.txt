@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
 //「あなたは<color%3Dyellow>シュノーケリング</color>に興味ありますか？」=
 //「海を堪能するには欠かせないアクティビティですね」=

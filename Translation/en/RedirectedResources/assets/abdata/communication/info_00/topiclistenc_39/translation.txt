@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
 //「ここの海は綺麗だから、<color%3Dyellow>シュノーケリング</color>をしないのは損よー」=
 //「海は潜る度に景色が変わるからねー。何度でも楽しめるさー」=
