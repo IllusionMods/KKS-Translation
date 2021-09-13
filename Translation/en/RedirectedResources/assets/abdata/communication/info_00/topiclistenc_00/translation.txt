@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
 //「<color%3Dyellow>シュノーケリング</color>って、面白いのよ」=
 //「熱帯魚を間近でみることが出来るから、何度もやってみたくなるのよね～」=
