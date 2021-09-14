@@ -42,7 +42,7 @@
 「あはは……それならまず、この島について簡単に説明しますね」=“Ahaha... then if that's it, then I'll start by briefly explaining about this island.”
 「ここは、年間を通して多くの方にお越しいただいている観光地になってます」=“This is a popular tourist destination that has lots of visitors throughout the year.”
 「一番人気は、なんといっても島を囲う綺麗な海！　ただ眺めるのもよし、様々なレジャーで遊ぶのもよし、楽しみ方はお客様次第です」=“The most famous feature is the beautiful sea that surrounds the island! You can just enjoy the view, or engage in a variety of leisure activities... It's up to you!”
-「他にも自然豊かな公園や、カップルに人気のスポットがある灯台、たくさんのお魚が泳いている水族館などなど、色んな名所があるんです」=“There's also our nature park, a lighthouse (a popular spot for couples), an aquarium filled with fish, and many other attractions!”
+「他にも自然豊かな公園や、カップルに人気のスポットがある灯台、たくさんのお魚が泳いている水族館などなど、色んな名所があるんです」=“There's also our nature park, the lighthouse which is a popular spot for couples, an aquarium full of fish, and many other attractions!”
 （なるほど……コイカツをするのにピッタリの島だ。だから叔母さんもここを選んだんだろうな）=(I get it... this is precisely the sort of island for Koikatsu. So that's probably why my aunt chose this place.)
 「素敵なところなんですね。説明、すごく分かりやすかったです」=“That was a great explanation. It all sounds wonderful.”
 「えへ……私、この島出身なので、褒めてもらえて嬉しいですっ」=“Ehe... I'm a native of this island, so I'm glad to hear that.”
