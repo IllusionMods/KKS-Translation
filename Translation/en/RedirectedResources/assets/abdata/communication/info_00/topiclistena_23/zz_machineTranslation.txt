@@ -7,7 +7,7 @@
 「あまり興味なさそうですな……やってみたらいいと思うけどなぁ」=You don't seem too interested in ....... I think you should try it.
 「お好みではない？　一度試してみた方がいいですぞ」=Not to your liking?　You might want to try it.
 「ワタシ、<color%3Dyellow>水牛</color>って好きなんだなぁ」=I like <color%3Dyellow>buffaloes</color>, don't you?
-「あんなに大きな体なのに、瞳がキラキラで可愛いんですぞ」=<color%3Dyellow>Buffaloes are so big, but they have such pretty, sparkling eyes.
+「あんなに大きな体なのに、瞳がキラキラで可愛いんですぞ」=Buffaloes are so big, but they have such pretty, sparkling eyes.
 「<color%3Dyellow>ネコ</color>って、素晴らしいと思うんだよなぁ」=I think <color%3Dyellow>cats</color> are wonderful.
 「ネコには様を付けて呼ぶべきだと思うよ。あの可愛さは反則レベルですな」=<color%3Dyellow>cats</color> are wonderful, aren't they? "I think you should call cats by their sama. I think cats should be called "sama". Their cuteness is foul.
 「<color%3Dyellow>ハイビスカス</color>は綺麗な花ですな」=<color%3Dyellow>Hibiscus</color> is a beautiful flower.

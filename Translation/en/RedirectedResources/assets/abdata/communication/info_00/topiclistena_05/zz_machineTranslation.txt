@@ -1,5 +1,5 @@
 「<color%3Dyellow>釣り</color>に興味ある？」=Are you interested in <color%3Dyellow>fishing</color>?
-「深海魚を釣ってみたいんだけど、難しいみたい」=<color%3Dyellow>I'd like to try my hand at catching some deep-sea fish, but they seem so difficult.
+「深海魚を釣ってみたいんだけど、難しいみたい」=I'd like to try my hand at catching some deep-sea fish, but they seem so difficult.
 「<color%3Dyellow>シュノーケリング</color>をやったことある？」=Have you ever tried <color%3Dyellow>snorkeling</color>?
 「深くは潜れないけど……海の世界が覗けて楽しいよね」=You can't dive very deep, but it's fun to look into the world of the ...... ocean.
 「ふ～ん、そういうのもあるんだね」=Hmm, I didn't know that existed.

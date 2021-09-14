@@ -1,5 +1,5 @@
 「<color%3Dyellow>シュノーケリング</color>って、面白いのよ」=<color%3Dyellow>Snorkeling is fun.
-「熱帯魚を間近でみることが出来るから、何度もやってみたくなるのよね～」=<color%3Dyellow>Snorkeling is fun because you get to see tropical fish up close, so you want to try it again and again.
+「熱帯魚を間近でみることが出来るから、何度もやってみたくなるのよね～」=Snorkeling is fun because you get to see tropical fish up close, so you want to try it again and again.
 「もう<color%3Dyellow>トレッキング</color>はやってみた？」=Have you tried <color%3Dyellow>trekking yet?
 「自然を肌で感じられてリフレッシュできるから、みんなにやってほしいわ」=I want everyone to try it because it's a refreshing way to feel nature.
 「へぇ、そっちも楽しそうね」=Oh, that sounds fun too.

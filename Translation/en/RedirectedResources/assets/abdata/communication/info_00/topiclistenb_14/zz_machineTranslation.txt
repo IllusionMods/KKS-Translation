@@ -25,7 +25,7 @@
 「そうか……でも、お前が思ってるよりずっといいんだぜ？」=Yeah, ...... is a lot better than you think, though, isn't it?
 「なんだ、反応よくないな……ちゃんと見ればお前も気に入ると思うぜ」=Yeah, it's not a good response. ...... I think you'd like it if you saw it.
 「<color%3Dyellow>お土産</color>買う時ってワクワクするよな。旅の思い出にもなるからな」=<color%3Dyellow>Buying souvenirs</color> is exciting, isn't it? It's a great way to remember your trip.
-「やっぱり、お土産買うなら、ちゃんと渡す相手の事も考えないとだめだぞ」=<color%3Dyellow>Buying souvenirs is exciting because it gives you memories of your trip.
+「やっぱり、お土産買うなら、ちゃんと渡す相手の事も考えないとだめだぞ」=Buying souvenirs is exciting because it gives you memories of your trip.
 「<color%3Dyellow>シークヮーサージュース</color>って、旨いよな」=<color%3Dyellow>Shikwasa Juice</color> is delicious, isn't it?
 「私、ああ言う酸っぱいのが、結構好きなんだ。口の中がさっぱりするからな」=I like that kind of sour stuff. I like that kind of sour stuff a lot, it refreshes the palate.
 「私だって、<color%3Dyellow>ぬいぐるみ</color>とか割と好きなんだぞ」=I also like <color%3Dyellow>stuffed animals</color> a lot.

@@ -19,7 +19,7 @@
 「<color%3Dyellow>チンアナゴ</color>って変な生き物だよな～」=<color%3Dyellow>Chinagoes are strange creatures, aren't they?
 「砂に埋まってる部分がどうなってるのか気になるぜ」=I'm curious to see what happens to the parts buried in the sand.
 「<color%3Dyellow>シオマネキ</color>は片方だけハサミがデカいから、バランスを崩しそうだよな」=I wonder what's going on with the part buried in the sand. <color%3Dyellow>The <color%3Dyellow>silverhead</color> has a big scissors on one side, so it's going to throw you off balance.
-「あれ、絶対歩きにくいだろ？　それなのにあいつらは頑張って生きてて……偉いと思うぜ」=<color%3Dellow>They're definitely hard to walk with, aren't they?　It's definitely hard to walk, and I think it's ...... great that they're still alive.
+「あれ、絶対歩きにくいだろ？　それなのにあいつらは頑張って生きてて……偉いと思うぜ」=They're definitely hard to walk with, aren't they? It's definitely hard to walk, and I think it's ...... great that they're still alive.
 「はは、そいつも面白いと思うぜ」=Ha, I think that's funny too.
 「なるほど、そっちも面白そうな気がするぜ」=Yeah, I think that's interesting too.
 「面白いから、お前も見てみろよ」=It's funny. You should see it.

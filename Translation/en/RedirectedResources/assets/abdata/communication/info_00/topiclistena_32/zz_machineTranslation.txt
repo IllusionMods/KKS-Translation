@@ -1,5 +1,5 @@
 「あなたは本格的な<color%3Dyellow>釣り</color>をしたことがありますか？」=Have you ever done any serious <color%3Dyellow>fishing</color>?
-「趣味の釣りとはやはり次元が違いますね」=<color%3Dyellow>Fishing is so much more than a hobby.
+「趣味の釣りとはやはり次元が違いますね」=Fishing is so much more than a hobby.
 「<color%3Dyellow>シュノーケリング</color>のコツ、あなたはわかりますか？」=Do you have any tips on <color%3Dyellow>snorkeling</color>?
 「そうですね、ゆっくり身体を動かし、水の中に溶け込む事が大事です」=Yes, it's important to move slowly and blend into the water.
 「それは……後で詳しく教えてもらいたいです」=I'd like you to tell me more about that after .......
