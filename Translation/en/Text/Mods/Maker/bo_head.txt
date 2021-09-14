@@ -1,0 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_ModTextDump v0.6.1
+//
+
+// chara/deathweasel/no_head.unity3d
+なし=None

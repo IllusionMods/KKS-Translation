@@ -1,0 +1,12 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_ModTextDump v0.6.1
+//
+
+// chara/mf_vladilena_milize_hair_o.unity3d
+//レーナ[86-EIGHTY SIX-]=
+
+// chara/mod/mod_eden_vb.unity3d
+シングルカール_エデンVB=Single Curl_Eden VB
+
+// chara/mod/mod_sample_rcl_00.unity3d
+動く！狐耳=Move! fox ears

@@ -1,0 +1,33 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_ModTextDump v0.6.1
+//
+
+// chara/_mods/matou.unity3d
+穂群原学園制服=Hogunhara School Uniform
+
+// chara/JK/idol - nekutai.unity3d
+アイドルネクタイ=idle tie
+
+// chara/mf_alice_v2.unity3d
+整合騎士の鎧[アリス][SAO]=Matching Knight's Armor [Alice][SAO]
+
+// chara/mf_vladilena_milize_top03.unity3d
+//レーナ[86-EIGHTY SIX-]=
+
+// chara/cpo_jacket_b_nkt01.unity3d
+ジャンパースカート-hareacc=Jumperskirt-hareacc
+
+// chara/nashi/ns_jacket.unity3d
+リボン=Ribbon
+リボン 宝石=Ribbons-Jewels
+ジャボ=jabot
+ゆるリボン=loose ribbon
+
+// chara/nashi/ns_cape_atago.unity3d
+クリスマスポンチョ_atago=Christmas poncho-atago
+
+// chara/nashi/ns_cape.unity3d
+クリスマスポンチョ-Lamretta=Christmas Poncho-Lamretta
+
+// chara/Sen3_rean.unity3d
+黎恩服饰=Beach Beach Clothing

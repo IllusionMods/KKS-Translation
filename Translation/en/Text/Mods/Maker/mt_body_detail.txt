@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_ModTextDump v0.6.1
+//
+
+// chara/ymd/mf_ymdtexture.unity3d
+濃=Dark
+ムキムキ 濃=Muscular Dark
+ポッチャリ 濃=Chubby Dark
+スレンダー 濃=Slender Dark
