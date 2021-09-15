@@ -117,10 +117,6 @@
 滞在先の変更確認=Confirm your change of accommodation
 コイカツポイントを50pt消費して滞在先を変更しますか？=Do you want to spend 50 pts of your Koikatsu points to change the place you are staying?
 
-高級感漂う浜辺近くのリゾートホテル。レストランや屋外プールがある。=A resort hotel near the beach with a luxurious atmosphere. It has a restaurant and an outdoor pool.
-地元の民家を改装した縁側のある民宿。三線体験や、バーベキューも楽しめる。=A guest house renovated from a local house with a veranda. You can also learn to play the Sanshin (Okinawan guitar) and enjoy barbecues.
-研修を目的に建てられた合宿所。島文化に関する資料室やスポーツ施設がある。=A training center built for the purpose of training. It has a library of island culture and sports facilities.
-
 //---------------------------------------------------------
 // Unsorted: Things that I don't know where they came from
 //---------------------------------------------------------
