@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「汝よ……その……結界を解いてはくれないか？」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 //「こんな時間にどうしたの？」=
 //「汝の魔力が弱まっているのを感じて……その……安否を確かめに来たのだ」=
 //「ま、魔力を供給するから……えっと……我と肌を……重ねよう……？」=

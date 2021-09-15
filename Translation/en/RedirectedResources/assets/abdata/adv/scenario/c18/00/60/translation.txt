@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「あの、お部屋に入っても大丈夫ですか？」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 //「いいよ。どうかしたの？」=
 //「えっとですね、あなたと一緒に居たいなと、思いまして……」=
 //「出来れば、このまま傍にいさせてほしいんですけど……ダメですか？」=

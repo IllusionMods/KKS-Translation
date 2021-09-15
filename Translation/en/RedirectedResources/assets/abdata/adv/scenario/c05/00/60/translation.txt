@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「ねぇ……部屋にいる？」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 //「どうかしたの？」=
 //「“かれら”が……ううん、わたしの意思で、あなたに会いに来たの」=
 //「今夜はずっと……あなたの傍にいたい……」=

@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「あ、あのねぇ……ちょっとキミの顔が見たくなっちゃって……お部屋、入れてくれるー？」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 //「うん、いいよ。寂しくなっちゃったのかな？」=
 //「うん、ちょっとー。でもキミの声を聞いたら、すぐに心がポカポカになったよー」=
 //「邪魔にならないようにするから、少し一緒にいさせてー。キミの匂いとか体温をね、近くで感じてたいの……」=

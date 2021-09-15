@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「のう、居るか……？」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 //「あぁ、入ってきていいよ？」=
 //「では、お邪魔するぞ……」=
 //「その、どうしてもお主が欲しくなってしもうての……わしの我儘、許してほしいのじゃ……」=

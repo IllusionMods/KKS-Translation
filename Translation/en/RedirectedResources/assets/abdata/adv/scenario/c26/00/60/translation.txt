@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「ねぇ……いる……？」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 //「ん、どうぞー」=
 //「おじゃまします……」=
 //「あの……一緒に、寝てもいい……？　あなたを感じながら、寝たいの……」=

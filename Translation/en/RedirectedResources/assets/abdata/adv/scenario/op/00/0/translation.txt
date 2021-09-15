@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //オープニングを見ますか？=
+//SELECTION:「見る」=
+//SELECTION:「見ない」=
 //「来ちゃったよ、南の島に……」=
 //あのふざけた話を叔母さんから聞かされた時、俺は戯言であって欲しいと切実に願っていた。=
 //しかし、ここまでたどり着いたことで、嘘でも冗談でもなかったことを思い知らされてしまう。=

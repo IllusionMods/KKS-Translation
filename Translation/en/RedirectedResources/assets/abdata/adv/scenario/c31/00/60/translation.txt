@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「なぁ……部屋にいるか？」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 //「こんな時間にどうしたの？」=
 //「……直球に言うと、急におまえの温もりがほしくなったんだ」=
 //「だから……何も言わず私のことを抱きしめてくれっ」=

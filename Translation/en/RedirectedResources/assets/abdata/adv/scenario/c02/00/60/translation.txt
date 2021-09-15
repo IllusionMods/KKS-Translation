@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「こんばんは。会いに来ましたわ」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 //「こんな時間にどうしたの？」=
 //「……瞼を閉じた際に、ふとあなたの顔が浮かんできて、会いたくなりましたの」=
 //「ですので、眠る前にわたくしのことを抱きしめてくださる？」=
