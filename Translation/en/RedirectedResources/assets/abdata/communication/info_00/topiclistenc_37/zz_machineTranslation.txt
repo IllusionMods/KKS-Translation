@@ -11,7 +11,7 @@
 「<color%3Dyellow>マングローブ</color>とはなにか、あなたは語れますか？」=Can you tell us what a <color%3Dyellow>mangrove</color> is?
 「はい、植物固有の名称ではなく群衆を指していますね」=<color%3Dyellow>mangroves</color>? - Yes, you're referring to a group of people, not a specific plant.
 「<color%3Dyellow>パワースポット</color>について、あなたはどれ程語れますか？」=How much can you tell me about <color%3Dyellow>power spots</color>?
-「はい、霊場や聖地などもその一種のようです」=<color%3Dyellow>How much can you say about <color%3Dyellow>power spots</color>?
+「はい、霊場や聖地などもその一種のようです」=How much can you say about <color%3Dyellow>power spots</color>?
 「<color%3Dyellow>星空</color>にどれだけロマンがあるか、あなたはわかりますか？」=Do you know how romantic the <color%3Dyellow>starry sky</color> is?
 「見えている星の光は遥か昔のもの、というのが信じられませんよね」=Do you know how romantic the <color%3Dyellow>starry skies</color> are? It's hard to believe that the starlight we see is so far back in time.
 「なるほど、やはり自然界というのは底が知れませんね」=I see, the natural world is unfathomable, isn't it?

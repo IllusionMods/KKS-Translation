@@ -18,7 +18,7 @@
 「ま、良いところだからお前も行ってみろよ」=Well, it's a nice place. You should go there.
 「<color%3Dyellow>チンアナゴ</color>って変な生き物だよな～」=<color%3Dyellow>Chinagoes</color> are strange creatures, aren't they?
 「砂に埋まってる部分がどうなってるのか気になるぜ」=I'm curious to see what happens to the parts buried in the sand.
-「<color%3Dyellow>シオマネキ</color>は片方だけハサミがデカいから、バランスを崩しそうだよな」=I wonder what's going on with the part buried in the sand. <color%3Dyellow>The <color%3Dyellow>silverhead</color> has a big scissors on one side, so it's going to throw you off balance.
+「<color%3Dyellow>シオマネキ</color>は片方だけハサミがデカいから、バランスを崩しそうだよな」=I wonder what's going on with the part buried in the sand. The <color%3Dyellow>silverhead</color> has a big scissors on one side, so it's going to throw you off balance.
 「あれ、絶対歩きにくいだろ？　それなのにあいつらは頑張って生きてて……偉いと思うぜ」=They're definitely hard to walk with, aren't they? It's definitely hard to walk, and I think it's ...... great that they're still alive.
 「はは、そいつも面白いと思うぜ」=Ha, I think that's funny too.
 「なるほど、そっちも面白そうな気がするぜ」=Yeah, I think that's interesting too.

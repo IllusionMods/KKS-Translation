@@ -18,7 +18,7 @@
 「そこまで興味ありませんか？　悪くないと思うのですが……」=You're not that interested?　I don't think it's bad. ......
 「私、<color%3Dyellow>サンゴ</color>の事、好きなんですよ」=I like <color%3Dyellow>coral</color>.
 「海の中ので綺麗に輝いていて……実際に宝石として扱われるサンゴもあるらしいですよ」=<color%3Dyellow>I like coral</color>. It shines so beautifully in the ocean that ...... some corals are actually considered jewels.
-「<color%3Dyellow>シオマネキ</color>って、なんだか健気で可愛いですね」=<color%3Dyellow>The <color%3Dyellow>silkworm</color> is kind of cute and healthy, isn't it?
+「<color%3Dyellow>シオマネキ</color>って、なんだか健気で可愛いですね」=The <color%3Dyellow>silkworm</color> is kind of cute and healthy, isn't it?
 「大きい手を振るあのしぐさ……とても愛らしいと思います」=The way they wave their big hands ...... is very adorable.
 「そんなものもあるんですね、すごいです」=I didn't know there was such a thing, that's amazing.
 「素晴らしいですね、それも見てみたいです」=That's great, I'd like to see that too.
