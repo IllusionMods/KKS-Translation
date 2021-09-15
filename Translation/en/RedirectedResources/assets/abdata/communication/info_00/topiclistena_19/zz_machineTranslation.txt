@@ -11,7 +11,7 @@
 「私、<color%3Dyellow>ネコ</color>って好きなの」=I like <color%3Dyellow>cats</color>.
 「鳴き声も可愛いし、昼寝してるのを見るとついつい撫でたくなっちゃう」=Their purr is so cute, and when I see them napping, I just want to pet them.
 「<color%3Dyellow>ハイビスカス</color>って、綺麗で素敵だと思う」=I think <color%3Dyellow>hibiscus</color> is beautiful and wonderful.
-「道で咲いてるのを見かけると、この島へようこそって、歓迎されてる気分になるんだよね」=<color%3Dyellow>I think hibiscus</color> is beautiful and lovely. When I see them blooming on the street, I feel like I'm being welcomed to the island.
+「道で咲いてるのを見かけると、この島へようこそって、歓迎されてる気分になるんだよね」=When I see them blooming on the street, I feel like I'm being welcomed to the island.
 「この島の<color%3Dyellow>星空</color>って、本当に綺麗だよね」=The <color%3Dyellow>starry skies of this island</color> are really beautiful, aren't they?
 「自然に囲まれたこの島が、星明りに照らされてる風景って、すごく幻想的だと思う」=I think it's really fantastic to see this island, surrounded by nature, lit up by starlight.
 「そういう見方もあるんだね。面白いかも」=I guess that's one way of looking at it. It's interesting.
