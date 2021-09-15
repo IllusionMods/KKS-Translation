@@ -25,7 +25,7 @@
 「海って言っても色々あるからね……伝えるのは難しいかも」=There are many different types of oceans. ...... It's hard to convey.
 「そっか、興味ないんだ……私が上手にお話しできたら良かったんだけど」=I see. You're not interested. ...... I wish I could have been better at talking to you.
 「<color%3Dyellow>お土産</color>を選ぶのって、すっごく楽しいよね」=Choosing <color%3Dyellow>souvenirs</color> is really fun, isn't it?
-「お土産を買うこと自体が、旅の思い出に含まれるんだもんね」=<color%3Dyellow>Buying souvenirs is part of the trip itself, right?
+「お土産を買うこと自体が、旅の思い出に含まれるんだもんね」=Buying souvenirs is part of the trip itself, right?
 「<color%3Dyellow>シークヮーサージュース</color>って、スッキリしてて美味しいよね」=<color%3Dyellow>Shikwasa juice</color> is refreshing and delicious, right?
 「酸っぱいけど、ちゃんと甘くって……飲んだら目が覚める感じがするよ」=<color%3Dyellow>Shikwasa juice</color> is refreshing and delicious. <color%3Dyellow>It's sour, but it's also sweet.
 「<color%3Dyellow>三線</color>の音って、なんだか元気が出て来るよね」=The sound of the <color%3Dyellow>sanshin</color> is kind of energizing, isn't it?

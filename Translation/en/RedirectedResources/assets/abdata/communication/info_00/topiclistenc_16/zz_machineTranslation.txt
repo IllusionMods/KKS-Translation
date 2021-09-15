@@ -1,7 +1,7 @@
 「<color%3Dyellow>シュノーケリング</color>ってなかなか楽しいわね」=<color%3Dyellow>Snorkeling</color> is pretty fun, isn't it?
-「水が綺麗だから、海の中が本当に素敵なのよ」=<color%3Dyellow>Snorkeling is quite fun. <color%3Dyellow>The water is so clean, it's really nice under the sea.
+「水が綺麗だから、海の中が本当に素敵なのよ」=Snorkeling is quite fun. The water is so clean, it's really nice under the sea.
 「<color%3Dyellow>トレッキング</color>って気持ちいいわよね」=<color%3Dyellow>Trekking is very pleasant, isn't it?
-「自然に包まれてのんびりできるあの感覚、普段は味わえないわ」=<color%3Dyellow>Trekking is so nice, isn't it? <color%3Dyellow>You don't get to experience that feeling of being surrounded by nature.
+「自然に包まれてのんびりできるあの感覚、普段は味わえないわ」=Trekking is so nice, isn't it? You don't get to experience that feeling of being surrounded by nature.
 「なるほど、そっちも楽しそうね」=Well, that sounds like fun.
 「わかるわ。それも試してみたいわね」=I know what you mean. I'd like to try that, too.
 「そう、あまり好きじゃなさそうね。試してみたら変わるかも知れないわよ」=Well, you don't seem to like it much. You might change your mind if you try it.
@@ -21,7 +21,7 @@
 「やっぱり<color%3Dyellow>サンゴ</color>礁は素敵よね」=The <color%3Dyellow>coral</color> reefs are wonderful, aren't they?
 「それ自体、カラフルで綺麗だし、何より周りの水を綺麗している所がすごいわ」=It's colorful and beautiful in its own right, and it's amazing how it cleans the water around it.
 「<color%3Dyellow>クマノミ</color>って、とても可愛いと思わない？」=Don't you think <color%3Dyellow>tardigrades</color> are very cute?
-「イソギンチャクと共生している所とか、すごく愛らしいと思うわ」=<color%3Dyellow>They live in symbiosis with anemones.
+「イソギンチャクと共生している所とか、すごく愛らしいと思うわ」=They live in symbiosis with anemones.
 「いいわね、それも素敵だわ」=That's nice. That's nice, too.
 「私にもわかるわ。確かに良さそうね」=I know what you mean. I know what you mean. It looks nice.
 「そこには興味がないのね？　残念だわ、もう少し見てもらえばわかると思うけど」=You're not interested in that, are you?　That's a pity. You'll see.

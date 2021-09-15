@@ -1,5 +1,5 @@
 「<color%3Dyellow>釣り</color>って割と好きなのよね」=I like <color%3Dyellow>fishing</color> a lot, don't you?
-「魚との駆け引きが、意外とのめり込むのよ」=<color%3Dyellow>I like fishing a lot. <color%3Dyellow>The game with the fish is surprisingly addicting.
+「魚との駆け引きが、意外とのめり込むのよ」=I like fishing a lot. The game with the fish is surprisingly addicting.
 「<color%3Dyellow>シュノーケリング</color>って、結構いいと思うわ」=I think <color%3Dyellow>snorkeling</color> is pretty good.
 「手軽に海と一つになれる感じが、悪くないと思うわ」=It's easy to become one with the ocean, and that's not a bad feeling.
 「そう、それもいいかも知れないわね」=Yeah, that might be a good idea.

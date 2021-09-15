@@ -29,7 +29,7 @@
 「のう、ここの<color%3Dyellow>シークヮーサージュース</color>は飲んでみたかの？」=Have you tried their <color%3Dyellow>Shikwasa Juice</color>?
 「うむ、あのさっぱりとした酸味がたまらんのじゃ」=Yes, I love its refreshing acidity.
 「のう、お主は<color%3Dyellow>三線</color>に対してどのような知識を持っておるかの？」=What do you know about the <color%3Dyellow>sanshin</color>?
-「今では人工の皮も出回っているからの、動物に優しくなったものじゃ」=What do you know about <color%3Dyellow>sanshin?
+「今では人工の皮も出回っているからの、動物に優しくなったものじゃ」=What do you know about sanshin?
 「ふむ、そのようなものもあるのじゃな……」=Well, there is such a thing. ......
 「む、それはわしも気になるのう……」=Well, I'm curious about that, too. ......
 「お主も気が向いたら触れてみるとよいぞ」=You should try it if you feel like it.
