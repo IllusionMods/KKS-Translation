@@ -28,7 +28,7 @@
 登録可能人数を最大にする=Increase the number of rooms
 滞在者の表示人数=Number of people to be shown
 
-決定=Decide
+決定=Done
 
 //---------------------------------------------------------
 // Girl Select Menu
