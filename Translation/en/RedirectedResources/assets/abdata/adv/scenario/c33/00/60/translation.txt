@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「ねぇ、いる……？」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 「どうしたの？」=Something wrong?
 //「ふふっ、お邪魔するわね」=
 //「あら、あなたの愛しい彼女が部屋に来たのよ？　私が何を求めているか……わかってるわよね？」=

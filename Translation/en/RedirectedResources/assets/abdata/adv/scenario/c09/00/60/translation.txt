@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「ねえ……ちょっと部屋にいれてちょうだい」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 //「こんな時間にどうしたの？」=
 //「その……えっと……正直に言うと、あんたに会いたくなったの」=
 //「だから、その……あたしの相手をして……少しくらいならエッチなことをしても、いいから……」=

@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「ねえ、今部屋にいる？　それとももう寝ちゃったかしら……」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 //「大丈夫、まだ寝てないよ。こんな時間にどうしたの？」=
 //「なんだか人肌が恋しくなって……だから君に会いに来たの」=
 //「ね、傍にいっていい？」=

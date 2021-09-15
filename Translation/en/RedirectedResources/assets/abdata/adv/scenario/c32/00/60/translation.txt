@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「……夜分遅くにすみません」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 「どうしたの？」=What's up?
 //「どうしてもあなたに触れたくなってしまい、居ても立っても居られず押しかけてしまいました」=
 //「どうか、この卑しい女のわがままをお許し下さい……」=

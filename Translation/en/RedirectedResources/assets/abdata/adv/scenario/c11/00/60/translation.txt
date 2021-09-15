@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「ねえ……お部屋にいれてくれない？」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 //「どうしたの？」=
 //「夜遅くにごめんなさいね……今すぐあなたに会いたくなっちゃって、我慢出来なかったの」=
 //「あなたの温もりで……私を慰めてほしいわ」=

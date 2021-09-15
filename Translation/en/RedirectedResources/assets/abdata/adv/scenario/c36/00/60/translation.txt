@@ -1,7 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「主がわざわざ会いに来てあげたわ。部屋に入れなさい」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
 //「[H名]さん……？　こんな時間にどうしたの？」=
 //「下僕の様子を確かめに来ただけよ。他に理由なんてないわ」=
 //「でも……そうね。このまま帰るのもなんだし、ちょっとだけ遊んであげる」=
