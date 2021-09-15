@@ -20,6 +20,11 @@
 
 //Topic Menu
 話題を振る=Topics
+話題を選ぶ=Topics
+
+//Topic Items
+誤魔化す=Dodge Question
+
 
 //Date Menu
 コイカツ=Dating

@@ -118,6 +118,18 @@
 コイカツポイントを50pt消費して滞在先を変更しますか？=Do you want to spend 50 pts of your Koikatsu points to change the place you are staying?
 
 //---------------------------------------------------------
+//Prayer Dialog Box
+//---------------------------------------------------------
+お祈り=Prayer
+本日はもう参拝しました。=I have already prayed today.
+
+//---------------------------------------------------------
+//Peek End Dialog Box
+//---------------------------------------------------------
+覗きシーン再確認=Peeping scene again
+今の光景を思い出す=View the current scene again?
+
+//---------------------------------------------------------
 // Unsorted: Things that I don't know where they came from
 //---------------------------------------------------------
 確認=Confirmation

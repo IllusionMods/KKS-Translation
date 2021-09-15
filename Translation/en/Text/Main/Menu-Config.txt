@@ -95,7 +95,7 @@ BGM=Game BGM
 左クリック移動=Left-Click To Move
 Ctrlキーをしゃがみに設定=Ctrl Key To Crouch
 
-カメラ設定=Camera Settings
+カメラ設定=1st Person View
 反転=Turn
 横移動=Hor.
 縦移動=Vert.
