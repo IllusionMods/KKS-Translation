@@ -16,7 +16,7 @@
 「知識をひけらかしているの？　それぐらい私も知っているわ」=Are you showing off your knowledge?　I know a lot about it.
 「無知にも限度があるわ。しっかり勉強しなさい」=There's a limit to your ignorance. Study hard.
 「何のための旅行なんだか……学習しておくことね」=You need to learn what this trip is all about. ......
-「<color%3Dyellow>サンゴ</color>は海を綺麗にする役割があるそうよ」=<color%3Dyellow>They say coral helps keep the ocean clean.
+「<color%3Dyellow>サンゴ</color>は海を綺麗にする役割があるそうよ」=They say coral helps keep the ocean clean.
 「貴方もサンゴと一緒に暮らしていれば、少しは浄化されるんじゃないかしら」=Maybe if you lived with coral, it would help cleanse the ocean.
 「この間、貴方そっくりな<color%3Dyellow>シオマネキ</color>がいたわよ」=The other day I saw a <color%3Dyellow>silver crab</color> that looked just like you.
 「他のカニはあっという間に逃げて行ったのに、一匹だけノロノロと歩いていて……なんとも間抜けだったわ」=All the other crabs ran away so fast, but this one was walking so slowly, it was ...... so stupid.

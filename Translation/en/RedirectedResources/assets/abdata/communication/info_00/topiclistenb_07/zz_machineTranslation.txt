@@ -2,7 +2,7 @@
 「小さい頃に夢見た木登り体験が出来て、すっげー楽しかったぜ！」=I dreamed of climbing a tree when I was little, and it was so much fun!
 「海のレジャーといえば、やっぱり<color%3Dyellow>バナナボート</color>だと思わないか？」=<color%3Dyellow>Banana boat</color> is one of the most popular leisure activities in the ocean, don't you think?
 「爽快で何度も乗りたくなるんだよな～」=It's so exhilarating, I want to ride it again and again!
-「自然を見て回れる<color%3Dyellow>カヤック</color>も、楽しいもんだな」=<color%3Dyellow>Kayaking, where you can see the nature, is also fun.
+「自然を見て回れる<color%3Dyellow>カヤック</color>も、楽しいもんだな」=<color%3Dyellow>Kayaking</color>, where you can see the nature, is also fun.
 「まぁ、つい気合が入って早く漕ぎそうになるんだけど……ははは」=Well, I get so excited that I tend to paddle too fast.
 「ああ、それも面白いよな」=Yeah, it's fun, too.
 「へぇ～、お前はそっちが好きなのか～」=Oh, you like that one?
@@ -16,7 +16,7 @@
 「あ、それは私も知ってるぞ」=Yeah, I've heard that too.
 「ん～、なんか話が噛み合わないな」=Hmm, I don't know what you're talking about.
 「ま、良いところだからお前も行ってみろよ」=Well, it's a nice place. You should go there.
-「<color%3Dyellow>チンアナゴ</color>って変な生き物だよな～」=<color%3Dyellow>Chinagoes are strange creatures, aren't they?
+「<color%3Dyellow>チンアナゴ</color>って変な生き物だよな～」=<color%3Dyellow>Chinagoes</color> are strange creatures, aren't they?
 「砂に埋まってる部分がどうなってるのか気になるぜ」=I'm curious to see what happens to the parts buried in the sand.
 「<color%3Dyellow>シオマネキ</color>は片方だけハサミがデカいから、バランスを崩しそうだよな」=I wonder what's going on with the part buried in the sand. <color%3Dyellow>The <color%3Dyellow>silverhead</color> has a big scissors on one side, so it's going to throw you off balance.
 「あれ、絶対歩きにくいだろ？　それなのにあいつらは頑張って生きてて……偉いと思うぜ」=They're definitely hard to walk with, aren't they? It's definitely hard to walk, and I think it's ...... great that they're still alive.

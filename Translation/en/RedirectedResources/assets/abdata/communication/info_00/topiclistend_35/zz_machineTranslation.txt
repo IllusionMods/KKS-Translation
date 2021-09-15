@@ -1,8 +1,8 @@
 「ねぇ、<color%3Dyellow>釣り</color>するときのコツ、知っとー？」=Hey, do you know how to <color%3Dyellow>fish</color>?
 「まあ、なんかなし忍耐なんやけどね」=Well, I'm kind of patient.
-「<color%3Dyellow>バナナボート</color>って乗るときの注意とか知っとー？」=Do you know how to ride a <color%3Dyellow>banana boat?
+「<color%3Dyellow>バナナボート</color>って乗るときの注意とか知っとー？」=Do you know how to ride a banana boat?
 「あーそげんやり方も……これで少しは落ちんくなるかな……？」=Oh, I know how to do that, too. ...... I wonder if this will keep me from falling off. ......?
-「<color%3Dyellow>カヤック</color>とカヌーってどっちがどっちかわからんくなったりするよね」=<color%3Dyellow>Kayak</color> and <color%3Dyellow>canoe, it's sometimes hard to tell which is which.
+「<color%3Dyellow>カヤック</color>とカヌーってどっちがどっちかわからんくなったりするよね」=<color%3Dyellow>Kayak</color> and canoe, it's sometimes hard to tell which is which.
 「あーうん、そっちがカヤックなんよなぁ、ほんとごっちゃになるんよ……」=Oh, yeah, that's kayaking. It's really confusing. ......
 「へぇ、そのアクティビティも気になるなぁ」=Yeah, I'm curious about that activity too.
 「なんそれ、もっと詳しく教えてくれん？」=What's that? Can you tell me more about it?

@@ -1,6 +1,6 @@
 「<color%3Dyellow>シュノーケリング</color>に興味はある？」=Are you interested in <color%3Dyellow>snorkeling</color>?
 「近くで魚を見ることが出来て、すごく楽しいの」=It's really fun to see the fish up close.
-「もう<color%3Dyellow>トレッキング</color>はやってみた？」=Have you tried <color%3Dyellow>trekking yet?
+「もう<color%3Dyellow>トレッキング</color>はやってみた？」=Have you tried trekking yet?
 「自然の中を歩くのが気持ち良くて、私、ちょっとはまったかも」=It's nice to walk in nature. I think I'm a little addicted.
 「へぇ、そのレジャーも楽しそうね」=Wow, that sounds like a fun leisure activity.
 「ふふ、あなたがそれが好きなのね」=I see you like it.

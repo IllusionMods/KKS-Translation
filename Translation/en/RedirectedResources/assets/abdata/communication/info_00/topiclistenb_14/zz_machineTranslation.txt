@@ -16,7 +16,7 @@
 「知ってる知ってる、あれもいいよな」=I know, I know. It's good, too.
 「そうか……私は好きなんだけど、お前もちゃんと見た方がいいぞ」=Yeah. ...... I like it, but you should see it.
 「なんだ、お前はそんなに気に入ってないのか？　勿体ないぞ」=What, you don't like it that much?　It's a waste of time.
-「<color%3Dyellow>チンアナゴ</color>って、面白いよな」=<color%3Dyellow>Chinagoes are funny, aren't they?
+「<color%3Dyellow>チンアナゴ</color>って、面白いよな」=Chinagoes are funny, aren't they?
 「あいつら揃って穴から顔出して揺れてる所とか、愛嬌あっていいと思うぜ」=They're funny, aren't they?
 「<color%3Dyellow>シオマネキ</color>ってすげぇカッコいいよな」=<color%3Dyellow>Shiromonera</color> are really cool, aren't they?
 「あのでっかい片手がいいんだよな。迫力があって私は好きだぜ」=I like its big hand, don't you? I like it because it's powerful.

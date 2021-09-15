@@ -1,14 +1,14 @@
 「<color%3Dyellow>ツリーイング</color>って、最高に面白いぞー」=<color%3Dyellow>Tree climbing</color> is the most fun you'll ever have.
 「木登りって全身使うから、面白いんだぞ」=Climbing trees is fun because you use your whole body.
-「あたし、<color%3Dyellow>バナナボート</color>大好きだぞ」=I love <color%3Dyellow>banana boats.
+「あたし、<color%3Dyellow>バナナボート</color>大好きだぞ」=I love banana boats.
 「あの海の上を走る疾走感がたまらないぞー」=I love the feeling of running on the ocean.
-「<color%3Dyellow>カヤック</color>って、本当に楽しいなー」=<color%3Dyellow>Kayaking is really fun.
+「<color%3Dyellow>カヤック</color>って、本当に楽しいなー」=Kayaking is really fun.
 「自分で漕いで進むあの感じ、自然の一部になった感じでワクワクするぞー」=That feeling of paddling along by yourself, feeling like you're a part of nature, it's exciting.
 「なるほどなー。そっちも面白そうだぞー」=I see. That sounds interesting too.
 「そんなのもあるのか。悪くないなー」=I didn't know such a thing existed. That's not bad.
 「キミはそういうの興味ないのか？　勿体ないぞー」=You're not interested in that?　It's a waste of time.
 「なんだー……やってみたら面白いと思うんだけどな―」=I think it'd be fun to try .......
-「<color%3Dyellow>パワースポット</color>って、何となくいい匂いがするんだぞー」=<color%3Dyellow>Power spots smell so good.
+「<color%3Dyellow>パワースポット</color>って、何となくいい匂いがするんだぞー」=Power spots smell so good.
 「あたし、あういう神秘的な空気、好きだぞー……絶対何かある気がする」=I like that kind of mystical atmosphere. ...... I think there's definitely something there.
 「<color%3Dyellow>ガジュマル</color>は力強くて、結構好きだぞ」=I like the <color%3Dyellow>Banyan</color> because it's strong.
 「あの茎が絡み合って、複雑な感じが面白いなー」=I like the way the stems are intertwined, the complexity.

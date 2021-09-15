@@ -7,9 +7,9 @@
 「あまり、興味がないみたいですね……やってみたら、変わるかも知れませんよ」=You don't seem to be very interested in ....... You might change your mind if you try it.
 「興味、わきませんでしたか……仕方がないですね、いつかわかってもらえると思います」=You're not interested? ...... I can't help it. You'll understand one day.
 「<color%3Dyellow>水牛</color>って……結構、可愛いですよね」=<color%3Dyellow>Buffalo</color> is ...... pretty cute, isn't it?
-「大きいんですけど……目が優しくって、のんびりしてる所が好きですね」=<color%3Dyellow>Buffaloes</color> are pretty cute, aren't they? <color%3Dyellow>They're big, but I like their ...... kind eyes and the way they take it easy.
+「大きいんですけど……目が優しくって、のんびりしてる所が好きですね」=<color%3Dyellow>Buffaloes</color> are pretty cute, aren't they? They're big, but I like their ...... kind eyes and the way they take it easy.
 「<color%3Dyellow>ネコ</color>って……やっぱり可愛いですよね」=<color%3Dyellow>Cats</color> are ...... cute, aren't they?
-「気まぐれで自由な所がありますけど……懐いてくれると、すごく嬉しいです」=<color%3Dyellow>Cats</color> are cute, aren't they? <color%3Dyellow>They can be fickle and free, but when they take to ...... me, I'm very happy.
+「気まぐれで自由な所がありますけど……懐いてくれると、すごく嬉しいです」=<color%3Dyellow>Cats</color> are cute, aren't they? They can be fickle and free, but when they take to ...... me, I'm very happy.
 「<color%3Dyellow>ハイビスカス</color>の花って……綺麗だと思いませんか？」=Don't you think <color%3Dyellow>hibiscus</color> flowers are ...... beautiful?
 「南国のイメージにぴったりで……華やかで明るい雰囲気が好きです」=I like the ...... glamorous and bright atmosphere that fits the image of a tropical country.
 「この島の<color%3Dyellow>星空</color>……すごく綺麗ですよね」=The <color%3Dyellow>starry skies</color> of this island are ...... very beautiful, aren't they?

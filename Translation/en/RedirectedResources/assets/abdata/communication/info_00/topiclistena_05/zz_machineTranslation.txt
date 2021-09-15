@@ -6,7 +6,7 @@
 「へぇ～、それも面白そう」=Yeah, that sounds fun too.
 「……よかったら、あなたもやってみて」=...... If you want, you can try it too.
 「……あなたも、楽しめると思うよ」=...... I think you'll enjoy it.
-「<color%3Dyellow>水牛</color>が町を歩いてるのって、不思議な光景だよね」=<color%3Dyellow>It's a strange sight to see a water buffalo walking around town, isn't it?
+「<color%3Dyellow>水牛</color>が町を歩いてるのって、不思議な光景だよね」=It's a strange sight to see a <color%3Dyellow>water buffalo</color> walking around town, isn't it?
 「身体が大きいから、初めて見た時はビックリしちゃった」=They're so big, I was surprised when I first saw them.
 「島にいる<color%3Dyellow>ネコ</color>に懐かれたかもしれないの」=I think the cat on the island might have missed me.
 「あの子を宇宙には連れていくわけにはいかないから……ちょっと困ってる」=I'm in a bit of trouble because I can't take her into space.

@@ -8,7 +8,7 @@
 「いいね、それもやってみたい」=Yeah, I'd like to try that.
 「興味なかった？　そっか、でもやってみたら気に入ると思うな」=You're not interested?　No, but I think you'd like it if you tried it.
 「そんなに面白そうじゃなかった？　試しにやってみたらいいと思うよ」=It doesn't sound that interesting?　I think you should give it a try.
-「<color%3Dyellow>マングローブ</color>って不思議だよね」=<color%3Dyellow>Mangroves are strange, aren't they?
+「<color%3Dyellow>マングローブ</color>って不思議だよね」=Mangroves are strange, aren't they?
 「あんな水辺にいっぱい木が生えてるなんて、なんだか別の生き物みたい」=It's like a different kind of life, all those trees growing in the water.
 「私、<color%3Dyellow>ハイビスカス</color>って好きなんだ」=I like <color%3Dyellow>hibiscus</color>.
 「綺麗だし、可愛いし……あの花を見るだけで、南国気分が盛り上がるんだよね」=They're beautiful and pretty. ...... Just looking at those flowers makes me feel tropical.
@@ -25,7 +25,7 @@
 「あれ、あんまり面白くなかった？　私の説明が悪かったのかな」=Wasn't that interesting?　Maybe I didn't explain it well enough.
 「そんなに響いてなさそうだね……実際に見たらすごいと思うんだけど」=It doesn't seem to have that much impact on you. ...... It would be amazing to see it in person.
 「<color%3Dyellow>お土産</color>ってなんだかワクワクするよね」=<color%3Dyellow>Souvenirs</color> are kind of exciting, aren't they?
-「やっぱり、喜んでもらえたら、こっちも嬉しいし……選んでるだけで楽しくなってくるよ」=<color%3Dyellow>Souvenirs</color> are exciting, aren't they? <color%3Dyellow>When people are happy, we're happy too. ...... Just picking them out is fun.
+「やっぱり、喜んでもらえたら、こっちも嬉しいし……選んでるだけで楽しくなってくるよ」=<color%3Dyellow>Souvenirs</color> are exciting, aren't they? When people are happy, we're happy too. ...... Just picking them out is fun.
 「<color%3Dyellow>シークヮーサージュース</color>って美味しいよね」=<color%3Dyellow>Shikwasa Juice</color> is delicious, isn't it?
 「甘酸っぱくて、ちょっと苦みがあって、爽やかなんだよね。すっごく体にいいって感じがするの」=It's sweet and sour, a little bitter, and refreshing. It's sweet and sour, a little bitter and refreshing, and it feels really good for you.
 「私、<color%3Dyellow>三線</color>のあの音、すごく気に入ってるんだ」=I really like the sound of the <color%3Dyellow>sanshin</color>.

@@ -2,7 +2,7 @@
 「ふふっ、今度、大物釣ってあんたに見せびらかすんだから」=I'm going to catch a big one and show it off to you.
 「ふふっ、あんたに<color%3Dyellow>バナナボート</color>が乗りこなせるかしら？」=I wonder if you can handle a banana boat.
 「ふ、ふーん、まぁ、あのくらい楽勝よね……？」=Hmmm, well, that's a piece of cake, isn't it ......?
-「マングローブでのアクティビティと言ったら<color%3Dyellow>カヤック</color>よね？」=When you think of mangrove activities, you think <color%3Dyellow>kayaking, right?
+「マングローブでのアクティビティと言ったら<color%3Dyellow>カヤック</color>よね？」=When you think of mangrove activities, you think kayaking, right?
 「水上からあの森林を見渡す感覚、たまらないわよね」=I love the feeling of looking out over the forest from the water, don't you?
 「……何よ、そっちも気になるじゃない」=...... What? I'm curious about that too.
 「ふぅん、今度やってみようかしら……」=Hmm. Maybe I'll try it sometime. ......

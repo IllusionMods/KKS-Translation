@@ -1,6 +1,6 @@
 「<color%3Dyellow>シュノーケリング</color>ってなかなか楽しいわね」=<color%3Dyellow>Snorkeling</color> is pretty fun, isn't it?
 「水が綺麗だから、海の中が本当に素敵なのよ」=Snorkeling is quite fun. The water is so clean, it's really nice under the sea.
-「<color%3Dyellow>トレッキング</color>って気持ちいいわよね」=<color%3Dyellow>Trekking is very pleasant, isn't it?
+「<color%3Dyellow>トレッキング</color>って気持ちいいわよね」=Trekking is very pleasant, isn't it?
 「自然に包まれてのんびりできるあの感覚、普段は味わえないわ」=Trekking is so nice, isn't it? You don't get to experience that feeling of being surrounded by nature.
 「なるほど、そっちも楽しそうね」=Well, that sounds like fun.
 「わかるわ。それも試してみたいわね」=I know what you mean. I'd like to try that, too.
@@ -12,7 +12,7 @@
 「マングローブって名前の木があるわけじゃないのよ。汽水域の植物群落をそう呼ぶみたい」=<color%3Dyellow>Mangroves</color> have a mysterious charm. "There are no trees named mangroves. There are no trees called mangroves, but rather plant communities in brackish water.
 「<color%3Dyellow>パワースポット</color>ってなんだか神秘的よね」=There's something mysterious about <color%3Dyellow>power spots</color>.
 「私はオカルトを否定するつもりはないわ。私達が知りえない力だって確かに存在するはずよ」=I'm not going to deny the occult. I'm not going to deny the occult. I'm sure there are powers we don't know about.
-「この島の<color%3Dyellow>星空</color>は、本当に素晴らしいわ」=The <color%3Dyellow>starry skies of this island are truly amazing.
+「この島の<color%3Dyellow>星空</color>は、本当に素晴らしいわ」=The starry skies of this island are truly amazing.
 「周りに光が少なくて、星がはっきりと見えるのよ。自然が豊かなおかげだわ」=There's not much light around, so you can see the stars clearly. We can see the stars clearly because there is very little light around us, thanks to the abundance of nature.
 「なるほど、そういう見方もできるのね」=I see. That's one way of looking at it.
 「そんな魅力もあったなんて、気が付かなかったわ」=I didn't realize it had that kind of charm.
@@ -28,7 +28,7 @@
 「あら、わかってくれないのね？　アナタになら、きっと良さが伝わると思ったんだけど」=Oh, you don't get it, do you?　I thought you would appreciate it.
 「やっぱり、<color%3Dyellow>名物料理</color>は押さえておくべきでしょ」=I thought you'd appreciate the <color%3Dyellow>specialties</color>.
 「何事も経験よ。それに美味しく食べられるなら、一石二鳥だわ」=Everything is an experience. Everything is an experience, and if you can eat well, you can kill two birds with one stone.
-「<color%3Dyellow>紅型</color>染めって、本当に奇麗よね」=<color%3Dyellow> Bingata dyeing is really beautiful.
+「<color%3Dyellow>紅型</color>染めって、本当に奇麗よね」= Bingata dyeing is really beautiful.
 「伝統文化と、現代のデザインが見事に融合していて、本当に見ていて飽きないわ」=It's such a beautiful combination of traditional culture and modern design, I never get tired of it.
 「いいわね、そっちも素敵だと思うわ」=I like it. I think it's beautiful too.
 「さすがね、いい着眼点だわ」=That's a good point. That's a good point.

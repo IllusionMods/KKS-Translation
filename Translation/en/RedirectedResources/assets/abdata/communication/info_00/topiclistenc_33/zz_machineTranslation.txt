@@ -26,7 +26,7 @@
 「あら、あなた面白い事知ってるのね」=Oh, you know some interesting things, don't you?
 「ふふっ、ためになったでしょう？」=Hmm. Isn't that interesting?
 「これを機に色々見て見るといいわよ？」=This is a good opportunity for you to look around, okay?
-「ここの<color%3Dyellow>名物料理</color>、あなたはチャレンジしてみたかしら？」=I wonder if you've tried any of their <color%3Dyellow>specialties?
+「ここの<color%3Dyellow>名物料理</color>、あなたはチャレンジしてみたかしら？」=I wonder if you've tried any of their specialties?
 「へぇ、そんな味だったのね、私も気になっちゃうわ」=Oh, I didn't know it tasted like that. I'm curious too.
 「<color%3Dyellow>紅型</color>染めについて、あなたはどれだけ知ってるのかしら？」=How much do you know about <color%3Dyellow> Bingata dyeing</color>?
 「そうよね、もち米で作った糊を使うって、何だか時代を感じるわよね」=I know, using glue made from glutinous rice is kind of old-fashioned, isn't it?

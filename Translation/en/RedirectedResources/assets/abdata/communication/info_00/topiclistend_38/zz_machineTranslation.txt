@@ -27,7 +27,7 @@
 「私、<color%3Dyellow>お土産</color>を選ぶのが好きなんです」=I like to pick out <color%3Dyellow>souvenirs</color>.
 「相手が喜んでくれるのではと想像しながら選ぶのは、とても楽しいですね」=It's a lot of fun to imagine what they would like.
 「<color%3Dyellow>シークヮーサージュース</color>って、とっても爽やかですね」=<Yellow>Shikwasa juice</color> is very refreshing.
-「苦みと酸っぱさの具合がちょうどよくって、飲むと頭がすっきりするんです」=<color%3Dyellow>Shikwasa Juice</color> is very refreshing. <color%3Dyellow>It has just the right amount of bitterness and sourness, and it clears my head.
+「苦みと酸っぱさの具合がちょうどよくって、飲むと頭がすっきりするんです」=<color%3Dyellow>Shikwasa Juice</color> is very refreshing. It has just the right amount of bitterness and sourness, and it clears my head.
 「<color%3Dyellow>三線</color>の音って、すごく心に浸み込んできますね」=The sound of the <color%3Dyellow>sanshin</color> really penetrates my heart.
 「楽器自体の音色が、この土地の空気を感じさせてくれるようで、とても好きです」=I like the sound of the instrument itself because it gives me a sense of the local air.
 「いいですね、とても面白そうです」=I like it. It sounds very interesting.

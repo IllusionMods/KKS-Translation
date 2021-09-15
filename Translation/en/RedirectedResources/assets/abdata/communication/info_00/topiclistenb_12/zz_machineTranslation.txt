@@ -28,7 +28,7 @@
 「やっぱり配れるお菓子がベターだよな。わかるわかる」=What kind of <color%3Dyellow>souvenir</color> have you decided to buy? I know, I know.
 「<color%3Dyellow>シークヮーサージュース</color>が売られてるのはよく見かけるな」=I often see Shikwasa juice on sale.
 「はは、そんなに酸っぱかったのか？　あたしが飲んだときは、さっぱりして美味しかったぞ」=Haha, was it that sour?　When I drank it, it was refreshing and tasty.
-「ここでも、<color%3Dyellow>ぬいぐるみ</color>は人気みたいだな～」=<color%3Dyellow>Plush toys seem to be popular here too.
+「ここでも、<color%3Dyellow>ぬいぐるみ</color>は人気みたいだな～」=Plush toys seem to be popular here too.
 「へ？　あたしにプレゼントする？　いやいや、似合わないって！　気持ちだけありがたく貰っておくよ」=Huh?　Do you want to give it to me?　No, no, no, it's not for you!　I'll just take the gift.
 「おお、それもいいな。教えてくれてさんきゅ」=Oh, that's nice too. Thank you for telling me.
 「なるほど、それがおまえのおすすめってわけか」=I see. So that's your recommendation.
