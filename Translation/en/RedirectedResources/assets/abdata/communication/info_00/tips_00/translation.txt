@@ -13,7 +13,7 @@
 <color%3D#ffa801ff>灯台</color>の近くに<color%3D#ffa801ff>ウムイの鐘</color>がおいてあるよ。<color%3D#ffa801ff>恋人同士</color>でその鐘を鳴らすと、その二人は必ず結ばれるっていう噂があるんだ～。=Near the <color%3D#ffa801ff>lighthouse</color>, you'll find the <color%3D#ffa801ff>Bell of Umui</color>. There's a rumor that if two <color%3D#ffa801ff>lovers</color> ring the bell, they're sure to get married.
 カップルドリンク >=Couple Drink
 <color%3D#ffa801ff>ホテルのプールサイド</color>で注文できる<color%3D#ffa801ff>トロピカルドリンク</color>が人気だよ。<color%3D#ffa801ff>恋人同士</color>で一緒に飲むのがブームみたい。=The <color%3D#ffa801ff>tropical drink</color> that you can order at the <color%3D#ffa801ff>hotel poolside</color> is very popular. <color%3D#ffa801ff>Lovers</color> like to drink it together.
-デートスポット >=Date Spots
+デートスポット >=Date Spots >
 この島には<color%3D#ffa801ff>カップル</color>で楽しめる<color%3D#ffa801ff>スポット</color>がいくつかあるんだよ。そういう相手がいるなら一緒に周ってみてね！=There are a few <color%3D#ffa801ff>couple spots</color> on this island. If you have a partner, you should go visit them together!
 バナナボート >=Banana Boat
 <color%3D#ffa801ff>浜辺のレンタルショップ</color>で頼めば<color%3D#ffa801ff>バナナボート</color>を体験できるよ。よかったら<color%3D#ffa801ff>恋人同士</color>で一緒に体験してみてね！=If you ask at the <color%3D#ffa801ff>rental shop</color> on the beach, you can try out a <color%3D#ffa801ff>banana boat</color>. If that piques your interest, bring your <color%3D#ffa801ff>lover</color> along and experience it together!
