@@ -10,7 +10,7 @@
 もう一つのビーチ？ >=Another Beach?
 この島には立ち入り禁止になってる<color%3D#ffa801ff>もう一つのビーチ</color>があるんだよ。今はどうなってるかなぁ～？= There's <color%3D#ffa801ff>another beach</color> on the island that's off-limits. I wonder what's it's like there now~?
 ウムイの鐘 >=The Bell of Umui 
-//<color%3D#ffa801ff>灯台</color>の近くに<color%3D#ffa801ff>ウムイの鐘</color>がおいてあるよ。<color%3D#ffa801ff>恋人同士</color>でその鐘を鳴らすと、その二人は必ず結ばれるっていう噂があるんだ～。=Near the <color%3D#ffa801ff>lighthouse</color>, you'll find the <color%3D#ffa801ff>Bell of Umui</color>. There's a rumor that if two <color%3D#ffa801ff>lovers</color> ring the bell, they're sure to get married.
+<color%3D#ffa801ff>灯台</color>の近くに<color%3D#ffa801ff>ウムイの鐘</color>がおいてあるよ。<color%3D#ffa801ff>恋人同士</color>でその鐘を鳴らすと、その二人は必ず結ばれるっていう噂があるんだ～。=Near the <color%3D#ffa801ff>lighthouse</color>, you'll find the <color%3D#ffa801ff>Bell of Umui</color>. There's a rumor that if two <color%3D#ffa801ff>lovers</color> ring the bell, they're sure to get married.
 カップルドリンク >=Couple Drink
 <color%3D#ffa801ff>ホテルのプールサイド</color>で注文できる<color%3D#ffa801ff>トロピカルドリンク</color>が人気だよ。<color%3D#ffa801ff>恋人同士</color>で一緒に飲むのがブームみたい。=The <color%3D#ffa801ff>tropical drink</color> that you can order at the <color%3D#ffa801ff>hotel poolside</color> is very popular. <color%3D#ffa801ff>Lovers</color> like to drink it together.
 デートスポット >=Date Spots
