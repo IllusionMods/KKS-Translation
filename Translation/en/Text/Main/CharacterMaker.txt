@@ -84,7 +84,6 @@ RGB=RGB
 化粧=Makeup
 
 //Face -> General
-頭の種類=Face Type
 頭の種類に合わせたデフォルトの顔に戻す=Reset Face Type To Default Face
 顔の全体横幅=Face Width
 顔の上部前後=Upper Face Depth
@@ -92,7 +91,6 @@ RGB=RGB
 顔の上部サイズ=Upper Face Size
 顔の下部前後=Lower Face Depth
 顔の下部横幅=Lower Face Width
-特殊表現の種類=Face Overlay Type
 特殊表現の強さ=Face Overlay Strength
 
 //Face -> Ears
@@ -125,7 +123,6 @@ r:"^耳の角度([A-Z])軸$"=Ear Angle $1 Axis
 眉の角度=Eyebrow Angle
 眉の内側形状=Inner Eyebrow Shape
 眉の外側形状=Outer Eyebrow Shape
-眉の種類=Eyebrow Type
 眉の色=Eyebrow Color
 眉を髪より手前に表示=Eyebrows Show Through Hair
 眉の色を髪と陰毛に反映する=Copy Eyebrow Color To Hair And Pubic Hair
@@ -144,16 +141,11 @@ r:^下まぶたの形状([０-９0-9]+)$=Lower Eyelid Shape $1
 目の横幅=Eye Width
 目頭の左右位置=Inner Eye Corner Height
 目尻の上下位置=Outer Eye Corner Height
-アイライン上の種類=Upper Eyeliner Type
-アイライン下の種類=Lower Eyeliner Type
 アイラインの色=Eyeliner Color
 
 //Face -> Iris
-白目のグラデ種類=Sclera Type
 sr:^白目の色([①-⑨])$=Sclera Color $1
-ハイライト上の種類=Upper Highlight Type
 ハイライト上の色=Upper Highlight Color
-ハイライト下の種類=Lower Highlight Type
 ハイライト下の色=Lower Highlight Color 
 //Typo from Older Versions
 ハイライトの下色=Lower Highlight Color
@@ -170,9 +162,7 @@ sr:^白目の色([①-⑨])$=Sclera Color $1
 両目=Both Eyes
 左目=Left Eye
 右目=Right Eye
-瞳の種類=Eye Type
 sr:^瞳の色([①-⑨])$=Eye Color $1
-瞳のグラデ種類=Eye Gradient Type
 瞳のグラデ合成方法=Eye Gradient Strength
 瞳のグラデ上下調整=Eye Gradient Vertical
 瞳のグラデサイズ=Eye Gradient Size
@@ -184,7 +174,6 @@ sr:^瞳の色([①-⑨])$=Eye Color $1
 鼻先の高さ=Nose Tip Height
 鼻の上下=Nose Vertical Position
 鼻筋の高さ=Nose Ridge Height
-鼻の種類=Nose Type
 
 //Face -> Mouth
 口の上下=Mouth Vertical Position
@@ -193,13 +182,11 @@ sr:^瞳の色([①-⑨])$=Eye Color $1
 口の形状上=Upper Lip Depth
 口の形状下=Lower Lip Depth
 口の形状口角=Mouth Corner Shape
-リップラインの種類=Lip Line Type
 リップラインの色=Lip Line Color
 唇のツヤの強さ=Lip Gloss
 八重歯を表示する=Enable Fangs
 
 //Face -> Moles
-ホクロの種類=Mole Type
 ホクロの色=Mole Color
 ホクロの左右位置=Mole Horizontal Position
 ホクロの上下位置=Mole Vertical Position
@@ -208,11 +195,8 @@ sr:^瞳の色([①-⑨])$=Eye Color $1
 ホクロ配置=Mole Position
 
 //Face -> Makeup
-アイシャドウの種類=Eyeshadow Type
 アイシャドウの色=Eye Shadow Color
-チークの種類=Cheek Type
 チークの色=Cheek Color
-リップの種類=Lip Type
 リップの色=Lip Color
 r:^フェイスペイント([０-９0-9]+)の種類$=Facepaint $1 Type
 r:^フェイスペイント([０-９0-9]+)配置$=Facepaint $1 Position
@@ -244,7 +228,6 @@ r:^ペイント([０-９0-9]+)位置プリセット$=Paint $1 Position Presets
 身長=Body Height
 頭のサイズ=Head Size
 骨格タイプ=Skeleton Type
-肉感の種類=Skin Type
 肉感の強さ=Skin Type Strength
 肌の色=Skin Color
 肌の色(赤み部分)=Skin Color (Redder Areas)
@@ -265,7 +248,6 @@ r:^ペイント([０-９0-9]+)位置プリセット$=Paint $1 Position Presets
 乳首の太さ=Nipple Thickness
 乳首立ち=Nipple Depth
 乳輪の大きさ=Areola Size
-乳首の種類=Nipple Type
 乳首の色=Nipple Color
 乳首のツヤ強さ=Nipple Gloss
 
@@ -314,14 +296,12 @@ r:^ペイント([０-９0-9]+)位置プリセット$=Paint $1 Position Presets
 爪のツヤの強さ=Nail Gloss
 
 //Body -> Pubic Hair
-陰毛の種類=Pubic Hair Type
 陰毛の色=Pubic Hair Color
 陰毛の色を髪と眉に反映する=Copy Pubic Hair Color To Hair And Eyebrows
 陰毛の色を眉の色に合わせる=Copy Eyebrow Color To Pubic Hair
 陰毛の色を髪の色に合わせる=Copy Hair Color To Pubic Hair
 
 //Body -> Suntan
-日焼け跡の種類=Suntan Type
 日焼け跡の色=Suntan Color
 
 //Body -> Body Paint
@@ -366,7 +346,6 @@ sr:^髪飾りの色([①-⑨])$=Hair Accessory Color $1
 髪飾りの色を初期に戻す=Set Accessory Color To Default
 
 //Hair -> Back Hair
-後ろ髪の種類=Back Hair Type
 後ろ髪の基本の色=Back Hair Base Color
 後ろ髪の根本の色=Back Hair Root Color
 後ろ髪の毛先の色=Back Hair Tip Color
@@ -375,7 +354,6 @@ r:^後ろ髪の装飾の色([０-９0-9]+)$=Back Hair Accessory $1 Color
 後ろ髪のハイライトの色=Back Hair Highlight Color
 
 //Hair -> Front Hair
-前髪の種類=Front Hair Type
 前髪の長さ=Front Hair Length
 前髪の基本の色=Front Hair Base Color
 前髪の根本の色=Front Hair Root Color
@@ -384,7 +362,6 @@ r:^後ろ髪の装飾の色([０-９0-9]+)$=Back Hair Accessory $1 Color
 r:^前髪の装飾の色([０-９0-9]+)$=Front Hair Accessory $1 Color
 
 //Hair -> Side Hair
-横髪の種類=Side Hair Type
 横髪の基本の色=Side Hair Base Color
 横髪の根本の色=Side Hair Root Color
 横髪の毛先の色=Side Hair Tip Color
@@ -393,7 +370,6 @@ r:^横髪の装飾の色([０-９0-9]+)$=Side Hair Accessory $1 Color
 
 //Hair -> Extensions
 エクステの種類=Extension Type
-付け毛の種類=Ahoge Type
 エクステの基本の色=Extension Base Color
 エクステの根本の色=Extension Root Color
 エクステの毛先の色=Extension Tip Color
@@ -416,9 +392,6 @@ r:^横髪の装飾の色([０-９0-9]+)$=Side Hair Accessory $1 Color
 コピー=Copy
 
 //Clothing -> Shared Options
-柄の種類=Pattern Type
-胴の種類=Body Type
-襟の種類=Collar Type
 sr:^服の色([①-⑨])$=Cloth Color $1
 sr:^服の柄([①-⑨])$=Cloth Pattern $1
 sr:^柄([①-⑨])の左右位置$=Pattern $1 Horizontal
@@ -471,17 +444,12 @@ r:^外履き柄の色([０-９0-9]+)$=Shoes Pattern $1 Color
 
 //Clothing -> Tops
 トップスを初期の状態に戻す=Restore Default Top Settings
-トップスの種類=Top Type
-インナーの種類=Innerwear Type
-アウターの種類=Outerwear Type
-装飾の種類=Decoration Type
 装飾の色=Decoration Color
 装飾の柄=Decoration Pattern
 装飾の柄の大きさ(幅)=Decoration Pattern Width
 装飾の柄の大きさ(高さ)=Decoration Pattern Height
 装飾の柄の色=Decoration Pattern Color
 //Without Emotion Creators Preorder Bonus
-エンブレムの種類=Emblem Type
 r:^エンブレム([０-９0-9]+)の種類$=Emblem $1 Type
 袖の種類=Sleeve Type
 
@@ -492,32 +460,25 @@ TypeC=Type C
 
 //Clothing -> Bottom
 ボトムスを初期の状態に戻す=Restore Default Bottom Settings
-ボトムスの種類=Bottom Type
 
 //Clothing -> Bra
 インナー上を初期の状態に戻す=Reset Default Bra Settings
-//ブラの種類=Bra Type
 
 //Clothing -> Underwear
 インナー下を初期の状態に戻す=Reset Default Underwear Settings
-ショーツの種類=Underwear Type
 
 //Clothing -> Gloves
 手袋を初期の状態に戻す=Restore Default Glove Settings
-手袋の種類=Glove Type
 
 //Clothing -> Pantyhose
 パンストを初期の状態に戻す=Restore Default Pantyhose Settings
-パンストの種類=Pantyhose Type
 
 //Clothing -> Legwear
 靴下を初期の状態に戻す=Restore Default Legwear Settings
-靴下の種類=Legwear Types
 
 //Clothing -> Shoes
 内履きを初期の状態に戻す=Restore Default Indoor Shoe Settings
 外履きを初期の状態に戻す=Restore Default Outdoor Shoe Settings
-靴の種類=Shoe Type
 
 //Clothing -> Copy Menu
 コピー元のコーディネート=Clothing Source
@@ -572,16 +533,6 @@ r:^調整([０-９0-9]+)$=Adjustment $1
 サブ=Sub
 
 //Accessory Dialogue Box Label List
-アクセサリ（髪）の種類=Accessory (Hair) Type
-アクセサリ（頭）の種類=Accessory (Head) Type
-アクセサリ（顔）の種類=Accessory (Face) Type
-アクセサリ（首）の種類=Accessory (Neck) Type
-アクセサリ（胴）の種類=Accessory (Torso) Type
-アクセサリ（腰）の種類=Accessory (Hips) Type
-アクセサリ（脚）の種類=Accessory (Legs) Type
-アクセサリ（腕）の種類=Accessory (Arms) Type
-アクセサリ（手）の種類=Accessory (Hands) Type
-アクセサリ（股間）の種類=Accessory (Crotch) Type
 
 //Slot Adjustment
 r:^スロット([０-９0-9]+)の親を選択$=Slot $1 Parent Selection
