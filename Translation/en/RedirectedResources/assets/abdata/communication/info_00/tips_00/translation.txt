@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
 ヤマネコ >=Wildcat >
-<color%3D#ffa801ff>ヤマネコ</color>を<color%3D#ffa801ff>自然公園</color>や<color%3D#ffa801ff>路地</color>でたまーに見かけるって聞くよ。見つけられたらラッキー！=I hear that <color%3D#ffa801ff>wildcats</color> are sometimes seen in <color%3D#ffa801ff>nature parks</color> and <color%3D#ffa801ff>alleyways</color>. You're lucky if you can find one!
+<color%3D#ffa801ff>ヤマネコ</color>を<color%3D#ffa801ff>自然公園</color>や<color%3D#ffa801ff>路地</color>でたまーに見かけるって聞くよ。見つけられたらラッキー！=I hear that <color%3D#ffa801ff>wildcats</color> are sometimes seen in <color%3D#ffa801ff>nature parks</color> and <color%3D#ffa801ff>alleyways</color>. If you're lucky, you might see one!
 ヤシガニ >=Coconut Crabs
 <color%3D#ffa801ff>浜辺</color>や<color%3D#ffa801ff>自然公園</color>には稀に<color%3D#ffa801ff>ヤシガニ</color>が出る事があるよ。立派なハサミで挟まれないように注意！=In <color%3D#ffa801ff>beaches</color> and <color%3D#ffa801ff>nature parks</color>, <color%3D#ffa801ff>coconut crabs</color> rarely appear. Be careful not to get pinched by their magnificent claws!
 ロマンチックな告白は…… >=Confessions
