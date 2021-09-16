@@ -1,6 +1,6 @@
-「<color%3Dyellow>ツリーイング</color>って、結構面白いよね？」=<color%3Dyellow>Treeing's pretty interesting, isn't it?
+「<color%3Dyellow>ツリーイング</color>って、結構面白いよね？」=Treeing's pretty interesting, isn't it?
 「アタシ、アレ好きだよー。高い所に登るのって楽しいよね」=I like it. I like that. It's fun to climb high places.
-「<color%3Dyellow>バナナボート</color>って好きっしょ？」=You like <color%3Dyellow>banana boats?
+「<color%3Dyellow>バナナボート</color>って好きっしょ？」=You like banana boats?
 「スピードとスリルがあって、まさに海のレジャーって感じだよねー」=It's fast and thrilling, just like leisure at sea.
 「アタシ、<color%3Dyellow>カヤック</color>気に入ってるんだよねー」=I like kayaking, too.
 「やっぱ、自分で漕いで進めるのって、テンション上がるんだよねー」=I really get excited when I can paddle myself.
@@ -16,7 +16,7 @@
 「うん、アタシも知ってるよ、それ」=Yeah, I know that one, too.
 「アタシはいいと思うんだけど……気になったら見てみてよ」=I think it's good. You should check out ...... if you're interested.
 「キミも気に入ると思うんだけどね……今度案内してあげてもいいよ」=I think you'd like it too. ...... I can show you around sometime.
-「<color%3Dyellow>チンアナゴ</color>って可愛いよねー。砂から顔出して揺れてる感じがいいよー」=The <color%3Dyellow>chinago</color> is pretty cute, isn't it? <color%3Dyellow>Chinangoes are cute. I like the way they stick out of the sand and sway.
+「<color%3Dyellow>チンアナゴ</color>って可愛いよねー。砂から顔出して揺れてる感じがいいよー」=The <color%3Dyellow>chinago</color> is pretty cute, isn't it? Chinangoes are cute. I like the way they stick out of the sand and sway.
 「なんか見てるだけで癒されるよねー。ずっと通っちゃうかも～」=Just looking at them is soothing, isn't it? I might just keep coming back.
 「<color%3Dyellow>シオマネキ</color>って、なんかいいよねー。片手だけ大きいのもポイント高いでしょ」=The <color%3Dyellow>Shiomaneki</color> is kind of nice, isn't it? The fact that one hand is bigger than the other is also a big point.
 「うんうん、いいよね。あのおっきいハサミで潮招いてるって感じだよねー」=Yeah, it's nice. It's like he's inviting the tide with those big scissors.
@@ -24,7 +24,7 @@
 「そういうのもあるんだねー。興味湧いたかも」=I didn't know there was such a thing. I'm interested.
 「あれ？　あんまり興味なかったー？　そっかー……」=Huh?　You're not really interested?　Oh, I see. ......
 「あんまりそっち系好きじゃないんだ？　実際見ると面白いんだけどねー」=You don't really like that kind of stuff?　It's interesting to see.
-「<color%3Dyellow>お土産</color>ってさー、もらう時も上げる時もテンション上がるよねー」=<color%3Dyellow>Souvenirs are always exciting to receive and give away, aren't they?
+「<color%3Dyellow>お土産</color>ってさー、もらう時も上げる時もテンション上がるよねー」=Souvenirs are always exciting to receive and give away, aren't they?
 「この島のお土産だと、なにが喜ばれるかな？　悩みどころ～」=What would be a good souvenir from this island?　I'm having a hard time deciding.
 「<color%3Dyellow>シークヮーサージュース</color>って、爽やかで美味しいよねー」=<color%3Dyellow>Shikwasa Juice</color> is refreshing and delicious, isn't it?
 「アタシ、ああいうさっぱり系の飲み物好きなんだよねー」=I like that kind of refreshing drink.

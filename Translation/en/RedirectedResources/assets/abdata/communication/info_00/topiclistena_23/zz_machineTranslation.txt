@@ -11,7 +11,7 @@
 「<color%3Dyellow>ネコ</color>って、素晴らしいと思うんだよなぁ」=I think <color%3Dyellow>cats</color> are wonderful.
 「ネコには様を付けて呼ぶべきだと思うよ。あの可愛さは反則レベルですな」=<color%3Dyellow>cats</color> are wonderful, aren't they? "I think you should call cats by their sama. I think cats should be called "sama". Their cuteness is foul.
 「<color%3Dyellow>ハイビスカス</color>は綺麗な花ですな」=<color%3Dyellow>Hibiscus</color> is a beautiful flower.
-「まさに、南国の象徴のような華やかさと、凛とした気高さがあるのがいいんだなぁ」=<color%3Dyellow>Hibiscus</color> is a beautiful flower. <color%3Dyellow>I like that it has the glamour and dignity of a tropical symbol.
+「まさに、南国の象徴のような華やかさと、凛とした気高さがあるのがいいんだなぁ」=<color%3Dyellow>Hibiscus</color> is a beautiful flower. I like that it has the glamour and dignity of a tropical symbol.
 「この島の<color%3Dyellow>星空</color>は、まさに満天って感じですな」=The <color%3Dyellow>starry skies</color> on this island are just like the sky is full of stars.
 「周囲に明るい場所が少ないからね。星の瞬きが直接目に届くって寸法だよ」=There are few bright places around. There are not many bright places around, so the twinkling of the stars directly reaches your eyes.
 「ほうほう、それも良さげですな」=Well, that's a good idea.

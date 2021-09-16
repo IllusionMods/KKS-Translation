@@ -16,7 +16,7 @@
 「それも良いと思うなぁ」=I think that's a good idea.
 「綺麗に見える場所があるから、探してみてね」=I know a place where you can get a good view.
 「よかったら、あなたにも見てほしいなぁ」=I'd like you to see it, too.
-「<color%3Dyellow>サンゴ</color>って、色んな形をしてるんだね」=<color%3Dyellow>Coral comes in all shapes and sizes, doesn't it?
+「<color%3Dyellow>サンゴ</color>って、色んな形をしてるんだね」=Coral comes in all shapes and sizes, doesn't it?
 「丸い形のサンゴもいるって、初めて知ったよ」=I've never heard of round coral before.
 「<color%3Dyellow>シオマネキ</color>って、なんで片方だけハサミが多きのかな？」=Why does the <color%3Dyellow>silkworm</color> have so many scissors on one side?
 「せっかくなら、両方とも大きい方がいいと思うんだけど……不思議～」=I think it would be better if they were both bigger.

@@ -1,12 +1,12 @@
-「<color%3Dyellow>シュノーケリング</color>って、面白いのよ」=<color%3Dyellow>Snorkeling is fun.
+「<color%3Dyellow>シュノーケリング</color>って、面白いのよ」=Snorkeling is fun.
 「熱帯魚を間近でみることが出来るから、何度もやってみたくなるのよね～」=Snorkeling is fun because you get to see tropical fish up close, so you want to try it again and again.
-「もう<color%3Dyellow>トレッキング</color>はやってみた？」=Have you tried <color%3Dyellow>trekking yet?
+「もう<color%3Dyellow>トレッキング</color>はやってみた？」=Have you tried trekking yet?
 「自然を肌で感じられてリフレッシュできるから、みんなにやってほしいわ」=I want everyone to try it because it's a refreshing way to feel nature.
 「へぇ、そっちも楽しそうね」=Oh, that sounds fun too.
 「ふふ、君はそれが好きなのね」=Hmm, you like that.
 「よかったら今度やってみて？　絶対楽しめるはずよ」=You should try it sometime.　I'm sure you'll enjoy it.
 「うーん、あんまり興味がなかった？　ごめんなさいね」=Hmm, not really into it?　I'm sorry.
-「<color%3Dyellow>水牛</color>ってのんびり歩く姿が可愛いわよね」=<color%3Dyellow>Buffaloes are so cute, aren't they?
+「<color%3Dyellow>水牛</color>ってのんびり歩く姿が可愛いわよね」=Buffaloes are so cute, aren't they?
 「見ているだけで、なんだか癒されるわ～♪」=Just looking at them makes me feel relaxed.
 「私、<color%3Dyellow>マングローブ</color>を見たのって初めてなの」=This is the first time I've seen mangroves.
 「あんな場所に木が生えてるなんて、不思議な光景よね～」=I've never seen <color%3Dyellow>mangroves</color> before. It's strange to see trees growing in such a place.

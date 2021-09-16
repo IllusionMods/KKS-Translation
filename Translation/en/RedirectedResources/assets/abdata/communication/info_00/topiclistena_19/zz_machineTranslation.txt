@@ -1,4 +1,4 @@
-「<color%3Dyellow>釣り</color>って楽しいよね」=<color%3Dyellow>Fishing is fun, isn't it?
+「<color%3Dyellow>釣り</color>って楽しいよね」=Fishing is fun, isn't it?
 「釣りあげた時の手ごたえもいいし、のんびり待ってるのも楽しいよ」=The feeling of catching a fish is great, and waiting leisurely is fun, too.
 「私、<color%3Dyellow>シュノーケリング</color>って好きなの」=I like <color%3Dyellow>snorkeling</color>.
 「手軽に海の魚と触れ合える感じがいいよね」=I like snorkeling because it's an easy way to get in touch with the fish in the sea.
@@ -11,14 +11,14 @@
 「私、<color%3Dyellow>ネコ</color>って好きなの」=I like <color%3Dyellow>cats</color>.
 「鳴き声も可愛いし、昼寝してるのを見るとついつい撫でたくなっちゃう」=Their purr is so cute, and when I see them napping, I just want to pet them.
 「<color%3Dyellow>ハイビスカス</color>って、綺麗で素敵だと思う」=I think <color%3Dyellow>hibiscus</color> is beautiful and wonderful.
-「道で咲いてるのを見かけると、この島へようこそって、歓迎されてる気分になるんだよね」=<color%3Dyellow>I think hibiscus</color> is beautiful and lovely. <color%3Dyellow>When I see them blooming on the street, I feel like I'm being welcomed to the island.
+「道で咲いてるのを見かけると、この島へようこそって、歓迎されてる気分になるんだよね」=When I see them blooming on the street, I feel like I'm being welcomed to the island.
 「この島の<color%3Dyellow>星空</color>って、本当に綺麗だよね」=The <color%3Dyellow>starry skies of this island</color> are really beautiful, aren't they?
 「自然に囲まれたこの島が、星明りに照らされてる風景って、すごく幻想的だと思う」=I think it's really fantastic to see this island, surrounded by nature, lit up by starlight.
 「そういう見方もあるんだね。面白いかも」=I guess that's one way of looking at it. It's interesting.
 「確かに、そうやって考えると楽しいかも」=Yeah, it's fun to think about it that way.
 「興味ないの？　だけど、いつか好きになって欲しいかな」=You're not interested?　But I'd like you to like me someday.
 「そういう話じゃないんだ？　結構気に入ってもらえると思ったんだけどな」=That's not what you're talking about?　I thought you'd like it.
-「<color%3Dyellow>チンアナゴ</color>って、よく見ると面白いよね」=<color%3Dyellow>Chinagoes are interesting when you look at them closely, aren't they?
+「<color%3Dyellow>チンアナゴ</color>って、よく見ると面白いよね」=Chinagoes are interesting when you look at them closely, aren't they?
 「ユラユラ揺れてると思ったら、すぐに引っ込んだり……なんだか見ていて飽きない感じ」=They sway and sway, but then they pull back. ...... It's like they never get tired of being watched.
 「私、<color%3Dyellow>クマノミ</color>って結構好きなの」=I like <color%3Dyellow>tiger fish</color> a lot.
 「熱帯魚の中でも、特に好きかな。イソギンチャクに隠れちゃう所とか、可愛いと思う」=I like them a lot. I think it's cute when it hides in the anemone.

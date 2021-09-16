@@ -1,5 +1,5 @@
 「<color%3Dyellow>釣り</color>はひたすら没頭出来るのでお勧めですよ？」=<color%3Dyellow>Fishing</color> is a great way to get lost in it, you know?
-「それに釣りをしている最中は自分を見直す時間にも使えたりもします」=<color%3Dyellow>Fishing</color> is a great way to lose yourself in it, you know? <color%3Dyellow>And while you're fishing, you can also use it as a time for self-reflection.
+「それに釣りをしている最中は自分を見直す時間にも使えたりもします」=<color%3Dyellow>Fishing</color> is a great way to lose yourself in it, you know? And while you're fishing, you can also use it as a time for self-reflection.
 「<color%3Dyellow>バナナボート</color>を乗りこなすにはコツが必要なんですよ？」=<I>You have to have a knack for riding a banana boat</I>, right?
 「なかなか難しいですが、一度掴んでしまえば、ですよね」=It's not easy, but once you get the hang of it...
 「<color%3Dyellow>カヤック</color>でのバランス感覚、難しいですよね」=<I>It's hard to balance in a kayak</I>.

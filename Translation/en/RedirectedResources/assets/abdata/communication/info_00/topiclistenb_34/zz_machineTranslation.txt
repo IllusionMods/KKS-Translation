@@ -2,7 +2,7 @@
 「Ｙｅｓ！　高いところ登る、気持ちいデス！」=Yes! Climbing high feels good!
 「<color%3Dyellow>バナナボート</color>ｔｅｃｈｎｉｃ、アナタワカル？」=Do you know <color%3Dyellow>banana boat</color> technique?
 「流石デース、今度見せてほしいデス！」=<Yes!
-「<color%3Dyellow>ｋａｙａｋ</color>＆ｃａｎｏｅ，違いワカル？」=<color%3Dyellow>kayak and canoe, what's the difference?
+「<color%3Dyellow>ｋａｙａｋ</color>＆ｃａｎｏｅ，違いワカル？」=kayak and canoe, what's the difference?
 「ハイ、似てるけどｒｏｏｔｓ、まったく違うデス」=Yes, they are similar, but the roots are completely different.
 「ムム、詳しく教えてくだサイ」=Mmm. Tell me more.
 「ワタシ、その情報知りまセンデシタ」=I don't know that information.
@@ -10,7 +10,7 @@
 「覚えタ？　これでアナタも一人前デース！」=You remember?　You're on your own now!
 「<color%3Dyellow>ｐｏｗｅｒ　ｓｐｏｔ</color>，アナタは感じル？」=Can you feel the <color%3Dyellow>power spot</color>?
 「ハイ、とてもｓｐｉｒｉｔｕａｌデース」=Yes, it's very spiritual.
-「<color%3Dyellow>ガジュマル</color>、種類ワカル？」=<color%3Dyellow>Banyan, do you know what kind it is?
+「<color%3Dyellow>ガジュマル</color>、種類ワカル？」=Banyan, do you know what kind it is?
 「ハイ、イチ……ジク？　同じ種類みたいデス」=Yes, it's the same kind.　It's the same kind.
 「Ｏｈ，ワタシ、知識増えマシタ！」=Oh, I'm getting more knowledgeable!
 「ナルホド、ワタシ、覚えマシタ！」=Oh, I've learned something!

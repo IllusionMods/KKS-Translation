@@ -1,4 +1,4 @@
-「<color%3Dyellow>釣り</color>って、いいよね」=<color%3Dyellow>Fishing is great, isn't it?
+「<color%3Dyellow>釣り</color>って、いいよね」=Fishing is great, isn't it?
 「魚を待ってる時のドキドキ感とか、ヒットしたときの手ごたえとか、最高だよ」=The thrill of waiting for a fish, the feeling when you get a hit, it's great.
 「<color%3Dyellow>バナナボート</color>って楽しいと思わない？」=Don't you think <color%3Dyellow>banana boats</color> are fun?
 「あのスピード感が最高だよね。水しぶきも気持ち良くって、暑い日にぴったりだと思う」=That sense of speed is the best. It's great to feel the speed and the splash of the water, and I think it's perfect for hot days.
@@ -27,7 +27,7 @@
 「<color%3Dyellow>お土産</color>を選ぶのって、すっごく楽しいよね」=Choosing <color%3Dyellow>souvenirs</color> is really fun, isn't it?
 「お土産を買うこと自体が、旅の思い出に含まれるんだもんね」=Buying souvenirs is part of the trip itself, right?
 「<color%3Dyellow>シークヮーサージュース</color>って、スッキリしてて美味しいよね」=<color%3Dyellow>Shikwasa juice</color> is refreshing and delicious, right?
-「酸っぱいけど、ちゃんと甘くって……飲んだら目が覚める感じがするよ」=<color%3Dyellow>Shikwasa juice</color> is refreshing and delicious. <color%3Dyellow>It's sour, but it's also sweet.
+「酸っぱいけど、ちゃんと甘くって……飲んだら目が覚める感じがするよ」=<color%3Dyellow>Shikwasa juice</color> is refreshing and delicious. It's sour, but it's also sweet.
 「<color%3Dyellow>三線</color>の音って、なんだか元気が出て来るよね」=The sound of the <color%3Dyellow>sanshin</color> is kind of energizing, isn't it?
 「旋律もこの島の空気に合ってて、聴いてるだけで体が動いてきちゃうよ」=The melody fits the air of this island, and just listening to it makes my body move.
 「いいよね、私も悪くないと思う」=It's good. I think it's not bad either.

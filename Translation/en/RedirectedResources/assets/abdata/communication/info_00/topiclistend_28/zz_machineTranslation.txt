@@ -19,7 +19,7 @@
 「お主も<color%3Dyellow>サンゴ</color>の知識に触れてみぬか？」=Wouldn't you like to learn about <color%3Dyellow>coral</color>?
 「そう、美しい海に浜辺、どれもサンゴのおかげと言っても過言ではないのじゃ」=Yes, we owe our beautiful seas and beaches to coral.
 「<color%3Dyellow>シオマネキ</color>という名の由来、お主は知っておるか？」=Do you know the origin of the name <color%3Dyellow>Shiomaneki</color>?
-「うむ、あの求愛行動が潮の満ちを招いているように見える、というのが一節にあるようじゃの」=<color%3Dyellow>Do you know the origin of the name <color%3Dyellow>Shiomaneki</color>?
+「うむ、あの求愛行動が潮の満ちを招いているように見える、というのが一節にあるようじゃの」=Do you know the origin of the name <color%3Dyellow>Shiomaneki</color>?
 「ふむ、さすが母なる海とは言ったものじゃ」=Well, that's the mother of all seas.
 「やはり海は広いのう、わしもまだまだじゃの……」=It's a big ocean, and I'm not ready for it. ......
 「そうか、知れてよかったじゃろ？」=Well, isn't it nice to know?
