@@ -6,7 +6,7 @@
 ヤシガニ >=Coconut Crabs
 <color%3D#ffa801ff>浜辺</color>や<color%3D#ffa801ff>自然公園</color>には稀に<color%3D#ffa801ff>ヤシガニ</color>が出る事があるよ。立派なハサミで挟まれないように注意！=In <color%3D#ffa801ff>beaches</color> and <color%3D#ffa801ff>nature parks</color>, <color%3D#ffa801ff>coconut crabs</color> rarely appear. Be careful not to get pinched by their magnificent claws!
 ロマンチックな告白は…… >=Confessions
-<color%3D#ffa801ff>流れ星が綺麗に見える</color>ような静かな場所で愛の<color%3D#ffa801ff>告白</color>……ロマンチックな告白に憧れる～！=I long for a <color%3D#ffa801ff>romantic confession of love</color> in a quiet place where I can <color%3D#ffa801ff>see shooting stars</color>......
+<color%3D#ffa801ff>流れ星が綺麗に見える</color>ような静かな場所で愛の<color%3D#ffa801ff>告白</color>……ロマンチックな告白に憧れる～！=Every girl longs for a romantic <color%3D#ffa801ff>confession of love</color> ... like one in a quiet place where you can see <color%3D#ffa801ff>shooting stars</color>.
 もう一つのビーチ？ >=Another Beach?
 この島には立ち入り禁止になってる<color%3D#ffa801ff>もう一つのビーチ</color>があるんだよ。今はどうなってるかなぁ～？= There's <color%3D#ffa801ff>another beach</color> on the island that's off-limits. I wonder what's it's like there now~?
 ウムイの鐘 >=The Bell of Umui 
