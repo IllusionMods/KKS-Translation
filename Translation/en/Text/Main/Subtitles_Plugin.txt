@@ -6,8 +6,13 @@
 //*******************************************************************
 //*******************************************************************
 
-//Scope of the file: Only applies to the Chara Maker for Koikatsu Sunshine main game
+//Scope of the file: Applies to Koikatsu Sunshine main game
 #set exe KoikatsuSunshine
+
+//-------------------------------------------------------------------
+// Chara Maker
+//-------------------------------------------------------------------
+Scope of the Section: Applies to the Chara Maker
 #set level 3
 
 //00 - Sexy
@@ -209,3 +214,16 @@
 何でも遠慮なく聞いてそのほうがうれしいさ=Don't hesitate to ask me anything, I'll be happy to help.
 さて何しようかね=So what do we do now?
 はいタイ！ くすくす、もうこの挨拶にも慣れた=Hai Tai! Hehe, I've gotten used to this greeting.
+
+#unset level 3
+
+//-------------------------------------------------------------------
+// Opening Scene
+//-------------------------------------------------------------------
+Scope of the Section: Applies to the ADV Scene
+#set level 14
+
+//Hikari's first phrase
+はいタイ！ ようこそいらっしゃいました。=Hai Tai! Welcome sir!
+
+#unset level 14
