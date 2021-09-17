@@ -30,6 +30,7 @@
 //---------------------------------------------------------
 一日の行動終了の確認=Confirm the end of the day's activities
 部屋に帰りますか？=Return to your room?
+「疲れたし今日は寝るか…」=I'm tired, I think I'll go to bed today...
 
 //---------------------------------------------------------
 // Converting card menu
@@ -128,6 +129,16 @@
 //---------------------------------------------------------
 覗きシーン再確認=Peeping scene again
 今の光景を思い出す=View the current scene again?
+
+//---------------------------------------------------------
+//Salon Dialog Box
+//---------------------------------------------------------
+女の子と仲良くなれたら連れてこよう。=I'll bring the girls if I can get along with them.
+
+//---------------------------------------------------------
+//Secret Beach Dialog Box
+//---------------------------------------------------------
+今は通れないみたいだ。\nまた夜に来てみよう…=It looks like I can't pass now.\nI'll come back at night...
 
 //---------------------------------------------------------
 // Unsorted: Things that I don't know where they came from
