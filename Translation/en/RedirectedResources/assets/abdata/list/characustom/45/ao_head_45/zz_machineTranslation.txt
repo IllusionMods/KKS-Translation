@@ -1,0 +1,3 @@
+ロバ耳=Donkey Ears
+付け毛18=Hairpiece 18
+付け毛19=Hairpiece 19

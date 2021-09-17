@@ -1,4 +1,6 @@
 「主がわざわざ会いに来てあげたわ。部屋に入れなさい」=The Lord sent me to see you. Let him in.
+SELECTION:「返事をする」=Reply
+SELECTION:「……」=.....
 「[H名]さん……？　こんな時間にどうしたの？」=[H名], ......?　What are you doing here at this hour?
 「下僕の様子を確かめに来ただけよ。他に理由なんてないわ」=I just came to check on my servant. There's no other reason.
 「でも……そうね。このまま帰るのもなんだし、ちょっとだけ遊んであげる」=But ...... you're right. I don't want to go home like this, so I'll just play with you for a while.

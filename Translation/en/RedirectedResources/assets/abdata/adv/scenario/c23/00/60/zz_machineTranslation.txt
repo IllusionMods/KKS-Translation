@@ -1,4 +1,6 @@
 「やぁどうも……あなたの部屋に入りたいんだけど、大丈夫かな？」=Hi ......, I'd like to come into your room, is that okay?
+SELECTION:「返事をする」=Reply
+SELECTION:「……」=.....
 「大丈夫だけど、何かあったの？」=I'm fine. What's wrong?
 「ただ、あなたと二人で過ごしたいと思っただけなんだなぁ……」=I guess I just wanted to spend some time with you. ......
 「あなたと恋人になってから……一人の夜が寂しいって思うようになっちゃったんだよ……」=After you and I became lovers, I started to feel lonely ...... at night alone.

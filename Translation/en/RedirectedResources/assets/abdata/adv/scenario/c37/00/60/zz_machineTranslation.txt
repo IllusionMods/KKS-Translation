@@ -1,4 +1,6 @@
 「すみません、いらっしゃいますか？」=Excuse me, are you there?
+SELECTION:「返事をする」=Reply
+SELECTION:「……」=.....
 「どうしたの？」=Something wrong?
 「失礼します」=Excuse me.
 「どうしてもあなたを求めたくて来てしまいました。私の我儘をお許し下さい」=I came here because I wanted you so badly. Please forgive my selfishness.

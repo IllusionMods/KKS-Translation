@@ -1,4 +1,6 @@
 「よう、ちょっと来てみたんだけど、入っていいか？」=Hey, I'm just checking in. Can I come in?
+SELECTION:「返事をする」=Reply
+SELECTION:「……」=.....
 「大丈夫だけど、何かあったの？」=I'm fine. What's wrong?
 「お前が寂しがってるんじゃねぇかって思って、来てやったんだよ」=I thought you might be lonely, so I came over.
 「まぁ、私もその気だから、わかってるよな……？」=Well, I'm in the mood. You know that. ......?
