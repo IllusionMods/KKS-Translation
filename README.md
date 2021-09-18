@@ -101,6 +101,7 @@ Where "xxx" represents the number of the desired scope level. Below is a table c
 |  8    | H-Scenes Menus          |
 |  9    | H-Scenes Location       |
 | 11    | Free H Menu             |
+| 13    | Oil Minigame            |
 | 14    | ADV Dialogues           |
 | 15    | Chara Uploader          |
 | 16    | Chara Downloader        |
