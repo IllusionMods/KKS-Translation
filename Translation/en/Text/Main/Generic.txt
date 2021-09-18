@@ -68,7 +68,6 @@
 データをセーブします。=Save file.
 ▼※以下のデータに上書きしますか※▼=▼ Do you want to overwrite the following file? ▼
 
-
 //---------------------------------------------------------
 // Album menu
 //---------------------------------------------------------
@@ -117,6 +116,14 @@
 //---------------------------------------------------------
 滞在先の変更確認=Confirm your change of accommodation
 コイカツポイントを50pt消費して滞在先を変更しますか？=Do you want to spend 50 pts of your Koikatsu points to change the place you are staying?
+
+//---------------------------------------------------------
+// Autosave Dialog Box
+//---------------------------------------------------------
+オトセーブについて=About Autosaving
+このゲムはオトセーブに対応しています=This game uses an autosave feature.
+オトセーブ專用スロットが用意されており、初期設定では 1日の始まりに自動でセーブされます=Your game will be automatically saved at the beginning of the day.
+<color%3D#ffa801ff>※「コンフィグ」にてオトセーブの設定変更を行えます</color>=<color%3D#ffa801ff>※You can change the autosave settings in the “Config” menu.</color>
 
 //---------------------------------------------------------
 //Prayer Dialog Box
