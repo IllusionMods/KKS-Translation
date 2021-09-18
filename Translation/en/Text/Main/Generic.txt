@@ -120,10 +120,17 @@
 //---------------------------------------------------------
 // Autosave Dialog Box
 //---------------------------------------------------------
+//Illusion changed the text for auto saving. Both versios will be kept here
+//Old Version
 オトセーブについて=About Autosaving
 このゲムはオトセーブに対応しています=This game uses an autosave feature.
 オトセーブ專用スロットが用意されており、初期設定では 1日の始まりに自動でセーブされます=Your game will be automatically saved at the beginning of the day.
 <color%3D#ffa801ff>※「コンフィグ」にてオトセーブの設定変更を行えます</color>=<color%3D#ffa801ff>※You can change the autosave settings in the “Config” menu.</color>
+
+//New Version
+オートセーブについて=About Autosaving
+このゲームはオートセーブに対応しています。\n<size%3D24>\nオートセーブ専用スロットが用意されており、\n初期設定では1日の始まりに自動でセーブされます。\n</size>=This game uses an autosave feature.\n<size%3D22>\nThere is a dedicated slot for autosaving. By default, the game will be automatically saved at the beginning of the day.\n</size>
+※「コンフィグ」にてオートセーブの設定変更を行えます。=※You can change the autosave settings in the “Config” menu.
 
 //---------------------------------------------------------
 //Prayer Dialog Box
