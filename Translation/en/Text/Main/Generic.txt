@@ -155,6 +155,71 @@
 今は通れないみたいだ。\nまた夜に来てみよう…=It looks like I can't pass now.\nI'll come back at night...
 
 //---------------------------------------------------------
+// Booking: Change Player Nickname
+//---------------------------------------------------------
+
+特殊=Special
+
+// Ah
+あ=Ah
+い=I
+う=U
+え=E
+お=O
+
+// Ka
+か=Ka
+き=Ki
+く=Ku
+け=Ke
+こ=Ko
+
+// Sa
+さ=Sa
+し=Shi
+す=Su
+せ=Se
+そ=So
+
+// Ta
+た=Ta
+ち=Chi
+つ=Tsu
+て=Te
+と=To
+
+// Na
+な=Na
+の=No
+
+// Ha
+は=Ha
+ひ=Hi
+ふ=Fu
+ほ=Ho
+
+// Ma
+ま=Ma
+み=Mi
+む=Mu
+め=Me
+も=Mo
+
+// Ya
+や=Ya
+ゆ=Yu
+よ=Yo
+
+// Ra
+ら=Ra
+り=Ri
+る=Ru
+れ=Re
+
+// Wa
+わ=Wa
+
+//---------------------------------------------------------
 // Unsorted: Things that I don't know where they came from
 //---------------------------------------------------------
 確認=Confirmation
