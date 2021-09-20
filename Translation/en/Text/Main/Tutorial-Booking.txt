@@ -1,0 +1,60 @@
+女の子の滞在先を登録して、=Register a girl
+マップに女の子を登場させよう！=And she'll pop up on the map!
+◆島で女の子に出会うには？=◆ How to meet girls on the island?
+滞在先画面を開く=Open “Booking”
+好きな女の子を登録=Choose a girl
+「出かける」=“Go out”
+「滞在先」= 
+//Ignoring for better spacing with white space
+ボタンを= 
+//Ignoring for better spacing with white space
+クリック！=Click “Booking”!
+宿泊施設の空室に…=Choose an empty room
+島でくつろぐ=She'll be around the island
+女の子に\n会いに行こう=Go see her
+女の子たちの滞在先を割り振ってみましょう=Choose where the girl will stay
+◆滞在状況画面：滞在先に女の子を登録する流れ=◆ How to register a girl
+●宿泊施設と空室を選択=● Select a lodging and an empty room
+●滞在する女の子を選択=● Select a girl
+●女の子の登録完了！=● You're done!
+空室で=An empty room
+「滞在者登録」！=\n\n\n “Register Guest”!
+//Evil spacing shit
+宿泊施設= 
+//Ignoring for better spacing with white space
+　　　　を\n選んだら…=Once choosen, find...
+女の子を選択して=Choose a girl
+「決定」！=“Decide”!
+女の子が\n滞在しました！=New girl\nregistered!
+◆滞在状況の画面説明=◆ Guest Status
+表示宿泊施設の切り替え=Change current lodging
+：プレイヤーが滞在する施設に表示されるアイコン=: This is where the player is staying
+客室の状況=Room Info
+滞在する女の子の登録や解除を行えます。\n空室に新たに女の子を登録できます。女の子を指定して登録するかランダムで登録するかを選べます。=Register or check-out girls here. You can register a new girl if the room is empty. You can choose the girl yourself or randomize it.
+「この施設」=“This Location”
+表示中の施設に対して全空室にランダムで滞在者を登録、もしくは全滞在者を解除する。=You can randomize all empty rooms in the current lodging or check-out all girls from here.
+「全施設」=“All Locations”
+全ての施設の全空室にランダムで滞在者を登録、もしくは全滞在者を解除する。=You can randomize all empty rooms or check-out all girls across all lodgings from here.
+「新規作成」=“Create New”
+キャラメイク画面に移動し、新たに女の子を作成します。=Move to the character maker and create a new girl.
+選択中の滞在者の情報=Current girl info
+「容姿変更」：滞在者の容姿を変更出来ます。(※キャラメイク画面に移動します。)=“Appearance”: Change the appearance of the girl. (※ Move to character maker.)
+「滞在先の変更」：女の子の客室、滞在する宿泊施設を変更できます。=       “Change Location”: Change the lodging as well as the room of the girl.
+//Spacing for better alignment
+「滞在を解除」：女の子の滞在登録を解除します。=   “Check-out”: Check-out the selected girl.
+//Spacing for better alignment
+(※解除した女の子のステータスは復帰しません。)=(※ She'll not keep her status the next time you register her.)
+◆滞在先の変更：女の子の滞在先は自由に変更できます。=◆ Change Location: You can freely change where the girls are staying.
+「滞在先の変更」をクリック。=Click “Change Location”.
+移動させたい部屋に\nカーソルを合わせてクリック。=Move the cursor to the room you want to relocate.
+移動ができました。=Click and you're done.
+(※右クリックで移動モードを終了)=(※ Exit moving mode with right click)
+他の宿泊施設の部屋にも移動できます。=You can also move to other lodgings.
+移動先にすでに女の子が登録されていた場合は\nその女の子と部屋を入れ替えます。=If a girl's already been registered at the destination, both girls will swap their rooms.
+◆案内人情報、プレイヤー情報=◆ Tour guide and player information
+案内人から聞いたアドバイスの一覧が表示されます。=A list of advices given from the tour guide is displayed here.
+「容姿変更」=“Appearance”
+案内人の容姿を変更できます。(※キャラメイク画面に移動します。)=Change the appearance of the tour guide. (※ Move to character maker.)
+プレイヤーの容姿を変更できます。(※キャラメイク画面に移動します。)=Change the appearance of the player. (※ Move to character maker.)
+プレイヤーの愛称を変更=Change player's nickname
+プレイヤーが女の子から呼ばれる愛称を変更できます。=Players can choose which nickname they want to be called by.
