@@ -2,16 +2,16 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 滝=Waterfall
-//川=
-//温泉のお湯が流れ込む=
-//案内所=
-//波=
-//自然公園・昼（鳥の音）=
-//自然公園・夜（すずむし）=
-//大浴場=
-//水牛=
-//セミ=
-//ひぐらし=
-//BBQ（火がパチパチ）=
-//鳥音=
-//南国のような曲=
+川=River
+温泉のお湯が流れ込む=Flowing Hot Springs Water
+案内所=Tourist Information Center
+波=Waves
+自然公園・昼（鳥の音）=Nature Park, Day (Birdsong)
+自然公園・夜（すずむし）=Nature Park, Night (Crickets)
+大浴場=Large Public Bath
+水牛=Water Buffalo
+セミ=Cicada
+ひぐらし=Evening Cicada
+BBQ（火がパチパチ）=BBQ (Crackling Fire)
+鳥音=Bird Sounds
+南国のような曲=Tropical Song
