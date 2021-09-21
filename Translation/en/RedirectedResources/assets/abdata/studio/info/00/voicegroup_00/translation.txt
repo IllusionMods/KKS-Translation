@@ -33,7 +33,7 @@
 素直クール=Humble
 気さく=Friendly
 勝ち気=Willful
-//誠実=
+誠実=Honest
 艶やか=Glamorous
 帰国子女=Returnee
 方言娘=Slangy

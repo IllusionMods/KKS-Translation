@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//貝殻髪飾り=
-//付け毛17=
-//フラワー=
-//ホオズキ=
-//クマノミ=
-//目隠し=
-//海星のネックレス=
-//レースチョーカー=
-//ボディバッグ（右）=
-//ボディバッグ（左）=
-//レザーバッグ=
-//海雫のブレスレット=
-//ボストンバッグ=
-//キャリーバッグ=
+貝殻髪飾り=Seashell Ornaments
+付け毛17=Hairpiece 17
+フラワー=Flower Earring
+ホオズキ=Ground Cherry Earring
+クマノミ=Clownfish Earring
+目隠し=Blindfold
+海星のネックレス=Starfish Necklace
+レースチョーカー=Lace Choker
+ボディバッグ（右）=Body Strap Bag (R)
+ボディバッグ（左）=Body Strap Bag (L)
+レザーバッグ=Leather Bag
+海雫のブレスレット=Sea Drop Bracelet
+ボストンバッグ=Boston Bag
+キャリーバッグ=Wheeled Travel Bag

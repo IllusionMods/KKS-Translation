@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//灯台=
+灯台=Lighthouse
 //屋外更衣室=
-//小屋1=
-//小屋2=
+小屋1=Hut 1
+小屋2=Hut 2
 公衆トイレ=Public Bathroom
 //お社=
 //お社の塀=
 //木造橋=
-//ウムイの鐘=
+ウムイの鐘=Umui Bell
 //鐘の案内板=
 //屋外日除け1=
 //屋外日除け2=
@@ -18,7 +18,7 @@
 //簡易テント2=
 //キャンプファイヤー=
 //丸太の平均台=
-//木の柵=
+木の柵=Wooden Fence
 //侵入防止柵=
 //簡易柵1=
 //簡易柵2=
@@ -39,9 +39,9 @@
 //観光地の看板=
 //[行き止まり]=
 //[営業中]=
-//welcome看板=
-//立て看板1=
-//立て看板2=
+welcome看板=Welcome Sign
+立て看板1=Billboard 1
+立て看板2=Billboard 2
 //電柱=
 //標識1=
 //標識2=
@@ -54,7 +54,7 @@
 //漂流したボート=
 //高速フェリー=
 //貯水槽=
-//自販機=
+自販機=Vending Machine
 //ホテルの券売機=
 エアコン=Air Conditioner
 //ハンドドライヤー=

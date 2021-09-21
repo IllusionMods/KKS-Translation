@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//ロバ耳=
-//ロバ尻尾=
-//付け毛18=
-//付け毛19=
-//バーベルピアス=
-//ジュエルバングル=
-//使用済みコンドーム=
+ロバ耳=Donkey Ears
+ロバ尻尾=Donkey Tail
+付け毛18=Hairpiece 18
+付け毛19=Hairpiece 19
+バーベルピアス=Barbell Piercing
+ジュエルバングル=Jewel Bangle
+使用済みコンドーム=Used Condom

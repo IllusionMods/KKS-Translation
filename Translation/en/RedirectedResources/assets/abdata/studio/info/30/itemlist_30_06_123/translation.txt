@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//ねじり鉢巻き=
-//キツネ面=
-//かんざし=
-//水風船=
-//祭りうちわ=
-//綿あめ=
+ねじり鉢巻き=Twisted Headband
+キツネ面=Fox Mask
+かんざし=Ornate Hairpin
+水風船=Water Balloon
+祭りうちわ=Festival Fan
+綿あめ=Cotton Candy

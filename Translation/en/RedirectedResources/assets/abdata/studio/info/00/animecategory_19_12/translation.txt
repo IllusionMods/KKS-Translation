@@ -2,6 +2,6 @@
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 ポーズ=Pose
-//アクション1=
-//アクション2=
+アクション1=Action 1
+アクション2=Action 2
 ダンス=Dancing

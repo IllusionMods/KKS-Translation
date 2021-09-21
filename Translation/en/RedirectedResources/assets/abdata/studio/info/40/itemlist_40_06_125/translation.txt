@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//サイバーヘアリボン=
-//サイバーモノクル=
-//サイバーリボン=
-//サイバーハニカム=
-//サイバーモニター=
-//サイバーリング=
-//サイバーフィン=
-//サイバーヘキサゴン=
-//サイバーシェル=
-//サイバーグラス=
-//サイバーマスク=
-//サイバーファング上=
-//サイバーファング下=
+サイバーヘアリボン=Cyber Hair Ribbon
+サイバーモノクル=Cyber Monocle
+サイバーリボン=Cyber Ribbon
+サイバーハニカム=Cyber Honeycomb
+サイバーモニター=Cyber Monitor
+サイバーリング=Cyber Ring
+サイバーフィン=Cyber Fin
+サイバーヘキサゴン=Cyber Hexagon
+サイバーシェル=Cyber Shell
+サイバーグラス=Cyber Glasses
+サイバーマスク=Cyber Mask
+サイバーファング上=Cyberfang (Upper)
+サイバーファング下=Cyberfang (Lower)
