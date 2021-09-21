@@ -91,21 +91,21 @@ Where "xxx" represents the number of the desired scope level. Below is a table c
 
 #### Known Scope Levels
 
-| Level | Description             |
-|------:|-------------------------|
-| -1024 | Tutorials               |
-| -1    | Global                  |
-|  1    | Global Extended         |
-|  3    | Chara Maker             |
-|  4    | Main Menu               |
-|  6    | Main Game UI            |
-|  8    | H-Scenes Menus          |
-|  9    | H-Scenes Location       |
-| 11    | Free H Menu             |
-| 13    | Oil Minigame            |
-| 14    | ADV Dialogues           |
-| 15    | Chara Uploader          |
-| 16    | Chara Downloader        |
+| Level | Description       | Notes                           |
+|------:|-------------------|---------------------------------|
+| -1    | Global            |                                 |
+| 1     | Global Extended   |                                 |
+| 3     | Chara Maker       |                                 |
+| 4     | Main Menu         |                                 |
+| 6     | Main Game UI      |                                 |
+| 8     | H-Scenes Menus    |                                 |
+| 9     | H-Scenes Location |                                 |
+| 11    | Free H Menu       |                                 |
+| 13    | Oil Minigame      |                                 |
+| 14    | ADV Dialogues     |                                 |
+| 15    | Chara Uploader    |                                 |
+| 16    | Chara Downloader  |                                 |
+| -1024 | Tutorials         | Requires TextResourceRedirector |
 
 
 
