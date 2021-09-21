@@ -1,0 +1,458 @@
+//*******************************************************************
+//*******************************************************************
+// Translations for Chara Studio
+//*******************************************************************
+//*******************************************************************
+
+//Scope of the file: Only works in Chara Studio
+#set exe CharaStudio
+
+//-------------------------------------------------------------------
+// Generic: Used in several places
+//-------------------------------------------------------------------
+// This game
+サンシャイン=Sunshine
+
+// Groups
+髪=Hair
+頭=Head
+顔=Face
+首=Neck
+胴=Torso
+胸=Chest
+背中=Back
+腰=Waist
+腹=Stomach
+お尻=Butt
+脚=Legs
+腕=Arms
+手=Hands
+股間=Crotch
+
+ラインの色=Line Color
+ラインの太さ=Line Thickness
+
+回転=Rotate
+その他=Miscellaneous
+通常=General
+
+//-------------------------------------------------------------------
+// Right Sidebar
+//-------------------------------------------------------------------
+ワークスペース=Workspace
+
+// Right Sidebar -> Camera
+設定しているカメラ=Set Camera
+
+//-------------------------------------------------------------------
+// Left Menu (Add)
+//-------------------------------------------------------------------
+女キャラ=Girls
+男キャラ=Boys
+アイテム=Items
+マップ=Map
+マップライト=Map Lights
+テキスト=Text
+背景=Background
+フレーム=Frame
+
+// Add -> Items -> Glow -> Illumination -> Anim Settings
+発光色=Light Color
+発光の強さ=Light Strength
+
+//-------------------------------------------------------------------
+// Animation Menu
+//-------------------------------------------------------------------
+// Animation Controller
+速度=Speed
+パターン=Pattern
+r:"^補助([０-９0-9]+)$"=Extra $1
+付属アイテム表示=Show Attached Items
+強制ループ=Force Looping
+アニメーション操作=Animation Management
+
+状態=Current State
+キネマ=Kinematics
+アニメ=Animations
+ボイス=Voice
+衣装=Clothing
+関節補正=Joint Adjustment
+
+// Animation Menu -> Current State
+服装=Clothing Menu
+タイプ=Type
+一括=Set All
+
+// Animation Menu -> Current State -> Clothing Settings
+トップ=Top
+ボトム=Bottom
+ブラ=Bra
+ショーツ=Underwear
+パンスト=Pantyhose
+手袋=Gloves
+靴下=Legwear
+靴=Shoes
+
+// Animation Menu -> Current State -> Accessories
+スロ=Slot
+
+// Animation Menu -> Current State -> Miscellaneous
+涙Lv=Tears Level
+頬赤=Face Flushing
+乳首=Nipple Stiffness
+男根=Penis
+男根サイズ=Penis Size
+
+// Animation Menu -> Kinematics
+FK=FK
+IK=IK
+視線=Gaze
+首操作=Head Operation
+眉・目・口=Brows / Eyes / Mouth
+手=Hands
+ポーズ=Pose
+
+// Animation Menu -> Current State -> Males Only
+//単色化=Monocolor
+//カラー=Color
+
+// Animation Menu -> Kinematics -> Kinematics General
+機能=Active
+表示=Display
+サイズ=Size
+
+// Animation Menu -> Kinematics -> Forward Kinematics
+髪=Hair
+首=Neck
+胸=Chest
+体=Body
+右手=Right Hand
+左手=Left Hand
+スカート=Skirt
+
+// Animation Menu -> Kinematics -> Inverse Kinematics
+一括=Set All
+体=Body
+右手=Right Hand
+左手=Left Hand
+右足=Right Foot
+左足=Left Foot
+
+// Animation Menu -> Kinematics -> Eyebrows / Eyes / Mouth
+種類=Pattern
+開き=Openness
+瞬き=Blinking
+口パク=Lip-Sync
+
+// Animation Menu -> Kinematics -> Eyebrows / Eyes / Mouth -> Display Types
+コンフィグ依存=From Config
+General
+最前面=Frontmost
+
+// Animation Menu -> Kinematics -> Pose
+NoName=No Name
+
+// Animation Menu -> Character Animation -> Joint Adjustment
+右腕=Right Forearm
+左腕=Left Forearm
+Right Foot
+Left Foot
+左前腕部=Left Forearm Group
+右前腕部=Right Forearm Group
+右太もも=Right Thigh
+左太もも=Left Thigh
+
+//-------------------------------------------------------------------
+// Animation menu - Text settings controller
+//-------------------------------------------------------------------
+テキスト設定=Text Settings
+アウトラインカラー=Outline Color
+アウトラインの太さ=Outline Thickness
+
+フォント=Font
+r:^フォント([０-９0-9]+)$=Font $1
+フォントサイズ=Font Size
+行間隔=Line Spacing
+向き=Direction
+横書き=Horizontal
+縦書き=Vertical
+自動改行=Auto Line Break
+テキストカラー=Text Color
+エフェクト=Effect
+エフェクトカラー=Effect Color
+エフェクトの太さ=Effect Thickness
+枠=Box
+影=Shadow
+
+//-------------------------------------------------------------------
+// Animation menu - Light Controller
+//-------------------------------------------------------------------
+//Color
+ライトのON/OFF=Light On/Off
+ターゲット表示=Show Target
+Self-Shadowing
+Strength
+Intensity
+スポット角度=Spot Angle
+// Lower Right Box
+ライト=Light
+
+//-------------------------------------------------------------------
+// Animation Menu -> Item Animation
+//-------------------------------------------------------------------
+ライトの影響度=Light Influence
+r:"^カラー([０-９0-9]+)$"=Color $1
+影=Shadowing
+ラインの色=Line Color
+ラインの太さ=Line Thickness
+
+//-------------------------------------------------------------------
+// Sound Menu
+//-------------------------------------------------------------------
+//BGM=Game BGM
+外部読込=Load External File
+
+//-------------------------------------------------------------------
+// System Menu
+//-------------------------------------------------------------------
+コンフィグ=Config
+オプション=Options
+ロゴ=Logo
+キャラライト=Char Lighting
+画面効果=Scene Effects
+セーブ=Save
+ロード=Load
+初期化=Reset
+終了=Quit
+
+// System Menu -> Config
+背景色=Background Color
+モブの色=Mob Char. Color
+// For the picker
+モブ色=Mob Color
+マップ遮蔽処理=Do Map Shading
+眉の最前面表示=Brows Through Hair
+目の最前面表示=Eyes Through Hair
+オーディオ設定=Audio Settings
+マスター音量=Master Volume
+ＢＧＭ=BGM
+効果音=SFX
+システム音=System
+環境音=Environment
+音声=Voices
+
+// System Menu -> Options
+カメラ設定=Camera Settings
+r:"^カメラ速度([A-Z])軸$"=Camera $1 Speed
+カメラ移動速度=Camera Movement Speed
+操作軸の設定=Axis Settings
+大きさ=Size
+速度(移動量)=Speed (Movement Rate)
+スナップ移動幅=Grid Snap Amount
+オブジェクトの設定=Object Settings
+追加位置=Spawn Location
+原点=Origin
+注視点=Crosshair
+表示タイプ=Display Type
+全表示=Show All
+選択表示=Selected
+追加時の自動表示=Automatically Show
+する=Yes
+しない=No
+追加時の自動選択=Automatically Select
+キャラFK設定=Character FK Settings
+カラー設定=Color Settings
+FKカラー 髪=FK Color: Hair
+FKカラー 首=FK Color: Head
+FKカラー 胸=FK Color: Chest
+FKカラー 体=FK Color: Body
+FKカラー 右手=FK Color: Right Hand
+FKカラー 左手=FK Color: Left Hand
+FKカラー スカート=FK Color: Skirt
+ラインの描画=Draw Lines
+アイテムFKのカラー設定=Item FK Color Settings
+FKカラー アイテム=FK Color: Items
+ルートシステム=Route System
+ラインの幅=Line Width
+ポイントの上限=Show Endpoint
+あり=Show
+起動時シーンロード画面を開く=Open Scene Load Screen At Startup
+開く=Open
+開かない=Don't Open
+
+// System Menu -> Logo
+デフォルト=Default
+illusion ロゴ 白=Illusion Logo (White)
+illusion ロゴ 黒=Illusion Logo (Black)
+illusion文字のみ 白=Word: Illusion (White)
+illusion文字のみ 黒=Word: Illusion (Black)
+キャラスタジオ 白=Character Studio (White)
+キャラスタジオ 黒=Character Studio (Black)
+キャラスタジオ ロゴ=Character Studio Logo
+キャラスタジオ文字のみ 白=Words: "Character Studio" (White)
+キャラスタジオ文字のみ 黒=Words: "Character Studio" (Black)
+
+// System Menu -> Character Lighting
+カラー=Color
+セルフシャドウ=Self-Shadowing
+強さ=Strength
+ライト縦=Vertical Light
+ライト横=Horizontal Light
+
+// System Menu -> Scene Effects
+カラーの調整=Color Adjustment
+色味=Shade
+// 色味２ is added by the TwoLut plugin
+色味２=Shade 2
+画面の色味調整=Scene Shade Adjustment
+アンビエントオクルージョン=Ambient Occlusion
+描画=Display
+範囲=Intensity
+被写界深度=Depth Of Field
+焦点幅=Focus Distance
+絞り=Aperture
+ビネット=Vignette
+フォグ=Fog
+濃さ=Thickness
+開始距離=Starting Distance
+ブルーム=Bloom
+しきい値=Threshold Level
+光のぼかし=Light Gradation
+サンシャフト=Sunshafts
+しきい色=Threshold Color
+光の色=Light Color
+サンシャフト しきい色=Sunshafts: Threshold Color
+サンシャフト 光の色=Sunshafts: Light Color
+光源=Light Source
+影の表現=Shadow Type
+影の濃さ=Shadow Density
+アウトラインの濃さ=Outline Density
+アウトラインの幅=Outline Thickness
+全体の陰影の色=Overall Shadow Color
+
+背景　空=Skybox
+
+// System Menu -> Scene Effects -> Light Source
+マップ依存=Map Dependent
+
+//-------------------------------------------------------------------
+// Color Picker
+//-------------------------------------------------------------------
+ピッカー=Picker
+スライダー=Slider
+プリセット=Presets
+サンプル=Sample
+見本=Result
+色合い=Hue
+鮮やかさ=Saturation
+明るさ=Value
+赤=Red
+緑=Green
+青=Blue
+透明度=Alpha
+
+//-------------------------------------------------------------------
+// Camera Animation Settings
+//-------------------------------------------------------------------
+名前=Name
+動作=Active
+
+//-------------------------------------------------------------------
+// Route Animation Settings
+//-------------------------------------------------------------------
+// Right Sidebar -> Route
+ルート=Route
+子接続先=Child Access Point
+スタート=Start
+r:"^ポイント([０-９0-9]+)$"=Point $1
+
+
+ルート設定=Route Settings
+ルートコントローラー=Route Controller
+//Name
+追加=Add Point
+向き補正=Correct Aim
+//Loop
+ライン描画=Motion Line
+//Line Color
+ルートのラインカラー=Route Line Color
+
+// Route Point Settings
+ルートポイント設定=Route Point Settings
+//Speed
+挙動=Behavior
+形状=Shape
+直線=Line
+曲線=Curve
+連結=Link
+
+// Route Point Behaviors
+直線的=Linear
+徐々に早く=Speeds Up
+徐々に遅く=Slows Down
+急に早く=Immediate Fast
+急に遅く=Immediate Slow
+バウンド=Bound
+
+//-------------------------------------------------------------------
+// Item Settings
+//-------------------------------------------------------------------
+アイテム設定=Item Settings
+
+//Color 1
+柄=Pattern
+柄の色=Pattern Color
+繰り返す=Tile Pattern
+横移動=Horizontal
+縦移動=Vertical
+横スケール=Hor. Scale
+縦スケール=Vert. Scale
+//Rotator
+//Shadowing
+アルファ=Alpha
+//Line Color
+//Line Thickness
+//FK
+揺れ制御=Shake Control
+
+// Item Settings -> Patterns
+柄を選択して下さい=Please Select A Pattern
+
+// Item Settings -> Lower Right Box (Color picker)
+r:"^アイテム カラー([０-９0-9]+)$"=Item Color $1
+r:"^柄の色([０-９0-9]+)$"=Pattern Color $1
+
+//-------------------------------------------------------------------
+// Object Controller
+//-------------------------------------------------------------------
+オブジェクトコントローラー=Object Controller
+平行移動=Horiz.
+上下移動=Vert.
+r:"^([Ａ-Ｚ])回転$"=$1 Rot.
+
+//-------------------------------------------------------------------
+// Map Controller
+//-------------------------------------------------------------------
+マップコントローラー=Map Controller
+位置=Location
+Horiz.
+Vert.
+時間帯=Time Of Day
+
+//-------------------------------------------------------------------
+// Right Sidebar -> Added Character
+//-------------------------------------------------------------------
+sr:"^グループ : (.*)$"=Group: $1
+sr:"^部位 : (.*)$"=Part: $1
+
+//-------------------------------------------------------------------
+// Right Sidebar -> Default New Folder
+//-------------------------------------------------------------------
+フォルダー=New Folder
+名前を入力=Enter A Name
+
+//-------------------------------------------------------------------
+// Unsorted - I have no idea where are those from
+//-------------------------------------------------------------------
+数値入力=Numeric Input
+全削除=Delete All
