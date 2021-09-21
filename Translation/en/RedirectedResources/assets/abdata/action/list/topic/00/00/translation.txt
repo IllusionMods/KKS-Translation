@@ -34,7 +34,7 @@
 名物料理=Specialty Dishes
 シークヮーサージュース=Shiikuwasha Juice
 ぬいぐるみ=Stuffed Animals
-ウムイの鐘=Umui Bell
+ウムイの鐘=The Umui Bell
 紅型=Bingata
 三線=Shamisen
 シーサー=Shisa
