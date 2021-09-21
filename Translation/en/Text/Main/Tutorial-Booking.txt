@@ -1,3 +1,4 @@
+#set level -1024
 女の子の滞在先を登録して、=Register a girl
 マップに女の子を登場させよう！=And she'll pop up on the map!
 ◆島で女の子に出会うには？=◆ How to meet girls on the island?
@@ -58,3 +59,4 @@
 プレイヤーの容姿を変更できます。(※キャラメイク画面に移動します。)=Change the appearance of the player. (※ Move to character maker.)
 プレイヤーの愛称を変更=Change player's nickname
 プレイヤーが女の子から呼ばれる愛称を変更できます。=Players can choose which nickname they want to be called by.
+#unset level -1024
