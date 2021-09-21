@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//フレーム1=
-//フレーム2=
-//フレーム3=
-//フレーム4=
+フレーム1=Frame 1
+フレーム2=Frame 2
+フレーム3=Frame 3
+フレーム4=Frame 4
 //角フレーム1=
 //角フレーム2=
 //スケッチフレーム=

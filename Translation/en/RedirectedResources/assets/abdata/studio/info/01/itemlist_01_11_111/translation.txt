@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//水流=
+水流=Water Flowing
 //川の流れ=
 //滝の激流=
 //波打ち際=
 //水の反響=
-//森の中=
+森の中=In The Forest
 //真夏の蝉=
-//夏の夕暮れ=
+夏の夕暮れ=Summer Twilight Chirping
 //虫のなく夜=
 //篝火=
 //鐘の音=

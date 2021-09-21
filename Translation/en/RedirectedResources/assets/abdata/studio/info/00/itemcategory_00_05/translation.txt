@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//日用品=
-//雑貨=
-//電化製品=
-//医療=
-//ファンタジー=
-//サマー=
+日用品=Daily Life
+雑貨=General Goods
+電化製品=Appliances
+医療=Medical Care
+ファンタジー=Fantasy
+サマー=Summer

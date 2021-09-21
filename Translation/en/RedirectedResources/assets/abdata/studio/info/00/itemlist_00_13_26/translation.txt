@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//波動・円=
-//波動・柱=
-//波動・斬=
-//液溜まり=
-//液体A=
-//液体B=
-//ビーム・扇=
-//ビーム・剣=
-//バリア・円(緑)=
-//バリア・円(赤)=
-//バリア・四角(緑)=
-//バリア・四角(赤)=
-//バリア・ピラミッド(緑)=
-//バリア・ピラミッド(赤)=
-//魔法陣=
-//溶解粘液1=
-//溶解粘液2=
-//溶解粘液3=
-//溶解粘液4=
-//溶解粘液5=
+波動・円=Energy Wave (Circle)
+波動・柱=Energy Wave (Pillar)
+波動・斬=Energy Wave (Arc)
+液溜まり=Semen Puddle
+液体A=Semen Drip
+液体B=Semen Spurt
+ビーム・扇=Energy Beam (Folding Fan)
+ビーム・剣=Energy Beam (Sword)
+バリア・円(緑)=Spherical Energy Barrier (Green)
+バリア・円(赤)=Spherical Energy Barrier (Red)
+バリア・四角(緑)=Cubic Energy Barrier (Green)
+バリア・四角(赤)=Cubic Energy Barrier (Red)
+バリア・ピラミッド(緑)=Pyramidal Energy Barrier (Green)
+バリア・ピラミッド(赤)=Pyramidal Energy Barrier (Red)
+魔法陣=Magic Circle
+溶解粘液1=Dissolving Liquids 1
+溶解粘液2=Dissolving Liquids 2
+溶解粘液3=Dissolving Liquids 3
+溶解粘液4=Dissolving Liquids 4
+溶解粘液5=Dissolving Liquids 5

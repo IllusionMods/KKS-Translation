@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //名称=
-//晴れた空=
+晴れた空=Sunny Sky
 //昼の空=
-//夕暮れの空=
-//夜空=
+夕暮れの空=Evening Sky
+夜空=Night Sky

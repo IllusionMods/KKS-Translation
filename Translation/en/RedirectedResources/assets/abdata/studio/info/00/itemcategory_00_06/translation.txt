@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//髪=
-//頭=
-//顔=
-//首=
-//胴=
-//腰=
-//腕=
-//手=
-//メカ=
-//ファンタジー=
-//追加01=
-//追加02=
-//サマー=
-//ハロウィン=
-//アフタースクール=
-//クリスマス=
+髪=Hair
+頭=Head
+顔=Face
+首=Neck
+胴=Torso
+腰=Hips
+腕=Arms
+手=Hands
+メカ=Mecha
+ファンタジー=Fantasy
+追加01=Additional 01
+追加02=Additional 02
+サマー=Summer
+ハロウィン=Halloween
+アフタースクール=Afterschool
+クリスマス=Christmas
 //EC=
-//ダークネス=
+ダークネス=Darkness

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//階段(木)=
-//石階段1=
-//石階段2=
+階段(木)=Wooden Stairs
+石階段1=Stone Stairs 1
+石階段2=Stone Stairs 2

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//野球バット=
-//ヘルメット=
-//つば広帽子=
-//雫=
-//3ポイント=
-//オーバル腕時計=
+野球バット=Baseball Bat
+ヘルメット=Baseball Helmet
+つば広帽子=Wide-Brimmed Cap
+雫=Drop Earring
+3ポイント=Three-Jewel Necklace
+オーバル腕時計=Oval Wristwatch

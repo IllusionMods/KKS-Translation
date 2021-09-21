@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//キャンディクリップA=
-//キャンディクリップB=
-//カップケーキイヤリング=
-//ファンシーリボン=
-//ねこかばん=
+キャンディクリップA=Candy Clip A
+キャンディクリップB=Candy Clip B
+カップケーキイヤリング=Cupcake Earing
+ファンシーリボン=Fancy Ribbon
+ねこかばん=Cat Bag

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//メカトライニードル=
-//メカライオン=
-//メカホイール=
-//メカアーマー=
-//メカシールドⅢ=
+メカトライニードル=Mecha Tri-Needle
+メカライオン=Mecha Lion
+メカホイール=Mecha Wheel
+メカアーマー=Mecha Armor
+メカシールドⅢ=Mecha Shield Ⅲ
