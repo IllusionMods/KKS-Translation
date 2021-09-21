@@ -105,6 +105,8 @@ Where "xxx" represents the number of the desired scope level. Below is a table c
 | 14    | ADV Dialogues           |
 | 15    | Chara Uploader          |
 | 16    | Chara Downloader        |
+| -1024    | Tutorials        |
+
 
 
 ##  Resource Translations
