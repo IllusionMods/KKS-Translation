@@ -1,7 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//表示名=
 //顔遠ざけて悩む=
 //筆で色乗せる=
 //筆で色乗せる 確認=
