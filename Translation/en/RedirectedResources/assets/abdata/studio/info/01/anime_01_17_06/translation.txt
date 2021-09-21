@@ -1,0 +1,10 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//表示名=
+//体洗う=
+//頭洗う=
+//団扇で涼む=
+//三線持ち待機=
+//三線を弾く=
+//三線の音を合わせる=

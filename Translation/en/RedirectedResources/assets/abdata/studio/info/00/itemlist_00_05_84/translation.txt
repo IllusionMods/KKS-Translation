@@ -1,0 +1,12 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//ビーチボール=
+//提灯=
+//うちわ=
+//ぶたの置物=
+//カブトムシ=
+//クワガタ=
+//虫かご(小)=
+//虫かご(大)=
+//水着=

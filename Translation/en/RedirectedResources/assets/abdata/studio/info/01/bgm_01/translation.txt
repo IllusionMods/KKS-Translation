@@ -1,0 +1,24 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//BGM 00=
+//BGM 01=
+//BGM 02=
+//BGM 03=
+//BGM 04=
+//BGM 05=
+//BGM 06=
+//BGM 07=
+//BGM 08=
+//BGM 09=
+//BGM 10=
+//BGM 11=
+//BGM 12=
+//BGM 13=
+//BGM 14=
+//BGM 15=
+//BGM 16=
+//BGM 17=
+//BGM 18=
+//BGM 19=
+//BGM 20=

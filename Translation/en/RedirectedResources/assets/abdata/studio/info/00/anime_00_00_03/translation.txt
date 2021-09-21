@@ -1,0 +1,10 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//表示名=
+//歩く1=
+//歩く2=
+//走る1=
+//走る2=
+//走る3=
+//走る4=

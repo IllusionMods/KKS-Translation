@@ -1,0 +1,13 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//髪=
+//頭=
+//顔=
+//首=
+//胴=
+//腰=
+//脚=
+//腕=
+//手=
+//股間=

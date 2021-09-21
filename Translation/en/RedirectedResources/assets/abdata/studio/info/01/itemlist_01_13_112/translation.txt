@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//キャンプの火=
+//水槽の泡=
+//お風呂の湯気=
+//水しぶき=
+//海=
+//海(夕方)=
+//海(夜)=
+//水面=
