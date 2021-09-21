@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//ビル1=
-//ビル2=
-//ビル3=
-//ビル4=
-//公衆トイレ=
+ビル1=Building 1
+ビル2=Building 2
+ビル3=Building 3
+ビル4=Building 4
+公衆トイレ=Public Bathroom

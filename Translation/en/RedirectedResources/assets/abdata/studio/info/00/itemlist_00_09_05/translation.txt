@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//集中線=
-//丸影=
-//レンズフレアA=
-//レンズフレアB=
-//レンズフレアC=
-//レンズフレアD=
-//レンズフレアE=
-//レンズフレアF=
-//レンズフレアG=
-//色影=
-//色影(四角1)=
-//色影(四角2)=
-//色影(六角)=
-//色影(三角)=
-//色影(ハート)=
-//色影(星)=
-//色影(月)=
-//色影(欠月)=
-//色影(雫)=
-//色影(十字)=
-//色影(縁円)=
-//色影(縁四角)=
+集中線=Focal Lines
+丸影=Circular Shadow
+レンズフレアA=Lens Flare A
+レンズフレアB=Lens Flare B
+レンズフレアC=Lens Flare C
+レンズフレアD=Lens Flare D
+レンズフレアE=Lens Flare E
+レンズフレアF=Lens Flare F
+レンズフレアG=Lens Flare G
+色影=Colored Shadow
+色影(四角1)=Colored Shadow (Square 1)
+色影(四角2)=Colored Shadow (Square 2)
+色影(六角)=Colored Shadow (Hexagon)
+色影(三角)=Colored Shadow (Triangle)
+色影(ハート)=Colored Shadow (Heart)
+色影(星)=Colored Shadow (Star)
+色影(月)=Colored Shadow (Moon)
+色影(欠月)=Colored Shadow (Waning Moon)
+色影(雫)=Colored Shadow (Drop)
+色影(十字)=Colored Shadow (Cross)
+色影(縁円)=Colored Shadow (Circle Rim)
+色影(縁四角)=Colored Shadow (Square Rim)

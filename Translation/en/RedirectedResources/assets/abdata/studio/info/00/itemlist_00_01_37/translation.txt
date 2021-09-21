@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//青空=
-//夕空=
-//夜空=
+青空=Blue Sky
+夕空=Twilight Sky
+夜空=Night Sky

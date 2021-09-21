@@ -2,18 +2,18 @@
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //表示名=
-//立ち1=
-//立ち2=
-//立ち3=
-//立ち4=
-//立ち5=
-//立ち6=
-//立ち7=
-//立ち8=
-//立ち9=
-//立ち10=
-//座り1=
-//座り2=
+立ち1=Basic 1
+立ち2=Basic 2
+立ち3=Basic 3
+立ち4=Basic 4
+立ち5=Basic 5
+立ち6=Basic 6
+立ち7=Basic 7
+立ち8=Basic 8
+立ち9=Basic 9
+立ち10=Basic 10
+座り1=Sitting 1
+座り2=Sitting 2
 //ヨガ1=
 //ヨガ2=
 //ヨガ3=

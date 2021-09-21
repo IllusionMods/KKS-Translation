@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//ポーズ=
-//立ち=
-//会話=
-//椅子=
-//椅子・机=
-//床=
-//食べる=
-//アクション=
-//寝=
-//男=
+ポーズ=Pose
+立ち=Standing
+会話=Conversation
+椅子=Chairs
+椅子・机=Sitting At Desk
+床=Sitting On Floor
+食べる=Eating
+アクション=Action
+寝=Laying
+男=Male

@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //表示名=
-//ポーズ1=
-//ポーズ2=
-//ポーズ3=
-//ポーズ4=
-//アニメ=
+ポーズ1=Pose 1
+ポーズ2=Pose 2
+ポーズ3=Pose 3
+ポーズ4=Pose 4
+アニメ=Animations

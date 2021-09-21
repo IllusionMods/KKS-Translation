@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//モブ=
-//用務員=
-//用務員(裸)=
+モブ=Mob
+用務員=Janitor
+用務員(裸)=Janitor (Nude)

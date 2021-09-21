@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //表示名=
-//ストレッチ１=
-//ストレッチ２=
-//ストレッチ３=
-//ストレッチ４=
+ストレッチ１=Stretching 1
+ストレッチ２=Stretching 2
+ストレッチ３=Stretching 3
+ストレッチ４=Stretching 4
