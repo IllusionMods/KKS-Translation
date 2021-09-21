@@ -93,6 +93,7 @@ Where "xxx" represents the number of the desired scope level. Below is a table c
 
 | Level | Description             |
 |------:|-------------------------|
+| -1024 | Tutorials               |
 | -1    | Global                  |
 |  1    | Global Extended         |
 |  3    | Chara Maker             |
@@ -105,7 +106,6 @@ Where "xxx" represents the number of the desired scope level. Below is a table c
 | 14    | ADV Dialogues           |
 | 15    | Chara Uploader          |
 | 16    | Chara Downloader        |
-| -1024    | Tutorials        |
 
 
 
