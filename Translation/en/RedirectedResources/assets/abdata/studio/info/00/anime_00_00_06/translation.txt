@@ -1,7 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//表示名=
 待機=Idle
 本を読む1=Reading Book 1
 本を読む2=Reading Book 2

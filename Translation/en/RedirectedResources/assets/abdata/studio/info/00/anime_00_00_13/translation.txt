@@ -1,7 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//表示名=
 シーン1=Scene 1
 シーン2=Scene 2
 シーン3=Scene 3

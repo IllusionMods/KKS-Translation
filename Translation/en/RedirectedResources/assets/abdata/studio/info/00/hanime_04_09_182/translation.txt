@@ -1,7 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//表示名=
 弱ループ=Slow Loop
 中ループ=Medium Loop
 強ループ=Fast Loop

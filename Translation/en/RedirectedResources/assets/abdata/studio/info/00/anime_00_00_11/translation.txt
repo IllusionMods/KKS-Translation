@@ -1,7 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//表示名=
 恥ずかしがる1=Embarrassed 1
 恥ずかしがる2=Embarrassed 2
 恥ずかしがる3=Embarrassed 3

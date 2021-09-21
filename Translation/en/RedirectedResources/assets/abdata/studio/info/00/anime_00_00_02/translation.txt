@@ -1,7 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//表示名=
 喜1=Happy 1
 喜2=Happy 2
 喜3=Happy 3

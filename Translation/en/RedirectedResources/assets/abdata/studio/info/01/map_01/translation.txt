@@ -1,7 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//名称=
 ホテル=Hotel
 民宿=Guest House
 合宿所=Training Center

@@ -1,7 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//表示名=
 攻撃１=Attack 1
 攻撃２=Attack 2
 攻撃３=Attack 3

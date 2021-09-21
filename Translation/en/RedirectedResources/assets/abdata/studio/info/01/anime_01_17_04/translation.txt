@@ -1,7 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//表示名=
 //空を見る1 A=
 //空を見る1 姿勢を変える=
 //空を見る1 B=

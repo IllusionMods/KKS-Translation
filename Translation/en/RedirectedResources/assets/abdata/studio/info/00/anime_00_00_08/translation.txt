@@ -1,7 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//表示名=
 しゃがみ1=Squatting 1
 しゃがみ2=Squatting 2
 しゃがみ3=Squatting 3

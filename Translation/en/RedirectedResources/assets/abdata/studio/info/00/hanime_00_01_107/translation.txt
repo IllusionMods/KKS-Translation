@@ -1,7 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//表示名=
 待機=Idle
 胸反応開始=Initial Breast Touch
 胸触り待機=About To Grope Breasts
