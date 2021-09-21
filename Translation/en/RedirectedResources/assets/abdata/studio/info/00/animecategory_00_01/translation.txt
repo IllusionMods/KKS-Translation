@@ -1,0 +1,14 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//立ち=
+//仰向け=
+//四つん這い=
+//椅子座り=
+//椅子バック=
+//机バック=
+//壁バック=
+//机座り=
+//机しゃがみ=
+//本棚=
+//いたずら=

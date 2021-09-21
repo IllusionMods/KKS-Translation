@@ -1,0 +1,8 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//表示名=
+//立ち1=
+//立ち2=
+//立ち3=
+//立ち4=

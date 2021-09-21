@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//表示名=
+//顔遠ざけて悩む=
+//筆で色乗せる=
+//筆で色乗せる 確認=
+//悩みつつ休憩=
+//粘土形整えてる in=
+//粘土形整えてる loop=
+//粘土形整えてる out=

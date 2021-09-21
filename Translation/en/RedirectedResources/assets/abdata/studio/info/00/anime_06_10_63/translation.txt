@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//表示名=
+//動き回る１=
+//動き回る２=
+//動き回る３=
+//動き回る４=
+//動き回る５=

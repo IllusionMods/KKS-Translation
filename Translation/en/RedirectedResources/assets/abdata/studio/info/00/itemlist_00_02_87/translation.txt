@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//ビーチチェア=
+//ビーチパラソル=
+//木の椅子=
+//木の長椅子=
+//木の机=
+//木の箱=

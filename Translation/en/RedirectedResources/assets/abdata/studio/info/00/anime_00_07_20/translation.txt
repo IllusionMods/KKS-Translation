@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//表示名=
+//ポーズ1=
+//ポーズ2=
+//ポーズ3=
+//ポーズ4=
+//ポーズ5=
+//ポーズ6=
+//ポーズ7=

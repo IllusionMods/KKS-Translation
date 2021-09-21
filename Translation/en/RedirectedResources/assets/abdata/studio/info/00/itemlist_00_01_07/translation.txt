@@ -1,0 +1,12 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//襖1=
+//襖2=
+//ガラス入り障子=
+//障子1=
+//障子2=
+//戸=
+//トイレドア1=
+//トイレドア2=
+//シャワー室ドア=

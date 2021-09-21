@@ -1,0 +1,10 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//FK関節=
+//FK軸=
+//FK先端1=
+//FK先端2=
+//土台1=
+//土台2=
+//メカチューブ=
