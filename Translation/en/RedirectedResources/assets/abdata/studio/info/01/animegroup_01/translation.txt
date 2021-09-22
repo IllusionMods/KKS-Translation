@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//サンシャイン=
-//S・女H奉仕=
-//S・男H奉仕=
-//S・女H挿入=
-//S・男H挿入=
-//S・H特殊=
-S・H3P=Sadist ・ H3P
+サンシャイン=Sunshine
+S・女H奉仕=S・Girl Service
+S・男H奉仕=S・Male Service
+S・女H挿入=S・Girl Insertion
+S・男H挿入=S・Male Insertion
+S・H特殊=S・Special H
+S・H3P=S・Threesome
