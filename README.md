@@ -4,16 +4,13 @@ English translation project for Koikatsu Sunshine
 
 The translations are applied while the game is running and do not require replacing or modifying any game files.
 
-***NOTE: README is not (yet) accurate beyond this point***
-
 ## Prerequisites
 
 - [BepInEx 5.4.x+](https://github.com/BepInEx/BepInEx/releases/)
 - [BepisPlugins for KKS](https://github.com/bbepis/BepisPlugins/releases)
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
-
-[//]: # "- [KKS_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) (required for most resources)"
-- [KKS_Subtitles](https://github.com/IllusionMods/KK_Plugins#subtitles) (required to see subtitles)
+- [KKS_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector)
+- [KKS_Subtitles](https://github.com/IllusionMods/KK_Plugins#subtitles)
 
 [//]: # "- [KKS_TranslationHelper](https://gebo1.github.io/GeBoPlugins/src/TranslationHelper/) (Optional, but recommended)"
 [//]: # "- [KKS_TranslationCacheCleaner](https://gebo1.github.io/GeBoPlugins/src/TranslationCacheCleaner/) (optional, but recommended)"
@@ -291,4 +288,4 @@ Some prefixes can be combined with numbers, which limit them to matching specifi
 
 ## Status
 
-TBD
+Right now the project is at a fast pace and things are constantly changing. Coordinate with other translators on the [Koikatsu Discord](https://discord.gg/urDt8CK) #lingual-studies channel. To avoid translation conflicts please ask if anyone is working on a file. If you have any questions about the quality of your translations, ask for advice on the server.
