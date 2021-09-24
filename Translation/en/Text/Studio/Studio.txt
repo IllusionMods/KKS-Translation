@@ -29,6 +29,13 @@
 手=Hands
 股間=Crotch
 
+// Clothing Types
+私服=Casual Clothes
+水着=Swimsuit
+寝間着=Pajamas
+風呂場=Bathing
+お風呂=Bath
+
 ラインの色=Line Color
 ラインの太さ=Line Thickness
 
