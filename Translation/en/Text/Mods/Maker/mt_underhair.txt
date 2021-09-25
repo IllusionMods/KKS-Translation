@@ -2,6 +2,9 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_ModTextDump v0.6.1
 //
 
+// chara/etc.unity3d
+なし=None
+
 // chara/nam/nam_mt_pubic_hair_00.unity3d
 四角剃跡=Square Shave
 小三角剃跡=Small Triangle Razor

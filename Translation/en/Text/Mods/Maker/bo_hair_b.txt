@@ -16,9 +16,6 @@
 // chara/dak/bo_hair_b_01.unity3d
 [dak]中分ボブ(後)=[dak]Medium-length bob (back)
 
-// chara/etc.unity3d
-なし=None
-
 // chara/mf_alice_v2.unity3d
 三つ編み[アリス][SAO]=Braids [Alice][SAO].
 
@@ -88,6 +85,9 @@ wen夜夜=WEN Night Night
 カールポニー アウトライン=Curly Pony Outline
 ゆるふわボブ アウトライン=Loose Bob Outline
 ぱっつんボブ アウトライン=Floppy Bob Outline
+
+// chara/etc.unity3d
+なし=None
 
 // chara/ymd/mf_haircap.unity3d
 ぼーず=Bozu

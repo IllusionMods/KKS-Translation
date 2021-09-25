@@ -6,7 +6,7 @@
 クレアレオタード=Claire Leotard
 
 // chara/anse/anse_raincoat_b.unity3d
-//あんせレインコート=
+あんせレインコート=Safety Raincoat
 
 // chara/deathweasel/ec_items.unity3d
 聖女のビスチェ=Saint Bustier
@@ -19,6 +19,31 @@
 // chara/co_bra_00.unity3d
 ナミブラ=Nami Bra
 
+// chara/mt_pattern_AI.unity3d
+搭配HS男衬衣用T恤=T-shirt for HS man's polo shirt
+
+// chara/mt_pattern_KA.unity3d
+贵族腰带=Women's waistband
+
+// chara/co_shoes.unity3d
+贵族风衣=Clothes for noble families
+
+// chara/mt_pattern_ZZ.unity3d
+偶像服肩章=Shoulder patch
+王子服肩章=Shoulder patch for prince
+军服肩章=Shoulder patch for military uniform
+肩章=Shoulder patch
+军服腰带=Military uniform waistband
+
+// chara/ao_head_01.unity3d
+//偶像肩章改=偶像服肩章改
+
+// chara/mt_pattern_SP.unity3d
+王子服束腰=Prince's uniform
+
+// chara/Sen3_rean.unity3d
+黎恩(下摆腰带扣)=Reign (Lower & Fore Waistband)
+
 // chara/_mods/zack2.unity3d
 全身金属タイツ=Full-length metal tights
 
@@ -30,6 +55,9 @@
 
 // chara/_mods/blue_wind.unity3d
 ブルーウィンド上=Blue Wind Upper
+
+// chara/_mods/chirai_03.unity3d
+チライインナー=Chirai Inner
 
 // chara/_mods/fumina01.unity3d
 フミナ=Fumina
@@ -113,6 +141,9 @@ Maハイローブラ=Ma high-low bra
 オープンビスチェ =Open bustier
 オープンフリルビキニ=Open Frilled Bikini
 
+// chara/co_bra_103.unity3d
+Millefi水着=Millefi Swimsuit
+
 // chara/Mint/co_M_holesSC.unity3d
 穴あきスク水=School Swimwear with Holes
 ハート穴スク水=Heart Hole School Swimsuit
@@ -124,7 +155,7 @@ Maハイローブラ=Ma high-low bra
 ミニチューブトップ=Mini Tube Tops
 
 // chara/mf_vladilena_milize_bra01.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/_kero/cpo_shimakazeS_NT_00.unity3d
 透過全身タイツ VerA=Transparent Full Length Tights Ver.
@@ -133,7 +164,7 @@ Maハイローブラ=Ma high-low bra
 さらしショート無地=Sarashi Short Plain
 
 // chara/_kero/co_SwimKikkou_NT_00.unity3d
-亀甲縛り=Bondage Ropes
+亀甲縛り=Tortoise Shell Binding
 
 // chara/nashi/ns_bra.unity3d
 フルカップブラ=Full Cup Bra
@@ -150,6 +181,20 @@ Maハイローブラ=Ma high-low bra
 シェルフカップブラ 柄付き=Shelf Cup Bra with Pattern
 オープンブラ=Open Bra
 オープンブラ エナメル風味=Open bra with enamel
+
+// chara/nashi/ns_bra_ver1.unity3d
+フルカップブラ1 ver1=Full Cup Bra 1 ver1
+フルカップブラ2 ver1=Full Cup Bra 2 ver1
+4/5カップブラ1 ver1=4/5 Cup Bra1 ver1
+4/5カップブラ2 ver1=4/5 Cup Bra 2 ver1
+3/4カップブラ1 ver1=3/4 Cup Bra 1 ver1
+3/4カップブラ2 ver1=3/4 Cup Bra 2 ver1
+1/2カップブラ1 ver1=1/2 Cup Bra 1 ver1
+1/2カップブラ2 ver1=1/2 Cup Bra 2 ver1
+紐付きチューブトップブラ1 ver1=Tube Top Bra with Strings 1 ver1
+紐付きチューブトップブラ2 ver1=Tube top bra with strings 2 ver1
+シェルフカップブラ ver1=Shelf Cup Bra ver1
+オープンブラ ver1=Open Bra ver1
 
 // chara/nashi/ns_mizugi.unity3d
 ひもぴーんビキニ=Flouncy Bikini
@@ -195,9 +240,6 @@ Maハイローブラ=Ma high-low bra
 レオタード (袖なし)=Leotard (Sleeveless)
 ハイレグレオタード (袖なし)=High-Leg Leotard (Sleeveless)
 全身タイツ(ショーツ可)=Full-length tights (shorts allowed)
-
-// chara/Sen3_rean.unity3d
-黎恩(下摆腰带扣)=Reign (Lower & Fore Waistband)
 
 // chara/taka/taka_co_bra_01.unity3d
 ビキニ水着 (3色変更可)=Bikinis (3 colors available)
@@ -263,6 +305,12 @@ xneレース下着=XNE Lace Underwear
 アンダーシャツ3 ツートン 袖短=Undershirt3 Two-Tone Short Sleeves
 アンダーシャツ3 首まで=Undershirt 3 Up to Neck
 アンダーシャツ3 首まで 袖短=Undershirt 3 Up to neck Short sleeves
+
+// chara/ymd/mf_clothVariation_rev11.unity3d
+アンダーシャツ3 ツートン rev11=Undershirt 3 two-tone rev11
+アンダーシャツ3 ツートン 袖短 rev11=Undershirt 3 Two-Tone Short Sleeves rev11
+アンダーシャツ3 首まで rev11=Undershirt 3 up to neck rev11
+アンダーシャツ3 首まで 袖短 rev11=Undershirt 3 up to neck, short sleeves rev11
 
 // chara/ymd/mf_texchange.unity3d
 スクール水着 テカ=School swimsuit Teka

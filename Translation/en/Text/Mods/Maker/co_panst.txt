@@ -8,6 +8,8 @@
 // chara/co_bot_00.unity3d
 [Add]セクシータイトスカート=[Add] Sexy Tight Skirt
 [Add]ゆったりロングパンツ=[Add] Loose Long Pants
+ショートパンツ=Short Pants
+ホットパンツ=Hotpants
 
 // chara/AntY/co_panst_00.unity3d
 アラストル Ant Y Stockings Transparent 1 (Garter Belt)=Arastole Ant Y Stockings Transparent 1 (Garter Belt)
@@ -38,8 +40,24 @@
 長手袋(L)=Long Glove(L)
 長手袋(R)=Long Glove(R)
 
+// chara/mt_pattern_KA.unity3d
+贵族护臂=Noble Armguards
+贵族腰带=Women's waistband
+
+// chara/mt_pattern_ZZ.unity3d
+军服腰带=Military uniform waistband
+
+// chara/mt_pattern_SP.unity3d
+王子服束腰=Prince's uniform
+
+// chara/bot_makoto.unity3d
+休闲口袋=Casual Bag
+
 // chara/_mods/blue_wind.unity3d
 ブルーウィンド下=Blue Wind Underwear
+
+// chara/_mods/chirai_04.unity3d
+チライスパッツ=Chillai Spats
 
 // chara/_mods/fumina01.unity3d
 フミナ=Fumina
@@ -78,6 +96,9 @@
 // chara/JK/idol - sholder.unity3d
 アイドルショルダー=Idol Shoulder
 
+// chara/Matne/matne_panst_00.unity3d
+チア用アンダースコート=Cheerleading Underskirt
+
 // chara/mm/buruma.unity3d
 ブルマ=Bloomers
 ランニングショーツ=Running Shorts
@@ -94,7 +115,7 @@
 創世神ステイシア[SAO]=God of Creation Stacia [SAO][SAO
 
 // chara/mf_vladilena_milize_panst.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/_kero/co_gloves_NT_02.unity3d
 レア用手袋=Gloves for Rare

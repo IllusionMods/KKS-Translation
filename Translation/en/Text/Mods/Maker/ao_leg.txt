@@ -1,0 +1,14 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_ModTextDump v0.6.1
+//
+
+// chara/mt_pattern_SP.unity3d
+//骑士护腿(左)=骑 thighs (left)
+//骑士护腿(右)=骑 thighs (right)
+
+// chara/ao_leg_01.unity3d
+注射ガーターリング（左）=Injection Ring Garter (Left)
+注射ガーターリング（右）=Injection Ring Garter (Right)
+
+// chara/AccClothes/p_o_panst_01_acc.unity3d
+パンスト=Pantyhose

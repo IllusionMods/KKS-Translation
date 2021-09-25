@@ -168,7 +168,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 アップバング=Upward Swept Bangs
 
 // chara/deathweasel/acc_bo_hair_f_12.unity3d
-でこジャギー=Jagged Short Bangs
+でこジャギー=Jagged Forehead
 でこジャギー A=Jagged Forehead A
 でこジャギー B=Jagged Forehead B
 でこジャギー C=Jagged Forehead C
@@ -187,8 +187,8 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 ふわカール B=Fluffy Curled B
 ふわカール C=Fluffy Curled C
 ふわカール D=Fluffy Curled D
-斜めぱっつん(右)=Slanting Straight-Cut Bangs (R)
-斜めぱっつん(左)=Slanting Straight-Cut Bangs (L)
+斜めぱっつん(右)=Slanting Straight-Cut Bangs (Right)
+斜めぱっつん(左)=Slanting Straight-Cut Bangs (Left)
 
 // chara/deathweasel/acc_bo_hair_f_13.unity3d
 ウェーブロング=Wavy Long
@@ -240,8 +240,8 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 横長くせっ毛 N=Horizontal Frizzy Hair N
 横長くせっ毛 O=Horizontal Frizzy Hair O
 ストレートカール前=Straight, Curled Bangs
-撫でつけ(右)=Smoothed Down (R)
-撫でつけ(左)=Smoothed Down (L)
+撫でつけ(右)=Smoothed Down (Right)
+撫でつけ(左)=Smoothed Down (Left)
 
 // chara/deathweasel/acc_bo_hair_f_50.unity3d
 シトリーフロント=Sitri Front
@@ -254,13 +254,13 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 シトリーフロント G=Sitri Front G
 シトリーフロント H=Sitri Front H
 シトリーフロント I=Sitri Front I
-エアリーボブ前(左)=Airy Bob Bangs (L)
+エアリーボブ前(左)=Airy Bob Bangs (Left)
 エアリーボブ前(左) A=Airy Bob Bangs (Left) A
 エアリーボブ前(左) B=Airy Bob Bangs (Left) B
 エアリーボブ前(左) C=Airy Bob Bangs (Left) C
 エアリーボブ前(左) D=Airy Bob Bangs (Left) D
 エアリーボブ前(左) E=Airy Bob Bangs (Left) E
-エアリーボブ前(右)=Airy Bob Bangs (R)
+エアリーボブ前(右)=Airy Bob Bangs (Right)
 エアリーボブ前(右) A=Airy Bob Bangs (Right) A
 エアリーボブ前(右) B=Airy Bob Bangs (Right) B
 エアリーボブ前(右) C=Airy Bob Bangs (Right) C
@@ -367,9 +367,12 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 // chara/koi_ao_face_00.unity3d
 狐の面=Fox Mask
 
+// chara/sak_acc_bo_hair_f_50.unity3d
+SAK中分けデコ出し=SAK middle parted deco
+
 // chara/zeta/sunshineacc.unity3d
-//Sunshine FH 2 - �؂葵���A�V�����g���o���O=
-//Sunshine FH 6 - �؂葵���T�C�h�J�[��=
+Sunshine FH 2 - �؂葵���A�V�����g���o���O=Sunshine FH 2 - ???
+Sunshine FH 6 - �؂葵���T�C�h�J�[��=Sunshine FH 6 - ???
 
 // chara/xne/xne_ao_accmask.unity3d
 マスク改（フェラ）=Mask Revision (Blow)

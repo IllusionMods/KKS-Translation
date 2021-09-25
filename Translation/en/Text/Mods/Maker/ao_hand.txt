@@ -10,6 +10,9 @@
 禁書（閉）=Forbidden Book (Closed)
 禁書（開）=Forbidden book (open)
 
+// chara/AccClothes/p_o_gloves_acc.unity3d
+手袋=Gloves
+
 // chara/_mods/mash3.unity3d
 ロード・カルデアス=Lord Chaldeans
 
@@ -22,7 +25,10 @@
 // chara/koikoi/ao_hand_42.unity3d
 AI杵=AI pestle
 
-// chara/123_excalibur.unity3d
+// chara/ao_hand_01.unity3d
+注射器=Syringe
+
+// chara/ao_hand_50.unity3d
 EX咖喱棒=EX Curry stick
 
 // chara/mf_alice.unity3d

@@ -163,14 +163,8 @@
 十字キズ=Cross Scar
 三本キズ=Triple Scars
 
-// chara/ymd/mf_sakuya.unity3d
-サクヤ 鼻筋=Sakuya Nose line
-
-// chara/ymd/mf_siru.unity3d
-汁=juice
-
-// chara/ymd/mf_ymdtexture.unity3d
-鼻影改=nose shadow revision
+// chara/ymd/mf_fpaint.unity3d
+鼻影_=Nose Shadow_
 鼻４=nose 4
 鼻筋=nasal stripe
 鼻影=shadow of nose
@@ -180,5 +174,14 @@
 目元２=Around the eyes 2
 チーク１=Blush 1
 チーク２=Blush 2
+
+// chara/ymd/mf_sakuya.unity3d
+サクヤ 鼻筋=Sakuya Nose line
+
+// chara/ymd/mf_siru.unity3d
+汁=juice
+
+// chara/ymd/mf_ymdtexture.unity3d
+鼻影改=nose shadow revision
 鼻影R=Nose shadow R
 鼻影改R=Nose Shadow Revision R

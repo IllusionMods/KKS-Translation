@@ -3,10 +3,10 @@
 //
 
 // chara/anse/anse_blucher.unity3d
-//プレーントゥ外羽根=
+プレーントゥ外羽根=Plain toe outer feather
 
 // chara/anse/anse_rain_boots.unity3d
-//あんせ長靴=
+あんせ長靴=Safety Boots
 
 // chara/deathweasel/ec_items.unity3d
 ヴァルキリーグリーヴ=Valkyrie Greaves
@@ -15,8 +15,27 @@
 サキュバスブーツ=Succubus Boots
 ネクロマンサーのブーツ=Necromancer Boots
 
-// chara/sutela6.unity3d
-//sutela_鞋子=
+// chara/co_shoes.unity3d
+盔甲靴=Crampon boots
+HM男主黑皮鞋=HM men's black leather boots
+HM男主白皮鞋=HM boots
+HS2贵族靴=HS2 crampon boots
+
+// chara/co_shoes_22_22.unity3d
+运动板鞋=Crampons
+EC皮靴(改)=EC leather shoes(modified)
+
+// chara/mt_pattern_SH.unity3d
+AI牛津皮鞋=AI leather shoes
+
+// chara/mt_pattern_ZZ.unity3d
+//HS2护腿靴=HS2 护腿シューズ
+
+// chara/Sen3_hair.unity3d
+闪轨本校制服=Internal channels
+
+// chara/_mods/chirai_05.unity3d
+チライブーツ=Chillai boots
 
 // chara/_mods/fumina01.unity3d
 フミナ=Fumina
@@ -51,6 +70,9 @@
 // chara/_mods/rider3.unity3d
 ライダーパンプス=Rider Pumps
 
+// chara/co_shoes_01.unity3d
+キュートナースシューズ=Cute Nurse Shoes
+
 // chara/mf_alice.unity3d
 騎士のブーツ[アリス]=Knight's Boots [Alice].
 ビキニアーマー[アリス]=Bikini Armor [Alice][SAO
@@ -72,7 +94,7 @@
 太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
 
 // chara/mf_vladilena_milize_shoes.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/qinxiezi.unity3d
 //琴鞋子=Koto鞋子
@@ -82,9 +104,6 @@
 
 // chara/mod/mod_ranrin_acm.unity3d
 靴_嵐燐結騎=Shoes_Arashi Rin Yugi
-
-// chara/Tansen/Flare_shoes.unity3d
-//不知火 フレア=
 
 // chara/co_shoes_xmas.unity3d
 サンタブーツ=Santa Boots
@@ -120,4 +139,4 @@ wen夜夜=WEN Night Night
 ブーツ=Boots
 
 // chara/xz.unity3d
-//卡莲南瓜鞋子=
+卡莲南瓜鞋子=Karin Pumpkin Shoes

@@ -31,9 +31,9 @@
 // chara/mod/mod_eden_vb.unity3d
 髪ハイライト_エデンVB=Hair highlight_Eden VB
 
-// chara/ymd/mf_sakuya.unity3d
-サクヤ髪ハイライト=Crispy Hair Highlight
-
-// chara/ymd/mf_ymdtexture.unity3d
+// chara/ymd/mf_hairgloss.unity3d
 線ハイライト大=Line Highlight Large
 雷ハイライト大=Lightning Highlight Large
+
+// chara/ymd/mf_sakuya.unity3d
+サクヤ髪ハイライト=Crispy Hair Highlight
