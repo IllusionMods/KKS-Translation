@@ -13,8 +13,8 @@
 記号 肉球=Symbol Meatball
 記号 ハート=Symbol Heart
 記号 ハート割=Symbol Heart Rate
-記号 羽左=Symbol Feather Left
-記号 羽右=Symbol Feather Right
+記号 羽左=Symbol Feather L
+記号 羽右=Symbol Feather R
 記号 汗１=Symbol Sweat １
 記号 汗２=Symbol Sweat ２
 記号 怒=Symbol Angry

@@ -12,8 +12,8 @@
 ハロウィントップス=Halloween Top
 
 // chara/deathweasel/ec_items.unity3d
-サキュバスの翼左用=Succubus' Wing for Left
-サキュバスの翼右用=Succubus' Wing for Right
+サキュバスの翼左用=Succubus' Wing for L
+サキュバスの翼右用=Succubus' Wing for R
 
 // chara/nam/ao_nam_acc_00.unity3d
 シンプル乳首リング=Simple Nipple Ring
@@ -42,8 +42,8 @@
 2色ジュエルシールドジュエルピアス=2 color jewel shield jewel earrings
 
 // chara/gray/F_devil01_a.unity3d
-悪魔の翼左用（改）=Devil's Wings for Left (Revision)
-悪魔の翼右用（改）=Devil's Wing for Right (Revised)
+悪魔の翼左用（改）=Devil's Wing L (Revised)
+悪魔の翼右用（改）=Devil's Wing R (Revised)
 
 // chara/koikoi/ao_body_07.unity3d
 AI翼=AI Wings
@@ -98,5 +98,5 @@ AI翼=AI Wings
 スノークリスタル=Snow Crystal
 
 // chara/mod_zmr/ao_body_zmr.unity3d
-悪魔の翼左用=Left Demon Wing
-悪魔の翼右用=Right Demon Wing
+悪魔の翼左用=Demon Wing L
+悪魔の翼右用=Demon Wing R

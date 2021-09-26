@@ -3,26 +3,26 @@
 //
 
 // chara/_mods/claire.unity3d
-クレア四角=Claire square
-クレア輪=Claire circle
-クレア左=Claire left
-クレア右=Claire right
-クレア丸=Claire circle
-クレア尻=Claire butt
+クレア四角=Claire Square
+クレア輪=Claire Wheel
+クレア左=Claire L
+クレア右=Claire R
+クレア丸=Claire Circle
+クレア尻=Claire Butt
 
 // chara/deathweasel/ec_items.unity3d
-ヴァルキリーショルダー右用=Valkyrie shoulder for right
-ヴァルキリーショルダー左用=Valkyrie shoulder for left
-サキュバスショルダー右用=Succubus shoulder right
-サキュバスショルダー左用=Succubus shoulder left
+ヴァルキリーショルダー右用=Valkyrie shoulder R
+ヴァルキリーショルダー左用=Valkyrie shoulder L
+サキュバスショルダー右用=Succubus shoulder R
+サキュバスショルダー左用=Succubus shoulder L
 
 // chara/gray/F_arm02_c.unity3d
-スタッズレザーアーム左用=Studded leather arm for left
-スタッズレザーアーム右用=Studded leather arm for right
+スタッズレザーアーム左用=Studded leather arm L
+スタッズレザーアーム右用=Studded leather arm R
 
 // chara/gray/F_arm00_c.unity3d
-エキゾチックリング左用=Exotic Ring Left
-エキゾチックリング右用=Exotic Ring Right
+エキゾチックリング左用=Exotic Ring L
+エキゾチックリング右用=Exotic Ring R
 
 // chara/_mods/gantz_suit2.unity3d
 ガンツ丸1個=Gantz Round 1pc
@@ -48,10 +48,10 @@ Qテクターパーツ=Q-Tector Parts
 
 // chara/_mods/Mine2.unity3d
 マイン鎧手首=Mine Armor Wrist
-マイン鎧手甲左=Mine Armor Hand Armor Left
-マイン鎧手甲右=Mine Armor Hand Armor Right
-マイン鎧肘左=Mine Armor Elbow Left
-マイン鎧肘右=Mine Armor Elbow Right
+マイン鎧手甲左=Mine Armor Hand Armor L
+マイン鎧手甲右=Mine Armor Hand Armor R
+マイン鎧肘左=Mine Armor Elbow L
+マイン鎧肘右=Mine Armor Elbow R
 マイン鎧膝=Mine Armor Knee
 マイン髪留め=Mine Hair Clip
 

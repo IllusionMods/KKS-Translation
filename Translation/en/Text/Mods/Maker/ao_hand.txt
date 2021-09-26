@@ -88,5 +88,5 @@ EX咖喱棒=EX Curry stick
 ラブレター=love letter
 
 // wen/wenyeyeacc.unity3d
-wen夜夜袖子左=wenYoruYoruSodeko left
-wen夜夜袖子右=wen night sleeve right
+wen夜夜袖子左=wen Yeye sleeve L
+wen夜夜袖子右=wen Yeye sleeve R

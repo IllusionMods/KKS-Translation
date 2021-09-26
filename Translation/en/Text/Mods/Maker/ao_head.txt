@@ -70,10 +70,10 @@
 リボンなし結わえロング=Tied Long Without Ribbon
 サイドアップ(左)=Side-Up (L)
 サイドアップ(左) A=Side-Up (L) A
-サイドアップ(左) B=Side up (left) B
+サイドアップ(左) B=Side up (L) B
 サイドアップ(右)=Side-Up (R)
 サイドアップ(右) A=Side-Up (R) A
-サイドアップ(右) B=Side Up (Right) B
+サイドアップ(右) B=Side Up (R) B
 三つ編み=Braided
 三つ編み A=Braided A
 三つ編み B=Braided B
@@ -162,10 +162,10 @@
 ぱっつんボブ E=Straight-Cut Bang Bob E
 カジュアルオールバック=Casual, All Back
 ツーサイドアップショート=Twin Side-Up Short
-三つ編み横おさげ(左)=Horizontal Braid (Left)
+三つ編み横おさげ(左)=Horizontal Braid (L)
 三つ編み横おさげ(左) A=Horizontal Braid (L) A
 三つ編み横おさげ(左) B=Horizontal Braid (L) B
-三つ編み横おさげ(右)=Horizontal Braid (Right)
+三つ編み横おさげ(右)=Horizontal Braid (R)
 三つ編み横おさげ(右) A=Horizontal Braid (R) A
 三つ編み横おさげ(右) B=Horizontal Braid (R) B
 ひとつ結び=Single Knot
@@ -299,8 +299,8 @@
 [dak]付け毛d5=[dak]hairpiece d5
 
 // chara/dak/ao_head_00.unity3d
-[dak]コロネ右(揺れ)=[dak]Coronet Right (shaking)
-[dak]コロネ左(揺れ)=[dak]Coronet left (shaking)
+[dak]コロネ右(揺れ)=[dak]Coronet R (shaking)
+[dak]コロネ左(揺れ)=[dak]Coronet L (shaking)
 
 // chara/ao_head_01.unity3d
 HM男主发型=HM male head shape
@@ -374,8 +374,8 @@ AI耳=AI Ears
 スクールサマーハット=School Summer Hat
 
 // chara/ao_head_03.unity3d
-猫耳（右）=Cat Ear (Right)
-猫耳（左）=Cat Ear (Left)
+猫耳（右）=Cat Ear (R)
+猫耳（左）=Cat Ear (L)
 鈴付きリボン=Ribbon and Bell
 
 // chara/mf_alice.unity3d
@@ -402,32 +402,32 @@ AI耳=AI Ears
 
 // chara/_kero/ao_extePack_NT_01.unity3d
 HM付け毛[o12]=HM hairpiece[o12]
-HM付け毛[o12]（揺れなし 左右調整）=HM hairpiece [o12] (no shaking, left/right adjustment)
+HM付け毛[o12]（揺れなし 左右調整）=HM hairpiece [o12] (no shaking, L/R adjustment)
 HM付け毛[o09]=HM hairpiece [o09]
-HM付け毛[o09]（揺れなし 左右調整）=HM hairpiece [o09] (no shaking, left/right adjustment)
+HM付け毛[o09]（揺れなし 左右調整）=HM hairpiece [o09] (no shaking, L/R adjustment)
 HM付け毛[o14]=HM hairpiece [o14]
-HM付け毛[o14]（揺れなし 左右調整）=HM hairpiece [o14] (no shaking, left/right adjustment)
+HM付け毛[o14]（揺れなし 左右調整）=HM hairpiece [o14] (no shaking, L/R adjustment)
 HM付け毛[s04_L]=HM hairpiece [s04_L]
-HM付け毛[s04_R]=HM hairpiece [s04_R] (left/right adjustment)
-HM付け毛[b08](左右調整）=HM hairpiece [b08] (left/right adjustment)
-HM付け毛[b45_L]=HM hairpiece [b45_L] (left/right adjustment)
+HM付け毛[s04_R]=HM hairpiece [s04_R] (L/R adjustment)
+HM付け毛[b08](左右調整）=HM hairpiece [b08] (L/R adjustment)
+HM付け毛[b45_L]=HM hairpiece [b45_L] (L/R adjustment)
 HM付け毛[b45_R]=HM hairpiece[b45_R].
 
 // chara/_kero/ao_extePack_NT_02.unity3d
 HM付け毛[o17]=HM hairpiece [o17]
-HM付け毛[o17]（揺れなし 左右調整）=HM hairpiece [o17] (No shaking, left/right adjustment)
+HM付け毛[o17]（揺れなし 左右調整）=HM hairpiece [o17] (No shaking, L/R adjustment)
 KK付け毛[f23_S]=KK hairpiece [f23_S].
-HM付け毛[o03]=HM hairpiece [o03] HM hairpiece [o20
-HM付け毛[o20]=HM hairpiece [o20] HM hairpiece [o20
-HM付け毛[o20]（揺れなし 左右調整）=HM hairpiece [o20] (no shaking, left/right adjustment)
-HM付け毛[o25]=HM hairpiece [o25] HM hairpiece [o25
-HM付け毛[o25]（揺れなし 左右調整）=HM hairpiece [o25] (no shaking, left/right adjustment)
-HM付け毛[f47]=HM hairpiece [f47] HM hairpiece [f47
-HM付け毛[f47](左右調整）=HM hairpiece [f47] (left/right adjustment)
-HSチャイナポンポン[b14]=HS China Pom Pom [b14] (left/right adjustment)
-HSチャイナポンポン[b14]（揺れなし 左右調整）=HS China pom-poms[b14] (no shaking, left/right adjustment)
-HSチャイナポンポン[b14](模様なし)=HS China Pom Pom[b14](No pattern)
-HSチャイナポンポン[b14]（模様なし 揺れなし 左右調整）=HS China Pom Pom [b14] (no pattern, no shaking, left/right adjustment)
+HM付け毛[o03]=HM hairpiece [o03] HM hairpiece
+HM付け毛[o20]=HM hairpiece [o20] HM hairpiece
+HM付け毛[o20]（揺れなし 左右調整）=[o20] HM hairpiece (no shaking, L/R adjustment)
+HM付け毛[o25]=HM hairpiece [o25] HM hairpiece
+HM付け毛[o25]（揺れなし 左右調整）=[o25] HM hairpiece (no shaking, L/R adjustment)
+HM付け毛[f47]=HM hairpiece [f47] HM hairpiece
+HM付け毛[f47](左右調整）=[f47] HM hairpiece (L/R adjustment)
+HSチャイナポンポン[b14]=[b14] HS China Pom Pom (L/R adjustment)
+HSチャイナポンポン[b14]（揺れなし 左右調整）=[b14] HS China pom-poms (no shaking, L/R adjustment)
+HSチャイナポンポン[b14](模様なし)=[b14] HS China Pom Pom (No pattern)
+HSチャイナポンポン[b14]（模様なし 揺れなし 左右調整）=[b14] HS China Pom Pom (no pattern, no shaking, L/R adjustment)
 HM付け毛[s03_L]=HM hairpiece [s03_L]
 HM付け毛[s03_R]=HM hairpiece [s03_R] (no pattern)
 HM付け毛[s19]=HM hairpiece [s19] (no pattern)

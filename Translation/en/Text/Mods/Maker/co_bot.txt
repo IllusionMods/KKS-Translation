@@ -308,7 +308,7 @@ wen夜夜=WEN Night Night
 ジーンズもどき=Pseudo Jeans
 ジーンズもどき だぼだぼ=Slouchy Jeans
 ロングスカート アシンメトリー 左右=Long Skirt Asymmetrical Left/Right
-ロングスカート アシンメトリー 前後=Long Skirt Asymmetrical Front and Back
+ロングスカート アシンメトリー 前後=Long Skirt Asymmetrical Front/Back
 
 // chara/ymd/mf_clothVariation4.unity3d
 袖ぶかジャージ 下=Sleeve jersey bottom

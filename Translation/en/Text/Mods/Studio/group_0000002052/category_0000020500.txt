@@ -6,8 +6,8 @@
 
 
 // chara/deathweasel/ec_items.unity3d
-ヴァルキリーショルダー右用=Valkyrie shoulder for right
-ヴァルキリーショルダー左用=Valkyrie shoulder for left
+ヴァルキリーショルダー右用=Valkyrie shoulder for R
+ヴァルキリーショルダー左用=Valkyrie shoulder for L
 聖女の杖=Saint's Staff
 聖女の竪琴=Saint's Harp
 バゼラード=Bazelard
@@ -17,13 +17,13 @@
 盗賊のベルト=Bandit's Belt
 盗賊のポーチ=Thief's Pouch
 バゼラードの鞘=Bazelard's Sheath
-サキュバスショルダー右用=Succubus shoulder right
-サキュバスショルダー左用=Succubus shoulder left
-サキュバスの翼左用=Succubus' Wing for Left
-サキュバスの翼右用=Succubus' Wing for Right
+サキュバスショルダー右用=Succubus shoulder R
+サキュバスショルダー左用=Succubus shoulder L
+サキュバスの翼左用=Succubus Wing L
+サキュバスの翼右用=Succubus Wing R
 バフォメットの仮面=Mask of Baphomet
-モノクル(右)=monocle(right)
-モノクル(左)=Monocle (left)
+モノクル(右)=Monocle (R)
+モノクル(左)=Monocle (L)
 サキュバスサイズ=Succubus Size
 禁書（閉）=Forbidden Book (Closed)
 禁書（開）=Forbidden book (open)

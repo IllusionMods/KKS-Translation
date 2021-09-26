@@ -6,8 +6,8 @@
 [dak]花のみ=[dak]Flower only
 
 // chara/dak/ao_head_00.unity3d
-[dak]コロネ右(揺れ)=[dak]Coronet Right (shaking)
-[dak]コロネ左(揺れ)=[dak]Coronet left (shaking)
+[dak]コロネ右(揺れ)=[dak]Coronet R (shaking)
+[dak]コロネ左(揺れ)=[dak]Coronet L (shaking)
 
 // chara/_mods/ayanami2.unity3d
 綾波の頭のヤツ=The one on Ayanami's head

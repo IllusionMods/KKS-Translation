@@ -23,12 +23,12 @@
 地神テラリア[SAO]=Earth God Terraria [SAO].
 
 // chara/_kero/bo_hair_b_tailnone_NT.unity3d
-サイドテール（左)（テールなし）=Side Tail (Left) (No Tail)
-サイドテール(右)（テールなし）=Side Tail (Right) (No Tail)
+サイドテール（左)（テールなし）=Side Tail (L) (No Tail)
+サイドテール(右)（テールなし）=Side Tail (R) (No Tail)
 ツインおさげ（テールなし）=Twin pigtails (without tails)
 ポニーテ-ル（テールなし）=Ponytail (no tail)
-サイドアップ(左)（テールなし）=Side Up (Left) (No Tail)
-サイドアップ(右)（テールなし）=Side up (right) (no tail)
+サイドアップ(左)（テールなし）=Side Up (L) (No Tail)
+サイドアップ(右)（テールなし）=Side up (R) (no tail)
 細ツインテール（テールなし）=Thin Twin Tail (No Tail)
 ツーサイドアップ（テールなし）=Two Side Up (No Tail)
 ショートショート=Short Short

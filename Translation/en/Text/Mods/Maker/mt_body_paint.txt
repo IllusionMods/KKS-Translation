@@ -40,10 +40,10 @@
 なし=None
 
 // chara/karasu/mt_body_paint_k00.unity3d
-右手1=Right Hand 1
-左手1=Left Hand 1
-右手2=Right hand 2
-左手2=Left hand 2
+右手1=Hand R 1
+左手1=Hand L 1
+右手2=Hand R 2
+左手2=Hand L 2
 
 // chara/MCT.unity3d
 魔法陣01=Magic circle 01
@@ -225,8 +225,8 @@
 タイプＥＦ=Type EF
 
 // chara/regiKK/kizutat.unity3d
-爪痕（左）=Claw marks (left)
-爪痕（右）=Claw marks (right)
+爪痕（左）=Claw marks (L)
+爪痕（右）=Claw marks (R)
 手術跡=Surgical scar
 切り傷=Cuts
 ひび=Crack

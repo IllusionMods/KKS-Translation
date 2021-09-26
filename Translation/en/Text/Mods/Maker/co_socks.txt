@@ -47,11 +47,11 @@
 くいこみサイハイ=KIKUMI SAI HIGH
 
 // chara/nashi/ns_socks.unity3d
-左ハイサイ=Left High Sai
-左ニーソ=Left knee socks
-左ハイソ=Left high-socks
-右ニーソ=Right Knee Socks
-右ハイソ=right high-socks
+左ハイサイ=High Side L
+左ニーソ=Knee-Sock L
+左ハイソ=High-Sock L
+右ニーソ=Knee-Sock R
+右ハイソ=High-Sock R
 
 // chara/mod/mod_aurora_al.unity3d
 ガーターサイハイ_オーロラAL=Garter sigh high_Aurora AL

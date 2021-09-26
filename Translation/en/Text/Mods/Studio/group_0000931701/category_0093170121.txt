@@ -6,14 +6,14 @@
 
 
 // studio/GTAV apartment Small.unity3d
-框架=Stile and rail
-洗浴間道具=Bathing Room Tools
-臥室道具=Lying Room
-臥室衣櫃門 左=Lying-in wardrobe Left
-臥室衣櫃門 右=Lying-in wardrobe (right)
-臥室椅子=Lying room chair
-臥室遊戲機手柄=Lying room play equipment handle
-客廳道具=Parlor equipment
-客廳遙控器=Parlor Harness
-客廳椅子=Parlor Chair
-廚房道具=Kitchen Tools
+框架=Frame
+洗浴間道具=Bathroom props
+臥室道具=Bedroom props
+臥室衣櫃門 左=Bedroom closet door (L)
+臥室衣櫃門 右=Bedroom closet door (R)
+臥室椅子=Bedroom chair
+臥室遊戲機手柄=Bedroom game console
+客廳道具=Living room props
+客廳遙控器=Living room remote
+客廳椅子=Living room chair
+廚房道具=Kitchen props
