@@ -3,8 +3,8 @@
 //
 
 // chara/mt_pattern_SP.unity3d
-//骑士护腿(左)=骑 thighs (L)
-//骑士护腿(右)=骑 thighs (R)
+骑士护腿(左)=Knight's Leggings (L)
+骑士护腿(右)=Knight's Leggings (R)
 
 // chara/ao_leg_01.unity3d
 注射ガーターリング（左）=Injection Ring Garter (L)
