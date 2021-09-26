@@ -9,6 +9,10 @@
 長手袋(L)=Long Glove(L)
 長手袋(R)=Long Glove(R)
 
+// chara/mt_pattern_KA.unity3d
+贵族腰带=Women's waistband
+贵族护臂=Noble Armguard
+
 // chara/_mods/Gal_03.unity3d
 もっとルーズソックス=More Loose Socks
 
@@ -27,8 +31,11 @@
 // chara/JK/idol - sholder.unity3d
 アイドルショルダー=Idol Shoulder
 
+// chara/co_socks_01.unity3d
+網ニーソックス=Netted Kneesocks
+
 // chara/mf_vladilena_milize_socks.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/_kero/co_NailGloves_NT_01_alt.unity3d
 ネイルチップ（Ｓ）=Nail Tip (S)
@@ -40,11 +47,11 @@
 くいこみサイハイ=KIKUMI SAI HIGH
 
 // chara/nashi/ns_socks.unity3d
-左ハイサイ=Left High Sai
-左ニーソ=Left knee socks
-左ハイソ=Left high-socks
-右ニーソ=Right Knee Socks
-右ハイソ=right high-socks
+左ハイサイ=High Side L
+左ニーソ=Knee-Sock L
+左ハイソ=High-Sock L
+右ニーソ=Knee-Sock R
+右ハイソ=High-Sock R
 
 // chara/mod/mod_aurora_al.unity3d
 ガーターサイハイ_オーロラAL=Garter sigh high_Aurora AL
@@ -88,3 +95,7 @@ wen妖精=wen Fairy
 長めのニーソ=Longer Knee Socks
 長めのニーソ 二色分け=Longer Knee Socks Two-Color
 長めのニーソ 網=Longer Knee Socks Net
+
+// chara/co_bot_00.unity3d
+ショートパンツ=Short Pants
+ホットパンツ=Hotpants

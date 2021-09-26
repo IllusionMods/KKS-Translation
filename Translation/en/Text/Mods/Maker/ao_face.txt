@@ -168,7 +168,7 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 アップバング=Upward Swept Bangs
 
 // chara/deathweasel/acc_bo_hair_f_12.unity3d
-でこジャギー=Jagged Short Bangs
+でこジャギー=Jagged Forehead
 でこジャギー A=Jagged Forehead A
 でこジャギー B=Jagged Forehead B
 でこジャギー C=Jagged Forehead C
@@ -255,17 +255,17 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 シトリーフロント H=Sitri Front H
 シトリーフロント I=Sitri Front I
 エアリーボブ前(左)=Airy Bob Bangs (L)
-エアリーボブ前(左) A=Airy Bob Bangs (Left) A
-エアリーボブ前(左) B=Airy Bob Bangs (Left) B
-エアリーボブ前(左) C=Airy Bob Bangs (Left) C
-エアリーボブ前(左) D=Airy Bob Bangs (Left) D
-エアリーボブ前(左) E=Airy Bob Bangs (Left) E
+エアリーボブ前(左) A=Airy Bob Bangs (L) A
+エアリーボブ前(左) B=Airy Bob Bangs (L) B
+エアリーボブ前(左) C=Airy Bob Bangs (L) C
+エアリーボブ前(左) D=Airy Bob Bangs (L) D
+エアリーボブ前(左) E=Airy Bob Bangs (L) E
 エアリーボブ前(右)=Airy Bob Bangs (R)
-エアリーボブ前(右) A=Airy Bob Bangs (Right) A
-エアリーボブ前(右) B=Airy Bob Bangs (Right) B
-エアリーボブ前(右) C=Airy Bob Bangs (Right) C
-エアリーボブ前(右) D=Airy Bob Bangs (Right) D
-エアリーボブ前(右) E=Airy Bob Bangs (Right) E
+エアリーボブ前(右) A=Airy Bob Bangs (R) A
+エアリーボブ前(右) B=Airy Bob Bangs (R) B
+エアリーボブ前(右) C=Airy Bob Bangs (R) C
+エアリーボブ前(右) D=Airy Bob Bangs (R) D
+エアリーボブ前(右) E=Airy Bob Bangs (R) E
 アシンメトリー前=Asymmetrical Bangs
 アシンメトリー前 A=Asymmetrical Bangs A
 アシンメトリー前 B=Asymmetrical Bangs B
@@ -312,19 +312,19 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 
 // chara/deathweasel/ec_items.unity3d
 バフォメットの仮面=Mask of Baphomet
-モノクル(右)=monocle(right)
-モノクル(左)=Monocle (left)
+モノクル(右)=monocle(R)
+モノクル(左)=Monocle (L)
 
 // chara/deathweasel/acc_bo_hair_f_ryl.unity3d
 りりっくショート=Rikku Short
 ぷらいどショート=Puraidoh Short
-すまいるアシメ(右)=Sumire Asime (Right)
-すまいるアシメ(左)=Sumai Asime (Left)
+すまいるアシメ(右)=Sumire Asime (R)
+すまいるアシメ(左)=Sumai Asime (L)
 
 // chara/curve_kinoko.unity3d
-カーブきのこ(中央)=Curved Mushroom(Center)
-カーブきのこ(左側)=Curved Mushroom (Left Side)
-カーブきのこ(右側)=Curved Mushroom (Right Side)
+カーブきのこ(中央)=Curved Mushroom (Center)
+カーブきのこ(左側)=Curved Mushroom (L)
+カーブきのこ(右側)=Curved Mushroom (R)
 カーブきのこ(両側)=Curved Mushroom (Both Sides)
 
 // chara/ymgpt/ymgpt_ao_face_earrings_top.unity3d
@@ -367,9 +367,12 @@ M字バングストレート(右)=M-Shaped Straight Bangs (R)
 // chara/koi_ao_face_00.unity3d
 狐の面=Fox Mask
 
+// chara/sak_acc_bo_hair_f_50.unity3d
+SAK中分けデコ出し=SAK middle parted deco
+
 // chara/zeta/sunshineacc.unity3d
-//Sunshine FH 2 - �؂葵���A�V�����g���o���O=
-//Sunshine FH 6 - �؂葵���T�C�h�J�[��=
+Sunshine FH 2 - �؂葵���A�V�����g���o���O=Sunshine FH 2 - ???
+Sunshine FH 6 - �؂葵���T�C�h�J�[��=Sunshine FH 6 - ???
 
 // chara/xne/xne_ao_accmask.unity3d
 マスク改（フェラ）=Mask Revision (Blow)

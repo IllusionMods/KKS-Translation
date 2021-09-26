@@ -3,8 +3,8 @@
 //
 
 // chara/thumb/facepaint_layout_00.unity3d
-左頬=Left Side of Face
-右頬=Right Side of Face
+左頬=Side of Face L
+右頬=Side of Face R
 おでこ=Forehead
 鼻=Nose
 口=Mouth

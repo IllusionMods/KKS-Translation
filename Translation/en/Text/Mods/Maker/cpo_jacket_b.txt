@@ -18,13 +18,37 @@
 あんせ長袖ワンピ=Anse long-sleeved one-piece
 
 // chara/anse/anse_suspenders_long.unity3d
-//あんせサスペンダー ロング=
+あんせサスペンダー ロング=Safety suspenders long
 
 // chara/anse/anse_suspenders_mid.unity3d
-//あんせサスペンダー ショート=
+あんせサスペンダー ショート=Safety suspenders short
 
 // chara/anse/anse_raincoat.unity3d
-//あんせレインコート=
+あんせレインコート=Safety raincoat
+
+// chara/co_shoes_22_22.unity3d
+男背带=men's back strap
+
+// chara/co_shoes.unity3d
+贵族短风衣=Short-Sleeved Shirt
+
+// chara/mt_pattern_ZA.unity3d
+//立领制服=领制服
+男学生服=Men's school uniform
+男背心短袖衬衣=Men's polo shirt with short sleeves
+
+// chara/mt_pattern_AH.unity3d
+HS2男马甲=HS2 men's marsupial
+
+// chara/mt_pattern_KL.unity3d
+男学生背心衬衣=Men's polo shirt
+
+// chara/Sen3_hair.unity3d
+闪轨本校制服=Internal channels
+
+// chara/Sen3_rean.unity3d
+//黎恩服饰(下摆)=Reen Clothing饰(Inferior & Fore)
+//黎恩服饰(固定)=Dress饰(Fixed)
 
 // chara/_mods/Gal_02.unity3d
 谷間カーディガン=Cleavage Cardigan
@@ -72,7 +96,18 @@
 太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
 
 // chara/mf_vladilena_milize_top02.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
+
+// chara/nakay/co_top_parker_nkt12.unity3d
+だぼパーカー(スカート)=Draped Parka (Skirt)
+だぼパーカー(フィット)=Draped Parka (Fitted)
+だぼパーカー腕まくり(スカート)=Draped Parka w\ rolled up sleeves (Skirt)
+だぼパーカー腕まくり(フィット)=Draped Parka w\ rolled up sleeves (Fitted)
+だぼパーカー萌袖(スカート)=Draped Parka w\ cute sleeves (Skirt)
+だぼパーカー萌袖(フィット)=Draped Parka w\ cute sleeves (Fitted)
+
+// chara/nakay/co_jacket_02_nkt13.unity3d
+だぼカーディガン=Draped Cardigan
 
 // chara/cpo_jacket_b_00.unity3d
 ブレザーC(inmab改)=Blazer C(inmab modified)
@@ -110,11 +145,8 @@
 カーディガン_djeeta=Cardigans-djeeta
 
 // chara/nashi/ns_FurCoat.unity3d
+ファーコート=Fur Coat
 ファーコート-hallessena=Fur coat-hallessena
-
-// chara/Sen3_rean.unity3d
-//黎恩服饰(下摆)=Reen Clothing饰(Inferior & Fore)
-//黎恩服饰(固定)=Dress饰(Fixed)
 
 // chara/roie/roie_tops.unity3d
 ベーシックコート=Basic Coat
@@ -139,4 +171,3 @@
 // chara/ymd/mf_clothVariation.unity3d
 ジャンパースカートもどき=Jumperskirt
 ジャンパースカートもどき 2=Jumperskirt 2
-ハロウィントップス op削除1=Halloween Tops op deleted1

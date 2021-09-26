@@ -2,6 +2,9 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_ModTextDump v0.6.1
 //
 
+// chara/_mods/thumb/chirai_thumb.unity3d
+チライ=Chirai
+
 // chara/_kero/CMS_NT_00.unity3d
 タイプ1（色変え）=Type 1 (color change)
 タイプ2（色変え）=Type 2 (color change)

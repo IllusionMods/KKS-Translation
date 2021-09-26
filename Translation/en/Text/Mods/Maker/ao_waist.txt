@@ -15,6 +15,9 @@
 魔術師のポーチ=Sorcerer's Pouch
 闇の守り=Charm of Darkness
 
+// chara/co_shoes.unity3d
+贵族风衣腰饰=Necromancer's waistcoat
+
 // chara/gray/F_devil00_a.unity3d
 小悪魔尻尾(リボンなし)=Little devil tail (without ribbon)
 
@@ -30,6 +33,9 @@
 
 // chara/_mods/sinon06.unity3d
 ポーチ=Pouch
+
+// chara/ao_waist_03.unity3d
+猫尻尾=Cat Tail
 
 // chara/mm/mmepuron.unity3d
 エプロン=Apron
@@ -54,7 +60,7 @@
 シノン(ケットシー)[SAO]=Sinon(Ketsee)[SAO][SAO
 
 // chara/mf_vladilena_milize_waist.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/nakay/ao_waist_osk00.unity3d
 オーバースカート・プリーツＡ=Overskirt Pleats A
@@ -132,8 +138,8 @@ V字=V-shape
 長六角形=Long hexagon
 長五角形=Long pentagon
 歪み三角柱=Distorted triangular prism
-マウス型右=Mouse type right
-マウス型左=Mouse left
+マウス型右=Mouse-type R
+マウス型左=Mouse-type L
 五角横台形=Pentagonal horizontal trapezoid
 円形横台形=Round horizontal trapezoid
 三角横台形=Triangular trapezoid

@@ -4,3 +4,6 @@
 
 // chara/deathweasel/no_head.unity3d
 なし=None
+
+// chara/nakay/bo_head_gizaba01.unity3d
+ギザ歯=Gizzard Teeth

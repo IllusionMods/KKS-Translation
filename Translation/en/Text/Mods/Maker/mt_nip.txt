@@ -3,39 +3,39 @@
 //
 
 // chara/nam/mt_inverted_nip_00.unity3d
-陥没乳首1A=Depressed Nipple 1A
-陥没乳首1B=Depressed Nipple 1B
-陥没乳首1C=Depressed Nipple 1C
-陥没乳首1D=Depressed Nipple 1D
-陥没乳首1E=Depressed Nipple 1E
-陥没乳首1F=Depressed Nipple 1F
-陥没乳首2A=Depressed Nipple 2A
-陥没乳首2B=Depressed Nipple 2B
-陥没乳首2C=Depressed Nipple 2C
-陥没乳首2D=Depressed Nipple 2D
-陥没乳首2E=Depressed Nipple 2E
-陥没乳首2F=Depressed Nipple 2F
-陥没乳首3A=Depressed Nipple 3A
-陥没乳首3B=Depressed Nipple 3B
-陥没乳首3C=Depressed Nipple 3C
-陥没乳首3D=Depressed Nipple 3D
-陥没乳首3E=Depressed Nipple 3E
-陥没乳首3F=Depressed Nipple 3F
-陥没乳首4A=Depressed Nipple 4A
-陥没乳首4B=Depressed Nipple 4B
-陥没乳首4C=Depressed Nipple 4C
-陥没乳首4D=Depressed Nipple 4D
-陥没乳首4E=Depressed Nipple 4E
-陥没乳首4F=Depressed Nipple 4F
+陥没乳首1A=Recessed Nipple 1A
+陥没乳首1B=Recessed Nipple 1B
+陥没乳首1C=Recessed Nipple 1C
+陥没乳首1D=Recessed Nipple 1D
+陥没乳首1E=Recessed Nipple 1E
+陥没乳首1F=Recessed Nipple 1F
+陥没乳首2A=Recessed Nipple 2A
+陥没乳首2B=Recessed Nipple 2B
+陥没乳首2C=Recessed Nipple 2C
+陥没乳首2D=Recessed Nipple 2D
+陥没乳首2E=Recessed Nipple 2E
+陥没乳首2F=Recessed Nipple 2F
+陥没乳首3A=Recessed Nipple 3A
+陥没乳首3B=Recessed Nipple 3B
+陥没乳首3C=Recessed Nipple 3C
+陥没乳首3D=Recessed Nipple 3D
+陥没乳首3E=Recessed Nipple 3E
+陥没乳首3F=Recessed Nipple 3F
+陥没乳首4A=Recessed Nipple 4A
+陥没乳首4B=Recessed Nipple 4B
+陥没乳首4C=Recessed Nipple 4C
+陥没乳首4D=Recessed Nipple 4D
+陥没乳首4E=Recessed Nipple 4E
+陥没乳首4F=Recessed Nipple 4F
 
 // chara/nashi/mt_nip_00.unity3d
-Clochette乳首1=Clochette nipple 1
+Clochette乳首1=Clochette Nipple 1
 Clochette乳首2=Clochette Nipple 2
 Clochette乳首3=Clochette Nipple 3
-Clochette乳首4=Clochette nipple 4
-Clochette乳首5=Clochette nipple 5
-Clochette乳首6=Clochette nipple6
-Clochette乳首7=Clochette Nipple7
+Clochette乳首4=Clochette Nipple 4
+Clochette乳首5=Clochette Nipple 5
+Clochette乳首6=Clochette Nipple 6
+Clochette乳首7=Clochette Nipple 7
 
 // chara/etc.unity3d
 なし=None
@@ -52,7 +52,7 @@ Clochette乳首7=Clochette Nipple7
 // chara/phmod/mt_nip_PH2.unity3d
 リアル１落書き=Real 1 Doodle
 リアル２落書き=Real 2 Graffiti
-陥没乳首落書き=Puffy graffiti
+陥没乳首落書き=Puffy Graffiti
 パフィー落書き=Puffy Graffiti
 エロマンガ落書き=Eromanga Graffiti
 

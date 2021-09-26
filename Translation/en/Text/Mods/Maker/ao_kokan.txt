@@ -13,10 +13,6 @@
 // chara/koi_ao_kokan_00.unity3d
 アナルビーズ=anal beads
 
-// list/characustom/NT_A_Z_0_9.unity3d
-C=C
-H=H
-
 // chara/nashi/ns_ao_inmou.unity3d
 トライアングル=Triangle
 ワンフィンガー=One Finger

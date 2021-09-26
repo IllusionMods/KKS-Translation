@@ -11,5 +11,12 @@
 // chara/_mods/watanabe.unity3d
 みら僕=Miraboku
 
+// chara/Matne/matne_sailor_bc_00.unity3d
+タイプ５改（胸当てラインなし色連動）=Type 5 modified (without breastplate line, color linked)
+タイプ５改（胸当てラインなし色固定）=Type 5 modified (no breastplate line, color fixed)
+
+// chara/Matne/matne_sailor_b_00.unity3d
+タイプ５改（胸当てラインなし）=Type 5 modified (no Breastplate Line)
+
 // chara/etc.unity3d
 なし=None

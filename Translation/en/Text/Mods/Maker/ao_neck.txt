@@ -22,6 +22,9 @@
 // chara/_mods/takamura3.unity3d
 衛士強化装備首=Guard enhancement equipment neck
 
+// chara/ao_neck_03.unity3d
+鈴付きチョーカー =Bell Choker
+
 // chara/mf_alice.unity3d
 騎士のマント[アリス]=Knight's cloak [Alice].
 ネックレス[アリス]=Necklace [Alice].
@@ -34,7 +37,7 @@
 太陽神ソルス[SAO]=Solus, God of the Sun[SAO].
 
 // chara/mf_vladilena_milize_neck.unity3d
-//レーナ[86-EIGHTY SIX-]=
+レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/ao_neck_nkt01.unity3d
 ルーズネックリボン１=Loose neck ribbon 1
@@ -47,6 +50,9 @@
 
 // chara/roie/roie_accessories.unity3d
 マフラー無地（WBAccs）=Scarf plain (WBAccs)
+
+// chara/roie/roie_scarf.unity3d
+マフラー無地=Scarf Plain
 
 // chara/ao_neck_xmas.unity3d
 クリスマスベル=Christmas Bells

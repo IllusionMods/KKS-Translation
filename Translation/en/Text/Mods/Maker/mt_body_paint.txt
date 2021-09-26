@@ -40,24 +40,24 @@
 なし=None
 
 // chara/karasu/mt_body_paint_k00.unity3d
-右手1=Right Hand 1
-左手1=Left Hand 1
-右手2=Right hand 2
-左手2=Left hand 2
+右手1=Hand R 1
+左手1=Hand L 1
+右手2=Hand R 2
+左手2=Hand L 2
 
 // chara/MCT.unity3d
-//魔法陣01=
-//魔法陣02=
-//魔法陣03=
-//魔法陣04=
-//魔法陣05=
-//魔法陣06=
-//魔法陣07=
-//魔法陣08=
-//魔法陣09=
-//魔法陣10=
-//魔法陣11=
-//魔法陣12=
+魔法陣01=Magic circle 01
+魔法陣02=Magic circle 02
+魔法陣03=Magic circle 03
+魔法陣04=Magic circle 04
+魔法陣05=Magic circle 05
+魔法陣06=Magic circle 06
+魔法陣07=Magic circle 07
+魔法陣08=Magic circle 08
+魔法陣09=Magic circle 09
+魔法陣10=Magic circle 10
+魔法陣11=Magic circle 11
+魔法陣12=Magic circle 12
 
 // chara/mt_underhair_01.unity3d
 四角=Rectangular
@@ -225,8 +225,8 @@
 タイプＥＦ=Type EF
 
 // chara/regiKK/kizutat.unity3d
-爪痕（左）=Claw marks (left)
-爪痕（右）=Claw marks (right)
+爪痕（左）=Claw marks (L)
+爪痕（右）=Claw marks (R)
 手術跡=Surgical scar
 切り傷=Cuts
 ひび=Crack
@@ -236,7 +236,7 @@
 十字キズ=Cross Scar
 三本キズ=Triple Scars
 
-// chara/ymd/mf_ymdtexture.unity3d
+// chara/ymd/mf_bpaint.unity3d
 ほくろ=Mole
 ほくろ双=Mole twin
 ほくろ染=Mole Dye
