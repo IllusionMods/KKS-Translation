@@ -105,7 +105,12 @@ r:"^補助([０-９0-9]+)$"=Extra $1
 靴=Shoes
 
 // Animation Menu -> Current State -> Accessories
-スロ=Slot
+//Illusion use two ways to define "slot"
+r:^スロット([０-９0-9]+)$=Slot $1
+r:^スロ([０-９0-9]+)$=Slot $1
+全て=All
+メイン=Main
+サブ=Sub
 
 // Animation Menu -> Current State -> Miscellaneous
 涙Lv=Tears Level
