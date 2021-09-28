@@ -1,0 +1,3 @@
+串焼きを食べる1=Eating skewers 1
+串焼きを食べる2=Eating skewers2
+串焼きを作る=Making skewers

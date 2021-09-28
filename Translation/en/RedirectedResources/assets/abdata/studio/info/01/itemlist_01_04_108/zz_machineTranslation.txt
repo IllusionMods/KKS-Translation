@@ -1,0 +1,17 @@
+お弁当1=Lunch Box 1
+お弁当2=Lunch box 2
+串焼き=Making skewers
+ホットドッグ=Hot dog
+サーターアンダギー=Sata andagi
+ライスサンド=Rice Sand
+タコス=Taco
+アボカドバーガー=Avocado burger
+トロピカルジュース1=Tropical Juice 1
+トロピカルジュース2=Tropical Juice 2
+ペットボトル飲料1=Plastic bottle beverage 1
+ペットボトル飲料2=Plastic bottle beverage 2
+パック飲料1=Packed drink 1
+パック飲料2=Packed drink 2
+パック飲料3=Packed drink 3
+アイス棒=Ice stick
+すいか=Watermelon
