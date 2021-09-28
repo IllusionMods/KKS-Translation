@@ -1,0 +1,5 @@
+ヨガ1=Yoga 1
+ヨガ2=Yoga 2
+ヨガ3=Yoga 3
+ヨガ4=Yoga 4
+ヨガ5=Yoga 5

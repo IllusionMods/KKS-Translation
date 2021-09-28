@@ -1,0 +1,11 @@
+温泉につかる1=Soaking in Hot Spring 1
+温泉につかる2=Soaking in Hot Spring 2
+砂いじり loop=Sand tinkering loop
+砂いじり action=Sand tinkering action
+貝殻の音を聴く A=Listening to the sound of shells A
+貝殻の音を聴く 姿勢を変える1=Listening to the sound of shells Changing posture 1
+貝殻の音を聴く B=Listening to the sound of shells B
+貝殻の音を聴く 貝殻をみる=Listening to the sound of the shells Looking at the shells
+貝殻の音を聴く 姿勢を変える2=Listening to the sound of shells Changing posture 2
+ビーチチェアで飲み物を飲む=Having a drink in a beach chair
+ビーチチェアで飲み物を飲む待機=Waiting to have a drink in a beach chair

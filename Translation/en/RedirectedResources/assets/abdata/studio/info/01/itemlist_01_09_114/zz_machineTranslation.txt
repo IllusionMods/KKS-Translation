@@ -1,0 +1,12 @@
+角フレーム1=Square Frame 1
+角フレーム2=Square Frame 2
+スケッチフレーム=Sketch frame
+もやフィルター1=Moya filter 1
+もやフィルター2=Moya Filter 2
+フレアフィルター=Flare filter
+グラデーションフィルター=Gradient Filter
+ノイズフィルター1=Noise Filter 1
+ノイズフィルター2=Noise Filter 2
+キラキラフィルター=Glitter Filter
+撮影フレーム=Shooting frame
+動画スクロールバー=Video scroll bar

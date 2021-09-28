@@ -1,0 +1,2 @@
+座り会話 右=Sitting Conversation Right
+座り会話 左=Sitting conversation left

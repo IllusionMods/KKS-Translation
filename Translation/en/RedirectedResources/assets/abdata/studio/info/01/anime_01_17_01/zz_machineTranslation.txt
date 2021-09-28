@@ -1,0 +1,5 @@
+椅子1=Chair 1
+椅子2=Chair 2
+椅子3=Chair 3
+椅子4=Chair 4
+椅子5=Chair 5
