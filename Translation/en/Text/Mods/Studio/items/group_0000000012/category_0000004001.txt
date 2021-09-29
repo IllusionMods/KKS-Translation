@@ -6,16 +6,16 @@
 
 
 // studio/warship.unity3d
-//待发上游=Wait发上游
-长春防空炮=Changchun air defense gun
-长春烟囱=Changchun Manor
-猫主炮=Cat main gun
-长春船头=Long Spring Ship Head
-猫副炮=Sub-cat
-长春船头炮=Long Spring Ship Head Gun
-上游1本体=Upper water 1 body
-长春腿炮=Long Spring Thigh Guns
-塔什干主炮=Tithing gun
-塔什干火控=Fire Control
-塔什干鱼雷=Fish lightning
-未发射上游=Unloaded upper course
+待发上游=Warship Rocket Launcher Loaded 
+长春防空炮=Warship Air Defense Gun
+长春烟囱=Warship chimney
+猫主炮=Warship Main Gun
+长春船头=Warship Bow
+猫副炮=Warship Secondary Gun
+长春船头炮=Warship Bow Gun
+上游1本体=Torpedo 1 Body
+长春腿炮=Warship Long Cannon
+塔什干主炮=Warship Main Artillery 
+塔什干火控=Warship Fire Control
+塔什干鱼雷=Warship Torpedo Launcher
+未发射上游=Warship Rocket Launcher Unloaded

@@ -12,6 +12,6 @@
 前门=Front door
 后门=Rear door
 葡萄酒桌的椅子=Wine table chair
-橱柜暗门=Cabinet hidden door 
+橱柜暗门=Cabinet hidden door
 内门=Inner door
-天空框架=Sky Frame
+天空框架=Skybox

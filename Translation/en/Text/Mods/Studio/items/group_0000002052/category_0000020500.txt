@@ -6,8 +6,8 @@
 
 
 // chara/deathweasel/ec_items.unity3d
-ヴァルキリーショルダー右用=Valkyrie shoulder for R
-ヴァルキリーショルダー左用=Valkyrie shoulder for L
+ヴァルキリーショルダー右用=Valkyrie shoulder R
+ヴァルキリーショルダー左用=Valkyrie shoulder L
 聖女の杖=Saint's Staff
 聖女の竪琴=Saint's Harp
 バゼラード=Bazelard
