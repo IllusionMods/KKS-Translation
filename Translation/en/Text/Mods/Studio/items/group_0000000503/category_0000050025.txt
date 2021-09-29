@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+//
+
+#set exe CharaStudio
+
+
+// chara/ymd/si_sumikkomodoki.unity3d
+すみっこもどき ねこ=Sumiko Cat

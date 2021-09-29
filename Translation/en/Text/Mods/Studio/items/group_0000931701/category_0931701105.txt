@@ -1,0 +1,10 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+//
+
+#set exe CharaStudio
+
+
+// studio/Hateleite_MAP_FY_ICEWORLD.unity3d
+地图本体=Main Map
+天空框架=Skybox

@@ -1,0 +1,12 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+//
+
+#set exe CharaStudio
+
+
+// studio/Honkai3.unity3d
+Demonblade – Florid Sakura=Demonblade - Florid Sakura
+Demonblade – Florid Sakura Mk II=Demonblade - Florid Sakura Mk II
+Dawn Breaker – Talwar=Dawn Breaker - Talwar
+Dawn Breaker – Talwar Mk II=Dawn Breaker - Talwar Mk II

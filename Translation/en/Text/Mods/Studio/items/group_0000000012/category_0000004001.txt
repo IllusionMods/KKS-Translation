@@ -1,0 +1,21 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+//
+
+#set exe CharaStudio
+
+
+// studio/warship.unity3d
+待发上游=Warship Rocket Launcher Loaded 
+长春防空炮=Warship Air Defense Gun
+长春烟囱=Warship chimney
+猫主炮=Warship Main Gun
+长春船头=Warship Bow
+猫副炮=Warship Secondary Gun
+长春船头炮=Warship Bow Gun
+上游1本体=Torpedo 1 Body
+长春腿炮=Warship Long Cannon
+塔什干主炮=Warship Main Artillery 
+塔什干火控=Warship Fire Control
+塔什干鱼雷=Warship Torpedo Launcher
+未发射上游=Warship Rocket Launcher Unloaded

@@ -1,0 +1,15 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+//
+
+#set exe CharaStudio
+
+ロケーションPPD=Location PPD
+ロケーションPC=Location PC
+ロケーションSBPR=Location SBPR
+ロケーションHS=Location HS
+ロケーションPH=Location PH
+スカイドーム=Sky Dome
+植物=Plants
+CLO ベース=CLO Base
+CLO 壁=CLO Wall
