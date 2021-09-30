@@ -3,13 +3,13 @@
 //
 
 // chara/mt_pattern_KL.unity3d
-//背心衬衣用领带=领带 for衬衣
+背心衬衣用领带=Vest shirt with tie
 
 // chara/co_shoes.unity3d
 HS2贵族风衣=HS2 Dress
 
 // chara/mt_pattern_AI.unity3d
-//男领带(衬衣)=Male 领带(衬衣)
+男领带(衬衣)=Men's tie (shirt)
 
 // chara/Sen3_rean.unity3d
 黎恩服饰=Beach Beach Clothing

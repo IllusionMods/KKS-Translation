@@ -129,8 +129,8 @@ IK=IK
 ポーズ=Pose
 
 // Animation Menu -> Current State -> Males Only
-//単色化=Monocolor
-//カラー=Color
+単色化=Monocolor
+カラー=Color
 
 // Animation Menu -> Kinematics -> Kinematics General
 機能=Active

@@ -33,7 +33,7 @@
 贵族短风衣=Short-Sleeved Shirt
 
 // chara/mt_pattern_ZA.unity3d
-//立领制服=领制服
+立领制服=Stand-up collar uniform
 男学生服=Men's school uniform
 男背心短袖衬衣=Men's polo shirt with short sleeves
 
@@ -47,8 +47,8 @@ HS2男马甲=HS2 men's marsupial
 闪轨本校制服=Internal channels
 
 // chara/Sen3_rean.unity3d
-//黎恩服饰(下摆)=Reen Clothing饰(Inferior & Fore)
-//黎恩服饰(固定)=Dress饰(Fixed)
+黎恩服饰(下摆)=Li En clothing (hem)
+黎恩服饰(固定)=Li En clothing (regular)
 
 // chara/_mods/Gal_02.unity3d
 谷間カーディガン=Cleavage Cardigan

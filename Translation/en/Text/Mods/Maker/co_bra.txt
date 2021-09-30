@@ -36,7 +36,7 @@
 军服腰带=Military uniform waistband
 
 // chara/ao_head_01.unity3d
-//偶像肩章改=偶像服肩章改
+偶像肩章改=Idol epaulettes corrected
 
 // chara/mt_pattern_SP.unity3d
 王子服束腰=Prince's uniform
