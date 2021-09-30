@@ -4,7 +4,8 @@ English translation project for Koikatsu Sunshine
 
 The translations are applied while the game is running and do not require replacing or modifying any game files.
 
-## Index
+## Contents
+
  * [Prerequisites](#prerequisites)
  * [Installation](#installation)
  * [Contribution](#contribution)
@@ -299,7 +300,9 @@ Right now 37% of the game is translated and we are prioritizing the UI and game 
 
 ### To Do List
 
-**Translate Tutorials:** Delete `KoikatsuSunshine\UserData\save\Global.dat` to make the tutorials appear again (make a backup before!)
+#### Translate Tutorials
+
+To view the tutorials either press `F5` while playing the main game or delete `KoikatsuSunshine\UserData\save\Global.dat` to make the tutorials appear again (make a backup before!)
 
 - <s>Translate Chara Maker Tutorial</s> Taken by xmex
 - Translate Free-H Tutorial
@@ -308,7 +311,8 @@ Right now 37% of the game is translated and we are prioritizing the UI and game 
 - Translate Talking with Hikari Tutorial
 - Translate Oil Minigame Tutorial
 
-**Translate the `RedirectedResources` folder:**
+#### Translate the `RedirectedResources` folder
+
 See the readme above on how to handle the MachineTranslations. The goal is to manually translate everything in the files `translation.txt` and clear all `zz_MachineTranslation.txt` files.
 
 - <s>Check Nicknames in `RedirectedResources\assets\abdata\etcetra\list\nickname\00`</s> Taken by Dark Pulse 
