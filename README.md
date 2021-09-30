@@ -304,7 +304,6 @@ Right now 37% of the game is translated and we are prioritizing the UI and game 
 
 To view the tutorials either press `F5` while playing the main game or delete `KoikatsuSunshine\UserData\save\Global.dat` to make the tutorials appear again (make a backup before!)
 
-- <s>Translate Chara Maker Tutorial</s> Taken by xmex
 - Translate Free-H Tutorial
 - Translate H-Scenes Tutorial
 - Translate Talking to the Girl Tutorial
