@@ -29,7 +29,7 @@ EC皮靴(改)=EC leather shoes(modified)
 AI牛津皮鞋=AI leather shoes
 
 // chara/mt_pattern_ZZ.unity3d
-//HS2护腿靴=HS2 护腿シューズ
+HS2护腿靴=HS2 legging shoes
 
 // chara/Sen3_hair.unity3d
 闪轨本校制服=Internal channels
@@ -97,7 +97,7 @@ AI牛津皮鞋=AI leather shoes
 レーナ[86-EIGHTY SIX-]=Raina [86-EIGHTY SIX-]
 
 // chara/qinxiezi.unity3d
-//琴鞋子=Koto鞋子
+琴鞋子=Piano shoes
 
 // chara/mod/mod_aurora_al.unity3d
 水上靴_オーロラAL=Water shoes_Aurora AL

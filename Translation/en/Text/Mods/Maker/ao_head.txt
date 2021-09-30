@@ -307,13 +307,13 @@ HM男主发型=HM male head shape
 キュートナースキャップ=Cute Nurse Cap
 
 // chara/Sen3_hair.unity3d
-闪轨皇太子=Beaming Prince
-//黎恩的发型=发型黎恩的
-库尔特发型=Kurt haircut
-//尤西斯发型=Youxiang发型
-//学生的发型=Student发型
-//艾伦的发型=艾伦发型
-闪轨三军帽=Three transphants hat
+闪轨皇太子=Flash Rail Crown Prince
+黎恩的发型=Li En's Hairstyle
+库尔特发型=Kurt's Hairstyle
+尤西斯发型=You Xi Si's Hairstyle
+学生的发型=Student's Hairstyle
+艾伦的发型=Allen's Hairstyle
+闪轨三军帽=Flash Rail 3 Military cap
 
 // chara/ymd/mf_haircap.unity3d
 穴埋め=Hole Filling
@@ -477,7 +477,7 @@ HMナースキャップ=HM nurse cap
 カチューシャ_嵐燐結騎=Catsuit_Arashi Rinkouki
 
 // chara/zeta/sunshineacc.unity3d
-//Sunshine BH 2 - �؂肻�낦�A�V�����g��=Sunshine BH 2-؂ 肻 낦 AVAV
+Sunshine BH 2 - �؂肻�낦�A�V�����g��=Sunshine BH 2 - ???
 
 // chara/taka/taka_ao_head_03.unity3d
 ヘアバンド (真っ白)=Hair band (Pure white)

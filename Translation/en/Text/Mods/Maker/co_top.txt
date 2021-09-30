@@ -54,14 +54,14 @@ HS2贵族风衣=HS2 Dress
 
 // chara/mt_pattern_KK.unity3d
 短袖衬衣(男)=Short-sleeved Shirt (Male)
-//男西装(领色固定)=Western-style clothes (领色固定)
+男西装(领色固定)=Men's suit (fixed collar color)
 
 // chara/mt_pattern_SP.unity3d
 男西装(腰带)=Western-style dress (waistband)
 HS外穿衬衣=HS polo shirt
 
 // chara/mt_pattern_BB.unity3d
-//男T恤(鸡心领)=T-shirt (鸡心领)
+男T恤(鸡心领)=Men's T-shirt (sweetheart collar)
 男棒球服(外)=Man's ball gown (outer)
 
 // chara/mt_pattern_AH.unity3d
