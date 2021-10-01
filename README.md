@@ -306,7 +306,7 @@ To view the tutorials either press `F5` while playing the main game or delete `K
 
 - Translate Free-H Tutorial
 - Translate H-Scenes Tutorial
-- Translate Talking to the Girl Tutorial
+- <s>Translate Talking to the Girl Tutorial</s> Taken by xmex
 - Translate Talking with Hikari Tutorial
 - Translate Oil Minigame Tutorial
 
