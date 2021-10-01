@@ -4,6 +4,16 @@ English translation project for Koikatsu Sunshine
 
 The translations are applied while the game is running and do not require replacing or modifying any game files.
 
+## Contents
+
+ * [Prerequisites](#prerequisites)
+ * [Installation](#installation)
+ * [Contribution](#contribution)
+ * [Text Translations](#text-translations)
+ * [Resource Translations](#resource-translations)
+ * [Tools](#tools)
+ * [Status](#status)
+
 ## Prerequisites
 
 - [BepInEx 5.4.x+](https://github.com/BepInEx/BepInEx/releases/)
@@ -274,18 +284,38 @@ Some prefixes can be combined with numbers, which limit them to matching specifi
 | `etcetra/list/nickname`                | `SPECIAL:`   |                                                                   |
 | `list/random_name`                     | `NAME[x]:`   | `x` is the column (1-2 surname, 3-4 female given, 5-6 male given) |
 
-
-
-
 ## Tools
 
 [//]: # "- [TranslationSync](https://github.com/IllusionMods/TranslationTools#translationsync) is a plugin for formatting and copy/pasting translations between files when there are duplicate entries."
-- [Release Tool](https://github.com/SpockBauru/TranslationTools_Illusion#releasetool) - Tool that cleans up the translation files to remove any unnecessary untranslated parts (in this repo).
+- [Release Tool](https://github.com/SpockBauru/TranslationTools_Illusion#releasetool) - Tool that cleans up the translation files to remove any unnecessary untranslated parts.
 - [Yomichan](https://foosoft.net/projects/yomichan/) - This browser plugin allows you to see the definition of Japanese words by putting your mouse over them in the browser and pressing shift.
 - Dictionaries:
   - https://jisho.org/
   - http://www.romajidesu.com/
 
+
 ## Status
 
-Right now the project is at a fast pace and things are constantly changing. Coordinate with other translators on the [Koikatsu Discord](https://discord.gg/urDt8CK) #lingual-studies channel. To avoid translation conflicts please ask if anyone is working on a file. If you have any questions about the quality of your translations, ask for advice on the server.
+Right now 37% of the game is translated and we are prioritizing the UI and game items. The project is evolving at a fast pace and things are constantly changing, so coordinate with other translators in the [Koikatsu Discord](https://discord.gg/urDt8CK) #lingual-studies channel. To avoid translation conflicts please take a look in the To Do list on #whiteboard channel and ask if anyone is working on a file in #lingual-studies channel. If you have any questions about the quality of your translations, ask for advice on the server.
+
+### To Do List
+
+#### Translate Tutorials
+
+To view the tutorials either press `F5` while playing the main game or delete `KoikatsuSunshine\UserData\save\Global.dat` to make the tutorials appear again (make a backup before!)
+
+- Translate Free-H Tutorial
+- Translate H-Scenes Tutorial
+- <s>Translate Talking to the Girl Tutorial</s> Taken by xmex
+- Translate Talking with Hikari Tutorial
+- Translate Oil Minigame Tutorial
+
+#### Translate the `RedirectedResources` folder
+
+See the readme above on how to handle the MachineTranslations. The goal is to manually translate everything in the files `translation.txt` and clear all `zz_MachineTranslation.txt` files.
+
+- <s>Check Nicknames in `RedirectedResources\assets\abdata\etcetra\list\nickname\00`</s> Taken by Dark Pulse 
+- Translate Studio Animation Categories in `RedirectedResources\assets\abdata\studio\info\01\animecategory_**_**\` (medium, 5 files)
+- Translate Studio Animations in `RedirectedResources\assets\abdata\studio\info\**\anime_**_**_**\` (long, 15 files)
+- Translate Studio Item Categories in `RedirectedResources\assets\abdata\studio\info\**\itemcategory_**_**\` (long, 9 files)
+- Translate Studio Items in `RedirectedResources\assets\abdata\studio\info\01\itemlist_**_**_***\` (very long, 16 files)
