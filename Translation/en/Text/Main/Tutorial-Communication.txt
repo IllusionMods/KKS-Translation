@@ -51,7 +51,7 @@ spacing to align with above text
 「好感度ゲージ」=Affection bar
 現在の好感度を表すゲージです。最大までたまると関係が１段階進展します。=A bar representing her affection for you. Fill it up to advance to the next stage.
 「会話時間」=Conversation time meter
-会話ができる残り時間を表すゲージです。\nゲージがなくなるとコミュニケーションが終了します。\n時間帯が変わると回復します。=A meter showing how much time you've left to talk to her.\nConversations end immediately when the meter is emtpy.\nRecovers when the time period changes.
+会話ができる残り時間を表すゲージです。\nゲージがなくなるとコミュニケーションが終了します。\n時間帯が変わると回復します。=A meter showing how much time you've left to talk.\nConversations end when the meter is emtpy.\nRecovers when the time period changes.
 「Ｈゲージ」=Horny bar
 女の子のＨしたい欲求です。高いほどＨの誘いが成功しやすくなります。=A bar representing her horniness. The higher it is, the easier it is to ask her for H.
 コイカツポイント=Koikatsu Point
