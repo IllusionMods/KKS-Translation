@@ -4,14 +4,14 @@
 ◆ゲームの流れ=◆ Game flow
 島を移動、探索しよう=Move around and explore the island
 女の子に話しかけよう=Talk to girls
-仲良くなったら・・・=Advance your relationships to...
+仲良くなったら・・・=Advance your relationships to have
 簡単操作=Controls
 <size%3D48>　　　　</size> で\n　自由<size%3D30>に</size>移動！=\nMove freely!
 　　　　話しかけて= Talk and
 \n<size%3D48>仲良くなろう！</size>=\nBecome friends!
-一緒に=Do things
-\n　<size%3D48> 行動！</size>=\n together!
-デート！=Date!
+一緒に=Joint
+\n　<size%3D48> 行動！</size>=\n activities!
+デート！=Dates!
 そして=And
 ◆マップ画面：様々な場所で過ごしている女の子たちを探して話しかけてみましょう=◆ Map: Find and talk to girls who are in various places around the island
 ●移動操作=● Movement controls
@@ -37,7 +37,7 @@
 「ショップ」= Shop
 コイカツポイントを消費して商品を購入したり、\n集めた話題を別の話題に交換できます。\nまた、プレイヤーの滞在先もここで変更できます。=You can spend Koikatsu points to buy items, or\nexchange collected topics for a new one.\nYou can also change the player's lodging here.
 「特殊デート」= Special date
-一緒に行動中の恋人の好感度が「愛の絆」の時\nに出現する、特別なデートスポットです。=A special date spot that only appears when you\nhave a lover's bond with the girl following you.
+一緒に行動中の恋人の好感度が「愛の絆」の時\nに出現する、特別なデートスポットです。=A special date spot that only appears when you\nhave a “true love” with the girl following you.
 「お祈り」= Shrine
 コイカツポイントを消費して一日に一度\nお祈りをすることができます。=You can pray once a day, consuming\nKoikatsu points in the process.
 「エステ」= Salon
