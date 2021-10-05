@@ -42,7 +42,7 @@ spacing to align with above text
 //these two lines can never be aligned properly holy fuck
 ※☆３以上は１度だけ！=※ ☆ 3 or more topics\ncan only be used once!
 ※同カテゴリーの\n   話題でも可 !!=\n\n※ You use the same topic to reply!
-より好感度を上げよう！=To raise more affection!
+より好感度を上げよう！=To gain more affection!
 ◆ステータスゲージ：女の子の現在の状態や関係を確認できます。=◆ Status bar: Display info on your relationship + the girl's current state.
 「関係性」=Relationship
 現在の関係性です。=Shows your current relationship.
