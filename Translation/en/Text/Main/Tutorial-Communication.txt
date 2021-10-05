@@ -55,7 +55,8 @@ spacing to align with above text
 「Ｈゲージ」=Horny bar
 女の子のＨしたい欲求です。高いほどＨの誘いが成功しやすくなります。=A bar representing her horniness. The higher it is, the easier it is to ask her for H.
 コイカツポイント=Koikatsu Point
-女の子とのコミュニケーションや、一緒に行動することで「コイカツポイント」が獲得できます。\nコイカツポイントはショップにて商品と交換することができます。=Koikatsu Point can be acquired by talking with girls and doing joint activities.\nKoikatsu Point can be exchanged for goods at the shop.
+女の子とのコミュニケーションや、一緒に行動することで「コイカツポイント」が獲得できます。\nコイカツポイントはショップにて商品と交換することができます。=Koikatsu Points can be acquired by talking with girls and doing joint activities.\nKoikatsu Points can be exchanged for goods at the shop.
+
 ◆Ｈをするには=◆ How to H
 「エッチしたい」=  Ask for Sex
 関係<size%3D30>を</size>深めると=Once you're close enough
