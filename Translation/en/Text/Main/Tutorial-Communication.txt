@@ -65,5 +65,5 @@ spacing to align with above text
 「自室に誘う」=  Invite to Room
 滞在中<size%3D30>の</size>自室<size%3D30>に</size>= 
 //ignore with white space
-女の子<size%3D36>を</size>\n連れ込めます=You can bring a girl to your lodging Room!
+女の子<size%3D36>を</size>\n連れ込めます=You can invite a girl to your room!
 #unset level -1024
