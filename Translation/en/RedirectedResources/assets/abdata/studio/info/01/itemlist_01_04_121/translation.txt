@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//大きなチーズ=
-//お肉=
-//盛り付け肉=
+大きなチーズ=Big cheese
+お肉=Meat
+盛り付け肉=Serving meat
