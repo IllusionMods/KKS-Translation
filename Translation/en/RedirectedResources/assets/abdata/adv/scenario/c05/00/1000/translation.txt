@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ここでカップルドリンクを飲めるんだって。頼んでみようよ」=“Sharing this drink as a couple here... what do you think?”
+「ここでカップルドリンクを飲めるんだって。頼んでみようよ」=“Looks like you can order a couple drink here. Let's try it out.”
 「美味しいね。トロピカルな味がするよ」=“It's delicious. It has a tropical flavor.”
 「うん、そうだね。でも……」=“Yeah, you're right. But...”
 「どうかしたの？」=“Something wrong?”
 「ちょっとだけ照れくさいなって思ったの」=“I was just thinking this is a little embarrassing.”
-「今も“かれら”に見られてるかもしれないから……」=“Because... even now, they may be observing me...”
+「今も“かれら”に見られてるかもしれないから……」=“Because... even now, “they” may be observing me...”
 「なるほど。そういうことか」=“I see. So that's what it is.”
 「何も恥ずかしがることはないさ。俺達は恋人同士なんだから、もっと堂々としていればいいんだ」=“There's nothing to be embarrassed about. Since we're lovers, we should make this a grand gesture to them.”
 「それとも[H名]は、俺とイチャイチャするのは嫌い？」=“Or do you not like flirting with me?”
-「ううん、そんなことないよ。[P名]くんと一緒にいるの楽しいから」=“Yeeeah... that's not it. It's so fun to be with you.”
+「ううん、そんなことないよ。[P名]くんと一緒にいるの楽しいから」=“Nuh uh, never. It's so fun to be with you.”
 「よかった。それならこの時間を楽しもうよ」=“That's great. Then let's enjoy this time together.”
 「そうだね。[P名]くんの言う通りかも。今を楽しまないと、もったいないよね」=“I agree. It's perhaps as you say. It'd be a shame not to enjoy this.”
-「いつか、帰らないといけないんだから……」=“We have to return home someday...”
+「いつか、帰らないといけないんだから……」=“Because I have to leave this place one day...”
 「そんな寂しいこと言わないでよ。俺はいつまでも[H名]と一緒にいたいな」=“Don't say something so melancholy. I want to be with you, forever.”
 「えへへ。わたしもだよ」=“Ehehe. Me, too.”
-「その日が来るまで……ううん、その日が来た後も[P名]くんのそばにいたい……」=“So, until that day comes... yeah. I want to be close to you, even after that day arrives...”
+「その日が来るまで……ううん、その日が来た後も[P名]くんのそばにいたい……」=“So, until that day comes...no, I want to be with you, even after that day arrives...”
