@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「いろいろな種類の魚が泳いでるね」="There's a bunch of different kinds of fish swimming in here."
-「あっ！　見て見て、大きなクラゲが泳いでる」="Ah! Look, look... there's a big jellyfish swimming around."
-「ゆっくりと上下に揺れながら挨拶してる。わぁ、かわいい♪」="He's greeting us by slowly swimming up and down. Hey, he's so cute♪"
+「いろいろな種類の魚が泳いでるね」=“There's a bunch of different kinds of fish swimming in here.”
+「あっ！　見て見て、大きなクラゲが泳いでる」=“Ah! Look, look... there's a big jellyfish swimming around.”
+「ゆっくりと上下に揺れながら挨拶してる。わぁ、かわいい♪」=“He's greeting us by slowly swimming up and down. Hey, he's so cute♪“
 （上機嫌だ。海の生物を気に入ったみたいだな）=(She's in a good mood. She seems to like sea creatures.)
-「クラゲって不思議だよね。泳ぐ姿を眺めてるだけで癒やされちゃう」="Jellyfish are strange, aren't they? It's soothing by just watching them swim."
-「まるで宇宙を泳いでるみたいだよね」="It's like swimming in space."
-「うんうん。そうなんだよ～。さすがわかってるね」="Yeah, yeah. That's right~ You understand."
-「いいなぁ。わたしもクラゲになりたい。それで宇宙を自由に泳ぎ回るの」=I like them. I want to be a jellyfish, too, so I can freely swim around the cosmos."
-「クラゲになれば、“かれら”とも交信しやすくなるからね」="If you became a jellyfish, I'd be easier to communicate with "them".
-「手が複数あれば、ボディランゲージで意思疎通できるから？」="If you had multiple hands, you could really communicate with body language, couldn't you?"
-「ううん、違うよ。クラゲは電波で交信してるの。だから、人よりクラゲの方が“かれら”と繋がりやすくなるんだよ」="Yeah, but no. Jellyfish communicate by radio waves. That's why jellyfish are easier to connect with "them" than people."
-「ええっ！？　それって本当の話？」="Ehh!? Is that really true?"
-「そうだ！　今からテレパシーの練習をしよっか。わたしが何を考えてるか当ててみて？」="It is! Let's practice our telepathy from now on. Can you guess what I'm thinking?"
-「急にそんなことを言われても……」="Asking that so suddenly..."
-「ほら、いいから早く早く」="Hey, it's okay, I'm really excited about this, go ahead!"
-「えっと……俺のことが好き、とか？」="Er, um... you love me?"
-「わぁ、すごい！　大正解っ♪」="Whoa, amazing! Masterful answer♪"
-「やっぱり[P名]くんは、わたしが見込んだ通りの人だよ。いつか一緒にクラゲになろうね♪」="You're just like I expected, after all. Let's become jellyfish together someday♪"
-「クラゲかぁ。できれば別の生き物でお願いします……」="Jellyfish? Could we maybe be another creature..."
+「クラゲって不思議だよね。泳ぐ姿を眺めてるだけで癒やされちゃう」=“Jellyfish are strange, aren't they? It's soothing by just watching them swim.”
+「まるで宇宙を泳いでるみたいだよね」=“It's like swimming in space.”
+「うんうん。そうなんだよ～。さすがわかってるね」=“Yeah, yeah. That's right~ You understand well.”
+「いいなぁ。わたしもクラゲになりたい。それで宇宙を自由に泳ぎ回るの」=I like them. I want to be a jellyfish, too, so I can freely swim around the cosmos.”
+「クラゲになれば、“かれら”とも交信しやすくなるからね」=“Because, if you become a jellyfish, it'd be easier to communicate with “them”.”
+「手が複数あれば、ボディランゲージで意思疎通できるから？」=“Because you can communicate with body language easier if you had more hands?”
+「ううん、違うよ。クラゲは電波で交信してるの。だから、人よりクラゲの方が“かれら”と繋がりやすくなるんだよ」=“No, not really. Jellyfish communicate by radio waves. That's why jellyfish are easier to connect with “them” than people.”
+「ええっ！？　それって本当の話？」=“Ehh!? Is that really true?”
+「そうだ！　今からテレパシーの練習をしよっか。わたしが何を考えてるか当ててみて？」=“It is! Actually, let's practice our telepathy now. Can you guess what I'm thinking?”
+「急にそんなことを言われても……」=“That's so sudden, I uh...”
+「ほら、いいから早く早く」=“Cmon, hurry hurry say it!”
+「えっと……俺のことが好き、とか？」=“Er, um... you love me?”
+「わぁ、すごい！　大正解っ♪」=“Whoa, amazing! Super correct♪”
+「やっぱり[P名]くんは、わたしが見込んだ通りの人だよ。いつか一緒にクラゲになろうね♪」=“You're exactly the person I'd hoped for. Let's become jellyfish together someday♪”
+「クラゲかぁ。できれば別の生き物でお願いします……」=“Jellyfish huh? Could we maybe be another creature...”
