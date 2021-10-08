@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「この鐘から不思議なパワーを感じる……」="I feel a mysterious power from this bell..."
-「よくわかったね。ここは恋人の聖地なんだ」="I truly understand. This is a lover's sanctuary."
-「この『ウムイの鐘』を鳴らした二人は、いつか必ず結ばれると言われているんだよ」="It's said that when two people ring the "Umui Bell", they will be connected someday."
-「へぇ～、ここがウムイの鐘だったんだ」="Ehe~ And this an Umui Bell here."
-「うん……断言するよ。この場所は“ホンモノ”」="Yeah... I can confirm that this place is "real"."
-「え？　そうなの！？」="Eh? Is that so?"
-「多くの想いが集う場所には、強いパワーが宿るから」="There is strong power in places where many thoughts gather."
-「ねえ……[P名]くんもわたしと契約してくれる……？」="Hey... will you make a compact with me...?"
-「契約？」="A compact?"
-「うん。ずっとそばにいるって契約」="Yeah. A compact to stay by my side, forever."
-「わたし、“かれら”と契約してるの。だから遠く離れていても寂しくない」="You have a compact with "them."  So you're never lonely, even though they're far away."
-「[P名]くんとも繋がっていたいの。だから……」="I want to connect with you. That's why..."
-「わかった。そういうことなら一緒に鐘を鳴らそうか」="I understand. If that's the case, then let's ring the bell together."
-「うん……」="Yeah..."
-「それじゃあいくよ。せ～の……」=Well then... on your marks..."
-「ふふっ。これで契約完了だね。これからもずっと、わたしのそばにいてね」="Fufu. This completes the compact. Stay by my side forever."
-「ああ。何があっても離さないよ。そういう契約だもんね」="Ahh. I'll keep you, no matter what. That's what the compact's about."
-「うん！　えへへ。だ～い好きっ♪」="Yeah! Ehehe. I love you~♪"
+「この鐘から不思議なパワーを感じる……」=“I can feel a mysterious power coming from this bell...”
+「よくわかったね。ここは恋人の聖地なんだ」=“Good instincts. This is a lover's sanctuary.”
+「この『ウムイの鐘』を鳴らした二人は、いつか必ず結ばれると言われているんだよ」=“It's said that when two people ring the “Umui Bell”, they will fall in love and be forever together.”
+「へぇ～、ここがウムイの鐘だったんだ」=“Huh, so this is the Umui Bell here.”
+「うん……断言するよ。この場所は“ホンモノ”」=“Yeah... I can say without a doubt that this place is “real”.”
+「え？　そうなの！？」=“Eh? Is that so?”
+「多くの想いが集う場所には、強いパワーが宿るから」=“There is strong power in places where many thoughts gather.”
+「ねえ……[P名]くんもわたしと契約してくれる……？」=“Hey... will you make a pact with me...?”
+「契約？」=“A pact?”
+「うん。ずっとそばにいるって契約」=“Yeah. A pact to stay by my side, forever.”
+「わたし、“かれら”と契約してるの。だから遠く離れていても寂しくない」=“I have a pact with “them”.”  That's why I never feel lonely even though “they” are far away.”
+「[P名]くんとも繋がっていたいの。だから……」=“I want to connect with you. That's why...”
+「わかった。そういうことなら一緒に鐘を鳴らそうか」=“I understand. If that's the case, then let's ring the bell together.”
+「うん……」=“Yeah...”
+「それじゃあいくよ。せ～の……」=Well then... on your marks...”
+「ふふっ。これで契約完了だね。これからもずっと、わたしのそばにいてね」=“Fufu. This completes the pact. Stay by my side forever.”
+「ああ。何があっても離さないよ。そういう契約だもんね」=“Ahh. I'll keep you, no matter what. That's what the pact's about, after all.”
+「うん！　えへへ。だ～い好きっ♪」=“Yeah! Ehehe. I love you~♪”
