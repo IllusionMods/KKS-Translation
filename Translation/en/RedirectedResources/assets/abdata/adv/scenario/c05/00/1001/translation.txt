@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「涼しそうな場所だね。ゆっくりしていこうよ」="This is a refreshing spot. Let's take our time."
-「風が気持ちいいね……」="The wind feels good..."
-「そうだね。まったりしちゃうよね」="You're right. It's relaxing."
-「ねえ……[P名]くんは風が吹く理由を知ってる？」="Hey... do you know why the wind blows?"
-「え？　え～っと、気圧がどうとか……」="Eh? Err, um, it's something about the atmospheric pressure..."
-「そういうんじゃなくて、もっと“深い”お話だよ」="No, not that... it's "deeper" than that."
-「風はね、星の呼吸……命の息吹なの」="The splash of the winds, the breathing of the stars... it's the very breath of life."
-「命の息吹？」="The breath of life?"
-「そうだよ。風が種を運ぶことで、緑豊かな自然が大地に広がるの」="That's right. The wind carries the seeds... lush nature spreads over the world."
-「緑なくして生き物の繁栄はありえない。だから、星が風を吹かせて命を育んでいるの」="Creatures cannot prosper without the greenery. That's why the stars blow the wind, and nurture life."
-「なるほど。それで息吹……か」="So that's it. So it's breath... perhaps."
-「なら、いま吹いてるこの風も何かの種を運んでいるの？」="Well then, is the wind blowing now carrying some seeds?"
-「いま吹いてる風は……恋の種を運んでいるんだよ」="The wind that's blowing now... is carrying the seeds of love."
-「恋の種？」="Seeds of love?"
-「うん。風に誘われたから、わたしと[P名]くんはこうして一緒に座ってるの」="Yeah. It's because of the wind's invitation that you and I are sitting together like this."
-「あはは。お節介な風に背中を押されたってわけか」="Ahaha. So I guess the wind is pressing against my back."
-「そうだね。でも、優しい風だと思う」="You're right. But I think it's a gentle breeze." 
-「ねえ……もう少しここにいない？　この場所、静かで落ち着くの」="Hey... want to say here a little longer? It's so calm and quiet here."
-「[P名]くんとの二人だけの時間、もっと堪能したい……」="I want to enjoy more time with you..."
-「わかった。せっかくのご厚意だ。もうしばらく休憩していこう」="I understand. Thank you for being so kind. Let's just relax here for a while."
+「涼しそうな場所だね。ゆっくりしていこうよ」=“This is a refreshing spot. Let's take our time.”
+「風が気持ちいいね……」=“The wind feels good...”
+「そうだね。まったりしちゃうよね」=“You're right. It's relaxing.”
+「ねえ……[P名]くんは風が吹く理由を知ってる？」=“Hey... do you know why the wind blows?”
+「え？　え～っと、気圧がどうとか……」=“Eh? Err, um, it's something about the atmospheric pressure...”
+「そういうんじゃなくて、もっと“深い”お話だよ」=“No, not that... it's “deeper“ than that.”
+「風はね、星の呼吸……命の息吹なの」=“The splash of the winds, the breathing of the stars... it's the very breath of life.”
+「命の息吹？」=“The breath of life?”
+「そうだよ。風が種を運ぶことで、緑豊かな自然が大地に広がるの」=“That's right. The wind carries the seeds... lush nature spreads over the world.”
+「緑なくして生き物の繁栄はありえない。だから、星が風を吹かせて命を育んでいるの」=“Creatures cannot prosper without the greenery. That's why the stars blow the wind, and nurture life.”
+「なるほど。それで息吹……か」=“So that's it. So it's breath... perhaps.”
+「なら、いま吹いてるこの風も何かの種を運んでいるの？」=“Well then, is the wind blowing now carrying some seeds?”
+「いま吹いてる風は……恋の種を運んでいるんだよ」=“The wind that's blowing now... is carrying the seeds of love.”
+「恋の種？」=“Seeds of love?”
+「うん。風に誘われたから、わたしと[P名]くんはこうして一緒に座ってるの」=“Yeah. It's because of the wind's invitation that you and I are sitting together like this.”
+「あはは。お節介な風に背中を押されたってわけか」=“Ahaha. So I guess the wind is pressing against my back.”
+「そうだね。でも、優しい風だと思う」=“You're right. But I think it's a gentle breeze.” 
+「ねえ……もう少しここにいない？　この場所、静かで落ち着くの」=“Hey... want to say here a little longer? It's so calm and quiet here.”
+「[P名]くんとの二人だけの時間、もっと堪能したい……」=“I want to enjoy more time with you...”
+「わかった。せっかくのご厚意だ。もうしばらく休憩していこう」=“I understand. Thank you for being so kind. Let's just relax here for a while.”
