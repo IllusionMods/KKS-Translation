@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あのね、“かれら”にも見えるくらい大きな砂の城を作りたいの」=
-//「大きく出来たら、わたしが楽しんでるメッセージになると思うんだ」=
-//「う、うーん……さすがに難しいと思うけど……」=
-//「目標は高く、だよ！」=
-//「そ、そっか。じゃあチャレンジしてみようか」=
+「あのね、“かれら”にも見えるくらい大きな砂の城を作りたいの」=“You know, I'd like to make a sand castle big enough for "them" to see.”
+「大きく出来たら、わたしが楽しんでるメッセージになると思うんだ」=“If I could make it that big, I believe that it would send a message they'd enjoy.”
+「う、うーん……さすがに難しいと思うけど……」=“S-sure... but that might be difficult...”
+「目標は高く、だよ！」=“I have high goals!”
+「そ、そっか。じゃあチャレンジしてみようか」=“I-I see. Well, let's give it a shot.”
