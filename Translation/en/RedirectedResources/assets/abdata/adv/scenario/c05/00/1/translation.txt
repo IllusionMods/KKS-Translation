@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「す、好きって……告白、だよね？　わたしに……？」=
-//「うん……好きなんだ。付き合って欲しいんだけど、ダメかな？」=
-//「ううん！　わたしも、あなたのことが好きなの！」=
-//「えへへ……なんだか夢みたい。すっごく幸せだなぁ」=
+「す、好きって……告白、だよね？　わたしに……？」=“You love me... you're confessing, right? To me...?”
+「うん……好きなんだ。付き合って欲しいんだけど、ダメかな？」=“Yeah. I love you. I want you to go out with me... or is that no good?”
+「ううん！　わたしも、あなたのことが好きなの！」=“Yeah! I love you too!”
+「えへへ……なんだか夢みたい。すっごく幸せだなぁ」=“Ehehe... it's like I'm dreaming. I'm so happy.”
