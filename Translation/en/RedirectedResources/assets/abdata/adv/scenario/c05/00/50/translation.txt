@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「変わった名前が多いから、いまだに料理名を覚えられないの……」=
-//「『クーブイリチー』ってどんな食べ物だっけ？」=
-//「たしか、昆布と豚肉の炒め物だったかな。一応、少しは勉強したんだ」=
-//「おお、さすが。じゃあ、これはなに？」=
-//「どれどれ……って、先に注文を決めないと。待たせちゃってるよ」=
+「変わった名前が多いから、いまだに料理名を覚えられないの……」=“I still can't keep track of the names of the dishes... they have so many strange names...”
+「『クーブイリチー』ってどんな食べ物だっけ？」=“What kind of food is "Kubu Irichi"?”
+「たしか、昆布と豚肉の炒め物だったかな。一応、少しは勉強したんだ」=“I think it's fried pork and kelp.”
+「おお、さすが。じゃあ、これはなに？」=“Oooh, that's great. Then what's this?”
+「どれどれ……って、先に注文を決めないと。待たせちゃってるよ」=“Let's see... huh, we need to decide what to order, first. I'm keeping you waiting.”
