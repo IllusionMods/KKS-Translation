@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えへへ……ここには、あなたのエネルギーが満ちてるね」=
-//「うん？　そんな目をして、どうかしたの？」=
-//「あ……えっち、したいんだ。そっか……じゃあ、しよう？　二人で気持ち良くなろうね」=
+「えへへ……ここには、あなたのエネルギーが満ちてるね」=“Ehehe... I'm filled with your energy.”
+「うん？　そんな目をして、どうかしたの？」=“Oh yeah? What's up with the way you're looking at me?”
+「あ……えっち、したいんだ。そっか……じゃあ、しよう？　二人で気持ち良くなろうね」=“Ah... er, I want you. Um, so, wanna do it? Let's feel good together.”
