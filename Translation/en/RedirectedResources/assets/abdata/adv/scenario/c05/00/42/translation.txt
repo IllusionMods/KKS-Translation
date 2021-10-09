@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どの柄にするか決めた？」=
-//「星や宇宙の柄がなかったから、この波と魚にしたよ」=
-//「綺麗だけど、難易度は高そうな感じだね。俺はシンプルな花にしたよ」=
-//「……私もそっちにしようかな。簡単そう」=
-//「あはは……俺とお揃いでいいなら、どうぞ」=
+「どの柄にするか決めた？」=“Decided which pattern to use yet?”
+「星や宇宙の柄がなかったから、この波と魚にしたよ」=“There's no stars or cosmic patterns, so I chose waves and fish.”
+「綺麗だけど、難易度は高そうな感じだね。俺はシンプルな花にしたよ」=“Pretty, but that seems hard. I went with a simple flower.”
+「……私もそっちにしようかな。簡単そう」=“...I guess I should do that, too. It looks easy.”
+「あはは……俺とお揃いでいいなら、どうぞ」=“Ahaha... if you want to copy me, go ahead.”
