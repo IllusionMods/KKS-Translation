@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あんなに難しいなんて……やっぱり柄を変えて正解だった。それじゃあ、またね」=
+「あんなに難しいなんて……やっぱり柄を変えて正解だった。それじゃあ、またね」=“That was so hard... it was a good thing I changed the pattern, after all. Well, see you around, then.”
