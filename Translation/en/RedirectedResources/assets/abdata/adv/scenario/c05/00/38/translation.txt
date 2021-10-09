@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ダイビングか……」=
-//「興味があるの？」=
-//「うん、深海と宇宙はとても近しい存在だから」=
-//「えっと……ダイビングってそこまで深くは潜らないよ？」=
-//「知ってるよ。でも、少しは力を感じることが出来るかなって思ってるの」=
-//「そっか、じゃあやってみようか」=
+「ダイビングか……」=“Are we going diving?”
+「興味があるの？」=“You interested?”
+「うん、深海と宇宙はとても近しい存在だから」=“Yeah, because the deep ocean and the cosmos are very similar.”
+「えっと……ダイビングってそこまで深くは潜らないよ？」=“Er, um... we're not going to dive all that deep, you understand?”
+「知ってるよ。でも、少しは力を感じることが出来るかなって思ってるの」=“I know. But I'm still wondering if I can feel a little of its power.”
+「そっか、じゃあやってみようか」=“I see. Let's give it a try.”
