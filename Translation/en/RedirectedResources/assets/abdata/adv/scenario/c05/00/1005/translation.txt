@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//係員さん=
-//「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=
-//「フォークダンスが始まるみたいだ。参加してみようよ」=
-//「ダンス……うん、いいよ」=
-//「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=
-//「どうかな？　上手く踊れてる？」=
-//「上手だよ。……なんて言ってる俺も、そこまで踊れるわけじゃないけどね」=
-//「よかった。ひとまずは安心」=
-//「本当のことを言うとね。わたし、踊ってるわけじゃないんだ」=
-//「え？　どういうこと」=
-//「[P名]くんの動きに合わせたら、自然と体が動いただけなの。自動的にね」=
-//「へぇ～、それはすごいな」=
-//「わたし達、魂の波長が合うのかも」=
-//「俺もそう思うよ。呼吸もピッタリだ」=
-//「えへへ、なんだか調子出てきたよ」=
-//「もうしばらく続ける？」=
-//「うん！　“かれら”を迎える儀式にも踊りは欠かせないからね。もっと練習しないと」=
-//「あはは……。儀式は置いておくとして、練習に付き合う分には問題ないかな」=
-//「じゃあじゃあ、今度は二人きりで踊りの練習しよっ」=
-//「それでいつか、素敵な儀式をしようね。えへへ♪」=
+係員さん=Staff
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We'll be lighting the campfire now, so all participants please form a pair.”
+「フォークダンスが始まるみたいだ。参加してみようよ」=“It seems the folk dancing's about to start. Let's join in“
+「ダンス……うん、いいよ」=“Dancing... sure, that's okay.”
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you paired off? ...then I'll start the music as soon as everyone's ready.”
+「どうかな？　上手く踊れてる？」=“So, how about it? Am I dancing okay?”
+「上手だよ。……なんて言ってる俺も、そこまで踊れるわけじゃないけどね」=“You're great...But to be honest, I'm not really an expert at dancing myself.”
+「よかった。ひとまずは安心」=“That's relief. Looks like I don't have to worry for now.”
+「本当のことを言うとね。わたし、踊ってるわけじゃないんだ」=“To tell you the truth... I'm not really dancing at all.”
+「え？　どういうこと」=“Eh? What do you mean?”
+「[P名]くんの動きに合わせたら、自然と体が動いただけなの。自動的にね」=“My body just moves by itself when I try to match your steps.”
+「へぇ～、それはすごいな」=“Whoa~, that's amazing.”
+「わたし達、魂の波長が合うのかも」=“Maybe our souls are on a matching wavelength.”
+「俺もそう思うよ。呼吸もピッタリだ」=“That's what I think. Our breathing is perfect, too.”
+「えへへ、なんだか調子出てきたよ」=“Ehehe, I think I'm getting the hang of this.”
+「もうしばらく続ける？」=“Want to keep going for a while?”
+「うん！　“かれら”を迎える儀式にも踊りは欠かせないからね。もっと練習しないと」=“Yeah! Dancing is an important step in the ritual to summon “them”. I need to practice more.”
+「あはは……。儀式は置いておくとして、練習に付き合う分には問題ないかな」=“Ahaha... rituals aside, I've got no problem practicing with you.”
+「じゃあじゃあ、今度は二人きりで踊りの練習しよっ」=“Then, then... let's have a practice session with just the two of us next time!”
+「それでいつか、素敵な儀式をしようね。えへへ♪」=“So, we can have a wonderful ritual of our own someday. Ehehe♪“

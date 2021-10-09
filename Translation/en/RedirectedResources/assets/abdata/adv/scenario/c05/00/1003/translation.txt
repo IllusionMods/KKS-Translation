@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお店を見て回ろうよ」=
-//「ねぇねぇ。このＴシャツに書いてある『なんくるないさー』ってどういう意味？」=
-//「えっと……『何とかなるさ』という意味だったような」=
-//「そうなんだ……」=
-//「あれ？　どうして落ち込んでるの？」=
-//「もっと深い意味があるのかなと思って」=
-//「『ナンクルナイサー』っていう言葉の響きから何かを感じない？」=
-//「言われてみるとそうだね。『ナイザー』とか『ゲイザー』という言葉からは、どことなく不思議なパワーを感じるよ」=
-//「むむっ！　ビビッときた！　いますべてが繋がったよ」=
-//「えっ！？　どうしたの急に」=
-//「『なんくるないさー』って『宇宙のパワーで何でも解決！』っていう意味なのかも」=
-//「わたし、このＴシャツ気に入っちゃった♪　おそろいで買おっ」=
-//「あはは……わかったよ」=
+「ちょっとお店を見て回ろうよ」=“Let's have a look around the the shop.”
+「ねぇねぇ。このＴシャツに書いてある『なんくるないさー』ってどういう意味？」=“Hey, hey. What does ‘Nankurunaisaa’ on this T-shirt mean?”
+「えっと……『何とかなるさ』という意味だったような」=“Er, um... I think it's supposed to mean ‘things will work out’ or something.”
+「そうなんだ……」=“I see...”
+「あれ？　どうして落ち込んでるの？」=“Hmm? Why are you sad all of a sudden?”
+「もっと深い意味があるのかなと思って」=“I was wondering if it meant something deeper.”
+「『ナンクルナイサー』っていう言葉の響きから何かを感じない？」=“I mean, don't you feel something mysterious just by saying ‘Nan-Kru-Nizer’ out loud?”
+「言われてみるとそうだね。『ナイザー』とか『ゲイザー』という言葉からは、どことなく不思議なパワーを感じるよ」=“I guess it does now that you mentions it. Words like ‘Nizer’ and ‘Gazer’ do have this esoteric feeling to them.”
+「むむっ！　ビビッときた！　いますべてが繋がったよ」=Oh oh ! Something just came to me! Everything make sense now!”
+「えっ！？　どうしたの急に」=“Eh!? What's this, all of sudden?”
+「『なんくるないさー』って『宇宙のパワーで何でも解決！』っていう意味なのかも」=“‘Nan-Kru-Nizer’ actually means ‘Anything can be solved with cosmo-power!’.” 
+「わたし、このＴシャツ気に入っちゃった♪　おそろいで買おっ」=“I really like this T-shirt now♪ Let's buy a matching pair!”
+「あはは……わかったよ」=“Ahaha... gotcha.”

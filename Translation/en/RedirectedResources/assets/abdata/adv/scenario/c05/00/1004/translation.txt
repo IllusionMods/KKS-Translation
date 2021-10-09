@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少し浜辺を歩こうよ」=
-//「いい風が吹いてるね……」=
-//「海っていいよね。どこまでも果てしなく広がってて……」=
-//「まるで宇宙みたいだよね」=
-//「うんうん！　そうなの。よくわかってるね」=
-//「ねえ、知ってる？　宇宙だけじゃなくて、深いところにも“かれら”は棲んでるんだよ」=
-//「え？　海底に潜んでるってこと？」=
-//「そうだよ。海の底にある大きな神殿で深い眠りについてるの」=
-//「こうして波の音に耳を傾けると、深淵から聞こえてくるんだ。“かれら”の呼び声が」=
-//「うっ……それは怖いかも……」=
-//「大丈夫。心を落ち着かせて、ありのままに受け入れれば平気だよ」=
-//「怖いなら、わたしがついてるから。いつか一緒に挨拶しに行こうね」=
-//「わたしが[P名]くんを好きになったように、“かれら”もあなたのことを気に入ると思うから」=
-//「わかった。そのときはきちんと言うよ。[H名]を大事にしますってね」=
-//「えへへ。照れちゃうなぁ～」=
-//「でも今は、[H名]との生活を満喫したいかな」=
-//「うん。わたしも、もうしばらく[P名]くんと地上にいたい」=
-//「『ここ』でしかできないこと……たくさん経験したいな」=
+「少し浜辺を歩こうよ」=“Let's take a little walk on the beach.”
+「いい風が吹いてるね……」=“There's a nice wind blowing...”
+「海っていいよね。どこまでも果てしなく広がってて……」=“The ocean's nice. It extends so far out, endlessly...”
+「まるで宇宙みたいだよね」=“It's like space.”
+「うんうん！　そうなの。よくわかってるね」=“Yeah, yeah! That's right. You truly understand.”
+「ねえ、知ってる？　宇宙だけじゃなくて、深いところにも“かれら”は棲んでるんだよ」=“Hey, did you know? Not just space, ‘they’ exist in the deep too.”
+「え？　海底に潜んでるってこと？」=“Eh? You mean they're lurking on the seabed?”
+「そうだよ。海の底にある大きな神殿で深い眠りについてるの」=“Correct. They're in a deep sleep, in a huge temple at the bottom of the sea.”
+「こうして波の音に耳を傾けると、深淵から聞こえてくるんだ。“かれら”の呼び声が」=“When you listen to the sounds of the waves, you can hear them from the abyss.”
+「うっ……それは怖いかも……」=“Uhhh... that's... scary...”
+「大丈夫。心を落ち着かせて、ありのままに受け入れれば平気だよ」=“It's alright. Everything will be fine, if you just relax your mind and accept things as they are.”
+「怖いなら、わたしがついてるから。いつか一緒に挨拶しに行こうね」=“If you're scared, I'll be with you. Let's greet them together, someday.”
+「わたしが[P名]くんを好きになったように、“かれら”もあなたのことを気に入ると思うから」=“Like how I came to love you, I believe “they” will love you, too.”
+「わかった。そのときはきちんと言うよ。[H名]を大事にしますってね」=“I understand. When that time comes, I'll make sure to say it properly, that I'll treasure you forever.”
+「えへへ。照れちゃうなぁ～」=“Ehehe. You're making me embarrassed~”
+「でも今は、[H名]との生活を満喫したいかな」=“But, for now, I guess I just want to enjoy life with you.”
+「うん。わたしも、もうしばらく[P名]くんと地上にいたい」=“Yeah. I'd like to stay on the surface with you now.”
+「『ここ』でしかできないこと……たくさん経験したいな」=“The things that we can only do “here”... I want to experience them all.”
