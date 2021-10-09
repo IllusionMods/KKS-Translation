@@ -6,7 +6,7 @@
 「海っていいよね。どこまでも果てしなく広がってて……」=“The ocean's nice. It extends so far out, endlessly...”
 「まるで宇宙みたいだよね」=“It's like space.”
 「うんうん！　そうなの。よくわかってるね」=“Yeah, yeah! That's right. You truly understand.”
-「ねえ、知ってる？　宇宙だけじゃなくて、深いところにも“かれら”は棲んでるんだよ」=“Hey, did you know? Not just space, “they” exist in the deep too.”
+「ねえ、知ってる？　宇宙だけじゃなくて、深いところにも“かれら”は棲んでるんだよ」=“Hey, did you know? Not just space, ‘they’ exist in the deep too.”
 「え？　海底に潜んでるってこと？」=“Eh? You mean they're lurking on the seabed?”
 「そうだよ。海の底にある大きな神殿で深い眠りについてるの」=“Correct. They're in a deep sleep, in a huge temple at the bottom of the sea.”
 「こうして波の音に耳を傾けると、深淵から聞こえてくるんだ。“かれら”の呼び声が」=“When you listen to the sounds of the waves, you can hear them from the abyss.”

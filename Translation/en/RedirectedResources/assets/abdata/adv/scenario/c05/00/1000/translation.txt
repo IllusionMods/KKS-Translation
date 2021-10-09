@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ここでカップルドリンクを飲めるんだって。頼んでみようよ」=“Looks like you can order a couple drink here. Let's try it out.”
+「ここでカップルドリンクを飲めるんだって。頼んでみようよ」=“Looks like you can order a couple's drink here. Let's try it out.”
 「美味しいね。トロピカルな味がするよ」=“It's delicious. It has a tropical flavor.”
 「うん、そうだね。でも……」=“Yeah, you're right. But...”
 「どうかしたの？」=“Something wrong?”
 「ちょっとだけ照れくさいなって思ったの」=“I was just thinking this is a little embarrassing.”
-「今も“かれら”に見られてるかもしれないから……」=“Because... even now, “they” may be observing me...”
+「今も“かれら”に見られてるかもしれないから……」=“Because... even now, ‘they’ may be observing me...”
 「なるほど。そういうことか」=“I see. So that's what it is.”
 「何も恥ずかしがることはないさ。俺達は恋人同士なんだから、もっと堂々としていればいいんだ」=“There's nothing to be embarrassed about. Since we're lovers, we should make this a grand gesture to them.”
 「それとも[H名]は、俺とイチャイチャするのは嫌い？」=“Or do you not like flirting with me?”

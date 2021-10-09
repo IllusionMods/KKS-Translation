@@ -3,7 +3,7 @@
 //
 「この鐘から不思議なパワーを感じる……」=“I can feel a mysterious power coming from this bell...”
 「よくわかったね。ここは恋人の聖地なんだ」=“Good instincts. This is a lover's sanctuary.”
-「この『ウムイの鐘』を鳴らした二人は、いつか必ず結ばれると言われているんだよ」=“It's said that when two people ring the “Umui Bell”, they will fall in love and be forever together.”
+「この『ウムイの鐘』を鳴らした二人は、いつか必ず結ばれると言われているんだよ」=“It's said that when two people ring ‘The Umui Bell’, they will fall in love and be forever together.”
 「へぇ～、ここがウムイの鐘だったんだ」=“Huh, so this is the Umui Bell here.”
 「うん……断言するよ。この場所は“ホンモノ”」=“Yeah... I can say without a doubt that this place is “real”.”
 「え？　そうなの！？」=“Eh? Is that so?”
@@ -11,7 +11,7 @@
 「ねえ……[P名]くんもわたしと契約してくれる……？」=“Hey... will you make a pact with me...?”
 「契約？」=“A pact?”
 「うん。ずっとそばにいるって契約」=“Yeah. A pact to stay by my side, forever.”
-「わたし、“かれら”と契約してるの。だから遠く離れていても寂しくない」=“I have a pact with “them”.”  That's why I never feel lonely even though “they” are far away.”
+「わたし、“かれら”と契約してるの。だから遠く離れていても寂しくない」=“I have a pact with ‘them’.  That's why I never feel lonely even though ‘they’ are far away.”
 「[P名]くんとも繋がっていたいの。だから……」=“I want to connect with you. That's why...”
 「わかった。そういうことなら一緒に鐘を鳴らそうか」=“I understand. If that's the case, then let's ring the bell together.”
 「うん……」=“Yeah...”

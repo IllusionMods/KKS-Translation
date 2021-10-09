@@ -6,12 +6,12 @@
 「やるからには全力でいくよ。いざ勝負！」=“I'll do my very best. Time to play!”
 「やったぁ。勝った～っ！」=“I did it. I won~!”
 「ぜぇぜぇ……ま、負けた……。まさか１点も取れないなんて」=“Yeah, yeah... well, I lost. I don't think I even scored a point.”
-「俺が打つ球、どうしてすべて打ち返せたの？」=“How did you hit back all of my serves?”
+「俺が打つ球、どうしてすべて打ち返せたの？」=“How did you return all of my serves?”
 「[P名]くんの目を見ていたらなんとなくね」=“Well, I kinda knew where to hit by lookin at your eyes.”
 「あとは“かれら”の助言かな？」=“Plus I was being advised too, you know?”
 「助言？」=“Advised?”
-「うん！　“かれら”の声に従ってラケットを振ったら、ぜんぶの球を打ち返せたんだよ」=“Yeah! If I swing the paddle when “they” tell me to, I can hit all the balls back!”
+「うん！　“かれら”の声に従ってラケットを振ったら、ぜんぶの球を打ち返せたんだよ」=“Yeah! If I swing the paddle when ‘they’ tell me to, I can hit all the balls back!”
 「くそ～！　１対１じゃなかったわけか」=Shit~! So we're not playing one-on-one!”
-「えへへ、ごめんね。今度は“かれら”の助言なしで勝負しよっ」=Ehehe. Sorry. Let's play again, without “their” advice.”
+「えへへ、ごめんね。今度は“かれら”の助言なしで勝負しよっ」=Ehehe. Sorry. Let's play again, without ‘their’ advice.”
 「よ～し。次こそ負けないぞ～」=“Right. I'm not gonna lose this time.”
 「ふふっ。お手柔らかにね」=“Fufu. Go easy on me.”
