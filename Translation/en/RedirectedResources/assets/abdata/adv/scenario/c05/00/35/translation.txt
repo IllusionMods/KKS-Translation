@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「宇宙の力はないみたいだけど、素敵な場所だったね」=”It seems there's no cosmic power here, but it's still a wonderful spot.“
+「宇宙の力はないみたいだけど、素敵な場所だったね」=“It seems there's no cosmic power here, but it's still a wonderful spot.”
