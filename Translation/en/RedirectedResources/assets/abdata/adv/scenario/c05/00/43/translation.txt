@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うーん……やっぱり楽器を弾くのは難しいね」=
-//「うん……でも、頑張って覚えないと」=
-//「何か理由があるの？　音色が好きとか？」=
-//「昔、宇宙に打ち上げられた探査機には、地球の音がたくさん入ったレコードが積まれてたの」=
-//「私もそれに倣って、“かれら”に同じ様なレコードを届けようと思ってるんだ」=
-//（自分で弾かずに音源を探してくればいいような……？　まあ、張り切ってるみたいだし、いいか）=
+「うーん……やっぱり楽器を弾くのは難しいね」=“Hmmmm... it's difficult to play an instrument, after all.”
+「うん……でも、頑張って覚えないと」=“Yep... but I have to do my best to memorize it.”
+「何か理由があるの？　音色が好きとか？」=“Is there a reason? You like how it sounds?”
+「昔、宇宙に打ち上げられた探査機には、地球の音がたくさん入ったレコードが積まれてたの」=“A long time ago, a spaceship was launched into space, and it held a record album filled with the sounds of the Earth.”
+「私もそれに倣って、“かれら”に同じ様なレコードを届けようと思ってるんだ」=“I'm thinking of following suit, and give ‘them’ a record like that one.”
+（自分で弾かずに音源を探してくればいいような……？　まあ、張り切ってるみたいだし、いいか）=(It's not like she needs to play it herself... she can find someone to do it for her...? Well, she's enthusiastic about it, so I guess it's fine.)
