@@ -306,7 +306,7 @@ To view the tutorials either press `F5` while playing the main game or delete `K
 
 - Translate Free-H Tutorial
 - Translate H-Scenes Tutorial
-- Translate Talking with Hikari Tutorial
+- <s>Translate Talking with Hikari Tutorial</s> Taken by xmex
 - Translate Oil Minigame Tutorial
 
 #### Translate the `RedirectedResources` folder
