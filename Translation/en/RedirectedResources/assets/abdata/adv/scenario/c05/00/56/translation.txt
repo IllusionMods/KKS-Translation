@@ -7,4 +7,4 @@
 「って……え？　え？」=“Huh... eh? Eh?”
 「これ……気持ちいい？」=“Does this... feel good?”
 「えーと、気持ちいいけど……どうして、こんなこと……？」=“Er, um, it feels good... why are you doing this...?”
-「うーん…………"かれら"に言われたから？」=“Yeeeah... because "they" told me to?”
+「うーん…………"かれら"に言われたから？」=“Yeeeah... because ‘they’ told me to?”

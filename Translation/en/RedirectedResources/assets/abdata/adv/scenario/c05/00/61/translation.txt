@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「オイル塗り……ふーん、そんなことが出来るんだ」=“Oiling... mm-hmm, you can do that.”
-「せっかくだし塗っていく？　俺、手伝うよ」=“I'll spread it on you with great care. It'll really help.”
+「オイル塗り……ふーん、そんなことが出来るんだ」=“Oiling... mm-hmm, so you can do that here.”
+「せっかくだし塗っていく？　俺、手伝うよ」=“Why don't you try it out? I'll help put them on.”
 「塗ったら、宇宙を感じられるかな？」=“When you spread it, will I feel the cosmos?”
 「それは……やってみないとわからないけど、気持ちはいいと思うよ」=“Well, uh... I won't know until I try, but I think it'll still feel good.”
 「じゃあ……お願いするね」=“Sure... go ahead, then.”

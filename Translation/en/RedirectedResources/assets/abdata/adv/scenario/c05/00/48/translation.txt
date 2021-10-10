@@ -5,4 +5,4 @@
 「ああ、それはもずくの天ぷらだよ」=“Ahh, that's mozuku tempura.”
 「酢の物やスープじゃなくて天ぷら……なんか珍しいね」=“Tempura, and not vinegar or soup... kind of unusual.”
 「他にも変わったメニューが多いよね」=“There's a lot of unusual cuisines, aren't there?”
-「ふーん。あとで“かれら”に報告しないと」=“Yeeeahh. I must report this to "them" later.”
+「ふーん。あとで“かれら”に報告しないと」=“Hmmmm. I must report this to ‘them’ later.”

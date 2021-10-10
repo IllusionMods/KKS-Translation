@@ -4,5 +4,5 @@
 「見て！　もう少しでスペースシーサーが完成するの」=“Hey, look! I'm almost done with my Space Shisa.”
 「えーと……ごめん。どの辺りがスペースなの？」=“Er, um... sorry. What part's the "space" part?”
 「星の模様だよ」=“The star pattern.”
-「あぁ、なるほど。身体全体で宇宙を表してるんだ」=“Ahh, so that it. It's whole body represents the cosmos.”
+「あぁ、なるほど。身体全体で宇宙を表してるんだ」=“Ahh, I see. It's whole body represents the cosmos.”
 「うん、綺麗に焼けるのが楽しみ」=“Yeah, I'm looking forward to how beautiful it will be after firing it.”

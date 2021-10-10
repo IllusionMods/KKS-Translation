@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「“かれら”との繋がりが、深まった気がするよっ」=“I feel a deeper connecton with "them".”
+「“かれら”との繋がりが、深まった気がするよっ」=“I feel a deeper connecton with ‘them’.”
 「うん……宇宙の一端を感じられた気がする……」=“Yeah... I feel like I'm getting glimpses of the cosmos...”
 「宇宙を感じることは出来なかったけど、気持ち良かったよ」=“I couldn't feel the universe, but it still felt good.”
 「なんで塗らなかったの？」=“Why didn't you oil me up?”

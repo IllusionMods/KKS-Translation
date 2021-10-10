@@ -5,4 +5,4 @@
 「うん、そうだよ。わたしは……あなたのことが好き。あなたの特別になりたいの」=“Yeah, that's right. I... I like you. I want to be special to you.”
 「……そっか」=“...I see.”
 「……仲間かどうかは分かんないけど、俺も好きだよ」=“I'm not sure about being your companion, but I like you, too.”
-「本当？　えへへ、よかったぁ。これでわたしたちは結ばれたね」=“Really? Ehehe, that's good. We're united now.”
+「本当？　えへへ、よかったぁ。これでわたしたちは結ばれたね」=“Really? Ehehe, that's good. We're connected now.”

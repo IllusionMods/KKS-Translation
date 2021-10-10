@@ -5,4 +5,4 @@
 「『クーブイリチー』ってどんな食べ物だっけ？」=“What kind of food is "Kubu Irichi"?”
 「たしか、昆布と豚肉の炒め物だったかな。一応、少しは勉強したんだ」=“I think it's fried pork and kelp.”
 「おお、さすが。じゃあ、これはなに？」=“Oooh, that's great. Then what's this?”
-「どれどれ……って、先に注文を決めないと。待たせちゃってるよ」=“Let's see... huh, we need to decide what to order, first. I'm keeping you waiting.”
+「どれどれ……って、先に注文を決めないと。待たせちゃってるよ」=“Let's see... oh crap, we need to decide what to order, first. There's still a line after us.”

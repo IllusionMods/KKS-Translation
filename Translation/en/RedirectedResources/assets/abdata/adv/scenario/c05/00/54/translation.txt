@@ -16,5 +16,5 @@
 「そうだよ。ちょっと考えてみたんだけど……どう？　気に入ってくれたら嬉しいな」=“Right. I thought about you for a second... so, how is it? I hope you like it.”
 「……うん！　うれしい！」=“...yeah! I'm happy!”
 「そっか、よかった。あ、俺のわがままに付き合ってくれてありがとうね」=“Okay then, it's all good. Ah, thank you for going along with my selfish request.”
-「全然いいよ。かれらも愛称呼びを気に入ったみたいだし、また呼び合ってみようよ」=“It's totally fine. I think they'll like my nickname, so let's call each other by them again.”
-「うん。……愛称呼び気に入ったんだな、かれら……」=“Yeah... you like it, so I think they'll like it...”
+「全然いいよ。かれらも愛称呼びを気に入ったみたいだし、また呼び合ってみようよ」=“It's totally fine. I think they'll like my nickname, so let's call each other by ‘them’ again.”
+「うん。……愛称呼び気に入ったんだな、かれら……」=“Yeah... so ‘they’ actually liked that huh..”
