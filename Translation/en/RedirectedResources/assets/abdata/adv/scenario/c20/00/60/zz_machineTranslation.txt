@@ -1,6 +1,6 @@
 「えっと……お部屋に入っても、いいですか？」=Can I come into your ...... room?
-SELECTION:「返事をする」=Reply
-SELECTION:「……」=.....
+SELECTION:「返事をする」=“Answer her”
+SELECTION:「……」=“...”
 「大丈夫だよ。何かあったの？」=I'll be fine. What's wrong?
 「あの、ですね……ちょっと、身体が熱いというか、その……」=Well, you know, ...... I'm a little hot, I mean, I'm a little ......
 「あなたに見てもらえば、治まると思うんですけど……いいですか？」=I'm sure it will go away once you see ...... me, okay?

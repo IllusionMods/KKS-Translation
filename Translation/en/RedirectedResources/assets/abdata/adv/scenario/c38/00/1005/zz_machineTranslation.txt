@@ -1,8 +1,8 @@
-係員さん=Attendant.
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=We're going to have a campfire, so if you'd like to join us, please do so in pairs.
+係員さん=Staff
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We'll be lighting the campfire now, so all participants please form a pair.”
 「あ、ちょうど始まるみたいだよ。せっかくだし参加しようよ」=Oh, it's just about to start. Why don't you join us?
 「ええ、いいですよ。ちょっとドキドキしますけど……よろしくお願いします」=Yeah, it's fine. I'm a little nervous, but ...... will be great.
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=Did you make a pair?　I'll put on some music at ...... as soon as I'm ready.
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you paired off? ...then I'll start the music as soon as everyone's ready.”
 「へぇ、[H名]って結構ダンス上手なんだ？」=So, [H名] is a pretty good dancer, huh?
 「そうでしょうか？　そんなに経験があるわけではないのですが……」=Is that so?　I don't have that much experience. ......
 「もしかしたら、小さな頃の体育の授業で一生懸命練習したことが良かったのかもしれません」=Perhaps it's a good thing I practiced so hard in gym class when I was little.

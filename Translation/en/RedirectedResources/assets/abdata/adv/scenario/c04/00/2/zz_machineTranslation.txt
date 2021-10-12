@@ -9,7 +9,7 @@
 「ううん、何でもないわ」=No, I'm fine.
 （まずい。この調子だと会話が途切れてしまう。こうなったら――）=(Not good. At this rate, the conversation will be interrupted. If this happens...
 「待って。[H名]に伝えたいことがあるんだけど、いいかな？」=Wait. I've got something to tell [H名], okay?
-「急に改まってどうしたの？」=What's wrong with you?" - "What's wrong with you?
+「急に改まってどうしたの？」=“What's this, all of a sudden?”
 「実はその……」=Actually, it's .......
 「[H名]のことが好きなんだ！」=I like [H名]!
 「えっ……」=What? ......?

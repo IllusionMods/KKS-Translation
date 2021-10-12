@@ -1,6 +1,6 @@
-「ねぇ……部屋にいる？」=Hey ......, are you in your room?
-SELECTION:「返事をする」=Reply
-SELECTION:「……」=.....
+「ねぇ……部屋にいる？」=“Hey... are you in there?”
+SELECTION:「返事をする」=“Answer her”
+SELECTION:「……」=“...”
 「うん？　どうかした？」=Yeah?　What's wrong?
 「なんだか急にあなたの顔を見たくなって……」=I suddenly feel like I want to see your face. ......
 「朝まで、ずっと傍にいてもいいかしら……？」=Do you mind if I stay with you ...... all morning?

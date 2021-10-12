@@ -136,8 +136,6 @@
 「こらー、さすがにそこはまずいだろー」=Come on, that's not a good idea.
 「おっ、そんなにあたしと話したかったのかー？」=Oh, you wanted to talk to me so badly, huh?
 「へへー、キミに色々と教えてほしいなー、なんて」=Yeah, I was hoping you could tell me something.
-「うひゃ！？　おどかすなよー、なんか用かー？」=“Hya!? Don't surprise me! Do you need something?”
-「おっ？　あたしに用かー？」=“Oh? You need something?”
 「どうした？　何か用かー？」=What's up?　What do you want?
 「なんだー？　あたしに話があるのか？」=What?　You want to talk to me?
 「本とか読むの？」=Do you read books?
@@ -161,15 +159,12 @@
 「どんなデートがしてみたい？」=What kind of date would you like to go on?
 「とにかく楽しいデートが一番だな」=I'd like to go on a fun date.
 「好きな相手となら、どんなデートでも大丈夫だぞ」=Any date with a guy you like is a good date.
-「いつか結婚したい、とか思う？」=“Do you want to get married someday?”
 「へへー、そりゃいつかはなー。いい相手に会えればいいなー」=Heh, well, maybe someday. I hope I meet the right guy.
 「うーん……いまは想像できないぞー」=Hmmm, I can't imagine ...... right now.
 「気になる異性はいるの？」=Is there someone you're attracted to?
 「それはー……秘密なんだぞ」=That's a ...... secret, you know.
 「……キミには教えないぞー」=It's a ...... secret I won't share with you.
-「ちょっと話しにくいなー、他になんかないか？」=“That's a bit hard to talk about, what about something else?”
 「そういえば、手を繋いでる子たちがいて……」=You know, there are these girls who hold hands and they're ......
-「あー、あたしも見たことあるなー。危ない関係ってヤツ？」=“Ah! I saw them too. It's a risky relationship, huh?”
 「エッチなことに興味持ったのって、いつくらい？」=When did you first get interested in sex?
 「し、小学生くらいかなー？　あ、友達から振ってきたんだぞ！」=I don't know. In elementary school.　Oh, my friend just dumped me!
 「そ、そんなこと、ここじゃ言えないぞー」=No, I can't tell you that in here.
@@ -212,7 +207,6 @@
 「あーあ、気分直しに散歩でも行こっかなー」=Oh, I think I'll go for a walk to freshen up.
 「うぅー、キミはいいヤツだと思ってたのになー」=Ugh, I thought you were a nice guy.
 「うーん、いっかい、距離を取ったほうがいいなー」=Hmm, I think I'm going to need some space.
-「へへー、キミはいいヤツだなー。また話そうなー」=“Hehe~ you're a good guy. Let's talk again later~”
 「じゃーなー。あ、次はもっとヤラしー話でもいいぞ？」=See ya. Maybe next time we can talk about something a little sexier.
 「おっとー、あたし、そろそろ行くなー。また話そうなー」=Oops, I've got to go. I'll talk to you later.
 「あたし、もう行かないとダメなんだ―。それじゃまたなー」=I have to go now. See you later.
@@ -274,8 +268,6 @@
 「フー！　え？　他の子を威嚇してるんだぞ」=Whoo!　What?　I'm trying to intimidate the other girls.
 「ふふー、二人だけの秘密の話だなー？」=Hmm, a little secret between us, huh?
 「おぉっとー？　そこはアウトだぞー」=Oh, yeah?　That's out.
-「キミのこと気になって、なんにも集中できないぞ。どうしてくれるんだー」=“I keep thinking about you so I can't concentrate on anything... What am I going to do?”
-「コトバだけじゃわかんないこともあるだろー？　そうだろー？」=“There are things you can't describe with just words, right?”
 「へへー、キミがいることはにおいでわかってたぞー」=Heh, I could smell you were there.
 「なんの話するー？　イチャイチャでもいーぞー？」=What do you want to talk about?　Can we make out?
 「へへー、声をかけてくれて嬉しいぞ」=Heh, I'm glad you asked.
@@ -297,9 +289,7 @@
 「ちゃんと寝ないと体に悪いぞー……今度子守唄歌おうか？」=You need to get some sleep. ...... Want me to sing you a lullaby sometime?
 「話題のあの映画の話なんだけど……」=I'm talking about that movie you've been talking about. ......
 「おー、あたしも見たぞー！　アレ、面白かったなー」=Oh, I saw that movie too!　I saw that movie too!
-「俺のこと、本当に好き？」=“Do you really like me?”
 「好き好きー！　態度で示せって？　なに言ってんだよー」=I love it!　You want me to show it with my attitude?　What are you talking about?
-「ホントは嫌いだぞー、って冗談♪　あはは、キミのその顔、可愛いなー」=“Actually, I really hate you~ I'm kidding♪ Hehe, your face is so cute~”
 「待ち合わせには遅れる方、待つ方？」=Are you the one who's late for meetings or the one who waits?
 「早く来て待つ方だぞー。待ってる間も楽しいからなー」=I'm the one who comes early and waits. It's fun to wait.
 「先に来て、いなかったら迎えに行っちゃうかもな―」=Maybe I'll show up first and pick you up if you're not there.
@@ -358,14 +348,12 @@
 「なんで黙ってるんだー？　言い訳くらい、してくれよー」=Why aren't you talking?　Why don't you give me an excuse?
 「はぁー、もういいぞー。頭冷やそうなー？」=Oh, come on. Let's cool down, okay?
 「いまはこれ以上、一緒にいたくないなー。んじゃ」=I don't want to be with you right now. Okay.
-「キミと離れたくないなー。首輪つけちゃいたいぞー」=“I don't want to leave you~ I want to put a collar on you~”
 「あたし、すごーくムズムズしてるんだぞー？　責任取ってほしいなー」=I'm really getting antsy, you know?　I want you to be responsible for that.
 「もっと一緒にいたいけど……残念だなー」=I'd love to spend more time with you, but it's a ...... shame.
 「楽しい時間はあっという間だな。それじゃあ、またな」=It's a shame. I'll see you later.
 「もっと話してたかったけど、時間だから仕方ないか―」=I'd have liked to have talked to you more, but I guess it's time.
 「えー、もう終わりかー？　まだいいだろー？」=Oh, you're done?　It's not over yet, is it?
 「寂しいけど、しょうがないなー。またなー」=I'm sad, but I can't help it. See you later.
-「こっちから誘おうと思ってたぞー。はやくヤろー！」=“I was thinking of asking you. Let's do it, quickly!”
 「やめとくぞー……今はそんな気分じゃないんだ」=I don't think so. ...... I'm not in the mood.
 「もうガマンの限界だぞー！　エッチするぞー！　はやくはやくー！」=I can't take it anymore!　I'm gonna fuck you!　Come on, come on, come on!
 「断っても逃がさないからなー？　押し倒しちゃうぞー」=If you say no, I won't let you go, okay?　I'm gonna push you over the edge.

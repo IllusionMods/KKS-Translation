@@ -1,5 +1,5 @@
-係員さん=Attendant.
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=We're going to have a campfire, so if you'd like to join us, please do so in pairs.
+係員さん=Staff
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We'll be lighting the campfire now, so all participants please form a pair.”
 「あ、キャンプファイヤーだって。[H名]、一緒に踊ろうよ」=Oh, there's a campfire. [H名], come dance with me.
 「えっ、い、いいんですか……♡」=What? Are you sure you want to ......?
 「せっかく恋人と一緒にいるんだから、踊らない手はないよ」=Since you're with your lover, why not dance?
@@ -7,7 +7,7 @@
 「いや、それはもう大事件だし、みんなも踊るのやめるから」=No, that's a big deal, and people are going to stop dancing.
 「それなら、ぶつからないように気を付けます♡　音楽がやまない限り、足がもげてもあなたと踊り続けたいんです♡」=In that case, I'll be careful not to bump into you ♡ As long as the music doesn't stop, I want to keep dancing with you ♡ Even if my legs break off.
 （そっちも同じぐらい大事件なんだけどな……）=(That's just as big a deal as the other one. ......)
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=Did you make a pair?　I'll put on some music at ...... as soon as I'm ready.
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you paired off? ...then I'll start the music as soon as everyone's ready.”
 「はぁぁ～♡　あぁぁ～♡」=Haa~♡♡ Aa~♡
 「[H名]、だ、大丈夫？」=[H名], are you okay?
 「あ♡　はい♡　大丈夫です♡　あなたとフォークダンスを踊っちゃってると思うと、脳汁がダラダラ出てしまって、世界が輝いて……♡」=♡ Yes, I'm fine ♡ Thinking that I'm folk dancing with you, my brain juices are flowing and the world is shining ...... ♡
