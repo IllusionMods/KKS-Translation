@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごく良かったわ……ふふっ、私たち、身体の相性も抜群みたい」=
+「すごく良かったわ……ふふっ、私たち、身体の相性も抜群みたい」=“That was wonderful... fufu! We seem to have excellent physical compatibility.”
