@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「これは……絵になるなぁ」=
-//「うん？　何の話？」=
-//「この景色ときみの姿が、なんというか様になってるなって思ったんだ」=
-//「それは、褒めているのかしら？」=
-//「もちろん！　俺にもうちょっと語彙力があれば、この美しさを伝えられるんだけど……」=
-//「う、うーん、あんまりピンときてないんだけど……褒めて貰えて悪い気はしないわ」=
+「これは……絵になるなぁ」=“This is... quite the picture.”
+「うん？　何の話？」=“Yeah? What are you talking about?”
+「この景色ときみの姿が、なんというか様になってるなって思ったんだ」=“You, and the view... I just lot it was kinda cool.”
+「それは、褒めているのかしら？」=“Is that a compliment?”
+「もちろん！　俺にもうちょっと語彙力があれば、この美しさを伝えられるんだけど……」=“Of course! If my vocabulary was better, I could tell you how beautiful you are...”
+「う、うーん、あんまりピンときてないんだけど……褒めて貰えて悪い気はしないわ」=“Y-yeeeah, I'm not what to make of that... but I appreciate the compliment.”
