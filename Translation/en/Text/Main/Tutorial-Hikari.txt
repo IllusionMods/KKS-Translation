@@ -1,0 +1,23 @@
+#set level -1024
+案内人の女の子と仲よくしよう！=Get close with the tour guide!
+◆案内人：観光案内のアルバイトをしている「比嘉ひかり」に話しかけてみよう！=◆ Tour guide: Try talking to "Higa Hikari", a tour guide on the island!
+●話しかける=● Talk
+や= 
+//ignoring with white space
+などで出会える！=      She can be\n      found at\n      these places!
+●アドバイスを聞く=● Ask for advice
+島の= 
+//ignoring with white space
+<size%3D30>を</size>聞ける！=She can give advices on\nthe island!
+アドバイス= 
+//ignoring with white space
+<size%3D30>自室の</size>「滞在先」<size%3D30>から</size>\n一覧で確認！=You can check all advices via ‘Booking → Guide’ in your room!
+●恋人にもなれる！=● You can be lovers!
+「話題」<size%3D30>を振ると</size>=Use topics to up
+好感度=affection!
+アップ！= 
+//ignoring with white space
+「アドバイス」\n<size%3D30>  を集めて…</size>=\nCollect advices and ...
+<size%3D30>好感度を</size>最大\n<size%3D30>まで上げると…</size>=Raise her affection to max to ...
+告白可能に！=Confess!
+#unset level -1024
