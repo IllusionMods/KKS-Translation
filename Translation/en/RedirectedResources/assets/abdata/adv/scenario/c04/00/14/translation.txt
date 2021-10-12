@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……私、怒るのはあまり好きじゃないの。お願いだから、はやく出て行って」=
+「……私、怒るのはあまり好きじゃないの。お願いだから、はやく出て行って」=“...I really don't like to get angry. Please, just get out of here.”
