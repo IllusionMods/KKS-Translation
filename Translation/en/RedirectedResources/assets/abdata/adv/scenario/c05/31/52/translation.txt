@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「話してたら、わたしも久々に宇宙食を食べたくなってきたかも……」=
+「話してたら、わたしも久々に宇宙食を食べたくなってきたかも……」=“After we talked about it, I think I wanted to eat space food for the first time in a while.”
