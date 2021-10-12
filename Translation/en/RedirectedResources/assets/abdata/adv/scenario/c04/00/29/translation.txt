@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、気づいてた？　ここへ来るまでの間、私、ずっとドキドキしていたの」=
-//「理由は……言わなくても、分かるでしょ？　私を誘ったのは、あなたなんだから」=
-//「心の準備は出来てるわ。あなたのタイミングではじめてね」=
+「ねぇ、気づいてた？　ここへ来るまでの間、私、ずっとドキドキしていたの」=“Hey, you noticed how nervous I've been all the time we've been here?“
+「理由は……言わなくても、分かるでしょ？　私を誘ったのは、あなたなんだから」=“You don't have to tell me why, okay? You're the one who asked me out.”
+「心の準備は出来てるわ。あなたのタイミングではじめてね」=“My heart is ready. I'll start when you're good to go.”
