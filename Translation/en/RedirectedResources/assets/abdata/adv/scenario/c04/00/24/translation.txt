@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あの……ごめんなさい、あまり気持ちよくなかったわよね……？」=
+「あの……ごめんなさい、あまり気持ちよくなかったわよね……？」=“Um... I'm sorry, that didn't feel very good, did it...?”
