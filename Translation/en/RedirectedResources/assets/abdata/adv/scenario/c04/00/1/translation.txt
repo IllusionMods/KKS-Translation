@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「冗談じゃ……ないのよね？」=
-//「うん、本気だよ。本気で好きなんだ」=
-//「そ、そう……ごめんなさい、突然のことで頭が混乱していて……」=
-//「こっちこそ、急にごめんね。その……返事はいつでもいいから」=
-//「……大丈夫、気持ちの整理がついたわ。私も、あなたのことが好きよ」=
-//「ほ、本当？　それじゃ……」=
-//「うん。これからは、彼氏彼女としてよろしくね？」=
+「冗談じゃ……ないのよね？」=“You're not joking around... are you?”
+「うん、本気だよ。本気で好きなんだ」=“Yeah, I'm totally serious. I really love you.”
+「そ、そう……ごめんなさい、突然のことで頭が混乱していて……」=“Is that... is that so... I'm sorry... this is so sudden, my brain can't keep up...”
+「こっちこそ、急にごめんね。その……返事はいつでもいいから」=“I'm sorry for just springing this on you. Um... you can give me your reply when you're ready.”
+「……大丈夫、気持ちの整理がついたわ。私も、あなたのことが好きよ」=“...it's alright, I've got my mind settled. I... love you, too.”
+「ほ、本当？　それじゃ……」=“R-really? Well then...”
+「うん。これからは、彼氏彼女としてよろしくね？」=“Yeah. Let's be boyfriend and girlfriend from now on, okay?”
