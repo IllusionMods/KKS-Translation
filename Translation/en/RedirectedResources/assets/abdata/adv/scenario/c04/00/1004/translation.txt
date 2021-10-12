@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少し波打ち際を歩こうよ」=
-//「海っていいわよね。広くて穏やかで……私の悩みが小さなものに思えるわ」=
-//「何か悩み事があるの？　俺でよければ相談に乗るよ」=
-//「はぁ……また悩みが増えちゃった」=
-//「えっ！？　どういうこと！？」=
-//「ヒントをあげる。悩みは何も不幸だから生まれるってわけじゃないの」=
-//「幸せすぎて怖いってこと？」=
-//「ふふっ、正解よ」=
-//「あなたは優しいわよね。人が悩んでいるときに、そっと手を差し伸べてくれて」=
-//「あなたを好きになってよかったと心からそう思う。けれど、私にはもったいないかなって……」=
-//「そんなことで悩んでいたの？」=
-//「そんなことって……これでも、真剣に悩んでるのよ？」=
-//「不安に思うことなんて何もないよ。これからもずっと[H名]のそばにいるから」=
-//「……っ」=
-//「どうしたの？　顔が赤いよ？」=
-//「……気のせいよ」=
-//「はぁ……あなたってまるで海のような人ね」=
-//「どういう意味？」=
-//「さて、どういう意味でしょう。あとで答え合わせしてみる？　二人っきりでね……」=
+「少し波打ち際を歩こうよ」=“Let's take a little stroll on the beach.”
+「海っていいわよね。広くて穏やかで……私の悩みが小さなものに思えるわ」=“The ocean's nice. So wide and calm... it makes my worries seem small.”
+「何か悩み事があるの？　俺でよければ相談に乗るよ」=“Do you have things to worry about? Let's talk them over, if that's okay with you.”
+「はぁ……また悩みが増えちゃった」=“Ahaa... I've got lots of problems.”
+「えっ！？　どういうこと！？」=“Eh!? What do you mean?!”
+「ヒントをあげる。悩みは何も不幸だから生まれるってわけじゃないの」=“I'll give you a hint. Problems don't necessarily come up just because you're unhappy.”
+「幸せすぎて怖いってこと？」=“Are you scared about being so happy?”
+「ふふっ、正解よ」=“Fufu, right answer.”
+「あなたは優しいわよね。人が悩んでいるときに、そっと手を差し伸べてくれて」=“You're so sweet. You always gently reach out to someone who's struggling.”
+「あなたを好きになってよかったと心からそう思う。けれど、私にはもったいないかなって……」=“I'm so glad that I fell in love with you. But I think that I waste your time, sometimes...”
+「そんなことで悩んでいたの？」=“That's what you're worried about?”
+「そんなことって……これでも、真剣に悩んでるのよ？」=“Something like that... that's what you're really concerned about?”
+「不安に思うことなんて何もないよ。これからもずっと[H名]のそばにいるから」=“There's nothing to be worried about. I'll always be close to you, [H名].”
+「……っ」=“...!”
+「どうしたの？　顔が赤いよ？」=“What's the matter? Why are you blushing?”
+「……気のせいよ」=“...you're imagining things.”
+「はぁ……あなたってまるで海のような人ね」=“Ahaa... you're like the ocean.”
+「どういう意味？」=“What do you mean?”
+「さて、どういう意味でしょう。あとで答え合わせしてみる？　二人っきりでね……」=“It means what it means. I'll give you an answer later, okay? When we're alone...”
