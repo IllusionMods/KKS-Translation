@@ -1,6 +1,5 @@
 // These assets used to be available in earlier releases, kept here so translation continues to work
 // If run against older version (or in case assets come back)
 
-// Removed in 1.0.3
-//エアリーボブ=
+// "エアリーボブ" was Removed in 1.0.3 and restored in 1.0.4
 

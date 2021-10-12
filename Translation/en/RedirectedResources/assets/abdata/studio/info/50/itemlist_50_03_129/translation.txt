@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//月=
+//団子=
+//三方=
+//ススキ=
+//和雲A=
+//和雲B=

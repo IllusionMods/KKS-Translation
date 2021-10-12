@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+// Dumped for Koikatsu Sunshine v1.0.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //ロングヘア=
 //ロングサイドテール(左)=
@@ -61,6 +61,7 @@
 //切りそろえショート(左)=
 //ひとつ結び=
 //シトリーバック=
+//エアリーボブ=
 //つんショート後ろ=
 //リーゼント=
 //横分けショート後ろ=
