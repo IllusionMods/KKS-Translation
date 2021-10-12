@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「気分転換に、ここでゆっくりしていこうよ」=
-//「ふぅ、風が気持ちいいね……」=
-//「海側から風が吹いているのね。潮の香りがするわ」=
-//「こうしてのんびりと風を感じていると、なんだか眠くなっちゃう……」=
-//「眠ってもいいよ。俺がそばで見守ってるから」=
-//「魅力的なお誘いだけれど、やめておくわ。あなたに悪戯されそう」=
-//「そんなことしないよ」=
-//「本当かしら？　私だったら、あなたを膝枕して髪を撫でたりするけれど」=
-//「ふわぁ、なんだか眠くなってきたぞ。ちょっと横になろうかな」=
-//「ふふっ、わざとらしいあくびね」=
-//「そんな演技をしなくても、お願いしてくれたら膝枕くらいするわよ」=
-//「私たちは恋人同士なんだし」=
-//「それもそうだね。ならお願いしようかな」=
-//「ふふっ。現金な人ね」=
-//「それじゃあ、しばらく風を感じましょうか」=
-//「あなたと二人きりで、何もせずゆったりと……ね」=
+「気分転換に、ここでゆっくりしていこうよ」=“Let's just relax here, for a change.”
+「ふぅ、風が気持ちいいね……」=“Fuuuu, the breeze feels good...”
+「海側から風が吹いているのね。潮の香りがするわ」=“The wind's blowing in from the seaside. It smells like the tide.”
+「こうしてのんびりと風を感じていると、なんだか眠くなっちゃう……」=“When I just relax, and enjoy the breeze like this, I get sleepy...”
+「眠ってもいいよ。俺がそばで見守ってるから」=“It's fine if you sleep. I'll watch over you.”
+「魅力的なお誘いだけれど、やめておくわ。あなたに悪戯されそう」=“That's an intriguing invitation, but I don't think so. I think you might play a trick on me.”
+「そんなことしないよ」=“I wouldn't do that.”
+「本当かしら？　私だったら、あなたを膝枕して髪を撫でたりするけれど」=“Is that really true? If we up to me, I'd bend down, and stroke your hair.”
+「ふわぁ、なんだか眠くなってきたぞ。ちょっと横になろうかな」=“Fuwa, I'm starting to get sleepy. I wonder if I should take a little nap.”
+「ふふっ、わざとらしいあくびね」=“Fufu! You yawned on purpose.”
+「そんな演技をしなくても、お願いしてくれたら膝枕くらいするわよ」=“You don't need to pull an act. You can use my lap as a pillow, if you want.”
+「私たちは恋人同士なんだし」=“We are lovers, after all.”
+「それもそうだね。ならお願いしようかな」=“That's right. So I guess I'll ask.”
+「ふふっ。現金な人ね」=“Fufu! You're an energetic guy.”
+「それじゃあ、しばらく風を感じましょうか」=“Well then, let's just enjoy the breeze for awhile.”
+「あなたと二人きりで、何もせずゆったりと……ね」=“Just you and me, relaxing, doing nothing... yeah.”
