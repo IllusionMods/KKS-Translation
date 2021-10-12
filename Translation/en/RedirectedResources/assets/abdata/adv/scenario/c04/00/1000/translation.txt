@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルドリンクが飲めるんだって。頼んでみようよ」=
-//「ドリンクが来たけど、このストローの形は……」=
-//「そういうメニューなんだから、らしい形をしてるのは当然なんじゃない？」=
-//「さすがはカップルドリンクだね」=
-//「うん、私とあなたはカップル、恋人同士……。こういうことをするのも普通よね」=
-//「もしかして照れてるの？」=
-//「そんなことないわ。ただ……」=
-//「ただ？」=
-//「同じタイミングで飲もうとすると、必然的に顔を近づけることになるでしょ？」=
-//「そうなったら、あなたを間近で見つめることになるから……」=
-//「やっぱり照れてるんじゃないか。顔が赤いよ？」=
-//「……からかうなんて意地悪ね」=
-//「あはは、ごめんね。それで飲むの飲まないの？」=
-//「まあ、飲むけど……」=
-//「うんうん、人間素直が一番だよ。照れる[H名]も可愛いね」=
-//「もう……バカ」=
+「カップルドリンクが飲めるんだって。頼んでみようよ」=“They have a drink for couples to share. Let's ask for one.”
+「ドリンクが来たけど、このストローの形は……」=“The drink's here, but the shape of that straw...”
+「そういうメニューなんだから、らしい形をしてるのは当然なんじゃない？」=“Well, it's just how the menu described it... isn't it natural that the straw's got that unique shape?”
+「さすがはカップルドリンクだね」=“It really is a drink meant for a couple, isn't it.”
+「うん、私とあなたはカップル、恋人同士……。こういうことをするのも普通よね」=“Yeah, and we are a couple, lovers... It's normal for us to do something like this.”
+「もしかして照れてるの？」=“Maybe... you're embarrassed?”
+「そんなことないわ。ただ……」=“That's not true. However...”
+「ただ？」=“However?"
+「同じタイミングで飲もうとすると、必然的に顔を近づけることになるでしょ？」=“If we try to drink at the same time, we'll inevitably have our faces closer together, you know?”
+「そうなったら、あなたを間近で見つめることになるから……」=“And if that happens, we'll staring at each other all up close...”
+「やっぱり照れてるんじゃないか。顔が赤いよ？」=“I think I'm embarrassed, after all. Am I blushing?”
+「……からかうなんて意地悪ね」=“...it's mean of you to tease me.”
+「あはは、ごめんね。それで飲むの飲まないの？」=“Ahaha, sorry. So, you want to drink, or not?”
+「まあ、飲むけど……」=“Well, I'll drink it...”
+「うんうん、人間素直が一番だよ。照れる[H名]も可愛いね」=“Yeah, yeah, it's best to be honest. You're so cute when you're embarassed, [H名].”
+「もう……バカ」=“Geez... you lunkhead.”
