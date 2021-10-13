@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へぇ、ここではオイル塗りが出来るのね」=
-//「よかったら、俺が塗ろうか？」=
-//「そうね、背中側は自分じゃ届かないしお願いしようかな」=
-//「変な悪戯はしないでね？」=
-//「しないよ！　安心して任せて」=
+「へぇ、ここではオイル塗りが出来るのね」=“Ehem, we can do oiling here.”
+「よかったら、俺が塗ろうか？」=“I can apply it to you, if you'd like?”
+「そうね、背中側は自分じゃ届かないしお願いしようかな」=“Well, I can't reach my own back, so go ahead.”
+「変な悪戯はしないでね？」=“Don't try any funny tricks, got it?”
+「しないよ！　安心して任せて」=“I won't! You can trust me.”
