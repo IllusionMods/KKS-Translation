@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すぅ……すぅ……ん、んん……」=
-//（ううん、何だか下半身に違和感が……？）=
-//「…………」=
-//「って……え？　え？」=
-//「ん、すっかり……硬くなってる……こっちは目が覚めたみたいね」=
-//「あの、何をして……？」=
-//「ふふふ、あなたは寝ぼすけさんね。いいわ、すぐに起こしてあげる♪」=
+「すぅ……すぅ……ん、んん……」=“Zzz...zzz... mm, mmm...”
+（ううん、何だか下半身に違和感が……？）=(Yeeeah, my lower body feels strange, for some reason...?)
+「…………」=“...”
+「って……え？　え？」=“Huh... eh? Eh?”
+「ん、すっかり……硬くなってる……こっちは目が覚めたみたいね」=“Mmm... it's gotten so hard... looks like you're awake.”
+「あの、何をして……？」=“Um, what are you doing...?”
+「ふふふ、あなたは寝ぼすけさんね。いいわ、すぐに起こしてあげる♪」=“Fufufu, you're a sleepwalker. That's okay, I'll wake you up, right away♪”
