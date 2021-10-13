@@ -1,0 +1,16 @@
+//*******************************************************************
+//*******************************************************************
+// Note: Resizers for UI elements that appear only on H Scenes
+//*******************************************************************
+//*******************************************************************
+
+//Scope of the file: Only applies to the H-Scenes for Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+#set level 8,9
+
+Canvas/Sonyu/ActionBase=ChangeFontSizeByPercentage(0.8)
+Canvas/Houshi/ActionBase=ChangeFontSizeByPercentage(0.8)
+Canvas/Sonyu3P/ActionBase=ChangeFontSizeByPercentage(0.8)
+Canvas/Houshi3P/ActionBase=ChangeFontSizeByPercentage(0.8)
+
+Canvas/ImmediatelyFinish=ChangeFontSizeByPercentage(0.7)
