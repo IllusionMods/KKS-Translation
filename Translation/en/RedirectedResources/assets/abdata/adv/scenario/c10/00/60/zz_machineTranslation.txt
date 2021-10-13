@@ -1,6 +1,6 @@
 「汝よ……その……結界を解いてはくれないか？」=Thou shalt not ...... break the ...... bonds?
-SELECTION:「返事をする」=“Answer her”
-SELECTION:「……」=“...”
+SELECTION:「返事をする」=Answer her
+SELECTION:「……」=...
 「こんな時間にどうしたの？」=What are you doing here at this hour?
 「汝の魔力が弱まっているのを感じて……その……安否を確かめに来たのだ」=I sensed that your magic was weakening and came ...... to check on its ...... well-being.
 「ま、魔力を供給するから……えっと……我と肌を……重ねよう……？」=Well, I'll supply the magic, and we'll ......, uh, ...... lay skin to skin ......?

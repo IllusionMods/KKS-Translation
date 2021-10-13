@@ -1,6 +1,6 @@
 「おーい、あたしだぞ、入っていいかー？」=Hey, it's me. Can I come in?
-SELECTION:「返事をする」=“Answer her”
-SELECTION:「……」=“...”
+SELECTION:「返事をする」=Answer her
+SELECTION:「……」=...
 「どうかしたの？」=What's the matter?
 「あたし、キミとしたくて……我慢できなくなっちゃったんだー」=I wanted to fuck you so badly ...... that I couldn't stand it anymore.
 「あたしと、いっぱい気持ち良くなってもらうからなー♪」=I'm going to make you feel so good.
