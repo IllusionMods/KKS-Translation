@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「柄にもなく、はしゃいじゃったわ。ちょっと恥ずかしい……」=
+「柄にもなく、はしゃいじゃったわ。ちょっと恥ずかしい……」=“It's out of character for me to get so excited. I'm a little embarrassed...”
