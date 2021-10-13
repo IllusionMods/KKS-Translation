@@ -1,6 +1,6 @@
 「アナタ、いますカー……？」=Are you there, ......?
-SELECTION:「返事をする」=Reply
-SELECTION:「……」=.....
+SELECTION:「返事をする」=Answer her
+SELECTION:「……」=...
 「どうしたの？」=Something wrong?
 「いましタ、オジャマシマース」=Yes, sir, I'm here.
 「すみまセン、とてもアナタに会いたくなりまシタ。傍にいてイイヨネ……？」=I'm sorry, I miss you so much. Do you mind if I stay with you at ......?

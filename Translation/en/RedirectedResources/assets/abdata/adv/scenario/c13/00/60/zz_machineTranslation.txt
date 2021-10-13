@@ -1,6 +1,6 @@
-「ねぇ……部屋にいる？」=Hey ......, are you in your room?
-SELECTION:「返事をする」=Reply
-SELECTION:「……」=.....
+「ねぇ……部屋にいる？」=“Hey... are you in there?”
+SELECTION:「返事をする」=Answer her
+SELECTION:「……」=...
 「どうしたの、何かあった？」=What's wrong, what's wrong?
 「なんていうか……ちょっと一人でいるのが寂しくなっちゃったんだよねー」=What can I say? ...... I'm feeling a little lonely being alone.
 「だから、[P名]くんと一緒に、寝ようかな～って……いいでしょ、ね？」=So I thought I'd sleep with [P名]. ...... It's nice, right?
