@@ -8,7 +8,9 @@
 #set exe KoikatsuSunshine
 #set level 8,9
 
-Canvas/Sonyu/ActionBase=ChangeFontSizeByPercentage(0.90)
-Canvas/Houshi/ActionBase=ChangeFontSizeByPercentage(0.90)
-Canvas/Sonyu3P/ActionBase=ChangeFontSizeByPercentage(0.90)
-Canvas/Houshi3P/ActionBase=ChangeFontSizeByPercentage(0.90)
+Canvas/Sonyu/ActionBase=ChangeFontSizeByPercentage(0.8)
+Canvas/Houshi/ActionBase=ChangeFontSizeByPercentage(0.8)
+Canvas/Sonyu3P/ActionBase=ChangeFontSizeByPercentage(0.8)
+Canvas/Houshi3P/ActionBase=ChangeFontSizeByPercentage(0.8)
+
+Canvas/ImmediatelyFinish=ChangeFontSizeByPercentage(0.7)
