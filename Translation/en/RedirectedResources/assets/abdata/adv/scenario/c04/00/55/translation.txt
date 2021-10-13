@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねえ、[Pあだ名]」=
-//「どうしたの？　すごく機嫌良さそうだけど」=
-//「むっ、今その機嫌も悪くなりそうだわ。私が愛称で呼んでるのに」=
-//「あ、愛称……？」=
-//「うん。私たち、そういうの意識したことなかったでしょ？　……だから、特別な呼び方で呼んでほしいの」=
-//「ね、お願い……[Pあだ名]……私を呼んで？」=
-//「っ……じ、じゃあ……[Hあだ名]」=
-//「ええ、もっと呼んで」=
-//「[Hあだ名]……[Hあだ名]！」=
-//「ふふっ、お顔が真っ赤よ？」=
-//「そりゃ、いきなり愛称で呼び合うなんて恥ずかしいし……」=
-//「ごめんなさい、あなたの反応が可愛くて、つい……ふふっ」=
-//「たまになら呼んでいいから……今はちょっと勘弁して」=
+「ねえ、[Pあだ名]」=“Hey, [Pあだ名].”
+「どうしたの？　すごく機嫌良さそうだけど」=“What's up? Looks like you're in a really good mood.”
+「むっ、今その機嫌も悪くなりそうだわ。私が愛称で呼んでるのに」=“Hmph, now that mood's gonna get worse. I called you by your nickname.”
+「あ、愛称……？」=“Ah, my nickname...?”
+「うん。私たち、そういうの意識したことなかったでしょ？　……だから、特別な呼び方で呼んでほしいの」=“Yeah. We've never been aware of that, have we? So I want you to call me by my special name.”
+「ね、お願い……[Pあだ名]……私を呼んで？」=“Hey, please... [Pあだ名]... call me by a nickname?”
+「っ……じ、じゃあ……[Hあだ名]」=“!... s-sure... [Hあだ名].”
+「ええ、もっと呼んで」=“Ehhh, do that more!”
+「[Hあだ名]……[Hあだ名]！」=“[Hあだ名]... [Hあだ名]!”
+「ふふっ、お顔が真っ赤よ？」=“Fufu! Your face is bright red, you know?”
+「そりゃ、いきなり愛称で呼び合うなんて恥ずかしいし……」=“It's embarrassing to just suddenly start calling each other by our nicknames...”
+「ごめんなさい、あなたの反応が可愛くて、つい……ふふっ」=“I'm sorry, I just think it's so cute how you react... fufu!”
+「たまになら呼んでいいから……今はちょっと勘弁して」=“It's okay to call me that, once in a while... let's hold off for now, though.”
