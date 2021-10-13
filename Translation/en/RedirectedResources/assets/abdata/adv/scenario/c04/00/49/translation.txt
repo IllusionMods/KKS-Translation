@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なんていうか、ここの家庭の料理ってあったかい味がするよね」=
-//「確かに……地元じゃないから食べ慣れていないはずなのに、不思議だわ」=
-//「やっぱり優しさとか、そういう気持ちがこもってるからなのかな」=
-//「……かもしれないわね。誰かに届けようとしている気持ちは、ちゃんと伝わるものだから」=
+「なんていうか、ここの家庭の料理ってあったかい味がするよね」=“What can I say - the home-cooked meals here have a warm flavor, don't they?”
+「確かに……地元じゃないから食べ慣れていないはずなのに、不思議だわ」=“Absolutely... we're not locals, so we're not used to eating here. It's strange.”
+「やっぱり優しさとか、そういう気持ちがこもってるからなのかな」=“I wonder if it's because the food here is filled with kindness and such emotion.”
+「……かもしれないわね。誰かに届けようとしている気持ちは、ちゃんと伝わるものだから」=“...that could be it. If you work hard to convey such things to someone, they'll understand what you're doing.”
