@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お店を見て回れて楽しかったわ。それじゃあね」=
+「お店を見て回れて楽しかったわ。それじゃあね」=“I enjoyed browing the shops with you. Alright, see you around.”
