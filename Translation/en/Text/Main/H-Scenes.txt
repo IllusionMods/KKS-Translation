@@ -90,32 +90,32 @@
 縦=Vert.
 横=Horiz.
 
-//Using Power because Strenght doesn't fit:
+//Using Power because Strength doesn't fit:
 強さ=Power
 
 //-------------------------------------------------------------------
 // H Menu
 //-------------------------------------------------------------------
-入れるよ=I'm putting it in
-アナル入れるよ=I'm putting it in your ass
-イレル=Penetrate
-アナルイレル=Penetrate (anal)
-入れて欲しい=Put it in
-ヌク=Pull Out
-ヌイテ=Pull Out
+入れるよ=Can we do it?
+アナル入れるよ=Can we do anal?
+イレル=Just do it
+アナルイレル=Just do anal
+入れて欲しい=You put it in.
+ヌク=Pull out
+ヌイテ=Pull out
 中に出すよ=I'm cumming inside
 外に出すよ=I'm cumming outside
 またお願い=Do it again
 ユックリ=Slower
 ハヤク=Faster
 飲んでね=Swallow it
-吐いてね=Spit it
+吐いてね=Spit it out
 イキそう=I'm about to cum
 
 //-------------------------------------------------------------------
 // Exit Dialogues
 //-------------------------------------------------------------------
-挿入で絶頂したい=I want to cum by penetration.
+挿入で絶頂したい=I want to cum with you inside me.
 
 //---------------------------------------------------------
 // Unsorted: Things that I don't know where they came from
