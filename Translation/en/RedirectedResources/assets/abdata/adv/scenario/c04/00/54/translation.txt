@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あのさ、ちょっとお願いがあるんだけど……」=
-//「うん？　なぁに改まって……悩みごと？」=
-//「ああいや、そういうのじゃなくて。その、愛称で呼び合ってみたいなと思って」=
-//「愛称……？　そういえば、考えたことなかったわね」=
-//「今まで機会がなかったけど、やっぱり二人だけの特別な呼び方が欲しくなってさ。どうかな？」=
-//「もちろん、いいわよ。ふふっ、何だかさらに仲良くなれそうね」=
-//「そう言ってくれると思ってたよ！　それじゃあ、俺のことは[Pあだ名]って呼んでくれないかな？」=
-//「……うーん、別にいいけど、それって愛称？」=
-//「はい……ただの私利私欲です、すみません」=
-//「ふふっ、素直でよろしい。それじゃあご褒美に……と、その前に肝心なことを忘れてたわ。私の愛称は決まってるの？」=
-//「もちろんだよ、[Hあだ名]」=
-//「ふふっ、ありがとう、[Pあだ名]」=
-//「おお、思ってたより破壊力があって恥ずかしい……けど、すごくいい！ねえ、たまにでいいから、また[Pあだ名]って呼んでくれないかな？」=
-//「たまにでいいの？」=
-//「さすがに、ずっとその呼び方なのは……」=
-//「自分でこの名前がいいって言ったのに、変なの。まあ、いいわ。大事なのはあなたに愛称を付けてもらったことだから♪」=
+「あのさ、ちょっとお願いがあるんだけど……」=“Um, so, I have a little request for you...”
+「うん？　なぁに改まって……悩みごと？」=“Yeah? Don't be so formal... something bothering you?”
+「ああいや、そういうのじゃなくて。その、愛称で呼び合ってみたいなと思って」=“Ahhh, no, nothing like that. Um, I want us to call each other by nicknames.” 
+「愛称……？　そういえば、考えたことなかったわね」=“A nickname...? You know, I never actually thought about that.”
+「今まで機会がなかったけど、やっぱり二人だけの特別な呼び方が欲しくなってさ。どうかな？」=“We haven't had the chance before, but I want there to be a special way to call each other.”
+「もちろん、いいわよ。ふふっ、何だかさらに仲良くなれそうね」=“That'd be fine, of course. Fufu! That way we can understand each other even better.”
+「そう言ってくれると思ってたよ！　それじゃあ、俺のことは[Pあだ名]って呼んでくれないかな？」=“I was hoping you'd say that. Then, then you can call me [Pあだ名], alright?”
+「……うーん、別にいいけど、それって愛称？」=“...yeeeeah, I don't mind, but that's a nickname?”
+「はい……ただの私利私欲です、すみません」=“Yes... sorry, I know I'm being selfish.”
+「ふふっ、素直でよろしい。それじゃあご褒美に……と、その前に肝心なことを忘れてたわ。私の愛称は決まってるの？」=“Fufu! I appreciate the honesty. So, as a reward... oh, wait, I forgot the most important thing. I have a nickname for you.”
+「もちろんだよ、[Hあだ名]」=“Of course, [Hあだ名].”
+「ふふっ、ありがとう、[Pあだ名]」=“Fufu! Thank you, [Pあだ名].”
+「おお、思ってたより破壊力があって恥ずかしい……けど、すごくいい！ねえ、たまにでいいから、また[Pあだ名]って呼んでくれないかな？」=“Ahhh, I'm embarrassed to say that's more depreciating than I thought it'd be... but it's good! Hey, could you please call me [Pあだ名] again, every once in a while?”
+「たまにでいいの？」=“Just once in a while?”
+「さすがに、ずっとその呼び方なのは……」=“You know, that's what I've always been calling you.”
+「自分でこの名前がいいって言ったのに、変なの。まあ、いいわ。大事なのはあなたに愛称を付けてもらったことだから♪」=“I've been saying to myself I wanted this nickname, but it's strange. Well, that's fine. The important thing is that you gave me a nickname.”
