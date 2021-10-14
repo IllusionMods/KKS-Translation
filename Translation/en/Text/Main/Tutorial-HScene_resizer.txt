@@ -1,0 +1,25 @@
+//*******************************************************************
+//*******************************************************************
+// Note: Text sizes and other alignment config for texts in H-Scene Tutorial
+//       Menu. Don't change if you don't know what are you doing
+// More info in: https://github.com/bbepis/XUnity.AutoTranslator#ui-font-resizing
+//*******************************************************************
+//*******************************************************************
+
+//Scope of the file: Only applies to tutorials (-1024)
+//                   for Koikatsu Sunshine main game
+#set exe KoikatsuSunshine
+$set level -1024
+
+//---------------------------------------------------------
+// Tits
+//---------------------------------------------------------
+Tutorial_H(Clone)/BG/Panel/Main/H/Page 3/Contents2/2/2_Text (2)=ChangeFontSizeByPercentage(0.7)
+//---------------------------------------------------------
+// Nipples
+//---------------------------------------------------------
+Tutorial_H(Clone)/BG/Panel/Main/H/Page 3/Contents2/2/2_Text (3)=ChangeFontSizeByPercentage(0.7)
+//---------------------------------------------------------
+// Butts
+//---------------------------------------------------------
+Tutorial_H(Clone)/BG/Panel/Main/H/Page 3/Contents2/2/2_Text (4)=ChangeFontSizeByPercentage(0.7)
