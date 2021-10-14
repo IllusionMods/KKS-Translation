@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「それじゃ、私はそろそろ行くわ。また今度、二人で観光しましょうね」=“Well, I'd better get going.”
+「それじゃ、私はそろそろ行くわ。また今度、二人で観光しましょうね」=“Well, I'd better get going. Let's go sightseeing together again.”

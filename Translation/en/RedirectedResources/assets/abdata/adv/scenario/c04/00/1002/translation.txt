@@ -11,4 +11,4 @@
 「コツを教えようか？」=“Want me to give you some tips?”
 「お願いしようかしら。負けたままでは悔しいもの」=“Maybe I should ask. It's no fun losing.”
 「私を本気にさせた責任、取ってもらうから。ふふふふふ……」=“You'll have to deal with consequences of taking me seriously. Fufufufufu...”
-（うわ……、目が本気だ。[H名]が勝つまで許してくれなさそうだなぁ……）=“Fuwa... such a serious stare. I don't think you're gonna let me off the hook until you win, [H名].”
+（うわ……、目が本気だ。[H名]が勝つまで許してくれなさそうだなぁ……）=(Fuwa... such a serious stare. I don't think you're gonna let me off the hook until you win, [H名]...)

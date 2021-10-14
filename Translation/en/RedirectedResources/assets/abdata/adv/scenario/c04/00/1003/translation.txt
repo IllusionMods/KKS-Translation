@@ -6,7 +6,7 @@
 「砂が星の形をしているなんて素敵ね……」=“I like how it's in the shape of a star...”
 「知ってる？　星の砂の正体って小さな生き物が死んだあとの殻なんだって」=“I know, right? Actually, the true identity of the star sand is that's a shell of a tiny creature, after it dies.”
 「もう……ここでそういうことを言う？　ロマンの欠片もないわね……」=“But... why did you just tell me that? There's not an ounce of romance in it.”
-（まずい……！　呆れられている……！）=“How unappealing...! I'm disgusted...!”
+（まずい……！　呆れられている……！）=(How unappealing...! I'm disgusted...!)
 「だけどほら、中身が空っぽならその分だけ思い出を詰め込めるってことでしょ？　お土産にピッタリかも」=“But hey, look... if the shell's empty, doesn't that mean you can fill it with your own memories? It's the perfect souvenir.”
 「あら？　なかなか素敵な考え方ね。いいわ。今ので許してあげる」=“Oh? That's a nice sentiment. Good. You're forgiven.”
 「ほっ、よかった……」=“Whew, that's good...”
