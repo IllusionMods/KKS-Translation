@@ -1,9 +1,9 @@
 #set level -1024
 ラブラブH！女の子と気持ちよくなろう！=Let's make love with the girls!
 ◆Ｈシーン：エッチを受け入れてくれた女の子を満足させてあげよう！=◆ H scene: Let's satisfy the girl!
-気持ちよくしてあげよう！=Make her feel good!
-気持ちよくしてもらおう！=Let her make you feel good!
-一緒に気持ちよくなろう！=Make each other feel good!
+気持ちよくしてあげよう！=Makes her feel good!
+気持ちよくしてもらおう！=Makes you feel good!
+一緒に気持ちよくなろう！=Makes both feel good!
 「愛撫」=Caress
 「奉仕」=Service
 「挿入」=Insert
@@ -21,8 +21,8 @@
 奉仕・挿入などのＨ中の主な操作をこの枠の中で行います。=Main controls in H scenes are done within this frame.
 表示・位置変更=Settings
 服装や位置等を変更することができます。=You can change clothes, locations amongst other things here.
-メモリ=Memory
-男女の快感ゲージがメモリ以上であれば一緒に絶頂できます。=If both pleasure gauges are above the memory threshold, both boy and girl can orgasm together.
+メモリ=Climax
+男女の快感ゲージがメモリ以上であれば一緒に絶頂できます。=If both pleasure gauges are above the climax threshold, both boy and girl can orgasm together.
 女快感ゲージ=Girl pleasure
 愛撫や挿入中に上昇し、最大まで上がると絶頂します。=Caress and insertion fills this gauge, causing the girl to orgasm when full.
 男快感ゲージ=Boy pleasure
