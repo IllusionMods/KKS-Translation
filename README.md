@@ -312,6 +312,7 @@ To view the tutorials either press `F5` while playing the main game or delete `K
 
 See the readme above on how to handle the MachineTranslations. The goal is to manually translate everything in the files `translation.txt` and clear all `zz_MachineTranslation.txt` files.
 
+- Translate items from the new DLC in`RedirectedResources/assets/abdata/list/characustom/50`
 - <s>Check Nicknames in `RedirectedResources\assets\abdata\etcetra\list\nickname\00`</s> Taken by Dark Pulse 
 - <s>Translate Studio Animation Categories in `RedirectedResources\assets\abdata\studio\info\01\animecategory_**_**\` (medium, 5 files)</s> Taken by Dark Pulse 
 - <s>Translate Studio Animations in `RedirectedResources\assets\abdata\studio\info\**\anime_**_**_**\` (long, 15 files)</s> Taken by Dark Pulse 
