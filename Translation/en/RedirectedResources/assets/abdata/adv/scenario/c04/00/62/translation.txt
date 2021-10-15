@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「その……せっかくだから、背中だけじゃなくて前側も塗ろうか？」=“Um, why don't you apply it to my front side, instead of just my back?”
-「……それって、やましい気持ちは一切ないの？」=“...does that mean you don't have any issues with this?”
+「その……せっかくだから、背中だけじゃなくて前側も塗ろうか？」=“So uh...it's not like we get to do this often, so should I apply to your front side too?”
+「……それって、やましい気持ちは一切ないの？」=“...you sure you don't have any ulterior motives?”
 「ないと言ったら嘘になります」=“I'd be lying if I said I didn't.”
-「もう……なんでも正直に言えばいいわけじゃないのよ？」=“Geez... can't I just be honest about something for once?”
-「でも、あなたならいいわ。しっかりと塗ってね」=“But I'm good with you. Make sure you apply it properly.”
+「もう……なんでも正直に言えばいいわけじゃないのよ？」=“Geez... it's not like I'd be OK with it if you were honest?”
+「でも、あなたならいいわ。しっかりと塗ってね」=“But, it's fine if it's you. Make sure you apply it properly.”

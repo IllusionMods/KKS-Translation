@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふふっ……もうあなたのがクセになってるみたい。また、しましょうね」=“Fufu...! Looks like I'm already getting hooked on you.”
+「ふふっ……もうあなたのがクセになってるみたい。また、しましょうね」=“Fufu...! Looks like I'm already getting hooked on you. Let's do it again sometime.”

@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「卓球台があるし、勝負しようよ」=“Hey, there's a ping-pong table here. Let's play.”
-「はぁはぁ……ま、負けたわ……」=“Ahaa ahaa... well, I lost...”
+「はぁはぁ……ま、負けたわ……」=“*Heavy breathing*... well, I lost...”
 「やった、勝ったーーー！」=“I did it, I won---!”
 「女の子相手に本気を出すなんて。紳士にあるまじき行いね」=“I can't believe you'd go so hard against a girl. That's unbecoming of a gentleman.”
 「でも、手を抜いたら怒るでしょ？」=“But you'd be upset if I held back, wouldn't you?”
@@ -10,5 +10,5 @@
 「卓球って思っていたより難しいわね。あなどっていたわ……」=“Table tennis is harder than I thought. I underestimated you...”
 「コツを教えようか？」=“Want me to give you some tips?”
 「お願いしようかしら。負けたままでは悔しいもの」=“Maybe I should ask. It's no fun losing.”
-「私を本気にさせた責任、取ってもらうから。ふふふふふ……」=“You'll have to deal with consequences of taking me seriously. Fufufufufu...”
-（うわ……、目が本気だ。[H名]が勝つまで許してくれなさそうだなぁ……）=(Fuwa... such a serious stare. I don't think you're gonna let me off the hook until you win, [H名]...)
+「私を本気にさせた責任、取ってもらうから。ふふふふふ……」=“You'll have to deal with consequences of making me serious about winning. Fufufufufu...”
+（うわ……、目が本気だ。[H名]が勝つまで許してくれなさそうだなぁ……）=(Fuwa... such a serious stare. I don't think [H名]'s gonna let me off the hook until she win...)

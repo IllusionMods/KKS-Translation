@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-係員さん=Camp Counselor
+係員さん=Staff
 「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“Alright, we're lighting the campfire. If you want to participate, pair off.”
 「フォークダンスもやるんだってさ。せっかくだし参加してみようよ」=“They're going to have a folk dance. We should join in.”
 「ええ、かまわないわよ」=“Ehhh, I wouldn't mind.”
 「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Everyone have a partner? ...then I'll start the music when everyone's ready.“
-「キャンプファイヤーでフォークダンス……お決まりのシチュエーションだけれど、あなたとなら楽しい時間になりそう」=“Folk dancing by the campfire... a classic situation... I'm gonna have so much fun with you.”
+「キャンプファイヤーでフォークダンス……お決まりのシチュエーションだけれど、あなたとなら楽しい時間になりそう」=“Folk dancing by the campfire... kind of a cliché situation but... if it's with you, then no doubt it's gonna be a fun time.”
 「おわっ、足がもつれる。フォークダンスって、意外と難しいなぁ」=“Whoa, our legs tangled up. Folk dancing is surprisingly difficult.”
 「ほら、しっかり。私の手に掴まって」=“Here, hold tight. Grab my hand.”
 「こうかな？」=”Like this?”
 「ふふっ、上手よ。その調子で私に合わせて」=“Fufu! Good. Keep up with me.”
-「ごめん。[H名]にばかりリードさせて」=“Sorry. I'll let you lead, [H名].”
+「ごめん。[H名]にばかりリードさせて」=“Sorry for making you lead, [H名].”
 「私達は恋人同士なんだから、こんなこと気にしないで」=“Don't worry about it. I mean, we are lovers.”
 「それより、もっとしっかり掴まって？」=“Better yet, could you hold me tighter?”
 （わぁ、[H名]をすごく近くに感じる。いい匂いもするな……）=(Fuwa, I enjoy having [H名] so close. She smells good, too...)

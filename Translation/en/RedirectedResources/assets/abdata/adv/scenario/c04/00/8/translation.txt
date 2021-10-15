@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「今日はこのまま、ここにいようかしら……なんて」=“I think I'll just stay here for the rest of the day...”
+「今日はこのまま、ここにいようかしら……なんて」=“I think I'll just stay here for the rest of the day...just kidding.”
 「私は支度をしてくるわ。また後でね」=“I'm gonna go get ready. I'll see you soon.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「すごい量……やっぱり男の子は大食いなのね。でも、もう少し野菜を摂らなきゃダメよ？」=“That's so much... boys really are big eaters, after all. But shouldn't you be eating for vegetables?”
+「すごい量……やっぱり男の子は大食いなのね。でも、もう少し野菜を摂らなきゃダメよ？」=“That's so much... boys really are big eaters, aren't they?. But shouldn't you be eating more vegetables?”
 「それは……はい……お皿が茶色ばっかりなのは反省してます」=“That's... yeah... I'm sorry that my plate is all brown.”
 「あなたと結婚したら、献立はしっかり考えないといけなさそうね」=“If I marry you, I'm going to have to carefully consider our diet.”
 「ん……？　今なにか言った？」=“Nh...? Did you just say something now?”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「こうして形を整えて……うん、中々上手に出来てるな」=“Shaping it like that... yeah, you're good at this.”
-「へぇ、あなたは手先が器用なのね」=“Ehe, you're really good with your hands.”
+「こうして形を整えて……うん、中々上手に出来てるな」=“Then you do this to keep up the shape... yeah, looks real nice, if I do say so myself.”
+「へぇ、あなたは手先が器用なのね」=“Wow, you're really good with your hands.”
 「はは、ありがとう。本当はあんまり得意な方じゃないんだけど、今のところは順調なんだ」=“Haha, thanks. I'm really not all that great, but it's going well so far.”
 「あなたに負けない様に、私も凝ったものを作ってみようかな」=“I'm not going to lose out to you... so I guess I should make something more elaborate.”
-「全体的に細かい模様をびっしり書いてみたり、超巨大なシーサーを作ってみたり」=“Try carving detailed patters all over, or making a super-huge Shisa.”
-「それ、この体験の時間だけじゃ絶対終わらないと思うよ？」=“I'm pretty sure this experience might last a while, you know?”
+「全体的に細かい模様をびっしり書いてみたり、超巨大なシーサーを作ってみたり」=“Like carving detailed patters all over, or making a super-huge Shisa.”
+「それ、この体験の時間だけじゃ絶対終わらないと思うよ？」=“I'm pretty sure that'd put us well over the time limit, no?”

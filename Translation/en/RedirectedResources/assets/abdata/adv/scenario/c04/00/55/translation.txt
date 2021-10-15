@@ -5,8 +5,8 @@
 「どうしたの？　すごく機嫌良さそうだけど」=“What's up? Looks like you're in a really good mood.”
 「むっ、今その機嫌も悪くなりそうだわ。私が愛称で呼んでるのに」=“Hmph, now that mood's gonna get worse. I called you by your nickname.”
 「あ、愛称……？」=“Ah, my nickname...?”
-「うん。私たち、そういうの意識したことなかったでしょ？　……だから、特別な呼び方で呼んでほしいの」=“Yeah. We've never been aware of that, have we? So I want you to call me by my special name.”
-「ね、お願い……[Pあだ名]……私を呼んで？」=“Hey, please... [Pあだ名]... call me by a nickname?”
+「うん。私たち、そういうの意識したことなかったでしょ？　……だから、特別な呼び方で呼んでほしいの」=“Yeah. We've never been conscious about that, have we? So I want you to call me by my special name.”
+「ね、お願い……[Pあだ名]……私を呼んで？」=“Please... [Pあだ名]... call me by a nickname?”
 「っ……じ、じゃあ……[Hあだ名]」=“!... s-sure... [Hあだ名].”
 「ええ、もっと呼んで」=“Ehhh, do that more!”
 「[Hあだ名]……[Hあだ名]！」=“[Hあだ名]... [Hあだ名]!”

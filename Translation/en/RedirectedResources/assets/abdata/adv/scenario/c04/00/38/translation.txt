@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「カヤックって、思っていたよりも距離が近くなるのね」=“Kayaking really is close to what I thought it would be.”
-「少人数で乗るものだしね。ドキドキしちゃう？」=“It's a ride for small groups. Excited about it?“
-「ええ。でも、あなたといる時は大体ドキドキするわ」=“Ehh. But when I'm with you, I'm usually excited, anyway.”
+「カヤックって、思っていたよりも距離が近くなるのね」=“A kayak is smaller than what I thought.”
+「少人数で乗るものだしね。ドキドキしちゃう？」=“It's meant for only two people, so yeah. Got your heart all racing yet?“
+「ええ。でも、あなたといる時は大体ドキドキするわ」=“Yes. But when I'm with you, my heart usually races anyway.”
 「っ……そ、そっか」=“!... I-I see.”
-「ふふ、こんなことで照れないの。私の方が恥ずかしくなっちゃう」=“Fufu, you can't be that embarrassed by that. I'm embarrassed for you.”
+「ふふ、こんなことで照れないの。私の方が恥ずかしくなっちゃう」=“Fufu, don't be embarrassed by such things. You're making me embarrassed too.”

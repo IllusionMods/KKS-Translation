@@ -3,7 +3,7 @@
 //
 「これは……絵になるなぁ」=“This is... quite the picture.”
 「うん？　何の話？」=“Yeah? What are you talking about?”
-「この景色ときみの姿が、なんというか様になってるなって思ったんだ」=“You, and the view... I just lot it was kinda cool.”
+「この景色ときみの姿が、なんというか様になってるなって思ったんだ」=“You, and the view... Kinda fits well within a frame.”
 「それは、褒めているのかしら？」=“Is that a compliment?”
-「もちろん！　俺にもうちょっと語彙力があれば、この美しさを伝えられるんだけど……」=“Of course! If my vocabulary was better, I could tell you how beautiful you are...”
-「う、うーん、あんまりピンときてないんだけど……褒めて貰えて悪い気はしないわ」=“Y-yeeeah, I'm not what to make of that... but I appreciate the compliment.”
+「もちろん！　俺にもうちょっと語彙力があれば、この美しさを伝えられるんだけど……」=“Of course! If my vocabulary was better, I could tell you how beautiful it looks from here...”
+「う、うーん、あんまりピンときてないんだけど……褒めて貰えて悪い気はしないわ」=“I-Is that so, I don't think that's the case... but I appreciate the compliment.”

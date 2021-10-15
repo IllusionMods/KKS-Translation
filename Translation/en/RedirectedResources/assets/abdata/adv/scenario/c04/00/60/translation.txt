@@ -6,5 +6,5 @@ SELECTION:「返事をする」=Respond.
 SELECTION:「……」=...
 「うん？　どうかした？」=“Yeah? What's going on?”
 「なんだか急にあなたの顔を見たくなって……」=“I had the sudden need to see your face.”
-「朝まで、ずっと傍にいてもいいかしら……？」=“Can I say with you until morning...?”
+「朝まで、ずっと傍にいてもいいかしら……？」=“Can I stay with you until morning...?”
 「……留守みたいね。残念だわ」=“...looks like he's not home. That's a shame.”

@@ -7,4 +7,4 @@
 「って……え？　え？」=“Whaa.. eh? Ehh?”
 「おはよう、ふふっ。ご機嫌いかが？」=“Good morning, fufu. How are you?”
 「よく眠れたけど……って、そうじゃなくて！」=“I slept well... hey, what's up with that!”
-「ふふ……あなたはじっとしていてね？　今は私が動く番だから♪」=“Fufu... you just stay still, okay? It's my turn to move, now♪”
+「ふふ……あなたはじっとしていてね？　今は私が動く番だから♪」=“Fufu... you just stay still, okay? It's my turn to move now♪”
