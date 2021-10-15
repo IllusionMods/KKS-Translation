@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと休んでいこうよ」=
-//「にへへへへ～……」=
-//「どうしたの？　変な笑い方して」=
-//「へっ？　私、笑ってたですか？　……って、それよりも『変な』はちょっと引っかかるです」=
-//「恋人に言うことじゃないと思うのです！　さすがに傷つくですよ……？」=
-//「可愛いなーってニュアンスで言ったつもりだったんだよ、勘違いさせてごめん」=
-//「そ、そうなのですか？　それならいいのですが……」=
-//「それで、随分ご機嫌だけど、アイスが好きなの？」=
-//「子供扱いはＮＧなのです！　私が思わずニコニコしてた理由は……分かってくれるですよね？」=
-//「その……こーいうのは、恋人同士の特別な時間だなー……と思って浸っていたのですよ」=
-//「そうだね。くつろいだ、穏やかな時間……みたいな」=
-//「こーいうのを通じて実感が積み上がっていくと思うのです。恋ってソワソワドキドキばっかりじゃないのですね……」=
-//「何気ない幸せだなーって時間が……すっごく心地良いのです」=
-//「何気ない時間が幸せってわかるなぁ……俺も[H名]と二人でいるの、好きだよ」=
-//「こうやって、並んでアイス食べてるだけでも幸せを実感する」=
-//「そ、そんなこと、まっすぐ目を見て言われたら……好きになっちゃうですよー！」=
-//「まだ好きじゃないの！？」=
-//「好きに決まってるのです！　今よりもーっともーっとって意味なのです！」=
-//「あはは、それなら良かったよ」=
+「ちょっと休んでいこうよ」=“Let's take a little break.”
+「にへへへへ～……」=“Nihehehehe~...”
+「どうしたの？　変な笑い方して」=“What's up? That was a weird laugh.”
+「へっ？　私、笑ってたですか？　……って、それよりも『変な』はちょっと引っかかるです」=“Ehe!? Did I laugh? Now I'm worried about by what you mean by 'weird'.”
+「恋人に言うことじゃないと思うのです！　さすがに傷つくですよ……？」=“I don't think that's something you should say about your girlfriend! My feelings are hurt now, you know...?”
+「可愛いなーってニュアンスで言ったつもりだったんだよ、勘違いさせてごめん」=“I meant it in a nuanced way, like, 'you're so cute'. I'm sorry if you misunderstood.”
+「そ、そうなのですか？　それならいいのですが……」=“I-is that so? Then that's fine, I guess...”
+「それで、随分ご機嫌だけど、アイスが好きなの？」=Well then, you're in a pretty good. Liking that ice cream?”
+「子供扱いはＮＧなのです！　私が思わずニコニコしてた理由は……分かってくれるですよね？」=“Being treated like a child is not good! I just can't help but smile... and you understand why, right?”
+「その……こーいうのは、恋人同士の特別な時間だなー……と思って浸っていたのですよ」=“Um... this is a special time for lovers... I was just soaking it in.”
+「そうだね。くつろいだ、穏やかな時間……みたいな」=“I agree. This is such a relaxing, peaceful time.”
+「こーいうのを通じて実感が積み上がっていくと思うのです。恋ってソワソワドキドキばっかりじゃないのですね……」=“I think that through times like these, our feelings for each other will grow. Love isn't all about excitement and nervousness, is it...”
+「何気ない幸せだなーって時間が……すっごく心地良いのです」=“Just casual, happy time together... it's very enjoyable.”
+「何気ない時間が幸せってわかるなぁ……俺も[H名]と二人でいるの、好きだよ」=“I can tell how happy you are in casual moments... I love being alone with you, too, [H名].”
+「こうやって、並んでアイス食べてるだけでも幸せを実感する」=“I feel happy just eating ice cream side by side like this.”
+「そ、そんなこと、まっすぐ目を見て言われたら……好きになっちゃうですよー！」=“When you look me in the eye, and say something like that... it's gonna make me fall in love with you-!”
+「まだ好きじゃないの！？」=“You don't love me already!?”
+「好きに決まってるのです！　今よりもーっともーっとって意味なのです！」=“Of course I love you! You mean more to me now than ever!”
+「あはは、それなら良かったよ」=“Ahaha, well, that's good to know.”
