@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとだけ卓球をやっていこうよ」=
-//「ラケット握るのこうだったです？　うーん、あんまり経験ないから緊張しちゃうですよー」=
-//「そんなに難しく考えなくても」=
-//「下手っぴでも私に幻滅しないで欲しいです……」=
-//「なんでそんなにテンション低いの？　幻滅なんかしないよ」=
-//「じゃあ好きです？」=
-//「す、好きだよ……ってなんの話？　卓球で遊ぶだけでしょ。ほら、行くよ？」=
-//「やっぱり、あんまり好みじゃなかった？　調子出なかったみたいだね」=
-//「……そうやってとぼけるなんて、意地悪なのです」=
-//「俺、なんかしたっけ？」=
-//「好きって言ったことですよ！　試合中ずっとドキドキして……し、視線とかも気になっちゃったのです」=
-//（聞かれたから答えただけなのに……）=
-//「私、変なお顔してなかったですか？　にやけちゃってたので心配なのです……」=
-//「全然！　その……ずっと可愛かったよ」=
-//「本当ですか？　えへへ……」=
-//「って、これじゃあまた照れちゃうですよー！」=
-//「このままじゃ、無限にこのやり取りが続きそうだね……これで切り上げよっか」=
+「ちょっとだけ卓球をやっていこうよ」=“Let's play a little table tennis.”
+「ラケット握るのこうだったです？　うーん、あんまり経験ないから緊張しちゃうですよー」=“Does it involve holding a racquet? Hmm, I'm nervous... I don't know much about that.”
+「そんなに難しく考えなくても」=“Don't overthink it.”
+「下手っぴでも私に幻滅しないで欲しいです……」=“I hope you won't be disappointed with me if I'm not good at it...”
+「なんでそんなにテンション低いの？　幻滅なんかしないよ」=“Why do you sound so down? I won't be disappointed.”
+「じゃあ好きです？」=“Then you'll still love me?”
+「す、好きだよ……ってなんの話？　卓球で遊ぶだけでしょ。ほら、行くよ？」=“Love you... what are you talking about? We're just playing ping-pong. Here we go, okay?”
+「やっぱり、あんまり好みじゃなかった？　調子出なかったみたいだね」=“You didn't enjoy that much, did you? You didn't look that enthusiastic.”
+「……そうやってとぼけるなんて、意地悪なのです」=“...it was mean of you to play stupidly like that.”
+「俺、なんかしたっけ？」=“Did I do something wrong?”
+「好きって言ったことですよ！　試合中ずっとドキドキして……し、視線とかも気になっちゃったのです」=“I'm telling you I liked it! The match was really exciting... but the way you were staring at me was distracting.”
+（聞かれたから答えただけなのに……）=(I was just answering the question she gave me...)
+「私、変なお顔してなかったですか？　にやけちゃってたので心配なのです……」=“Was I making funny faces? The way you were smirking bothered me...”
+「全然！　その……ずっと可愛かったよ」=“Not at all! Um... you were cute.”
+「本当ですか？　えへへ……」=“Really? Ehehe...”
+「って、これじゃあまた照れちゃうですよー！」=“Geez, now I'm getting embarrased again-!”
+「このままじゃ、無限にこのやり取りが続きそうだね……これで切り上げよっか」=“At this rate, our exchange will go on indefinitely... let's wrap this up, shall we?”
