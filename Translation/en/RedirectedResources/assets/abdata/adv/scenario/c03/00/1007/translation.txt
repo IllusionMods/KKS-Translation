@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えへへ、大好きなあなたと水族館……頬がゆるゆるになっちゃうですよー」=
-//「はは、そこまで喜んでもらえるなんて光栄だな」=
-//「でも俺じゃなくて、魚を見ないとダメだよ？」=
-//「はわわ、確かにその通りなのです！　どんなお魚がいるですかね？」=
-//「珍しい魚がいっぱいいるよ。ほら、あそこにいるやつとか」=
-//「おおっ、すっごくカラフルな色をしてるですよー！　綺麗なのです」=
-//「はっ！　あっちにはすごーくでっかいのがいるですー！」=
-//「えへ、見どころ満点ですね！」=
-//「俺……[H名]を連れてきてよかったよ」=
-//「どーしてそんなに震えちゃってるですか！？」=
-//「あまりにも無邪気にに喜んでくれるから、嬉しくてさ……」=
-//「そ、そんな反応をされると、私が困っちゃうですよ？　一緒に笑顔で楽しんでほしいのですっ」=
-//「そうだね。じゃあ……手を繋ぎながら回ろうか。恋人らしく、ね」=
-//「はいなのですっ！　えへへ、照れちゃうけど……すっごく良いですね！」=
+「えへへ、大好きなあなたと水族館……頬がゆるゆるになっちゃうですよー」=“Ehehe, going to the aquarium with my favorite person... my cheeks are gonna get loose from smiling-”
+「はは、そこまで喜んでもらえるなんて光栄だな」=“Haha, I'm flattered that you're so pleased.”
+「でも俺じゃなくて、魚を見ないとダメだよ？」=“But you need to look at the fish, and not me, okay?”
+「はわわ、確かにその通りなのです！　どんなお魚がいるですかね？」=“Awawa, you're absolutely correct! What kind of fish do they have here?”
+「珍しい魚がいっぱいいるよ。ほら、あそこにいるやつとか」=“Lots of rare fish. Hey, that one over there...”
+「おおっ、すっごくカラフルな色をしてるですよー！　綺麗なのです」=“Ooooh, it has so many colors-! It's so pretty!”
+「はっ！　あっちにはすごーくでっかいのがいるですー！」=“Aha! And there's a huge one right over there-!”
+「えへ、見どころ満点ですね！」=“Ehe, there's so much to see!”
+「俺……[H名]を連れてきてよかったよ」=I'm... glad I brought you here, [H名].”
+「どーしてそんなに震えちゃってるですか！？」=“Why are you trembling so much!?”
+「あまりにも無邪気にに喜んでくれるから、嬉しくてさ……」=“Such innocent happiness here... makes me happy, too...”
+「そ、そんな反応をされると、私が困っちゃうですよ？　一緒に笑顔で楽しんでほしいのですっ」=“You're not in trouble for acting that way, you know? I want you to smile and have fun with me!”
+「そうだね。じゃあ……手を繋ぎながら回ろうか。恋人らしく、ね」=“Yeah, you're right. Then... let's look around, while we hold hands. Like lovers do, eh?”
+「はいなのですっ！　えへへ、照れちゃうけど……すっごく良いですね！」=“Okey-dokey! Ehehe, this is embarrassing... but super nice, too!”
