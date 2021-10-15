@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねぇ……部屋にいる？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
-//「うん？　どうかした？」=
-//「なんだか急にあなたの顔を見たくなって……」=
-//「朝まで、ずっと傍にいてもいいかしら……？」=
-//「……留守みたいね。残念だわ」=
+「ねぇ……部屋にいる？」=“Hey... you in there?”
+SELECTION:「返事をする」=Respond.
+SELECTION:「……」=...
+「うん？　どうかした？」=“Yeah? What's going on?”
+「なんだか急にあなたの顔を見たくなって……」=“I had the sudden need to see your face.”
+「朝まで、ずっと傍にいてもいいかしら……？」=“Can I stay with you until morning...?”
+「……留守みたいね。残念だわ」=“...looks like he's not home. That's a shame.”

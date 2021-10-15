@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//係員さん=
-//「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=
-//「フォークダンスもやるんだってさ。せっかくだし参加してみようよ」=
-//「ええ、かまわないわよ」=
-//「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=
-//「キャンプファイヤーでフォークダンス……お決まりのシチュエーションだけれど、あなたとなら楽しい時間になりそう」=
-//「おわっ、足がもつれる。フォークダンスって、意外と難しいなぁ」=
-//「ほら、しっかり。私の手に掴まって」=
-//「こうかな？」=
-//「ふふっ、上手よ。その調子で私に合わせて」=
-//「ごめん。[H名]にばかりリードさせて」=
-//「私達は恋人同士なんだから、こんなこと気にしないで」=
-//「それより、もっとしっかり掴まって？」=
-//（わぁ、[H名]をすごく近くに感じる。いい匂いもするな……）=
-//「あなたの手、大きいのね。男の子の手だわ……」=
-//「あれ？　なんだか顔が赤くなってない？」=
-//「……別に赤くなんてなっていないわ。焚き火の炎が強すぎるせいよ」=
-//「そう言うあなただって、顔が真っ赤じゃない。照れているの？」=
-//「そ、そんなことないよ。焚き火のせいだよ」=
-//「ふふっ。私と同じことを言って誤魔化してる。慌てちゃって可愛いわね」=
+係員さん=Staff
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“Alright, we're lighting the campfire. If you want to participate, pair off.”
+「フォークダンスもやるんだってさ。せっかくだし参加してみようよ」=“They're going to have a folk dance. We should join in.”
+「ええ、かまわないわよ」=“Ehhh, I wouldn't mind.”
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Everyone have a partner? ...then I'll start the music when everyone's ready.“
+「キャンプファイヤーでフォークダンス……お決まりのシチュエーションだけれど、あなたとなら楽しい時間になりそう」=“Folk dancing by the campfire... kind of a cliché situation but... if it's with you, then no doubt it's gonna be a fun time.”
+「おわっ、足がもつれる。フォークダンスって、意外と難しいなぁ」=“Whoa, our legs tangled up. Folk dancing is surprisingly difficult.”
+「ほら、しっかり。私の手に掴まって」=“Here, hold tight. Grab my hand.”
+「こうかな？」=”Like this?”
+「ふふっ、上手よ。その調子で私に合わせて」=“Fufu! Good. Keep up with me.”
+「ごめん。[H名]にばかりリードさせて」=“Sorry for making you lead, [H名].”
+「私達は恋人同士なんだから、こんなこと気にしないで」=“Don't worry about it. I mean, we are lovers.”
+「それより、もっとしっかり掴まって？」=“Better yet, could you hold me tighter?”
+（わぁ、[H名]をすごく近くに感じる。いい匂いもするな……）=(Fuwa, I enjoy having [H名] so close. She smells good, too...)
+「あなたの手、大きいのね。男の子の手だわ……」=“Your hands are so big. Truly a boy's hands...”
+「あれ？　なんだか顔が赤くなってない？」=What now? Is your face turning red, somehow?”
+「……別に赤くなんてなっていないわ。焚き火の炎が強すぎるせいよ」=“It's not like it's getting that red. It's just that the bonfire is really hot.”
+「そう言うあなただって、顔が真っ赤じゃない。照れているの？」=And it's not like you're not blushing, either. You that embarrassed?”
+「そ、そんなことないよ。焚き火のせいだよ」=”N-no, not at all. It's because of the bonfire.”
+「ふふっ。私と同じことを言って誤魔化してる。慌てちゃって可愛いわね」=“Fufu! You're cheating when you say the same thing I do. You're so cute when you're rattled.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……ええ、いいわ」=
-//「私の初めて、もらって？」=
-//「[H名]……」=
-//「泣いちゃうかもしれないけど、それは嬉し涙だから、気にしないでね」=
+「……ええ、いいわ」=“...yeah, that's okay with me.”
+「私の初めて、もらって？」=“Will you be my first?”
+「[H名]……」=“[H名]...”
+「泣いちゃうかもしれないけど、それは嬉し涙だから、気にしないでね」=“I might cry, but they'll be tears of joy, so don't worry about it.”

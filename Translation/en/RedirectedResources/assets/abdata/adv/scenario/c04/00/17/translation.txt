@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こんなこと聞くのも、恥ずかしいのだけど……私、ちゃんとできたかしら？」=
-//「うん、すごく良かったよ」=
-//「そっか。ふふっ……私も、気持ちよかったわ」=
+「こんなこと聞くのも、恥ずかしいのだけど……私、ちゃんとできたかしら？」=“I'm embarrassed to even ask this... but did I do everything right?”
+「うん、すごく良かったよ」=“Yeah, you were really good.”
+「そっか。ふふっ……私も、気持ちよかったわ」=“I see. Fufu...! I felt good, too.”

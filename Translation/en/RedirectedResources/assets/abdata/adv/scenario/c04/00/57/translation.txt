@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すぅ……すぅ…………ん、んん……」=
-//（んぅ……すごく気持ちいいような……いったい、何が……？）=
-//「…………」=
-//「って……え？　え？」=
-//「おはよう、ふふっ。ご機嫌いかが？」=
-//「よく眠れたけど……って、そうじゃなくて！」=
-//「ふふ……あなたはじっとしていてね？　今は私が動く番だから♪」=
+「すぅ……すぅ…………ん、んん……」=“Zzz... zzz... mm, mmm...”
+（んぅ……すごく気持ちいいような……いったい、何が……？）=(Nhuu... such a wonderful feeling... what the hell...?)
+「…………」=“...”
+「って……え？　え？」=“Whaa.. eh? Ehh?”
+「おはよう、ふふっ。ご機嫌いかが？」=“Good morning, fufu. How are you?”
+「よく眠れたけど……って、そうじゃなくて！」=“I slept well... hey, what's up with that!”
+「ふふ……あなたはじっとしていてね？　今は私が動く番だから♪」=“Fufu... you just stay still, okay? It's my turn to move now♪”

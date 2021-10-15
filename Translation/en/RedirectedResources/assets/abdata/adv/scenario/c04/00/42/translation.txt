@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線を弾ける男ってモテるかな？」=
-//「う、うーん……個人的には素敵だと思うけど、モテるかは怪しいところね」=
-//「そっか……ギターより珍しいし、イケると思ったんだけど」=
-//「そもそも、不純な動機でやってみるものではないでしょ？」=
-//「男が音楽を始める理由なんて、大体は女の子の為だよ」=
-//「酷い偏見ね……」=
+「三線を弾ける男ってモテるかな？」=“I wonder if guys who play the sanshin are popular?”
+「う、うーん……個人的には素敵だと思うけど、モテるかは怪しいところね」=“Hmmm... personally, I think it's nice, but I doubt it makes you popular.”
+「そっか……ギターより珍しいし、イケると思ったんだけど」=“I see... it's rarer than the guitar, so I thought it would be cooler.”
+「そもそも、不純な動機でやってみるものではないでしょ？」=“You're not just trying this out with indecent motives behind it, are you?”
+「男が音楽を始める理由なんて、大体は女の子の為だよ」=“Most of the time, the reason guys start playing music is to impress girls.”
+「酷い偏見ね……」=“You know that's just a stereotype, right?”

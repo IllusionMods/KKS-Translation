@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……二人っきりね。それで、何をするの？」=
-//「あ……ふふ、エッチな顔になってる。はじめから、そのつもりで連れてきたのね」=
-//「いいわ。私も少し……期待してたから」=
+「……二人っきりね。それで、何をするの？」=“...Looks like we're all alone. So, what are we doing?”
+「あ……ふふ、エッチな顔になってる。はじめから、そのつもりで連れてきたのね」=“Ah... fufu, your face's starting more and more lewd. So that's what your intentions were from the beginning.”
+「いいわ。私も少し……期待してたから」=“That's OK. I was kinda... hoping for it too.”

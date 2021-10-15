@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ウムイの鐘のジンクスを知ってる？　この鐘を鳴らした二人は必ず結ばれるそうよ」=
-//「ロマンチックだよね。せっかくだし、鳴らしてみようか」=
-//「待って。そんな簡単に決めていいの？」=
-//「どういう意味？」=
-//「結ばれるってことはつまり、いつかあなたと結婚……」=
-//「いいえ、なんでもないわ。そういうのはまだ気が早いものね」=
-//「そういう話か」=
-//「それなら大丈夫。[H名]との将来、きちんと考えてるから」=
-//「……っ」=
-//「あれ？　顔が真っ赤だよ」=
-//「だって、そんなにもストレートにプロポーズされるとは思わなくて……」=
-//「俺は本気だよ？」=
-//「え、ええ。わかってるわ」=
-//「はぁ……なんだか調子が狂っちゃう。でも、悪くはないわね」=
-//「それじゃあ、私と永遠の愛を誓ってくれる？　……なんて重すぎるかしら」=
-//「そんなことないよ」=
-//「ふふっ。ありがとう。あなたのこと好きになってよかったわ……」=
+「ウムイの鐘のジンクスを知ってる？　この鐘を鳴らした二人は必ず結ばれるそうよ」=“Have you heard about the Umui Bell's jinx? It's said that couples who sound the bell together will be forever together.”
+「ロマンチックだよね。せっかくだし、鳴らしてみようか」=“That's so romantic. Since we're here, let's go ahead and ring it.”
+「待って。そんな簡単に決めていいの？」=“Wait. It's just that easy for you to decide that?”
+「どういう意味？」=“What do you mean?”
+「結ばれるってことはつまり、いつかあなたと結婚……」=“Together forever means we'll be married someday...”
+「いいえ、なんでもないわ。そういうのはまだ気が早いものね」=“No, it's nothing. It's too early for something like that.”
+「そういう話か」=“So that's what bugging you.”
+「それなら大丈夫。[H名]との将来、きちんと考えてるから」=“That's okay. I've been thinking about my future with you, [H名].”
+「……っ」=“...!”
+「あれ？　顔が真っ赤だよ」=“What? You're blushing.”
+「だって、そんなにもストレートにプロポーズされるとは思わなくて……」=“I wasn't expecting you to propose to me straight-out like that...”
+「俺は本気だよ？」=“I'm serious, you know?”
+「え、ええ。わかってるわ」=“Y-Yes. I know.”
+「はぁ……なんだか調子が狂っちゃう。でも、悪くはないわね」=“*Sighs*... Never thought you'd take the lead on things. But, it's a nice change of pace.”
+「それじゃあ、私と永遠の愛を誓ってくれる？　……なんて重すぎるかしら」=“Well then, will you pledge your eternal love to me? ...A heavy burden now that I think about it.”
+「そんなことないよ」=”That's not true.”
+「ふふっ。ありがとう。あなたのこと好きになってよかったわ……」=“Fufu. Thank you. I'm glad I fell in love with you.”

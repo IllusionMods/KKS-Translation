@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「せっかくだし、上手に弾ける様になりたいわ。またやってみようかしら」=
+「せっかくだし、上手に弾ける様になりたいわ。またやってみようかしら」=“Since we're already here, I want to learn how to play well. I wonder if we could try this again.”

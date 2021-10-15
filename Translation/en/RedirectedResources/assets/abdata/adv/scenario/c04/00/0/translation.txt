@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あなたって面白い人よね」=
-//「それって褒めてるの……？」=
-//「うんうん、すごく褒めてるわ。あなたといると、楽しいもの」=
-//「だから、ほんの少し……怖かったりするのだけれど」=
-//「……今、なんて？」=
-//「あっ……いいえ、なんでもないわ、今のは忘れて？」=
-//「それじゃ、またね」=
+「あなたって面白い人よね」=“You're an interesting guy.”
+「それって褒めてるの……？」=“Is that a compliment...?”
+「うんうん、すごく褒めてるわ。あなたといると、楽しいもの」=“Yeah, yeah, I'm complimenting you. It's fun to be with you.”
+「だから、ほんの少し……怖かったりするのだけれど」=“Which is why... I'm a little scared.”
+「……今、なんて？」=“...what's this, now?”
+「あっ……いいえ、なんでもないわ、今のは忘れて？」=“Ah...! No, it's nothing, just forget that, okay?”
+「それじゃ、またね」=“I'll see you soon.”

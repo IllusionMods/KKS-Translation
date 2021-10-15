@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さすがは南の島だね。カラフルな魚ばかりだ」=
-//「とても素敵なアクアリウムね。けれど、ここで暮らす魚達は幸せなのかしら？」=
-//「どういう意味？」=
-//「すぐそばに綺麗な海が広がっているのに、こんな狭い水槽に閉じ込められて……なんだか可哀想」=
-//「難しい質問だね。餌の心配をしなくていいから、魚達は安心して暮らしているんじゃないかな」=
-//「だけどそれは管理された幸せよね。危険がない代わりに、見世物にされて……」=
-//「もしも私が人魚として水族館で見世物にされていたら、あなたはどうする？」=
-//「今すぐ助けに行くよ」=
-//「ふふっ。即答なのね」=
-//「私も同じ気持ちよ。もしもあなたが王子様だったら、この場で愛を歌うわ」=
-//「さっきの質問の答えだけれど、暮らす場所は問題ではなくて、誰がそばにいるのかが大事なのかも」=
-//「私が魚であなたが飼育員。あなたにだったら飼われてもいいかも……なんてね。ふふっ」=
+「さすがは南の島だね。カラフルな魚ばかりだ」=“This really is a southern island. So many colorful fishes.”
+「とても素敵なアクアリウムね。けれど、ここで暮らす魚達は幸せなのかしら？」=“This is a really nice aquarium. But I wonder: are the fish living here happy?”
+「どういう意味？」=“What do you mean?”
+「すぐそばに綺麗な海が広がっているのに、こんな狭い水槽に閉じ込められて……なんだか可哀想」=“Even though the beautiful ocean is so close, they're trapped inside such a small aquarium... I pity them, somehow.” 
+「難しい質問だね。餌の心配をしなくていいから、魚達は安心して暮らしているんじゃないかな」=“That's a tough question. But, since they don't have to worry about food, they must be content with life, no?”
+「だけどそれは管理された幸せよね。危険がない代わりに、見世物にされて……」=“But it's a controlled happiness. They've traded risk for being a spectacle.”
+「もしも私が人魚として水族館で見世物にされていたら、あなたはどうする？」=“What would you do, if I were a mermaid being flaunted inside an aquarium?”
+「今すぐ助けに行くよ」=“I'd come and get you immediately.”
+「ふふっ。即答なのね」=“Fufu! Such a quick answer.”
+「私も同じ気持ちよ。もしもあなたが王子様だったら、この場で愛を歌うわ」=“I feel the same way. If you were a prince, I'd sing my love for you right here.”
+「さっきの質問の答えだけれど、暮らす場所は問題ではなくて、誰がそばにいるのかが大事なのかも」=“To answer that last question, maybe it doesn't matter where you live, maybe it's who's by your side that counts.”
+「私が魚であなたが飼育員。あなたにだったら飼われてもいいかも……なんてね。ふふっ」=“I'm the fish, and you're the keeper. Maybe I'd be happy if you were the one to feed me...or maybe not. Fufu!”
