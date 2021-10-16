@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えへへ、気持ちのいい朝でしたね」=
-//「もうちょっと一緒にいたいですが、準備があるので……また後で、なのですっ」=
+「えへへ、気持ちのいい朝でしたね」=“Ehehe, it's a beautiful morning.”
+「もうちょっと一緒にいたいですが、準備があるので……また後で、なのですっ」=“I'd like to spend a little more time with you, but I have some things to get ready. I'll see you later, alligator!”
