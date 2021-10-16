@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さてと、何をしよっか？　やりたいことってあったりする？」=
-//「私はあなたに任せるですよ」=
-//「じゃあ、これとかどう？　船に引っ張ってもらいながら海面を滑るやつ」=
-//「ふぇっ！？　しょ、初心者の私が挑むにはハードルが高すぎるですよ！？」=
+「さてと、何をしよっか？　やりたいことってあったりする？」=“Alright, what should we do now? Are there things you want to do?”
+「私はあなたに任せるですよ」=“I'm leaving you in charge.”
+「じゃあ、これとかどう？　船に引っ張ってもらいながら海面を滑るやつ」=“Alright, how about this? Here... waterskiing!”
+「ふぇっ！？　しょ、初心者の私が挑むにはハードルが高すぎるですよ！？」=“Fweh!? That's too much for a beginner like me to take on!”
