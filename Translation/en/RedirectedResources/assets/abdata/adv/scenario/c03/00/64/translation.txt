@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「気持ち良すぎて、天国にいっちゃうかと思ったですよー！」=
-//「えへへ、おかげで気持ち良くなれたのですっ」=
-//「ふぅ……なんだか、身体が軽くなった気がするです」=
-//「あれ？　まだ塗ってないですよ？　終わっちゃうですか？」=
+「気持ち良すぎて、天国にいっちゃうかと思ったですよー！」=“That felt so good, I thought I was going to heaven-!”
+「えへへ、おかげで気持ち良くなれたのですっ」=“Ehehe, that made me feel super good.”
+「ふぅ……なんだか、身体が軽くなった気がするです」=“Phew... I'm feeling lighter on my feet.”
+「あれ？　まだ塗ってないですよ？　終わっちゃうですか？」=“Hey? You haven't oiled me yet, yeah? Are you done?”
