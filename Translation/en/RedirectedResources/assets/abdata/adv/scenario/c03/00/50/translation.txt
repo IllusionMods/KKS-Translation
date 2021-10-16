@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「これは……箸が止まらなくなっちゃうな」=
-//「私もなのです！　おかずが豊富で、どんどん食べちゃうですよー」=
-//「この定食を頼んで正解だったね。今度もこれを頼もうっと」=
-//「私はまだ出会えていない美味しいモノを求めて、違うメニューを注文するです！」=
-//「探求心があるね。それじゃ、中身汁ってのを頼んでみたら？」=
-//「な、中身……！？　ちょっと響きが怖いですが、挑戦あるのみです！」=
+「これは……箸が止まらなくなっちゃうな」=“This is... my chopsticks just won't stop.”
+「私もなのです！　おかずが豊富で、どんどん食べちゃうですよー」=“Mine too! There are so many side dishes, I just eat more and more-”
+「この定食を頼んで正解だったね。今度もこれを頼もうっと」=“You were right to order this combo meal. I think I'll order this again.”
+「私はまだ出会えていない美味しいモノを求めて、違うメニューを注文するです！」=“I'm always on the lookout for delicious food I've never encountered before, so I'm gonna order something different!”
+「探求心があるね。それじゃ、中身汁ってのを頼んでみたら？」=“You have an inquisitive soul. Well then, should we order soup?”
+「な、中身……！？　ちょっと響きが怖いですが、挑戦あるのみです！」=“Wh-what's in it...?! It sounds a little scary, but I'm up for the challenge!”
