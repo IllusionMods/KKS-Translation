@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「で、何か欲しいものでもあるのかしら？」=
-//「んー、どっちかっていうとお土産とかの下調べかな？」=
-//「そう、ウィンドウショッピングなのね。なら、私も色々吟味してみようかしら」=
-//「うん、今のうち見といた方が帰り際とかに時間取らずに済むしね」=
-//「ふふっ、そうね。それじゃお互いにいいものがあるか探してみましょ？」=
+「で、何か欲しいものでもあるのかしら？」=“So, is there something I can get for you?”
+「んー、どっちかっていうとお土産とかの下調べかな？」=“Hmm- I guess you're more interested in souvenirs, you know?”
+「そう、ウィンドウショッピングなのね。なら、私も色々吟味してみようかしら」=“Sure, you're just window shopping. I suppose I'll just have to look around, and see what I can find.”
+「うん、今のうち見といた方が帰り際とかに時間取らずに済むしね」=“Yeah, it's best to look while you can, so you don't spend time thinking about it on your way home, or something.”
+「ふふっ、そうね。それじゃお互いにいいものがあるか探してみましょ？」=“Fufu! Right. Then let's see if we can find something good for each other, okay?”
