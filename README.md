@@ -296,7 +296,7 @@ Some prefixes can be combined with numbers, which limit them to matching specifi
 
 ## Status
 
-Right now 37% of the game is translated and we are prioritizing the UI and game items. The project is evolving at a fast pace and things are constantly changing, so coordinate with other translators in the [Koikatsu Discord](https://discord.gg/urDt8CK) #lingual-studies channel. To avoid translation conflicts please take a look in the To Do list on #whiteboard channel and ask if anyone is working on a file in #lingual-studies channel. If you have any questions about the quality of your translations, ask for advice on the server.
+Right now 44.8% of the game is translated and we are prioritizing the UI and game items. The project is evolving at a fast pace and things are constantly changing, so coordinate with other translators in the [Koikatsu Discord](https://discord.gg/urDt8CK) #lingual-studies channel. To avoid translation conflicts please take a look in the To Do list on #whiteboard channel and ask if anyone is working on a file in #lingual-studies channel. If you have any questions about the quality of your translations, ask for advice on the server.
 
 ### To Do List
 
