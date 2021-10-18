@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]さん、こっちは回遊魚の水槽だって」=
-//「すごい……魚の群れというより、動き方が同じ過ぎて一匹の魚みたいね」=
-//「子供の頃に、国語の時間でこんな魚たちのお話を読んだけれど、これはたしかに驚くわ」=
-//「あ、[H名]さんのところもその話やったんだ、懐かしいなぁ」=
-//「定番なのね。こうやって魚群を作って、大きな魚を追い払う物語だったわ」=
-//「そうそう……でもそっか、当たり前だけど[H名]さんにも子供だった頃があったんだよね」=
-//「ふふっ、なあにいきなり。人をアンドロイドか何かみたいに言わないで頂戴」=
-//「ごめんごめん、逆に想像できなくて」=
-//「どこにでもいる普通の子だったわよ。でも、いまと比べると随分活発な女の子だったんじゃないかしら」=
-//「たとえば？」=
-//「そうね……それこそ、こうやって水族館に連れてきてもらうと、一日中見て回って、お土産までちゃっかり買ってもらうタイプね」=
-//「あはは、それじゃ今もあまり変わらないんじゃない？　いろんな水槽を見る[H名]さん、目をキラキラさせてたよ」=
-//「ふぅん。じゃあお土産も買ってもらっちゃおうかしら」=
-//「この島の魚の図鑑がいいかな？　それともぬいぐるみとか？」=
-//「もう、冗談よ」=
-//「俺は知ってるよ。冗談を言う時の[H名]さんは照れてるときだってね]=
-//「はいはい。あなたには適わないわ、ふふふ」=
-//「でも、普通に二人で水族館に来た思い出は買いたいよね。お土産コーナーも寄っていこうよ」=
-//「ふふっ、そうね。嬉しかったから私が買ってあげる。なんでも好きなものを選んで頂戴」=
-//（……？　照れる[H名]さんが可愛くて、ついからかっちゃったけど、それが嬉しかったのかな……？）=
+「[H名]さん、こっちは回遊魚の水槽だって」=“[H名], this one says it's a tank for migratory fish.”
+「すごい……魚の群れというより、動き方が同じ過ぎて一匹の魚みたいね」=“Wow... it's not a school of fish. It's more like a single fish that moves in the same way.”
+「子供の頃に、国語の時間でこんな魚たちのお話を読んだけれど、これはたしかに驚くわ」=“When I was a kid, I read a story about fish like these, in Japanese class. I was surprised.”
+「あ、[H名]さんのところもその話やったんだ、懐かしいなぁ」=“Ah, you said something about that once, [H名]. I missed it.”
+「定番なのね。こうやって魚群を作って、大きな魚を追い払う物語だったわ」=“It's a classic. It was a story about a school of fish that got rid of a bigger fish.”
+「そうそう……でもそっか、当たり前だけど[H名]さんにも子供だった頃があったんだよね」=“That's right... now I get it. It's obvious that there was a time like that for you, [H名], when you were a kid.”
+「ふふっ、なあにいきなり。人をアンドロイドか何かみたいに言わないで頂戴」=“Fufu! Hey, come on now. Don't talk to me like I'm a robot, or something.”
+「ごめんごめん、逆に想像できなくて」=“Sorry, sorry, but seriously, I can't imagine it.”
+「どこにでもいる普通の子だったわよ。でも、いまと比べると随分活発な女の子だったんじゃないかしら」=“She was just an ordinary kid from nowhere. But I think she was a much more active girl than she is now.”
+「たとえば？」=“For example?”
+「そうね……それこそ、こうやって水族館に連れてきてもらうと、一日中見て回って、お土産までちゃっかり買ってもらうタイプね」=“You see... that's what you get when you bring me to the aquarium like this... the kind of person who spends all day looking around, and even buys souvenirs.”
+「あはは、それじゃ今もあまり変わらないんじゃない？　いろんな水槽を見る[H名]さん、目をキラキラさせてたよ」=“Ahaha, that's not much of a difference from now, is it?  [H名] looking at all the tanks, her eyes sparkling!”
+「ふぅん。じゃあお土産も買ってもらっちゃおうかしら」=“Hmph. I guess you should ask her to buy souvenirs, too.”
+「この島の魚の図鑑がいいかな？　それともぬいぐるみとか？」=“I wonder if there's a picture book of these fish? Or maybe a stuffed animal.” 
+「もう、冗談よ」=“Geez, I'm kidding.”
+「俺は知ってるよ。冗談を言う時の[H名]さんは照れてるときだってね]=“I know who you are. You get so embarrassed when I joke around with you, [H名].”
+「はいはい。あなたには適わないわ、ふふふ」=“Yeah, yeah. I'm no match for you, fufufu.”
+「でも、普通に二人で水族館に来た思い出は買いたいよね。お土産コーナーも寄っていこうよ」=“But I'd like to buy something that reminds us of coming to the aquarium together. Let's stop by the gift shop.”
+「ふふっ、そうね。嬉しかったから私が買ってあげる。なんでも好きなものを選んで頂戴」=“Fufu! Sure. I'd be happy to buy something for you. You can pick anything you like.”
+（……？　照れる[H名]さんが可愛くて、ついからかっちゃったけど、それが嬉しかったのかな……？）=
