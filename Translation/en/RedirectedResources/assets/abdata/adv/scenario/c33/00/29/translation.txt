@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃお邪魔してっと……」=
-//「さ、早く準備して？　私とエッチしたくて誘ったんでしょう？　ほらぁ……」=
+「それじゃお邪魔してっと……」=“Well, I'll leave you to it...”
+「さ、早く準備して？　私とエッチしたくて誘ったんでしょう？　ほらぁ……」=“C'mon, get ready, okay? You asked me out so you could have sex with me, right? Come on.”
