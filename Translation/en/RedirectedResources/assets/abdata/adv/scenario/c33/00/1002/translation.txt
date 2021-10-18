@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]さん、卓球台があるよ。ちょっと打っていかない？」=
-//「じゃあ[H名]さんサーブからで。いつでもいいよ」=
-//（[H名]さんのフォーム、可愛いな……）=
-//「……あなた、いま私のことを可愛いって思ったでしょう」=
-//「な、なんでわかったの！？　顔に書いてあった！？」=
-//「古い言い回しだけど、その通りよ。急に表情が柔らかくなって、ギャップ萌えを楽しんでいたわね」=
-//「図星……」=
-//「古い言い回しといえば、鼻の下を伸ばすっていうけど、私のことを健全な男の子の視線で見てるときのあなたは目が泳ぐのよ」=
-//「知らなかった……けど心当たりがあるかも……」=
-//「あと、あなたがひとりで私のことを思い出しているときの顔はね――」=
-//「待って恥ずかしいから！　っていうか見てたの！？」=
-//「この間、偶然見かけたから観察してたのよ。知りたくない？」=
-//「え……と……」=
-//「とりあえずいまは卓球に集中しましょうか。サーブいくわよ」=
-//「えっ、え……」=
-//「全然集中できなかった……はっ、まさかそういう作戦！？」=
-//「そんな面倒くさい女じゃないわよ。でも、あなたの百面相が見られて面白かったわ」=
-//「それに、動揺して何度もミスしちゃうあなた、とっても可愛かった。ほら、もっとしましょう？」=
-//（さっき可愛いって言ったから、その意趣返し？　というか[H名]さんって卓球強かったんだな……）=
+「[H名]さん、卓球台があるよ。ちょっと打っていかない？」=“Hey, [H名], there's a ping-pong table. Wanna smack the ball around a little?”
+「じゃあ[H名]さんサーブからで。いつでもいいよ」=“Okay, [H名], let's start with a serve. Whenever you're read.”
+（[H名]さんのフォーム、可愛いな……）=([H名] has a gorgeous figure...)
+「……あなた、いま私のことを可愛いって思ったでしょう」=“...you were just thinking that I was cute, didn't you.”
+「な、なんでわかったの！？　顔に書いてあった！？」=“H-how could you tell?! Was it written all over my face!?”
+「古い言い回しだけど、その通りよ。急に表情が柔らかくなって、ギャップ萌えを楽しんでいたわね」=“It's a cliche, but that's right. Your expression softened, all of a sudden, like you were enjoying the 'gyappumoe'.”
+「図星……」=“Bullseye...”
+「古い言い回しといえば、鼻の下を伸ばすっていうけど、私のことを健全な男の子の視線で見てるときのあなたは目が泳ぐのよ」=“Speaking of cliches, you say you're just scratching your noise, but your eyes dance when you look at me with a healthy boy's gaze.”
+「知らなかった……けど心当たりがあるかも……」=“I had no idea... but that might ring a bell...”
+「あと、あなたがひとりで私のことを思い出しているときの顔はね――」=“And the look on your face when you're alone, and thinking about me...”
+「待って恥ずかしいから！　っていうか見てたの！？」=“Wait, this is embarrassing! I mean, you've been watching me!?”
+「この間、偶然見かけたから観察してたのよ。知りたくない？」=“I just happened to come across you the other day, so I observed you. Didn't you want to know that?”
+「え……と……」=“Er... uh...”
+「とりあえずいまは卓球に集中しましょうか。サーブいくわよ」=“Let's just focus on ping-pong for now. I'm going to serve.”
+「えっ、え……」=“Eh! Eh...”
+「全然集中できなかった……はっ、まさかそういう作戦！？」=“I could't concentrate at all... haa, that's can't be your strategy!?”
+「そんな面倒くさい女じゃないわよ。でも、あなたの百面相が見られて面白かったわ」=“I'm not that kind of troublesome woman. But it was fun to see all the comical faces you made.”
+「それに、動揺して何度もミスしちゃうあなた、とっても可愛かった。ほら、もっとしましょう？」=“And you were so cute, getting flustered and making so many mistakes, you know?”
+（さっき可愛いって言ったから、その意趣返し？　というか[H名]さんって卓球強かったんだな……）=(She just said I was cute. Is that her way of getting back at me? I mean, [H名] is really good at ping-pong, isn't she...)
