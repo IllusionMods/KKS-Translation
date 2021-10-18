@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それって、俺と付き合いたいって事でいいの……？」=
-//「そうね、お付き合いして、お互い恋人同士になって……もっともっと深く繋がりたいと思ってるわ」=
-//「俺と[H名]さんが……」=
-//「どう？　私と付き合ってみたくなった？」=
-//「うんっ。俺なんかでよければ是非！」=
-//「ふふっ、あなたならそう言ってくれるって思ってたわ。これからもよろしく、ね？」=
+「それって、俺と付き合いたいって事でいいの……？」=“Does this mean you want to go out with me...?”
+「そうね、お付き合いして、お互い恋人同士になって……もっともっと深く繋がりたいと思ってるわ」=“Well yeah, dating, and becoming lovers with each other... I want to connect with you even more deeply.”
+「俺と[H名]さんが……」=”[H名] and I...”
+「どう？　私と付き合ってみたくなった？」=“How about it? You want to go out with me?”
+「うんっ。俺なんかでよければ是非！」=“Yeah! If it's okay with you, it's okay with me!”
+「ふふっ、あなたならそう言ってくれるって思ってたわ。これからもよろしく、ね？」=“Fufu! I knew you'd say that. Treat me kindly from now on, okay?”
