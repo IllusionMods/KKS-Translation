@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「紅型染めって、味があっていいわよね」=
-//「そうだね、実際に自分の手で作っていくとさらに愛着が湧いてくるし」=
-//「えぇ。それに、こうやってあなたと一緒に作っているっていうのも大事な思い出になるし、ね？」=
+「紅型染めって、味があっていいわよね」=“Bingata dyeing has a nice flavor, doesn't it.”
+「そうだね、実際に自分の手で作っていくとさらに愛着が湧いてくるし」=“That's right. It's easier to get attached to something, when you actually make it with your own hands.”
+「えぇ。それに、こうやってあなたと一緒に作っているっていうのも大事な思い出になるし、ね？」=“Ehh. And never mind the fact that making it with you like this is a precious memory too, you know?”
