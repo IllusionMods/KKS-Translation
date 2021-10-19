@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どうする？　今回も背中塗っていく？」=
-//「あら、背中以外も塗ってみたいって聞こえるんだけど？」=
-//「えっ……ああ、いや……そんなつもりじゃ……ないとも言い切れない」=
-//「ふふっ……あ～あ、何だか前も塗ってもらいたい気分なんだけど、誰かいないかしらね～……？」=
-//「私の胸、オイルでぬるぬるに出来ちゃうんだけどな～……うふふっ」=
+「どうする？　今回も背中塗っていく？」=“What are you doing? Going to spread it on my back again?”
+「あら、背中以外も塗ってみたいって聞こえるんだけど？」=“Hey, am I hearing you say you'd like to spread it more than just on my back?”
+「えっ……ああ、いや……そんなつもりじゃ……ないとも言い切れない」=“Eh...! Ah, no... I didn't mean it like that... but I won't say no.”
+「ふふっ……あ～あ、何だか前も塗ってもらいたい気分なんだけど、誰かいないかしらね～……？」=“Fufu...! Ah ah! I'm kind of in the mood to have it spread on my front, too... I wonder if anyone's around~...?”
+「私の胸、オイルでぬるぬるに出来ちゃうんだけどな～……うふふっ」=“You can make my breasts slippery with oil...~ Ufufu!”
