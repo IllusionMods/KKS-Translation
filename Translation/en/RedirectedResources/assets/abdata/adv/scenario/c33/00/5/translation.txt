@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふふっ、やっと私を求めてくれるのね？　待ちくたびれたわよ」=
-//「え、待ってたなら[H名]さんの方から言ってくれればよかったのに……」=
-//「もぉ、そういうのは男の方からって相場が決まってるのよ？」=
-//「そ、そういうものなのかな……」=
-//「ほらほら、エッチするんでしょ？　私はとっくに、準備出来てるわよ……？」=
+「ふふっ、やっと私を求めてくれるのね？　待ちくたびれたわよ」=“Fufu! You finally want me? I was getting tired of waiting.”
+「え、待ってたなら[H名]さんの方から言ってくれればよかったのに……」=“Eh, if you were waiting for me, you should have said something, [H名].”
+「もぉ、そういうのは男の方からって相場が決まってるのよ？」=“Well, isn't it always the men who do that?”
+「そ、そういうものなのかな……」=“I-I suppose that's the way it is...”
+「ほらほら、エッチするんでしょ？　私はとっくに、準備出来てるわよ……？」=“Hey, c'mon, are we gonna have sex? I've been ready and rarin' to go for a while now, you know...?”
