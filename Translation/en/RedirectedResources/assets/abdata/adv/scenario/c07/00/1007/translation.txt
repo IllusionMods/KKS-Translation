@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さすが南国の水族館。雰囲気あるね」=
-//「ああ！　これはもはや、あれだな……ちっちゃな海だな！！」=
-//「あはは、テンション高いね」=
-//「そりゃそうだろ。せっかく南国に来たんだから、海の生き物と戯れないと」=
-//「……お触りはできそうにないけど」=
-//「ぅ……さすがに南国だけあって、南国っぽい魚が多いな」=
-//「南国っぽいって、マンタとか？」=
-//「おお、マンタもいるかもしれないな。探そうぜ」=
+「さすが南国の水族館。雰囲気あるね」=“There's a real vibe here. As expected from a tropical aquarium.”
+「ああ！　これはもはや、あれだな……ちっちゃな海だな！！」=“Ahhh! That's not true... it's just the ocean in miniature.”
+「あはは、テンション高いね」=“Ahaha, you're so worked up.”
+「そりゃそうだろ。せっかく南国に来たんだから、海の生き物と戯れないと」=“Of course I am. I arrived in a tropical country, so I want to play with the sea creatures.”
+「……お触りはできそうにないけど」=“...I don't think we can touch any of them.”
+「ぅ……さすがに南国だけあって、南国っぽい魚が多いな」=“Uuu... as you'd expect from a tropical country, there's a bunch of tropical fish.”
+「南国っぽいって、マンタとか？」=“What do you mean by 'tropical?' Like, manta rays?”
+「おお、マンタもいるかもしれないな。探そうぜ」=“Ohhh, maybe even manta rays. Let's find them.”
 …………=......
-//「おー、でっかい亀……見ろよ？　顔が仙人っぽいぞ。人間の言葉とか喋りそう」=
-//（マンタ探すのでは……）=
-//「よく見たら亀の大群じゃん。亀って意外とスイスイ泳ぐんだな」=
-//「目がキラキラしてるよ？　[H名]って海の生き物が好きなんだ」=
-//「海が好き……かな？　ロマンっていうの？　何かこう、胸にぐーって迫るものがあるだろ」=
-//「はっ！？　もしかして私の前世、人魚だったり」=
-//「……まあ、可能性はあるな。全ての生き物のルーツは海って言うし」=
-//「いやいや、そこはツッコミだろ？　お前みたいなガサツなののどこが人魚だー、とか」=
-//「[H名]は人魚似合うよ！」=
-//「余計なこと言わなきゃよかった……」=
+「おー、でっかい亀……見ろよ？　顔が仙人っぽいぞ。人間の言葉とか喋りそう」=“Ohh- see that... the big turtle? He has a face like an old hermit. It's almost as if he could talk, or something.”
+（マンタ探すのでは……）=(And here I thought we were looking for manta rays...)
+「よく見たら亀の大群じゃん。亀って意外とスイスイ泳ぐんだな」=“If you look close, you can see a large group of turtles. They're unexpectedly good swimmers.”
+「目がキラキラしてるよ？　[H名]って海の生き物が好きなんだ」=“Is that a twinkle in your eye? You must like sea creatures, [H名].”
+「海が好き……かな？　ロマンっていうの？　何かこう、胸にぐーって迫るものがあるだろ」=“Don't you love the sea? Isn't it romantic? Things like this really get to your heart.”
+「はっ！？　もしかして私の前世、人魚だったり」=“Haaa!? Maybe I was mermaid in a previous life.”
+「……まあ、可能性はあるな。全ての生き物のルーツは海って言うし」=“...well, it's possible. They say the origin of all life is the ocean.”
+「いやいや、そこはツッコミだろ？　お前みたいなガサツなののどこが人魚だー、とか」=“No, no, I'm just being silly, aren't I? What kind of business would a crass girl like me have, being a mermaid.”
+「[H名]は人魚似合うよ！」=“You'd look awesome as a mermaid, [H名].” 
+「余計なこと言わなきゃよかった……」=“I shouldn't have even said anything...”
