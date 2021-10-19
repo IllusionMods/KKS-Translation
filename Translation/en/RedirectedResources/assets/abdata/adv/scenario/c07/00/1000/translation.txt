@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へえ、カップルドリンクだって。頼んでみない？」=
-//「カップルって……ま、まあそりゃ、私達カップルだけどさ」=
-//「うん、美味しい！　やっぱり使ってるフルーツが違うのかな」=
-//「そ、そうかもなー……」=
-//「どうかした？　さっきからそわそわしてるけど」=
-//「逆になんで[P名]は平然としてんだよ。これ、飲む時に顔が近すぎだろ」=
-//「カップルドリンクってそういうものでしょ？」=
-//「くあー、平然としてる！　腹立つー」=
-//「平然とはしてないって。[H名]の言ってることも、わからなくはないし」=
-//「だろ？　だったらもうちょっと……たとえば、交代で飲むとか」=
-//「それカップルドリンクの意味ないでしょ」=
-//「呆れんな！　やっぱりお前、意識なんか全然してないだろ」=
-//「してるってば。[H名]のこと大好きなんだから」=
-//「平然と言いやがって。やっぱし、からかわれてるような気がしてきた」=
-//「あはは、[H名]は可愛いなぁ」=
-//「ふんだ、言ってろ！」=
-//（本心なのに。照れ屋だなぁ、[H名]は……）=
-//「ったく、こんなの頼んだのが悪いんだ！　残りはみんな私が飲んでやる」=
-//「トロピカルドリンクになんの罪があるのさ」=
-//「うっさい」=
+「へえ、カップルドリンクだって。頼んでみない？」=“Ahem, there's a couple's drink. Why don't we ask for one?”
+「カップルって……ま、まあそりゃ、私達カップルだけどさ」=“One for couples... w-well, I suppose, I mean, we are a couple.”
+「うん、美味しい！　やっぱり使ってるフルーツが違うのかな」=“Yeah, this is tasty! I guess they use different kinds of fruit in it.”
+「そ、そうかもなー……」=“I-I guess so...”
+「どうかした？　さっきからそわそわしてるけど」=“What's up? You been fidgeting for a while.”
+「逆になんで[P名]は平然としてんだよ。これ、飲む時に顔が近すぎだろ」=“No, wait, how can you be so calm, [P名]? Our faces get so close when we drink.”
+「カップルドリンクってそういうものでしょ？」=“Isn't that what a couple's drink is all about?”
+「くあー、平然としてる！　腹立つー」=“*Cough* you're so calm! I'm exasperated-”
+「平然とはしてないって。[H名]の言ってることも、わからなくはないし」=“I'm didn't say that I'm complacent. I'm not sure what you're getting at, [H名].”
+「だろ？　だったらもうちょっと……たとえば、交代で飲むとか」=“Oh yeah? Then pay a little more attention...  for example, let's take turns drinking.”
+「それカップルドリンクの意味ないでしょ」=“But that's not the point of a couple's drink.”
+「呆れんな！　やっぱりお前、意識なんか全然してないだろ」=“You're so dense! I knew you couldn't figure out what's happening.”
+「してるってば。[H名]のこと大好きなんだから」=“That's me. And I love you so much, [H名].”
+「平然と言いやがって。やっぱし、からかわれてるような気がしてきた」=“You just can't come out and say that. I'm beginning to feel like I'm being made fun of, after all.”
+「あはは、[H名]は可愛いなぁ」=“Ahaha, you are so cute, [H名].”
+「ふんだ、言ってろ！」=“Screw you, man!”
+（本心なのに。照れ屋だなぁ、[H名]は……）=“I mean it. You're a shy one, [H名]...”
+「ったく、こんなの頼んだのが悪いんだ！　残りはみんな私が飲んでやる」=“Good lord, I'm sorry you asked for this. I'll drink the rest of it.” 
+「トロピカルドリンクになんの罪があるのさ」=“You have a problem with tropical drinks?”
+「うっさい」=“Pain in the ass.”
