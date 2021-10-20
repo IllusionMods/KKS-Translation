@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「よしっ、それじゃあ私は部屋に帰るぜ。今日も一日よろしくな！」=
+「よしっ、それじゃあ私は部屋に帰るぜ。今日も一日よろしくな！」=“Alright! I'm gonna head back to my room. Have a good day!”
