@@ -23,4 +23,3 @@
 「そんなの知るか！　ま、まあ、お前がそう思うならそうなるんじゃないのか」=“I don't know about that! W-well, if that's what you believe, then that's how it will be.”
 「……そうなるといいね」=“...I hope so.”
 「まぁな。って、そういうとこ言うなってば！　くつろぐどころじゃなくなるだろ」=“Well, yeah. Hey, don't add that part! Now I'll never be able to relax.”
-
