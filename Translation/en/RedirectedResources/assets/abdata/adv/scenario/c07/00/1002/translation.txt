@@ -16,4 +16,3 @@
 「ノリノリかよ」=“I'm in the groove.”
 「[H名]様におかれましては本日もお変わりなく、大変お美しゅうございます」=“You're looking as beautiful as ever now, [H名].”
 「っ、や、やっぱし罰ゲームなしで！」=“! S-so there won't be a punishment game, after all!“
-
