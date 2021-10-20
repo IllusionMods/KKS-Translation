@@ -304,8 +304,7 @@ Right now 44.8% of the game is translated and we are prioritizing the UI and gam
 
 To view the tutorials either press `F5` while playing the main game or delete `KoikatsuSunshine\UserData\save\Global.dat` to make the tutorials appear again (make a backup before!)
 
-- <s>Translate Free-H Tutorial</s> Taken by xmexvo
-- Translate Oil Minigame Tutorial
+- <s>Translate Oil Minigame Tutorial</s> Taken by xmexvo
 
 #### Translate the `RedirectedResources` folder
 
