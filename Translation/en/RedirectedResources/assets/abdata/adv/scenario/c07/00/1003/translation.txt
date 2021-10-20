@@ -11,6 +11,7 @@
 「そうだ！　お前が私に似合いそうなの選んでくれよ」=“Right! Pick something that'll look good on me.”
 「俺？　無理無理。女の子の好みなんて、それこそわからないって」=“Me? No way. I have no idea what girls like.”
 「いいじゃん。お前が選んでくれたものなら、なんでも気に入るだろうし」=“That's a good one. I'm sure I'll love whatever you pick out for me.”
+//「そ、そんな言われ方したら、ますますプレッシャーだよ」=
 「いいじゃん。なー……あ、なんならお揃いとかでもいいぞ」=“Here's a good one. Na- ...ah, you can have a matching set, if that's what you want.”
 「無理無理、選べないってば」=“No way. You can't pick that one.”
 「お前が選んだのがいいなぁって私の中で決まっちゃったんだってば。なー、選んでくれよー金は払うから」=“I've already decided that I like the one you chose. I'll go and pay for it.”
