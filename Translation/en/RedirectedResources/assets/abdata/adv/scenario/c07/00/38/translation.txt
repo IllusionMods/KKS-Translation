@@ -7,4 +7,4 @@
 「それが目的なんだって！　ほら、もっと体力をつけるんだ！」=“That's the point! Look, you need to get stronger!”
 「俺に体力をつけさせて、何の意味があるのさ……？」=“What's the point of making me build my strength up...?”
 「そ、それは……あれだよ……お姫様だ……いやっ！　何でもない、何も言ってないぞ！」=“Th-that's... that's it... you're a princess... no! Nothing! I didn't say anything!”
-（……頑張ろう）=(...let's do this.”
+（……頑張ろう）=(...let's do this.)
