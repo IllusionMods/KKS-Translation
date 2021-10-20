@@ -1,8 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おし、どっちが早くゴールにつくか競争だな！」=
-//「このカヤックは二人で漕ぐものだよ。あとレースをするわけじゃないから」=
-//「ただ漕ぐだけのか？　それじゃあ、あんまり盛り上がらないと思うぞ？」=
-//「マングローブを楽しむ目的があるんだよ！　思考がスポーツに寄り過ぎてるよ……」=
-//「悪い悪い、どうしてもそういう風に考えちゃうんだって。よし、目的も分かったことだし、楽しむとするか！」=
+「おし、どっちが早くゴールにつくか競争だな！」=“Let's see who can get to the goal faster!”
+「このカヤックは二人で漕ぐものだよ。あとレースをするわけじゃないから」=“The kayak's meant to be paddled by two people. It's not like we're in a race.”
+「ただ漕ぐだけのか？　それじゃあ、あんまり盛り上がらないと思うぞ？」=“Just paddling? Well then, it's not going to very exciting, is it?”
+「マングローブを楽しむ目的があるんだよ！　思考がスポーツに寄り過ぎてるよ……」=“The point is to enjoy the mangroves! You're thinking too much like this is a sport...”
+「悪い悪い、どうしてもそういう風に考えちゃうんだって。よし、目的も分かったことだし、楽しむとするか！」=“Sorry, sorry, I just can't help thinking that way. Alright, I know what the purpose is, and I'm going to enjoy it!”
+
