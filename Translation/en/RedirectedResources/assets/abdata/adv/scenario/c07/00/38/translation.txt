@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ、はぁ……砂浜に来てやることが、かけっこって……思っても、みなかった……」=
-//「おいおい、もうバテてるのか？　情けないぞー！」=
-//「砂に足をとられるから……走りにくいんだよ……」=
-//「それが目的なんだって！　ほら、もっと体力をつけるんだ！」=
-//「俺に体力をつけさせて、何の意味があるのさ……？」=
-//「そ、それは……あれだよ……お姫様だ……いやっ！　何でもない、何も言ってないぞ！」=
-//（……頑張ろう）=
+「はぁ、はぁ……砂浜に来てやることが、かけっこって……思っても、みなかった……」=“Ahaa, ahaaa... we come to the beach, and all you want to do is run... I never thought...”
+「おいおい、もうバテてるのか？　情けないぞー！」=“Oh, come on, you're already exhausted? You're pathetic-!”
+「砂に足をとられるから……走りにくいんだよ……」=“It's hard to run... my feet keep getting caught in the sand...”
+「それが目的なんだって！　ほら、もっと体力をつけるんだ！」=“That's the point! Look, you need to get stronger!”
+「俺に体力をつけさせて、何の意味があるのさ……？」=“What's the point of making me build my strength up...?”
+「そ、それは……あれだよ……お姫様だ……いやっ！　何でもない、何も言ってないぞ！」=“Th-that's... that's it... you're a princess... no! Nothing! I didn't say anything!”
+（……頑張ろう）=(...let's do this.”
