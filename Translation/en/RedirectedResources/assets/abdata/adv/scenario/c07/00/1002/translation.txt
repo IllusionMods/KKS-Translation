@@ -1,18 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]は卓球とか得意なんじゃない？」=
-//「自慢じゃないけど、私は女子相手じゃほとんど負けたことないぜ。勝負するか？」=
-//「よしっ、覚悟しろよ」=
-//（構えが本気すぎ……）=
-//「お、お手柔らかにお願いね……」=
-//「勝ちー♪　へっへー、見たか私の実力。強すぎて悪かったな」=
-//「これからは女子相手じゃなくて、向かうところ敵知らずって言うことにするか」=
-//「ぐぬぬ、もうちょっとなんとかなると思ったのに」=
-//「修行が足りなかったな？　さて、何を言うこと聞かせるか」=
-//「いつの間に負けた方が言うことを聞くルールになってる……」=
-//「そうだ！　これからしばらく家来な。私を敬うがいい」=
-//「かしこまりました、[H名]様」=
-//「ノリノリかよ」=
-//「[H名]様におかれましては本日もお変わりなく、大変お美しゅうございます」=
-//「っ、や、やっぱし罰ゲームなしで！」=
+「[H名]は卓球とか得意なんじゃない？」=“Are you any good at ping-pong, [H名]?”
+「自慢じゃないけど、私は女子相手じゃほとんど負けたことないぜ。勝負するか？」=“Not to boast, but I've almost never lost against other girls. You wanna play?”
+「よしっ、覚悟しろよ」=“Sure! Brace yourself.“
+（構えが本気すぎ……）=(Her stance is so serious...)
+「お、お手柔らかにお願いね……」=“P-please go easy on me...“
+「勝ちー♪　へっへー、見たか私の実力。強すぎて悪かったな」=“I won-♪ Ehehe- You see my skills? Sorry that I was too much for you.”
+「これからは女子相手じゃなくて、向かうところ敵知らずって言うことにするか」=“From now on, I'm going to say that I'm not dealing with girls, I'm dealing with people who are unbeatable.”
+「ぐぬぬ、もうちょっとなんとかなると思ったのに」=“Mwah, I thought that you'd be a little better.”
+「修行が足りなかったな？　さて、何を言うこと聞かせるか」=“Haven't you learned your lesson? Now, what are you going to ask from me?”
+「いつの間に負けた方が言うことを聞くルールになってる……」=“Since when did it become a rule that the loser gets to make a demand...
+「そうだ！　これからしばらく家来な。私を敬うがいい」=“That's how it is!”
+「かしこまりました、[H名]様」=“Yes, [H名], ma'am.”
+「ノリノリかよ」=“I'm in the groove.”
+「[H名]様におかれましては本日もお変わりなく、大変お美しゅうございます」=“You're looking as beautiful as ever now, [H名].”
+「っ、や、やっぱし罰ゲームなしで！」=“! S-so there won't be a punishment game, after all!“
+
