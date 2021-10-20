@@ -1,21 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと浜辺を散歩してみようか」=
-//「あはは、波がここまで届きそうだ」=
-//「はしゃぐのはいいけど転ばないようにね」=
-//「私を甘く見るなよ？　転んでも余裕で受け身を取れる」=
-//（そういう問題じゃないような……）=
-//「ふうっ……波と一緒に海から風も運ばれてきてるな。潮の匂いだ」=
-//「プールみたいな人工のものとは違う……なんだろう？　生命？　生命を感じる」=
-//「急に哲学みたいなこと言い出したね」=
-//「甘く見るなよ。私がいくらバカでも、たまには哲学するさ」=
-//「見ろよ。絵に描いたみたいな風景だぞ？　こんなキレイな海を眺めてたら誰だって……」=
-//「誰だって？」=
-//「思わず走り出したくなっちゃうよな！」=
-//「がくっ」=
-//「砂浜は足をとられるからトレーニングにもいいんだぞ？　プロのスポーツチームでも海で合宿したりするんだ」=
-//「[H名]はプロのスポーツ選手じゃないし、ここにはバカンスに来てるんだよね？」=
-//「そうだけど、思い立っちゃったらもう……なんつーか、気持ちが熱くなって抑えられない！」=
-//「よし！　あそこの岩場まで競争しようぜ」=
-//「哲学はどこにいっちゃったの……あと競争はしないから」=
+「ちょっと浜辺を散歩してみようか」=“Let's go for a little stroll on the beach.”
+「あはは、波がここまで届きそうだ」=“Ahaha, the waves are about to reach here.”
+「はしゃぐのはいいけど転ばないようにね」=“It's fine to get excited, but don't fall in.”
+「私を甘く見るなよ？　転んでも余裕で受け身を取れる」=“Don't underestimate me, okay? I can catch myself before I fall.”
+（そういう問題じゃないような……）=(I don't think that's the issue...)
+「ふうっ……波と一緒に海から風も運ばれてきてるな。潮の匂いだ」=“Phew...! The winds really strong coming in from the waves. It smells like the tide.”
+「プールみたいな人工のものとは違う……なんだろう？　生命？　生命を感じる」=“It's not artificial, like a pool... why it that? The life in it? I enjoy the life.” 
+「急に哲学みたいなこと言い出したね」=“You sound very philosphical, all of a sudden.”
+「甘く見るなよ。私がいくらバカでも、たまには哲学するさ」=“Don't talk down to me. No matter how stupid you think I am, I can still philosophize once in a while.”
+「見ろよ。絵に描いたみたいな風景だぞ？　こんなキレイな海を眺めてたら誰だって……」=“Look. Doesn't the landscape resemble a painting? Everyone would want to stop and gaze at something as beautiful as that...”
+「誰だって？」=“Everyone?”
+「思わず走り出したくなっちゃうよな！」=“It makes me want to run!”
+「がくっ」=“*Grind*”
+「砂浜は足をとられるからトレーニングにもいいんだぞ？　プロのスポーツチームでも海で合宿したりするんだ」=“Sandy beaches are perfect for training, because they make you lift your feet off the ground.”
+「[H名]はプロのスポーツ選手じゃないし、ここにはバカンスに来てるんだよね？」=“You're not a pro athlete, [H名]. We're on vacation here, aren't we?”
+「そうだけど、思い立っちゃったらもう……なんつーか、気持ちが熱くなって抑えられない！」=“Well, yeah, but if you think about it... I get this heat building up in me... and I can't control it!”
+「よし！　あそこの岩場まで競争しようぜ」=“Okay! Let's race to that ledge over there.”
+「哲学はどこにいっちゃったの……あと競争はしないから」=“Where's your philosophy now... and no, I'm not going to race you.”
+
