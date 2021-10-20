@@ -1,25 +1,26 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと縁側で涼んでいかない？」=
-//「ンー♪　冷てー。やっぱし、アイスっていったらこの味だよな」=
-//「…………じーっ」=
-//「な、なんだよ？　ジロジロ見やがって」=
-//「っと、ごめんごめん。デリカシーなかったね」=
-//「どうせ、アイスなんかに夢中になってガキだなーとか思ってたんだろ？」=
-//「はいはい、どうせ私は女らしくないですよ。すいませんねー」=
-//「またそうやって拗ねる。いつも通り、可愛いなーってついつい見ちゃってただけだよ」=
-//「また始まった。そうやってからかっても……」=
-//「からかってないよ。大真面目だから」=
-//「よ、よせこの野郎！　アイスの味がわからなくなっちゃうだろ」=
-//「[H名]は可愛いなぁ」=
-//「まったく。すぐ、そうやってごまかすんだからな……」=
-…………=......
-//「はあっ。いいなぁ、こういう時間」=
-//「こういうって？」=
-//「隣に[H名]がいて、二人でのんびりしてる時間のこと」=
-//「変なことで感動してるな。私達、恋人なんだからこれからずっとこんな感じだろ」=
-//「ずっとか……おじいちゃんおばあちゃんになっても？」=
-//「そんなの知るか！　ま、まあ、お前がそう思うならそうなるんじゃないのか」=
-//「……そうなるといいね」=
-//「まぁな。って、そういうとこ言うなってば！　くつろぐどころじゃなくなるだろ」=
+「ちょっと縁側で涼んでいかない？」=“Shall we go cool off on the porch?”
+「ンー♪　冷てー。やっぱし、アイスっていったらこの味だよな」=“Hmm-♪ Chilly-. This is what ice cream is supposed to taste like, after all.”
+「…………じーっ」=“...*stare*”
+「な、なんだよ？　ジロジロ見やがって」=“Wh-what is it? You're staring at me.”
+「っと、ごめんごめん。デリカシーなかったね」=“Uh, sorry, sorry. That wasn't very polite.”
+「どうせ、アイスなんかに夢中になってガキだなーとか思ってたんだろ？」=“Anyway, you were thinking I was just like a little kid obsessed with ice cream, weren't you?”
+「はいはい、どうせ私は女らしくないですよ。すいませんねー」=“No, no, it's not like I'm all that feminine to begin with. So sorry.”
+「またそうやって拗ねる。いつも通り、可愛いなーってついつい見ちゃってただけだよ」=“There you go, sulking again. As usual, I just got caught up in how cute you are.“ 
+「また始まった。そうやってからかっても……」=“There it is again. You can't tease me like that...”
+「からかってないよ。大真面目だから」=“I'm not messing with you. I'm dead serious.”
+「よ、よせこの野郎！　アイスの味がわからなくなっちゃうだろ」=“Y-you're a bastard! Now you won't get a taste of my ice cream.”
+「[H名]は可愛いなぁ」=“You're so cute, [H名].“
+「まったく。すぐ、そうやってごまかすんだからな……」=“Jeez. So that's how you're gonna play it...”
+…………=“...”
+「はあっ。いいなぁ、こういう時間」=“Ahaaa, I love these kinds of times.”
+「こういうって？」=“Like these?”
+「隣に[H名]がいて、二人でのんびりしてる時間のこと」=“The times when you're next to me, [H名], and we're relaxing together.”
+「変なことで感動してるな。私達、恋人なんだからこれからずっとこんな感じだろ」=“You're impressed by the weirdest things. We're lovers, so things are going to be like this from now on.”
+「ずっとか……おじいちゃんおばあちゃんになっても？」=“Forever... even if we become grandparents?”
+「そんなの知るか！　ま、まあ、お前がそう思うならそうなるんじゃないのか」=“I don't know about that! W-well, if that's what you believe, then that's how it will be.”
+「……そうなるといいね」=“...I hope so.”
+「まぁな。って、そういうとこ言うなってば！　くつろぐどころじゃなくなるだろ」=“Well, yeah. Hey, don't add that part! Now I'll never be able to relax.”
+
