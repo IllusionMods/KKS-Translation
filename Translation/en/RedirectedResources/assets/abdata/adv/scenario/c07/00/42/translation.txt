@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱりこういうのは苦手だ……弾き方のコツを教えてくれないか？」=
-//「コツって言われても、俺も三線は初心者だよ。一緒に頑張ろう」=
-//「ん～、音色は好きだけどさ～、別に自分で弾けなくてもいいと思うんだよ」=
-//「そんなこと言い出したら、何でもかんでも自分でやる必要がなくなるって」=
-//「研修旅行なんだから、ここの文化を学んでいかないと」=
-//「ぐぬぬ……正論だな。はぁ……よしっ、私なりに頑張るかぁ」=
+「やっぱりこういうのは苦手だ……弾き方のコツを教えてくれないか？」=“I'm not good at this stuff... can you give me some tips on how to play?”
+「コツって言われても、俺も三線は初心者だよ。一緒に頑張ろう」=“I'm a beginner at the sanshin, too. Let's work together.”
+「ん～、音色は好きだけどさ～、別に自分で弾けなくてもいいと思うんだよ」=“Nh~, I like the sound, but~ I don't think I could play it, myself.”
+「そんなこと言い出したら、何でもかんでも自分でやる必要がなくなるって」=“You're just saying that so you won't have to do everything yourself.”
+「研修旅行なんだから、ここの文化を学んでいかないと」=“We're on a study tour. We need to learn about the culture here.”
+「ぐぬぬ……正論だな。はぁ……よしっ、私なりに頑張るかぁ」=“Mwah... good point. Ahaa... right! I'll do my best.”
