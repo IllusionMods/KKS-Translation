@@ -1,4 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ん～、楽しかった！　また誘ってくれよな」=
+「ん～、楽しかった！　また誘ってくれよな」=“Nh~ that was fun! You're gonna have to invite me back.”
+
