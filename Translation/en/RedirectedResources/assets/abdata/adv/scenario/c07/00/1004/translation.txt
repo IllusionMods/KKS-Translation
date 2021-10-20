@@ -19,4 +19,3 @@
 「そうだけど、思い立っちゃったらもう……なんつーか、気持ちが熱くなって抑えられない！」=“Well, yeah, but if you think about it... I get this heat building up in me... and I can't control it!”
 「よし！　あそこの岩場まで競争しようぜ」=“Okay! Let's race to that ledge over there.”
 「哲学はどこにいっちゃったの……あと競争はしないから」=“Where's your philosophy now... and no, I'm not going to race you.”
-
