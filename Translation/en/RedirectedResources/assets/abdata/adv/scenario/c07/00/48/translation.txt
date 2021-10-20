@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さてと、何を頼むか悩みどころだな～。今の気分は肉と魚どっちだと思う？」=
-//「俺に聞かれても分からないよ。単品で両方注文したら？」=
-//「おお、ナイスアイデア！　肉はラフテーでいいとして、魚はどうしようかな～」=
-//「俺は……ソーキそばを頼もうかな」=
-//「そば美味しいよなぁ！　よし、私もそばにしよう」=
-//「じゃあ、そばの気分じゃん……」=
+「さてと、何を頼むか悩みどころだな～。今の気分は肉と魚どっちだと思う？」=“Well, now I'm wondering what to order~. Am I maybe in the mood for meat or fish now?”
+「俺に聞かれても分からないよ。単品で両方注文したら？」=“I wouldn't know if you asked me. How about ordering both?”
+「おお、ナイスアイデア！　肉はラフテーでいいとして、魚はどうしようかな～」=“Ohhh, good idea! I'll go with the rafute, but what about the fish~”
+「俺は……ソーキそばを頼もうかな」=“I think I'lll order... the sakisoba.”
+「そば美味しいよなぁ！　よし、私もそばにしよう」=“Soba is so tasty! Alright, I'll have some soba.”
+「じゃあ、そばの気分じゃん……」=“Well, it seems like you like soba...”
