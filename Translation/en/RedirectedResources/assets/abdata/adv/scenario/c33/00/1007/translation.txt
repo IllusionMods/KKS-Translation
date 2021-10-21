@@ -20,4 +20,4 @@
 「はいはい。あなたには適わないわ、ふふふ」=“Yeah, yeah. I'm no match for you, fufufu.”
 「でも、普通に二人で水族館に来た思い出は買いたいよね。お土産コーナーも寄っていこうよ」=“But I'd like to buy something that reminds us of coming to the aquarium together. Let's stop by the gift shop.”
 「ふふっ、そうね。嬉しかったから私が買ってあげる。なんでも好きなものを選んで頂戴」=“Fufu! Sure. I'd be happy to buy something for you. You can pick anything you like.”
-（……？　照れる[H名]さんが可愛くて、ついからかっちゃったけど、それが嬉しかったのかな……？）=
+（……？　照れる[H名]さんが可愛くて、ついからかっちゃったけど、それが嬉しかったのかな……？）=(...? [H名] is so cute when she's embarrassed that I had to tease her... but I guess she's happy...?)
