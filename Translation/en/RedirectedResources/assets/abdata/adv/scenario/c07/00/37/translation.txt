@@ -6,4 +6,3 @@
 「ただ漕ぐだけのか？　それじゃあ、あんまり盛り上がらないと思うぞ？」=“Just paddling? Well then, it's not going to very exciting, is it?”
 「マングローブを楽しむ目的があるんだよ！　思考がスポーツに寄り過ぎてるよ……」=“The point is to enjoy the mangroves! You're thinking too much like this is a sport...”
 「悪い悪い、どうしてもそういう風に考えちゃうんだって。よし、目的も分かったことだし、楽しむとするか！」=“Sorry, sorry, I just can't help thinking that way. Alright, I know what the purpose is, and I'm going to enjoy it!”
-

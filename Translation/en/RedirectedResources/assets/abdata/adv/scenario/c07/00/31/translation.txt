@@ -5,4 +5,3 @@
 「せっかくだし何か買ってく？　安い物なら奢ってあげるよ」=“Want me to buy you something? If I can afford it, I'll get it for you.”
 「マジか！　よっしゃ！　店の中を隅々まで探索するぜ～！」=“For real! Got it! Then I'll explore everyone corner of the store~!”
 「俺、安い物って言ったからね？　それは忘れないでよ！」=“I told you something I can afford, okay? Don't forget that part!”
-
