@@ -1,0 +1,26 @@
+#set level -1024
+エステオイルを使って女の子をマッサージしてあげよう！=Let's give the girls an oil massage!
+◆エステの流れ=◆ How to do oil massages
+オイルを垂らす=Pour the oil
+オイルを塗る=Spread it
+ポイントゲット！=Profit!
+塗る場所<size%3D30>を</size>選んで=Select a spot to
+垂らしたところを=Click oiled spots
+ドラッグ<size%3D30>し</size>=     And drag!
+\\Ignoring with whitespace
+女の子が<size%3D36>満足したら</size>=Make her satisfied to...
+コイカツポイント\n<size%3D60>GET ！</size>=Get Koikatsu points!
+◆オイルを塗って欲しい場所を見極めて、より満足させてあげましょう。=◆ Guess where she wants to be oiled to satisfy her more.
+<size%3D60>特別</size>な<size%3D60>オイル</size>=You only have a limited number of tries
+を= 
+\\Ignoring with whitespace
+<size%3D48>消費</size>して=\n\nShown by the number of droplets
+オイル塗り\nチャレンジ !!= 
+\\Ignoring with white space
+ここに塗って欲しい…=Do it here...
+おしい！=Close!
+う～ん…=Nope...
+あたり !=Bingo!
+塗って欲しい\n場所<size%3D30>を</size>見極め=Guess where she wants to be oiled
+もっと\n<size%3D48>コイカツ\nポイント\nGET!!</size>=\nAnd get more Koikatsu points!
+#unset level -1024
