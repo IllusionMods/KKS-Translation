@@ -873,10 +873,11 @@ Y=Y
 キャラメイクを終了しますか？=Quit The Character Maker?
 キャラ編集を終了しますか？=Quit Editing This Character?
 
-// Maker called from Class Edit Menu
+// Maker called from Booking Edit Menu
 学生証画像の撮影=Take Student ID Image
 編集前に戻す=Revert Edits
 キャラを編集前に戻しますか？=Revert This Character?
+キャラ編集状態のリセット確認=Revert Edits Confirmation
 反映せず終了=Cancel & End
 反映して終了=Apply & End
 
@@ -884,6 +885,7 @@ Y=Y
 
 
 //Unsorted
+コーディネートの保存確認=Clothing Set Save Confirmation
 クローズアップ画像の撮影=Close-up image shooting
 装飾の柄の上下位置=Vertical position of the decorative pattern
 装飾の柄の回転=Rotation of the decorative pattern
