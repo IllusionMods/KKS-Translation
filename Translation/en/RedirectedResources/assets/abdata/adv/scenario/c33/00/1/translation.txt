@@ -3,6 +3,6 @@
 //
 「ふーん……？　そんなに私の事が好きなのね？」=“Hmmm...? You like me that much?”
 「うん、この気持ちに嘘はないよ」=“Yeah, I'm not lying about how I feel.
-「ふふっ、熱いのね。……その熱さに、私もやられちゃいそうね」=“Fufu! That's so hot... I think the heat is getting to me.”
+「ふふっ、熱いのね。……その熱さに、私もやられちゃいそうね」=“Fufu, you're one fiery guy huh... Your passion is making me fall head over heels here.”
 「ってことは……」=“Which means...”
-「えぇ、お付き合いしてあげる。私の事、もっともっと熱くさせて頂戴ね……？」=“Ehh, I'll go out with you. Now, are you going to get me even hotter...?”
+「えぇ、お付き合いしてあげる。私の事、もっともっと熱くさせて頂戴ね……？」=“Sure, I'll go out with you.  Keep burning me up even more from now on, okay...?”
