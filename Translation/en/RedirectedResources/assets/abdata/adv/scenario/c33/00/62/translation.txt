@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「どうする？　今回も背中塗っていく？」=“What are you doing? Going to spread it on my back again?”
+「どうする？　今回も背中塗っていく？」=“So what will it be? Want me to spread it on your back again?”
 「あら、背中以外も塗ってみたいって聞こえるんだけど？」=“Oh my, you sound like you want to spread it more than just on my back?”
 「えっ……ああ、いや……そんなつもりじゃ……ないとも言い切れない」=“Eh...! Ah, no... I didn't mean it like that... but it's not false either.”
 「ふふっ……あ～あ、何だか前も塗ってもらいたい気分なんだけど、誰かいないかしらね～……？」=“Fufu...! Ah ah! I'm kind of in the mood to have it spread on my front, too... I wonder if anyone's around~...?”
