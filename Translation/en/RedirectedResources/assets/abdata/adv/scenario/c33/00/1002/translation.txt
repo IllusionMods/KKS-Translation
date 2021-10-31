@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「[H名]さん、卓球台があるよ。ちょっと打っていかない？」=“Hey, [H名], there's a ping-pong table. Wanna smack the ball around a little?”
-「じゃあ[H名]さんサーブからで。いつでもいいよ」=“Okay, [H名], let's start with a serve. Whenever you're read.”
+「じゃあ[H名]さんサーブからで。いつでもいいよ」=“Okay, [H名], you can serve first. Whenever you're ready.”
 （[H名]さんのフォーム、可愛いな……）=([H名] has a gorgeous figure...)
 「……あなた、いま私のことを可愛いって思ったでしょう」=“...you were just thinking that I was cute, didn't you.”
 「な、なんでわかったの！？　顔に書いてあった！？」=“H-how could you tell?! Was it written all over my face!?”
