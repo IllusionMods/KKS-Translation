@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「こういう所にきたら、やっぱり地元感の強い料理を頼まないとね？」=“When you come to a place like this, you have to order food with a strong local flavor, don't you?”
-「そうだね。まぁ美味しいかどうかはチャレンジではあるけど……」=“That's right. Well, whether it tastes good or not remains to be seen, but...”
-「その時は……任せたわよ、あ・な・た」=“Well then, I'll leave it to YOU.” 
-「えっ……て、手伝ってくれないの？」=“Eh...! You're not gonna help me out?”
+「こういう所にきたら、やっぱり地元感の強い料理を頼まないとね？」=“When you come to a place like this, you have to order food with a strong local flavor, right?”
+「そうだね。まぁ美味しいかどうかはチャレンジではあるけど……」=“Couldn't agree more. Well, whether it tastes good or not remains to be seen, but...”
+「その時は……任せたわよ、あ・な・た」=“If it comes to that... I'll let you handle it, H-U-B-B-Y.” 
+「えっ……て、手伝ってくれないの？」=“Did you...wait, does that mean you're not gonna help me out?”
 「ふふっ、冗談よ、一緒に食べましょ？」=“Fufu! I'm joking. Let's eat together, shall we?”

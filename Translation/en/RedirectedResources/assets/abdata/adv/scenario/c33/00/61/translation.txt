@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「あら、ここのオイルは使い放題なのかしら？」=“Hey, I guess we can use all the oil we want to here?”
+「あら、ここのオイルは使い放題なのかしら？」=“Oh, I guess we can use all the oil we want to here for free?”
 「そうみたい。ここでオイルエステ的な事をご自由にってことかな？」=“Seems so. I guess you're free to do your oil-therapy thing here.”
-「そう。なら折角だし、あなたに塗ってもらおうかしら？」=“So. Can I spread it on you? I think it's a good idea.”
+「そう。なら折角だし、あなたに塗ってもらおうかしら？」=“I see. Then, could you spread it on me?.”
 「え？　確かにスタッフは見当たらないけど、俺でいいの？」=“Eh? I mean, yeah I don't see any staff but, are you sure you're fine with me?”
 「勿論よ。あ、でもあくまで背中だけよ？　変な事しちゃダメだからね？」=“Of course. Ah, but only my back, okay? Don't do anything weird, alright?”

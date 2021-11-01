@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「流石の迫力ね、パワースポットと言われるだけあるわ」=“The stone is so powerful, that they can it a power spot.”
+「流石の迫力ね、パワースポットと言われるだけあるわ」=“Well, they don't call it a power spot for nothing, the pressure is really intense.”
 「そうだね。こういうのは見てて飽きないなぁ」=“You're right. I never get tired of looking at things like this.”
 「なら時間はあるんだし、一緒にのんびりしていきましょう？」=“Since we've got the time, let's just relax together, okay?”
-「いいの？　他に行きたいところとかない？」=“That's okay? There's nowhere else I'd rather be, you know?”
-「いいのいいの。あなたと二人なら、いくらでも時間は潰せるわ」=“It's fine, it's fine. You can kill as much time as we want together.”
+「いいの？　他に行きたいところとかない？」=“Are you sure? Didn't you want to go somewhere else?”
+「いいのいいの。あなたと二人なら、いくらでも時間は潰せるわ」=“It's fine, it's fine. If it's with you, then we can kill as much time as we want.”

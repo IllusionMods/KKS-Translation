@@ -2,18 +2,18 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「ちょっとお土産を見てこうよ」=“Let's take a look at the souvenirs.”
-「ねえ、ちんすこうなんだけど、無難すぎるかしら？　でも定番を外すと、それはそれで締まらないのよね……」=“Hey, how about this Chinsuko, or is that too safe a pick? But then, if you deviate from the standards, it's not a tight fit.”
-「……[H名]さんが真剣に悩んでるところって、初めて見たかもしれない」=“I think this might be the first time I've seen you seriously rattled, [H名].”
-「あらそう？　でもたしかに、大抵のことはサクサク決められる方ね」=“Oh, really? But you're right. I can make most decisions quickly.”
+「ねえ、ちんすこうなんだけど、無難すぎるかしら？　でも定番を外すと、それはそれで締まらないのよね……」=“Hey, how about this Chinsuko, or is that too safe a pick? But if you deviate from the standards, then it doesn't come off as a souvenir....”
+「……[H名]さんが真剣に悩んでるところって、初めて見たかもしれない」=“I think this might be the first time I've seen you seriously consider something, [H名].”
+「あらそう？　でもたしかに、大抵のことはサクサク決められる方ね」=“Oh, really? But you're right. I do make most decisions quickly.”
 「[H名]さんは物事を根本的に考えるイメージがあるよ」=“[H名], you project an image of someone who really gets down to the bottom of things.”
-「そんな大げさなものじゃないと思うけれど、あなたが言うならそうなんでしょうね、ふふふ」=“I don't think it's that big of a deal, but now that you say it, I guess you're right. Fufufu.”
+「そんな大げさなものじゃないと思うけれど、あなたが言うならそうなんでしょうね、ふふふ」=“I don't think it's as big of a deal as you make it, but if that's how you see it, then I guess that's exactly how it is. Fufufu.”
 「俺と付き合うことはサクッと決められた？」=“Was it a quick decision to go out with me?”
-「さすがにサクッとはいかなかったわ……そうね、丁度このちんすこうぐらい悩んでいたかしら」=“I wasn't going for a quickie, as you might have expected... well, I guess I was just concerned about this Chinsuko.”
-「ちんすこうといい勝負……」=“A match against a Chinsuko...”
-「ふふ、勘違いさせちゃった？　でも違うのよ。いま気づいたけれど、私が時間をかけて悩むのは家族のことが多いみたいなの」=“Fufu, did I give you the wrong idea? But that's not it. I've just noticed that it seems like I spend most of my time worrying about my family.”
-「家族？」=“Your family?”
-「このちんすこうで定番、無難って言ってたのは、家族がどういう反応をするか予想しかねてたのよ」=“I said the standard Chinsuko was a safe pick, but I can't predict how my family would react.”
-「ああ、それはちょっとわかるかも。他の人より長い時間一緒に過ごしてるからデータが多いっていうか、逆にわからないかも」=“Ahh, okay, that makes a little sense. We spend more time together than most, so we have more data... or maybe it's the other way around.”
-「あなたもいずれそんな家族のひとりになるかもしれないと思って、同じぐらい悩んだって言いたかったの。紛らわしかったわね、ごめんなさい」=“I just wanted to say that I was worried that we might eventually become one of those families. Sorry, I know I'm not making sense.”
-「いや、そこまで考えててくれて嬉しいよ。俺も……[H名]さんの家族になったらって考えてみるよ」=“No, I'm actually glad you're thinking that far ahead. I'm going to start having to think about what's it's going to be like in your family, [H名].”
-「あなた風に言うとまだデータが多くないから、知らない部分は都合よく想像するのがポイントよ。現実的に考えるのも程々にってね」=“For you style, there isn't much data yet... the idea is imagine the things that don't come conveniently. Although it's good to be realistic... in moderation.”
+「さすがにサクッとはいかなかったわ……そうね、丁度このちんすこうぐらい悩んでいたかしら」=“Of course it wasn't a quick decision... let's see, I guess I gave it as much thought as I did with this Chinsuko.”
+「ちんすこうといい勝負……」=“So I'm no better than a Chinsuko...”
+「ふふ、勘違いさせちゃった？　でも違うのよ。いま気づいたけれど、私が時間をかけて悩むのは家族のことが多いみたいなの」=“Fufu, did I give you the wrong idea? But it's not what you think. I've just noticed that when it comes to family, I spend a lot more thinking than I usually do.”
+「家族？」=“Family?”
+「このちんすこうで定番、無難って言ってたのは、家族がどういう反応をするか予想しかねてたのよ」=“I said Chinsuko was a safe pick because I couldn't predict how my family would react.”
+「ああ、それはちょっとわかるかも。他の人より長い時間一緒に過ごしてるからデータが多いっていうか、逆にわからないかも」=“Ahh, I know where you're coming from. We spend more time together with family than with others, so we have a lot more data to go through, or rather it's that time that contradictorily makes family harder to understand.”
+「あなたもいずれそんな家族のひとりになるかもしれないと思って、同じぐらい悩んだって言いたかったの。紛らわしかったわね、ごめんなさい」=“Well, what I wanted to say was that I worried as much as I did because one day, you'll be a member of that ‘family’ too. Sorry if I confused you.”
+「いや、そこまで考えててくれて嬉しいよ。俺も……[H名]さんの家族になったらって考えてみるよ」=“No, I'm actually glad you're giving it that much thought. I'm going to start having to think about what's it's going to be your family, [H名].”
+「あなた風に言うとまだデータが多くないから、知らない部分は都合よく想像するのがポイントよ。現実的に考えるのも程々にってね」=“Well, to borrow your words, as there isn't much data yet between us yet, we'll more than likely to fill in the blanks with misconceptions that are convenient to our own selves... What I'm saying is that too much realistic thinking can be a bad thing.”
