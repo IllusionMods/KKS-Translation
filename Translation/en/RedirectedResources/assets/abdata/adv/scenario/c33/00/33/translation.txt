@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「買い物、機会があったらまた誘ってちょうだいね？」=
+「買い物、機会があったらまた誘ってちょうだいね？」=“If you get the chance to go shopping again, invite me back, okay?”

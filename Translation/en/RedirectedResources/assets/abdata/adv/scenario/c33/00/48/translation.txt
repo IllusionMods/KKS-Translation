@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さて、頂くとしましょうか」=
-//「……こういうところ、実は食べ慣れてたりする？」=
-//「あら、そうでもないわよ？　それに、下手に緊張していたら美味しいものも美味しく感じられないじゃない？」=
-//「あー、それもそうだね……うん、もっと気楽に食べるとするか」=
+「さて、頂くとしましょうか」=“Well, let's eat, shall we.”
+「……こういうところ、実は食べ慣れてたりする？」=“...are you actually used to eating at places like this?”
+「あら、そうでもないわよ？　それに、下手に緊張していたら美味しいものも美味しく感じられないじゃない？」=“Look, not really, okay? Besides, if you're nervous, you won't be able to enjoy all this good food, will you?”
+「あー、それもそうだね……うん、もっと気楽に食べるとするか」=“Ah- that's right... yeah, I think I'll take it easier, then.”

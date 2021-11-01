@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルドリンクが飲めるんだって。頼んでみようよ」=
-//「ふふ、昔の私に言ってあげたいわ。あなたは将来、恋人と可愛いストローの刺さったカップルドリンクを飲むのよって。嫌な顔するでしょうけど」=
-//「[H名]さん、もしかして照れてる？」=
-//「ええ。昔の私はこう言うわ。『恋人？　色っぽい女だって勘違いされてるだけでしょ、彼女なんて柄じゃないんだからすぐ別れなさい』ってね」=
-//「あはは、[H名]さん変わってないね」=
-//「……あなたのそういうところが好きなの。昔の私のことを否定するわけじゃないし、俺はそんな男じゃないって否定するわけでもない……」=
-//「今の私と昔の私の関連性をすぐに探してくれて、私を肯定してくれる……そんなあなただから私は照れちゃうのよ」=
-//「そう言われると、[H名]さんが照れてるのって、すごく嬉しいことだってわかるよ。最高に愛してるっていうサインなんだから」=
-//「最高なんて言葉を気軽に使っちゃうあなたも好きよ。等身大の私で愛しているんだもの、それは最高に愛してるってことでいいわ」=
-//「あ、たしかに気軽に使ってたね。なんかそう表現するしかなくてさ」=
-//「私の愛ってそんなに大きくてわかりやすいものなの？」=
-//「うん。たぶん、愛の理由をしっかりと言葉にしてくれるからかな」=
-//「あなたにされて嬉しいことを返しているだけよ。ずっと上っ面だけで判断されて、上辺だけの言葉を聞いてきたけど、あなたはそうじゃなかった」=
-//「もしかしたら最初はそうだったかも……でも、[H名]さんと話していくうちに、本当の[H名]さんのことがわかって、そこに惹かれたんだ」=
-//「だからあなたと恋人同士になれたの。妄信的な恋ではなく、一方的な愛でもない、私の根っこの部分に水をあげてくれるようなあなたとね」=
-//カラン……=
-//「あら、カップルドリンクが早く飲んでって言ってるわ。ラブラブな私たちに妬けちゃったのね」=
-//「しまった、氷が解けて味が薄まっちゃったかな」=
-//「不思議な味って記憶に強く残るのよ。これから二人で愛し合うたびに思い出すんだから、味わって飲みましょ、ふふふ」=
-//（否定しないで肯定してくれるのは[H名]さんもなんだよな……本当に素敵な彼女だよ）=
+「カップルドリンクが飲めるんだって。頼んでみようよ」=“We can share a couple's drink. Let's order one.”
+「ふふ、昔の私に言ってあげたいわ。あなたは将来、恋人と可愛いストローの刺さったカップルドリンクを飲むのよって。嫌な顔するでしょうけど」=“Fufu, I want to talk to my old self and tell her that ‘You and your boyfriend will have a couple's drink and share a straw together.’ I bet she'll have a huge stink on her face.”
+「[H名]さん、もしかして照れてる？」=“[H名], are you embarrassed?”
+「ええ。昔の私はこう言うわ。『恋人？　色っぽい女だって勘違いされてるだけでしょ、彼女なんて柄じゃないんだからすぐ別れなさい』ってね」=“Yeah. The old me would've said, 'Boyfriend? He probably sees you as just another sexy girl. You're not one of those ‘girlfriend’ type anyways, so break up with him immediately.'”
+「あはは、[H名]さん変わってないね」=“Ahaha, you haven't changed, [H名].”
+「……あなたのそういうところが好きなの。昔の私のことを否定するわけじゃないし、俺はそんな男じゃないって否定するわけでもない……」=“...that's what I like about you. You're not overlooking who I used to be, and you're not denying that you're that kind of guy.”
+「今の私と昔の私の関連性をすぐに探してくれて、私を肯定してくれる……そんなあなただから私は照れちゃうのよ」=You immediately see the connection between the person I used to be and the person I am now, and even then continues to reaffirm and stand by me... It's because you being who you are that I'm so embarrassed.”
+「そう言われると、[H名]さんが照れてるのって、すごく嬉しいことだってわかるよ。最高に愛してるっていうサインなんだから」=“I'm starting to get the idea that you being embarrassed is a super good thing after all, [H名]. As, when put it your way, it's a sign that you love me wholeheartedly.”
+「最高なんて言葉を気軽に使っちゃうあなたも好きよ。等身大の私で愛しているんだもの、それは最高に愛してるってことでいいわ」=“And I love that side of you too, using the word 'wholeheartedly' so casually. Well, you're right about it being 'wholeheartedly', as I love you with all that I am.”
+「あ、たしかに気軽に使ってたね。なんかそう表現するしかなくてさ」=“Ah, it's true that I said 'wholeheartedly' casually. Somehow, it's the only fitting way to describe it.”
+「私の愛ってそんなに大きくてわかりやすいものなの？」=“Is my love so big and easy to understand?”
+「うん。たぶん、愛の理由をしっかりと言葉にしてくれるからかな」=“Yeah. Maybe it's because you're so good at expressing your love for me in words.”
+「あなたにされて嬉しいことを返しているだけよ。ずっと上っ面だけで判断されて、上辺だけの言葉を聞いてきたけど、あなたはそうじゃなかった」=“I'm just returning the favor you've given to me. All my life, I've only been judged on my surface appearances, treated to superficial words, but you didn't do that.”
+「もしかしたら最初はそうだったかも……でも、[H名]さんと話していくうちに、本当の[H名]さんのことがわかって、そこに惹かれたんだ」=“I might have been like that at first... but as I talked to you, [H名], I discovered the real you, and I was attracted to that.”
+「だからあなたと恋人同士になれたの。妄信的な恋ではなく、一方的な愛でもない、私の根っこの部分に水をあげてくれるようなあなたとね」=“That's how we were able to become lovers. Not a delusional love, not a one-sided infatuation, but a true love that waters my roots.”
+カラン……=*ding*...
+「あら、カップルドリンクが早く飲んでって言ってるわ。ラブラブな私たちに妬けちゃったのね」=“Look, we're being told to hurry up and drink our couple's drink. Everyone seems to be jealous about our sappy relationship.” 
+「しまった、氷が解けて味が薄まっちゃったかな」=“Crap, looks like the ice has melted and watered down the flavor.”
+「不思議な味って記憶に強く残るのよ。これから二人で愛し合うたびに思い出すんだから、味わって飲みましょ、ふふふ」=“Strange flavors are the ones that stick in your memory the most. Come, let's drink and remember this flavor every time we make love from now on. Fufufu.”
+（否定しないで肯定してくれるのは[H名]さんもなんだよな……本当に素敵な彼女だよ）=([H名]'s also not one to shy away from anything... she's really a wonderful girlfriend.)

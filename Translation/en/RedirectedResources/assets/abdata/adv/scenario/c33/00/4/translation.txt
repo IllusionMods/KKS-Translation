@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅん、そんなに私とエッチしたいの？」=
-//「う、うん……[H名]さんとしたくてしたくて、たまらないんだ……っ」=
-//「ふふっ、そんなに熱く求められるなんて、女としてとても喜ばしいことね」=
-//「えっと、返事は……」=
-//「もぉ、そんなにがっつかないの？　ほら、今準備するから落ち着いて、ね……？」=
+「ふぅん、そんなに私とエッチしたいの？」=“Hmph, do you really want to have sex with me that badly?”
+「う、うん……[H名]さんとしたくてしたくて、たまらないんだ……っ」=“Y-yeah... I just can't wait to do it with you, [H名]...!”
+「ふふっ、そんなに熱く求められるなんて、女としてとても喜ばしいことね」=“Fufu! It's very flattering for a woman to be so passionately desired.”
+「えっと、返事は……」=“Er, um, your response...”
+「もぉ、そんなにがっつかないの？　ほら、今準備するから落ち着いて、ね……？」=“Come on, can you just wait a moment? Here, I'll get ready now so just relax, yeah...?”

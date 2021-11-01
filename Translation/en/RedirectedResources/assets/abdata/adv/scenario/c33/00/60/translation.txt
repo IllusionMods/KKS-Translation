@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねぇ、いる……？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
-「どうしたの？」=Something wrong?
-//「ふふっ、お邪魔するわね」=
-//「あら、あなたの愛しい彼女が部屋に来たのよ？　私が何を求めているか……わかってるわよね？」=
-//「……もう、寝ているのかしら？　仕方ないわね……」=
+「ねぇ、いる……？」=“Hey, are you there...?”
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
+「どうしたの？」=“What's going on?“
+「ふふっ、お邪魔するわね」=“Fufu! Sorry to bother you.”
+「あら、あなたの愛しい彼女が部屋に来たのよ？　私が何を求めているか……わかってるわよね？」=“Oh, your darling girlfriend's shown up in your room, hasn't she? You know what I want...right?”
+「……もう、寝ているのかしら？　仕方ないわね……」=“...geez, I guess he's asleep? It can't be helped...”

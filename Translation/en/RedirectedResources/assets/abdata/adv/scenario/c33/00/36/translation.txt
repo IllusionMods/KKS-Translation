@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「で、海に来てみたけど、何をして遊ぶのかしら？」=
-//「そうだなぁ……うーん、[H名]さんと遊びたくて誘ったんだけど、実は何をしようかは特に考えてなくて……」=
-//「あら、そんなに私と遊びたかったのかしら？」=
-//「まあ、折角こんないいとこに来たんだしね」=
-//「ふふっ、思ったより仕方ない人ね……そういうときは、一緒に何をするか考えればいいのよ？」=
-//「そ、そうだね……二人で考えてみよっか」=
+「で、海に来てみたけど、何をして遊ぶのかしら？」=“So, we're at the beach, but are we going to do something?”
+「そうだなぁ……うーん、[H名]さんと遊びたくて誘ったんだけど、実は何をしようかは特に考えてなくて……」=“I suppose... hmmm, I invited you out to play, [H名], but I didn't actually have a specific idea of what we'd be doing.”
+「あら、そんなに私と遊びたかったのかしら？」=“Oh, you wanted to play with me that badly?”
+「まあ、折角こんないいとこに来たんだしね」=“I mean, why waste a trip to such a nice place you know?”
+「ふふっ、思ったより仕方ない人ね……そういうときは、一緒に何をするか考えればいいのよ？」=“Fufu! You're more helpless than I thought... in that case, we'll just have to think about what we're going to do together.”
+「そ、そうだね……二人で考えてみよっか」=“R-right... let's see what we can figure out together.”
