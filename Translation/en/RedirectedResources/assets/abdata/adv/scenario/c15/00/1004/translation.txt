@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「浜辺は気持ちいいね。ちょっと散歩しようか？」=
-//「…………おー」=
-//「[H名]、さっきからずっと海の方を見てるね？　何かあるの？」=
-//「海があるぞ」=
-//「そりゃそうだ」=
-//「海はそこまで馴染みがないからな。見てるだけで面白いぞ」=
-//「そういうもの？」=
-//「キミは観察が足りないんだ。もっと集中したら、色んなものが見えてくる」=
-//「波の動きとか、風の匂いとか。そういうのみんな海の息遣いなんだそ」=
-//（スケールの大きな話になったきた……）=
-//「はあっ、すごいなー海は」=
-//「おっと、ごめん。キミは退屈かー？　他のとこに行ってもいいぞ」=
-//「気にしなくていいよ。俺もだんだん、海の息遣いわかるようになってきたところ」=
-//「あはは、ホントかー？」=
-//「ホント、ホント」=
-//「……キミは優しいな。そういうところが大好きだぞ」=
-//「そ、そっか、ありがとう……」=
-//「ふぅ。キレイだ、本当に」=
-//「こうやって見てると……なんだか、あれだな？　わーって海に飛び込みたくなるな」=
-//「それはやめて」=
+「浜辺は気持ちいいね。ちょっと散歩しようか？」=“It's nice here, on the beach. Want to go for a little walk?”
+「…………おー」=“...oh-”
+「[H名]、さっきからずっと海の方を見てるね？　何かあるの？」=“You've been studying the ocean for a while now, haven't you, [H名]? Something up?”
+「海があるぞ」=“It's the ocean.”
+「そりゃそうだ」=“Well, that's true.”
+「海はそこまで馴染みがないからな。見てるだけで面白いぞ」=“I don't know much about the ocean. I feel strange, just looking at it.”
+「そういうもの？」=“What about it?”
+「キミは観察が足りないんだ。もっと集中したら、色んなものが見えてくる」=“You're not observant enough. If you focus more, you'll see many things.”
+「波の動きとか、風の匂いとか。そういうのみんな海の息遣いなんだそ」=“The movement of the waves. The smell of the wind. They're all the breath of the sea.”
+（スケールの大きな話になったきた……）=(This is turning into quite the conversation...)
+「はあっ、すごいなー海は」=“Ahhhaa! The ocean is amazing.”
+「おっと、ごめん。キミは退屈かー？　他のとこに行ってもいいぞ」=Er, uh, sorry. Am I boring you-? We can go somewhere else.”
+「気にしなくていいよ。俺もだんだん、海の息遣いわかるようになってきたところ」=
+「あはは、ホントかー？」=“Ahaha, oh really?”
+「ホント、ホント」=“Really, really.”
+「……キミは優しいな。そういうところが大好きだぞ」=“...you're so sweet. I love that about you.”
+「そ、そっか、ありがとう……」=“...I... I see... thanks...”
+「ふぅ。キレイだ、本当に」=“Fu. It really is beautiful.”
+「こうやって見てると……なんだか、あれだな？　わーって海に飛び込みたくなるな」=“When I look at it, I'm like... what the hell is this? It makes me want to scream, and jump into the sea.”
+「それはやめて」=“Don't do that.”
