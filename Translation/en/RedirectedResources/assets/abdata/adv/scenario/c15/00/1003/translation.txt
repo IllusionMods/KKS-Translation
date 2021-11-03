@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお店を見てこうよ」=
-//「おー、いいぞー」=
-//「それ気に入ったの？　アロハシャツかな」=
-//「気に入ったってわけじゃないぞ？　なんとなく手に取っただけだ=
-//「いいんじゃない？　[H名]はアロハ似合いそうだよ」=
-//「似合う？　なんでだ」=
-//「……なんとなくかな？」=
-//「あはは、あたしの真似っこだー」=
-//「まあいいか。キミが似合うって言うなら、これあたしのお土産にしよっかな」=
-//「なんなら俺が買ってプレゼントしよっか？」=
-//「そんなのしなくていいから、キミはキミのお土産を買うんだぞ」=
-//「それも味気なくない？　あ、じゃあ[H名]は俺のを選んでよ。それで贈り合うってことで……どうかな」=
-//「う！？　そ、それはちょっと、あたしには難しすぎるなー……」=
-//「キミに似合う贈り物か。ち、ちょっと時間がほしいぞ、すぐには決められない」=
-//（自分のはあんなに簡単に決めたのに……）=
+「ちょっとお店を見てこうよ」=“Let's check out the store.”
+「おー、いいぞー」=“Oh- Okay-”
+「それ気に入ったの？　アロハシャツかな」=“You like that? It's a Hawaiian shirt, I think.”
+「気に入ったってわけじゃないぞ？　なんとなく手に取っただけだ=“I didn't say I liked it, okay? I just ended up with it, for some reason.”
+「いいんじゃない？　[H名]はアロハ似合いそうだよ」=“What's wrong with it? You'd look good in a Hawaiian shirt, [H名].”
+「似合う？　なんでだ」=“It'd suit me? I don't get it.”
+「……なんとなくかな？」=“...you don't get it?”
+「あはは、あたしの真似っこだー」=“Ahaha, you're trying to copy me-”
+「まあいいか。キミが似合うって言うなら、これあたしのお土産にしよっかな」=“Well, whatever. If you're telling me I'd look good, then I guess this'll be my souvenir.”
+「なんなら俺が買ってプレゼントしよっか？」=“I could buy it and gift it to you, if that's what you'd like, okay?”
+「そんなのしなくていいから、キミはキミのお土産を買うんだぞ」=“You don't have to do that. Buy your own souvenirs.”
+「それも味気なくない？　あ、じゃあ[H名]は俺のを選んでよ。それで贈り合うってことで……どうかな」=“I'd just get something tasteless then, wouldn't I? Ah, pick one for me, [H名]. We could give them to each other as gifts... so how about it?”
+「う！？　そ、それはちょっと、あたしには難しすぎるなー……」=“Uuu?! Th-that's a little too much for me-...”
+「キミに似合う贈り物か。ち、ちょっと時間がほしいぞ、すぐには決められない」=“A gift that suits you... I-I need some time... I can't decide right off the bat.” 
+（自分のはあんなに簡単に決めたのに……）=(I made my decision so easily...)
