@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「おーい、あたしだぞ、入っていいかー？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
-//「どうかしたの？」=
-//「あたし、キミとしたくて……我慢できなくなっちゃったんだー」=
-//「あたしと、いっぱい気持ち良くなってもらうからなー♪」=
-//「あれ～、いないのかー……残念だぞー」=
+「おーい、あたしだぞ、入っていいかー？」=“Hey, it's me. Can I come in-?”
+SELECTION:「返事をする」=Respond.
+SELECTION:「……」=...
+「どうかしたの？」=“What's up?”
+「あたし、キミとしたくて……我慢できなくなっちゃったんだー」=“I wanted to do it with you... I just couldn't take it anymore-”
+「あたしと、いっぱい気持ち良くなってもらうからなー♪」=“I'm gonna make you feel so good-♪”
+「あれ～、いないのかー……残念だぞー」=“Well~ he's not here- That's a shame-”
