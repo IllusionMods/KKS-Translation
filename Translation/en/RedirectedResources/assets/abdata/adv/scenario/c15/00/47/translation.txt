@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「踊りだしたくなるくらい楽しかった！　また一緒に体験しようなー！」=
+「踊りだしたくなるくらい楽しかった！　また一緒に体験しようなー！」=“That was so much fun... I wanted to start dancing! I want to do this experience together with you again-!”
