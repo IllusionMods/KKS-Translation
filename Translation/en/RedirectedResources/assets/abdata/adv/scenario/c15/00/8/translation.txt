@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へへー、やっぱりイチャイチャするのは楽しいなー」=
-//「それじゃあ、あたしは先に行ってるから、また後でな？」=
+「へへー、やっぱりイチャイチャするのは楽しいなー」=“Ehehe- It's still so fun to make out with you-”
+「それじゃあ、あたしは先に行ってるから、また後でな？」=“Well then, I'm gonna head out first, so see you later, okay?”
