@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うん、ありがとなー。すごく気持ち良かったぞー」=
-//「いい感じだった。これなら満足だぞー」=
-//「悪くなかったぞー。ありがとなー」=
-//「なんだ？　塗り方がわからなかったのかー？」=
+「うん、ありがとなー。すごく気持ち良かったぞー」=“Yeah, thank you-. That was really nice-”
+「いい感じだった。これなら満足だぞー」=“That felt good. I'm satisfied with that-”
+「悪くなかったぞー。ありがとなー」=“That wasn't too bad- Thanks-”
+「なんだ？　塗り方がわからなかったのかー？」=“What? Don't you know how to apply oil-?”
