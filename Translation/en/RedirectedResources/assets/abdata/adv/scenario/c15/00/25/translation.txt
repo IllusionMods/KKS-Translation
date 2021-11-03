@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ……すごい恥ずかしかったぞ。こんなとこでするなんて、あたしたち変態だな！」=
+「はぁ……すごい恥ずかしかったぞ。こんなとこでするなんて、あたしたち変態だな！」=“Ahhaaa... that was so embarrassing. What kind of perverts are we, doing that here?”
