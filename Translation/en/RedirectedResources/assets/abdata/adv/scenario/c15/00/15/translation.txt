@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うぎゃ！？　ってキミかー。……へへー、もっとよく見たくないか？」=
+「うぎゃ！？　ってキミかー。……へへー、もっとよく見たくないか？」=“Uggya!? Oh, it's you-. Ehehe- Wanna get a better look?”
