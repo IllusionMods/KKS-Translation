@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こうやって、生地を染めるのも楽しいもんだなー」=
-//「紅型染めの楽しさが分かるなんて、なんか大人って感じだね」=
-//「そ、そうかー？　なんかそう言われると照れちゃうぞー」=
-//「あ、そこちょっとはみ出しちゃったよ」=
-//「え？　わ、しまったぞー！」=
+「こうやって、生地を染めるのも楽しいもんだなー」=“It's fun, dyeing fabrics like this-”
+「紅型染めの楽しさが分かるなんて、なんか大人って感じだね」=“I never knew how much fun Bingata dyeing could be. It makes you seem so mature.”
+「そ、そうかー？　なんかそう言われると照れちゃうぞー」=“R-really-? You embarrass me, when you say something like that-”
+「あ、そこちょっとはみ出しちゃったよ」=“Ah, you're crowding it a little there.”
+「え？　わ、しまったぞー！」=“Eh? Wa, dammit-!”
