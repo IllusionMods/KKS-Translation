@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「よし、オイルを塗るなら俺に任せてよ」=
-//「そうだなー……それじゃあ、前の方にも塗ってもらおうかな」=
-//「前も？　変な所触っちゃうかも……」=
-//「変な所じゃなくて、ちゃんと塗らないとだめだぞー」=
-//「分かった、ちゃんと塗るよ、うん」=
+「よし、オイルを塗るなら俺に任せてよ」=“Alright, if you'd like me to apply the oil, just leave it to me.”
+「そうだなー……それじゃあ、前の方にも塗ってもらおうかな」=“I guess- ...well then, you can spread it on my front.”
+「前も？　変な所触っちゃうかも……」=“The front? I might touch something... weird...”
+「変な所じゃなくて、ちゃんと塗らないとだめだぞー」=“You won't touch anything weird if you spread it on properly-”
+「分かった、ちゃんと塗るよ、うん」=“Understood. I'll apply it properly, yeah.”
