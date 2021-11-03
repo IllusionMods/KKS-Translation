@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なあ、愛称付けたーい！」=
-//「急にどうしたの？」=
-//「友達に言われたんだー！　愛称があると、二人の仲がもっと深まるって」=
-//「愛称か……じゃあちょっと考えてみよっか」=
-//「決めた！」=
-//「早っ！」=
-//「なーなー、あたしのまだー？」=
-//「ちょっとだけ待って。えーと…………よし、出来たよ……じゃあ、呼び合ってみようか」=
-//「おー！　……[Pあだ名]」=
-//「[Hあだ名]」=
-//「……確かになんだか、仲が深まった気がするぞ！」=
-//「うん……思ったより効果がありそうだね」=
-//「なー、また呼んでみてもいいか？」=
-//「もちろんいいよ」=
-//「へへー、いい愛称をゲットだぞ！」=
+「なあ、愛称付けたーい！」=“Hey, I want to give you a nickname!”
+「急にどうしたの？」=“What's this, all of a sudden?”
+「友達に言われたんだー！　愛称があると、二人の仲がもっと深まるって」=“I talked with a friend about it-! They said a nickname would bring us closer together.”
+「愛称か……じゃあちょっと考えてみよっか」=“Nicknames... let's take a minute to think about this.”
+「決めた！」=“Got one!”
+「早っ！」=“So fast!”
+「なーなー、あたしのまだー？」=“Na- na- got mine yet?”
+「ちょっとだけ待って。えーと…………よし、出来たよ……じゃあ、呼び合ってみようか」=“Just give me a second. Er, um... right, I got it... so, let's say them out loud.”
+「おー！　……[Pあだ名]」=“Ohh-! ...[Pあだ名].”
+「[Hあだ名]」=“[Hあだ名].”
+「……確かになんだか、仲が深まった気がするぞ！」=“...there we go. I certainly feel that our relationship has deepened!”
+「うん……思ったより効果がありそうだね」=“Yeah... it's working better than I expected.”
+「なー、また呼んでみてもいいか？」=“Hey, can I call you that again?”
+「もちろんいいよ」=“That's fine, of course.”
+「へへー、いい愛称をゲットだぞ！」=“Ehehe- I got myself a good nickname!”
