@@ -4,4 +4,4 @@
 「お前はさすがだな！　すっげーよかったぜ！」=“You're the man! That was awesome, dude!”
 「いい気分だったぜ。さんきゅー！」=“That felt good, man. Thank you-!”
 「少しすっきりした気がするぜ。ありがとな」=“I feel a little better now. Thanks, man.”
-「おいおい、ほんとに塗らないのか？」=“Yeah, yeah, you really weren't going to put any on, were you?”
+「おいおい、ほんとに塗らないのか？」=“Oi oi, you sure you don't want to put them on?”

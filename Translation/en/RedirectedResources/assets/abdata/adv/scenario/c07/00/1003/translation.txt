@@ -2,17 +2,17 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「ちょっとお土産を見てみようよ」=“Let's take a little look at the souvenirs.”
-「ん、ああ、いいけど」=“Mmm, ahh, that's fine, but...”
-「うーん？　どうしようかな」=“Mmmm? I don't know what this is.”
-「泡盛って書いてあるけど……[H名]、それ買うの？」=“It says 'Awamori' on it... you buying that, [H名]?”
-「ダサいかな？　……ぶっちゃけ、私ってこういうの選ぶセンスがなくってさ」=“Is it lame? I honestly don't have the  sense to pick things like this.”
-「でも、せっかく来たんだし記念になんか欲しい気もする」=“But now we're here, I think I'd like something to commermorate the occasion.”
-「まあ、急ぐようなことでもないしゆっくり気に入るものを探せば……」=“Well, it's not like we're in a hurry, so let's take our time to find something we like...”
-「そうだ！　お前が私に似合いそうなの選んでくれよ」=“Right! Pick something that'll look good on me.”
+「ん、ああ、いいけど」=“Mmm, ahh, yeah sure.”
+「うーん？　どうしようかな」=“Mmmm? Now what should I get.”
+「泡盛って書いてあるけど……[H名]、それ買うの？」=“Looks like that's a local alcohol specialty... you sure you're buying that, [H名]?”
+「ダサいかな？　……ぶっちゃけ、私ってこういうの選ぶセンスがなくってさ」=“You think it's lame? To be honest, I don't have a clue on what to pick for these kinds of things.”
+「でも、せっかく来たんだし記念になんか欲しい気もする」=“But, it'd be a waste too coming all the way out here with nothing to commemorate.”
+「まあ、急ぐようなことでもないしゆっくり気に入るものを探せば……」=“Well, it's not like we're in a hurry, so let's take our time to find something you like...”
+「そうだ！　お前が私に似合いそうなの選んでくれよ」=“Oh I know!  Pick something that'll look good on me.”
 「俺？　無理無理。女の子の好みなんて、それこそわからないって」=“Me? No way. I have no idea what girls like.”
-「いいじゃん。お前が選んでくれたものなら、なんでも気に入るだろうし」=“That's a good one. I'm sure I'll love whatever you pick out for me.”
-//「そ、そんな言われ方したら、ますますプレッシャーだよ」=
-「いいじゃん。なー……あ、なんならお揃いとかでもいいぞ」=“Here's a good one. Na- ...ah, you can have a matching set, if that's what you want.”
-「無理無理、選べないってば」=“No way. You can't pick that one.”
-「お前が選んだのがいいなぁって私の中で決まっちゃったんだってば。なー、選んでくれよー金は払うから」=“I've already decided that I like the one you chose. I'll go and pay for it.”
-「プレッシャーがえぐすぎる！」=“There's just so much pressure!”
+「いいじゃん。お前が選んでくれたものなら、なんでも気に入るだろうし」=“Don't worry. I'm sure I'll love whatever you pick out for me.”
+「そ、そんな言われ方したら、ますますプレッシャーだよ」=“T-That's a lot of pressure when you put it that way.”
+「いいじゃん。なー……あ、なんならお揃いとかでもいいぞ」=“Oh come on, please... Oooh, how about a matching set for the both of us.”
+「無理無理、選べないってば」=“Nope nope. Like I said, I can't just pick one.”
+「お前が選んだのがいいなぁって私の中で決まっちゃったんだってば。なー、選んでくれよー金は払うから」=“Come on, I've already decided that I want the one you chose. Please~, I'll even go and pay for it.”
+「プレッシャーがえぐすぎる！」=“Way to bring on the pressure there!”

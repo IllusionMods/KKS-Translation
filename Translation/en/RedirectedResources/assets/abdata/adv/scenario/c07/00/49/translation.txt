@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「このお好み焼きみたいなやつ、美味しいなぁ」=“This okonomiyaji-like stuff is delicious.”
-「それはヒラヤーチーだね。もぐもぐ……ここに来るまで食べたことないはずなのに、なんかめっちゃ食べ慣れた味がする」=“That's Hiranyati. *Chomp chomp* I'm sure I've never eaten it before coming here, but it really tastes familiar.”
+「このお好み焼きみたいなやつ、美味しいなぁ」=“This okonomiyaki-like stuff is delicious.”
+「それはヒラヤーチーだね。もぐもぐ……ここに来るまで食べたことないはずなのに、なんかめっちゃ食べ慣れた味がする」=“That's Hirayachi. *Chomp chomp* I'm sure I've never eaten it before coming here, but it really tastes familiar.”
 「あー、わかる！　なんか家庭的な味がするよな」=“Ah- I know! It does taste kind of homey.”
 「もう一枚注文しようかな」=“Maybe I'll order some more.”
 「お、それじゃあ私も！　とことん食べるぜ」=“Oh, I am so with you! I'm gonna pig out.”

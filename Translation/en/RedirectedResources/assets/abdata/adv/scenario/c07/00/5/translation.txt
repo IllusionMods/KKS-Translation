@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「そう、だよな……私たちは恋人同士なんだから、そういうこともシないとだよな」=“Yeah, I know... we're you're lovers, so we should be able to do that.”
-「よ、よしっ……ヤるか！」=“A-alright...! Let's do it!”
+「そう、だよな……私たちは恋人同士なんだから、そういうこともシないとだよな」=“Yeah, I know... we're you're lovers, so we should be doing that.”
+「よ、よしっ……ヤるか！」=“A-alright...! Do me!”
 「分かってるとは思うが……初めてだから、優しくしてくれ……」=“I know you know this, but this is my first time... so be gentle...”
 「うん、任せて」=“Yeah, I got it.”

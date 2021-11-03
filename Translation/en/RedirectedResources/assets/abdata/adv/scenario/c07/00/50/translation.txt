@@ -4,7 +4,7 @@
 「ボリュームたっぷりのステーキだね。[H名]は食べきれる？」=“That's quite the big steak. Can you eat all of that, [H名]?”
 「当ったり前だろ。この肉を完食できない私は、私じゃないぜ」=“Of course I can. If I can't polish this meat off, I'm not me, man.”
 「言ってる意味はよく分かんないけど、大丈夫なら良かったよ」=“Not sure what you're saying there, but I'm glad you're alright with it.”
-「ああ、任せろ。しかし、この島はステーキが有名だったんだな。来るまで全然知らなかった」=“Ahhh, I've got this. The island's famous for its steaks. I had no idea until I got here.”
+「ああ、任せろ。しかし、この島はステーキが有名だったんだな。来るまで全然知らなかった」=“Yeah, I've got this. The island's famous for its steaks. I had no idea until I got here.”
 「確かに、そんなイメージは俺もなかったなー」=“You're right. I certainly didn't imagine they did.”
 「こんなに大きいステーキを食べられるなんて……感涙ものだ！　本当にここへ来てよかったぜ！」=“I never thought I'd be able to east a steak this big... I'm moved to tears! I'm so glad we came here!”
 「……島での思い出、全部ステーキで上書きされてない？」=“...are all your memories of the island gonna be overwritten by steak?”
