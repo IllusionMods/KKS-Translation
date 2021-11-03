@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「海が綺麗だね」=
-//「本当だな、もっと沖の方まで行ってみたいぞ」=
-//「でも、たまには浜辺でのんびりするのもいいんじゃない？」=
-//「そうか……確かに、キミと二人ならそれも楽しそうだな！　なら、頑張ってのんびりするぞー」=
-//「のんびりー！　のんびりー！　もっとのんびりー！」=
-//「いや、そこまで頑張らなくても……」=
+「海が綺麗だね」=“The ocean's so beautiful.”
+「本当だな、もっと沖の方まで行ってみたいぞ」=“It really is. I'd like to go farther out to sea.”
+「でも、たまには浜辺でのんびりするのもいいんじゃない？」=“But it's nice to just relax on the beach every once in a while, isn't it?”
+「そうか……確かに、キミと二人ならそれも楽しそうだな！　なら、頑張ってのんびりするぞー」=“Yeah... sure, it would be fun to do that with you! Okay... I'll do my best to relax.”
+「のんびりー！　のんびりー！　もっとのんびりー！」=“Taking it easy-! Relaxing-! Relaxing even more-!”
+「いや、そこまで頑張らなくても……」=“No, you don't need to try so hard...”
