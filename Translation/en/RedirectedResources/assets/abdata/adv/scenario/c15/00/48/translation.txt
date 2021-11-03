@@ -5,4 +5,4 @@
 「そうだね」=“I know.”
 「やっぱり遠くに来たら、地元の料理が一番だなー」=“It turns out that when you're far away from home, local food is the best-”
 「珍しいものもいっぱいあるしね」=“There's a lot of hard-to-find stuff here.”
-「あたし、もっと食べたくなって来たぞー！」=“I'm start to want to eat even more-!”
+「あたし、もっと食べたくなって来たぞー！」=“I'm beginning to want to eat even more-!”
