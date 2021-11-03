@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃあ、何をレンタルしようか」=
-//「あたしはバナナボートがいいぞー！」=
-//「バナナボートか……アレって結構揺れるんだよなぁ」=
-//「なんだ、キミは苦手なのかー？」=
-//「いや、苦手って訳じゃないけど……」=
-//「大丈夫だぞー！　絶対楽しいに決まってるからなー」=
+「それじゃあ、何をレンタルしようか」=“Alright then, what should we rent?”
+「あたしはバナナボートがいいぞー！」=“I like the banana boats-!”
+「バナナボートか……アレって結構揺れるんだよなぁ」=“The banana boats... those things are pretty unsteady.”
+「なんだ、キミは苦手なのかー？」=“What, you're not good with that?”
+「いや、苦手って訳じゃないけど……」=“No, it's not that I'm not good with that...”
+「大丈夫だぞー！　絶対楽しいに決まってるからなー」=“Alright, then-! I'm sure it'll be way fun-”
