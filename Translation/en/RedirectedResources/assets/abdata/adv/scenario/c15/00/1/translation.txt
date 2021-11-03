@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そ、そうだったのか……あたしの事、本気で好きなのか？」=
-//「もちろん、本気で好きだ。俺と付き合って欲しい」=
-//「わ、わかった、あたしも……その、キミの事好きだから、大丈夫だぞ」=
-//「ありがとう、嬉しいよ。これで俺たち、恋人同士だね」=
-//「こ、恋人同士か……う、うん、宜しくな」=
+「そ、そうだったのか……あたしの事、本気で好きなのか？」=“Is... is that so... you seriously like me?”
+「もちろん、本気で好きだ。俺と付き合って欲しい」=“Yes, of course, I really like you. I want you to go out with me.”
+「わ、わかった、あたしも……その、キミの事好きだから、大丈夫だぞ」=“I-get it... I... like you, too, so everything's alright.”
+「ありがとう、嬉しいよ。これで俺たち、恋人同士だね」=“Thank you, that's great. Well then, we're lovers now.”
+「こ、恋人同士か……う、うん、宜しくな」=“W-we're lovers... y-yeah... let's get along.”
