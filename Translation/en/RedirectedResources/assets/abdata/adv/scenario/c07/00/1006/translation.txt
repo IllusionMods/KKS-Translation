@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねえ、[H名]。二人で鳴らしてみようか？」=
-//「い、いいけど、待て！　ちょっとだけ心の準備をさせろ」=
-//「そこまで意気込まなくても」=
-//「お前……こ、この鐘のジンクスを知らないのかよ」=
-//「知ってるから誘ってるに決まってるよ」=
-//「く……だったらわかるだろ？　私には心の準備が必要なんだ」=
-//「……すぅ、はぁ」=
-//「よし。鳴らそう……ん？　一緒に持つのか？　こうかな」=
-//「お、意外といい感じに鳴ったんじゃないか」=
-//「これでジンクス達成だ」=
-//「ごほんっ！　……この鐘を二人で鳴らすと、永遠に結ばれるとかだっけ」=
-//「そうそう、もはや結婚したも同然だよ」=
-//「結婚は早すぎだろ！　そりゃ、私だっていつかはって思ってないわけじゃ……でも」=
-//「あ、ニヤニヤしてる。冗談だろ？　最低だこいつ」=
-//「人聞きが悪いにも程があるよ。言ってるだろ？　俺は[H名]とだからこの鐘を鳴らしたかったんだって」=
-//「それは、まあ、うん……私もだけど」=
-//「なんか、本当に私達は永遠に結ばれる気がしてきた。プラシーボみたいなやつかな」=
-//「子供は何人にする？」=
-//「女の子は絶対欲し……って、だから急ぎすぎだっての！　やっぱりちょっとからかってるだろ」=
-//（すいません、照れ隠し入ってます……）=
+「ねえ、[H名]。二人で鳴らしてみようか？」=“Hey, [H名]. Wanna ring the bell together?”
+「い、いいけど、待て！　ちょっとだけ心の準備をさせろ」=“Y-yeah, but wait! Give a sec to prepare myself.”
+「そこまで意気込まなくても」=“No need to psyche yourself up that much.”
+「お前……こ、この鐘のジンクスを知らないのかよ」=“You... you don't know about the jinx on this bell, do you?”
+「知ってるから誘ってるに決まってるよ」=“Of course I do, that's why I invited you the first place.”
+「く……だったらわかるだろ？　私には心の準備が必要なんだ」=“Uggh... then you know what it is, right? I need to prepare myself for it.”
+「……すぅ、はぁ」=“...*inhale*... *exhale*.”
+「よし。鳴らそう……ん？　一緒に持つのか？　こうかな」=“Right. Let's ring it... nh? Do we do it together? Like this perhaps.”
+「お、意外といい感じに鳴ったんじゃないか」=“Oh, I believe that sounded better than I expected.”
+「これでジンクス達成だ」=“We're jinxed now.”
+「ごほんっ！　……この鐘を二人で鳴らすと、永遠に結ばれるとかだっけ」=“Ahem! ...Sooo, I heard that if two people ring this bell together, they'll be forever together.”
+「そうそう、もはや結婚したも同然だよ」=“Uh huh. We're as good as married now.”
+「結婚は早すぎだろ！　そりゃ、私だっていつかはって思ってないわけじゃ……でも」=“Not that fast! I mean, it's not like I think we won't get there, someday... but...”
+「あ、ニヤニヤしてる。冗談だろ？　最低だこいつ」=“Ah, you're smirking. You're joking? What an ass.”
+「人聞きが悪いにも程があるよ。言ってるだろ？　俺は[H名]とだからこの鐘を鳴らしたかったんだって」=“Hey now, don't make it sound like I'm the bad guy. Didn't I say it? I wanted to ring the bell, because I'm with you, [H名].”
+「それは、まあ、うん……私もだけど」=“That's, well, yeah... me, too.”
+「なんか、本当に私達は永遠に結ばれる気がしてきた。プラシーボみたいなやつかな」=“Something tells me we're really going to be together, forever. I think they call it a placebo effect or something?.”
+「子供は何人にする？」=“So, how many kids do you want?”
+「女の子は絶対欲し……って、だから急ぎすぎだっての！　やっぱりちょっとからかってるだろ」=“Well we gotta have a girl... stop, I said too soon damnit!  I knew you were just messing with me.”
+（すいません、照れ隠し入ってます……）=(Sorry, I was just hiding my embarrassment...)

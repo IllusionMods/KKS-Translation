@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここは風が気持ちいいね」=
-//「だな。爽やかすぎて叫びたくなってくるぜ」=
-//「その気持ちは分かんないんだけど……」=
-//「マジで？　何かに感動したときとかさ、自分中で気持ちがぐわーって湧き上がって来たりしないのか？」=
-//「まあ、感動した時に感情が込み上げることはあるけど……それをそのまま言葉にはしないかな」=
-//「そうなんだな……そういう時は自分の感情に素直になった方がいいと思うぜ。こんな風にさ……最高だぁー！！」=
-//「周りの迷惑になるって！」=
+「ここは風が気持ちいいね」=“The breeze feels good here.”
+「だな。爽やかすぎて叫びたくなってくるぜ」=“Yeah. It's so relaxing, it makes me want to scream.”
+「その気持ちは分かんないんだけど……」=“I'm not sure I can relate...”
+「マジで？　何かに感動したときとかさ、自分中で気持ちがぐわーって湧き上がって来たりしないのか？」=“For real? When something moves you, don't you feel a surge of emotion inside yourself?”
+「まあ、感動した時に感情が込み上げることはあるけど……それをそのまま言葉にはしないかな」=“Well, sure, I get emotional when I'm moved... but I guess I usually don't put them into words?”
+「そうなんだな……そういう時は自分の感情に素直になった方がいいと思うぜ。こんな風にさ……最高だぁー！！」=“Is that so... I think in best to be honest with yourself in situations like those. Like this... THIS IS THE BEST-!!”
+「周りの迷惑になるって！」=“You're gonna freak out everyone around us!”

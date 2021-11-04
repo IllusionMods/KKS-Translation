@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うん、付き合おうか、俺たち」=
-//「あはは……やっぱりダメだよなぁ……」=
-//「って、はぁ！？　お前は今、付き合うって言ったのか！？」=
-//「確かに言ったよ。付き合おうって」=
-//「俺も……[H名]のことが好きだったんだ。両想いなんだから、付き合わない理由なんてないでしょ？」=
-//「そ、そうだったのか……ほっ、良かったぜ」=
-//「じゃあ……なんだ。あ、改めてよろしくな！」=
+「うん、付き合おうか、俺たち」=“Yeah, let's get together.”
+「あはは……やっぱりダメだよなぁ……」=“Ahaha... I knew this was a bad idea...”
+「って、はぁ！？　お前は今、付き合うって言ったのか！？」=“Wha... ahaaa!? You just said you're going out with me!?”
+「確かに言ったよ。付き合おうって」=“Yeah I did. I want to go out with you.”
+「俺も……[H名]のことが好きだったんだ。両想いなんだから、付き合わない理由なんてないでしょ？」=“I... like you too, [H名]. With our feelings for each other, there's no reason not to go our with you, right?”
+「そ、そうだったのか……ほっ、良かったぜ」=“I... I didn't realize that... well, then it's all good.”
+「じゃあ……なんだ。あ、改めてよろしくな！」=“So it's... then. Oh and, nice to have you!”

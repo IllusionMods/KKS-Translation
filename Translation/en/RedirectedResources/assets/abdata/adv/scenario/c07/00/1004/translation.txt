@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと浜辺を散歩してみようか」=
-//「あはは、波がここまで届きそうだ」=
-//「はしゃぐのはいいけど転ばないようにね」=
-//「私を甘く見るなよ？　転んでも余裕で受け身を取れる」=
-//（そういう問題じゃないような……）=
-//「ふうっ……波と一緒に海から風も運ばれてきてるな。潮の匂いだ」=
-//「プールみたいな人工のものとは違う……なんだろう？　生命？　生命を感じる」=
-//「急に哲学みたいなこと言い出したね」=
-//「甘く見るなよ。私がいくらバカでも、たまには哲学するさ」=
-//「見ろよ。絵に描いたみたいな風景だぞ？　こんなキレイな海を眺めてたら誰だって……」=
-//「誰だって？」=
-//「思わず走り出したくなっちゃうよな！」=
-//「がくっ」=
-//「砂浜は足をとられるからトレーニングにもいいんだぞ？　プロのスポーツチームでも海で合宿したりするんだ」=
-//「[H名]はプロのスポーツ選手じゃないし、ここにはバカンスに来てるんだよね？」=
-//「そうだけど、思い立っちゃったらもう……なんつーか、気持ちが熱くなって抑えられない！」=
-//「よし！　あそこの岩場まで競争しようぜ」=
-//「哲学はどこにいっちゃったの……あと競争はしないから」=
+「ちょっと浜辺を散歩してみようか」=“Let's go for a little stroll on the beach.”
+「あはは、波がここまで届きそうだ」=“Ahaha, the waves are about to reach here.”
+「はしゃぐのはいいけど転ばないようにね」=“It's fine to get excited, just don't trip and fall.”
+「私を甘く見るなよ？　転んでも余裕で受け身を取れる」=“Don't underestimate me, okay? I can catch myself before I fall.”
+（そういう問題じゃないような……）=(I don't think that's the issue...)
+「ふうっ……波と一緒に海から風も運ばれてきてるな。潮の匂いだ」=“Phew...! The winds really strong coming in from the waves. Smells all ocean-y and stuff.”
+「プールみたいな人工のものとは違う……なんだろう？　生命？　生命を感じる」=“It's different from that artificial smell you get in pools... how do you put it? Life? It has that added sense of life.” 
+「急に哲学みたいなこと言い出したね」=“Look at you, being philosophical, all of a sudden.”
+「甘く見るなよ。私がいくらバカでも、たまには哲学するさ」=“Don't talk down to me. No matter how stupid you think I am, I can still philosophize once in a while.”
+「見ろよ。絵に描いたみたいな風景だぞ？　こんなキレイな海を眺めてたら誰だって……」=“Look. Doesn't the landscape resemble a painting? Seeing something as beautiful as that, everyone would want to...”
+「誰だって？」=“Would want to...?”
+「思わず走り出したくなっちゃうよな！」=“To run like crazy. right!?”
+「がくっ」=“*Arrrgh*”
+「砂浜は足をとられるからトレーニングにもいいんだぞ？　プロのスポーツチームでも海で合宿したりするんだ」=“Did you know that sandy beaches are perfect for training, since they make you lift your feet off the ground? Even pro sport teams have training camps on beaches.”
+「[H名]はプロのスポーツ選手じゃないし、ここにはバカンスに来てるんだよね？」=“Well, you're not a pro athlete, [H名], and we're here on vacation, remember?”
+「そうだけど、思い立っちゃったらもう……なんつーか、気持ちが熱くなって抑えられない！」=“Well, yeah, but now that I've thought about it... How do I put, this feeling just keep heating up inside me and I can't control it!”
+「よし！　あそこの岩場まで競争しようぜ」=“OK! Race you to that ledge over there.”
+「哲学はどこにいっちゃったの……あと競争はしないから」=“Where's your philosophy now... and no, I'm not going to race you.”

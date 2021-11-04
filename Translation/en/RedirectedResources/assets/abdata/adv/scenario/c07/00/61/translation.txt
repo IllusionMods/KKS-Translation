@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へぇ～、ここではオイル塗りが出来るんだ」=
-//「オイルなんか塗って、なんの意味があるんだよ？」=
-//「美容の為の効能が色々あるから、肌が綺麗になったりするでしょ」=
-//「折角だし、塗っていかない？」=
-//「なんかお前の方が乗り気だな。まぁ、いいけどよ」=
+「へぇ～、ここではオイル塗りが出来るんだ」=“Huh, so we can do oiling here.”
+「オイルなんか塗って、なんの意味があるんだよ？」=“What's the point of applying oil, anyway?”
+「美容の為の効能が色々あるから、肌が綺麗になったりするでしょ」=“From what I understand, there's a bunch of beauty benefits that can really help your skin out.”
+「折角だし、塗っていかない？」=“Sounds like a good idea, so why don't I spread some on you?”
+「なんかお前の方が乗り気だな。まぁ、いいけどよ」=“You're more enthusiastic about this than I am, for some reason. Well, whatever, that's fine.”

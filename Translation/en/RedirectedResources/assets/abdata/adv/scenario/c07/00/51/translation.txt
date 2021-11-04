@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ、食べた食べた！　んじゃあ、またな」=
+「ふぅ、食べた食べた！　んじゃあ、またな」=“Phew, I ate so much! See you around, then.”

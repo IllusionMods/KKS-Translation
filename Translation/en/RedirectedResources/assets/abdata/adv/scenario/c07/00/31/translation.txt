@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱり珍しいものがいっぱいあるな～」=
-//「せっかくだし何か買ってく？　安い物なら奢ってあげるよ」=
-//「マジか！　よっしゃ！　店の中を隅々まで探索するぜ～！」=
-//「俺、安い物って言ったからね？　それは忘れないでよ！」=
+「やっぱり珍しいものがいっぱいあるな～」=“I just knew there was a bunch of rare stuff here~”
+「せっかくだし何か買ってく？　安い物なら奢ってあげるよ」=“Want me to buy you something? If I can afford it, I'll get it for you.”
+「マジか！　よっしゃ！　店の中を隅々まで探索するぜ～！」=“For real! Got it! Then I'll explore everyone corner of the store~!”
+「俺、安い物って言ったからね？　それは忘れないでよ！」=“I told you something I can afford, okay? Don't forget that part!”

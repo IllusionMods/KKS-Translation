@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ははは、ちょっと食べ過ぎたんじゃないか？　食後の運動でもするか？　なんてな」=
+「ははは、ちょっと食べ過ぎたんじゃないか？　食後の運動でもするか？　なんてな」=“Ahaha, don't you think you ate a bit too much? How about some after-meal exercises with me? Just kidding”

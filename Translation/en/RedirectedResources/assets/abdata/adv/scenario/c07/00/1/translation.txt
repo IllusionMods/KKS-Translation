@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お……お前と、付き合う……？　そ、それってあれか？　恋人的なこと……なのか？」=
-//「うん、そういう意味だよ」=
-//「どこかへ行くのに付き合ってくれ～とか、そういう意味じゃないんだな？」=
-//「当たり前だよ。俺の……彼女になって欲しいんだ」=
-//「彼女っ……！？　夢でも私の勘違いでもなくて、本気で言ってるんだな……」=
-//「私みたいな女でいいなら……えっと、その……よろしく頼む」=
+「お……お前と、付き合う……？　そ、それってあれか？　恋人的なこと……なのか？」=“Oh... going out... with you? Is...is this what I think it is? You want me... as your lover?”
+「うん、そういう意味だよ」=“Yeah, that's what I mean.”
+「どこかへ行くのに付き合ってくれ～とか、そういう意味じゃないんだな？」=“It's not 'I want to take you somewhere...'or something like that, right?”
+「当たり前だよ。俺の……彼女になって欲しいんだ」=“Of course not. I want you... to be my girlfriend.”
+「彼女っ……！？　夢でも私の勘違いでもなくて、本気で言ってるんだな……」=“Me...!? This isn't a dream, and not a misunderstanding... you're being serious...”
+「私みたいな女でいいなら……えっと、その……よろしく頼む」=“Then if you're okay with a girl like me... er, um, uh... I hope you'll treat me kindly from now on.”

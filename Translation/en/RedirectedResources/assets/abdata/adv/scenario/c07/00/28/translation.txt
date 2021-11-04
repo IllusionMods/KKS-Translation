@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「で、お前の部屋で何をするんだ？　トランプとか？」=
-//「……あれ？　もしかして、遊ぶつもりで誘ったんじゃ……ないのか？」=
-//「お、お前はエッチする気満々だったのかよ！　最初からそう言えよ……断ったり、しないからさ……」=
+「で、お前の部屋で何をするんだ？　トランプとか？」=“So, what are we doing in your room? Playing cards?”
+「……あれ？　もしかして、遊ぶつもりで誘ったんじゃ……ないのか？」=“...what's this? I guess you invited me here to mess around with you... isn't that right?”
+「お、お前はエッチする気満々だったのかよ！　最初からそう言えよ……断ったり、しないからさ……」=“You were getting ready to have sex! You should have said that from the beginning... it's not like I would've said no...”
