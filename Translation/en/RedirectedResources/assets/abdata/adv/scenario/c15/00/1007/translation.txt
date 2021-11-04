@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おー、魚がいっぱいだー」=
-//「本当だね……あ、見て？　あっちにはヒトデがいるよ」=
-//「キミはヒトデが好きなのかー？」=
-//「好きとかそういう意味ではないないけど、やたらでっかいから」=
-//「ホントだ！？　座布団みたいだぞ」=
-//「あ……あはははは」=
-//「失敗だ。あたし、小さな子どもみたいだったなー」=
-//「今のは俺が水を向けたようなものだし。こういう場所は楽しむために来るんだからさ……」=
-//「変じゃなかったか？」=
-//「うん、全然変じゃないよ」=
-//「キミはそうやって……な、なんていうか、優しくするのが上手だなー」=
-//「慣れてる感じがするぞ」=
-//「水族館に？」=
-//「……今は水族館のことは関係ないぞ」=
-//「なー、私以外とも水族館に来たことあるのかー？　なーなー」=
-//（これ、ヤキモチなんだろうか……）=
+「おー、魚がいっぱいだー」=“Oh- There's so many fish-”
+「本当だね……あ、見て？　あっちにはヒトデがいるよ」=“You're right... ah, see? There's a starfish over there.”
+「キミはヒトデが好きなのかー？」=“Do you like starfish-?”
+「好きとかそういう意味ではないないけど、やたらでっかいから」=“It's not like I'm really in to them, or anything, but that's one's really big.”
+「ホントだ！？　座布団みたいだぞ」=“Whoa, you're right!? It's like a seat cushion.”
+「あ……あはははは」=“Ah... ahahahaha.”
+「失敗だ。あたし、小さな子どもみたいだったなー」=“Whoops. I acted just like a little kid there-”
+「今のは俺が水を向けたようなものだし。こういう場所は楽しむために来るんだからさ……」=“Don't let me rain on your parade. You come to places like this to enjoy yourself...”
+「変じゃなかったか？」=“You think I'm acting weird?”
+「うん、全然変じゃないよ」=“Yeah, you're not being weird at all.”
+「キミはそうやって……な、なんていうか、優しくするのが上手だなー」=“How can you be... all I can say is that you're good at being nice.”
+「慣れてる感じがするぞ」=“I guess I'm used to it.“
+「水族館に？」“To the aquarium?”
+「……今は水族館のことは関係ないぞ」=“...this isn't about the aquarium right now.”
+「なー、私以外とも水族館に来たことあるのかー？　なーなー」=“Na- You've been to the aquarium with someone other than me? Na- na-”
+（これ、ヤキモチなんだろうか……）=(I guess she's jealous...)
