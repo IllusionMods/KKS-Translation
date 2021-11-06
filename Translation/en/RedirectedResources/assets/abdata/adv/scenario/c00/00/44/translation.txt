@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こうやって粘土をこねてると、小さい頃を思い出さない？」=
-//「たしかに……本当に小さかった時はよく粘土で遊んでたなぁ」=
-//「ねえ、君はどんな子供だった？　教えてほしいわ」=
-//「そんな特別な子じゃなかったよ？　聞いても面白くないと思うけど……」=
-//「私は君の話が聞きたいの。ダメ？」=
-//「ううん、ダメではないよ。そうだね、俺は――」=
+「こうやって粘土をこねてると、小さい頃を思い出さない？」=“Doesn't kneading the clay like this remind you of when you were little?”
+「たしかに……本当に小さかった時はよく粘土で遊んでたなぁ」=“It does... I used to play with clay when I was really little.”
+「ねえ、君はどんな子供だった？　教えてほしいわ」=“Hey, what kind of kid were you? I'd like you to tell me.”
+「そんな特別な子じゃなかったよ？　聞いても面白くないと思うけど……」=“I wasn't all that special of a kid, you know? I don't think there's anything interesting to hear about me...”
+「私は君の話が聞きたいの。ダメ？」=“I still want to hear what you have to say. Or no?”
+「ううん、ダメではないよ。そうだね、俺は――」=“Yeeeah, why not. So anyway, I was--” 
