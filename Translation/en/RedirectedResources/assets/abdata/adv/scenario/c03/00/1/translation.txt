@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へ？　あなたが……私のことを……ですか？」=
-//「うん、そうだよ。その……一応言っておくと、ライクじゃなくてラブの方だからね？」=
-//「はわっ、今まさに聞こうと思っていたことをなぜ！？　え、エスパーなのですっ！」=
-//「いや、何となくそういうことを言いそうだなと思ったから」=
-//「それで……返事はどう、かな？」=
-//「わ、私も……あなたのこと……好きです……大好きですよ」=
-//「あ……良かった。それじゃ……これからも、よろしくお願いね」=
-//「は、はいですっ！　こちらこそなのですっ！」=
+「へ？　あなたが……私のことを……ですか？」=“Eh? You're... in love with me...?”
+「うん、そうだよ。その……一応言っておくと、ライクじゃなくてラブの方だからね？」=“Yeah, that's right. Um... just so you know, I'm not saying 'I like you'. I'm saying 'I love you'.”
+「はわっ、今まさに聞こうと思っていたことをなぜ！？　え、エスパーなのですっ！」=“Awa! Why did you know what I was just about to ask?! You must have ESP!”
+「いや、何となくそういうことを言いそうだなと思ったから」=“No, I kinda thought you were going to tell me something like that.”
+「それで……返事はどう、かな？」=“So... what's your answer?”
+「わ、私も……あなたのこと……好きです……大好きですよ」=“I-I... love you... I super love you too.”
+「あ……良かった。それじゃ……これからも、よろしくお願いね」=“Ah... that's great. Well then... I hope we'll stay in touch.”
+「は、はいですっ！　こちらこそなのですっ！」=“Y-you betcha! It'll be my pleasure!”

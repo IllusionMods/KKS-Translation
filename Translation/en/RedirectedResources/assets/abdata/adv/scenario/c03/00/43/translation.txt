@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はわぁ……なんだか心地良い音色なのです」=
-//「分かるなぁ。三線ってなんていうか優しい音色だよね」=
-//「癒し効果がありそうなのです！　頑張ってマスターするですよー！」=
-//「おお、気合入ってるね。俺も負けない様に頑張ろう」=
-//「いいですねー！　二人で一緒に弾いたら、効果がパワーアップしそうな気がするですっ」=
+「はわぁ……なんだか心地良い音色なのです」=“Awawa... that's a pretty nice sound.”
+「分かるなぁ。三線ってなんていうか優しい音色だよね」=“I know what you mean. The Sanshin has a sort of a... gentle sound.”
+「癒し効果がありそうなのです！　頑張ってマスターするですよー！」=“It's like it has a healing effect! I'll try my best to master it!”
+「おお、気合入ってるね。俺も負けない様に頑張ろう」=“Wow, you're really into this. I'll try to keep up.”
+「いいですねー！　二人で一緒に弾いたら、効果がパワーアップしそうな気がするですっ」=“That's super-! I'm thinking that if we play together, the effect will be more powerful!”

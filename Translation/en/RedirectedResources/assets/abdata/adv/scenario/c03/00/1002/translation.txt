@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとだけ卓球をやっていこうよ」=
-//「ラケット握るのこうだったです？　うーん、あんまり経験ないから緊張しちゃうですよー」=
-//「そんなに難しく考えなくても」=
-//「下手っぴでも私に幻滅しないで欲しいです……」=
-//「なんでそんなにテンション低いの？　幻滅なんかしないよ」=
-//「じゃあ好きです？」=
-//「す、好きだよ……ってなんの話？　卓球で遊ぶだけでしょ。ほら、行くよ？」=
-//「やっぱり、あんまり好みじゃなかった？　調子出なかったみたいだね」=
-//「……そうやってとぼけるなんて、意地悪なのです」=
-//「俺、なんかしたっけ？」=
-//「好きって言ったことですよ！　試合中ずっとドキドキして……し、視線とかも気になっちゃったのです」=
-//（聞かれたから答えただけなのに……）=
-//「私、変なお顔してなかったですか？　にやけちゃってたので心配なのです……」=
-//「全然！　その……ずっと可愛かったよ」=
-//「本当ですか？　えへへ……」=
-//「って、これじゃあまた照れちゃうですよー！」=
-//「このままじゃ、無限にこのやり取りが続きそうだね……これで切り上げよっか」=
+「ちょっとだけ卓球をやっていこうよ」=“Let's play a little table tennis.”
+「ラケット握るのこうだったです？　うーん、あんまり経験ないから緊張しちゃうですよー」=“Do you hold the racquet like this? Hmm, I don't have much experience with this so I'm little nervous.”
+「そんなに難しく考えなくても」=“Don't overthink it.”
+「下手っぴでも私に幻滅しないで欲しいです……」=“I hope you won't be disappointed with me even if I'm not good at it...”
+「なんでそんなにテンション低いの？　幻滅なんかしないよ」=“Why do you sound so down? I won't be disappointed.”
+「じゃあ好きです？」=“Then you'll still love me?”
+「す、好きだよ……ってなんの話？　卓球で遊ぶだけでしょ。ほら、行くよ？」=“I do... but why are you bringing this up? We're just playing ping-pong. Here we go, okay?”
+「やっぱり、あんまり好みじゃなかった？　調子出なかったみたいだね」=“As I thought, you didn't enjoy the game that much, do you? You didn't look that enthusiastic throughout the match.”
+「……そうやってとぼけるなんて、意地悪なのです」=“...it's mean of you to act aloof like that.”
+「俺、なんかしたっけ？」=“Wait, did I do something, anything?”
+「好きって言ったことですよ！　試合中ずっとドキドキして……し、視線とかも気になっちゃったのです」=“You said you love me! And so I my was racing throughout the match... a-and your eyes fixating on me didn't help much either.”
+（聞かれたから答えただけなのに……）=(I mean, all I did was just answer her question...)
+「私、変なお顔してなかったですか？　にやけちゃってたので心配なのです……」=“Was I making funny faces? I kinda smirked a lot and so now I can't stop thinking about it...”
+「全然！　その……ずっと可愛かったよ」=“Not at all! Um... you were cute the whole time.”
+「本当ですか？　えへへ……」=“Really? Ehehe...”
+「って、これじゃあまた照れちゃうですよー！」=“Geez, you're making me embarrassed again-!”
+「このままじゃ、無限にこのやり取りが続きそうだね……これで切り上げよっか」=“At this rate, we'll just go back and forth like this forever... let's wrap this up around here, yeah?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅー、お手軽に楽しめるレジャーがあって助かったのです……」=
+「ふぅー、お手軽に楽しめるレジャーがあって助かったのです……」=“Phew- Thank god there was something that's easy to do and still enjoyable...”

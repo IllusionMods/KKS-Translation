@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお土産を見てみようよ」=
-//「これは……インパクト大なのですよ」=
-//「むしろインパクトしかないというか……その泡盛Ｔシャツ買うの？」=
-//「私に似合うと思うです？」=
-//「…………」=
-//「部屋着なら大いにありだと思う」=
-//「予想外の返事なのです！　で、でも買うのには勇気がいるですよー？」=
-//「……それは暗に、俺にも買わせてペアルックにしようと思ってる？」=
-//「その通りなのです！　彼氏彼女はお揃いが常識ですから！」=
-//「そんな常識は知らないけど……まあ、別にいいよ」=
-//「いいのですかっ！？　ぺ、ペアルックにしてくれるなら、本当に買っちゃうですよ？」=
-//「うん。でも、泡盛Ｔシャツをお揃いで来てるカップルってだいぶ変じゃない？」=
-//「ぅ……部屋着だからいいのですっ。誰かに見せるわけじゃないですし」=
-//「それもそっか。じゃあ二人分の会計を済ませてくるよ」=
-//「奢ってもらうのは悪いですよー！　私があなたの分を、あなたが私の分を買って送り合いたいのです！」=
+「ちょっとお土産を見てみようよ」=“Let's have a look at the souvenirs.”
+「これは……インパクト大なのですよ」=“Whoa... this is sure to make an impact.”
+「むしろインパクトしかないというか……その泡盛Ｔシャツ買うの？」=“I mean, what else would it make besides that...but, are you actually3 gonna buy that Awamori T-Shirt?”
+「私に似合うと思うです？」=“Think it would look good on me?”
+「…………」=“...”
+「部屋着なら大いにありだと思う」=“It might work for when you're lounging around in your room.”
+「予想外の返事なのです！　で、でも買うのには勇気がいるですよー？」=I wasn't expecting that answer! But it takes a lot of bravery to buy something like that, right-?”
+「……それは暗に、俺にも買わせてペアルックにしようと思ってる？」=“Are you implying that you're thinking of buying one, so we can match up?”
+「その通りなのです！　彼氏彼女はお揃いが常識ですから！」=“Totally! It's common sense that a boyfriend and girlfriend should match.”
+「そんな常識は知らないけど……まあ、別にいいよ」=“I'm not sure I agree with your common sense... but well, sure why not.”
+「いいのですかっ！？　ぺ、ペアルックにしてくれるなら、本当に買っちゃうですよ？」=“Really!? I'm really gonna buy it if you'll wear it with mine, you know?”
+「うん。でも、泡盛Ｔシャツをお揃いで来てるカップルってだいぶ変じゃない？」=“Sure. But... wouldn't it be pretty weird to see a couple wearing matching Awamori T-Shirts?”
+「ぅ……部屋着だからいいのですっ。誰かに見せるわけじゃないですし」=“Uuu... it'll be fine, because it's just something we'd wear in our rooms. We won't show them off to anyone.”
+「それもそっか。じゃあ二人分の会計を済ませてくるよ」=“I guess that's true. OK, I'll go pay the bill for both.”
+「奢ってもらうのは悪いですよー！　私があなたの分を、あなたが私の分を買って送り合いたいのです！」=“No, you don't have to buy mine too! I'll buy yours, you'll buy mine, and then to both gift them to each other!”

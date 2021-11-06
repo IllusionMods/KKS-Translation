@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なんだか豪華なご飯のです！」=
-//「まあ、俺たちが普段食べているご飯よりお高い食材を使ってるだろうしね」=
-//「せっかくの機会なので、たくさん食べるですよー！」=
-//「だね。でも食べ過ぎには注意しないと体重が……」=
-//「あー、あー！　何も聞こえないのですー！」=
+「なんだか豪華なご飯のです！」=“What a gourmet-looking meal!”
+「まあ、俺たちが普段食べているご飯よりお高い食材を使ってるだろうしね」=“Yeah, I'm guessing they're using ingredients that cost more than the ones we normally use.”
+「せっかくの機会なので、たくさん食べるですよー！」=“What a super opportunity to eat a whole bunch-!”
+「だね。でも食べ過ぎには注意しないと体重が……」=“I guess. But you'll have to be careful not to eat too much, or you'll gain weight...”
+「あー、あー！　何も聞こえないのですー！」=“Ahh- ahh-! I can't hear you-!”

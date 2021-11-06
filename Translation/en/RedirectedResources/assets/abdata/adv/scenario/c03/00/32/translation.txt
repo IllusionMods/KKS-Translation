@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あなたは何かお土産を買ったりしたですか？　買ってたらお聞きしたいですっ」=
-//「友達用にいくつか買ったよ」=
-//「えーと、色んな味が入ったちんすこうと、定番お菓子のご当地限定味とかだったかな」=
-//「お、いいセンスなのですっ。それじゃあ、私も友達へのお土産はそれにするのですー！」=
-//「うーん、でも男用だからなぁ。女の子にあげるなら、もう少し考えた方がいいんじゃない？」=
-//「そうですか？　お菓子の好みなんて、男女で変わらないと思うです」=
+「あなたは何かお土産を買ったりしたですか？　買ってたらお聞きしたいですっ」=“Have you bought any souvenirs? I'd love to hear about them!”
+「友達用にいくつか買ったよ」=“I bought a few for my friends.”
+「えーと、色んな味が入ったちんすこうと、定番お菓子のご当地限定味とかだったかな」=“Er, um, I guess a bunch of chinsuko flavors, and a few local snacks.”
+「お、いいセンスなのですっ。それじゃあ、私も友達へのお土産はそれにするのですー！」=“Oh, you have good taste. Alrighty then, that's what I'm gonna bring back to my friends too!”
+「うーん、でも男用だからなぁ。女の子にあげるなら、もう少し考えた方がいいんじゃない？」=“Mmm-hmm, but these are for guys. If you're buying things for girls, you might want to give it a little more thought, don't you think?”
+「そうですか？　お菓子の好みなんて、男女で変わらないと思うです」=“Is that right? I don't think men and women taste in sweet are that much different.”

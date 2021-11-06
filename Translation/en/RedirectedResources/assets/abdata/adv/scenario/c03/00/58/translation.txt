@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すぅ……すぅ……ん、んん……」=
-//（んぅ……ん……なんか、下半身に違和感が……？）=
-//「…………」=
-//「って……え？　え？」=
-//「すごく熱いですよ……寝起きでもこっちは元気なのですね」=
-//「へ？　えっと、寝起きに股間が勃ってるのは当たり前というか……」=
-//「あはっ、おかしーです！　まだ寝ぼけてるですか？　私が起こしてあげるですよ♪」=
+「すぅ……すぅ……ん、んん……」=“Zzz... zzz... mm, mmm...”
+（んぅ……ん……なんか、下半身に違和感が……？）=“Nmmm... mm... something's not right with my lower body...?”
+「…………」=“...”
+「って……え？　え？」=“Wha... eh? Eh?”
+「すごく熱いですよ……寝起きでもこっちは元気なのですね」=“It's super hot... it's full of energy, even after having just woken up.”
+「へ？　えっと、寝起きに股間が勃ってるのは当たり前というか……」=“Eh? Er, um, it's natural to have morning wood, or rather...”
+「あはっ、おかしーです！　まだ寝ぼけてるですか？　私が起こしてあげるですよ♪」=“Ahaa! That's funny! Are you still half-asleep? I'll wake you up♪”

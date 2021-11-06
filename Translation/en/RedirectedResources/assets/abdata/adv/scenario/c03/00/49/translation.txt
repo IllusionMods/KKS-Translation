@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こっちにするか、それとも……んぅー、悩みどころなのです」=
-//「何を注文しようとして迷ってるの？」=
-//「おそばとご飯のセットか、タコライスを注文するか決まらないのです。あなたは、どっちがいいと思うです？」=
-//「まだまだ旅行の期間はあるんだし、頼まなかった方は今度注文すればいいんじゃない」=
-//「おー、そうですね！　それじゃあ、タコライスにするのです！」=
+「こっちにするか、それとも……んぅー、悩みどころなのです」=“Do you want this here, or that... nhuu-, what a dilemma.”
+「何を注文しようとして迷ってるの？」=“I'm not sure what I'm going to order.”
+「おそばとご飯のセットか、タコライスを注文するか決まらないのです。あなたは、どっちがいいと思うです？」=“I can't decide between the soba & rice combo, or the taco rice. Which do you think is better?”
+「まだまだ旅行の期間はあるんだし、頼まなかった方は今度注文すればいいんじゃない」=“There's still time left in your vacation. If you don't order one, then you can order it some other time.”
+「おー、そうですね！　それじゃあ、タコライスにするのです！」=“Ohh- that's right! Well then, let's make it the taco rice!”
