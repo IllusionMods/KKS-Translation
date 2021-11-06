@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「オイル塗り……なんだか美容に良さそうな気がするのですっ」=“Oiling... I'm thinking that it's good for beauty.”
-「興味あるの？　じゃあ俺が塗ってあげるよ」=“Are you interesting? Then I'll spread it on.”
+「オイル塗り……なんだか美容に良さそうな気がするのですっ」=“Oiling... that sounds like it's good for beauty.”
+「興味あるの？　じゃあ俺が塗ってあげるよ」=“Are you interested? Then I'll spread it on.”
 「……下心はないですよね？」=“...with no ulterior motives?”
 「当然だよっ」=“Naturally!”
 「えへへ、冗談なのです。よろしくお願いするですねっ」=“Ehehe, I'm kidding. I look forward to being in your care!”

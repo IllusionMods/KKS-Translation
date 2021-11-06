@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「海なのですぅーー！！」=“It's the OCEAN--!!”
-「え！？　きゅ、急にどうしたの？」=“Eh?! Kyu, what's your deal?”
-「ほら、漫画とかでは海に着いたら叫んだりするじゃないですか。あれの真似なのです！」=“Hey, in mangas, people scream when they get to the ocean. I'm imitating them.” 
+「え！？　きゅ、急にどうしたの？」=“Eh?! Kyu, what's this all of a sudden?”
+「ほら、漫画とかでは海に着いたら叫んだりするじゃないですか。あれの真似なのです！」=“You know how in mangas and such, people scream when they get to the ocean. I'm imitating them.” 
 「それなら、この島に着いた時に言うのが、タイミング的にはベストだと思うけど」=“Well, the best time to have done that was when you first arrived on the island.”
 「その時は……船酔いしていたので……」=“Yeah... but I was super seasick then...”
 「あぁ……」=“Ahh...”

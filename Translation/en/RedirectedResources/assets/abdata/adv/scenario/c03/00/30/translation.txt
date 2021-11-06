@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「パワースポットなだけあって、神秘的な力を感じるですよー！」=“This is a power spot. I can feel the mystical power-!”
-「へぇ～、いまいちピンときてないんだけど、どんな風に感じてるの？」=“Ehem~ I'm not sure what to like about that. How does it make you feel?”
-「それは……えーと、癒しというか……ぐ、具体的なことを言葉で言い表すのは難しいのです」=It's... er, um... healing, I guess... it's really hard to put it into specific words!”
+「パワースポットなだけあって、神秘的な力を感じるですよー！」=“They don't call it a power spot for nothing, I can feel the mystical power-!”
+「へぇ～、いまいちピンときてないんだけど、どんな風に感じてるの？」=“Really~, I can't feel anything to be honest. How does it make you feel?”
+「それは……えーと、癒しというか……ぐ、具体的なことを言葉で言い表すのは難しいのです」=It's... er, um... soothing, I guess... it's really hard to put it into specific words!”
 「……本当に感じてる？」=“...you really feel that?”
-「ぎくっ……ちょ、ちょっと大げさに言っちゃったです……で、でも癒されるのは本当ですよ？」=“Erk... m-maybe that's exaggerating a little... b-but it's true that's it's healing.”
-「それは、分かるなぁ。もう少しここで休んでいこうか」=“I can see that. Let's rest here for a while longer.”
+「ぎくっ……ちょ、ちょっと大げさに言っちゃったです……で、でも癒されるのは本当ですよ？」=“Erk... m-maybe that's exaggerating a little... b-but it's true that's it's soothing.”
+「それは、分かるなぁ。もう少しここで休んでいこうか」=“I uh, yeah I can see why. Let's rest here for a while longer.”

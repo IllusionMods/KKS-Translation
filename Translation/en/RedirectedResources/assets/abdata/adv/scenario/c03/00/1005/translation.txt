@@ -8,9 +8,9 @@
 「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you paired up? Alright, I'll put the music on as soon as everyone's ready.”
 「……ほへー」=“...oho-”
 「あの、あんまりジッと顔を見られると、さすがに照れちゃうんだけど」=“Um, if you stare at me for so long, I'll get embarrassed.”
-「はわっ！？　ごめんなさいです！　あ、でも、違くてですね……」=“Awawa!? I'm super-duper sorry! Ah, but that's not it.”
-「いやいや、見てたから」=“No, no, you've been watching me.”
-「見てたですけど……そ、それは、ついうっかりで、邪な気持ちではないのです！」=“I did look at you... but it was an accident, not impure motives!”
+「はわっ！？　ごめんなさいです！　あ、でも、違くてですね……」=“Awawa!? I'm super-duper sorry! Ah, but that's not what you think.”
+「いやいや、見てたから」=“No, no, I know you were watching me.”
+「見てたですけど……そ、それは、ついうっかりで、邪な気持ちではないのです！」=“I did... but it was an accident, not impure motives!”
 「邪じゃなくても気になるんだってば。俺も真似しちゃうよ？　……じーっ」=Even if there's nothing behind it, it's bothering me. Want me to do the same thing? ...*stare*”
 「はうぅ……ダメなのです～っ」=“Hafu... that's no good~!”
 「なんで？　おあいこだよ」=“Why? We're even now.”
@@ -18,10 +18,10 @@
 「恋に落ちちゃうとか？」=“You'll fall in love?”
 「こ、恋にはもう……落ちてる……ですよ」=“I'm already... super in love... with you.”
 「ありがと。俺も[H名]にオチてるよ」=“Thank you. I'm nerding out over you too, [H名].”
-「ほら、そ、そうやって……ダメだって言ってるですよ？　こんなのムード満点すぎて……」=“Hey, th-that's why I'm saying it's no good, right? There's just too much in... the mood...”
-「ぎゅーってしたり、あ、甘えんぼ……したくなっちゃうです」=“I want you to hold me even tighter, sweatheart.”
+「ほら、そ、そうやって……ダメだって言ってるですよ？　こんなのムード満点すぎて……」=“Hey, th-that's why I'm saying it's no good, right? There's just too much mood...”
+「ぎゅーってしたり、あ、甘えんぼ……したくなっちゃうです」=“You'll make me want to hold you tighter, a-and,,, want you to spoil me.”
 「俺も、[H名]のことギュッてしたくなっちゃったかも」=“I'm thinking I want to hold you tighter, too, [H名].”
-「音楽……ま、まだ、流れてるですから、ダメです！　ダメ……ですけど」=“The music... it's still playing... don't! Don't... do that...”
+「音楽……ま、まだ、流れてるですから、ダメです！　ダメ……ですけど」=“The music... it's still playing... don't! Don't... don't but...”
 「ちょっとくっつくくらいだったら……ありかもです」=“But if we press against each other a little, that might be alright.”
 「……うん、おいで」=“...yeah, come here.”
 「ギュッてしたら、お顔……隠してくださいです。きっと真っ赤になっちゃうですから」=“When I hug you... please, hide my face. I'm sure it'll turn bright red.”

@@ -1,35 +1,35 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「…………ふわー」=“...fuuwaa-”
+「…………ふわー」=“...Waaah-”
 「流れ星、すごいね……空全体が輝いてるみたいだ」=“Shooting stars are amazing... it's like the whole sky is lit up.”
 「本当に……すごいとしか言えないのです……」=“Really... all I can say about it is 'wow'...”
-「見つけたらお願いするって決めてたのに、頭……真っ白になっちゃったのです」=“When you asked me if I'd seen them before... m-my head went completely blank.”
+「見つけたらお願いするって決めてたのに、頭……真っ白になっちゃったのです」=“I tell myself I'd immediately make a wish I see them, but... my head is just completely blank now.”
 「……あれは全部、流れ星なのですよね？」=“...Those are all shooting stars, aren't they?”
 「そうだね。宇宙の粒が光輝いてるんだよ」=“That's right. Shining grains of the cosmos.”
-「……って、つまんない返ししちゃったね。ごめん」=“...that was a mundane reply. Sorry.”
-「いえっ、私が先に変なこと言っちゃったのです……」=“No! I was the one who said something weird first...”
-「ただ、その、上手く言えないのですが……わかってても信じられないって、そんな風に感じて……」=“However, um, I can't really put it into words... even though I believe it's true, I can't believe it. That's how I feel.”
-「わかるよ。こんなの、ちょっと現実離れしちゃってるよね。いつも見上げてる空と同じように見えない」=“I understand. This is all a little unreal, isn't it. It's nothing like the sky I'm used to looking at.”
+「……って、つまんない返ししちゃったね。ごめん」=“...that was a stupid reply. Sorry.”
+「いえっ、私が先に変なこと言っちゃったのです……」=“Ah no, I was the one who said something weird first...”
+「ただ、その、上手く言えないのですが……わかってても信じられないって、そんな風に感じて……」=“It's just, um, I can't really put it into words... even though it's right in front of me, I just can't believe it, that kind of feeling.”
+「わかるよ。こんなの、ちょっと現実離れしちゃってるよね。いつも見上げてる空と同じように見えない」=“I can relate to that. This is all a little unreal yeah, isn't it. It's nothing like the sky we're used to looking at.”
 「えへへ……フォローしてくれるのですね。やっぱりあなたは優しいのです」=“Ehehe... you're going along with me. I always knew you were sweet.”
 （フォローとかじゃないけど……）=(It's not like I'm humoring her...)
 「空から空へ……あんなにたくさんの流れ星は、何を思って流れてるですかね？」=“From sky to sky.... so many shooting stars... what could they be thinking about?”
 「急げ急げー、かな」=“'Hurry up, hurry up-', maybe.”
 「ふふっ、可愛いのです。お使い中ですかね？」=“Fufu! That's cute. Think they're running errands?”
-「それなら、呼び止めてお願い事なんかしたら、ご迷惑ですかねー……」=“If that's so, would it bother you if we stopped, so I could ask them a favor?”
-「お願いか。言ってたね、さっき」=“Please. You wanted to say something, earlier.”
+「それなら、呼び止めてお願い事なんかしたら、ご迷惑ですかねー……」=“If that's so, would it bother them if we stopped them to wish for something?”
+「お願いか。言ってたね、さっき」=“Wish huh. Yeah, you did mention something about that earlier.”
 「たくさんの星が流れてるんだから、ひとつふたつくらいは聞く耳を持ってくれるよ」=“There's a lot of shooting stars up there, so I'm sure one or two will be listening.”
 「……そうだと、嬉しいんですけど」=“...I'd be glad if there were.”
 「何をお願いするつもりでいたの？」=“What are you going to wish for?”
 「それは……い、言えないですっ！　言葉にしたら叶わなくなっちゃうような気がするですっ」=“For, um... no, I can't tell you! I feel like if I put it into words, it won't come true!”
-「そっか。そういうものかもね」=“I see. So it's like that.”
+「そっか。そういうものかもね」=“I see. I guess it works that way huh.”
 「も、もしかしたら、あなたと同じようなお願いかもしれないのですが……」=“M-maybe it's the same wish that you have...”
-「ぷっ、あはは。そんなの言葉にしたのと同じだよ？」=“Fu! Ahaha. Maybe I am saying the same thing.”
+「ぷっ、あはは。そんなの言葉にしたのと同じだよ？」=“Pffft, ahaha. That's no different from saying out loud now is it?”
 「……えへへ」=“...ehehe.”
 「逆にさ、せーので一緒にお願いしようか。声を揃えて二人でお願いすれば、あの空まで届くかも」=“You know what, let's make our wishes together. If we ask together with both our voices, our wishes might reach the sky.”
 「わかったのです！　では……すぅっ」=“I totally get it! So then...!”
-「二人でいつまでも仲良しでいたいのですー！」=”I want the two of us to be good friends forever-!”
-「二人の仲がいつまでも続きますようにー！」=“May our friendship last forever-!”
+「二人でいつまでも仲良しでいたいのですー！」=”I want the two of us to be close forever-!”
+「二人の仲がいつまでも続きますようにー！」=“May this relationship last forever-!”
 「…………」=“...”
 「えへ……同じ、だったですね」=“Ehe... we were the same.”
 「そうだね。二人とも同じことを願ったんだ。絶対届いたよ」=“Yeah. We both wished for the same thing. I'm pretty sure they got it.”

@@ -3,5 +3,5 @@
 //
 「さてと、何をしよっか？　やりたいことってあったりする？」=“Alright, what should we do now? Are there things you want to do?”
 「私はあなたに任せるですよ」=“I'm leaving you in charge.”
-「じゃあ、これとかどう？　船に引っ張ってもらいながら海面を滑るやつ」=“Alright, how about this? Here... waterskiing!”
+「じゃあ、これとかどう？　船に引っ張ってもらいながら海面を滑るやつ」=“Alright, how about this? It's basically waterskiing!”
 「ふぇっ！？　しょ、初心者の私が挑むにはハードルが高すぎるですよ！？」=“Fweh!? That's too much for a beginner like me to take on!”

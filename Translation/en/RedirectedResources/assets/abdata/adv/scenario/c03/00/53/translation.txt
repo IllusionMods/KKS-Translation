@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「はふー、美味しかったですー。やっぱりご飯は、誰かと一緒に食べるに限るですね！」=“Hafuuu- that was delicious- A meal like that should only be eaten with someone else, after all!”
+「はふー、美味しかったですー。やっぱりご飯は、誰かと一緒に食べるに限るですね！」=“Hafuuu- that was delicious- A meal like that should only be eaten with someone else, don't you agree!?”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「は、はいです……私も、あなたとエッチ、したいですよ」=“A-alrighty... I'd like to have sex with you, too.”
+「は、はいです……私も、あなたとエッチ、したいですよ」=“O-OK... I'd like to have sex with you, too.”
 「[H名]……ありがとう」=“[H名]... thank you.”
 「お、お礼を言うようなことじゃないです。私達は恋人同士ですから……その、当たり前のことなのです……」=“I-it's not like you need to thank me. We're lovers... um, it's a given.”
 「二人の良い思い出になるように、俺、頑張るよ」=“I'll do my best to make it a good memory for the both of us.”

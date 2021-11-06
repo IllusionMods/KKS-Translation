@@ -3,19 +3,19 @@
 //
 「ここカップルドリンクが飲めるんだって。頼んじゃおうか」=“They have a drink for couples here. Let's order one.”
 「わわっ、来ちゃったですよ……ど、どうするですか？」=“Wawa! It's here... what should we do?”
-「どうするもこうするも、飲むでしょ？　注文したんだから」=“We're just going to have to drink it, no matter what, right? I mean, we did order it.”
+「どうするもこうするも、飲むでしょ？　注文したんだから」=“What else than to just drink it? I mean, we did order it.”
 「……むー」=“...muuu-”
-「えっ、なんで？　気に障ること言ったかな」=“Eh, what is it? Did I say something to annoy you?”
+「えっ、なんで？　気に障ること言ったかな」=“Eh, why the face? Did I say something to annoy you?”
 「初めてのカップルドリンクなのですよ？　もっとテンションをあげてほしいのですっ！」=“Isn't this our first couple's drink? I wanted you to be more excited about it!“
 「わ、私にとっては、特別で……ドキドキしちゃうものですから……」=“This is something special for me... my heart is really pounding...”
-「ご、ごめん、深く考えずに頼んじゃった」=“S-sorry, I spoke without thinking.”
-「頼むのはいいのです！　むしろ、ありがとうとお礼を言いたいぐらいなのです」=“I'm super glad you ordered this, though! In fact, I really want to thank you.”
-「あなたの方から言ってくれたですから……こっそりにへーってなっちゃってたですよ」=“Now that you've said that... I'm kind of chuckling to myself.”
-（そんな表情をしてたのか……見逃してしまった）=(She's got that look on her face now... I've missed it.)
+「ご、ごめん、深く考えずに頼んじゃった」=“S-sorry, I ordered without giving it much thought.”
+「頼むのはいいのです！　むしろ、ありがとうとお礼を言いたいぐらいなのです」=“Don't get me wrong, I'm super glad you ordered this! In fact, I really want to thank you for doing so.”
+「あなたの方から言ってくれたですから……こっそりにへーってなっちゃってたですよ」=“And because you were the one that ordered it... I kinda giggled by myself in secret the whole time.”
+（そんな表情をしてたのか……見逃してしまった）=(Wow, didn't know that she was doing that... I totally missed it.)
 「……じーっ」=*...Stare*
-「わかった！　ここから仕切り直しってことで……えーと、飲むのは一緒に飲むんだよね？」=“I understand! Let's start over here... er, um, so, shall we drink this together?”
+「わかった！　ここから仕切り直しってことで……えーと、飲むのは一緒に飲むんだよね？」=“Alright, I got it! Let's start over from the beginning... er, um, so, shall we drink this together?”
 「当たり前なのです！　わ、私たちはカップルなのですから……」=“Naturally! We are a couple, after all...”
 「ふーーっ……よし、大丈夫なのです！　ではでは、せーので……」=“Fu---! Alright, everything's hunky-dory! C'mon, let's get started...”
 （や、やばい、めちゃくちゃドキドキしてきた……）=(Uh-oh... this is bad... my heart is starting to pound...)
-「ふふーっ、お顔が真っ赤なのです。カップルーな甘い雰囲気、出てきたですね♪」=“Fufu-! Your face is super red. We're giving off a couple's sweet mood♪
+「ふふーっ、お顔が真っ赤なのです。カップルーな甘い雰囲気、出てきたですね♪」=“Fufu-! Your face is super red. This is starting to feel more couple-like now♪
 「かもね。[H名]の顔も真っ赤だし……」=“Maybe. Your face is bright red, too, [H名].”

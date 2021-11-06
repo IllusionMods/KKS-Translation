@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「こうして、口を広げてと……よし、こっちのシーサーはだいぶ整ってきたよ」=“And now, to open his mouth like this... okay, this Shisa is turning out pretty good.”
+「こうして、口を広げてと……よし、こっちのシーサーはだいぶ整ってきたよ」=“And now, open the mouth like this... okay, this Shisa is turning out pretty good.”
 「おお、とっても綺麗なのです！　私の方も中々上手に出来てるですよー」=“Whoa, it's very pretty! You did so well-”
 「二人で一対のシーサーを作るのって、すごく楽しいね。いいアイデアだよ」=“Making Shisas together is a lot of fun. This was a great idea.”
 「こういうことに憧れていたので……えへへ♪」=“I've always wanted to do something like this... ehehe♪”

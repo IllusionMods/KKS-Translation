@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふぅ、もう入らないのです……ちょっと、食べ過ぎちゃったかもです……」=“Phew, I can't go back in there... I think I ate a little too much...”
+「ふぅ、もう入らないのです……ちょっと、食べ過ぎちゃったかもです……」=“Phew, I can't eat anymore... I think I ate a little too much...”
