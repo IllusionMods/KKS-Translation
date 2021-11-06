@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「君のことをもっと深く知れた気がするわ♪」=
+「君のことをもっと深く知れた気がするわ♪」=“I feel like I've gotten to know you a lot better♪”
