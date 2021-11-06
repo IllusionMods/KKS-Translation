@@ -19,7 +19,7 @@
 ステージマイク=Stage Microphone
 食べかけアイスバー=Half-Eaten Popsicle
 お金持ちの指輪=Diamond Ring
-//プリティー注射器=
+プリティー注射器=Pretty Syringe
 魔法のステッキ=Magical Wand
 小太刀=Short Sword
 白木拵え刀=Wooden Sword

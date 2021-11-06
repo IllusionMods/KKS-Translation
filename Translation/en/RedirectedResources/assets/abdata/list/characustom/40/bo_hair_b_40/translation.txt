@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.3 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//三つ編み横おさげ(左)=
-//三つ編み横おさげ(右)=
-//ストレートカール後ろ=
-//切りそろえショート(右)=
-//切りそろえショート(左)=
-//リーゼント=
-//ふわセミロング=
-//つんはねショート=
-//ローツインテール=
+三つ編み横おさげ(左)=Horizontal Braid (L)
+三つ編み横おさげ(右)=Horizontal Braid (R)
+ストレートカール後ろ=Straight, Curled Back
+切りそろえショート(右)=Short, Tucked Back (R)
+切りそろえショート(左)=Short, Tucked Back (L)
+リーゼント=Ducktail
+ふわセミロング=Fluffy, Shoulder Length
+つんはねショート=Short, Upswept Spikes
+ローツインテール=Narrow Twintails
