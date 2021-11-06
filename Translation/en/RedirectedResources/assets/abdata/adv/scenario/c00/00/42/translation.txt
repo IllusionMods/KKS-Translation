@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごく勝手な偏見だけど、三線を弾くのが上手そうだよね」=
-//「……私、君にどういうイメージを持たれてるの？　ちょっと気になるわ」=
-//「割と何でもそつなくこなす人……って感じかな」=
-//「なるほどねぇ、それじゃあそのイメージを壊さない様に頑張らなきゃいけないわね♪」=
+「すごく勝手な偏見だけど、三線を弾くのが上手そうだよね」=“I'm probably just biased, but it looks like you're good at playing the sanshin.”
+「……私、君にどういうイメージを持たれてるの？　ちょっと気になるわ」=“...what exactly is your image of me? I'm a little worried, now.”
+「割と何でもそつなくこなす人……って感じかな」=“I see you as someone who can handle anything... I suppose.”
+「なるほどねぇ、それじゃあそのイメージを壊さない様に頑張らなきゃいけないわね♪」=“Oh, I see. Well then, I'll have to do my best not to destroy that image♪”
