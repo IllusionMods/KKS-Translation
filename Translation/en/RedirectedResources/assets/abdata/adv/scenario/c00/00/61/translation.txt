@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ……この島でたくさん遊んだから、ちょっと疲れが溜まってきたわ」=
-//「ちょっと分かるかも。あ、ここのオイルを自由に使っていいみたいだよ」=
-//「よかったら、俺が塗ってあげようか？」=
-//「いいの？　それじゃあお願いしようかしら」=
-//「隅々まで塗ってちょうだいね♡」=
+「ふぅ……この島でたくさん遊んだから、ちょっと疲れが溜まってきたわ」=“Whew... I've had a lot of fun on the island, but I'm starting to get a little tired.”
+「ちょっと分かるかも。あ、ここのオイルを自由に使っていいみたいだよ」=“I think I kinda understand. Ah, looks like we're free to use the oil here.”
+「よかったら、俺が塗ってあげようか？」=“If you'd like, would you like me to spread some on you?”
+「いいの？　それじゃあお願いしようかしら」=“That okay? Then I guess I should ask.”
+「隅々まで塗ってちょうだいね♡」=“I want you to spread it all over♡”
