@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「綺麗だね～。ほら、あの魚……すっごくデカいよ」=
-//「ええ、綺麗なサンゴ礁……。一緒に泳げたら楽しいでしょうね」=
-//「みんなビックリするだろうね。魚に混じって、美女が泳いでたりしたら」=
-//「ふふふ、水族館の目玉展示になっちゃうでしょうね。はぁ、いいなぁ……」=
-//「え？　そんなに目玉展示になりたいの？」=
-//「あの小さくてカラフルで、可愛らしいお魚の群れの中で泳いだら、綺麗なドレスを着ているみたいになるんじゃないかなって」=
-//「うん……きっとすごく綺麗だね。間違いなく、魚が群がってくると思うよ」=
-//「私の魅力、魚にも通じるかしら？」=
-//「もちろんだよ！　でも、サメや、毒を持った魚には気をつけてね」=
-//「君に追っ払ってもらうから平気よ。だから、一緒に泳いでちょうだいね」=
-//「責任重大だなぁ……でも、そうなったらしっかり頑張るからね」=
-//「ふふ、頼りにしてるわよ。さあ、それじゃあ他の水槽に行きましょ」=
-//「って、どうしたの？　難しい顔しちゃって……」=
-//「いや、一緒に泳いでいるときに、本当にサメに襲われたらどうしようかなーって……」=
-//「あはは、もう！　冗談なんだから、本気にしなくたっていいのに」=
+「綺麗だね～。ほら、あの魚……すっごくデカいよ」=“They're pretty. Hey, that fish over there... it's really big.”
+「ええ、綺麗なサンゴ礁……。一緒に泳げたら楽しいでしょうね」=“Ehh, those beautiful coral reefs...  it's be fun if we could swim through them together.”
+「みんなビックリするだろうね。魚に混じって、美女が泳いでたりしたら」=“That'd certainly surprise everyone. A beautiful woman, swimming along with the fish.”
+「ふふふ、水族館の目玉展示になっちゃうでしょうね。はぁ、いいなぁ……」=“Fufufu, it'd be the highlight of the aquarium. Ahhha, I'd like that...”
+「え？　そんなに目玉展示になりたいの？」=“Eh? You'd really like to be the star of the exhibition?”
+「あの小さくてカラフルで、可愛らしいお魚の群れの中で泳いだら、綺麗なドレスを着ているみたいになるんじゃないかなって」=“If I swam in that small, colorful, cute school of fish, I think it'd be just like I was wearing a beautiful dress.”
+「うん……きっとすごく綺麗だね。間違いなく、魚が群がってくると思うよ」=“Yeah... I'm sure you'd be beautiful. I'm sure the fish would flock around you.”
+「私の魅力、魚にも通じるかしら？」=“I guess I'd charm the fish?”
+「もちろんだよ！　でも、サメや、毒を持った魚には気をつけてね」=“Of course you would! But you'd have to be careful around the sharks, and the poisonous fish.”
+「君に追っ払ってもらうから平気よ。だから、一緒に泳いでちょうだいね」=“You'd chase them away, so I'd be fine. So, swim with me, please.”
+「責任重大だなぁ……でも、そうなったらしっかり頑張るからね」=“That's quite the responsibility... but if that happened, I'd try my best.”
+「ふふ、頼りにしてるわよ。さあ、それじゃあ他の水槽に行きましょ」=“Fufu, I'll be counting on you. Come on, let's head over to the other tank.”
+「って、どうしたの？　難しい顔しちゃって……」=“Hey, what's going on? It looks like something's bothering you...”
+「いや、一緒に泳いでいるときに、本当にサメに襲われたらどうしようかなーって……」=“No, I was just thinking about what I'd do if a shark really attacked me while we were swimming together...”
+「あはは、もう！　冗談なんだから、本気にしなくたっていいのに」=“Ahaha, geez! I was joking. You didn't need to take me seriously.”
