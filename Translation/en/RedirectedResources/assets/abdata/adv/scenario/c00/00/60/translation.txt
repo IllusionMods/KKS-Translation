@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねえ、今部屋にいる？　それとももう寝ちゃったかしら……」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
-//「大丈夫、まだ寝てないよ。こんな時間にどうしたの？」=
-//「なんだか人肌が恋しくなって……だから君に会いに来たの」=
-//「ね、傍にいっていい？」=
-//「……もう眠ってるみたいね。こんな時間だし、仕方ないか」=
+「ねえ、今部屋にいる？　それとももう寝ちゃったかしら……」=“Hey, you in your room? Or are you asleep already...”
+SELECTION:「返事をする」=Respond.
+SELECTION:「……」=...
+「大丈夫、まだ寝てないよ。こんな時間にどうしたの？」=“It's alright. I'm not asleep yet. What are you doing here at this hour?”
+「なんだか人肌が恋しくなって……だから君に会いに来たの」=“I missed the touch of your skin... that's why I came to see you.”
+「ね、傍にいっていい？」=“Hey, so can I come in?”
+「……もう眠ってるみたいね。こんな時間だし、仕方ないか」=“...looks like he's already asleep. I don't blame him... it is late.”
