@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふーん？　そんなに私の事、好きなんだ」=
-//「あぁ、勿論本気だよ」=
-//「ふふっ、大丈夫よ。キミの本気、ちゃんと伝わってるから」=
-//「………………」=
-//「答えは……うん、いいよ。これからもよろしくお願いね？」=
-//「っ！　ありがとう……！」=
-//「こらこらはしゃがないの。これからもっと楽しいことしていくんだし、ね？」=
+「ふーん？　そんなに私の事、好きなんだ」=“Mmm-hmm? You like me that much.”
+「あぁ、勿論本気だよ」=“Ahh, I'm serious, of course.”
+「ふふっ、大丈夫よ。キミの本気、ちゃんと伝わってるから」=“Fufu! Alright. I can tell you mean business.”
+「………………」=“...”
+「答えは……うん、いいよ。これからもよろしくお願いね？」=“So the answer is... yeah, that's fine. Let's look out for each other from now on, okay?”
+「っ！　ありがとう……！」=“!... thank you...!”
+「こらこらはしゃがないの。これからもっと楽しいことしていくんだし、ね？」=“Hey, hey, such high spirits. We're gonna have a lot of fun from here on out, right?”
