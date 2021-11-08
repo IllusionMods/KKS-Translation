@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やーっとお誘い来たわね、待ちくたびれたんですけど？」=
-//「え、えっと……？」=
-//「付き合ってるんだったらエッチな事するのも当然じゃない。結構我慢してたんだからね？」=
-//「何だ、したいなら言ってくれれば……」=
-//「もぉ、そういうのは男の子の方から率先するものでしょ？　ほらほら、早くしましょ？」=
+「やーっとお誘い来たわね、待ちくたびれたんですけど？」=“I was getting tired of waiting for your invitation, you know?”
+「え、えっと……？」=“E-er, um...?”
+「付き合ってるんだったらエッチな事するのも当然じゃない。結構我慢してたんだからね？」=“If you're dating, it's only natural to have sex. Haven't I been pretty patient with you?”
+「何だ、したいなら言ってくれれば……」=“What... if you wanted to do it, you should've told me...”
+「もぉ、そういうのは男の子の方から率先するものでしょ？　ほらほら、早くしましょ？」=“Geez, it's the guy who should be taking the initiative, right? Hey, look, could we just get on with it?”
