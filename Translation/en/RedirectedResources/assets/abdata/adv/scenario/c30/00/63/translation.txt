@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふふっ、キミのおかげで一段と綺麗になっちゃったかも……？」=
-//「塗ったとこ、すごく気持ちよかったわ。また塗って頂戴ね？」=
-//「ありがと、また次もお願いね？」=
-//「んー、まあそういう時もあるわよね、次の機会にお願いね？」=
+「ふふっ、キミのおかげで一段と綺麗になっちゃったかも……？」=“Fufu! I guess I'm even more beautiful, thanks to you, right...?”
+「塗ったとこ、すごく気持ちよかったわ。また塗って頂戴ね？」=“It felt good where you spread it on. Could you spread it on me again?”
+「ありがと、また次もお願いね？」=“Thank you, could we do this again?”
+「んー、まあそういう時もあるわよね、次の機会にお願いね？」=“Nh- Well, I suppose there's times like these. Maybe next time, please?”
