@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ……気持ちよすぎて、ちょっと興奮しちゃったかも……」=
-//「キミの手、ほんと好きだなぁ……また塗ってほしいな」=
-//「ふふっ、次来た時もお願いね……？」=
-//「残念、塗ってほしかったんだけどなー……？」=
+「はぁ……気持ちよすぎて、ちょっと興奮しちゃったかも……」=“Ahhhaaa... that felt so good, that I might be a little excited...”
+「キミの手、ほんと好きだなぁ……また塗ってほしいな」=“I really like your hands... I hope you'll spread it on me again.”
+「ふふっ、次来た時もお願いね……？」=“Fufu! Next time we're here, do the same again, okay...?”
+「残念、塗ってほしかったんだけどなー……？」=“What a shame. I was hoping you'd spread it on me-...?”
