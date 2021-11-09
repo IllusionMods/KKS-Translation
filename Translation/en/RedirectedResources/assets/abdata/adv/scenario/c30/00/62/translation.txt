@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「オイル塗り、ねぇ……そろそろ他の場所も塗ってもらおうかしら？」=
-//「他って、まだ背中しか塗ったことないけど……」=
-//「……前、塗ってみたいと思わない？」=
-//「前って、流石にいろいろ触っちゃうかもしれないよ……？」=
-//「ふふっ、私とキミの仲じゃない。たぁっぷり、塗ってくれるわよね……？」=
+「オイル塗り、ねぇ……そろそろ他の場所も塗ってもらおうかしら？」=“Oiling, huh... guess it's time to spread it on some other places?”
+「他って、まだ背中しか塗ったことないけど……」=“With others, I've only spread it on their backs...”
+「……前、塗ってみたいと思わない？」=“...don't you want to spread it on my front?”
+「前って、流石にいろいろ触っちゃうかもしれないよ……？」=“Your front... won't I end up touching you all over...?”
+「ふふっ、私とキミの仲じゃない。たぁっぷり、塗ってくれるわよね……？」=“Fufu! We're friends, so that won't be bad. I'm sure you'll spread it all over...?”
