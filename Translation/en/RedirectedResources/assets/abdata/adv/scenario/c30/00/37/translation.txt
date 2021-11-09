@@ -4,4 +4,4 @@
 「カヤックとなると一人乗りと二人乗りがあるけど……」=“When it comes to kayaks, there's two types: single-seaters, and two-seaters...”
 「なら二人乗り一択ね、一緒にがんばりましょ？」=“Then I guess we'll settle for a two-seater... let's do our best together, okay?”
 「了解、二人で力を合わせれば楽勝かな？」=“Roger that... I guess if we work together, it'll be easier?”
-「うんうん、私達の力、見せつけちゃおっか」=“Yeah, yeah, let's show everyone what we can do.”
+「うんうん、私達の力、見せつけちゃおっか」=“Yeah, yeah! Let's show everyone what we can do.”
