@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「すぅ……すぅ……ん、んん……」=(Hah... Hah... Nnnngg...)
-（んぅ……ん……なんか、下半身に違和感が……？）=(...Nnn... Somehow, my lower half feels...)
-「…………」=...
-「って……え？　え？」=Uh...Eh? Eh?
-「ふふっ、可愛いいびき、かいてたわよ。キミはお疲れなのかな？」=Fufu~ You were letting out such a cute snoring. Must have been real tired huh?
-「っ、そんなことより……何をして……？　んんっ……」=Uh, That aside... What are you...? Nnnn...
-//「お疲れのキミを……お姉さんが癒してあげようと思ったの」=
+「すぅ……すぅ……ん、んん……」=“Zzz... zzz... mm, mmm...”
+（んぅ……ん……なんか、下半身に違和感が……？）=(Nhu... mmm... something's going on with my lower body...?)
+「…………」=“...”
+「って……え？　え？」=“Uh...Eh? Eh?”
+「ふふっ、可愛いいびき、かいてたわよ。キミはお疲れなのかな？」=Fufu~ You were snoring like a baby. You're tired, aren't you?”
+「っ、そんなことより……何をして……？　んんっ……」=“Uh, other than that... what are you...? Nnnn...”
+「お疲れのキミを……お姉さんが癒してあげようと思ったの」=“You're tired... so your onee-san thought she'd help you out.”
