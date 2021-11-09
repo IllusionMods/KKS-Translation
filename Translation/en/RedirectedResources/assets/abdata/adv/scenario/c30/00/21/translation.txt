@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ねぇ、恋人と抱き合うのって、どうしてこんなに安心するのかしら……何て言うか……全身丸ごと無防備って感じ……」=Hey... Why does it feel so relieving to embrace your lover... Its like... My whole body feels defenseless...
-//「この時間が無限に続けばいいのに……なんて考えちゃうくらい、キミの隣にいると幸せなの」=
-//「大好きじゃ足りないくらい大好きだし、愛してるじゃ足りないくらい……愛してるっ！」=
+「ねぇ、恋人と抱き合うのって、どうしてこんなに安心するのかしら……何て言うか……全身丸ごと無防備って感じ……」=“Hey, I don't know why I feel so safe when I hug my lover... how can I put it... it's like my whole body lowers its defenses...”
+「この時間が無限に続けばいいのに……なんて考えちゃうくらい、キミの隣にいると幸せなの」=“I wish this time could go on forever... I'm so happy when I'm next to you.”
+「大好きじゃ足りないくらい大好きだし、愛してるじゃ足りないくらい……愛してるっ！」=“I love you more and more... I love you so much... I love you!”
