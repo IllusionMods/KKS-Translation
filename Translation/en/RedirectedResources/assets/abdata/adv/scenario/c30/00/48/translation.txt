@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういう旅先でのホテルの食べ物は安心するわね」=
-//「そうだね、地元料理が悪いとかってわけじゃないんだけどね」=
-//「ある程度食べ馴染んだものが出てくるっていうのは本当にありがたいことよね」=
-//「うんうん、ここなら大丈夫って場所は必ずあってほしいな」=
-//「そうね。あ、これも頼もうかな……すいませーん」=
+「こういう旅先でのホテルの食べ物は安心するわね」=“When you eat at a hotel like this when you're travelling, you can be sure the food'll be safe.”
+「そうだね、地元料理が悪いとかってわけじゃないんだけどね」=“I agree. Not that there's anything wrong with the local cuisine.”
+「ある程度食べ馴染んだものが出てくるっていうのは本当にありがたいことよね」=“But, it is nice to have something that you're used to eating, once in a while.”
+「うんうん、ここなら大丈夫って場所は必ずあってほしいな」=“Yeah, yeah! I always want there to be a place that you know is safe.”
+「そうね。あ、これも頼もうかな……すいませーん」=“Right. Ah, so I guess I'll order that, too... excuse me.”
