@@ -4,5 +4,5 @@
 「んー、気持ちいい場所ね」=“Mmm- it's nice here.”
 「そうだね、どことなく寂しさも感じるけど、静かで落ち着くな」=“Yes. It's somewhat isolated, but it's also quiet and relaxing.”
 「こう、何か考え事してるときに来たくなる場所かな」=“It's the kind of place you go to when you want to think about something.”
-「うん、考え込むもよし、リセットするもよし、だなぁ」=“Yeah, you can think things over, and you can reset them.”
+「うん、考え込むもよし、リセットするもよし、だなぁ」=“Yeah, you can think things over, and unwind.”
 「それじゃ、スッキリするまでのんびりしていきましょ？」=“Well then, shall we relax here until we feel better?”
