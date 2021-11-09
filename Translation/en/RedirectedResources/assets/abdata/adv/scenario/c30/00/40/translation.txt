@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふふっ、私達の手にかかればこんなものよね？　次はもっと難所でもいいわよ？」=
+「ふふっ、私達の手にかかればこんなものよね？　次はもっと難所でもいいわよ？」=“Fufu! That's all there was to that? Maybe we can do something more challenging, next time?”
