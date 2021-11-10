@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「卓球台があるよ！　やってみよう」=
-//「うーん、普通にやったんじゃキミの方が有利よねぇ。でも勝負もしたいし……」=
-//「だったらハンデをつけるってのはどうかな？」=
-//「えー、それじゃ最初から負けてるみたいじゃない？　ちょっと待ってね。絶対に何か考えるわ」=
-「…………」=...
-//「な……何よ？　今笑ったでしょう？　もしかしてバカにしてる……とか？　もう、私だって卓球くらい普通に……」=
-//「あはは、ごめんごめん。可愛いなと思って……こんな風にムキになることもあるんだなって」=
-//「っ！？　もーっ、真剣勝負の前にそれはずるいわよっ！　私を恥ずかしがらせて戦意消失させる気ね？」=
-//「あはは、違うって。それで……どうする？」=
-//「油断ならないわね。あっ、こういうのはどう？　お互いの好きなところを言いながらラリーするの！　よし、早速やりましょ！」=
-//「うあ……負けたぁ……これって恥ずかしすぎるよ……」=
-//「ふふっ、私の圧勝！　やっぱり私の方がキミを好きってことなのかしら。その勝負がついたってことよね」=
-//「それはないよ！　俺も負けないくらい[H名]のこと好きなんだから！」=
-//「も、もーっ、また私を恥ずかしがらせて！　私だって負けないくらいキミを好きなのよ！　それじゃ、もう一勝負しましょう！」=
-//「うん、望むところだよ！」=
+「卓球台があるよ！　やってみよう」=“There's a ping-pong table. Let's give it a try.”
+「うーん、普通にやったんじゃキミの方が有利よねぇ。でも勝負もしたいし……」=“Mmm-hmm, normally, you'd have the advantage. But I still want to play...”
+「だったらハンデをつけるってのはどうかな？」=“Well, then how about a handicap?”
+「えー、それじゃ最初から負けてるみたいじゃない？　ちょっと待ってね。絶対に何か考えるわ」=“Eh-, then doesn't that make it like you'd being losing from the start? Wait a minute. I'm sure I can think of something.”
+「…………」=...“...”
+「な……何よ？　今笑ったでしょう？　もしかしてバカにしてる……とか？　もう、私だって卓球くらい普通に……」=“Wh... what? You just laughed? Are you making fun of me... or something? Geez, I can play ping-pong just fine...” 
+「あはは、ごめんごめん。可愛いなと思って……こんな風にムキになることもあるんだなって」=“Ahaha, sorry, sorry. I just think you're cute... and I was thinking of trying to get you worked up a little.” 
+「っ！？　もーっ、真剣勝負の前にそれはずるいわよっ！　私を恥ずかしがらせて戦意消失させる気ね？」=“Wha-!? Geez-! That's not fair before a serious competition! Are you trying to embarrass me, so I'll lose my will to fight!”
+「あはは、違うって。それで……どうする？」=“Ahaha, no I wasn't. So... what are you gonna do?”
+「油断ならないわね。あっ、こういうのはどう？　お互いの好きなところを言いながらラリーするの！　よし、早速やりましょ！」=“You can never be too careful. Ah! What about this? After a rally, we can say what we like about each other! Right, let's do this!”
+「うあ……負けたぁ……これって恥ずかしすぎるよ……」=“Uaaa... I lost... this is so embarrassing...”
+「ふふっ、私の圧勝！　やっぱり私の方がキミを好きってことなのかしら。その勝負がついたってことよね」=“Fufu! I win, hands down! I guess that means I like you more than you like me. So that means we gotta have a new game.”
+「それはないよ！　俺も負けないくらい[H名]のこと好きなんだから！」=“That's not gonna happen! I like [H名] as much as she likes me!”
+「も、もーっ、また私を恥ずかしがらせて！　私だって負けないくらいキミを好きなのよ！　それじゃ、もう一勝負しましょう！」=“G-geez-! You're embarrassing me again! I love you as much as you love me! Well then, let's play one more.”
+「うん、望むところだよ！」=“Yeah, that's what I want, too!”
