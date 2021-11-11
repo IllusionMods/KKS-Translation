@@ -3,4 +3,4 @@
 //
 「えっと……私、どうだったかしら……キミのこと、きちんと……その……満足させてあげられた？」=“Uhm... I'm not so sure about this... did I, um... satisfy you properly?” 
 「うん、もちろんだよ。逆に俺はどうだった？　満足させられたかな？」=“Yeah, Of course! Rather, how was I? Are you satisfied?”
-「あ……わ、私はっ！　その……だ、大満足……だったわ……はぅ……」=Ah... I-I am! Um... that is... r-really satisfied... hau...”
+「あ……わ、私はっ！　その……だ、大満足……だったわ……はぅ……」=“Ah... I-I am! Um... that is... r-really satisfied... hau...”

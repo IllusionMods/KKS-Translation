@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 「ねぇ、いる……？」=“Hey, can I come in...?”
-SELECTION:「返事をする」=Respond.
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
 「いるよ。どうしたの？」=“Come in. What's up?”
 「急にごめん、お邪魔するわね」=“Sorry to barge in like this.”
