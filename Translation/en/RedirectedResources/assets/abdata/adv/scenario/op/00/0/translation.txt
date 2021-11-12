@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 オープニングを見ますか？=Watch the opening?
-//SELECTION:「見る」=
-//SELECTION:「見ない」=
+SELECTION:「見る」=Watch
+SELECTION:「見ない」=Don't watch
 「来ちゃったよ、南の島に……」=“I'm here, on the southern island...”
 あのふざけた話を叔母さんから聞かされた時、俺は戯言であって欲しいと切実に願っていた。=When I had that ridiculous conversation with my aunt, I'd hoped she was kidding.
 しかし、ここまでたどり着いたことで、嘘でも冗談でもなかったことを思い知らされてしまう。=However, now that I'm here, I can see she was serious.

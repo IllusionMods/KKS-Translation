@@ -27,9 +27,9 @@
 桜=Sakura
 印=Emblem
 バーコード=Barcode
-//CAUTION=
-//DANGER=
-//WARNING=
+CAUTION=CAUTION
+DANGER=DANGER
+WARNING=WARNING
 ００=00
 ０１=01
 ０２=02

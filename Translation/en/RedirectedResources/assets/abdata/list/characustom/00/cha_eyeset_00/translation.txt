@@ -31,7 +31,7 @@
 目に炎=Fiery Eyes
 デフォルメウィンク=Cartoony Wink
 縦一文字=Vertical Line
-//ディフォルメつむり=
+ディフォルメつむり=Deformed Tsumuri
 横一文字=Horizontal Line
 デフォルメ泣き=Cartoony Crying
 左目ぎゅっと閉じ=Left Eye Shut Tight
