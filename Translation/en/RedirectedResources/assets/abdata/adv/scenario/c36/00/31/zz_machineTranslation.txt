@@ -1,6 +1,6 @@
-「ほら、家畜。次はこれを持ってなさい」=Here, livestock. Now hold this.
-「……ねぇ、[H名]さん。幾らなんでも買い過ぎじゃない？」=...... Hey, [H名]. Are you sure you're not buying too much?
-「家畜が私に意見するの？　ふぅん、いい度胸ね」=You're giving me advice?　You've got some nerve.
-「うっ……でも、結構な荷物になってるよ？　これを持ったまま帰るのは大変だと思うんだけど……」=I'm not sure what to do with it.　I think it's going to be hard to go home with this .......
-「馬鹿ね、持って歩くわけないじゃない。宅配便で送るに決まっているでしょ。いいから、買い物を続けるわよ」=It's a shame." "Silly me, I wouldn't carry it around with me. I'm sure they'll send it by courier. I'll just keep shopping.
-「はい……」=Yes .......
+「ほら、家畜。次はこれを持ってなさい」=“Here, livestock. Now hold this.”
+「……ねぇ、[H名]さん。幾らなんでも買い過ぎじゃない？」=“...... Hey, [H名]. Are you sure you're not buying too much?”
+「家畜が私に意見するの？　ふぅん、いい度胸ね」=“You're giving me advice?　You've got some nerve.”
+「うっ……でも、結構な荷物になってるよ？　これを持ったまま帰るのは大変だと思うんだけど……」=“I'm not sure what to do with it.　I think it's going to be hard to go home with this .......”
+「馬鹿ね、持って歩くわけないじゃない。宅配便で送るに決まっているでしょ。いいから、買い物を続けるわよ」=“It's a shame." "Silly me, I wouldn't carry it around with me. I'm sure they'll send it by courier. I'll just keep shopping.”
+「はい……」=“Yes .......”

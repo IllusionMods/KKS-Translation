@@ -1,6 +1,6 @@
-「ふぅ……滝の音って、なんか心が落ち着くね」=The sound of the waterfall is soothing.
-「実際ヒーリング効果があるんじゃなかったか？　他にも木々の揺れる音なんか該当していたはずだ」=I thought it actually had a healing effect.　I'm sure the sound of the trees swaying was also a factor.
-「へぇ、それじゃあこの公園は癒しの聖地って感じだね」=Well, then this park is like a sanctuary for healing.
-「そういった効果があるからこそ、パワースポットと呼ばれているのかもな」=Maybe that's why they call it a power spot.
-「ちなみに俺は[H名]が傍にいるだけで癒されるよ」=By the way, I'm healed just by being around [H名].
-「何にちなんだんだ……まぁ、そう言われて悪い気はしないが」=What's the reference? ...... Well, I don't feel bad about it.
+「ふぅ……滝の音って、なんか心が落ち着くね」=“The sound of the waterfall is soothing.”
+「実際ヒーリング効果があるんじゃなかったか？　他にも木々の揺れる音なんか該当していたはずだ」=“I thought it actually had a healing effect.　I'm sure the sound of the trees swaying was also a factor.”
+「へぇ、それじゃあこの公園は癒しの聖地って感じだね」=“Well, then this park is like a sanctuary for healing.”
+「そういった効果があるからこそ、パワースポットと呼ばれているのかもな」=“Maybe that's why they call it a power spot.”
+「ちなみに俺は[H名]が傍にいるだけで癒されるよ」=“By the way, I'm healed just by being around [H名].”
+「何にちなんだんだ……まぁ、そう言われて悪い気はしないが」=“What's the reference? ...... Well, I don't feel bad about it.”

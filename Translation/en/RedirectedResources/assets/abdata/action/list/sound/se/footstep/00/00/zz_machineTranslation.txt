@@ -1,5 +1,0 @@
-木材（橋など）=Wood (bridge, etc.)
-浅い水辺=Shallow waters
-土=Soil
-石床 ・コンクリート=Stone floor ・Concrete
-砂=Sand

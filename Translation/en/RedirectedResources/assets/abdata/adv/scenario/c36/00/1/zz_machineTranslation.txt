@@ -1,8 +1,8 @@
-「へぇ……家畜から、私の下僕になりたいのね」=Heh, ......, you want to be my servant from livestock.
-「そうじゃなくて、恋人に…………」=It's not that. It's that I want to ............
-「寝言を言ってるの？　家畜と人が付き合えるわけないじゃない」=Are you talking in your sleep?　Livestock and people don't get along.
-「そっか……時間をとらせてごめん」=I see. ...... I'm sorry I took up your time.
-「待ちなさい。貴方は家畜から下僕になるチャンスを与えられているのよ？　それを逃すなんて馬鹿のすることだわ」=Wait a minute. You've been given a chance to become a servant by the cattle.　You'd be a fool to miss it.
-「それって……下僕になれば、最終的に対等な関係で付き合える可能性があるってこと……？」=Does that mean that if I become a ...... servant, there's a chance that we can finally be on equal terms ......?
-「じゃ、じゃあ、俺は[H名]さんの下僕になるよ！」=Well, then, I'll be your servant!
-「フフッ、いいわ。契約成立ね。これから、私の下僕としてたくさん躾けてあげる。感謝しなさい」=Okay, okay. We have a contract. From now on, you will be my servant and I will discipline you a lot. Thank you.
+「へぇ……家畜から、私の下僕になりたいのね」=“Heh, ......, you want to be my servant from livestock.”
+「そうじゃなくて、恋人に…………」=“It's not that. It's that I want to ............”
+「寝言を言ってるの？　家畜と人が付き合えるわけないじゃない」=“Are you talking in your sleep?　Livestock and people don't get along.”
+「そっか……時間をとらせてごめん」=“I see. ...... I'm sorry I took up your time.”
+「待ちなさい。貴方は家畜から下僕になるチャンスを与えられているのよ？　それを逃すなんて馬鹿のすることだわ」=“Wait a minute. You've been given a chance to become a servant by the cattle.　You'd be a fool to miss it.”
+「それって……下僕になれば、最終的に対等な関係で付き合える可能性があるってこと……？」=“Does that mean that if I become a ...... servant, there's a chance that we can finally be on equal terms ......?”
+「じゃ、じゃあ、俺は[H名]さんの下僕になるよ！」=“Well, then, I'll be your servant!”
+「フフッ、いいわ。契約成立ね。これから、私の下僕としてたくさん躾けてあげる。感謝しなさい」=“Okay, okay. We have a contract. From now on, you will be my servant and I will discipline you a lot. Thank you.”

@@ -1,4 +1,4 @@
-「カヤック、一人乗りと二人乗りがありますが、どちらにしましょう」=There are two types of kayaks, single-seater and double-seater. Which one should we choose?
-「んー、君はどっちがいい？」=Mmm. Which one do you want?
-「私はどちらでも構いませんが……折角ですので、二人乗りにしてみますか？」=I don't mind either, but ...... would you like to go for a ride with me?
-「ＯＫ、二人で頑張ってみようか」=Okay, let's both try it.
+「カヤック、一人乗りと二人乗りがありますが、どちらにしましょう」=“There are two types of kayaks, single-seater and double-seater. Which one should we choose?”
+「んー、君はどっちがいい？」=“Mmm. Which one do you want?”
+「私はどちらでも構いませんが……折角ですので、二人乗りにしてみますか？」=“I don't mind either, but ...... would you like to go for a ride with me?”
+「ＯＫ、二人で頑張ってみようか」=“Okay, let's both try it.”

@@ -1,6 +1,6 @@
-「俺、頑張って三線を演奏したいんだよね」=I'm going to try my best to play the sanshin.
-「何か弾きたい曲がおありなんですか？」=Do you have a song you want to play?
-「具体的にはないんだけど、この島の音楽は結構気に入ってるんだよね」=I don't have any specifics, but I like the music on this island a lot.
-「そうですね、私もこの島の音楽は大好きです」=Yes, I love the music on this island.
-「いつか[H名]と一緒に演奏出来たら楽しいだろうなぁって思って」=I thought it would be fun to play with [H名] someday.
-「それは、素敵な時間になりそうですね」=It's going to be a wonderful time.
+「俺、頑張って三線を演奏したいんだよね」=“I'm going to try my best to play the sanshin.”
+「何か弾きたい曲がおありなんですか？」=“Do you have a song you want to play?”
+「具体的にはないんだけど、この島の音楽は結構気に入ってるんだよね」=“I don't have any specifics, but I like the music on this island a lot.”
+「そうですね、私もこの島の音楽は大好きです」=“Yes, I love the music on this island.”
+「いつか[H名]と一緒に演奏出来たら楽しいだろうなぁって思って」=“I thought it would be fun to play with [H名] someday.”
+「それは、素敵な時間になりそうですね」=“It's going to be a wonderful time.”

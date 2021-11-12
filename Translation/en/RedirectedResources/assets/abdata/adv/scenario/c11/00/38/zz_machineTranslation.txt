@@ -1,5 +1,5 @@
-「たくさんレジャーがあるわね～。あなたは何をやってみたいの？」=There are so many leisure activities. What do you want to do?
-「う～ん……まずはダイビングなんてどう？　初心者でも楽しめるみたいだよ」=Hmmm... ...... How about diving first?　It seems that even beginners can enjoy it.
-「うふふ、私は断ったりしないわ。それじゃあ、さっそく申し込みに行きましょうか」=Mmmm, I wouldn't say no to that. Now, let's go and apply.
-「たくさんのお魚が待っているんだから、遅れないようにしなくちゃ」=There's a lot of fish waiting for you, so don't be late.
-「だね。ちょっと行ってくるよ」=Okay. I'll be right back.
+「たくさんレジャーがあるわね～。あなたは何をやってみたいの？」=“There are so many leisure activities. What do you want to do?”
+「う～ん……まずはダイビングなんてどう？　初心者でも楽しめるみたいだよ」=“Hmmm... ...... How about diving first?　It seems that even beginners can enjoy it.”
+「うふふ、私は断ったりしないわ。それじゃあ、さっそく申し込みに行きましょうか」=“Mmmm, I wouldn't say no to that. Now, let's go and apply.”
+「たくさんのお魚が待っているんだから、遅れないようにしなくちゃ」=“There's a lot of fish waiting for you, so don't be late.”
+「だね。ちょっと行ってくるよ」=“Okay. I'll be right back.”

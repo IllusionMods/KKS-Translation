@@ -1,2 +1,2 @@
-「おはよう、[P]。起きて起きてー」=Good morning, [P]. Wake up, wake up.
-「もう、また寝ないでよ！　せっかくなんだから何か話をしましょうよ！」=Don't fall asleep again!　Let's talk about something since we're here!
+「おはよう、[P]。起きて起きてー」=“Good morning, [P]. Wake up, wake up.”
+「もう、また寝ないでよ！　せっかくなんだから何か話をしましょうよ！」=“Don't fall asleep again!　Let's talk about something since we're here!”

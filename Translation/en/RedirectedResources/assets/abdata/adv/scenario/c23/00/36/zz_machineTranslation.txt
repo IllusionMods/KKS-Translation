@@ -1,6 +1,6 @@
-「それじゃあ、何かレンタルして遊ぼうか」=Well, let's rent something to play with.
-「ワタシはシュノーケリングがいいんだなぁ」=I like snorkeling.
-「海の中に興味があるの？」=Are you interested in the sea?
-「ダイビングがテーマの漫画を読んでね。海の中が綺麗だなぁと思ったんですぞ」=I read a manga about diving. I read a manga about diving, and I thought the ocean was beautiful.
-「なるほど、ダイビングって程じゃないけど、確かに気分は味わえるかもね」=Well, it's not quite diving, but it'll give you a feel for it.
-「そういうわけだから、早速行きましょうぞ」=That's it. Let's get to it.
+「それじゃあ、何かレンタルして遊ぼうか」=“Well, let's rent something to play with.”
+「ワタシはシュノーケリングがいいんだなぁ」=“I like snorkeling.”
+「海の中に興味があるの？」=“Are you interested in the sea?”
+「ダイビングがテーマの漫画を読んでね。海の中が綺麗だなぁと思ったんですぞ」=“I read a manga about diving. I read a manga about diving, and I thought the ocean was beautiful.”
+「なるほど、ダイビングって程じゃないけど、確かに気分は味わえるかもね」=“Well, it's not quite diving, but it'll give you a feel for it.”
+「そういうわけだから、早速行きましょうぞ」=“That's it. Let's get to it.”

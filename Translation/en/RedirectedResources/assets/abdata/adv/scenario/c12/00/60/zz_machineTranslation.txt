@@ -1,7 +1,7 @@
-「遅い時間に悪い。部屋に入れてくれないか？」=Sorry to bother you at this late hour. Can you let me in, please?
-SELECTION:「返事をする」=Answer her
+「遅い時間に悪い。部屋に入れてくれないか？」=“Sorry to bother you at this late hour. Can you let me in, please?”
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-「いいよ。どうしたの？」=All right. What's wrong?
-「ぅ……その、なんだ……柄じゃないことを言っちゃうんだけど、なんか急におまえに会いたくなって……」=Oh ......, well, I'm going to say something ...... out of character, but I suddenly felt like seeing you .......
-「だから……しばらく、そばにいさせてくれ。あまえの温もりを……感じていたいんだ」=So ...... let me stay by your side for a while. I want to ...... feel your warmth.
-「あー……やっぱり寝てるか。しかたない、あたしも寝よう……」=Oh, ......, you're asleep after all. Oh, ...... you're asleep. I'm going to bed too. ......
+「いいよ。どうしたの？」=“All right. What's wrong?”
+「ぅ……その、なんだ……柄じゃないことを言っちゃうんだけど、なんか急におまえに会いたくなって……」=“Oh ......, well, I'm going to say something ...... out of character, but I suddenly felt like seeing you .......”
+「だから……しばらく、そばにいさせてくれ。あまえの温もりを……感じていたいんだ」=“So ...... let me stay by your side for a while. I want to ...... feel your warmth.”
+「あー……やっぱり寝てるか。しかたない、あたしも寝よう……」=“Oh, ......, you're asleep after all. Oh, ...... you're asleep. I'm going to bed too. ......”

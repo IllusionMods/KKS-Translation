@@ -1,7 +1,7 @@
-「あの……お邪魔してもよろしいですか？」=May I ...... disturb you?
-SELECTION:「返事をする」=Answer her
+「あの……お邪魔してもよろしいですか？」=“May I ...... disturb you?”
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-「もちろんいいよ。どうかしたの？」=Sure, sure. What's wrong?
-「遅い時間にすみません。ふと、あなたに会いたくなりまして……」=I'm sorry for the late hour. I just wanted to see you. ......
-「今夜は……傍にいさせてください」=Please let me ...... be with you tonight.
-「……外出中なのでしょうか？　残念です……」=...... Are you out?　Sorry, .......
+「もちろんいいよ。どうかしたの？」=“Sure, sure. What's wrong?”
+「遅い時間にすみません。ふと、あなたに会いたくなりまして……」=“I'm sorry for the late hour. I just wanted to see you. ......”
+「今夜は……傍にいさせてください」=“Please let me ...... be with you tonight.”
+「……外出中なのでしょうか？　残念です……」=“...... Are you out?　Sorry, .......”

@@ -1,7 +1,7 @@
-「遅い時間にごめんなさい。今、大丈夫かしら？」=I'm sorry it's so late. Is this a good time?
-SELECTION:「返事をする」=Answer her
+「遅い時間にごめんなさい。今、大丈夫かしら？」=“I'm sorry it's so late. Is this a good time?”
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-「問題ないけど、どうかしたの？」=No problem. What's wrong?
-「えっと、大事な用事があるのよ……アナタと、私にしかできない事なんだけど……」=Well, I have something important to do, and it's something that only you and I can do. ......
-「もう、最後まで言わせないで……分かって、くれるわよね？」=Don't make me finish. ...... You understand, don't you?
-「留守なのね……仕方がないわ、またにしましょう」=You're not home, are you? ...... I can't help it, we'll have to do this again.
+「問題ないけど、どうかしたの？」=“No problem. What's wrong?”
+「えっと、大事な用事があるのよ……アナタと、私にしかできない事なんだけど……」=“Well, I have something important to do, and it's something that only you and I can do. ......”
+「もう、最後まで言わせないで……分かって、くれるわよね？」=“Don't make me finish. ...... You understand, don't you?”
+「留守なのね……仕方がないわ、またにしましょう」=“You're not home, are you? ...... I can't help it, we'll have to do this again.”
