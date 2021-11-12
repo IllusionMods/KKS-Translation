@@ -1,6 +1,6 @@
-「すごく綺麗な滝だね」=It's so beautiful.
-「はい……お水も透き通ってて綺麗ですね」=Yes. ...... The water is crystal clear and clean.
-「これなら、飲んでも大丈夫かも」=I think I can drink this.
-「ダメですよ……いくら綺麗でも、生水はお腹に悪いですよ」=No. ...... No matter how clean you are, raw water is bad for your stomach.
-「だったら、煮沸すれば大丈夫かな」=Maybe I should just boil it.
-「それなら……でも、煮沸する道具なんてありませんからね」=I don't have the tools to boil it.
+「すごく綺麗な滝だね」=“It's so beautiful.”
+「はい……お水も透き通ってて綺麗ですね」=“Yes. ...... The water is crystal clear and clean.”
+「これなら、飲んでも大丈夫かも」=“I think I can drink this.”
+「ダメですよ……いくら綺麗でも、生水はお腹に悪いですよ」=“No. ...... No matter how clean you are, raw water is bad for your stomach.”
+「だったら、煮沸すれば大丈夫かな」=“Maybe I should just boil it.”
+「それなら……でも、煮沸する道具なんてありませんからね」=“I don't have the tools to boil it.”

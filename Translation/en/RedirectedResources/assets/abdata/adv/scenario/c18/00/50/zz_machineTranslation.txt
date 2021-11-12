@@ -1,5 +1,5 @@
-「うーん、どれも美味しいね」=Hmm, they're all good.
-「はいっ。お肉もお魚も絶品だと思います」=Yes. I think the meat and fish are excellent.
-「来たばっかりの頃は、こっちのお料理の味付けに慣れてなかったんですけど……今では大ハマりですっ」=When I first came here, I wasn't used to the flavor of the food here, but now I'm hooked. ......
-「はは、俺も。でも美味しく食べられるのは[H名]が一緒にいてくれるからだと思うな」=Haha, me too. But I think it's because [name] is with me that I can eat so well.
-「それは……えへへ、私もです」=That's ...... hehe, me too.
+「うーん、どれも美味しいね」=“Hmm, they're all good.”
+「はいっ。お肉もお魚も絶品だと思います」=“Yes. I think the meat and fish are excellent.”
+「来たばっかりの頃は、こっちのお料理の味付けに慣れてなかったんですけど……今では大ハマりですっ」=“When I first came here, I wasn't used to the flavor of the food here, but now I'm hooked. ......”
+「はは、俺も。でも美味しく食べられるのは[H名]が一緒にいてくれるからだと思うな」=“Haha, me too. But I think it's because [name] is with me that I can eat so well.”
+「それは……えへへ、私もです」=“That's ...... hehe, me too.”

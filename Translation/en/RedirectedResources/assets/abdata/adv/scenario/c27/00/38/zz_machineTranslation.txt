@@ -1,4 +1,4 @@
-「っと……なかなか難しそうね、これ……」=Well, ......, that's a tough one, .......
-「大丈夫、いざとなったら俺が[H名]の分まで漕ぐからさ」=Don't worry, if it comes to it, I'll paddle for you.
-「だ、ダメよ……私だって、あんたの役に立ちたいんだから……っ」=No, you can't. ...... I want to be useful to you, too. ......
-「ふふっ、んじゃ少しずつでいいから、二人で頑張ろっか？」=Mmm, let's take it a little bit at a time, shall we?
+「っと……なかなか難しそうね、これ……」=“Well, ......, that's a tough one, .......”
+「大丈夫、いざとなったら俺が[H名]の分まで漕ぐからさ」=“Don't worry, if it comes to it, I'll paddle for you.”
+「だ、ダメよ……私だって、あんたの役に立ちたいんだから……っ」=“No, you can't. ...... I want to be useful to you, too. ......”
+「ふふっ、んじゃ少しずつでいいから、二人で頑張ろっか？」=“Mmm, let's take it a little bit at a time, shall we?”

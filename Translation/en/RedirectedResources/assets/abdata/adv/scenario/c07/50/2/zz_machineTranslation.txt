@@ -36,7 +36,7 @@
 「変わろうとしなくていいんだよ。俺が好きになったのは、元気で明るくて友達みたいにじゃれあえる[H名]なんだから」=“You don't have to try to change. I fell in love with you, [H名], because you're cheerful, energetic, and I how I can joke around with you like a friend.”
 「そこまで言われると、女としては不満があるんだけど」=“When you say all that to me, as a woman, I'm not happy.”
 「うええ？　あ、す、すいません」=“Eh? Ah, I-I'm sorry.”
-「ぷっ、あははははは！　なんだよーお前のその顔、バカみたいだぞ」=Pfft! Hahahahaha!　What's up with your face? You look like an idiot.
+「ぷっ、あははははは！　なんだよーお前のその顔、バカみたいだぞ」=“Pfft! Hahahahaha!　What's up with your face? You look like an idiot.”
 「っ、バカは言い過ぎだって！」=“! 'Idiot' is an overstatement!”
 「……うん、私達これくらいから始めていいのかも」=“...yeah, maybe it's better that we start out like this.”
 「ひとまずはこれまで通りってことで。こほんっ！　これからは恋人としてよろしくな」=“Well for now, let's keep things usual. Ahem! Hope you'll be a good lover from here on.”

@@ -220,7 +220,7 @@
 「はいなのですー」=“Alrighty then-”
 「それじゃまたですー」=“Well then, see you-”
 「俺さ、きみのことが好きなんだ」=“I really love you, you know.”
-「ふぇっ……あ、その……考える時間が、ほしいです……」=I'd like some ...... time to think about it. ......
+「ふぇっ……あ、その……考える時間が、ほしいです……」=“I'd like some ...... time to think about it. ......”
 「あ、あのっ！　わ、私と……ぅ……付き合ってほしいですっ！」=“U-um! I-I... uuu... I want you to go out with me!”
 「あ、あはは……結果は分かってたですが……けっこう辛いですね……」=“Ah, ahaha... I knew the outcome, but... it still really hurts...”
 「あのさ、突然だけど……俺、きみと……そういうことしたいんだ」=“Um, this is sudden... me and you... I want us to be that way.”
@@ -246,7 +246,7 @@
 「俺と一緒に遊ばない？」=“Why not come play with me?”
 「いいですよっ。えへへ、何をするか楽しみなのですー」=“Alrighty. Ehehe, I can't wait to find out what we're gonna do-”
 「ごめんなさい……今はゆっくりしたい気分なのです」=“I'm sorry... I'm just in the mood to relax.”
-「あのっ、良かったら二人で遊びに行きませんか？」=Hey, would you like to go out with me?
+「あのっ、良かったら二人で遊びに行きませんか？」=“Hey, would you like to go out with me?”
 「えへへ、ありがとうなのです！　あなたとなら、絶対楽しくなるですね！」=“Ehehe! Thanks a bunch! I'm sure I'll have a lot of fun with you!”
 「そんな気分じゃなかったですか？　残念です……」=“You're not in the mood? I'm sorry...”
 「ねえ、体験を申し込みに行かない？」=“Hey, why don't we go apply for an experience?”
@@ -258,7 +258,7 @@
 「ご飯にしようと思ってるんだけど、一緒にどうかな？」=“I'm thinking of heading out for a meal, maybe you'd like to join?”
 「行くですー！　誰かと食べた方が、ご飯は美味しいですから」=“I'm coming-! Food tastes better when you eat it with someone else.”
 「実はお腹が少し冷えちゃってまして……ごめんなさい、遠慮しておくです」=“Actually, I have a touch of the stomach flu... I'm sorry, I'll have to pass.”
-「えっと、今から一緒にご飯を食べませんか？」=Well, would you like to have dinner with me now?
+「えっと、今から一緒にご飯を食べませんか？」=“Well, would you like to have dinner with me now?”
 「えへへ、やったねなのです！」=“Ehehe, I did it!”
 「あ……もうお腹いっぱいでしたか。では、次の機会によろしくです」=“Ah, I guess you're full. Well, see you around, next time.”
 「ちょっと付いてきてくれる？」=“Can you come with me for a sec?”
@@ -276,10 +276,10 @@
 「はいー、何用ですか？」=“Yes- What can I do for you?”
 「私、こ、こんなところへ連れ込まれるですかっ！？　あっ、別に平気ですけどっ……でも、誰かいたら……はぅぅ……」=“You're taking me to a place like this!? Ah, I'm fine with that, though...! But if anyone... hauu...”
 「あなたのこと、知れば知るほど、もっと親しくなりたいって思っちゃうです！」=“The ore that I learn about you, the more I want to get to know you!”
-「私……今まで男女のそういうことに興味なかったですけど……あの……あなたといると……はぅ……」=I've never ...... been interested in that kind of thing between men and women, but when I'm ...... with you, I'm ...... with you.
+「私……今まで男女のそういうことに興味なかったですけど……あの……あなたといると……はぅ……」=“I've never ...... been interested in that kind of thing between men and women, but when I'm ...... with you, I'm ...... with you.”
 「ひゃんっ！　わぁ、変な声出しちゃったですよー！」=“Hyyan! Wa! I made a weird noise-!”
 「あなたの傍にいると落ち着くです……ふふーっ♪」=“I feel so at home, when I'm around you... fufu-!♪”
-「えへへ、たくさんお話したいです♪」=Heh, I want to talk to you a lot.
+「えへへ、たくさんお話したいです♪」=“Heh, I want to talk to you a lot.”
 「私もお話したいって思ってたですよー♪」=“I've been wanting to talk to you, too-♪”
 「母性本能とか強いタイプ？」=“Are you the type to show strong maternal instincts?”
 「うーん、こう見えて、実は結構あるんじゃないかなと思うですよ。確信はないですけど……」=“Mmm-hmm, I know what I seem like, but I actually really might be. I'm not sure, though...”

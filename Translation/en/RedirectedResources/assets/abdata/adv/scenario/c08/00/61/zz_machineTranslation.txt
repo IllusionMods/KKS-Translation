@@ -1,4 +1,4 @@
-「へぇ、ここではオイルを塗れるんだ」=Yeah, you can apply oil here.
-「オイルを塗ったら、どんな効果があるの？」=What's the point of oiling me?
-「美容効果とかそんな感じ。よかったら、塗ってあげようか？」=Beauty benefits, that kind of thing. I can apply it for you if you want.
-「美容かぁ。私も気にした方がいいだろうし……うん、お願いするね」=Beauty, huh? I should probably take care of that. ...... Yeah, I'll take care of it.
+「へぇ、ここではオイルを塗れるんだ」=“Yeah, you can apply oil here.”
+「オイルを塗ったら、どんな効果があるの？」=“What's the point of oiling me?”
+「美容効果とかそんな感じ。よかったら、塗ってあげようか？」=“Beauty benefits, that kind of thing. I can apply it for you if you want.”
+「美容かぁ。私も気にした方がいいだろうし……うん、お願いするね」=“Beauty, huh? I should probably take care of that. ...... Yeah, I'll take care of it.”

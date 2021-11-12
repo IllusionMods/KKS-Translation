@@ -1,5 +1,5 @@
-「灯台とは、これまた趣のある建物じゃのう」=A lighthouse is a very quaint building.
-「そうだね。でも、こういった海に囲まれた島ではすごく重要な建物だよ」=That's true. But it's a very important building on an island surrounded by the sea like this.
-「うむ、遠い海原から見える大事な標じゃの」=Yes, an important beacon seen from a distant sea.
-「メンテナンスは大変だろうけど、ずっと残っているといいなぁ」=I know it's a lot of maintenance, but I hope it stays that way.
-「そうじゃの、いつかまた来た時に、変わらぬ姿を拝みたいものじゃ……」=Yes, I'd like to see the same ...... appearance when I come back someday.
+「灯台とは、これまた趣のある建物じゃのう」=“A lighthouse is a very quaint building.”
+「そうだね。でも、こういった海に囲まれた島ではすごく重要な建物だよ」=“That's true. But it's a very important building on an island surrounded by the sea like this.”
+「うむ、遠い海原から見える大事な標じゃの」=“Yes, an important beacon seen from a distant sea.”
+「メンテナンスは大変だろうけど、ずっと残っているといいなぁ」=“I know it's a lot of maintenance, but I hope it stays that way.”
+「そうじゃの、いつかまた来た時に、変わらぬ姿を拝みたいものじゃ……」=“Yes, I'd like to see the same ...... appearance when I come back someday.”

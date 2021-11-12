@@ -1,7 +1,7 @@
-「私、最近、君と話すのがすっごく楽しみになってきちゃった！」=I've been really looking forward to talking to you lately!
-「本当に？　良かった。実は俺も。[H姓]さんと話すのすごく楽しいよ」=Really?　I'm glad. Actually, me too. [I really enjoy talking to you.
-「えへへ、おんなじ気持ちだったんだね！　嬉しい！」=Heh, you're feeling the same way!　I'm so happy!
-「これからも君のこと、たくさん知っていけるといいな」=I hope I get to know you a lot more in the future.
-「あはは、こちらこそ。[H姓]さんのこと、たくさん教えて欲しい」=Haha, my pleasure. I want you to tell me a lot about [H名].
-「了解ですっ！　まだまだいっぱい話そうね！」=Yes, sir!　We have a lot to talk about!
-「あっ、もうこんな時間。そろそろ行かなきゃ……それじゃ、これからもよろしくね！」=Oh, it's almost time. I've got to get going. ...... Keep up the good work!
+「私、最近、君と話すのがすっごく楽しみになってきちゃった！」=“I've been really looking forward to talking to you lately!”
+「本当に？　良かった。実は俺も。[H姓]さんと話すのすごく楽しいよ」=“Really?　I'm glad. Actually, me too. [I really enjoy talking to you.”
+「えへへ、おんなじ気持ちだったんだね！　嬉しい！」=“Heh, you're feeling the same way!　I'm so happy!”
+「これからも君のこと、たくさん知っていけるといいな」=“I hope I get to know you a lot more in the future.”
+「あはは、こちらこそ。[H姓]さんのこと、たくさん教えて欲しい」=“Haha, my pleasure. I want you to tell me a lot about [H名].”
+「了解ですっ！　まだまだいっぱい話そうね！」=“Yes, sir!　We have a lot to talk about!”
+「あっ、もうこんな時間。そろそろ行かなきゃ……それじゃ、これからもよろしくね！」=“Oh, it's almost time. I've got to get going. ...... Keep up the good work!”

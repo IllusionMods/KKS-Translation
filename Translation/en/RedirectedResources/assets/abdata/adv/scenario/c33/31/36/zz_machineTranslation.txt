@@ -2,5 +2,5 @@
 「そうだなぁ……うーん、[H名]さんと遊びたくて誘ったんだけど、実は何をしようかは特に考えてなくて……」=“I suppose... hmmm, I invited you out to play, [H名], but I didn't actually have a specific idea of what we'd be doing.”
 「あら、そんなに私と遊びたかったのかしら？」=“Oh, you wanted to play with me that badly?”
 「まあ、折角こんないいとこに来たんだしね」=“I mean, why waste a trip to such a nice place you know?”
-「ふふっ、思ってたより仕方ない人ね……そういうときは、一緒に何をするか考えればいいのよ？」=Hmm, I can't help it more than I expected ... In that case, what should I do together?
+「ふふっ、思ってたより仕方ない人ね……そういうときは、一緒に何をするか考えればいいのよ？」=“Hmm, I can't help it more than I expected ... In that case, what should I do together?”
 「そ、そうだね……二人で考えてみよっか」=“R-right... let's see what we can figure out together.”

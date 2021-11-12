@@ -1,1 +1,1 @@
-「おはようございます、よく眠れましたか？」=Good morning. Did you sleep well?
+「おはようございます、よく眠れましたか？」=“Good morning. Did you sleep well?”

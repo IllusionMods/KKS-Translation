@@ -1,5 +1,5 @@
-「ここにあるオイルは、肌にいいらしいよ」=These oils are supposed to be good for your skin.
-「へぇ……使ってもいいのか？」=Hey, is it okay if I use ......?
-「自由に使っていいみたい。良かったら、俺が塗ってあげようか？」=It's free to use. I can paint it for you if you like.
-「いいのか？　だったら、頼むぜ」=Are you sure?　I'll take care of it.
-「うん、任せてよ」=Yeah, I got it.
+「ここにあるオイルは、肌にいいらしいよ」=“These oils are supposed to be good for your skin.”
+「へぇ……使ってもいいのか？」=“Hey, is it okay if I use ......?”
+「自由に使っていいみたい。良かったら、俺が塗ってあげようか？」=“It's free to use. I can paint it for you if you like.”
+「いいのか？　だったら、頼むぜ」=“Are you sure?　I'll take care of it.”
+「うん、任せてよ」=“Yeah, I got it.”

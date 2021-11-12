@@ -1,4 +1,4 @@
-「どう？　上手くいってる？」=How's it going?　How's it going?
-「いえ、中々難しいですね」=No, it's very difficult.
-「あー……まぁ最初は仕方ないよねぇ、何度か作らせてもらって慣れていこうよ」=Oh ......, well, it can't be helped at first. Let's make a few and get used to it.
-「そうですね、精進します」=Yes, I do. I'll do my best.
+「どう？　上手くいってる？」=“How's it going?　How's it going?”
+「いえ、中々難しいですね」=“No, it's very difficult.”
+「あー……まぁ最初は仕方ないよねぇ、何度か作らせてもらって慣れていこうよ」=“Oh ......, well, it can't be helped at first. Let's make a few and get used to it.”
+「そうですね、精進します」=“Yes, I do. I'll do my best.”
