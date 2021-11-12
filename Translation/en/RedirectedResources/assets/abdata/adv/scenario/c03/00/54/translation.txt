@@ -9,7 +9,7 @@
 「ふふーっ、あなたがしたいことで、嫌なことなんてあるはずないです♪　どんな呼び方でも平気なのですよ」=“Fufu-! There's nothing you could do that I wouldn't like♪ It doesn't matter what you want me to call you.”
 「ありがとう！　それじゃまずは俺から呼んでみるから」=“Thank you! Okay, now I'll call you by something.”
 「は、はいっ！　ど、ドキドキするですっ！」=“Y-yes! I-I'm super excited!”
-「……[Hあだ名]」=“...[Hあだ名].”
+「……[Hあだ名]」=“...[Hあだ名]”
 「わぁぁっ！　え、えっとっ……では、私もっ。……[Pあだ名]」=“Waaaa! E-er, um...my turn I guess... [Pあだ名].”
 「おお、新鮮！　こうやって呼び合うの、いいね。[Hあだ名]!」=“Oooh, so fresh! It's great to call each other by nicknames, [Hあだ名]!”
 「はいー、恥ずかしいですけど……呼ばれるだけでドキドキするなんて嬉しいです」=“Yes- but it's embarrassing... I'm happy that it excites you to be called by a nickname.”

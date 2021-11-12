@@ -3,7 +3,7 @@
 「も～、何でもそっちに結び付けるの禁止！　愛称、二人で呼び合うの」=You're my grandpa now." "Moo~, you can't link everything to that!　We call each other by our nicknames.
 「あ、いいね！」=Oh, yeah!
 「私はもう考えてきたんだ～。彼女が愛情たっぷりに呼んであげるね」=I've already thought of that! I've already thought about it. - She'll call you lovingly.
-「[Pあだ名]」=[Pあだ名].
+「[Pあだ名]」=“[Pあだ名]”
 「おお……なんかいいね。あとすごく照れる」=Oh, ......, that's nice. It's also very embarrassing.
 「ホント？　私のことも愛称で呼んでみて！」=Really?　You can call me by my nickname, too.
 「それじゃあ……[Hあだ名]」=Well then... [Hあだ名]

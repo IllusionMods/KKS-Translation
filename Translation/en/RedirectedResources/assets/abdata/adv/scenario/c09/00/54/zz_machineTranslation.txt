@@ -4,7 +4,7 @@
 「愛称……？　そんくらい別にいいわよ」=Nickname ......?　I don't mind that.
 「ありがとう！　じゃあ、俺の方で決めてあるから、呼んでくれる？」=Thank you!　I've thought of a nickname for [H], so I'll call him that.
 「あたしが決めるんじゃないのね……まぁいいけど。それで、なんて呼び方？」=I don't think it's up to me. ...... Oh well. So what do you call it?
-「[Pあだ名]」=[Pあだ名].
+「[Pあだ名]」=“[Pあだ名]”
 「なっ……なによソレ！？　そんな呼び方イヤよ！」=I don't like it when you call me that!　I don't like it when you call me that!
 「まぁまぁそう言わずに……呼んでくれたら今度お昼おごるよ、デザートだって付ける！　あと考えた愛称も呼ぶから」=If you call me ......, I'll buy you lunch sometime, and I'll even buy you dessert!　And I'll call you the nickname I came up with.
 「うぐっ、そんなモノで釣るなんて卑怯よ……」=Ugh, it's not fair to catch you with that thing. ......

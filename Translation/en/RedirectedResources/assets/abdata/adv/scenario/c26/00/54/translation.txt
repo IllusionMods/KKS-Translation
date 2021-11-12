@@ -10,8 +10,8 @@
 「それでもいいんだ……お願いします！」=“C'mon... please? For me?”
 「……よくわからないけど、わかった」=“...I'm not sure.”
 「ありがとう。……じゃあ早速、俺から呼びかけるね」=“Okay, fine. ...I'll start calling you that from now on”
-「[Hあだ名]……」=“[Hあだ名]……”
-「……[Pあだ名]」=“……[Pあだ名].”
+「[Hあだ名]……」=“[Hあだ名]...”
+「……[Pあだ名]」=“...[Pあだ名]”
 「おお……じゃっかん気恥ずかしい気もするけど、いい……」=“Oh... That's kind of embarassing, but it has a nice ring to it...”
 「……何だか、すごく嬉しそう。……また、呼んであげようか？」=“...Can you say it again?”
 「本当？　それじゃあ、是非呼んでほしいな！」=“Are you sure? Okay, but you have to call me by my nickname, too!”

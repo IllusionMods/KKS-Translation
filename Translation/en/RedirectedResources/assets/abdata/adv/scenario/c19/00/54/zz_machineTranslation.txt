@@ -7,8 +7,8 @@
 「大丈夫。むしろこれがいいんだ」=It's okay. I like it that way.
 「……わかった、やってみる。あっ、ところで私の愛称は……？」=...... Okay, I'll do it. Oh, by the way, what's my nickname, ......?
 「もちろん、ちゃんと考えてるよ。それじゃあ、呼ぶからね」=Of course, I'm thinking about it. I'll call you then.
-「[Hあだ名]」=[Hあだ名]
-「……[Pあだ名]」=...[Pあだ名]
+「[Hあだ名]」=“[Hあだ名]”
+「……[Pあだ名]」=“...[Pあだ名]”
 「……呼んじゃった。すごく胸がドキドキしたよ」=I called ....... It made my heart pound so hard.
 「はは、確かに。普段と違うからちょっと恥ずかしかったね」=Haha, that's true. It's a little embarrassing, isn't it?
 「でも、何だか嬉しい気持ちになれたな。よかったら、またやってもいい？」=But it made me feel happy. Can I do it again if you want?

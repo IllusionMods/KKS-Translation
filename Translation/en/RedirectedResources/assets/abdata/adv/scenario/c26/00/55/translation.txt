@@ -6,7 +6,7 @@
 「……どんなのがいいんだろう？」=“...What are you thinking?”
 「そう難しく考える事ないんじゃないかな。直観というか、感覚でさ」=“I'm not sure yet. It should be something I can remember easily.”
 「なるほど……わかった。じゃあ……」=“I see... okay. Well, how about...”
-「……[Pあだ名]」=“……[Pあだ名].”
+「……[Pあだ名]」=“...[Pあだ名]”
 「おー、いいんじゃないかな。俺は好きだよ」=“Oh, that's nice. I like it.”
 「……あなたは、思いついた？」=“...Did you come up with that on your own?”
 「うーん……[Hあだ名]、なんてどう？」=“Hmm... how does [Hあだ名] sound to you?”

@@ -9,7 +9,7 @@
 「……わ、わかりました……でも、不幸がうつっても知りませんからね？」=...G-Got it... But, don't blame me if my bad luck spreads to you, okay?
 「よく分からないけど、ありがとう。[H]の愛称も考えてきたんだ。だから呼び合おうよ」=I don't really get it, but thanks. I've always thought of one for you, [H]. That's why, let's call each other them.
 「は、はい。では……[Pあだ名]」=O-Okay. Well then... [Pあだ名].
-「[Hあだ名]」=[Hあだ名].
+「[Hあだ名]」=“[Hあだ名]”
 「な、なんでしょうかこの気持ちは……不思議な感じです」=W-What is this feeling... it feels strange.
 「そうだね。でも俺はけっこう気に入ったな。[H]はどうかな？」=It does. But I like it. What about you?
 「……その悪くはなかったと思います」=... I don't think it felt bad.

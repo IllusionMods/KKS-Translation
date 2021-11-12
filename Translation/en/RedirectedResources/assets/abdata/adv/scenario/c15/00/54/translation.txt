@@ -9,7 +9,7 @@
 「そういうことならしかたないな！　うん、あたしにまかせろー！」=“Well, if that's the case, it can't be helped! Yeah, I'll handle it-!”
 「心強い返事をありがとう！　それじゃあ、俺から呼びかけるよ」=“Thanks so much for the reassuring reply. Alright then, I'll call you...”
 「[Hあだ名]……」=“[Hあだ名]...”
-「……[Pあだ名]」=“...[Pあだ名].”
+「……[Pあだ名]」=“...[Pあだ名]”
 「おお、若干照れくさいけど、いい……」=“Ohhh, I'm kinda embarrassed, but that's nice...”
 「幸せそうな顔してるなー」=“You look happy-”
 「……うん、すごく幸せ……」=“...yeah, I'm really happy...”

@@ -10,7 +10,7 @@
 「なーなー、あたしのまだー？」=“Na- na- got mine yet?”
 「ちょっとだけ待って。えーと…………よし、出来たよ……じゃあ、呼び合ってみようか」=“Just give me a second. Er, um... right, I got it... so, let's say them out loud.”
 「おー！　……[Pあだ名]」=“Ohh-! ...[Pあだ名].”
-「[Hあだ名]」=“[Hあだ名].”
+「[Hあだ名]」=“[Hあだ名]”
 「……確かになんだか、仲が深まった気がするぞ！」=“...there we go. I certainly feel that our relationship has deepened!”
 「うん……思ったより効果がありそうだね」=“Yeah... it's working better than I expected.”
 「なー、また呼んでみてもいいか？」=“Hey, can I call you that again?”

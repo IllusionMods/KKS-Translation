@@ -4,8 +4,8 @@
 「え、そうなの？　実は俺もそろそろ愛称呼びしたいなーと思って、考えたりしてたんだ」=Oh, really?　Actually, I've been thinking that I'd like to start calling you by your nickname.
 「お揃いで嬉しいな。聞かせてくれる？　俺も呼ぶからさ」=I'm glad we're together. Can you tell me about it?　I'll call you.
 「うん。えっと……じゃあ、言うね」=Yeah. Let's see, ......, I'll tell you.
-「……[Pあだ名]」=...[Pあだ名]
-「[Hあだ名]」=[Hあだ名]
+「……[Pあだ名]」=“...[Pあだ名]”
+「[Hあだ名]」=“[Hあだ名]”
 「うふふ……そんないい愛称がもらえるなんて、嬉しい」=I'm so glad you gave me such a good nickname, .......
 「あはは……おおげさだよ」=Hahaha ......, you're exaggerating.
 「ううん、大げさなんかじゃないよ……やっぱり私、あなたの恋人でよかった」=No, I'm not exaggerating. ...... I'm glad I'm your girlfriend.

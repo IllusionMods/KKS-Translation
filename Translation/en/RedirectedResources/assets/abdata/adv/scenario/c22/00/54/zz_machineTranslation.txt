@@ -6,7 +6,7 @@
 「ううんううん、全然ダメじゃないよ！　君がそうして欲しいなら……私もそうしたいもん」=No, no, no, no, not at all!　If that's what you want, that's what ...... I want.
 「やった！　えーっと……それじゃまずは俺から呼ぶね」=Yes!　Let's see, ......, I'll call you first.
 「う、うん……お願いします……」=Uh, yeah, ......, please .......
-「[Hあだ名]」=[Hあだ名]
+「[Hあだ名]」=“[Hあだ名]”
 「はぅっ！？　あ、あのっ……それじゃ……[Pあだ名]」=What?　Oh, um, ...... then ......[Pあだ名]
 「わぁ、ありがとう！　すごく嬉しいよ、[Hあだ名]!」=Wow, thank you!　I'm so happy for you, [nickname]!
 「うぅぅ……わ、私は恥ずかしいよぅ……でもでも、そうやって呼び合うと、特別な感じがして……幸せかも」=Ugh ......, I'm so embarrassed ......, but when we call each other that, it makes me feel special ...... and happy.

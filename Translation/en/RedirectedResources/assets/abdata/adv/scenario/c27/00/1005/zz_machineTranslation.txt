@@ -15,6 +15,6 @@
 「……誘わない方がよかったかな？」=...... Maybe I shouldn't have asked her?
 「そ、そんなことない！　私は照れて変なことを言っちゃうこともあるけど……」=No, you wouldn't!　I get embarrassed and say weird things sometimes. ......
 「あんたが傍にいてくれて……嫌なんてことは、絶対にないから……」=I'm never not ...... happy to have you around.
-「[H名]……」=[H名]......
+「[H名]……」=“[H名]...”
 「……だから、これからも……色んなことに誘ってほしいわ」=...... So I hope you'll continue to invite me to ...... all sorts of things.
 「うん、わかったよ！」=Yeah, I got it!

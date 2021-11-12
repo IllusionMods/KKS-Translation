@@ -7,7 +7,7 @@
 「自分でもわかってるんだけど、どうしても[H]に呼んでほしいんだ」=I know it, but I really want you to call me H.
 「……わ、わかりました。……私、やります！」=...... I understand. I'll ...... do it!
 「ありがとう！　[H]の愛称も考えてきたから、ちょっと呼んでみるね」=Thank you!　[I've been thinking of a nickname for you, so I'll call you that.
-「[Hあだ名]」=[Hあだ名]
+「[Hあだ名]」=“[Hあだ名]”
 「あぅ……その……[Pあだ名]」=Oh ...... that ......[Pあだ名]
 「うぅ……キスするよりも恥ずかしいかもです……」=Ugh ......, that's probably more embarrassing than kissing .......
 「あはは……でも可愛かったよ。それに呼んでもらえてすっごく嬉しかった」=Hahaha ...... was cute too. And I was so happy to be invited.

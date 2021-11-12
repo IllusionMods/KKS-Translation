@@ -13,7 +13,7 @@
 「おっとそいつは大変だ。これからもずっと[H名]のそばにいたいからね」=“Oooh dang, I better hurry up and get on board then. Wouldn't want to leave you forever alone in space, now would I?”
 「歯の浮くような台詞ね。でも、今だけは許してあげる」=“That's one cheesy line you got there. But, I'll let it slide this one time.”
 「私も同じ気持ちだもの。これからもずっと、あなたのそばにいたい」=“Because I feel the same way too. I want to be with you, from now till forever.”
-「[H名]……」=[H名]......
+「[H名]……」=“[H名]...”
 「静かな夜ね。波の音しか聞こえないわ。まるで世界が止まったかのよう……」=“Quiet night, don't you think? Only the sound of the waves. It's as if the world had stopped...”
 「たとえ世界が今日終わっても、最後まで[H名]のそばにいるよ」=“Even if the world were to end today, I'd be by your side until the end, [H名].”
 「くすっ。ありがと」=*Chuckles* “Thank you.”
