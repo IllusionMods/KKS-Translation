@@ -31,7 +31,7 @@
 「これからご飯食べない？」=Do you want to have dinner now?
 「ああ、いいぜ！　ちょうど腹を空かせてたんだ」=Yeah, sure!　I'm starving.
 「今はそんな空いてないな。悪い、一人で食べてくれ」=I'm not that hungry right now. I'm sorry, you'll have to eat alone.
-「おっす、なんか話でもあるのか？」="Hey, you've got something to tell me?"
+「おっす、なんか話でもあるのか？」=Hey, you've got something to tell me?
 「おう、お前は元気そうだな」=Oh, you're looking good.
 「音楽とかよく聞いたりするの？」=Do you listen to a lot of music?
 「とりあえず流行は押させてるぞ。カラオケに誘われてもバッチリだぜ」=I keep up with the latest trends. If someone asks me to karaoke, I'm good.
@@ -78,7 +78,7 @@
 「おお、サンキュー！　一人だとどうしてもやる気が出なくてさ……助かるぜ」=Oh, thanks!　I can't seem to get motivated when I'm alone. ...... Thanks.
 「ダメか……また今度付き合ってくれたら嬉しいぜ」=No? ...... I'd be happy to go out with you sometime.
 「そろそろ、ご飯にしない？」=Maybe we should go out for dinner.
-「いいね～！　誰かと食べた方がご飯は美味しいしな！」="Great!　Food tastes better when you eat it with someone else!"
+「いいね～！　誰かと食べた方がご飯は美味しいしな！」=Great!　Food tastes better when you eat it with someone else!
 「悪い、まだそこまで空いてないんだ」=Sorry, I'm not that hungry.
 「まだメシを食ってないなら、一緒に食べようぜ」=Well, if you haven't eaten yet, I'll join you.
 「よし、決まりだな！　さ～て、今日は何を頼むかな～」=All right, that's it!　Now, what can I get you today?
@@ -109,7 +109,7 @@
 「好きって言い合って、照れた方が負けってゲームしない？」=Why don't we play a game where we tell each other we like each other and the one who gets embarrassed loses?
 「や、やらないぞ！　私が負けるに決まってるからな！」=No, I'm not!　I'm gonna lose!
 「あぁ、もう時間か……また後でな！」=Oh, time to go. ...... See you later!
-「話したりないが……こればっかりは仕方ねぇか」="I don't want to talk about it, but... I guess I can't help it."
+「話したりないが……こればっかりは仕方ねぇか」=I don't want to talk about it, but... I guess I can't help it.
 「わ、悪い……ちょっと心の準備が出来てなくて……」=I'm sorry. ...... I'm just not ready for this. ......
 「おう！　どこでも私は付き合うぜ！」=Hey!　I'll go with you anywhere!
 「ちょっと島を散歩しようぜ」=Let's go for a walk around the island.

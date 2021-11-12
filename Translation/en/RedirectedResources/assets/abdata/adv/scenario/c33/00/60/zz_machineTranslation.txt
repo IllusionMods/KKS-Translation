@@ -1,6 +1,0 @@
-「ねぇ、いる……？」=Hey, are you there, ......?
-SELECTION:「返事をする」=Answer her
-SELECTION:「……」=...
-「ふふっ、お邪魔するわね」=Hmm, I'm sorry to bother you.
-「あら、あなたの愛しい彼女が部屋に来たのよ？　私が何を求めているか……わかってるわよね？」=Oh, your lovely girlfriend came to my room, didn't she?　You know what I'm looking for ......, don't you?
-「……もう、寝ているのかしら？　仕方ないわね……」=...... Is he asleep already?　I don't blame you. ......

@@ -76,7 +76,7 @@
 「あのね、一緒に遊ばない？」=Hey, do you want to play with me?
 「えへへ、よかったぁ。それじゃあ何をするか、二人で決めようね」=I'm sorry. We'll decide what we're going to do.
 「ダメなの？　うーん、じゃあ他のお友達を誘うかなぁ……」=No?　Well, maybe I'll invite some other friends. ......
-「体験コーナーに行こうと思うんだけど、一緒にどうかな？」=I'm thinking of going to the hands-on area. Would you like to join me?
+「体験コーナーに行こうと思うんだけど、一緒にどうかな？」=“I'm thinking of heading to the experience corner... how about we do it together?”
 「うん、付いていくねぇ。二人でした方が楽しいと思うし」=Yes, I'll go with you. I think it would be more fun if we did it together.
 「ちょっと前にやってきたから、遠慮しておくね」=I've been here a while, so I'll pass.
 「興味のある体験があるから、一緒に申し込んでほしいなぁ」=There's something I'm interested in. I'd like you to sign up with me.
@@ -135,5 +135,5 @@
 「あなたと一緒にご飯を食べたいなぁ」=I'd love to have dinner with you.
 「やったぁ！　ごっはん～、ごっはん～♪」=Yes!　Gosh, gosh, gosh, gosh.
 「そっかぁ……お腹が空いてないなら、しかたないねぇ……」=I see. ...... If you're not hungry, you're not hungry. ......
-「あのさ、俺の部屋に来てくれない？」=Hey, can you come to my room?
+「あのさ、俺の部屋に来てくれない？」=“Um, hey, why don't you come to my room?”
 「うんっ！　もちろんいいよぉ」=Yes!　Of course I am.

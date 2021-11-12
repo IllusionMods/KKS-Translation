@@ -1,6 +1,0 @@
-月=Moon
-団子=Dumpling
-三方=Three sides
-ススキ=Silver Grass
-和雲A=Japanese Cloud A
-和雲B=Japanese Cloud B

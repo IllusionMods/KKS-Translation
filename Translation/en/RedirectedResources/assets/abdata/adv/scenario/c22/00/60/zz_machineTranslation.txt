@@ -1,5 +1,5 @@
 「あのね……部屋まで来ちゃったんだけど、入ってもいいかな？」=I've come to the ...... room. Can I come in?
-SELECTION:「返事をする」=Answer her
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
 「いいけど、どうかしたの？」=What's wrong? What's wrong?
 「なんだか寂しくなっちゃって、キミと一緒にいたいなぁって……」=I'm feeling lonely, and I want to be with you. ......

@@ -1,7 +1,0 @@
-「ねぇ……部屋にいる？」=“Hey... are you in there?”
-SELECTION:「返事をする」=Answer her
-SELECTION:「……」=...
-「うん？　どうかした？」=Yeah?　What's wrong?
-「なんだか急にあなたの顔を見たくなって……」=I suddenly feel like I want to see your face. ......
-「朝まで、ずっと傍にいてもいいかしら……？」=Do you mind if I stay with you ...... all morning?
-「……留守みたいね。残念だわ」=I'm going to take the day off." "It looks like ...... is not home. That's a shame.

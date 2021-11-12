@@ -1,5 +1,5 @@
 「ねぇ……部屋にいる？」=“Hey... are you in there?”
-SELECTION:「返事をする」=Answer her
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
 「どうしたの、何かあった？」=What's wrong, what's wrong?
 「なんていうか……ちょっと一人でいるのが寂しくなっちゃったんだよねー」=What can I say? ...... I'm feeling a little lonely being alone.

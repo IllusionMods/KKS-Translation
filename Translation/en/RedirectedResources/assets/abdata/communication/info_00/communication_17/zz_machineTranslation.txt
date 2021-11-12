@@ -111,7 +111,7 @@
 「一緒に観光に行かない？」=Do you want to go sightseeing with me?
 「観光？　別に構わないけど」=Sightseeing?　I don't mind.
 「……遠慮しておくわ」=....... I'll pass.
-「俺と一緒に遊ばない？」=Do you want to hang out with me?
+「俺と一緒に遊ばない？」=“Why not come play with me?”
 「まぁ、付き合ってあげてもいいわ」=Well, I'll go with you if you want.
 「あなたと二人で？　……悪いけど、止めておくわ」=Just you and me?　...... I'm sorry, but I don't think so.
 「一緒に何か体験してみない？」=Why don't we try something together?

@@ -1,5 +1,5 @@
 「遅い時間にごめんなさい。今、大丈夫かしら？」=I'm sorry it's so late. Is this a good time?
-SELECTION:「返事をする」=Answer her
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
 「問題ないけど、どうかしたの？」=No problem. What's wrong?
 「えっと、大事な用事があるのよ……アナタと、私にしかできない事なんだけど……」=Well, I have something important to do, and it's something that only you and I can do. ......

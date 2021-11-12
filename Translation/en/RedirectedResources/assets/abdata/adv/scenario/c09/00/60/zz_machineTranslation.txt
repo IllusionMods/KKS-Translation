@@ -1,5 +1,5 @@
 「ねえ……ちょっと部屋にいれてちょうだい」=Hey, ......, let me in your room for a minute, please.
-SELECTION:「返事をする」=Answer her
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
 「こんな時間にどうしたの？」=What are you doing here at this hour?
 「その……えっと……正直に言うと、あんたに会いたくなったの」=That ......, um, ......, I'm gonna be honest with you, I miss you.

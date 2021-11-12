@@ -1,8 +1,8 @@
 係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We'll be lighting the campfire now, so all participants please form a pair.”
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please join up in pairs.”
 「キャンプファイヤーだって。参加しようか？」=It's a campfire. Shall we join?
 「……マジかよ。ま、まあ、いいけどよ」=...... Really? Yeah, well, that's okay.
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you paired off? ...then I'll start the music as soon as everyone's ready.”
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“...I hope everyone's got a partner? Well then, I'll put on the music as soon as you're ready.”
 「……へー」=.......
 「どうしたの？　静かになっちゃったけど」=What's wrong?　You've gone quiet.
 「べ、別に、ちょっと……あれだ。見入っちまってただけ」=I'm not. I'm just a little ...... confused. I just got caught up in it.

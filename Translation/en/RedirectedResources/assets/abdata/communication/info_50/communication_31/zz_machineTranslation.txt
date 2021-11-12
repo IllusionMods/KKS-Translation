@@ -51,7 +51,7 @@
 「好きな人の好みに合わせて、服や髪型を変えたりする？」=Do you change your clothes or hairstyle according to the taste of the person you like?
 「いいや。今の私のまま振り向かせてやるさ」=No, I don't. No. I'm going to turn him on as I am now.
 「まぁ……少しは、意識するかもしれんな。あくまで少しだぞ？」=Well, ...... I might be a little more conscious. Just a little, okay?
-「いや、意外かもしれんが、リードされたいと思っているぞ」="No, it may surprise you, but I like to be led."
+「いや、意外かもしれんが、リードされたいと思っているぞ」=No, it may surprise you, but I like to be led.
 「もうこんな時間か。では、またな」=It's getting late. I'll see you later.
 「悪くない時間だった。またな」=Not a bad time. See you.
 「俺、[H名]のことが好きだよ」=I like [H名] a lot.

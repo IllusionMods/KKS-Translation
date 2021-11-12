@@ -3,7 +3,7 @@
 「どうかしたの？」=What's the matter?
 「南の島の海辺の波打ち際を、恋人と二人で歩いてるってシチュエーションのことよ」=I'm talking about the situation where you and your girlfriend are walking along the beach with the waves lapping at the shore on a tropical island.
 「こんな風にロマンチックなデートをできるとは思ってなかったから」=I never thought I'd have a romantic date like this.
-「どうして？」=Why?
+「どうして？」=“Why's that?”
 「あなたも知っての通り私はこんな性格でしょう？」=You know me, don't you?
 「ひねくれ者なんだから、そういうのも仕方ないじゃない」=You can't help it if you're cynical.
 「でも、今日の[H名]さんはずいぶん素直だよ」=But you're being very honest today, [H名].

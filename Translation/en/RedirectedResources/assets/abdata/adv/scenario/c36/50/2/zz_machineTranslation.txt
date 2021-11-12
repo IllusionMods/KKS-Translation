@@ -34,7 +34,7 @@
 「い、いや、言います！　言わせてください！！」=No, no, I'll tell you!　I'll tell you! I'll tell you!
 「そう。なら一度だけチャンスをあげるから、命じられたことをしてみせなさい」=Yes. Then I'll give you one chance to do what you're told.
 「すぅー……はぁ……。やばい、これは恥ずかし過ぎる」=Soooo ...... haha ....... Oh no, this is too embarrassing.
-「でも、[H名]さんと付き合えるなら……！」="But if I can go out with [H name], then...!"
+「でも、[H名]さんと付き合えるなら……！」=But if I can go out with [H name], then...!
 「[H名]さん、好きだぁぁぁぁっ！！」=I like you, [H名]!
 「そのＳ気質も、ときどき人を蔑んだように見つめてくるところも、それでいて実は優しい気がしないこともないところも、好きだぁぁっ！！」=It's a great way to make sure you're getting the most out of your vacation.
 「……ッ。ふぅん、なかなか悪くないわね。下僕のくせに」=....... Hmm, that's not bad. Not bad for a servant.

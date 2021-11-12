@@ -1,5 +1,5 @@
 「ごめんなさい、急に来てしまって……入っても、いいですか？」=I'm sorry I came in so suddenly. Can I come in ......?
-SELECTION:「返事をする」=Answer her
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
 「いいけど、何かあったの？」=Okay, what's wrong?
 「私達、恋人同士なのですから……もっと一緒に居たいと思うのは、いけない事でしょうか」=Since we are lovers, is it wrong to want to ...... spend more time together?

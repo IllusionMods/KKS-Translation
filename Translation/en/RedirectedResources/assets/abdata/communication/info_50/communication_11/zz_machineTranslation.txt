@@ -294,7 +294,7 @@
 「うふふ、そういう風に思わせる演技をしてるのかもしれないわよ？　なんて、そんな器用なことは出来ないわ」=Maybe you're trying to make me think that way.　I can't be that clever.
 「ごめんなさいね、今は他の話がしたいわ」=I'm sorry, but I need to talk to you about something else right now.
 「夜中に聞こえて来たんだけど……」=I heard something in the middle of the night. It was .......
-「うふふ、お化けなんていないから大丈夫よ」="There's no such thing as ghosts."
+「うふふ、お化けなんていないから大丈夫よ」=There's no such thing as ghosts.
 「たまたま知ったんだけど……」=I just happened to know about .......
 「教えてくれてありがとう。私もその知識を活かしてみるわ」=Thanks for the tip. I'll put that knowledge to good use.
 「もし結婚したとしても、今と変わらない関係でいたいよね」=If we do get married, we'll still have the same relationship, right?

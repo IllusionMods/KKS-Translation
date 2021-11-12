@@ -1,7 +1,0 @@
-「ねぇ、いる……？」=Hey, are you there, ......?
-SELECTION:「返事をする」=Answer her
-SELECTION:「……」=...
-「いるよ。どうしたの？」=I'm here. What's the matter?
-「急にごめん、お邪魔するわね」=I'm sorry to bother you.
-「あはは、ふとキミの事を思い出しちゃったらつい我慢出来なくなっちゃって……ね、お願い……」=Haha, I was just thinking about you and I couldn't resist. ......, please. ......
-「……いない、か……」=Are you there, ......, or ......?

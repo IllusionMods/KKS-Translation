@@ -1,7 +1,7 @@
 「アナタ、いますカー……？」=Are you there, ......?
-SELECTION:「返事をする」=Answer her
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-「どうしたの？」=Something wrong?
+「どうしたの？」=“What's going on?“
 「いましタ、オジャマシマース」=Yes, sir, I'm here.
 「すみまセン、とてもアナタに会いたくなりまシタ。傍にいてイイヨネ……？」=I'm sorry, I miss you so much. Do you mind if I stay with you at ......?
 「コレはいないデス……どこ行きましタ……？」=This is no death ...... where did you go ......?
