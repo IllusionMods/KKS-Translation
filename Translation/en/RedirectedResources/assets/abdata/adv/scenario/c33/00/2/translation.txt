@@ -36,7 +36,7 @@
 「好きな人に嘘の自分を伝えたがる人なんて……まぁ、世の中にはいるかもしれないけど、少なくとも私は違うから」=“Who would want to tell a lie about themselves to someone they like... well, there may be people out in the world like that, but at least I'm not one of them.”
 「その好きな人っていうのは、恋愛的な意味だよね？　その、愛玩動物的な意味ではなく……」=“When you say you like someone, you mean romantically, right? Um, not in any... lapdog sense...”
 「えっ？　くすくすっ、やっぱり勘違いされやすいのね、私って」=“Eh? *Giggles* It's so easy to misunderstand me, isn't it?”
-「もちろん恋愛的な意味よ。そろそろ理由も聞いてみようかしら、どうして愛玩動物的な意味で愛されている可能性が浮上していたの？」=
+「もちろん恋愛的な意味よ。そろそろ理由も聞いてみようかしら、どうして愛玩動物的な意味で愛されている可能性が浮上していたの？」=“In a romantic sense, of course. Maybe you can explain why there was a possibility of being loved in the lapdog sense?”
 「それは……[H名]さんってすごく大人っぽいから、男として見られてない可能性があると……」=“That's because... you're very mature, [H名]. I was telling myself that it could be possible that you didn't see me as a man...”
 「でも、好かれてはいるようだから、もしかしたら可愛い猫か犬みたいに思われてるかもしれないって？」=“But you did seem to like me, so then I thought you'd see me like a cute cat, or dog, you know?”
 「そう言うと身もふたもないけど、まあ可能性ぐらいはあるかなと」=“I know that's kind of a stretch to say that, but I thought it was at least possible.”
