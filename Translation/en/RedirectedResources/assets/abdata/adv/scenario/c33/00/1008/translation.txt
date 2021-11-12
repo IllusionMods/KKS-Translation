@@ -11,7 +11,7 @@
 「[H名]さんが幸せって言ってるの聞いたら、少しでも長くいたくなっちゃって。じゃあもういっそ住もうかなと」=“When I heard you say you'd be happy, [H名], I wanted to stay there as long as I could. So I figured I'd just live there.”
 「……私のこと、想ってくれているのね」=“...you were thinking about me when you said that huh.”
 「ちゃんと想えてる？」=“How are so sure that's the case?”
-「私の幸せを守ろうとしてくれたのに、想えていないはずないじゃない？」=“You were trying to protect my happiness. How could you not have been thinking about me?“
+「私の幸せを守ろうとしてくれたのに、想えていないはずないじゃない？」=“You were trying to protect my happiness. How could you not have been thinking about me?”
 「あはは、そうだよね。答え合わせみたいなことしてごめん」=“Ahaha, I understand. Sorry for treating this like a guessing game.”
 「お互い様よ、私もついさっき答え合わせをしたもの」=“We both have. I just checked your answer earlier too.”
 「え、ついさっきっていつ？」=“Eh, earlier when?”
@@ -21,7 +21,7 @@
 「自分でもびっくりしちゃったわ。あなたに相当惚れ込んでいるみたいね、ふふふ」=“I'm surprised, myself. I seem to have fallen quite in love with you, fufufu.”
 「俺も好きだよ。[H名]さんが幸せって言ってくれたとき、本当に嬉しかったんだ」=“I love you, too. When you said that'd be happy, [H名], it made me really happy, too.”
 「私と一緒にこの星で暮らしてくれる？」=“Will you live on this planet with me?”
-「もちろん」=“Of course.“
+「もちろん」=“Of course.”
 「なら……今だけでいいから……地球に帰るまでの間、私と結婚して」=“Then... even if it's just this moment... until we return to Earth, will you marry me?”
 「いいよ！」=“Of course!”
 「ちょっと……もしもの話だとしても、もう少し迷ってよ。本気で嬉しくなっちゃうじゃない」=“Geez... even if that was real, at least pretend to hesitate a little, will you? You're making me all happy here.”

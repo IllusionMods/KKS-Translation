@@ -34,7 +34,7 @@
 「ええ、もちろん……普通に、自然な感じがいいわね」=“Ehhh... of course... I usually prefer someone's natural feelings.”
 「うん、気遣いありがとう。すー……はー…………」=“Yeah, thanks for that. Wheeew-... haa-...” 
 「俺、君のことが好きだ。だから……付き合ってくれないか？」=“I like you. So, well... will you go out with me?” 
-「……今、キュンと来ちゃった……ふふ、胸の中で、ドキドキがすごいことになってるわ♪」=
+「……今、キュンと来ちゃった……ふふ、胸の中で、ドキドキがすごいことになってるわ♪」=“...Just now, it skipped a beat... fufu, my heart is pounding right now♪”
 「……」=“...”
 「触って確かめてもらいたいくらいよ……ふふ、どう？　ほんとに触ってみる？」=“I want you to touch me, and find out out for yourself... fufu, don't you really want to touch me?”
 「……い、いや、いいよ」=“...n-no, that's okay.”

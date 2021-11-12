@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「初めてをあなたに捧げられて、幸せです」=I feel so happy, being able to give my first time to you.
+「初めてをあなたに捧げられて、幸せです」=“I feel so happy, being able to give my first time to you.”

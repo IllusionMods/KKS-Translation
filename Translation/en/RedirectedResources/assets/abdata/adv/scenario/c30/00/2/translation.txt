@@ -30,7 +30,7 @@
 「っ……伝えたいこと？　それって……今、この状況じゃなきゃ言えないようなこと……？」=“!... something to tell me? Something... you couldn't tell me, until we were together like this...?”
 「うん、そうだよ。[H名]が言った通り……やっぱり俺って……ちょっとだけロマンチストなところがあるみたいで……」=“Yeah, that's right. Just like you said, [H名]... I guess I'm... a little bit of a romantic, after all...”
 「あ、わっ……ちょ、ちょっと待ってっ！　真剣な話よね？　だったら……きちんと心の準備して聞きたいから……」=“Ah, wa...! W-wait a minute! This is serious, isn't it? Then... let me prepare my heart first... and then tell me...”
-「すぅぅ……はぁぁ……すぅぅ……はぁぁ……」=”Wheeew... ahhhhaaaa... whewwww... ahhhaa...”
+「すぅぅ……はぁぁ……すぅぅ……はぁぁ……」=“Wheeew... ahhhhaaaa... whewwww... ahhhaa...”
 「……うん、よし。さて、どんなことかしら？」=“...yeah, right. Now, what's this all about?”
 「えっと……もうわかってると思うんだけど……実は俺……」=“Er, um... I think you already know... I'm sure, in fact...”
 「……[H名]のことが好きだ！」=“...I love you, [H名]!”

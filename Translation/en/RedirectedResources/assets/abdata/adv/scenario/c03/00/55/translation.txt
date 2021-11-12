@@ -6,7 +6,7 @@
 「はいー、私、あなたのことを愛称で呼んでみたいのですよ。それだけで新鮮な気分になれる気がするです」=“Yes- I would like to call you by a nickname. I think that's all it would take to make things feel fresh again.”
 「愛称かぁ。うん、もちろんいいよ」=“A nickname. Yeah, I don't see why not.”
 「やったぁ！　では早速失礼して……呼ぶですよ！」=“Alright! Now, if you'll excuse me, I'll try it out!”
-「……[Pあだ名]」=“...[Pあだ名].”
+「……[Pあだ名]」=“...[Pあだ名]”
 「おおお、確かに新鮮だ……ちょっとドキッとしたよ。俺も呼んでいい？」=“Ooooh, that's definitely fresh. kinda skipped a beat there. Can I call you by one, too?”
 「もちろんです！　お願いするですよ！」=“Absolutely! Please, go ahead!”
 「えーっと……[Hあだ名]」=“Er, um... [Hあだ名].”

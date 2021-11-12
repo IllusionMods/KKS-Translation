@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ありがと～♪　マジ助かるよ～、ほんっとヤバくってさ～……♪」=Thanks~♪ That's a lifesaver, for real~, I really was in a bind~...♪
+「ありがと～♪　マジ助かるよ～、ほんっとヤバくってさ～……♪」=“Thanks~♪ That's a lifesaver, for real~, I really was in a bind~...♪”

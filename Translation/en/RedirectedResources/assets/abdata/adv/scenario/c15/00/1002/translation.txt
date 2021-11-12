@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「卓球台か。ねぇ、勝負しようよ？」=A ping-pong table. Hey, wanna play?
+「卓球台か。ねぇ、勝負しようよ？」=“A ping-pong table. Hey, wanna play?”
 「勝負ー？　あはは、受けて立つぞー」=“A game-? Ahaha, you're on-”
 「おりゃー！」=“Yow-!”
 「おお、構えが本格的だ。もしかして経験者とか？」=“Ohhh, That's full-on stance. Guess you've done this before?”

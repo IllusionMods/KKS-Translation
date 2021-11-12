@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「うわっ！？　何でお前、い、いつから……！？」=Uwah--?! Why are you, s-since when...!?
+「うわっ！？　何でお前、い、いつから……！？」=“Uwah--?! Why are you, s-since when...!?”

@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「卓球で一勝負していかない？」=“Want to play some table tennis?”
-「えへへ、負けないよぉ～」=“Ehehe, I won't lose to you~“
+「えへへ、負けないよぉ～」=“Ehehe, I won't lose to you~”
 「やるからには全力でいくよ。いざ勝負！」=“I'll do my very best. Time to play!”
 「やったぁ。勝った～っ！」=“I did it. I won~!”
 「ぜぇぜぇ……ま、負けた……。まさか１点も取れないなんて」=“Yeah, yeah... well, I lost. I don't think I even scored a point.”

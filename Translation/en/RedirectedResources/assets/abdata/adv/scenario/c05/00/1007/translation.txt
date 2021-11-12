@@ -3,7 +3,7 @@
 //
 「いろいろな種類の魚が泳いでるね」=“There's a bunch of different kinds of fish swimming in here.”
 「あっ！　見て見て、大きなクラゲが泳いでる」=“Ah! Look, look... there's a big jellyfish swimming around.”
-「ゆっくりと上下に揺れながら挨拶してる。わぁ、かわいい♪」=“He's greeting us by slowly swimming up and down. Hey, he's so cute♪“
+「ゆっくりと上下に揺れながら挨拶してる。わぁ、かわいい♪」=“He's greeting us by slowly swimming up and down. Hey, he's so cute♪”
 （上機嫌だ。海の生物を気に入ったみたいだな）=(She's in a good mood. She seems to like sea creatures.)
 「クラゲって不思議だよね。泳ぐ姿を眺めてるだけで癒やされちゃう」=“Jellyfish are strange, aren't they? It's soothing by just watching them swim.”
 「まるで宇宙を泳いでるみたいだよね」=“It's like swimming in space.”

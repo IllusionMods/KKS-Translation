@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「うわっ！　お前……そんなに私の事が知りたいのか？」=Uwah--! You... You wanna know more about me that badly?
+「うわっ！　お前……そんなに私の事が知りたいのか？」=“Uwah--! You... You wanna know more about me that badly?”

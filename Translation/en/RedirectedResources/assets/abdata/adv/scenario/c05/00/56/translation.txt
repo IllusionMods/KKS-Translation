@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「すぅ……すぅ…………ん、んん……」=“Zzz.. zzz... mm, hmm...“
+「すぅ……すぅ…………ん、んん……」=“Zzz.. zzz... mm, hmm...”
 （ん、んん……何だか下半身に違和感が……？）=(Hm, hmm... my lower body feels strange somehow...?)
 「…………」=“...”
 「って……え？　え？」=“Huh... eh? Eh?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「フフ♡　Ｔｈａｎｋ　ｙｏｕ　ｆｏｒ　ｌｏｖｉｎｇ　ｍｅ♡」=Fufu♡ Thank you for loving me♡
+「フフ♡　Ｔｈａｎｋ　ｙｏｕ　ｆｏｒ　ｌｏｖｉｎｇ　ｍｅ♡」=“Fufu♡ Thank you for loving me♡”

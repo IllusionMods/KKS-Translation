@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「なんだか、私とあなたって相性がとってもいい気がするわ」=For some reason, I feel like we're really compatible, you and me.
-「本当？　そう思ってたのって俺だけじゃなかったんだ、嬉しいなぁ」=Really? I'm glad that I'm not the only one who feels that way.
-「……ね、そういうところがいいの」=...Hey, that part of you is nice.
-「え？」=Eh?
-「そういう、私との関係を心から楽しんでくれているところ、好きよ」=That part, the way you treat and enjoy your relationship with me, from the bottom of your heart, I really like it.
-「す、好きって……どういう意味？」=L-Like... in what way?
+「なんだか、私とあなたって相性がとってもいい気がするわ」=“For some reason, I feel like we're really compatible, you and me.”
+「本当？　そう思ってたのって俺だけじゃなかったんだ、嬉しいなぁ」=“Really? I'm glad that I'm not the only one who feels that way.”
+「……ね、そういうところがいいの」=“...Hey, that part of you is nice.”
+「え？」=“Eh?”
+「そういう、私との関係を心から楽しんでくれているところ、好きよ」=“That part, the way you treat and enjoy your relationship with me, from the bottom of your heart, I really like it.”
+「す、好きって……どういう意味？」=“L-Like... in what way?”
 //「ふふ、それはあなた次第よ。それじゃまた今度ね」=

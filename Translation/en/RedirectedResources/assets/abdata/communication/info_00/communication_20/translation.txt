@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「きゃっ！　あの、ここは女子トイレですよ？」=Kya! Eh, isn't this the girls' restroom?
-「きゃああっ！　み、見ないでください！」=Oh my gosh! D-don't Look!
-「ご、ごめんなさい……今、友達に呼ばれていて……し、失礼します」=S-sorry, my friend's calling me... e-excuse me...
-「すー……すー……」=Oh... cool.
-「えっ！？　……あ。そ、そっち向いてください！」=Huh!? ...Ah, what are you looking at!
-「うぅ、あの、あんまり見ないでください」=Well, don't stare so much.
-「えっと……何をするかも、着くまでナイショなんですか？」=Well... what do you do for the meantime?
-「あの、さすがにそこまでは……」=Well, that's it...
-「い、いつも話しかけて来てくれて、嬉しいです」=Thanks for always talking with me.
-「あ、あの、私とで良ければ……な、なんでもありません！」=Oh, well... it's fine with me... Eh! Forget what I said!
+「きゃっ！　あの、ここは女子トイレですよ？」=“Kya! Eh, isn't this the girls' restroom?”
+「きゃああっ！　み、見ないでください！」=“Oh my gosh! D-don't Look!”
+「ご、ごめんなさい……今、友達に呼ばれていて……し、失礼します」=“S-sorry, my friend's calling me... e-excuse me...”
+「すー……すー……」=“Oh... cool.”
+「えっ！？　……あ。そ、そっち向いてください！」=“Huh!? ...Ah, what are you looking at!”
+「うぅ、あの、あんまり見ないでください」=“Well, don't stare so much.”
+「えっと……何をするかも、着くまでナイショなんですか？」=“Well... what do you do for the meantime?”
+「あの、さすがにそこまでは……」=“Well, that's it...”
+「い、いつも話しかけて来てくれて、嬉しいです」=“Thanks for always talking with me.”
+「あ、あの、私とで良ければ……な、なんでもありません！」=“Oh, well... it's fine with me... Eh! Forget what I said!”
 //「きゃっ！？　あ、あなたでしたか……いきなりなので驚いてしまいました」=
 //「……？　なんでしょうか？」=
 //「えぇっと……何か、ご用ですか？」=

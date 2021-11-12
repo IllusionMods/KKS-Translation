@@ -13,6 +13,6 @@
 「このキーホルダー買っていきましょうか」=“Should I buy the keychain?”
 「他のは見なくていいの？」=“Don't you want to check out the others, first?”
 「うん、これが気に入ったわ」=“Yeah, I like this one.”
-「肌身離さず持ち歩いて、島の思い出をキーホルダーに詰め込むの。素敵でしょ？」=“Carry it around with you, and fill it with the memories of your island vacation. Isn't that wonderful?“
+「肌身離さず持ち歩いて、島の思い出をキーホルダーに詰め込むの。素敵でしょ？」=“Carry it around with you, and fill it with the memories of your island vacation. Isn't that wonderful?”
 「それはいい考えだね。せっかくだからペアで買おっか？」=“That's a good idea. Let's buy a matching pair, okay?”
 「ふふっ。さっそくいい思い出が作れそうね」=“Fufu! I think we're gonna make some good memories right away.”

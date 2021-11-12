@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「私、今すごく幸せだ……もっと、抱きしめて欲しい」=I'm genuinely really happy right now... hug me tighter.
+「私、今すごく幸せだ……もっと、抱きしめて欲しい」=“I'm genuinely really happy right now... hug me tighter.”

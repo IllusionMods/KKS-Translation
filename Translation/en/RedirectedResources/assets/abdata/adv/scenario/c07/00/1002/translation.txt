@@ -3,9 +3,9 @@
 //
 「[H名]は卓球とか得意なんじゃない？」=“Guessing you're pretty good at ping-pong, [H名]?”
 「自慢じゃないけど、私は女子相手じゃほとんど負けたことないぜ。勝負するか？」=“Not to boast, but I basically have never lost against other girls. You wanna play?”
-「よしっ、覚悟しろよ」=“Sure! Brace yourself.“
+「よしっ、覚悟しろよ」=“Sure! Brace yourself.”
 （構えが本気すぎ……）=(Her stance is so serious...)
-「お、お手柔らかにお願いね……」=“P-please go easy on me...“
+「お、お手柔らかにお願いね……」=“P-please go easy on me...”
 「勝ちー♪　へっへー、見たか私の実力。強すぎて悪かったな」=“I won-♪ Ehehe- You see my skills? Sorry that I was too much for you.”
 「これからは女子相手じゃなくて、向かうところ敵知らずって言うことにするか」=“From now on, instead of never losing against girls, I'm gonna say I've never lost against anyone who challenged me.”
 「ぐぬぬ、もうちょっとなんとかなると思ったのに」=“Mwah, I thought that you'd be a little better.”
@@ -15,4 +15,4 @@
 「かしこまりました、[H名]様」=“As you wish, Madame [H名].”
 「ノリノリかよ」=“Wow, you taking this seriously?”
 「[H名]様におかれましては本日もお変わりなく、大変お美しゅうございます」=“May I say that, Madame [H名], you look just as wonderful today as you've ever been.”
-「っ、や、やっぱし罰ゲームなしで！」=“O-OK, no more a punishment game!“
+「っ、や、やっぱし罰ゲームなしで！」=“O-OK, no more a punishment game!”
