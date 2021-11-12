@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私達の相性かなり良いかもしれないわね。それじゃあ、また遊びましょ？」=
+「私達の相性かなり良いかもしれないわね。それじゃあ、また遊びましょ？」=“I think we might be a pretty good match. So then, let's play again, shall we?”

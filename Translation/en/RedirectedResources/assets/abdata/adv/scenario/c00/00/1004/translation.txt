@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねえ、浜辺を散歩しない？」=
-//「綺麗な景色だね～。散歩するだけで、いい気分になれるよ」=
-//「ええ……潮風が身体にあたって……いい気持ち……」=
-//「それに……波の音も心地良い……うふふ、海をいっぱい感じちゃう♪」=
-//「うん……母なる海を感じるね」=
-//「ねえ、海を前にすると、開放的な気持ちになっちゃわない？」=
-//「開放的……？　そうかな。よくわかんないよ。どんな感じなの？」=
-//「そうね……安らぎの中で、野生の本能が燃え上がるのを感じるの。なんだか、ゾクゾクしちゃうのよね……うふふ♪」=
-//「そ、そうなんだ……あはは」=
-//「あら？　どうしたの？　顔が少し赤いわよ」=
-//「どうもしないよ。き、気にしないで……あははは……」=
-//「ん～……？　ひょっとして、変なこと考えちゃった？」=
-//「いや、別に……ただ少し、さっきの言い方が、ちょっと……」=
-//「ムラムラさせちゃった？」=
-「…………」=...
-//「うふふ、ごめんなさいね。別に、意識させるつもりはなかったのよ」=
-//「いや、その……こっちが勝手に意識しただけだから、気にしないで」=
-//「ふふ、そうやって慌てるの可愛いわね……♪　キュンと来ちゃう♪」=
-//「ああ、もう余計に照れちゃうって……」=
-//「恥ずかしがり屋さんなんだから……本当に可愛いわ」=
-//（ホントに野生の本能が、燃え上がってるって感じだ……）=
+「ねえ、浜辺を散歩しない？」=“Hey, why don't we take a walk on the beach?”
+「綺麗な景色だね～。散歩するだけで、いい気分になれるよ」=“Such a beautiful view~. Just walking here makes me feel good.”
+「ええ……潮風が身体にあたって……いい気持ち……」=“Ehhh... the ocean breeze is hitting me... it feels great...”
+「それに……波の音も心地良い……うふふ、海をいっぱい感じちゃう♪」=“And the sound of the waves is so relaxing... ufufu, I can really feel the sea round me♪”
+「うん……母なる海を感じるね」=“Yeah... I really enjoy Mother Nature.”
+「ねえ、海を前にすると、開放的な気持ちになっちゃわない？」=“Hey, one can't help but feel open-minded, when they're so close to the ocean, can they?”
+「開放的……？　そうかな。よくわかんないよ。どんな感じなの？」=“Open-minded? I suppose. I'm not sure. What do you mean?”
+「そうね……安らぎの中で、野生の本能が燃え上がるのを感じるの。なんだか、ゾクゾクしちゃうのよね……うふふ♪」=“It's, well... I can feel my wild instincts flaring up in the peace. It kind of gives me the shivers... ufufu♪”
+「そ、そうなんだ……あはは」=“Is... is that so... ahaha.”
+「あら？　どうしたの？　顔が少し赤いわよ」=“Hey? What's up? Your face is a little red.”
+「どうもしないよ。き、気にしないで……あははは……」=“There's nothing wrong. D-don't mind me... ahahaha...”
+「ん～……？　ひょっとして、変なこと考えちゃった？」=“Mmm~...? Maybe you were having funny thoughts?”
+「いや、別に……ただ少し、さっきの言い方が、ちょっと……」=“No, it's nothing... well, what you said earlier was a little...”
+「ムラムラさせちゃった？」=“Did I make you horny?”
+「…………」=...“...”
+「うふふ、ごめんなさいね。別に、意識させるつもりはなかったのよ」=“Ufufu, sorry about that. I didn't mean to make you self-conscious.”
+「いや、その……こっちが勝手に意識しただけだから、気にしないで」=“No, um... you didn't make me self-conscious. Don't worry about it.”
+「ふふ、そうやって慌てるの可愛いわね……♪　キュンと来ちゃう♪」=“Fufu, it's so cute when you get flustered like that...♪ It makes me swoon♪”
+「ああ、もう余計に照れちゃうって……」=“Ahhh, now you're making me even more embarrassed...”
+「恥ずかしがり屋さんなんだから……本当に可愛いわ」=“You're such a shy guy... it's really cute.”
+（ホントに野生の本能が、燃え上がってるって感じだ……）=(It's like her wild instincts are really on fire...)

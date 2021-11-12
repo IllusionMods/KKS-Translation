@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ありがとう。とっても満足できたわ♡」=
-//「君の手、気持ち良かったわ♪」=
-//「塗ってくれてありがとう。君は疲れてないかしら？」=
-//「えっと、やり方が分からないってわけじゃ……ないわよね？」=
+「ありがとう。とっても満足できたわ♡”」=“Thank you. That was very satisfying♡”
+「君の手、気持ち良かったわ♪」=“Your hands felt really good♪”
+「塗ってくれてありがとう。君は疲れてないかしら？」=“Thank you for spreading it on me. I hope you're not tired?”
+「えっと、やり方が分からないってわけじゃ……ないわよね？」=“Er, um, did you know how to do this... I guess not?”

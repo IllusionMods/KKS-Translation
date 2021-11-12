@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あ、カップルドリンクが頼めるみたい。ねえ、一緒に飲まない？」=
-//「……ふぅ、美味しい♪　それに可愛かったわ」=
-//「え？　可愛い……？　どういう意味……？」=
-//「君って、ストローで飲み物を飲む時、目を閉じちゃうクセがあるみたいね」=
-//「キスを待ってるみたいで可愛かった……本当にキスしちゃいそうだったわ♪」=
-//「そ、そう？　気づかなかったな」=
-//「うふふ、鈍感ね。でもそういうところ、素敵よ」=
-//「か、からかわないでよ」=
-//「可愛すぎて、ついからかいたくなっちゃうのよね～……ふふふ」=
-//「それで……ドリンクの味は、どうだった？」=
-//「あら、どうだったかしら。憶えてないわね。あなたの顔を見ることに一生懸命になりすぎちゃったみたい」=
-//「うう、恥ずかしくなってきた……」=
-//「ふふ……カップルドリンクっていいわね。あなたの魅力を再確認できちゃうんだもの……」=
-//「さあ、それじゃまた可愛いお顔、見せてちょうだい♪」=
-//「そんなこと言われるの飲みにくくなっちゃうって……」=
+「あ、カップルドリンクが頼めるみたい。ねえ、一緒に飲まない？」=“Ah, I think we can order a couple's drink. Hey, why not share one?”
+「……ふぅ、美味しい♪　それに可愛かったわ」=“...fuu, delicious♪ And you're so cute.”
+「え？　可愛い……？　どういう意味……？」=“Eh? Cute...? What do you mean...?”
+「君って、ストローで飲み物を飲む時、目を閉じちゃうクセがあるみたいね」=“When you drink from a straw, it seems you have the habit of closing your eyes.”
+「キスを待ってるみたいで可愛かった……本当にキスしちゃいそうだったわ♪」=“It was so cute, like you were waiting to be kissed... and I swear I was about to kiss you♪”
+「そ、そう？　気づかなかったな」=“Y-yeah? I... didn't notice.”
+「うふふ、鈍感ね。でもそういうところ、素敵よ」=“Ufufu, you're so oblivious. I love that about you, though.”
+「か、からかわないでよ」=“D-don't make fun of me.”
+「可愛すぎて、ついからかいたくなっちゃうのよね～……ふふふ」=“But you're so cute, I just have to tease you~...fufufu.”
+「それで……ドリンクの味は、どうだった？」=“So, uh... how's the drink tasting for you?”
+「あら、どうだったかしら。憶えてないわね。あなたの顔を見ることに一生懸命になりすぎちゃったみたい」=“Oh, I don't know. I don't remember. I guess I was just focusing on your face too much.”
+「うう、恥ずかしくなってきた……」=“Uuu, I'm getting embarrassed...”
+「ふふ……カップルドリンクっていいわね。あなたの魅力を再確認できちゃうんだもの……」=“Fufu... I like the idea of a couple's drink. They're a great way to reaffirm one's charm...”
+「さあ、それじゃまた可愛いお顔、見せてちょうだい♪」=“Come on, show me that cute face of yours again♪”
+「そんなこと言われるの飲みにくくなっちゃうって……」=“It's hard for me to drink, when you ask for something like that...”

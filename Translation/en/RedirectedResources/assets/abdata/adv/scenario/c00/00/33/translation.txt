@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「いい気分転換になったわ。連れてきてくれて、ありがとう♪」=
+「いい気分転換になったわ。連れてきてくれて、ありがとう♪」=“That was a nice change of pace. Thanks for bringing me here♪”
