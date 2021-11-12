@@ -407,7 +407,7 @@
 「ねえ、[Hあだ名]」=Hey, [Hあだ名].
 「な、なにかな？……[Pあだ名]。……やっぱり、この呼び方は顔が熱くなりますね……」=Hey, hey, what's this? ......[Pあだ名]. ......After all, this calling makes my face hot. ......
 「今はそういうノリじゃないかなーって思いまーす」=I don't think we're in that kind of mood right now.
-「ねえ、[Pあだ名]」=“Hey, [Pあだ名].”
+「ねえ、[Pあだ名]」=Hey, [Pあだ名].
 「うん？　どうしたの、[Hあだ名]=I'm not sure.　What's wrong, [Hあだ名]?
 「ちょっと呼んでみたかっただけなんだなぁ……えへへ、幼馴染っぽい」=What's up, [Hあだ名]? - I just wanted to call you something. ...... It's like we grew up together.
 「うん、いいよぉ……[Pあだ名]となら、いくらでも」=Yeah, sure, I'll go as far as ......[Pあだ名].

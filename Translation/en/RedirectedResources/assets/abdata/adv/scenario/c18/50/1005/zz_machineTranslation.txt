@@ -1,8 +1,8 @@
 係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please join up in pairs.”
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We'll be lighting the campfire now, so all participants please form a pair.”
 「[H名]、是非とも俺と踊って欲しい」=[H名], I want you to dance with me.
 「はい、喜んで」=Yes, with pleasure.
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“...I hope everyone's got a partner? Well then, I'll put on the music as soon as you're ready.”
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you paired off? ...then I'll start the music as soon as everyone's ready.”
 「なんだか、一緒に踊るのって恥ずかしいですよね？」=It's kind of embarrassing to dance with them, isn't it?
 「そうだね。ここまで密着することも滅多にないし……」=Yes, it is. It's not every day we get this close together. ......
 「[H名]の息遣いも、すごく近くで感じるよ」=I can feel [name]'s breath very close to me.
@@ -22,6 +22,6 @@
 「俺も[H名]も幸せなんだからさ」=I'm happy for you. I'm happy for [name].
 「あっ……」=Oh, .......
 「っと。そろそろ今かかってる曲が終わりそうだね」=Okay. I think we're almost done with the song we're playing.
-「じゃあ、次の曲も一緒に踊ってくれないかな？」=Now, will you dance with me to the next song?
+「じゃあ、次の曲も一緒に踊ってくれないかな？」="Now, will you dance with me to the next song?"
 「俺に、もう一度[H名]と踊れる幸運にあずかれるチャンスをくれると嬉しいんだけど……」=I'd love for you to give me the chance to be lucky enough to dance with [H名] again. ......
 「……っ。は、はい、喜んで……！」=....... Yes, I'd be happy to ......!

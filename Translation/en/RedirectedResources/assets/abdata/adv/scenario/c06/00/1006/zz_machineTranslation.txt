@@ -1,4 +1,4 @@
-「それじゃあ早速鳴らそうか」=“Okay, let's ring this thing then.”
+「それじゃあ早速鳴らそうか」=Let's get this thing going.
 「はい。あの……貴方との永遠の愛を願って鳴らしてもよろしいでしょうか？」=Yes. May I ring ...... for eternal love with you?
 「え、それ以外に何か願えたっけ？」=What else did I wish for?
 「まだ婚約してはいませんから、ご迷惑ではないかと思いまして」=We're not engaged yet, so I didn't want to bother you.

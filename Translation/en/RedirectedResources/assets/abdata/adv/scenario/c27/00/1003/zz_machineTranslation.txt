@@ -1,4 +1,4 @@
-「ちょっとお土産を見てみようよ」=“Let's take a little look at the souvenirs.”
+「ちょっとお土産を見てみようよ」=Let's go check out some souvenirs. - Let's go check out some souvenirs.
 「あ、これ……」=Oh, this is .......
 「ちんすこうにするの？　やっぱり、お土産の定番って感じするよね」=Why do you choose chinsuko?　It's like a standard souvenir.
 「有名でしょ？　どこへ行ってきたか一目でわかるから、これがいいかなって」=Famous, right?　I thought you'd like it, so you can see where you've been.
@@ -10,6 +10,6 @@
 「当時の貴族の人がこの光景を見たら、どう思うかな？」=What do you think the aristocracy of the time would think of this?
 「わぁ、お宝だぁ～……とか？　貴重だったなら、喜ぶんじゃない」=Wow, a treasure. - Like ......?　If it was valuable, you'd love it.
 「はは、なんか可愛らしい発想だね。俺は怒ると思うなぁ」=Haha, that's a cute idea. I think I'd be offended.
-「どうして？」=“Why's that?”
+「どうして？」=Why?
 「ワシたちが食べていたものを庶民が食べているだと！　許せん！　……みたいなイメージを持ってたから」=What we used to eat, the common people are eating!　That's unacceptable!　I was under the impression it was something like .......
 「それは偏見が過ぎるでしょ」=That's a bit prejudiced.

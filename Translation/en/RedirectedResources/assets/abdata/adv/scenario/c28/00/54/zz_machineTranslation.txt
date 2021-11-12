@@ -7,8 +7,8 @@
 「ちゃんとわしの愛称も考えておるんじゃろな？」=You're thinking of my nickname, aren't you?
 「もちろん、この日の為にしっかり考えてあるよ」=Of course, I've thought of everything for this day.
 「用意周到じゃのう……。ごほん……では、参るぞ！」=Well, yeah, I guess so. You're well prepared, ....... ......, here we go!
-「……[Pあだ名]」=“...[Pあだ名]”
-「[Hあだ名]」=“[Hあだ名]”
+「……[Pあだ名]」=...[Pあだ名]
+「[Hあだ名]」=[Hあだ名]
 「お、思ったより恥ずかしいのぅ……これ」=Oh, this is more embarrassing than I thought. ......
 「そんな[Hあだ名]の顔が見れるなら、またやってもらおうかな」=If I could see that look on [nickname]'s face, I'd have him do it again.
 「そ、そういう意地悪な理由ならやらんぞ！　そんな顔をしてもダメじゃ！　ダメ、じゃぞ？」=No, I won't do it for that kind of nasty reason!　You can't look at me like that!　No, huh?

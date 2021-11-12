@@ -6,7 +6,7 @@
 「なにじろじろ見てんだてめぇ！」=What the fuck are you staring at?
 「おい、何してんだ」=Hey, what are you doing?
 「おいてめえホントに殺すぞ！」=I'm gonna fucking kill you!
-「私を探してた？　何の用だよ」=You were looking for me?　What do you want?
+「私を探してた？　何の用だよ」="You were looking for me?　What do you want?"
 「おい、……社会の窓、開いてるぞ……」=Hey, ......, your social window's open. ......
 「わっ！　てめぇ！　いきなり話しかけてくるなよな！」=Fuck!　Hey!　Don't talk to me out of the blue!
 「んだよ。なんか用か？」=Hey, man. What do you want?
@@ -111,7 +111,7 @@
 「あのさ、一緒に見て回らない？」=Hey, do you want to come look around with me?
 「ま、暇つぶしにはいいかな」=It's a good way to pass the time.
 「付き合うほど、暇じゃねぇんだ」=I don't have time for this shit.
-「俺と一緒に遊ばない？」=“Why not come play with me?”
+「俺と一緒に遊ばない？」=Do you want to hang out with me?
 「……お前がいいなら、別にいいぜ」=......, if that's what you want.
 「なんでお前と遊ばなきゃいけねぇんだ？」=Why the fuck should I play with you?
 「一緒に何か体験してみない？」=Why don't we try something together?
@@ -197,7 +197,7 @@
 「ちょっ！　どこ触ってんだよ！　発情ザル！」=Hey!　Where are you touching?　You're a rutting monkey!
 「こんなとこ触ったからってどうなんだよ。男ってバカだなぁ…」=What does it matter if I touch you here? Men are so stupid...
 「おい触りすぎだよ！　まぁ別に減るもんじゃねぇけど」=You're touching it too much!　Well, it doesn't make me any less of a man.
-「なんだよ偉そうに」=What are you talking about?
+「なんだよ偉そうに」="What are you talking about?"
 「猫じゃねぇんだからよ……」=I'm not a cat. ......
 「犬じゃねぇんだよ私は！」=I'm not a dog!
 「わっ！　人の顔勝手に触んなっての！」=Hey!　Don't you dare touch my face!

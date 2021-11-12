@@ -1,0 +1,7 @@
+「ねえ、今部屋にいる？　それとももう寝ちゃったかしら……」=Hey, is he in his room now?　Is he in his room now, or has he gone to bed? ......
+SELECTION:「返事をする」=Answer her
+SELECTION:「……」=...
+「大丈夫、まだ寝てないよ。こんな時間にどうしたの？」=Don't worry, I'm not asleep yet. What's wrong with you at this hour?
+「なんだか人肌が恋しくなって……だから君に会いに来たの」=I kind of missed the warmth of human skin. ...... That's why I came to see you.
+「ね、傍にいっていい？」=Hey, can I come over?
+「……もう眠ってるみたいね。こんな時間だし、仕方ないか」=...... You seem to be asleep already. Well, it's this time of night, so what can we do?

@@ -1,6 +1,6 @@
-「で、海に来てみたけど、何をして遊ぶのかしら？」=“So, we're at the beach, but are we going to do something?”
-「そうだなぁ……うーん、[H名]さんと遊びたくて誘ったんだけど、実は何をしようかは特に考えてなくて……」=“I suppose... hmmm, I invited you out to play, [H名], but I didn't actually have a specific idea of what we'd be doing.”
-「あら、そんなに私と遊びたかったのかしら？」=“Oh, you wanted to play with me that badly?”
-「まあ、折角こんないいとこに来たんだしね」=“I mean, why waste a trip to such a nice place you know?”
+「で、海に来てみたけど、何をして遊ぶのかしら？」=So, now that we're at the beach, what are we gonna do for fun?
+「そうだなぁ……うーん、[H名]さんと遊びたくて誘ったんだけど、実は何をしようかは特に考えてなくて……」=Well ......, I invited [H名] because I wanted to hang out with you, but I didn't really have any idea what we were going to do. ......
+「あら、そんなに私と遊びたかったのかしら？」=Oh, did you want to play with me so badly?
+「まあ、折角こんないいとこに来たんだしね」=Well, we've come to the right place, haven't we?
 「ふふっ、思ってたより仕方ない人ね……そういうときは、一緒に何をするか考えればいいのよ？」=Hmm, I can't help it more than I expected ... In that case, what should I do together?
-「そ、そうだね……二人で考えてみよっか」=“R-right... let's see what we can figure out together.”
+「そ、そうだね……二人で考えてみよっか」=Yeah, yeah. ...... Let's see what we can come up with.

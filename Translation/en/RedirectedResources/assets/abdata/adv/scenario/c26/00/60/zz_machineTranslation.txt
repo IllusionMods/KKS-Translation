@@ -1,5 +1,5 @@
 「ねぇ……いる……？」=Hey ...... are you ......?
-SELECTION:「返事をする」=Respond
+SELECTION:「返事をする」=Answer her
 SELECTION:「……」=...
 「ん、どうぞー」=Hmm. Here you go.
 「おじゃまします……」=Ojama imasu ......

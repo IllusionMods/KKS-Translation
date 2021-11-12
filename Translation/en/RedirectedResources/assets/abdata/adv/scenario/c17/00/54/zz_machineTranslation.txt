@@ -1,10 +1,10 @@
-「あのさ、ちょっとお願いがあるんだけど……」=“Um, so, I have a little request for you...”
+「あのさ、ちょっとお願いがあるんだけど……」=Hey, I need a favor. ......
 「内容によるけど、聞くだけは聞いてあげるわよ」=It depends on what you want, but I'll listen to you.
 「なら大丈夫かな。その、俺たち、そろそろ愛称で呼び合うのはどうかなって」=I'll call out. Well, I was wondering if we could start calling each other by our nicknames.
 「そういえば、考えたこともなかったわね」=Come to think of it, I hadn't really thought about it.
 「うん。でさ、二人の愛称を考えてみたんだ。それで是非呼んでほしいのがあるんだけど」=Yeah. I've been thinking of nicknames for the two of you. I've been thinking of nicknames for you two, and I'd really like you to call me something.
 「へぇ……なんて呼び方なの？」=What's ...... it called?
-「[Pあだ名]」=“[Pあだ名]”
+「[Pあだ名]」=[Pあだ名].
 「……それ、完全にあなたの趣味よね？」=...... That's totally your thing, isn't it?
 「まあ、否定はしないけど……ダメ？」=Well, I won't deny it, but ...... no?
 「別に嫌じゃないけど、私だけ恥ずかしい目に合うのは……。……私の愛称も考えてるんでしょ？　だったらそれを呼んでちょうだい」=It's not that I don't like it, but I'm the only one who's going to be embarrassed ....... ...... You're thinking of a nickname for me too, aren't you?　You can call me that if you want.

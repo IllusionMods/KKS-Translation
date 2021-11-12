@@ -1,0 +1,13 @@
+「ねえ、[Pあだ名]」=Hey, [Pあだ名].
+「どうしたの？　すごく機嫌良さそうだけど」=What's wrong?　You look like you're in a really good mood.
+「むっ、今その機嫌も悪くなりそうだわ。私が愛称で呼んでるのに」=Mmm, now that mood is going to get worse. I'm calling you by your nickname.
+「あ、愛称……？」=Oh, you call you ......?
+「うん。私たち、そういうの意識したことなかったでしょ？　……だから、特別な呼び方で呼んでほしいの」=Yeah. We've never been aware of that, have we?　It's ....... I want you to call me something special.
+「ね、お願い……[Pあだ名]……私を呼んで？」=Hey, can you please ......[Pあだ名]...... call me?
+「っ……じ、じゃあ……[Hあだ名]」=......Well, ......[Hあだ名]
+「ええ、もっと呼んで」=Yeah, call me back.
+「[Hあだ名]……[Hあだ名]！」=[H名] ......[H名]!
+「ふふっ、お顔が真っ赤よ？」=Mmm, you're all red.
+「そりゃ、いきなり愛称で呼び合うなんて恥ずかしいし……」=Yeah, it's embarrassing to suddenly call each other by their nicknames. ......
+「ごめんなさい、あなたの反応が可愛くて、つい……ふふっ」=I'm sorry, your reaction was so cute, I just ......
+「たまになら呼んでいいから……今はちょっと勘弁して」=You can call me once in a while at ......, but not right now.

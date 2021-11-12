@@ -388,7 +388,7 @@
 「もしお腹が空いていましたら、これからご飯にしませんか？」=If you are hungry, would you like to have dinner now?
 「うふふ、とても空いていたのですね。では早速参りましょう」=Yes, thank you very much. Let's get started.
 「ご飯を済ませたばかりでしたか？　残念ですが、仕方ありませんね」=Didn't you just finish your dinner?　I'm sorry, but it can't be helped.
-「あのさ、俺の部屋に来てくれない？」=“Um, hey, why don't you come to my room?”
+「あのさ、俺の部屋に来てくれない？」=Hey, can you come to my room?
 「……はい。準備は出来ておりますので」=...... Yes. I'm ready.
 「付いてきてもらってもいい？」=Can you come with me?
 「うふふ。はい、お供させていただきます」=Mmm-hmm. Yes, I'd like to accompany you.

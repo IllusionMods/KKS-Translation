@@ -1,9 +1,9 @@
 係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please join up in pairs.”
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We'll be lighting the campfire now, so all participants please form a pair.”
 （キャンプファイヤー？　フォークダンスを踊るのか……これは誘うしかないっ）=(Campfire?　(Campfire? Folk dancing? ...... I'll have to invite you.)
 「[H名]さん。俺と一緒に踊ってください！」=Mr. [H名]. Please dance with me!
 「……どうしようかしら？　まぁ、他に相手もいないことだし構わないわ」=...... What should I do?　Well, I don't have anyone else, so I don't care.
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“...I hope everyone's got a partner? Well then, I'll put on the music as soon as you're ready.”
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you paired off? ...then I'll start the music as soon as everyone's ready.”
 「ペアになってくれてありがとう。すごく助かったよ」=Thank you for being a pair. Thank you so much for pairing me up.
 「礼を言う必要なんてないわ。主として、たまには飴を上げる必要があると思っただけよ」=You don't have to thank me. I just thought, as the Lord, I should give you some candy once in a while.
 「それにしても、少し意外ね」=That's a little surprising.

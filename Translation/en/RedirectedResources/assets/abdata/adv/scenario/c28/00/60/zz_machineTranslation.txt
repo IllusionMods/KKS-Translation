@@ -1,5 +1,5 @@
 「のう、居るか……？」=Are you there, ......?
-SELECTION:「返事をする」=Respond
+SELECTION:「返事をする」=Answer her
 SELECTION:「……」=...
 「あぁ、入ってきていいよ？」=Yeah, can you come in?
 「では、お邪魔するぞ……」=Well, I'm sorry to bother you, .......

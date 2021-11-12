@@ -111,7 +111,7 @@
 「あのさ、一緒に見て回らない？」=Hey, do you want to come look around with me?
 「ま、暇つぶしにはいいかな」=It's a good way to pass the time.
 「付き合うほど、暇じゃねぇんだ」=I don't have time for this shit.
-「俺と一緒に遊ばない？」=“Why not come play with me?”
+「俺と一緒に遊ばない？」=Do you want to hang out with me?
 「……お前がいいなら、別にいいぜ」=......, if that's what you want.
 「なんでお前と遊ばなきゃいけねぇんだ？」=Why the fuck should I play with you?
 「一緒に何か体験してみない？」=Why don't we try something together?

@@ -392,7 +392,7 @@
 「どうでしょう、私と食事に行きませんか？」=I wonder, would you like to have dinner with me?
 「ありがとうございます。一緒に食事ができるの、嬉しいです」=Thank you very much. I'd be happy to have dinner with you.
 「食事はやめておくんですね？　分かりました」=You're not going to have dinner with me, are you?　Yes, sir.
-「あのさ、俺の部屋に来てくれない？」=“Um, hey, why don't you come to my room?”
+「あのさ、俺の部屋に来てくれない？」=Hey, can you come to my room?
 「はい……お邪魔させて頂きます」=Yes, sir. ......, I'm sorry to bother you.
 「[H名]、付いてきて？」=[H名], will you follow me?
 「はい。手を繋いだりは……やり過ぎですね」=Yes. Holding hands is ...... a bit much.

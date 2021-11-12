@@ -1,5 +1,5 @@
 「あの、失礼いたします……お邪魔してもよろしいでしょうか？」=Um, excuse me, may I come to ......?
-SELECTION:「返事をする」=Respond
+SELECTION:「返事をする」=Answer her
 SELECTION:「……」=...
 「大丈夫だよ、どうかしたの？」=It's all right. What's wrong?
 「ありがとうございます……実は、少し独り寝が寂しくなってしまいまして……」=Thank you. ...... Actually, I'm feeling a little lonely sleeping alone. ......

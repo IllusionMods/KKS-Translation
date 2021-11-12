@@ -399,7 +399,7 @@
 「ねえ、[Hあだ名]。また愛称で呼んで欲しいな」=Hey, [Hあだ名]. I want you to call me by my nickname again.
 「わかりました。えっと……[Pあだ名]。うう、やっぱり恥ずかしいです……」=Okay. Let's see, ......[Pあだ名]. Ugh, I'm still embarrassed. ......
 「……今、そういう空気じゃないと思います」=...... I don't think we're in that kind of mood right now.
-「あ、あの……[Pあだ名]」=“U-um... [Pあだ名].”
+「あ、あの……[Pあだ名]」=Oh, it's ......[Pあだ名].
 「どうしたの、[Hあだ名]」=What's up, [Hあだ名]?
 「えへへ……つい、呼びたくなってしまいました」=Heh, ......, I just felt like calling you.
 「は、はい……私もしたかったんです。[Pあだ名]と……エッチ」=Yes ......, I wanted to do that too. I wanted to have ...... sex with [Pあだ名].

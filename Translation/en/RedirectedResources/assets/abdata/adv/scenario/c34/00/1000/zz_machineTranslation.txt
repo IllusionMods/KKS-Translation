@@ -1,4 +1,4 @@
-「カップルドリンクが飲めるんだって。頼んでみようよ」=“We can share a couple's drink. Let's order one.”
+「カップルドリンクが飲めるんだって。頼んでみようよ」=They have a couple's drink. Let's try it.
 「Ｏｈ　ｗｏｗ♪　コレがＣｏｕｐｌｅ　ｄｒｉｎｋ♪　ＣｕｔｅなＣｏｌｏｒ、ｔａｓｔｅもカナ？」=Oh wow, this is the Couple drink, cute color, can I have a taste?
 「それは飲んでみてのお楽しみだね」=That's something you'll have to try.
 「Ｙｅａｈ♪　早く飲みた～い♪　イタダキマス、シヨ♪」=Yeah, I can't wait to drink it." "Let's ping pong.

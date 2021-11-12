@@ -1,6 +1,6 @@
-「ねえ、浜辺を散歩しない？」=“Hey, why don't we take a walk on the beach?”
+「ねえ、浜辺を散歩しない？」=Hey, do you want to go for a walk on the beach?
 「ごほん！　な、なんか、アレだな。なんていうか……アレだ」=Oh, yeah.　I'm not sure what to say. It's like ...... that.
-「どれ？」=“Kinda what”
+「どれ？」=Which one?
 「アレはアレだよ！　まあ、そのことは別によくて……」=The thing is the thing!　Well, that's not the point. ......
 「と、ところで、海って言えばよ！」=And by the way, say the word "ocean.
 「さっきからなんでそんなにぎくしゃくしてるの？」=Why are you being so awkward?

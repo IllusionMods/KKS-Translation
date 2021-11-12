@@ -35,7 +35,7 @@
 「これからご飯を食べようと思うんだけど、一緒にどうかな？」=I was thinking of having dinner with you. Would you like to join me?
 「ちょうどお腹が空いてたんだ～。誘ってくれてありがとぉ」=I was just hungry. Thank you for inviting me.
 「そんなに空いてないから、私はいいかなぁ」=I'm not that hungry, so I'm good.
-「ええっ！　なんで入って来ちゃったの？」=What?　Why did you come in here?
+「ええっ！　なんで入って来ちゃったの？」="What?　Why did you come in here?"
 「またお話してくれるの？」=Are you going to talk to me again?
 「うん？　なぁに？」=Yeah?　What?
 「友達と、何して遊んだりする？」=What do you do for fun with your friends?
@@ -59,7 +59,7 @@
 「膝枕をしながら、優しく頭を撫でて上げたいなぁ。気持ちよさそうにしてもらえたら、幸せだよねぇ」=I'd like to be on your lap and stroke your head gently. I want to gently pat her head while she's on my lap. I'll be happy if she feels good.
 「最近、恋愛についてよく考えるんだ」=I've been thinking a lot about love lately.
 「エッチな妄想ってよくする方かな？」=Do you often have erotic fantasies?
-「んっ……どうしたの、また寂しくなっちゃったのかな？」=Hmm.... What's wrong, are you lonely again?
+「んっ……どうしたの、また寂しくなっちゃったのかな？」="Hmm.... What's wrong, are you lonely again?"
 「楽しい時間をありがとう。またね」=Thanks for the good time. See you later.
 「私はそろそろ行くね。またお話しよ？」=I'm going to go now. Can we talk again?
 「あのさ……俺と付き合って欲しいんだ」=Hey, ......, I want you to go out with me.
@@ -78,7 +78,7 @@
 「あのね、一緒に遊ばない？」=Hey, do you want to play with me?
 「えへへ、よかったぁ。それじゃあ何をするか、二人で決めようね」=I'm sorry. We'll decide what we're going to do.
 「ダメなの？　うーん、じゃあ他のお友達を誘うかなぁ……」=No?　Well, maybe I'll invite some other friends. ......
-「体験コーナーに行こうと思うんだけど、一緒にどうかな？」=“I'm thinking of heading to the experience corner... how about we do it together?”
+「体験コーナーに行こうと思うんだけど、一緒にどうかな？」=I'm thinking of going to the hands-on area. Would you like to join me?
 「うん、付いていくねぇ。二人でした方が楽しいと思うし」=Yes, I'll go with you. I think it would be more fun if we did it together.
 「ちょっと前にやってきたから、遠慮しておくね」=I've been here a while, so I'll pass.
 「興味のある体験があるから、一緒に申し込んでほしいなぁ」=There's something I'm interested in. I'd like you to sign up with me.
@@ -90,7 +90,7 @@
 「ねぇ、お腹が空いてたら、一緒にご飯を食べようよぉ」=Hey, if you're hungry, let's have dinner together.
 「えへへ、やったぁ。私はペコペコだったから、早く行こう？」=Yes, yes! I'm starving, so let's get going.
 「タイミングが悪かったかぁ……残念」=Bad timing. ...... Too bad.
-「ええっ！　入ってきちゃったの……もしかして、おしっこ我慢してたのかなぁ？」=What?　You came in.... Maybe you couldn't hold in your pee?
+「ええっ！　入ってきちゃったの……もしかして、おしっこ我慢してたのかなぁ？」="What?　You came in.... Maybe you couldn't hold in your pee?"
 「えへへ、どんなお話をしてくれるの？」=Hmm. What's the story?
 「あなたに会いたいって思ってたんだぁ♪」=I've been dying to meet you.
 「普段、ゲームをやったりする？」=Do you usually play games?
@@ -138,5 +138,5 @@
 「あなたと一緒にご飯を食べたいなぁ」=I'd love to have dinner with you.
 「やったぁ！　ごっはん～、ごっはん～♪」=Yes!　Gosh, gosh, gosh, gosh.
 「そっかぁ……お腹が空いてないなら、しかたないねぇ……」=I see. ...... If you're not hungry, you're not hungry. ......
-「あのさ、俺の部屋に来てくれない？」=“Um, hey, why don't you come to my room?”
+「あのさ、俺の部屋に来てくれない？」=Hey, can you come to my room?
 「うんっ！　もちろんいいよぉ」=Yes!　Of course I am.

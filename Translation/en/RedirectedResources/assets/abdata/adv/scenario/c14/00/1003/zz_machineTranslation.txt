@@ -1,4 +1,4 @@
-「お土産を見てみようよ」=“Let's have a look at the souvenirs.”
+「お土産を見てみようよ」=Let's look at the souvenirs.
 「お？　シーサーか。これ、なかなか気合入って……」=Oh?　Shisa. That's some serious ...... work.
 「気に入ったの？」=You like it?
 「わっ！？　いちいち絡んでくるんじゃねぇよ」=What's wrong?　Don't get involved in my business.

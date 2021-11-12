@@ -392,7 +392,7 @@
 「そろそろ、おまえの腹が空いてきた頃合いじゃないか？」=I think you're getting a little hungry, don't you?
 「はは、やっぱりな。あたしの予想通りだ」=I knew it. That's what I thought.
 「ありゃ、予想が外れたか……んじゃ、また誘い直すよ」=Well, I guess I was wrong. ...... Well, I'll invite you back.
-「あのさ、俺の部屋に来てくれない？」=“Um, hey, why don't you come to my room?”
+「あのさ、俺の部屋に来てくれない？」=Hey, can you come to my room?
 「……そういう、お誘いか？　まぁ、いいよ」=...... Is that what you're asking me to do?　Well, okay.
 「付いてきてもらってもいい？」=Can you come with me?
 「はいはい。どこへなりともお供しますよっと」=Okay, okay. I'll take you wherever you want to go.

@@ -1,7 +1,7 @@
 「卓球台だ。ちょっと遊んでいかない？」=There's a ping-pong table. Why don't we have some fun?
 「さっそく試合を始めようか」=Let's get this game started.
 「ちょ、ちょっと待ってぇ～」=Wait, wait, wait, wait.
-「どうしたの？」=“What's going on?“
+「どうしたの？」=Something wrong?
 「私、あまり卓球が得意じゃないの。ルールもよくわかんないよぉ」=I'm not very good at table tennis. I don't know the rules.
 「なら、まずはラリーの練習から始めようか。俺が打った球を打ち返すだけでいいから」=Then let's start with rally practice. Just hit the ball back at me.
 「うん、わかった。それなら簡単そうかも」=Yeah, okay. That sounds easy.

@@ -1,5 +1,5 @@
 「やぁ、来ちゃったよ～……入ってもいいかな～？」=Hey, I'm here. ...... Can I come in?
-SELECTION:「返事をする」=Respond
+SELECTION:「返事をする」=Answer her
 SELECTION:「……」=...
 「いいけど、どうかした？」=Okay, what's wrong?
 「ちょっとね～、キミが何してるのか気になっちゃって～、眠れなくなったんだよね～」=I've been wondering what you've been up to, and it's been keeping me awake.

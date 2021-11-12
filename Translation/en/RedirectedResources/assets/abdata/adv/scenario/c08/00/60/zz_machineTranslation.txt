@@ -1,5 +1,5 @@
 「ねぇ、まだ起きてる？」=Hey, are you still up?
-SELECTION:「返事をする」=Respond
+SELECTION:「返事をする」=Answer her
 SELECTION:「……」=...
 「急にね、あなたに会いたくなったの」=Suddenly, I wanted to see you.
 「だからね、ぎゅって抱きしめてほしいなぁ」=So I want you to give me a big hug.

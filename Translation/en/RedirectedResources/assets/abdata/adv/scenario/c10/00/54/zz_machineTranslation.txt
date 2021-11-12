@@ -7,7 +7,7 @@
 「それはわかってる。だけど、どうしても呼んでほしくてさ」=I know that. I know that, but I really wanted to call you.
 「くっ……よ、よかろう、だが代償として、我にも名を与えよ！　良いな！？」=Come on, ......, all right, but in exchange, you give me a name!　Okay?
 「いいよ、じゃあ契約成立だ。俺が呼びかけるから、返事してほしいな」=Okay, then we have a deal. I'll call out to you, and I want you to answer.
-「……[Hあだ名]」=“...[Hあだ名]”
+「……[Hあだ名]」=......[Hあだ名]
 「な、なんだ……[Pあだ名]」=What the hell ......[Pあだ名]?
 「……う、うぅ……恥ずかしすぎるよぉ……」=......Uh, ......I'm so embarrassed. ......
 「呼んでくれてありがとう。……よかったら、また呼んでくれると嬉しいなー、なんて」=Thank you for having me. Thank you for inviting me to ....... I'd love it if you'd invite me back.

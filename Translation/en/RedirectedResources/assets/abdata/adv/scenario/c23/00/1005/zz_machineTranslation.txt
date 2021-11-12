@@ -1,8 +1,8 @@
 係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please join up in pairs.”
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We'll be lighting the campfire now, so all participants please form a pair.”
 「だってさ、[H名]。フォークダンスを一曲どうかな？」=Because, [H名]. How about a folk dance?
 「もちろんＯＫですぞ！」=Of course it's OK!
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“...I hope everyone's got a partner? Well then, I'll put on the music as soon as you're ready.”
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you paired off? ...then I'll start the music as soon as everyone's ready.”
 「ふむ……フォークダンスは、思っていた以上にドキドキするんだなぁ」=Hmmm ......, folk dancing is more exciting than I thought it would be.
 「もしかして、踊った経験がなかった？」=Maybe you've never danced before?
 「えぇと、そういう意味ではなくて……」=Well, that's not what I meant. ......

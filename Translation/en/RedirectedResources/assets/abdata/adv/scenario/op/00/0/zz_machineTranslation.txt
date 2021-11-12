@@ -1,0 +1,2 @@
+SELECTION:「見る」=Look
+SELECTION:「見ない」=Don't look

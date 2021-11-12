@@ -114,7 +114,7 @@
 「あのさ……これから二人で遊ばない？」=Hey, ......, would you like to hang out with me?
 「おほほ、構いませんわ！」=Oh, yes, of course!
 「遊ぶとなると、汗をかいてしまいますわ。お断わりさせていただきます」=I sweat a lot when I play. I'm afraid I must decline.
-「体験コーナーに行こうと思うんだけど、一緒にどうかな？」=“I'm thinking of heading to the experience corner... how about we do it together?”
+「体験コーナーに行こうと思うんだけど、一緒にどうかな？」=I'm thinking of going to the hands-on area. Would you like to join me?
 「あなたとするのも楽しそうですわね。よろしくてよ」=I think it would be fun to do it with you. Please do.
 「一人の方が集中できますの。ごめんあそばせ」=I can concentrate better when I'm alone. I'm sorry.
 「ご飯を食べようと思ってるんだけど、一緒にどうかな？」=I'm going to have some dinner. Would you like to join me?
