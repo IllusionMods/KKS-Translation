@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「うん、私もしてみたいん。ちょっと緊張するけど……楽しみなん」=Yeah, I wanna try it too. I'm a bit nervous but... I'm also excited.
+「うん、私もしてみたいん。ちょっと緊張するけど……楽しみなん」=“Yeah, I wanna try it too. I'm a bit nervous but... I'm also excited.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ありがとね～。んじゃ、後は任せたよ～♪」=Thanks~. Well then, I'll leave the rest to you~♪
+「ありがとね～。んじゃ、後は任せたよ～♪」=“Thanks~. Well then, I'll leave the rest to you~♪”

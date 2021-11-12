@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「すぅ……すぅ…………ん、んん……」=*snore... *snore*... Nnn, nnnn...
+「すぅ……すぅ…………ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
 （んぅ……すごく気持ちいいような……いったい、何が……？）=(Nn... Something feels amazing... just what, is it...?)
 「…………」=...
-「えっ……何が起きて……？」=Eh--... what is...?
+「えっ……何が起きて……？」=“Eh--... what is...?”
 //「おはようございます、よく眠れましたか？」=
-「眠れたけど……これは、いったい……」=I did but... just what are you...
-「ふふっ、見ての通りですよ。私があなたを……襲ったんです♪」=Fufu--, it's exactly what it looks like. I laid... an assault on you♪
+「眠れたけど……これは、いったい……」=“I did but... just what are you...”
+「ふふっ、見ての通りですよ。私があなたを……襲ったんです♪」=“Fufu--, it's exactly what it looks like. I laid... an assault on you♪”

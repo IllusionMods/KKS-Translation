@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「たまにはそういうプレイもいいわよね。ええ、三人でやりましょ」=That kind of play is good every once in a while. Alright, let's all three do it.
+「たまにはそういうプレイもいいわよね。ええ、三人でやりましょ」=“That kind of play is good every once in a while. Alright, let's all three do it.”

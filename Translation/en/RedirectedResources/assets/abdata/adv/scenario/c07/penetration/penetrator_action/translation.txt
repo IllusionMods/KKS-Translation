@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「な、なぁ……私も混ぜてくれないか？　その、我慢出来なくなっちゃってさ……」=H-Hey... won't you let me join in? That, I'm kinda, I need it...
+「な、なぁ……私も混ぜてくれないか？　その、我慢出来なくなっちゃってさ……」=“H-Hey... won't you let me join in? That, I'm kinda, I need it...”

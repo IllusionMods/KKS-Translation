@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「やだ……ビックリだわ。いつから見ていたのかしら？」=Gosh... you caught me off-guard. Since when have you been watching?
+「やだ……ビックリだわ。いつから見ていたのかしら？」=“Gosh... you caught me off-guard. Since when have you been watching?”

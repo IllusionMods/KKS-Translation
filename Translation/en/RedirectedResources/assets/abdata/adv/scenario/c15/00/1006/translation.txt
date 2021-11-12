@@ -10,7 +10,7 @@
 「だから、本当はちょっとドキドキした。キミはあたしと一緒にこの鐘を鳴らそうとしてるんだなーと思って……」=“So, I'm actually a little excited. I was thinking about how you were going to try ringing the bell with me.”
 「……ううん、ちょっとじゃないかもしれない」=“...mmm-hmm. Maybe not 'a little' .”
 「あはは、あたしっぽくないかな」=“Ahaha, that's not me.”
-「ぽくなくないよ。[H名]が純粋な可愛い女の子だってこと、俺はちゃんと知ってるから」=I mean, it's not a bad idea. I know you, [H名]... you're a genuinely cute and kind-hearted girl. 
+「ぽくなくないよ。[H名]が純粋な可愛い女の子だってこと、俺はちゃんと知ってるから」=“I mean, it's not a bad idea. I know you, [H名]... you're a genuinely cute and kind-hearted girl.”
 「か、可愛いかはわかんないけど、そっか」=“I-I don't know about the 'cute' part, but I see.”
 「うん、俺は[H名]との関係がいつまでも続けばいいと思ってる」=“Yeah, I wished that our relationship will go on forever, [H名].”
 「……じゃあ、あたし達ずっと仲良しだなー」=“...well, then I guess we'll always be friends.”

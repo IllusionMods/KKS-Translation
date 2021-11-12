@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「まだ彼女とは催し中なのですが……」=I'm still in the middle of things with her but...
+「まだ彼女とは催し中なのですが……」=“I'm still in the middle of things with her but...”

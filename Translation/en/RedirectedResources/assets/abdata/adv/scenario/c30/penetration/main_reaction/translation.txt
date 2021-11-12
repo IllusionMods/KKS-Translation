@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ひゃぁっ！　キミ、いたのっ！？　こ、これはまた、とんでもないところを見られちゃったわわね……」=Hyaaah! You were there!? A-again, I've shown you such a terrible scene, haven't I...
+「ひゃぁっ！　キミ、いたのっ！？　こ、これはまた、とんでもないところを見られちゃったわわね……」=“Hyaaah! You were there!? A-again, I've shown you such a terrible scene, haven't I...”

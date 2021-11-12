@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「すぅ……すぅ……ん、んん……」=*snore... *snore*... Nnn, nnnn...
+「すぅ……すぅ……ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
 （んぅ……ん……なんか、下半身に違和感が……？）=(Nn... nn... my crotch feels kinda...?)
 「…………」=...
-「って……え？　え？」=...Eh? Eh?
+「って……え？　え？」=“...Eh? Eh?”
 //「おはようございます。こんな所で寝たらダメですよ？」=
 //「こんな風に、誰かに襲われてしまうかもしれませんから……」=

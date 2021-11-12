@@ -8,7 +8,7 @@
 「この星空のような海で泳いだら、銀河の果てまで行けるのかしら？」=“If we were to swim in this starry sea, I wonder if we could go all the way to the edge of the galaxy?”
 「星空を自由に泳げるならどこに行きたい？」=“If you could swim across the stars, where would you go?”
 「うーん、そうね……やっぱり月かしら」=“Hmm, let me see... the moon, I guess.”
-「あまり遠く離れたら、地球で待つあなたに逢いに行けなくなるもの」=If I went too far, I wouldn't be able to go meet you waiting for me on Earth.
+「あまり遠く離れたら、地球で待つあなたに逢いに行けなくなるもの」=“If I went too far, I wouldn't be able to go meet you waiting for me on Earth.”
 「一緒に連れていってはくれないの？」=“You wouldn't take me with you?”
 「残念。宇宙船私号は一人乗りなの」=“Unfortunately, the "Starship Me" is a one-man craft.”
 「けれど……ふふっ、そうね。席を詰めれば、もう一人くらいは乗れるかしら？」=But... fufu, let me see. If we cram the seat, we could probably get one more person on board”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「私も混ぜてくれる？　もちろん、二人が嫌じゃなければね？」=Can I join in? Of course, only if you guys are fine with it.
+「私も混ぜてくれる？　もちろん、二人が嫌じゃなければね？」=“Can I join in? Of course, only if you guys are fine with it.”
