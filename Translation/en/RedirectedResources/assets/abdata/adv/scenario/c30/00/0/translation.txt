@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふふっ、最近ちょっとずつキミを理解出来るようになったみたい」=”Fufu! I think I'm starting to understand you a little better these days.”
+「ふふっ、最近ちょっとずつキミを理解出来るようになったみたい」=“Fufu! I think I'm starting to understand you a little better these days.”
 「本当に？　嬉しいな。俺もちょっと距離が近くなった気がするよ」=“Really? Glad to hear it. I think I'm getting a little closer to you, too.”
 「誰かと親しくなれるのって嬉しいわよね」=“It's nice to get to know someone.”
 「これからももっともっとキミと仲良くなりたいわ」=“I hope that you'll get to know me even better.

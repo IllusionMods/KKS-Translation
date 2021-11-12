@@ -44,7 +44,7 @@
 「お手数をおかけします」=“I apologize for being such a hassle.”
 「いいのよ、私がそう思わせちゃうタイプなだけだから」=“You're fine. I'm just the type of person who makes people think that.”
 「こういう勘違いがいっぱいあると思うけど、中にはあなたのイメージ通りなところも沢山あると思うからめげないでね、ふふふ」=“I'm sure there's many more misunderstandings that like out there... and I believe there's a lot of places that match your expectations, so don't be discouraged, fufufu.”
-「うん。こうやって予め話してくれたから、大丈夫だと思う。そういうところも大人だなって思うよ」=“Yeah. You told me that before, so I think I'll be alright. I think you're very mature in that way, too.“
+「うん。こうやって予め話してくれたから、大丈夫だと思う。そういうところも大人だなって思うよ」=“Yeah. You told me that before, so I think I'll be alright. I think you're very mature in that way, too.”
 「んもう、年齢だってそんなに離れてないんだから……でも、あなたが言うなら、そうなのかもしれないわね」=“Hmm, we're not even that far apart in age... but if that's what you're saying, then you might be right.”
 「え？」=“Eh?”
 「私があなたを恋愛的な意味で好きな理由、まだ言ってなかったわよね？　あなたは私とすごく向き合おうとしてくれるから、勘違いが少ないのよ」=“I still haven't told you why I like you in a romantic sense, have I? You've been very open with me... and there's hasn't been many misunderstandings.”

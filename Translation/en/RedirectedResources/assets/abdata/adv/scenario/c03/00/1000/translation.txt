@@ -6,7 +6,7 @@
 「どうするもこうするも、飲むでしょ？　注文したんだから」=“What else than to just drink it? I mean, we did order it.”
 「……むー」=“...muuu-”
 「えっ、なんで？　気に障ること言ったかな」=“Eh, why the face? Did I say something to annoy you?”
-「初めてのカップルドリンクなのですよ？　もっとテンションをあげてほしいのですっ！」=“Isn't this our first couple's drink? I wanted you to be more excited about it!“
+「初めてのカップルドリンクなのですよ？　もっとテンションをあげてほしいのですっ！」=“Isn't this our first couple's drink? I wanted you to be more excited about it!”
 「わ、私にとっては、特別で……ドキドキしちゃうものですから……」=“This is something special for me... my heart is really pounding...”
 「ご、ごめん、深く考えずに頼んじゃった」=“S-sorry, I ordered without giving it much thought.”
 「頼むのはいいのです！　むしろ、ありがとうとお礼を言いたいぐらいなのです」=“Don't get me wrong, I'm super glad you ordered this! In fact, I really want to thank you for doing so.”

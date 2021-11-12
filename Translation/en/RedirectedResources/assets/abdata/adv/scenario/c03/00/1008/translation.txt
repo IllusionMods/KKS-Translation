@@ -28,7 +28,7 @@
 「……えへへ」=“...ehehe.”
 「逆にさ、せーので一緒にお願いしようか。声を揃えて二人でお願いすれば、あの空まで届くかも」=“You know what, let's make our wishes together. If we ask together with both our voices, our wishes might reach the sky.”
 「わかったのです！　では……すぅっ」=“I totally get it! So then...!”
-「二人でいつまでも仲良しでいたいのですー！」=”I want the two of us to be close forever-!”
+「二人でいつまでも仲良しでいたいのですー！」=“I want the two of us to be close forever-!”
 「二人の仲がいつまでも続きますようにー！」=“May this relationship last forever-!”
 「…………」=“...”
 「えへ……同じ、だったですね」=“Ehe... we were the same.”

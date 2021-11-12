@@ -16,5 +16,5 @@
 「え、ええ。わかってるわ」=“Y-Yes. I know.”
 「はぁ……なんだか調子が狂っちゃう。でも、悪くはないわね」=“*Sighs*... Never thought you'd take the lead on things. But, it's a nice change of pace.”
 「それじゃあ、私と永遠の愛を誓ってくれる？　……なんて重すぎるかしら」=“Well then, will you pledge your eternal love to me? ...A heavy burden now that I think about it.”
-「そんなことないよ」=”That's not true.”
+「そんなことないよ」=“That's not true.”
 「ふふっ。ありがとう。あなたのこと好きになってよかったわ……」=“Fufu. Thank you. I'm glad I fell in love with you.”

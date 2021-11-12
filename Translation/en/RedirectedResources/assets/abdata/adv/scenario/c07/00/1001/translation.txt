@@ -8,11 +8,11 @@
 「っと、ごめんごめん。デリカシーなかったね」=“Oops, sorry sorry. That wasn't very polite of me.”
 「どうせ、アイスなんかに夢中になってガキだなーとか思ってたんだろ？」=“Betcha you were thinking how much of a little brat I am, obsessed with ice cream and all that, weren't you?”
 「はいはい、どうせ私は女らしくないですよ。すいませんねー」=“Yes yes, I know I'm not girly at all. I'm sowee, okay.”
-「またそうやって拗ねる。いつも通り、可愛いなーってついつい見ちゃってただけだよ」=“There you go, sulking again. I just got caught up in how cute you are like usual.“ 
+「またそうやって拗ねる。いつも通り、可愛いなーってついつい見ちゃってただけだよ」=“There you go, sulking again. I just got caught up in how cute you are like usual.”
 「また始まった。そうやってからかっても……」=“There it is again. You teasing me like that and...”
 「からかってないよ。大真面目だから」=“I'm not messing with you. I'm dead serious.”
 「よ、よせこの野郎！　アイスの味がわからなくなっちゃうだろ」=“S-Stop it, you jerk! How am I supposed to taste my ice cream when you keep doing that.”
-「[H名]は可愛いなぁ」=“You're so cute, [H名].“
+「[H名]は可愛いなぁ」=“You're so cute, [H名].”
 「まったく。すぐ、そうやってごまかすんだからな……」=“Jeez. And there you go again, immediately trying to change the conversation like that...”
 …………=“...”
 「はあっ。いいなぁ、こういう時間」=“*Sigh*. Kinda nice huh, when we're like this.”

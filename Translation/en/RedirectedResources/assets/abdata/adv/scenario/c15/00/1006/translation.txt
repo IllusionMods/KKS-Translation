@@ -3,7 +3,7 @@
 //
 （よし、ウムイの鐘を[H名]と一緒に鳴らそう……！）=(Right! Let's ring the Umui bell with [H名]...!)
 「どうしたー？　それ、落っこちてきそうとかかー」=“What's going on? It's like you're about to collapse, or something-”
-「っ、そ、そんなんじゃないから」=“Um, th-that's not it.“
+「っ、そ、そんなんじゃないから」=“Um, th-that's not it.”
 「あはははははは」=“Ahahahaha!”
 「なんだ、冗談だったの？」=“What, was that a joke?”
 「お見通しだぞー」=“I can see right through you-”
