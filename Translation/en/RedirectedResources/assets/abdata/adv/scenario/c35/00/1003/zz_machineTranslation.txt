@@ -1,6 +1,6 @@
 「お土産コーナーがあるよ。ちょっと覗いていかない？」=“There is a souvenir corner. Why don't we take a peek?”
 「うーん、これだけあると迷うね。どれも美味しそうだし……」=“Well, it's hard to decide with so many choices. They all look so good. ......”
-「これなんてどうかいな？　ドキドキ南国味って書いとうよ。しかも期間限定商品！」="How about this?　How about this one? It says "Tropical Flavor. And it's only available for a limited time!
+「これなんてどうかいな？　ドキドキ南国味って書いとうよ。しかも期間限定商品！」=“How about this?　How about this one? It says Tropical Flavor, and it's only available for a limited time!”
 「ドキドキ南国……ど、どんな味か全然分からない……」=“I'm so excited to be in the tropics ......, but I have no idea what it tastes like .......”
 「それがいいとよー。あげた人に楽しんでもらいたいし、期間限定やけん特別感もあるし。もちろん、美味しかったら幸せやし」=“That's a good idea. I want the person who gave it to me to enjoy it, and since it's only available for a limited time, it gives a special feeling. Of course, if it tastes good, I'll be happy.”
 「確かに。そう考えると嬉しいかも」=“Sure. That would make me happy.”
