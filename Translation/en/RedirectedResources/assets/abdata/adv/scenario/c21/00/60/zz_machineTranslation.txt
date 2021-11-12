@@ -1,7 +1,7 @@
 「ねぇ、キミの部屋まで来ちゃったんだけど、入っても大丈夫？」=Hey, I'm in your room. Is it okay if I come in?
-SELECTION:「返事をする」=Answer her
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-「どうしたの？」=Something wrong?
+「どうしたの？」=“What's going on?”
 「えっとね……キミと、一緒に過ごしたいなぁって思って……」=Well, ......, I'd like to spend some time with you. ......
 「エッチな事しても大丈夫だから……好きにしていいよ」=It's okay to be naughty. It's ...... okay to do whatever you want.
 「なんだ、いないのかぁ……しょうがない、また今度にしよ」=What, you're not here? ...... Oh, well, maybe some other time.

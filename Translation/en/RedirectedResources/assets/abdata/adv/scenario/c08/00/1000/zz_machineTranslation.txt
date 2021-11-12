@@ -1,4 +1,4 @@
-「カップルドリンクが飲めるんだって。頼んでみようよ」=They have a couple's drink. Let's try it.
+「カップルドリンクが飲めるんだって。頼んでみようよ」=“We can share a couple's drink. Let's order one.”
 「ドリンクがきたよ。味はトロピカルフルーツかな？　美味しそうだね」=Here's your drink. It tastes like tropical fruit, right?　Looks good.
 「えへへ♪」=Yes.
 「急に微笑んでどうしたの？」=What's with the sudden smile?
@@ -7,7 +7,6 @@
 「うん。私って子供っぽく思われがちでしょ？」=Yes. People tend to think of me as a child, right?
 「だから、一度でいいからアダルトな雰囲気の場所でデートしてみたかったんだぁ」=I've always wanted to go on a date in an adult environment, just once.
 「背伸びをしてるのはわかってるけど、[P名]君にふさわしい大人な彼女さんになりたくて」=I know I'm stretching myself, but I want to be the mature girlfriend you deserve.
-「[H名]……」=[H名]......
 「でも、いきなりカップルドリンクはハードル高かったかな？　大人の階段、飛び越え過ぎかなぁ？」=But was it too much to ask for a couple drinks?　Is that too much of a jump up the adult stairs?
 「あはは。これくらいは序の口だよ」=Haha. This is just the beginning.
 「よし決めた！　これからも[H名]のこと、たくさん連れ回すから。それでいっしょに大人の階段を登ろうよ」=All right, I'm in.　I'm going to take [H名] around a lot more. I'm going to take you around a lot, and we're going to climb the adult ladder together.

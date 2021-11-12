@@ -1,5 +1,5 @@
 「あなたには興味があります。何か問題でも？」=I'm interested in you. What's your problem?
-「私に何か？」=Need something from me?
+「私に何か？」=“Need something from me?”
 「どうしましたか？」=How can I help you?
 「真心ってやっぱり大事だよね」=Sincerity is important, isn't it?
 「はい、人にはそういった誠実さが大事だと思います」=Yes, I think it's important for people to have that kind of sincerity.

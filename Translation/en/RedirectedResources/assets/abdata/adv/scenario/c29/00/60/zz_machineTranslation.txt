@@ -1,5 +1,5 @@
 「あの、いらっしゃいますか……？」=Um, are you there, ......?
-SELECTION:「返事をする」=Answer her
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
 「いるよ。ほら、入って」=I'm here. Come on in.
 「お邪魔します……」=Sorry to bother you. ......

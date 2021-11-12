@@ -1,5 +1,5 @@
 「あ、あのねぇ……ちょっとキミの顔が見たくなっちゃって……お部屋、入れてくれるー？」=Oh, hey, ...... I just wanted to see your face. ...... Can I come in your room?
-SELECTION:「返事をする」=Answer her
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
 「うん、いいよ。寂しくなっちゃったのかな？」=Yeah, sure. Are you getting lonely?
 「うん、ちょっとー。でもキミの声を聞いたら、すぐに心がポカポカになったよー」=Yeah, I know. But when I heard your voice, it made me feel all warm and fuzzy inside.

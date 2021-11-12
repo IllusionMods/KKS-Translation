@@ -41,10 +41,10 @@
 「うーん、彼氏のいる友達がいないからわかんないけど……普通に祝うと思うぞ」=Well, I don't know, I don't have any friends with boyfriends, but ...... I think I'd celebrate.
 「異性からのプレゼントは何がいい？」=What do you like to get the opposite sex as a present?
 「面白そうなものだったら、なんでもいいぞー」=Anything that sounds interesting.
-「積極的な男ってどうかな？」=What's your opinion on assertive guys?
+「積極的な男ってどうかな？」=“What's your opinion on assertive guys?”
 「いいと思うぞー？　あたしと気が合いそうだしなー」=What do you think of aggressive guys?　I think you and I would hit it off.
 「うーん、そういうタイプはあたしとぶつかりそうだなー」=Hmm, I think I'd clash with that type.
-「慎重な男ってどうかな？」=What's your opinion on careful, cautious guys?
+「慎重な男ってどうかな？」=“What's your opinion on careful, cautious guys?”
 「いいと思うなー。あたしが暴走したら止めてくれそー」=I think he's good. He'll stop me if I get out of control.
 「慎重すぎるのもあんまりなー。もっと積極的なのがいいなー」=I'm not too cautious. I like a more aggressive guy.
 「勤勉な男ってどうかな？」=What do you think of a hardworking man?
@@ -219,10 +219,10 @@
 「そうか、だめかー……残念だけど、仕方がないぞー」=Oh, no. ...... I'm sorry, but I don't have a choice.
 「あのさ、きみとHしたいなって」=You know, I've always wanted to have sex with you.
 「えぇ！？　い、いやいや、ダメだぞ！　キミとは友達なんだからな！」=What?　No, no, no, no, no, no!　You're my friend.
-「きみとHしたいな」=I wanna have sex with you.
+「きみとHしたいな」=“I wanna have sex with you.”
 「キミとは友達なんだけどなー……まぁ、いっかー」=I'm your friend. ...... I'm okay with that.
 「あたしも興味あるけどー……ダメだぞ」=I'm interested too, but ...... you can't.
-「ここできみとHしたい」=I wanna do it here with you.
+「ここできみとHしたい」=“I wanna do it here with you.”
 「んー……人前でっていうのも、興奮するなー」=Hmm. ...... I'm excited to do it in public.
 「バカー！　みんな見てる前で、できるかー！」=Baka!　You can't do that in front of everybody!
 「えぇ？　誰か来たら……でも、試してみるかー？」=What?　If anyone comes over, we can try .......
@@ -358,7 +358,7 @@
 「もうガマンの限界だぞー！　エッチするぞー！　はやくはやくー！」=I can't take it anymore!　I'm gonna fuck you!　Come on, come on, come on!
 「断っても逃がさないからなー？　押し倒しちゃうぞー」=If you say no, I won't let you go, okay?　I'm gonna push you over the edge.
 「うぇー……生殺しはひどいぞー」=Oh, ......, you're killing me.
-「ここで[H]とHしたい」=I want to do it here with you, [H名].
+「ここで[H]とHしたい」=“I want to do it here with you, [H名].”
 「キミは動物みたいだなー。あたしもガマンできないけどな♪」=You're like an animal. You're like an animal. I can't stand it either.
 「あたしもヤりたいけど……二人の時にじっくり、な？」=I'd like to fuck you too, but we'd have to do it ...... alone, okay?
 「誰か来そうで興奮するなー。見せつけちゃうか？」=I'm excited to see who's coming. Do you want me to show you?
@@ -398,7 +398,7 @@
 「いいぞー。　……[Pあだ名]。えへへー、ちょっとだけ照れくさいな」=That's good.　......[Pあだ名]. Heh heh, that's a little embarrassing.
 「むー、今は嫌だぞ」=Mmm, I don't want to do that right now.
 「なーなー、[Pあだ名]」=Nah, nah, nah. [Pあだ名]
-「どうしたの？　[Hあだ名]」=What's the matter? [Hあだ名].
+「どうしたの？　[Hあだ名]」=“What's the matter? [Hあだ名].”
 「ううん、呼んだだけだぞー！」=No, I'm just calling you!
 「いいぞー！　たっくさん気持ちよくしてね？　[Pあだ名]」=That's good!　Make me feel so good, okay?　[Pあだ名]
 「なーなー……あたし、我慢できないんだ。いいだろー？　[Pあだ名]」=[P名] "Na na na ...... I can't stand it. Okay?　[Pあだ名]

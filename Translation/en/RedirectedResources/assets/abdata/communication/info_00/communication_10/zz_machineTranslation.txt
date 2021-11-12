@@ -373,7 +373,7 @@
 「むふふ……我は楽しいぞ……」「楽しいぞ……楽しいぞ……」「た、楽しすぎるぞ！」「ふんふん……」「我は楽しくてハッピーなのだ……」=Mmmm ...... I'm having fun ...... I'm having fun ...... I'm having fun ...... I'm having too much fun! It's too much fun! "Mmmm ...... I'm happy and having fun ......
 「は、恥ずかしいではないか……」「て、照れるぞ……」「こ、こらぁ…恥ずかしいのだ…」「こ、これは照れるのだ……」「ふぇぇっ！　は、ハレンチな！」=It's embarrassing ......" "It's embarrassing ......" "It's embarrassing ......" "It's embarrassing..." "It's embarrassing... ......" "Huh!　I'm so embarrassed.
 「なあなあ……汝……」「汝、ちょっといいか？」「我の話を聞いてくれ……」「そういえばのう……」「汝にひとつ聞いていいか？」="Hey, ...... thou ......, can I have a word with thee? "Listen to me, ......, can I ask you something, ......?
-「ねえ、[Hあだ名]」=Hey, [Hあだ名].
+「ねえ、[Hあだ名]」=“Hey, [Hあだ名].”
 「ど、どうした……[Pあだ名]。こ、この呼称にはまだ慣れんな……！」=What's wrong with ......[Pあだ名]? What's the matter ......[Pあだ名], I'm not used to this ......!
 「……今はそんな気分ではない」=I'm not in the mood for .......
 「なあ……[Pあだ名]」=Hey, ......[Pあだ名].

@@ -19,7 +19,7 @@
 「んー……ま、まぁ、[H名]さんの笑顔を見られたのは嬉しいけど……」=Hmm ......, well, I'm glad I got to see [H名] smile. ......
 「……まぁ、良いわ。笑って気分も良いし、不問にしてあげる」=...... Well, good. I'm going to laugh and feel good about it, and I'm going to dismiss it.
 「でも……さっきの願いごとについては、よく話し合う必要があるみたいね」=But ...... I think we need to talk about that wish you just made.
-「えっ？」=What?
+「えっ？」=“Eh?”
 「私と仲良くなれますように……そんなことを星に願うの？　正直に言ってガッカリしたわ」=Do you wish to ...... the stars that you can get along with me?　Honestly, I'm disappointed.
 「主との距離を縮めるために、オカルト的な方法に頼るなんて……論外よ」=It's ...... out of the question that you would resort to occult methods to get closer to the Lord.
 「うっ……」=Ugh. ......

@@ -1,7 +1,7 @@
 係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We'll be lighting the campfire now, so all participants please form a pair.”
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please join up in pairs.”
 「キャンプファイヤーか。フォークダンスもやるみたいだし、参加してみよう」=A campfire. Campfire, maybe we'll have a folk dance, I'll join you.
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you paired off? ...then I'll start the music as soon as everyone's ready.”
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“...I hope everyone's got a partner? Well then, I'll put on the music as soon as you're ready.”
 「クククッ、我が華麗なるステップを見よ！」=Kkkkkkk, look at my magnificent steps!
 「へぇ～、[H名]ってダンスが上手なんだね。驚いたよ」=Wow, you're a good dancer, aren't you? I'm surprised.
 「むっふっふっ。もっと褒めてよいのだぞ」=Mmm-hmm. You should be more complimentary.
@@ -18,6 +18,6 @@
 「我は魔術に精通した悪魔故に、ＳＦ系の能力はフォローしきれぬのだが……」=I'm a demon of high rank, so it's no surprise that I can dance a dance or two.
 「設定じゃないよ。[H名]の目を見て話をすれば、自然と理解できることだから」=It's not a setup. If you look [H名] in the eye and talk to him, he'll naturally understand.
 「我の考えを自然と理解できる……か。か、簡単に言ってくれるが、それはかなりの才能だぞ？」=You understand my thoughts naturally, ....... It's easy for you to say, but that's quite a talent, isn't it?
-「そうかな？」=Do you think so?
+「そうかな？」=“You think so?”
 「う、うむ……やはり汝を契約者に選んで正解であったな」=Hmmm ......, I see I made the right choice in choosing you as my contractor.
 「これからもずっと我のそばにいるのだ。共に狂乱の宴を愉しもうぞ！」=From now on, you will always be by my side. Let's have a crazy party together!

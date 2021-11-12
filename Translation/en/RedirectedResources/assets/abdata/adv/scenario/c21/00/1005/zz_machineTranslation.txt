@@ -1,11 +1,11 @@
 係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We'll be lighting the campfire now, so all participants please form a pair.”
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please join up in pairs.”
 「ねね、キャンプファイヤーだって！　参加しようよ！」=Hey, there's a campfire!　Come join us!
 「フォークダンスか。いいね、やろうやろう！」=Folk dancing. Folk dancing. That's great, let's do it!
 「私、踊り方知らないけど大丈夫かな？」=I don't know how to dance, but will I be okay?
 「俺もルール的なものは知らないけど、音楽に合わせて楽しく踊ればいいよ」=I don't know the rules, but I'd be happy to dance to the music.
 「あはっ、そうだね♪　キミとダンスできるなんてロマンチック～♪」=Haha, yes, it's so romantic to dance with you.
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you paired off? ...then I'll start the music as soon as everyone's ready.”
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“...I hope everyone's got a partner? Well then, I'll put on the music as soon as you're ready.”
 「よっ、ほっ、えーいっ♪」=Yo, ho, yeah!
 「あははっ、うまいうまい。腕ぐねらないように気を付けてね」=Hahaha, good, good, good. Be careful not to strain your arm.
 「大丈夫大丈夫！　えへへっ、こんなことしたことないからドキドキだねっ」=Don't worry!　I've never done anything like this before, so I'm nervous.

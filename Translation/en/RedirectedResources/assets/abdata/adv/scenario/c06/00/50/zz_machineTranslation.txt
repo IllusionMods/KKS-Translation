@@ -4,4 +4,3 @@
 「はいっ。この島の家庭の味……是非とも覚えたいです。作り方を尋ねに行ってもよろしいでしょうか？」=Yes. I would love to learn how to make this island's home cooking ....... May I go and ask you how to make it?
 「ははは、勿論いいけど、まずは冷めないうちに食べないと。せっかくのご飯がもったいないよ？」=Haha, of course you can, but you have to eat it before it gets cold. It's a shame to waste all that food.
 「あ……そうですね。帰った後にも貴方に食べて欲しいと気持ちが急いていました……恥ずかしいです」=Oh ......, yes. I was in a hurry to get you to eat after I left. ...... I'm embarrassed.
-「[H名]……」=[H名]......

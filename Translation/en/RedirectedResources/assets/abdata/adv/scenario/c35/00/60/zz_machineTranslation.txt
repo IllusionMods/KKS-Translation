@@ -1,7 +1,7 @@
 「なぁ、おる……？」=Hey, do you ......?
-SELECTION:「返事をする」=Answer her
+SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-「どうしたの？」=Something wrong?
+「どうしたの？」=“What's going on?”
 「あ、お邪魔するね……」=Oh, sorry to bother you, .......
 「その、えっと、どげんしても君に触れとうなってしもて……我儘、聞いてほしか……」=Well, um, I just can't help but touch you. ...... Do you want me to be selfish?
 「……いない、か」=...... No, or...
