@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すぅ……すぅ……ん、んん……」=
-//（んぅ……ん……なんか、下半身に違和感が……？）=
-//「…………」=
-//「って……え？　え？」=
-//「へへー♡　こんな所で寝てたら襲われちゃうぞ～？」=
-//「っ、そうみたいだね……でも、気持ちいいことなら歓迎だよ」=
-//「あはは♪　ノリノリだな～」=
+「すぅ……すぅ……ん、んん……」=“Zzz... zzz... mm, mmm...”
+（んぅ……ん……なんか、下半身に違和感が……？）=“Nhu... nh... I feel something weird with my lower body, for some reason...?)
+「…………」=“...”
+「って……え？　え？」=“Wha... eh? Eh?“
+「へへー♡　こんな所で寝てたら襲われちゃうぞ～？」=“Ehehe-♡ If you fall asleep in a place like this, you know you're gonna get attacked~?”
+「っ、そうみたいだね……でも、気持ちいいことなら歓迎だよ」=“Whoa, that's what it seems like... but since it feels good, it's welcome.”
+「あはは♪　ノリノリだな～」=“Ahaha♪ You're in the groove~”

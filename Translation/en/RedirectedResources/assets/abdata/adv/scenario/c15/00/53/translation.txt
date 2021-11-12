@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「美味しかった、満足だぞー！　また一緒に食べようなー！」=
+「美味しかった、満足だぞー！　また一緒に食べようなー！」=“That was great, so satisfying! Let's eat together again-!”

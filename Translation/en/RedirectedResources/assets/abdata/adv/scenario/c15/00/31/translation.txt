@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱり滝はいいね」=
-//「すごい迫力だな……水のいい匂いがする」=
-//「マイナスイオンってやつかな」=
-//「良くわかんないけど、気分が良くなる気がするぞ」=
-//「ここはパワースポットでもあるし、本当に何か効果があるかもね」=
-//「だったらもっといっぱい吸い込んじゃうか！」=
+「やっぱり滝はいいね」=“Waterfalls are so great.”
+「すごい迫力だな……水のいい匂いがする」=“They're incredibly powerful... and the water smells good.”
+「マイナスイオンってやつかな」=“It's the negative ions, I suppose.”
+「良くわかんないけど、気分が良くなる気がするぞ」=“I don't know about that, but I sure do feel better.”
+「ここはパワースポットでもあるし、本当に何か効果があるかもね」=“And, this place is a power spot. It might really have some effect.”
+「だったらもっといっぱい吸い込んじゃうか！」=“If that's the case, I better breathe in a lot more!”

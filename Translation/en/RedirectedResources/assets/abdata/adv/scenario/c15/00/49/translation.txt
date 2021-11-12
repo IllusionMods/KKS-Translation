@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ゴーヤ―って、こんなに食べやすかったんだなー」=
-//「タマゴと絡んで、味がまろやかになってるんだ」=
-//「こんなにご飯に合うなんて……最高だー！」=
-//「とりあえず、ご飯おかわりもらおうかな」=
-//「あたしもー、おかわりするぞー！」=
+「ゴーヤ―って、こんなに食べやすかったんだなー」=“I never knew that bitter melons were so easy to eat-”
+「タマゴと絡んで、味がまろやかになってるんだ」=“The taste gets mellowed out when you mix it with eggs.”
+「こんなにご飯に合うなんて……最高だー！」=“I can't believe how good it is with rice... it's the best!”
+「とりあえず、ご飯おかわりもらおうかな」=“Well, I guess I'd better get some more rice.”
+「あたしもー、おかわりするぞー！」=“I'm with you- I'm gonna get seconds-!”

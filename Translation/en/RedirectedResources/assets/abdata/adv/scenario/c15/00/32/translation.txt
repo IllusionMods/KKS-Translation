@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「このお店、色んなものが売ってるよね」=
-//「面白いモノが欲しいぞー。何かないかなー」=
-//「面白いモノね……ここでしか買えない限定品みたいな？」=
-//「そういうんじゃなくて、ザリガニとかカブトムシとか、そういうのがいいぞ」=
-//「さすがに、売ってないと思うけど……」=
-//「そうか……じゃあ、ヤドカリでもいいんだけどなー」=
+「このお店、色んなものが売ってるよね」=“This store sells all kinds of stuff.”
+「面白いモノが欲しいぞー。何かないかなー」=“I want something interesting. I'll look around-”
+「面白いモノね……ここでしか買えない限定品みたいな？」=“That's interesting... it seems to be a limited edition that you can only buy here.”
+「そういうんじゃなくて、ザリガニとかカブトムシとか、そういうのがいいぞ」=“Not that kind of stuff. Crayfish, beetles... things like that are good.”
+「さすがに、売ってないと思うけど……」=“I'm not sure that they sell things like that here...”
+「そうか……じゃあ、ヤドカリでもいいんだけどなー」=“I guess... alright, these hermit crabs are fine, though...”

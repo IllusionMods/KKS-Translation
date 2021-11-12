@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あたしは気持ちよかったぞ！　キミはどうだった？」=
-//「すごくよかったよ」=
-//「なら、お互い満足したってことだな！　よかった～」=
+「あたしは気持ちよかったぞ！　キミはどうだった？」=“That felt so good! How was it for you?” 
+「すごくよかったよ」=“It was great.”
+「なら、お互い満足したってことだな！　よかった～」=“Then I guess we're both satisfied! It's all good~”

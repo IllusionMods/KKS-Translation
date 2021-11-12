@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すぅ……すぅ…………ん、んん……」=
-//（んぅ……すごく気持ちいいような……いったい、何が……？）=
-//「…………」=
-//「って……ちょっ、何して……」=
-//「ふふー、起きた起きた。それじゃあ、沢山搾り取ってやるぞ♪」=
-//「へっ？　いや、そんないきなり、ちょっと加減を……」=
-//「あはは♪　そんなことするわけないだろー」=
+「すぅ……すぅ…………ん、んん……」=“Zzz... zzz... mm, mmm...”
+（んぅ……すごく気持ちいいような……いったい、何が……？）=(Nhuu... something feels really good... what the hell?)
+「…………」=“...”
+「って……ちょっ、何して……」=“Huh... hey, what are you..?”
+「ふふー、起きた起きた。それじゃあ、沢山搾り取ってやるぞ♪」=“Fufu- you're awake. Now I'm gonna squeeze it all out of you♪”
+「へっ？　いや、そんないきなり、ちょっと加減を……」=“Eh? No, this is so sudden, give me a second...”
+「あはは♪　そんなことするわけないだろー」=“Ahaha♪ There's no way I'm gonna do that-”

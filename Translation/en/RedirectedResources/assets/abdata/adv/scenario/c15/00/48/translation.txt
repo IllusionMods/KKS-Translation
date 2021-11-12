@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この食堂、すごく美味しいぞー」=
-//「そうだね」=
-//「やっぱり遠くに来たら、地元の料理が一番だなー」=
-//「珍しいものもいっぱいあるしね」=
-//「あたし、もっと食べたくなって来たぞー！」=
+「この食堂、すごく美味しいぞー」=“This cafeteria is so great-”
+「そうだね」=“I know.”
+「やっぱり遠くに来たら、地元の料理が一番だなー」=“It turns out that when you're far away from home, local food is the best-”
+「珍しいものもいっぱいあるしね」=“There's a lot of hard-to-find stuff here.”
+「あたし、もっと食べたくなって来たぞー！」=“I'm beginning to want to eat even more-!”

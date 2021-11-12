@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すぅ……すぅ…………ん、んん……」=
-//（んぅ……ん……なにか、やわらかいものが……あたって……？）=
-//「…………」=
-//「……って、え？　え？」=
-//「へへっ、あたしのおっぱい、気持ちいいか？」=
-//「気持ちいいけど……なんで、こんな……んっ……」=
-//「んふっ、ぐっすり寝てたから、何かイタズラしようと思ってな～」=
+「すぅ……すぅ…………ん、んん……」=“Zzz... zzz... nh, mmm...”
+（んぅ……ん……なにか、やわらかいものが……あたって……？）=(Nhu... nh... something soft... is hitting me...?)
+「…………」=“...”
+「……って、え？　え？」=“...wha... eh? Eh?”
+「へへっ、あたしのおっぱい、気持ちいいか？」=“Ehehe! Do my boobs feel good?”
+「気持ちいいけど……なんで、こんな……んっ……」=“They feel good... but why are you... nh...!”
+「んふっ、ぐっすり寝てたから、何かイタズラしようと思ってな～」=“Nfuu! You were sleeping so soundly, I thought I'd play a little prank on you~”

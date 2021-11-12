@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「レストランで食べると、なんでも豪華な気がするぞー」=
-//「ホテルのレストランだし、確かにちょっと豪華なのかな」=
-//「こんなに美味しいものがいっぱい食べられて、あたしは幸せだなー」=
-//「[H名]が食べてるとこ見てるだけで、俺もなんだか幸せになってくるよ」=
-//「へへー、あたしもキミと一緒にご飯を食べるのは好きだぞ」=
+「レストランで食べると、なんでも豪華な気がするぞー」=“When you eat at a restaurant, everything seems more luxurious!”
+「ホテルのレストランだし、確かにちょっと豪華なのかな」=“This is a restaurant in a hotel. It's going to be a little more luxurious.”
+「こんなに美味しいものがいっぱい食べられて、あたしは幸せだなー」=“And there's so many tasty dishes to eat... I'm so happy-”
+「[H名]が食べてるとこ見てるだけで、俺もなんだか幸せになってくるよ」=“Just watching you eat, [H名], makes me kind of happy, too.”
+「へへー、あたしもキミと一緒にご飯を食べるのは好きだぞ」=“Ehehe- I enjoy eating a meal with you, too.”
