@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少し浜辺を歩こうよ」=
-//「はぁぁ……風が気持ち良いわね。ほら、海もとっても綺麗！」=
-//「うん、本当だ。綺麗だね」=
-//「ね、こうやってゆっくりと波の音を聴いているとすごく落ち着くと思わない？」=
-//「あ、それ聞いたことがある。ヒーリング効果ってやつかな」=
-//「そう、それ。波の音が心地よくて心が穏やかになるの。身体もリラックスして気持ちが軽くなる感じがするわ」=
-//「うん、わかるなぁ。波の音って癒される」=
-//「不安なとき、何も考えずに一人で波の音を聴くのもいいけど……私はキミと一緒がいいな。こんな風に二人で」=
-//「もちろん、俺だってそう思うよ」=
-//「ふふっ、でもね、本当は私がキミにとってのヒーリング効果になれたら……なんて思ってたりして」=
-//「えっ？」=
-//「キミが自分を落ち着けたい時、疲れすぎて思考停止になってる時……私がキミの癒しになれたらなって……」=
-//「いつでもキミを元気にしてあげたい。いつでもキミを笑顔にしてあげたい。そう思ってるのよ」=
-「[H名]……」=[H名]...
-//「ふふっ、なーんて。ちょっと自惚れすぎちゃったかしら？　大自然と比べるなんて……恥ずかしいわよね」=
-//「そんなことないよ！　今だって俺は[H名]に癒されているし……もっともっと自惚れていいよ！」=
-//「もう、そんなこと言われたら本当に自惚れちゃうわよ？　本当の本当に自惚れるからね？」=
-//「うん！　それに俺だって[H名]をいつでも笑顔にさせたいって思ってるし」=
-//「ふふっ、キミはいつでも私を元気にしてくれてるわ。ほら、今だって一番の笑顔をキミにあげてるもの」=
+「少し浜辺を歩こうよ」=“Let's take a little walk on the beach.”
+「はぁぁ……風が気持ち良いわね。ほら、海もとっても綺麗！」=“Ahhhaaa... the breeze feels good. And look, the ocean's so beautiful!”
+「うん、本当だ。綺麗だね」=“Yeah, it really is. It's quite pretty.”
+「ね、こうやってゆっくりと波の音を聴いているとすごく落ち着くと思わない？」=“Hey, don't you think it's really relaxing to listen to the sound of the waves slowly rolling in?”
+「あ、それ聞いたことがある。ヒーリング効果ってやつかな」=“Ah, I've heard about that. A 'healing effect', I suppose.”
+「そう、それ。波の音が心地よくて心が穏やかになるの。身体もリラックスして気持ちが軽くなる感じがするわ」=“That's it. The sound of the waves is soothing and calming. My body feels more relaxed... I feel lighter.”
+「うん、わかるなぁ。波の音って癒される」=“Yeah, I know what you mean. The sound of the waves is soothing.”
+「不安なとき、何も考えずに一人で波の音を聴くのもいいけど……私はキミと一緒がいいな。こんな風に二人で」=“When I'm unsettled, it's nice to just listen to the sound of waves, and not think about anything else.” 
+「もちろん、俺だってそう思うよ」=“Of course. I think so, too.”
+「ふふっ、でもね、本当は私がキミにとってのヒーリング効果になれたら……なんて思ってたりして」=“Fufu! But to tell the truth, I want to be a healing force, to you... what do you think?”
+「えっ？」=“Eh?”
+「キミが自分を落ち着けたい時、疲れすぎて思考停止になってる時……私がキミの癒しになれたらなって……」=“When you need to relax, when you're too tired to think... I hope that I can be a comfort to you.”
+「いつでもキミを元気にしてあげたい。いつでもキミを笑顔にしてあげたい。そう思ってるのよ」=“I'll always be there, to make you feel better. I always want to make you smile. That's what I think.”
+「[H名]……」=“[H名]...”
+「ふふっ、なーんて。ちょっと自惚れすぎちゃったかしら？　大自然と比べるなんて……恥ずかしいわよね」=“Fufu! Maybe I'm a little to conceited? It's embarrassing to compare myself to the great outdoors.”
+「そんなことないよ！　今だって俺は[H名]に癒されているし……もっともっと自惚れていいよ！」=“That's not true! You're healing me even now, [H名]... go ahead and be even more conceited!”
+「もう、そんなこと言われたら本当に自惚れちゃうわよ？　本当の本当に自惚れるからね？」=“Geez, if you say something like that to me, I'm really gonna fall in love with you, you know? Now I'm really, really proud, okay?”
+「うん！　それに俺だって[H名]をいつでも笑顔にさせたいって思ってるし」=“Yeah! Besides, [H名], I always want to make you smile, too.”
+「ふふっ、キミはいつでも私を元気にしてくれてるわ。ほら、今だって一番の笑顔をキミにあげてるもの」=“Fufu! You're always cheering me up. Hey, I'm giving you the biggest smile I can again.”

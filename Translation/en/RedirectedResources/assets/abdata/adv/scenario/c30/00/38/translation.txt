@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さってと、来てみたはいいけど何して遊ぼっか？」=
-//「そうだねぇ……海、砂浜……追いかけっこ……？」=
-//「うふふ、捕まえて御覧なさ～い、って？　流石にちょっと恥ずかしいわね……」=
-//「ま、まあね……それにイチャイチャなら普段からしてるしね」=
-//「そうそう。あ、でもイチャイチャしたくないわけじゃないわよ？　そこは勘違いしちゃダメだからね？」=
+「さってと、来てみたはいいけど何して遊ぼっか？」=“Well, now we're here, what should we do for fun?”
+「そうだねぇ……海、砂浜……追いかけっこ……？」=“Let's see... the ocean, the sandy beach... how about we play tag...?”
+「うふふ、捕まえて御覧なさ～い、って？　流石にちょっと恥ずかしいわね……」=“Ufufu, are you gonna come and get me~? I'm a little embarrassed...”
+「ま、まあね……それにイチャイチャなら普段からしてるしね」=“W-well... if we end up making out, we do that all the time anyway.”
+「そうそう。あ、でもイチャイチャしたくないわけじゃないわよ？　そこは勘違いしちゃダメだからね？」=“True enough. Ah, but that doesn't mean I don't want to make out with you, okay? Don't misunderstand me, alright?”

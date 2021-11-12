@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここは……エステみたいなものかしら？」=
-//「だね、スタッフはいないみたいだけど、オイルは無料みたい」=
-//「ふーん……？　折角だし、タダならちょっと塗ってもらっちゃおうかな？」=
-//「え、塗るって……俺が？」=
-//「キミ以外に誰がいるの？　大丈夫、背中だけなら恥ずかしくはないでしょ？」=
+「ここは……エステみたいなものかしら？」=“So this, here... it's like a massage salon?”
+「だね、スタッフはいないみたいだけど、オイルは無料みたい」=“There's no staff around, but it appears we're free to use the oils.”
+「ふーん……？　折角だし、タダならちょっと塗ってもらっちゃおうかな？」=“Mmm-hmm...? Well, since it's free, would you like me to spread a little on you?”
+「え、塗るって……俺が？」=“Eh, spread it on... me?”
+「キミ以外に誰がいるの？　大丈夫、背中だけなら恥ずかしくはないでしょ？」=“Who else could it be but you? Don't worry. I'll just do your back -- there's no shame in that, right?”

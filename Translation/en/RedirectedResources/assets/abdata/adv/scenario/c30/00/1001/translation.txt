@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここ涼しそうだよ。ちょっとゆっくりしていこうよ」=
-//「はぁぁ……やっぱり涼しくて快適だね」=
-//「そうね、風があって気持ちいいわ。それにほら、団扇もあって風流でしょ？」=
-//「うん、風流だ」=
-//「ふふっ、もう、本当に思っているのかしら。でもこういった空間ってすごく落ち着くわね」=
-//「自然の中にいることが？」=
-//「そう、それっ！　心が穏やかになるっていうのかしら。こんな風に自然に身を任せるのも悪くないなって」=
-//「いつも忙しなく過ごしているでしょ？　みんな何かに向かって頑張ってる。それ自体は良いことだけど……でも時々疲れちゃうわ」=
-//「うん……確かに。それは分かるよ」=
-//「でもそんな時に、自然の風や緑の匂い、海の音なんかを感じると気持ちが安定するの。大丈夫だよって励ましてくれてるみたいで」=
-//「ほら、常に自信のある人なんていないじゃない？　頑張っててもやっぱり不安にもなるし」=
-//「そうだね。でも励ましてくれるのは自然だけじゃないよ」=
-//「あっ、分かった。俺がいつも励ますぞってことでしょ？　ふふっ、お姉さん嬉しいなぁ」=
-//「そうだよ。俺がいつも[H名]の近くにいて励ましたい。大丈夫だって一番近くで言いたいよ」=
-//「ちょっ！　いきなりっ！　もー、キミってよくそんな恥ずかしいことを平気で言えるわね」=
-//「そうかな。思ったことを言っただけだよ」=
-//「ふふっ、そうだった。キミのそんな素直なところも、好きになった要因だったわ。キミらしくてすごく良いと思う」=
-//「えっと……改めて言われると照れるね」=
-//「ふふっ、ねぇ、これからもずっとそばにいてくれる？　それで私のことを一番近くで励まして欲しい……」=
-//「もちろん！　俺も……[H名]にずっとそばにいて欲しいよ」=
-//「っ！？　さすがにちょっと照れるわね。そうだ、こんな時こそ団扇だわ！　これで仰いで顔の火照りを冷ますのよ！」=
-//「あはは、いい考えかも！」=
+「ここ涼しそうだよ。ちょっとゆっくりしていこうよ」=“It's cooler here. Let's just slow down for a minute.”
+「はぁぁ……やっぱり涼しくて快適だね」=“Ahhhhaaa... it's nice and cool here, like I hoped.”
+「そうね、風があって気持ちいいわ。それにほら、団扇もあって風流でしょ？」=“Yeah, and there's a nice breeze. And look - there's an Uchiwa, too, isn't there?”
+「うん、風流だ」=“Yeah, it's quite elegant.”
+「ふふっ、もう、本当に思っているのかしら。でもこういった空間ってすごく落ち着くわね」=“Fufu! Geez, I wonder if that's what you really think. But... this kind of place is so relaxing.”
+「自然の中にいることが？」=“Surrounded by nature?”
+「そう、それっ！　心が穏やかになるっていうのかしら。こんな風に自然に身を任せるのも悪くないなって」=“That's it! It's supposed to make you feel calm and relaxed. It's not a bad thing to just let nature take it's course like this.”
+「いつも忙しなく過ごしているでしょ？　みんな何かに向かって頑張ってる。それ自体は良いことだけど……でも時々疲れちゃうわ」=“Everyone's always so busy, aren't they? Everyone all working towards something. That, in itself, is fine... but I get tired sometimes.”
+「うん……確かに。それは分かるよ」=“Yeah... absolutely. I can understand that.”
+「でもそんな時に、自然の風や緑の匂い、海の音なんかを感じると気持ちが安定するの。大丈夫だよって励ましてくれてるみたいで」=But when that happens, feeling the natural breeze, the smell of greenery, the sound of the ocean... helps to stabilize my emotions.”
+「ほら、常に自信のある人なんていないじゃない？　頑張っててもやっぱり不安にもなるし」=“Look, nobody's sure of themselves, all the time, right? Even though I'm always trying my hardest, I still get anxious.”
+「そうだね。でも励ましてくれるのは自然だけじゃないよ」=“I agree. But nature isn't the only thing that encourages me.”
+「あっ、分かった。俺がいつも励ますぞってことでしょ？　ふふっ、お姉さん嬉しいなぁ」=“Ah! I get it. You understand that I'm always here, ready to cheer you up? Fufu! You're pleased with your onee-san.”
+「そうだよ。俺がいつも[H名]の近くにいて励ましたい。大丈夫だって一番近くで言いたいよ」=“That's right. [H名], I want you around all the time, to encourage me. I want the person closest to me to tell me that everything's gonna be alright.”
+「ちょっ！　いきなりっ！　もー、キミってよくそんな恥ずかしいことを平気で言えるわね」=“Wai--! So sudden! Geez- I don't know how you can say such embarrassing things.”
+「そうかな。思ったことを言っただけだよ」=“I suppose. But I'm just saying what I'm thinking.”
+「ふふっ、そうだった。キミのそんな素直なところも、好きになった要因だったわ。キミらしくてすごく良いと思う」=“Fufu! So that's it. Your honesty's one of the things that I like about you. I think that it's really nice.”
+「えっと……改めて言われると照れるね」=“Er, um... I'm embarrassed to hear that from you again.”
+「ふふっ、ねぇ、これからもずっとそばにいてくれる？　それで私のことを一番近くで励まして欲しい……」=“Fufu! Hey, you know I want to be by your side forever, right? So I need you to encourage me to be even closer to you...”
+「もちろん！　俺も……[H名]にずっとそばにいて欲しいよ」=“Of course! I hope... you'll stay with me forever, [H名].”
+「っ！？　さすがにちょっと照れるわね。そうだ、こんな時こそ団扇だわ！　これで仰いで顔の火照りを冷ますのよ！」=“Wha-!? Now I'm the one embarrassed now, so you know. Yeah, now's the time we need that Uchiwa! I can use it to cool the heat from my face!”
+「あはは、いい考えかも！」=“Ahaha, that's probably a good idea!”

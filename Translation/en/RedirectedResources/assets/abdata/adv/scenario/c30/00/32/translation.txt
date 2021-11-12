@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、これなんてどう？」=
-//「ん、つがいの置物……？」=
-//「そ。お土産としてもいいでしょ？」=
-//「そうだね、どれどれ、どのくらい種類あるのかな……」=
-//「これなんてどう？　何だか私達っぽくない？　すっごく可愛いし――」=
+「ねぇ、これなんてどう？」=“Hey, what do you think about these?”
+「ん、つがいの置物……？」=“Nh, a pair of figurines...?”
+「そ。お土産としてもいいでしょ？」=“So. Think they'd make good souvenirs?”
+「そうだね、どれどれ、どのくらい種類あるのかな……」=“Well, there are quite a few different kinds...”
+「これなんてどう？　何だか私達っぽくない？　すっごく可愛いし――」=“What is with us? This doesn't sound like us, you know? Way too cutsie--”

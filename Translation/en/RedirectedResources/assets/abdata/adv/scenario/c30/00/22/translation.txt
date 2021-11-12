@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えっと……もう限界なのかしら？　キミが満足したのなら、いいけれど……」=Uhm... Is this your limit? If you're satisfied then its okay, but...
+「えっと……もう限界なのかしら？　キミが満足したのなら、いいけれど……」=“Um... I guess you're already at your limit? If you're satisfied, then everything's fine...”
