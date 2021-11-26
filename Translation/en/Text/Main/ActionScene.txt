@@ -45,6 +45,7 @@
 出かける=Go Out
 連絡先=Contact Info
 待ち合わせ中…=Meet me...
+取り込み中のようだ=It looks like they are busy
 
 // /ActionScene/UI/Communication/Canvas/R18
 
@@ -136,3 +137,4 @@ r:^※コイカツポイントを(\d+)pt消費します。$=※ Consumes $1 Koik
 
 //Unsorted
 オートセーブしました=Autosaved
+これ以上、この話題は獲得できません。=You can't get any more of this topic.

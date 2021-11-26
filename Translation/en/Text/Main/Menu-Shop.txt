@@ -27,6 +27,7 @@ r:^（<size%3D30>([０-９0-9]+)</size>pt消費）$=(Costs <size%3D30>$1</size> 
 //Confirmation Dialog Box
 購入確認=Purchase Confirmation
 以下のアイテムを購入します。=Buy the following items.
+ポイントが不足していて購入できません。=You don't have enough Koikatsu points.
 
 //---------------------------------------------------------
 //Shop Items

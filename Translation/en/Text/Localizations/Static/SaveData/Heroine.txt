@@ -7,3 +7,5 @@
 親愛=Beloved
 お客さん=Customer
 親友=Close Friend
+//Guide status (F4 menu)
+淫乱=Horny
