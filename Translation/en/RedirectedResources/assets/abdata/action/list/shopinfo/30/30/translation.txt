@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-詳しく島の話題を聞く=Ask for an even more interesting topic on the island
+詳しく島の話題を聞く=Ask for a rare talk topic on the island
 この島に関する、おススメの話題はいかがですか？=How about this topic? It's one that I'd definitely recommend.
 本日残り{0}回={0} items left for today
 Hな話題を聞く=Ask for an adult topic
@@ -12,10 +12,10 @@ Hな話題を聞く=Ask for an adult topic
 飲むと頻繁にトイレに行きたくなる薬。\n（翌日の一日間、女の子の行動に影響します）=A drug that makes you want to go to the toilet.\n(Affects actions of all girls on the next day)
 発汗剤=Diaporetic drug
 飲むと発汗が促進され、頻繁にシャワーやお風呂に行きたくなる薬。\n（翌日の一日間、女の子の行動に影響します）=A drug that increases sweating, thus making you want to bathe more often.\n(Affects actions of all girls on the next day)
-性技テクニック指南書（壱の書）=A guide on sex techniques (Volume 1)
+性技テクニック指南書（壱の書）=A guide on sex techniques (Vol.1)
 女の子をHに慣れやすくしたり潮吹きさせるコツが載った伝説の指南書。その１。=A legendary guide that teaches you how to make girls squirt and more used to sex. Volume 1. 
 残り{0}個={0} left in stock
-性技テクニック指南書（弐の書）=A guide on sex techniques (Volume 2)
+性技テクニック指南書（弐の書）=A guide on sex techniques (Vol.2)
 女の子をHに慣れやすくしたり潮吹きさせるコツが載った伝説の指南書。その２。=A legendary guide that teaches you how to make girls squirt even harder and more used to sex faster. Volume 2. 
-性技テクニック指南書（参の書）=A guide on sex techniques (Volume 3)
+性技テクニック指南書（参の書）=A guide on sex techniques (Vol.3)
 女の子をHに慣れやすくしたり潮吹きさせるコツが載った伝説の指南書。その３。=A legendary guide that teaches you how to make girls squirt the hardest and more used to sex the fastest. Volume 3. 
