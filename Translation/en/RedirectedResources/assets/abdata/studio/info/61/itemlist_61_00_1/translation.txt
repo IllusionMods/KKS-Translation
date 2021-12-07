@@ -1,0 +1,8 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.5 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//半リング(キャラ)=
+//四分リング(キャラ)=
+//細リング(キャラ)=
+//半細リング(キャラ)=
+//四分細リング(キャラ)=
