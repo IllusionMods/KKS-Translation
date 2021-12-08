@@ -338,7 +338,7 @@
 「あは、どーかした？」=“Aha, something the matter?”
 「あ、アタシ顔赤くなってない？　もぉ恥ずかしいよぉ～」=“Ah, isn't my face getting all red? It's super embarrassing~”
 「もう、さすがに恥ずかしいってば」=“Jeez, it really is embarrassing.”
-「もぉ、ほーんと大好きだよね」=Jeez, you really do love them, don't you?
+「もぉ、ほーんと大好きだよね」=“Jeez, you really do love them, don't you?”
 「そんなに触りたいの？　でも今はダーメ。また後で……なんてね？」=“You want to touch them that badly? You can't right now, though. Maybe later... okay?”
 「ほら、恥ずかしくなってきちゃったからおしまい。ドキドキしたらとまらないから……」=“Come on, it's getting really embarrassing so no more. If my heart starts racing it won't stop...”
 「ちゃんと目見て話そ？」=“Let's talk while looking at each other's eyes, okay?”

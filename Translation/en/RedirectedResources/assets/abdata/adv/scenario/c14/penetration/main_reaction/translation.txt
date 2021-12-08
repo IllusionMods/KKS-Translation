@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょ……なんでお前が！？」=Hey... why are you--?!
+「ちょ……なんでお前が！？」=“Hey... why are you--?!”
