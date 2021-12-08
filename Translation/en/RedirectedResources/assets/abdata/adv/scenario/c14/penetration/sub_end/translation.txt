@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「２人も相手するなんて、おまえもなかなかだな」=
+「２人も相手するなんて、おまえもなかなかだな」=“You're quite something too, keeping two girls company at once.”
