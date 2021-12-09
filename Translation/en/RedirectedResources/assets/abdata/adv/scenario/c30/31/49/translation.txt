@@ -5,4 +5,4 @@
 「そうだね、地元の人が普段食べているようなものを注文してみたいね」=“You're right. I'd like to try ordering something that the locals usually eat.”
 「うんうん、あ、これなんかどう？」=“Yeah, yeah... ah, how about this one?”
 「それは……なかなかチャレンジャーだと思うけど……」=“That'll be... quite the challenge, I think...”
-//「折角来たんだし、これで私達の思い出も増えるって思えば安いものでしょ？　ほらほら」=
+「折角来たんだし、これで私達の思い出も増えるって思えば安いものでしょ？　ほらほら」=“That's the reason we're here. Isn't it a small price to pay, to make more memories together? Hey, c'mon.”
