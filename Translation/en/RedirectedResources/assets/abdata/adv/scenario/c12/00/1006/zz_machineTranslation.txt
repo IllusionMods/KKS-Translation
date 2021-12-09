@@ -3,7 +3,6 @@
 「え？　まさか鳴らさないの？」=“What?　You're not gonna ring it?”
 「別に鳴らしてもいいよ。せっかく恋人っぽいところにいるんだし」=“I don't care if you make a noise. We're in a lovey-dovey place.”
 「そうだね、じゃあ、鳴らしてみようか」=“Yeah, let's give it a try.”
-「…………」=...............
 「……いい音だな。けど、この場合、どうなるんだ？」=“...... Sounds good. But what happens in this case?”
 「どうなるんだろうね」=“I wonder what would happen.”
 「まさか……別れることになったりしないよな？」=“You're not going to break up with me at ......, are you?”

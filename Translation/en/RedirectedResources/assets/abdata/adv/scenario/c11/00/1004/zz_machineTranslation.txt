@@ -1,4 +1,3 @@
-「少し浜辺を歩こうよ」=“Let's take a little walk on the beach.”
 「ん～……綺麗な浜辺だね」=“Hmmm. ...... It's a beautiful beach.”
 「ええ、そうねぇ……本当に綺麗。心が洗われてしまいそう……」=“Yes, yes. ...... It's really beautiful. It's really beautiful. It'll cleanse your soul. ......”
 「あ、でも、気をつけてね。砂の中に尖ったものがあるかもしれないし、漂流物に足を引っ掛けちゃうかも……」=“Oh, but you have to be careful. There might be sharp objects in the sand, or you might get your feet caught in the drift. ......”

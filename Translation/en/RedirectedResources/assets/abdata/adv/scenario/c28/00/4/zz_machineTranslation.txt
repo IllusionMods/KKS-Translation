@@ -1,7 +1,6 @@
 「なっ、わ、わしとまぐわいたいとな……？」=“Hey, you want to hang out with me at ......?”
 「あぁ、ダメ、かな……？」=“Oh, no. ......?”
 「う、ぬぅ……ダメ、ではないのじゃが……まだ付き合うてもない男としてよいものなのか、と……」=“Ugh. ...... Not that it's a bad idea, but I'm not sure if it's the right thing to do with a guy I'm not even dating yet. ......”
-「…………」=...............
 「ええぃそんな顔をするでない！　わしだってお主のに興味はあるのじゃ！」=“Don't look at me like that!　I'm interested in you too!”
 「じゃぁ……！」=“Okay, ......!”
 「よいじゃろう……わしの初めて、ありがたく受け取るのじゃ……！」=“All right, ......, take my first ......!”

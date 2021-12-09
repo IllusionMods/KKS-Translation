@@ -2,7 +2,6 @@
 「それにしても、暑いねぇ」=“It's so hot.”
 「そうですね。ここへ来てから、ずっと汗をかき続けている様な気がします」=“Yes, I do. I feel like I've been sweating ever since I got here.”
 「……汗は、身体を冷やすためにかくんですよね？」=“...... Sweat is to cool the body, isn't it?”
-「そうだね」=“Yeah.”
 「冷えていますか？　私は全然冷えているように感じません」=“Are you cold?　I don't feel cold at all.”
 「はは……汗が乾く時に、熱が奪われるはずなんだけど……俺も暑いままだよ」=“Haha ...... sweat dries up when it's supposed to take away heat, but ...... I'm still hot too.”
 「やはりそうですか…………ふぅ、暑い……」=“I'm sure you will. ............ It's hot. ......”

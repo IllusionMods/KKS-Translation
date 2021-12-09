@@ -1,4 +1,3 @@
-「それじゃあ早速鳴らそうか」=“Okay, let's ring this thing then.”
 「うん！　ドキドキする～♪」=“Yes!　I'm so excited!”
 「[H名]はウムイの鐘については知ってたんだよね」=“[H名] knew about the bells of Umui, didn't he?”
 「ガイドブックとかいっぱい買って、研究したの♪　もしこの島で恋人ができたら、絶対に鳴らしにいくぞ～って思ってたんだ」=“I bought a lot of guidebooks and did a lot of research... I thought, "If I ever get a girlfriend on this island, I'll definitely go ring her.”

@@ -41,22 +41,16 @@
 「わかりません。多分、難しいと思います」=“I don't know. I don't know. I think it would be difficult.”
 「恋心ってどんな瞬間に芽生えると思う？」=“What kind of moment do you think it takes to fall in love?”
 「難しいですね。気が付いたらすでに……というのが多い気がします」=“It's difficult. It's hard to say. I think most of the time it's already ...... before you know it.”
-「積極的な男ってどう思う？」=“What do you think of proactive boys?”
 「私は待ってしまうタイプなので、リードして頂けると色々助かります」=“I'm the type of person who waits for the right moment, so it helps me a lot if you take the lead.”
 「あまりグイグイ来られると、正直困ってしまいますね……」=“To be honest, I get annoyed when someone comes at me too hard. ......”
-「慎重な男ってどう思う？」=“What do you think of reserved, cautious guys?”
 「一緒に色々考えるのが楽しそうです。悩み事を相談し合ったり」=“What do you think of a cautious man? "I think it's fun to think about things together. We can talk about our problems.”
 「無茶をされるよりは良いですが、待ち疲れてしまいそうですね」=“It's better than being reckless, but I'd get tired of waiting.”
-「勤勉な男ってどう思う？」=“What do you think of dilligent guys?”
 「尊敬いたします。一緒に成長していける関係って素敵ですよね」=“I respect them. It's nice to have a relationship where you can grow together.”
 「何かに没頭されると、私のことなんて忘れられてしまいそうですね」=“It's nice to have a relationship where you can grow together. - If he gets lost in something, he'll forget about me.”
-「マイペースな男ってどう思う？」=“What do you think of easygoing guys, guys that go at their own pace?”
 「問題ありませんよ。私、合わせるのは得意な方なので」=“What do you think of fast-paced men? I'm good at adapting.”
 「何かと苦労しそうですね、合わせられる限界というものもありますから」=“I think you'd have a hard time with that. There's a limit to how much you can fit in.”
-「優しい男ってどう思う？」=“What do you think of gentle, kind guys?”
 「安直ですが、愛されていると一番実感できそうな気がします」=“It's easy to say, but I think it's the best way to feel loved.”
 「優しくされ過ぎると、何か裏があるのでは疑ってしまいますね」=“If he's too nice, I suspect there's more to him than meets the eye.”
-「クールな男ってどう思う？」=“What do you think of the "cool" sort of guys?”
 「一緒にいると安心できそうですね。何があっても守って頂けそうで」=“What do you think of a cool guy?" "I feel safe with him. I feel safe with him. He seems like he can protect me no matter what.”
 「話が続かないと困ってしまいますね。沈黙は、少し苦手なので……」=“I'll be in trouble if you don't continue talking. I'm not very good at silence. ......”
 「エッチな話って好き？」=“Do you like to talk about sex?”
@@ -120,7 +114,6 @@
 「一緒にご飯を食べに行こうよ」=“Let's go to dinner together.”
 「わかりました。どこで食べるんですか？」=“Okay, sure. Where are we going to eat?”
 「ごめんなさい。今は、食事の気分ではないんです」=“I'm sorry. I'm not in the mood for food right now.”
-「ちょっと付いてきてくれない？」=“Would you like to follow me?”
 「いいですよ。どこかに用があるのですか？」=“That's okay. Do you have somewhere to be?”
 「あ、その、先約がありまして……本当にすみません」=“Oh, well, I'm afraid I have a prior engagement. ...... I'm really sorry.”
 「まさか、覗きに来たのですか？　何をしてるんですか、もう」=“Are you just peeking in?　What the hell are you doing?”
@@ -260,7 +253,6 @@
 「よろしければ、私と食事に行きませんか？」=“Would you like to have dinner with me, if you don't mind?”
 「良かったです。何を食べに行きましょうか」=“Great. What would you like to eat?”
 「そうですか……なら、食事はまた今度にしますね」=“Well, if you're going to ......, I'll see you later.”
-「ちょっと付いてきてもらっていい？」=“Could you come with me for a moment?”
 「はい、問題ありませんよ」=“Yes, that won't be a problem.”
 「今ですか？　その……少し都合が悪いですね。すみません」=“Now?　That ...... is a little inconvenient. Sorry.”
 「きゃぁ！　ダメですよ、いくら恋人同士でも、一緒にトイレなんて……」=“Oh, no!　No, you can't go to the bathroom with me, no matter how much we love each other. ......”
@@ -314,7 +306,6 @@
 「えっ！　あの、え？　そう言われて、私はどうしたらいいのですか？」=“Ew!　Um, huh?　What am I supposed to do when you say that?”
 「[H名]の事考えると、すごく幸せな気分になるんだ」=“When I think about [H名], it makes me feel so happy.”
 「私も……私も貴方の事を考えると、とても幸せになります」=“I also ...... feel very happy when I think about you too.”
-「生理って重い方？」=“Is your period heavy?”
 「は、はい、割と……なるべく迷惑はかけないようにいたしますので」=“Yes, well, ...... I'll try not to cause you any trouble.”
 「そうでもないと思います。お気遣い頂き、ありがとうございます」=“I don't think so. Thank you for your concern.”
 「乳首って感じやすかったりする？」=“Do your nipples feel good to you?”
@@ -370,7 +361,6 @@
 「あ、あの、もしよろしければ、私とご一緒、しませんか？　その、Ｈなことを……」=“Oh, um, if you don't mind, would you like to join me?　You know, do something sexy. ......”
 「あ、ありがとうございます！　それでは、精一杯頑張らせて頂きますね」=“Oh, thank you so much!　Well, I'll do my best.”
 「うぅ、やはりはしたなかったでしょうか？　嫌いに、ならないでくださいね？」=“I'll do my best.　Please don't hate me, okay?”
-「ねぇ、ここで[H名]とHしたいな」=“Hey, I want to have sex with you here, [H名].”
 「んっ、見せつけろとおっしゃりたいわけですね……わかりました」=“Hmm, you want me to show you. ...... Okay.”
 「ここではその、人目がありますので……どうか、許してください」=“Please forgive me if I don't do it here in ...... the public eye.”
 「あのさ、ここで[H名]とHしてみたいな」=“You know, I'd like to have sex with [H名] here.”
@@ -392,7 +382,6 @@
 「どうでしょう、私と食事に行きませんか？」=“I wonder, would you like to have dinner with me?”
 「ありがとうございます。一緒に食事ができるの、嬉しいです」=“Thank you very much. I'd be happy to have dinner with you.”
 「食事はやめておくんですね？　分かりました」=“You're not going to have dinner with me, are you?　Yes, sir.”
-「あのさ、俺の部屋に来てくれない？」=“Um, hey, why don't you come to my room?”
 「はい……お邪魔させて頂きます」=“Yes, sir. ......, I'm sorry to bother you.”
 「[H名]、付いてきて？」=“[H名], will you follow me?”
 「はい。手を繋いだりは……やり過ぎですね」=“Yes. Holding hands is ...... a bit much.”
@@ -407,7 +396,6 @@
 「ふふっ♪　ふふふっ♪　あはっ♪　まぁっ♪」=“Fufu ♪ Fufufu ♪ Aha ♪ Maa ♪”
 「あの……　その……　んぅぅ……　うぅぅ……　それは……」=“Um, ......, that ......, uhhh ......, that .......”
 「あのー、そのー、あのですね、えぇと、今良いですか？」=“Um, can I, um, can I, um, can I come in now?”
-「ねぇ、[Hあだ名]」=“Hey, [Hあだ名]”
 「あっ、えぇと、[Pあだ名]。んぅ、なかなか慣れませんね」=“Oh, uh, [Pあだ名]. Hmm, that's hard to get used to.”
 「何でしょうか？　普通に呼んで頂けますか？」=“What is it?　Can you call me something normal?”
 「えぇと……[Pあだ名]」=“Uh, ......[Pあだ名].”

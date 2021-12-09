@@ -1,5 +1,3 @@
-係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please join up in pairs.”
 「キャンプファイヤーか。たぶんフォークダンスも踊ると思うよ」=“A campfire. Maybe there'll be folk dancing.”
 「Ｗｏｗ！　Ｆｏｌｋｄａｎｃｅ♪　アナタと踊りたい♡　踊ってもイイカナ？」=“Wow, I want to dance with you, can I?”
 「もちろん。やったことはある？」=“Sure. Have you ever done it before?”
@@ -10,7 +8,6 @@
 「初めてのｆｏｌｋｄａｎｃｅ、ホントに好きな人と踊れて、ワタシ嬉しいヨ♡」=“It's my first folkdance, and I'm so happy to be dancing with someone I really like.”
 「じゃあ今日は思い切り踊っちゃおう」=“Let's dance the night away.”
 「Ｓｕｒｅ♡　大賛成っ！」=“Sure, I'm so happy!”
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“...I hope everyone's got a partner? Well then, I'll put on the music as soon as you're ready.”
 「コウ？　イイ感じ？　ボンオドリになってナイ？」="Ko?　That's good?　Isn't that a little too "Bon Odori" for you?
 「平気平気、踊り方可愛いよ」=“I'm fine. You dance so cute.”
 「エ～ッ♡　フフッ、何だか照れちゃう、照れちゃうヨ～♡　イチ、ニ、イチ、ニ♪」=“♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡”

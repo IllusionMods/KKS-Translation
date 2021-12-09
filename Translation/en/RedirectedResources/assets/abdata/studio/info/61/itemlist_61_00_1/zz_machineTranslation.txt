@@ -1,0 +1,5 @@
+半リング(キャラ)=Half Ring (Character)
+四分リング(キャラ)=Quarter ring (character)
+細リング(キャラ)=Thin ring (character)
+半細リング(キャラ)=Half Thin Ring (Character)
+四分細リング(キャラ)=Quarter thin ring (Character)

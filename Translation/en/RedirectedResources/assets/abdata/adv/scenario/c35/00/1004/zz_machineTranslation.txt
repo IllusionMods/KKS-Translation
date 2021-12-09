@@ -1,4 +1,3 @@
-「少し浜辺を歩こうよ」=“Let's take a little walk on the beach.”
 「んーっ、風が気持ちいいー！　海の香りも良いし、波の音も心地良いー！」=“Mmm, the breeze feels good!　The smell of the sea is nice, and the sound of the waves is soothing.”
 「あははっ、いきなり盛り沢山な感想だ」=“I'm happy if you're happy! - Hahaha, that's a lot of feedback right off the bat.”
 「えへへ。私って山育ちやけん、まさに海ですーって場所やとテンション上がるっちゃん！　めっちゃ楽しい！」=“Heh. I grew up in the mountains, so I get excited when I go to places that are right on the ocean!　It's so much fun!”

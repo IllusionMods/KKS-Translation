@@ -16,4 +16,3 @@
 スイカ割り 誘導=Watermelon splitting guidance
 丸太とび1=Log jumping1
 丸太とび2=Log jumping2
-平均台=Balance Beam

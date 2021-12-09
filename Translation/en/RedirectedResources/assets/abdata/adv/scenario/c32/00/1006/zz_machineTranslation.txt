@@ -7,7 +7,6 @@
 「はは、そうだね」=“Ha, yeah.”
 「いい音ですね。辺りに響き渡っています……」=“It's a good sound. It's echoing all around. ......”
 「うん、いい音だね」=“Yeah, that sounded good.”
-「………………」=...
 「……何か変化はあったでしょうか？」=“...... Have you noticed any changes?”
 「いやぁ、特には……」=“No, not really. ......”
 「で、では、もう一度鳴らしてみましょう」=“Well, let's play it again.”

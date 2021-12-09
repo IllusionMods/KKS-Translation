@@ -1,6 +1,5 @@
 「その……下僕と家畜って何が違うの？」=“What's the difference between a ...... servant and a domestic animal?”
 「はぁ、そんなことも分からない愚図なら、下僕にするのは取り止めようかしら」=“Well, if you're too stupid to know that, I'm not going to make you my servant.”
-「えっ！？」=“Eh!?”
 （しょ、正直よく分からないけど、ここで下僕にならないと後悔する気がする……！）=(I honestly don't know, but I feel like I'll regret not becoming a servant here. ......!
 「なるよっ！　俺、[H名]さんの下僕になりますっ！」=“I will!　I'm going to be [H名]'s servant!”
 「初めからそう言えばいいのよ。それじゃ、貴方のことは、私専用の下僕として、これからたっぷり可愛がってあげるわ」=“You should have said that from the beginning. Then you'll be my personal servant and I'll take good care of you.”

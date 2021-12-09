@@ -1,4 +1,3 @@
-「ちょっとお土産を見てこうよ」=“Let's take a look at the souvenirs.”
 「ちんすこうかぁ。この地方の定番お土産だね」=“Chinsuko, huh? It's a popular souvenir in this region.”
 「美味しそうですわ！　ご存知？　これ、お茶請けにぴったりですのよ」=“It looks delicious!　Did you know?　It's a perfect snack for tea.”
 「パサパサだから、飲み物必須だよね」=“It's so dry, you need a drink.”

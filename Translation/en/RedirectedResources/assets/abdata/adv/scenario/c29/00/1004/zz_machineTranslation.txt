@@ -1,6 +1,5 @@
 「ねぇ、ちょっと散歩しない？」=“Hey, do you want to go for a walk?”
 「何度来ても、素敵なビーチだよね」=“It's always a nice beach, isn't it?”
-「…………」=...............
 「あれ？　ノーリアクション……どうかしたの？」=“Huh?　No reaction. ...... What's wrong?”
 「あ、いえ、色々と思うことがありまして……」=“Oh, no, I've got a lot on my mind. ......”
 「……それ、不吉な言い方だね……その切り出し方って、だいたい嫌な流れになりそうなんだけど……」=“...... That's an ominous way of putting it. ...... The way you start off, it's usually going to be a nasty trend. ......”

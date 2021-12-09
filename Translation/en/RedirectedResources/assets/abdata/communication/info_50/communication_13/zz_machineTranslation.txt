@@ -19,7 +19,6 @@
 「う～ん、気に入った人からだったら、割となんでもいいかなー」=“Well, I don't really care what it is, as long as it's from someone I like.”
 「ごめんねー、もう時間なんだ。また話そうねー」=“I'm sorry, it's time to go. I'll talk to you later.”
 「あ、アタシもう行くから。またね～」=“Oh, I'm leaving now. See you later.”
-「一緒に観光しない？」=“Why not go sightseeing with me?”
 「いいよー、どこ行こっか？」=“Okay, where do you want to go?”
 「ごめんね～、今はやめとくよー」=“I'm sorry, I can't right now.”
 「俺と一緒に遊ぼうよ」=“Come hang out with me.”
@@ -113,7 +112,6 @@
 「やっぱり俺、キミの事大好きだ」=“I really like you.”
 「きゅ、急に何～？　アタシだって、[P名]くんの事、大好きだよ？」=“What's with you all of a sudden?　I love you too, [P名].”
 「まったくも～、エッチな話が好きなんだから……」=“I love you too. - You're so naughty. ......”
-「もぉ、ほーんと大好きだよね」=“Oh, I love you so much, don't I?”
 「楽しかったー。また話しようね」=“That was fun. Let's talk again.”
 「もうちょっとおしゃべりしたかったけど……バイバイ」=“I wanted to talk to you more, but ...... bye.”
 「ごめんねぇ、今あんまり気分が乗らないんだよねー」=“I'm sorry, I'm not really in the mood right now.”
@@ -133,5 +131,4 @@
 「あのさ、アタシと一緒にご飯食べようよ」=“Hey, let's have dinner with me.”
 「そうそう！　どうせ食べるのなら一緒の方が美味しいっしょ」=“Yes, yes!　If you're going to eat, it's better to eat together.”
 「なんだぁ、もうお腹いっぱいだったりするの？」=“Oh, you're not full already, are you?”
-「俺の部屋に来てくれない？」=“Why don't you come to my room?”
 「いいよ～。キミの部屋に行くの、楽しみかもー」=“I'm fine. I'm looking forward to going to your room.”

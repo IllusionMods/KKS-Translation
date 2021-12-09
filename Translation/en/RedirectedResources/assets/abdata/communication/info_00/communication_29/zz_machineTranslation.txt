@@ -53,7 +53,6 @@
 「マイペースな男性ってどうかな？」=“What do you think of men who take things at their own pace?”
 「縛られすぎない感じで、憧れます」=“I admire men who are not too tied down.”
 「どちらかと言えば、周囲に合わせられるタイプの方が付き合いやすいでしょうか」=“I think it's easier to date a man who can adapt to his surroundings.”
-「優しい男性ってどう？」=“How do you feel about gentle guys?”
 「人のためになにかができる――素敵だと思います」=“I think it's nice to be able to do something for others.”
 「気を使いすぎて倒れてしまわないか、不安になります」=“I'm worried that I'll fall over from being too careful.”
 「クールな男性ってどう？」=“What do you think of cool guys?”
@@ -261,7 +260,6 @@
 「では行きましょう。あなたと食べたくてお腹を空かせておいたのです」=“Then let's go. I've been hungry to eat with you.”
 「そうですか、お腹が空いていないのなら仕方ありません」=“Well, if you're not hungry, I don't blame you.”
 「ちょっと付いてきてくれるかな」=“Will you follow me for a moment?”
-「はい。なんですか？」=“Yes, what is it?”
 「この後は都合が……申し訳ありません」=“I'm sorry I can't ...... do that later.”
 「まったくもう……。変なことをしてはいけませんからね？」=“I'm so ...... sorry. You mustn't do anything strange, okay?”
 「もはや開き直りの域ですね……」=“It's a bit of a reckoning. ......”
@@ -370,7 +368,6 @@
 「はしたないことを承知で言います。私とエッチしてくれませんか？」=“I know it sounds trite, but I'm going to say it. Will you have sex with me?”
 「……ふぅ、よかったです。断られたら泣いてしまうところでした」=“...... Hmm, that's good. I would have cried if you said no.”
 「ううっ……だ、ダメですか、そうですか……」=“Ugh ......, no, no, no, no. ......”
-「ここで[H]とHしたいんだ」=“I wanna do it here with you, [H].”
 「とんでもないことを仰いますね……ま、まあ構いませんけれど」=“That's a terrible thing to say. ...... Well, I don't mind, but...”
 「いくらなんでも場所を考えてください。せめて他のところでしたら……」=“I don't mind, but you have to think about where you're going. You can at least go somewhere else. ......”
 「こ、ここで……スリルのあるエッチも悪くないかもしれませんね」=“Here ...... might not be a bad idea to have a thrilling sex.”
@@ -393,7 +390,6 @@
 「そうですか……では、お腹が空いたときにまた行きましょう」=“Okay, I'll go to ...... and we'll go again when I'm hungry.”
 「ねぇ、これから部屋、こない……？」=“Hey, do you want to come to ...... my room now?”
 「あなたのお部屋、ですか…………はい、行かせていただきます」=“Your room? ............ Yes, I'd like to come.”
-「ちょっと付いてきてくれる？」=“Can you come with me for a sec?”
 「ええ、もちろん良いですよ」=“Yes, of course you can.”
 「……すみません。今は無理です」=“...... I'm sorry. I can't right now.”
 「はい」、「ええ」、「そうですね」=Yes. - Yes. - Yes, you can.
@@ -406,10 +402,8 @@
 「くすっ」、「ふふふっ」、「あはっ」=giggling," "giggling," "giggling," "giggling," "giggling.
 「恥ずかしいです……」、「も、もう……」、「あうぅ……」=I'm so embarrassed. ......" "Oh, my God. ......" "Oh, my God. ......
 「そう言えば――」、「聞いてくださいますか？」、「ちょっと良いですか？」=Speaking of which..." "Can I have your attention, please?" "Do you have a minute?
-「ねぇ、[Hあだ名]」=“Hey, [Hあだ名]”
 「ど、どうかしましたか？　えっと……[Pあだ名]。……照れくさいですね」=“What's wrong?　Well, ......[Pあだ名]. ...... It's embarrassing.”
 「……そういう雰囲気ではないと思うのですが」=“...... I don't think we're in that kind of mood.”
-「あの……[Pあだ名]」=“Uhm... [Pあだ名]”
 「なに？　[Hあだ名]」=“What?　[Hあだ名]”
 「よ、呼んでみただけ……です」=“No, I'm just calling you .......”
 「は、はい……良いですよ。[Pあだ名]とのエッチ……満たされる感じがしますから」=“Yes, ...... is good. It's good to have sex with [Pあだ名] because it feels ...... fulfilling.”

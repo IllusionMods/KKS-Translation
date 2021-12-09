@@ -33,7 +33,6 @@
 「散り際が儚いほど花は綺麗に咲くものだよね」=“The more fleeting the fall, the more beautiful the bloom.”
 「ふふっ、詩的な表現ね。そうね。生命の神秘を感じるわ」=“Hmm, that's very poetic. Yes, it is. I feel the mystery of life.”
 「一夜限りの命なら私も最後は華々しく……なんてね。冗談よ」=“If it's only for one night, I'll end up on ...... with a bang. Just kidding.”
-「ほっ、よかった……」=“Whew, that's good...”
 「ふふっ、心配させてごめんなさい」=“Hmm. Sorry to worry you.”
 「実はずっと鳥の巣を見守ってたんだ。雛がようやく孵ってホッとしたよ」=“I've been keeping an eye on the bird's nest. I was so relieved when the chicks finally hatched.”
 「お疲れ様。でも、寂しくならない？　情が移ったりしないのかしら」=“Thank you for your hard work. But don't you get lonely?　I wonder if you'll ever get attached to them.”

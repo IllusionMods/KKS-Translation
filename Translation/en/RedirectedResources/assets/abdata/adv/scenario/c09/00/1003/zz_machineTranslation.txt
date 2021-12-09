@@ -1,4 +1,3 @@
-「お土産を見てみようよ」=“Let's have a look at the souvenirs.”
 「旅行のお土産っていったらお菓子よね！　定番だわ」=“The most common souvenir of a trip is sweets!　It's a classic.”
 「もらって困るものじゃないしね」=“It's not like we're friends.”
 「絶対って言える？　賞味期限がタイトだったとしても……かしら」=“How can you be sure?　Even if the expiration date is tight, it's .......”

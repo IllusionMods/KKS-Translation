@@ -9,7 +9,6 @@
 「ふぇっ……！？」=“Huh ......?”
 「もちろん異性として好きって意味だからね」=“Of course I like you as a person.”
 「俺と同胞以上の関係に……恋人になってほしいんだ！」=“I want us to be more than just compatriots. I want us to be ...... lovers!”
-「…………」=...............
 「あ、あれ？　黙ってどうしたの。もしかして迷惑だった？」=“Oh, what?　What's wrong with you? Are you bothering me?”
 「しょ、しょんなことありませんっ！」=“I don't have to be a dick!”
 「え……？　急に普通の口調？」=“What, ......?　What's with the normal tone?”

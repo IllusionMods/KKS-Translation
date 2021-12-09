@@ -10,7 +10,6 @@
 「えへっ。ごめんごめん。一度やってみたかったの」=“Heh. Sorry, sorry. I wanted to try it once.”
 「意地悪な子だなぁ。それならお返しだ」=“You're a mean girl. I'll return the favor.”
 「大きく息を吐いて～」=“Take a big breath.”
-「ふぅ……」=“Fuu...”
 「吐き続けて～」=“Keep spitting.”
 「はぁぁ～……」=“Haaah~ ......”
 「ここで深呼吸！　[H名]が吐いた息を俺が吸う」=“Take a deep breath here!　[H名] breathes out, I breathe in.”
