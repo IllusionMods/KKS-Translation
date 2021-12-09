@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「ねぇ……部屋に入れて欲しいのだけど」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
 //「こんな時間にどうしたの？　何かあった？」=
 //「何かは、これからあるのよ」=
 //「彼女が彼氏の部屋に来たんだから、そういうサインだって分かってほしいわ」=

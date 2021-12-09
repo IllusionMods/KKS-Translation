@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少し浜辺を歩こうよ」=
+「少し浜辺を歩こうよ」=“Let's take a little walk on the beach.”
 //「ん～……綺麗な浜辺だね」=
 //「ええ、そうねぇ……本当に綺麗。心が洗われてしまいそう……」=
 //「あ、でも、気をつけてね。砂の中に尖ったものがあるかもしれないし、漂流物に足を引っ掛けちゃうかも……」=

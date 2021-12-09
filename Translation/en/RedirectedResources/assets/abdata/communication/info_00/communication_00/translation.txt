@@ -59,7 +59,7 @@
 「優しい男性ってどう思う？」=“What do you think of kind and gentle guys?”
 「もちろん、好きよ♡　どんな時でも、ね……♡」=“I like them, of course♡ Gentleness is nice, no matter what time of day it is...♡”
 「自分を犠牲にされると、ちょっと気を遣っちゃうな……」=“I'd be a bit worried if they started sacrificing their own happiness for mine...”
-「クールな男性ってどう思う？」=“What do you of cool guys?”
+「クールな男性ってどう思う？」=“What do you think of cool guys?”
 「ふふ……そういう相手をメロメロにするのが快感なのよね～♡」=“Fufu... making those sorts of guys fall for you is where it's at, isn't it~♡”
 「冷たいのはお断り。やっぱり私に興味持ってもらいたいじゃない」=“If they're cold, then I'm good. I'd like to have my partner be atleast a bit interested in me.”
 「エッチな話題には抵抗がない？」=“Would it put you off if I talked about lewd stuff?”

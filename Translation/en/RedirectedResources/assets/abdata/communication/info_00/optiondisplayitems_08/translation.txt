@@ -27,5 +27,5 @@ OPTION[204]:いいよ=Alright.
 OPTION[204]:ごめん=Sorry.
 OPTION[205]:いいよ=Alright.
 OPTION[205]:ごめん=Sorry.
-//OPTION[207]:いいよ=
-//OPTION[207]:ごめん=
+OPTION[207]:いいよ=OK.
+OPTION[207]:ごめん=Sorry.

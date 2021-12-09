@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あのさ、ちょっとお願いがあるんだけど……」=
+「あのさ、ちょっとお願いがあるんだけど……」=“Um, so, I have a little request for you...”
 //「内容によるけど、聞くだけは聞いてあげるわよ」=
 //「なら大丈夫かな。その、俺たち、そろそろ愛称で呼び合うのはどうかなって」=
 //「そういえば、考えたこともなかったわね」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃあ早速鳴らそうか」=
+「それじゃあ早速鳴らそうか」=“Okay, let's ring this thing then.”
 //「うん！　ドキドキする～♪」=
 //「[H名]はウムイの鐘については知ってたんだよね」=
 //「ガイドブックとかいっぱい買って、研究したの♪　もしこの島で恋人ができたら、絶対に鳴らしにいくぞ～って思ってたんだ」=

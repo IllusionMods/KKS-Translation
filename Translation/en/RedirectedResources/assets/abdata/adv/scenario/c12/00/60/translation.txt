@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「遅い時間に悪い。部屋に入れてくれないか？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
 //「いいよ。どうしたの？」=
 //「ぅ……その、なんだ……柄じゃないことを言っちゃうんだけど、なんか急におまえに会いたくなって……」=
 //「だから……しばらく、そばにいさせてくれ。あまえの温もりを……感じていたいんだ」=
