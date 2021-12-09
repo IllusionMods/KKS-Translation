@@ -46,7 +46,7 @@
 「ん？　ああ、あるぜ……女子からだけどな……」=“Hm? Yeah, I have... only by girls though...”
 「積極的な男性ってどう思う？」=“What do you think of aggressive guys?”
 「良いんじゃないか？　求められるってのは嬉しいもんだろ」=“They're nice, no? It feels nice to be wanted.”
-「私とはあんま相性良くないだろうな……お互い嚙みつき合いそうだ」=“I don't think I'd get along with one all that well... We'd bite each other off.”
+「私とはあんま相性良くないだろうな……お互い嚙みつき合いそうだ」=“I don't think I'd get along with one all that well... We'd bite each other's heads off.”
 「慎重な男性ってどう思う？」=“What do you think of cautious guys?”
 「気づかってくれそうで、私は好きだぜ？」=“I like being cared for, you know?”
 「慎重って悪く言えば優柔不断だろ？……ちょっとなぁ」=“Putting it another way, they'd just be very shilly-shally, no? ...Not for me.”
@@ -141,7 +141,7 @@
 「その、なんだ……。私にもっと、頼っていいから……な？」=“Listen, uhm... You can, you know, rely on me a bit more... okay?”
 「わ？！　おどかすなよな～……グーで殴るとこだったぞ！　ハハ」=“Wah!? Don't scare me~... I was about to sock you right in the face! Haha.”
 「おっ、何だ、何だ～」=“Oh--, what's up~”
-//「おっす、なんか話でもあるのか？」=
+「おっす、なんか話でもあるのか？」=“Hey there, got something to tell me?”
 「おう、お前は元気そうだな」=“Hey, lookin' good there.”
 「音楽とかよく聞いたりするの？」=“You listen to much music?”
 「とりあえず流行は押させてるぞ。カラオケに誘われてもバッチリだぜ」=“I'm really pushing the trends lately. I'm totally up for karaoke.”
@@ -170,7 +170,7 @@
 「ナンパとかされたことある？」=“Ever been hit on before?”
 「ないな。ガサツだけど私も女だから、誘われそうな場所は出歩かない様にしてるんだ」=“Nope. I might be crass, but I'm still a woman. I try not to go anywhere someone might try to pick me up.”
 「ないっ。そもそも私を誘う奴なんていないだろ」=”Nope. No one's ever asked me out in the first place.”
-「……小っ恥ずかしいからさ、別の話にしようぜ」=“...It's a bit embarrassing, so let's talk about something else.”
+「……小っ恥ずかしいからさ、別の話にしようぜ」=“...That's a little embarrassing, so let's talk about something else.”
 「この間、読んだ漫画なんだけど……」=“I read this in a manga the other day...”
 「教師と生徒の禁断の……漫画の世界だな」=“A forbidden romance between a teacher and a student... Can't happen outside of a manga.”
 「映画のエッチなシーンとか、好き？」=“Do you like the sex scenes in movies?”
@@ -258,15 +258,15 @@
 「おお、サンキュー！　一人だとどうしてもやる気が出なくてさ……助かるぜ」=“Ohhh, thank you! I just can't seem to get motivated when I'm by myself... thanks, man.”
 「ダメか……また今度付き合ってくれたら嬉しいぜ」=“No good, huh... I hope you'll head out with me again, some time.”
 「そろそろ、ご飯にしない？」=“Isn't it about time to eat?”
-//「いいね～！　誰かと食べた方がご飯は美味しいしな！」=
+「いいね～！　誰かと食べた方がご飯は美味しいしな！」=“That's great~! Food tastes better if you eat it with someone!”
 「悪い、まだそこまで空いてないんだ」=“Too bad... you're not that hungry yet.”
 「まだメシを食ってないなら、一緒に食べようぜ」=“If you haven't eaten yet, come eat with me.”
 「よし、決まりだな！　さ～て、今日は何を頼むかな～」=“Right, done deal! Well, let's see what we can order today~”
 「無理やり食っても仕方ないしな……また今度食べようぜ」=“I can't force you to eat... but let's eat together some time.”
 「ちょっと付いてきてくれない？」=“Would you follow me for a second?”
-「ん？　どうしたんだ？」=“Hm? What's the matter?”
+「ん？　どうしたんだ？」=“Hm? What's going on here?”
 「悪いけど、これから急ぎの用があるんだ。また今度な！」=“Sorry, but there's something I really need to get done in a bit. Maybe some other time!”
-「おーい、ここは女子専用なんだぞ……。そんなに私に会いたかったのか？」=“Hey, this is for girls' only, you know... Did you want to see me that much?”
+「おーい、ここは女子専用なんだぞ……。そんなに私に会いたかったのか？」=“Hey, this is for girls only, you know... Did you want to see me that much?”
 「ちょっ、他にもいるから、不味いって！」=“Hey--, there's other girls here too, so don't!”
 「あ、あんまり見ないでくれよな？　でも、こっち来ても……いいぞ？」=“D-Don't stare too much, okay? But, you can... come closer, you know?”
 「こらっ。私のは良いけど、他の女子は見ちゃダメなんだぞ！」=“Hey--. I don't mind if you look at me, but don't ogle other girls!”
@@ -365,7 +365,7 @@
 「あーもうっ！　私の体って正直だから困るよ。次、期待してるからな？」=“Aah, jeez--! My body's way too damn honest. I'm really looking forward to our next time, okay?”
 「名残惜しいけど、またな！」=“I really don't want to part but, till next time!”
 「あぁ、もう時間か……また後でな！」=“Ahhh, time's up... I'll see you later!”
-//「話したりないが……こればっかりは仕方ねぇか」=
+「話したりないが……こればっかりは仕方ねぇか」=“We don't have much to say... I guess this is all we can do.”
 「よし、楽しみは次回にとっておこう。次が待ち遠しいよ！」=“Aight, let's save the rest for next time. I can't wait for it!”
 「も、もうか……？　そんじゃあな」=“A-Already...? See ya then.”
 「なんだよ～……わ、私、そんなに良かったのか？　……いいよ」=“What~... W-Was I really that good? ...Alright.”

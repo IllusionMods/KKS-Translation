@@ -14,7 +14,7 @@
 「[H名]と一緒に見たこの光景、俺……一生忘れないと思う」=“I'll never forget watching this with you, [H名].”
 「そ、そういうこと言われちゃうと……まあ……」=“Wh-when you say that me... well...”
 「かもな？　ちょっとくらいは、運命を感じたりするかもしれない」=“Maybe... well, maybe I'm feeling a little bit fated too.”
-「…………」=...
+「…………」=“...”
 「この島に来て、楽しいことたくさんあったし……キレイなものたくさん見たけど」=“I showed up on this island, and had a lot of fun... and I saw so many beautiful things.”
 「これが一番かも。見てると……なんだろ？　息苦しくなってくるくらい」=“But maybe this is the best of them all. Looking at it just... what do they call it? It feels like I'm you gasping for breath.”
 「わかる。上手く言えないけど……」=“I know. I don't know how to put it either but...”

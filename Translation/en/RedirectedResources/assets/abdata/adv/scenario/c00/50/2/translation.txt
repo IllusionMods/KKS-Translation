@@ -27,7 +27,7 @@
 「だから……私と、どうなりたいのかな～って。ほら、もっと具体的な関係があるでしょう？」=“Well... I'm wondering what you want to do with me. Look, couldn't you be more specific about the relationship we'll have?”
 「あ……うん、えーっと、だから……友達以上の間柄になれればいいな～って……」=“Ah... yeah, er, um, so... I'm hoping that we can be more than just friends...”
 「……もう。そんな言葉じゃドキドキがしぼんじゃうわ」=“...geez. That didn't do very much for me.”
-//「もっと自信を持っていいのよ。そうやって、顔色を窺うような言い方じゃなくって、男らしく、大胆な言葉がいいわ」=
+「もっと自信を持っていいのよ。そうやって、顔色を窺うような言い方じゃなくって、男らしく、大胆な言葉がいいわ」=“You need to be more confident. I want to hear a masculine, bold statement, not a flirty one like that.”
 「お、俺様のモノになりな！」=“Oh, you belong to me!”
 「……それは、行き過ぎかな。普通に『彼女になってくれ』とか『恋人になろう』とか……そういう感じがベストかしら」=“...no, that's going too far. One usually says, 'be my girlfriend', or, 'let's be lovers'... I'm thinking that would be better.”
 「……なるほど。わかった。あの……もう一度やり直していい？」=“...so that's it. I understand. Um... can I try again?”

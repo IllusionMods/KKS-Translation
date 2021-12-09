@@ -266,7 +266,7 @@
 「ちょっと付いてきてくれない？」=“Would you follow me for a second?”
 「ん？　どうしたんだ？」=“Hm? What's going on here?”
 「悪いけど、これから急ぎの用があるんだ。また今度な！」=“Sorry, but there's something I really need to get done in a bit. Maybe some other time!”
-「おーい、ここは女子専用なんだぞ……。そんなに私に会いたかったのか？」=“Hey, this is for girls only, you know... did you want to see me that much?”
+「おーい、ここは女子専用なんだぞ……。そんなに私に会いたかったのか？」=“Hey, this is for girls only, you know... Did you want to see me that much?”
 「ちょっ、他にもいるから、不味いって！」=“Hey--, there's other girls here too, so don't!”
 「あ、あんまり見ないでくれよな？　でも、こっち来ても……いいぞ？」=“D-Don't stare too much, okay? But, you can... come closer, you know?”
 「こらっ。私のは良いけど、他の女子は見ちゃダメなんだぞ！」=“Hey--. I don't mind if you look at me, but don't ogle other girls!”
@@ -295,7 +295,7 @@
 「明日の天気って分かる？」=“I wonder what the weather'll be like tomorrow?”
 「天気予報はチェックしてなくてな、サッパリだ！」=“I didn't check the forecast. I have no clue!”
 「さぁ？　せっかくの旅行だし、晴れたらいいなとは思うけどな」=“So? This has been a great trip, so I hope it's sunny.”
-「うーん……ちょっと話題変えないか？」=“Mmm-hmm... can we talk about something else?”
+「うーん……ちょっと話題変えないか？」=“Mmm... can we talk about something else?”
 「買い物を安く済ませたいなら……」=“If you want to shop on a budget...”
 「へぇ～！　いいことを知ったぜ」=“Heh~! That's good to know, man.”
 「何にもないことが、実は幸せなんだよね」=“Life is actually full of happiness when there's nothing going on, don't you think?”
