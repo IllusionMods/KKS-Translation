@@ -10,7 +10,6 @@
 「ほら、そんなことより飲むぞ。がーっと一気飲みだ」=“Come on, let's drink. I'm going to drink it in one gulp.”
 「そういう飲み方するものじゃないでしょ？　こうして一緒の時間を共有するのが楽しいんじゃないか」=“That's not how you drink, is it?　Isn't it fun to share time together like this?”
 「……わかったよ。えーっと……目と目を見合わせながら飲むんだろ？　こういうのは」=“...... Okay, okay. Let's see. ...... You're supposed to drink while looking at each other eye to eye, right?　You know, like this.”
-「そうだね」=“Yeah.”
 「……先に目を反らした方が負けっていうルールにするか？」=“Should we make it a rule that the first person to turn away from ...... loses?”
 「……別にいいけど、負けたらどうなるの？」=“......It's okay, but what happens if you lose?”
 「もういっぱい同じ飲み物を頼んで、一気飲みするってのはどう？」=“How about we order a bunch more of the same drink and chug it?”

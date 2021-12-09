@@ -1,0 +1,5 @@
+半リング(通常)=Half Ring (Normal)
+四分リング(通常)=Quarter ring (Normal)
+細リング(通常)=Fine ring (normal)
+半細リング(通常)=Half Thin Ring (normal)
+四分細リング(通常)=Quarter thin ring (Normal)

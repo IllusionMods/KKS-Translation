@@ -10,5 +10,4 @@
 「あっ……」=“Oh, .......”
 「ど、どう？」=“How's that?”
 「胸の奥が……とてもドキドキしています。ですが、温かい気持ちです。その……またこうして呼び合ってもいいですか？」=“My heart is ...... pounding so hard. But it's a warm feeling. Can we call that ...... each other like this again?”
-「もちろんだよ、[Hあだ名]」=“Of course, [Hあだ名].”
 「はぅ……ありがとうございます」=“Oh, thank you .......”

@@ -12,6 +12,5 @@
 「Ｔｈａｎｋｓ♪　マダマダできるケド、Ｏｎｅ　ｍｏｒｅ？」=“Thanks." "I can do it, but one more?”
 「望むところ！」=“I hope so!”
 「ＯＫ～♪　……Ｉ　ｋｎｏｗ！　勝った方が、負けた方にＣｈｕするの、賭けナイ？」=“OK. ......I know, I bet the winner gives the loser a kiss.”
-「えっ！？」=“Eh!?”
 「ソッチの方が、盛り上がる、デショ♡　ｌｅｔ’ｓ　ｌｏｖｅ　ｌｏｖｅ　Ｐｉｎｇ　ｐｏｎｇ♪」=“Let's love love Ping pong, that's more exciting.”
 （[H名]、大胆だなぁ～……これは勝っても負けても嬉しいね）=([H名], you're so bold~ ...... I'll be happy whether I win or lose this one.)

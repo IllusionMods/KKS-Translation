@@ -47,7 +47,6 @@
 「今更なんだけど、挨拶って『はいさい』が普通じゃないの？」=“I know it's a little late, but isn't the usual greeting 'haisai'?”
 「『はいさい』は男言葉よー。だから女の自分は『はいたい』を使ってるわけさー」=“Haisai" is a man's language. Haisai is a man's language. That's why I, a woman, use hai.”
 「えへ……普段、あんまり同年代の人と話す機会がないので、なんだか楽しいですっ」=“I don't usually have a chance to talk to people my own age, so it's kind of fun.”
-「そうなんですか？」=“Is that so?”
 「いつもは年上の方や、家族連れの小さな子と話すことが多いので……」=“I usually talk to older people or small children with their families. ......”
 「もしよかったら、これからも声をかけてもらえると嬉しいなぁ……なんて」=“If you want, I'd be happy to talk to you at .......”
 「それなら一つ提案」=“I have a suggestion.”
@@ -110,7 +109,6 @@
 「あはは、ここじゃ夏の定番スイーツだからね。自分もぜんざいは温かいのが普通って知った時はビックリしたさぁ」=“I was surprised to see shaved ice. I was also surprised when I found out that zenzai is usually served warm.”
 「あのさ、この前知ったんだけど……」=“You know, I just found out about .......”
 「へぇ、よく調べたねー。島に興味を持ってくれて嬉しいさー！」=“Wow, you did a lot of research. I'm glad you're interested in the island!”
-「この間、見かけたんだけど……」=“I saw something on ...... the other day.”
 「それに注目するなんて流石だねー！　もうこの島をマスターしたといっても過言じゃないよー！」=“I'm glad you're interested in the island!　It's no exaggeration to say that you've mastered this island!”
 「ガイドブックで読んだんですけど、ここには珍しい猫がいるんですね」=“I read in the guidebook that there are rare cats here.”
 「たぶん<color%3D#ffa801ff>ヤマネコ</color>のことですね。とっても珍しくて、私もまだ一度しか会ったことがないんです」=“I read in the guidebook that there is a rare cat here..." "Probably the <color%3D#ffa801ff>bobcat</color>. It's so rare that I've only met one myself.”

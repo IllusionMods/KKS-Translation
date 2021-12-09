@@ -7,7 +7,6 @@
 「いや、だから、そうじゃないってば！　いいから聞いて！」=“No, that's not what I said!　Just listen to me!”
 「は、はい……失礼しました。ええっと……では、お願いします」=“I'm sorry for the ....... Well, ......, please.”
 「俺、[H名]のことが好きだ。付き合ってほしい」=“I like [H名]. I want you to go out with me.”
-「………………」=...
 「あれ？　無言……？」=“Huh?　Mute. ......?”
 「いえ、驚きのあまり言葉が出てこなくて……」=“No, I'm so surprised I'm speechless. ......”
 「あまり驚いてないように見えたかもしれませんが、かなり驚いています……」=“I know I don't seem very surprised, but I am quite surprised. ......”
@@ -23,7 +22,6 @@
 「ああ……私、意味不明なこと言ってますね。すみません……」=“Oh ......, I'm not making any sense. I'm sorry. ......”
 「いや、慌てるのはわかるよ。俺だって超緊張してるし、未だに心臓バクバクしてるし……」=“No, I understand your panic. I'm super nervous too, and my heart is still racing. ......”
 「……少し、波の音でも聞いていようか」=“...... Shall we listen to the sound of the waves for a while?”
-「…………」=...............
 「……ふぅ……かなり落ちつきました。では、質問しても、よろしいですか？　告白はＯＫである前提になりますが」=“...... Huh. ...... I've calmed down quite a bit. So, may I ask you a question?　I'm assuming your confession is okay.”
 「もちろん。どうぞ」=“Sure. Come in.”
 「あの……私なんかで、いいんでしょうか……？」=“Um, ...... am I a good fit for ......?”

@@ -1,8 +1,5 @@
-係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please join up in pairs.”
 「キャンプファイヤーだって～♪　こんなの絶対参加するでしょ」=“It's a campfire. I'm sure you'll join us.”
 「だね、いい思い出だ」=“Yeah, it's a good memory.”
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“...I hope everyone's got a partner? Well then, I'll put on the music as soon as you're ready.”
 「ちゃんちゃらっちゃちゃ～～ん♪　ふんふんふ～～～～ん」=“Cha-cha-cha-cha-cha...”
 「音楽と全くあってないけど……」=“It doesn't quite match the music, but it's ......”
 「いいのいいの。こういうのは楽しんだもの勝ち、って言うでしょ」=“No, no, no. You know what they say, fun is better than no fun.”

@@ -1,0 +1,3 @@
+カボチャランタン=Pumpkin Lantern
+おばけそで右用=For right side of ghost
+おばけそで左用=Ghost sleeves for left side

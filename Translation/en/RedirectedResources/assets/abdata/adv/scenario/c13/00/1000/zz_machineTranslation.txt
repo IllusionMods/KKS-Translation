@@ -17,4 +17,3 @@
 「それはもう、男なので」=“That's because I'm a man.”
 「た、たまにはいいでしょ？　そういうのも」=“It's okay once in a while.　That's okay.”
 「たまにじゃなくてもいいけど？　そうやってアタシのことグイグイリードしてよ」=“It doesn't have to be every once in a while.　I want you to lead me on like that.”
-「……頑張ります」=“...I'll do my best.”

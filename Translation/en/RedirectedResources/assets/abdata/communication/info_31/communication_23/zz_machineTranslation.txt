@@ -31,7 +31,6 @@
 「コイバナはよくする？」=“Do you do a lot of lovebirds?”
 「好きなキャラ同士のコイバナならよくしますぞ」=“I do a lot of banter between characters I like.”
 「自分が絡んだコイバナのネタが……あまりにないですな」=“I don't have too many ...... stories of my own to tell.”
-「好きな男性のタイプってある？」=“Do you have a type, in terms of boys you like?”
 「物静かな人かなー？　これでアニメみたいな顔してたらドンピシャですぞｗ」=“Are you a quiet person?　If you have a face like a cartoon, you'll fit right in.”
 「二次元な好みはあるけど、リアルはよく分からないなぁ」=“I have two-dimensional tastes, but I'm not sure about real ones.”
 「あの、この話より、もっと楽しい話がありそうだよ」=“You know, I think I have something more fun to tell you than this.”
@@ -120,7 +119,6 @@
 「良かったら俺とご飯を食べようよ」=“You can have dinner with me if you want.”
 「ご飯ですか。ワタシも行きたいと思っていた所ですぞ」=“Dinner? I've always wanted to go there.”
 「残念ながら、今、ご飯はいらないですなー」=“I'm afraid I don't need to eat right now.”
-「ちょっと付いてきてもらっていい？」=“Could you come with me for a moment?”
 「えぇ、大丈夫」=“Yeah, no problem.”
 「うーん。このあと予定があるんだ。ごめん」=“Hmm. I have plans later. Sorry.”
 「わぁ、ここはダメぇ、ほらほら見つからないうちに出ましょう」=“Oh, no, not here. Come on, come on, come on. Let's get out of here before they find us.”
@@ -258,7 +256,6 @@
 「あなたと一緒にご飯食べたいんだけど、いかがかな？」=“I'd like to have dinner with you. Would you like that?”
 「そう言ってくれると思ってた、それじゃ行こうか」=“I was hoping you'd say that. Let's go, then.”
 「無理なんだねぇ……仕方がないか、また今度の機会にね」=“I thought you'd say that, so let's go. - I see you can't. ...... I'll see you next time.”
-「ちょっと付いてきて」=“Follow me for a bit.”
 「ん、なんだい？」=“Hmm, what is it?”
 「ごめんよ。少し外せない用事があるんだ」=“I'm sorry. I'm sorry. I've got some business to attend to.”
 「わ、わぁぁん、ここはダメ。もぅ、そんなに興味があるの？」=“Oh, no, no, not here. Oh, my God, are you that interested?”
@@ -389,9 +386,7 @@
 「一緒にご飯に行こうよ、どうかな？」=“Let's go to dinner together. How about that?”
 「ありがとう。一緒に食べた方が美味しんだなぁ」=“Thank you. It's better if we eat together.”
 「今は食べたくないんだね……なら仕方がないんだなぁ」=“You don't want to eat now? ...... Then you have no choice.”
-「俺の部屋に来てくれない？」=“Why don't you come to my room?”
 「そうだね……じゃあ、お邪魔させてもらおうかな」=“Well, ......, I guess I'll just have to come over.”
-「付いてきてもらってもいい？」=“Could I get you to follow me for a second?”
 「えぇ、一緒に行くんだなぁ」=“Yeah, you're coming with me.”
 「え……ちょっとそれはできない相談だなぁ……」=“Yeah, ...... that's not a good idea. ......”
 「えぇ」「そうだね」「えぇ、えぇ」「そうだなぁ」「ですねぇ」=Yeah. - Yeah, yeah. - Yeah, yeah.
@@ -404,10 +399,8 @@
 「楽しいんだなぁ」「わーい」「（楽）」「ふふふｗ」「うふふふふふ」=You must be having fun." "Yay." "Whew." "Whew." "Whew.
 「え、えっと」「わぁぁん」「顔が真っ赤になるなぁ」「わ、わぁぁ」「ちょ、ちょっとぉ」=Uh, uh, wow, your face is getting all red, wow, wow, wow, wow, wow, wow, wow.
 「あのー」「あのね」「そうそう」「いやはや聞いてほしいよ」「ねえねえ、こんなことが」=Um, you know... you know... you should hear this... you know, this is happening.
-「ねえ、[Hあだ名]」=“Hey, [Hあだ名].”
 「な、なにかな？……[Pあだ名]。……やっぱり、この呼び方は顔が熱くなりますね……」=“Hey, hey, what's this? ......[Pあだ名]. ......After all, this calling makes my face hot. ......”
 「今はそういうノリじゃないかなーって思いまーす」=“I don't think we're in that kind of mood right now.”
-「ねえ、[Pあだ名]」=“Hey, [Pあだ名].”
 「うん？　どうしたの、[Hあだ名]=I'm not sure.　What's wrong, [Hあだ名]?
 「ちょっと呼んでみたかっただけなんだなぁ……えへへ、幼馴染っぽい」=“What's up, [Hあだ名]? - I just wanted to call you something. ...... It's like we grew up together.”
 「うん、いいよぉ……[Pあだ名]となら、いくらでも」=“Yeah, sure, I'll go as far as ......[Pあだ名].”

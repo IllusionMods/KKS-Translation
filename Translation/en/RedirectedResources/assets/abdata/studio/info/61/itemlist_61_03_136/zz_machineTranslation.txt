@@ -1,0 +1,12 @@
+ママチャリのタイヤ=Mom bike tire
+ママチャリのハンドル=Mom bike handle
+脱いだ衣服1=Undressed clothes 1
+脱いだ衣服2=Undressed clothes 2
+彼岸花・赤=Amaryllis flower, red
+彼岸花・青=Amaryllis flower, blue
+彼岸花・白=Amaryllis flower, white
+彼岸花群生・赤=Amaryllis flower cluster, red
+彼岸花群生・青=Amaryllis flower cluster, blue
+彼岸花群生・白=Amaryllis flower cluster, white
+枯れ木=Dead tree
+針葉樹=Conifer

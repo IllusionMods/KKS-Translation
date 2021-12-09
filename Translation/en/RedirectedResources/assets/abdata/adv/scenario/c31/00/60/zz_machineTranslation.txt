@@ -1,6 +1,4 @@
 「なぁ……部屋にいるか？」=“Hey, ......, you in my room?”
-SELECTION:「返事をする」=Respond
-SELECTION:「……」=...
 「こんな時間にどうしたの？」=“What are you doing here at this hour?”
 「……直球に言うと、急におまえの温もりがほしくなったんだ」=“...... To put it bluntly, I suddenly wanted your warmth.”
 「だから……何も言わず私のことを抱きしめてくれっ」=“So ...... don't say anything and just hug me.”

@@ -6,7 +6,6 @@
 「そう……だね、大きさもふわふわ飛んでるあの蛍と同じくらいかな？」=“Yeah, ......, about the same size as that fluffy firefly, right?”
 「うむ、かもしれぬ」=“Yes, it might.”
 「この光の粒、ひとつひとつが命なのじゃな……」=“Every grain of this light is a life. ......”
-「…………」=...............
 「見よ、懸命に瞬いておる。このほの暗い世界で己の存在を主張しようとするかのようじゃ」=“Look, it's blinking hard. It's as if he's trying to assert his existence in this dark world.”
 「俺はここにいるぞー、って？」=“I'm here, aren't I?”
 「ふふ、私かもしれぬぞ」=“Hmm, that could be me.”

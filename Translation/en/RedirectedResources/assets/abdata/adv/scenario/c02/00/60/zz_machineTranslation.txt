@@ -1,6 +1,4 @@
 「こんばんは。会いに来ましたわ」=“Good evening. I'm here to see you.”
-SELECTION:「返事をする」=Respond
-SELECTION:「……」=...
 「こんな時間にどうしたの？」=“What are you doing here at this hour?”
 「……瞼を閉じた際に、ふとあなたの顔が浮かんできて、会いたくなりましたの」=“...... When I closed my eyelids, I suddenly saw your face, and I wanted to see you.”
 「ですので、眠る前にわたくしのことを抱きしめてくださる？」=“So, before you go to sleep, will you give me a hug?”

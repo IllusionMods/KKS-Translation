@@ -2,9 +2,7 @@
 「だね、綺麗……！」=“Yeah, it's beautiful. ......!”
 「これは……さすがにここじゃないと見られないな」=“This is ...... indeed, you have to be here to see it.”
 「うん……こんな綺麗な景色、絶対忘れられないね……キミと一緒に見られてよかった……」=“Yeah, ...... I'll never forget this beautiful scenery. ...... I'm glad I got to see it with you. ......”
-「うん」=“Yeah.”
 「……ママとパパもこんな景色を見たのかな……」=“...... I wonder if Mom and Dad ever saw a view like this. ......”
-「え？」=“Eh?”
 「前に言ったかもだけど、私のママとパパって本当に仲良しで、娘の私がいるのにキスしたり愛してるって言ったりしてね」=“I might have told you before, but my mom and dad are really close, and they kiss and tell me they love me even though I'm their daughter.”
 「それで……お酒を飲んだりすると、一緒に行った街とか、一緒に見た景色の話をするの。そういうの見てて、いいなぁって思って……」=“So ...... when we have a drink or something, we talk about the cities we've been to together, the sights we've seen together. That's what I like to see. ......”
 「だから、キミと海ほたるを見られて……一生忘れられないものを見られて嬉しいな……って、そう思ったの」=“So I thought, "I'm so glad I got to see Sea Hotaru with you. ...... I'm so glad I got to see something I'll never forget. ......”

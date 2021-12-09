@@ -4,7 +4,6 @@
 空を見る2 in=Looking at the sky 2 in
 空を見る2 loop=Looking at the sky 2 loop
 空を見る2 out=Look at the sky 2 out
-釣り=Fishing
 物色=peddling
 服を選ぶ1=Choose Clothes 1
 服を選ぶ2=Selecting Clothes 2

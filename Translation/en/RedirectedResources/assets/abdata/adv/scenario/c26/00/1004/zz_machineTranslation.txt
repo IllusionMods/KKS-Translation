@@ -1,5 +1,4 @@
 「潮風が気持ちいいね。ちょっと歩いていこうか」=“The sea breeze feels good. Let's go for a walk.”
-「…………………………」=“...”
 「何かいた？　珍しい鳥とか」=“Did you see anything?　Some rare bird?”
 「へ？　あ……ぼーっとしてるように見えた……？」=“Huh?　Oh, ...... you look like you're in a daze. ......?”
 「ただ……波の音を聞いてたの。それだけ」=“I was just listening to the ...... sound of the waves. That's it.”

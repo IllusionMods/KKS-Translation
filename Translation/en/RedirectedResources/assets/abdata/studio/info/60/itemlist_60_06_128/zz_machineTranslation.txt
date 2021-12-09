@@ -1,0 +1,11 @@
+おばけそで左用=Ghost sleeves for left side
+おばけそで右用=For right side of ghost
+カボチャランタン=Pumpkin Lantern
+おばけこうもり=Ghost bat
+ホラーリボン=Horror Ribbon
+注射ガーターリング(左)=Injection garter ring (left)
+注射ガーターリング(右)=Injection garter ring (right)
+猫耳(左)=Cat ear (left)
+猫耳(右)=Cat ear (right)
+和風制服の袖(右)=Japanese style uniform sleeve (right)
+和風制服の袖(左)=Japanese style uniform sleeve (left)

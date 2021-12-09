@@ -18,7 +18,6 @@
 「……そんなことでいいんですか？　でも『空を飛べ』とか『泳いで家に帰れ』とか無茶は言わないで下さいね？」=“...... Are you sure you want to do that?　But please don't ask me to fly or swim home or anything crazy like that, okay?”
 「大丈夫、そんなことはしないよ。……じゃあ、言うからね？」=“Don't worry, I won't do that. I'll tell you about it at ......, okay?”
 「少しの間、俺の言葉を聞いてて欲しいんだ」=“I just need you to listen to me for a minute.”
-「はい」=“Yes.”
 「……って、あの……今のがお願いごとなんですか？」=“......, is that ...... now what you're asking for?”
 「うん。とりあえず話をちゃんと聞いてもらおうと思って。その、分かってるとは思うけど……本題はここからだから」=“Yes. I just wanted to make sure that he would listen to me. Well, as you know, ...... is where the real story starts.”
 「そ、そうですよね……すみません、では……静かに聞いています」=“Yes, that's right. ...... Sorry, I'm ...... listening quietly.”
