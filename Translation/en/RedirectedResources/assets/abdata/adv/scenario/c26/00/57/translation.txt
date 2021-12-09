@@ -3,7 +3,7 @@
 //
 「すぅ……すぅ…………ん、んん……」=“Mm... mmm... nnnn....”
 （んぅ……すごく気持ちいいような……いったい、何が……？）="(Nnn... It feels so good... what's going on?)"
-「…………」=“....”
+「…………」=“...”
 「へっ！　ど、どうして俺の上に……？」=“Hey! How is it in there?”
 「フフッ……エッチ、したかったの……」=“Fuhuhu... You pervert... I wanted to...”
 「……？　どうしたの」=“...Huh? What's wrong?”

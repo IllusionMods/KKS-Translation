@@ -3,7 +3,7 @@
 //
 「すぅ……すぅ…………ん、んん……」=“Mm... mmm... nnnn....”
 （ん、んん……何だか下半身に違和感が……？）="(Nnn... There's something up with my lower half...)"
-「…………」=“....”
+「…………」=“...”
 「って……え？　え？」=“H...huh? Huh?”
 「気持ち、いい？　辛そうだったから……慰めてたの」=“Are you feeling okay? That was...kind of painful, but I'm fine.”
 //「……けっこう大胆なことするね」=

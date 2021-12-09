@@ -16,7 +16,7 @@
 「どうかしたの？」=“What's the matter?”
 //「うん？　お話したいの？」=
 「友達多いイメージだけど、どうやって仲良くなるの？」=“You seem like you've got a lot of friends, just how do you get along with everyone so well?”
-//「えっとね、興味が沸いた人はいつの間にか仲良くなってるかなぁ」=
+「えっとね、興味が沸いた人はいつの間にか仲良くなってるかなぁ」=“Erhm, you see, I just tend to get along with people that seem interesting to me.”
 「そんなことはないと思うけど……気のせいじゃないかなぁ」=“I don't really think that's the case... are you sure you're not just imagining things?”
 //「なにかハマってることってある？」=
 //「ん～、この島をお散歩することかなぁ」=
@@ -182,7 +182,7 @@
 「ドラマとかでエッチな場面とかあったら見ちゃう？」=“If a TV drama you were watching shifted to a sex scene, would you keep watching?”
 「うん。でも、ドラマで見るエッチは本当のエッチなの？　どれも辛そうに見えたよ？」=“Yeah. But, is the sex on TV the same as real sex? I feel like their faces are always warped on TV.”
 「エッチな場面……？　えっと、ごめんねぇ。あんまり記憶にないかなぁ」=“Sex scenes...? Erhm, sorry. Can't ever recall seeing such a thing.”
-//「エッチな妄想ってよくする方かな？」=
+「エッチな妄想ってよくする方かな？」=“You the type to often have sexual fantasies?”
 「最近は妄想する様になったよ。でも、その妄想が正しいのかはわからないけど……」=“I've recently started having them. But, I dunno if it's right to have them or not...”
 「エッチのことをよくわかってないから、妄想しようにもなぁ。楽しいことなんだよね？」=“I don't really understand much about sex and stuff so, I couldn't fantasize even if I wanted to. Sex is supposedly fun, right?”
 「今、そのお話はお腹いっぱいだよ。他のお話にしようよ」=“I've honestly had enough of that sort of stuff. Let's talk about something else.”

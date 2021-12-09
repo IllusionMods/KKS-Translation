@@ -223,7 +223,7 @@
 「はいなのですー」=“Alrighty then-”
 「それじゃまたですー」=“Well then, see you-”
 「俺さ、きみのことが好きなんだ」=“I really love you, you know.”
-//「ふぇっ……あ、その……考える時間が、ほしいです……」=“Fweh...! Ah, um... I need time to think...”
+「ふぇっ……あ、その……考える時間が、ほしいです……」=“Fweh...! Ah, um... I need time to think...”
 「あ、あのっ！　わ、私と……ぅ……付き合ってほしいですっ！」=“U-um! I-I... uuu... I want you to go out with me!”
 「あ、あはは……結果は分かってたですが……けっこう辛いですね……」=“Ah, ahaha... I knew the outcome, but... it still really hurts...”
 「あのさ、突然だけど……俺、きみと……そういうことしたいんだ」=“Um, this is sudden... me and you... I want us to be that way.”
@@ -279,7 +279,7 @@
 「はいー、何用ですか？」=“Yes- What can I do for you?”
 「私、こ、こんなところへ連れ込まれるですかっ！？　あっ、別に平気ですけどっ……でも、誰かいたら……はぅぅ……」=“You're taking me to a place like this!? Ah, I'm fine with that, though...! But if anyone... hauu...”
 「あなたのこと、知れば知るほど、もっと親しくなりたいって思っちゃうです！」=“The ore that I learn about you, the more I want to get to know you!”
-//「私……今まで男女のそういうことに興味なかったですけど……あの……あなたといると……はぅ……」=“I've never been interested in stuff like that, between men and women, until now... um... but when I'm with you... hauu...”
+「私……今まで男女のそういうことに興味なかったですけど……あの……あなたといると……はぅ……」=“I've never been interested in stuff like that, between men and women, until now... um... but when I'm with you... hauu...”
 「ひゃんっ！　わぁ、変な声出しちゃったですよー！」=“Hyyan! Wa! I made a weird noise-!”
 「あなたの傍にいると落ち着くです……ふふーっ♪」=“I feel so at home, when I'm around you... fufu-!♪”
 「えへへ、たくさんお話たいです♪」=“Ehehe, I want to talk to you so much♪”
