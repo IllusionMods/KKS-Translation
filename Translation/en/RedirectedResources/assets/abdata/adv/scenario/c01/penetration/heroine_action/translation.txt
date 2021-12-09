@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us?What do you wanna do?”
+「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? What do you wanna do?”
 //「私は……構いませんけど……」=
 //「それはもう願ったり叶ったりですが……本当によろしいのですか？」=
 //「[H名]がいいなら、俺はＯＫだよ」=
