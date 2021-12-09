@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねえ、浜辺を散歩しない？」=
+「ねえ、浜辺を散歩しない？」=“Hey, why don't we take a walk on the beach?”
 //「ごほん！　な、なんか、アレだな。なんていうか……アレだ」=
-//「どれ？」=
+「どれ？」=“Kinda what”
 //「アレはアレだよ！　まあ、そのことは別によくて……」=
 //「と、ところで、海って言えばよ！」=
 //「さっきからなんでそんなにぎくしゃくしてるの？」=

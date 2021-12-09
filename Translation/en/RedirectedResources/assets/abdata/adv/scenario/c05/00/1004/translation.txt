@@ -13,9 +13,9 @@
 「うっ……それは怖いかも……」=“Uhhh... that's... scary...”
 「大丈夫。心を落ち着かせて、ありのままに受け入れれば平気だよ」=“It's alright. Everything will be fine, if you just relax your mind and accept things as they are.”
 「怖いなら、わたしがついてるから。いつか一緒に挨拶しに行こうね」=“If you're scared, I'll be with you. Let's greet them together, someday.”
-「わたしが[P名]くんを好きになったように、“かれら”もあなたのことを気に入ると思うから」=“Like how I came to love you, I believe “they” will love you, too.”
+「わたしが[P名]くんを好きになったように、“かれら”もあなたのことを気に入ると思うから」=“Like how I came to love you, I believe ‘they’ will love you, too.”
 「わかった。そのときはきちんと言うよ。[H名]を大事にしますってね」=“I understand. When that time comes, I'll make sure to say it properly, that I'll treasure you forever.”
 「えへへ。照れちゃうなぁ～」=“Ehehe. You're making me embarrassed~”
 「でも今は、[H名]との生活を満喫したいかな」=“But, for now, I guess I just want to enjoy life with you.”
 「うん。わたしも、もうしばらく[P名]くんと地上にいたい」=“Yeah. I'd like to stay on the surface with you now.”
-「『ここ』でしかできないこと……たくさん経験したいな」=“The things that we can only do “here”... I want to experience them all.”
+「『ここ』でしかできないこと……たくさん経験したいな」=“The things that we can only do ‘here’... I want to experience them all.”

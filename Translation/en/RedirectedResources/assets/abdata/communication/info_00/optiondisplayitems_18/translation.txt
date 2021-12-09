@@ -5,7 +5,7 @@
 //気持ちに応える=
 OPTION[100]:……ごめん=.........I'm sorry.
 ……ごめん=.........I'm sorry.
-//OPTION[101]:いいよ=
+OPTION[101]:いいよ=OK.
 いいよ=Alright.
 //OPTION[101]:ごめん=
 ごめん=Sorry.

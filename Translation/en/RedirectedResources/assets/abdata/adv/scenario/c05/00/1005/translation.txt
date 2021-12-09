@@ -17,7 +17,7 @@
 「俺もそう思うよ。呼吸もピッタリだ」=“That's what I think. Our breathing is perfect, too.”
 「えへへ、なんだか調子出てきたよ」=“Ehehe, I think I'm getting the hang of this.”
 「もうしばらく続ける？」=“Want to keep going for a while?”
-「うん！　“かれら”を迎える儀式にも踊りは欠かせないからね。もっと練習しないと」=“Yeah! Dancing is an important step in the ritual to summon “them”. I need to practice more.”
+「うん！　“かれら”を迎える儀式にも踊りは欠かせないからね。もっと練習しないと」=“Yeah! Dancing is an important step in the ritual to summon ‘them’. I need to practice more.”
 「あはは……。儀式は置いておくとして、練習に付き合う分には問題ないかな」=“Ahaha... rituals aside, I've got no problem practicing with you.”
 「じゃあじゃあ、今度は二人きりで踊りの練習しよっ」=“Then, then... let's have a practice session with just the two of us next time!”
 「それでいつか、素敵な儀式をしようね。えへへ♪」=“So, we can have a wonderful ritual of our own someday. Ehehe♪”

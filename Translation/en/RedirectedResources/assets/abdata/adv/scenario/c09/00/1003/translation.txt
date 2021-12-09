@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お土産を見てみようよ」=
+「お土産を見てみようよ」=“Let's have a look at the souvenirs.”
 //「旅行のお土産っていったらお菓子よね！　定番だわ」=
 //「もらって困るものじゃないしね」=
 //「絶対って言える？　賞味期限がタイトだったとしても……かしら」=

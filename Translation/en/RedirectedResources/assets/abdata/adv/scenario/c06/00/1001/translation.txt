@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「涼しそうだし、ここでゆっくりしようよ」=
+「涼しそうだし、ここでゆっくりしようよ」=“It's cool here. Let's relax here for a while.”
 //「風情のある縁側ですね。自然と心が落ち着きます」=
 //「[H名]にはこんな縁側がよく似合うよ。もしかして実家にもあるのかな？」=
 //「ご明察でございます。それほど立派なものではありませんが、我が家にも縁側がございます」=

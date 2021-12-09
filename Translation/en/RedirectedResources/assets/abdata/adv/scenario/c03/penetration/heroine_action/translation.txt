@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えっと……混ざりたいの？　……どうする？」=
+「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? What do you wanna do?”
 //「むぅぅ……あんなえっちなとこ見られてたら、もう一蓮托生です！」=
 //「仕方ないです、ここは既成事実を作るしかないです！」=

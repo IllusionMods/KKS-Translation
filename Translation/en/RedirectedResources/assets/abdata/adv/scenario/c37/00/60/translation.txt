@@ -2,9 +2,9 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「すみません、いらっしゃいますか？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
-//「どうしたの？」=
-//「失礼します」=
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
+「どうしたの？」=“What's up?”
+「失礼します」=“Excuse me.”
 //「どうしてもあなたを求めたくて来てしまいました。私の我儘をお許し下さい」=
 「………………」=...

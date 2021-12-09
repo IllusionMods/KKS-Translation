@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「遅い時間にごめんなさい。今、大丈夫かしら？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
 //「問題ないけど、どうかしたの？」=
 //「えっと、大事な用事があるのよ……アナタと、私にしかできない事なんだけど……」=
 //「もう、最後まで言わせないで……分かって、くれるわよね？」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お土産を見てみようよ」=
+「お土産を見てみようよ」=“Let's have a look at the souvenirs.”
 //「お？　シーサーか。これ、なかなか気合入って……」=
 //「気に入ったの？」=
 //「わっ！？　いちいち絡んでくるんじゃねぇよ」=

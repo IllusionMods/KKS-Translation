@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「えっと……お部屋に入っても、いいですか？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
 //「大丈夫だよ。何かあったの？」=
 //「あの、ですね……ちょっと、身体が熱いというか、その……」=
 //「あなたに見てもらえば、治まると思うんですけど……いいですか？」=

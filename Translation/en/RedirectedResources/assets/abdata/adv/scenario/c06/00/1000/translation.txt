@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルドリンクが飲めるんだって。頼んでみようよ」=
+「カップルドリンクが飲めるんだって。頼んでみようよ」=“They have a drink for couples to share. Let's ask for one.”
 //「こちらが『かっぷるどりんく』という飲み物なのですね。どうぞ召し上がってください」=
 //「あ、これは二人で同時に飲むものなんだよ」=
 //「二人で同時に？　……もしや、この二本のストローは貴方と私の為に刺されたものだったのですか？」=
