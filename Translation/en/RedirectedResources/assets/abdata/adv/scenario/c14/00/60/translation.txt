@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「よう、ちょっと来てみたんだけど、入っていいか？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
 //「大丈夫だけど、何かあったの？」=
 //「お前が寂しがってるんじゃねぇかって思って、来てやったんだよ」=
 //「まぁ、私もその気だから、わかってるよな……？」=

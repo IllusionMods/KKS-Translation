@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「あのね……部屋まで来ちゃったんだけど、入ってもいいかな？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
 //「いいけど、どうかしたの？」=
 //「なんだか寂しくなっちゃって、キミと一緒にいたいなぁって……」=
 //「二人で……素敵な夜を過ごしたいな……」=

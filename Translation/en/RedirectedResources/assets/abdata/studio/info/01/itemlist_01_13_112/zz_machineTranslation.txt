@@ -2,7 +2,6 @@
 水槽の泡=Bubbles in the water tank
 お風呂の湯気=Steam from the bath
 水しぶき=Water splash
-海=Umi
 海(夕方)=Sea (evening)
 海(夜)=Sea (Night)
 水面=Water surface

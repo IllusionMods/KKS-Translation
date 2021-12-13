@@ -1,6 +1,5 @@
 「うん？　付いて来てるよ？」=“Yeah?　I'm coming with you.”
 「？　ここは男の子は入れない所だよ？」=“What?　You know boys aren't allowed in here, right?”
-「どうかしたの？」=“What's the matter?”
 「うん？　お話したいの？」=“Yeah?　You want to talk about it?”
 「なにかハマってることってある？」=“What's your favorite thing to do?”
 「ん～、この島をお散歩することかなぁ」=“Well, I'm into walking around the island.”
@@ -21,7 +20,6 @@
 「喧嘩してるカップルがさ……」=“I've seen couples in fights. ......”
 「ちゃんと仲直りできたのかなぁ」=“I wonder if they've made up.”
 「時間だね、ばいばい」=“Time to go. Bye.”
-「それじゃあ、またね」=“Well then, see ya.”
 「あのさ、今から二人で観光しにいかない？」=“Hey, do you want to go sightseeing with me?”
 「いいよぉ、どこを見て回ろっか」=“Sure. What should we look around?”
 「ん～……今はいいかなぁ」=“Hmm. ...... is not a good time.”
@@ -31,7 +29,6 @@
 「ちょっと体験コーナーに行ってみない？」=“Do you want to go to the hands-on area?”
 「面白そうだねぇ。私も行くよ～」=“Sounds interesting. I'll go with you.”
 「ごめんねぇ……お友達と一緒にするって約束したんだぁ」=“Sorry, ......, but I promised to do it with my friend.”
-「これからご飯を食べようと思うんだけど、一緒にどうかな？」=“I was thinking of having dinner with you. Would you like to join me?”
 「ちょうどお腹が空いてたんだ～。誘ってくれてありがとぉ」=“I was just hungry. Thank you for inviting me.”
 「そんなに空いてないから、私はいいかなぁ」=“I'm not that hungry, so I'm good.”
 「またお話してくれるの？」=“Are you going to talk to me again?”
@@ -74,7 +71,6 @@
 「あのね、一緒に遊ばない？」=“Hey, do you want to play with me?”
 「えへへ、よかったぁ。それじゃあ何をするか、二人で決めようね」=“I'm sorry. We'll decide what we're going to do.”
 「ダメなの？　うーん、じゃあ他のお友達を誘うかなぁ……」=“No?　Well, maybe I'll invite some other friends. ......”
-「体験コーナーに行こうと思うんだけど、一緒にどうかな？」=“I'm thinking of heading to the experience corner... how about we do it together?”
 「うん、付いていくねぇ。二人でした方が楽しいと思うし」=“Yes, I'll go with you. I think it would be more fun if we did it together.”
 「ちょっと前にやってきたから、遠慮しておくね」=“I've been here a while, so I'll pass.”
 「興味のある体験があるから、一緒に申し込んでほしいなぁ」=“There's something I'm interested in. I'd like you to sign up with me.”
@@ -94,7 +90,6 @@
 「この島の思い出は、たくさん出来た？」=“Have you made many memories on this island?”
 「うんっ。でも、またまだあなたと一緒に、色んなことをやってみたいなぁ」=“Yes. But I still want to do more things with you.”
 「いっぱい出来たよぉ！　今度、私が体験したことを聞かせてあげるね」=“I've done so much!　I'll tell you about my experiences next time.”
-「将来、やりたいことってある？」=“What do you want to do in the future?”
 「やりたいことかぁ……よく分かんないけど、ずっとあなたの傍にいられたらいいなぁ」=“What do you want to do in the future? ...... I don't know, but I hope I can be by your side forever.”
 「ぼんやりとだけど、誰かの役に立つことをしたいって思ってるよぉ」=“I'm not sure what I want to do, but I hope to be around you forever.”
 「この間、空を眺めてたら……」=“I was looking at the sky the other day and I saw .......”
@@ -133,5 +128,4 @@
 「あなたと一緒にご飯を食べたいなぁ」=“I'd love to have dinner with you.”
 「やったぁ！　ごっはん～、ごっはん～♪」=“Yes!　Gosh, gosh, gosh, gosh.”
 「そっかぁ……お腹が空いてないなら、しかたないねぇ……」=“I see. ...... If you're not hungry, you're not hungry. ......”
-「あのさ、俺の部屋に来てくれない？」=“Um, hey, why don't you come to my room?”
 「うんっ！　もちろんいいよぉ」=“Yes!　Of course I am.”

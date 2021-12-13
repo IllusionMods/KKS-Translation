@@ -5,7 +5,6 @@
 「寒いの？」=“Is it cold?”
 「まさか。暑いくらいよ！　そうじゃなくて……」=“No way. It's so hot!　That's not what I meant. ......”
 「へぷしゅんっ」=“Hee hee.”
-「…………」=...............
 「また始まったわ。たまにあるの、潮風で鼻の奥がくすぐったくなる感じ」=“It's happening again. Sometimes it's like a sea breeze tickling the back of my nose.”
 「ごめん、あんまり共感できないかも」=“I'm sorry, I don't think I can relate to that.”
 「[P名]にそういう繊細さを求めても無駄だった、ってことね」=“I guess it was useless to ask for such delicacy from [P名].”

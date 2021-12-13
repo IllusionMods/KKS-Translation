@@ -1,4 +1,3 @@
-「…………好きだよ」=“...I like you.”
 「え？　…………あ、へ？　今、あなた……」=“What?　............ Oh, what?　You're ...... right now.”
 「好きって言ったの？」=“You said you liked him?”
 「うん、好きって……そう言った」=“Yeah, I like you. ...... That's what I said.”
@@ -28,12 +27,10 @@
 「こんなに胸が高鳴ってるんだから……これが恋じゃないわけないよ」=“My heart is beating so loudly. ...... How can this not be love?”
 「お付き合いしてもらえるんだ」=“You're going out with me?”
 「あ、ごめんね、回りくどい言い方して。もちろんそう……ううん、この言い方も変だね」=“Oh, I'm sorry, I didn't mean to come across that way. Of course you did. ...... No, that's a weird way to put it.”
-「……すぅ、はぁ」=“...*inhale*... *exhale*.”
 「喜んでお受けします。私をあなたの恋人にしてください」=“I'll gladly accept. Please make me your lover.”
 「……ありがとう！　嬉しいよ」=“...... Thank you!　I'm so happy.”
 「私も……これは想いが叶った余韻なのかな？　ずっと心がドキドキ騒いでる」=“I also ...... wonder if this is the aftermath of my feelings coming true.　My heart is pounding all the time.”
 「あなたがくれた好きって言葉は、今まで読んできたたくさんの物語……どんな小説よりも、私の心の深いところに届いた言葉だったから」=“The word "love" you gave me touched me more deeply than any story ...... I've ever read.”
-「本当？　よかった」=“Really? That's good.”
 「ふふ……やっと笑ってくれたね」=“...... You finally smiled at me.”
 「そ、そりゃ、ＯＫしてもらえるか不安だったから」=“No, that's because I was worried that you wouldn't accept.”
 「嬉しいな。それだけあなたが私とのことを真剣に考えてくれてたってことだから……」=“I'm glad. That's how serious you are about me. ......”

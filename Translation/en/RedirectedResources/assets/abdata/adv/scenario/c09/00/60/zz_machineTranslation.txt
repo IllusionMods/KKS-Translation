@@ -1,6 +1,4 @@
 「ねえ……ちょっと部屋にいれてちょうだい」=“Hey, ......, let me in your room for a minute, please.”
-SELECTION:「返事をする」=Respond
-SELECTION:「……」=...
 「こんな時間にどうしたの？」=“What are you doing here at this hour?”
 「その……えっと……正直に言うと、あんたに会いたくなったの」=“That ......, um, ......, I'm gonna be honest with you, I miss you.”
 「だから、その……あたしの相手をして……少しくらいならエッチなことをしても、いいから……」=“So, you know, you can ...... play with me, and you can ...... have a little sex with me, if you want.”

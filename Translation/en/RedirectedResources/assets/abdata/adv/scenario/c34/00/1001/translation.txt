@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「涼しそうだし、ここでゆっくりしようよ」=
+「涼しそうだし、ここでゆっくりしようよ」=“It's cool here. Let's relax here for a while.”
 //「ン～、このＩｃｅ　ｂａｒオイシイネ♪」=
 //「縁側でアイスなんて粋だよね」=
 //「Ｗｈａｔ？　エンガワ？　オスシの？」=

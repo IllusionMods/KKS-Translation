@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお土産を見てこうよ」=
+「ちょっとお土産を見てこうよ」=“Let's take a look at the souvenirs.”
 //「ちんすこうかぁ。この地方の定番お土産だね」=
 //「美味しそうですわ！　ご存知？　これ、お茶請けにぴったりですのよ」=
 //「パサパサだから、飲み物必須だよね」=

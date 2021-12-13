@@ -50,10 +50,8 @@
 「勤勉な男性ってどう？」=“What do you think of hardworking men?”
 「わたしに役立つことを教えてくれそうだから、よさそう」=“They seem like they could teach me something useful, which is good.”
 「わたしに関係ないことを勉強されても、どうも思わない」=“I don't like it when they study things that don't concern me.”
-「マイペースな男性ってどう？」=“How do you feel about guys who go at their own pace?”
 「仲間かもしれないって思ったら、気になるかも」=“If I thought they might be my friends, I might be interested.”
 「話が合わなそうだし、興味ない」=“I'm not interested because I don't think we'd get along.”
-「優しい男性ってどう？」=“How do you feel about gentle guys?”
 「嫌いじゃない、優しくされても嫌な気はしないから」=“I don't mind. I don't mind being treated nicely.”
 「興味のないひとから優しくされても、なにも感じないと思う」=“I don't think I'd feel anything if someone I wasn't interested in was nice to me.”
 「クールな男性ってどう？」=“What do you think of cool guys?”
@@ -172,7 +170,6 @@
 「エッチって特別なものだと思う？」=“Do you think sex is special?”
 「うん！　心を解放いて、宇宙に繋がる方法だから」=“Yes!　It's a way to free your mind and connect with the universe.”
 「うーん。あなたたちにとったら、ただの行為かもね」=“Hmmm. For you guys, it's just an act.”
-「エッチな本とか読んだことある？」=“Have you read any porn magazines or the like?”
 「そういう行為が載ってる本なら、よく読んでるけど？」=“I read a lot of books with sex in them.”
 「あなたが思ってるような本は、読んだことないかな」=“I don't know if I've ever read what you think I've read.”
 「その、宇宙の“かれら”ってどういう風にエッチするの？」=“Well, how do they do it in space?”
@@ -403,11 +400,8 @@
 「えへへ」「わーい！」「ふふ～ん♪」「ふふっ」=Heh, heh, heh, heh." "Mmm-hmm." "Mmm-hmm.
 「ちょ、ちょっと……」「だ、だめ……！」「恥ずかしいよぉ」「あっ……やめてっ」="Hey, hey, ......." "No, no, ......!" "I'm so embarrassed. ...... Stop it!
 「ねぇねぇ！」「あのね！」「あっ、聞いて聞いて！」「ちょっと、いい？」="Hey, hey! "Hey, hey! "Listen, listen, listen! "Can I talk to you for a second?
-「ねえ、[Hあだ名]」=“Hey, [Hあだ名].”
 「ん？　ネームを忘れてないか確認したいの？　それじゃあ……[Pあだ名]」=“Hmm?　You want to make sure I didn't forget your name?　Okay. ......[Pあだ名]”
 「……何も言うことはないよ」=“......, I got nothing to say.”
-「ねえ……[Pあだ名]」=“Hey... [Pあだ名].”
-「……どうしたの？　[Hあだ名]」=“...What's up? [Hあだ名].”
 「ううん、なんでもない。呼びたかっただけ。あと……呼んでほしかっただけ」=“No, it's nothing. I just wanted to call you. And I just wanted you to call me .......”
 「うん、しよっか。わたしも……[Pあだ名]としたかった所だったの」=“Yeah, let's do it. I wanted to call you ......[Pあだ名].”
 「ねぇ、すごくえっちしたい。[Pあだ名]とえっちしたいの、お願い」=“Hey, I really want to fuck you. I want to have sex with [Pあだ名], please.”

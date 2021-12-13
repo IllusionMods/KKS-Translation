@@ -22,7 +22,6 @@
 「自分の気持ちだけで突っ走っちゃったけど……」=“I'm just going off on my own tangent. ......”
 「べ、別に、迷惑ではない……よ。驚いただけで……」=“It's not that I'm bothering you, ....... I was just surprised. ......”
 「正直に言ってしまえば、う、嬉しい……かな？」=“If I'm honest with you, I'm glad you're on .......”
-「じゃあ……！」=“Then...!”
 「で、でも、ちょっと待つんだなぁ！　本当にちゃんとよく考えたのかい？」=“But wait a minute!　Are you sure you've thought this through?”
 「ワタシみたいな女は、あまりパンピーには好かれないと思うんだけどなぁ」=“I don't think pimps would like a girl like me.”
 「そうかもしれないね」=“Maybe you're right.”

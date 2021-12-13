@@ -13,7 +13,7 @@
 「男女の関係とはどういうものか、詳しく知りたいところです」=“I would like to know more about just what a relationship between a man and a woman entails.”
 「ああ、あなたでしたか。失礼、気が付きませんでした」=“Aaah, so it was you. Sorry, I didn't notice.”
 「はい、何かご用でしょうか」=“Yes, do you need something?”
-//「私に何か？」=
+「私に何か？」=“Need something from me?”
 //「どうしましたか？」=
 //「真心ってやっぱり大事だよね」=
 //「はい、人にはそういった誠実さが大事だと思います」=

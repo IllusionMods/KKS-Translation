@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「あの……お邪魔してもよろしいですか？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
 //「もちろんいいよ。どうかしたの？」=
 //「遅い時間にすみません。ふと、あなたに会いたくなりまして……」=
 //「今夜は……傍にいさせてください」=

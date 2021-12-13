@@ -14,7 +14,7 @@
 「あら、あなただったの」=“Oh, it was you.”
 「あなたって本当にエッチよね……あら、褒めてるのよ？」=“You're really quite the lewd man... Oh, that's a compliment, you know?”
 //「私に何か用かしら？」=
-//「あら、どうしたの？」=
+「あら、どうしたの？」=“Oh, what's wrong?”
 「周りの人からよく、色っぽいって言われない？」=“Do people often tell you that you're erotic?”
 「ええ、しょっちゅう。私にとってはこれが普通なのにね……」=“Yes, very often. Even though, to me, this much is normal...”
 「どうかしらね……あなたがそう思うならそうかもしれないわ」=“I wonder... If you think so, it might be true.”

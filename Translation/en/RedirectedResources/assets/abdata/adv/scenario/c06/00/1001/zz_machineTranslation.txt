@@ -1,4 +1,3 @@
-「涼しそうだし、ここでゆっくりしようよ」=“It's cool here. Let's relax here for a while.”
 「風情のある縁側ですね。自然と心が落ち着きます」=“It's an elegant porch. It naturally calms me down.”
 「[H名]にはこんな縁側がよく似合うよ。もしかして実家にもあるのかな？」=“I thought [H名] would agree. Maybe you have one at home?”
 「ご明察でございます。それほど立派なものではありませんが、我が家にも縁側がございます」=“I'm sure you understand. We have a porch in our house, though it is not very grand.”

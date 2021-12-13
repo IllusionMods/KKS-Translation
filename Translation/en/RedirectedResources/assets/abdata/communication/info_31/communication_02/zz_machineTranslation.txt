@@ -114,7 +114,6 @@
 「あのさ……これから二人で遊ばない？」=“Hey, ......, would you like to hang out with me?”
 「おほほ、構いませんわ！」=“Oh, yes, of course!”
 「遊ぶとなると、汗をかいてしまいますわ。お断わりさせていただきます」=“I sweat a lot when I play. I'm afraid I must decline.”
-「体験コーナーに行こうと思うんだけど、一緒にどうかな？」=“I'm thinking of heading to the experience corner... how about we do it together?”
 「あなたとするのも楽しそうですわね。よろしくてよ」=“I think it would be fun to do it with you. Please do.”
 「一人の方が集中できますの。ごめんあそばせ」=“I can concentrate better when I'm alone. I'm sorry.”
 「ご飯を食べようと思ってるんだけど、一緒にどうかな？」=“I'm going to have some dinner. Would you like to join me?”
@@ -140,7 +139,6 @@
 「あら……わたくしにご用ですの？」=“Oh, ......, you wanted to see me?”
 「どうかなさいました？」=“What can I do for you?”
 「おーっほっほっほ、わたくしとお話したいのかしら？」=“Ooh, ooh, ooh, you want to talk to me?”
-「遊び疲れたりしてない？」=“Are you tired of playing?”
 「心配ご無用ですわ。わたくし、体調管理はしっかり出来ていますの」=“Don't worry, my dear. I take good care of myself.”
 「少々はしゃぎ過ぎているかもしれませんわね。少し自重しますわ」=“I'm afraid I'm a little overexcited. I'll take it easy.”
 「勝手な印象だけど、めちゃくちゃ歌が上手そうだよね」=“I'm just guessing, but you seem to be a very good singer.”
@@ -374,7 +372,6 @@
 「ここできみとHしたいな！」=“I want to have sex with you right here!”
 「おーっほっほっほ、わたくしの魅力に我慢できなくなったのね。恥ずかしいけど、よろしくてよ！」=“Ooh, ooh, ooh, you can't resist my charms. I'm so embarrassed, but say hello!”
 「おほほほ、わたくしの魅力のとりこですわね……でも、ここでは駄目。当然でしょう？」=“Oh, you're a sucker for my charms ......, but not here. Of course not.”
-「ここできみとHしたい」=“I wanna do it here with you.”
 「周りに見られながらする、ということですの……？　それは興奮しそうですわね！　おほほほほ！」=“I want to have sex with you here. - You mean while people are watching. ......?　That sounds very exciting!　Oh-ho-ho!”
 「おほほほほ、楽しそうな試みですわね。でも駄目よ」=“Oh, that sounds like a fun experiment. But no.”
 「おほほほ、勿論ご一緒しますわ」=“Oh-ho-ho, of course I'll join you.”
@@ -411,8 +408,6 @@
 「えーっと……[Hあだ名]！」=“Let's see, ....... [Hあだ名]!”
 「まったく、突然そんな呼び方……。[Pあだ名]……これで満足かしら？」=“Totally, all of a sudden you're calling me that ....... [Pあだ名]...... Are you happy now?”
 「機嫌を伺ってるおつおり？　あいにくまだ怒っておりましてよ」=“Are you in a good mood?　I'm still angry, unfortunately.”
-「ねえ……[Pあだ名]」=“Hey... [Pあだ名].”
-「どうしたの？　[Hあだ名]」=“What's the matter? [Hあだ名].”
 「おほほほ。愛おしい名ですから、つい呼んでしまいましたわ」=“[Hあだ名] "Oh-ho-ho. It's such a lovely name, I just had to call you that.”
 「大胆ですわね。でも、よくってよ。満足させてくださいね？　[Pあだ名]」=“That's bold. But it's good. Please satisfy me.　[Pあだ名]”
 「その……あなたが傍にいるだけで、疼いてしまいますの。お相手してくださらない？　[Pあだ名]」=“That ...... makes me tingle just being around you. Would you like to play with me?　[Pあだ名]”

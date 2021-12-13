@@ -1,5 +1,4 @@
 「あのね、ちょっとお願いしたいんだけど……」=“Hey, I need a favor. ......”
-「どうしたの？」=“What's going on?”
 「えっと、あなたの愛称を考えてきたから、聞いて欲しいな……って」=“Well, I've been thinking of a nickname for you, and I want you to hear it. ......”
 「え、そうなの？　実は俺もそろそろ愛称呼びしたいなーと思って、考えたりしてたんだ」=“Oh, really?　Actually, I've been thinking that I'd like to start calling you by your nickname.”
 「お揃いで嬉しいな。聞かせてくれる？　俺も呼ぶからさ」=“I'm glad we're together. Can you tell me about it?　I'll call you.”

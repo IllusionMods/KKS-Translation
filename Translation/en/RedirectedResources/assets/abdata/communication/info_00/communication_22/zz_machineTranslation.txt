@@ -21,7 +21,6 @@
 「どうせなら、何かもっと刺激的なお話がいいかなー」=“I'd like to hear something more exciting anyway.”
 「島のガイドブックって買った？」=“Did you buy a guidebook about the island?”
 「買ったよー。でも、まだちゃんと読んでないんだよねー」=“Yes, I did. Yes, but I haven't read it yet.”
-「この島の文化についてなんだけど……」=“I'm talking about the island's culture. ......”
 「へぇ、そうだったんだ！？　初耳！　教えてくれてありがとね！」=“Oh, I didn't know that!　That's new!　Thank you for telling me!”
 「この島、暑いよね」=“It's hot on this island.”
 「暑いけど、気持ちいい暑さだよね。本当、南国って感じだよー」=“It's hot, but it's nice and warm. It's really tropical.”
@@ -31,7 +30,6 @@
 「恋愛したいと思う？」=“Do you want to be in love?”
 「したいよー。もっとも、相手がいればの話だけどねー」=“I do. I would, but only if I had a partner.”
 「わかんないなー。興味はあるけど、まだ実感がわかないって言うか」=“I don't know. I'm interested, but I don't really feel it yet.”
-「好きな男性のタイプってある？」=“Do you have a type, in terms of boys you like?”
 「うーん……恋愛初心者だし、積極的に色々リードしてくれる人かな？」=“Hmmm... I'm a beginner in ...... relationships, so I'd like someone who's willing to take the lead in things.”
 「そういうの聞かれても難しいなぁ。まだよく分かんないよ」=“It's difficult to answer such a question. I'm not sure yet.”
 「こういう話、正直、今はそんなに興味がないの。ごめんね」=“To be honest, I'm not that interested in this kind of talk right now. Sorry.”
@@ -41,22 +39,16 @@
 「わかんないけど……私も、綺麗になりたいかも」=“I don't know. ...... Maybe I want to be beautiful, too.”
 「どんな出会いが理想かな？」=“What's your ideal relationship?”
 「運命の出会いって感じ？　そういうの憧れるかも」=“What do you think would be the ideal encounter?　That's what I'm looking for.”
-「積極的な男性ってどう思う？」=“What do you think about proactive guys?”
 「引っ張ってくれるタイプってこと？　だったら嬉しいかも！」=“You mean the kind that pulls you along?　That would be great!”
 「うーん、歩幅が合わない感じがして苦手かなぁ」=“I don't know. I don't like the way he walks.”
-「慎重な男性ってどう思う？」=“What do you think of careful, prudent guys?”
 「私、よく危なっかしいって言われるから……そういう人、いいね」=“I'm often told that I'm too dangerous. ...... Someone like that would be nice.”
 「どうかなぁ。男の人なら大胆さも欲しいよね」=“I don't know. I don't know. I think men need to be bold.”
-「勤勉な男性ってどう思う？」=“What do you think of dilligent boys?”
 「真面目な人は好きだよ。信頼できるもん」=“I like serious people. I like serious people. They're trustworthy.”
 「堅すぎる人はちょっと……気楽な人がいいなー」=“I don't want someone who's too uptight. ...... I want someone who's easygoing.”
-「マイペースな男性ってどう思う？」=“What do you think of guys that go at their own pace?”
 「いいんじゃないかな。自分を持ってるって感じがするし！」=“I think it's good. It makes me feel like I have my own identity.”
 「ダメダメ。私もマイペースだからぶつかっちゃうよー」=“No, no, no. No, no, no. I'm too fast-paced for that.”
-「優しい男性ってどう思う？」=“What do you think of kind boys?”
 「やっぱり男の人は優しさだよ！　これはもう絶対！」=“A man must be kind!　That's a must!”
 「優しいだけじゃちょっと……勢いも欲しいかなぁ」=“Gentleness isn't enough. ...... I need some energy.”
-「クールな男性ってどう思う？」=“Do you like "cool" guys?”
 「落ち着いてる人って憧れるかも。ドンと構えてる感じだよね」=“I admire people who are calm. I admire people who are calm and composed.”
 「結構苦手かな。私は賑やかな人が好きー」=“I'm not good at that. I like people who are lively.”
 「単刀直入に、エッチな話って興味ある？」=“Let's get straight to the point. Are you interested in talking about sex?”
@@ -211,7 +203,6 @@
 「ごめんね、もう行かなくっちゃ」=“I'm sorry, I have to go.”
 「それじゃあ、私もう行くね」=“Okay, I'll go now.”
 「うん、了解です！」=“Yeah, okay.”
-「うん、またねー」=“Yeah, till next time.”
 「俺、きみのことが好きだ」=“I like you.”
 「気持ちは嬉しいけど……今は君の事、友達としか思えないから……」=“That's nice of you to say, but ...... I can't think of you as anything but a friend right now.”
 「あのね、私……君の事が好きなんだ」=“You know, I like ...... you a lot.”
@@ -325,7 +316,6 @@
 「わぁわぁっ、思い出しちゃダメーっ！」=“Oh, my God, don't remember that!”
 「エッチした回数とかって覚えてる？」=“Do you remember how many times you've had sex?”
 「お、お、覚えてっ……るけどっ！　もーっ、恥ずかしいこと言わせないでーっ！」=“Oh, I remember. ......, but!　Oh, my God, don't make me embarrass you!”
-「どうしたの？」=“What's going on?”
 「えへへ、君に見つめられると笑顔になっちゃうよ」=“I can't help but smile when you stare at me.”
 「もうダメー。これ以上は赤くなっちゃうっ！」=“I can't do this anymore. You're making me blush!”
 「ど、どこ見てるのかな？　もしかして……お……おっぱい……？」=“What are you looking at?　Are you looking at ...... my ...... tits ......?”
@@ -365,7 +355,6 @@
 「いますぐにＨしたい。いい？」=“I want to have sex with you right now. Can I?”
 「か、完全に変態さんだよぉ。でも……うん、私もしたいかも♪」=“You're a total pervert, you know that? But ...... yes, I want to do it too.”
 「こ、ここじゃさすがに無理だよぉ。二人きりの時に。ね？」=“No, I can't do it here. I want to do it when we're alone. Right?”
-「ね、ここＨしたいんだけど……」=“Hey, I want to have sex here...”
 「わぁ、こんな場所でＨなんて……考えただけで私もスイッチ入っちゃった♪」=“Wow, just the thought of having sex in a place like this ...... turns me on.”
 「無理無理！　絶対に誰か来るもん！」=“No way!　Someone will definitely come.”
 「もちろんＯＫだよ。どこで観光しようか？」=“Of course you can. Where do you want to go sightseeing?”
@@ -384,7 +373,6 @@
 「ねぇ、二人でご飯食べに行こうよ」=“Hey, you and me, let's go out to dinner.”
 「良かった。それじゃあ美味しいもの、食べに行こうね」=“Good. Let's go eat something delicious then.”
 「食べないんだ……それじゃあ仕方がないね」=“You don't eat at ......, so I guess we'll have to.”
-「俺の部屋に来てくれない？」=“Why don't you come to my room?”
 「うんっ、お邪魔しちゃおうかな」=“Yeah, I think I'll go over.”
 「ちょっと付いてきてもらってもいい？」=“Do you mind if I tag along for a bit?”
 「いいよ！　どこに行くの？」=“No problem!　Where are you going?”
@@ -399,7 +387,6 @@
 「あははっ！」「あはっ♪」「わーい」「やたー♪」「えっへへー」=Ha ha! "Ha ha!" "Wow!" "Yay!" "Heh heh heh!
 「はぅぅ……」「ふわぁ……」「あぅ……」「あ、あはは……」「え……えへへ……」=Ha-ha......, wow......, ah-ha......, ah-ha......, eh......, eh.......
 「あのねあのね！」「ねぇねぇ！」「あのね」「そういえば……」「ちょっといいかな？」=Hey, hey, hey!" "Hey, hey!" "Hey, hey!" "Oh, by the way, ......, do you have a minute?
-「あのさ、[Hあだ名]」=“Listen, [Hあだ名].”
 「な、なにかな？　えっと……その……[Pあだ名]。あーん、やっぱり照れちゃうよー！」=“What's that?　Let's see. ...... That ......[Pあだ名]. I'm so embarrassed!”
 「ふんだ。そんな風に呼ばれても答えません。私、怒ってるんだもん！」=“Hmm. I won't answer even if you call me that. I'm so angry!”
 「あのね……[Pあだ名]」=“You know, ......[Pあだ名].”

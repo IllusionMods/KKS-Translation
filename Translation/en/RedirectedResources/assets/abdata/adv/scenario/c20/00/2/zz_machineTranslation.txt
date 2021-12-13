@@ -1,6 +1,5 @@
 「好きだっ、付き合って欲しい！」=“I like you. I want you to go out with me!”
 「……えっ？」=“......What?”
-「…………」=...............
 「えええっ！？　な、なななな、なにを……え？　えええっ！？」=“What?　What, what, what are you doing at ......?　What?”
 「ご、ごめん。さすがにいきなり過ぎたかな？」=“I'm sorry. Did I come on too strong?”
 「告白しようって思いが先走っちゃったよ……」=“The thought of confessing got the better of me. ......”

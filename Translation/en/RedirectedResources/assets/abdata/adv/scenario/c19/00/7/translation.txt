@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//（ん？　昨日はあの後すぐ寝ちゃったのか、……っていうか、何だか下半身がムズムズして……）=
-//「って、うおっ！？」=
+（ん？　昨日はあの後すぐ寝ちゃったのか、……っていうか、何だか下半身がムズムズして……）=(Nn? Fell asleep right after what we did yesterday, did I... Hang on, just why does my crotch feel so...)
+「って、うおっ！？」=“--Woah--!?”
 //「あ、おはよう[P]君。先に起きたらここ、大きくしてたから……」=
 //「えっと、これはその、男の生理現象というか……」=
 //「う、うん、知ってるよ、本で読んだの。朝はこうなるんだよね？　だから私が……」=

@@ -1,8 +1,5 @@
-係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please join up in pairs.”
 「キャンプファイヤーだって。参加してみない？」=“It's a campfire. Would you like to join us?”
 「いいわ。これも旅の思い出だものね」=“Okay. That's what this trip is all about.”
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“...I hope everyone's got a partner? Well then, I'll put on the music as soon as you're ready.”
 「……私が勝手に頭の中で絵を想像しすぎていたのかしら？」=“...... Am I imagining too many pictures in my head?”
 「絵って？」=“What's the painting?”
 「現状に不満があるわけではないのだけど……もうちょっとしっとりした、恋人同士の秘めた時間みたいなものを想像していたの」=“It's not that I'm unhappy with the way things are, but I was hoping for something a little more ...... intimate, like a secret time between lovers.”
@@ -13,12 +10,10 @@
 「でも……記憶があやふやになっているから、きっと楽しい思い出じゃなかったのでしょうね」=“But ...... your memory is fuzzy, so I'm sure it wasn't a pleasant memory.”
 「なら、新しい思い出で上書きしないと」=“Then I'll have to overwrite them with new memories.”
 「たとえばどうやって？　私達、吹き出しそうになってしまっているのよ」=“Like how?　We're about to blow it.”
-「……じーっ」=*...Stare*
 「ま、まさか、キスでもしようとしているの？　ダメよ……こんなところで」=“Are you trying to kiss me?　No. ...... Not in this place.”
 「違うって。今日の思い出を曖昧なものにしないために、[H名]を目に焼き付けてるだけ」=“No, it's not. I'm just burning [H名] into my eyes so that I don't have a vague memory of today.”
 「……アナタにそうやってはしごを外されたら、私がはしたないみたいじゃない」=“...... If you take me off the ladder like that, it makes me look like a prude.”
 「あはは。可愛いね、[H名]は」=“Ha-ha. You're cute, [H名].”
 「もう……いいわ。私も真似するから」=“No more ....... I'll copy you.”
-「…………」=...............
 「……上書き、成功したかな？　音楽が耳に入らなくなってきた」=“Did I succeed in overwriting ......?　I can't hear the music anymore.”
 「ええ。……アナタも私から目を逸らさないで」=“Yes. ...... Don't look away from me, either.”

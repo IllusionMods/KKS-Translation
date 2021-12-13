@@ -8,7 +8,6 @@
 「なるほど、それはありそうかも」=“Yeah, that sounds like a good idea.”
 「だとしたら本当にそういう効果がありそうだね」=“Well, if that's the case, it really does seem to work that way.”
 「は、はい……」=“Yes, yes .......”
-「…………」=...............
 「ん？　どうかした？」=“Hmm?　What's wrong?”
 「い、いえ、何でもない……んですけど……」=“No, it's nothing. It's just ......”
 「けど……なんだろ？　何か言いたいことでもあったかな？」=“But it's ......, right?　Is there something you want to say?”

@@ -1,7 +1,5 @@
 OPTION[100]:気持ちに応える=Respond to feelings
 気持ちに応える=Responding to Feelings
-OPTION[100]:……ごめん=......Sorry.
-……ごめん=......Sorry.
 OPTION[101]:ごめん=I'm sorry
 OPTION[102]:もちろんいいよ！=Of course it's okay!
 もちろんいいよ！=Of course you can!

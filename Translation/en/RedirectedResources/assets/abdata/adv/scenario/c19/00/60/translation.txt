@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「ねぇ……今から、大丈夫かな？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
 //「大丈夫だけど、どうかしたの？」=
 //「さっき読んでた本でね……二人じゃないと分かち合えない気持ちがあるって書いてて……」=
 //「どういう意味かなぁって……確かめたくなったんだけど……いい？」=

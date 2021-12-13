@@ -1,7 +1,6 @@
 「好きだよ」=“I like you.”
 「……えっ？」=“......What?”
 「好きだ。俺と……恋人としてお付き合いして欲しい」=“I like you. I want you to be my ...... lover.”
-「…………」=...............
 「な、なんだか……そんな感じ？　俺としてはかなり本気で、覚悟を決めてたんだけど」=“What, you're kind of ...... like that?　I was pretty serious about it. I was ready for it.”
 「そ、それは分かってるけれど……私、なにか変だった？」=“Yeah, I know, but ...... am I acting weird?”
 「あんまり驚いた感じじゃなかったからさ……もしかして態度でバレバレだったかな？」=“She didn't seem too surprised. ...... Maybe it was her attitude that gave it away?”

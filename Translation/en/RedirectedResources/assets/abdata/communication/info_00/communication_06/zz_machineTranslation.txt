@@ -31,7 +31,6 @@
 「恋人が出来たらやってみたいことってある？」=“Is there anything you'd like to do when you get a boyfriend?”
 「その……手を繋いで、散歩をしたいです」=“Well, I'd like to ...... hold hands and go for a walk.”
 「はしたないかもしれないのですが……膝枕には憧れがございます」=“I know it's a bit of a stretch, but I'd love to be on ...... your lap.”
-「好きな男性のタイプってある？」=“Do you have a type, in terms of boys you like?”
 「私はこの通り融通の利かない女ですから、大らかな人の影響を受けたいと思っております」=“As you can see, I'm an inflexible woman, so I'd like to be influenced by someone who is generous.”
 「明確にこれという方はまだいらっしゃいません」=“I have not yet found anyone who is exactly like me.”
 「知り合ったばかりの女性に聞くには不躾ではありませんか？」=“Isn't that a rude thing to ask a woman you've just met?”
@@ -41,22 +40,16 @@
 「私もこれからそのような経験をするのでしょうか……」=“I wonder if I'm going to experience that in the future. ......”
 「友達の話なんだけど……」=“I'm talking about my friend .......”
 「その……次はきっと、素敵な方に巡り合えるかと思います」=“I'm sure ...... you'll meet someone wonderful next time.”
-「積極的な男性ってどう思う？」=“What do you think about proactive guys?”
 「恋心に疎いものですから、手取り足取り教えてくれる方が良いのではないでしょうか」=“I don't know much about love, so I think it would be better if you taught me everything you know.”
 「一概には申し上げられませんが、苦手かもしれません」=“It's hard to say, but I might not be good at it.”
-「慎重な男性ってどう思う？」=“What do you think of careful, prudent guys?”
 「慎重に過ぎることがなければ、とても良いことだと存じます」=“I think it would be very good if you weren't overly cautious.”
 「想像でしかないのですが、積極的な殿方の方が好みです」=“I can only imagine, but I prefer aggressive men.”
-「勤勉な男性ってどう思う？」=“What do you think of dilligent boys?”
 「とても良いことではないでしょうか。祖母も勤勉は日本人の美徳だと申しておりました」=“It would be very good, I think. My grandmother used to say that diligence was a Japanese virtue.”
 「父のような殿方でしょうか……ほんの少し、苦手かもしれません」=“My grandmother always said that diligence was a Japanese virtue. - My father's kind of guy. ...... I'm not so sure about that.”
-「マイペースな男性ってどう思う？」=“What do you think of guys that go at their own pace?”
 「私にそういう気質がないからこそ、気ままな殿方には憧れます」=“It's because I don't have that kind of temperament that I admire men who are easygoing.”
 「手前勝手な解釈ですが、協調性のない方では困ります」=“I'm not saying this to be selfish, but I don't want you to be uncooperative.”
-「優しい男性ってどう思う？」=“What do you think of kind boys?”
 「とても男性らしくて素敵だと存じます」=“I think you're very masculine and very nice.”
 「そのような殿方とお話したことがないので、わかりかねます」=“I don't know, I've never talked to a man like that before.”
-「クールな男性ってどう思う？」=“Do you like "cool" guys?”
 「我が家の男性は皆口数が少ないので、苦手ではありません」=“All the men in my family don't talk much, so it's not a problem for me.”
 「私のような堅物女を受け入れてくれるでしょうか……？」=“I wonder if they would accept a standoffish woman like me. ......?”
 「エッチな話って興味ある？」=“Are you interested in talking about sex?”
@@ -65,7 +58,6 @@
 「花嫁修業って、エッチなことも修行するの？」=“Does your training include sex?”
 「昼夜を分かたず殿方を立てるように、とは教わっております」=“I've been taught to be available day and night, my lord.”
 「しません。貴方はそのようなことしか考えられないのですか？」=“No, I don't. Is that all you can think about?”
-「理想の初エッチって、ある？」=“Do you have an "ideal" first time in mind?”
 「自分が心に決めた殿方と致すことなら、どんなことでも理想です」=“Anything is ideal, as long as it's with a man I've made up my mind to have.”
 「それを決めるのは私ではなく祖母です。私はいずれ、お見合いすることになっていますから」=“It is not for me to decide, but for my grandmother. I'm supposed to go on an arranged marriage.”
 「私、貴方に女扱いされていないのでしょうか……？」=“Do you think I'm not being treated like a woman by you, ......?”
@@ -119,7 +111,6 @@
 「今からご飯にしようと思ってるんだけど、どうかな？」=“I'm thinking of having dinner now.”
 「そうですね、ご一緒いたします」=“Yes, I'll join you.”
 「お腹は空いておりませんので、今は結構です」=“I'm not hungry, so no, thank you.”
-「ちょっと付いてきてもらっていい？」=“Could you come with me for a moment?”
 「どこへ向かわれるのですか？」=“Where are you headed?”
 「申し訳ございません。所用がございますので……」=“I'm sorry. I have some business to attend to. ......”
 「いけないお人ですね……誰かが来たら、出て行っていただきますよ？」=“If anyone comes to ......, you'll have to leave, won't you?”
@@ -167,11 +158,9 @@
 「その……申し訳ないのですが、私には皆目見当もつきません」=“Well, ...... I'm sorry, but I have no idea.”
 「私個人の意見としては、真面目に本心から向き合えば、良い関係を築けるかと思います」=“In my opinion, if you are serious and sincere, you can have a good relationship.”
 「何やら気恥ずかしいですね。他のお話にいたしましょう」=“That's embarrassing. Let's talk about something else.”
-「この間、見かけたんだけど……」=“I saw something on ...... the other day.”
 「私には縁遠いお話ですね……」=“I don't think I'm ready for this. ......”
 「貴方との関係が始まってからです。殿方の嗜好は未だに理解しかねますが……」=“Not since the beginning of our relationship. I still don't understand your taste in men. ......”
 「私の興味は破廉恥なことではなく、殿方です」=“I'm not interested in shameful things, I'm interested in you.”
-「エッチなこと聞かれるのイヤ？」=“Do you hate being asked about lewd stuff?”
 「破廉恥なことというより、女だからと軽んじられるのは嫌いでございます」=“I don't like to be disrespected because I'm a woman.”
 「元より殿方が破廉恥な存在なら、嫌いではございません」=“I don't mind being disrespected because I'm a woman. - I don't mind being disrespected because I'm a man.”
 「付き合っている男が身勝手なエッチをする男だったらイヤ？」=“Would you hate it if the man you were dating was a selfish fucker?”
@@ -206,7 +195,6 @@
 「破廉恥なことでも大丈夫ですから、もっと私とお話していただけますか？」=“Would you be willing to talk to me more, even if it's about something embarrassing?”
 「今日はあまり破廉恥ではありませんね。お気遣いは無用に願います」=“Not too much embarrassment today. I hope you don't mind.”
 「次はどのようなお話にいたしましょう」=“What shall we talk about next?”
-「…………」=...............
 「恐れ入りますが、そろそろ失礼させていただきます」=“I'm sorry, but I must be going.”
 「そろそろ失礼させていただきます」=“I'd better be going.”
 「貴方とお話していると、時の流れを忘れてしまいます。またお話してくださいね」=“When I talk to you, I forget the passing of time. Please talk to me again.”
@@ -220,12 +208,10 @@
 「お気持ちは大変嬉しいのですが……申し訳ございません、お時間をいただけないでしょうか」=“I'm very flattered, but I'm sorry to ...... have to ask you for a moment of your time.”
 「……失礼を承知の上で申し上げます。私とお付き合いしていただけませんか？」=“...... I don't mean to be rude. Would you be willing to go out with me?”
 「……結果は分かっていたつもりでしたが、存外堪えるものですね」=“...... I thought I knew the outcome, but it's more bearable than I thought.”
-「あ、あのさ、きみとHしたいなって」=“H-Hey, I was just thinking, if we could have sex.”
 「お付き合いしていない方とそのようなことをするわけには参りません」=“I'm not going to do that with someone I'm not in a relationship with.”
 「その……Hしたいな」=“I want to ...... have sex with you.”
 「本当はいけないことなのですよ？　貴方だから、特別に……」=“I want to  have sex with you. - You know you shouldn't do that, right?　You're a special ......”
 「貴方が破廉恥なのは存じておりますが……それは、許されないことです」=“I know you're a scumbag, but ...... that's not allowed.”
-「ここできみとHしたい」=“I wanna do it here with you.”
 「酷い人ですね……お互い様ですけど……うふふ」=“You're a horrible person. ...... We're both horrible people. ......”
 「仰ることの意味が……いえ、意図がわかりません」=“I don't understand ...... what you mean, I don't understand what you mean.”
 「私にそんなはしたないことをお願いする殿方なんて、貴方だけですよ」=“You're the only person I know of who would ask me to do something so trivial.”
@@ -239,7 +225,6 @@
 「お暇でしたら、これから島の観光に出掛けませんか？」=“If you're not too busy, would you like to go sightseeing on the island?”
 「ありがとうございます。早速向かいましょう」=“Thank you very much. Let's get going.”
 「先ほど出かけたばかりなのですね……かしこまりました」=“You've just left. ...... Yes, sir.”
-「今から二人で遊ばない？」=“Why don't you and I have some fun now?”
 「息抜きも大切ですし、喜んでご一緒いたします」=“It's important to relax. I'd be happy to join you.”
 「先ほど息抜きをしたばかりでして……申し訳ございません」=“I've just had a break. ...... I'm sorry.”
 「もしよろしければ、これから私と遊びに出掛けませんか？」=“Would you like to go out with me now, if you like?”
@@ -257,7 +242,6 @@
 「お腹は空いていませんか？　もし空いてたら、これからご飯にしませんか？」=“Are you hungry?　If you are, would you like to have dinner?”
 「まあ、丁度空かせていたのですね」=“Well, you've just been hungry.”
 「かしこまりました。また機会がありましたら、その際はよろしくお願いいたします」=“Thank you very much. Thank you very much. I hope we can meet again soon.”
-「ちょっと付いてきて」=“Follow me for a bit.”
 「かしこまりました。どちらへ向かわれるのですか？」=“Very well, sir. Where are you headed?”
 「ご一緒にしたのは山々なのですが、先約がございまして。また後日、よろしくお願いいたします」=“I would love to join you, but I have a prior engagement. I'd love to join you, but I have a prior engagement.”
 「うふふ、いらっしゃると思って、お待ちしておりました」=“I was expecting you. I was waiting for you.”
@@ -292,7 +276,6 @@
 「そのお話も良いのですが、もう少し刺激の強いお話でも大丈夫ですよ」=“I'd love to talk about that, but I'm sure we can talk about something a little more exciting.”
 「サブスクのサービスってなにか入ってる？」=“Do you have a subscription to any of the services?”
 「さぶ……？　えぇと、どの様なさぁびすなのでしょうか？」="Sabu ......"?　Well, what kind of service is it?
-「あまりにも取るに足らない話なんだけど……」=“I know this is a pretty worthless thing to ask but...”
 「最近は貴方の『取るに足らない』で始まるお話が楽しみで仕方ありません」=“Lately I've been looking forward to your stories that start with "insignificant.”
 「はい、お慕い申し上げております」=“Yes, I adore you.”
 「いいえ……と応えても、冗談だと通じる間柄だと自負しております」=“I'm proud of the fact that I can tell when you're joking when you say .......”
@@ -306,11 +289,9 @@
 「貴方とお付き合いしてからは、少し気になるようになりました」=“Since I've been seeing you, I've become a little more interested in you.”
 「……貴方の事が気になり始めてからは、確認しておりました」=“I've been checking ...... ever since I started to worry about you.”
 「うふふ、こういうときは『な・い・しょ』としなを作るのが良いと聞きました」=“I've heard that it's good to say "no, no, no" in these situations.”
-「[H]、好きだ」=“I love you, [H].”
 「私も大好きです。一日中、おそばで笑っていたいぐらいに」=“I love you, too. I love it too. I could sit by your side and laugh all day.”
 「友達が言ってたんだけど……」=“A friend of mine told me about .......”
 「いずれ私達も、その様なことをするのでしょうか」=“I wonder if we'll ever get to do that.”
-「エッチで、こういうことされたら嫌だってことある？」=“Is there anything you'd hate me for, if I did it to you while we were having sex?”
 「あまりにも恥ずかしいことでしょうか。それでも感じてしまう私がいやらしくて……」=“Would it be too embarrassing? Would it be too embarrassing? I'd still feel it. ......”
 「特にございません。貴方に心からお尽くしすると、先祖代々に誓っております」=“Nothing, really. I have sworn by my ancestors to serve you with all my heart.”
 「どんなにアブノーマルなプレイでも応じてくれる？」=“Would you be willing to play with me, no matter how abnormal?”
@@ -366,10 +347,8 @@
 「どうか今すぐ私を抱いてください……」=“Please take me in your arms right now. ......”
 「突然のお誘いに応えてくださって有難く存じます。急に愛おしくなってしまって……」=“Thank you for accepting my invitation on such short notice. Thank you for responding to my sudden invitation. Suddenly I feel so lovely. ......”
 「も、申し訳ございません。我ながら直接的すぎました……」=“I'm sorry, too. I was being too direct. ......”
-「みんながいるけど、ここで[H]とHしたい」=“I know everyone's here but, I wanna do it here with you.”
 「……かしこまりました。貴方のお心のままに乱れさせていただきます」=“I want to have sex with [H] here. ...... I'll be as wild as you want me to be.”
 「その……やはり、こういうことはいけません」=“That ...... is still not the way to do it.”
-「ここで[H]とHしたい」=“I want to do it here with you, [H名].”
 「……どうぞよしなに」=“...... Please do.”
 「申し訳ございません。今の私ではまだ……勇気が出ません」=“I'm sorry. I'm sorry, but I don't have the ...... courage yet.”
 「はい。私もお買い物にお付き合いいたします」=“Yes. I'll go shopping with you.”
@@ -388,9 +367,7 @@
 「もしお腹が空いていましたら、これからご飯にしませんか？」=“If you are hungry, would you like to have dinner now?”
 「うふふ、とても空いていたのですね。では早速参りましょう」=“Yes, thank you very much. Let's get started.”
 「ご飯を済ませたばかりでしたか？　残念ですが、仕方ありませんね」=“Didn't you just finish your dinner?　I'm sorry, but it can't be helped.”
-「あのさ、俺の部屋に来てくれない？」=“Um, hey, why don't you come to my room?”
 「……はい。準備は出来ておりますので」=“...... Yes. I'm ready.”
-「付いてきてもらってもいい？」=“Could I get you to follow me for a second?”
 「うふふ。はい、お供させていただきます」=“Mmm-hmm. Yes, I'd like to accompany you.”
 「その前に済ませていただきたいことがあるのですが、わかっていただけますよね？」=“But first, there's something I need you to do for me, do you understand?”
 「かしこまりました」「そのようですね」「もちろんです」「お任せください」「貴方のご随意のままに」=Yes, sir. - Yes, sir. - Of course. - Leave it to me.
@@ -407,7 +384,6 @@
 「……分かりました。……[Pあだ名]。これで、よろしいでしょうか？」=“...... I understand. ......[Pあだ名]. Is that okay?”
 「……今は真面目になさってください」=“......, please be serious now.”
 「こほん……[Pあだ名]」=“This is ......[Pあだ名].”
-「どうしたの？　[Hあだ名]」=“What's the matter? [Hあだ名].”
 「私にとって、一番愛おしい名前ですので、声に出して呼ばせていただきました」=“It's the name I love the most, so I said it out loud.”
 「はい。……[Pあだ名]、どうぞ、貴方のご随意に……」=“Yes. "Yes. ......[Pあだ名], please, ...... as you wish.”
 「その……貴方と直に交わりたいのです。[Pあだ名]……如何でしょうか？」=“I'd like to commune with you in person, ....... [Pあだ名] ......, how about it?”

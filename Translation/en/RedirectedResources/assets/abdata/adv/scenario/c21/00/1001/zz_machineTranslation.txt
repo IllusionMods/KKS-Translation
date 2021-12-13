@@ -1,4 +1,3 @@
-「涼しそうだし、ここでゆっくりしようよ」=“It's cool here. Let's relax here for a while.”
 「風が気持ちいいなぁ。ザ・夏って感じだ」=“The wind feels good. It's just like summer.”
 「うん。遠くに波の音が聞こえてて、とっても静かで……本当にいいところだね」=“Yes. I could hear the waves in the distance, and it was so quiet. ...... It's a really nice place.”
 「……こんな素敵な島に来れただけでもいい思い出になるのに、キミと恋人同士になれるなんて、夢でも見てるみたい……」=“...... It's like I'm dreaming of being on this beautiful island and you're my lover. ......”
@@ -20,4 +19,3 @@
 「あ～っハモった！　というかハモってくれた？　ふたりとも同じぐらい超ラッキーだから！　わ～、ロマンチック～♪」=“Oh, that's good!　I mean, did you do it?　Because we're both equally lucky!　It's so romantic.”
 「タイミング頑張りました」=“I did my best with the timing.”
 「ふふっ、ありがとっ♪　それから、これからも超ラッキーで超ラブラブな二人として、よろしくね♡」=“I'm so glad you feel the same way.”
-「うん、こちらこそ」=“Yeah, me too.”

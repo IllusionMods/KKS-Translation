@@ -1,4 +1,2 @@
-「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? ...What do you wanna do?”
 「……少し恥ずかしいですが……３人でするというのは中々ない機会だと思いますので、やらせていただきます」=“...... I'm a little embarrassed, but ......3 I think it's a rare opportunity to do it alone, so I'll do it.”
-「えっと……混ざりたいの？　俺はいいけど……」=“Erhm... you wanna join us? I'm fine with it but...”
 「あら、魅力的なご提案ですね。もちろん、断る理由はございませんよ」=“Oh, that's a tempting offer. Of course, I have no reason to refuse.”

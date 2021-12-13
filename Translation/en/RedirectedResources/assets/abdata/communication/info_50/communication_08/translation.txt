@@ -13,10 +13,10 @@
 「男の人ってやっぱり、女の子に興味津々なのかなぁ？」=“Are all boys just full of curiosity like that, when it comes to girls?”
 「ひゃあ！　もう、びっくりしたよ。脅かさないでほしいなぁ」=“Hyah! Jeez, you really startled me. Please don't do that.”
 「えっ、なにかな？」=“Eh--, what is it?”
-//「どうかしたの？」=
+「どうかしたの？」=“What's the matter?”
 //「うん？　お話したいの？」=
 「友達多いイメージだけど、どうやって仲良くなるの？」=“You seem like you've got a lot of friends, just how do you get along with everyone so well?”
-//「えっとね、興味が沸いた人はいつの間にか仲良くなってるかなぁ」=
+「えっとね、興味が沸いた人はいつの間にか仲良くなってるかなぁ」=“Erhm, you see, I just tend to get along with people that seem interesting to me.”
 「そんなことはないと思うけど……気のせいじゃないかなぁ」=“I don't really think that's the case... are you sure you're not just imagining things?”
 //「なにかハマってることってある？」=
 //「ん～、この島をお散歩することかなぁ」=
@@ -108,7 +108,7 @@
 「この間の続きを聞かせてほしいのだけれど、今は時間がないの」=“I'd love to continue our chat from last time but, I don't have time right now.”
 「もう行かなくちゃ。またねぇ」=“I gotta dash. See ya.”
 //「時間だね、ばいばい」=
-//「それじゃあ、またね」=
+「それじゃあ、またね」=“Well then, see ya.”
 「うん。また今度教えてね」=“Yeah. Teach me more stuff next time.”
 「うん。またねぇ」=“Yeah. See ya.”
 //「あのさ、今から二人で観光しにいかない？」=
@@ -120,7 +120,7 @@
 //「ちょっと体験コーナーに行ってみない？」=
 //「面白そうだねぇ。私も行くよ～」=
 //「ごめんねぇ……お友達と一緒にするって約束したんだぁ」=
-//「これからご飯を食べようと思うんだけど、一緒にどうかな？」=
+「これからご飯を食べようと思うんだけど、一緒にどうかな？」=“I'm going to eat now... want to join me?”
 //「ちょうどお腹が空いてたんだ～。誘ってくれてありがとぉ」=
 //「そんなに空いてないから、私はいいかなぁ」=
 「ちょっと付いてきてもらっていい？」=“Could I get you to come with me for a bit?”
@@ -182,7 +182,7 @@
 「ドラマとかでエッチな場面とかあったら見ちゃう？」=“If a TV drama you were watching shifted to a sex scene, would you keep watching?”
 「うん。でも、ドラマで見るエッチは本当のエッチなの？　どれも辛そうに見えたよ？」=“Yeah. But, is the sex on TV the same as real sex? I feel like their faces are always warped on TV.”
 「エッチな場面……？　えっと、ごめんねぇ。あんまり記憶にないかなぁ」=“Sex scenes...? Erhm, sorry. Can't ever recall seeing such a thing.”
-//「エッチな妄想ってよくする方かな？」=
+「エッチな妄想ってよくする方かな？」=“You the type to often have sexual fantasies?”
 「最近は妄想する様になったよ。でも、その妄想が正しいのかはわからないけど……」=“I've recently started having them. But, I dunno if it's right to have them or not...”
 「エッチのことをよくわかってないから、妄想しようにもなぁ。楽しいことなんだよね？」=“I don't really understand much about sex and stuff so, I couldn't fantasize even if I wanted to. Sex is supposedly fun, right?”
 「今、そのお話はお腹いっぱいだよ。他のお話にしようよ」=“I've honestly had enough of that sort of stuff. Let's talk about something else.”
@@ -195,7 +195,7 @@
 「はい！　もうおしまいだよ。胸を見るのは禁止ね」=“Okay! That's enough of that. You can't look at my chest anymore, okay?”
 「そんなにじっくりと見られると……さすがに嫌かなぁ」=“If you stare at them so hard... I really will start feeling creeped out.”
 「ちゃんと私の目を見てお話してほしいな」=“I'd appreciate it if you would look at my eyes when we're talking.”
-//「んっ……どうしたの、また寂しくなっちゃったのかな？」=
+「んっ……どうしたの、また寂しくなっちゃったのかな？」=“Nn--... what's the matter, have you started feeling lonely again?”
 「甘えん坊なのかな？　男の子だったらいつまでも甘えてちゃダメなんだよ」=“Feeling spoiled? You're a boy, you can't act so spoiled forever, you know?”
 「急に握られたらびっくりしちゃうよ。次からは許可なく手を握っちゃダメだからね」=“Anyone will get started if you grab them so suddenly. Don't grab my hand without asking for permission next time, okay?”
 「ええっ！　胸を触るなら、ちゃんと許可を取ってほしいなぁ、はい。やり直しだよ」=“Eeh--! If you're gonna touch my chest, I'd appreciate if you atleast ask me for permission first. Alright, redo.”
@@ -252,7 +252,7 @@
 //「あのね、一緒に遊ばない？」=
 //「えへへ、よかったぁ。それじゃあ何をするか、二人で決めようね」=
 //「ダメなの？　うーん、じゃあ他のお友達を誘うかなぁ……」=
-//「体験コーナーに行こうと思うんだけど、一緒にどうかな？」=
+「体験コーナーに行こうと思うんだけど、一緒にどうかな？」=“I'm thinking of heading to the experience corner... how about we do it together?”
 //「うん、付いていくねぇ。二人でした方が楽しいと思うし」=
 //「ちょっと前にやってきたから、遠慮しておくね」=
 //「興味のある体験があるから、一緒に申し込んでほしいなぁ」=
@@ -267,7 +267,7 @@
 「ちょっと付いてきて」=“Come with me for a bit.”
 「うん。どうしたのかなぁ？」=“Yeah. What's up?”
 「えっと、今はちょっと忙しくてダメなんだぁ」=“Erhm, I'm a bit busy right now, so I can't.”
-//「ええっ！　入ってきちゃったの……もしかして、おしっこ我慢してたのかなぁ？」=
+「ええっ！　入ってきちゃったの……もしかして、おしっこ我慢してたのかなぁ？」=“Eeh--! You came in here... were you holding it in, or something?”
 「あわわわっ。私ひとりだったらよかったのだけど……今は、ダメだと思うの」=“Awawawah--, I'd have been fine with it if I was alone but... I don't think now's a good time.”
 「いらっしゃ～い。今日はどういった御用なのかなぁ？」=“Welcome~. What's your business here today?”
 「えっとね……みんな居るから、今はダメなんだよ。だから出ていってね」=“Erhm, you see... everyone's here right now so, you can't be in here. So leave, okay?”
@@ -293,7 +293,7 @@
 //「この島の思い出は、たくさん出来た？」=
 //「うんっ。でも、またまだあなたと一緒に、色んなことをやってみたいなぁ」=
 //「いっぱい出来たよぉ！　今度、私が体験したことを聞かせてあげるね」=
-//「将来、やりたいことってある？」=
+「将来、やりたいことってある？」=“Anything you wanna do in the future?”
 //「やりたいことかぁ……よく分かんないけど、ずっとあなたの傍にいられたらいいなぁ」=
 //「ぼんやりとだけど、誰かの役に立つことをしたいって思ってるよぉ」=
 「ん～ん～……別のお話が聞きたいかなぁ」=“Nnnn~... I'd rather talk about something else.”
@@ -395,7 +395,7 @@
 //「あなたと一緒にご飯を食べたいなぁ」=
 //「やったぁ！　ごっはん～、ごっはん～♪」=
 //「そっかぁ……お腹が空いてないなら、しかたないねぇ……」=
-//「あのさ、俺の部屋に来てくれない？」=
+「あのさ、俺の部屋に来てくれない？」=“Um, hey, why don't you come to my room?”
 //「うんっ！　もちろんいいよぉ」=
 「付いてきてほしいな」=“I want you to follow me.”
 「うん♪　じゃあ、手を繋ごうよ」=“Sure♪ Let's hold hands.”

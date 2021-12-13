@@ -126,5 +126,4 @@
 「一緒にご飯食べに行こうよ、どうかな～？」=“Let's go to dinner together. What do you say?”
 「良かった～、キミと一緒に食べたかったんだよね～」=“I'm glad. I've always wanted to eat with you.”
 「無理ならしょうがないね～……また今度にするよ～」=“If you can't make it, I'm sorry. ...... I'll see you next time.”
-「俺の部屋に来てくれない？」=“Why don't you come to my room?”
 「いいよ～、キミの部屋でのんびりしちゃおうかな～」=“Okay, I'll just relax in your room.”

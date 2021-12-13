@@ -3,5 +3,3 @@ OPTION[100]:気持ちに応える=Respond to feelings
 OPTION[101]:ごめん=I'm sorry
 OPTION[201]:いいよ=Okay.
 OPTION[201]:ごめん=Sorry.
-OPTION[207]:いいよ=Alright.
-OPTION[207]:ごめん=Sorry.

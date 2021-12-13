@@ -48,9 +48,7 @@
 「ご当地きゃらくたぁの絵柄が刷られた商品がいつくつかありまして……とても心が惹かれております」=“There are a number of products that are printed with the designs of local charlatans. ...... I'm very fascinated by them.”
 「その……変態とか、すけべって罵ってくれない？」=“Can you call me a ...... pervert or a slut?”
 「……変態。あの……これでよろしいのでしょうか？」=“...... pervert. Are you sure you want to do this ......?”
-「やってみたいエッチってある？」=“Is there any sex you'd like to try?”
 「性に関する知識自体がそれ程ありませんので、特には思いつかないです」=“I don't know much about sex, so I can't really think of anything.”
-「舐められるのって好き？」=“Do you like to be licked?”
 「気持ちが良いですから、嫌いではございません」=“It feels good, so I don't mind.”
 「……もう少々、話題を選んでいただけませんか？」=“I don't mind it because it feels good. ...... Would you mind choosing a topic for us to talk about?”
 「私にはなんのことか分かりません」=“I don't know what you're talking about.”

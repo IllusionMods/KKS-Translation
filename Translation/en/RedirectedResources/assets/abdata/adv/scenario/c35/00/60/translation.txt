@@ -2,9 +2,9 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「なぁ、おる……？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
-//「どうしたの？」=
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
+「どうしたの？」=“What's up?”
 //「あ、お邪魔するね……」=
 //「その、えっと、どげんしても君に触れとうなってしもて……我儘、聞いてほしか……」=
 //「……いない、か」=

@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「ごめんなさい、急に来てしまって……入っても、いいですか？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
 //「いいけど、何かあったの？」=
 //「私達、恋人同士なのですから……もっと一緒に居たいと思うのは、いけない事でしょうか」=
 //「こんな寂しい時は片時も離れたくないなんて……ご迷惑、でしょうか？」=

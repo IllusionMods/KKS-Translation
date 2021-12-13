@@ -5,7 +5,6 @@
 「私はもう考えてきたんだ～。彼女が愛情たっぷりに呼んであげるね」=“I've already thought of that! I've already thought about it. - She'll call you lovingly.”
 「おお……なんかいいね。あとすごく照れる」=“Oh, ......, that's nice. It's also very embarrassing.”
 「ホント？　私のことも愛称で呼んでみて！」=“Really?　You can call me by my nickname, too.”
-「それじゃあ……[Hあだ名]」=“Well then... [Hあだ名]”
 「あぅ……たしかに呼ばれるのもけっこう恥ずかしいね」=“Oh ......, it's quite embarrassing to be called that, isn't it?”
 「だけど、もっと仲良くなれた気がするね」=“But I feel like we're getting to know each other better.”
 「あ、うん……えへへ♪　キミさえよければ、また呼んでみてもいい？」=“Uh, yeah, ....... Can I call you again if you're okay with it?”

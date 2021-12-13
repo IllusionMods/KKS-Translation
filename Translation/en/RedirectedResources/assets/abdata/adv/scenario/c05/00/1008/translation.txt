@@ -9,7 +9,7 @@
 「いま流れた星は今年の運勢を暗示してて、南の方で輝いた星は金運上昇の御利益があるよ」=“So the star that just passed by represents this year's luck, and that star shining in the south signals a gain of wealth.”
 「あはは。おみくじの結果みたいだね」=“Ahaha. Sounds like the results of an omikuji.”
 「安心して。悪い意味はひとつもないから。どの星からも良いエネルギーを感じる」=“Rest assured. None of them have bad meanings. I can only feel positive energy from the stars this night.”
-「きっとこの流れ星は、“かれら”からの贈り物なんだよ。わたし達の関係を祝福してくれてるのかも」=“I'm sure these shooting stars are a gift from “them”. It could be that they're blessing our relationship.”
+「きっとこの流れ星は、“かれら”からの贈り物なんだよ。わたし達の関係を祝福してくれてるのかも」=“I'm sure these shooting stars are a gift from ‘them’. It could be that they're blessing our relationship.”
 「そうだといいな。これからも[H名]のそばにいたいから」=“I hope so. I want to be close to you from now on.”
 「えへへ。わたしもだよ」=“Ehehe. Me too.”
 「これだけ星が綺麗に見えるなら、わたし達の声が宇宙に届くはずだよ。交信してみよっ」=If the stars look this beautiful, then our voices should reach the cosmos. Let's try contacting them.”
@@ -17,7 +17,7 @@
 「簡単だよ。気分を落ち着かせて、ありのままに宇宙を感じればいいの」=“It's easy. You just have to relax, and experience the universe as it is around you.”
 「ほら……[P名]くんにも聞こえるでしょ？　“かれら”からのメッセージが」=“Hey... you can hear it, can't you? The message from ‘them’.”
 「う～ん、どうかな。波の音は聞こえるけど……」=“Hmmm, I'm not sure. I do hear the sound of the waves though...”
-「“チャンネル”がまだ開いてないのかな？」=“Maybe the “channel” isn't open yet?”
+「“チャンネル”がまだ開いてないのかな？」=“Maybe the ‘channel’ isn't open yet?”
 「わたしとは交信できてるから、上手くいくと思ったんだけど……」=“You were able to communicate with me, so I thought you'd hear them too...”
 「[H名]とは交信できてるの？」=“Wait, I was able to communicate with you?”
 「そうだよ。[P名]くんがわたしを好きでいてくれるように、わたしも[P名]くんが好きなの」=That's right. Just as you love me, I love you as well.”
@@ -27,4 +27,4 @@
 「相手を心から想い、気持ちを重ね合わせる。そうすることで魂が共鳴する……きっとそういうことだよね」=“Think of the other person from the bottom of your heart, and let your feelings overlap theirs. By doing so, both souls resonate together... I'm pretty sure that's how it works.”
 「うんうん！　そんな感じだよ。わかってくれたんだね。すごく嬉しい♪」=“Yeah yeah! It's like that! You finally understand! I am so happy♪”
 「それじゃあ一緒にメッセージを送ろっか」=“Then let's send ‘them’ a message together.”
-「そうだね。わたし達はいま幸せですって、“かれら”に伝えないと。えへへっ♪」=“I agree. We have to tell “them” how happy we are together. Ehehe!♪”
+「そうだね。わたし達はいま幸せですって、“かれら”に伝えないと。えへへっ♪」=“I agree. We have to tell ‘them’ how happy we are together. Ehehe!♪”

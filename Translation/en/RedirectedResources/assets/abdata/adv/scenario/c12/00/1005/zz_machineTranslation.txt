@@ -1,10 +1,7 @@
-係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please join up in pairs.”
 「だってさ。もちろん参加するよな？」=“Because [name], you think you're in love with me when you ring this bell, don't you? Of course you're in, right?”
 「うん、別にいいよ」=“No, it's fine.”
 「うぅ……もっと喜べよ。あたしと踊るんだぞ？」=“Ugh ......, you should be more pleased. You dance with me.”
 「ごめんごめんっ、嬉しいよ！」=“I'm sorry, I'm sorry, I'm so happy!”
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“...I hope everyone's got a partner? Well then, I'll put on the music as soon as you're ready.”
 「よっ、よっ、ほっ……はは、結構楽しいな」=“Yo, yo, ho, ho. ...... Ha, that's pretty fun.”
 「そ、そう？　俺もう、ギリギリいっぱいだよ……」=“Oh, yeah?　I'm on the edge of my seat. ......”
 「余計な力が入ってるんじゃないか？　ほら、音楽をよく聞いて、リズムに乗るんだ」=“I think you're putting too much pressure on yourself.　Here, listen to the music. Get into the rhythm.”
