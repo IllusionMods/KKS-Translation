@@ -229,6 +229,7 @@
 周りから視線を感じる…=I can feel someone's stare...
 に入りますか？=Do you want to join?
 シーン確認=Scene Confirmation
+Hシーン確認=H Scene Confirmation
 
 //Watch Masturbation
 しよう=Let's do it
