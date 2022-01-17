@@ -9,3 +9,4 @@
 *.bak
 *.orig
 #/Translation/en/RedirectedResources/**/*.zip
+/Translation/en/Text/TranslationHelper/
