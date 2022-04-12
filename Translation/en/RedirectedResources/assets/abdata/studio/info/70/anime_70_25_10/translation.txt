@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//ひじ掛け椅子でドリンクを飲む loop=
+//ひじ掛け椅子でドリンクを飲む action=
+//ソファでドリンクを飲む loop=
+//ソファでドリンクを飲む action=
+//景色眺める loop=
+//景色眺める action=
