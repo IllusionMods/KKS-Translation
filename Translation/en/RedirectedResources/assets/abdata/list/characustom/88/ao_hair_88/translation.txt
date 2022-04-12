@@ -1,0 +1,8 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.8 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//宝石1=
+//宝石2=
+//宝石3=
+//宝石4=
+//宝石5=

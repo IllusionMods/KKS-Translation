@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.8 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//うさ耳リボン=
+//スラウチハット=
+//ドラゴンの角=
+//付け毛20=
+//付け毛21=
+//付け毛22=
