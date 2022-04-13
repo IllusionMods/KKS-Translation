@@ -1,6 +1,6 @@
 「ここの鐘の伝説って知ってる？」=“Do you know the legend of the bell here?”
 「ああ、一緒に鐘を鳴らすと永遠に結ばれるというものだろう？」="Oh, isn't that what they say, that when you ring the bell together, you're bound together forever?"
-「うん、正解。やっぱり[H名]も女の子なんだね、そういうのはちゃんとチェックしてるんだ」=Yes, that's correct. I knew [H name] was a girl too, I check those things out."
+「うん、正解。やっぱり[H名]も女の子なんだね、そういうのはちゃんとチェックしてるんだ」=Yes, that's correct. I knew [H名] was a girl too, I check those things out."
 「いや、別にそこまで気にして調べたというわけではなくてだな……」=No, it's not that I'm that concerned about it. ......
 「こういった類の伝承はどこにでもある。そう珍しくもないもの故、たまたま覚えていただけだ」=This kind of folklore is everywhere. It's not that unusual, I just happen to remember it."
 「確かに、同じような感じの観光スポットは結構あるよね」=Sure, there are quite a few sights that have a similar feel to them."
@@ -18,5 +18,5 @@
 「デっ……むぅ、否定はしないが、そうはっきり言うのは少しデリカシーが無いのではないか？」=Deh ...... mmm, I don't deny it, but isn't it a bit delicacy to put it so bluntly?"
 「ごめん。じゃあほら……一緒に鐘を鳴らそうよ。それとも俺と鳴らすのは嫌？」=Sorry. Then look, ...... let's ring the bell together. Or don't you want to ring it with me?"
 「まったく、誤魔化し方が強引だぞ？　それに、その聞き方は卑怯だ……」=You're being very aggressive, aren't you?　Besides, it's not fair to ask that ......"
-「[H名]……愛してるよ」=I love you, [H name]......."
+「[H名]……愛してるよ」=I love you, [H名]......."
 「ああ、我も……愛している……」="Oh, I love ...... too ......"

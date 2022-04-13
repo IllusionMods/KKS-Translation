@@ -2,7 +2,7 @@
 「もーっ、キミってば手加減なさ過ぎだよー！　また負けちゃったぁ～……」="Oh, you're being too easy on me!　I lost again~ ......"
 「ははっ、ごめんごめん。ついムキになっちゃってさ」=Sorry, sorry, sorry. I got a little too impatient.
 「キミってば、卓球が上手だったんだねー？　もぉ、私が勝てると思ったのにー」=You were really good at ping-pong, weren't you?　Oh, I thought I could beat you.
-「いや、[H名]も上手だったし、勝負自体は紙一重だったんじゃないかな？」=No, [H name] was good, and I think the match itself was paper-thin."
+「いや、[H名]も上手だったし、勝負自体は紙一重だったんじゃないかな？」=No, [H名] was good, and I think the match itself was paper-thin."
 「次にやると結果は逆になっているかもしれないよ」=The next time you do it, the result could be the opposite."
 「えーっ。本当にそう思ってるー？」=Ew. Do you really think so?
 「もちろん。多分、思っているほどに差があるわけじゃないと思う」=Of course. Maybe we're not as different as we think we are.

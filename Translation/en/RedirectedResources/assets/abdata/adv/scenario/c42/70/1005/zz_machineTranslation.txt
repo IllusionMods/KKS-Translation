@@ -17,5 +17,5 @@
 「ご、ごめん。邪魔だった？」=I'm sorry. Did I interrupt you?"
 「うっ……邪魔ってほどではなかったけどぉ……その、急だったからビックリしただけで……」="Ugh,...... it wasn't so much that I was disturbed, I was just surprised because it was so sudden. ......"
 「と、とにかく、私もすっごいドキドキしてるんだから、これ以上のドキドキは必要ないから！」=Anyway, I'm really nervous too, and I don't need any more nervousness!
-「あっ、[H名]の顔が赤くなってる。これならくっつかなくてもわかるかも！」=Oh, [H name]'s face is turning red. Maybe this one can tell without sticking together!"
+「あっ、[H名]の顔が赤くなってる。これならくっつかなくてもわかるかも！」=Oh, [H名]'s face is turning red. Maybe this one can tell without sticking together!"
 「もぉ……。恋人同士だからって、遠慮なさ過ぎだよぉ……」='Oh, ....... You're being too modest just because we're lovers. ......"

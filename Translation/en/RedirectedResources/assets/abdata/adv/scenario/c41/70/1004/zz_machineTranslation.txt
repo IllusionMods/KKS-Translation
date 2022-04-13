@@ -1,4 +1,4 @@
-「[H名]、少し浜辺を歩かない？」="[H name], do you want to go for a little walk on the beach?"
+「[H名]、少し浜辺を歩かない？」="[H名], do you want to go for a little walk on the beach?"
 「はぁ、気持ちいい……段々ここに慣れてきたけど、こうやって歩いてると離島なんだなって改めて実感するよね」=It feels good. ...... I'm getting used to being here, but walking around like this reminds me once again that I'm on a remote island.
 「わかるよ。言葉は通じるけど、何もかも違うよね」=I understand. You can understand the language, but everything is different.
 「うん。この島で過ごしたことって、きっとボクたちの人生にとっていい経験になると思うんだ。でも……ふふ」=I'm not sure. I'm sure our time on the island will be a great experience for us. But ......
@@ -6,10 +6,10 @@
 「もしかしたら、キミと付き合えて一緒に時間を過ごしたことの方が、いい経験になったりしてって……そんなことを考えたらおかしくって」=I thought about it and it made me crazy to think that maybe dating you and spending time with you would be a better experience.
 「あはは、ひょっとしたらそうかもしれないね」=Ha-ha-ha. Maybe, just maybe.
 「本当にそう思ってくれる？　ボク、変なこと言っちゃってないかな」=You really think so?　I hope I didn't say anything weird.
-「もちろん。[H名]とはこの島で急接近したしね」=Of course. I got close to [H name] on the island.
-「自分で言うのも何だけど『お年頃』だから、正直研修より[H名]と話したり過ごしたりする方が興味津々だよ」="I don't know if I'm saying it myself, but I'm 'old enough' that I'm honestly more interested in talking and spending time with [H name] than I am in the training program."
+「もちろん。[H名]とはこの島で急接近したしね」=Of course. I got close to [H名] on the island.
+「自分で言うのも何だけど『お年頃』だから、正直研修より[H名]と話したり過ごしたりする方が興味津々だよ」="I don't know if I'm saying it myself, but I'm 'old enough' that I'm honestly more interested in talking and spending time with [H名] than I am in the training program."
 「あはは、研修はしっかりしないとだけど……でも、研修とボクを選ばなくちゃいけないとしたら、ボクを取ってほしいから嬉しい」=Haha, the training has to be solid ...... but if you have to choose between the training and me, I'm glad you're taking me."
-「[H名]だったら俺を取ってくれる？」="If you were [H name], would you take me?"
+「[H名]だったら俺を取ってくれる？」="If you were [H名], would you take me?"
 「その二択だったら、絶対にキミを取るよ。ううん、どんな二択でもキミを取っちゃうかも……なんて、ちょっとボク舞い上がっちゃってるね」=If I had to choose between the two, I'd take you for sure. No, I'd take you any two choices. ...... I'm getting a little carried away, aren't I?
 「うん、ずっと好きでいてほしいから、できれば一生舞い上がっててくれたら助かる」=Yes, I want you to like me forever, so it would be great if you could soar for the rest of your life if you could.
 「あはは、そうだよね。でも、一生舞い上がるのはきっと無理かな。キミとの関係もいつか落ち着くときが来て……」=Haha, I know. But I'm sure I won't be able to soar for the rest of my life. I'm sure my relationship with you will settle down one day. ......
@@ -20,5 +20,5 @@
 「人生設計なんて大げさなものじゃないけど、一応考えてはいるよ。やりたいこととか、興味のあることとかね」=I don't have a grand plan for my life, but I do have an idea. I have an idea of what I want to do, what I'm interested in, and so on.
 「すごいな。俺は考えてるような、いないような……こんなんじゃ駄目だよね」=That's great. I'm like thinking, I'm not here. ...... I can't be like this."
 「全然駄目じゃないよ。ボクもそんな厳密に考えてるわけじゃないし、今はキミともっと仲良くなる方が重要だから、ふふ♪」=I don't think it's a bad idea at all. I'm not that strict about it, I'm more interested in getting to know you better now.
-「じゃあ俺も[H名]を優先させちゃおうかな。もちろん、責任は自分が取る」=Then I'll put [H name] first, too. Of course, I'll take responsibility."
+「じゃあ俺も[H名]を優先させちゃおうかな。もちろん、責任は自分が取る」=Then I'll put [H名] first, too. Of course, I'll take responsibility."
 「あはは、二人の関係なんだから、二人で取ろうよ。ボクたちならきっと大丈夫だから、今日は安心して遊んじゃおう！」=Haha, it's just the two of us, so let's take it together. I'm sure we'll be fine, so let's have fun today!

@@ -18,7 +18,7 @@
 「いまいち好みが合わないね？　ちょっと残念かも」="Not quite your cup of tea, is it?　Maybe a little disappointing."
 「<color%3Dyellow>サンゴ</color>って長い時間をかけて少しずつ成長しているらしいね」=I heard that <color%3Dyellow>coral</color> grows little by little over a long period of time.
 「そんなに頑張って成長しているんだから、綺麗なのも当然なのかもー」="You've worked so hard growing up, maybe it's only natural that you're so beautiful."
-「<color%3Dyellow>シオマネキ</color>って、どうして左右のハサミの大きさがあんなに違うんだろ？」=<color%3Dyellow>Why do the blue-footed boobies have such different sizes of scissors on their left and right sides?
+「<color%3Dyellow>シオマネキ</color>って、どうして左右のハサミの大きさがあんなに違うんだろ？」=Why is the size of the left and right scissors so different in the <color%3Dyellow>fiddler crab</color>?
 「しかも、雄と雌でも大きさが違うみたいなんだよー。不思議だよねっ」=And it seems that males and females are of different sizes. It's so strange.
 「うんうん。海って、本当にいろいろな生き物がいてすごいよね」=I'm sure you're right. The ocean is amazing with all kinds of creatures.
 「もしかして、色々知ってるのかな？　私に教えてくれるー？」="Maybe you know a lot of things?　Will you tell me about it?

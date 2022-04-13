@@ -16,4 +16,4 @@
 「そうだね。じゃあ、鳴らしてみようか？」=I agree. Shall I ring then?"
 「うん。それじゃあ……せーのっ」=I'm sorry, I'm not sure I'll be able to do that. Okay, then. ......
 「……えへへ、これでもっともっと仲良くなれるね？」="...... hehehe, now we can get to know each other even better, huh?"
-「そうだね。これからもよろしく、[H名]」=I agree. Keep up the good work, [H name]."
+「そうだね。これからもよろしく、[H名]」=I agree. Keep up the good work, [H名]."

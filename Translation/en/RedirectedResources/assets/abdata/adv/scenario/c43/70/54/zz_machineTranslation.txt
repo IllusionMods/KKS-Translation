@@ -1,12 +1,12 @@
-「そういえばさ、俺のこと[Pあだ名]って呼んでもらいたいんだよね」=I was just thinking, I'd like you to call me [P nickname]."
+「そういえばさ、俺のこと[Pあだ名]って呼んでもらいたいんだよね」=I was just thinking, I'd like you to call me [Pあだ名]."
 「どうしたん？　えらいイキナリやん。まあ別にエエけど」=What's wrong?　You're being very aggressive. Well, it's all right.
 「……いや、やっぱちょっと恥ずかしいなぁ……これ、なんか理由あんの？」=I'm still a little embarrassed. ...... Is there a reason you're doing this?
-「俺の夢だったんだ……恋人に[Pあだ名]って呼ばれるのがさ」=It's always been a dream of mine to have a ...... girlfriend call me [P nickname]."
+「俺の夢だったんだ……恋人に[Pあだ名]って呼ばれるのがさ」=It's always been a dream of mine to have a ...... girlfriend call me [Pあだ名]."
 「夢かぁ……そない言われたら、叶えへんわけにはいかんなぁ」="A dream... ...... If you say so, I can't help but make it come true."
-「おっしゃあ、ほな行くで～～……[Pあだ名]」="Osha, here we go~~ ......[P nickname]"
+「おっしゃあ、ほな行くで～～……[Pあだ名]」="Osha, here we go~~ ......[Pあだ名]"
 「いいね！　ああ、最高……。もっと呼んで！」=Great!　Oh, the best ....... Call for more!"
-「お、おう、別にかまへんけど…………[Pあだ名]……って、やっぱ恥ずいなぁ……」=I don't mind, but ............[P nickname]...... is still embarrassing... ..."
-「……最高だよ、[Hあだ名]！」="...... is the best, [H nickname]!"
+「お、おう、別にかまへんけど…………[Pあだ名]……って、やっぱ恥ずいなぁ……」=I don't mind, but ............[Pあだ名]...... is still embarrassing... ..."
+「……最高だよ、[Hあだ名]！」="...... is the best, [Hあだ名]!"
 「お！？　急にどーしたん？　ウチもあだ名呼びになるん？」=Oh!　What's going on all of a sudden?　Are you going to start calling me by my nickname, too?"
 「いや、その方がいいかなーって……イヤだった？」=No, I was just wondering if that would be better for you. ...... didn't you like it?"
 「全然イヤと違うで！　めっちゃええや～ん！」=I don't like it at all!　It's so good!

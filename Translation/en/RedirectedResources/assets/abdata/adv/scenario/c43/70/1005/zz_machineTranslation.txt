@@ -19,5 +19,5 @@
 「おっとぉ、自分にだけ、エエ恰好させへんで～。ウチも好かれるよう、適当にがんばらんとあかんね」="Oops, don't make me look good only for myself! I have to do my best to be liked, too.
 「う、うん、適当に……ね」="Uh, yeah, just go to ......."
 「うんうん、頑張り過ぎは身体に毒やしな～……って、自分、いつの間にか、ええ感じに踊れてるやん？」=I've been dancing myself into a good mood for some time now, haven't I?"
-「あはは、[H名]と一緒だと、リラックスできるから……かな」=Haha, I guess with [H name] I can relax ......."
+「あはは、[H名]と一緒だと、リラックスできるから……かな」=Haha, I guess with [H名] I can relax ......."
 「……うん、ウチもや。やっぱ、自分……ええ相方やわ～」=I've been to ......, and so have we. I knew I ...... was a good partner!

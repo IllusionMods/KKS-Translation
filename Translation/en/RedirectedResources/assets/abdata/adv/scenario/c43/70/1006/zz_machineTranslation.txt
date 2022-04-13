@@ -8,7 +8,7 @@
 「じゃ、次、そっちの番！　『南の島の鐘には有名な伝説がある。その内容とは？』」=Okay, your turn!　The bells of the southern island have a famous legend. What is it about?"
 「えー……あー……う～ん、二人で鐘を鳴らすと、必ず結ばれる……」="Uh ...... ah ...... ummm, when two people ring the bell, they always tie the knot ......"
 「……そ、それ、ガチのやつやん！　もう、急に素になるん、アカンてぇ……」=I'm going to go to ...... and I'll tell you what, that's the real deal!　Don't be so naive all of a sudden. ......"
-「[H名]、照れてる？　って、やっぱり知ってたんだね。伝説」=Are you embarrassed, [H name]?　I knew you knew that, didn't I? Legend."
+「[H名]、照れてる？　って、やっぱり知ってたんだね。伝説」=Are you embarrassed, [H名]?　I knew you knew that, didn't I? Legend."
 「そらまあ……どのガイドブック開いても三番目ぐらいに出てくるやん。この鐘のこと」=You know, if you go to ......, it's about the third thing that comes up in every guidebook you open. This bell."
 「ああ、恥ずかしいわぁ……この鐘にお願いしに行くなんて、なんか、もう、ウチ、めっちゃグイグイ行ってるみたいやん？」=Oh, it's so embarrassing ...... to go to this bell to ask for a favor, it's like we're going all gushy, isn't it?"
 「別にいいじゃん」=It doesn't matter.
