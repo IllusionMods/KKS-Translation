@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//ええ、私達に任せて=
-//いいわよ、私達がもっと感じさせてあげる=
-//そんなに私達のお口がいいのかしら？=
-//フフ、贅沢者ね=
-//なら、アンタの甲斐性を見せてもらおうかしら？=
-//なら……どっちに挿れるかはわかってるわよね？=
-//わかったわ=
-//ふふっ、任せて=
+ええ、私達に任せて=Yeah, leave it to us.
+いいわよ、私達がもっと感じさせてあげる=Okay, we'll make you feel so good.
+そんなに私達のお口がいいのかしら？=Do our mouths feel good working together?
+フフ、贅沢者ね=Fufu, you're very lucky.
+なら、アンタの甲斐性を見せてもらおうかしら？=So, would you like to demonstrate your worthiness?
+なら……どっちに挿れるかはわかってるわよね？=So... have you decided which one you want?
+わかったわ=Alright.
+ふふっ、任せて=Fufu, leave it to me.
 //いいわよ、やってあげるわ=
 //フフ、言われなくてもたくさん搾り取ってあげるわ=
 //そんなに私達にされるのが気に入ったんだ=
@@ -135,7 +135,7 @@
 //ふんっ、美味しそうに飲んじゃって……=
 //飲ませてあげなくてよかったの？　……勿体無い=
 //何？　女の子の唾液混じりのザーメン見て喜んでるの？=
-//（んんぶぅ！！んん…んぉ……んぶ…へぁ……んふ）=
+（んんぶぅ！！んん…んぉ……んぶ…へぁ……んふ）=(Nnnnbuh!! Nnn... Nnoh... nnbuh... heah... nnfuu)
 //あっという間におっきくなっちゃった=
 //私もちょっと感じてるから……口の中、トロトロでしょ=
 //アンタのおちんちん、喉まで届くわぁ=

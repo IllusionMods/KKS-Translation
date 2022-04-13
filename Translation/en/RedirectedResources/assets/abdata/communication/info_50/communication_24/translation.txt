@@ -18,7 +18,7 @@
 「最近、いつも誰かの視線を感じるんだけど、なんでかなぁ？」=“Recently, I've been constantly feeling someone's gaze on me, I wonder why~?”
 「私の愛の熱視線に気づいてくれたんですね♡　嬉しいです♡」=“You noticed my hot alluring gaze, didn't you?♡ I'm so happy♡”
 「視線、ですか？　……私以外に誰が？　調べなくちゃ……」=“A gaze, you say? ...Someone that's not me? I need to find this person...”
-//「この島で何がしたい？」=
+「この島で何がしたい？」=“What do you want to do here on the island?”
 //「ずっとあなたの傍で、あなたを見守っていたいです♡」=
 //「あなたと同じ空気を吸って、あなたと同じ大地を踏みしめて、あなたと同じ景色がみたいです♡」=
 「すみません。別のお話でもいいですか？　イメージと違っていて……」=“I'm sorry, could we talk about something else? It's not what I expected...”
@@ -31,7 +31,7 @@
 //「コイバナに興味ある？」=
 //「あなた以外に興味はありません♡」=
 //「あなたとのコイバナなら、いくら語っても語りつくせません♡」=
-//「どんな恋愛がしてみたい？」=
+「どんな恋愛がしてみたい？」=“What kind of love-affair would you like to have?”
 //「あなたとの恋愛なら、どんな形でも問題ないです♡」=
 //「恋愛に理想はありません……私の理想は、あなたですから♡」=
 「好きな男性のタイプってある？」=“Do you have a "type", in terms of guys?”
@@ -111,7 +111,7 @@
 //「無慈悲にも、時間が来てしまいました……必ずまた会いましょう♡」=
 「はい、あなたの予定はわかっていますから、私には構わず行ってください♡」=“Yes, I know that you have plans, so don't worry about me. Have fun♡”
 「あの……私、あなたに嫌われてしまいましたか？　な、何でもしますから……」=“Uhm... Did I do something to make you hate me? I-I'll do anything, so please...”
-//「良かったら、一緒に観光しない？」=
+「良かったら、一緒に観光しない？」=“If you'd like, why don't we go sightseeing together?”
 //「うふふ♡　もちろんＯＫです。一緒にどこまでも行きましょう♡」=
 //「なんてことでしょう……あなたから誘われたのに他に観光の約束があるなんて」=
 //「俺と一緒に遊びに行こうよ」=
@@ -164,7 +164,7 @@
 「結婚願望ってある？」=“Do you ever want to get married?”
 「うふふ♡　それってプロポーズですよね♡　私、きっといい奥さんになりますね♡」=“Ufufu♡ That's a proposal, isn't it?♡ I'll definitely be a good wife♡”
 「あなたと一生一緒にいられるなら、結婚できなくてもいいです♡」=“As long as we can be together for our entire lives, I don't care if we never get married♡”
-//「新婚旅行はどこに行きたい？」=
+「新婚旅行はどこに行きたい？」=“Where do you want to go for your honeymoon?”
 //「あなたと一緒なら、地獄の底までもお供します♡」=
 //「あなたと私、二人だけしかいない世界に行ってみたいです♡」=
 //「どんな結婚式に憧れる？」=
@@ -222,7 +222,7 @@
 //「あなたと離れなければいけないなんて……時間とは残酷なものですね」=
 「あなたがそう言うなら……またすぐにお話してくださいね♡」=“If that's what you want... Please talk to me again real soon, okay?♡”
 「！？　あの、私、何かしちゃいましたか？　ま、待ってください、行かないで……」=“?! Uhm, did I do something? P-Please wait, don't leave me...”
-//「きみのことが好きだ」=
+「きみのことが好きだ」=“I like you a lot.”
 //「うふふ♡　だめですよ、私を騙そうとしても……簡単には引っかかりませんから」=
 //「私はあなたを愛しています。どうかお付き合いしてください」=
 //「分かっています。まだその時ではないんですよね……私、待ちますから」=

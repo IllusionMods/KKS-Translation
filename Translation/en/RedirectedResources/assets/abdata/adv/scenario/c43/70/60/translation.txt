@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 //「まいどー。今、時間ある～？　いや、まあ忙しかったら別にええねんけど…………あがってもええ？」=
-//SELECTION:「返事をする」=
-//SELECTION:「……」=
+SELECTION:「返事をする」=Respond
+SELECTION:「……」=...
 //「どうぞどうぞ、ちょっと散らかってるけど」=
 //「かまへんかまへん、小綺麗な方が逆に落ち着かへんし」=
 //「さて、と……ほな、一緒にゴロゴロしよか。今、精神エネルギーが足りひんねん……ちょっと補充させてな」=

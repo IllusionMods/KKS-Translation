@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//係員さん=
-//「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=
+係員さん=Staff
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please pair up.”
 //「お、キャンプファイヤーだって。一緒に参加しようよ」=
 //「分かった。少々気恥ずかしいが、貴殿から誘われてはな」=
-//「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Everyone paired up? ...then I'll put on the music as soon as everyone's ready.”
 //「[H名]、なんか結構慣れてる感じがするね？　踊りとか習ってた？」=
 //「まぁ、それなりにな。騎士の嗜みというやつだ」=
 //「へぇ、これは俺が足手まといにならないように気を付けないとだね……」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//喘ぎ1=
-//喘ぎ2=
-//フェラ1=
-//フェラ2=
+喘ぎ1=Panting 1
+喘ぎ2=Panting 2
+フェラ1=Blowjob 1
+フェラ2=Blowjob 2

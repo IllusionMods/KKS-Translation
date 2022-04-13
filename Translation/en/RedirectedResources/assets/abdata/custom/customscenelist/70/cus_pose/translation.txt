@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//立ち４１=
-//立ち４２=
-//立ち４３=
-//立ち４４=
+立ち４１=Basic 41
+立ち４２=Basic 42
+立ち４３=Basic 43
+立ち４４=Basic 44

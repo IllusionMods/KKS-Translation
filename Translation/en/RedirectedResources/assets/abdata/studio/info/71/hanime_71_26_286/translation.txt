@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//弱ループ=
-//中ループ=
-//強ループ=
-//絶頂前ループ=
-//絶頂=
-//絶頂事後=
-//事後=
+弱ループ=Slow Loop
+中ループ=Medium Loop
+強ループ=Fast Loop
+絶頂前ループ=Before Climax Loop
+絶頂=Climax
+絶頂事後=Climax End
+事後=Afterglow

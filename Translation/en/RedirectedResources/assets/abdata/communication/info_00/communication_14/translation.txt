@@ -239,7 +239,7 @@
 「私たち恋人でもなんでもねぇけどよ……その……Hしてみねぇか？」=“I know we're not lovers or anything, but... uhm... wanna try having sex?”
 「良かった！　なんかお前のこと考えてたらよ、こうムラっと来ちまって……」=“I'm so glad! I just, I was just thinking about you and it, it made me all hot and bothered...”
 「あ……じょ、冗談……じゃないけど、き、聞かなかったことにしてくれ！」=“Ah... I-It was a... well, not a joke b-but, pretend you never heard it!”
-//「良かったら、一緒に観光しない？」=
+「良かったら、一緒に観光しない？」=“If you'd like, why don't we go sightseeing together?”
 //「おう、いいぜ！　どこに行くんだ？」=
 //「う～ん……歩き回るのは少しだるいな」=
 //「おい、一緒に観光しないか？」=
