@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//ひかり=
+ひかり=Hikari
 //「えへへ、この島での生活はどうですか？　楽しんでもらえてたら嬉しいですっ」=
 //「実は……今日は[P姓]さんにお知らせがあって来ました」=
 //「今日も暑いけど大丈夫ー？　疲れてたりしないー？」=

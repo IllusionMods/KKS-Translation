@@ -38,7 +38,7 @@
 「そうね、何事も学ぶ意欲の高い人かしら。先の見えていない奴は嫌いよ」=“Hmm, probably those who have a desire to learn anything. I hate guys who don't look ahead.”
 //「まさか、自分がタイプだと言われるとか期待してる？　貴方は男性ではなくオスでしょ？」=
 「貴方、露骨過ぎるのよ。何もわかっていないのね」=“You're getting ahead of yourself. You just don't get it, do you.”
-//「友達が言ってたんだけど……」=
+「友達が言ってたんだけど……」=“A friend of mine told me...”
 //「家畜の友達だけあって、女心というものがまるで分ってなさそうね」=
 //「ファーストキスって……」=
 //「……初めてを大事にする気持ちを否定するつもりはないわ」=
