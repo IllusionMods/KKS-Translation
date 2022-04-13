@@ -17,5 +17,5 @@
 「当たり前なのです！　わ、私たちはカップルなのですから……」=“Naturally! We are a couple, after all...”
 「ふーーっ……よし、大丈夫なのです！　ではでは、せーので……」=“Fu---! Alright, everything's hunky-dory! C'mon, let's get started...”
 （や、やばい、めちゃくちゃドキドキしてきた……）=(Uh-oh... this is bad... my heart is starting to pound...)
-「ふふーっ、お顔が真っ赤なのです。カップルーな甘い雰囲気、出てきたですね♪」=“Fufu-! Your face is super red. This is starting to feel more couple-like now♪
+「ふふーっ、お顔が真っ赤なのです。カップルーな甘い雰囲気、出てきたですね♪」=“Fufu-! Your face is super red. This is starting to feel more couple-like now♪”
 「かもね。[H名]の顔も真っ赤だし……」=“Maybe. Your face is bright red, too, [H名].”

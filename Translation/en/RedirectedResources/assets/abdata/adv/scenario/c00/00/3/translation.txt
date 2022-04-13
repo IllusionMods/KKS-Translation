@@ -5,4 +5,4 @@
 「それじゃあ、私と……」=“Well then, me too...”
 「うん、俺でよければ、[H名]の彼氏にしてください」=“Yeah, if you like me, please make me your boyfriend, [H名].”
 「嬉しい……何だか夢をみてるみたい」=“I'm so happy... it's like I'm in a dream.”
-「でも夢じゃないのよね……ふふっ、勇気を出してよかったわ」=But this isn't a dream... fufu! I'm glad I worked up the courage to do this.”
+「でも夢じゃないのよね……ふふっ、勇気を出してよかったわ」=“But this isn't a dream... fufu! I'm glad I worked up the courage to do this.”

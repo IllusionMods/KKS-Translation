@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えっと、名前で呼んでもらうのとは別として、愛称で呼び合うってどうかな？」="Uhh, instead of names, how about we call each other by a nickname?
+「えっと、名前で呼んでもらうのとは別として、愛称で呼び合うってどうかな？」=“Uhh, instead of names, how about we call each other by a nickname?”
 「愛称？　下僕は下僕でしょ？　家畜や生ゴミに戻りたいの？」=“Nicknames? A manservant is a manservant, right? Want to go back to livestock or kitchen waste?”
 「いや、そういうわけじゃなくて……ほら[Pあだ名]とかさ？」=“No, I didn't mean it like that... Look, how about [Pあだ名]?”
 「は？　貴方そういう趣味があったの？　引くわね」=“Ha? So you like this kind of thing... Makes me wanna puke.”

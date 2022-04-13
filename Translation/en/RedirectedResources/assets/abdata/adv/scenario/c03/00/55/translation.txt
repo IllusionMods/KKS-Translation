@@ -10,7 +10,7 @@
 「おおお、確かに新鮮だ……ちょっとドキッとしたよ。俺も呼んでいい？」=“Ooooh, that's definitely fresh. kinda skipped a beat there. Can I call you by one, too?”
 「もちろんです！　お願いするですよ！」=“Absolutely! Please, go ahead!”
 「えーっと……[Hあだ名]」=“Er, um... [Hあだ名].”
-「ひあぁ、私もドキッとしたです！　破壊力抜群なのです！」=Hyyya, I skipped a beat too! That was a real kicker!”
+「ひあぁ、私もドキッとしたです！　破壊力抜群なのです！」=“Hyyya, I skipped a beat too! That was a real kicker!”
 「あはは、[Hあだ名]の反応、可愛い。照れてるの？」=“Ahaha, your reaction is so cute, [Hあだ名]. Are you embarrassed?”
 「はぅっ……て、照れるに決まってるのです……あなたは平気なのですか？」=“Wauuu... of course I'm embarrassed... you're really good with this?”
 「もちろん照れてるよ。でも……距離が近くなったみたいで嬉しいんだ。これからはいつもこうやって呼んでいい？」=“Well, of course I'm embarrassed. But... I'm glad that we're getting closer. Call I keep calling you this from now on?”

@@ -15,7 +15,7 @@
 「[P名]くんとも繋がっていたいの。だから……」=“I want to connect with you. That's why...”
 「わかった。そういうことなら一緒に鐘を鳴らそうか」=“I understand. If that's the case, then let's ring the bell together.”
 「うん……」=“Yeah...”
-「それじゃあいくよ。せ～の……」=Well then... on your marks...”
+「それじゃあいくよ。せ～の……」=“Well then... on your marks...”
 「ふふっ。これで契約完了だね。これからもずっと、わたしのそばにいてね」=“Fufu. This completes the pact. Stay by my side forever.”
 「ああ。何があっても離さないよ。そういう契約だもんね」=“Ahh. I'll keep you, no matter what. That's what the pact's about, after all.”
 「うん！　えへへ。だ～い好きっ♪」=“Yeah! Ehehe. I love you~♪”

@@ -299,7 +299,7 @@
 //「この間偶然見たんだけど……」=
 //「そんな偶然に出会うなんて、あなたってやっぱりすごい人ですね♡」=
 「あまりにも取るに足らない話なんだけど……」=“I know this is a pretty worthless thing to ask but...”
-「取るに足らないなんて……あなたとのお喋りは、何でも特別です♡」="worthless"... nothing you say is ever worthless to me, it's all special♡
+「取るに足らないなんて……あなたとのお喋りは、何でも特別です♡」=“worthless... nothing you say is ever worthless to me, it's all special♡”
 //「恋人の悪い癖を見つけたらどうする？」=
 //「その癖も含めてあなたですから、きっと全部好きになってしまうと思います♡」=
 //「私は気にしません♡　もしあなたが自分でその癖を嫌がっているなら、一緒に直します♡」=

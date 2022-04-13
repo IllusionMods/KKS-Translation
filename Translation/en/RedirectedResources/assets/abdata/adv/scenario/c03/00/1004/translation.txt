@@ -7,10 +7,10 @@
 「やっぱり南の島だからかな」=“Maybe that's because we're on a southern island.”
 「ですねー……えへへ」=“Yeah-... ehehe.”
 「なんか面白いものでもあった？」=“Found something interesting?”
-「そーじゃなくて、こーいうのいいなーって思ったのです。同じものを見て、同じことを感じて……」=No, it's just that... I was just thinking how much I like this. Seeing the same things, feeling same things.”
+「そーじゃなくて、こーいうのいいなーって思ったのです。同じものを見て、同じことを感じて……」=“No, it's just that... I was just thinking how much I like this. Seeing the same things, feeling same things.”
 「こうやって伝えあったり？」=“And sharing each other feelings like this?”
 「はいです！　恋人同士でいることをよく、『二人の世界』って言ったりするですけど……」=“Yeppers! When two people are in love, they often refer to it as "our world"...”
-「今がちょうどそんな感じかなーって、思ったりしてたです」=And I was thinking that's exactly what I'm feeling right now.”
+「今がちょうどそんな感じかなーって、思ったりしてたです」=“And I was thinking that's exactly what I'm feeling right now.”
 「……あははは」=“...ahahaha!”
 「ど、どうして笑うですかーっ？」=“Why are you laughing-!?”
 「照れ笑いだってば。その……[H名]は可愛いなぁって思ったら嬉しさが込み上げてきて」=“I'm laughing from embarrassment. Um... just thinking how cute you are, [H名]... makes me so happy.”

@@ -11,7 +11,7 @@
 「あまり遠く離れたら、地球で待つあなたに逢いに行けなくなるもの」=“If I went too far, I wouldn't be able to go meet you waiting for me on Earth.”
 「一緒に連れていってはくれないの？」=“You wouldn't take me with you?”
 「残念。宇宙船私号は一人乗りなの」=“Unfortunately, the "Starship Me" is a one-man craft.”
-「けれど……ふふっ、そうね。席を詰めれば、もう一人くらいは乗れるかしら？」=But... fufu, let me see. If we cram the seat, we could probably get one more person on board”
+「けれど……ふふっ、そうね。席を詰めれば、もう一人くらいは乗れるかしら？」=“But... fufu, let me see. If we cram the seat, we could probably get one more person on board”
 「ほら、もっと近くに寄って。乗り遅れたら本当に置いていっちゃうわよ？」=“Come on, get closer. You'd really be left behind if you don't get on your seat fast .”
 「おっとそいつは大変だ。これからもずっと[H名]のそばにいたいからね」=“Oooh dang, I better hurry up and get on board then. Wouldn't want to leave you forever alone in space, now would I?”
 「歯の浮くような台詞ね。でも、今だけは許してあげる」=“That's one cheesy line you got there. But, I'll let it slide this one time.”
@@ -19,7 +19,7 @@
 「[H名]……」=“[H名]...”
 「静かな夜ね。波の音しか聞こえないわ。まるで世界が止まったかのよう……」=“Quiet night, don't you think? Only the sound of the waves. It's as if the world had stopped...”
 「たとえ世界が今日終わっても、最後まで[H名]のそばにいるよ」=“Even if the world were to end today, I'd be by your side until the end, [H名].”
-「くすっ。ありがと」=*Chuckles* “Thank you.”
+「くすっ。ありがと」=“*Chuckles* Thank you.”
 「けれど、あまり無理しなくていいわよ？　顔が真っ赤じゃない」=“But, you don't have to try that hard, you know? Your face's bright red.”
 「あはは……背伸びしすぎたかな。上手く口が回らないや」=“Ahaha... maybe I was a bit out of my comfort zone. I'm starting to lose my own words.”
 「ふふっ。あなたの気持ちはよく伝わったわ」=“Fufu. You've communicated your feelings well enough.”

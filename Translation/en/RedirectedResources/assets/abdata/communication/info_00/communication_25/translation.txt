@@ -150,7 +150,7 @@
 「あんま見ないかな～、映画館て暗くて寝ちゃうんだよね～」=“I don't see many~ The movie theatre's dark, and I fall asleep~”
 「たまに家で見たりするかな～、良く途中で寝ちゃうけどね～」=“I guess I watch them at home~ I usually fall asleep during them~”
 「ちゃんと研修やってる？」=“You keeping up your training?”
-「やってるように見える～？　見えないよね～」=Does it look like it~? Can't you tell~”
+「やってるように見える～？　見えないよね～」=“Does it look like it~? Can't you tell~”
 「やろうとは思ってるんだよ～……思ってるだけだけどね～」=“I've been thinking about doing it~ But just thinking, though~”
 「ゲームはする？　イメージだけどけっこう好きそう」=“You play games? I feel like you'd be quite the gamer.”
 「うん、結構やってる方かも～？」=“Yeah, I think so~”
@@ -254,9 +254,9 @@
 「おう……行けないとは残念だね～」=“Ohh... it's a shame you won't go~”
 「俺と一緒に、何か体験しに行こうよ」=“Let's go experience something together.”
 「体験っすか～、いいっすよ～」=“An experience~ This'll be great~”
-「体験は、やめておくっすよ～」=“You don't want to try it out~“
+「体験は、やめておくっすよ～」=“You don't want to try it out~”
 「どっか体験にでも行こうよ～」=“Let's go experience something somewhere~”
-「ＯＫなのね～、それじゃあ何体験しようか～」=“You're OK with it~ Well, what should we do~“
+「ＯＫなのね～、それじゃあ何体験しようか～」=“You're OK with it~ Well, what should we do~”
 「ダメなんだ～……それじゃあ仕方ないね～」=“That's too bad~ ...well, guess it can't be helped~”
 「俺と一緒にご飯食べに行こうよ」=“Come grab something to eat with me.”
 「はいは～い、いいよ～、行こういこう～」=“Yeah, good, that's good~ Let's go, let's go~”

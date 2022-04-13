@@ -6,4 +6,4 @@
 「わわ、私とエッチしたいのですかっ！？」=“Wawa, you want to have sex with me!?”
 「いきなりごめん……でも、本気なんだ。ダメ、かな？　ダメなら断っていいから」=“Sorry to rattle you like this... but I'm serious. No? You can say no, if you don't want to.”
 「はぅぅ…………わ、私……そういうことに、興味あるです……優しく、してくれるですか？」=“Hafuuu... I-I... I'm interested... will you be gentle with me?”
-「勿論！　それじゃあよろしくね」=”Of course! I'll be very kind to you.”+
+「勿論！　それじゃあよろしくね」=“Of course! I'll be very kind to you.+”
