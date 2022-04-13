@@ -1,11 +1,11 @@
 「ねえ、キミさえよかったらなんだけど、二人だけのあだ名を考えない？」="Hey, if it's okay with you, why don't we come up with a nickname just for us?"
 「二人だけのって、なんだか恋人らしいね。いいよ。でも、どうしようかな」=It's so romantic, just the two of us," he said. It's fine. But what should I do?"
-「ボク、いろいろ考えてきたんだよ。でも、その中でも一番ドキドキする呼び方があって……」=I've been doing a lot of thinking. But one of them is the most exciting to call me. ......
-「発表してもらってもいい？」=Can I ask you to make an announcement?
+「ボク、いろいろ考えてきたんだよ。でも、その中でも一番ドキドキする呼び方があって……」=“I've been doing a lot of thinking. But one of them is the most exciting to call me. ......”
+「発表してもらってもいい？」=“Can I ask you to make an announcement?”
 「うん。あ、嫌だったら正直に言ってくれていいからね？」=I'm not sure. Oh, and if you don't like it, you can tell me honestly, okay?"
 「[H名]が一生懸命考えてくれたんだから、嫌なわけないよ。さっそく呼んでみてくれる？」=H]e thought hard about it, so how could I not like it?" Can you call him right away?"
 「う、うん……ねえ、[Pあだ名]」="Uh, yeah. ...... Hey, [Pあだ名]."
-「何？」=What?
+「何？」=“What?”
 「わぁ……嬉しいけど、ちょっと照れちゃう。あ、そうだ、キミもボクにつけてくれる？」=I'm happy for ......, but a little embarrassed. Oh, and can you put one on me, too?"
 「じゃあ…………[Hあだ名]っていうのはどう？」=How about ............[Hあだ名] then?"
 「わ、そのあだ名で呼ばれたことあるけど、キミに呼ばれると全然違う。なんていうか、特別な感じがするよ」=I've been called by that nickname before, but when you call me that, it's totally different. It's just so special."

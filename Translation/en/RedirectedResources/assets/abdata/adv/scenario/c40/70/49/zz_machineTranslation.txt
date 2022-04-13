@@ -1,5 +1,5 @@
-「海産物の好き嫌いとかあったりする？」=Do you have any likes or dislikes about seafood?
-「甲殻類は苦手だな……やつらは硬すぎる。逆にタコやウミヘビのような軟体系も侮れないが……」=I'm not a fan of crustaceans. ...... they are too hard. On the other hand, soft-bodied ones like octopuses and sea snakes are not to be underestimated. ......
+「海産物の好き嫌いとかあったりする？」=“Do you have any likes or dislikes about seafood?”
+「甲殻類は苦手だな……やつらは硬すぎる。逆にタコやウミヘビのような軟体系も侮れないが……」=“I'm not a fan of crustaceans. ...... they are too hard. On the other hand, soft-bodied ones like octopuses and sea snakes are not to be underestimated. ......”
 「えっと……食べる話だよ？」=Um, ......, we're talking about eating, okay?"
 「なっ……わ、分かっているぞ？　今のは調理の話だ。甲殻類は硬くて包丁で切るのが大変だろう？」=You know what I'm talking about.　Now I'm talking about cooking. Crustaceans are hard and hard to cut with a knife, right?"
 「まぁ、うん……[H名]って結構料理とかするの？」="Well, yeah. ......[H名], do you cook a lot?"

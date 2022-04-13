@@ -9,6 +9,6 @@
 「そ、そう……？　そんなに？」=“Yeah. ......?　Really?”
 「ええ♪　小さく飛び跳ねながらニコニコ笑顔を見せて……ふふ、もう一度見たくなってきちゃったわ」="Yes," she said, jumping up and down and smiling, "I'd like to see it again.
 「……あはは、なんだか恥ずかしくなってきちゃったよ」=“...... Haha, I'm starting to feel embarrassed.”
-「もう、そんなこと言わないで？　ほら、もう１ゲームしましょ♪」=Oh, my God, don't say that.　Come on, let's play one more game.
+「もう、そんなこと言わないで？　ほら、もう１ゲームしましょ♪」=“Oh, my God, don't say that.　Come on, let's play one more game.”
 「よ、よーし、負けないぞ……っ」=“All right, all right. I'm not going to lose. ......”
 （いや、負けてないんだけどね……）=(No, I'm not losing. ......)

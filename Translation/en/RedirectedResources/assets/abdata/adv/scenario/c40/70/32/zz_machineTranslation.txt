@@ -1,7 +1,7 @@
-「灯台って、レーダーとかがある今でも役に立ってるのかな？」=I wonder if lighthouses are still useful today, with radar and all.
-「絶対役に立っていると思うぞ。船乗り達にとっては、この灯りが道しるべなのだからな」=I'm sure it's helping," he said. For the sailors, these lights are a beacon.
+「灯台って、レーダーとかがある今でも役に立ってるのかな？」=“I wonder if lighthouses are still useful today, with radar and all.”
+「絶対役に立っていると思うぞ。船乗り達にとっては、この灯りが道しるべなのだからな」=“I'm sure it's helping," he said. For the sailors, these lights are a beacon.”
 「そっか、家の灯りが見えると安心するもんね。それと同じ感じかな？」=I see. It's a relief to see the lights on at home, isn't it? Is it the same feeling?"
-「ああ、その通りだ。我も貴殿の灯台のようにありたいものだな」=Yes, that's right. I wish I were as good as your lighthouse.
-「あれ、剣じゃなくて今度は灯台になるの？」=Oh, so now it's going to be a lighthouse instead of a sword?
+「ああ、その通りだ。我も貴殿の灯台のようにありたいものだな」=“Yes, that's right. I wish I were as good as your lighthouse.”
+「あれ、剣じゃなくて今度は灯台になるの？」=“Oh, so now it's going to be a lighthouse instead of a sword?”
 「なっ……剣であり灯台なのだ！　ほら、剣は光を反射しやすいからな。灯台にだってなれるさ」=It is a sword and a lighthouse!　See, swords reflect light easily. It can even be a lighthouse."
 「そうだね。[H名]を見てると安心するから、もう灯台になれてるよ」=Yes, I do." Seeing [H名] makes me feel safe, so I'm already a lighthouse."
