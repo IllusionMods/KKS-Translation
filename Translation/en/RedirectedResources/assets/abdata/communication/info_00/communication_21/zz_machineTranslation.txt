@@ -23,7 +23,6 @@
 「そうだね、暑いけどムシムシしないから過ごしやすいかも」=“Yeah, it's hot, but not too hot, so it'll be nice.”
 「フェリーはどうだった？」=“How was the ferry?”
 「すっごく快適な船旅だったよ。ちょっと長かったけどね」=“It was a very comfortable trip. A little long, though.”
-「恋愛に興味ある？」=“Are you interested in relationships?”
 「あるよー。むしろない人なんているのかな、よくわかんないけど」=“Yes, it was. I don't know if there's anyone who doesn't have it, though.”
 「別にないわけじゃないんだけど、なかなかそういう機会に恵まれないんだよね」=“It's not that I don't have any, but I don't get the chance to.”
 「コイバナはよくするの？」=“Do you guys talk a lot?”
@@ -58,7 +57,6 @@
 「こういう話はキミとしたくないな。もっと楽しいお喋りしよ？」=“I don't want to talk about this with you. Let's have a nice chat.”
 「あ、今エッチなこと考えてたでしょ。目がニヤニヤしてたもん、だーめ」=“Oh, you were just thinking about sex, weren't you? You were just thinking about sex. You had a big grin on your face.”
 「ちょっと直球すぎない～？　いや、変化球でもダメだけどね？」=“Isn't that a little too direct?　No, you can't be too direct, though, can you?”
-「友達が言ってたんだけど……」=“A friend of mine told me about .......”
 「……も～、エッチな話なら聞かなかったのに～」=“I didn't ask you if you were thinking about sex at .......”
 「……んっ？　何見てるの？」=“...... Hmm?　What are you looking at?”
 「ちょっと見すぎだよ～。恥ずかしいからやめてってば」=“You're looking at it too much. I'm embarrassed, please stop.”
@@ -96,7 +94,6 @@
 「良かったら、俺と観光しない？」=“Do you want to go sightseeing with me?”
 「いいよー。私も観光したいと思ってたんだ」=“Sure. I've always wanted to go sightseeing.”
 「ごめんねー。他の子と観光に行く約束してるんだ」=“I'm sorry. I'm sorry, I'm supposed to go sightseeing with another girl.”
-「俺と一緒に遊びに行かない？」=“Do you want to go out with me?”
 「うん、ＯＫだよ。何して遊ぼうか？」=“Yes, that's fine. What do you want to do for fun?”
 「今ね、ちょっと遊びたい気分じゃないだよねー」=“I'm not really in the mood for fun right now.”
 「何か、俺と一緒に体験しに行こうよ」=“Come and experience something with me.”
@@ -266,7 +263,6 @@
 「カレーかな。ママも褒めてくれるんだよ、私のカレー」=“I'm good at curry. My mom always compliments me on my curry.”
 「料理は、まぁ……何となく、タマゴかけご飯とか得意かも……」=“I'm good at cooking, well, ...... I'm kind of good at rice with eggs. ......”
 「うーん、ごめん、なんか違うみたい。別の話題にしよっか」=“Hmm, I'm sorry, that's not quite right. Let's talk about something else.”
-「ちゃんと研修やってる？」=“Are you doing your training?”
 「え、なにが？　あ、研修ね……あんまりやってない、えへへ」=“Oh, what?　Oh, training. ...... I don't do it much, hehe.”
 「……うん。ここまで取るに足らないと、逆に面白いね」=“...... Yeah. It's funny how insignificant it is.”
 「えー、急になに言ってるのもう…………好ーき♪」=“What are you talking about? I love .............”
@@ -277,7 +273,6 @@
 「子供は何人ぐらい欲しい？」=“How many children do you want?”
 「多ければ多いほどいいかなぁ……賑やかな方が楽しそうだもん」=“The more the merrier. ...... The more lively, the more fun.”
 「少なくてもいいけど、愛情いっぱいに育って欲しいかな」=“I don't mind if there's not much, but I want them to grow up with a lot of love.”
-「新婚旅行はどこに行きたい？」=“Where do you want to go on your honeymoon?”
 「テーマパークとかに行って、何泊もして二人で遊びたいかな」=“I'd like to go to a theme park or something and stay there for a few nights.”
 「好きな人と旅行できるなら、どこだっていいかなぁ、えへへ」=“I don't care where we go as long as we get to travel with the man I love.”
 「ちょ、ちょっと恥ずかしくなっちゃったから、今はこの話題はパスで」=“I'm feeling a little embarrassed, so let's not talk about that right now.”

@@ -1,0 +1,14 @@
+「ちょっとお土産を見てみない？」=“Let's take a look at some souvenirs. - Let's take a look at some souvenirs.”
+「見てみて、ちんすこうだよー。定番のお菓子と言ったら絶対にこれだよねっ」=Look, it's Chinsuko! If I say it's a classic snack, it's definitely this one!
+「お土産で買うならこれ！　ってくらい、定番中の定番だね」=This is the one to buy as a souvenir!　It's such a classic.
+「[H名]はそれを買うの？」=Is [H name] buying it?"
+「うーん、どうしよう？　迷ってるんだよねー」='Hmmm, what should I do?　I'm not sure what to do.
+「ほら、オーソドックスな味は当然だけど、色んな味が売ってるの」=You see, they sell all sorts of flavors, not just the orthodox ones, of course.
+「へぇ……結構な変わり種な味も売ってるんだねぇ」=Wow, they sell some pretty strange flavors at .......
+「正直、ちんすこうの味だって考えると、ちょっと想像がつかない部分もあるけど……」=To be honest, when I think of it as the taste of ding-dongs, some parts of it are a little hard to imagine. ......
+「うん。ゴーヤー味とか、お土産で買うのはちょっとした冒険になっちゃいそうだもんねぇ」=I'm not sure. It would be a bit of an adventure to buy bitter melon flavor as a souvenir, wouldn't it?
+「ゴーヤー自体は美味しいけど、あの苦みはちんすこうに合うのかなぁ…？」=Bitter melon itself is delicious, but I wonder if its bitterness goes well with chinsuko...?"
+「ちょっと想像がつかないね……。ここは冒険せずに、オーソドックスな味だけにしてみたらどうかな？」='It's a little hard to imagine. ...... Why don't we not be adventurous here and just stick to the orthodox flavors?"
+「うーん……もちろんそれが無難だけど、それだとなんか負けな気がする……」='Ummm...... of course that's safe, but I feel like that's kind of a lose-lose......'
+「よし決めた！　お土産用じゃなくて、自分で食べるように１つ買ってみることにする！」=I've made up my mind!　I'll try to buy one to eat myself, not for souvenirs!"
+「は、はは……チャレンジャーだね、[H名]は……」=Ha-ha-ha ...... you're a challenger, [H name] is ......

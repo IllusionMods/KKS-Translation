@@ -1,0 +1,4 @@
+OPTION[100]:気持ちに応える=Respond to feelings
+気持ちに応える=Responding to Feelings
+OPTION[205]:ごめん、もう食べちゃった=OPTION[205]:Sorry, I've already eaten
+ごめん、もう食べちゃった=I'm sorry. I've already eaten.

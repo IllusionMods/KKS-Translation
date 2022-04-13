@@ -1,0 +1,12 @@
+スクーターのハンドル=Scooter handle
+スクーターのタイヤ=Scooter tires
+バズーカ砲=Bazooka gun
+ロケット弾=Rocket Bullets
+フォーク=Fork.
+ナイフ=Knife
+お皿１=Plate one.
+お皿２=Plate 2
+木槌=Wooden mallet
+虫メガネ=Magnifying glass
+羽ペン=Quill
+インク瓶=Ink bottle

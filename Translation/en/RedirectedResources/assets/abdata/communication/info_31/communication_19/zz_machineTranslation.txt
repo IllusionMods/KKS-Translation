@@ -28,7 +28,6 @@
 「どんな風に異性と出会うのが理想的かな？」=“How do you think it would be ideal to meet the opposite sex?”
 「で、出会い？　考えた、事もないよ」=“How do you meet someone?　I've never thought about it.”
 「素敵な本とだったら、たくさん出会ってきたけど……異性の出会いは、よくわからない……」=“I've met a lot of great books, but I'm not sure about ...... the opposite sex.”
-「恋愛に興味ある？」=“Are you interested in relationships?”
 「な、無いわけじゃないけど……まだ、本の中でしか、知らないから」=“No, not really, but I've only read about it in books.”
 「興味はあるけど、よく……わからないから」=“I'm interested, but I don't know much about .......”
 「自分が付き合うとしたら、どんなタイプの男性がいい？」=“What type of man would you like to date?”
@@ -97,7 +96,6 @@
 「そろそろ、いいかな？　時間になっちゃったから……」=“It's time to go, okay?　It's time to go. ......”
 「え、ええ。また用があったら、声をかけてね……」=“Yeah, yeah. If you need me again, give me a shout at .......”
 「えっ？　う、うん、またね」=“What?　Yeah, yeah, see you.”
-「よかったら、一緒に観光しない？」=“Do you want to go sightseeing with me?”
 「へ？　あ……うん、いいよ」=“Huh?　Oh, ......, yeah, sure.”
 「私、歩くの遅いと思うから……ごめんなさい」=“I think I'm a slow walker. I'm sorry. ......”
 「あのさ、二人で遊びに行かない？」=“Hey, do you want to go out with me?”
@@ -106,7 +104,6 @@
 「俺と一緒に何か体験しない？」=“Do you want to experience something with me?”
 「興味があったから……行ってみようかな」=“I'm curious. I'll go to .......”
 「その……一人の方が集中できそうだから……ごめんなさい」=“I'm sorry, but ...... I think I can concentrate better when I'm alone.”
-「俺と一緒に何か食べに行かない？」=“Do you want to go out for something to eat with me?”
 「うん、いいよ……どこに行くの？」=“Yeah, sure. ...... Where are you going?”
 「今はお腹が空いてないから……いいかな」=“I'm not hungry right now, so I'm ...... not sure.”
 「ちょっと付いてきて欲しいんだけど……」=“I need you to come with me. ......”
@@ -205,7 +202,6 @@
 「もうこんな時間だね。それじゃ、またお話してね」=“It's getting late. I'll talk to you later.”
 「あ、話し込んじゃったね。また時間のあるときにお話しましょう」=“Oh, we've talked too much. We'll talk again when you have time.”
 「さようなら、またお話しましょうね」=“Goodbye, I'll talk to you later.”
-「きみのことが好きだ」=“I like you.”
 「えっと、ごめんなさい……あなたの事、嫌いじゃないけど……今は難しいかな」=“Well, I'm sorry. ...... I don't hate you, but I don't think ...... this is the right time.”
 「私……あなたの事、好きになっちゃった、みたい……」=“I think I've ...... fallen in love with you. ......”
 「そ、そうだよね……うん、わかってたって言うか……気にしないでね」=“Yeah, that's true. ...... Yeah, I knew that. ...... Don't worry about it.”

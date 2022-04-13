@@ -1,0 +1,13 @@
+クローバーキャスケット=Clover Casket
+ファンタジーカチューシャ=Fantasy catsuits
+ボンネット=Bonnet
+パンダ帽子=Panda Hat
+付け毛23=False hair 23
+付け毛24=Hairpiece 24
+付け毛25=Hairpiece 25
+付け毛26=Hairpiece 26
+付け毛27=Hairpiece 27
+付け毛28=Hairpiece 28
+付け毛29=Hairpiece 29
+付け毛30=Hairpiece 30
+付け毛31=Hairpiece 31

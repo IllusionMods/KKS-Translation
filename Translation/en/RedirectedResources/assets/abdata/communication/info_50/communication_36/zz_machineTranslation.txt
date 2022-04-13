@@ -22,7 +22,6 @@
 「試しに読んだことはあるけど……私には合わなかったわ」=“I've tried, but ...... wasn't for me.”
 「漫画に限らず、恋愛要素を一番に押し出している作品に興味はないわ。登場人物に共感できないもの」=“I'm not interested in manga or any other kind of work that puts the romance element first. I can't relate to the characters.”
 「まさか、自分がタイプだと言われるとか期待してる？　貴方は男性ではなくオスでしょ？」=“Are you expecting someone to tell you that you're their type?　You're not a man, you're a male.”
-「友達が言ってたんだけど……」=“A friend of mine told me about .......”
 「家畜の友達だけあって、女心というものがまるで分ってなさそうね」=“You're just a friend of livestock. You don't seem to have a clue about the female mind.”
 「ファーストキスって……」=“First kisses are ......”
 「……初めてを大事にする気持ちを否定するつもりはないわ」=“I'm not going to deny the importance of ...... first kisses.”

@@ -257,7 +257,6 @@
 「今日は何を話しましょう？　なんでも、いいですからね……？」=“What can I talk to you about today?　Anything you want. ......?”
 「あ……私も、あなたと話したいと思ってたんです」=“Oh, ......, I've been wanting to talk to you, too.”
 「あなたと、色々お話したいです」=“I'd love to talk to you about anything.”
-「ちゃんと研修やってる？」=“Are you doing your training?”
 「う～ん、どうでしょう……島に関係する本とか、読んだりしてるんですけど……」=“Well, I don't know. ...... I've been reading some books on the islands. ......”
 「あんまりやってないですね……ほとんどバカンス気分になってます」=“I don't really do much. ...... It's almost like a vacation.”
 「[H名]って、誰かに怒ったりするの？」=“Does [H名] ever get angry with anyone?”

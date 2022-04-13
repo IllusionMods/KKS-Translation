@@ -236,7 +236,6 @@
 「これから観光しようと思うのだけれど、一緒にどうかしら？」=“I'm thinking of going sightseeing. Would you like to join me?”
 「ありがとう。それじゃあ行きましょう」=“Thank you. Let's go.”
 「残念ね、また時間がある時に付き合って貰えると嬉しいわ」=“That's too bad. I'd be happy to take you out again when you have time.”
-「一緒に遊びに行こうよ」=“Let's go out together.”
 「もちろん問題ないわ。何をして遊ぶのかしら」=“Sure, no problem. What are we going to do for fun?”
 「ごめんなさい、研修に時間を割いておきたいの」=“I'm sorry, I need to set aside some time for training.”
 「遊びに行こうと思っているのだけれど、あなたもどうかしら？」=“I'm thinking of going out. Would you like to join me?”

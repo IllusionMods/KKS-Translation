@@ -1,0 +1,6 @@
+ひじ掛け椅子でドリンクを飲む loop=Drinking from an armchair loop
+ひじ掛け椅子でドリンクを飲む action=Drinking in an armchair action
+ソファでドリンクを飲む loop=Drink on the couch. loop.
+ソファでドリンクを飲む action=Drinks on the couch action
+景色眺める loop=Viewing the scenery loop
+景色眺める action=View action

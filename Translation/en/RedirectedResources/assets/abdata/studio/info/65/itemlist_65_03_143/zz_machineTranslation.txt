@@ -1,0 +1,10 @@
+玉座=Throne
+ゲーミングチェア=Gaming Chairs
+ビニールプール=Plastic pool
+ＳＦモニター=SF Monitor
+ＳＦパッド=SF Pad
+アイアンメイデン・閉じ=Iron Maiden closed
+アイアンメイデン・開き=Iron Maiden open
+トイレの張り紙1=Toilet Stickers 1
+トイレの張り紙2=Toilet Stickers 2
+サメの背びれ=Shark dorsal fin

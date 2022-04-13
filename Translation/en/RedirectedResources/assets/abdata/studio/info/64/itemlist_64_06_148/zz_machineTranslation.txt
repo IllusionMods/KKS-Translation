@@ -1,0 +1,12 @@
+うさ耳リボン=Bunny Ear Ribbon
+スラウチハット=Slouch Hat
+付け毛20=Hairpiece 20
+付け毛21=False Hair 21
+付け毛22=False hair 22
+花の髪飾り2=Flower hair ornament 2
+ドラゴンの角=Dragon horns
+ドラゴンの尻尾=Dragon's tail
+蛍=Fireflies
+大天使の翼左用=Wings of the Archangel for left
+大天使の翼右用=Wings of the Archangel for right
+チェーンネックレス=Chain Necklace

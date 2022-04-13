@@ -130,7 +130,6 @@
 「あっ……そんなに見られると、少し恥ずかしい」=“Oh, ......, it's a little embarrassing when people look at me like that.”
 「水着だけど、おかしくないかな？」=“I'm in a bathing suit. Isn't that weird?”
 「あなたにじっと見られると、ちょっと恥ずかしい」=“It's a little embarrassing when you stare at me like that.”
-「うん？　どうしたの？」=“Yeah?　What's up?”
 「あなたに迷惑がかかるから、そこには入れないよ」=“I can't go in there because you'd get in trouble.”
 「もしかして、あなたもわたしと同じように感じてるんじゃないかな？」=“I wonder if you feel the same way about me.”
 「あなたには、わたしが“かれら”に会うための手伝いをしてほしい……」=“I need you to help me meet them. ......”
@@ -288,7 +287,6 @@
 「ずっと“かれら”と話をしてるよ」=“I talk to them all the time.”
 「ネットを見てることが多いかな。気づいたら、すぐ時間が過ぎちゃうの」=“I'm on the Internet a lot. I'm on the Internet a lot, and the time goes by so fast.”
 「あなたとは、もう少し楽しいお話がしたいな」=“I'd like to have more fun with you.”
-「小耳に挟んだんだけど……」=“I overheard about .......”
 「うーん……それは、“かれら”がやったことじゃないと思うな」=“Hmm. ...... I don't think that's what they did.”
 「ねぇ[H]、これなんだけど、どう思う？」=“Hey, [H], what do you think about this?”
 「……えっ？　ご、ごめん。ちょっと、みとれ……ぼーっとしてて」=“...... What?　I'm sorry. I'm sorry, I was just a little ...... distracted.”

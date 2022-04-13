@@ -1,0 +1,9 @@
+はぐるま1(通常)=Haguruma 1 (normal)
+はぐるま2(通常)=Haguruma 2 (Normal)
+はぐるま3(通常)=Haguruma 3 (Normal)
+はぐるま4(通常)=Haguruma 4 (Normal)
+シュリケン1(通常)=Shrieken 1 (normal)
+シュリケン2(通常)=Shrieken2(Normal)
+十字型(通常)=Crosshairs(Normal)
+正十二面体(通常)=Normal dodecahedron
+正二十面体(通常)=Icosahedron(normal)

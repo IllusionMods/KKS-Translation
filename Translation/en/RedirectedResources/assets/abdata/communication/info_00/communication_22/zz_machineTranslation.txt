@@ -288,7 +288,6 @@
 「理想の彼氏像とかある？」=“Do you have a boyfriend in mind?”
 「もちろんあるよー！　でも教えない！　だって……君には教える必要ないんだもん！」=“Of course I do!　But I won't tell you!　But I'm not going to tell you, because you don't need to tell ......!”
 「彼氏像というか……理想通りの彼氏ならいるよ♪　えへへっ！」=“I do have a boyfriend, or rather a ...... ideal boyfriend.”
-「新婚旅行はどこに行きたい？」=“Where do you want to go on your honeymoon?”
 「海外に行きたいな―。世界一周してみたいかも」=“I want to go abroad. I want to go abroad. I want to go around the world.”
 「君と一緒に回れるなら、どこだっていいよー」=“I'll go anywhere as long as I can go with you.”
 「子供は何人ぐらい欲しい？」=“How many children do you want?”

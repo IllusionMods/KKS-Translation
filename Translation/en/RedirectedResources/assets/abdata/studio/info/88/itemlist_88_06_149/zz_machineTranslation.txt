@@ -1,0 +1,17 @@
+猫耳ヘッドホン=Cat ear headphones
+猫耳スピーカー=Cat Ear Speakers
+パンツA=Pants A
+パンツB=Pants B
+パンツC=Pants C
+被りフード=Hood covered with a hood
+外しフード=Hood off.
+ファーマント=Fur Cloak
+宝石1=Jewelry 1
+宝石2=Jewelry 2
+宝石3=Jewelry 3
+宝石4=Gem 4
+宝石5=Gem 5
+パイロットゴーグル=Pilot goggles
+ブライダルリング=Bridal ring
+真珠のネックレス=Pearl necklace
+首掛けタオル=Neck Towel

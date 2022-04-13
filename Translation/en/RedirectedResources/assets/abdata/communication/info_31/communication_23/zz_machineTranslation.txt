@@ -25,7 +25,6 @@
 「ああ、聞いたことあるような～……後でチェックしておきますかな」=“Oh, I've heard that before. ...... I'll check it out later.”
 「フェリーは快適だった？」=“Were you comfortable on the ferry?”
 「快適でしたとも……寝てたんで覚えてないけど……」=“It was comfortable. ...... I don't remember, I was asleep. ......”
-「恋愛に興味ある？」=“Are you interested in relationships?”
 「恋愛モノには興味あるけど……リアルの恋愛は……」=“I'm interested in romance, but not ...... real love.”
 「あるよ……ただ自分との接点があまり見つからないんですなー」=“Yes, I do. ...... I just can't find much of a connection to myself.”
 「コイバナはよくする？」=“Do you do a lot of lovebirds?”
@@ -216,7 +215,6 @@
 「もう行かないと。それじゃ失礼するね」=“I have to go. I'll see you later.”
 「また話したいんだなぁ。それでは」=“You want to talk again? Bye.”
 「また話そうね。では」=“I'll talk to you later. Bye.”
-「きみのことが好きだ」=“I like you.”
 「え、えぇっと……ワタシ、今はあなたの事、友達だなぁって思ってるから……」=“Well, um, ...... I think of you as a friend right now. ......”
 「聞いて欲しいんだけど……ワタシ、あなたの事が、好きなんだな……」=“Listen, ......, I think I like you. ......”
 「い、いいんだ……その、いきなりだったし……びっくりさせちゃって、ごめん……」=“No, it's okay. ...... I'm sorry I startled you. ......”
@@ -298,7 +296,6 @@
 「理想の結婚式とかってある？」=“What's your ideal wedding?”
 「結婚式かぁ……想像しただけで、幸せになりそうだよ」=“A wedding. ...... Just thinking about it makes me happy.”
 「結婚式……相手があなただって想像しただけで、ドキドキしてくる」=“Just the thought of a wedding ...... with you makes me nervous.”
-「新婚旅行はどこに行きたい？」=“Where do you want to go on your honeymoon?”
 「あなたと二人で行けるなら、どこだっていいと思うよ」=“I don't care where we go as long as it's just you and me.”
 「二人っきりで、誰も来ない部屋で……いっぱいアニメが見たい」=“I want to be alone with you, in a room with no one else, and watch ...... a lot of anime.”
 「恋人同士で秘密って許せる？」=“Can lovers keep secrets from each other?”

@@ -48,7 +48,6 @@
 「異性のどの部分が好き？」=“What do you like about the opposite sex?”
 「好きな部分か……ちょっと難しい質問だな……」="What do you like about the opposite sex?" ...... That's a bit of a tough question. ......
 「特にここって部分はないかなー……よくわからないぞ」=“I don't think there's a specific part. ...... I'm not sure.”
-「どんなデートがしてみたい？」=“What kind of date would you like to go on?”
 「とにかく楽しいデートが一番だな」=“I'd like to go on a fun date.”
 「好きな相手となら、どんなデートでも大丈夫だぞ」=“Any date with a guy you like is a good date.”
 「気になる異性はいるの？」=“Is there someone you're attracted to?”

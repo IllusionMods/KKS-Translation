@@ -1,0 +1,11 @@
+「えっ、どうしたの急に？」="What? What's wrong all of a sudden?"
+「深い意味はないよー。ただ、ちょっといつもと違う風に呼んでみようかなって思って……えへへ」=I don't mean anything deep. I just thought I'd call it something a little different. ...... ehehe"
+「そうなんだ。いきなりだからビックリしたよ」=I see. I was surprised because it came out of nowhere.
+「それで、どうかなー？　あだ名で呼んでも大丈夫？」=So, what do you think?　Is it okay if I call you by your nickname?"
+「そうだね……。特に嫌ってわけじゃないし、大丈夫だよ」=Yes. ....... I don't particularly dislike it, and I'm fine with it."
+「本当？　ありがとー。何だったら、私のこともあだ名で呼んでもいいよ？」=Really?　Thanks. If you want, you can call me by my nickname, too."
+「そう？　とはいえ、あだ名か……どんなのが良いかな」=Yeah?"　However, what would you prefer as a nickname or ......?"
+「好きに呼んでくれていいよー。えへへ、ちょっと楽しみかも」=You can call me whatever you want. Heh heh, I might be a little excited."
+「じゃあ……[Hあだ名]って呼ぶのはどう？」=How about calling me ......[H nickname] then?"
+「おぉぉ、それ良いかも！　でも、お互いに呼び合うとちょっと恥ずかしい感じもするかも……」=Oh, that's a good one!　But it might be a little embarrassing if we call each other ......"
+「そうだね。照れくさいし、時々呼び合うくらいがちょうど良いのかもね」=I agree. It's embarrassing. Maybe it's better if we just call each other sometimes.

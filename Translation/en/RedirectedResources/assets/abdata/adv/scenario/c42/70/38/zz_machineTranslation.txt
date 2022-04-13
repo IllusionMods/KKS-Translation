@@ -1,0 +1,6 @@
+「カヤックはそれぞれで乗ることにする？　それとも２人乗りのに一緒に乗る？」=Do you want to take a kayak each?　Or do you want to ride together in a two-seater?"
+「もちろん２人乗りで一緒に乗ろうよー」=Of course we'll ride together.
+「それなら、上手く息を合わせないと前に進めないかもしれないね……」=Then we may have to breathe well together to move forward. ......
+「大丈夫だよ。だって、私とキミだもん。きっと上手く行くよー」=I'll be fine. Because it's you and me. We're going to be fine.
+「そ、そうかな？　まぁ、[H名]に言われるとそんな気もするね……」=I don't know.　Well, I feel that way when [H name] tells me. ......"
+「えへへ。恋人同士の共同作業だもんねっ。よーし、がんばろうー！」=Heh heh. It's a joint work between lovers, right? Okay, let's do our best!

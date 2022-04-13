@@ -326,7 +326,6 @@
 「私のおっぱい、そんなに触りたい？」=“Do you really want to touch my tits?”
 「ふふっ、あなたは私のおっぱいと会話してるのかしら？」=“Are you having a conversation with my tits?”
 「私のおっぱいばかり見て、そんなに楽しいかしら？」=“Do you enjoy looking at my tits so much?”
-「……何をしてるの？」=“...... What are you doing?”
 「あ……私の手、握るの好きなのね」=“Oh, ......, you like to hold my hand, don't you?”
 「何回やっても、こういうのはちょっと恥ずかしいわね」=“No matter how many times you do it, it's still a little embarrassing.”
 「もう触ったらダメ。少し手が痛くなってきちゃったし」=“Don't touch me again. My hand's starting to hurt a little.”
@@ -372,7 +371,6 @@
 「私と一緒に遊びましょ。いいでしょ？」=“Come play with me. Okay?”
 「ふふっ、何をして遊ぼうかしら」=“Hmm, what shall we do?”
 「残念だわ。……良かったら、また次の機会に遊びましょ」=“I'm sorry. I'm sorry. ...... Let's play some other time, if you want.”
-「ええ、喜んで付き合うわ」=“Yeah, I'd be happy to.”
 「どうかしら、私と一緒に何か体験してみない？」=“I don't know, maybe you'd like to experience something with me.”
 「良かった。あなたとなら、なんでも楽しくできると思うわ」=“Good. I'm sure you and I could have a lot of fun.”
 「そうなのね……残念だけど、無理は言わないわ」=“Oh, well, ......, I'm sorry, but I won't push it.”

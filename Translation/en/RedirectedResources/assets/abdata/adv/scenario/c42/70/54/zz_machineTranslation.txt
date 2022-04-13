@@ -1,0 +1,13 @@
+「ねぇ、[H名]。ちょっと話があるんだけど、良いかな？」=Hey, [H name]. Can I talk to you for a second?"
+「実は……俺のことを、[Pあだ名]って呼んで貰えないかなって思ってさ」=Actually, I was wondering if you could call me [P nickname] at ......."
+「へ？　ま、待ってー。どうしてそんな名前なのかな？」=Huh?"　Well, wait. Why do you think they named it that?"
+「恥ずかしいのもあるけど……すごく、変なあだ名で呼ぶように言われてる気がするんだけどー？」=I'm embarrassed, too, ...... but I feel like I'm being asked to call you by a really, really weird nickname?"
+「いや、深い意味はないんだけどさ。ぜひとも、ぜひとも呼んで欲しいと思って！　お願いだよ！」=No, I don't mean anything deep. I just thought you should definitely, definitely call me!　Please!"
+「う、うん、そこまで言うなら呼んでも良いけど……」=Umm, yeah, you can call me if you want to go that far. ......
+「えっと、それじゃあ……[Pあだ名]。これでいい？」=Um, so ......[P nickname]. Is that okay?"
+「それ！　そう呼ばれたかったんだ！」=That's it!　That's what I wanted to be called!"
+「お礼に、俺も[H名]のことを、[Hあだ名]って呼ぶよ」=As a thank you, I'll call [H name] [H nickname], too."
+「う、うん。私もあだ名で呼んでくれるんだ？　ありがとー」=I'm not sure I'd like that. You call me by my nickname too?　Thanks.
+「でも、毎回そうやって呼ぶのはちょっと恥ずかしいかも……」=But it might be a little embarrassing to call them that every time. ......
+「じゃあ、時々こうやって呼び合うってことでどうかな？」=Well, how about we call each other like this from time to time?
+「うーん……まぁ、それくらいなら良いかなー」=Hmmm ...... well, that's about as good as it gets..."

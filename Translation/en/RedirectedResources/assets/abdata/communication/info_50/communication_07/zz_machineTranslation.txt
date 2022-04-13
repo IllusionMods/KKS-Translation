@@ -1,3 +1,0 @@
-「おっす、なんか話でもあるのか？」=“Hey, you've got something to tell me?”
-「いいね～！　誰かと食べた方がご飯は美味しいしな！」=“Great!　Food tastes better when you eat it with someone else!”
-「話したりないが……こればっかりは仕方ねぇか」=“I don't want to talk about it, but... I guess I can't help it.”

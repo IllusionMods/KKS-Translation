@@ -63,7 +63,6 @@
 「……気持ちは、嬉しいんだけど……すまん、考える時間をくれ」=“I like you. ...... I'm glad you like me, but ...... I'm sorry, give me some time to think.”
 「私……お前が好きだ……つ、付き合ってくれ」=“I ...... like you, and I want you to ...... go out with me.”
 「そっか……いいいんだ、気にすんな……わかってた、からさ」=“Okay, that's ...... fine, don't worry about it, I knew ...... that.”
-「良かったら、一緒に観光しない？」=“Would you like to go sightseeing with me?”
 「おう、いいぜ！　どこに行くんだ？」=“Yeah, sure!　Where are we going?”
 「う～ん……歩き回るのは少しだるいな」=“Hmm. ...... walking around is a little lazy.”
 「おい、一緒に観光しないか？」=“Hey, do you want to come sightseeing with me?”

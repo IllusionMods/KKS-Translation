@@ -108,7 +108,6 @@
 「時間ですわね。失礼いたします」=“It's time to go. Excuse me.”
 「あら、そう。ではまた」=“Oh, yes. See you later.”
 「そう。ではごきげんよう」=“Okay. Have a good day.”
-「よかったら、これから一緒に観光しない？」=“Would you like to go sightseeing with me?”
 「あら、面白そうですわね。よろしくてよ」=“Oh, that sounds interesting. Please do.”
 「あまり興味がありませんわ」=“I'm not really interested.”
 「あのさ……これから二人で遊ばない？」=“Hey, ......, would you like to hang out with me?”
@@ -390,7 +389,6 @@
 「これからご飯を食べに行きませんこと？」=“Would you like to go out for dinner?”
 「うふふ、会話が弾む事間違いなしですわ」=“Oh, I'm sure we'll have a great conversation.”
 「あら、空いていなかったのですね。残念ですわ」=“Oh, there's no room, is there? What a pity.”
-「あのさ、俺の部屋に来てくれないかな？」=“Do you think you could come to my room?”
 「ええ、構いませんわ」=“Yes, of course.”
 「付いてきてもらってもいいかな？」=“Do you mind if I follow you?”
 「よくってよ。ご一緒しましょう」=“Sure. I'll join you.”
