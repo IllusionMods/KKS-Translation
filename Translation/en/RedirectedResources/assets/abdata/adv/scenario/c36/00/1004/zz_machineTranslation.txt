@@ -6,7 +6,7 @@
 「砂地が歩き辛いなら、歩きやすいものを足場にすれば良いでしょう？」=“If the sand is too hard to walk on, why not use something easier to walk on as a foothold?”
 「それなら、貴方が私の足場になればすべてが解決するわ」=“Then you can be my scaffold and everything will be fine.”
 「いやいやいやっ、さすがにそれは無理だから！」=“No, no, no, no, I can't do that!”
-「あら、下僕がずいぶんと反抗的なようね。貴方に許された返事は『よろこんで』だけでしょう？」="Well, your servant seems to be very rebellious. The only response you're allowed is, "With pleasure," right?
+「あら、下僕がずいぶんと反抗的なようね。貴方に許された返事は『よろこんで』だけでしょう？」=“Well, your servant seems to be very rebellious. The only response you're allowed is, With pleasure, right?”
 「さあ、返事は？」=“Come on, what do you say?”
 「そ、それには問題があると思う！」=“No, I think there's a problem with that!”
 「……良いわ。説明しなさい」=“...... Good. Explain it to me.”

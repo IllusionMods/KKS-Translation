@@ -1,6 +1,6 @@
 「[H名]はダイビングとサーフィンならどっちがしたい？」=“Would you rather dive or surf?”
-「むぅ、悩むな……どちらも捨てがたい。この際両方してしまうか？」=I'm not sure which one I'd rather have: ...... or ....... I'm not sure I want to do both at this point."
-「え……俺は構わないけど、結構体力的にキツいと思うよ？」=I don't mind if you do, but I think it's pretty physically demanding, don't you?"
+「むぅ、悩むな……どちらも捨てがたい。この際両方してしまうか？」=“I'm not sure which one I'd rather have: ...... or ....... I'm not sure I want to do both at this point.”
+「え……俺は構わないけど、結構体力的にキツいと思うよ？」=“I don't mind if you do, but I think it's pretty physically demanding, don't you?”
 「はは、それなら心配無用だ。我は女だが、体力でも貴殿に負けるつもりはないぞ」=“Ha, don't worry then. I am a woman, but I will not be outdone by you in physical strength.”
 「おっけー。じゃあ贅沢にどっちもやっちゃおうか！」=“I'm all right. Then let's do both!”
-「ああ、どうせ遊ぶなら遊び尽くしてやろう！」=Oh, if we're going to play, let's play all the way!"
+「ああ、どうせ遊ぶなら遊び尽くしてやろう！」=“Oh, if we're going to play, let's play all the way!”

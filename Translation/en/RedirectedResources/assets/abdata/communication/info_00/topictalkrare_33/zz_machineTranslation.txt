@@ -70,7 +70,7 @@
 「[H名]さんに褒めてもらえるような顔面じゃないと思うけど、嬉しいよ」=“I don't think I have the face for a compliment, but I'm glad you did.”
 「あら、くせになるっていうのは愛着が湧いているということでしょう？」=“Oh, by "addictive" you mean you're attached to it, right?”
 「顔の造形は関係ないの。男も女も、いかにお互いをくせにさせるかよね、ふふ」=“The shape of the face is irrelevant. It's how men and women make each other addicted.”
-「いかにお互いをくせにするか、か……」="How to make each other habitual." ......
+「いかにお互いをくせにするか、か……」=“How to make each other habitual. ......”
 （そういう意味では俺、[H名]さんの顔にやみつきだな）=(In that sense, I'm addicted to [H名]'s face.)
 「海ほたるってミジンコの仲間だって知ってた？」=“Did you know that sea fireflies are related to daphnia?”
 「ええ、調べたもの。ハムスターを横から見たような見た目よね」=“Yes, I looked it up. It looks like a hamster from the side.”

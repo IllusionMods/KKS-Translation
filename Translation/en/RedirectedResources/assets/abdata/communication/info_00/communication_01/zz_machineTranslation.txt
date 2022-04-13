@@ -282,7 +282,7 @@
 「せっかくの旅行なのに、寝坊しそうになったことがあってさ」=“I was on a trip and I almost overslept.”
 「ふふっ。今度からモーニングコールをして差し上げましょうか」=“Hmmm. I'll give you a wake-up call next time.”
 「何か覚えた方言ってあったりする？」=“Is there anything you want me to remember?”
-「『ぬーそーがー』です。何をしてるのって意味らしいのですが、可愛いと思いませんか？」="It's 'Nusoga'. It means "what are you doing?" Don't you think it's cute?
+「『ぬーそーがー』です。何をしてるのって意味らしいのですが、可愛いと思いませんか？」=“It's 'Nusoga'. It means what are you doing? Don't you think it's cute?”
 「好きな男の体型ってあったりする？」=“Do you have a favorite male body type?”
 「うーん、特にはありません。どんな体型のあなたでも、私は好きですよ」=“Hmm, not really. I like you no matter what shape you are.”
 「ご自分の体型を気にされているのですか？　大丈夫です。どんなあなたでも、私は好きですから」=“Are you concerned about your body type?　I'm fine. I like you no matter what shape you are.”

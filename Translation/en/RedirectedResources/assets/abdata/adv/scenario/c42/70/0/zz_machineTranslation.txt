@@ -1,4 +1,4 @@
-「ねぇねぇ、キミのこともっといろいろと知りたいなー。ダメ、かなぁ？」=I want to know more about you. Is that a no?"
+「ねぇねぇ、キミのこともっといろいろと知りたいなー。ダメ、かなぁ？」=“I want to know more about you. Is that a no?”
 「ダメなんてことはないよ。そう言ってもらえて、すごく嬉しい」=“I'm not saying no," he said. I am very happy to hear you say so.”
 「そっかぁ。えへへ、よかったー」=“I see. I'm so glad.”
 「それじゃあ、俺からも提案。よかったら、[H名]のことも俺にいろいろ教えてくれない？」=“Then I have a suggestion. If you want, you can tell me all about [H名] too.”

@@ -1,7 +1,7 @@
 「[H名]、フォークダンスをするみたいだよ。俺たちも参加しよう」=“[H名], they're having a folk dance. We'll be there.”
 「ふぉーくだんすは踊ったことがないのですが、大丈夫でしょうか？」=“I've never danced a folk dance before, is that okay?”
 「俺も詳しい作法とか手順はわからないけど、[H名]と楽しく踊りたいんだ」=“I don't know all the rules and procedures, but I want to have a good time dancing with [H名].”
-「はい、是非ご一緒させてください。私も貴方とふぉーくだんすを踊ってみたいです」="Yes, please let me join you. Yes, please let me join you. I would like to dance with you in the "Whoo dance".
+「はい、是非ご一緒させてください。私も貴方とふぉーくだんすを踊ってみたいです」=“Yes, please let me join you. Yes, please let me join you. I would like to dance with you in the Whoo dance.”
 「そうこなくっちゃ」=“That's what I'm talking about.”
 「[H名]、本当に踊ったことないの？　とっても上手だよ」=“[H名], are you sure you've never danced before?　I'm really good.”
 「ふふふ、どうしても日本舞踊が出てしまいます。みっともなくありませんか？」=“I can't help but perform the Japanese dance. Isn't it a bit embarrassing?”

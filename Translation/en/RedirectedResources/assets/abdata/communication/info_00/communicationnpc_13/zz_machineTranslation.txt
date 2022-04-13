@@ -33,7 +33,7 @@
 「うんっ、色んなことに興味はあるよー！　でも……今はまだ、島を離れたくはないさー」=“Yes, I'm interested in a lot of things!　But ...... I don't want to leave the island just yet.”
 「こっちの人がよく使う方言ってなに？」=“What's the most common dialect people here use?”
 「『てーげー』だはず。『大体』とか『適当』とかそんなニュアンスさー。おおらかな人が多いから、よく聞くよー」=“What's the most common dialect people here use? I think it's 'tegee,' which means 'roughly' or 'appropriately. I hear it a lot because people here are very open-minded.”
-「歩いてたら『あっがぁー！』って大きな声が聞こえてきて、びっくりしたことがあるんだよね」="When I was walking, I heard a loud voice saying, 'Agaaah! When I was walking, I was once surprised to hear a loud voice saying, "Agaa!
+「歩いてたら『あっがぁー！』って大きな声が聞こえてきて、びっくりしたことがあるんだよね」=“When I was walking, I heard a loud voice saying, 'Agaaah! When I was walking, I was once surprised to hear a loud voice saying, Agaa!”
 「『あがっ』は痛かったときに漏れちゃう言葉さー。きっと誰かが転んだりしてたんだろうねー」=“When I was walking, I heard a loud 'Agaa! Someone must have fallen or something.”
 「またやーたい！」=“I want to do it again!”
 「えへへ、会いに来てくれたの？　でーじ嬉しいさぁ♪」=“Oh, you came to see me?　I'm so happy.”
@@ -105,7 +105,7 @@
 「それは多分キジムナーだねー。子供の姿をしてて、人懐っこいんだよー。……自分は見たことないけど」=“It's probably Kijimuna. It looks like a child and is very friendly. I've never seen one before. ......”
 「ここは本当に良いところだね」=“It's a really nice place.”
 「えへへ……自分は産まれた育ったこの島が大好きだから、褒めて貰えてでーじ嬉しいさー！」=“I love this island where I was born and raised, so I'm really happy to hear your praise!”
-「食堂のメニューの『ぜんざい』を頼んでた人がいたんだけど、かき氷が出て来てビックリしたよ」="I'm really happy to hear that! "Someone ordered 'zenzai' from the cafeteria menu, but was surprised to be served shaved ice.
+「食堂のメニューの『ぜんざい』を頼んでた人がいたんだけど、かき氷が出て来てビックリしたよ」=“I'm really happy to hear that! Someone ordered 'zenzai' from the cafeteria menu, but was surprised to be served shaved ice.”
 「あはは、ここじゃ夏の定番スイーツだからね。自分もぜんざいは温かいのが普通って知った時はビックリしたさぁ」=“I was surprised to see shaved ice. I was also surprised when I found out that zenzai is usually served warm.”
 「あのさ、この前知ったんだけど……」=“You know, I just found out about .......”
 「へぇ、よく調べたねー。島に興味を持ってくれて嬉しいさー！」=“Wow, you did a lot of research. I'm glad you're interested in the island!”
@@ -127,7 +127,7 @@
 「まあ、今は道が崩れて立ち入りが禁止されてるんですけど……見に行きたくても、危ないから入ったりしないでくださいね？」=“Well, now the road has collapsed and it's off limits, but ...... even if you want to go see it, please don't go in because it's dangerous, okay?”
 「……でも、しばらく人の手が入ってないから、珍しい生き物を見れたりするかもしれんねー」=“...... hasn't been touched by humans for a while, so you might see some rare creatures there.”
 「そういえば、有名な恋愛スポットがあるんですよね？」=“Oh, by the way, there is a famous love spot there, isn't there?”
-「それは<color%3D#ffa801ff>灯台</color>にある<color%3D#ffa801ff>ウムイの鐘</color>のことですね。ウムイは方言で、思いって意味なんです」="That's the <color%3D#ffa801ff>Umui Bell</color> at the <color%3D#ffa801ff>lighthouse</color>. Umui is a dialect word meaning "thought.
+「それは<color%3D#ffa801ff>灯台</color>にある<color%3D#ffa801ff>ウムイの鐘</color>のことですね。ウムイは方言で、思いって意味なんです」=“That's the <color%3D#ffa801ff>Umui Bell</color> at the <color%3D#ffa801ff>lighthouse</color>. Umui is a dialect word meaning thought.”
 「鳴らした二人は必ず結ばれるという噂が昔からあって、<color%3D#ffa801ff>カップル</color>で訪れる方をよく見かけますよ」=“There's an old rumor that two people who ring the bell will always be united, so you'll often see <color%3D#ffa801ff>couples</color> visiting here.”
 「いつか私も誰かと……なんてことをたまに考えちゃったりします」=“I sometimes think about ...... with someone someday.”
 「そういえば……最近、<color%3D#ffa801ff>ホテルのプールサイド</color>で注文できる<color%3D#ffa801ff>トロピカルドリンク</color>が人気なんですよ」=“Come to think of it, ...... has recently become a popular <color%3D#ffa801ff>tropical drink</color> that you can order at <color%3D#ffa801ff>the hotel poolside</color>.”
@@ -156,7 +156,7 @@
 「えへ、でーじ嬉しい！　実は……<color%3D#ffa801ff>もう一つ</color>島人しから知らない<color%3D#ffa801ff>ビーチ</color>があって、そこも綺麗だったさーね」=“I'm so happy!　Actually, there's another <color%3D#ffa801ff>beach</color> on ...... that only the islanders know about, and it's beautiful too.”
 「まあ、今は道が崩れて立ち入り禁止になってるんだけど……だから興味があっても、危ないから入るのはダメよー？」=“Well, now the road has collapsed and it's off-limits, but ...... so even if you're interested, don't go in there because it's dangerous.”
 「そういえば、有名な恋愛スポットがあるんだよね？」=“Oh, by the way, there's a famous love spot there, isn't there?”
-「それは<color%3D#ffa801ff>灯台</color>にある<color%3D#ffa801ff>ウムイの鐘</color>だはず。ウムイは方言で、思いって意味さーね」="It's the <color%3D#ffa801ff>Umui Bell</color> at the <color%3D#ffa801ff>lighthouse</color>. "Umui" is a dialect word meaning "thought.
+「それは<color%3D#ffa801ff>灯台</color>にある<color%3D#ffa801ff>ウムイの鐘</color>だはず。ウムイは方言で、思いって意味さーね」=“It's the <color%3D#ffa801ff>Umui Bell</color> at the <color%3D#ffa801ff>lighthouse</color>. Umui is a dialect word meaning thought.”
 「鳴らした二人は必ず結ばれるという噂が昔からあって、<color%3D#ffa801ff>カップル</color>が訪れるのをよく見かけるよー」=“There's an old rumor that two people who ring the bell will always get married, and I often see <color%3D#ffa801ff>couples</color> visiting.”
 「自分もいつか誰かと……なんてことをたまに考えちゃったりするさー」=“I sometimes think about ...... with someone someday.”
 「そういえば……最近、<color%3D#ffa801ff>ホテルのプールサイド</color>で注文できる<color%3D#ffa801ff>トロピカルドリンク</color>が人気みたいよー」=“Speaking of which, ...... has recently become popular for its <color%3D#ffa801ff>tropical drinks</color> that can be ordered poolside at <color%3D#ffa801ff>hotels.”

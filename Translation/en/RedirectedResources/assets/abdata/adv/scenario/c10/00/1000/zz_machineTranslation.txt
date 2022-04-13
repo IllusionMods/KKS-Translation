@@ -7,7 +7,7 @@
 「こほんっ。仕切り直して……」=“Hmmm. Let's start over at .......”
 「時は来た！　禁断の果実を絞りし魔のジュース、此処に召喚せり！」=“The time has come!　The time has come! The demon juice that squeezes the forbidden fruit is summoned here!”
 「そこから仕切り直すんだ」=“That's where we start.”
-「我が同胞よ。共にこのジュースを飲み干すのだ。さすれば、我らの絆はより強固なものとなろう……」="My countrymen. Drink up the juice with me. "Drink this juice together, my fellow countrymen, and our bond will grow stronger. ......
+「我が同胞よ。共にこのジュースを飲み干すのだ。さすれば、我らの絆はより強固なものとなろう……」=“My countrymen. Drink up the juice with me. Drink this juice together, my fellow countrymen, and our bond will grow stronger. ......”
 「一緒にジュースを飲んで、愛を確かめ合おうって話だね」=“I'm talking about drinking juice together and making love.”
 「あ、愛っ！？　ま、まあそういうことではあるが……と、とにかくいただくぞっ」=“Oh, love?　Well, that's what it means, but I'll take ...... anyway.”
 （……可愛いなぁ）=(...... is cute.)

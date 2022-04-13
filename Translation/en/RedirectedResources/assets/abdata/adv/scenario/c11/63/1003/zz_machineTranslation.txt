@@ -1,7 +1,7 @@
 「ねえ、お土産を探してみようよ」=“Hey, let's look for some souvenirs.”
 「それ、シーサーのキーホルダーだね」=“That's a shisa key chain.”
 「そうなのよ。ほら、見て……可愛いと思わない？　うふふ」=“Oh, yeah. Look at ....... Isn't it cute?　Mmm-hmm.”
-「うん、そうだね。でもさぁ……シーサーって魔除けなんでしょう？　可愛くていいのかなぁ」=Yeah, I guess so." But you know, ...... Shisa is to ward off evil, right?　I wonder if it's cute."
+「うん、そうだね。でもさぁ……シーサーって魔除けなんでしょう？　可愛くていいのかなぁ」=“Yeah, I guess so. But you know, ...... Shisa is to ward off evil, right?　I wonder if it's cute.”
 「ふふ、いいのよ。だって、これは魔除けなんかじゃなく、キーホルダーなんだもの」=“It's okay. It's not an amulet, it's a key chain.”
 「怖かったら、きっと一つも売れないわ。これぐらい可愛いのがちょうどいいと思わない？」=“If it was scary, it wouldn't sell a single copy. Don't you think something as cute as this is just right?”
 「まあ、たしかに……魔除け級に怖いキーホルダーなんて、下げて歩きたくないよね……」=“Well, I certainly don't want to walk around with a ...... scary key ring that's supposed to ward off evil. ......”

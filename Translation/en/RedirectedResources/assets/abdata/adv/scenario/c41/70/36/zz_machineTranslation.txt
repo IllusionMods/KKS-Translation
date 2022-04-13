@@ -1,9 +1,9 @@
-「島で遊ぶって言ったら海なわけだけど、何か海でしたいことってある？」="So, when you say play on the island, you mean the ocean.
-「海といえばやっぱりスイカ割り……だけど、今すぐ用意するのは難しいし、シンプルに泳ぐ？　どっちが速く泳げるか競争とか！」=I'm sure the ocean is the best place to split a watermelon ......, but it's hard to prepare one right now, so why not simply swim?　Maybe a race to see who can swim faster!"
+「島で遊ぶって言ったら海なわけだけど、何か海でしたいことってある？」=“So, when you say play on the island, you mean the ocean.”
+「海といえばやっぱりスイカ割り……だけど、今すぐ用意するのは難しいし、シンプルに泳ぐ？　どっちが速く泳げるか競争とか！」=“I'm sure the ocean is the best place to split a watermelon ......, but it's hard to prepare one right now, so why not simply swim?　Maybe a race to see who can swim faster!”
 （なぜか男らしいチョイスだ……）=(Why, it's a manly choice: ......)
 「泳ぎに自信あるの？」=“Are you a good swimmer?”
-「え？　うーん、自信あるのって聞かれて即答するレベルじゃないけど……キミと勝負したら純粋に楽しいかなって」=What?"　Well, I'm not at the level of confidence to give a quick answer when asked, but I thought it would be pure fun to compete with ...... you."
-「そう言われると、男としては断れないな。よーし、勝負だ」=When you put it like that, as a man, I can't say no." All right, let's play."
+「え？　うーん、自信あるのって聞かれて即答するレベルじゃないけど……キミと勝負したら純粋に楽しいかなって」=“What?　Well, I'm not at the level of confidence to give a quick answer when asked, but I thought it would be pure fun to compete with ...... you.”
+「そう言われると、男としては断れないな。よーし、勝負だ」=“When you put it like that, as a man, I can't say no. All right, let's play.”
 「それじゃ準備体操しなきゃ。まだお互いに知り合って日が浅いし、全力で勝負すればきっともっと仲良くなれるよ」=“Then I have to do some warm-up exercises. We've only known each other for a short time, and I'm sure we'll get to know each other better if we give it our all.”
 「だね、親睦を深めよう」=“Yeah, let's get to know each other.”
 （[H名]って優しい女の子なイメージがあったけど、意外と活発なのかな？　とにかく手は抜かずにやろう）=(I had an image of [H名] as a gentle girl, but is she surprisingly active?　Anyway, let's not cut corners.)

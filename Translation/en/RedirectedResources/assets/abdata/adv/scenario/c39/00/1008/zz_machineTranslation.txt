@@ -14,7 +14,7 @@
 「え……じゃあ俺……このまま抱き締めたりした方がいい？」=“Yeah ...... should I ...... just hug her or something?”
 「あいっ！？　なんでそうなるのー？　まぁ、抱き締められるのは……嫌じゃないけど……」=“What?　Why do you say that?　Well, I don't mind ...... being hugged, but ......”
 「いやほら、海ほたるがこんなに頑張って光ってるんだから。俺も求愛行動……した方がいいかなって」=“I'm not sure what to do, but I'm going to do it. I thought I should make a courtship move .......”
-「えへへ、キミは面白いねー。でもほんとに抱き締めるなら、手の中の海ほたるは海に返してあげてー」="Hehe, you're funny. "You're funny, but if you really want to hug me, you should give the sea fireflies in your hands back to the sea.
+「えへへ、キミは面白いねー。でもほんとに抱き締めるなら、手の中の海ほたるは海に返してあげてー」=“Hehe, you're funny. You're funny, but if you really want to hug me, you should give the sea fireflies in your hands back to the sea.”
 「あ、そっか……[H名]の背中とかに付いちゃうもんね」=“Oh, that's right, ...... you'll get it on your back or something.”
 「それもあるけど……自分達だけ愛し合ってたら、海ほたる達が可哀相さー」=“That's one thing, but ...... if we only loved each other, we'd feel sorry for the sea fireflies.”
 「確かに……こんなに綺麗に光ってるだもんね。愛し合う相手がいる所に返してあげよう」=“You're right, ...... shines so beautifully. I'll give it back to the one who loves me.”
@@ -26,9 +26,9 @@
 「はは、[H名]は赤く光るんだね」=“Haha, [H名] glows red, doesn't it?”
 「うぅ、そういうキミだって……ちょっと顔、赤くなってないー？」=“Ugh, you're also ...... a little red in the face.”
 「まぁ……カッコつけて[H名]の方言を使ったりしたから……やっぱりちょっと照れ臭いし……」=“Well, ...... I was trying to be cool and use the [H名] dialect, so ...... it's still a little embarrassing. ......”
-「えへっ、でも嬉しかったよ。ちゃんと覚えてくれてたんだね……『かなさんどー』は『愛してる』って意味だって」="I'm from this island. You remembered me. ...... "Kana-sando" means "I love you".
+「えへっ、でも嬉しかったよ。ちゃんと覚えてくれてたんだね……『かなさんどー』は『愛してる』って意味だって」=“I'm from this island. You remembered me. ...... Kana-sando means I love you.”
 「もちろん。[H名]の方言は全部好きだけど、中でも一番ってくらい好きな言葉だからね」=“Of course. [I like all your dialects, but this is the one I like the most.”
 「じゃあ、自分からも言うね……かなさんどー」=“Then I'll tell you myself. ...... Kana-sando.”
-「……ありがとう。やっぱり何度聞いても、心がじんわりするよ」="Thank you for ....... "Thank you for . No matter how many times I hear it, it always makes me feel warm inside.
+「……ありがとう。やっぱり何度聞いても、心がじんわりするよ」=“Thank you for ....... Thank you for . No matter how many times I hear it, it always makes me feel warm inside.”
 「キミが喜んでくれるなら、何度だって言ってあげるよー。ここには自分達と、海ほたるしかいないからねー」=“I'll say it as many times as it takes to make you happy. We're the only ones here.”
 「海ほたる達も、きっと隠れて愛を囁き合ってたんだろうね。もうちょっとだけ、お邪魔させてもらおうか」=“I'm sure the sea fireflies have been whispering their love to each other in secret. I'm sure they were whispering about love in secret.”

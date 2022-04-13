@@ -1,5 +1,5 @@
-「ねぇねぇ、中にいるかなー？　キミに会いたくて来ちゃったんだけど、中に入れてくれる……？」=Hey, hey, hey, is he in there?　I came here to see you, will you let me in ......?"
-「いらっしゃい。[H名]だったらいつでも大歓迎だよ」=Welcome. You're always welcome at [H名]."
+「ねぇねぇ、中にいるかなー？　キミに会いたくて来ちゃったんだけど、中に入れてくれる……？」=“Hey, hey, hey, is he in there?　I came here to see you, will you let me in ......?”
+「いらっしゃい。[H名]だったらいつでも大歓迎だよ」=“Welcome. You're always welcome at [H名].”
 「えへへ、ありがとっ。大好きだよー」=“Thanks a lot. I love you!”
-「邪魔になっちゃうかもしれないけど、しばらくここにいさせてくれる？　キミと、少しでも一緒にいたいの……」=I don't want to intrude, but can I stay here for a while?　I'd like to spend a little time with you. ......"
-「いないのかな？　残念……。はぁ……会いたいよぅ……」=I wonder if he's around."　Too bad. ...... Sigh ...... I miss you so much ......"
+「邪魔になっちゃうかもしれないけど、しばらくここにいさせてくれる？　キミと、少しでも一緒にいたいの……」=“I don't want to intrude, but can I stay here for a while?　I'd like to spend a little time with you. ......”
+「いないのかな？　残念……。はぁ……会いたいよぅ……」=“I wonder if he's around.　Too bad. ...... Sigh ...... I miss you so much ......”

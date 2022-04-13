@@ -327,7 +327,7 @@
 「な、なによ……あんまり見つめられると……恥ずかしいから……」=“What? ...... I'm embarrassed if you stare at me too ...... much.”
 「目だけで通じ合えるような仲になりたいわね。ちなみに、私は今しつこいって思ってるわ」=“I'd like to be able to communicate with just my eyes. By the way, I think I'm being pushy now.”
 「好きなだけ見ていいけど、流石に人目は気にしてね？」=“You can stare all you want, but you have to be careful what you say.”
-「もう、見過ぎよ。好きなだけって言ったけど、限度というものがあるわ」="You're looking too much. I said "as much as you want," but there's a limit.
+「もう、見過ぎよ。好きなだけって言ったけど、限度というものがあるわ」=“You're looking too much. I said as much as you want, but there's a limit.”
 「はぁ……顔も下半身もだらしない事になってる。そろそろやめないと怒るわよ」=“My ...... face and bottom are looking so disheveled. If you don't stop now, I'm going to be very angry.”
 「私にも感情はあるの。そこを踏まえて行動して欲しいものね」=“I have feelings too, you know. I have feelings too, and I want you to take that into account.”
 「あっ、恋人繋ぎね。これ……少し憧れだったのよ」=“Oh, lover's touch. It's ...... something I've always wanted to do.”
@@ -357,7 +357,7 @@
 「あ……しばらくの間お別れね。また会いましょう」=“I'll talk to you soon." "Oh, ......, I'm leaving you for a while. I'll see you soon.”
 「もう行っちゃうの？　う、うぅん、なんでもない……またね」=“You're leaving?　Mm-hmm, nothing. ...... See you later.”
 「えぇ、それじゃまた。今度は私から話しかけるわね」=“Yeah, I'll see you later. I'll talk to you this time, okay?”
-「あっ、う、うん……いいわよ。恋人なら……当然の事だものね」="Oh, yeah, ...... okay. I'll talk to you later." - Oh, no, ...... that's okay. That's what lovers do .......
+「あっ、う、うん……いいわよ。恋人なら……当然の事だものね」=“Oh, yeah, ...... okay. I'll talk to you later. - Oh, no, ...... that's okay. That's what lovers do .......”
 「ごめんなさい……ちょっと、心の準備が出来てないの」=“I'm sorry. ...... I'm just not ready for this.”
 「お願い、体が変なのよ。もう我慢できないから……抱いて欲しいの」=“Please, my body is acting weird. I can't take it anymore and I want you to ...... hold me.”
 「ぁっ……嬉しい。もう私の事、好きにしていいからね」=“Oh, ...... I'm so glad. You can do whatever you want with me now.”

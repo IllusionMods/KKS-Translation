@@ -15,7 +15,7 @@
 「喜んで座布団がわりにならせて貰います！」=“I'll gladly be your cushion!”
 「フフッ、良い子ね」=“Mmm. Good girl.”
 「じゃあ、ここに座りなさい。遠慮なく下僕の太股に座らせてもらうわ」=“Then sit here. Feel free to sit on my servant's thighs.”
-「太股……。それって、抱っこするような体勢のような……？」="Balance?" "Thighs ....... That's like a hugging position. ......?
+「太股……。それって、抱っこするような体勢のような……？」=“Balance? Thighs ....... That's like a hugging position. ......?”
 「……座布団というよりも椅子だったわね。でも良いわ。どちらでも同じだもの」=“...... It was more of a chair than a cushion. But that's okay. It's the same either way.”
 「これって、もしかしてご褒美だった……！？」=“Could this be a reward for ......?”
 「ほら、ぐだぐだ言っていないで、早くしなさい」=“Come on, don't be shy. Come on.”

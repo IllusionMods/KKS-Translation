@@ -239,7 +239,7 @@
 「俺と一緒に遊びに行こうよ」=“Come hang out with me.”
 「いいですなぁ、何をして遊びますか？」=“That's great. What do you want to do for fun?”
 「今は無理ですなぁ……ちょっと気分じゃないので」=“I can't right now. ...... I'm not in the mood.”
-「良かったら、ワタシと遊びに行ってみないかい？」="I'm not in the mood." - "Would you like to go out with me?
+「良かったら、ワタシと遊びに行ってみないかい？」=“I'm not in the mood. - Would you like to go out with me?”
 「嬉しいよ、それじゃあ付き合ってもらうね」=“I'd love to. I'd like you to go with me.”
 「そっか、行けないんじゃ仕方がないんだなぁ」=“Well, if you can't go, I guess I'll just have to do it.”
 「一緒に何か体験しに行かない？」=“Do you want to go and experience something with me?”
@@ -290,7 +290,7 @@
 「……むむ、ファンとして見に行くべきか」=“...... Mmm, should I go see it as a fan?”
 「おススメの漫画、教えてよ」=“What manga do you recommend?”
 「お安い御用ですぞ。どんなジャンルがいいか言ってくれれば厳選するよ」=“It's a small price to pay. Tell me what genre you like and I'll choose carefully.”
-「好きだよ、[H]。[H]はどう、かな？」="I like [H]. [How about "H," huh?
+「好きだよ、[H]。[H]はどう、かな？」=“I like [H]. [How about H, huh?”
 「き、急になんでそのことをっ！？　ワ、ワタシも好きだよ」=“Why did you suddenly say that?　I like it, too.”
 「嫌いなんだなぁ……あぁ、ウソウソ、落ちこまないでぇ」=“You don't like it. ...... Oh, no, no, no. Don't be depressed.”
 「理想の結婚式とかってある？」=“What's your ideal wedding?”

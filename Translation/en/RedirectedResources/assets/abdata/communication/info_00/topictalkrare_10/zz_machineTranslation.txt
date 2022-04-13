@@ -84,7 +84,7 @@
 「言うなれば死の星砂。デススターサンド。いや、スターダストデスストームか……汝はどっちがいい？」=“Don't be fooled by its appearance. Death Star Sand. No, Stardust Deathstorm. ...... Which do you prefer?”
 「どっちがいいと言われても……」=“Which do you prefer, ......?”
 「むぅ、ノリが悪いぞ。こういう時は、文字数が多い方が格好いいと相場が決まっておるだろう」=“Mmm, you're not getting anywhere. It's always better to have more words than less.”
-「中身よりイメージで印象が変わるってわけか。『星の砂』みたいにネーミングって大事なんだね」="So it's the image that gives the impression, not the content. I guess naming is just as important as naming "The Sands of Stars.
+「中身よりイメージで印象が変わるってわけか。『星の砂』みたいにネーミングって大事なんだね」=“So it's the image that gives the impression, not the content. I guess naming is just as important as naming The Sands of Stars.”
 「実際のところ、ウムイの鐘みたいな恋人達の聖地って何か御利益あるのかな？」=“In fact, do you think that a holy place for lovers like The Umui Bell would be of any benefit?”
 「当然だ。想いのエネルギーは無限大。魔術を使う際にも、人が内に宿すマナを消費するのだ」=“Of course. The energy of thoughts is infinite. The energy of thoughts is infinite, and even the use of magic consumes the mana that people carry within them.”
 「人の想い……マナが集いし恋人の聖地に、じゅじゅちゅ的な力が満ちるのは自然な流れよ」=“It's only natural that a lover's sanctuary, where people's thoughts ...... of mana are gathered, would be filled with juju-like power.”

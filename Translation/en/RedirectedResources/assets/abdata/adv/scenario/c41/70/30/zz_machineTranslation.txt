@@ -1,8 +1,8 @@
-「お土産を売ってる所っていっぱいあるけど、場所によってラインナップが全然違うから飽きないよね」=There are lots of places that sell souvenirs, but the lineup varies so much from place to place that it never gets old."
+「お土産を売ってる所っていっぱいあるけど、場所によってラインナップが全然違うから飽きないよね」=“There are lots of places that sell souvenirs, but the lineup varies so much from place to place that it never gets old.”
 「本当にそうだよね。あ、見て見て、この剣なんてさっき見た場所にはなかったよ。宝石が散りばめてあって格好いいなぁ」=“I really do. Oh, look, look, this sword was not where I saw it earlier. It's so cool, it's covered in jewels.”
-「え、この剣のキーホルダー？　いや普通にわかるけど、[H名]はこっちの髪飾りとかの方が興味あるかと思ったよ」=What, this sword keychain?"　No, I know it's normal, but I thought [H名] might be more interested in a hair ornament or something over here."
-「あ、この髪飾りも女の子っぽくて可愛いね。うーん……でも……やっぱりこっちの剣の方が目が行っちゃうんだよね」=Oh, and this hair ornament is pretty girly, too. Hmmm ...... but ...... I still have my eyes on this sword more."
-「ちょうど赤い宝石の剣と青い宝石の剣の２種類あるし、よかったら一緒に観光した記念に買う？　好きな方選んでいいよ」=I have a red gem sword and a blue gem sword, if you want to buy one to commemorate our sightseeing together.　You can choose whichever you like."
-「えっ、買う買う！　赤と青……う～～ん……すごく悩むけど、あーでも……青！　青い宝石の剣にする！　選ばせてくれてありがとう！」=What? I'll buy it!"　Red and blue ...... hmmm ...... I'm so torn, ah but ...... blue!　I'll take the blue gem sword!　Thanks for letting me choose!"
-「あはは、喜んでもらえてよかったよ。じゃあレジに行こうか」=I'm glad you're pleased. Shall we go to the cash register then?"
+「え、この剣のキーホルダー？　いや普通にわかるけど、[H名]はこっちの髪飾りとかの方が興味あるかと思ったよ」=“What, this sword keychain?　No, I know it's normal, but I thought [H名] might be more interested in a hair ornament or something over here.”
+「あ、この髪飾りも女の子っぽくて可愛いね。うーん……でも……やっぱりこっちの剣の方が目が行っちゃうんだよね」=“Oh, and this hair ornament is pretty girly, too. Hmmm ...... but ...... I still have my eyes on this sword more.”
+「ちょうど赤い宝石の剣と青い宝石の剣の２種類あるし、よかったら一緒に観光した記念に買う？　好きな方選んでいいよ」=“I have a red gem sword and a blue gem sword, if you want to buy one to commemorate our sightseeing together.　You can choose whichever you like.”
+「えっ、買う買う！　赤と青……う～～ん……すごく悩むけど、あーでも……青！　青い宝石の剣にする！　選ばせてくれてありがとう！」=“What? I'll buy it!　Red and blue ...... hmmm ...... I'm so torn, ah but ...... blue!　I'll take the blue gem sword!　Thanks for letting me choose!”
+「あはは、喜んでもらえてよかったよ。じゃあレジに行こうか」=“I'm glad you're pleased. Shall we go to the cash register then?”
 （髪飾りより剣の方が好きなんて、ちょっと変わってるなぁ。でも、[H名]がちょっとだけ身近に感じられるようになったかも……）=(It's a bit odd that you prefer swords to hair ornaments. But maybe I feel a little bit closer to [H名] now. ......)

@@ -88,7 +88,7 @@
 「いや、違うよ！？」=“No, it's not!”
 「ウムイの鐘の伝説って、いつ頃からあるんだろう？」=“How long has the legend of The Umui Bell been around?”
 「うーん……これは私の予想なのですが、元々あの場所には恋愛に関わる言い伝えがあったと思うのです」=“Hmmm... ...... This is just a guess on my part, but I think there was originally a legend about love in that place.”
-「あそこで告白したら必ず結ばれる……みたいな感じのやつです」="Something like, "If you confess your love there, you will get married. ......
+「あそこで告白したら必ず結ばれる……みたいな感じのやつです」=“Something like, If you confess your love there, you will get married. ......”
 「その言い伝えがあったからこそ、鐘を作って、今の伝説に繋がるのではないでしょうか？」=“Isn't it because of that legend that the bell was made and that it became the legend it is today?”
 「おお……なんか説得力あるね。調べてみたら面白いことが分かりそうかも」=“Oh, ...... is kind of convincing. I'm sure you'll find out something interesting.”
 「男がどうしても目がいっちゃうところって、おっぱ……どこかわかる？」=“Do you know where a man's eyes are always drawn to boobs ......?”

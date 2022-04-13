@@ -56,7 +56,7 @@
 「花を愛でていらしたのですね、貴方の愛を一身に浴びた結果でしょう」=“You've been loving it, it must be the result of all the love you've given it.”
 「愛って言うとすごいけど、たしかにずっと会いにいってたからね」=“Love is a great word, but I've been coming to see you.”
 「愛は日々、段々と育まれるものではないでしょうか。きっと伝わっておりますよ」=“Love is something that grows day by day, isn't it? I'm sure she understands.”
-「愛は日々、段々と育まれるものか、いい言葉だね」="Love grows day by day." That's a nice word.
+「愛は日々、段々と育まれるものか、いい言葉だね」=“Love grows day by day. That's a nice word.”
 「私がそうあってほしいと思っていることです」=“That's what I'm hoping for.”
 「実際の愛はわかりませんが、人も毎日会っていればお互いのことを知れますから」=“I don't know about actual love, but I do know that people get to know each other better when they see each other every day.”
 「うん、俺もそう思うよ。挨拶するだけでも違うしね」=“Yeah, I agree with you. I agree with you. Even just greeting each other makes a difference.”
@@ -70,7 +70,7 @@
 「マンタに乗りたいとかじゃないんだ……」=“It's not like I want to ride a manta ray. ......”
 「海ほたるって英語でシーフェアリーっていうらしいよ」=“I heard Sea Fireflies are called Sea Fairies in English.”
 「横文字は苦手ですが、その名前はとてもわかりやすいですね」=“I'm not good with horizontal letters, but that name is very easy to understand.”
-「海の妖精って、すごいよね。でもそれぐらい綺麗だもんね」="Sea fairies are amazing, aren't they? "Sea fairies are amazing, but that's how beautiful they are.
+「海の妖精って、すごいよね。でもそれぐらい綺麗だもんね」=“Sea fairies are amazing, aren't they? Sea fairies are amazing, but that's how beautiful they are.”
 「妖精をお見かけしたことはございませんが、きっとあのような姿だと思います」=“I've never seen a fairy before, but I'm sure they look like that.”
 「俺からしてみたら、きみも妖精みたいに可愛いけどね」=“To me, you're as pretty as a fairy.”
 「まあ、相変わらずお上手ですね。和の心を大事にする妖精でありたいです」=“Well, you're as good as ever. I want to be a fairy who respects the spirit of harmony.”

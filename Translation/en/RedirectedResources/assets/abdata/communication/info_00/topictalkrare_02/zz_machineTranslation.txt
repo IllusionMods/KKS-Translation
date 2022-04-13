@@ -59,7 +59,7 @@
 「マンタって不思議だよね……どうしてあんな姿なんだろう」=“Manta rays are mysterious. ...... I wonder why they look like that.”
 「おほほほ！　問いただして差し上げますわ！」=“Ohohoho!　I'm going to ask you a question!”
 「言葉、通じるかなぁ？」=“Do you think they'll understand me?”
-「コミニュケーションの基本は、気合いと熱意！　そして気品と高笑いですわ！　おほほほ！」="The basis of communication is energy and enthusiasm.　"The basis of communication is spirit, enthusiasm, grace and a good laugh!　Ho ho ho!
+「コミニュケーションの基本は、気合いと熱意！　そして気品と高笑いですわ！　おほほほ！」=“The basis of communication is energy and enthusiasm.　The basis of communication is spirit, enthusiasm, grace and a good laugh!　Ho ho ho!”
 「そっか……マンタ、わかってくれるといいね」=“Okay. ...... Manta, I hope you understand.”
 「おほほほほ、その時が楽しみですわ！」=“Oh, I'm looking forward to that!”
 「海ほたるって不思議だね。どうして光るんだろう」=“Sea fireflies are mysterious. I wonder why they glow.”

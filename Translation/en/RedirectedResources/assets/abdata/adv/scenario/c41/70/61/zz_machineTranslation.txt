@@ -1,5 +1,5 @@
 「ここのオイル使っていいみたいだね。[H名]さえよかったら塗っていく？」=“I guess I can use the oil here. If only [H名] would like to apply it?”
 「使っていいなら塗ってみようかな」=“If you don't mind, I'll paint it on.”
-「あ、俺が塗ってあげるよ？」=Oh, I'll paint it for you, okay?"
-「なんだか下心を感じちゃうけど……キミならいいかな、それじゃお願いできる？」=I'm kind of getting the ulterior motive, but I'm sure ...... you'd be okay with it, so can you do me a favor?"
+「あ、俺が塗ってあげるよ？」=“Oh, I'll paint it for you, okay?”
+「なんだか下心を感じちゃうけど……キミならいいかな、それじゃお願いできる？」=“I'm kind of getting the ulterior motive, but I'm sure ...... you'd be okay with it, so can you do me a favor?”
 「あはは、任せておいてよ」=“Ha-ha-ha. Leave it to me.”

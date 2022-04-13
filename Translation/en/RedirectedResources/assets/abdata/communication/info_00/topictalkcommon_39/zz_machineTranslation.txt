@@ -35,7 +35,7 @@
 「島の海にいる熱帯魚って、飼ったりしたら怒られるかな？」=“Would you be offended if I kept tropical fish in the sea on the island?”
 「うーん、そもそも捕まえるだけで一苦労さー。自然に暮らしてるのを見るのが一番よー」=“Well, it's hard enough to catch them in the first place. It's best to see them in their natural habitat.”
 「名産品ってだけで、なんか食べたくなるよね」=“Just the fact that it's a local product makes me want to eat it.”
-「みんなご当地モノには弱いさー。折角来たんだからって特別感があるからねー」="Everyone has a weakness for local products. "Everyone loves local products because it gives them a special feeling that they have come here for a reason.
+「みんなご当地モノには弱いさー。折角来たんだからって特別感があるからねー」=“Everyone has a weakness for local products. Everyone loves local products because it gives them a special feeling that they have come here for a reason.”
 「旅行で買ったモノって、後で何でこんなの買ったんだろうって思うことない？」=“Don't you ever buy something on a trip and later wonder why you bought it?”
 「あるあるー。買った直後はすっごくいい物に見えるんだけどねー」=“Yes, I do. Right after you buy it, it looks really good.”
 「名物があるってことは、それを作ってる名人がいるってことだよね」=“If there is a specialty, it means there is a master who makes it, right?”

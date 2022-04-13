@@ -3,5 +3,5 @@
 「たしかにロマンチックな話だったね。しかしなるほど、[H名]は告白したい派か」=“It was a romantic story, wasn't it? But I see... [H名] wants to confess.”
 「えっ……べ、別にしたい派ってわけじゃ……その、好きな人なら、されるのも大歓迎だよ……って、ボク何言っちゃってるんだろうね、あはは」=“I'm not saying that I want to ...... do it, but if you like it, you're welcome to do it. ...... What am I saying? I don't know. Ha-ha-ha.”
 「いや、そこの所もっと詳しく」=“No, I need you to be more specific.”
-「な、なんで拘るの？　詳しくって言われても……その……あっ、そろそろ休憩時間終わるから、練習に戻ろうっ！」=Why are you so obsessed with it?　If you want me to elaborate on that...... that...... oh, break time is almost over, so let's get back to practice!"
+「な、なんで拘るの？　詳しくって言われても……その……あっ、そろそろ休憩時間終わるから、練習に戻ろうっ！」=“Why are you so obsessed with it?　If you want me to elaborate on that...... that...... oh, break time is almost over, so let's get back to practice!”
 （逃げたな……）=(You got away with it. ......)
