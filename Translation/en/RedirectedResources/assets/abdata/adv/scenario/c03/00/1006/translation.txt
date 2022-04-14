@@ -7,7 +7,7 @@
 「……はいです。あなたと一緒に、こ、この鐘……ウムイの鐘を鳴らしたいのですっ」=“...Yes. The bell... I want to ring the bell of Umui... with y-you!”
 「ありがとう」=“Thank you.”
 「って、こ、これ、大げさすぎですか？　プロポーズじゃないんだぞー！　みたいな……」=“Wait, a-aren't we making a big deal outta this? Like ‘it's not a proposal you know’, or something along those lines...”
-「……すみませんです。変なこと言ったですよ」=...I'm super sorry. I said something strange.”
+「……すみませんです。変なこと言ったですよ」=“...I'm super sorry. I said something strange.”
 「……プロポーズか。うん、似たようなものだよ」=“A proposal, huh. Yeah, it's kinda the same actually.”
 「似たようなものなのです！？」=“It is!?”
 「だって、この鐘は『二人の恋が永遠に続きますように』って願いを込めて鳴らすものなんだよ」=“I mean, you're supposed to ring the bell while wishing 'let our love last forever'.”

@@ -6,7 +6,7 @@
 「すまんな、今は構ってやれる暇がない」=“Sorry, I don't have time for this right now.”
 「んぅぅ～、すぅ～、んふふっ……ふぁぅ……」=“Nnnnn~, Ssuu~, Nnfufu--... Fuah......”
 「んんぅ……何を見ている？　そんなに怒鳴られたいか？」=“Nnnn... What are you looking at? You really want to be yelled at that badly?”
-「んっ、どこを見ている？　ジロジロ見るな……減る」=“Nn--, what are you looking at? Don't stare so much... knock it off.“
+「んっ、どこを見ている？　ジロジロ見るな……減る」=“Nn--, what are you looking at? Don't stare so much... knock it off.”
 「どこかに行くのか話すのか、結局何がしたいのだ？」=“Talking or going somwhere, just what is it you want?”
 「一緒なら入れると思ったか？　残念、そこは男子禁制だ」=“Did you think you'd get in if I was with you? Sorry to say, that place is off-limits to men.”
 「ん？　どうした？　用があるなら、聞いてやるぞ」=“Hm? What's up? If you need something, I'll hear you out.”
@@ -246,7 +246,7 @@
 「暇をしているなら、島を観光しに行かないか？」=“If you're free, why not go sightseeing on the island?”
 「ちょうど良いタイミングだったか。じゃあ、さっそく歩くとしよう」=“Perfect timing, then. Well, let's get to walking.”
 「そうか……では、またの機会にだな」=“I see... well, maybe some other time.”
-「あのさ、これから二人で遊ばない？」=Hey, why don't we go play together now?”
+「あのさ、これから二人で遊ばない？」=“Hey, why don't we go play together now?”
 「フフッ、良い提案だな。私も身体を動かしたい気分だったんだ」=“Huhu, good suggestion. I felt like exercising, too.”
 「その誘いに乗りたい所ではあるが……悪い。少しだけ疲れているんだ」=“I want to take you up on that, but... shame. I'm a little tired.”
 「どうだ？　私と遊びに行かないか？」=“How about it? Would you like to go play with me?”

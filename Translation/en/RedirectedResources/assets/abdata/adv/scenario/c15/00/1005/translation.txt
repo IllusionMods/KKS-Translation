@@ -4,7 +4,7 @@
 係員さん=Staff
 「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're about to have a bonfire. If you'd like to join us, please pair up.”
 「キャンプファイヤーだって。参加しようよ」=“They said they're having a bonfire. Let's join them.”
-「んー……まぁ、キミがしたいなら、いいぞ」=“Nh-... well, fine, if that's what you want.
+「んー……まぁ、キミがしたいなら、いいぞ」=“Nh-... well, fine, if that's what you want.”
 「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Is everyone paired up? ...then I'll put the music on as soon as everyone's ready.”
 「…………うー」=“...uuu-”
 （……[H名]、さっきから落ち着かないな。きょろきょろしてる）=(...[H名] has been fidgeting for a while now. She's acting very circumspect, in fact.)

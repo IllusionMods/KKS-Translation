@@ -285,7 +285,7 @@
 「うーん、そげん時次第やからなんとも言えんね……」=“Mmm-hmm, it depends... I can't say for sure...”
 「えっと、間の丁度よかとこってダメなん……？」=“Er, um, is there something wrong with just the right place in between...?”
 「たまに、無性にしたくなることってある？」=“Are there times when you just want to do something?”
-「そうやなぁ……めっちゃ掃除しとうなったりするかな？」=Yeah, I guess... I suppose I really want to clean and tidy up?”
+「そうやなぁ……めっちゃ掃除しとうなったりするかな？」=“Yeah, I guess... I suppose I really want to clean and tidy up?”
 「私はお菓子作りやな、めっちゃ作りたくなる時があるんよ」=“There are times when I really want to make sweets.”
 「好きな季節ってある？」=“Do you have a favorite season?”
 「私は夏が好きやな。あ、でも冬も冬でええんよなぁ……」=“I like summer. Ah, but winter's good, too...”

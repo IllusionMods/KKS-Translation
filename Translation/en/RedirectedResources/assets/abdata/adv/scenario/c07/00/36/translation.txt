@@ -4,5 +4,5 @@
 「さぁて、二人で競えるレジャーはないかな……」=“Let's see, is there something that we can both compete in...”
 「一緒に楽しむものなんだから、競争する様なものはないと思うよ」=“They're all for us to enjoy with each other, so I don't think there's going to be anything that we can compete in.”
 「あったとしても、勝てる自信ないし……やめておきたいな」=“And even if there is, I'm not sure that I'd be able to win... And so I'd rather not.”
-「おいおい、男のくせに情けないぞ！　よしっ、お前に気合を入れる為に稽古をするか！」=“Come on, you're so pathetic for a guy! Right!  Let's practice to get you all fired up!
+「おいおい、男のくせに情けないぞ！　よしっ、お前に気合を入れる為に稽古をするか！」=“Come on, you're so pathetic for a guy! Right!  Let's practice to get you all fired up!”
 「いや普通に遊ぼうよ」=“No, let's just play like normal.”

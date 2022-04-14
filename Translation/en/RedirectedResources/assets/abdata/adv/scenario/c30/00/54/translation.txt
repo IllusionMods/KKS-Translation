@@ -6,7 +6,7 @@
 「いやいや、そんな深く考えなくていいよ。どっちかと言えば、友達同士で呼び合うくらいの感じで……ひとまずお試しでダメかな？」=“You don't have to overthink it. If anything, don't friends call each others by nicknames? It'll be the same sort of feeling. For now, can't we do it just as a test?”
 「ううん。キミがそうしたいならやってみましょう」=“Alright. If you're so interested in it, then let's do it.”
 「やったね！　それじゃ……俺のことは[Pあだ名]って呼んでほしいな」=“Yay! Then... Can you call me by [Pあだ名]?”
-「わわっ、私が付けるんじゃなくて、自分で決めてるのね……しかもその呼び方……本当にそれでいいの？」=Wawa! So instead of me picking one, you already picked one out for yourself beforehand? And a nickname like that to boot... Are you sure about it?”
+「わわっ、私が付けるんじゃなくて、自分で決めてるのね……しかもその呼び方……本当にそれでいいの？」=“Wawa! So instead of me picking one, you already picked one out for yourself beforehand? And a nickname like that to boot... Are you sure about it?”
 「うん。この呼び方がいい。[H名]から、こうやって呼ばれたいんだ」=“Yeah. That name is fine. I'd like you to call me by that name.”
 「もう……そう言われたら悪い気はしないけど……その、私から言うのは恥ずかしいから、先にキミが呼んでくれる？」=“Geez... if you say so, then I won't feel bad about it... but, that is, it's embarrassing for me to say it first. Won't you call me by my nickname first?”
 「全然いいよ。実は自分のだけじゃなくて、[H名]の愛称も考えてたんだよね」=“I don't mind at all. Actually, I have already thought of a good nickname for you, [H名], alongside my own.”

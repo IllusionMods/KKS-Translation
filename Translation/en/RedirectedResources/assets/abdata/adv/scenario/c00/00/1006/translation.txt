@@ -7,7 +7,7 @@
 「うん、鐘を鳴らした二人は必ず結ばれるって噂があるんだよね」=“Yeah, there's this rumor that when a couple rings the bell, they stay together forever.”
 「そうそう、それよ。ふふ……きっとここを訪れない恋人はいないんじゃないかしら？」=“Ah, so, that's it. Fufu... I bet there isn't a single lover in the world who doesn't end up here.”
 「ここが人気スポットなのも大納得だね」=“It's no wonder this place is so popular.”
-「でも、必ず結ばれるって……どういう意味なのかしらね」=But I wonder what it means... when they say they'll always be together.”
+「でも、必ず結ばれるって……どういう意味なのかしらね」=“But I wonder what it means... when they say they'll always be together.”
 「そうだね……じゃあ、鳴らして確かめてみよう！」=“Well then... right, let's ring it, and find out!”
 「ふふふ、でもいいの？　そんなに簡単に決断しちゃって」=“Fufufu, sure that's okay? You made the decision so easily.”
 「駄目なの？」=“So, this isn't good?”

@@ -24,7 +24,7 @@
 「いつまでも見つめていたい、目を離せなくなっちゃうような女の子だから」=“I just want to gaze at you forever. You're the kind of girl I can't take my eyes off of.” 
 「あ、あなたからは、そんな風に見えてたですか……？」=“...th-that's really the way that you see me...?”
 「うん、だから……俺は自然ときみのことを好きになって、これからもずっとそばにいたいと思えたんだ」=“Yeah, that's why... I just naturally fell in love with you... you made me feel like I wanted to be there for you, forever.”
-「誰よりも近いところで、ずっときみのそばにいたい。二人で笑いあっていたい」=I want to be close to you, closer than anyone else. I want us to laugh together.”
+「誰よりも近いところで、ずっときみのそばにいたい。二人で笑いあっていたい」=“I want to be close to you, closer than anyone else. I want us to laugh together.”
 「……すごく……すごく嬉しいのです。こちらこそ、その……よろしくお願いしますのです！」=“...wow... I'm super happy. I'm, um, really looking forward to being with you!”
 「あ、ありがとうございます？」=“Uh, thanks?”
 「はわっ！？　テンションおかしくなっちゃったのです！」=“Awawa!? The tension is driving us crazy!”

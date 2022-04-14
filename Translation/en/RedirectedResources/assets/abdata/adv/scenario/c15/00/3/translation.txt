@@ -4,6 +4,6 @@
 「お、俺のことが好きだったの？」=“Oh, do you like me?”
 「そ、そうだぞ……ダメなのか？」=“Th-that's right... or is that no good?”
 「ダメなもんか！　俺も、[H名]の事が好きだ……付き合いたいと思ってるよ」=“No, that's not it! I like you too, [H名]... I'd like to go out with you.”
-「そうなのか！？　本当だったら嬉しいぞ？」=Oh, for real!? I'd be happy if that was true, you know?”
+「そうなのか！？　本当だったら嬉しいぞ？」=“Oh, for real!? I'd be happy if that was true, you know?”
 「本当だよ。俺たち、相思相愛なんだ」=“It's true. We're in love with each other.”
 「やったー！　良かった、あたしたち付き合えるんだな？　それじゃあ、よろしくな！」=“Yay! Great, that means we're going out together? Well then, I hope you'll be nice to me from now on!”

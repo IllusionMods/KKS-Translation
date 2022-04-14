@@ -9,7 +9,7 @@
 「おおっ、すっごくカラフルな色をしてるですよー！　綺麗なのです」=“Ooooh, it has so many colors-! It's so pretty!”
 「はっ！　あっちにはすごーくでっかいのがいるですー！」=“Whoa! And there's a huge one right over there-!”
 「えへ、見どころ満点ですね！」=“Ehe, there's so much to see!”
-「俺……[H名]を連れてきてよかったよ」=I'm... glad I brought you here, [H名].”
+「俺……[H名]を連れてきてよかったよ」=“I'm... glad I brought you here, [H名].”
 「どーしてそんなに震えちゃってるですか！？」=“Why are you trembling so much!?”
 「あまりにも無邪気にに喜んでくれるから、嬉しくてさ……」=“Such innocent happiness here... makes me happy, too...”
 「そ、そんな反応をされると、私が困っちゃうですよ？　一緒に笑顔で楽しんでほしいのですっ」=“Y-You're making me speechless with that kind of reaction, you know? I want you to smile and have fun with me!”

@@ -246,7 +246,7 @@
 「暇をしているなら、島を観光しに行かないか？」=“If you're free, why not go sightseeing on the island?”
 「ちょうど良いタイミングだったか。じゃあ、さっそく歩くとしよう」=“Perfect timing, then. Well, let's get to walking.”
 「そうか……では、またの機会にだな」=“I see... well, maybe some other time.”
-「あのさ、これから二人で遊ばない？」=Hey, why don't we go play together now?”
+「あのさ、これから二人で遊ばない？」=“Hey, why don't we go play together now?”
 「フフッ、良い提案だな。私も身体を動かしたい気分だったんだ」=“Huhu, good suggestion. I felt like exercising, too.”
 「その誘いに乗りたい所ではあるが……悪い。少しだけ疲れているんだ」=“I want to take you up on that, but... shame. I'm a little tired.”
 「どうだ？　私と遊びに行かないか？」=“How about it? Would you like to go play with me?”
