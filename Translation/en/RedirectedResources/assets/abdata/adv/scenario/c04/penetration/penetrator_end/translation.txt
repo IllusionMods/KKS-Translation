@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごく良かったわ……３人で交ざりあったからかしら？」=
+「すごく良かったわ……３人で交ざりあったからかしら？」=“That was amazing... was it that good because we all did it together?”

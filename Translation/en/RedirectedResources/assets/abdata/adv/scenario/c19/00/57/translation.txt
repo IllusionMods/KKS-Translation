@@ -6,4 +6,4 @@
 「…………」=“...”
 「って……え？　え？」=“...Eh? Eh?”
 //「ふふっ、まだ寝ぼけてる？」=
-//「私が頑張って気持ちよくするから……あなたは、そのまま楽にしててね」=
+「私が頑張って気持ちよくするから……あなたは、そのまま楽にしててね」=“I'll do my best and make you feel good so... you just relax and enjoy yourself, okay?”
