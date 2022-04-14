@@ -337,7 +337,7 @@
 「わぁっ、暴露しなくていいですっ！　が、頑張ってるだけなのですっ！」=“Awa! You don't need to explose that! I'm just doing my best!”
 「何見てるですか？」=“What are you looking at?”
 「も、もー、そんなにニヤニヤさせたいですか？」=“G-geez- why are grinning like that?”
-「もうダメですっ！　恥ずかしすぎてキスしちゃいますよ！」=“I can't take it anymore! I'm so embarrassed, I'm gonna kiss you!”
+「もうダメですっ！　恥ずかしすぎてキスしちゃいますよ！」=“I can't take it anymore! I'm so embarrassed, I'm gonna kiss you!”
 「あれ……どこを見ちゃってるですか？」=“Um... where are you staring at?”
 「そんなに見てどーするですか？」=“Why are you staring at me?”
 「ジロジロ見る物じゃないです！　そういうのはそういう雰囲気の時だけなのですっ！」=“That's not something you should be staring at! You should do that only when I'm in the mood for it.”
