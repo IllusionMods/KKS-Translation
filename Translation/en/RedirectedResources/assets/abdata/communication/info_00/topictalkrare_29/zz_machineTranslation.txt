@@ -25,7 +25,7 @@
 「ここって、流れ星がよく見えるスポットとして有名なんだよ」=“This is a famous spot for seeing shooting stars.”
 「それは素敵ですね……きっとロマンチックな景色なんでしょう」=“That sounds wonderful. ...... I'm sure it's a romantic view.”
 「お願いするとしたら、どんなことを願う？」=“What would you wish for?”
-「……そうですね。『どんな願いでも叶うんですか？』という質問の回答が欲しいです」="What would you wish for? I would like an answer to the question, "Does any wish come true? I'd like an answer to that question.
+「……そうですね。『どんな願いでも叶うんですか？』という質問の回答が欲しいです」=“What would you wish for? I would like an answer to the question, Does any wish come true? I'd like an answer to that question.”
 「そ、それは答えてくれないだろうね」=“Well, I don't think they're going to answer that.”
 「……まぁ、そうかもしれません。流れ星は日本語がわからない可能性もありますし」=“...... Well, maybe they will. It's also possible that the shooting star doesn't understand Japanese.”
 「そんな問題なのかなぁ……」=“I wonder if that's such a problem. ......”

@@ -1,0 +1,12 @@
+「卓球台があるよ。よかったらやっていかない？」=“There is a ping-pong table. Would you like to play?”
+「おっしゃ～～、もう一勝負行こか！」=“Okay, let's go for another round!”
+「なんか言いたいことありそうやん……？　言うてええで」=“You seem to have something you want to say, don't you ......?　You can say it.”
+「いや、そんなに自信満々な態度で構えなのに、全然下手っぴだなーって」=“No, you're so confident and poised, but you're not very good at it at all.”
+「別にええやん。勝負にはハッタリも必要やしな」=“I don't mind. You have to bluff your way to victory.”
+「うん、まあ全然いいんだけど……でも、楽しんでる？」=“Yeah, well, that's totally fine ...... but are you having fun?”
+「そらもう、めっちゃ楽しいで。なんか、こう……緊張感がたまらんわ」=“It's a lot of fun. I love the tension of .......”
+「……気楽にやろうよ」=“Let's take it easy on .......”
+「でも、リラックスし過ぎたら、ラケットが手ぇからすっぽ抜けてまうし……」=“But if I relax too much, the racket will just fall out of my hand. ......”
+「それはリラックスしすぎかも……ま、まあいいや、続きしよっか」=“Maybe that's too relaxed. ...... Well, okay, let's continue.”
+「ふっふっふ、ウチはしつこいでぇ？　潔ええ時もあるけどな！」=“I'm persistent, aren't I?　Sometimes it's graceful, though!”
+「う、うん……わかってる……」=“Uh, yeah. ...... I know. ......”

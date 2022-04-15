@@ -9,7 +9,7 @@
 「<color%3Dyellow>水牛</color>って、大きいけど、可愛いですよね」=“<color%3Dyellow>Buffaloes</color> are big but cute, aren't they?”
 「あののんびり歩く姿を見ていたら、何にも動じない強さみたいなものを感じます」=“Buffaloes are big but cute.”
 「私、<color%3Dyellow>ネコ</color>って好きなんです」=“I like <color%3Dyellow>cats</color>.”
-「良くクロネコが目の前を横切って行くんです……その姿がとっても可愛くって……」="I like <color%3Dyellow>cats</color>. "I often see a black cat walking past me. ...... It's so cute. ......
+「良くクロネコが目の前を横切って行くんです……その姿がとっても可愛くって……」=“I like <color%3Dyellow>cats</color>. I often see a black cat walking past me. ...... It's so cute. ......”
 「<color%3Dyellow>ハイビスカス</color>の花って、綺麗だと思いませんか？」=“<color%3Dyellow>Hibiscus</color> flowers are beautiful, don't you think?”
 「南国を象徴するような華麗な花なのに、花言葉は『繊細な美』なんですよ」=“<color%3Dyellow>Hibiscus</color> is a gorgeous flower that symbolizes the tropics, but the language of the flower is 'delicate beauty.”
 「この島の<color%3Dyellow>星空</color>って、本当に奇麗ですよね」=“The <color%3Dyellow>starry sky</color> on this island is really beautiful, isn't it?”

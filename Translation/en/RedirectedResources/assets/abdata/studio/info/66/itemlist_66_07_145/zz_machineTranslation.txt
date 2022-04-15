@@ -1,0 +1,6 @@
+触手1=Tentacle 1
+触手2=Tentacle 2
+触手3=Tentacle three.
+拘束椅子=Restraining chair
+檻=Cage
+搾乳器=Milking machine

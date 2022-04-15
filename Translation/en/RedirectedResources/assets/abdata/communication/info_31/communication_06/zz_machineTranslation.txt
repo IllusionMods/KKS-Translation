@@ -275,7 +275,7 @@
 「……色々な出来事があったはずなのですが、思い出すと貴方とのことばかり浮かびます」=“I'm sure there are many things that happened on ......, but when I think back, all I can think of is you.”
 「そのお話も良いのですが、もう少し刺激の強いお話でも大丈夫ですよ」=“I'd love to talk about that, but I'm sure we can talk about something a little more exciting.”
 「サブスクのサービスってなにか入ってる？」=“Do you have a subscription to any of the services?”
-「さぶ……？　えぇと、どの様なさぁびすなのでしょうか？」="Sabu ......"?　Well, what kind of service is it?
+「さぶ……？　えぇと、どの様なさぁびすなのでしょうか？」=“Sabu ......?　Well, what kind of service is it?”
 「最近は貴方の『取るに足らない』で始まるお話が楽しみで仕方ありません」=“Lately I've been looking forward to your stories that start with "insignificant.”
 「はい、お慕い申し上げております」=“Yes, I adore you.”
 「いいえ……と応えても、冗談だと通じる間柄だと自負しております」=“I'm proud of the fact that I can tell when you're joking when you say .......”
@@ -290,7 +290,6 @@
 「……貴方の事が気になり始めてからは、確認しておりました」=“I've been checking ...... ever since I started to worry about you.”
 「うふふ、こういうときは『な・い・しょ』としなを作るのが良いと聞きました」=“I've heard that it's good to say "no, no, no" in these situations.”
 「私も大好きです。一日中、おそばで笑っていたいぐらいに」=“I love you, too. I love it too. I could sit by your side and laugh all day.”
-「友達が言ってたんだけど……」=“A friend of mine told me about .......”
 「いずれ私達も、その様なことをするのでしょうか」=“I wonder if we'll ever get to do that.”
 「あまりにも恥ずかしいことでしょうか。それでも感じてしまう私がいやらしくて……」=“Would it be too embarrassing? Would it be too embarrassing? I'd still feel it. ......”
 「特にございません。貴方に心からお尽くしすると、先祖代々に誓っております」=“Nothing, really. I have sworn by my ancestors to serve you with all my heart.”

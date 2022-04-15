@@ -29,7 +29,7 @@
 「どんな風に不幸になるのかわからないし、そもそも不幸にならないかもしれない」=“I don't know how unhappy I'll be, or if I'll ever be unhappy at all.”
 「なってもいないことを考えてもしかたないと思うんだ」=“I don't think there's any point in thinking about things that haven't happened.”
 「ですけど」=“But...”
-「待って。『でも』とか『だって』は一旦横に置いておこう」="Wait. Let's put "but" and "because" to the side for a moment.
+「待って。『でも』とか『だって』は一旦横に置いておこう」=“Wait. Let's put but and because to the side for a moment.”
 「きみは……どうしたい？　俺とは付き合いたくない？」=“What do you want ...... to do?　You don't want to go out with me?”
 「そ、そういう聞き方はずるいです」=“No, it's not fair to ask.”
 「私もあなたと付き合いたいですし、そういう関係に憧れます」=“I'd love to be in a relationship with you. I'd love that kind of relationship.”

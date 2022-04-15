@@ -111,7 +111,7 @@
 「俺と一緒にご飯を食べない？」=“Would you like to have dinner with me?”
 「あなたと？　まぁ、ご飯くらいなら問題ないけど」=“With you?　Well, I don't have a problem with dinner.”
 「悪いけど、遠慮しておくわ」=“I'm sorry, no, thank you.”
-「ちょっと付いてきてもらってもいい？」=“Do you mind if I tag along for a bit?”
+「ちょっと付いてきてもらってもいい？」=“Could I get you to follow me for a bit?”
 「わかったけれど、どうしたのかしら？」=“Okay, but what's going on?”
 「嫌よ。どうして私がそんなことを」=“No. Why would I do that?”
 「ひっ！　あ、あなた私じゃなければ、いまごろ大問題よ」=“Oh!　Well, if it wasn't for me, you'd be in big trouble.”
@@ -218,7 +218,7 @@
 「きみとエッチしたいんだけど……」=“I'd like to have sex with you. ......”
 「あのね、私たちの関係わかってる？　……まぁ、してもいいのだけれど」=“You know what? Do you understand our relationship?　I want to have sex with you. ...... Well, you can.”
 「あなたの気持ちを否定したくはないけれど……ダメよ」=“I don't want to deny you your feelings, but ...... no.”
-「ここできみとエッチしたいな」=“I want to have sex with you right here.”
+「ここできみとエッチしたいな」=“I wanna have sex with you here.”
 「ここで！？　あなた変態ね……。まぁ私も、興奮しているのだけれど」=“Here?　You're such a pervert, ....... Well, I'm excited, too.”
 「でっ、できるわけないじゃない！　周りに人がいるのに、なに言ってるの」=“No, you can't do that!　What are you talking about? There are people around.”
 「ここでって……仕方ないわね、誰か来たらすぐやめるわよ」=“What do you mean, "here"? ...... I don't have a choice. I'll stop as soon as someone comes.”
@@ -326,7 +326,6 @@
 「私のおっぱい、そんなに触りたい？」=“Do you really want to touch my tits?”
 「ふふっ、あなたは私のおっぱいと会話してるのかしら？」=“Are you having a conversation with my tits?”
 「私のおっぱいばかり見て、そんなに楽しいかしら？」=“Do you enjoy looking at my tits so much?”
-「……何をしてるの？」=“...... What are you doing?”
 「あ……私の手、握るの好きなのね」=“Oh, ......, you like to hold my hand, don't you?”
 「何回やっても、こういうのはちょっと恥ずかしいわね」=“No matter how many times you do it, it's still a little embarrassing.”
 「もう触ったらダメ。少し手が痛くなってきちゃったし」=“Don't touch me again. My hand's starting to hurt a little.”
@@ -372,7 +371,6 @@
 「私と一緒に遊びましょ。いいでしょ？」=“Come play with me. Okay?”
 「ふふっ、何をして遊ぼうかしら」=“Hmm, what shall we do?”
 「残念だわ。……良かったら、また次の機会に遊びましょ」=“I'm sorry. I'm sorry. ...... Let's play some other time, if you want.”
-「ええ、喜んで付き合うわ」=“Yeah, I'd be happy to.”
 「どうかしら、私と一緒に何か体験してみない？」=“I don't know, maybe you'd like to experience something with me.”
 「良かった。あなたとなら、なんでも楽しくできると思うわ」=“Good. I'm sure you and I could have a lot of fun.”
 「そうなのね……残念だけど、無理は言わないわ」=“Oh, well, ......, I'm sorry, but I won't push it.”

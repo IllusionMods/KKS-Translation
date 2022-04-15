@@ -1,0 +1,5 @@
+宝石1=Jewelry 1
+宝石2=Jewelry 2
+宝石3=Jewelry 3
+宝石4=Gem 4
+宝石5=Gem 5

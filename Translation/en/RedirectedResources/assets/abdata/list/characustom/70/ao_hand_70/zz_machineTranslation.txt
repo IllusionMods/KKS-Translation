@@ -1,0 +1,5 @@
+フリルパラソル=Frilled parasol
+くまのぬいぐるみ右=Stuffed bear right
+くまのぬいぐるみ左=Stuffed bear left
+ガトリングウォーターガン=Gatling Water Gun
+虫取り網=Butterfly net

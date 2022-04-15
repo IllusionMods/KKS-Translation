@@ -21,7 +21,6 @@
 「我の……私のことはしっかり理解してくれなくていいよ……いつものことで慣れてるから……」=“You don't have to understand my ...... well, I'm used to it. ......”
 「ん？　あれ？　俺何を言おうとしたんだっけ？」=“Hmm?　Huh?　What was I going to say?”
 「そ、それはひょっとして、あ、悪魔に記憶を……盗まれたのでは？」=“What, by any chance, did the devil steal your memory ......?”
-「友達が言ってたんだけど……」=“A friend of mine told me about .......”
 「クク……汝の友は、才能があるのかもしれないな……」=“Kuk ...... thy friend may be gifted .......”
 「昔、この島では……」=“Once upon a time, on this island, ......”
 「そ、それは本当なのか？　我も、調べてみるとするか……」=“Is that true?　I'll have to look into that. ......”

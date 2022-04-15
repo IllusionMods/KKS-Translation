@@ -1,0 +1,2 @@
+ファーマント=Fur Cloak
+外しフード=Hood off.

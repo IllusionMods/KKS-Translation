@@ -1,0 +1,8 @@
+「ここは話題のパワースポットらしいね」=“I hear this is a hot power spot.”
+「へぇ……良くわからないけど、きっとなんかすごいパワーがここにあるんだろうねー」=“I don't know about ......, but there must be some kind of awesome power here...”
+「試しに、俺たちも何か願いごとをしてみようか？　叶えばラッキーだしさ」=“'Let's make a wish too, just to try it out, shall we?　I'll be lucky if it comes true.”
+「うんっ。じゃあ、私はキミともっとラブラブになれますように……ってお願いしてみようかな？」=“I'm sorry, I'm not sure. Well, I'm going to ask ...... for more lovey-dovey love with you.”
+「[H名]、気持ちは嬉しいけど……」=“H name], I appreciate the sentiment, but ......”
+「そんな願いごとだったら、わざわざ願わなくてもいつだって叶うよ」=“If it's a wish like that, you don't have to wish for it, it always comes true.”
+「えへへ……。そうかもしれないけど、それ以上に仲良くなりたいから……ダメだった？」=“Hehe. ....... Maybe so, but I want to get to know you better than that, so ...... no?”
+「ダメなもんか。それじゃあ、俺も[H名]と同じ願いにするよ。だから２人一緒に願おう！」=“I'm not saying no. Then I'll make the same wish as [H名]. So let's both make a wish together!”

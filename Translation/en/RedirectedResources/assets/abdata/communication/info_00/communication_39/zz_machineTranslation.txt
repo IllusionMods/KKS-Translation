@@ -156,7 +156,7 @@
 「もちろんさー。じゃないと文字通り、お話にならんよー」=“Of course. Otherwise, it's literally impossible to talk to you.”
 「付き合った人の言葉に合わせるさー。意外と尽くすタイプだからねー」=“I'll adapt to the language of the person I go out with. I'm more of a servant type.”
 「方言で大好きって言ってみて」=“Try saying "I love you" in dialect.”
-「でーじ好き。かねー？　愛してるは……また違った言い方があるけどー」="I love you in dialect. Maybe?　There's a different way to say "I love you" at .......
+「でーじ好き。かねー？　愛してるは……また違った言い方があるけどー」=“I love you in dialect. Maybe?　There's a different way to say I love you at .......”
 「い、言わんよー。変な勘違いされたら、困るからねー」=“No, I won't say it. I'm not going to say it. I don't want people to think I'm crazy.”
 「男子でコイバナ好きって珍しいねー。他の女の子となら話が合うかもしれんよー」=“It's rare to find a boy who likes to talk. You might be able to talk to other girls.”
 「恋は盲目って言うけどさ、あれ本当かな？」=“They say love is blind. I wonder if that's true.”
@@ -283,7 +283,7 @@
 「たまに、急に会いたくなる時って無い？」=“Do you ever have those moments when you just want to see her?”
 「あるよー。たまにじゃなくて、いつも思ってる……えへへ」=“Yes, I do. Not sometimes, but all the time. ......”
 「俺と恋人になって良かった？」=“Are you happy to be my girlfriend?”
-「ありゃ、自信無くなっちゃったー？　えへ、もっと好き好き言わないとかねー？」="Oh, you're not so sure now, are you?　You need to say "I love you" more, don't you?
+「ありゃ、自信無くなっちゃったー？　えへ、もっと好き好き言わないとかねー？」=“Oh, you're not so sure now, are you?　You need to say I love you more, don't you?”
 「恋は盲目って言うけどさ、ほんと[H名]が可愛くて仕方ないよ」=“They say love is blind, but I really can't help but think you're cute.”
 「ふぁっ、いきなりなにー？　もう、顔が真っ赤になるよー」=“What?　Your face is turning red.”
 「えへ、もう自分はキミの彼女なんだから。お世辞なんて言わなくていいのにー」=“Yeah, I'm your girlfriend now. You don't have to flatter me.”
@@ -365,7 +365,7 @@
 「あのねー、自分と遊んで欲しいなー。なんてー」=“You know what? I want you to play with me. Oh, my God.”
 「やった。キミなら絶対、一緒に遊んでくれると思ってたさー」=“Yes. I knew you'd play with me. I knew you'd play with me.”
 「そっかぁ、残念だけど諦めるさー。また……誘ってもいいよねー？」=“Oh, well, I'll give up, unfortunately. Can I ask you to go to ...... again?”
-「体験て、キミが言うとちょっとエッチに聞こえるねぇ。でもいいよ、色々やってみよー」="Experience," you say, sounding a bit naughty. "Experience" sounds a bit naughty when you say it, but it's okay.
+「体験て、キミが言うとちょっとエッチに聞こえるねぇ。でもいいよ、色々やってみよー」=“Experience, you say, sounding a bit naughty. Experience sounds a bit naughty when you say it, but it's okay.”
 「ねーえー、体験コーナーに行ってみないー？　新しい発見があるかもしれんよー」=“Hey, why don't you go to the hands-on corner?　Maybe you'll find something new.”
 「うんうん、そうと決まれば善は急げよー！　早く行こー」=“Yeah, well, once you've decided that, you'd better hurry up!　Let's go.”
 「興味なかったー？　自分と行くのが嫌なわけじゃないよねー？」=“You're not interested?　It's not like you don't want to go with me, right?”

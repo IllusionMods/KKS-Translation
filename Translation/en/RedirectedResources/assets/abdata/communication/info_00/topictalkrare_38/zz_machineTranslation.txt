@@ -77,7 +77,7 @@
 「ええ、知ってますよ。もともとは生き物の殻なんですよね」=“Yes, I know that. It is the shell of a living thing, isn't it?”
 「あはは、やっぱり知ってたんだ。正体を知ったらちょっとガッカリしなかった？」=“I knew you knew that. Aren't you a little disappointed when you find out what it is?”
 「ふふっ、そうですね。小さな頃に知って、ガッカリした記憶があります」=“Yes, I was. I remember how disappointed I was when I found out when I was little.”
-「だよね。星の砂なんていうから、てっきり宇宙から降ってきたのかと思ってたのに……」="That's right. When they say "star sand," I thought it was falling from outer space. ......
+「だよね。星の砂なんていうから、てっきり宇宙から降ってきたのかと思ってたのに……」=“That's right. When they say star sand, I thought it was falling from outer space. ......”
 「ふふっ、貴方らしいですね。でもなんだかロマンチックな考え方で……素敵です」=“Hmm, that's very you. But it's kind of a romantic idea. ...... It's nice.”
 「ウムイの鐘って、実際に効果があるのかな？」=“Do you think the bells of Umui actually work?”
 「うーん、どうなんでしょう？　永遠に結ばれるという話ですよね」=“Well, I don't know.　It's supposed to make you eternal, right?”

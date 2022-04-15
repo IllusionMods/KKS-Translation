@@ -1,8 +1,4 @@
 OPTION[100]:気持ちに応える=Respond to feelings
 気持ちに応える=Responding to Feelings
-OPTION[101]:ごめん=I'm sorry
-OPTION[105]:うん=Okay.
 OPTION[105]:今はいいかな=I think I'm good for now.
 今はいいかな=Is this a good time?
-OPTION[201]:いいよ=Okay.
-OPTION[201]:ごめん=Sorry.

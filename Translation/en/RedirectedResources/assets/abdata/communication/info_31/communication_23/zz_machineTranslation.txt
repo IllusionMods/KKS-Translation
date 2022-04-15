@@ -25,7 +25,6 @@
 「ああ、聞いたことあるような～……後でチェックしておきますかな」=“Oh, I've heard that before. ...... I'll check it out later.”
 「フェリーは快適だった？」=“Were you comfortable on the ferry?”
 「快適でしたとも……寝てたんで覚えてないけど……」=“It was comfortable. ...... I don't remember, I was asleep. ......”
-「恋愛に興味ある？」=“Are you interested in relationships?”
 「恋愛モノには興味あるけど……リアルの恋愛は……」=“I'm interested in romance, but not ...... real love.”
 「あるよ……ただ自分との接点があまり見つからないんですなー」=“Yes, I do. ...... I just can't find much of a connection to myself.”
 「コイバナはよくする？」=“Do you do a lot of lovebirds?”
@@ -216,7 +215,6 @@
 「もう行かないと。それじゃ失礼するね」=“I have to go. I'll see you later.”
 「また話したいんだなぁ。それでは」=“You want to talk again? Bye.”
 「また話そうね。では」=“I'll talk to you later. Bye.”
-「きみのことが好きだ」=“I like you.”
 「え、えぇっと……ワタシ、今はあなたの事、友達だなぁって思ってるから……」=“Well, um, ...... I think of you as a friend right now. ......”
 「聞いて欲しいんだけど……ワタシ、あなたの事が、好きなんだな……」=“Listen, ......, I think I like you. ......”
 「い、いいんだ……その、いきなりだったし……びっくりさせちゃって、ごめん……」=“No, it's okay. ...... I'm sorry I startled you. ......”
@@ -241,7 +239,7 @@
 「俺と一緒に遊びに行こうよ」=“Come hang out with me.”
 「いいですなぁ、何をして遊びますか？」=“That's great. What do you want to do for fun?”
 「今は無理ですなぁ……ちょっと気分じゃないので」=“I can't right now. ...... I'm not in the mood.”
-「良かったら、ワタシと遊びに行ってみないかい？」="I'm not in the mood." - "Would you like to go out with me?
+「良かったら、ワタシと遊びに行ってみないかい？」=“I'm not in the mood. - Would you like to go out with me?”
 「嬉しいよ、それじゃあ付き合ってもらうね」=“I'd love to. I'd like you to go with me.”
 「そっか、行けないんじゃ仕方がないんだなぁ」=“Well, if you can't go, I guess I'll just have to do it.”
 「一緒に何か体験しに行かない？」=“Do you want to go and experience something with me?”
@@ -292,13 +290,12 @@
 「……むむ、ファンとして見に行くべきか」=“...... Mmm, should I go see it as a fan?”
 「おススメの漫画、教えてよ」=“What manga do you recommend?”
 「お安い御用ですぞ。どんなジャンルがいいか言ってくれれば厳選するよ」=“It's a small price to pay. Tell me what genre you like and I'll choose carefully.”
-「好きだよ、[H]。[H]はどう、かな？」="I like [H]. [How about "H," huh?
+「好きだよ、[H]。[H]はどう、かな？」=“I like [H]. [How about H, huh?”
 「き、急になんでそのことをっ！？　ワ、ワタシも好きだよ」=“Why did you suddenly say that?　I like it, too.”
 「嫌いなんだなぁ……あぁ、ウソウソ、落ちこまないでぇ」=“You don't like it. ...... Oh, no, no, no. Don't be depressed.”
 「理想の結婚式とかってある？」=“What's your ideal wedding?”
 「結婚式かぁ……想像しただけで、幸せになりそうだよ」=“A wedding. ...... Just thinking about it makes me happy.”
 「結婚式……相手があなただって想像しただけで、ドキドキしてくる」=“Just the thought of a wedding ...... with you makes me nervous.”
-「新婚旅行はどこに行きたい？」=“Where do you want to go on your honeymoon?”
 「あなたと二人で行けるなら、どこだっていいと思うよ」=“I don't care where we go as long as it's just you and me.”
 「二人っきりで、誰も来ない部屋で……いっぱいアニメが見たい」=“I want to be alone with you, in a room with no one else, and watch ...... a lot of anime.”
 「恋人同士で秘密って許せる？」=“Can lovers keep secrets from each other?”

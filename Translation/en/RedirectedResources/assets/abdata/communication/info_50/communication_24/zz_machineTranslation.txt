@@ -2,7 +2,6 @@
 「私の水着姿どうですか？　あなたが好きそうな水着を選んでみました♡」=“How do you like my swimsuit?　I picked out a swimsuit that I think you'll like.”
 「あなたの声が聴きたいって、ずっと待っていました」=“I've been waiting to hear your voice.”
 「話しかけくれるあなたの視線、素敵です♡」=“I love the way you look at me when you talk to me.”
-「この島で何がしたい？」=“What do you want to do on this island?”
 「ずっとあなたの傍で、あなたを見守っていたいです♡」=“What do you want to do on this island? - I want to stay by your side and watch over you.”
 「あなたと同じ空気を吸って、あなたと同じ大地を踏みしめて、あなたと同じ景色がみたいです♡」=“I want to breathe the same air as you, step on the same earth as you, and see the same scenery as you.”
 「もしも、こんな話があったとしたら……」=“If I had a story like this: ......”
@@ -12,7 +11,6 @@
 「コイバナに興味ある？」=“Are you interested in coitus?”
 「あなた以外に興味はありません♡」=“I'm not interested in anyone but you.”
 「あなたとのコイバナなら、いくら語っても語りつくせません♡」=“No matter what the weather, you're always attractive.”
-「どんな恋愛がしてみたい？」=“What kind of love would you like to have?”
 「あなたとの恋愛なら、どんな形でも問題ないです♡」=“Any form of romance with you is fine with me.”
 「恋愛に理想はありません……私の理想は、あなたですから♡」=“I don't have any ideals in love. ...... Because my ideal is you.”
 「恋に付いて考えたんだけど……」=“I've been thinking about love. ......”
@@ -25,7 +23,6 @@
 「小耳にはさんだんだけど……」=“I overheard this on .......”
 「すみません。ここでひとまずお別れです。また絶対会いましょうね♡」=“I'm sorry. I'm sorry, I have to leave you here for now. I'll definitely see you again.”
 「無慈悲にも、時間が来てしまいました……必ずまた会いましょう♡」=“Ruthlessly, the time has come. ...... I'll definitely see you again.”
-「良かったら、一緒に観光しない？」=“Would you like to go sightseeing with me?”
 「うふふ♡　もちろんＯＫです。一緒にどこまでも行きましょう♡」=“♡♡♡ Of course I'm ready. Let's go everywhere together♡”
 「なんてことでしょう……あなたから誘われたのに他に観光の約束があるなんて」=“Oh my god, ...... you invited me, but I have other plans for sightseeing.”
 「俺と一緒に遊びに行こうよ」=“Come hang out with me.”
@@ -54,7 +51,6 @@
 「恋愛対象に何を望むの？」=“What do you want from a love interest?”
 「何も望みません。あなたがあなたでいてくれるだけで十分です♡」=“I don't want anything. Just you being you is enough for me.”
 「私が愛することを許してくれる事だけです♡」=“All I want is for you to allow me to love you.”
-「新婚旅行はどこに行きたい？」=“Where do you want to go on your honeymoon?”
 「あなたと一緒なら、地獄の底までもお供します♡」=“With you, I'll accompany you to the depths of hell.”
 「あなたと私、二人だけしかいない世界に行ってみたいです♡」=“I want to go to a world where there is only the two of us, you and I.”
 「どんな結婚式に憧れる？」=“What kind of wedding do you want?”
@@ -68,7 +64,6 @@
 「この前、公衆トイレからエッチな声が聞こえて……」=“The other day I heard naughty voices coming from a public restroom. ......”
 「あなたといると、あっという間に時間が過ぎてしまいます……」=“Time flies when I'm with you. ......”
 「あなたと離れなければいけないなんて……時間とは残酷なものですね」=“I can't believe I have to leave you. ...... Time is a cruel thing, isn't it?”
-「きみのことが好きだ」=“I like you.”
 「うふふ♡　だめですよ、私を騙そうとしても……簡単には引っかかりませんから」=“Ufufu ♡ No, even if you try to deceive me ... it won't get caught easily.”
 「私はあなたを愛しています。どうかお付き合いしてください」=“I love you. Please go out with me.”
 「分かっています。まだその時ではないんですよね……私、待ちますから」=“I know, I know. It's not the right time yet. ...... I'll wait.”

@@ -82,7 +82,7 @@
 「手でも握ってくれるの？　励ましたり」=“Will you hold my hand?　To cheer me up.”
 「……握ろうか？」=“...... Want me to hold your hand?”
 「あんたと私って意味で言ったわけじゃないわよ！　一般論」=“I didn't mean you and me!　In general.”
-「星の砂っていいネーミングだと思わない？」="Stardust" is a good name, don't you think?
+「星の砂っていいネーミングだと思わない？」=“Stardust is a good name, don't you think?”
 「上から目線……まあ、言いたいことはわかるけど」=“It's over the top. ...... Well, I know what you mean.”
 「ロマンチックな響きをしてるし……」=“It has a romantic ring to it. ......”
 「もう買った？」=“Have you bought it yet?”

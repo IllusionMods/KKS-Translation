@@ -6,7 +6,7 @@
 「ひねくれ者なんだから、そういうのも仕方ないじゃない」=“You can't help it if you're cynical.”
 「でも、今日の[H名]さんはずいぶん素直だよ」=“But you're being very honest today, [H名].”
 「それにそんなところも含めて俺は[H名]さんを好きになったんだ」=“And that's part of the reason I like you so much.”
-「す、好き、ってっ……」="I love it." ......
+「す、好き、ってっ……」=“I love it. ......”
 「ロマンチックなデートにも何度だって誘うよ」=“I'll take you out on romantic dates as often as I can.”
 「……ばか」=“...... idiot.”
 「別に、私はこんなデートをしたいだなんて一言だって言ってないわよ」=“No, I never said I wanted this kind of date.”

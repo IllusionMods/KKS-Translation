@@ -1,11 +1,9 @@
 OPTION[100]:気持ちに応える=Respond to feelings
 気持ちに応える=Responding to Feelings
-OPTION[101]:ごめん=I'm sorry
 OPTION[103]:うん、いいよ！=Yeah, sure!
 うん、いいよ！=Yes, yes, yes!
 OPTION[105]:丁度お腹空いてたんだ=I was just hungry.
 丁度お腹空いてたんだ=I was just hungry.
-OPTION[201]:いいよ=Okay.
 OPTION[201]:……？=......?
 ……？=......?
 OPTION[203]:いいよ！=OK!

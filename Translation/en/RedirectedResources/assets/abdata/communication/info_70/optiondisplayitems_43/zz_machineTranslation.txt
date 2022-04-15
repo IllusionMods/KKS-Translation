@@ -1,0 +1,11 @@
+OPTION[100]:気持ちに応える=Respond to feelings
+気持ちに応える=Responding to Feelings
+OPTION[104]:いいね、体験してみよう=OPTION[104]:Great, let's experience it!
+いいね、体験してみよう=Great, let's experience it.
+OPTION[104]:別にいいかな=OPTION[104]:I don't mind.
+別にいいかな=I don't mind.
+OPTION[105]:空いてたから付き合うよ=OPTION[105]:I'll go out with you because you were free.
+空いてたから付き合うよ=I'll go out with you when you're free.
+OPTION[105]:空いてないかな=OPTION[105]:I hope it's not available.
+空いてないかな=I hope it's not empty.
+OPTION[205]:空いてないかな=OPTION[205]:I wonder if they are free.

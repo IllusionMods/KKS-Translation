@@ -9,4 +9,4 @@
 「……良いのじゃ！　ふふっ、感謝するぞ」=“...... is good!　Hmm, thank you.”
 「気に入ってくれたみたいで嬉しいよ」=“I'm glad you like it.”
 「うむ。意外とよいものだな。また呼んでみてもよいか？」=“Hmm. It's surprisingly good. May I call on you again?”
-「もちろん、いいよ」=“Sure, sure.”
+「もちろん、いいよ」=“Not at all.”

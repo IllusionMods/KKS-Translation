@@ -1,0 +1,13 @@
+「あのさ、一つ頼みがあるんだけど……」=“Hey, can you do me a favor? ......”
+「改まってどうした？　貴殿の頼みならいくらでも聞いてやるぞ」=“What's the matter with you?　I'll do whatever you want me to do.”
+「じゃあ……俺のこと[Pあだ名]って呼んでくれない？」=“Then can you call me [Pあだ名] at ......?”
+「なにっ……そうか、貴殿にはそういう趣味があったのだな」=“What ......, I see you have a taste for such things.”
+「やっぱりダメ……かな？」=“I still think no. ......?”
+「いや、我に二言は無い。それが貴殿の望みだというなら、叶えるのが我の務めだ」=“No, I have no second thoughts. If that is what you want, it is my duty to grant it.”
+「では、いくぞ……！　[Pあだ名]……こ、これでいいか？」=“Let's go, then: ......!　[Pあだ名]......, is that it?”
+「いい！　もうバッチリだよ！　ありがとう[Hあだ名]！」=“Yes!　It's perfect now!　Thank you [Hあだ名]!”
+「んなぁっ、待て待て！　我もその……愛称で呼ばれるのか？」=“No, no, no, no, no, no, no, no!　Am I nicknamed that ......, too?”
+「うん。毎回じゃないけど、たまにこんな感じで呼び合いたいなーって……」=“I'm not sure. Not every time, but sometimes I want to call each other like this. ......”
+「むぅ、分かった。悪い気はしないからな……我は別に構わないぞ」=“'Mmm, all right. I don't feel bad about it. ...... I don't mind.”
+「やった！　[Hあだ名]、大好き！」=“Yes!　[Hあだ名], I love it!”
+「ぅくっ、こら……はしゃぎ過ぎだぞ……」=“Ugh, come on, ......, you're being a little too forward. ......”

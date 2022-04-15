@@ -37,7 +37,7 @@
 「わかった！　それ、ぴかーって光るんだろ」=“I get it!　It glows, doesn't it?”
 「そこまではすごくない」=“It's not that amazing.”
 「じゃあ、どんくらいすごいんだ？」=“Well, how amazing is it?”
-「一晩だけ咲くんだってさ。それで、朝になつたら花を落としちゃう」="It blooms for one night," he says. They bloom for one night and then drop the flowers in the morning.
+「一晩だけ咲くんだってさ。それで、朝になつたら花を落としちゃう」=“It blooms for one night, he says. They bloom for one night and then drop the flowers in the morning.”
 「マジかよ。忙しないな……」=“Really? You've been busy. ......”
 （期待してた反応とは違ったな……）=(That's not the reaction I was expecting. ......)
 「この前、ずっと気にしてた卵がようやく孵ったんだよ」=“The other day, the egg I've been worrying about finally hatched.”

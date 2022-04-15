@@ -71,7 +71,7 @@
 「急にどうしたの？　大丈夫？」=“What's wrong with you?　Are you okay?”
 「ううん。なんでもない。深いところに棲む“かれら”のお仲間から悪い電波を受信しただけ」=“No, I'm fine. It's nothing. I just received a bad signal from one of their friends who lives in the deep.”
 「星の砂って知ってる？　砂が星の形をしてるんだよ。綺麗だよね」=“Do you know what star sand is?　It's sand in the shape of a star. It's beautiful, isn't it?”
-「それってまさか星の欠片……！？　“かれら”との交信に役に立つかも」="Is that a piece of star ......?　"It might help us communicate with them.
+「それってまさか星の欠片……！？　“かれら”との交信に役に立つかも」=“Is that a piece of star ......?　It might help us communicate with them.”
 「あ～……形が星に似てるだけで、本物の星屑ではないと思うよ」=“Oh, I think it's just ...... shaped like a star, but I don't think it's real stardust.”
 「そうなんだ……残念。たくさん集めれば元に戻ると思ったのに」=“I see. ...... Too bad. I thought if I collected enough of them I could get back on track.”
 「仮に星の欠片だとして、元に戻したら隕石になるのか。それなら不思議な力を宿してそうだね」=“I thought if I collected a lot of them, I could get them back. If so, then it must have some mysterious power.”

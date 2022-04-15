@@ -1,7 +1,7 @@
 「あなたは、<color%3Dyellow>釣り</color>をしたことあるのかな？」=“Have you ever <color%3Dyellow>fished</color>?”
 「挑戦してみたんだけど、面白かったよ～。待ってる間もお友達とお話出来るから、けっこう好きになったかも」=“I tried it, and it was fun! I tried it and it was fun. I could talk to my friends while I waited, so I think I like it a lot.”
 「<color%3Dyellow>バナナボート</color>はやっぱり楽しいねぇ」=“The <color%3Dyellow>banana boat</color> is still fun.”
-「何回やっても飽きないから、何度も何度も並んでるんだ～」="<color%3Dyellow>Banana boats are really fun</color> "I never get tired of doing them, so I stand in line over and over again.
+「何回やっても飽きないから、何度も何度も並んでるんだ～」=“<color%3Dyellow>Banana boats are really fun</color> I never get tired of doing them, so I stand in line over and over again.”
 「<color%3Dyellow>カヤック</color>を漕ぐのって、大変だけど楽しいよねぇ」=“Paddling a <color%3Dyellow>kayak</color> is tough but fun.”
 「せっかくだから、もっと上手に漕げるようになりたいなぁ」=“Now that I'm here, I want to be able to paddle better.”
 「へぇ、それも面白そうだね～」=“Oh, that sounds interesting too.”

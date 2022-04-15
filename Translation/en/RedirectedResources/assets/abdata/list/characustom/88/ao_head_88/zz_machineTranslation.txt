@@ -1,0 +1,6 @@
+猫耳ヘッドホン=Cat ear headphones
+猫耳スピーカー=Cat Ear Speakers
+パンツA=Pants A
+パンツB=Pants B
+パンツC=Pants C
+被りフード=Hood covered with a hood

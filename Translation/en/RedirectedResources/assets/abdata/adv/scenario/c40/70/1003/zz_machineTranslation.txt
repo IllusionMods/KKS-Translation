@@ -1,0 +1,16 @@
+「お土産を見てこうよ」=“Let's look at the souvenirs.”
+「なぁ見てくれ、凄くいい感じのＴシャツを見つけたぞ！」=“Hey, look what I found. I found a really nice T-shirt!”
+「あー、[H名]はそういう感じ好きそうだね」=“Ah, [H名] seems to like that kind of thing.”
+「ああ！　豪快な筆使いながらも、質実剛健、正々堂々という感じがひしひしと伝わってくる！」=“Aah!"　Despite the vigorous brush strokes, the sense of quality and honesty is palpable!”
+「でも……泡盛ってお酒の名前だからね？」=“But ...... Awamori is the name of the drink, right?”
+「知っているとも。できれば『騎士道』と書いてあるものが良かったのだが、無いと言われてしまった」=“I know. I would have preferred something with 'chivalry' on it, but they said they didn't have it.”
+「店員さんに聞いたんだ？」=“Did you ask the clerk?”
+「ああ、どうしてもと言うなら、自分で書いてはどうかと勧められた……」=“Oh, and if you insist, he suggested I write it myself: ......”
+「それ、アリなんじゃない？　無地のＴシャツを買ってさ、自分で筆を使って書いてみたら？」=“That's a good idea.　Why don't you buy a plain T-shirt and write on it yourself with a brush?”
+「むぅ……しかし、ここまで上手く書ける自信はないぞ？」=“Mmm ...... but I'm not sure I can write this well?”
+「別に上手く書く必要はないんじゃないかな。それこそ、魂がこもってればいい的な？」=“I don't think you have to write well. It just has to be soulful.”
+「確かに……そう言われると一理あるな。貴殿も一緒に書いてくれるか？」=“You certainly have a point when you say so ....... Would you be willing to write with me?”
+「いいよ。お互いの名前を書いたペアルックＴシャツとかにしようか？」=“I'm fine. Shall we do a paired T-shirt with each other's names on it or something?”
+「なっ、待て！　それは流石にどうなのだ？　周りから後ろ指をさされるようなことにならないか？」=“Wait a minute!　How's that for a quip?　Won't that cause people to point the finger behind your back?”
+「そう？　俺は全然アリだと思うけどなぁ……」=“Yeah?"　I think it's totally possible. ......”
+「や、やはりこの泡盛Ｔシャツが一番だな！　うん、一目見て良いと思ったものを買うのが正解だろう！」=“Ya, I knew this Awamori T-shirt was the best!　Yeah, I guess it's only right to buy what you think is good at first sight!”

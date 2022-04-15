@@ -9,7 +9,7 @@
 （照れてる……）=(She's embarrassed. ......)
 「私にはもう足りてるなら、このシャツは私から[P名]へのプレゼントにしよっかな～」=“If I already have enough, maybe I'll give this shirt as a gift to [P名].”
 「ええ！？　いいよ、そんなのっ」=“What?　No, I don't.”
-「この言葉……そんなにあくせくしなくてもなんとかなるよ、ってメッセージを胸に刻んで生きて欲しいんだよ～」="I want you to live with this message in your heart: "...... You don't have to work so hard to get by.
+「この言葉……そんなにあくせくしなくてもなんとかなるよ、ってメッセージを胸に刻んで生きて欲しいんだよ～」=“I want you to live with this message in your heart: ...... You don't have to work so hard to get by.”
 「何事も加減や限度が必要なので……」=“Everything has to have its limits. ......”
 「そんなこと言う時点で、なんくなるなってないっすね～」=“When you say things like that, you're not becoming anything.”
 「なんくるなって？」=“What's up with that?”

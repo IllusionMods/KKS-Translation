@@ -5,7 +5,7 @@
 「これがキャンプファイヤーかー、みたいな感じ～？」=“This is what a campfire looks like.”
 「他人事？」=“Is it someone else?”
 「……もちろん、これは私の主観で言ってるんだけど～」=“...... Of course, this is my own subjective opinion~”
-「ここにいる私が私じゃないみたいだな～、っていうのは思っちゃってるかも」="I think [name] is the only person here who's worried about that. "I feel like I don't belong here.
+「ここにいる私が私じゃないみたいだな～、っていうのは思っちゃってるかも」=“I think [name] is the only person here who's worried about that. I feel like I don't belong here.”
 「柄じゃないからね～、こういうの」=“It's not my style, you know.”
 「そこまで[H名]が浮世離れしてるイメージないんだけど……」=“I don't think [H名] is that far removed from the world. ......”
 「そりゃ、至って普通の人間なんだから。ノリを周りにあわせるくらいはできるけど～」=“I'm just a normal human being, you know. I'm just a normal human being. I can get along with others.”

@@ -1,7 +1,6 @@
 「うん？　付いて来てるよ？」=“Yeah?　I'm coming with you.”
 「？　ここは男の子は入れない所だよ？」=“What?　You know boys aren't allowed in here, right?”
 「うん？　お話したいの？」=“Yeah?　You want to talk about it?”
-「えっとね、興味が沸いた人はいつの間にか仲良くなってるかなぁ」=“Let's see, I'm sure I'll get to know the person I'm interested in before I know it.”
 「なにかハマってることってある？」=“What's your favorite thing to do?”
 「ん～、この島をお散歩することかなぁ」=“Well, I'm into walking around the island.”
 「誰かとお話することかな。色んなことを教えてもらってるの」=“I like to talk to people. They teach me a lot of things.”
@@ -38,7 +37,6 @@
 「友達と、何して遊んだりする？」=“What do you do for fun with your friends?”
 「一番多いのは、ぶらぶら街を歩くことかなぁ」=“Most of the time, I go for a walk around town.”
 「お店でスイーツを食べることが多いよぉ」=“Mostly I eat sweets in stores.”
-「好きなことわざってある？」=“What's your favorite saying?”
 「地震雷火事親父！　言葉の響きが面白いよねぇ」=“Earthquakes, thunderstorms, fires and my father.　It's a funny sounding word.”
 「急がば回れ、かなぁ。大切な考え方だと思うよ」=“Haste makes waste, I guess. I think it's an important concept.”
 「流行とか気にしたりする？」=“Do you pay attention to trends?”
@@ -55,7 +53,6 @@
 「えへへ……あ～んって、してあげたり、してもらったりしたいなぁ」=“When I have a girlfriend, what do I want to do?”
 「膝枕をしながら、優しく頭を撫でて上げたいなぁ。気持ちよさそうにしてもらえたら、幸せだよねぇ」=“I'd like to be on your lap and stroke your head gently. I want to gently pat her head while she's on my lap. I'll be happy if she feels good.”
 「最近、恋愛についてよく考えるんだ」=“I've been thinking a lot about love lately.”
-「エッチな妄想ってよくする方かな？」=“Do you often have erotic fantasies?”
 「楽しい時間をありがとう。またね」=“Thanks for the good time. See you later.”
 「私はそろそろ行くね。またお話しよ？」=“I'm going to go now. Can we talk again?”
 「あのさ……俺と付き合って欲しいんだ」=“Hey, ......, I want you to go out with me.”

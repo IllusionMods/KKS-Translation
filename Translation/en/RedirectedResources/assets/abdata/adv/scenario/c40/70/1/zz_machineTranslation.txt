@@ -1,0 +1,8 @@
+「そうか……貴殿の目を見れば分かる。本気……なのだな？」=“I can see it in your eyes. You're really ......, aren't you?”
+「うん、本気だよ。俺は[H名]が大好きで、付き合いたいと思ってる！」=“'Yes, I'm serious. I love [H名] and I want to go out with her!”
+「わ、分かった。そう何度も言わずとも……貴殿の気持ちは伝わっている」=“I'm like, Wow, I get it. I don't have to say it so many times, ...... your feelings have been conveyed.”
+「じゃあ……ＯＫってことかな？」=“So I guess that means ......OK then?”
+「そ、そう取ってもらって構わない。いや、こういう返事の仕方は失礼だな……少し待ってくれ……」=“I'm sure you can take it that way. No, it's rude to reply in this way. ...... Give me a minute. ......”
+「うん、いくらでも待つよ……」=“Yeah, I'll wait as long as I have to. ......”
+「貴殿の思い、しかと受け取った。ありがとう……これからは我を貴殿の剣として、傍に置いてくれ……」=“I have received your thoughts and prayers. Thank you ...... and from now on keep me by your side as your sword .......”
+「[H名]……ありがとう。これで俺達、恋人同士だね」=“Thank you for [H名]....... Now we're lovers.”

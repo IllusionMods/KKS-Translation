@@ -32,11 +32,11 @@
 「だったら、その……返事、聞かせて欲しいかも……」=“Then maybe I'd like to hear your ...... response. ......”
 「あっ、そ、そうですよねっ！　私としたことがつい浮かれてしまってっ……ごめんなさいっ！」=“I couldn't wait until you woke up.　I got carried away with what I was doing. ...... I'm sorry!”
 「っ！？」=“What?”
-「わあぁっ、ち、違いますよっ！　今のごめんなさいはそういう意味のごめんなさいではなくてっ！」="No, that's not it!　That's not what I meant by "I'm sorry"!
+「わあぁっ、ち、違いますよっ！　今のごめんなさいはそういう意味のごめんなさいではなくてっ！」=“No, that's not it!　That's not what I meant by I'm sorry!”
 「よ、良かった……改めて……聞いてもいい？」=“Okay, good. ...... Can I ask you another ...... question?”
 「はい……今、言った通り、夢みたいな告白をしていただけて……とても嬉しかったです……」=“Yes ......, as I said, I was very happy to hear your dreamy confession .......”
 「私も…………私も貴方のことが大好きです。気付いた時にはもう、世界中の誰よりも……好きになっていました」=“I also love ............. I love you too. When I found out, I already loved ...... you more than anyone else in the world.”
-「ですから……その……こ、こんな私で良ければ……ぜひ……お付き合いしていただけると……う、嬉しいです……」="So ...... that ......, if it's okay with me, I'd love to ...... be your ...... friend. "So, ...... if you'd like to ...... go out with me, I'd be ...... very happy.
+「ですから……その……こ、こんな私で良ければ……ぜひ……お付き合いしていただけると……う、嬉しいです……」=“So ...... that ......, if it's okay with me, I'd love to ...... be your ...... friend. So, ...... if you'd like to ...... go out with me, I'd be ...... very happy.”
 「ありがとう、すごく嬉しい！　うん、付き合おう」=“Thank you, that means a lot!　Yeah, let's go out.”
 「[H名]……これからは恋人として……改めてよろしくね」=“I want you to go out with me! [H名]...... From now on, we'll be lovers. ......”
 「はい、こちらこそ、よろしくお願いします。これからも……貴方のことをますます好きにさせてくださいね♪」=“Yes, I'm looking forward to working with you. Please let me love you more and more at .......”

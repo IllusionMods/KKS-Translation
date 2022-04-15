@@ -1,0 +1,4 @@
+「ここのオイル、自由に使っていいみたい。折角だし塗っていく？」=“I can use the oil here freely. Do you want to apply it?”
+「それ、興味ある！　なんだか面白そう～」=“I'm interested in that!　Sounds kind of interesting~!”
+「面白いかは分かんないけど……美容には良いと思うよ」=“I don't know if it's funny, but I think it's good for ...... beauty.”
+「そっかぁ。じゃあ、キミに塗って貰おうかな～」=“I see. Well, I'll ask you to paint it for me.”

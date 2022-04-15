@@ -1,0 +1,8 @@
+「ありがとう、[H名]。そう言ってもらえてすごく嬉しい」=“Thank you, [H名]. I'm so glad you said that.”
+「実は俺も[H名]のことが好きだったんだ……」=“I actually liked [H名] too. ......”
+「えっ、そ、そうなの！？」=“Oh, really?”
+「うん。だから、むしろこちらから恋人になって欲しいってお願いしたいというか……」=“I'm not sure I'd like that. So, I'd rather ask you to be my lover. ......”
+「じゃ、じゃあ、付き合ってくれるってことで……良いのかなー？」=“Well, then, I guess that means you'll go out with me... ......?”
+「もちろん。これからも、よろしくお願いするよ」=“Of course. I look forward to working with you in the future.”
+「えへへっ、うんっ！　私、キミと付き合えて嬉しいっ」=“Heh heh heh, yes!　I'm so happy to be dating you.”
+「本当にありがとーね！」=“Thanks so much!”

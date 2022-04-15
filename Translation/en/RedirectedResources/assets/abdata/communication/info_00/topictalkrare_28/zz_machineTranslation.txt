@@ -1,7 +1,7 @@
 「ホエールウォッチングって一度くらい挑戦してみたいよね」=“Whale watching is something I'd like to try at least once.”
 「挑戦というが、乗り越えるべき困難などあるかのう？」=“Is there any challenge, any obstacle to overcome?”
 「どちらかというと運かな」=“More like luck.”
-「ふむ、わしは運要素は好かぬ。喜びとは困難の先にあるべきなのじゃ」="Well, I don't like the luck factor. "Well, I don't like the luck factor, I think joy should come after difficulties.
+「ふむ、わしは運要素は好かぬ。喜びとは困難の先にあるべきなのじゃ」=“Well, I don't like the luck factor. Well, I don't like the luck factor, I think joy should come after difficulties.”
 「なら、頑張って運要素を排除するとか……」=“Then try your best to eliminate the luck factor. ......”
 「餌でも撒くのじゃ？」=“What are you going to bait them with?”
 「ヤシガニってなんでも食べるらしいよ」=“They say coconut crabs eat everything.”
@@ -27,7 +27,7 @@
 「ぐうの音も出ない正論だね……」=“That's a very good argument. ......”
 「流れ星っていったら、やっぱり星に願うことかな」=“When you think of shooting stars, you think of wishing upon a star.”
 「一般的にはそうかもしれぬ。じゃが、わしは星に祈ったことなどないぞ」=“That may be true in general. But I've never prayed to a star.”
-「そうなの？」=“Is that so?”
+「そうなの？」=“That so?”
 「神頼みというのはあまり好まぬからな」=“I don't like to rely on the gods.”
 「願いとは自分で叶えるものじゃ」=“Wishes are what you make of them.”
 「おお、恰好いい……」=“Oh, cool. ......”
@@ -66,7 +66,7 @@
 「海ほたるって飼育とかできるのかな」=“I wonder if it's possible to raise sea fireflies.”
 「これ、野暮なことを言うでない」=“Here, don't be absurd.”
 「俺達が知らないだけで、意外ともう飼ってる人とか普通にいそうじゃない？」=“We just don't know about it, but it seems like there are a lot of people who already have them, don't you think?”
-「……むぅ、いないと断言はできぬのう」="......." "Well, I can't say for sure that there aren't.
+「……むぅ、いないと断言はできぬのう」=“....... Well, I can't say for sure that there aren't.”
 「魚とか飼うのを趣味にしてる人いっぱいいるんだし」=“There are a lot of people who keep fish as a hobby.”
 「わしは否定派じゃが、それも人という種の業か……」=“I'm a nay-sayer, but I guess that's the nature of the human species. ......”
 「ウミガメって乗りたくなるよね」=“Sea turtles make me want to ride them.”
