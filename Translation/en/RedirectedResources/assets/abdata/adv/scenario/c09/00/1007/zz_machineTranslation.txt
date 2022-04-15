@@ -10,7 +10,7 @@
 「気に入ったみたいでよかった」=“I'm glad you like it.”
 「クールぶっちゃって。あんたも楽しもうとしないと楽しめないわよ」=“You're so cool. You can't have fun if you don't try to have fun.”
 「そ、それとも、ちょっとはしゃぎすぎ？　いけないいけない、らしくなかったわね」=“Or am I getting a little carried away?　No, no, no. That's not like you.”
-（すっごく[H名]らしいし、微笑ましいけど……）=“(It's very [H名]an and it makes me smile, but ...)”
+（すっごく[H名]らしいし、微笑ましいけど……）=(It's very [H名]an and it makes me smile, but ...)
 「子供みたい、って思った？」=“Do you think I look like a kid?”
 「全然？　せっかく来たんだから楽しめた方がいいに決まってるよ」=“Not at all?　Of course you should have fun since you're here.”
 「そうよね！　ほら、ぼやぼやしてないでもっと奥に行きましょ。あたし、ペンギン見たい」=“That's right!　Come on, let's go deeper. I want to see penguins.”

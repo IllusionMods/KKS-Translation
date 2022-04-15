@@ -370,7 +370,7 @@
 「……こらー、こんなときにその呼び方はなし！」=“...... Hey, you can't call me that at a time like this!”
 「えへへ……[Pあだ名]」=“Heh heh ... [Pあだ名].”
 「う～、今のすごくラブラブカップルっぽかったね♪」=“That was so lovey-dovey.”
-「うん、いいよ。今日はいつもよりラブラブなエッチがしたいな、[Pあだ名]」=“'Yeah, fine. I'd like to have more lovey-dovey sex today than usual, [Pあだ名].”
+「うん、いいよ。今日はいつもよりラブラブなエッチがしたいな、[Pあだ名]」=“Yeah, fine. I'd like to have more lovey-dovey sex today than usual, [Pあだ名].”
 「ねね、さっき友達からエッチな話聞いちゃって……エッチしたくなったの。ダメかな？　[Pあだ名]」=“I heard a naughty story from a friend earlier and I want to ... have sex with her. Is that bad?　[Pあだ名].”
 「やっほー、お話しよっ？」=“Hey, you want to talk about it?”
 「やっほー、[Pあだ名]。お話しよっ？」=“I'm not sure I'm going to be able to do it. Want to talk?”

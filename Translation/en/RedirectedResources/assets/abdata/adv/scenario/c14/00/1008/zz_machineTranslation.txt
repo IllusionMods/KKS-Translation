@@ -2,7 +2,7 @@
 「ああ、半端ねぇな。星が降り注いでやがる……」=“Oh, it's so great. The stars are falling. ......”
 「うん、空が明るく見えるくらいだ」=“Yeah, the sky is so bright.”
 「……やべえな」=“...... Oh, man.”
-（[H名]、空に見惚れちゃってる……）=“([H名], I've been admiring the sky...)”
+（[H名]、空に見惚れちゃってる……）=([H名], I've been admiring the sky...)
 「あー……こんな時、バカだとダメだな。気の利いた言葉がなんにも出てこねぇ」=“Oh, ......, you can't be stupid at a time like this. I can't think of anything clever to say.”
 「バカとか関係ないでしょ。俺も圧倒されてたよ」=“I don't care if you're stupid or not. I was overwhelmed, too.”
 「圧倒か。ああ、それもそうなんだけどよ……気の利いたっていうのはそういうことじゃなくて」=“Overwhelming. Yeah, that's true, too. ...... That's not what I meant by clever.”

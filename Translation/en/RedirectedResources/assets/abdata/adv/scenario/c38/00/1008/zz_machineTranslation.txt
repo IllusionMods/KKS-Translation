@@ -4,7 +4,7 @@
 「あはは、そんなに感動されるとちょっと照れるけど……うん、俺もこの景色は一生忘れない」=“Haha, I'm a little embarrassed that you're so impressed. ...... Yeah, I'll never forget this view.”
 「だったら、二人だけの宝物の思い出ですね。それも嬉しい……」=“If so, it's a treasured memory for the two of us. That would be great too. ......”
 「ふふっ、私、貴方とお付き合いを始めて……なんだか感動屋さんになってしまったみたいです」=“Hmmm, I think I've become ...... a bit of an emotional person since I started dating you.”
-「感動屋か……俺もそうだよ。[H名]と一緒にいると、なんでも楽しくて……どんなことでも尊く感じるんだ」=“'You're an emotionalist, ... so am I. When I'm with [H名], everything is so much fun and ... everything feels precious.”
+「感動屋か……俺もそうだよ。[H名]と一緒にいると、なんでも楽しくて……どんなことでも尊く感じるんだ」=“You're an emotionalist, ... so am I. When I'm with [H名], everything is so much fun and ... everything feels precious.”
 「は……ぅ……もう……貴方は私を喜ばせることが上手すぎます……」=“Ha ...... Oh ...... Oh ...... You're too good at pleasing me ......”
 「いつもいきなりそういうことを言われるから……私、顔がにやけないようにするの大変なんですよ」=“It's hard for me to keep my face from smiling ...... because you always say things like that out of the blue.”
 「そういう顔の[H名]も可愛いよ。海ほたるの光に照らされて……綺麗だ」=“[H名] is cute with that kind of face. It's ... beautiful in the light of the sea fireflies.”
@@ -24,4 +24,4 @@
 「こんな素敵な海を見られた感動も、誰かを好きになる喜びも……全部全部、貴方のものです」=“The excitement of seeing such a beautiful sea and the joy of falling in love with someone ...... are all yours.”
 「どうかこれからも……私のことを独り占めしてくださいね。ずっとずっと貴方だけの私でいさせてください……大好き……」=“Please continue to ...... keep me all to yourself. Please let me be yours forever and ever. ...... I love you. ......”
 「うん、俺も。大好きだよ、[H名]」=“Yeah, me too. I love you, [H名].”
-（こんなに想ってくれるなんて……これからも[H名]のことを大切にしよう）=“(I can't believe you think of me this much ... Let's continue to take good care of [H名])”
+（こんなに想ってくれるなんて……これからも[H名]のことを大切にしよう）=(I can't believe you think of me this much ... Let's continue to take good care of [H名])

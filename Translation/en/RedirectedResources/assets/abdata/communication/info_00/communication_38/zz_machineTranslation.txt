@@ -403,4 +403,4 @@
 「いいですよ。……[Pあだ名]……貴方のお誘いでしたら、喜んで」=“I'm good. I would be happy to ...[Pあだ名] ... at your invitation.”
 「あの……[Pあだ名]……エッチ、しませんか？」=“Um, ...[Pあだ名] ... would you like to have sex?”
 「ふふっ、よかったらお話しませんか？」=“Hmm. Would you like to talk about it?”
-「ふふっ、[Pあだ名]。よかったらお話しませんか？」=“'Hmmm, [Pあだ名]. Would you like to talk about it?”
+「ふふっ、[Pあだ名]。よかったらお話しませんか？」=“Hmmm, [Pあだ名]. Would you like to talk about it?”

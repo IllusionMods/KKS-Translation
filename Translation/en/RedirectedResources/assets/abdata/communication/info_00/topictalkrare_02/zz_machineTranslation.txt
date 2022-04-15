@@ -108,7 +108,7 @@
 「……笑うだけで性欲解消できるの？」=“...... Can you get rid of your libido just by laughing?”
 「おほほほほほ！　こうして笑って、話題をごまかしているだけですわ！」=“Laugh out loud!　Laughing like this is just a way to disguise the topic!”
 「……やっぱり欲求不満があったりするってことだね」=“...... So you're frustrated after all.”
-「……時々、思い出すんだよね。[H名]との初めての時のこと……最高だったなーって」=“'... sometimes I think back to it. I think about my first time with [H名] and how ... great it was.”
+「……時々、思い出すんだよね。[H名]との初めての時のこと……最高だったなーって」=“... sometimes I think back to it. I think about my first time with [H名] and how ... great it was.”
 「お～ほっほっほっほ！　当然でしょう？　このわたくしが相手なのですから」=“Oh, ho, ho, ho!　Of course, right?　It's me you're dealing with.”
 「そっちはどうなの？　忘れられない思い出になってる？　それともトラウマ？」=“What about you?　Is it a memory you'll never forget?　Or is it traumatic?”
 「おバカなこと、聞かないでいただけて？　素晴らしい思い出ですわよ！」=“Don't be silly, please.　It's a wonderful memory!”

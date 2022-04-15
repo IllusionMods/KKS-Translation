@@ -398,7 +398,7 @@
 「ん？　どうしたの[Hあだ名]」=“Hmm?　What's wrong, [Hあだ名]?”
 「……呼んだだけよ、なんでもないわ」=“I'm just calling ....... It's nothing.”
 「……いいわ。……気持ちよくしてね？　[Pあだ名]」=“I'm going to go to ... and say, Okay. Make ... feel good, okay?　[Pあだ名].”
-「ねぇ……私の欲求、解消してくれる？ 　[Pあだ名]」=“'Hey ... can you relieve me of my cravings? 　[Pあだ名].”
+「ねぇ……私の欲求、解消してくれる？ 　[Pあだ名]」=“Hey ... can you relieve me of my cravings? 　[Pあだ名].”
 「時間があるなら話をしない？」=“If you have time, why don't we talk?”
 「[Pあだ名]、時間があるなら話をしない？」=“[Pあだ名], if you have time, why don't we talk?”
 「きゃっ！　あ、あなたね。入ったらダメなことくらい分かるでしょう？」=“Yikes!　Oh, it's you. You know you're not supposed to be in here, right?”

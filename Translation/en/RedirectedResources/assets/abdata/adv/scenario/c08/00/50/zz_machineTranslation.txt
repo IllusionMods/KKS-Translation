@@ -3,4 +3,4 @@
 「一番好きなおにぎりの具が変わっちゃいそうだよぉ」=“The most important thing is that we are here together. - I think I'm going to have to change my favorite rice ball ingredient.”
 「ずいぶん気に入ったみたいだね。でも、そんなに食べて大丈夫？　スイーツが入らなくなっちゃうよ」=“You seem to like it a lot. But can you eat that much?　You're going to run out of sweets.”
 「う……で、デザートは……諦めることにするね」=“I think I'll give up ...... for dessert.”
-（[H名]がスイーツよりおにぎりを取るとは……本当に好きなんだな）=“(You must really like ... that [H名] would take rice balls over sweets)”
+（[H名]がスイーツよりおにぎりを取るとは……本当に好きなんだな）=(You must really like ... that [H名] would take rice balls over sweets)

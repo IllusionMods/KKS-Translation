@@ -4,7 +4,7 @@
 「あぁ、愛称ってそういうねー。えへっ、キミの趣味がちょっと分かった気がするさー」=“Oh, that's what nicknames are for. Oh, I think I know your taste a little better now.”
 「もしかして……ちょっと引いた？」=“Maybe ...... you're a little off?”
 「ううん、そんなことないよー。ちょっと待ってねぇ……どんな感じで呼ぶか考えてるからー」=“No, I'm not. No, I don't think so. Wait a minute. ...... I'm trying to think of something to call you.”
-「……よし、じゃあ呼ぶよー。[Pあだ名]……こんな感じでいいー？」=“'... Okay, I'll call you then. [Pあだ名]... like this?”
+「……よし、じゃあ呼ぶよー。[Pあだ名]……こんな感じでいいー？」=“... Okay, I'll call you then. [Pあだ名]... like this?”
 「いい！　凄くいい！　ありがとう[Hあだ名]！」=“I love it!　Very nice!　Thank you [Hあだ名]!”
 「わっ、自分もあだ名で呼んでくれるのー？　なんだかちょっと、ゾクってしたよー」=“Wow, you call yourself by a nickname?　Oh, you call me by my nickname too? I'm a little creeped out.”
 「はは、それはいい意味で？」=“Ha, you mean that in a good way?”

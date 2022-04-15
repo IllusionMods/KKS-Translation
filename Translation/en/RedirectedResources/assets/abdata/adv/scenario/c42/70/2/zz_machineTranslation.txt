@@ -1,4 +1,4 @@
-（よし……[H名]に告白をしよう。こんな最高のシチュエーションは他にはそうないはず……！）=“(Okay, I'll confess to [H名] at ... There can't be many other situations like this one ...!)”
+（よし……[H名]に告白をしよう。こんな最高のシチュエーションは他にはそうないはず……！）=(Okay, I'll confess to [H名] at ... There can't be many other situations like this one ...!)
 「ねぇねぇ、さっきから難しい顔をしてるけどどうしたのー？」=“Hey, hey, what's wrong with your difficult face?”
 「あ、いや……なんでもないよ。ちょっと考えごとをしててさ」=“Oh, no, it's ...... nothing. I was just thinking.”
 「えー、なにそれー。私と一緒にいるのに、別のことを考えてたの？」=“What is that? You're with me and you had something else in mind?”

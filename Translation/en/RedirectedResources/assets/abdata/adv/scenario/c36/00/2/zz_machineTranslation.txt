@@ -1,4 +1,4 @@
-（今日、ここで、[H名]さんに告白をする……！）=“(Today, here, I'm confessing to [H名]: ...!)”
+（今日、ここで、[H名]さんに告白をする……！）=(Today, here, I'm confessing to [H名]: ...!)
 「[H名]さん、話があるんだ！」=“[H名], I need to talk to you!”
 「私に……？　何かしら。別に忙しいわけではないけど、手短にお願いするわ」=“You want me to go to ......?　What is it? I'm not busy, but I'll make it quick.”
 「家畜に時間をさいても、無駄になってしまいそうなんだもの」=“I don't want to waste my time on livestock.”

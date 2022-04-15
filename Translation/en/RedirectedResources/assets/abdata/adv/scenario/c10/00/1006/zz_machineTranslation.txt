@@ -4,7 +4,7 @@
 「それじゃあさっそく鐘を鳴らそうか」=“So let's ring the bell.”
 「ま、待つのだ！　聖なる儀式を執り行うには、それ相応の準備が必要であろう？」=“Wait, wait, wait.　To perform a sacred ritual, one must be prepared.”
 「えぇと、その……わ、我は悪魔故に、ホーリーでセイントなパワーに完璧な耐性があるわけでない。直に浴びてしまったら……」=“Well, you see, ......, I'm a demon, so I'm not completely immune to Holy and Saintly powers. If I were to be exposed to it directly, I would ......”
-「心の準備ができてないってことかな？　[H名]は初心だからなぁ」=“'You mean you're not ready for it?　[H名] is a first-timer.”
+「心の準備ができてないってことかな？　[H名]は初心だからなぁ」=“You mean you're not ready for it?　[H名] is a first-timer.”
 「初心ではない！　我の準備はとっくにできている！」=“It wasn't my first time!　I'm ready for this!”
 「それより汝だ。聖域を使った本格的な儀式を行った経験はないだろう？」=“It's thee. You've never performed a full-scale ritual in a sanctuary before, have you?”
 「確かに経験はないけど……何か特別な準備が必要なの？」=“I'm certainly not experienced with this. ...... Does it require any special preparation?”

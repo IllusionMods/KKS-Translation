@@ -34,7 +34,7 @@
 「ええええぇっ、私ぃ！？」=“Yeah, yeah, me?”
 「うん、そうだよ……あれ？　このシチュエーションじゃダメだった！？」=“Yes, I do. ...... Huh?　I'm not supposed to be in this situation!”
 「やっ、あっ、ううんっ、そんなことないっ！　うそっ……私……あのっ、え……し、信じられなくて……あの……本当に……私……？」=“No, no, no, no, no, no, no!　Oh, no, no, no, no! ...... really ...... me ......?”
-「うん、俺は[H名]に告白したんだよ。だから……返事を聞かせて欲しい」=“'Yeah, I confessed to [H名]. So I'd like to hear ... your reply.”
+「うん、俺は[H名]に告白したんだよ。だから……返事を聞かせて欲しい」=“Yeah, I confessed to [H名]. So I'd like to hear ... your reply.”
 「あ、あの……私……私こそっ……いつか君に告白したいって……思ってたよ……だからすごく、すごくすごくすごく嬉しいっ！！」=“Oh, you know, ...... I've ...... been wanting to confess to you ...... for a long time.”
 「私も君のことが大好きです。こんな私で良かったら……これから……恋人としてお付き合いしてください。よろしくお願いします」=“I love you too. If you are happy with me, please ...... be my lover from now on. I'm so happy for you.”
 「[H名]……うん、こちらこそ……これからは恋人としてよろしくね」=“[H名] ..., yes, it's my pleasure ... to be your girlfriend from now on.”

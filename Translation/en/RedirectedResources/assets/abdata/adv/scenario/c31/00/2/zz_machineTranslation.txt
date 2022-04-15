@@ -1,4 +1,4 @@
-（[H名]に告白をしよう……）=“(Confess to [H名] at ...)”
+（[H名]に告白をしよう……）=(Confess to [H名] at ...)
 （そう考えたのは良いけど、どう切り出したら良いんだろうか？）=(It's good that you thought of that, but how do I get it out?
 「……さっきから私をちらちら見ているが、どうかしたのか？」=“...... You've been glancing at me for a while now, what's wrong?”
 「えっ！？　あ、いやっ、別になんでもないんだけど……」=“What?　Oh, no, it's nothing. It's .......”

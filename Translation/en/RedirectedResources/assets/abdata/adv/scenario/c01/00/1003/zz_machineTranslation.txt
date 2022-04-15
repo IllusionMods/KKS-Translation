@@ -13,4 +13,4 @@
 「はい、その通りです。そう考えたら無駄な買い物ではないと思うのですが……」=“Yes, that's right. If you think about it, it's not a wasted purchase. ......”
 「うん、全然無駄じゃないね！　よし、そうと決まれば早速レジに行こう！」=“No, it's not a waste of time!　Okay, now that we've decided that, let's go to the register!”
 「ふふ、そんなに急がなくても大丈夫ですよ。お土産は逃げたりしませんから」=“Don't be in such a hurry. Don't be in such a hurry, the souvenirs won't escape.”
-（[H名]と同棲か……考えただけでワクワクするな）=“(Shacked up with [H名]... I'm excited just thinking about it.)”
+（[H名]と同棲か……考えただけでワクワクするな）=(Shacked up with [H名]... I'm excited just thinking about it.)

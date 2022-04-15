@@ -7,7 +7,7 @@
 「ちょ、それじゃあ悪口だって」=“Wait, that's a swear word.”
 「マニアック星人！　おしりプリプリ左衛門！」=“Maniac aliens!　Maniac aliens! - Butt-fucking lefty!”
 「えっと、あと、あと…………[Pあだ名]」=“Well, and, and, and ... [Pあだ名].”
-「……は、ははっ。素直じゃないなぁ、[Hあだ名]は」=“'... ha, ha. You're not being honest, [Hあだ名].”
+「……は、ははっ。素直じゃないなぁ、[Hあだ名]は」=“... ha, ha. You're not being honest, [Hあだ名].”
 「う……うるさいうるさ～いっ！　もう二度と呼ばないんだから、バカっ！」=“I'm not calling you again.　I'm never calling you again, you idiot!”
 「けっこう気に入ったんだけど……そんなに嫌がるなら、もう無理にお願いしないよ」=“I liked it a lot, but ...... if you don't like it that much, I won't ask you to do it anymore.”
 「えっ……！　あ……いや、恥ずかしいけど、そこまで嫌ってわけじゃ、なくて……その……」=“What? ......!　Oh, ...... no, I'm embarrassed, but it's not that I don't like you that much, it's just that .........”

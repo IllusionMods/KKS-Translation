@@ -2,8 +2,8 @@
 「Ａｈｈｈｈ～♪　風が気持ちイイ……」=“Ahhhh, the wind feels so good. ......”
 「波の音も癒されるしね」=“The sound of the waves is soothing, too.”
 「ウン……浜辺を歩くって、好きダヨ……」=“Yeah ......, I like walking on the beach. ......”
-（……なんだか、[H名]が遠い目をしてる気がするな……）=“(... I kind of feel like [H名] has a faraway look in her eyes...)”
-「もしかして、[H名]が育った国にもこんな浜辺があったの？」=“'Perhaps there were beaches like this in the country where [H名] grew up?”
+（……なんだか、[H名]が遠い目をしてる気がするな……）=(... I kind of feel like [H名] has a faraway look in her eyes...)
+「もしかして、[H名]が育った国にもこんな浜辺があったの？」=“Perhaps there were beaches like this in the country where [H名] grew up?”
 「Ｗｈａｔ’ｓ！？　ドウシテ、わかったノ？」=“What's?　What's that?”
 「なんかそんな顔してるなーって」=“I just thought you had that look on your face.”
 「Ｗｏｏ，ソレだけで伝わっちゃっタ？　嬉しいケド恥ずかしいカモ……ｏｈ，これがウレシハズカシっていうキモチ？」=“Woo, is that all you got?　I'm so happy, but I'm so embarrassed. ...... Oh, is this what it feels like to be happy and embarrassed?”

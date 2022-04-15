@@ -282,7 +282,7 @@
 「嫌……[P]から、好きって言ってほしい……」=“I don't want ... [P] to tell me he likes me...”
 「……ごめん。この話、後にしない？」=“I'm sorry, ....... Can we talk about this later?”
 「[H]、今日も可愛いね」=“[H], you look lovely today.”
-「うん……ありがとう。[P]は、いつも格好いいよ……」=“'Yeah ... thanks. [P] is always good looking...”
+「うん……ありがとう。[P]は、いつも格好いいよ……」=“Yeah ... thanks. [P] is always good looking...”
 「ふと、[H]の事だけを考える時があってさ……」=“There are times when all I can think about is [H]...”
 「……私も、[P]の事だけ考える時、あるよ……？」=“I also have times when I only think about [P]...?”
 「自慰とかって、するの？」=“Do you jerk off?”
@@ -370,7 +370,7 @@
 「……フフっ」「えへへ……」「ん……」=......" "......" "Heh heh heh" "......
 「……えっ、いや……」「それは……」「恥ずかしい……」=...... eh, no ...... that's ...... embarrassing ......
 「あのね……」「聞いて……」「えっとね……」=You know, ......, listen, ......, let's see, ......
-「……いいよ。　……[Pあだ名]。……また、嬉しそうな顔してる」=“'... okay.　...[Pあだ名]... You look happy again.”
+「……いいよ。　……[Pあだ名]。……また、嬉しそうな顔してる」=“... okay.　...[Pあだ名]... You look happy again.”
 「……いやだ」=“...... No.”
 「……何となく、呼んでみたくなった」=“...... I kind of wanted to call you that.”
 「……私も、[Pあだ名]と……したい。気持ちいこともっと、いっぱい」=“I want to ... with [Pあだ名], too. I want to do so much more.”

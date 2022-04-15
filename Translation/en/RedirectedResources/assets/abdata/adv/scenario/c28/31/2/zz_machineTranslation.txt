@@ -36,7 +36,7 @@
 「格好いいところを見せられるように頑張るよ」=“I'll do my best to show you something cool.”
 「格好よくなどなくてもよい。大切なのは、わしがお主を思うのと同じくらい、お主がわしを思ってくれることなのじゃ」=“I don't have to look good. What's important is that you think of me as much as I think of you.”
 「……わしはその、意外と欲張りだから」=“...... I'm a bit greedy, you know.”
-「約束するよ。いつまでも[H名]のことを思い続けるって」=“'I promise you. I will always think of [H名].”
+「約束するよ。いつまでも[H名]のことを思い続けるって」=“I promise you. I will always think of [H名].”
 「軽々に口にしていい言葉ではないと言ったぞ？」=“I told you that's not a word I like to hear.”
 「も、もちろん」=“Of course.”
 「ならばその思いを全て、ありのままに受け止めるからのう。だから……末永くよろしく頼むのじゃ」=“Then I'll ring this bell with all my heart! Then I'll take all your wishes as they come, and you'll have ...... for many years to come.”

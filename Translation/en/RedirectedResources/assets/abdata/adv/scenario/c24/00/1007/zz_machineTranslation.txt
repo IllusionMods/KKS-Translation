@@ -15,4 +15,4 @@
 「ふふ♡　そうですけど、あなたが隠したそうにしてることは、あえて見ないふりしています♡」=“Yes, but I'm pretending not to see what you're trying to hide from me.”
 「もしかして俺、めちゃくちゃ甘やかされてる？」=“Maybe I'm too spoiled for my own good?”
 「甘やかしてるなんて♡　私はただ、私といるときのあなたが少しでも生きやすいようにしているだけです♡」=“I'm just trying to make your life a little easier when you're with me.”
-（いろいろ気を使ってくれてるんだな……俺も[H名]のことを少しでも生きやすくしてあげたいよ）=“(I know you care about a lot of things ... I'd like to make life a little easier for [H名] too)”
+（いろいろ気を使ってくれてるんだな……俺も[H名]のことを少しでも生きやすくしてあげたいよ）=(I know you care about a lot of things ... I'd like to make life a little easier for [H名] too)

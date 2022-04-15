@@ -10,4 +10,4 @@
 「それも楽しそうね。じゃあ、貴方が失敗したら、そのたびにお仕置きを一回ね」=“That sounds like fun. Then every time you make a mistake, I'll give you a spanking.”
 「そんな！？」=“Oh, no.”
 「ほら、早く打ってきなさい。私が打ち返せないような球が来てもお仕置きよ」=“Go ahead, hit it. If you hit a ball that I can't hit back, you'll be punished.”
-「くっ……い、行くよ、[H名]さん！　南無三！！」=“'Damn ..., I'm coming, [H名]!　Nanmuso!”
+「くっ……い、行くよ、[H名]さん！　南無三！！」=“Damn ..., I'm coming, [H名]!　Nanmuso!”

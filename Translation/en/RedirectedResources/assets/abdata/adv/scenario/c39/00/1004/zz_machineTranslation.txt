@@ -18,7 +18,7 @@
 「もう、だからさっきのは急かしてるとかじゃないって……キミは優しいのか意地悪なのか時々分からないさー」=“I'm not trying to rush you. ...... I don't know if you're nice or mean sometimes.”
 「ごめん。ほら、好きな子には意地悪したくなっちゃうって言うでしょ？」=“I'm sorry. You know how they say you want to be mean to the girl you like?”
 「んー、そういうことなら……仕方ないってことにしておいてあげるさー。えへへ、好きな子かぁ……」=“Hmm, if that's the case, I'll just pretend ...... that I have no choice. Heh, you're my favorite girl. ......”
-「うん、俺は[H名]が大好きだよ。なんなら海に向かって叫んであげようか？」=“'Yeah, I love [H名],' he said. If you want, I can scream it out to the ocean for you.”
+「うん、俺は[H名]が大好きだよ。なんなら海に向かって叫んであげようか？」=“Yeah, I love [H名],' he said. If you want, I can scream it out to the ocean for you.”
 「ちょっ、待って！　それは流石に恥ずかし過ぎて……この海に来れなくなってしまうよー」=“Wait, wait, wait!　I'm too embarrassed to come to ...... this beach.”
 「じゃあ、小声で……[H名]、愛してる」=“Then whisper ... [H名], I love you.”
 「あ……自分も……かなさんどー。愛してるよー」=“Oh ......, I love you too ......, Kana-sando. I love you.”

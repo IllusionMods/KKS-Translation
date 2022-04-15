@@ -18,4 +18,4 @@
 「そうですね、研修旅行に来る前に厳しく言いつけられました。ですが貴方とお付き合いさせていただいている以上、私は貴方の意見を優先させます」=“Yes, I was strictly warned before I came on the trip. Yes, I was given strict instructions before I came on the trip, but now that I am in your company, I will give priority to your opinion.”
 「厳しい家ではありますが、その厳しさは私があの家から巣立った後、立派な女として生きるためだと心得ております」=“It's a strict house, but I know that strictness is for me to live as a respectable woman after I leave that house.”
 「ですから、私の知らないことを沢山教えてください。この島では家のことは考えず、貴方のことを考えていたいのです」=“So please teach me many things that I do not know. I don't want to think about home on this island, I want to think about you.”
-（[H名]、俺とのことを真剣に考えてくれてるんだな。俺もいろいろ教えてあげよう）=“([H名], you are serious about what you are doing with me. I'll teach you things too.)”
+（[H名]、俺とのことを真剣に考えてくれてるんだな。俺もいろいろ教えてあげよう）=([H名], you are serious about what you are doing with me. I'll teach you things too.)

@@ -10,7 +10,7 @@
 「こっちだって、その…………期待、してるんだから」=“I'm looking forward to your ............ response too.”
 「[H名]は可愛いね」=“[H名] is adorable.”
 「な、なによ？　ふざけてるの？　私は……」=“What? What?　Are you kidding me?　I'm .......”
-「本当に思ったことを言っただけだよ。[H名]は恋に前向きで……だから、なのかな？」=“'I was just saying what I really thought. Is it because [H名] is so positive about love and ...?”
+「本当に思ったことを言っただけだよ。[H名]は恋に前向きで……だから、なのかな？」=“I was just saying what I really thought. Is it because [H名] is so positive about love and ...?”
 「この海みたいにいつもキラキラ輝いて見えるよ」=“It always looks as sparkling as this sea.”
 「ぅ……や、やればできるじゃない」=“Oh, ......, you can do it.”
 「いやー、思ったことを言っただけだけど……さすがにちょっと照れくさいね」=“No, I was just saying what I was thinking. ...... You're a little embarrassed.”

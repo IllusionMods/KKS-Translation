@@ -20,7 +20,7 @@
 「ふぇ……ぇ……女の子として好き……？　そ、それってつまり……」=“I like ...... as a girl. ......?　Yeah, that's what I mean. ......”
 「えええぇっ！？」=“What?”
 「あ、あははっ！　ちょ、ちょっと待って！　せ、整理するけんっ！」=“Hahaha!　Wait, wait, wait!　I'll sort it out!”
-（[H名]、顔が真っ赤になってる。これはきちんと伝わったかな？）=“([H名], your face is turning red. Did I convey this properly?)”
+（[H名]、顔が真っ赤になってる。これはきちんと伝わったかな？）=([H名], your face is turning red. Did I convey this properly?)
 「女の子として好きってことは……こ、恋人っていうか……そういう関係になりたいってこと？」=“If you like me as a girl, does that mean you want to be my girlfriend, or do you want to be my ...... girlfriend?”
 「そのつもり……なんだけど……あっ、もちろん[H名]さえ良ければの話だよ？」=“That's what I'm going ... to do... Oh, as long as it's okay with [H名], of course?”
 「だからその……返事、聞かせてもらえるかな？」=“So can I hear your ...... reply?”

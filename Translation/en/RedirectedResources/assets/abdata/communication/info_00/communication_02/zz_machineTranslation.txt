@@ -410,7 +410,7 @@
 「大胆ですわね。でも、よくってよ。満足させてくださいね？　[Pあだ名]」=“I'm bold, he said. But well. Satisfy me, won't you?　[Pあだ名].”
 「その……あなたが傍にいるだけで、疼いてしまいますの。お相手してくださらない？　[Pあだ名]」=“That ... makes me tingle just being around you. Will you please play with me?　[Pあだ名].”
 「おーっほっほっほ！　ごきげんよう。楽しくお話をしたい気分ですの、お相手してくださらない？」=“Whoo-hoo-hoo!　How do you do? I'm in the mood for a good chat. Would you like to join me?”
-「おーっほっほっほ！　ごきげんよう、[Pあだ名]。楽しくお話をしたい気分ですの、お相手してくださらない？」=“'Oh-ho-ho!　Good day to you, [Pあだ名]. I'm in the mood for a nice chat, would you like to join me?”
+「おーっほっほっほ！　ごきげんよう、[Pあだ名]。楽しくお話をしたい気分ですの、お相手してくださらない？」=“Oh-ho-ho!　Good day to you, [Pあだ名]. I'm in the mood for a nice chat, would you like to join me?”
 「おほほ、わたくしの魅力も罪なものね。幸い他に人はいませんが……長居はせず、すぐ出て行ってくださいね」=“I'm in the mood for a good chat. Fortunately, there is no one else in the room, but please do not stay too long and leave immediately.”
 「まったく……ここは殿方がきていい場所ではありませんわ」=“This ...... is not a place for gentlemen to come.”
 「……仕方のない人。今は二人きりですし、少しの間だけですよ？」=“...... You can't help it. It's just you and me now, and it's only for a little while.”

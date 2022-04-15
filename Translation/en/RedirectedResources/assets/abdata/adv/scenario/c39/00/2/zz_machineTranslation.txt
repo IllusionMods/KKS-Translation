@@ -1,4 +1,4 @@
-（満天の星、浜辺で二人きり……ムードはバッチリだ。これは大チャンス！　[H名]に告白しよう……）=“(Full of stars, just the two of us on the beach... The mood is perfect. This is a great opportunity!　(Let's confess to [H名]: ...)”
+（満天の星、浜辺で二人きり……ムードはバッチリだ。これは大チャンス！　[H名]に告白しよう……）=(Full of stars, just the two of us on the beach... The mood is perfect. This is a great opportunity!　(Let's confess to [H名]: ...)
 「見て―、びっくりするくらい星が綺麗だよー。こんな素敵な浜辺を二人で貸し切りなんて、贅沢過ぎるねー」=“Look, the stars are amazingly beautiful. I can't believe we have the whole beach to ourselves.”
 「そうだね。凄く綺麗な夜空だ……[H名]と二人きりで見られて良かったよ」=“I guess so, he said. It's a very beautiful night sky... I'm glad [H名] and I got to see it alone.”
 「えへへ、夜の浜辺で二人きりかぁ……ちょっとドキドキするねぇ……」=“Heh, just the two of us on the beach at night. ...... I'm a little nervous. ......”
@@ -9,9 +9,9 @@
 「怖い話じゃないよ。少なくとも、[H名]にとっては……」=“I don't mean to scare you, he said. At least, not for [H名]...”
 （俺はもし断られたらって思うと……怖くて仕方ないけど……）=(I'd be ...... terrified if he said no, but ......)
 「どうしたの？　ちょっと震えて……もしかして寒い？　ごめんね、気付かなくて……自分は涼しいくらいだったから」=“What's wrong?　You're shivering. ...... Are you cold?　I'm sorry, I didn't notice. ...... I was just feeling cool.”
-「いや、寒いわけじゃないから大丈夫。それより[H名]……唐突な話なんだけど……聞いてくれるかな？」=“'No, it's not cold, I'm fine. More importantly, [H名],... I know this is a bit sudden, but can you ... listen to me?”
+「いや、寒いわけじゃないから大丈夫。それより[H名]……唐突な話なんだけど……聞いてくれるかな？」=“No, it's not cold, I'm fine. More importantly, [H名],... I know this is a bit sudden, but can you ... listen to me?”
 「うん、いいけど……えっと、ううん、なんも言わないで……最後までちゃんと聞くね」=“Yeah, that's good. ...... Uh, no, no, don't say anything. ...... I'll hear you out.”
-（雰囲気で察してくれたのかな……[H名]の顔、少し赤くなってる気がする……）=“(I think you could tell by the mood ... [H名]'s face, I think it's getting a little red ...)”
+（雰囲気で察してくれたのかな……[H名]の顔、少し赤くなってる気がする……）=(I think you could tell by the mood ... [H名]'s face, I think it's getting a little red ...)
 （でも、ここで嫌がられないってことはきっと脈アリだ……勇気を出せ、俺……！）=(But if he doesn't hate me here, then he must have a pulse. ...... Be brave, me ......!
 「[H名]……キミのことが好きなんだ！　付き合って欲しい！」=“[H名] ... likes you!　I want you to go out with me!”
 「あ……え、じゅんになぁー？　ほんとにキミが自分のことを？」=“...... What?　Do you really think you're the one?”
@@ -42,7 +42,7 @@
 「この綺麗な星空、自分は忘れないよー。キミに好きって言ってもらえた時の嬉しさも……絶対忘れない」=“I'll never forget this beautiful starry sky. I'll never forget this beautiful starry sky. I'll never forget how happy I was when you said you loved me. ......”
 「俺も忘れないよ。この浜辺は……この島は僕達の特別な場所になったね」=“I'll never forget it. I'll never forget it. This beach, ......, this island, it became our special place.”
 「もう、この島に住みたいくらいさー。キミと二人で……なんて、ちょっとあわて過ぎかねぇ……」=“I want to live on this island with you. I want to live on this island so badly, I can't even ...... with you.”
-「いや、俺も二人でこの島に住みたいって思ってたよ。でも……今はゆっくり、もっと[H名]のことを知りたいかな」=“'No, I've always wanted the two of us to live on this island. But ... now, I think I'll slow down and get to know [H名] better.”
+「いや、俺も二人でこの島に住みたいって思ってたよ。でも……今はゆっくり、もっと[H名]のことを知りたいかな」=“No, I've always wanted the two of us to live on this island. But ... now, I think I'll slow down and get to know [H名] better.”
 「えへへ、何でも教えるよー。恋人同士だからねー、お互い秘密は無しがいいなぁ……」=“I'll teach you everything I know. I'll tell you anything you want to know. We're lovers, so no secrets from each other. ......”
 「それはもちろん。俺のことだって、何でも[H名]に教えるよ」=“Of course. I'll tell [H名] anything, even about me.”
 「うーん、まずはどうしたらいいかねー。キミに聞きたいことも、キミと一緒にやりたいことも多過ぎて……」=“Well, what should I do first? There are so many questions I want to ask you and so many things I want to do with you. ......”

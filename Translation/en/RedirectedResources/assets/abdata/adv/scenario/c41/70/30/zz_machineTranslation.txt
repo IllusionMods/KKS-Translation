@@ -5,4 +5,4 @@
 「ちょうど赤い宝石の剣と青い宝石の剣の２種類あるし、よかったら一緒に観光した記念に買う？　好きな方選んでいいよ」=“I have a red gem sword and a blue gem sword, if you want to buy one to commemorate our sightseeing together.　You can choose whichever you like.”
 「えっ、買う買う！　赤と青……う～～ん……すごく悩むけど、あーでも……青！　青い宝石の剣にする！　選ばせてくれてありがとう！」=“What? I'll buy it!　Red and blue ...... hmmm ...... I'm so torn, ah but ...... blue!　I'll take the blue gem sword!　Thanks for letting me choose!”
 「あはは、喜んでもらえてよかったよ。じゃあレジに行こうか」=“I'm glad you're pleased. Shall we go to the cash register then?”
-（髪飾りより剣の方が好きなんて、ちょっと変わってるなぁ。でも、[H名]がちょっとだけ身近に感じられるようになったかも……）=“(It's a bit odd that you like swords more than hair ornaments. But maybe I feel a little bit closer to [H名] now...)”
+（髪飾りより剣の方が好きなんて、ちょっと変わってるなぁ。でも、[H名]がちょっとだけ身近に感じられるようになったかも……）=(It's a bit odd that you like swords more than hair ornaments. But maybe I feel a little bit closer to [H名] now...)

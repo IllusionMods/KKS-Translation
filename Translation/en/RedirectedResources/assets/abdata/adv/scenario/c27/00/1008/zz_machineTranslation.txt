@@ -12,7 +12,7 @@
 「ご、ごめん。水を差すようなこと言っちゃったわ！　センスないわね……私」=“I'm sorry. I'm sorry, I didn't mean to interrupt your conversation!　You have no taste. ...... me.”
 「そんなことないよ。むしろ、逆かな」=“That's not true. It's more like the opposite.”
 「……逆って？」=“...... backwards?”
-「本当に世界の終わりだったとしても、一緒にいるのが[H名]だからね。そういう意味ではよかった」=“'Even if it really was the end of the world, it would still be [H名] that I would be with. In that sense, thank goodness.”
+「本当に世界の終わりだったとしても、一緒にいるのが[H名]だからね。そういう意味ではよかった」=“Even if it really was the end of the world, it would still be [H名] that I would be with. In that sense, thank goodness.”
 「そう、ね……私も同じ気持ちよ」=“Yeah, well, ...... I feel the same way.”
 「隣にいるのがあんたで、目に映るのが……こんなに眩しい夜なら」=“When you're next to [H名] and it's ...... such a bright night in your eyes.”
 「怖くない？」=“You're not scared?”

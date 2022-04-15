@@ -1,4 +1,4 @@
-（もう[H名]に対する気持ちを抑えられない。今日こそ告白しよう！）=“(I can't hold back my feelings for [H名] any longer. Today is the day I'm going to confess my feelings!)”
+（もう[H名]に対する気持ちを抑えられない。今日こそ告白しよう！）=(I can't hold back my feelings for [H名] any longer. Today is the day I'm going to confess my feelings!)
 「はぁぁ……この時間のビーチって、なんだか落ち着きますね。星がたくさん出てて……暗いのに明るくて……」=“Haa ...... The beach at this time of the day is kind of relaxing. There are a lot of stars out ...... and it's dark but bright .......”
 「それに……貴方と二人きりだからか……波の音もいつもと違う感じがします」=“And ...... maybe it's because I'm alone with you, but ...... the sound of the waves is different than usual.”
 「うん、そうだね。なんだか特別な感じがする……」=“Yeah, I guess so. It's kind of special. ......”
@@ -8,7 +8,7 @@
 「なんて……ちょっと乙女すぎますね。ふふっ、ごめんなさい」=“What a ...... little too much of a girl. I'm sorry.”
 「あっ、ほら、見てください。都会だとあまり見えない星座もよく見えます。心が広くなるような気がしませんか?」=“Oh, look at that. You can see the constellations that are not so visible in the city. Doesn't it make you feel more open-minded?”
 「うん、確かに。この星空を見上げていると、小さなことなんて気にならなくなりそう」=“Yes, indeed. When I look up at this starry sky, I don't care about the little things.”
-（照れてる[H名]、可愛いな。この流れのまま、はっきり伝えよう）=“([H名] is so cute when she's embarrassed. (Let's keep this going and tell her clearly.)”
+（照れてる[H名]、可愛いな。この流れのまま、はっきり伝えよう）=([H名] is so cute when she's embarrassed. (Let's keep this going and tell her clearly.)
 「あのさ、[H名]。実は……大切な話があるんだ」=“You know, [H名], he said. I actually ... have something important to tell you.”
 「え……大切な話……？　えぇっと……ど、どういうお話でしょうか……？」=“What ...... is so important ...... you want to talk about?　Well ......, what's the story ......?”
 「っ……えっ！？　えぇっとっ……そのっ……あのっ……ま、待ってください。今、何て仰いましたか？」=“...... What?　Well, ...... that ...... that ...... that ...... wait, wait, wait. What did you just say?”

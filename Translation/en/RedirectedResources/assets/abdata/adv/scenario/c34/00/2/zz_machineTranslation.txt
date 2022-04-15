@@ -1,5 +1,5 @@
 （……よし、告白しよう）=(......All right, I'll confess.)
-「[H名]のことが好きなんだ、俺と付き合ってくれないかな」=“'I like [H名], will you go out with me?”
+「[H名]のことが好きなんだ、俺と付き合ってくれないかな」=“I like [H名], will you go out with me?”
 「Ａ……ｏ……」=“A......o......”
 「青？」=“Blue?”
 「イエイエッ！　の、Ｎｏｔ　ｂｌｕｅデース！　エト、アノ……ス、スキ、デスヨネ？　ワタシのコトが、アアッ、何か感じワルイ言い方ニ！」=“Yay!　Not blue!　Not blue! Et, ano ...... suki desu ne?　I don't like the way you're talking about me.”

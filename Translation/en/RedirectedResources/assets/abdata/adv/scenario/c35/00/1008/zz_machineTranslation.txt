@@ -4,7 +4,7 @@
 「やろ？　こういうの、好きな人と一緒に見られるだけで幸せやない？　やけん……ふふっ、君と見られて嬉しい」=“You know what?　I'm sure you'll be happy to know that you can watch these things with someone you love.　I'm happy to watch it with you.”
 「あはは、俺だって同じだよ。こんなに綺麗な星空……[H名]と見られて嬉しい」=“Haha, it's the same for me. I'm glad to see such a beautiful starry sky ... with [H名].”
 「本当？　あはは、だったらますます幸せ♪　あの光の一つ一つがどのくらいの旅をしてきたか……一緒に思いを馳せてみよ？」=“Really?　Haha, then I'm even happier. ...... Let's think together about how far each of those lights has traveled, shall we?”
-（流れ星の旅かぁ……[H名]らしい考え方だな）=“(A shooting star trip... That's a very [H名]an way of thinking.)”
+（流れ星の旅かぁ……[H名]らしい考え方だな）=(A shooting star trip... That's a very [H名]an way of thinking.)
 「ここまで来るには色々な星の近くを通ってきたんだろうね」=“We must have passed by a lot of stars to get here.”
 「うん……どこで生まれたかは分からんけど……きっと色んなものを見てきたとよ。で、今こうやってキラキラしとる……」=“I don't know ...... where you were born, but I'm sure ...... you've seen a lot of things. And now you're shining like this .......”
 「なんか……自分勝手な考え方やけど……私たちのために光ってくれとるみたいな気にならん？」=“It's kind of ...... selfish, but doesn't it feel like ...... it's glowing for us?”

@@ -1,5 +1,5 @@
 「なっ……なんだと！　貴殿は今、我と……その、ェッチしたいと言ったのか？」=“What the ......?　Did you just say you want to ......, you know, have sex with me?”
-「うん、言ったよ。[H名]とエッチしたいって……ダメかな？」=“'Yes, I did say that. I want to have sex with [H名]... No?”
+「うん、言ったよ。[H名]とエッチしたいって……ダメかな？」=“Yes, I did say that. I want to have sex with [H名]... No?”
 「ダメ……ではないが。本当に良いのだろうか？　我等はまだ恋人同士というわけでもないのだぞ？」=“Not that no....... Is it really good?　We're not even lovers yet, are we?”
 「分かってる。だから、[H名]が嫌なら断ってくれていいよ」=“I know. So if [H名] doesn't want to, she can say no.”
 「むぅ……貴殿は卑怯だ。いや、正々堂々過ぎるのか？　どちらにせよ……承知した。我も貴殿となら……構わない」=“Muu...... you are a coward. Or is that too fair?　Either way, ...... agreed. I would be ...... fine with you too.”

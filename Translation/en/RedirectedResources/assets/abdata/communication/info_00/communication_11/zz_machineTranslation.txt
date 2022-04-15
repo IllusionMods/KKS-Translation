@@ -394,7 +394,7 @@
 「な、なぁに？」「やん」「えーっとぉ……」「ん、ん～？」="What's that?" "Hmmm... ...... Hmmm...?
 「ね～え」「あのね」「ちょっとあなた」「今、いーい？」=Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey.
 「ねぇ、[Hあだ名]。愛称でよんでほしいな」=“Hey, [Hあだ名]. I wish you'd call me by my nickname.”
-「ふふ、いいわよ。……[Pあだ名]」=“'Hmmm, okay... [Pあだ名].”
+「ふふ、いいわよ。……[Pあだ名]」=“Hmmm, okay... [Pあだ名].”
 「もう、調子がいいんだから。そんな甘えた声で言っても、メッ！　よ」=“You're doing great. You're in such a good mood.　Meh.”
 「うふふ、[Pあだ名]」=“Uh-huh, [Pあだ名].”
 「ちょっと、愛称で呼んでみたかったの♪」=“I just wanted to call you by your nickname.”

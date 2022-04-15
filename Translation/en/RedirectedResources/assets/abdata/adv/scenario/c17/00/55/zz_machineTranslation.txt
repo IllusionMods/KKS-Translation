@@ -9,7 +9,7 @@
 「だって恋人同士だもの。……ほら、そっちも呼んでみてよ」=“Because we're lovers. I'm not proud of it, but I'm not that smart. ...... - Because we're lovers. ...... Come on, you can call me that too.”
 「わ、わかった……えーと……[Hあだ名]」=“Wow, okay... er,... [Hあだ名].”
 「……まあまあってところね」=“...... So-so.”
-「……顔が赤いよ？　[Hあだ名]」=“'... your face is red, okay?　[Hあだ名].”
+「……顔が赤いよ？　[Hあだ名]」=“... your face is red, okay?　[Hあだ名].”
 「あなただって……ああもう、柄でもないことをするものじゃないわね……」=“You're not the only one who can ...... do something out of character.”
 「ちょっと照れくさかったけど、俺は嬉しかったよ」=“It was a little embarrassing, but it made me happy.”
 「……それじゃあ、また呼んでみてもいいかしら？」=“...... So, can I invite you back?”

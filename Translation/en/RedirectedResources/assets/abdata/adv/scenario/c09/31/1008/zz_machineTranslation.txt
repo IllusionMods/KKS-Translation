@@ -8,7 +8,7 @@
 「直感的にそう思っただけだから、理由を聞かれても上手に説明はできないんだけど」=“It's just a gut feeling. I can't really explain why.”
 「……言われてみたら、ちょっと不気味さもあるかも」=“...... might be a little creepy, if you ask me.”
 「そうでしょ？　お化け屋敷みたい」=“Right?　It's like a haunted house.”
-（[H名]は物事の受け止め方が斬新だな……）=“([H名] has a novel way of taking things...)”
+（[H名]は物事の受け止め方が斬新だな……）=([H名] has a novel way of taking things...)
 「……あんたと一緒じゃなくて、あたし一人だったら悲鳴あげちゃってたかも」=“...... I would have screamed if I was alone and not with you.”
 「ただでさえも真っ暗で怖いのに。海の怪談とか思い出しちゃう」=“It's dark and scary. It reminds me of sea ghost stories.”
 「言われてみると、儚い光がちょっと霊魂っぽいかも」=“Now that you mention it, the fleeting light is a bit spirit-like.”

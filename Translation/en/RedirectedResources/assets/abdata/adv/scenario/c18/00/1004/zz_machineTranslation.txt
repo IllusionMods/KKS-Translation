@@ -21,4 +21,4 @@
 「おっと……大丈夫？」=“Whoa. ......, are you okay?”
 「は、はい、驚いただけですから、大丈夫なんですけど……」=“Yes, yes, I'm just surprised. I'm fine. ......”
 「やっぱり手を繋ぎながら歩こうか？」=“Shall we walk hand in hand?”
-「はい……お願いします、[P名]さん。うぅ、恥ずかしいです……」=“'Yes, ... please, [P名]. Ugh, I'm so embarrassed...”
+「はい……お願いします、[P名]さん。うぅ、恥ずかしいです……」=“Yes, ... please, [P名]. Ugh, I'm so embarrassed...”

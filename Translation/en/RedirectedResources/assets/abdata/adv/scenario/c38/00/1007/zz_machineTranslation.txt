@@ -12,4 +12,4 @@
 「魚を見るだけじゃなくて、海底の遺跡を見たり……ふふっ、貴方と話しているとどんどん夢が膨らんでいきます」=“I ordered a platter of fish and squid tempura. ...... Not only do I want to see the fish, I want to see the ruins at the bottom of the ocean. ...... Hmmm, talking to you makes my dreams come true.”
 「俺もだよ。いつかこの水槽の中みたいに綺麗な場所を[H名]と泳ぎたいな」=“I'm with you. Someday I want to swim with [H名] in a place as beautiful as the inside of this tank.”
 「ええ、約束です。早速、色々な場所を調べてみますね。善は急げ、ですから」=“Yes, I promise. I'm going to check out a lot of places as soon as I can. I'll check out some places as soon as I can, because better late than never.”
-（[H名]、すごく嬉しそうな顔してる。きっと俺も同じような表情してるんだろうな）=“([H名], you look so happy. I bet I have the same expression on my face.)”
+（[H名]、すごく嬉しそうな顔してる。きっと俺も同じような表情してるんだろうな）=([H名], you look so happy. I bet I have the same expression on my face.)

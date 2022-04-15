@@ -396,7 +396,7 @@
 「たとえ呼び方を変えても、許してあげませんから」=“Even if you change your nickname, I won't forgive you.”
 「ん？　どうかした？　[Hあだ名]」=“Hmm?　What's wrong?　[Hあだ名].”
 「いえ、特には。ただ……愛称で呼んでみたくなりまして……」=“No, not really. I just wanted to call you by your ...... nickname. ......”
-「……いいですよ。私も……[Pあだ名]……と、肌を重ねたいと思っていましたので」=“'... good. I've been wanting to get under the skin with ... [Pあだ名] ..., too.”
+「……いいですよ。私も……[Pあだ名]……と、肌を重ねたいと思っていましたので」=“... good. I've been wanting to get under the skin with ... [Pあだ名] ..., too.”
 「あ、あの……[Pあだ名]……と、え、エッチをしたいのですけれど……」=“Oh, um, I'd like to have sex with ... [Pあだ名] ..., but ...”
 「あの、少しお話しませんか？」=“Uhm, won't you chat with me for a bit?”
 「あの、[Pあだ名]。少しお話しませんか？」=“Um, [Pあだ名]. Can I talk to you for a minute?”

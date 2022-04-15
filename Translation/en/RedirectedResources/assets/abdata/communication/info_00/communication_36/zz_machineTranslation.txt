@@ -9,7 +9,7 @@
 「一通り名所を回るつもりよ。残念だけど、貴方を苛める予定はないわ」=“I'm going to see all the sights. Unfortunately, I don't plan on tormenting you.”
 「優雅にバカンスを楽しむつもりよ。……私の邪魔をしたらどうなるか、分かっているわね？」=“I'm going to enjoy my vacation in style. Do you know what will happen if you interfere with my ......?”
 「貴方、退屈ね。もう少し楽しませてくれると思ったのだけれど」=“You're boring me. I was hoping you would entertain me a little more.”
-（[H名]さんを楽しませる様な話題を振らないと……）=“(You have to talk about something that entertains [H名]...)”
+（[H名]さんを楽しませる様な話題を振らないと……）=(You have to talk about something that entertains [H名]...)
 「……何を考えているのか知らないけど、黙りこくるより喋りなさい。どんなにつまらない話でも、沈黙よりはマシよ」=“...... I don't know what you're thinking, but you should talk instead of shutting up. I don't know what you're thinking, but talking is better than silence, no matter how boring it is.”
 「[H名]さんって、誰にでもそんな感じなの？」=“Is [H名] like that with everyone?”
 「当たり前でしょ。……何？　もっと雑に扱って欲しいの？」=“Of course not. ...... What?　Do you want me to be more rough with you?”
@@ -143,7 +143,7 @@
 「私が今から言うことを一言一句聞き逃さないようにしなさい。……貴方の事、私の下僕にしてあげてもいいわよ」=“Make sure you don't miss a single word of what I'm about to say. ...... I'll make you my servant.”
 「こんなチャンスを逃すなんて……だからいつまでも豚なのよ」=“How could you miss such a chance? ...... That's why you'll always be a pig.”
 「はぁ？　豚と交尾なんて、考えただけでもおぞましい事を言わないで」=“What?　Don't even think about mating with a pig, it's horrible.”
-「[H名]さん、また性欲処理をお願いしたいんだけど？」=“'[H名], can I ask you to do my sex drive again?”
+「[H名]さん、また性欲処理をお願いしたいんだけど？」=“[H名], can I ask you to do my sex drive again?”
 「まったく、本当にケモノのような性欲ね。まぁいいわ、手早く済ませてあげる」=“[H名], can I ask you to do it again? Oh, well, I'll make it quick.”
 「調子に乗らないで。そんなに溜まっているなら、一人で惨めに処理しなさい」=“Don't get carried away. If you're so full of it, why don't you go and do it yourself, miserably?”
 「ふぅん、露出癖があるのね。いいわ、人としてのプライドを、ズタズタにしてあげる」=“Hmm, you have a habit of exposing yourself. Okay, I'll rip your pride to shreds.”

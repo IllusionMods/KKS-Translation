@@ -208,7 +208,7 @@
 「まあ、あんまり引き止めるんも悪いし……この辺にしといたるわ」=“Well, I don't want to hold you up too long, ...... so I'll leave it at that.”
 「えー？　もう？　うーん……まあしゃあないか」=“What?　Already?　Hmmm... ......... well, what the heck.”
 「って、終わんのかいっ」=“Are you finished?”
-「あのさ、俺のことどう思う？　俺は…………[H名]が好きなんだけど……」=“'You know what, what do you think of me?　I like ... [H名]...”
+「あのさ、俺のことどう思う？　俺は…………[H名]が好きなんだけど……」=“You know what, what do you think of me?　I like ... [H名]...”
 「……ごめん、そのフリでボケるん、難しいわ～……ほんま、ゴメンやで」=“......Sorry, it's hard to make fun of that pretense. ......I'm sorry, I'm really sorry.”
 「なあ、ウチ、自分のことめっさ好っきやねん……ああ、アカン、恥ずかしい……」=“You know, I like myself a lot. ...... Oh, God, I'm so embarrassed. ......”
 「あ、今のウソ。ウソやで……せやから、うん、気にせんとってな……ははは……」=“Oh, that's a lie. I lied ...... so, yeah, don't worry about it ...... hahaha ......”

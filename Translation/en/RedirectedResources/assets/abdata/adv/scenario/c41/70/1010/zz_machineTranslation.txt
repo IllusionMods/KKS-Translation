@@ -30,5 +30,5 @@
 「結局、一番気を使ってくれてるのはいつも[H名]なんだよね」=“After all, it's always [H名] who cares the most.”
 「俺こそ、[H名]に気を使ってほしくないから、これからも深刻な話でもそうじゃない話でも、なんでも話してよ」=“I don't want [H名] to worry about me, so you can continue to talk to me about anything, serious or not.”
 「……うん。他の人にできないような話も、キミにだったらできるよ……キミと出会えてよかった……付き合えて本当によかった……」=“I've been working with ...... for a while now, and I've been very impressed with the quality of their work. I can talk to you about things I can't talk to other people about. ......I'm so glad I met you. ......I'm so glad we got together. ......”
-（[H名]の心からの安堵が伝わってくる……言うか言わないか、本当に悩んだんだろうな）=“(I can feel [H名]'s heartfelt relief... She must have really agonized over whether to say it or not.)”
-（これからも、こんな風に安心していてほしい……[H名]は俺なんかよりも、ずっと優しい女の子だから……）=“(I hope you'll continue to feel safe like this ... because [H名] is a much kinder girl than I am ...)”
+（[H名]の心からの安堵が伝わってくる……言うか言わないか、本当に悩んだんだろうな）=(I can feel [H名]'s heartfelt relief... She must have really agonized over whether to say it or not.)
+（これからも、こんな風に安心していてほしい……[H名]は俺なんかよりも、ずっと優しい女の子だから……）=(I hope you'll continue to feel safe like this ... because [H名] is a much kinder girl than I am ...)

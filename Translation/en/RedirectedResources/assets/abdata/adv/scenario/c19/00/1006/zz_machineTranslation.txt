@@ -1,4 +1,4 @@
-（よし、[H名]と一緒に鐘を鳴らそう……！）=“(Okay, let's ring the bell with [H名]: ...!)”
+（よし、[H名]と一緒に鐘を鳴らそう……！）=(Okay, let's ring the bell with [H名]: ...!)
 「……どうしたの？　難しい顔して」=“...... What's wrong with you?　What's wrong? - Look at me like I'm in trouble.”
 「あっ、こ、これは」=“Oh, this is...”
 「まるで、今からプロポーズでもするみたい」=“It's like I'm about to propose to you.”

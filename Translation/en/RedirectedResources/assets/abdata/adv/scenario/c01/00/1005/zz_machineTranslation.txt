@@ -19,7 +19,7 @@
 「私も幸せですよ。今ほど社交ダンスを習っていて良かったと思ったことはありません……」=“I'm happy, too. I've never been happier to have learned ballroom dancing than I am now. ......”
 「俺は少しダンスの練習しておけば良かったって……後悔してるよ」=“I regret ...... that I should have practiced my dancing a little bit.”
 「ふふ、いつもと逆ですね。たまには私にリードさせてください。こんな機会、滅多にありませんから」=“It's the opposite of what I usually do. Please let me take the lead once in a while. It's not every day you get a chance like this.”
-（[H名]、本当に嬉しそうだな……ここは素直にリードしてもらおう）=“([H名], you look really happy... I'll let you take the lead here honestly)”
+（[H名]、本当に嬉しそうだな……ここは素直にリードしてもらおう）=([H名], you look really happy... I'll let you take the lead here honestly)
 「……こうしてずっと、あなたと踊っていたいですね……」=“......I wish I could dance with you like this all the time. ......”
 「じゃあ、今度俺にダンスを教えてよ。フォークダンスでも社交ダンスでもいいからさ」=“Well, you should teach me how to dance sometime. I don't care if it's folk dancing or ballroom dancing.”
 「えっ……はい、是非。あなたとダンスレッスンなんて……想像しただけで顔が綻んでしまいます」=“What? ...... Yes, I would love to. Just the thought of a dance lesson with you ...... makes my face break out in tears.”

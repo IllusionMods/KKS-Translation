@@ -15,4 +15,4 @@
 「わぁぁっ！　ばり綺麗な音ー！　世界中の人、きちんと聞いてくれたかいな？　えへへ」=“Whoa!　That sounds so beautiful!　Did the rest of the world hear me correctly?　Heh heh.”
 「ね……これからもずっとずっと……いつまでも仲良くしとってね！」=“Hey ......, we'll always ...... be friends forever and ever!”
 「もちろん、約束するよ。世界に宣言したんだから、ずっとラブラブでいよう」=“Of course I do, I promise. I promise you, I've told the world, we'll always be in love.”
-（良かった。[H名]……いつも以上にテンション高く喜んでくれてる。やっぱりここに来て正解だったな）=“(Good. [H名] ... is more excited and happy than usual. I knew I was right to come here.)”
+（良かった。[H名]……いつも以上にテンション高く喜んでくれてる。やっぱりここに来て正解だったな）=(Good. [H名] ... is more excited and happy than usual. I knew I was right to come here.)

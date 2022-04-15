@@ -1,6 +1,6 @@
 「ねえ、もしよかったらだけど、お互い愛称で呼び合うってのはどうかな？」=“Hey, if you don't mind, how about we call each other by our nicknames?”
 「……愛称ですって？　あまり気が進みませんわね。でも検討してもよろしくってよ」=“...... a nickname?　I'm not too keen on it. But I'm willing to consider it.”
-「ありがと。じゃあまずはお試しで俺を[Pあだ名]って、呼んでみてくれないかな？」=“Thanks. You can call me [Pあだ名] if you want.”
+「ありがと。じゃあまずはお試しで俺を[Pあだ名]って、呼んでみてくれないかな？」=“Thanks. I'm [Pあだ名], but you can call me [Pあだ名] if you want to give it a try.”
 「あら、妙な名前ですわね。何か由来がありますの？」=“Oh, that's a strange name. What's the origin?”
 「まあ……それは置いておいて、とりあえず呼んでみてほしいな。[Pあだ名]ってさ」=“I'll leave it at ..., but I'd like you to try calling me anyway. [Pあだ名].”
 「ううん、なんだかしっくり来ませんわねぇ」=“No, it doesn't feel right to me.”

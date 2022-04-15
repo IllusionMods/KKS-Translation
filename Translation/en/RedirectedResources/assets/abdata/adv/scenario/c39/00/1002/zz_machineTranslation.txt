@@ -1,6 +1,6 @@
 「卓球台があるね。一勝負していこうか？」=“There's a ping-pong table. Table tennis table. Let's play a game.”
 「ねぇ、もう一勝負しよー？　やっと身体があったまってきたからー」=“Hey, let's play one more game.　I'm finally getting warmed up.”
-「え……[H名]の勝ちだったんだし。もういいんじゃないかな？」=“'Yeah,... [H名] won. I think we're done here.”
+「え……[H名]の勝ちだったんだし。もういいんじゃないかな？」=“Yeah,... [H名] won. I think we're done here.”
 「だめー。今キミ、手加減したでしょー。そういうの、自分は分かるんだからねー」=“No. You just went easy on me, didn't you? I know what I'm doing.”
 「いや……本気だったよ？」=“No ......, I was serious.”
 「ほんとかねぇ？　じゃあもう疑わないけど、もっとキミと勝負はしたいから続けよー」=“Are you sure?　I don't doubt it anymore, but I'd like to play more games with you, so let's keep going.”

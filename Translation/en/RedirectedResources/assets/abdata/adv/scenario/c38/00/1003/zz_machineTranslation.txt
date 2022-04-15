@@ -13,4 +13,4 @@
 「ううん、そう思ってもらえて嬉しい。俺も[H名]との思い出は全部大切だよ」=“No, I'm glad you feel that way. I cherish all the memories I have of [H名], too.”
 「そうだ。せっかくだから、ここはお揃いのキーホルダーを買おう。どうかな？」=“Yes. Since we're here, let's buy matching key chains. What do you think?”
 「はいっ。ふふっ、すごく嬉しいです。顔がにやけちゃいそう……」=“Yes. I'm so happy. My face is all smiley. ......”
-（ちょっとお堅いイメージがあったけど……こういう[H名]も新鮮で可愛いよな）=“(I had an image of her being a bit uptight, but ... this kind of [H名] is fresh and cute too)”
+（ちょっとお堅いイメージがあったけど……こういう[H名]も新鮮で可愛いよな）=(I had an image of her being a bit uptight, but ... this kind of [H名] is fresh and cute too)

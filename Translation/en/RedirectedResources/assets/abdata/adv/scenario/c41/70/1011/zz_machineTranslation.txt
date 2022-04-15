@@ -2,11 +2,11 @@
 「うん、賛成！　……あっ。ボク、いいこと思いついちゃった。このソファで膝枕してあげようか」=“Yes, I agree!　...... Oh. I've got an idea. I'll put you on my lap on this couch.”
 「ひ、膝枕！？　急になんで……？」=“Hi, kneecap!　Why ...... all of a sudden?”
 「えっ、急だった？　そっか、そうだよね、ちょっと急だったね。ちゃんと説明するから安心して」=“What, was that sudden?　I see, yes, it was a bit sudden. Don't worry, I'll explain it to you.”
-「いや、不安になったわけじゃないんだけど、[H名]に膝枕してもらったことがなかったからびっくりしてさ」=“'No, I didn't mean to sound insecure, but I was just surprised because I'd never had [H名] kneecap me before.”
+「いや、不安になったわけじゃないんだけど、[H名]に膝枕してもらったことがなかったからびっくりしてさ」=“No, I didn't mean to sound insecure, but I was just surprised because I'd never had [H名] kneecap me before.”
 「あはは、そうだよね。インターネットの記事に、男の人は膝枕が好きって書いてあったんだけど……あ……」=“Haha, I know. I read an article on the Internet that said men like to be on their knees. ......”
 「……？　どうしたの？」=“......?　What's wrong?”
 「もしかしてボク、適当な情報を鵜呑みにしちゃった？　だとしたら、ちょっと恥ずかしいんだけど……」=“I'm not sure if I'm just taking in random information.　If so, I'm a little embarrassed. ......”
-「いや、適当な情報じゃないよ。女性の膝枕が嫌いな男はいないと思うし、少なくとも俺はされたいな、[H名]に膝枕」=“'No, it's not pertinent information. I don't think there is a man who doesn't like a woman on her knees, or at least I would like to be on my knees with [H名].”
+「いや、適当な情報じゃないよ。女性の膝枕が嫌いな男はいないと思うし、少なくとも俺はされたいな、[H名]に膝枕」=“No, it's not pertinent information. I don't think there is a man who doesn't like a woman on her knees, or at least I would like to be on my knees with [H名].”
 「ふふ、よかった。それじゃ、準備……といってもソファに座るだけだけど、準備しちゃうね」=“'Hmmm, good. Well then, I'm going to get ready ......, even though I'm just going to sit on the couch.”
 「よいしょっと……はい、キミ専用膝枕の出来上がり。キミはボクの彼氏なんだから、遠慮なく独り占めしてね」=“I'm going to make you a lap pillow for your own personal use. You're my boyfriend, so feel free to keep it to yourself.”
 「これはドキドキしちゃうな……それじゃ、失礼して……」=“I'm thrilled about this. ...... then, if you'll excuse me. ......”
@@ -30,9 +30,9 @@
 「キミに『どこでも』と『なんでも』は言わないようにしてるからだめ。でも、どうしてもって言うなら、ボクはどこでもなんでもしてあげるよ」=“I try not to say 'anywhere' and 'anything' to you. But if you insist, I'll do anything, anywhere.”
 「おぅ……[H名]にそう言ってもらえただけでむず痒さも吹っ飛んじゃった」=“Oh ... just having [H名] say that blew my itch away.”
 「それじゃ、頭を撫でてもいい？　もちろんキミさえよかったらだけど」=“Can I pat you on the head then?　If that's okay with you, of course.”
-「うん、撫でて。[H名]にだったらどこでもなんでもしてほしい」=“'Yes, pet me. If it's [H名], I want you to do anything, anywhere.”
+「うん、撫でて。[H名]にだったらどこでもなんでもしてほしい」=“Yes, pet me. If it's [H名], I want you to do anything, anywhere.”
 「そんなこと言われたら、ボク思いっきり優しく撫でちゃう……いい子、いい子……」=“If you say that to me, I'll stroke you as gently as I can. ...... good boy, good boy. ......”
-（なんだか……[H名]は本気で俺のことを想ってくれてるって実感しちゃうな……膝枕も相まって、すごく安心……する……）=“(It kind of makes me feel ... that [H名] is really thinking about me... Combined with the knee pillow, it makes me feel very safe ... (...)”
+（なんだか……[H名]は本気で俺のことを想ってくれてるって実感しちゃうな……膝枕も相まって、すごく安心……する……）=(It kind of makes me feel ... that [H名] is really thinking about me... Combined with the knee pillow, it makes me feel very safe ... (...)
 ……………………=........................
 ………………=..................
 「ご、ごめん。俺、喋ってる途中だったのに居眠りとか……」=“I'm sorry. I was in the middle of talking and I dozed off or something. ......”

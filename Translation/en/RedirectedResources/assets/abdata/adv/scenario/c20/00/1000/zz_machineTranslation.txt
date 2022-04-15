@@ -10,7 +10,7 @@
 「か、からかわないでください。本当に、恥ずかしかったんですから……」=“Please don't make fun of me. I'm really embarrassed. ......”
 「世の恋人たちって、みんなこんなことを平然とやっているのでしょうか？」=“Do all the lovers in the world do this with impunity?”
 「うーん、どうかな。誰もがカップルジュースを飲むわけじゃないだろうし……」=“Hmm, I don't know. Well, I don't know. Not everyone drinks couple juice. ......”
-「それにいろんなカップルもいるだろうから、[H名]みたいに恥ずかしがる人もいると思うよ」=“'And I'm sure there are all kinds of couples out there, and I'm sure some of them are as embarrassed as [H名] is.”
+「それにいろんなカップルもいるだろうから、[H名]みたいに恥ずかしがる人もいると思うよ」=“And I'm sure there are all kinds of couples out there, and I'm sure some of them are as embarrassed as [H名] is.”
 「それを聞いて安心しました……」=“I'm relieved to hear that. ......”
 「でもさ。まだジュースは残ってるわけだけど……どうする？」=“But you know what? But you still have some juice left. ...... What do you want to do?”
 「[H名]が恥ずかし過ぎて無理だっていうなら、俺が１人で飲んじゃうけど」=“If [H名] is too shy to have a drink, I'll have one myself.”

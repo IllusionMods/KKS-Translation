@@ -5,7 +5,7 @@
 「二人で飲むと……飲み物が減る速度が二倍になりました」=“When you drink with two people, ...... your drink runs down twice as fast.”
 「う、うん……そうだね。二人で飲んでるからね……」=“Yeah, yeah. ...... Yeah, yeah. We're both drinking. ......”
 「いいえ、私はあまり飲めませんでしたから、あなたがたくさん飲んだだけです」=“No, I didn't drink much, you drank a lot.”
-「え……俺そんなに飲んだかな？　ていうか、[H名]はあんまり飲んでなかったの？」=“'Eh ... did I drink that much?　I mean, didn't [H名] drink much?”
+「え……俺そんなに飲んだかな？　ていうか、[H名]はあんまり飲んでなかったの？」=“Eh ... did I drink that much?　I mean, didn't [H名] drink much?”
 「はい……胸が少し詰まる感じがして、上手く飲めませんでした」=“Yes ...... my chest felt a little stuffy and I could not drink well.”
 「それって……もしかしてドキドキしてたってこと？」=“Does that mean ...... you're nervous?”
 「そうですね……おそらくはそのような状態だったかと」=“Well, ......, that's probably the way it was.”

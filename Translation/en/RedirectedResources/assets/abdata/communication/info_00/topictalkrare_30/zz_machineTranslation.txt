@@ -104,7 +104,7 @@
 「もう、からかわないでよー！」=“Oh, don't tease me!”
 「あのさ、答えにくいかもしれないけど……。初体験ってどうだったかな？」=“You know, this may be hard for you to answer, but ....... How was your first time?”
 「えーっ！　ちょっと待ってっ！　流石に答えるのが恥ずかしいわよっ！」=“Oh, my God!　Wait a minute!　I'm too embarrassed to answer!”
-「分かってるけど……。でも[H名]のことが大事だからちゃんと聞きたいんだ」=“'I know, but ... But I want to hear it right because [H名] is important to me.”
+「分かってるけど……。でも[H名]のことが大事だからちゃんと聞きたいんだ」=“I know, but ... But I want to hear it right because [H名] is important to me.”
 「もう……そんなこと言ってくれるなんて。キミって本当に私を嬉しくさせる天才ね」=“I can't believe you said that ....... You really are a genius at making me happy.”
 「そうね……率直に言えば……痛くて辛くて苦しいかしら」=“Well, ...... frankly, ...... it's painful, painful, painful.”
 「えっ！？　そうだったのっ！？　ごめんっ！」=“What?　Oh, really?　I'm sorry!”

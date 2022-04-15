@@ -402,7 +402,7 @@
 「そう呼んでいいのは私が機嫌のいい時だけよ。気を付けて」=“You can only call me that when I'm in a good mood. Be careful.”
 「ねぇ……[Pあだ名]」=“Hey, ... [Pあだ名].”
 「ふふっ、呼んでみただけ……ってやつよ」=“I'm just calling you .......”
-「うん、私もしたいって思ってたから。沢山愛してね、[Pあだ名]」=“'Yeah, I've always wanted to do that. Love you a lot, [Pあだ名].”
+「うん、私もしたいって思ってたから。沢山愛してね、[Pあだ名]」=“Yeah, I've always wanted to do that. Love you a lot, [Pあだ名].”
 「あのね……私、体が火照っちゃって……ねえ、Ｈして、欲しいなぁ、[Pあだ名]」=“You know,... I'm on fire,... Hey, H, I want you, [Pあだ名].”
 「ねえ、少し話に付き合ってくれる？」=“Hey, can I talk to you for a second?”
 「ねえ、[Pあだ名]。少し話に付き合ってくれる？」=“You said, Hey, [Pあだ名]. Can I talk to you for a minute?”

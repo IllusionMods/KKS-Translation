@@ -17,7 +17,7 @@
 「えへへ。なんだか恥ずかしいこと言っちゃったかも」=“Heh heh heh. I'm kind of embarrassed about what I said.”
 「わっ、なんかすごい顔が熱くなって来た……！　あぅぅ、キミの顔、真っ直ぐに見られないかも……」=“Wow, my face is getting really hot......!　Ohhh, I can't even look you straight in the face. ......”
 「[H名]にそう思って貰えて嬉しいよ。だから俺も、この光景が特別に見えているんだろうね」=“I'm glad you feel that way [H名]. I guess that's why this sight looks so special to me, too.”
-「……ねぇ、[H名]。そこら辺に座って、もっとゆっくり海ほたるを眺めない？」=“'... Hey, [H名]. Why don't we sit around there and look at the sea fireflies more leisurely?”
+「……ねぇ、[H名]。そこら辺に座って、もっとゆっくり海ほたるを眺めない？」=“... Hey, [H名]. Why don't we sit around there and look at the sea fireflies more leisurely?”
 「２人きりで、気が済むまでいつまでも……さ」=“It's just the two of us, and we'll ...... stay as long as we feel like it.”
 「あ……うんっ！　それ、すごく良いかも！」=“Oh, ...... yeah!　That would be great!”
 「でも時間はまだ大丈夫なのかな？　遅くなっちゃうかもしれないよ？」=“But is time still good?　What if we're running late?”

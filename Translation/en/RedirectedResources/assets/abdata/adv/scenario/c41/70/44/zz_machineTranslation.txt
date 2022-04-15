@@ -6,4 +6,4 @@
 「いや、それ程でも。たぶん[H名]の顔は見慣れてるからだと思う。[H名]だって俺そっくりじゃないか」=“No, not so much. Probably because I'm used to seeing [H名]'s face. Even [H名] looks just like me.”
 「やっぱり付き合ってると、お互いの特徴を無意識に掴んでくるものなんだね。キミとの絆を感じられて嬉しいな」=“I guess when you are in a relationship, you start to subconsciously notice each other's characteristics. I'm glad I can feel the bond between you.”
 「俺も嬉しいよ」=“I'm happy for you, too.”
-（このシーサー……将来、もし[H名]と結婚したら、玄関に飾りたいな……飾れるように、頑張るか）=“(If I marry [H名] in the ... future, I'd like to hang this seersucker ... on my front door.)”
+（このシーサー……将来、もし[H名]と結婚したら、玄関に飾りたいな……飾れるように、頑張るか）=(If I marry [H名] in the ... future, I'd like to hang this seersucker ... on my front door.)

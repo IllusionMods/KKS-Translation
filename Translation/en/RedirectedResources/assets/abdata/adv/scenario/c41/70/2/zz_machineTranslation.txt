@@ -3,15 +3,15 @@
 「え、そう？」=“Oh, yeah?”
 （もしかして、俺が告白しようとしてるの、バレた……？　というか、ずっとバレてた……？）=(Maybe they know I'm about to confess ......?　(I mean, have they always known ......?)
 「えっ、あ、その、雰囲気っていうのは、静かで波の音が聞こえてロマンチック……と言うより、居心地がいい、って意味、かな？　あはは」=“I mean, I guess, by atmosphere, you mean quiet and cozy, rather than romantic ...... with the sound of the waves?　Ha-ha-ha.”
-（う……つい誤魔化しちゃったから、[H名]が気を使ってくれている気がする……！）=“(Ugh ... I feel like [H名] is taking care of me because I just misbehaved ...!)”
+（う……つい誤魔化しちゃったから、[H名]が気を使ってくれている気がする……！）=(Ugh ... I feel like [H名] is taking care of me because I just misbehaved ...!)
 「いや、俺もロマンチックだと思ったよ。その、ここなら二人きりでゆっくり話せるなって」=“No, I thought it was romantic, too. I thought it would be a good place for us to talk in private.”
 「あ、無理しないでいいんだよ？　ごめんね、ボクが雰囲気のある場所だねなんて言っちゃったから。えっと、かけっこでもする？」=“Oh, you don't have to do that, okay?　Sorry, I said the place had a certain atmosphere. Do you want to play a game of fetch?”
 （まずい、ここで日和ってかけっこなんてしたら告白って雰囲気じゃなくなる……！　よし、言おう！）=(Oh no, if I just sit here and play a game, I won't be in a confessional mood. ......!　(Okay, I'll say it!)
-「[H名]、ちょっと聞いてもらってもいい？」=“'[H名], may I ask you something?”
+「[H名]、ちょっと聞いてもらってもいい？」=“[H名], may I ask you something?”
 「あ、はいっ……！」=“Oh, yes. ......!”
 「いや、そんなかしこまらなくても大丈夫だよ」=“No, you don't have to be so formal.”
 「あ、そう？　そっか……あはは、さっきからボク、挙動不審だよね。今日の夕ご飯の話とか？　なんでも聞くよ」=“Oh, yeah?　I see. ...... haha, I've been acting suspiciously since a while ago. Talking about dinner tonight?　I'll listen to anything.”
-「えーっと……俺、[H名]が好きなんだ」=“'Well, ... I like [H名].'”
+「えーっと……俺、[H名]が好きなんだ」=“Well, ... I like [H名].”
 「[H名]？」=“[H名]?”
 「あっ、えっと……やっぱりかしこまった方がいい話題だったなって……じゃなくって、その、ボクのことが好きって……」=“Oh, um,...... I knew it was a topic I should be more formal about,...... but, you know, you like me,.......”
 「うん。よかったら俺と付き合ってほしい」=“I'm not sure I'm going to be able to do it, he said. I'd like you to go out with me if you want.”
@@ -22,7 +22,7 @@
 「ボクも嬉しい、両想いだったんだ……でも、少しだけ複雑な気分かも」=“I'm happy for you, too, that it's a double love ......, but it might be a little complicated.”
 「え、なんで？」=“What? Why?”
 「ここに来たとき、ボクも『ここなら告白できるかも』って思ったから、キミに先を越されちゃったなって」=“When I came here, I thought, 'Maybe I can confess my feelings here,' but you beat me to it.”
-「じゃあ俺が言い出さなかったら[H名]が告白してくれてたの？」=“'So if I hadn't come out and said it, [H名] would have confessed it to me?”
+「じゃあ俺が言い出さなかったら[H名]が告白してくれてたの？」=“So if I hadn't come out and said it, [H名] would have confessed it to me?”
 「うん。ボクが勇気を出せていればだけど」=“I'm not sure. If I can muster the courage.”
 「それはそれでいいなぁ。気持ちを伝えてＯＫしてもらったのは嬉しいけど、俺が告白されてＯＫするのも違った嬉しさがあるし」=“That's what I like about it, he said. I'm glad you told him how you felt and he said yes, but it's a different kind of joy when I confess my feelings and he says yes.”
 「……ボク、キミみたいに大胆になりたい」=“...... I want to be bold like you.”

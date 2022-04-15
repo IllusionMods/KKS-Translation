@@ -5,7 +5,7 @@
 「むふふ？　さっそく顔似出ちゃってるんですけど」=“Mmm-hmm?　I've already seen your face.”
 「平気、平気。ここに向かってるなーって気づいた時点で覚悟してたから」=“No problem, no problem. I was prepared as soon as I noticed you were on your way here.”
 「この鐘をカップルで鳴らすと永遠に結ばれる、だったっけ？　永遠に結ばれちゃうかー、アタシ達」=“If a couple rings this bell, they will be united forever, right?　We're going to be together forever, aren't we?”
-「ああ、認めるよ！　俺は[H名]とこの鐘を鳴らしたかったんだ」=“'Yeah, I admit it!　I wanted to ring this bell with [H名].”
+「ああ、認めるよ！　俺は[H名]とこの鐘を鳴らしたかったんだ」=“Yeah, I admit it!　I wanted to ring this bell with [H名].”
 「あは、まっすぐだ♪　[P名]くんのそういうとこ好きだよ」=“Ha, you're so straight... I love that about you, [P名].”
 「なんだかんだアタシも女の子だし？　そうやって引っ張ろうとしてくれると安心する」=“I'm a girl after all, right?　I feel comfortable when you try to pull me like that.”
 「……なんだかんだも何も、[H名]はずっと可愛い女の子だよ」=“...Whatever, [H名] will always be a lovely girl.”

@@ -1,4 +1,4 @@
-「[H名]さん、ちょっとお土産を見たいんだけどいいかな？」=“'[H名], may I see your souvenirs for a moment?”
+「[H名]さん、ちょっとお土産を見たいんだけどいいかな？」=“[H名], may I see your souvenirs for a moment?”
 「……決めた。私はお菓子を買うことにするわ」=“I've made up my mind. I'm going to buy some candy.”
 「ちんすこうにしたんだね。でも、どうしてお菓子にしたの？」=“So you decided on chinsuko. But why did you make it into a snack?”
 「[H名]さんにはアクセサリーとか、小物も似合うと思うんだけど」=“I think accessories and knick-knacks would look good on [H名].”

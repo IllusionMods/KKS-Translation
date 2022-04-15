@@ -8,7 +8,7 @@
 「ずっと見てられるっていうか、そんな感じだ」=“I can watch you forever. That's what it feels like.”
 「初めてキャンプファイヤーを見たような言い方するんだね」=“You sound like you've never seen a campfire before.”
 「そんなようなもんだ。行事なんざ、マトモに出たことないしな」=“It's like that. I've never been to an event in my life.”
-（[H名]っていつからアウトローだったんだろう……）=“(How long has [H名] been an outlaw? ...)”
+（[H名]っていつからアウトローだったんだろう……）=(How long has [H名] been an outlaw? ...)
 「そ、そういう意味じゃ、こうやって誰かと一緒にキャンプファイヤーとかも……初めてみたいなもんだ」=“Well, in that sense, it's like the first time I've ever been ...... around a campfire with someone.”
 「初めての相手が俺でよかった？」=“You're glad I'm your first?”
 「変な聞き方すんな！　私だぞ？　嫌だったら嫌って言うに決まってんだろ」=“Don't listen to me like that!　It's me.　If you don't like it, you don't have to say anything.”

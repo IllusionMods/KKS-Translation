@@ -119,7 +119,7 @@
 「[H名]次第かな」=“I guess it depends on [H名].”
 「欲求不満ダヨ♡　エッチはアナタとのＬｏｖｅ　ｌｏｖｅ　ｔｉｍｅダカラ♡」=“I'm not frustrated. - I'm not frustrated. - Sex is my love time with you.”
 「正直に言ったカラ、エッチなご褒美ほしいナ？　ナンテ冗談ダヨ♡　フフフ♡」=“Do you want a sex reward for being honest with me?　I'm just kidding.”
-（こういうとき、[H名]から異国の香りを感じるんだよな……）=“(It's at times like this that I get an exotic scent from [H名]...)”
+（こういうとき、[H名]から異国の香りを感じるんだよな……）=(It's at times like this that I get an exotic scent from [H名]...)
 「俺たちの初体験のこと、改めて聞いてもいい？」=“Can I ask you again about our first time?”
 「フフ♡　アソコでしたときのコト？」=“Can I ask you again about our first time?”
 「アソコっておまんこのこと？」=“By vagina, do you mean cunt?”

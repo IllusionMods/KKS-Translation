@@ -13,7 +13,7 @@
 「えっ……はい、ありますよ。女の子の夢は、特に恋のお話が多いですから……」=“What? ...... Yes, I do. Girls' dreams are often about love. ......”
 「じゃあ……俺じゃちょっと役不足かもしれないけど……」=“Well, ......, I may not be able to help you, but .........”
 「ぁ……ぇ……その……」=“Oh, ...... that .......”
-「俺、[H名]のことが好きなんだ……！　付き合ってください！」=“'I like [H名]...!　Please go out with me!”
+「俺、[H名]のことが好きなんだ……！　付き合ってください！」=“I like [H名]...!　Please go out with me!”
 「えっ、あっ……は、はいっ！　私で良ければ喜んでおちゅきあい……！」=“What? Oh, ......, yes!　If it's okay with me, I'm happy to chuckle ......!”
 「あぅ……すみません。大事なところで私……その、改めてまして、お付き合いさせてください……」=“Oh ...... I'm sorry. I'm sorry, but I'm in the middle of something ...... that's important, and it's nice to meet you again. ......”
 「え……ほんとにいいの？」=“Yeah, ...... are you sure about this?”

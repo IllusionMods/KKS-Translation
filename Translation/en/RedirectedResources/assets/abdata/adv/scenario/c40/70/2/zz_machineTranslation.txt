@@ -1,5 +1,5 @@
 （さぁ、告白するぞ……勇気を出すんだ俺……）=(Come on, I'm going to confess ...... you're gonna have to be brave, me ......)
-「えっと、突然ごめん……俺、[H名]のことが好きなんだ。付き合って欲しい」=“'Well, I'm sorry to suddenly ... I like [H名]. I want you to go out with me.”
+「えっと、突然ごめん……俺、[H名]のことが好きなんだ。付き合って欲しい」=“Well, I'm sorry to suddenly ... I like [H名]. I want you to go out with me.”
 「なにっ！？　ほ、本気か？」=“What?　Are you serious?”
 「うん、俺は本気だよ」=“Yeah, I'm serious.”
 「ど、どうして我なのだ？　理由を聞かせてもらってもいいか？」=“Why me?　May I ask why?”

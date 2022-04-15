@@ -2,13 +2,13 @@
 「本当に風が気持ちいいですね。ずっとこうして海を見ていたい気分になります」=“─ The wind really feels good. The breeze is really nice. It makes me want to stay here and look at the sea.”
 「俺は構わないよ。少しって言ったけど、[H名]が満足するまで付き合うから」=“I don't mind. I said a little, but I'll stay with you until she's satisfied.”
 「それではお言葉に甘えて……もう少しだけ……」=“Well, I'll take your word for it. ...... Just a little more. ......”
-「[H名]は海が好きなの？」=“'Does [H名] like the ocean?'”
+「[H名]は海が好きなの？」=“Does [H名] like the ocean?”
 「はい。見ているだけでなんだか落ち着きませんか？」=“Yes. Doesn't it make you feel at home just looking at it?”
 「うん、落ち着くね。なんでかはよく分からないけど……」=“Yeah, it's calming. I'm not sure why. ......”
 「ふふ、『母なる海』と言いますからね……きっとお母さんのような包容力を感じているのかもしれません」=“It's called the Mother Sea. ...... Maybe she's feeling a motherly embrace.”
 「そっか……そう言われると、[H名]を見てる時の感じに近いかも」=“I see... When you put it that way, it's probably closer to how I feel when I look at [H名].”
 「えっ、私……恋人ではなくお母さんだと思われていたのですか？　それはなんというか、複雑ですね……」=“What, did you think I was your mother instead of your ...... lover?　That's kind of complicated .......”
-「いやいや、お母さんと同じくらい包容力があるってことだからね？　[H名]は俺の自慢の恋人だよ」=“'No, no, no, it means you're as receptive as your mother, okay?　[H名] is my proud girlfriend.”
+「いやいや、お母さんと同じくらい包容力があるってことだからね？　[H名]は俺の自慢の恋人だよ」=“No, no, no, it means you're as receptive as your mother, okay?　[H名] is my proud girlfriend.”
 「ふふ、そういうことなら光栄ですね。お母さまと同じくらい……私はあなたを癒せていますか？」=“I'm sorry. Am I healing you as much as your mother did with ......?”
 「それはもう、完全に[H名]の方が癒してくれてるね」=“That's completely healed by [H名], isn't it?”
 「そう言っていただけるのはとても嬉しいですが、お母さまに少々嫉妬されてしまいそうですね」=“That's very nice of you to say, but I'm afraid your mother will be a little jealous.”
