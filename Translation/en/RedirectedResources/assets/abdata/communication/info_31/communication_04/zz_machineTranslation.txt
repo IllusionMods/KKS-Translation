@@ -1,13 +1,2 @@
-「友達に性の相談とかされたことある？」=“Have any of your friends ever asked you for sexual advice?”
 「うーん……『恋』は片思いで、『愛』は両想い……そんなイメージがあるわ」=“Hmmm ......, love is unrequited love and love is mutual love.”
 「ふふ、決まりね。何を頼むか悩んじゃうわ」=“Fufu, it's decided. I'm worried about what to ask.”
-「そうね」「うんうん」「うん」=Yeah. - Yeah.
-「そうかしら」「そうなの？」「うーん……」="I don't know. - You don't? "Hmm. ......
-「そうなの」「なるほどね」「ふむふむ」=Yeah, I see.
-「あら？」「きゃっ……？」「えっ……？」=Oh?" "Oh, my God, ......?" "Oh, ......?
-「ふふっ」「うれしいわ」「うふふっ」=Mmm-hmm." "I'm glad." "Mmm-hmm.
-「……ねえ？」「……あのね？」「……怒るわよ？」=......, huh?" "...... You know what? "...... are you mad at me?
-「そう……」「……そっか」「……うーん」=Yeah, ......," "......," "right," "......," "hmm.
-「楽しいわ」「ふふっ」「いいわね」=It's fun." "Mm-hmm." "That's nice.
-「も、もう……」「は、恥ずかしいわ……」「うう……」=Oh, my God, ......," "I'm so embarrassed, ......," "Ugh, .......
-「ところで……」「それでね」「そういえば」=And by the way, ......, you know, and, uh...

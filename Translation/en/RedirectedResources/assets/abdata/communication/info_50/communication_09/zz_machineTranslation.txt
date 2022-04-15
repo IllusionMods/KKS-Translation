@@ -9,7 +9,7 @@
 「あ、その……な、何かご用かしら」=“Oh, uh, ......, can I help you?”
 「ねえ。あ、あんたのあそこ……大きくなってるわよ」=“Hey. Oh, you're getting ...... big in there.”
 「きゃっ！　え、なんだ、あんたか……びっくりしたじゃない」=“Oh, my God!　Oh, my God, it's you. ...... You scared me.”
-「ん？　どうしたの？」=“What?　What's the matter?”
+「ん？　どうしたの？」=“Hm? What's up?”
 「何か用？」=“What do you want?”
 「ん？　あたし？」=“Hmm?　Me?”
 「どうやったら、君みたいに明るく振舞えるの？」=“How can I be as cheerful as you?”
@@ -31,7 +31,7 @@
 「恋人ができたら、やってみたいことってある？」=“Is there anything you want to do when you get a boyfriend?”
 「とりあえずデートね。二人で色々歩き回れたら、それだけであたしは……って、何でもない、何でもない」=“We'll go on a date for now. If we could just walk around together, that would be enough for me. ...... Nothing, nothing, nothing.”
 「やりたいことかぁ……まぁ、その……色々あるけど……な、内緒よ！」=“What do you want to do? ...... Well, I have a lot of ...... things to do, but don't tell ...... me!”
-「好きな男性のタイプは？」=“What's your favorite type of man?”
+「好きな男性のタイプは？」=“What sort of guy do you like?”
 「優しい人がいいわ。具体的に言うと四葉のクローバーを探すのに他のクローバーを踏まない人よ」=“I like men who are kind. To be more specific, someone who doesn't step on other clovers when looking for a four-leaf clover.”
 「好きなタイプ、好きなタイプ……………………わかんないわ」=“What type do you like? I don't know what type ........................ you like.”
 「ちょ、ちょっとその話題にはノーコメントで。さすがに恥ずかしいわ」=“I don't know. It's embarrassing.”

@@ -13,7 +13,7 @@
 「相変わらず妄想が豊かだなぁ。そんなことはしないよ」=“You're as imaginative as ever. I wouldn't do that.”
 「せっかく二人きりになれたんだから、たまにはゆっくりと星空を眺めたいなって」=“Since we're alone now, I thought it would be nice to take some time to look at the stars.”
 「むぅ……仕方がないな」=“Mmm...... can't help it.”
-「いいの？」=“Are you sure?”
+「いいの？」=“You sure?”
 「汝にはいつも我のワガママに付き合ってもらっておるからな。たまにはよいだろう」=“I'm sure you'll agree with me. It's good to have a break.”
 「ありがとう。それなら魔法陣の代わりに相合い傘でも描こうか」=“Thank you. I'll draw you an umbrella instead of a magic circle.”
 「流れ星にお願いができるせっかくのチャンスだからね。それで二人の契約を確かなものにしよう」=“It would be a great chance to ask a shooting star for help. It's a great chance to ask a shooting star for a favor and seal the deal between us.”

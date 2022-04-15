@@ -127,7 +127,7 @@
 「きゃっ！？……も、もう……驚かさないでください……」=“What? Please don't ...... startle me again.”
 「あ、私にご用ですか？」=“Oh, you wanted to see me?”
 「いかがなさいましたか？」=“Can I help you?”
-「はい、なんでしょう？」=“Yes, what can I do for you?”
+「はい、なんでしょう？」=“Yes, what is it?”
 「最近はまっているものってある？」=“What's your latest obsession?”
 「うーん、特にはありませんね。流行にはそれほど敏感ではないもので」=“Well, not really. I'm not very fashion-conscious.”
 「この島を満喫することですが……ちょっと違う気がしますね」=“I'm trying to enjoy the island, but ...... seems a little different.”
@@ -349,7 +349,7 @@
 「またお話しましょうね」=“I'll talk to you soon.”
 「少しの間、お別れですね……では、また」=“I'll see you in a little while. ...... See you soon.”
 「わかりました。またぜひ楽しい時間をすごしましょう」=“Okay. I'm sure we'll have a wonderful time together.”
-「はい、それではまた」=“Yes, see you later.”
+「はい、それではまた」=“Yes, be seeing you.”
 「あっ……は、はい……では、シましょうか……」=“Oh, ......, yes, ......, shall we go to ......?”
 「えっと、その……心の準備が出来てなくて……すみません……」=“Well, you see, I'm ...... unprepared. ...... I'm sorry. ......”
 「じ、自分でもはしたないと思っているのですが……私とエッチしてくれませんか？」=“Well, I know it's a bit of a bummer, but would you be willing to have sex with me ......?”
@@ -398,8 +398,8 @@
 「いえ、特には。ただ……愛称で呼んでみたくなりまして……」=“No, not really. I just wanted to call you by your ...... nickname. ......”
 「……いいですよ。私も……[Pあだ名]……と、肌を重ねたいと思っていましたので」=“...... is good. I've always wanted to get under the skin of ......[Pあだ名].......”
 「あ、あの……[Pあだ名]……と、え、エッチをしたいのですけれど……」=“Oh, I'd like to have sex with ......[Pあだ名].......”
-「あの、少しお話しませんか？」=“Um, can I talk to you for a second?”
-「あの、[Pあだ名]。少しお話しませんか？」=“Um, [Pあだ名]. Can I talk to you for a second?”
+「あの、少しお話しませんか？」=“Uhm, won't you chat with me for a bit?”
+「あの、[Pあだ名]。少しお話しませんか？」=“Uhm, [Pあだ名]. Won't you chat with me for a bit?”
 「きゃっ……私しかいなくてよかったです……本当はダメなことですからね？」=“I'm glad I'm the only one ...... who can do that, because it's really not a good idea.”
 「だ、ダメですよ……じっくり見ようとしてないで、出て行ってください」=“No, you can't. ...... Don't try to take a good look at me, just get out.”
 「よくないことですよ？　今はその……私しかいませんので、問題ないですが」=“It's a bad idea, okay?　I'm the only one who's ...... here right now, so it's not a problem.”

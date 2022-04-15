@@ -101,7 +101,7 @@
 「それでは、私はこれで。またお話ししましょうね」=“Well, that's it for me. I'll talk to you soon.”
 「それでは。また話しかけてくれたら嬉しいです」=“Well then. I'd be happy to talk to you again.”
 「また何かありましたら、お気軽に話しかけてくださいね」=“If you need anything else, please feel free to talk to me.”
-「はい、それではまた」=“Yes, see you later.”
+「はい、それではまた」=“Yes, be seeing you.”
 「わかりました。どこに行きましょうか？」=“Okay. Where do you want me to go?”
 「すみません。観光はご遠慮しておきます」=“I'm sorry. I'm sorry, I don't do sightseeing.”
 「良かったら、一緒に遊びに行かない？」=“Would you like to go out with me?”

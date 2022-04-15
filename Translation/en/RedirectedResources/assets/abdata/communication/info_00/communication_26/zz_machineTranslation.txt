@@ -205,7 +205,7 @@
 「……ごめん。そういうのは……無理」=“...... Sorry. I can't ...... do that.”
 「……うん。いい、よ……あなたとなら」=“...... Yeah. It's okay. ...... with you.”
 「……悪いけど……できない」=“I'm sorry I can't ...... you.”
-「ここできみとエッチしたいな」=“I want to have sex with you right here.”
+「ここできみとエッチしたいな」=“I wanna have sex with you here.”
 「……あなたって、物好きだね……別に、構わないけど」=“......You're a very curious person. ......I don't mind, but...”
 「……常識的に無理、だと思うけど」=“...... I don't think that's a sensible thing to do.”
 「……ここで？　……別にいい、けど」=“...... here?　...... I don't mind, but...”

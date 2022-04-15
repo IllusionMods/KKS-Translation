@@ -15,7 +15,7 @@
 「口癖って直ると思う？」=“Do you think it's possible to break the habit of talking?”
 「まあ、意識すれば直るんじゃないかの？」=“Well, if you're conscious of it, you can fix it.”
 「ふん、口癖なぞ気にするほどではないわいっ」=“No, I don't think I need to worry about it.”
-「自分の性格を一言で言うとなんだと思う？」=“What would you say your personality is in a word?”
+「自分の性格を一言で言うとなんだと思う？」=“If you had to describe yourself in a phrase, what'd you say?”
 「うーむ、誰とでも仲良くなれる。いやそれは性格ではないのう」=“Hmm, I can get along with anyone. Well, I can get along with anyone. That's not my character.”
 「お主はどう思うのじゃ？　自分で言うには難しいのじゃ」=“What do you think?　It's hard for me to say.”
 「のう、違う話でもせんか？　わしはそうしたいのじゃ」=“Well, let's talk about something else, shall we?　I'd like that.”

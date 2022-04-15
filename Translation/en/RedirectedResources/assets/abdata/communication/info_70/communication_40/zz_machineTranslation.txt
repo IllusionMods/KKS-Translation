@@ -114,7 +114,7 @@
 「ねぇ、一緒にご飯食べにいかない？」=“Hey, do you want to go out to dinner with me?”
 「一人の食事は味気ないからな……よし、我でよければ、相伴させてもらおう」=“Eating alone is not a tasty experience. ...... All right, if it's all right with me, I'll be your companion.”
 「むぅ……今は特に空腹ではないのだ。期待に沿えずすまない……」=“'Mh...... not particularly hungry right now. Sorry I didn't live up to your expectations. ......”
-「ちょっと付いてきて欲しいんだけど……」=“I need you to come with me. ......”
+「ちょっと付いてきて欲しいんだけど……」=“I'd like it if you could come with me for a bit...”
 「構わないが……妙な企みはするんじゃないぞ？」=“That's fine, but ...... don't try any funny tricks, okay?”
 「やめておこう。貴殿から……なにか邪気のようなものを感じる」=“I'll stop. I sense something ...... evil in you.”
 「まったく、貴殿の特殊な趣味には困ったものだ。我でなければ、即打首だぞ？」=“I am troubled by your particular tastes. If it were not for me, you would be beheaded immediately.”

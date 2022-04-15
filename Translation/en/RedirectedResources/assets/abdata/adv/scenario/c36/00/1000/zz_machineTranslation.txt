@@ -9,7 +9,7 @@
 「しかたないし、下僕には特別に私と同じ物を飲むことを許可してあげる」=“I have no choice but to allow my servant to drink the same thing I do.”
 「ありがとう、嬉しいよ[H名]さん」=“Thank you very much, Mr. [H名].”
 「それじゃ、さっそく頂いてみようかしら」=“Well, let's try some of this.”
-「う、うん……」=“Uh-uh. ......”
+「う、うん……」=“Y-Yeah...”
 「……あれ？　飲まないの？」=“...... Huh?　You don't drink?”
 「貴方ねぇ。下僕のくせに、何をジッと人の唇を見ているのよ」=“You. You're a servant and you're staring at someone's lips.”
 「そんな暇があったら、さっさと下僕もストローに口をつけて飲みなさい」=“If you don't have time for that, why don't you put your servant's mouth to the straw and drink?”

@@ -28,6 +28,6 @@
 「[H名]はどう？　何か願いごとをした？」=“How about [H名]?　Did you make a wish?”
 「いつも不幸だって言ってるし、幸せになれますように……とか？」=“You're always saying you're unhappy. I hope you'll be happy. ......”
 「いいえ……。私は、何も願いごとをしていないです」=“No. ....... I'm not making any wishes.”
-「そうなの？」=“Is that so?”
+「そうなの？」=“That so?”
 「はい。だって……」=“Yes. Because .........”
 「[P名]さんとここにいられる時点で、もうその願いは叶っていますから……」=“When you're here with [P名], your wish has already come true. ......”
