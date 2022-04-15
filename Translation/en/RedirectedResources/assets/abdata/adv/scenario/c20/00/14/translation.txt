@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「きゃ、きゃぁぁ！　は、入ってこないでくださいよ！　で、出てってください！」=
+「きゃ、きゃぁぁ！　は、入ってこないでくださいよ！　で、出てってください！」=“K-Kyaah! P-Please don't come in here! P-Please leave!”

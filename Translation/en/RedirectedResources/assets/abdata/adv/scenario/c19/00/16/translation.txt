@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私の処女……あなたに捧げられてよかった……」=
+「私の処女……あなたに捧げられてよかった……」=“I'm glad that... you were the one to take my virginity...”

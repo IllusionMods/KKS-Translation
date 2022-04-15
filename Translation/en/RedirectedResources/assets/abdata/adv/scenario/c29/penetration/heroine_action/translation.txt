@@ -2,5 +2,5 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? What do you wanna do?”
-//「さ、三人で？　まあ、構いませんが……」=
-//「私は……シてみたいです……折角のエッチな状況ですし」=
+「さ、三人で？　まあ、構いませんが……」=“A-All three of us? Well, I don't really mind, though...”
+「私は……シてみたいです……折角のエッチな状況ですし」=“I want to... try it... this sort of chance doesn't come often either.”

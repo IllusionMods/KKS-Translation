@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「今回はここまで、ですか？　あ、いえ、残念がってなど……」=
+「今回はここまで、ですか？　あ、いえ、残念がってなど……」=“Are we only going that far, this time? Ah, no, I don't feel disappointed at all...”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あ、ありがとう……はうぅ、すごくドキドキしてきた……♪」=
+「あ、ありがとう……はうぅ、すごくドキドキしてきた……♪」=“T-Thank you... hauuu, my heart's started racing so much...♪”

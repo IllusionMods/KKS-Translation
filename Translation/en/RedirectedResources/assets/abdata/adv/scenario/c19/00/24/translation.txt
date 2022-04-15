@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「も、もういいの？　その……ごめんなさい、あんまりよくなかった……かな……？」=
+「も、もういいの？　その……ごめんなさい、あんまりよくなかった……かな……？」=“H-Had enough already? Uhm... I'm sorry, I wasn't very good... was I...?”
