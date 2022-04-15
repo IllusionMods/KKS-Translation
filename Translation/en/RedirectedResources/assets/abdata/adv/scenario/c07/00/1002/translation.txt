@@ -10,7 +10,7 @@
 「これからは女子相手じゃなくて、向かうところ敵知らずって言うことにするか」=“From now on, instead of never losing against girls, I'm gonna say I've never lost against anyone who challenged me.”
 「ぐぬぬ、もうちょっとなんとかなると思ったのに」=“Mwah, I thought that you'd be a little better.”
 「修行が足りなかったな？　さて、何を言うこと聞かせるか」=“Guess you better practice more eh? Now then, what should I have you do for me?”
-「いつの間に負けた方が言うことを聞くルールになってる……」=“Since when did it become a rule that the winner gets to make a demand...
+「いつの間に負けた方が言うことを聞くルールになってる……」=“Since when did it become a rule that the winner gets to make a demand...”
 「そうだ！　これからしばらく家来な。私を敬うがいい」=“Oh I know! I'll have you be my manservant for a while. Now praise me!”
 「かしこまりました、[H名]様」=“As you wish, Madame [H名].”
 「ノリノリかよ」=“Wow, you taking this seriously?”

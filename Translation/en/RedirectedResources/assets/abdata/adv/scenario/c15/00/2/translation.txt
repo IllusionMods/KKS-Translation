@@ -33,7 +33,7 @@
 「うん！　そうだと思う」=“Yeah! I guess so.”
 「よかったー」=“Then it's all good-”
 「さっき……[H名]が言ったのと同じだよ。そうやって笑ってくれたのを見て……」=“Some time ago... it's just like you said, [H名]. Seeing you laugh, like that...”
-「改めて思った。俺、[H名]のことが大好きだって」=I thought to myself again - I'm in love with [H名].”
+「改めて思った。俺、[H名]のことが大好きだって」=“I thought to myself again - I'm in love with [H名].”
 「あたしもだぞ。キミがそうやって嬉しそうにしてて、嬉しいし」=“I'm with you. I'm glad you look so happy.”
 「もっといっぱい、嬉しそうにしてあげたいぞ」=“I hope that I can make you even happier.”
 「簡単だよ、[H名]なら」=“That'll be easy, since it's you, [H名].”

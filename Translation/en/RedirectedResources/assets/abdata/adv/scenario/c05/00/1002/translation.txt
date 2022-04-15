@@ -11,7 +11,7 @@
 「あとは“かれら”の助言かな？」=“Plus I was being advised too, you know?”
 「助言？」=“Advised?”
 「うん！　“かれら”の声に従ってラケットを振ったら、ぜんぶの球を打ち返せたんだよ」=“Yeah! If I swing the paddle when ‘they’ tell me to, I can hit all the balls back!”
-「くそ～！　１対１じゃなかったわけか」=Shit~! So we're not playing one-on-one!”
-「えへへ、ごめんね。今度は“かれら”の助言なしで勝負しよっ」=Ehehe. Sorry. Let's play again, without ‘their’ advice.”
+「くそ～！　１対１じゃなかったわけか」=“Shit~! So we're not playing one-on-one!”
+「えへへ、ごめんね。今度は“かれら”の助言なしで勝負しよっ」=“Ehehe. Sorry. Let's play again, without ‘their’ advice.”
 「よ～し。次こそ負けないぞ～」=“Right. I'm not gonna lose this time.”
 「ふふっ。お手柔らかにね」=“Fufu. Go easy on me.”

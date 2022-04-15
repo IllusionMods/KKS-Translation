@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「初めてでしたけれど……優しくしていただいて嬉しかったです。ありがとうございます」=
+「初めてでしたけれど……優しくしていただいて嬉しかったです。ありがとうございます」=“That was my first time... it made me really happy how gentle you were. Thank you very much.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あ、あの……おこがましいかもしれないけど……私も仲間に入れて欲しいな、なんて……」=
+「あ、あの……おこがましいかもしれないけど……私も仲間に入れて欲しいな、なんて……」=“U-Uhm... this might be presumptuous of me but... I'd love to, join in too, maybe...”

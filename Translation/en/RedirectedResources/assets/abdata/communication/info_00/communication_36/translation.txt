@@ -49,7 +49,7 @@
 「愚図は嫌いよ。でも、間違った方向に突き進む奴はもっと嫌いね」=“I hate dullards. But I hate even more those who advance in the wrong direction.”
 「慎重な男性って好き？」=“Do you like cautious boys?”
 「悪くはないわね。足りない脳でも、回さないよりは幾らかマシでしょ」=“They aren't bad. Even slow brains are a bit better than those not working at all.”
-「面倒でしかないわ。足枷にしかならないような男は願い下げね」="They're nothing but a bother. I don't want to deal with boys who only hinder me.''
+「面倒でしかないわ。足枷にしかならないような男は願い下げね」=“They're nothing but a bother. I don't want to deal with boys who only hinder me.”
 「勤勉な男性ってどう思う？」=“What do you think of dilligent boys?”
 「好ましいわね。学ぶ姿勢は伸びしろに繋がるわ。成長のない男は嫌いなの」=“They're likeable. A will to learn is linked to potential. I hate boys who don't mature.”
 //「厄介ね、そういう男は自分のルールを押し付けたがるわ。滅ぼすべきよ」=
@@ -75,7 +75,7 @@
 （よし、エッチなことを聞いてみるぞっ！）=(Alright, I'll ask about something dirty!)
 「待ちなさい、口を開かないで。まずはその、いやらしい顔を何とかして」=“Stop, don't open your mouth. Do something with that perverted face first.”
 「女の子にも性欲はあるよね？」=“Women have sexual desire too, right?”
-「あるわよ。男の泣き顔って、すっごくゾクゾクするもの」="Yeah, of course. Crying men's faces make me incredibly excited.
+「あるわよ。男の泣き顔って、すっごくゾクゾクするもの」=“Yeah, of course. Crying men's faces make me incredibly excited.”
 「はぁ～、エッチしたいなぁ～……なんちゃって！」=“*Siiigh* I so want to do something pervy right now~... Just kidding!”
 「豚がヒトと交尾したいの？　貴方危険ね、即刻処分した方がいいかしら？」=“A pig wants to copulate with a human? You're dangerous, so maybe I should dispose of you?”
 「ん？　何かあるならはっきり言いなさい、その口は飾り？」=“Hm? If you have something to say, then say it. Is your mouth just a decoration?”

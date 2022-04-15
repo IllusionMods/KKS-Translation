@@ -8,7 +8,7 @@
 「恋人に言うことじゃないと思うのです！　さすがに傷つくですよ……？」=“It's not something you should say to your girlfriend! My feelings are hurt now, you know...?”
 「可愛いなーってニュアンスで言ったつもりだったんだよ、勘違いさせてごめん」=“I meant it in a nuanced way, like, 'you're so cute'. I'm sorry if you misunderstood.”
 「そ、そうなのですか？　それならいいのですが……」=“I-is that so? Then that's fine, I guess...”
-「それで、随分ご機嫌だけど、アイスが好きなの？」=So, you look like you're in a pretty good mood. Liking that ice cream, little miss?”
+「それで、随分ご機嫌だけど、アイスが好きなの？」=“So, you look like you're in a pretty good mood. Liking that ice cream, little miss?”
 「子供扱いはＮＧなのです！　私が思わずニコニコしてた理由は……分かってくれるですよね？」=“Don't treat me like a child! I instinctively giggled because... well you know why, don't you?”
 「その……こーいうのは、恋人同士の特別な時間だなー……と思って浸っていたのですよ」=“Because, um... I just thinking that this is such a special time for lovers... and I was soaking it in.”
 「そうだね。くつろいだ、穏やかな時間……みたいな」=“I agree. This is such a relaxing, peaceful time.”

@@ -9,7 +9,7 @@
 「うぅ……こういうのは結構恥ずかしいです……」=“Uuu... things like this are pretty embarrassing...”
 「い、一体どのようなご用事でしょうか？」=“W-what exactly can I do for you?”
 「わぁ、そこはさすがにダメなのですよ！」=“Waaa, that's really a no-no!”
-「は、はい……わたしにご用事……ですか？」=Ha, ahaa... did you... want to see me?”
+「は、はい……わたしにご用事……ですか？」=“Ha, ahaa... did you... want to see me?”
 「あなたって……女子と違うところが色々あるですね……あ、えへへ、男子が新鮮なのです」=“You're... different from girls, in so many ways... ah, ehehe, boys are so fresh!”
 「ふぇぇっ！？　びっくりしたです……」=“Fweeeh!? You surprised me...”
 「何ですか？」=“What is it?”
@@ -66,7 +66,7 @@
 「わわっ、す、ストレートですっ……べ、別にいい……ですけど……？」=“Wawa! S-so straightforward...! B-but... it's not like... I don't want to...?”
 「あ、ご、ごめんなさい、私、そういうのはちょっと……恥ずかしい……です……」=“Ah, I-I'm sorry, I'm kinda not into that... it's super embarrassing...”
 「エッチな経験とかしたことある？」=“You ever have any sexual experiences?”
-「ななな、ないですないですっ！　あるはずないですー！」=N-n-no, I haven't! There's no way-!”
+「ななな、ないですないですっ！　あるはずないですー！」=“N-n-no, I haven't! There's no way-!”
 「もちろんないですけどっ……あ、あったとしても答える人いるですかね？」=“Of course not...! E-even if I did, you think I'd tell you?”
 「雑誌とかのエッチ特集って読む？」=“Ever read a dirty magazine?”
 「ふぇっ……ま、まぁ、一応目は通すですけどっ……一応ですよっ！？」=“Fweh...! W-well, I-I've looked them over... just in case, you know!?”
@@ -85,10 +85,10 @@
 「うぅぅ……軽蔑しちゃうですよ……？」=“Uuu... that's really condescending, you know...?”
 「どーしてそんなに開き直れるですか……はぁぁ……」=“You're really forward, aren't you... ahhaaaa...”
 「一体何を考えてるですか？」=“What the heck are you thinking?”
-「ひゃぁっ、び、びっくりですっ……」=Hiiyaa! Y-you surprised me...!”
+「ひゃぁっ、び、びっくりですっ……」=“Hiiyaa! Y-you surprised me...!”
 「ど、どうして手をっ……？」=“Wh-why'd you do that...?”
 「も、もーっ、変な感じになるからダメなのですーっ！」=“G-geez-! You can't do that... it feels weird-!”
-「ひああぁっ！　な、何ですかっ！？」=Hiiiaa! Wh-what the heck!?”
+「ひああぁっ！　な、何ですかっ！？」=“Hiiiaa! Wh-what the heck!?”
 「はぅっ、あ、明らかに胸を狙われてるですっ！」=“Haauu, ah, you're clearly targeting my chest!”
 「こ、これ以上は許せないですっ！　ごうもんなのですっ！」=“I-I can't allow you to go any further! This is a serious matter!”
 「わふっ……ど、どうしたですか？」=“Wafuu...! What's the deal?”
@@ -148,7 +148,7 @@
 「ふふー、実はお菓子を買い貯めているのです！」=“Fufu- Actually, I stocked up on candy!”
 「実はすごく頭が良かったりする？」=“Are you actually pretty smart?”
 「ふっふっふー、気付いてしまったですか……さすがなのです。でも成績は教えられないですよ？」=“Fu! Fu! Fu-! So you noticed... as expected.  But I'm not gonna tell you my grades, okay?”
-「ぐぬぬ……もしかしてそれは嫌味で言ってるですか？」=Gnunuu... are you being sarcastic?”
+「ぐぬぬ……もしかしてそれは嫌味で言ってるですか？」=“Gnunuu... are you being sarcastic?”
 「笑顔が可愛いってよく言われない？」=“Don't people often tell you that you've got a cute smile?”
 「ふぇっ！？　そ、そんなこと急に言われたら照れちゃうですよ～！」=“Fweh!? You're making me embarrassed, saying something like that out of the blue~!”
 「えへへ、みんなからよく褒められるですよー！」=“Ehehe, I do get a lot of compliments from people.”
@@ -168,7 +168,7 @@
 「はいっ。甘酸っぱいストーリー、ドキドキする展開……好きになる要素しかないです！」=“Yes. Sweet and sour stories with thrilling developments... they have nothing but elements I like!”
 「もちろん、大好きなのです。よかったら、今度貸すですよー」=“Of course. I love them. If you'd like, I'll let you some-”
 「友達から惚気話をよく聞かされるんだけど、そういう経験あったりする？」=“My friends often tell me about their love lives. That ever happen to you?”
-「えーと、彼氏のいる友達がいないのでですよ……あはは」=Umm- I don't have any friends with boyfriends... ahaha.”
+「えーと、彼氏のいる友達がいないのでですよ……あはは」=“Umm- I don't have any friends with boyfriends... ahaha.”
 「周りに彼氏のいる友達がいないですよ。なので私には全然関係ない話ですー」=“I don't have any freinds around with boyfriends. So that's totally irrelevant to me-”
 「私、恋愛トークって照れちゃうですよ……」=“Talking about love makes me embarrassed...”
 「昨日見かけたカップルがさ、街中なのにキスしてて……」=“I saw this couple, yesterday... they were kissing right out in the middle of the open...”
@@ -206,7 +206,7 @@
 「はわわっ、もー、私は子供じゃないのですー！」=“Hawawa! Geez-! I'm not a kid, you know-!”
 「むむ、新手の悪戯……？」=“Hmmm... is this a new kind of prank...?”
 「もしかして私の頬が柔らかいから触ってるですか？」=“Are you touching me because my cheeks are soft?”
-「ぐぬぬ……嫌がる女子につんつんなんて……ドＳなのです……」=Gnunuu... you can't just poke a girl who doesn't want to be poked... you're such a 'S'...”
+「ぐぬぬ……嫌がる女子につんつんなんて……ドＳなのです……」=“Gnunuu... you can't just poke a girl who doesn't want to be poked... you're such a 'S'...”
 「今は絶対触れられたくないです！　ふんだ！」=“I definitely don't want to be touched now! Step off!”
 「他の男の人とは上手に話せないですけど、あなたとなら会話が弾むですー！」=“I'm not very good with talking to other guys, but I can definitely talk to you-!”
 「や、やっぱり男子と話してると……その……お、お互いの違い、みたいなのが気になるですよ。と、特に身体の……」=“N-now that I'm talking to a boy... um... I'm curious about the differences between us. Our bodies, especially...”
@@ -239,7 +239,7 @@
 「人に見られたら恥ずかしーですよ！　こういう場所では無理なのです！」=“It's embarrassing to have people see you! I can't do it here, not in a place like this!”
 「一世一代の発言なのです！　私っ！　あなたとエッチしたいですっ！」=“It's the statement of a lifetime! Me! I want to have sex with you!” 
 「ふああぁ、嬉しいですーっ！　めちゃくちゃなこと言っちゃってごめんなさいです。でも……嬉しいですーっ！」=“Fuaaah, I'm super happy-! I'm sorry for asking for something so crazy. But... I'm super happy-!”
-「わぁんっ、じょ、冗談ですっ！　冗談なのですっ！　今すぐ忘れるべき案件なのですっ！」=“Waahn! I was just kidding! It was a joke! So, let's just forget about all this now!
+「わぁんっ、じょ、冗談ですっ！　冗談なのですっ！　今すぐ忘れるべき案件なのですっ！」=“Waahn! I was just kidding! It was a joke! So, let's just forget about all this now!”
 「一緒に観光しない？」=“Why not go sightseeing with me?”
 「いいですよっ。私もぶらぶらしようと思ってたですから」=“Alrighty. I was just going to hang out, too.”
 「その……ごめんなさいです」=“Um... I'm super sorry.”
@@ -270,7 +270,7 @@
 「はぅっ、こ、こんな場所で二人きりになってしまったですっ……ドキドキ……するですよ……」=“Hauuu, when we're alone, in a place like this... so exciting... I will...”
 「さすがにここへ入ってくるのは問題なのですよ！」=“It really is a problem for you to come in here!”
 「あっ、もしかして……私が一人だから入ってきたですか……えへへ、嬉しいです……」=“Ah! Did you maybe... come in here, because I'm alone... ehehe, I'm super happy...”
-「こんなところへ来たら、あなたが誤解されちゃうですよー！」=If you come in here, you'll be misunderstood-!”
+「こんなところへ来たら、あなたが誤解されちゃうですよー！」=“If you come in here, you'll be misunderstood-!”
 「あ、もうこんな時間。それではまた！」=“Ah, it's getting late. See you soon!”
 「こんな姿……あなたに見られると変な気分になるです……はぅ……」=“It makes me feel strange... for you to see me like this... hauu...”
 「他の娘は見ちゃダメなのですーっ！」=“You shouldn't be looking at the other girls-!”
@@ -334,16 +334,16 @@
 「俺、[H]が恋人で良かったなぁ」=“I'm glad you're my girlfriend, [H名].”
 「はわっ……わ、私も……あなたが恋人で良かったです……」=“Awa...! I-I... I'm glad you're my boyfriend...”
 「エッチの時の[H]って、意外と……」=“When we have sex, [H名], you're surprisingly...”
-「わぁっ、暴露しなくていいですっ！　が、頑張ってるだけなのですっ！」=Awa! You don't need to explose that! I'm just doing my best!”
+「わぁっ、暴露しなくていいですっ！　が、頑張ってるだけなのですっ！」=“Awa! You don't need to explose that! I'm just doing my best!”
 「何見てるですか？」=“What are you looking at?”
 「も、もー、そんなにニヤニヤさせたいですか？」=“G-geez- why are grinning like that?”
-「もうダメですっ！　恥ずかしすぎてキスしちゃいますよ！」=“I can't take it anymore! I'm so embarrassed, I'm gonna kiss you!
+「もうダメですっ！　恥ずかしすぎてキスしちゃいますよ！」=“I can't take it anymore! I'm so embarrassed, I'm gonna kiss you!”
 「あれ……どこを見ちゃってるですか？」=“Um... where are you staring at?”
 「そんなに見てどーするですか？」=“Why are you staring at me?”
 「ジロジロ見る物じゃないです！　そういうのはそういう雰囲気の時だけなのですっ！」=“That's not something you should be staring at! You should do that only when I'm in the mood for it.”
 「私、全力でぷんすかちゃんなのですっ！　ぷんすかちゃんっ！」=“My heart is filled with anger! Filled with anger!”
 「あ、手……ふふーっ、温かいです」=“Ah, your hand... fufu-! It's warm.”
-「はわっ……ゆ、指と指が……カップルになったです……」=Hawa...! Fingers intertwined... we're now a couple...”
+「はわっ……ゆ、指と指が……カップルになったです……」=“Hawa...! Fingers intertwined... we're now a couple...”
 「さ、さぁ、もうこのくらいにするです！　人に見られたらあなたまで変な目で見られちゃうですよ！」=“W-well, that's enough of that! If anyone sees us, they'll look at us strangely!” 
 「ひゃぁっ！　やられたですーっ！」=“Hyyyaaa! You got me-!”
 「も、もうっ、ダメですっ！　さ、触りすぎっ……ひゃんっ！」=“G-geez! Don't do that! You're t-too grabby... hyaan!”
@@ -377,7 +377,7 @@
 「えへへ、あなたがしたいなら……私はいつでもどこでも受け入れるですよ♪」=“Ehehe, if you'd like... I'm open to that, anytime, anywhere♪”
 「はわっ、し、したいけどっ……やっぱり無理ですっ！　恥ずかしい！」=“Awa! I-I want to... but that's impossible, after all! It's too embarrassing!”
 「ね、ここＨしたいんだけど……」=“Hey, I want to have sex here...”
-「こ、ここで……ですか？　はぅ……いいですよ。想像しただけでドキドキなのです……」=H-here...? Hauu... alrighty. My heart is racing, just thinking about it...”
+「こ、ここで……ですか？　はぅ……いいですよ。想像しただけでドキドキなのです……」=“H-here...? Hauu... alrighty. My heart is racing, just thinking about it...”
 「こういう場所じゃ落ち着いて出来ないですよー！」=“We can't relax and do it in a place like this-!”
 「当然、お付き合いするですー♪」=“Of course, I'll go along with you-♪”
 「えへへ、これから観光にいきませんか？」=“Ehehe, why don't we go sightseeing?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私たちはともかく君はすごいよね。だって二人も相手してくれたんだもん……♪」=
+「私たちはともかく君はすごいよね。だって二人も相手してくれたんだもん……♪」=“Us aside, you're amazing. I mean, you managed to keep the both of us company...♪”

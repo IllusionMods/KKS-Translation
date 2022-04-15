@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ……見られてたのに、つい夢中になっちゃった、あはは……」=
+「はぁ……見られてたのに、つい夢中になっちゃった、あはは……」=“Haah... even though you discovered me, I just got lost in it, ahaha...”

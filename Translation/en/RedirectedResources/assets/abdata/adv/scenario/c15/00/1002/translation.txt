@@ -7,7 +7,7 @@
 「おお、構えが本格的だ。もしかして経験者とか？」=“Ohhh, That's full-on stance. Guess you've done this before?”
 「卓球は体育でやったぞー」=“I played ping-pong in PE-”
 「なんだ、俺と同程度か。いい勝負になりそう」=“So you're as good as me. This is gonna be a good match.”
-「ふっふっふ、どうかな？　あたしの力を見せてやる」=Fufufu, what's that now? I'll show you my power.”
+「ふっふっふ、どうかな？　あたしの力を見せてやる」=“Fufufu, what's that now? I'll show you my power.”
 「な？　な？　あたしの勝ちだぞー」=“Na? Na? I won-”
 「はいはい、完敗だよ」=“Yes, yes... a flawless victory.”
 「強いだろー」=“You're strong-”

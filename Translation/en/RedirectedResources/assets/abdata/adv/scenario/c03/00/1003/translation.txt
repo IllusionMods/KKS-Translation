@@ -7,7 +7,7 @@
 「私に似合うと思うです？」=“Think it would look good on me?”
 「…………」=“...”
 「部屋着なら大いにありだと思う」=“It might work for when you're lounging around in your room.”
-「予想外の返事なのです！　で、でも買うのには勇気がいるですよー？」=I wasn't expecting that answer! But it takes a lot of bravery to buy something like that, right-?”
+「予想外の返事なのです！　で、でも買うのには勇気がいるですよー？」=“I wasn't expecting that answer! But it takes a lot of bravery to buy something like that, right-?”
 「……それは暗に、俺にも買わせてペアルックにしようと思ってる？」=“Are you implying that you're thinking of buying one, so we can match up?”
 「その通りなのです！　彼氏彼女はお揃いが常識ですから！」=“Totally! It's common sense that a boyfriend and girlfriend should match.”
 「そんな常識は知らないけど……まあ、別にいいよ」=“I'm not sure I agree with your common sense... but well, sure why not.”

@@ -15,7 +15,7 @@
 「えーっと……もしかして……[H名]、いつもよりはしゃいでない？」=“Er, um-... could it be that... you're more excited than you usually are, [H名]?”
 「えっ？　そんなことないわよ……って、本当に？　私そんな風に見える？」=“Eh? That's not true... what, really? It that what it looks like?”
 「うーん、いつもより少し幼い感じがする」=“Mmm-hmm. You seem a more immature than usual.”
-「幼いっ！？　うそ、そんなにはしゃいでるの私！？　えっ？　ちょっと待って……思考が追いつかないわ……」=Immature? No way... am I really that excited!? Eh? Hold up a second... I can't keep up with my thoughts...”
+「幼いっ！？　うそ、そんなにはしゃいでるの私！？　えっ？　ちょっと待って……思考が追いつかないわ……」=“Immature? No way... am I really that excited!? Eh? Hold up a second... I can't keep up with my thoughts...”
 「あはは、そっか、なるほど。わかった気がするよ」=“Ahaha, oh, I saw how it is. I'm beginning to understand.”
 「……？　何がわかったの？　私が少女っぽくて、少女じみてて、まるで少女みたいに見えるってこと？」=“...? What did you discover? That I'm acting a little girl... that I look like a little girl?”
 「ううん、そうじゃなくて。そんな風に焦っている様子が可愛いっていうのがわかったんだ」=“Yeeeeah, that's not what it is. I've always found it cute when someone gets flustered like that.”

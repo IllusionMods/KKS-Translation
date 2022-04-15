@@ -20,7 +20,7 @@
 「そんなことか。任せてよ！　で、流れ星に何をお願いするつもりだったの？」=“Is that so. Leave it to me! So, what's you wish from the shooting stars?”
 「…………内緒」=“...that's a secret.”
 「ええっ、それじゃ願いを叶えてあげられないよ？」=“Ehh! Then I won't be able to grant your wish, will I?”
-「そう。簡単なことじゃないのよ。長い時間をかけて、私が何を望んでいるのかを探り続けてちょうだい」=Just so. It's not that easy. You'll need to take a long time to figure out what I want.”
+「そう。簡単なことじゃないのよ。長い時間をかけて、私が何を望んでいるのかを探り続けてちょうだい」=“Just so. It's not that easy. You'll need to take a long time to figure out what I want.”
 「きっと一生をかけなきゃいけないかも……ふふふ、気の長い話になりそうね」=“I'm sure that it's take my entire life... fufufu, it's gonna be long story.”
 「……うん、頑張り甲斐がありそうだね。わかった……一生をかけてでも、そのお願いを探り続けるよ」=“...yeah, but it'll be worth the effort. It's all good... I'm gonna spend the rest of my life exploring that request.”
 「うん、ありがとう。二人で長生きしましょうね」=“Sure, thank you. We're gonna have a long life together.”

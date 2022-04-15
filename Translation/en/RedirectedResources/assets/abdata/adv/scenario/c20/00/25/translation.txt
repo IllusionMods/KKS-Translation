@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うぅ……、こ、こんなところでするなんて……すごく恥ずかしかったです」=
+「うぅ……、こ、こんなところでするなんて……すごく恥ずかしかったです」=“Uuu... I-I can't believe we did it here... that was really embarrassing.”
