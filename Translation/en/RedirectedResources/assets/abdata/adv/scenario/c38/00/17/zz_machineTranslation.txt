@@ -1,3 +1,3 @@
 「はぁ、こんなに気持ちいいなんて……正直、想像以上です」=“Huh, I never imagined ...... it would feel this good, honestly.”
-「良かった。[H名]にそう言ってもらえると、俺も嬉しいよ」=“Good. [I'm glad to hear you say that.”
+「良かった。[H名]にそう言ってもらえると、俺も嬉しいよ」=“I'm glad. I'm glad to hear [H名] say that.”
 「あ、すみません、自分のことばかり……貴方は気持ちよくなれましたか？」=“Oh, I'm sorry, I'm just talking about myself. ...... Did it make you feel better?”

@@ -4,9 +4,9 @@
 「味も形も色々あるからねー。キミはどれが好きー？」=“They come in many flavors and shapes. Which one is your favorite?”
 「ほんとだ……チーズ味とかパイナップル味とか……色々あり過ぎて悩むなぁ」=“It's true. ...... Cheese flavor, pineapple flavor, ...... too many to choose from.”
 「それなら、いろんな味が入ったやつがいいんじゃない？　気に入った味があれば、また買いに来ればいいしねー」=“I'm sure you'll like the ones that come in a variety of flavors.　If you find one you like, you can always come back for more.”
-「それはアリだね。[H名]の言う通りにしてみるよ」=“That's antsy. I'll try to follow [H名]'s lead.”
+「それはアリだね。[H名]の言う通りにしてみるよ」=“That's true, he said. I'll try to do as [H名] says.”
 「えへへ、食べ比べとか二人でしたいねー。きっと楽しいよー」=“I want to do a food contest with you two. It would be fun.”
-「確かに楽しそうだけど、[H名]は食べ飽きてたりしないの？」=“You look like you're having fun, but isn't [H名] tired of eating?”
+「確かに楽しそうだけど、[H名]は食べ飽きてたりしないの？」=“Sure sounds like fun, but isn't [H名] tired of eating?”
 「全然よー。美味しいものはいつ食べても美味しいし、キミと食べたらまた違った味になるはずさー」=“No, not at all. Good food always tastes good, and it will taste different with you.”
 「そう？　味は、そこまでは変わらないと思うけど……」=“Yeah?　I don't think it'll taste that different. ......”
 「変わるよー。キミと付き合ってからねー、いつも見てた景色だって全部違って見えてるんだよー」=“It's changed. Ever since I've been with you, even the scenery I used to see looks different.”

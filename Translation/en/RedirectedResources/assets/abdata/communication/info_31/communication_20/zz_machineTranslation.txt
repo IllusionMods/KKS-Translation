@@ -91,7 +91,7 @@
 「あなたと、色々お話したいです」=“I'd love to talk to you about anything.”
 「う～ん、どうでしょう……島に関係する本とか、読んだりしてるんですけど……」=“Well, I don't know. ...... I've been reading some books on the islands. ......”
 「あんまりやってないですね……ほとんどバカンス気分になってます」=“I don't really do much. ...... It's almost like a vacation.”
-「[H名]って、誰かに怒ったりするの？」=“Does [H名] ever get angry with anyone?”
+「[H名]って、誰かに怒ったりするの？」=“Does [H名] ever get mad at anyone?”
 「色々思い返してみたんですが……ほとんどありませんでした」=“I've been thinking about it a lot, and it's ...... almost never.”
 「怒らない……ですね。嫌な気持ちになったりする事はありますけど……」=“I'm not angry. ...... I don't get angry ......, though I do feel bad sometimes .......”
 「夜は早く寝る方？」=“Do you go to bed early at night?”
@@ -108,7 +108,7 @@
 「愛されるのと愛するの、どっちがいい？」=“Which do you prefer, to be loved or to love?”
 「えっと……私は愛したいです……好き……ですよ？」=“Well, ...... I want to love you. ...... I like you. ......”
 「いっぱい愛を伝えたいですし、いっぱい愛を伝えてもらいたいです……」=“I want to give a lot of love and I want people to give a lot of love to me. ......”
-「[H名]って本当に可愛いね」=“You're really cute, [H名].”
+「[H名]って本当に可愛いね」=“[H名] is really pretty.”
 「きゅ、急にどうしたんですか……？　照れちゃいます……」=“Kyu, what's the matter with you all of a sudden ......?　I'm embarrassed. ......”
 「もう時間だなんて、残念です……また、お話しましょうね」=“I'm sorry it's time to go. ...... We'll talk again.”
 「まだ話していたいけど、時間みたいです……それじゃあ、また」=“I'd love to talk to you, but I think it's time. ...... See you soon.”

@@ -6,7 +6,7 @@
 「どれのこと言ってるの？」=“Which one are you talking about?”
 「シーサー！」=“Ceasar!”
 「それはいないでしょ。盛りすぎだから」=“I don't think so. It's too much.”
-「ちょっとー、ノリ悪くない？　[P名]くんも一緒に南国間違い探ししようよ」=“Hey, aren't you being flippant?　[P名], let's look for tropical mistakes together.”
+「ちょっとー、ノリ悪くない？　[P名]くんも一緒に南国間違い探ししようよ」=“Hey, you're not being too flippant, are you?　[P名], let's go looking for tropical mistakes together.”
 「普通の海との違いを探すみたいなこと？」=“You mean like looking for differences between the ocean and a normal ocean?”
 「そそ。あ、ヤシの木！　イエーイ、アタシ１ポイントー」=“Yes, yes. Oh, palm trees!　Yay, one point for me.”
 「ずるい！　いいの取られた」=“It's not fair!　He took the good one.”
@@ -16,7 +16,7 @@
 「ほら、そっちは？　なんかないの？　キレイなのとか可愛いのとか」=“Hey, what about you?　What do you have?　Something pretty or cute?”
 「えっと……どっちも目の前にいるけど」=“Well, ...... they're both right in front of me.”
 「ふえっ！？　えっと、ああもう……不意突かれちゃった。やられた～」=“Huh?　I was caught off guard by ....... I'm fucked.”
-「別にお世辞とかじゃなくて……ぶっちゃけると、さっきから[H名]しか目に入ってないよ」=“I'm not trying to be flattering or anything. ...... To be honest, all I've been seeing is [H名].”
+「別にお世辞とかじゃなくて……ぶっちゃけると、さっきから[H名]しか目に入ってないよ」=“I'm not trying to flatter you or anything, ... but to be honest, I've only had my eye on [H名] for a while now.”
 「アタシも嫌がってはないから……その、照れ隠しで……だから……ありがと」=“I don't mind. ...... I'm just trying to hide my embarrassment. ...... Thank you.”
 「こちらこそ？　っていうのも変か。えーっと……」=“Hello?　Is that too weird? Let's see, .......”
 （黙っちゃわないでください……）=(Please don't shut up. ......)

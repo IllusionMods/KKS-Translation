@@ -7,7 +7,7 @@
 「この匂いを感じながら話すのって、確かに落ち着くし……楽しい」=“It's definitely calming and ...... fun to talk to people with this smell.”
 「あ、でも今までは海に行ってもそんな風に考えたことなかったなぁ……」=“Oh, but I've never thought about it that way before, even when I went to the beach. ......”
 「あはは、きっと私、君と一緒だからなにしてても楽しいって感じちゃうんだろうね」=“Haha, I'm sure I'll always feel happy no matter what I'm doing with you.”
-「本当？　だったら嬉しいな。俺も[H名]と一緒だったら、なにしても楽しいよ」=“Really?　I'm glad to hear that. I'm happy to do anything with [H名].”
+「本当？　だったら嬉しいな。俺も[H名]と一緒だったら、なにしても楽しいよ」=“Really?　I'd be happy if that were the case. I'd be happy to do anything with [H名], too.”
 「あ……ふふっ、私も嬉しい♪　ね、何年経っても……こんな感じで……なんでも新鮮に楽しめる二人でいたいな」=“Oh, ...... I'm happy too." "Hey, I hope we can still be ...... like this after all these years and enjoy ...... everything fresh and new.”
 「これから先も……こんな風にたくさんたくさん思い出を増やしていこうね。いい……かな？」=“Let's continue to ...... make lots and lots of memories like this in the future. Is that ...... okay?”
 「もちろん！　こっちからお願いしたいくらいだよ」=“Of course!　I want to ask you to go out with me.”

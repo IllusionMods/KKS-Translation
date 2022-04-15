@@ -2,12 +2,12 @@
 「……なんくるないさー」=“...... is all right.”
 「も、もしかして、それ買おうとしてるの？」=“Are you trying to buy that?”
 「おかしいかな？」=“Is that weird?”
-「お土産として見たらおかしくないけど、[H名]はもっと落ち着いたものが好みかと思ったから」=“It's not so strange if you look at it as a souvenir, but I thought [your name] would prefer something more relaxed.”
+「お土産として見たらおかしくないけど、[H名]はもっと落ち着いたものが好みかと思ったから」=“I mean, it's not crazy if you look at it as a souvenir, but I thought [H名] would prefer something more subdued.”
 「お土産ならその土地っぽいものを選ぶのが王道だと思って……」=“If you're going to buy a souvenir, I thought it would be a good idea to choose something local. ......”
 「それは、まあ」=“It's, well.”
 「……それに『なんくるないさー』っていい言葉だと思う。『大丈夫だよ』ってことでしょ？」=“...... And I think 'nothing' is a good word. I think it's a good phrase. It means, "Don't worry.”
 「大丈夫な気分になりたい時に着るの？」=“Do you wear this when you want to feel okay?”
 「着なくても、部屋に飾ってもいいんじゃないかな？　元気な気持ちになれるかも」=“You don't have to wear it, you can hang it in your room.　It'll make you feel better.”
 「うん、決めた。私これ買うね」=“Yeah, I've decided. I'll buy this.”
-「……[H名]の話を聞いてたらだんだんよく見えてきた。俺も買おうかな」=“I've been listening to ......[H名] and she's starting to look better and better. Maybe I'll get one too.”
+「……[H名]の話を聞いてたらだんだんよく見えてきた。俺も買おうかな」=“... [H名]'s story is starting to look better and better. Maybe I should get one too.”
 「……ふふ♪　二人おそろいで着てたら、お互いでお互いを励ましあってるみたいになるね。それも素敵かな」=“If we wore matching outfits, it would look like we were encouraging each other. I think that would be great.”

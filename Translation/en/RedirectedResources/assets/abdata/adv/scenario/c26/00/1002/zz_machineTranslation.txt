@@ -4,7 +4,7 @@
 「……待って。心の準備がまだなの」=“...... Wait. I'm not ready for this.”
 「そんな大げさな」=“It's not that big of a deal.”
 「大げさなんかじゃない。……卓球、全然やったことないから」=“It's not an exaggeration. I've never played ...... ping-pong before.”
-「下手でも平気だよ。[H名]とちょっと遊びたいなーって、軽い気持ちで誘っただけだし」=“I don't care if you're not good at it. It's okay if you're not very good at it, I was just asking to have a little fun with [H名].”
+「下手でも平気だよ。[H名]とちょっと遊びたいなーって、軽い気持ちで誘っただけだし」=“I don't mind being bad at it. I just invited [H名] to have a little fun with me in a light-hearted way.”
 「……そう、なんだ。それなら……うん、わかった」=“...... Oh, yeah. Then ...... yeah, okay.”
 「結構、時間経っちゃったね。そろそろ切り上げようか」=“It's been a while. I think it's time to go.”
 「ふぅ……疲れた」=“Phew ...... I'm tired.”

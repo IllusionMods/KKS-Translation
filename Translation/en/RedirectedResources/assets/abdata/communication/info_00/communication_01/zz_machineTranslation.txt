@@ -289,7 +289,7 @@
 「俺の友達に彼女ができたんだって自慢してもいいかな？　あ、写真は見せたりしないから安心して」=“Can I brag to my friends that I've got a girlfriend?　Oh, don't worry, I won't show you any pictures.”
 「なんだか照れくさいですけど……ふふ、大丈夫です」=“It's kind of embarrassing, but ...... it's okay.”
 「か、彼女……はい、もちろん大丈夫ですよ」=“Well, she ...... is fine, of course she is.”
-「寂しくなったら、[H名]の傍に行ってもいいかな？」=“If I get lonely, can I go to [H名]'s side?”
+「寂しくなったら、[H名]の傍に行ってもいいかな？」=“If I get lonely, can I go over to [H名]'s side?”
 「はい、勿論ですっ。それが、彼氏彼女だと思いますので……」=“Yes, of course. Yes, of course. That's what boyfriends and girlfriends are for, I think. ......”
 「ええ、構いませんよ。私も寂しくなったら、会いに行きますね」=“Yes, that's fine. If I get lonely, I'll come and see you.”
 「恋人になら、無防備なところを見られても平気？」=“Do you mind if your girlfriend sees you in a vulnerable position?”
@@ -298,7 +298,7 @@
 「なんだか照れくさいですね。こ、この話題はなしにしましょう……！」=“It's kind of embarrassing, isn't it? Let's not talk about this ......!”
 「好きだよ」=“I like you.”
 「はうっ？　い、いきなりそのようなことを言われると、身体が熱く……」=“What?　I'm not sure what to say, but if you say something like that out of the blue, my body gets hot .......”
-「[H名]のことを考えていると――」=“When I think about [H名]...”
+「[H名]のことを考えていると――」=“I'm thinking of [H名]--”
 「私も……あなたのことを思うと、幸せな気持ちになります」=“Thinking about ...... you makes me happy, too.”
 「特に感じやすい場所は？」=“Where do you feel most comfortable?”
 「そ、それは……せっ、性感帯ということですか？　よくわかりません……！」=“Does that mean ...... you're sexually sensitive?　I'm not sure. ......!”
@@ -392,14 +392,14 @@
 「ふふふっ」「うふふっ」「くすっ」=Mmm," "Mmm," "Mmm," "Mmm," "Mmm.
 「は、恥ずかしいです……」「うぅっ……」「あ、ううぅ……」=I'm so embarrassed. ......" "Ugh. ......" "Uh-uh. ......
 「あっ、そう言えば――」「実はですね」「そうそう」「知っていますか？」=Oh, by the way... actually, yes, yes... you know what?
-「えっ？　な、なんですか？　……[Pあだ名]。……ううぅ、恥ずかしさはまだ消えません……」=“What?　What's that?　......[Pあだ名]. ...... Ugh, the embarrassment still hasn't gone away. ......”
+「えっ？　な、なんですか？　……[Pあだ名]。……ううぅ、恥ずかしさはまだ消えません……」=“What?　What, what is it?　... [Pあだ名]...Ugh, the embarrassment hasn't gone away yet...”
 「たとえ呼び方を変えても、許してあげませんから」=“Even if you change your nickname, I won't forgive you.”
-「ん？　どうかした？　[Hあだ名]」=“Hmm?　What's wrong?　[Hあだ名]”
+「ん？　どうかした？　[Hあだ名]」=“Hmm?　What's wrong?　[Hあだ名].”
 「いえ、特には。ただ……愛称で呼んでみたくなりまして……」=“No, not really. I just wanted to call you by your ...... nickname. ......”
-「……いいですよ。私も……[Pあだ名]……と、肌を重ねたいと思っていましたので」=“...... is good. I've always wanted to get under the skin of ......[Pあだ名].......”
-「あ、あの……[Pあだ名]……と、え、エッチをしたいのですけれど……」=“Oh, I'd like to have sex with ......[Pあだ名].......”
+「……いいですよ。私も……[Pあだ名]……と、肌を重ねたいと思っていましたので」=“... good. I've been wanting to get under the skin with ... [Pあだ名] ..., too.”
+「あ、あの……[Pあだ名]……と、え、エッチをしたいのですけれど……」=“Oh, um, I'd like to have sex with ... [Pあだ名] ..., but ...”
 「あの、少しお話しませんか？」=“Uhm, won't you chat with me for a bit?”
-「あの、[Pあだ名]。少しお話しませんか？」=“Uhm, [Pあだ名]. Won't you chat with me for a bit?”
+「あの、[Pあだ名]。少しお話しませんか？」=“Um, [Pあだ名]. Can I talk to you for a minute?”
 「きゃっ……私しかいなくてよかったです……本当はダメなことですからね？」=“I'm glad I'm the only one ...... who can do that, because it's really not a good idea.”
 「だ、ダメですよ……じっくり見ようとしてないで、出て行ってください」=“No, you can't. ...... Don't try to take a good look at me, just get out.”
 「よくないことですよ？　今はその……私しかいませんので、問題ないですが」=“It's a bad idea, okay?　I'm the only one who's ...... here right now, so it's not a problem.”

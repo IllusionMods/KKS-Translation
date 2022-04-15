@@ -288,7 +288,7 @@
 「ネットを見てることが多いかな。気づいたら、すぐ時間が過ぎちゃうの」=“I'm on the Internet a lot. I'm on the Internet a lot, and the time goes by so fast.”
 「あなたとは、もう少し楽しいお話がしたいな」=“I'd like to have more fun with you.”
 「うーん……それは、“かれら”がやったことじゃないと思うな」=“Hmm. ...... I don't think that's what they did.”
-「ねぇ[H]、これなんだけど、どう思う？」=“Hey, [H], what do you think about this?”
+「ねぇ[H]、これなんだけど、どう思う？」=“Hey [H], what do you think about this?”
 「……えっ？　ご、ごめん。ちょっと、みとれ……ぼーっとしてて」=“...... What?　I'm sorry. I'm sorry, I was just a little ...... distracted.”
 「遠距離恋愛って耐えられる？」=“Can you stand a long-distance relationship?”
 「耐えられるよ。どこにいても、わたしたちは繋がってるから」=“It's bearable. We're connected no matter where we are.”
@@ -398,13 +398,13 @@
 「えへへ」「わーい！」「ふふ～ん♪」「ふふっ」=Heh, heh, heh, heh." "Mmm-hmm." "Mmm-hmm.
 「ちょ、ちょっと……」「だ、だめ……！」「恥ずかしいよぉ」「あっ……やめてっ」="Hey, hey, ......." "No, no, ......!" "I'm so embarrassed. ...... Stop it!
 「ねぇねぇ！」「あのね！」「あっ、聞いて聞いて！」「ちょっと、いい？」="Hey, hey! "Hey, hey! "Listen, listen, listen! "Can I talk to you for a second?
-「ん？　ネームを忘れてないか確認したいの？　それじゃあ……[Pあだ名]」=“Hmm?　You want to make sure I didn't forget your name?　Okay. ......[Pあだ名]”
+「ん？　ネームを忘れてないか確認したいの？　それじゃあ……[Pあだ名]」=“Hmm?　You want to make sure I didn't forget your name?　Then go to ... [Pあだ名].”
 「……何も言うことはないよ」=“......, I got nothing to say.”
 「ううん、なんでもない。呼びたかっただけ。あと……呼んでほしかっただけ」=“No, it's nothing. I just wanted to call you. And I just wanted you to call me .......”
-「うん、しよっか。わたしも……[Pあだ名]としたかった所だったの」=“Yeah, let's do it. I wanted to call you ......[Pあだ名].”
-「ねぇ、すごくえっちしたい。[Pあだ名]とえっちしたいの、お願い」=“Hey, I really want to fuck you. I want to have sex with [Pあだ名], please.”
+「うん、しよっか。わたしも……[Pあだ名]としたかった所だったの」=“I'll do it. I was just about to ... [Pあだ名].”
+「ねぇ、すごくえっちしたい。[Pあだ名]とえっちしたいの、お願い」=“I want to have sex with you so bad. I want to have sex with [Pあだ名], please.”
 「ねぇねぇ、話をしよ？」=“Hey, hey, can we talk?”
-「ねぇねぇ、[Pあだ名]。話をしよ？」=“Hey, hey, [Hあだ名]. Can we talk?”
+「ねぇねぇ、[Pあだ名]。話をしよ？」=“Hey, hey, [Pあだ名]. Can we talk?”
 「わっ！　何でここにいるの？」=“Oh, my God!　What are you doing here?”
 「きゃっ！　えっと、すぐ出て行った方がいいよ？」=“Ouch!　Well, you better get out of here.”
 「会いにきてくれたの？　……今は誰もいないし、少し話しでもする？」=“Did you come to see me?　...... There's no one here right now. Do you want to talk?”

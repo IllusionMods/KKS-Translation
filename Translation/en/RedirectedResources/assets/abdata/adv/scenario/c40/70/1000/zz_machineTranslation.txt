@@ -1,9 +1,9 @@
 「折角二人でいるんだし、カップルドリンクを飲んでみようよ」=“Since we're alone, let's have a couple drinks.”
-「[H名]、ほんとに飲んだ？　全然減ってなくない？」=“H-Name], have you really had a drink?　Not less at all?”
+「[H名]、ほんとに飲んだ？　全然減ってなくない？」=“[H名], have you really had a drink?　Not less at all?”
 「の、飲んだぞ……貴殿の顔をしっかり見ながら、もうバッチリ飲んだとも」=“I've had a drink. ...... I've had a drink, I've had a drink, I've had a drink, I've had a drink, I've had a drink, I've had a drink.”
 「じゃあ、どんな味だった？」=“Well, what did it taste like?”
 「なっ、味か？　うーむ、トロピカルな味だったな？　異国情緒溢れるというか……うん、とにかく美味しかった！」=“Taste?　Mmmm, tasted tropical, didn't it?　It was exotic or ...... yeah, it was delicious anyway!”
-「[H名]……嘘ついてるのバレバレだよ？」=“You know [H名]...... that you're lying, right?”
+「[H名]……嘘ついてるのバレバレだよ？」=“[H名] ..., it's obvious you're lying, okay?”
 「ぐ……すまない。正直なところ、貴殿の顔を目の前にしたら飲むどころではなくなってしまって……」=“I'm sorry, he said. To be honest, I couldn't drink if I had your face in front of me. ......”
 「やっぱりね。でもカップルドリンクなんだから、ちゃんと二人で飲みたいな」=“I knew it. But it's a couple's drink, so I'd like to drink it alone with them.”
 「お、怒ってはいないのか？　貴殿の剣などと言っておきながら嘘をつくなんてと……呆れてはいないのか？」=“Oh, you're not mad at me?　Aren't you ...... appalled that I would lie to you when I said I was your sword, etc.?”

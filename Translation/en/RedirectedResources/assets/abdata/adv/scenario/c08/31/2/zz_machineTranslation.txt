@@ -20,14 +20,14 @@
 「でも、それと同時に不安にもなるんだ」=“But it also makes me nervous.”
 「きみと離れたくない。この時間がずっと続けばいいのに……ってね」=“I don't want to leave you. I wish this time could go on forever. ......”
 「ホントだ。私と同じことを考えてる。でも、どうしてそんな風に思うの？」=“That's right. You're thinking the same thing I am. But what makes you think that?”
-「きみのことが……[H名]が好きだからだ」=“I like you because I like ......[H名].”
+「きみのことが……[H名]が好きだからだ」=“Because you like ... [H名].”
 「えっ！？　あなたが私を……？」=“What?　You were looking at ......?”
 「そうさ。それ以外に理由はない」=“Yes. There's no other reason.”
-「[H名]のことが好きだから、そばにいるとドキドキするんだ。ずっと一緒にいたいと思うんだ」=“I like [name], and I get nervous when I'm around her. I want to be with him all the time.”
+「[H名]のことが好きだから、そばにいるとドキドキするんだ。ずっと一緒にいたいと思うんだ」=“I like [H名] so much that I get nervous when I'm around her. I want to be with her all the time.”
 「そ、そうなんだ……」=“Yeah. Yeah, I know. ......”
-「[H名]はどうかな？　俺と一緒にいるのは嫌？」=“How about [H名]?　Don't you like being with me?”
+「[H名]はどうかな？　俺と一緒にいるのは嫌？」=“What about [H名]?　Don't you want to be with me?”
 「ううんっ！　そんなことないよっ」=“No!　No, I don't.”
-「[P名]君とずっと一緒にいたい。お胸のドキドキだって嫌じゃない。むしろ……」=“I want to be with you forever. I don't mind the pounding in my chest. I'd rather go to .......”
+「[P名]君とずっと一緒にいたい。お胸のドキドキだって嫌じゃない。むしろ……」=“I want to be with you all the time, [P名]. I don't mind the pounding of your chest. I'd rather ...”
 「あ、そっかぁ……この気持ちがそうなんだね。やっとわかったよ」=“Oh, I see. ...... So that's what this feeling is. I finally understand.”
 「私も[P名]君が好き。私の恋人になってください」=“I like you too, [P名]. Please be my lover.”
 「喜んで」=“With pleasure.”
@@ -37,5 +37,5 @@
 「あ～、スッキリした。ずっとモヤモヤしてたんだぁ」=“Oh, I feel so refreshed. It's been bothering me.”
 「もう遠慮しないからね？　これからは愛を伝えまくっちゃうんだから」=“I'm not going to hold back anymore, okay?　I'm going to tell you all about my love.”
 「もちろん覚悟の上さ。俺だってもっと素直になる」=“Of course I'm prepared. I'll be more honest with you.”
-「これからもよろしくね。[H名]」=“Keep up the good work. [H名]”
-「うん♪　よろしくね、[P名]君。えへへ♪」=“Nice to meet you, [P名]. Heh heh.”
+「これからもよろしくね。[H名]」=“I'm looking forward to working with you. [H名].”
+「うん♪　よろしくね、[P名]君。えへへ♪」=“Yes,Â it's nice to meet you, [P名]. Heh heh heh.”

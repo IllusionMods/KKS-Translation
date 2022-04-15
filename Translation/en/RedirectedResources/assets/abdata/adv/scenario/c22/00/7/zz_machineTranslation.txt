@@ -1,1 +1,1 @@
-「あっ、おはよう。そっか、昨日は[H]が……って、うわぁっ！　何してるのっ！？」=“Oh, good morning. I see. Yesterday, [H] was ....... Wow!　What are you doing?”
+「あっ、おはよう。そっか、昨日は[H]が……って、うわぁっ！　何してるのっ！？」=“Oh, good morning. I see, [H] said ... yesterday, wow!　What are you doing?”

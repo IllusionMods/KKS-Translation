@@ -4,7 +4,7 @@
 「……そう」=“...... Yeah.”
 「そうって……あ、もしかしてそのアイス好みじゃなかった？　甘いものは苦手とか」=“I'm not a fan of sweets.　You don't like sweets?”
 「そういうわけじゃないの。見入っちゃてただけ……」=“It's not that. I was just looking at .......”
-「無邪気っていうのかな？　……おいしそうにアイスを食べてる[P名]が、子供みたいだから」=“It's called innocence, isn't it?　Because [P名] looks like a little kid, eating a bowl of ...... ice cream like it's good.”
+「無邪気っていうのかな？　……おいしそうにアイスを食べてる[P名]が、子供みたいだから」=“I don't know if I'd call it innocent.　... deliciously eating ice cream because [P名] looks like a little kid.”
 「あ……ごめん。悪く言おうとしたんじゃなくて……」=“Oh ......, sorry. I'm sorry. I didn't mean to make it sound bad. ......”
 「あはは。こういう時は、つい童心に返っちゃうからね」=“Haha. It's times like this that I feel like a child again.”
 「…………そう、なんだ」=“............ Yeah, what?”

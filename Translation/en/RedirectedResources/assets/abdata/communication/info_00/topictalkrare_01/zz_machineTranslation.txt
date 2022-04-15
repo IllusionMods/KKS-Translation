@@ -13,7 +13,7 @@
 「それがいいですね。遠くからなら、私もちょっと見てみたいです」=“That's a good idea. I'd like to see it from a distance, too.”
 「月桃って美肌効果があるらしいよ。女子はやっぱりそういうの気になる？」=“I heard that gingko has a beautiful effect on the skin. Are you girls interested in that kind of thing?”
 「はい、少し話題になっていましたよ。早速化粧水を買った方もいましたし」=“Yes, it's been talked about a little. Yes, there was a little buzz about it. Some people bought the lotion right away.”
-「[H名]は買わなかったの？」=“You didn't buy it?”
+「[H名]は買わなかったの？」=“[H名] didn't buy it?”
 「私はアロマの方が気になりました。ストレスや緊張を緩和してくれるそうなので」=“I was more interested in the aroma. I was more interested in the aromatherapy, because I heard it eases stress and tension.”
 「もしかして……俺と一緒にいるときにストレスとかたまったりする？」=“Do you ever get stressed out when you're with me at ......?”
 「いえいえ、そんなことありません。少し緊張はしますが……これは良い緊張です」=“No, not at all. I get a little nervous, but ...... it's a good nervous.”
@@ -54,7 +54,7 @@
 「でも、卵からの孵化するまで、それなりに長い期間があったのでは？」=“But didn't it take a long time for it to hatch from the egg?”
 「まぁ、ここしばらくはずっと見に行ってたよ」=“Well, I've been watching them for a while now.”
 「それだけ見守っていたのなら、私でしたら絶対名前をつけていたと思います」=“If I had been watching over it that long, I would have given it a name.”
-「はは、じゃあ[H名]が命名していいよ」=“Haha, then you can name him.”
+「はは、じゃあ[H名]が命名していいよ」=“Haha, then [H名] can name it.”
 「え、それこそ私は何もしていないので……勝手に名前をつけるなんて……」=“Well, that's exactly what I didn't do. ...... I can't ...... name it without permission.”
 「俺が勝手に呼ぶだけだから、いいんじゃないかな？」=“I'll just call him what I want. That's fine, isn't it?”
 「ふふ、そういうことでしたら……何かいい案を考えておきますね」=“Hmm, in that case, ...... I'll think of something better.”

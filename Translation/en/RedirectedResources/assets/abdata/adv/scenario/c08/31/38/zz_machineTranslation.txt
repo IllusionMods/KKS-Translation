@@ -3,4 +3,4 @@
 「そうだね。でも楽しみはとっておきたいから、二番目に気になるこれにしようかなぁ」=“That's true. But I want to have some fun, so I think I'll go for the second one I'm interested in.”
 「おお……またけっこう激しそうなのを選んだね」=“Oh, ......, you picked a pretty violent one again.”
 「やめておいた方がいいと思う？」=“Do you think it's better if I don't?”
-「ううん、最初に言った通り[H名]のやりたいことをやろう！　俺はずっと付き合うよ」=“No, let's do what [H名] wants to do, like I said in the beginning.　I'll stay with you.”
+「ううん、最初に言った通り[H名]のやりたいことをやろう！　俺はずっと付き合うよ」=“No, as I said in the beginning, let's do what [H名] wants to do!　I'll keep you company.”

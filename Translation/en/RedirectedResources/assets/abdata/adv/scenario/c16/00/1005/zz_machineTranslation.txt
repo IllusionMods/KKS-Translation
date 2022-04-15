@@ -11,9 +11,9 @@
 「なら、新しい思い出で上書きしないと」=“Then I'll have to overwrite them with new memories.”
 「たとえばどうやって？　私達、吹き出しそうになってしまっているのよ」=“Like how?　We're about to blow it.”
 「ま、まさか、キスでもしようとしているの？　ダメよ……こんなところで」=“Are you trying to kiss me?　No. ...... Not in this place.”
-「違うって。今日の思い出を曖昧なものにしないために、[H名]を目に焼き付けてるだけ」=“No, it's not. I'm just burning [H名] into my eyes so that I don't have a vague memory of today.”
+「違うって。今日の思い出を曖昧なものにしないために、[H名]を目に焼き付けてるだけ」=“No, he said. I'm just trying to keep [H名] in my eyes so that today's memories won't be vague.”
 「……アナタにそうやってはしごを外されたら、私がはしたないみたいじゃない」=“...... If you take me off the ladder like that, it makes me look like a prude.”
-「あはは。可愛いね、[H名]は」=“Ha-ha. You're cute, [H名].”
+「あはは。可愛いね、[H名]は」=“Ha-ha-ha. Cute, [H名].”
 「もう……いいわ。私も真似するから」=“No more ....... I'll copy you.”
 「……上書き、成功したかな？　音楽が耳に入らなくなってきた」=“Did I succeed in overwriting ......?　I can't hear the music anymore.”
 「ええ。……アナタも私から目を逸らさないで」=“Yes. ...... Don't look away from me, either.”

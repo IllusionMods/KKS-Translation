@@ -1,5 +1,5 @@
 「なっ……それは、冗談で……い、いや、おまえはそんなことをする奴じゃない」=“I'm just kidding. ...... No, no, you're not that kind of guy.”
 「……ほ、本気、なんだな？」=“...... You're serious, aren't you?”
-「うん。本気で[H名]のことが好きだし、本気で付き合いたいって思ってる」=“Yeah. I really like [H名] and I really want to go out with him.”
+「うん。本気で[H名]のことが好きだし、本気で付き合いたいって思ってる」=“I'm not sure I'd like that. I really like [H名] and I really want to go out with her.”
 「そうか……おまえの気持ちは充分伝わったよ」=“Well, ......, your feelings are well understood.”
 「じゃあ、その……付き合うことにするか。実は私も、おまえのことが、ずっと気になっていたんだ」=“Then I'll go out with you ....... In fact, I've been thinking about you for a while too.”

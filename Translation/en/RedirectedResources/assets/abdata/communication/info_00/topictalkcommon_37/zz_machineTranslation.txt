@@ -50,7 +50,7 @@
 「身も心もアクティブになっているからではないでしょうか？」=“I think it's because your body and mind are more active.”
 「色々動いて疲れてるはずなのに、エッチな気分だけは治まらないんだよなぁ」=“I'm sure I'm exhausted from all the activity, but I just can't seem to stop feeling naughty.”
 「それは生物的に生殖本能が働いているからだと思います」=“I think it's because my biological reproductive instincts are kicking in.”
-「[H名]もこういった所だと気分が盛り上がったりする？」=“Do you get aroused in places like this?”
+「[H名]もこういった所だと気分が盛り上がったりする？」=“Do you get excited in places like this, [H名]?”
 「はい。相手が目の前にいれば尚更です」=“Yes. Yes, even more so when the other person is in front of me.”
 「そのような込み入った話はまた後程」=“We'll talk about that in more detail later.”
 「卑猥なお話ですね」=“It's a bit risqué, isn't it?”

@@ -1,4 +1,4 @@
-「なあなあ、[Pあだ名]～？」=“Hey, hey, hey, [Pあだ名]~?”
+「なあなあ、[Pあだ名]～？」=“Hey, hey, [Pあだ名]?”
 「……どうしたの、突然。その呼び方、何？」=“You said, ...... What's wrong, all of a sudden? What is it you call it?”
 「なんか急に、そない呼びたなってん。イヤやった？」=“I don't know why he called me that all of a sudden. Didn't you like it?”
 「いや、別にイヤやおまへんけど」=“No, I don't mind.”
@@ -7,6 +7,6 @@
 「……どないしたん？　急に訛ってくるやん」=“What's wrong with ......?　Suddenly you have an accent.”
 「うん、俺も真似してみようかなーって」=“Yeah, I was thinking I might try to imitate him.”
 「どこ真似してんの……。普通、『じゃ、俺もあだ名で呼ぼうかな』やろ？」=“Where are you imitating ......? Don't you usually say, 'Well, I guess I'll call you by your nickname, too'?”
-「あ、そっち……？　んー……じゃあ[Hあだ名]なんてどう？」=“Oh, that way ......?　Hmmm... how about [Hあだ名] at ......?”
+「あ、そっち……？　んー……じゃあ[Hあだ名]なんてどう？」=“Oh, you're over there ...?　Hmmm... how about [Hあだ名] then?”
 「ええやん。ほな、自分もたまに呼んでーや。けど、訛りは禁止な」=“I'm sure you're right. You know, I'd like to be invited sometimes, too. But no accents.”
 「えー、訛りたかったなぁ……」=“Ew, I wish I had an accent. ......”

@@ -1,4 +1,4 @@
-「ごほんっ！　ね、ねぇ、[H名]……」=“Gosh!　Hey, hey, [H名]......”
+「ごほんっ！　ね、ねぇ、[H名]……」=“Gosh!　Hey, hey, [H名] ...”
 「鐘、鳴らすの～？　いいよ」=“Do you want to ring the bell?　Yeah.”
 「……台無しだよ」=“...... is ruining it.”
 「私としては、しょんぼりしちゃう意味がわかんないんだけど～」=“I don't understand why you're so depressed.”

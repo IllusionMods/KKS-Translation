@@ -1,7 +1,7 @@
 「ねぇねぇ、キミのこともっといろいろと知りたいなー。ダメ、かなぁ？」=“I want to know more about you. Is that a no?”
 「ダメなんてことはないよ。そう言ってもらえて、すごく嬉しい」=“I'm not saying no," he said. I am very happy to hear you say so.”
 「そっかぁ。えへへ、よかったー」=“I see. I'm so glad.”
-「それじゃあ、俺からも提案。よかったら、[H名]のことも俺にいろいろ教えてくれない？」=“Then I have a suggestion. If you want, you can tell me all about [H名] too.”
+「それじゃあ、俺からも提案。よかったら、[H名]のことも俺にいろいろ教えてくれない？」=“Well then, I have a suggestion. If you like, you can tell me all about [H名], too.”
 「私のことを？」=“About me?”
 「うん。その方がもっとお互いに仲良くなれるかなって思って」=“I'm not sure. I thought it would help us get to know each other better.”
 「うん！　じゃあ、教えっこしながら、もっと仲良くなろうねー」=“Yeah!　Then, let's get to know each other better while teaching each other.”

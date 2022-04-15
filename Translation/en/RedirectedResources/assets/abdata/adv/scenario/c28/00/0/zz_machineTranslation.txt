@@ -2,6 +2,6 @@
 「俺もそう思うよ。話しても話し足りないくらいだね」=“I think so too. I can't talk about it enough.”
 「また時間があったらこれからもわしのところへ来るがよい」=“Come back to me when you have time.”
 「お主との談笑も悪くない。わしがそう言っているのだから来るのじゃぞ」=“My heart is very full just being here with you. It's not a bad idea to have a chat with you, that's why you're here.”
-「俺も、[H姓]さんと話すのは楽しいし、喜んで来させてもらうよ」=“I like talking to you, too, and I'll be happy to come.”
+「俺も、[H姓]さんと話すのは楽しいし、喜んで来させてもらうよ」=“I, too, enjoy talking to you, [H姓], and would be happy to come over.”
 「うむ、待っておるぞ」=“Yes, I'll be waiting.”
 「……おぉ、もうこんな時間か。それではさらばじゃ」=“...... Oh, it's getting late. Goodbye, then.”

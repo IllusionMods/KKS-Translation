@@ -1,6 +1,6 @@
 「パワースポットとかって信じる方？」=“Do you believe in power spots?”
 「ああ、信じているぞ。見えているものだけが全てではない、見えない力こそ大きいものだ」=“Oh, I believe in you. What you see is not all there is. The unseen forces are greater.”
-「ちょっと意外だね。[H名]は自分の剣以外は信じない！　とか言うかと思ってた」=“A little surprising, he said. I don't trust [H名] with anything but his own sword!　I thought you would say something like that.”
+「ちょっと意外だね。[H名]は自分の剣以外は信じない！　とか言うかと思ってた」=“It's a little surprising, he said. [H名] doesn't believe in anything but her own sword!　I thought you would say something like that.”
 「待て待て、貴殿の中の我のイメージはそんな風なのか？　まぁ確かに、完全に否定はできないが……」=“Wait, wait, wait, is that your image of me?　Well, sure, I can't deny that completely. ......”
 「はは、悪いイメージじゃないから安心して」=“Ha, don't worry, it's not a bad image.”
 「むしろ、パワースポット好きとか、意外に乙女チックなところも可愛いなーって思ったから」=“I thought it was rather cute that she liked power spots and was surprisingly maidenly.”

@@ -1,4 +1,4 @@
-「ちょっ、えっ！？　[H名]！？　何してるのっ？」=“Wait, what?　[H名]?　What are you doing?”
+「ちょっ、えっ！？　[H名]！？　何してるのっ？」=“Hey, what?　[H名]!　What are you doing?”
 「あら、おはようございます。何……と申されましても、手でさせて頂いているとしか……」=“Oh, good morning. I don't know what ...... you're talking about, but I'm doing it by hand. ......”
 「そ、そうだよね……じゃなくて！　何でそんなことしてるのって話！」=“Yes, you're right, it's not ......!　I mean, why are you doing that?”
 「それは……こんな所で寝ていらしたので、お疲れなのかなと思いまして。ふふっ、少しでもストレス解消をと……」=“It's because ...... you were sleeping here, and I thought you might be tired. It's a great way to relieve some stress. ......”

@@ -50,7 +50,7 @@
 「わかるようなわからんような……まあ、でも、そういうのもアリやで」=“I don't know if I understand ......, but it's possible.”
 「やっぱりさ……長続きする秘訣ってさ、エッチの相性なんじゃないかな？」=“I knew it. ...... the secret to a long-lasting relationship is sexual compatibility, isn't it?”
 「んー……んん～～……うん、めっちゃ考えたけど、それ反論でけへんわ……」=“Hmmm ...... n~~~...... yeah, I thought about it a lot, but I can't argue with that. ......”
-「[H名]とのエッチが楽しみだ……」=“I'm looking forward to having sex with [H名] ......”
+「[H名]とのエッチが楽しみだ……」=“I look forward to having sex with [H名]...”
 「急にそーいうこと言うのナシやで？　だ、だって……恥ずかしいし……」=“Don't say that all of a sudden, okay?　Because it's ...... embarrassing and ......”
 「う、うん？　いや、それ、よーわからん……ごめんやで？」=“Uh-huh?　No, I don't know about that. ...... sorry?”
 「……ちょっとグイグイ来すぎちゃう？　もうちょっとマイルドなんがええなぁ」=“I think ...... is a little too aggressive.　I'd like something a little milder.”

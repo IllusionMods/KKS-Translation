@@ -1,6 +1,6 @@
 「お土産を見てこうよ」=“Let's look at the souvenirs.”
 「なぁ見てくれ、凄くいい感じのＴシャツを見つけたぞ！」=“Hey, look what I found. I found a really nice T-shirt!”
-「あー、[H名]はそういう感じ好きそうだね」=“Ah, [H名] seems to like that kind of thing.”
+「あー、[H名]はそういう感じ好きそうだね」=“Ah, [H名] seems to like that sort of thing.”
 「ああ！　豪快な筆使いながらも、質実剛健、正々堂々という感じがひしひしと伝わってくる！」=“Aah!"　Despite the vigorous brush strokes, the sense of quality and honesty is palpable!”
 「でも……泡盛ってお酒の名前だからね？」=“But ...... Awamori is the name of the drink, right?”
 「知っているとも。できれば『騎士道』と書いてあるものが良かったのだが、無いと言われてしまった」=“I know. I would have preferred something with 'chivalry' on it, but they said they didn't have it.”

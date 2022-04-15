@@ -7,7 +7,7 @@
 「恋人と浜辺を歩くってシチュエーションって、ロマンチックだと思いますし……」=“I think walking on the beach with your girlfriend is a romantic situation. ......”
 「他にも、夜景の見えるビルでディナーとかも恋人って感じがするよね」=“Or maybe dinner in a building with a view of the city, that would be more loverly.”
 「そうですね。憧れてしまいます……」=“That's right. I admire it. ......”
-「でも、さすがに南の島でそれは難しいかな。だからさ、[H名]」=“But I guess that's difficult to do on a southern island. So, you know, [name].”
+「でも、さすがに南の島でそれは難しいかな。だからさ、[H名]」=“But I guess that's hard to do on a southern island. So, you know, [H名].”
 「はい。何でしょうか？」=“Yes. What is it?”
 「えっと……。代わりにって訳じゃないんだけど、もう少し恋人らしく手を繋いだりしようか？」=“Let's see, ....... I don't mean that as a substitute, but would you like to hold hands a little more like a lover?”
 「……っ！？　そ、そんなの、無理です！」=“......?　You can't do that!”
@@ -19,4 +19,4 @@
 「その、えっと……。はは、なんだか俺まで恥ずかしくなって来ちゃったよ」=“Well, let's see, ....... I'm getting a little embarrassed myself.”
 「でも、嫌じゃないなら手を繋いでいいかな……？」=“But if you don't mind, can I hold your hand ......?”
 「は、はい……。よ、よろしくお願い、しますぅ……」=“Yes, yes, ....... Yes, ....... Please, .......”
-「それじゃあ。はい、[H名]」=“Okay, then. Yes, [H名].”
+「それじゃあ。はい、[H名]」=“I'll see you then. Yes, [H名].”

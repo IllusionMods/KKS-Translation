@@ -41,7 +41,7 @@
 「私はいいけど、後で怒られるわよ？　それとも、そういうスリルを味わいたいの？」=“I don't mind, but you'll be mad at me later.　Or do you just want the thrill of it?”
 「あら、私とお話ししたいのかしら？」=“Oh, you want to talk to me?”
 「ふふっ、私に会いたかったのかしら？」=“Hmm, did you want to see me?”
-「[H名]さんの落ち着き様が大人な雰囲気を醸し出してるんだろうなぁ」=“I think your composure gives you an air of maturity.”
+「[H名]さんの落ち着き様が大人な雰囲気を醸し出してるんだろうなぁ」=“I wonder if [H名]'s calmness gives her an air of maturity.”
 「そうなのかしら？　私にとっては普通の事でしかないのだけれど」=“Is that so?　It's just a normal thing for me.”
 「あら、世の中、私よりももっと大人な人ばかりよ？」=“You know, there are a lot of people out there who are more mature than me.”
 「美容や健康には気を使ったりする？」=“Do you take care of your beauty and health?”
@@ -63,7 +63,7 @@
 「楽しい時間をありがとう。それじゃ、またね」=“Thank you for a wonderful time. I'll see you later.”
 「もう行かないといけないの。ちょっと名残惜しいわね」=“I've got to go. I have to go. I'm going to miss you.”
 「はいここまで。続きはまた今度にしましょ？」=“Okay, that's it. Can we do this another time?”
-「俺……[H名]さんの事が本気で好きなんだ」=“I really like ......[H名].”
+「俺……[H名]さんの事が本気で好きなんだ」=“I ... really like you, [H名].”
 「んー……ごめんなさい、返事は保留にさせてもらえるかしら？」=“Hmm. ...... I'm sorry, can I hold off on an answer?”
 「私、あなたの事、好きよ？」=“I do like you.”
 「あら、本気なのにぃ……」=“Oh, I'm serious. ......”

@@ -1,5 +1,5 @@
 「あー……なんか自分、めっちゃエエなぁ」=“Oh, ......, I feel so good about myself.”
-「めっちゃエエでしょ？　[H名]こそ。めっちゃエエよ」=“It's so good, isn't it?　[H名] is the one. You're so good.”
+「めっちゃエエでしょ？　[H名]こそ。めっちゃエエよ」=“It's so good, isn't it?　[H名] is the one. She's so good.”
 「ホンマ？　そない言われたら、ホンキ出さんとしゃーないな」=“Really?　If you say so, I guess I'll just have to come out and show my true colors.”
 「本気？　本気を出すとどうなるの？」=“Seriously?　What happens when you get serious?”
 「もっと、こう……ガーッと行くっちゅうこっちゃ」=“I'm going to go ...... a lot more aggressively.”

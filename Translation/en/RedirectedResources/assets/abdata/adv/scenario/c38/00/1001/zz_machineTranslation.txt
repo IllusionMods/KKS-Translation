@@ -3,7 +3,7 @@
 「うん、思いっきり夏って感じだよね」=“Yeah, it was like summer all over again.”
 「ふふっ、そうですね。こうやって団扇で扇ぎながら、海風の香りを感じて……素敵な時間です」=“Hmmm, yes. It's a wonderful time to feel the scent of the sea breeze while fanning yourself with a fan like this .......”
 「それに……隣には貴方もいてくれますし……」=“Besides, ...... you'll be next to me. ......”
-「はは、俺も嬉しい。[H名]がいてくれて」=“Haha, I'm glad too. I'm glad [name] is here.”
+「はは、俺も嬉しい。[H名]がいてくれて」=“I'm glad too. I'm glad [H名] is here.”
 「ありがとうございます。そう言っていただけると……すごく幸せです」=“Thank you very much. Thank you very much. ...... I am very happy to hear that.”
 「きっと私にとって……今年の夏は一生忘れられない夏になりますね」=“I'm sure ...... this will be a summer I'll never forget.”
 「俺も同じだよ。一生忘れられない夏だと思う」=“I'm the same way. I think this is a summer I'll never forget.”
@@ -17,4 +17,4 @@
 「貴方にとって何が幸せなことなのか……私もきちんと覚えておきたいですから……」=“I'd like to remember what makes you happy ...... so I can remember what makes you happy .......”
 「あ、あはは、さすがにそれは恥ずかしいかも……でも……そうだなぁ。そのうち交換日記とかしてみる？」=“Oh, haha, that might be embarrassing ......, but ......, yeah. Do you want to try an exchange diary sometime?”
 「あ……ふふっ、賛成です。そうやってお互いのことを理解し合えるカップルになれたらいいですね」=“I'm glad to hear that. I hope we can be a couple that understands each other like that.”
-（理解し合えるカップルか……[H名]らしい考え方だな）=(A couple that understands each other. That's a very ......[H名] way of thinking.)
+（理解し合えるカップルか……[H名]らしい考え方だな）=(A couple that understands each other... That's a very [H名]an way of thinking.)

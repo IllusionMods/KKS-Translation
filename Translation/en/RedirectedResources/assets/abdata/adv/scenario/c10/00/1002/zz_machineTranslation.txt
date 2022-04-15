@@ -1,4 +1,4 @@
-「ねえ、[H名]も一緒に卓球やらない？」=“Hey, [name], do you want to play ping-pong with me?”
+「ねえ、[H名]も一緒に卓球やらない？」=“Hey, [H名], would you like to play ping-pong with me?”
 「よかろう。ただし、やるからには我も本気を出すぞ」=“That's fine. But I'm going to do it, and I'm going to do it right.”
 「おっ、言ったな。よ～し、負けないぞ」=“Oh, you said it. All right, I'm not gonna lose.”
 「クククッ。さぁ、宴の始まりであるぞ！」=“Kkkkkkk. Let the party begin!”

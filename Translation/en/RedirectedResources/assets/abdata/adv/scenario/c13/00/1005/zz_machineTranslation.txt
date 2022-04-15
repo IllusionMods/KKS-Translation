@@ -8,7 +8,7 @@
 「前にキャンプファイヤーやったのはいつだったの？」=“When was the last time you had a campfire?”
 「いつかな……ん？　もしかしてそれ、俺の前にいつ誰と手をつないで踊ったんだってヤキモチ発言だったりする？」=“Someday. ...... Hmm?　Are you saying that you're jealous of who I've danced hand in hand with before?”
 「そんなこと言ってないよ！」=“I didn't say that!”
-「……アタシが手を握るのは、これからずっと[P名]くんだけだよ♪」=“I'm going to be holding your hand for the rest of my life.”
+「……アタシが手を握るのは、これからずっと[P名]くんだけだよ♪」=“...At all times from now on, I will only hold your hand, [P名]...”
 「本当に？」=“Really?”
 「冗談抜きだって。アタシ軽そうに見えるかもしれないけど、好きになった人には一途……」=“I'm not kidding. I may seem like a lightweight, but when it comes to people I like, I'm all in. ......”
 「って、なんの話だったっけこれ」=“I don't know what you're talking about.”

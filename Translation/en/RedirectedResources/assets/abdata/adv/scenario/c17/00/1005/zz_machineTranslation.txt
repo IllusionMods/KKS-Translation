@@ -13,14 +13,14 @@
 「そこまで、逃げるように離れたくなって良いのに……」=“So much for wanting to get away from it all. ......”
 「えっ、何か言った？」=“What? What did you say?”
 「何でもないわ。油断なんてしてるからバランスを崩すのよ」=“It's nothing. It's your carelessness that's throwing you off balance.”
-「うん、ごめん。[H名]さんと踊るってことで緊張し過ぎちゃってさ……」=“Yeah, sorry. I was too nervous about dancing with [H名]. ......”
+「うん、ごめん。[H名]さんと踊るってことで緊張し過ぎちゃってさ……」=“I'm sorry. I was too nervous about dancing with [H名]...”
 「……今度はバランスを崩さないように、しっかりと私の手を握ると良いわ」=“...... You'd better hold my hand tightly this time so you don't lose your balance.”
 「えっ？　今なんて？」=“What?　What now?”
 「だからっ、私のをしっかりと……や、やっぱり何でもないっ」=“So make sure you get mine ......, it's nothing.”
 「ごめんごめん、そうだよね。今度はもっとしっかりと手を握るよ」=“Sorry, sorry, you're right. I'll hold your hand more firmly this time.”
 「～～～っ。聞こえてたなら、聞き返さないで」=“~~~~. If you heard me, don't ask me back.”
-「いや、[H名]さんからそんなこと言われると思ってなくて驚いちゃって」=“No, I'm just surprised that you would say something like that.”
-「それじゃあ、[H名]さん。お手を拝借してもいいかな？」=“Well then, [H名]. Do you mind if I use your hand?”
+「いや、[H名]さんからそんなこと言われると思ってなくて驚いちゃって」=“No, I was just surprised that [H名] would say something like that to me.”
+「それじゃあ、[H名]さん。お手を拝借してもいいかな？」=“Well then, [H名], he said. May I borrow your hand?”
 「……もう。あなたって時々変に意地悪になるわよね」=“...... again. You can be so weird and mean sometimes.”
 「はぁ……今度は、バランスを崩さないように注意してちょうだい」=“...... Be careful not to lose your balance this time.”
 「もちろん、出来るだけ気をつけるよ」=“Of course. I'll be as careful as I can.”

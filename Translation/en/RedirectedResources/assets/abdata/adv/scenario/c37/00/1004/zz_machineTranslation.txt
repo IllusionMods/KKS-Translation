@@ -8,7 +8,7 @@
 「そう考えると……不思議ですね」=“When I think about it, ...... it's strange.”
 「ん？　どの辺りが？」=“Hmm?　What part?”
 「ほとんど海の中で、私達は海ではない所で生まれて……出会いました」=“Almost in the sea, we were born and ...... met in a place that is not the sea.”
-「へぇ、[H名]もそういうロマンチックなこと考えるんだね」=“Wow, you think of romantic things like that.”
+「へぇ、[H名]もそういうロマンチックなこと考えるんだね」=“Wow, [H名] thinks romantically like that.”
 「ん……事実を再認識しただけです」=“I'm just reaffirming the ...... fact.”
 「あれ、もしかして照れてる？」=“Hey, are you embarrassed?”
 「照れてはいません……からかうのは禁止です」=“I'm not embarrassed. ...... Do not make fun of me.”
@@ -16,7 +16,7 @@
 「はい、とても幸運でした」=“Yes, I was very lucky.”
 「よかった。幸運と思ってもらえてるんだ」=“Good. I'm glad you're feeling lucky.”
 「あなたは……違うのですか？」=“Are you different from ......?”
-「俺も同じだよ。[H名]と出会えて、本当に良かったと思ってる」=“It's the same for me. I'm really glad I met [H名].”
+「俺も同じだよ。[H名]と出会えて、本当に良かったと思ってる」=“I'm the same way. I'm so glad I met [H名].”
 「ん……よかったです。あなたとは全部おそろいがいいです」=“I'm glad you're here ....... I'd like you to have a matching set.”
 「じゃあ、常に一緒に行動しないとね」=“Then we should always be together.”
 「はい、一緒にいます。海でも、陸でも、空でも……」=“Yes, I'll be with you. I'll be with you at sea, on land, and in the air. ......”

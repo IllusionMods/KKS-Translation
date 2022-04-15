@@ -1,7 +1,7 @@
 「うん！　ドキドキする～♪」=“Yes!　I'm so excited!”
-「[H名]はウムイの鐘については知ってたんだよね」=“[H名] knew about the bells of Umui, didn't he?”
+「[H名]はウムイの鐘については知ってたんだよね」=“[H名] knew about the Umui Bells, didn't she?”
 「ガイドブックとかいっぱい買って、研究したの♪　もしこの島で恋人ができたら、絶対に鳴らしにいくぞ～って思ってたんだ」=“I bought a lot of guidebooks and did a lot of research... I thought, "If I ever get a girlfriend on this island, I'll definitely go ring her.”
-「[H名]の念願を叶えられてよかったよ」=“I'm glad I was able to fulfill [name]'s wish.”
+「[H名]の念願を叶えられてよかったよ」=“I'm glad we were able to fulfill [H名]'s wish.”
 「この鐘を鳴らした二人は必ず結ばれるって言うけど、私たちはもう結ばれてるから、永遠に結ばれるってことにしようね♪」=“I'm not sure what to do, but I'm sure I'll be able to do it.”
 「あはは、いいね。それじゃあ一緒に鳴らそうか」=“Ha-ha-ha. That's good. Shall we play it together then?”
 「うん！　えへへ……二人でラブラブな感じで引っ張るの！」=“Yes!　I love you so much!" "Yeah! ...... We're going to pull it off like we're in love!”
@@ -9,7 +9,7 @@
 「ごめん、俺が祈ってとか言ったから、なんか神社のお参りみたいになったね」=“I'm sorry, I said something about praying, so it sounded like I was praying at a shrine.”
 「神社のお参りいいね！　お祈りしよ、お祈り！」=“I like visiting shrines!　Pray, pray, pray!”
 「だね」=“Yes.”
-（ええと……この場合は恋……ウムイの神様かな？　これからも[H名]と仲良く、ずっと一緒にいられますように……）=(Uh, ...... in this case, love ...... the god of umui?　May you and [H名] continue to be friends and be together forever. ......)
+（ええと……この場合は恋……ウムイの神様かな？　これからも[H名]と仲良く、ずっと一緒にいられますように……）=(Uh ... in this case the God of Love ... Umui?　(May you and [H名] continue to be friends and be together forever: ...)
 「むむむ……」=“Mmm. ......”
 （まだ祈ってる……しかもむむむとか言ってる、可愛い……）=(He's still praying ...... and saying mmmm, cute ......)
 「ふ～～……あっ、ごめん、待たせちゃった？」=“...... Oh, I'm sorry, did I keep you waiting?”

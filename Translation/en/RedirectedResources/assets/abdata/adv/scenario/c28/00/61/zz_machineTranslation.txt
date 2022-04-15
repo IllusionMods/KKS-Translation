@@ -1,5 +1,5 @@
 「む、ここで何をするのじゃ？」=“Mm, what are we doing here?”
 「ここではエステ体験が出来るみたいだね。オイルもご自由に、だって」=“I hear you can try beauty treatments here. You can use any oil you want.”
 「ふむ、スタッフがおらんという事は……」=“Hmm. No staff means no .......”
-「[H名]がいいなら俺が塗ってあげるけど……どうする？」=“If [H名] is okay with it, I'll paint it for you. ...... What do you say?”
+「[H名]がいいなら俺が塗ってあげるけど……どうする？」=“I can paint it for you if you want [H名], but what about ...?”
 「まぁ折角じゃし、お主に頼もうとするかの。じゃが、おかしなとこを触ったら承知せんからな……？」=“I'm going to ask you for a favor. I'm going to ask you to do it, but I don't want you to touch anything funny. ......?”

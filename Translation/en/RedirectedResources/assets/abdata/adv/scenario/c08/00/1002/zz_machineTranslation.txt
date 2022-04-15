@@ -8,4 +8,4 @@
 「ふぅ……なんとか狙った場所に打ち返せるようになったよ」=“I've managed to hit the target .......”
 「飲み込みが早いね。その調子なら大会で優勝できるかも」=“You're a fast learner. If you keep that up, you might win the competition.”
 「も～、おだて過ぎだよぉ」=“You're being too flattering.”
-「でも、[P名]君のおかげで卓球が好きになったかも。またしようね♪」=“But thanks to [P名], I think I like ping-pong now. Let's play again.”
+「でも、[P名]君のおかげで卓球が好きになったかも。またしようね♪」=“But thanks to you, [P名], I may have fallen in love with ping-pong. Let's play again♪”

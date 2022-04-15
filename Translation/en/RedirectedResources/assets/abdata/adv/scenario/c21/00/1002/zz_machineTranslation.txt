@@ -1,6 +1,6 @@
 「卓球台があるし、一勝負しない？」=“There's a ping-pong table. Let's play a game.”
 「ラリーじゃなくて一勝負？　言っておくけど、私けっこう強いよ？」=“Not a rally, but a game?　I'm not going to lie, I'm pretty strong.”
-「え、そうなの？　それじゃ、[H名]サーブからでいいよ」=“Oh, really?　Well then, you can start with [H名] Saab.”
+「え、そうなの？　それじゃ、[H名]サーブからでいいよ」=“Oh, really?　Well, then, I'll start with [H名] Saab.”
 「オッケー♪　コテンパンにしちゃうね！」=“Okay, I'll beat you to a pulp.”
 「あははっ、またスマッシュ決めちゃった♡」=“Hahaha, I smashed it again!”
 「つ、強い……！」=“I'm strong. ......”

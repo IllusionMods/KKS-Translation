@@ -61,7 +61,7 @@
 「え？　同性とってこと？　……まあ、知ってるわよ」=“What?　What, you mean the same sex?　...... Well, yeah, I know.”
 「それじゃ、またキミの声、聞かせて頂戴ね？」=“Well, let's hear your voice again, shall we?”
 「あ、もう行かなきゃいけないの……残念だわ」=“Oh, I have to go. ...... I'm sorry.”
-「俺、[H名]の事が好きなんだ」=“I'm in love with [H名].”
+「俺、[H名]の事が好きなんだ」=“I like [H名].”
 「んー、困ったわね……ごめんなさい、返事はちょっと待ってくれるかしら？」=“Hmm, that's a problem. ...... I'm sorry, can you give me a minute to respond?”
 「ねぇ、キミの事、好きって言ったら信じてくれる……？」=“Hey, would you believe me if I told you I like you ......?”
 「あら、本気にしちゃったかしら？　冗談よ、冗談……」=“Oh my God, did I just take you seriously?　I'm kidding. I'm kidding. ......”

@@ -5,11 +5,11 @@
 「世界平和です♡」=“World peace, handsome.”
 「予想と違ってスケールが大きかった」=“It was on a much larger scale than I expected.”
 「うふふ♡　あなたと永遠に仲良くいられますようにって、そうお願いしたと思ってくれたんですよね♡」=“Ufufu ♡ I thought you asked me to be friends with you forever ♡”
-「正直ね。でも[H名]のお願いの意図は聞いて一瞬でわかったよ」=“Honestly. But I knew instantly what [H名] was asking.”
+「正直ね。でも[H名]のお願いの意図は聞いて一瞬でわかったよ」=“I'll be honest with you. But I knew in an instant what [H名] was asking for when I heard it.”
 「世界が平和なら、無理やり俺たちが引き裂かれるリスクが大幅に減るもんね」=“If the world were peaceful, the risk of us being forcibly torn apart would be greatly reduced.”
 「大正解です♡　もうお互いにお互いのことがわかってて、相思相愛すぎますね♡」=“I love you so much, I love you so much, I love you so much, I love you so much, I love you so much, I love you so much, I love you so much.”
 「いくら私たちが相思相愛でも、戦争や天災が起こったらどうしようもありませんから♡　だから、世界平和をお祈りしました♡」=“No matter how much we love each other, we can't help it if war or natural disaster happens, so I prayed for world peace.”
-「なるほど、俺もまだまだ[H名]のことを理解しきれてないな。もっと修業を積まなくちゃ」=“I see, I still don't fully understand [H名]. I need to learn more.”
+「なるほど、俺もまだまだ[H名]のことを理解しきれてないな。もっと修業を積まなくちゃ」=“I see, I still don't fully understand [H名]. I still have a lot to learn about [H名].”
 「いいえ♡　たぶんあなたと付き合う前の私だったら、絶対にあなたと永遠に仲良くいられるようにってお願いしましたよ♡」=“No. ♡ Maybe if it was me before I started dating you, I would have definitely wished to be friends with you forever ♡.”
 「付き合いたい、とかじゃなくて？」=“It's not like you want to go out with me or anything?”
 「はい♡　あの頃は現実と理想がごっちゃになっていて、とても危険な状態でしたから♡」=“Yes ♡ At that time, reality and idealism were mixed up and it was very dangerous.”
@@ -21,7 +21,7 @@
 「他の女の子といるときは……うふふ♡　やっぱり嫉妬してしまいますけど、そういうときはあなたの魅力をたくさん思い浮かべます♡」=“When I'm with other girls, ...... ugh ♡ I still get jealous, but when I do, I think of your charms a lot ♡.”
 「そして、あぁこんなに魅力的な人なら女の子が周りにたくさんいてもおかしくないなって念じます……♡」=“And I remind myself that if he's so attractive, it's no wonder he has so many girls around him. ...... ♡”
 「でも、悪い虫っていう考え方は消えてくれないです……ごめんなさい……」=“But I can't get rid of the bad bug idea. ...... I'm sorry. ......”
-「いや、俺も[H名]に他の男が言い寄ってきてたら悪い虫認定するよ」=“No, I'd recognize a bad bug if I saw another guy making a pass at [H名].”
+「いや、俺も[H名]に他の男が言い寄ってきてたら悪い虫認定するよ」=“No, I'd be a certified bad bug too if I saw another guy making a pass at [H名].”
 「そんな人、私にとっても悪い虫です♡　絶対に相手にしないので安心してください♡」=“People like that are bad for me, too. I'll never deal with them.”
 「私はこの世にいる男性は本気であなただけだと思っていますし、それ以外の男性は世界の背景ですよ♡　木とかと一緒です♡」=“I seriously believe that you are the only man in this world, and all other men are the background of the world, just like trees and stuff.”
 「なので、そんな木を伐採しないように気を付けますね♡　私が罪を犯したら、あなたと一緒にいられなくなりますから、うふふふ……♡」=“So I'll be careful not to cut down those trees ♡ If I sin, I won't be able to be with you ♡ ♡ ♡ ......”

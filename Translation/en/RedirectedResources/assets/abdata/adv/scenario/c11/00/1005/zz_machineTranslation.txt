@@ -8,7 +8,7 @@
 「でも、私が転びそうになった時は受け止めてくれるんでしょう？」=“But you're going to catch me when I almost fall, right?”
 「もちろんだよ。任せて」=“Yeah, sure. I got it.”
 「うふふ、いざって時は頼りがいがあって素敵……」=“You're so reliable when you need to be. ......”
-「……普段は、[H名]に甘えっぱなしだけどね」=“...... usually spoils [H名].”
+「……普段は、[H名]に甘えっぱなしだけどね」=“... usually, though, I'm all over [H名].”
 「いいのよ。だって甘えてもらうの大好きなんだもの」=“It's okay. Because I love to be pampered.”
 「だからこれからも、どんどん甘えてちょうだいね♪」=“So from now on, please keep spoiling me.”
 「任せて。甘えるのは得意だし」=“Leave it to me. I'm a sucker for it.”

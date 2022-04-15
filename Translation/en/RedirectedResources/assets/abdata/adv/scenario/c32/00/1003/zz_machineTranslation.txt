@@ -1,5 +1,5 @@
 「ちょっとお土産を見ていかない？」=“Let's take a look at the souvenirs.”
-「[H名]が持ってるそれ、ひょうきんな顔してるね」=“That thing you're holding, it's got a funny face.”
+「[H名]が持ってるそれ、ひょうきんな顔してるね」=“That thing [H名]'s holding, it's got a hail mary look.”
 「シーサーのキーホルダーです。ふふ、可愛らしいと思いませんか？」=“It's a shisa key chain. Don't you think it's cute?”
 「可愛い？　面白いと思うんだけどなぁ」=“Cute?　I think it's funny.”
 「面白くて、可愛いいんですよ」=“It's funny and it's cute.”

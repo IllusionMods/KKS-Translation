@@ -1,7 +1,7 @@
 「ねぇ、ちょっと浜辺を散歩して行こうか？」=“Hey, let's go for a walk on the beach.”
 「嬉しい申し出じゃな。勿論、付き合うのじゃ」=“That's a nice offer. Of course I'll go with you.”
 「…………ほふぅ」=“............hoo.”
-「[H名]って海が好きなんだね」=“[H名] likes the ocean.”
+「[H名]って海が好きなんだね」=“[H名] loves the ocean, doesn't she?”
 「む？　嫌いではないが、お主からもそう見えたのじゃ？」=“Hmm?　I don't mind it, but it looks like you do, too, doesn't it?”
 「うっとりしてたよ？　ほふーって」=“You were swooning.　I was swooning.”
 「ほふーはさすがに気を抜きすぎじゃろう？　それは言ってなかったはずじゃが……」=“I think you're being too cautious.　I didn't say that. ......”

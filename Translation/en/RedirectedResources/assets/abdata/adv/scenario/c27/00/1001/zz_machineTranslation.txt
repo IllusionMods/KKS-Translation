@@ -5,7 +5,7 @@
 「どんな物語？」=“What's the story?”
 「……猫？」=“...... cat?”
 「あはは。確かに、縁側って言ったら猫がくつろいでるイメージあるかも」=“Haha. It's true that I have an image of cats relaxing on the porch.”
-「その場合、[H名]が猫ってことになるの？」=“Does that mean [H名] is the cat?”
+「その場合、[H名]が猫ってことになるの？」=“In that case, does that mean [H名] is the cat?”
 「ふふっ、いいわね。登場するのは私と……」=“Mmmm, good. Here comes me and .......”
 「あ、あんたが私の飼い主なんて……それはちょっと思い上がりすぎよ！」=“Oh, you're my owner. ...... That's a bit presumptuous!”
 「俺は何も言ってないよ？」=“I'm not saying anything.”

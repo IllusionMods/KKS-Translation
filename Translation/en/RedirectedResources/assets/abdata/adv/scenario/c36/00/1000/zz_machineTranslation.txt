@@ -1,4 +1,4 @@
-「ねぇ、[H名]さん。カップルジュースを飲んでみたいんだけどどうかな？」=“Hey, [H名]. I'd like to try some couple juice, if you don't mind.”
+「ねぇ、[H名]さん。カップルジュースを飲んでみたいんだけどどうかな？」=“Hey, [H名], he said. I'd like to try a couple juices, how about that?”
 「ねぇ、下僕。このストロー……吸い口が二つあるように見えるのだけど？」=“Hey, servant. This straw ...... looks like it has two sucks?”
 「そうだね。カップルジュースだしおかしなところはないと思うけど？」=“Yeah, I guess so. It's couple juice, so I don't think there's anything wrong with that.”
 「それくらい、私だってわかっているわ」=“I know what I'm doing.”
@@ -7,7 +7,7 @@
 「やっぱり別々のドリンクがいいなら、もう一つ何か注文するけど……」=“If you'd like a separate drink, I can order you something else. ......”
 「……別に良いわ。考えてみれば、一人でこのサイズのグラス一杯は飲みすぎだもの」=“...... It's okay. If you think about it, one glass of this size is too much for one person.”
 「しかたないし、下僕には特別に私と同じ物を飲むことを許可してあげる」=“I have no choice but to allow my servant to drink the same thing I do.”
-「ありがとう、嬉しいよ[H名]さん」=“Thank you very much, Mr. [H名].”
+「ありがとう、嬉しいよ[H名]さん」=“Thank you. It's my pleasure, [H名].”
 「それじゃ、さっそく頂いてみようかしら」=“Well, let's try some of this.”
 「う、うん……」=“Y-Yeah...”
 「……あれ？　飲まないの？」=“...... Huh?　You don't drink?”

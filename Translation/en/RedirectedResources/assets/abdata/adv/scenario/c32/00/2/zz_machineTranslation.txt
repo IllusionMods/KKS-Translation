@@ -21,7 +21,7 @@
 「……って、あの……今のがお願いごとなんですか？」=“......, is that ...... now what you're asking for?”
 「うん。とりあえず話をちゃんと聞いてもらおうと思って。その、分かってるとは思うけど……本題はここからだから」=“Yes. I just wanted to make sure that he would listen to me. Well, as you know, ...... is where the real story starts.”
 「そ、そうですよね……すみません、では……静かに聞いています」=“Yes, that's right. ...... Sorry, I'm ...... listening quietly.”
-「俺……[H名]のことが好きなんだ。真面目なところも、それでいて少しだけ抜けているようなところも」=“I like ......[H名]. I like [H名]. She's serious, but she's also a little bit off.”
+「俺……[H名]のことが好きなんだ。真面目なところも、それでいて少しだけ抜けているようなところも」=“I ... like [H名]. The seriousness of it all, but also the fact that she seems to be a little out of it.”
 「全部好きなんだ。だから……俺と付き合ってほしい」=“I love everything about you. That's why I want you to go out with me at .......”
 「返事は……今すぐじゃなくてもいいけど、聞かせてくれると嬉しい」=“You can send me your answer at ....... It doesn't have to be right now, but I'd love to hear it.”
 「……その……返事はもう……決まっています」=“...... I've already ...... decided on that ...... response.”

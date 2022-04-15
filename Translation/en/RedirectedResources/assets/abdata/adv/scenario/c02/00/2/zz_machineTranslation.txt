@@ -13,7 +13,7 @@
 「待って！　ちゃんと、俺から言うから……」=“Wait!　I'll tell you what you need to know. ......”
 「……わかりました。しばらくお口チャックしておきますわ」=“...... I understand. I'll keep my mouth shut for a while.”
 「もう、肝心なところでグズなんだから……困った人ですわね」=“I'll remember that nickname ...... because you know how to lift me up. ...... You're in trouble, aren't you?”
-「……よし、じゃあ言うよ…………俺、[H名]さんのことが好きだ」=“...... Okay, I'll say ............ I like [H名].”
+「……よし、じゃあ言うよ…………俺、[H名]さんのことが好きだ」=“I'll say it then: ... Okay, I'll say it: ... I like you, [H名].”
 「そんなこと、とっくにわかってましたわ！」=“I've known that for a long time!”
 「でも、こうして改めて言葉で伝えてもらえると……嬉しいものですわね」=“But it's ...... nice to be told in words like this again, isn't it?”
 「まあ、待ってよ。まだ終わってないんだから……」=“Well, wait a minute. Well, wait a minute. It's not over yet. ......”
@@ -32,7 +32,7 @@
 「う……どうだろう？　でも頑張るよ」=“...... I don't know.　But I'll try.”
 「当然ですわ。ですが、あなたの力だけでは難しいでしょう」=“Of course. But it will be difficult for you to do it on your own.”
 「だからわたくし達を幸せにするため、全力を尽くしますわ……せいぜい覚悟することね」=“So we'll do our best to make us happy. ...... Be prepared for anything.”
-「負けないよ。俺が、俺と[H名]を幸せにしてみせる……俺の力でね」=“I'm not going to lose. I'm going to make me and [H名] happy. ...... I'm going to do it.”
+「負けないよ。俺が、俺と[H名]を幸せにしてみせる……俺の力でね」=“I won't lose. I'll make me and [H名] happy... with my power.”
 「ふふふ、意地っ張りですわね。ですが、努力は大切ですわ」=“You're being stubborn. But hard work is important.”
 「それでは改めて……よろしくお願いいたしますわね」=“I'd like to thank you again for ...... your time.”
 「……ふふふ、おほほほほ……今最高にいい気分ですわ！　このまま海に向かって叫びたい気分……」=“I'm in a great mood right now.　I feel like screaming into the ocean right now. ......”

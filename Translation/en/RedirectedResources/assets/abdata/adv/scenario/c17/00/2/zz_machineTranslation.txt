@@ -1,11 +1,11 @@
 （……よし、告白するぞ）=(......All right, I'll confess.)
-「すぅ……はぁ……。すぅ……はぁ……。[H姓]さん！」=“Soo...... is ....... Suu ...... haha ....... Mr. [Last Name]!”
+「すぅ……はぁ……。すぅ……はぁ……。[H姓]さん！」=“Soooo ... haha ... Soooo ... haha ... [H姓]!”
 「いきなりでごめん。俺の話を聞いてくれないかな？」=“I'm sorry it came out of nowhere. Will you listen to me?”
 「別に構わないけど……。いったい、何の話をするつもり？」=“I don't mind, but ....... What the hell are you talking about?”
 「少しは実りのある話だと嬉しいんだけれど」=“I'm hoping this will be a fruitful conversation.”
 「それはちょっと自信ないけど、俺としては実りのある話にしたいと思う」=“I'm not so sure about that, but I'd like to make it a fruitful conversation.”
 「そう……どうやら真面目な話みたいね」=“So ...... seems to be a serious matter.”
-「うん。その……えっと。[H姓]さん。俺、きみのことが……」=“Yeah. That ......, um. [Last name]. I think you're .........”
+「うん。その……えっと。[H姓]さん。俺、きみのことが……」=“Yeah. That ... uh. [H姓]. I've been thinking about you ...”
 「好き、です。付き合ってください……！」=“I like you. Please go out with me. ......!”
 「……え？」=“......What?”
 「好きですっ、付き合ってください！」=“I like you. Please go out with me!”
@@ -22,7 +22,7 @@
 「できれば受け入れて欲しいけど……。どう、かな？」=“I'd like you to accept it if you can. ...... What do you think?”
 「……ねぇ。私のどこがいいの？　どこを好きになったの？」=“...... Hey. What do you like about me?　What do you like about me? What do you like about me?”
 「ひねくれた性格しているし、可愛げもそんなにないと思うんだけど……」=“I have a twisted personality and I don't think I'm that cute. ......”
-「そんなことない。[H姓]さんには魅力が数え切れないくらいたくさんあるよ」=“No, it's not. [You have more charms than you can count.”
+「そんなことない。[H姓]さんには魅力が数え切れないくらいたくさんあるよ」=“No, it's not. There are so many things about [H姓] that I can't even begin to count them.”
 「それに、そんな性格のきみを好きになったんだ。だから、自分で卑下しないで欲しい」=“And I like you because of your personality. So don't be so down on yourself.”
 「うっ……も、もう。あなたって、口が上手いのね」=“Ugh, ......, too. You're such a good talker, aren't you?”
 「はぁ、付き合って欲しい……か。気持ちはすごく……嬉しいけど……」=“Huh, you want me to go out with you ....... I'm really ...... glad you're feeling that way, but ......”
@@ -48,5 +48,5 @@
 「素直に『はい』とは言わないってことは、本音は……？」=“I'm glad you're being so honest. ...... Really, I've found a good man.”
 「……好きな人の内心くらい、すぐに察してよ。こんな私が好きなんでしょう？」=“...... You should at least be able to sense the inner thoughts of the person you like right away. You like me, don't you?”
 「もう……こんなのが恋人なんて早まったかしら」=“Oh my God, ...... am I too young to have a girlfriend like this?”
-「……！？　[H姓]さん……！」=“......!　[H姓], ......!”
+「……！？　[H姓]さん……！」=“You said, ...!　[H姓], ...!”
 「ありがとう。そして、これからもよろしくね！」=“Thank you. And I'll keep you posted!”

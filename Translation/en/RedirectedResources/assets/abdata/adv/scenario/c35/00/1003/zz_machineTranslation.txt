@@ -6,7 +6,7 @@
 「確かに。そう考えると嬉しいかも」=“Sure. That would make me happy.”
 「やろ？　私ね、お土産とかプレゼント選ぶの好きなんよ。どげんものがいいかなって、相手のことを考えるのが面白いと」=“You know?　I like to choose gifts and souvenirs. I think it's interesting to think about what the recipient would like.”
 「選びながら、相手が喜んでくれとるところまで想像して……それも含めてばり楽しいとよ」=“While you're choosing, imagine how happy they'll be. ...... That's part of the fun.”
-「そういうところ、[H名]らしい。優しいよね」=“That's very [name]. You're so sweet.”
+「そういうところ、[H名]らしい。優しいよね」=“That's very [H名]an of you. She's very kind.”
 「あはは、そんなんじゃないって！　優しさやなくて、むしろ自分が楽しみたいだけやしっ！」=“No, it's not like that!　I'm not trying to be nice, I just want to enjoy myself!”
 「はは、じゃあそういうことにしておこっか」=“Haha, let's just call it that then, shall we?”
 「むぅぅ、君はいつもそげんことばっかりー！　じゃあ君へのお土産は超ウルトラ激辛味で決まりやね。美味しそうやない？」=“Mmm, you're always saying that!　Then I guess I'll bring you a super ultra spicy one. Doesn't that sound delicious?”

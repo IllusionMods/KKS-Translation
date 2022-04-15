@@ -1,6 +1,6 @@
 「うん？　へぇ、そうなんだ～、好き……」=“Yeah?　Oh, I see. I like .......”
 「…………好き？」=“Do you like ............?”
-「そうだよ。俺は[H名]のことが好きなんだ」=“That's right. I like [name] a lot.”
+「そうだよ。俺は[H名]のことが好きなんだ」=“Yes, he said. I like [H名].”
 「……え～、そういうの～？　いきなり～？」=“...... Oh, you mean like that?　Suddenly?”
 「わわっ！　ごめんごめん、ふざけたわけじゃないんだけど～」=“Wow!　Sorry, sorry, I wasn't kidding.”
 「ちょっと、なんだろ……意表を突かれた？　みたいなやつで」=“It's like, "Hey, what's with the ...... surprise?　It's like...”

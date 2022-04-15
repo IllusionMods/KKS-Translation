@@ -17,5 +17,5 @@
 「ああ、誰かさんがからかい過ぎるせいでな。棘も立っているから近付かない方がいいぞ？」=“Yeah, because someone's making too much fun of me. You'd better stay away from him because he's a thorn in your side, too.”
 「ごめんて……ギューって抱き締めたらしぼんでくれる？」=“If I hug you sorry ......, will you squeeze me?”
 「なっ、待て！　だから棘が立っていると言っているだろう？　そんなものを抱き締めたら痛いぞ？」=“Wait a minute!　I told you that there are thorns standing in the way, didn't I?　How painful would it be to hug something like that?”
-「ちょっと痛いくらいは我慢するよ。それで[H名]の機嫌が直るなら安いものだし」=“I'll put up with a little pain. If it can fix [H名]'s mood, it's a small price to pay.”
+「ちょっと痛いくらいは我慢するよ。それで[H名]の機嫌が直るなら安いものだし」=“I'll put up with a little pain. If it makes [H名] feel better, it's a small price to pay.”
 「まったく、貴殿には敵わんな。別に本当に怒っていたわけじゃない……ほら、もうハリセンボンもしぼんだようだぞ」=“I am no match for you, he said. I wasn't really angry. ...... Look, it seems that Harisenbon has already wilted.”

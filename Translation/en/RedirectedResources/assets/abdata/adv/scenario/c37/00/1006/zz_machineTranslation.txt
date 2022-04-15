@@ -1,7 +1,7 @@
 「ここの鐘は、二人で鳴らすと必ず結ばれるらしいです」=“It's said that if two people ring the bell together, they will be united.”
 「うん、そういう伝説があるみたいだね」=“Yeah, there's a legend about that.”
 「鳴らしますか？」=“You want me to ring it?”
-「俺は鳴らしてみたいけど……[H名]はどう？」=“I'd like to make a sound, but how about ......[H名]?”
+「俺は鳴らしてみたいけど……[H名]はどう？」=“I'd like to ring ... [H名]?”
 「私も……鳴らしてみたいです」=“I want to play ...... too.”
 「つまり……俺と結ばれてもいいってこと？」=“So you're saying you're okay with ...... me?”
 「そういうことです。元より……離れる気もありませんが」=“That's what I mean. I have no intention of leaving .......”
@@ -21,4 +21,4 @@
 「そうしてもらえると助かります。あと……一日一回以上にしましょう」=“I'd appreciate it if you did. And ......, at least once a day.”
 「それじゃ、約束し直しってことで……もう一回鐘を鳴らそうか」=“Well, I guess we'll just have to make another promise. ...... Let's ring the bell again.”
 「はい……愛してます……凄く、愛してます……」=“Yes ......, I love you ......, I love you so much .......”
-「俺も、愛してるよ……[H名]……」=“I love you too, ......[H名]......”
+「俺も、愛してるよ……[H名]……」=“I love you, too, ... [H名] ...”

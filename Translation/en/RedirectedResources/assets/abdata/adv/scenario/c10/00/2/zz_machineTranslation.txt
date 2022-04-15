@@ -13,7 +13,7 @@
 「しょ、しょんなことありませんっ！」=“I don't have to be a dick!”
 「え……？　急に普通の口調？」=“What, ......?　What's with the normal tone?”
 「お、おほん……えぇと……な、汝の言霊には力を感じる……嘘や冗談で口にしたわけではなかろう」=“Oh, really ...... well ......, I can feel the power in your words ......, and you didn't say that as a lie or a joke.”
-「うん。俺は本気だよ。本気で[H名]のことを思ってる」=“Yeah. I'm serious. I'm really thinking about [H名].”
+「うん。俺は本気だよ。本気で[H名]のことを思ってる」=“I'm not sure I want to do that. I'm serious. I'm serious about [H名].”
 「ひゃわっ！　ななな名前呼びは恥ずかしい……」=“Oh my God!　I'm embarrassed to call you names. ......”
 「おっとごめん。そうだよね。まだ返事をもらってないし」=“Oops, sorry. Yeah, I know. I haven't gotten an answer yet.”
 「ぅ……えっと、その……やっぱり返事をしないとダメか……？」=“Uh ......, well ...... do I have to answer ......?”
@@ -36,7 +36,7 @@
 「まあ、我との契約は絶対で永遠に破れぬから、いずれそういう関係になるかもしれんが……」=“Well, my contract with you is absolute and unbreakable, so we might end up in a relationship like that. ......”
 「さすがは悪魔との契約だね。破ったら呪われそうだ」=“That's a deal with the devil. I'll be damned if I break it.”
 「そうだぞ。だから慎重に選べ。我と契約を結んだが最後、二度と逃れられなくなる」=“That's right. So choose carefully. Once you make a contract with me, you will never be able to escape.”
-「覚悟ならとっくに決まってるよ。[H名]のことを好きになった日から」=“If you're ready, you're ready. I've been ready since the day I fell in love with [H名].”
+「覚悟ならとっくに決まってるよ。[H名]のことを好きになった日から」=“I've been ready for this for a long time. From the day I fell in love with [H名].”
 「そ、そうか……」=“Yeah, yeah. ......”
 「なら、その……私でよければ、あなたの恋人にしてください……」=“Then, if that ...... is okay with me, I'd like to be your lover .......”
 「うん、わかった。これで契約成立だね。これからもよろしく」=“Okay, okay. That's the deal. Keep up the good work.”

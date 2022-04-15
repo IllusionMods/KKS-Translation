@@ -1,4 +1,4 @@
-「へぇ、カップルジュースか。[H名]さん、試しに飲んでみない？」=“Oh, couple juice. Would you like to try some, [H名]?”
+「へぇ、カップルジュースか。[H名]さん、試しに飲んでみない？」=“Oh, couple's juice, huh? [H名], would you like to try some?”
 「それで、１口飲んでみてどうだった？」=“So, what did you think after you took a sip?”
 「そうね……ジュース自体はただのトロピカルフルーツジュースなのね」=“Well, ...... the juice itself is just a tropical fruit juice.”
 「もっと特別なものかと思っていただけに、ちょっとだけ残念だわ」=“I'm just a little disappointed because I thought it would be something more special.”

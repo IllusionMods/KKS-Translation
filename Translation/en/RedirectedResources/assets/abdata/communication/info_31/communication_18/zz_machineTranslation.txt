@@ -104,7 +104,7 @@
 「子供は何人ぐらい欲しい？」=“How many children do you want?”
 「こ、子供ですか？　多い方が賑やかでいいかなって思います」=“Children?　I think the more the merrier.”
 「まだ、考えたこともないですけど……一人でも、きっと可愛いと思います」=“I haven't thought about it yet, but I'm sure one ...... would be lovely.”
-「[H名]と恋人になれて良かったよ」=“I'm glad you and [H名] became lovers.”
+「[H名]と恋人になれて良かったよ」=“I'm glad [H名] and I became lovers.”
 「私も、あなたの彼女になれて幸せです」=“I'm happy to be your girlfriend, too.”
 「もう時間ですね……続きはまた今度で、お願いします」=“It's time to go to ...... and we'll continue another time, please.”
 「お話、楽しかったです。ありがとうございました」=“I enjoyed our conversation. Thank you very much.”

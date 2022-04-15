@@ -4,7 +4,7 @@
 「家族全員のお土産ダカラ、ワタシのもないとネ♪」=“It's a gift for the whole family, but I have to have one for myself.”
 「家族全員でお揃いっていいね。日本語のＴシャツだし喜ばれそう」=“It's nice to have matching T-shirts for the whole family. It would be nice to have matching T-shirts in Japanese.”
 「絶対喜ぶヨ♪　Ｐａｐａはゼッサンニッポンゴ勉強中ダカラ！」=“Papa's studying Japanese.”
-「あはは、そういえば[H名]ならこの島の方言も勉強してそうだね」=“Haha, come to think of it, [H名] seems to have studied the dialect of this island.”
+「あはは、そういえば[H名]ならこの島の方言も勉強してそうだね」=“Haha, come to think of it, I think [H名] would learn the dialect of this island.”
 「モチロン、してきたヨ♪　コノ、『ナンクルナイサー』のこともネ！」=“I've been thinking about it. I've been thinking about Nankulnaisa.”
 「旅行雑誌か何かで読んだけど、なんとかなるさみたいな、気軽な感じなだけじゃないんだよね？」=“I read in a travel magazine or something that it's not just a casual, "I'll make it work" kind of thing.”
 「Ｙｅａｈ♪　『ナンクルナイサー』は、モトモト、『マクトゥソーケー・ナンクルナイサ』っていうコトバなんダヨ」=“Yeah, "nankurunaisa" is really a word for "makutosoke nankurunaisa".”

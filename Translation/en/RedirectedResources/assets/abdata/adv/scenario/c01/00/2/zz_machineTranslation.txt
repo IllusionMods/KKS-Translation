@@ -13,7 +13,7 @@
 「えっ……はい、ありますよ。女の子の夢は、特に恋のお話が多いですから……」=“What? ...... Yes, I do. Girls' dreams are often about love. ......”
 「じゃあ……俺じゃちょっと役不足かもしれないけど……」=“Well, ......, I may not be able to help you, but .........”
 「ぁ……ぇ……その……」=“Oh, ...... that .......”
-「俺、[H名]のことが好きなんだ……！　付き合ってください！」=“I like [H名]. ......!　Please go out with me!”
+「俺、[H名]のことが好きなんだ……！　付き合ってください！」=“I like [H名]...!　Please go out with me!”
 「えっ、あっ……は、はいっ！　私で良ければ喜んでおちゅきあい……！」=“What? Oh, ......, yes!　If it's okay with me, I'm happy to chuckle ......!”
 「あぅ……すみません。大事なところで私……その、改めてまして、お付き合いさせてください……」=“Oh ...... I'm sorry. I'm sorry, but I'm in the middle of something ...... that's important, and it's nice to meet you again. ......”
 「え……ほんとにいいの？」=“Yeah, ...... are you sure about this?”
@@ -38,9 +38,9 @@
 「ありがとう。二人がしたいこと、これからゆっくり全部やっていこうね」=“Thank you. Let's take our time and do all the things we want to do.”
 「それはとても贅沢ですね。幸せ過ぎて怖いという気持ちが分かった気がします」=“That's very luxurious. I think I know what it feels like to be afraid of being too happy.”
 「今までは誰か恋人と……だった部分が、全部あなたに書き換わって。心がじんわりと温かく……ふふふ」=“The part that used to be ...... with someone else was replaced by you. My heart is warmed ...... with warmth.”
-「これからよろしくね。[H名]……」=“I look forward to working with you. [H名]......”
+「これからよろしくね。[H名]……」=“I'm looking forward to working with you from now on. [H名] ...”
 「こちらこそ、不束者ですがよろしくお願いいたします」=“I'm sorry I'm not very good at this, but thank you.”
 「あっ、そうでした……！　私、一番大事なことを言い忘れていました……」=“Oh, that's right. ......!　I forgot to tell you the most important thing. ......”
 「ん？　なに？」=“Hmm?　What?”
 「私も……あなたが大好きです……愛しています！」=“I love ...... you too. ...... I love you!”
-「[H名]……ありがとう。大好きだよ……愛してる！」=“[H名]...... Thank you. I love you. ...... I love you!”
+「[H名]……ありがとう。大好きだよ……愛してる！」=“Thank you [H名] ... I love you... I love you!”

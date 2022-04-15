@@ -13,4 +13,4 @@
 「いや、さすがにそれはないよ」=“No, I don't think so.”
 「いいえ。たとえ貴方よりも心の広い殿方が存在したとしても、私の人生には関係ございませんので」=“No. No. Even if there are more open-minded men in the world than you, they have no place in my life.”
 「これからも私は貴方を軸として生きてゆく所存でございます。ご迷惑でなければ、末永くお側に置いてくださいまし」=“I hope to get to know you a lot more in the future." "I will continue to live my life with you as my axis. If it's not too much trouble, please keep me by your side for a long time.”
-（やっぱり[H名]は筋金入りの大和撫子だなぁ）=(I knew it. [H名] is a hardcore Yamato Nadeshiko.)
+（やっぱり[H名]は筋金入りの大和撫子だなぁ）=(After all, [H名] is a hardcore Yamato Nadeshiko.)

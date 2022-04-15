@@ -18,7 +18,7 @@
 「ううん、そういうのじゃなくて。隣にいるきみを見てたら……伝えなきゃって気持ちが湧き上がってきた」=“No, that's not what I meant. When I saw you next to me, I felt like I had to tell you .......”
 「この瞬間を二人の特別な時間にしたい、って」=“He said he wanted this moment to be a special time for the two of us.”
 「ノリで告白したってことかよ。わ、私はそんな軽い女じゃねぇぞ！」=“You mean you just confessed to me? I'm not that kind of girl!”
-「そうとっちゃったか。違うよ、[H名]のことはずっと気になってて……」=“You took it that way. No, I've been thinking about [H名]. ......”
+「そうとっちゃったか。違うよ、[H名]のことはずっと気になってて……」=“I guess I took it that way. No, I've always been curious about [H名]...”
 「うん、ずっと惹かれてた」=“Yeah, I'll always be attracted to you.”
 「こんな、がさつで口の悪い……ヤンキーとか陰口叩かれてるような女にかよ」=“For such a brash, foul-mouthed, ...... Yankee, backstabbing woman?”
 「そういう自分を傷つけるようなこと言わなくていいのに」=“You don't have to say things like that to hurt yourself.”

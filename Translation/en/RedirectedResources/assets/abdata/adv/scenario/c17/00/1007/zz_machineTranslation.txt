@@ -1,4 +1,4 @@
-「ねぇ、[H名]さんって魚が好きだったりするのかな？」=“Hey, [name], do you like fish?”
+「ねぇ、[H名]さんって魚が好きだったりするのかな？」=“Hey, does [H名] like fish?”
 「結構、夢中になって水槽の中を見ているよね」=“You're looking at the tank pretty intently.”
 「そうね、魚を鑑賞するのは嫌いではないわ」=“Yes, I don't mind admiring the fish.”
 「もちろん食べるのはもっと好きだけれども」=“Of course I like to eat more.”
@@ -6,7 +6,7 @@
 「俺も秋刀魚が泳いでいたら、多分そんなことを考えると思うし」=“I think I'd be thinking the same thing if there were swordfish swimming around.”
 「そうなの？　あなたって思っていたよりも食いしん坊なのね」=“Really?　You're more of a foodie than I thought.”
 「そうはいっても、食べたことのない魚の場合だとそんなことは思わないよ」=“But I don't think that's true when it's a fish you've never eaten.”
-「それで、[H名]さんは鑑賞する場合はどの魚が好き？」=“So, [H名], which fish do you like to watch?”
+「それで、[H名]さんは鑑賞する場合はどの魚が好き？」=“So, [H名], which fish do you prefer for viewing?”
 「そうね……強いて言えば深海魚かしら？」=“Yes, ...... I'd say deep sea fish.”
 「おかしな姿の子も多いけど、それ以上にカラフルでしょう？　それが綺麗だと思って」=“I thought it was beautiful.　I thought it was beautiful.”
 「それはわかるかも。深海魚って面白いよね」=“I know that. Deep-sea fish are interesting, aren't they?”
@@ -16,6 +16,6 @@
 「えっ、どうして？　どうせなら見たいものを見た方がいいんじゃない？」=“What? Why?　Why don't we just see what we want to see?”
 「いいのよ。こうして順番に見ていくのも楽しいから」=“It's okay. It's fun to look at them in order.”
 「何より……。あなたと、一緒だもの」=“Best of all, it's ....... With you, I mean.”
-「[H名]さん……」=“[H名], .......”
+「[H名]さん……」=“[H名], ...”
 「さ、次の水槽を見てみましょう？　サメを近くで見るのなんて初めてだわ」=“Let's check out the next tank, shall we?　I've never seen a shark up close before.”
 「うん、そうだね！　さあ、次へ行こうか！」=“Yes, you're right!　Now let's move on!”

@@ -12,14 +12,14 @@
 「おほほほほ……わたくしの美貌は、この世界一つでは到底治まりきりませんもの」=“Oh-ho-ho-ho: ...... My beauty is far beyond the reach of this world alone.”
 「あはは、そんな話がすーっと入ってくるぐらい、壮大で、広大な光景だね」=“Haha, it's so grand and vast that it's easy to get caught up in it.”
 「……ええ、見入ってしまいそうですわ」=“...... Yeah, I'm going to be watching this.”
-「……俺もだよ。星よりも、[H名]さんに、だけどね」=“...... I like you too. I love you too. - I love you more than the stars, though, [H名].”
+「……俺もだよ。星よりも、[H名]さんに、だけどね」=“... me too. More to [H名] than the stars, though.”
 「奇遇ですわね……わたくしもよ。あなたの瞳に写る、流れ星の輝く軌跡……本当に、心が引かれてしまいます」=“What a coincidence. ...... So am I. The shining trails of a shooting star in your eyes ...... really draws me in.”
 「あははは……俺、綺麗かな？」=“Ha-ha-ha. ...... Am I beautiful?”
 「ふふふふ……ええ、大宇宙の後押しがあるとはいえ、わたくしの傍らに立つに相応しい美しさですわ！」=“...... Yes, even with the help of the universe, you are beautiful enough to stand beside me!”
 「……ありがとう。ずーっと一緒だよ」=“Thank you for ....... I'll always be with you.”
 「望むところですわ！　あなたが嫌がっても、絶対離しません」=“It's what I want!　I'll never let you go, even if you don't want me to.”
 「あなたはわたくしのもの……よろしくて？」=“You're mine. ...... Nice to meet you?”
-「うん、俺は[H名]さんのものでいいよ」=“Yeah, I'm all yours, [H名].”
+「うん、俺は[H名]さんのものでいいよ」=“Yeah, I'm fine with [H名]'s.”
 「素直で大変結構ですわ……本当に、わたくしはいい人を見つけることができました」=“I'm glad you're so honest. ...... Really, I've found the right person.”
 「願わくば、末永く、この人はわたくしの横にい続けられるよう祈らせていただきます」=“I pray that this person will remain by my side for a long time.”
 「……今、願い事言ってた？」=“...... Did you just say a wish?”

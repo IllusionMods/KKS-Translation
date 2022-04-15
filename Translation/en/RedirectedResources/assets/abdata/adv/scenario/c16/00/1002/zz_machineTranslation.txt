@@ -2,7 +2,7 @@
 「サーブはどっちからにする？　それと、何ゲームするかも決めないといけないわね」=“Which way to serve?　And we have to decide how many games we want to play.”
 「あはは、ノリノリだね」=“Ha-ha. You're so excited.”
 「こういう勝負ごとは真剣に取り組むからこそ楽しいものでしょ？」=“This kind of game is only fun if you take it seriously, right?”
-「それは確かに、[H名]の言う通りだ」=“That's true, [H名] is right.”
+「それは確かに、[H名]の言う通りだ」=“That's for sure, [H名] is right.”
 「意見が一致したわね。それじゃあ……１ゲームの一発勝負にしましょうか。もし、私が勝ったら……フフッ」=“We're in agreement. Let's have a shot at the ......1 game. If I win, ...... pfft.”
 「え？　怖い……罰ゲーム先に決めておいてよ」=“What?　Scary. ...... You'll have to decide on the punishment first.”
 「アナタが勝てばいいだけでしょう？　それとも、自信がないのかしら？」=“I don't know what to say.　Or are you unsure?”

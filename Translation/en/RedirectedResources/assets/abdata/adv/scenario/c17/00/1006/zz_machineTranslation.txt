@@ -8,7 +8,7 @@
 「確かにそういうパターンもありそうね。事情は人それぞれだもの」=“I guess that's the way it goes. Everyone's situation is different.”
 「でも、嬉しいな」=“But I'd love to.”
 「……嬉しい？　どうして？」=“...... Are you happy?　Why?”
-「だってさ、[H名]さんはこの鐘を鳴らす時点で相思相愛だって思っているんでしょ？」=“Because, [H名], you think you're in love with me when you ring this bell, right?”
+「だってさ、[H名]さんはこの鐘を鳴らす時点で相思相愛だって思っているんでしょ？」=“Because, you know, you think you're in love with me when you ring this bell, don't you?”
 「つまり俺との仲をそう思ってくれてるというわけで……」=“That's how you feel about me. ......”
 「っ……！？　別に、私はそんなこと――」=“What ......?　Nothing, I'm not...”
 「まったく思ってない？」=“You don't think so?”

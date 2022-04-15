@@ -6,7 +6,7 @@
 「でも……この鐘の音ってどこまで響くとかいな？　誰かが鳴らしたら、みんな気付くんかな？」=“But ...... how far do you think the sound of this bell will go?　If someone rings it, will people notice?”
 「どうなんだろう？　浜辺とか船着き場くらいまでは響くかなぁ？」=“What do you think?　I don't know, maybe it's the bedding, maybe it's the air conditioning.”
 「そっかぁ……でもどうせやったら世界中に響いて欲しいっちゃけどなぁ。私たち二人はずーっと仲良くいるんですーって！」=“I see. ...... But I want it to be heard around the world anyway. We'll always be close, the two of us!”
-「あはは、世界中はさすがに恥ずかしくない？　でもまぁ……[H名]とだったら、世界中に宣言してもいいかな」=“I'm sure you're not embarrassed about the whole world.　But if it's with ......[H名], I think I can declare it to the world.”
+「あはは、世界中はさすがに恥ずかしくない？　でもまぁ……[H名]とだったら、世界中に宣言してもいいかな」=“Haha, isn't the whole world a little embarrassing indeed?　But, well, if it's with ... [H名], I'm willing to declare it to the world.”
 「あ……ふふっ、私も！　君とやったらいいなぁって思う！　全世界の人に宣言したいもん！　私たちラブラブなんよーって！」=“I'm so happy to be with you!　I wish I could do it with you!　I want to declare it to the whole world!　I want to tell the whole world that we're in love!”
 「いつまでも仲良くするけん、きちんと見守っとってねって……えへへ、自分で言っとってちょっと恥ずかしくなってきた……」=“I'll always be close to you and watch over you ....... I'm a little embarrassed to say it myself .......”
 「でも……本当にそれくらい……君のこと好きなんよ。やけん……この鐘、一緒に鳴らしてもらってもいい？」=“But ...... I really like you that much ....... But ...... I really like you that much. ...... Can I ring this bell with you?”
@@ -15,4 +15,4 @@
 「わぁぁっ！　ばり綺麗な音ー！　世界中の人、きちんと聞いてくれたかいな？　えへへ」=“Whoa!　That sounds so beautiful!　Did the rest of the world hear me correctly?　Heh heh.”
 「ね……これからもずっとずっと……いつまでも仲良くしとってね！」=“Hey ......, we'll always ...... be friends forever and ever!”
 「もちろん、約束するよ。世界に宣言したんだから、ずっとラブラブでいよう」=“Of course I do, I promise. I promise you, I've told the world, we'll always be in love.”
-（良かった。[H名]……いつも以上にテンション高く喜んでくれてる。やっぱりここに来て正解だったな）=(Good. [H名]...... He's more excited and happy than usual. I knew I made the right choice coming here.
+（良かった。[H名]……いつも以上にテンション高く喜んでくれてる。やっぱりここに来て正解だったな）=(Good. [H名] ... is more excited and happy than usual. I knew I was right to come here.)

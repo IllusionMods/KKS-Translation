@@ -1,4 +1,4 @@
-「[H名]はサーフィンをやったことある？」=“Has [H名] ever surfed?”
+「[H名]はサーフィンをやったことある？」=“Have you ever surfed, [H名]?”
 「興味はあるが、やったことはないな」=“I'm interested, but I've never done it before.”
 「そうなんだ。勝手なイメージだけど、海に行ってはバリバリ波に乗ってるサーファーだと思ってたよ」=“Yes, I do. I always imagined you as a surfer who goes to the beach and rides the waves.”
 「どんなイメージなんだ……そういうお前は、やったことあるのか？」=“What kind of image are you ...... trying to project, have you ever done it?”

@@ -4,11 +4,11 @@
 「……絵に描き出したみたいな情景、っていうのかな？　こういうの」=“I'm not sure if it's called a "...... scene that looks like it was drawn out in a painting.　That kind of thing.”
 「こういう体験してみたかったの？」=“Did you want to experience something like this?”
 「ふふ、どうしてそんな聞き方をするの？」=“Hmm, why are you asking me that?”
-「なんとなくだよ。[H名]からキャンプファイヤーに誘ってくれたのがちょっと意外だったから」=“Sort of. I was a little surprised that [H名] invited me to the campfire.”
+「なんとなくだよ。[H名]からキャンプファイヤーに誘ってくれたのがちょっと意外だったから」=“I'm kind of getting it, he said. I was a little surprised that [H名] invited me to the campfire.”
 「そうだね。あんまりこういう催しに特別な思い入れはなかったけど」=“That's true. I didn't really have any special feelings about this kind of event.”
-「だからこそ、[P名]君と二人でなら私の中で特別なものに変わるのかな……って」=“That's why I'm wondering if it's going to be special if it's just you and [P名]. ......”
+「だからこそ、[P名]君と二人でなら私の中で特別なものに変わるのかな……って」=“That's why I wondered if it would turn into something special for me if it was just you and [P名]...”
 「……いちいち大げさかな？　ごめんね、面倒くさくて」=“...... Am I overreacting every time?　I'm sorry, it's too much work.”
-「面倒くさいなんて、そんなことないよ。[H名]の感性とか言うこととか面白いなぁって思う」=“It's not like it's a bother. I find [H名]'s sensibility and what she says interesting.”
+「面倒くさいなんて、そんなことないよ。[H名]の感性とか言うこととか面白いなぁって思う」=“I don't see how that could be a hassle. I think [H名]'s sensibilities and the things she says are interesting.”
 「……優しいんだね」=“...... You're so kind.”
 「やっぱり、こういうのは相手次第なのかな？　音楽にあわせて身体を揺らしてるだけなのに……」=“I guess it all depends on who you're with.　I'm just shaking my body to the music. ......”
 「だんだん、特別な気分になってきたかも」=“I think I'm starting to feel special.”

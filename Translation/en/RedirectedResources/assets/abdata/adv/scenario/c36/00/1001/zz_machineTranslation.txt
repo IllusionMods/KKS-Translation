@@ -1,6 +1,6 @@
 「涼むのに、ちょっと縁側でのんびりしていかない？」=“Why don't we take a break on the porch to cool off?”
 「ふぅ……。こうして縁側にいると、ゆったりとした気分になれるわね」=“Hmm. ....... It's so relaxing to be on the porch like this.”
-「[H名]さんに気に入って貰えたようで良かったよ」=“I'm glad to hear that you like it.”
+「[H名]さんに気に入って貰えたようで良かったよ」=“I'm glad you liked it, [H名].”
 「俺も、縁側で感じる風は好きなんだよね」=“I like the breeze on the porch, too.”
 「確かに悪くないわね。ただ……」=“That's not so bad. Just .......”
 「縁側に直接座っていると、お尻の辺りが固くて痛くなるのが残念ね」=“It's a pity that sitting directly on the porch is so hard on your buttocks.”

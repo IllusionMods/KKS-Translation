@@ -12,7 +12,7 @@
 「もしお時間が許すようなら、私とお話しませんか？」=“If you have a moment, would you like to speak with me?”
 「はい、なにご用でしょうか？」=“Yes, what can I do for you?”
 「どうかなさいましたか？」=“What can I do for you?”
-「[H姓]さんって古風な喋り方だけど、誰かから教わったの？」=“You have a very old-fashioned way of speaking. Did you learn it from someone?”
+「[H姓]さんって古風な喋り方だけど、誰かから教わったの？」=“You have an old-fashioned way of speaking, [H姓]. Did someone teach you that?”
 「はい、祖母から美しい日本語を心がけるよう言いつけられております」=“Yes, my grandmother taught me to speak beautiful Japanese.”
 「古い家ですから、自然とこうなってしまうのです」=“It's an old house, so it comes naturally to me.”
 「ご家族と旅行にはよく行くの？」=“Do you travel a lot with your family?”
@@ -264,7 +264,7 @@
 「茶道、華道、書道……道ってつく色んな習い事があるけど、全部やってるの？」=“Tea ceremony, flower arrangement, calligraphy, ...... There are many kinds of lessons called "path", do you do them all?”
 「挙げていただいた三つは習っておりますが、流石に全部は……数も把握しきれておりません」=“I'm learning the three you mentioned, but I don't know ...... all of them.”
 「芸道は数多くございますので、全部は習いきれておりません。習ったとしても、多芸ではなく中途半端になってしまいますから」=“There are so many art forms that I have not been able to learn them all. There are so many art forms that I can't possibly learn them all, and even if I did, I'd end up with a half-baked attempt.”
-「俺も[H]に釣り合うような品行方正な男になった方がいいかな？」=“Should I become a man of good conduct to match [H]?”
+「俺も[H]に釣り合うような品行方正な男になった方がいいかな？」=“Should I be as well-behaved as [H]?”
 「ええ、今にも増して素敵な殿方になられると存じます。今のままでも十分魅力的ですけれど」=“Yes, I think you will become an even better man than you already are. I'm sure you'll be even more charming than before.”
 「いいえ、私が貴方に合わせておりますから、もう釣り合っています」=“No, I'm already matching you, you're already matching me.”
 「本を読もうと思ってるんだけど、お勧めの本ってあるかな？」=“I'm thinking of reading a book. Do you have any suggestions?”
@@ -282,7 +282,7 @@
 「俺と付き合ったこと、後悔してない？」=“Do you regret going out with me?”
 「その様な思いが過ったことすらありません。私は貴方を愛しております」=“No, I am confident that we are on the same page. I love you so much.”
 「今が幸せ過ぎて怖く思うことはありますが、後悔は微塵もしていません」=“I'm so happy now that I sometimes feel scared, but I don't regret it in the slightest.”
-「[H名]を好きになってよかったって、心から思うよ」=“I'm really glad I fell in love with [H名].”
+「[H名]を好きになってよかったって、心から思うよ」=“I am so glad I fell in love with [H名].”
 「うふふ、私も同じ思いです」=“Mmm, I feel the same way.”
 「では、同じ言葉を貴方にお返しいたします」=“Then I'll say the same for you.”
 「恋の占いとか信じたりする？」=“Do you believe in love stories?”
@@ -296,7 +296,7 @@
 「どんなにアブノーマルなプレイでも応じてくれる？」=“Would you be willing to play with me, no matter how abnormal?”
 「貴方が望まれるなら、何でも。私はそのように育てられた女ですから、喜びもそれに準じます」=“Whatever you want. I was raised that way, and I will take pleasure in it.”
 「あまりにも酷いものは難しいと思いますが……いえ、私を説き伏せてくだされば宜しいかと」=“I know it's hard to do something so horrible. ...... No, I think you'll have to talk me into it.”
-「もし[H]にも言えないような性癖があったら嫌？」=“Wouldn't you like it if I had a propensity that I couldn't even tell [H] about?”
+「もし[H]にも言えないような性癖があったら嫌？」=“Would you hate it if [H] had a proclivity that you couldn't even tell her about?”
 「貴方に心から信用していただけない、私の至らなさが嫌です。本当にあるなら、打ち明けてくださいね」=“I don't like that you don't really trust me and that I'm not good enough. If you really have, please tell me.”
 「いいえ。ですが、私にも言えないではなく、私以外には言えない性癖にしてみせます」=“No, I don't. But it's not that you can't tell me, it's that you can't tell anyone but me.”
 「普通に過ごしてて、俺とのエッチを思い出すことはある？」=“Do you ever think about having sex with me in your normal life?”
@@ -379,15 +379,15 @@
 「うふふ」「素敵です」「素晴らしいですね」「うふふふ」「 小気味好うございます」=Mmmm," "That's nice," "That's wonderful," "Mmmm," "That's very nice.
 「そんな、いけません……」「堪忍してください」「もう」「後生ですから……」「あう……」=Oh, no, you can't do that. ......" "Please bear with me. ......" "I'm sorry. ......
 「そうそう」「先日の件なのですが……」「今思い出したのですが」「ところで……」「ひとつお耳に入れておきたいことがございます」=Oh yeah, about the other day ...... I just remembered, by the way ...... there's something I'd like to ask you about.
-「ねぇ、[Hあだ名]。愛称で呼んでほしいな」=“Hey, [Hあだ名]. I'd like you to call me by my nickname.”
-「……分かりました。……[Pあだ名]。これで、よろしいでしょうか？」=“...... I understand. ......[Pあだ名]. Is that okay?”
+「ねぇ、[Hあだ名]。愛称で呼んでほしいな」=“Hey, [Hあだ名]. I wish you'd call me by my nickname.”
+「……分かりました。……[Pあだ名]。これで、よろしいでしょうか？」=“I understand... [Pあだ名]. Is this correct?”
 「……今は真面目になさってください」=“......, please be serious now.”
-「こほん……[Pあだ名]」=“This is ......[Pあだ名].”
+「こほん……[Pあだ名]」=“Kohon ... [Pあだ名]”
 「私にとって、一番愛おしい名前ですので、声に出して呼ばせていただきました」=“It's the name I love the most, so I said it out loud.”
-「はい。……[Pあだ名]、どうぞ、貴方のご随意に……」=“Yes. "Yes. ......[Pあだ名], please, ...... as you wish.”
-「その……貴方と直に交わりたいのです。[Pあだ名]……如何でしょうか？」=“I'd like to commune with you in person, ....... [Pあだ名] ......, how about it?”
+「はい。……[Pあだ名]、どうぞ、貴方のご随意に……」=“Yes, sir... [Pあだ名], please, at your disposal ...”
+「その……貴方と直に交わりたいのです。[Pあだ名]……如何でしょうか？」=“I'd like to have direct contact with you, ... How would you like to ... [Pあだ名]?”
 「あの、宜しければ、お話しいたしませんか？」=“Um, would you like to talk about it?”
-「あの、[Pあだ名]。宜しければ、お話しいたしませんか？」=“Um, [Pあだ名]. Would you like to talk to me?”
+「あの、[Pあだ名]。宜しければ、お話しいたしませんか？」=“You know, [Pあだ名]. If you don't mind, I'd like to talk to you.”
 「困ったお人です……他の方が来る前に出て行ってくださいね？」=“He's in trouble. ...... Please leave before someone else comes.”
 「ここは殿方立ち入り禁止ですよ」=“This is a restricted area, gentlemen.”
 「破廉恥な貴方なら、入ってくると思っておりましたよ、うふふ」=“I knew you'd come in, you shameless bastard.”

@@ -25,5 +25,5 @@
 「実は、まだ……その……あなたが恋人だという、自覚がまだあまりなくて……」=“Actually, I'm still not very aware that ...... you are my lover. ......”
 「はは、俺はそんなことないよ。もう完全完璧に恋人だよ」=“Haha, I'm not like that. I'm totally and completely in love with you.”
 「……ありがとうございます。私なんかの恋人になってくれて……」=“Thank you for ....... Thank you for being my lover. ......”
-「いいや、[H名]だから、恋人になったんだよ」=“No, it's [H名]. That's why I'm your girlfriend.”
+「いいや、[H名]だから、恋人になったんだよ」=“No, it's [H名], that's why we became lovers.”
 「……ふふ、本当にありがとうございます。あなたが恋人でよかったです」=“...... Thank you so much. I'm glad you're my lover.”

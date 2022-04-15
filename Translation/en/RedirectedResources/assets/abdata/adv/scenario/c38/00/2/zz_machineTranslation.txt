@@ -1,4 +1,4 @@
-（もう[H名]に対する気持ちを抑えられない。今日こそ告白しよう！）=(I can't control my feelings for [H名] anymore. I'm going to confess today!
+（もう[H名]に対する気持ちを抑えられない。今日こそ告白しよう！）=(I can't hold back my feelings for [H名] any longer. Today is the day I'm going to confess my feelings!)
 「はぁぁ……この時間のビーチって、なんだか落ち着きますね。星がたくさん出てて……暗いのに明るくて……」=“Haa ...... The beach at this time of the day is kind of relaxing. There are a lot of stars out ...... and it's dark but bright .......”
 「それに……貴方と二人きりだからか……波の音もいつもと違う感じがします」=“And ...... maybe it's because I'm alone with you, but ...... the sound of the waves is different than usual.”
 「うん、そうだね。なんだか特別な感じがする……」=“Yeah, I guess so. It's kind of special. ......”
@@ -8,18 +8,18 @@
 「なんて……ちょっと乙女すぎますね。ふふっ、ごめんなさい」=“What a ...... little too much of a girl. I'm sorry.”
 「あっ、ほら、見てください。都会だとあまり見えない星座もよく見えます。心が広くなるような気がしませんか?」=“Oh, look at that. You can see the constellations that are not so visible in the city. Doesn't it make you feel more open-minded?”
 「うん、確かに。この星空を見上げていると、小さなことなんて気にならなくなりそう」=“Yes, indeed. When I look up at this starry sky, I don't care about the little things.”
-（照れてる[H名]、可愛いな。この流れのまま、はっきり伝えよう）=(Shy [H名], you're so cute. Let's keep this flow going and tell her clearly.
-「あのさ、[H名]。実は……大切な話があるんだ」=“You know, [H名]. I have something ...... important to tell you.”
+（照れてる[H名]、可愛いな。この流れのまま、はっきり伝えよう）=([H名] is so cute when she's embarrassed. (Let's keep this going and tell her clearly.)
+「あのさ、[H名]。実は……大切な話があるんだ」=“You know, [H名], he said. I actually ... have something important to tell you.”
 「え……大切な話……？　えぇっと……ど、どういうお話でしょうか……？」=“What ...... is so important ...... you want to talk about?　Well ......, what's the story ......?”
 「っ……えっ！？　えぇっとっ……そのっ……あのっ……ま、待ってください。今、何て仰いましたか？」=“...... What?　Well, ...... that ...... that ...... that ...... wait, wait, wait. What did you just say?”
-「俺は……[H名]のことが好きなんだ！」=“I like ......[H名]!”
+「俺は……[H名]のことが好きなんだ！」=“I like ... [H名]!”
 「は……ぅ……え……っと……」=“Ha ......uh......e......to......”
 「い、今仰った『好き』は……その……と、友達として……ですか？　それとも――」=“Do you like ...... me as a friend or ...... as a friend?　Or...”
 「もちろん女の子としての好き、だよ。だから……もし良かったら、俺と付き合って欲しい！」=“I like you as a girl, of course. So, ......, if you want, I'd like you to go out with me!”
 「ひあぁっ！　あっ、あのっ……わ、私っ……そそそんなこと言われたのっ……は、初めてっ、でっ……」=“Aah!　Oh, you know what? ...... I've ...... never heard anyone say that before ......, so... ...”
 「んっ……こほんっ、す、すみませんっ……こ、こういう時、どういうことを考えたらいいのかっ……わからなくてっ……」=“...... I'm sorry. ...... I don't know what to think about ...... at a time like this. ......”
 「えぇっと……ほ、本当に……いいんですか？　私みたいな……その……ぱっとしない子……」=“Well ......, are you sure you want to ......?　Are you sure you want to ...... be with a ...... mediocre girl like me?”
-「ぱっとしないなんてことないっ！　俺は[H名]のことが好きだから告白したんだ」=“It was nothing short of amazing!　I like [H名] so I told him.”
+「ぱっとしないなんてことないっ！　俺は[H名]のことが好きだから告白したんだ」=“Nothing's too flashy!　I confessed to [H名] because I like her.”
 「さっき……照れながら星座を見ている姿もすごく可愛いと思ったよ」=“I also thought it was really cute how you were looking at the constellations while being ...... embarrassed.”
 「はぅっ……そ、そんな風に真っ直ぐ見つめて可愛いなんて言われたら……て、照れてしまいます……」=“Huh ......, if you stare straight at me like that and say I'm cute, I'll be ...... embarrassed.”
 「あ、あはは、ごめん。俺も……ずっと照れてる」=“Oh, haha, sorry. I'm ...... embarrassed all the time, too.”
@@ -38,5 +38,5 @@
 「私も…………私も貴方のことが大好きです。気付いた時にはもう、世界中の誰よりも……好きになっていました」=“I also love ............. I love you too. When I found out, I already loved ...... you more than anyone else in the world.”
 「ですから……その……こ、こんな私で良ければ……ぜひ……お付き合いしていただけると……う、嬉しいです……」=“So ...... that ......, if it's okay with me, I'd love to ...... be your ...... friend. So, ...... if you'd like to ...... go out with me, I'd be ...... very happy.”
 「ありがとう、すごく嬉しい！　うん、付き合おう」=“Thank you, that means a lot!　Yeah, let's go out.”
-「[H名]……これからは恋人として……改めてよろしくね」=“I want you to go out with me! [H名]...... From now on, we'll be lovers. ......”
+「[H名]……これからは恋人として……改めてよろしくね」=“[H名],... we are going to be lovers,... and I look forward to working with you again.”
 「はい、こちらこそ、よろしくお願いします。これからも……貴方のことをますます好きにさせてくださいね♪」=“Yes, I'm looking forward to working with you. Please let me love you more and more at .......”

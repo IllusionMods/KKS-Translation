@@ -11,8 +11,8 @@
 「そんな私と……鐘を鳴らして、あんたは後悔しない？」=“Will you regret ringing the ...... bell with me like that?”
 「なんだ、そんなことか」=“Oh, no, you don't.”
 「そんなことって……私にとっては大事なことよ！」=“It's ...... very important to me!”
-「[H名]は自分のそういう所は嫌ってるかもしれないけどさ」=“You may not like that about yourself, but...”
-「俺は全部ひっくるめて、[H名]のことが好きだよ」=“I like [H名] all the same.”
+「[H名]は自分のそういう所は嫌ってるかもしれないけどさ」=“[H名] may not like that about herself.”
+「俺は全部ひっくるめて、[H名]のことが好きだよ」=“I like [H名], all things considered.”
 「だから、後悔なんて絶対にしない」=“I'll never regret it.”
 「本当に……？」=“Really ......?”
 「うん、本当」=“Yeah, really.”

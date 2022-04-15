@@ -5,12 +5,12 @@
 「ずーっと流れてる」=“It goes on and on and on.”
 「だね……」=“Yeah. ......”
 「あは、見惚れちゃうね」=“Oh, I'm in love with you.”
-「[H名]の目にも星が映ってるよ。本当にすごいな……流れ星で空が明るいのなんて初めてだ」=“I can see the stars in your eyes, too. It's really amazing. ...... I've never seen the sky so bright with shooting stars.”
+「[H名]の目にも星が映ってるよ。本当にすごいな……流れ星で空が明るいのなんて初めてだ」=“I see the stars in [H名]'s eyes too. It's really amazing... I've never seen the sky so bright with shooting stars.”
 「写真撮ろうかな……ううん、そんなの味気ないか。後で見てもかえって『こんなだったっけ』とか思っちゃいそう」=“I'll take a picture of you. ...... No, that would be tasteless. I'm sure you'll be able to find something that works for you.”
 「二人で覚えとけばいいよね？」=“We'll just have to remember that, okay?”
 「うん、ずっと覚えてよう」=“Yeah, I'll always remember that.”
 「だね……あ！　そうだ、お願いしないと」=“Yeah, ......!　Yes, I have to ask.”
-「[P名]くんは？　とっくに流れ星に何かお願いした後だったりするのかな」=“Where is [P名]?　I wonder if he's already asked the shooting star to do something.”
+「[P名]くんは？　とっくに流れ星に何かお願いした後だったりするのかな」=“What about you, [P名]?　I wonder if they have already asked the shooting star to do something for them.”
 「……んー？」=“......?”
 「なんでも願い放題だよ。流れ星、まだ全然止まりそうにないし」=“I can wish for anything I want. The shooting stars don't seem to be stopping at all.”
 「アタシも何か……うーん？　どうしようかな」=“I want to do something too. ...... Hmm?　I don't know.”

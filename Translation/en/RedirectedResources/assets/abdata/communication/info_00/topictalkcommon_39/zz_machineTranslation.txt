@@ -2,7 +2,7 @@
 「身体を動かす系なら、なんでも好きさー」=“I like anything that involves physical activity.”
 「遊べるレジャーが多過ぎて、どれがいいか迷っちゃうね」=“There are so many leisure activities to choose from, it's hard to decide which one is best.”
 「あは、欲張らずに一日一つずつやっていけばいいのよー」=“You just have to do one thing a day, one thing at a time.”
-「この島のレジャーって、[H名]の故郷に似てる？」=“Do you think the leisure activities on this island are similar to your hometown?”
+「この島のレジャーって、[H名]の故郷に似てる？」=“Is the island's leisure life similar to [H名]'s hometown?”
 「確かに似てるけど、場所が違えば新鮮な気分で楽しめるはずー」=“Yes, it does, but it's a different place, so you can enjoy it in a fresh way.”
 「レジャーを楽しむ時のこだわりとかってある？」=“Do you have a particular way of enjoying leisure activities?”
 「なんでも挑戦してみることかねー。やってみないと面白さは分からないからー」=“I guess I try everything. If you don't try, you won't know how fun it is.”
@@ -12,13 +12,13 @@
 「あはは。キミはすっかり、この島の虜みたいだねー」=“Haha. You seem to be a total sucker for this island.”
 「はぁ～、空気が美味しいね。深呼吸しただけで頭がスッキリするよ」=“The air is so good. Just taking a deep breath clears my head.”
 「空と海と山が全部綺麗だからねー。天然の空気清浄機になってるわけさー」=“The sky, sea, and mountains are all so beautiful. It's a natural air purifier.”
-「[H名]って動物は好き？」=“Do you like animals, [H名]?”
+「[H名]って動物は好き？」=“Does [H名] like animals?”
 「動物はみんな好きだよー。ちょっと生き方が違う友達みたいなものさー」=“I like all animals. I like all animals, they're like friends with a different way of life.”
 「これだけ豊かな自然があれば、散歩してるだけでも観光になりそうだね」=“With so much nature, it's like a tourist attraction just to walk around.”
 「だからよー。探検気分で楽しいさー」=“That's why. It's fun to explore.”
 「都会に帰ったら、ここの自然が恋しくなりそうだな……」=“When I go back to the city, I'm going to miss the nature here. ......”
 「そうなったら、また来ればいいだけよー。島はずっとここにあるんだからねー」=“You can always come back. The island will always be here.”
-「[H名]って自然の中にいるのが似合いそうだよね」=“You look like you'd be right at home in nature.”
+「[H名]って自然の中にいるのが似合いそうだよね」=“[H名] seems like she would be right at home in nature.”
 「ここと同じような所で育ったからねー。木の上で寝たこともあるよー」=“I grew up in a place just like this one. I even slept in a tree.”
 「自然の音っていいよね。目を閉じて聞いてるだけで癒される……」=“Nature's sounds are great. Just listening to it with my eyes closed is soothing. ......”
 「そのまま眠ちゃってもいいよー。少ししたら起こしてあげるー」=“You can fall asleep if you like. I'll wake you up in a bit.”

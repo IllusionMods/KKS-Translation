@@ -1,4 +1,4 @@
-「[H名]、あ、あのさ？　もう察してるとは思うんだけど……」=“[H名], uh, you know what?　I'm sure you've figured it out by now. ......”
+「[H名]、あ、あのさ？　もう察してるとは思うんだけど……」=“[H名], you know what?　I'm sure you've guessed by now...”
 「無論じゃ。……鳴らすのじゃな、その鐘を」=“Of course. Ring the ...... bell, will you?”
 「数多の恋人達が愛を誓ってきたこの鐘を、わしら二人でっ」=“We're going to ring this bell, where so many lovers have pledged their love.”
 「そう強めに念押しされるとあれだけど、ま、まあ、そういうこと」=“I'm sorry, I can't really say.”
@@ -6,7 +6,7 @@
 「そ、そんなの、もはや……プロポーズじゃぞ！」=“No, that's not a proposal. That's a proposal to ......!”
 「突き詰めれば、確かにそうなっちゃうかもしれないね……」=“I guess that's what it comes down to. ......”
 「も、もっと気軽なお誘いだったのか？　わしのこの緊張って一体……？」=“Isn't that a bit unfair? - Was it a more casual invitation?　What is this nervousness I'm experiencing at ......?”
-「マゴつかないで！？　俺は本当に心から、[H名]とずっと一緒にいたいと思ってるから」=“Don't get mad at me!　I really, really, really want to be with you.”
+「マゴつかないで！？　俺は本当に心から、[H名]とずっと一緒にいたいと思ってるから」=“Don't get maggoty!　I really, really want to be with [H名] forever.”
 「な、なら、よい……安心したのじゃ」=“Well, then, good ......, I'm relieved.”
 「ならば、わしも想いを込めてこの鐘を鳴らそうぞ！」=“Then I'll ring this bell with all my heart!”
 「孝心ある、強く逞しい子をどうか産ませて欲しい……と」=“Please let me have a filial, strong and robust child .......”

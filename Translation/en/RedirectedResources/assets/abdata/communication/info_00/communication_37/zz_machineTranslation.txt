@@ -74,7 +74,7 @@
 「ペットとかって飼いたいと思う？」=“Would you like to have a pet?”
 「はい、犬でも猫でも構いません」=“Yes, a dog or a cat would be nice.”
 「そうですね、カナリヤなど鳥類を飼ってみたいです」=“Yes, I'd like to have a canary or some kind of bird.”
-「この前、[H名]が夢に出てきてさ……」=“I had a dream the other night about [H名]. ......”
+「この前、[H名]が夢に出てきてさ……」=“The other day, [H名] came to me in a dream...”
 「奇遇ですね、私もあなたの夢を見ました」=“That's funny, I had a dream about you too.”
 「将来、どんな家庭を築きたい？」=“What kind of family do you want to have in the future?”
 「あなたと幸せに暮らせるよう努められれば、と思っています」=“I'd like to try to live happily with you.”

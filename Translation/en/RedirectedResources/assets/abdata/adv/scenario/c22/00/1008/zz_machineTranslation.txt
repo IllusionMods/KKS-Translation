@@ -1,6 +1,6 @@
 「海ほたる……こんなにキラキラしてるんだね……素敵……」=“Sea fireflies ...... are so sparkling ......, nice .......”
 「波の動きに合わせて、ゆらゆら……ゆらゆら……えへへ、なんだかずーっと見ていたくなっちゃうね。隣に君がいてくれるから……かな？」=“The waves are moving, and I can't help but want to watch them ...... swaying ...... swaying ...... swaying. The sound of the waves is soothing.”
-「俺も[H名]とだったらずっと見ていられる気がする……」=“I feel like I could watch [H名] for a long time. ......”
+「俺も[H名]とだったらずっと見ていられる気がする……」=“I feel like I could watch it all the time if I were with [H名]...”
 「えへへ、ありがとう。こんなに素敵な景色が君と見られるなんて……この思い出は一生の宝物だよ」=“Thank you. I can't believe I got to see such a beautiful view with you. ...... I'll treasure these memories forever.”
 「ねぇ……恋人同士でこの景色を見られるカップルって、世の中に何組くらいいるのかな？」=“Hey ......, how many couples are there in the world where lovers can see this view?”
 「海ほたる？　どうなんだろう？　見られる地域も限られてるもんね」=“Sea fireflies?　I don't know about that.　There are only a few places where you can see them.”
@@ -14,7 +14,7 @@
 「物語の世界か……そこは楽しい場所なの？」=“Storybook world or ...... is that a fun place to be?”
 「うん、君がいてくれるなら、私はどんな世界でも楽しくて幸せだよ。でも逆に……君がいてくれないと、どんな世界でも寂しくて泣いちゃう」=“Yes, I would be happy in any world with you in it. But on the other hand, if I don't have ...... you, I'll be lonely and cry in any world.”
 「だから、君にはずっと傍にいて欲しいの。ものすごく自分勝手な言葉だけど……私の幸せのために……私の傍にいてください……ダメ？」=“So I want you to stay with me forever. I know it's very selfish of me to say this, but ...... for my happiness, please stay by my side. ...... No?”
-「ううん、全然自分勝手じゃないし、俺も同じだよ。俺の幸せのために[H名]には傍にいて欲しい」=“No, it's not selfish at all, and neither is mine. No, it's not selfish at all, I'm the same way. I want [H名] to be there for me to make me happy.”
+「ううん、全然自分勝手じゃないし、俺も同じだよ。俺の幸せのために[H名]には傍にいて欲しい」=“No, it's not selfish at all, and neither am I.' I want [H名] by my side for my happiness.”
 「はぅぅ……そんな風に言ってもらえると……私……嬉しくて……」=“Huh. ...... I'm ...... glad to hear you say that. ......”
 「わぁぁ！　今はお顔見ちゃだめーっ！　絶対恥ずかしい表情になってるもんっ！」=“Wow!　Don't look at my face now!　Don't look at my face right now, it's embarrassing!”
 「でも……これから先……君には色んな表情を見てもらうことになっちゃうんだね……多分、もっともっと恥ずかしい表情だって……」=“But ...... you're going to have to see a lot of different expressions in the future ...... maybe even more embarrassing ones. ......”

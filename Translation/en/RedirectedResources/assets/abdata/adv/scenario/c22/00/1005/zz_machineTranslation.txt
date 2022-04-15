@@ -5,13 +5,13 @@
 「ううん、しっかりリードしてもらえてます♪」=“No, he's leading me on.”
 「私、こういうダンスってほとんどしたことなかったけど……こんなに楽しいものなんだね」=“I've never done this kind of dancing before, but ...... it's so much fun!”
 「それともやっぱり……大好きな君と一緒だから……なのかな？」=“Or is it ...... because I'm with you, my favorite ......?”
-「あはは、[H名]、顔真っ赤になってる」=“Ha-ha-ha. [H名], you're turning red.”
+「あはは、[H名]、顔真っ赤になってる」=“Ha-ha, [H名], you're blushing.”
 「はぅっ！　き、きっとキャンプファイヤーのせいだよー！」=“Huh!　It's probably the campfire!”
 「そうなの？　残念……俺と触れ合ってるからだと思ったのに……」=“Really?　Too bad. ...... I thought it was because you were touching me. ......”
 「も、もーっ！　わかっててそういうこと聞かないでよー！　君ってたまーにいじわる」=“Moooooo!　Don't you dare ask me that!　You're so naughty sometimes.”
 「あ、ごめん。嫌だった？」=“Oh, I'm sorry. You didn't like it?”
 「ううん、大好き♪」=“No, I love it.”
-「[H名]……あはは、ごめんね。俺も[H名]が可愛いから、時々、ついいじわるしたくなるんだ」=“[H名]....... Ha-ha, sorry. I'm sorry, but sometimes I feel like messing with [H名] because she's so cute.”
+「[H名]……あはは、ごめんね。俺も[H名]が可愛いから、時々、ついいじわるしたくなるんだ」=“[H名]... haha, sorry. I'm just as cute as [H名] and sometimes I just want to tease her.”
 「特にこうやって触れ合ってたりすると……」=“Especially when you're interacting with them like this. ......”
 「あ……あはは、ありがとう。でも……触れてるとこ意識したら、ドキドキしてきちゃう……」=“I'm not sure what you mean. But ...... I get nervous when I think about them touching. ......”
 「君の体温……しっかり伝わってるよ……温かくて優しい……」=“I can feel your body heat ......, it's warm and gentle .......”

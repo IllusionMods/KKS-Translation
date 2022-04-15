@@ -105,7 +105,7 @@
 「いつまでも、傍にいられたらいいね」=“I hope I can be there for you forever.”
 「うんっ！　私もそう思うよ！」=“Yeah!　I think so too!”
 「一日中ひっつくことは出来ないけど、出来るだけずっと一緒にいたいよぉ」=“I can't hold on to you all day, but I want to be with you as long as I can.”
-「[H名]に会いたくなった時は……」=“If you ever want to see [H名], go to .......”
+「[H名]に会いたくなった時は……」=“If you ever want to see [H名], go to ...”
 「えへへ、遠慮なんかしなくていいらかねっ！」=“Don't be shy, okay?”
 「エッチな豆知識なんだけど……」=“Here's a little sex trivia for you: ......”
 「そうなのぉ？　ちょっと信じられないかも……」=“Oh, really?　I can't believe it. ......”

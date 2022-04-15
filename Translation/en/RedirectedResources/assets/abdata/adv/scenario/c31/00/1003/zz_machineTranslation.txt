@@ -8,7 +8,7 @@
 「どんなところに悩んでるの？」=“What's troubling you?”
 「その……なんだ、もっと女らしい方がいいのかと思ったんだ」=“That ...... is why I thought it would be better to be more feminine.”
 「おまえはどう思う？　もっと女らしい服装の方がいいと思うか？」=“What do you think?　Do you think I should wear something more feminine?”
-「そうだね……女らしい服装の[H名]も良いと思うよ」=“Yeah, I think ...... [H名] in feminine attire would be nice.”
-「でも、[H名]は[H名]らしい格好をしているのが一番好きかな」=“But I think I like [name] best when she's dressed like [name].”
+「そうだね……女らしい服装の[H名]も良いと思うよ」=“Yes, I think [H名] would look good in a ... womanly outfit.”
+「でも、[H名]は[H名]らしい格好をしているのが一番好きかな」=“But I think I like [H名] best when she dresses like [H名].”
 「フフッ……そうか。おまえ、本当に私のことが好きなんだな」=“...... I see. You really like me, don't you?”
 「よし、これは買うことにしよう。折角ならおまえも買ってペアルックにするか？　なんてな」=“All right, I'm buying this. All right, I'm going to buy one of these. Why don't you buy one too and we can pair up?　Oh, yeah.”

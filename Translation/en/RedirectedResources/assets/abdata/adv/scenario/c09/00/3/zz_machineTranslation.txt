@@ -3,7 +3,7 @@
 「言い間違えでも、俺が聞き間違えた訳でもなかったんだね」=“You didn't say it wrong and I didn't mishear it.”
 「そうよ。そ、それで……どうなの？　やっぱり……あたしとじゃ、いや？」=“That's right. So, what do you think about ......?　You don't want to go to ...... with me?”
 「ううん、嫌じゃない。本当に嬉しいよ」=“No, I don't mind. I'm really happy.”
-「一緒にいて楽しくて、いつも笑顔にさせてくれる[H名]のことが俺も好きなんだ」=“I like [name] because she's fun to be around and she always makes me smile.”
+「一緒にいて楽しくて、いつも笑顔にさせてくれる[H名]のことが俺も好きなんだ」=“I like [H名] too because she's fun to be with and always makes me smile.”
 「本当？　あんたと両想いだなんて……夢見たいだわ」=“Really?　It's ...... a dream come true that I'm in love with you.”
 「でも、夢じゃないのよね？　現実よね？」=“But it's not a dream, is it?　It's real, isn't it?”
 「現実だよ。これからは、恋人としてよろしくね」=“It's real. Let's be lovers from now on.”

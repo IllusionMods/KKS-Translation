@@ -1,7 +1,7 @@
-「[H名]さん、ちょっとお土産を見たいんだけどいいかな？」=“[Name], I'd like to see some souvenirs, if that's okay.”
+「[H名]さん、ちょっとお土産を見たいんだけどいいかな？」=“[H名], may I see your souvenirs for a moment?”
 「……決めた。私はお菓子を買うことにするわ」=“I've made up my mind. I'm going to buy some candy.”
 「ちんすこうにしたんだね。でも、どうしてお菓子にしたの？」=“So you decided on chinsuko. But why did you make it into a snack?”
-「[H名]さんにはアクセサリーとか、小物も似合うと思うんだけど」=“I think you'd look good with accessories and stuff.”
+「[H名]さんにはアクセサリーとか、小物も似合うと思うんだけど」=“I think accessories and knick-knacks would look good on [H名].”
 「貴方、私に意見をするつもりなの？」=“Are you going to tell me what to do?”
 「そもそも似合う似合わないを勝手に判断しないで欲しいわね」=“I hope you don't judge me on my suitability.”
 「うっ、ごめん。でも、それじゃあどうしてお菓子に？」=“Ugh, sorry. I'm sorry, but how did you get into snacks then?”

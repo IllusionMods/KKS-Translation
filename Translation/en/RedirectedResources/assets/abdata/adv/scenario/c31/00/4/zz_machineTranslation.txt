@@ -1,5 +1,5 @@
 「んなっ……お、おまっ……気は確かなのか？」=“Are you out of your ...... mind?”
-「まぁ、うん……大丈夫、確かだよ。その上で……[H名]とシたいと思ってるんだ」=“Well, yeah, ...... is fine, I'm sure. Well, yes ......, I'm sure. And I'd like to have sex with .......”
-「俺にとって、[H名]は魅力的だから……ダメかな？」=“I'd love a chance to dance with [H名] again. ......”
+「まぁ、うん……大丈夫、確かだよ。その上で……[H名]とシたいと思ってるんだ」=“He said, Well, yeah ... it's okay, I'm sure. On top of that, I'd like to have sex with ... [H名].”
+「俺にとって、[H名]は魅力的だから……ダメかな？」=“For me, [H名] is attractive, so ... no?”
 「求められて悪い気はしないが……急に言われてもな……」=“I don't feel bad about being asked for it, but ...... it's a bit sudden. ......”
 「だが、その……おまえが相手なら、良いと思っている自分がいるんだ……だから……少しだけなら……問題ない」=“But there's this ...... part of me that thinks it's fine if it's with you. ...... So if it's just for a little ...... time... ...no problem.”

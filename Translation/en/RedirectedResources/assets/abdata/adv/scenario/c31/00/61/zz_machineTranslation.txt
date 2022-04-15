@@ -1,4 +1,4 @@
-「[H名]、ここではオイル塗りが出来るみたいだよ」=“[H名], I think we can do some oiling here.”
+「[H名]、ここではオイル塗りが出来るみたいだよ」=“[H名], it looks like you can get oiled up here.”
 「なぜ、それを私に言うんだ？」=“Why are you telling me this?”
 「興味があるかと思って……よかったら塗ろうか？」=“I thought you might be interested in ...... if you want me to paint it for you.”
 「なんだか下心があるような気がするが……まぁいい。変な気はおこすなよ？」=“I'm sure you've got some ulterior motive, but ...... that's okay. I'm sure you'll agree.”

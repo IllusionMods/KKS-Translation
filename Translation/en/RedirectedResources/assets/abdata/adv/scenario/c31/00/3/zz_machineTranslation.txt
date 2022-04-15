@@ -1,6 +1,6 @@
 「……ううん、ここで返事をするよ」=“......Uh, I'll just answer here.”
 「そう、か……分かった。聞かせてくれ」=“Yes, ......, I understand. Let me hear it.”
-「俺も[H名]のことが好きだよ。だから、ありがとう。是非お願いします」=“I like [H名] too, you know. So, thank you. Please do.”
+「俺も[H名]のことが好きだよ。だから、ありがとう。是非お願いします」=“I like you too, [H名]. So, thank you. By all means, please.”
 「……は？　おまえ、私のことが好きだったのか？」=“What about ......?　Did you like me?”
 「そうだよ。って、なんで告白してきた方が驚いてるのさ」=“Yes, I do. Why is the confessor so surprised?”
 「いや……ＯＫを貰えるとは全く思っていなくて……そうか、両想いだったのか」=“No, ...... I didn't think I'd get the OK at all. ...... Oh, so you had feelings for each other?”

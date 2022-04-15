@@ -6,8 +6,8 @@
 「……それ、完全にあなたの趣味よね？」=“...... That's totally your thing, isn't it?”
 「まあ、否定はしないけど……ダメ？」=“Well, I won't deny it, but ...... no?”
 「別に嫌じゃないけど、私だけ恥ずかしい目に合うのは……。……私の愛称も考えてるんでしょ？　だったらそれを呼んでちょうだい」=“It's not that I don't like it, but I'm the only one who's going to be embarrassed ....... ...... You're thinking of a nickname for me too, aren't you?　You can call me that if you want.”
-「わかったよ。……[Hあだ名]」=“I know, I know. ......[Hあだ名]”
-「えっと、その……[Pあだ名]」=“Well, that ......[Pあだ名]”
+「わかったよ。……[Hあだ名]」=“I get it, he said... [Hあだ名].”
+「えっと、その……[Pあだ名]」=“Um, that ... [Pあだ名].”
 「……うん、恥ずかしいね、これ……」=“...... Yeah, it's embarrassing, this ......”
 「私はその何倍も恥ずかしいわよ……」=“I'm many times more embarrassed than you are. ......”
 「はは、ごめん……でも、せっかくなら、また呼んで欲しいんだけど……」=“Ha, sorry ......, but I'd like you to call me again ...... if you have to.”

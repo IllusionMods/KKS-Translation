@@ -12,7 +12,7 @@
 「なんて……私みたいな小娘がこんな言い方をしたら、生意気もいいところよね」=“What a ...... little girl like me would be cheeky to talk like this.”
 「生意気なんてことはないよ。そういうのだって立派な旅の楽しみ方だよ」=“Don't be cocky. There's nothing cheeky about it, it's a great way to travel.”
 「語りすぎ、って思ってない？　今更すぎるかしら」=“Are you sure you want to talk about this?　It's too late for that.”
-「[H名]の言うことはユニークだし聞いてて面白いよ。これからも遠慮なく語ってほしいな」=“What you say is unique and interesting. I hope you will continue to speak freely.”
+「[H名]の言うことはユニークだし聞いてて面白いよ。これからも遠慮なく語ってほしいな」=“[H名] is unique and interesting to listen to. I hope you will not hesitate to talk about it in the future.”
 「そう言ってくれると救われるわ。アナタとの時間は心地よくて……それでつい、饒舌になってしまうのかも」=“It's a relief to hear you say that. It's a relief to hear you say that, because it makes me feel more comfortable with you. ...... Maybe that's why I'm so talkative.”
 「さすがに野暮だったわね。せっかくのこの時間、贅沢に浸りましょ」=“That was really uncalled for. Let's soak up the luxury of this time.”
 「うん、そうだね……」=“Yeah, I guess so. ......”

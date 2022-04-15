@@ -34,7 +34,7 @@
 「ふふ……やっと笑ってくれたね」=“...... You finally smiled at me.”
 「そ、そりゃ、ＯＫしてもらえるか不安だったから」=“No, that's because I was worried that you wouldn't accept.”
 「嬉しいな。それだけあなたが私とのことを真剣に考えてくれてたってことだから……」=“I'm glad. That's how serious you are about me. ......”
-「よかった。[H名]も笑ってくれて」=“I'm glad. [H名] laughed, too.”
+「よかった。[H名]も笑ってくれて」=“I'm glad to hear that, he said. [H名] laughed too.”
 「……私、きっと今日のことを何回も思い出すよ」=“...... I'm sure I'll think about this day many times.”
 「これから始まる私達の幸せな物語の、これが１ページ目だね」=“This is the first page of our happy story.”
 「うん、この海が俺達の見届け人だ」=“Yes, this sea is our witness.”

@@ -1,6 +1,6 @@
-「[H名]は何か楽器とかできたりするの？」=“Does [H名] play any musical instruments?”
+「[H名]は何か楽器とかできたりするの？」=“Does [H名] play any instruments?”
 「いや、武技の心得ならあるが……楽器は微妙だな。特にこの三線というのは、郷土の楽器なのだろう？」=“No, I've got a good command of martial arts, but ...... instruments are a bit more subtle. Especially this sanshin, which I assume is a local instrument?”
 「うん、その通り。でも俺も初心者だし、お互い同じスタートラインなんだから気楽にいこうよ」=“Yes, that's right. But I'm a beginner, too, and we're both starting from the same place, so let's take it easy.”
 「そうだな、貴殿の言う通りだ。お互いに最初は変な音を出すだろうが、笑うのは無しだぞ？」=“Yes, you are right. We'll both make funny noises at first, but no laughing, okay?”
-「分かってるって。[H名]はなんでも一生懸命だし、笑ったりしないよ」=“I know. [H-Name] tries so hard at everything, he doesn't even laugh.”
+「分かってるって。[H名]はなんでも一生懸命だし、笑ったりしないよ」=“I know. [H名] works hard at everything, and she doesn't laugh.”
 「はは、そう言う貴殿だって意外と真面目なのは知っているぞ。どちらが早く上手くなるか、勝負だな」=“I know you're more serious than you think. Let's see who can get better faster.”

@@ -1,7 +1,7 @@
 「この鐘を鳴らしたふたりは、必ず結ばれるって噂があるんですよね」=“There's a rumor that two people who ring this bell will always be united, right?”
 「そうみたいだね」=“Yeah, it does.”
-「ねぇ、[H名]。俺と一緒に鳴らしてみない？」=“Hey, [H名]. Would you like to play it with me?”
-「私と[P名]さんとで……ですか？」=“Would you like to have ...... sex with me and [P名]?”
+「ねぇ、[H名]。俺と一緒に鳴らしてみない？」=“Hey, [H名]. How about you ring it with me?”
+「私と[P名]さんとで……ですか？」=“Are you and [P名] and I ...?”
 「噂を本当か確かめる意味もかねて、お試し的にさ」=“It's just a test to see if the rumors are true.”
 「はい。私も鳴らしてみたいです」=“Yes. I'd like to ring it.”
 「ですけど、大丈夫でしょうか？　少し不安です……」=“But will you be okay?　I'm a little nervous. ......”
@@ -12,7 +12,7 @@
 「じゃあ、噂と真逆の結果になってしまうとか……」=“Well, that would be the opposite of what they say. ......”
 「それは確かに可能性としてはなくもないけど」=“That's definitely a possibility.”
 「でも、大丈夫。俺が絶対にそんなことはさせないから」=“But don't worry. But don't worry, I won't let that happen.”
-「だから[H名]は安心してくれていいよ。って言っても、何の保証はなんだけど」=“So you can rest assured that [H名] is in good hands. But I can't guarantee anything.”
+「だから[H名]は安心してくれていいよ。って言っても、何の保証はなんだけど」=“So you can rest easy [H名], he said. I mean, what guarantee do I have?”
 「ふふっ、ありがとうございます。そう言って貰えるだけですごく嬉しいです」=“Thank you, thank you. Thank you very much. I'm very happy to hear you say that.”
 「それでは……その、えっと……。一緒に、この鐘を鳴らして貰えませんか……？」=“Then ...... that, um, ....... Will you ring this bell with me, please, ......?”
 「もちろん、喜んで！」=“Sure, I'd love to!”

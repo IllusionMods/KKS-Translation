@@ -1,6 +1,6 @@
 「キャンプファイヤーか。よし、一緒にフォークダンスを踊るぞ」=“Campfire. All right, we'll do a folk dance together.”
-「わかった、よろしくね、[H名]」=“All right. Nice to meet you, too.”
-「それにしても、[H名]の方から誘ってくれるなんてどうしたの？」=“What's the matter with you that [H名] asked me out?”
+「わかった、よろしくね、[H名]」=“Okay. Nice to meet you, [H名].”
+「それにしても、[H名]の方から誘ってくれるなんてどうしたの？」=“But then, what happened to [H名] asking me out?”
 「こういうのは恥ずかしいし嫌かなって思ってたんだけど」=“I was afraid I'd be embarrassed and not want to do this.”
 「別に、嫌ということはない。今日はたまたまそんな気分だったというだけだ」=“It's not that I don't want to. It's just that I happen to be in the mood today.”
 「それより、ちゃんと気合いを入れて踊れよ」=“You'll have to dance with more enthusiasm.”
@@ -11,7 +11,7 @@
 「それはあれだ。パートナーと……イチャイチャ、していたら……とか？」=“That's the thing. That's what I'm talking about. ...... making out with my partner, or ...... when we're making out?”
 「なるほど……それ面白いかも。ちょっとしてみようよ」=“I see. ...... That's interesting. Let's try it.”
 「ほ、本気で言っているのか？」=“You're not serious, are you?”
-「本気もなにも、そもそも[H名]が言い出したことだしね」=“If you're serious, then you're pretty weird.”
+「本気もなにも、そもそも[H名]が言い出したことだしね」=“And I don't mean to be serious, since [H名] is the one who initiated it in the first place.”
 「それはそうだが……いや、わかった。それなら、イチャイチャしてやろうじゃないか！」=“That's true, but ...... no, I get it. Then let's make out!”
 「ほら、もっとこっちまで近づいてこい」=“Come on, come closer.”
 「いやいや、ダンスなんだから密着しすぎたら踊れないって」=“No, no, no, you can't dance if you're too close.”

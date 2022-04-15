@@ -272,7 +272,7 @@
 「この後の予定はどうなっているの？　私が付き合える事なら何でも言って」=“What are your plans after this?　Anything I can do to keep you company.”
 「あら、会いに来てくれて嬉しいわ」=“Oh, I'm so glad you came to see me.”
 「良かった。私もアナタに会いたかったわ」=“Good. I missed you, too.”
-「俺、[H]と釣り合ってるかな？」=“Do you think I'm right for you?”
+「俺、[H]と釣り合ってるかな？」=“Do you think I'm good enough for [H]?”
 「もちろんよ、私が選んだのだもの。間違いないわ、自信を持ちなさい」=“Of course you are. I chose you. I'm sure of it. Be confident.”
 「いきなりどうしたの？　何か言われたりした？　聞いてあげるから、全部吐き出しなさい」=“What's going on?　What did he say to you?　I'll listen to you. Just let it all out.”
 「この島で何か思い出できたかな？」=“Have you made any memories on this island?”
@@ -304,7 +304,7 @@
 「もうちょっと話題を考えて欲しいものね。彼女だからと油断しない事」=“You need to think about the topic a little more. Just because she's your girlfriend doesn't mean you should let your guard down.”
 「いつまでもずっと二人で一緒に居たいな」=“I want us to be together forever and ever.”
 「そうね、私もそうなる事を望んでるわ。だからアナタにはきちんとしてもらわないと」=“Well, that's what I'm hoping for, too. That's why I need you to be good to me.”
-「最近ずっと[H]のことばっかり考えてるんだ」=“I've been thinking about H a lot lately.”
+「最近ずっと[H]のことばっかり考えてるんだ」=“I've been thinking about [H] a lot lately.”
 「ふーん、奇遇ね。私もよ。でもお互い、きちんとやるべき事はやらないとね」=“Hmm, that's odd. So have I. But we both have to do what we have to do.”
 「生理が重い時ってある？」=“Do you ever have heavy periods?”
 「うーん、あるわね……。そういう時はきちんと言うから、協力してね」=“Hmm, yes. ....... I'll tell you when it happens and you can help me.”
@@ -364,7 +364,7 @@
 「そんなっ、じゃあ私はどうすれば……うぅ、ねぇ、ホントにだめ？」=“Well, what am I supposed to do with ...... you know, really?”
 「えっ、ここ？　だって皆いるし……そ、そう……そういう事。フフッ、面白そうね」=“What, here?　Because everyone is here. ...... Oh, yeah, ...... that's what I mean. That sounds interesting.”
 「ありえないわ。私はそんな変態じゃない。気持ちよくなれれば良いってものじゃないの」=“No way. I'm not a pervert. I'm not that kind of pervert. All I want is to feel good.”
-「ここで[H]とHしてみたいな」=“I'd like to have sex with [H] here.”
+「ここで[H]とHしてみたいな」=“I'd love to have sex with [H] here.”
 「なっ、ぇっ……ホントに変態なんだから。まぁ私も……人の事は言えないけど」=“I'd like to have sex with [H] here." ...... You're such a pervert. Well, I can't speak for ...... the others, either.”
 「そういうアブノーマルな経験はいらないわ。普通にしましょ」=“I don't need that kind of abnormal experience. Let's just be normal.”
 「もちろん、いいわよ。どこへ行くか決まっているのかしら？」=“Of course we do. Do you know where you're going?”
@@ -398,14 +398,14 @@
 「ふふふっ」「ふーん」「あはっ」「うんうん」「へぇぇ～」=Hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm.
 「ちょ、ちょっとぉ」「だぁめ」「うぅぅっ」「いやよぉ」「恥ずかしいからぁ」=Wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait.
 「今いい？」「ねぇ」「少し聞いてくれる？」「それでね」「あのね」="Can I come in now? "Hey... can I ask you something? "So... you know...
-「な、なによ……[Pあだ名]。これ、やっぱり恥ずかしいのだけど」=“What's that? ......[Pあだ名]. I'm really embarrassed about this.”
+「な、なによ……[Pあだ名]。これ、やっぱり恥ずかしいのだけど」=“What the heck? ... [Pあだ名]. This is still embarrassing.”
 「そう呼んでいいのは私が機嫌のいい時だけよ。気を付けて」=“You can only call me that when I'm in a good mood. Be careful.”
-「ねぇ……[Pあだ名]」=“Hey, ......[Pあだ名].”
+「ねぇ……[Pあだ名]」=“Hey, ... [Pあだ名].”
 「ふふっ、呼んでみただけ……ってやつよ」=“I'm just calling you .......”
-「うん、私もしたいって思ってたから。沢山愛してね、[Pあだ名]」=“Yeah, I've always wanted to do that. Make lots of love to me, [Pあだ名].”
-「あのね……私、体が火照っちゃって……ねえ、Ｈして、欲しいなぁ、[Pあだ名]」=“You know, ...... I'm burning up, and I'm thinking, ...... hey, I want you to do me, [Pあだ名].”
+「うん、私もしたいって思ってたから。沢山愛してね、[Pあだ名]」=“Yeah, I've always wanted to do that. Love you a lot, [Pあだ名].”
+「あのね……私、体が火照っちゃって……ねえ、Ｈして、欲しいなぁ、[Pあだ名]」=“You know,... I'm on fire,... Hey, H, I want you, [Pあだ名].”
 「ねえ、少し話に付き合ってくれる？」=“Hey, can I talk to you for a second?”
-「ねえ、[Pあだ名]。少し話に付き合ってくれる？」=“Hey, [Pあだ名]. Hey, [Pあだ名], can I talk to you for a second?”
+「ねえ、[Pあだ名]。少し話に付き合ってくれる？」=“You said, Hey, [Pあだ名]. Can I talk to you for a minute?”
 「きゃっ！　……もう、他の子いなくてよかったわ……」=“Yikes!　...... Oh, my God, I'm so glad there are no other girls here. ......”
 「まったく……ここは男子が来ていい場所じゃないわ。早く出いって」=“This ...... is not a place for boys. Get out of here.”
 「はぁ……男の人の性なのかしら。ま、他の子が来る前には出て行ってね」=“I wonder if it's ...... a man's nature. Well, get out of here before the other girls do.”

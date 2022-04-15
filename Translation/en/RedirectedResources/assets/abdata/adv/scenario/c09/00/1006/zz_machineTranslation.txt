@@ -2,7 +2,7 @@
 「……ねえ、ちょっと」=“......, hey.”
 「あ、ごめん。一人で先に行き過ぎたかな」=“Oh, I'm sorry. I think I went too far on my own.”
 「誰がそんな話したのよ」=“Who told you that?”
-「疲れたんでしょ？　[H名]、顔赤くなってるし……なんだか息遣いも乱れてるような」=“You're tired, aren't you?　You're tired, aren't you? [H名], you're blushing and your ...... breathing is a bit erratic.”
+「疲れたんでしょ？　[H名]、顔赤くなってるし……なんだか息遣いも乱れてるような」=“You're tired, aren't you?　[H名], you're blushing and ... kind of breathing unevenly.”
 「誰がハアハアいってるっていうの？　失礼ね。そんなの変態みたいじゃない」=“Who's talking about a wish?　That's rude. You sound like a pervert.”
 「あたしは、ただ……」=“I'm just .......”
 「こ、ここは、あのウムイの鐘よ。わかってて、あたしのことここに連れてきたのよね……？」=“This is The Umui Bell. You knew and you brought me here. ......?”
@@ -13,7 +13,7 @@
 「あははは」=“Ha-ha-ha.”
 「何もおかしくないわよ！　人のことドキドキさせておいて、そんな風に笑ったり……」=“There's nothing wrong with that!　You make people nervous and then you laugh at them like that. ......”
 「あっ、ドキドキっていうのは別にそういう意味じゃないからね！」=“Oh, that's not what I meant by "thrilled.”
-「[H名]は本当に可愛いね」=“[H名] is really cute.”
+「[H名]は本当に可愛いね」=“[H名] is really pretty.”
 「か、可愛いって……もうっ！　ごまかして」=“I don't know if it's cute, but okay.　Play it off.”
 「好きだよ」=“I like you.”
 「～～ッ！！　も、もういいわよ。わかったから……それは、あ、あたしもだし」=“~~!　That's enough, that's enough. I get it. ...... I get it. I get it, too.”

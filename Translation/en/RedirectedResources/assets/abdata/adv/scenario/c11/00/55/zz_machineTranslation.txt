@@ -3,7 +3,7 @@
 「あのね、実はそろそろあなたを愛称で呼びたいのだけれど、なんだか緊張しちゃって。ダメねぇ」=“You know, I'd actually like to start calling you by your nickname, but I'm kind of nervous. No.”
 「あ～なんかわかるな、その気持ち。それじゃ、同時に呼んでみる？」=“Oh, I know that feeling. Do you want me to call you at the same time then?”
 「まぁ、それはいいアイディアね。あなたと一緒なら心強いわ。それじゃ、いくわよ～」=“Well, that's a great idea. Well, that's a great idea, and I'm glad you're with me. Well, let's go!”
-「あっ……[Hあだ名]！　……ごめん、タイミングずれちゃった」=“......[nickname]!　...... Sorry, my timing is off.”
+「あっ……[Hあだ名]！　……ごめん、タイミングずれちゃった」=“Oh ... [Hあだ名]!　...Sorry, my timing is off.”
 「うふふ。でも、お陰でハッキリと聞くことができたわ」=“Mmmm. But thanks to you, I heard you loud and clear.”
 「やっぱりちょっと恥ずかしいね」=“I'm still a little embarrassed.”
 「そうね～。でも初めだけよ、きっとすぐ慣れるわ」=“That's true. But it's just the beginning. You'll get used to it.”

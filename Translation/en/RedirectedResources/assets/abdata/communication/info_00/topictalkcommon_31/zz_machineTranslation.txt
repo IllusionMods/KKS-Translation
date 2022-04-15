@@ -1,4 +1,4 @@
-「[H名]は身体を鍛えてたりするの？」=“Do you work out a lot?”
+「[H名]は身体を鍛えてたりするの？」=“Does [H名] work out or anything?”
 「走ることは習慣になっているな。おまえも今度、私と一緒に走るか？」=“Running is a habit of mine. Would you like to run with me sometime?”
 「外で遊ぶのは好き？」=“Do you like to play outside?”
 「もちろんだ。私はどちらかというと、アウトドア派だしな」=“Of course. I'm more of an outdoorsman.”
@@ -22,7 +22,7 @@
 「そうだな……気持ち良すぎて、帰りたくない気持ちが強まっていくのを感じるよ」=“Yeah, ...... it feels so good, I can feel myself not wanting to leave.”
 「どっちがより珍しい動物や植物を見つけるか、勝負してみない？」=“Why don't we play a game and see who can find more rare animals and plants?”
 「いいぞ……と言いたいがパスだ。私はどうも視野が狭くてな……なにも見つけられずに負けてしまいそうだ」=“I want to say, "Great, ......," but I'll pass. I'd say ......, but I'm afraid I'm too narrow-minded. ...... I'm afraid I'll lose without finding anything.”
-「[H名]は深海魚とか好き？」=“Do you like deep-sea fish?”
+「[H名]は深海魚とか好き？」=“Does [H名] like deep-sea fish or something?”
 「……好き嫌いなんて考えたことなかったな。まぁ、ブサカワというかなんというか……愛嬌はあると思うぞ」=“I've never thought about ...... likes and dislikes. I've never thought about liking or disliking ...... them. Well, they're kind of ugly, but I think they're ...... charming.”
 「耳を傾けると聞こえてくる波の音が好きなんだよね」=“I like the sound of the waves when I listen to them.”
 「ああ、分かるな……私もゆっくりしたいときは、静かに波の音を聞いてるよ」=“Yeah, I know. ...... When I want to relax, I listen to the sound of the waves in silence.”

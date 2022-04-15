@@ -11,7 +11,7 @@
 「そんなことあり得ないよ。俺はきみのことが好きだから」=“It's not possible. Because I like you.”
 「あり得ないとまで言い切ってくれるとはのう。それ程わしのことが好きと――」=“I'm not sure what to do. That's how much you like me.”
 「……今、わしのことを好きと言ったのか？」=“...... Did you just say you like me?”
-「うん、言ったよ。俺は[H名]のことが好きだ」=“Yeah, I said it. I like [H名].”
+「うん、言ったよ。俺は[H名]のことが好きだ」=“Yes, I said it. I like [H名].”
 「なんじゃとぉ！？」=“What?”
 「お、お主っ、そのようなことは……軽々に口走ってよいようなものではないのじゃぞ？」=“Oh, my Lord, that's not a ...... thing to talk about lightly, is it?”
 「わかってるよ、もちろん」=“I know, I know.”
@@ -19,7 +19,7 @@
 「それは……す、少なくともわしにとっては『あなたに心を捧げます』というのと同じ意味じゃぞ」=“That's ...... the same as saying, "I give my heart to you," at least to me.”
 「うん、ちょうどそういう意味だよ」=“Yeah, that's just what I meant.”
 「そ、そうか……」=“Yeah, yeah. ......”
-「俺は[H名]のことが好きで……心を捧げる覚悟だし、きみの心が欲しい」=“I like [H名] and I'm ready to give ...... my heart and I want your heart.”
+「俺は[H名]のことが好きで……心を捧げる覚悟だし、きみの心が欲しい」=“I love [H名] and I'm ready to give my ... heart and I want your heart.”
 「なんと力強い言葉か。さすがは、わしの心を射止めた男なのじゃ」=“What powerful words. That's the man who won my heart.”
 「心を射止めたってことは……」=“Winning your heart is ......”
 「わ、わしも同じ気持ちで……お主の告白を嬉しく思うのじゃ」=“Wow, I feel the same way about ......, and I'm glad you're telling me.”
@@ -36,7 +36,7 @@
 「格好いいところを見せられるように頑張るよ」=“I'll do my best to show you something cool.”
 「格好よくなどなくてもよい。大切なのは、わしがお主を思うのと同じくらい、お主がわしを思ってくれることなのじゃ」=“I don't have to look good. What's important is that you think of me as much as I think of you.”
 「……わしはその、意外と欲張りだから」=“...... I'm a bit greedy, you know.”
-「約束するよ。いつまでも[H名]のことを思い続けるって」=“I promise. I promise I'll always think of you.”
+「約束するよ。いつまでも[H名]のことを思い続けるって」=“I promise you. I will always think of [H名].”
 「軽々に口にしていい言葉ではないと言ったぞ？」=“I told you that's not a word I like to hear.”
 「も、もちろん」=“Of course.”
 「ならばその思いを全て、ありのままに受け止めるからのう。だから……末永くよろしく頼むのじゃ」=“Then I'll ring this bell with all my heart! Then I'll take all your wishes as they come, and you'll have ...... for many years to come.”

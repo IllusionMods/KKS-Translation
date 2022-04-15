@@ -6,4 +6,4 @@
 「そう言われると、男としては断れないな。よーし、勝負だ」=“When you put it like that, as a man, I can't say no. All right, let's play.”
 「それじゃ準備体操しなきゃ。まだお互いに知り合って日が浅いし、全力で勝負すればきっともっと仲良くなれるよ」=“Then I have to do some warm-up exercises. We've only known each other for a short time, and I'm sure we'll get to know each other better if we give it our all.”
 「だね、親睦を深めよう」=“Yeah, let's get to know each other.”
-（[H名]って優しい女の子なイメージがあったけど、意外と活発なのかな？　とにかく手は抜かずにやろう）=(I had an image of [H名] as a gentle girl, but is she surprisingly active?　Anyway, let's not cut corners.)
+（[H名]って優しい女の子なイメージがあったけど、意外と活発なのかな？　とにかく手は抜かずにやろう）=(I had an image of [H名] as a gentle girl, but is she surprisingly active?　(Anyway, let's not cut corners.)

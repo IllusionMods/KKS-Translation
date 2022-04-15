@@ -1,4 +1,4 @@
-「[H名]は卓球できる？　台があるしやっていこうよ」=“Can you play ping-pong?　We have a table. Let's play.”
+「[H名]は卓球できる？　台があるしやっていこうよ」=“Does [H名] know how to play ping-pong?　There's a table, let's do it.”
 「ふぅ……少し疲れてしまいました。休憩しませんか？」=“I'm a little tired of ....... Would you like to take a break?”
 「そうだね、俺も少し疲れちゃったよ」=“Yeah, I'm a little tired, too.”
 「卓球って台が小さいからそれほどじゃなさそうに見えるけど、実際はかなりハードだよね」=“Table tennis may not look like much because the table is so small, but it's actually quite hard.”

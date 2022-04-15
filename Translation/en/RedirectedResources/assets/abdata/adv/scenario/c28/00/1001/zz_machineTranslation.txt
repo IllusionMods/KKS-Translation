@@ -11,7 +11,7 @@
 「例えば、カブトムシを捕まえたとかそういうのじゃ」=“Like, you know, catching a beetle or something.”
 「いやあ、そういうことはあんまりしなかったかな」=“No, I didn't do much of that.”
 「わんぱくな子供時代を過ごしていたものと勝手に想像していたが……ちょっぴり裏切られた気分じゃ」=“I imagined that you had a naughty childhood, but ...... I feel a little betrayed.”
-「逆に[H名]はどんな感じだったの？」=“On the contrary, what was it like for [H名]?”
+「逆に[H名]はどんな感じだったの？」=“On the other hand, what was [H名] like?”
 「わしか？　近所のおじいさんとよく将棋をしておったぞ」=“Me?　I used to play chess with an old man in the neighborhood.”
 「朝から晩まで……は言い過ぎじゃが、いっぱい付き合ってもらってたのう」=“...... is a bit of an exaggeration, but I've had a lot of fun with you from morning till night.”
 「それはイメージ通り過ぎる」=“That's too much like the image.”

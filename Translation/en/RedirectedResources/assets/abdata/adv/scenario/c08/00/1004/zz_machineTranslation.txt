@@ -12,13 +12,13 @@
 「大きく息を吐いて～」=“Take a big breath.”
 「吐き続けて～」=“Keep spitting.”
 「はぁぁ～……」=“Haaah~ ......”
-「ここで深呼吸！　[H名]が吐いた息を俺が吸う」=“Take a deep breath here!　[H名] breathes out, I breathe in.”
+「ここで深呼吸！　[H名]が吐いた息を俺が吸う」=“Deep breath here!　[H名] exhales, I inhale.”
 「えぇっ！？」=“What?”
-「実に美味い空気だ！　[H名]の息吹を感じるよ」=“The air is truly delicious!　I can feel the breath of [H名].”
+「実に美味い空気だ！　[H名]の息吹を感じるよ」=“The air is so good!　I can feel [H名]'s breath in me.”
 「あぅ～、私の大事な彼氏君が壊れちゃったよぉ」=“Oh, my precious boyfriend, he's broken.”
 「あはは。酸素の吸い過ぎでハイになってるかも」=“Haha. I think I'm getting high from breathing too much oxygen.”
 「も～、綺麗な海でも眺めて落ち着いてよぉ」=“Hey, why don't you just relax and enjoy the beautiful ocean?”
-「どうせ眺めるなら[H名]の顔がいいな」=“If I'm going to look at it, I want to see [H's name]'s face.”
+「どうせ眺めるなら[H名]の顔がいいな」=“I'd rather look at [H名]'s face anyway.”
 「あぅあぅ。やっぱりまだ壊れたままだよぉ」=“Ohhhh. It's still broken.”
-「これでお返し完了だね。[H名]の照れる顔が見られて満足だ」=“I didn't think I'd actually win. - Well, now you've paid me back. I'm happy to see [H名] embarrassed.”
+「これでお返し完了だね。[H名]の照れる顔が見られて満足だ」=“I guess that completes the payback. It's satisfying to see [H名]'s embarrassed face.”
 「あっ！　そういうこと～！？　もぉ～、意地悪なんだからぁ」=“I'm sorry.　That's what I meant!　Oh, you're so mean!”
