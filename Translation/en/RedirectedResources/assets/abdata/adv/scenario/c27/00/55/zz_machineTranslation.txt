@@ -5,8 +5,8 @@
 「……もしかして、呼んでくれるの？」=“...... Are you going to invite me over, by any chance?”
 「……どーしても、どーしてもってお願いするなら、一回くらい吝かではない、かも……」=“...... If you're going to ask for something, you might as well ask for it once. ......”
 「どうしても呼んで欲しいです！」=“I really want you to come!”
-「うぅ……えっと、それじゃあ……。ねぇ……[Pあだ名]」=“Ugh ......, well then ....... Hey, ....... ......[Pあだ名]”
-「なあに、[Hあだ名]？」=“What's your nickname?”
+「うぅ……えっと、それじゃあ……。ねぇ……[Pあだ名]」=“Ugh... uh, well then... Hey ... [Pあだ名].”
+「なあに、[Hあだ名]？」=“What is it, [Hあだ名]?”
 「ひゃうっ！　そ、それは不意打ちよ！」=“Aaah!　That was a surprise!”
 「流れ的に俺も呼んだ方がいいかなーと。嫌だった？」=“I thought it would be a good idea to invite him too. Didn't you like it?”
 「嫌じゃないけど……うぅ～、呼ぶのも呼ばれるのも、私だけ恥ずかしがってるなんて不公平よ！」=“It's not that I don't like it, but ...... it's not fair that I'm the only one who's shy when it comes to calling out and being called out!”

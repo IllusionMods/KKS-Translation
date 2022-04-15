@@ -10,7 +10,7 @@
 「子供みたいな……澄んだキラキラした目で海ほたるの輝きに見入っているアナタが、とても愛おしかったから」=“You look like a kid. ...... I love the way you look at the sparkle of the sea fireflies with your clear, sparkling eyes.”
 「そういうこと言われちゃうとさ……」=“When someone says that to me, I'm like ......”
 「視線が気になる？」=“Are you worried about the stares?”
-「視線じゃなくて、[H名]が気になっちゃうよ」=“It's not the gaze that bothers me, it's the [H名].”
+「視線じゃなくて、[H名]が気になっちゃうよ」=“It's not the gaze that bothers me, it's [H名].”
 「余計なことを言ってしまったかしら？　ごめんなさい」=“Did I say something I shouldn't have?　I'm sorry.”
 「謝らないでよ。それより……」=“Don't apologize. I'm sorry. ......”
 「それより？　何を期待されてるのかしら。うぅ……急に落ち着かない気持ちになってしまったわ」=“More than that?　What does he expect me to do? Ugh. ...... I'm suddenly feeling uncomfortable.”

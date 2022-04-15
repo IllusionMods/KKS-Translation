@@ -1,4 +1,4 @@
-「おっ、卓球台だ。よし、[H名]勝負だ！」=“Whoa, a ping-pong table. All right, [H名], let's play!”
+「おっ、卓球台だ。よし、[H名]勝負だ！」=“Oh, it's a ping-pong table. All right, [H名], let's play!”
 「っしゃぁ！　どうだ、まいったか！」=“Oh my god!　How's that working out for you?”
 「うわぁ、負けたぁ！」=“Wow, I lost!”
 「よし、もう一勝負行くぞ！　おまえもさっさと構えろ」=“All right, let's go for another round!　Get your ass in gear.”
@@ -7,9 +7,9 @@
 「なんだ、おまえから挑んできたくせにもう降参なのか？」=“What, you're the one who challenged me and now you're giving up?”
 「体も温まってきて、ここからが本番だというのに情けないぞ」=“I can't stop the tingling in my body.”
 「無茶を言わないでよ」=“Don't be absurd.”
-「でも、[H名]は勝負事になると途端にいきいきしてくるね」=“But when it comes to games, [H名] is always so much more energetic.”
+「でも、[H名]は勝負事になると途端にいきいきしてくるね」=“But [H名] is so lively when it comes to competition.”
 「まぁ、私もこういうのは嫌いじゃないからな」=“Well, I'm not averse to this sort of thing.”
-「いまの[H名]はキラキラしててとても可愛いよ」=“[H名] is so pretty now, all sparkly.”
+「いまの[H名]はキラキラしててとても可愛いよ」=“[H名] is so pretty and sparkly right now.”
 「褒めておけば、私がお開きにすると思っていないか？　そうはいかん」=“You think I'm going to let you off with a compliment?　No, not at all.”
 「勝負を再開するぞ！」=“Let's resume the game!”
 「ちょっ、待った！　まだこっちは構えてないから！」=“Wait, wait, wait!　I'm not ready yet!”

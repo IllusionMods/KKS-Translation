@@ -63,7 +63,7 @@
 「現実の男の子には興奮する？」=“Do you get turned on by real boys?”
 「そ、それは！？　ワタシもそういう年頃だし」=“No, I don't.　I'm at that age myself.”
 「むむ、それは、その、ねぇ、ありますよね」=“Mmm, that's, you know, that's, that's...”
-「[H姓]さんって、エッチな体してるね」=“You have a very sexy body.”
+「[H姓]さんって、エッチな体してるね」=“You have a naughty body, [H姓].”
 「い、いきなり何を！？　びっくりするなぁ」=“What did you just say?　You scared me.”
 「もぅ、あなたって人は。からかわないでくれぇ」=“You're such a jerk. Don't make fun of me.”
 「この手の話はあまりしたくないんだなぁ」=“I don't like to talk about this kind of stuff.”
@@ -267,7 +267,7 @@
 「そ、その、あなたに見られると余計恥ずかしいなぁ」=“I'm so embarrassed when you look at me.”
 「ど、どこに行くのだろう、ドキドキ」=“Where are we going? I'm so nervous.”
 「そ、そこは、あなたとでも、ちょっと入れないなぁ！？」=“I don't think I can go in there, even with you.”
-「えへ、へ、[P]さん。会いたかったんだなぁ」=“Hey, hey, Mr. [P]. I've missed you.”
+「えへ、へ、[P]さん。会いたかったんだなぁ」=“Heh, heh, [P]. You missed me.”
 「やあ、お話しようか。で、でもぉ、他のことでも良いよ」=“Hey, let's talk. Yeah, but we can talk about something else.”
 「わっ！　あなたかぁ、ド、ドキドキしたよぉ」=“Oh!　You made my heart pound.”
 「やあ、あなたと色んなことしたいんだなぁ」=“Oh, I want to do so many things with you.”
@@ -290,7 +290,7 @@
 「……むむ、ファンとして見に行くべきか」=“...... Mmm, should I go see it as a fan?”
 「おススメの漫画、教えてよ」=“What manga do you recommend?”
 「お安い御用ですぞ。どんなジャンルがいいか言ってくれれば厳選するよ」=“It's a small price to pay. Tell me what genre you like and I'll choose carefully.”
-「好きだよ、[H]。[H]はどう、かな？」=“I like [H]. [How about H, huh?”
+「好きだよ、[H]。[H]はどう、かな？」=“I like you, [H]. How about [H]?”
 「き、急になんでそのことをっ！？　ワ、ワタシも好きだよ」=“Why did you suddenly say that?　I like it, too.”
 「嫌いなんだなぁ……あぁ、ウソウソ、落ちこまないでぇ」=“You don't like it. ...... Oh, no, no, no. Don't be depressed.”
 「理想の結婚式とかってある？」=“What's your ideal wedding?”
@@ -396,12 +396,12 @@
 「楽しいんだなぁ」「わーい」「（楽）」「ふふふｗ」「うふふふふふ」=You must be having fun." "Yay." "Whew." "Whew." "Whew.
 「え、えっと」「わぁぁん」「顔が真っ赤になるなぁ」「わ、わぁぁ」「ちょ、ちょっとぉ」=Uh, uh, wow, your face is getting all red, wow, wow, wow, wow, wow, wow, wow.
 「あのー」「あのね」「そうそう」「いやはや聞いてほしいよ」「ねえねえ、こんなことが」=Um, you know... you know... you should hear this... you know, this is happening.
-「な、なにかな？……[Pあだ名]。……やっぱり、この呼び方は顔が熱くなりますね……」=“Hey, hey, what's this? ......[Pあだ名]. ......After all, this calling makes my face hot. ......”
+「な、なにかな？……[Pあだ名]。……やっぱり、この呼び方は顔が熱くなりますね……」=“What is it? ... [Pあだ名]...I knew that calling you this would make your face hot...”
 「今はそういうノリじゃないかなーって思いまーす」=“I don't think we're in that kind of mood right now.”
-「うん？　どうしたの、[Hあだ名]=I'm not sure.　What's wrong, [Hあだ名]?
+「うん？　どうしたの、[Hあだ名]=“Yeah?　What's wrong, [Hあだ名]?”
 「ちょっと呼んでみたかっただけなんだなぁ……えへへ、幼馴染っぽい」=“What's up, [Hあだ名]? - I just wanted to call you something. ...... It's like we grew up together.”
-「うん、いいよぉ……[Pあだ名]となら、いくらでも」=“Yeah, sure, I'll go as far as ......[Pあだ名].”
-「えっと……はしたないお願いなんだけど……[Pあだ名]と、エッチしたい……いいかな？」=“Um, ......, I have a small request. I want to have sex with ......[Pあだ名], okay?”
+「うん、いいよぉ……[Pあだ名]となら、いくらでも」=“Yeah, fine... with [Pあだ名], as much as you want.”
+「えっと……はしたないお願いなんだけど……[Pあだ名]と、エッチしたい……いいかな？」=“Um,... this is a very silly request,... but I want to have sex with [Pあだ名],... is that okay?”
 「ちょっと語り合いましょうぞ」=“Let's talk about it.”
 「[Pあだ名]、ちょっと語り合いましょうぞ」=“[Pあだ名], let's have a little chat.”
 「ひゃっ！　こんな所でスニーキングミッションですか……？」=“Oh, my God.　Are you on a sneaking mission here, ......?”

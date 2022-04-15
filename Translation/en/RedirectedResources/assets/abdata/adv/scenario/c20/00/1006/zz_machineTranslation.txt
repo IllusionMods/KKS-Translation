@@ -1,4 +1,4 @@
-「[H名]も、このウムイの鐘の逸話は知っているでしょ？」=“You know the story of the bells of Umui, don't you?”
+「[H名]も、このウムイの鐘の逸話は知っているでしょ？」=“You know the anecdote about the Umui Bells, don't you, [H名]?”
 「はい。もちろん知ってます」=“Yes. Of course I know.”
 「この鐘を鳴らした２人は、必ず結ばれる……ですよね？」=“If two people ring this bell, they will be united forever.”
 「そうそう、こういうのって素敵だよね」=“Yeah, that's great. That's great.”

@@ -1,4 +1,4 @@
-（よし、[H名]とウムイの鐘を鳴らすぞ……！）=Okay, I'm going to ring the bells of Umui with [H名] at ......!
+（よし、[H名]とウムイの鐘を鳴らすぞ……！）=“(Okay, let's ring the Umui bell with [H名]: ...!)”
 「アナタって意外と信心深いタイプだったのね」=“You're more religious than I thought you'd be.”
 「……すごく出鼻を挫かれた気分だよ。この鐘のこと、知ってるよね？」=“...... I feel like I'm getting off on the wrong foot. You know about this bell, right?”
 「知っているし、アナタと一緒に鳴らすのはロマンチックで素敵なことだとは思っているわ」=“I know, and I think it would be nice and romantic to play it with you.”

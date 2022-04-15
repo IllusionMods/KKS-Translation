@@ -5,7 +5,7 @@
 「うんっ、だよね！　それに、私たちの距離もぐっと近づいたよね。南の島効果かな？」=“Yeah, I know!　And we're getting closer, aren't we? Is it the southern island effect?”
 「だね、暑いから開放的になってるんじゃないかな」=“Yeah, it's hot, so it's open.”
 「あはっ♪　それじゃふたりとも、南の島の魔法にかかっちゃったんだね♪」=“I'm so glad they don't ask me what's wrong.”
-「まさに魔法だなぁ、おかげで[H名]と付き合えたしね」=“It's magic. It's how I met [H名].”
+「まさに魔法だなぁ、おかげで[H名]と付き合えたしね」=“That's just magical. It's how I got to hang out with [H名].”
 「告白のときはすごく恥ずかしかったけど、なんだか私たちらしかったよね」=“I was really embarrassed when I confessed, but it felt like us, you know?”
 「うん、いま思い出しても顔が熱くなるけど、俺たちらしかったと思う」=“Yeah, it makes me hot to think about it, but I think it was us.”
 「……好きだよ」=“I like .......”
@@ -16,7 +16,7 @@
 「それはこっちのセリフでもあるよ。頼りないところあるかもだけど、これからもよろしくね」=“That's my line, too. I know I'm not always reliable, but I look forward to working with you.”
 「頼りないなんて思ってないよ。だってキミの気持ちはすごく伝わってるから。以心伝心は難しいけど、これからもキミのことずっと理解してたい」=“I don't think you are unreliable. I don't think you're unreliable, because I know how you feel. It's hard to communicate with the heart, but I'll always understand you.”
 「キミが怒るときも、悲しむときも、感情を理解できてれば寄り添えるし、嬉しいときも、キミがどうして笑ってるのかわかれば私も嬉しいから」=“When you're angry or sad, I can be there for you if I understand your emotions, and when you're happy, I'm happy if I know why you're smiling.”
-「俺もそうしたいから、[H名]の前ではできるだけ自分を隠さないようにするよ。恥ずかしいとつい隠しちゃうけど……」=“I want to do the same, so I'll try not to hide myself in front of [H名]. I hide myself when I'm embarrassed. ......”
+「俺もそうしたいから、[H名]の前ではできるだけ自分を隠さないようにするよ。恥ずかしいとつい隠しちゃうけど……」=“I'll try to hide myself as little as possible in front of [H名], because I want to do the same. I tend to hide when I'm embarrassed...”
 「それこそ南の島の魔法にかからなくっちゃ♪　ふたりともずっと開放的でいたら、すれ違いとかも少なくなるよ！」=“The more open you both are, the less likely you are to cross paths.”
 「だね。よーし、それならもっとここを満喫しないと。ふたりで遊んで、ふたりで食べて、南の島の力を吸収しよう！」=“Right. I didn't expect to find tuna, even the smaller kind. Let's play together, eat together, and absorb the power of the South Island!”
 「うん！　大・大・大・大賛成♪」=“Yes!　I'm all for it. I'm all for it.”

@@ -14,7 +14,7 @@
 「……他にない」=“...... Nothing else.”
 「……へー」=.......
 「……何がへーなの？　私が恥ずかしがるのが、おかしい……？」=“...... What's the big deal?　Is it funny ...... that I'm embarrassed?”
-「おかしくはないけど、[H名]はクールなイメージがあったから」=“It's not weird, but I thought [H名] was supposed to be cool.”
+「おかしくはないけど、[H名]はクールなイメージがあったから」=“It's not crazy, but I always thought [H名] was cool.”
 「……何も感じてないわけじゃないから。今もちゃんと……ドキドキしてる」=“It's not that I'm not feeling ...... anything. It's not that I don't feel anything. I'm still ...... nervous.”
 「え？　えっと、そ、そう……なんだ」=“What?　Well, yeah, it's .......”
 「なんで赤くなるの……？」=“Why are you turning red ......?”

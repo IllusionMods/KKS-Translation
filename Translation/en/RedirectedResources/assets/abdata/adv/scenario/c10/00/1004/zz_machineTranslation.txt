@@ -1,6 +1,6 @@
 「浜辺を散歩しようよ」=“Let's go for a walk on the beach.”
 「ふぅ……海、か。深淵なる大海を眺めていると、我という存在がちっぽけなものに思えるな……」=“The ...... ocean, huh. When I look at the abyssal ocean, my existence seems so small. ......”
-（[H名]が珍しくため息をついている。何か悩んでるのかな？）=([H名] is unusually sighing. Is something troubling her?
+（[H名]が珍しくため息をついている。何か悩んでるのかな？）=“([H名] sighs unusually. What's bothering her?)”
 「くっ……！　我の右目が疼くっ。ええい、鎮まるのだっ！」=“......!　My right eye is tingling. Yeah, calm down!”
 「大丈夫？　目に砂が入ったのかな？」=“Are you okay?　Did you get sand in your eyes?”
 「違うぞ汝！　今のは海に眠りし邪神とのコンタクトを果たした我の安否を気遣い、解呪の魔法を使う場面であろう」=“No, you're not!　This is a scene in which you are concerned for my safety after making contact with the evil god that sleeps in the sea, and you are casting a spell to break the spell.”
@@ -10,12 +10,12 @@
 「って、これ以上は恥ずかしくて言えぬ！」=“I'm too embarrassed to say more!”
 「あはは。そんなことまで妄想してたのか」=“Haha. You've been fantasizing about that too?”
 「わ、悪いか？　汝と一緒に海で遊ぶの、すっごく楽しいから……」=“I'm sorry?　It's so much fun to play in the ocean with you. ......”
-「全然悪くないよ。俺だって[H名]と遊ぶの楽しいよ」=“She's not bad at all. It's not that bad. I enjoy playing with [H名] too.”
+「全然悪くないよ。俺だって[H名]と遊ぶの楽しいよ」=“It's not bad at all. I enjoy playing with [H名] too.”
 「でも、よかった。寂しそうな顔で遠くを見つめていたから心配したんだよ」=“But I'm glad. I was worried about you because you were staring off into the distance with a sad look on your face.”
 「そ、そうであったか。いらぬ気を遣わせてすまなかったな」=“You're right. I'm sorry for making you feel uncomfortable.”
-「悩みがあるなら遠慮せず打ち明けてね。解呪の魔法は使えないけど、[H名]の助けになりたいから」=“If you have a problem, don't hesitate to tell us. I don't have the magic to break the spell, but I want to help [H名].”
+「悩みがあるなら遠慮せず打ち明けてね。解呪の魔法は使えないけど、[H名]の助けになりたいから」=“If you have a problem, don't hesitate to confide in me. I can't use magic to break the spell, but I want to help [H名].”
 「クク、嬉しいことを言ってくれる。その心遣いで十分、我の助けになっているぞ」=“Kuku, that's very nice of you to say. Kuk, that's very kind of you to say. You're helping me a lot.”
-「気にしないで。[H名]を護ると契約したからね」=“Don't worry about it. I signed up to protect [H名].”
+「気にしないで。[H名]を護ると契約したからね」=“I don't care. I signed up to protect [H名].”
 「あっ、今の台詞……」=“Oh, that was .......”
 「我が妄想したのと同じ台詞だな。やはり汝は最高のパートナーだ！」=“That's the same line I've been fantasizing about. After all, you are the best partner!”
 「それじゃあお望み通り、肩を抱こうか？」=“Shall I hold you by the shoulders, as you wish?”

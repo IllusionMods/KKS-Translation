@@ -1,6 +1,6 @@
 「色んな魚がいるね。いすぎてどこ見ていいかわかんないや」=“There are so many different kinds of fish. There are so many fish, I don't know where to look.”
 「お、おう、そうな」=“Oh, yeah.”
-「[H名]もちゃんと見てる？　なんかそわそわしてるよね」=“Are you watching me?　You're looking a little fidgety.”
+「[H名]もちゃんと見てる？　なんかそわそわしてるよね」=“Are you even looking at [H名]?　You seem to be fidgeting a bit.”
 「見てるよ！　見てるけど……ああ、認めてやるよ。落ち着かねぇなとは思ってる」=“I'm looking!　I'm watching. ...... Oh, I'll admit it. I'll admit, I'm a little restless.”
 「水族館なんかデートのド定番って感じでよ……あ、違うぞ？　それが嫌とか楽しくないとか言いたいわけじゃなくて」=“I've always wanted to go on a date with you at an aquarium.　I'm not trying to say that I don't like it or that I don't enjoy it.”
 「うんうん、それが恋だよ。恋人同士としての実感ってやつだ」=“Yeah, that's what love is. That's what it's like to be in love. That's what it's like to be a lover.”

@@ -10,7 +10,7 @@
 「しかも、器用に中身をほじくって食べるって話だよ」=“And I'm talking about dexterously picking the insides out and eating them.”
 「それはすごいね！　あんな手でそんなことできるんだ」=“That's great!　I can do that with my hands like that.”
 「タイミングがあえば、ぜひともその瞬間を見てみたいなー」=“If the timing is right, I'd love to see that moment.”
-「[H名]は月桃って知ってる？」=“Do you know what moon peaches are?”
+「[H名]は月桃って知ってる？」=“Does [H名] know what a moonflower is?”
 「もちろん！　独特な香りがあって、料理を包むのに使ってるよねー」=“Of course!　It has a unique aroma, and you use it to wrap your food...”
 「この葉っぱで包んだお餅が、すっごく美味しいんだよ！」=“The rice cakes wrapped in these leaves are so delicious!”
 「へぇ、そうなんだ。それはちょっと興味あるかも」=“Oh, I see. That might be of some interest.”
@@ -102,7 +102,7 @@
 「女の子の後ろ姿とか見てると、時々グッとくることが……」=“Sometimes I get a giggle when I look at a girl's behind or something. ......”
 「……それは、立派なフェティシズムだと思うな」=“Don't think ...... that's a fine fetishism.”
 「もう、キミってば私のこともそういう目で見てたんだねー」=“Oh, my God, you're looking at me like that, too.”
-「やっぱり、[H名]も欲求不満になったりするのかな？」=“I wonder if [H名] gets frustrated after all.”
+「やっぱり、[H名]も欲求不満になったりするのかな？」=“After all, does [H名] get frustrated too?”
 「と、突然なにを言い出すのー！？」=“What are you talking about all of a sudden?”
 「なんとなく気になっちゃってさ。どうなのかなーって」=“I'm kind of curious about it. I wonder how it's going.”
 「そりゃあ、私だってそういう気分のときもあったりするけどぉ……」=“Of course, sometimes I feel that way, too. ......”
@@ -114,5 +114,5 @@
 「へー、そんな話があるんだ？」=“Wow, you have a story like that?”
 「うーん……でも、そんなのは人それぞれだと思うよー？」=“'Ummm ...... but I guess such things are different for everyone, right?”
 「初めての人はやっぱり特別……って女の子も多いと思うし」=“I think a lot of girls find their first time with someone special .......”
-「ちなみに、[H名]はどっちのタイプ？」=“By the way, which type is [H名]?”
+「ちなみに、[H名]はどっちのタイプ？」=“By the way, which type of [H名] are you?”
 「わ、私は……やっぱり、特別って思いたい……かな……？」=“Wow, I ...... still want to feel special ......?”

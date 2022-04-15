@@ -1,5 +1,5 @@
 「ねぇ、浜辺でちょっとゆっくりしていこうよ」=“Hey, let's go relax on the beach.”
-「……[H名]？」=“......[H名]?”
+「……[H名]？」=“... [H名]?”
 「あら……ごめんなさい。私、ぼーっとしていたかしら」=“Oh, ......, I'm sorry. I'm sorry. I'm a little distracted.”
 「うん。海を見てたの？」=“Yeah. Were you looking at the ocean?”
 「ええ、普段あまり馴染みがないから……いつまででも眺めていられそう」=“Yeah, I'm not really familiar with ......, so I can just stare at it forever.”
@@ -11,7 +11,7 @@
 「気にしないで。話、楽しかったよ」=“Don't worry about it. I enjoyed our talk.”
 「本気で言ってるのなら、アナタは結構な変わり者よ」=“If you're serious, you're a very strange person.”
 「そうかな？　好きな人が自分の考えを話してくれてるんだし、俺にとっては楽しい時間だよ」=“Do you think so?　It's fun for me to have someone I like talking about my thoughts.”
-「それに[H名]は魅力的な女の子だからね。傍にいられるだけで幸せな気持ちになるよ」=“Besides, [H名] is an attractive girl. Just being around her makes me feel happy.”
+「それに[H名]は魅力的な女の子だからね。傍にいられるだけで幸せな気持ちになるよ」=“'And [H名] is a charming girl. Just being around her makes me happy.”
 「……アナタって、急にキザなことを言うわね。恥ずかしくないの？」=“...... You're so rude all of a sudden. Aren't you embarrassed?”
 「照れがないと言ったら嘘になるけど、本心だから」=“I'd be lying if I said I wasn't embarrassed, but I mean it.”
 「はぁ……今回は私の負け。そんなこと言われたら、照れないわけがないわ」=“This time, I lost. How can I not be embarrassed when you say that?”

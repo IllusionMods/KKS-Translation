@@ -89,13 +89,13 @@
 「そうやねぇ。どこもやっぱり……なんか特別な力があるっちゃない？　ほら、パワースポット的な？」=“Well, I guess. I guess they all have some kind of special power, don't they ......?　You know, like power spots?”
 「きっと地球には、人と人の縁が繋がる場所が色んなとこにあるってことやないかなぁ」=“I think it means that there are many places on earth where people can connect with each other.”
 「なるほど、地球規模かぁ……うん、そういう壮大な考え方もいいね」=“I see, on a global scale. ...... Yeah, I like that kind of grand thinking.”
-「[H名]の胸ってさ、よく見ると……」=“If you look closely at [H's name]'s chest, you can see ......”
+「[H名]の胸ってさ、よく見ると……」=“[H名]'s breasts, if you look closely: ...”
 「わぁぁ！　いきなりなに！？　胸とかよく見らんでいいけん！」=“Whoa!　What?　You don't have to look closely at her breasts!”
-「ごめん、変な意味じゃなくて……[H名]らしくていいなぁと思ってさ」=“I'm sorry, I didn't mean to be weird, I just thought it was very ...... [H名].”
+「ごめん、変な意味じゃなくて……[H名]らしくていいなぁと思ってさ」=“I'm sorry, I didn't mean it in a weird way, I just thought it was ... very [H名]an of you.”
 「私らしい胸？　どげん意味かいな？　もしかして……悪口？」=“My breasts?　What do you mean?　Are you talking about ......?”
 「いやいや、違うってば！　ほら、形とか大きさとか……あと触り心地とか……」=“No, no, no, no!　You know, the shape, the size, the ...... and the feel of them.”
 「も、もーっ！　なん言いよーと！　しみじみ言いながらじっくり見らんとってー！」=“What the fuck!　What are you saying?　Don't you dare look at me while I'm sobbing!”
-「[H名]のフェチな部分とか知りたいんだけど……」=“I'd like to know what your fetish is. ......”
+「[H名]のフェチな部分とか知りたいんだけど……」=“I'd like to know about [H名]'s fetishes and such...”
 「フェチ？　も、もしかして……エッチなやつかいな？」=“Fetish?　You mean like the ...... sex thing?”
 「そう、エッチなやつ……聞いてもいい？」=“Yeah. Can I ask you about your fetish ......?”
 「い、いいけど……なんやろ？　自分でも分からんけど……」=“Yes, but what is ......?　I don't know. It's .......”
@@ -110,7 +110,7 @@
 （あはは……これ絶対ウソな奴だ……）=(Hahaha ...... this is definitely a lie ......)
 「いきなりなんだけどさ……初体験の時の感想、聞いてもいい？」=“Can I ask you how you felt about your first time at ......?”
 「うわぁ、本当にいきなりやね。なんでまた突然聞きたくなったと？」=“Wow, that really came out of nowhere. Why do you think I suddenly wanted to ask?”
-「いや、もっと[H名]のことを知りたいなぁと思って……どうだったのかなって」=“No, I just wanted to get to know you better. ...... I was wondering how it went.”
+「いや、もっと[H名]のことを知りたいなぁと思って……どうだったのかなって」=“No, I just wanted to know more about [H名] and how she was ...”
 「そ、そうやね……えーっと……めっちゃ緊張したんは覚えとるよ」=“Yeah, I remember being ......, well, ......, really nervous.”
 「緊張か……他には？」=“Nervous? ...... What else?”
 「他に？　うーん……ちょっとだけ安心もしたかいな」=“What else?　Well, ...... a little bit of relief, too.”

@@ -7,7 +7,7 @@
 「キスを？」=“Kissing?”
 「……バカにして。そういうつもりじゃねぇなら、否定だけすりゃいいんだよ」=“...... You're an idiot. If you don't mean it, just deny it.”
 「で？　どうすんだ、これから」=“So?　What are you going to do now?”
-「うん、だから涼みたいだけだって。[H名]も好きでしょ？　こういうの」=“Yeah, so I just want to cool off. You like [H名], don't you?　Like this?”
+「うん、だから涼みたいだけだって。[H名]も好きでしょ？　こういうの」=“Yeah, so he just wants to cool off. You like it too, don't you?　Like this.”
 「なんで私がこういうの好きとか言えんだよ」=“Why are you rolling your eyes? - Why do you keep saying I like this?”
 「え？　いつもコンビニの前でたむろして、肉まんとか食べてそうだから。近いノリで」=“What?　Because you always seem to be hanging out in front of the convenience store, eating buns and stuff. It's a close thing.”
 「イメージで語るんじゃねぇよ！　……ま、まあ、してないわけじゃねえけどよ」=“Don't talk about it with images!　...... Well, it's not that I don't, but...”

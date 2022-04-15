@@ -108,7 +108,7 @@
 「理想の家庭像ってある？」=“Do you have a vision of your ideal family?”
 「そうですね、子供は二人、可愛いペット、そして愛する旦那様が隣に……ダメです、妄想が止まらなくなります」=“Well, two children, a cute pet, and a loving husband next to me. ...... No, I can't stop imagining.”
 「ん……今はまだ想像しにくいです。傍にいられるだけでも満たされていますので……」=“It's still hard to imagine right now. It's hard to imagine right now, but just being able to be near him is enough to fill me up. ......”
-「[H名]の手料理、食べたいなぁ」=“I want to eat [H名]'s homemade food.”
+「[H名]の手料理、食べたいなぁ」=“I wish I could eat [H名]'s cooking.”
 「……どこかに食材ありませんかね？」=“I'm ...... wondering if there are any ingredients somewhere?”
 「私は……むしろ、あなたの手料理を食べてみたいです=I'd rather ...... eat your homemade food.
 「ずっと好きでいようね」=“I'll always love you, won't I?”

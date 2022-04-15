@@ -18,4 +18,4 @@
 「わぁぁっ！　考えたらばり恥ずかしくなってきた！　そげんこと言うけん、ますます顔が熱くなったやん！」=“Wow!　I'm getting so embarrassed thinking about it!　Now that you say it, my face is getting hotter!”
 「えー、俺のせいなの？　でも無事に分かったことだし、早く飲んでみようよ」=“Oh, it's my fault?　But now that we know for sure, let's have a drink.”
 「はぅ……こげん顔が熱いのに……今君に近づくの恥ずかしい……」=“Oh, ...... my face is so hot. ...... I'm so embarrassed to be near you right now. ......”
-「はは、そんな[H名]も可愛くて好きだよ」=“Haha, I like that [H名] is cute like that.”
+「はは、そんな[H名]も可愛くて好きだよ」=“Ha, I love [H名] like that, she's so cute.”

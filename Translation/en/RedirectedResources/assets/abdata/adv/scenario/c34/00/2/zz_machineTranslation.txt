@@ -1,5 +1,5 @@
 （……よし、告白しよう）=(......All right, I'll confess.)
-「[H名]のことが好きなんだ、俺と付き合ってくれないかな」=“I like [H名]. I want you to go out with me.”
+「[H名]のことが好きなんだ、俺と付き合ってくれないかな」=“'I like [H名], will you go out with me?”
 「Ａ……ｏ……」=“A......o......”
 「青？」=“Blue?”
 「イエイエッ！　の、Ｎｏｔ　ｂｌｕｅデース！　エト、アノ……ス、スキ、デスヨネ？　ワタシのコトが、アアッ、何か感じワルイ言い方ニ！」=“Yay!　Not blue!　Not blue! Et, ano ...... suki desu ne?　I don't like the way you're talking about me.”
@@ -22,7 +22,7 @@
 「わ、わかりづらくてゴメンナサイ！　トテモＯＫデス！　超ＯＫダヨ！　ワタシの気持ち、受け入れてくれて嬉しいヨ♡」=“Sorry for the confusion!　I'm sorry for the confusion!　Super OK!　I'm glad you accept my feelings.”
 「うん、俺も心の中を整理して、ちゃんと付き合いたいって思ったから告白したんだ」=“Yeah, I've been thinking about it a lot, and I decided I wanted to go out with you, so I told you.”
 「コクッ、告白ッ！　ウゥゥ……素敵な響きダヨ～♡」=“Confession!　...... sounds wonderful!”
-「[H名]のデスマスじゃない言葉もドキドキする響きだよ」=“[H名]'s non-desmus words sound exciting, too.”
+「[H名]のデスマスじゃない言葉もドキドキする響きだよ」=“[H名]'s non-Deathmouth words sound thrilling, too.”
 「キャ～ッ！　恥ずかしいデ～スっ！　デモ、これでリョウオモイ、デース♡」=“What?　I'm so embarrassed!　I'm so embarrassed!”
 「あれ、戻っちゃった？」=“Oh, you're back?”
 「き、緊張してるカラ、オチツカナイ、ア、オボツカナイ、デス、ヨ。アレデス、舞い上がりダヨ！　コレカラも、タマに戻るカモ……♡」=“I'm so nervous, I'm so nervous, I'm so nervous, I'm so nervous, I'm so nervous. I'm so nervous.　I'll be back soon. ...... ♡”
@@ -30,7 +30,7 @@
 「全然見えないデスケド！　本当ナラ、モット舞い舞いしてほしいデース♡」=“I can't see you at all!　I'm really hoping that you'll be able to dance with me.”
 「舞い舞い……こんな感じ？　よっ、ほっ？」=“How does your tongue feel? Does it feel good?　Yo, ho?”
 「あははっ、ソレがあなたのリョウオモイｄａｎｃｅナノ～♡　可愛い～♡」=“Hahaha, that's your dance, you're so cute!”
-「[H名]も舞い踊ってみて」=“Dance with me.”
+「[H名]も舞い踊ってみて」=“[H名], you can dance too.”
 「エッ、マイオドリ、マイ……ワカラナイヨ～、手モ、足モ、ナンダカ、ナンダカナンダカナノ～♡」=“Oh, my gosh, I don't know what ...... is, hands, feet, hands, feet, hands, hands, hands, feet, hands, hands, hands, hands, hands, hands, hands, hands, hands, hands, hands, hands, hands, hands, hands, hands, hands, hands, hands, hands”
 「こう、バーンって！　両想いの嬉しさを表現してみて」=“Like, bang!　Express how happy you are that you both love each other.”
 「したいケド、ム～リ～♡　何だか……ンンッ♡　嬉しすぎて………………」=“I want to, but I can't. ♡ I feel like ...... ♡ I'm too happy ..................”

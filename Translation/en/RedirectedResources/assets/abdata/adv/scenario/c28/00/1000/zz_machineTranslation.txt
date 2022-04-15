@@ -2,7 +2,7 @@
 「ふぅむ、お主がカップルドリンクとか言い出した時は、酔狂なものよと思ったのじゃが……」=“Hmm, I thought you were crazy when you started talking about couples drinks. ......”
 「そんなこと思ってたの？」=“You were thinking that?”
 「思っておったが口にはせんかった。わしは彼氏を立てる奥ゆかしいタイプじゃからな」=“I was thinking it, but I didn't say it. I thought about it, but I didn't say it. I'm the kind of guy who's not afraid to stand up for his boyfriend.”
-「今、言っちゃったのは[H名]の中の奥ゆかしさと折り合いついてるの？」=“Do you have to deal with the fact that you just said that to [H名]?”
+「今、言っちゃったのは[H名]の中の奥ゆかしさと折り合いついてるの？」=“I just said that. Are you coming to terms with the depths of [H名]'s being?”
 「自らに我慢を強いながらこの時間を乗り切るつもりでおったが、気が変わったので白状したのじゃ」=“I was going to make it through this time by being patient with myself, but I changed my mind and told you.”
 「うむ、これはよい」=“Yes, this is good.”
 「逆に何がそこまで気に入ったわけ？」=“What do you like so much about it?”

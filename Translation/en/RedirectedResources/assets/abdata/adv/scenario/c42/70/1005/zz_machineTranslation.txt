@@ -1,4 +1,4 @@
-「[H名]、良かったらだけど、俺と一緒にフォークダンスを踊ろう」=“H name], if you want, you can come folk dance with me.”
+「[H名]、良かったらだけど、俺と一緒にフォークダンスを踊ろう」=“[H名], if you'd like, you can join me for a folk dance.”
 「うんっ、よろこんで！　恥ずかしいけど、よろしくお願いねっ」=“Yes, I'd love to!　I know it's embarrassing, but please take care of me.”
 「えへへ。フォークダンスって、なんだか照れくさいねー」=“Heh heh. Folk dancing is kind of embarrassing.”
 「あんまりダンスになれてないし、キミがこんなに近くにいるからドキドキしてきちゃうよ」=“I'm not much of a dancer, and having you so close makes me nervous.”
@@ -17,5 +17,5 @@
 「ご、ごめん。邪魔だった？」=“I'm sorry. Did I interrupt you?”
 「うっ……邪魔ってほどではなかったけどぉ……その、急だったからビックリしただけで……」=“Ugh,...... it wasn't so much that I was disturbed, I was just surprised because it was so sudden. ......”
 「と、とにかく、私もすっごいドキドキしてるんだから、これ以上のドキドキは必要ないから！」=“Anyway, I'm really nervous too, and I don't need any more nervousness!”
-「あっ、[H名]の顔が赤くなってる。これならくっつかなくてもわかるかも！」=“Oh, [H名]'s face is turning red. Maybe this one can tell without sticking together!”
+「あっ、[H名]の顔が赤くなってる。これならくっつかなくてもわかるかも！」=“[H名]'s face is turning red. Maybe I can tell this without sticking together!”
 「もぉ……。恋人同士だからって、遠慮なさ過ぎだよぉ……」=“'Oh, ....... You're being too modest just because we're lovers. ......”

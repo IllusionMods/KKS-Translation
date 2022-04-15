@@ -84,7 +84,7 @@
 「ふふっ、ごめんなさい。今のは私が考えたお話よ」=“Hmm, sorry. I'm sorry, that's just a story I came up with.”
 「でも今でこんなに信じられているってことは、きっと素敵な物語があるんじゃないかしら」=“I'm sorry, it's just a story I came up with, but if people believe in it now, there must be a great story behind it.”
 「そっか。うん、そうだよね。俺もそう思う」=“I see. Yeah, I guess so. I think so, too.”
-「[H名]の胸って……」=“[H名]'s breasts are at .......”
+「[H名]の胸って……」=“[H名]'s breasts are ...”
 「ちょっと！？　いきなり何の話をしてるのよ！　まさかいつも私の胸ばかり見てるとか……」=“Hey!　What are you talking about all of a sudden?　Don't tell me you're always looking at my breasts. ......”
 「ち、違うよ！　胸だけじゃなくて、全身見てるよ！」=“No, I'm not!　I'm not just looking at your breasts, I'm looking at your whole body!”
 「えーっ、それっていつも私をいやらしい目で見てるってこと！？」=“What? Does that mean you're always looking at me in a dirty way?”
@@ -104,7 +104,7 @@
 「もう、からかわないでよー！」=“Oh, don't tease me!”
 「あのさ、答えにくいかもしれないけど……。初体験ってどうだったかな？」=“You know, this may be hard for you to answer, but ....... How was your first time?”
 「えーっ！　ちょっと待ってっ！　流石に答えるのが恥ずかしいわよっ！」=“Oh, my God!　Wait a minute!　I'm too embarrassed to answer!”
-「分かってるけど……。でも[H名]のことが大事だからちゃんと聞きたいんだ」=“I know, but ....... I know, but I want to ask you because I care about [H名].”
+「分かってるけど……。でも[H名]のことが大事だからちゃんと聞きたいんだ」=“'I know, but ... But I want to hear it right because [H名] is important to me.”
 「もう……そんなこと言ってくれるなんて。キミって本当に私を嬉しくさせる天才ね」=“I can't believe you said that ....... You really are a genius at making me happy.”
 「そうね……率直に言えば……痛くて辛くて苦しいかしら」=“Well, ...... frankly, ...... it's painful, painful, painful.”
 「えっ！？　そうだったのっ！？　ごめんっ！」=“What?　Oh, really?　I'm sorry!”

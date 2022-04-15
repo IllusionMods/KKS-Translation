@@ -10,7 +10,7 @@
 「……あんたは落ち着いてるみたいだけど、こ、こういう所は行き慣れてたりするの？」=“...... You seem calm. Are you used to going to places like this?”
 「たとえば、私以外の……」=“Like, for example, my other ......”
 「や、やっぱりいいわ！　なんでもない。それより……」=“No, I don't want to!　It's nothing. It's .......”
-「少なくとも、これからは[H名]とだけ来るだろうね」=“At least I'll only be coming with [H名] from now on.”
+「少なくとも、これからは[H名]とだけ来るだろうね」=“At least I'll only be coming here with [H名] from now on.”
 「そ、そう……じゃなくて、二人きりかはわからないでしょ！」=“Yeah, not ...... that. You don't know if it's just you and me!”
 「先の話だけど……こういうところは家族で来るのも定番、って感じがするし……子供と一緒にとか」=“I know it's a bit far-fetched, but ...... I feel like this kind of place is usually a family place. ...... Maybe with kids.”
 （それはさすがに、だいぶ先の話かな……）=(That's a long way off, indeed. ......)

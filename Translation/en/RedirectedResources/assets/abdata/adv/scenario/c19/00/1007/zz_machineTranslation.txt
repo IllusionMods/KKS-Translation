@@ -10,7 +10,7 @@
 「たとえば、水深が深すぎて調査が及んでない海域は底に何があるかまだわからないままらしいし……」=“For example, there are waters that are too deep to be explored, and we still don't know what's on the bottom. ......”
 「……海底人の王国が？」=“...... the kingdom of the undersea man?”
 「ファンタジー小説だね」=“It's a fantasy novel.”
-「やっぱり、[P名]君とお話するの楽しいな」=“You know, I really enjoy talking to [P名].”
-「[P名]君は私のこういう変なお話も楽しそうに聞いてくれるからかな」=“Maybe it's because [P名] seems to enjoy listening to my weird stories.”
+「やっぱり、[P名]君とお話するの楽しいな」=“I knew I'd enjoy talking to you, [P名].”
+「[P名]君は私のこういう変なお話も楽しそうに聞いてくれるからかな」=“Maybe it's because [P名] seems to enjoy listening to me tell these strange stories.”
 「本当に面白くて聞いてるだけだよ。他は？　どんな謎があるの？」=“I'm just asking because it's really interesting. What else?　What mysteries do you have?”
 「そうだね、たとえば……」=“Yeah, like .......”

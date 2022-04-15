@@ -11,13 +11,13 @@
 「ないとは言い切れませんぞ？　えてして不都合なことは黙されているものですからな」=“You can't be sure of that.　You can never be sure, can you? - Inconvenient things are usually kept quiet.”
 「じゃあ、試しに一緒に鳴らしてみよう」=“Well, let's try it out and see how it sounds together.”
 「えっ」=“What?”
-「ほら、[H名]も紐をもって」=“See, [H名] has a string, too.”
+「ほら、[H名]も紐をもって」=“Look, [H名], with the string.”
 「で、鳴らしてみてどうだった？　愛は減った？」=“So, how did it go with the ringing?　Did you love it less?”
 「当然ながら減ってませんな」=“Of course it's not getting any better.”
 「そうだよね。愛うんぬんはこっちで勝手に言ってることでウムイの鐘には関係ないし」=“That's right. Love is something we talk about on our own, and it has nothing to do with Umui's bell.”
 「というか、増減が簡単にわかるくらい、俺を愛してくれてるんだ？」=“I mean, do you love me enough to know when I'm going up or down?”
 「……っ！？　そ、それは黙秘権を行使しますぞ！」=“......?　I'm exercising my right to remain silent.”
-「いや、行使しても即答だったことに変わりはないし。嬉しいな、[H名]がそんなに俺を想ってくれてて」=“No, I'm not bad at it, but it's . I'm glad you think so much of me, [H名].”
+「いや、行使しても即答だったことに変わりはないし。嬉しいな、[H名]がそんなに俺を想ってくれてて」=“No. And exercising doesn't change the fact that it was an immediate response. I'm glad [H名] thinks so much of me.”
 「うぐっ……は、謀ったなぁ……！」=“Ugh, ...... is a conspiracy. ......!”
 「そうですぞ！　愛してて悪いのかい！？」=“Yes, I do!　Is it wrong that I love you?”
 「うっ、そうやって開き直られると結構照れる……」=“Ugh, it's pretty embarrassing when you open up like that. ......”

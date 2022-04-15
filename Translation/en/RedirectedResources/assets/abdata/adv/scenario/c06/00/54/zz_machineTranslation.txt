@@ -4,11 +4,11 @@
 「くすっ、失礼いたしました。私も貴方ともっと仲良くなりとうございます」=“Ssshhh, my apologies. I'd like to get to know you better.”
 「それじゃあ、お互いに愛称で呼び合ってみようよ」=“Well, let's call each other by our nicknames, shall we?”
 「愛称、素晴らしいですね。では、どのような呼び方をいたしましょう」=“A nickname, that's great. What shall we call you then?”
-「えっと、俺のことは[Pあだ名]って呼んでみて」=“Well, you can call me [Pあだ名].”
+「えっと、俺のことは[Pあだ名]って呼んでみて」=“Um, you can call me [Pあだ名].”
 「……やはり破廉恥なことではありませんか」=“Isn't ...... still a shameful thing?”
 「お、お願いだよ……[H]に呼んでもらいたいんだ、いや、[Hあだ名]に」=“Oh, please, I want you to call me ......[H], no, [H].”
-「それが私の愛称ですか？　では……[Pあだ名]」=“Is that what you call me?　Well, ......[Pあだ名]”
-「[H]にそんな風に呼んでもらえる日が来るなんて……ありがとう」=“I never thought I'd see the day when [H] would call me that. ...... Thank you.”
+「それが私の愛称ですか？　では……[Pあだ名]」=“Is that my nickname?　Then go to ... [Pあだ名].”
+「[H]にそんな風に呼んでもらえる日が来るなんて……ありがとう」=“I never thought I'd see the day that [H] would call me that... Thank you.”
 「殿方に対して理解が深まってきた私なら構いませんが、他の初心な子に強要しないでくださいね？」=“I don't mind if I'm getting to know you better, but please don't force me to do it on other kids who are just starting out.”
-「もちろんだよ。[H]だからお願いできるんだ」=“Of course, [H]. [H] That's why I'm asking.”
+「もちろんだよ。[H]だからお願いできるんだ」=“Of course. It's [H] I can ask for.”
 「もう、私の持ち上げ方をご存じなのですから……この愛称は、覚えておきますね」=“You already know how to lift me up. ...... I'll remember that nickname.”

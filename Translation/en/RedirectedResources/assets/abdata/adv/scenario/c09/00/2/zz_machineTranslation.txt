@@ -25,10 +25,10 @@
 「いい性格って、優しいって意味？　それは、まあ……横断歩道を渡れないでいるおばあちゃんとかいたら手伝ったりするけど」=“By good nature, do you mean kind?　It's like, well, ...... if there's an old lady who can't cross the street, I'll help her.”
 「あははは」=“Ha-ha-ha.”
 「なんで笑うのよ！　あっ、もしかしてさっきの告白……」=“Why are you laughing?　Oh, maybe it's the confession ......”
-「冗談なんかじゃないよ。俺は[H名]にぞっこんだ！　生涯の愛だって誓える」=“It's not a joke. I'm crazy about [H名]!　I swear I'll love you forever.”
+「冗談なんかじゃないよ。俺は[H名]にぞっこんだ！　生涯の愛だって誓える」=“I'm not kidding. I'm crazy about [H名]!　I could swear to you that I love you for life.”
 「ぞっこん！？」=“Love?”
-「うん。明るくて、時々ほんのちょっと抜けてて……当然顔も可愛い[H名]のことずっと気になってたし」=“Yeah. I've always had a thing for [H名], who's cheerful, sometimes a little bit off ......, and naturally has a pretty face.”
-「[H名]の好きなところ聞かれたら、今はもう『全部』って答えちゃうかも」=“If someone asked me what I like about [name], I'd probably say 'everything' right now.”
+「うん。明るくて、時々ほんのちょっと抜けてて……当然顔も可愛い[H名]のことずっと気になってたし」=“I'm not sure. I've always had a soft spot for [H名], who is bright, sometimes just a little out of the ordinary, and of course has a lovely face.”
+「[H名]の好きなところ聞かれたら、今はもう『全部』って答えちゃうかも」=“If someone asked me what I liked about [H名], I'd probably say 'everything' now.”
 「そんなに……まさしくだわ、ぞっこんなのね」=“That's so ...... true. You're crazy about me.”
 「コホン！　あたしも、えーと……たまにケンカ友達みたいになっちゃったりもしてたけど。それはやっぱり、うん、そうなの」=“What's this black tempura?　I, too, ...... sometimes became like a bickering friend. That's right, that's right.”
 「あんたとの距離がそれだけ心地よくて、ありのままのあたしになれてたってことだと思う」=“I think it's because I'm so comfortable with you that I've been able to be myself.”

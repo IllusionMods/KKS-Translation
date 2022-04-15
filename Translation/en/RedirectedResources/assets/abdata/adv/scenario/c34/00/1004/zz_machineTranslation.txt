@@ -2,8 +2,8 @@
 「Ａｈｈｈｈ～♪　風が気持ちイイ……」=“Ahhhh, the wind feels so good. ......”
 「波の音も癒されるしね」=“The sound of the waves is soothing, too.”
 「ウン……浜辺を歩くって、好きダヨ……」=“Yeah ......, I like walking on the beach. ......”
-（……なんだか、[H名]が遠い目をしてる気がするな……）=(......I feel like [H名] is giving me a faraway look. ......)
-「もしかして、[H名]が育った国にもこんな浜辺があったの？」=“Could it be that the country where [H名] grew up had beaches like this?”
+（……なんだか、[H名]が遠い目をしてる気がするな……）=“(... I kind of feel like [H名] has a faraway look in her eyes...)”
+「もしかして、[H名]が育った国にもこんな浜辺があったの？」=“'Perhaps there were beaches like this in the country where [H名] grew up?”
 「Ｗｈａｔ’ｓ！？　ドウシテ、わかったノ？」=“What's?　What's that?”
 「なんかそんな顔してるなーって」=“I just thought you had that look on your face.”
 「Ｗｏｏ，ソレだけで伝わっちゃっタ？　嬉しいケド恥ずかしいカモ……ｏｈ，これがウレシハズカシっていうキモチ？」=“Woo, is that all you got?　I'm so happy, but I'm so embarrassed. ...... Oh, is this what it feels like to be happy and embarrassed?”
@@ -14,9 +14,9 @@
 「コレカラ、アナタの使うコトバ、イッパイ勉強シテ、コトバも近づくカラ、待っててネ！」=“I'm going to learn a lot of your words, and I'm going to get closer to them, so wait for me!”
 「うん、俺も協力するから」=“Yeah, I'll help you with that.”
 「Ｔｈａｎｋ　ｙｏｕ～♡　素敵な人とＣｏｕｐｌｅにナレテ、ワタシ幸せダヨ♡」=“Thank you! I'm so happy to be a couple with you.”
-「俺も……あ～、あとさ、俺も勉強しようと思ってるんだ、[H名]が育った国の言葉」=“I'm also ...... thinking about learning the language of the country where [H名] grew up.”
+「俺も……あ～、あとさ、俺も勉強しようと思ってるんだ、[H名]が育った国の言葉」=“I'm also ... ah, and also, I'm trying to learn the language of the country [H名] grew up in.”
 「エッ！　ソウナノ？　ドシテ？」=“What?　What?　What?”
-「[H名]が頑張ってるなら俺もって思ったし、[H名]が思い出してた浜辺にも行ってみたいし」=“I thought, "If [name] is working hard, then so am I, and I want to go to the beach that [name] remembers.”
+「[H名]が頑張ってるなら俺もって思ったし、[H名]が思い出してた浜辺にも行ってみたいし」=“I thought, If [H名] is doing so well, then so am I, and I want to go to the beach [H名] remembers.”
 「Ｎｉｃｅ　ｉｄｅａ♡　すごく素敵なｂｅａｃｈダカラ、二人で歩こうネ！」=“Nice idea ♡ It's a really nice beach, let's walk together!”
 「うん、約束」=“Yeah, I promise.”
 「ソウと決まったラ、『善は急げ』ダネ！　今日カラ、ミッチリ、コトバ教えてあげるネ！」=“I'm not sure what to make of it.　I'm going to teach you how to use the language today.”

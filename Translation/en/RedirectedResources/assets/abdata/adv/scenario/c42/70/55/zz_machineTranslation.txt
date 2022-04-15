@@ -6,6 +6,6 @@
 「本当？　ありがとー。何だったら、私のこともあだ名で呼んでもいいよ？」=“Really?　Thanks. If you want, you can call me by my nickname, too.”
 「そう？　とはいえ、あだ名か……どんなのが良いかな」=“Yeah?　However, what would you prefer as a nickname or ......?”
 「好きに呼んでくれていいよー。えへへ、ちょっと楽しみかも」=“You can call me whatever you want. Heh heh, I might be a little excited.”
-「じゃあ……[Hあだ名]って呼ぶのはどう？」=“How about calling me ......[Hあだ名] then?”
+「じゃあ……[Hあだ名]って呼ぶのはどう？」=“Then how about calling me [Hあだ名] at ...?”
 「おぉぉ、それ良いかも！　でも、お互いに呼び合うとちょっと恥ずかしい感じもするかも……」=“Oh, that's a good one!　But it might be a little embarrassing if we call each other ......”
 「そうだね。照れくさいし、時々呼び合うくらいがちょうど良いのかもね」=“I agree. It's embarrassing. Maybe it's better if we just call each other sometimes.”

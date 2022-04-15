@@ -290,7 +290,7 @@
 「悪魔も結婚するときは、ウェディングドレスを着るの？」=“Does the devil wear a wedding dress when he gets married?”
 「うむ。だが白色ではなく、赤か黒が一般的だな」=“Yes. Yes, but it's usually red or black, not white.”
 「悪魔の趣味嗜好にもよるな。着る派の方が多数ではあるぞ」=“It depends on the devil's taste. It depends on the taste of the devil.”
-「今日も[H名]は綺麗だね」=“[H名] is beautiful today.”
+「今日も[H名]は綺麗だね」=“[H名] looks beautiful today.”
 「ふわぁっ！？　急に歯の浮くようなセリフを言うなぁ！」=“Huh?　Suddenly, you're talking out of your ass!”
 「そ、それは……あるぞ……我も……」=“Yeah, there's ...... that. ...... me too. ......”
 「そ、それは……秘密である！　恥ずかしい質問するでない！　ふむぅ」=“No, that's a ...... secret!　Don't ask embarrassing questions!　Hmm.”
@@ -372,13 +372,13 @@
 「むふふ……我は楽しいぞ……」「楽しいぞ……楽しいぞ……」「た、楽しすぎるぞ！」「ふんふん……」「我は楽しくてハッピーなのだ……」=Mmmm ...... I'm having fun ...... I'm having fun ...... I'm having fun ...... I'm having too much fun! It's too much fun! "Mmmm ...... I'm happy and having fun ......
 「は、恥ずかしいではないか……」「て、照れるぞ……」「こ、こらぁ…恥ずかしいのだ…」「こ、これは照れるのだ……」「ふぇぇっ！　は、ハレンチな！」=It's embarrassing ......" "It's embarrassing ......" "It's embarrassing ......" "It's embarrassing..." "It's embarrassing... ......" "Huh!　I'm so embarrassed.
 「なあなあ……汝……」「汝、ちょっといいか？」「我の話を聞いてくれ……」「そういえばのう……」「汝にひとつ聞いていいか？」="Hey, ...... thou ......, can I have a word with thee? "Listen to me, ......, can I ask you something, ......?
-「ど、どうした……[Pあだ名]。こ、この呼称にはまだ慣れんな……！」=“What's wrong with ......[Pあだ名]? What's the matter ......[Pあだ名], I'm not used to this ......!”
+「ど、どうした……[Pあだ名]。こ、この呼称にはまだ慣れんな……！」=“'How's it going ... [Pあだ名]. I still can't get used to this name...!”
 「……今はそんな気分ではない」=“I'm not in the mood for .......”
-「なあ……[Pあだ名]」=“Hey, ......[Pあだ名].”
+「なあ……[Pあだ名]」=“Hey, ... [Pあだ名].”
 「うん？　どうかした、[Hあだ名]」=“Yeah?　What's wrong, [Hあだ名]?”
 「……な、なに、新たな名が馴染んだか確かめただけよ！」=“...... Hey, what, I'm just making sure you're comfortable with your new name!”
-「……うん、いいよ……じゃなくて、よいぞ。[Pあだ名]よ……我と契りを交わそう」=“...... Yeah, okay, not ......, okay. [Pあだ名] Come ...... and join me.”
-「その……[Pあだ名]よ……今宵の我は飢えている……だから、しよ……？」=“That ......[Pあだ名], ...... tonight I am hungry, ...... so let's ......? What?”
+「……うん、いいよ……じゃなくて、よいぞ。[Pあだ名]よ……我と契りを交わそう」=“I'm not ..., no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. [Pあだ名], ... come and join me.”
+「その……[Pあだ名]よ……今宵の我は飢えている……だから、しよ……？」=“That ... [Pあだ名], I am hungry ... tonight, so shall we ...?”
 「ふぇっ！？　な、汝よ……何故ここにいるのだぁ……？」=“Huh?　What are you ...... doing here?”
 「ふぁ……は、入ってはダメだぞ！　早く出るのだ」=“You can't go in ......!　Come on, get out of here.”
 「ひゃっ！　汝……禁忌を犯してはならんぞ。我は恥ずかしい……」=“Aah!　Thou shalt not violate the ...... taboo. I am ashamed of ......”

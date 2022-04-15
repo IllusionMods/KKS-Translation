@@ -1,5 +1,5 @@
 （キャンプファイヤー？　フォークダンスを踊るのか……これは誘うしかないっ）=(Campfire?　(Campfire? Folk dancing? ...... I'll have to invite you.)
-「[H名]さん。俺と一緒に踊ってください！」=“Mr. [H名]. Please dance with me!”
+「[H名]さん。俺と一緒に踊ってください！」=“[H名], he said. Dance with me!”
 「……どうしようかしら？　まぁ、他に相手もいないことだし構わないわ」=“...... What should I do?　Well, I don't have anyone else, so I don't care.”
 「ペアになってくれてありがとう。すごく助かったよ」=“Thank you for being a pair. Thank you so much for pairing me up.”
 「礼を言う必要なんてないわ。主として、たまには飴を上げる必要があると思っただけよ」=“You don't have to thank me. I just thought, as the Lord, I should give you some candy once in a while.”
@@ -15,9 +15,9 @@
 「い、いや、ちょっと待って！　フォークダンスなんだから、多少はしかたないんだ！」=“No, no, no, wait a minute!　It's a folk dance.”
 「問答無用よ」=“No questions asked.”
 「……ッ！？　い、痛っ……！」=“......?　Ouch, ......!”
-「[H名]さん、足……足、踏んでるから……っ」=“[H名], you're stepping on ...... my foot.”
+「[H名]さん、足……足、踏んでるから……っ」=“[H名], you're stepping on my ... foot, so I'm stepping on your ... foot.”
 「あら、良い顔をしているわね？　でも、そこはありがとうございます……でしょう？」=“Oh, you're looking good, aren't you?　But thank you for that ......, right?”
 「あ、ありがとうございますぅぅっ……！」=“Oh, thank you so much. ......!”
 「フフッ、よろしい。素直な貴方に免じて、もう少しだけフォークダンスに付き合ってあげるわ」=“Good. I'm going to give you a few more minutes of folk dancing for your candor.”
-「うん……ありがとう、[H名]さん」=“Yeah. ...... Thank you, [H名].”
+「うん……ありがとう、[H名]さん」=“Yeah ... thanks, [H名].”
 「でも、足を踏むのだけはもう勘弁してね……？」=“But please don't step on my feet again. ......?”

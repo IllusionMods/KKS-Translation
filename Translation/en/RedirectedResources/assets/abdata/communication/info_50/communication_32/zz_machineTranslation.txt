@@ -133,4 +133,4 @@
 「そうですか、お腹が空いていたと思ったのですが……」=“Well, I thought you'd be hungry. ......”
 「ねぇ、よければ、これから俺の部屋に来ない……？」=“Hey, if you want, you can come to my room ...... now.”
 「……なるほど、理解しました。勿論、行かせて頂きます」=“...... I see, I understand. Sure, I'll come.”
-「[Pあだ名]……少しお話しませんか？」=“[Pあだ名]...... Can I talk to you for a minute?”
+「[Pあだ名]……少しお話しませんか？」=“[Pあだ名] ..., can I talk to you for a minute?”

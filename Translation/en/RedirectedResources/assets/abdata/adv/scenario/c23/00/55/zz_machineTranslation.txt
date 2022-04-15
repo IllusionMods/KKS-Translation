@@ -3,8 +3,8 @@
 「互いに愛称で呼び合うのですぞ。ゲームの幼馴染同士じゃよくあるあれです」=“You call each other by your nicknames. You call each other by your nicknames. That's how childhood friends do it in games.”
 「なるほどね……。面白そうだし、やってみようか」=“I see. ....... That sounds interesting, let's try it.”
 「ふふ、実はもうあなたのは考えてあるんだなぁ。お披露目しますぞ」=“I've actually already thought of something for you. I'll show you.”
-「ごほん……[Pあだ名]。どうかな？　けっこう自信作ですぞー」=“Gosh, ...... [Pあだ名]. What do you think?　I'm pretty proud of it.”
-「おっ、しっくり来るかも……じゃあ今度はこっちだ。……[Hあだ名]」=“I'm sorry I woke you up so selfishly." "Oh, that might fit. ...... Now this one. ......[Hあだ名]”
+「ごほん……[Pあだ名]。どうかな？　けっこう自信作ですぞー」=“Gohon ... [Pあだ名]. What do you think?　I'm quite proud of it.”
+「おっ、しっくり来るかも……じゃあ今度はこっちだ。……[Hあだ名]」=“I'm going to try this one. Whoa, that might feel right... [Hあだ名].”
 「ほう……やりますねぇ」=“Oh, ......, you're good.”
 「そっちこそやるじゃないか」=“You're the one who's doing it.”
 「ふ、ふふ……けっこう恥ずかしいから、今日はもうやめておきますか」=“It's pretty embarrassing, so I think I'll call it a day.”

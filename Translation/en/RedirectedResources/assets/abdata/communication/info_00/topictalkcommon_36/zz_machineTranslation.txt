@@ -1,4 +1,4 @@
-「[H名]さんは、外で遊ぶのは好き？」=“Do you like to play outside, Mr. [H名]?”
+「[H名]さんは、外で遊ぶのは好き？」=“Do you like to play outside, [H名]?”
 「好きか嫌いかで言えば好きね。だかと言って、アウトドア派という訳ではないけれど」=“If I had to choose between liking it and not liking it, I would say yes. But I'm not really an outdoorsy person.”
 「いっぱい遊んでるから、筋肉痛になりそうなんだよね……」=“I've been playing so much, I think I'm going to get sore muscles. ......”
 「もしなったら直ぐ言いなさい。私がたっぷりマッサージをしてあげるわ……フフッ」=“If you do, tell me immediately. If you do, let me know and I'll give you a nice massage. ......”
@@ -12,9 +12,9 @@
 「あら、誰に向かって言ってるのかしら？　私がそんなことを忘れる様な無能に見えるの？」=“Oh, who am I talking to?　Do I look like I'm so incompetent that I forget to do that?”
 「南の島だけあって、独特な植物や花を見かけるよね」=“The southern islands have their own unique plants and flowers.”
 「そうね。どれも貴方より希少価値がありそうだわ」=“Yes, I do. They all seem to be more rare than you.”
-「[H名]さんって、野生の生き物を手懐けることが出来そうだよね」=“You seem to be able to tame the wildlife, don't you?”
+「[H名]さんって、野生の生き物を手懐けることが出来そうだよね」=“[H名], you seem to be able to tame wild creatures.”
 「どういうイメージなのよ。世話をするのは誰かさんだけで充分だわ」=“What do you mean? Someone else is enough to take care of them.”
-「自然が豊かなところだから、虫もいっぱいいるみたいだね。[H名]さんは平気？」=“It's a place rich in nature, so it seems to be full of insects. Are you okay with that, [H名]?”
+「自然が豊かなところだから、虫もいっぱいいるみたいだね。[H名]さんは平気？」=“I heard there are a lot of insects here because of the abundance of nature. Are you okay with that?”
 「ええ、平気よ。いつも害虫が付きまとってくるから、耐性が出来ているもの」=“Yes, I'm fine. Yes, I'm fine. I've always had pests around me, so I've built up a tolerance.”
 「子供の頃に、オリジナルの星座とか考えたことがる？」=“When you were a kid, did you ever come up with your own constellations?”
 「貴方みたいに能天気じゃないから、そんな遊びをしたことはないわ」=“I'm not as naive as you, so I never played that game.”
@@ -24,7 +24,7 @@
 「そうね。貴方の外見とは大違いだわ」=“Yes, it is. It's so different from what you look like.”
 「熱帯魚がなんであんなにカラフルか知ってる？」=“Do you know why tropical fish are so colorful?”
 「さぁ？　知らないし、興味ないわ。見た目が綺麗だって事実があれば、理由なんてどうでもいいじゃない」=“What?　I don't, and I don't care. I don't know and I don't care, as long as they look beautiful.”
-「[H名]さんって、魚を飼ったことはある？」=“Have you ever owned a fish, Mr. [H名]?”
+「[H名]さんって、魚を飼ったことはある？」=“Have you ever kept fish, [H名]?”
 「ないわ。きっとこれから先も育てることはないでしょうね」=“No, I never have. No, and I doubt I ever will.”
 「夏のバカンスといえば、やっぱりビーチで遊ぶことだよね」=“Summer vacations are all about playing on the beach, aren't they?”
 「まぁ、否定しないわ。私は泳ぐより日光浴の方が好きだけれど」=“Well, there's no denying it. I prefer sunbathing to swimming.”
@@ -32,11 +32,11 @@
 「短絡的な思考すぎて呆れるわ。泳ぐ前にちゃんとストレッチはしておきなさい。溺れても知らないわよ」=“You're so short-sighted. You should stretch before you swim. I don't want you to drown.”
 「もしここから泳いで帰ったら、どれくらい時間がかかるんだろう」=“I wonder how long it would take me to swim home from here.”
 「気になるなら試してみればいいじゃない。私は心優しいから、船の上で見守っていてあげる」=“If you're wondering, why don't you try it? I'm kind-hearted and I'll stay on the boat and watch over you.”
-「その……[H名]さんは、ここの海より綺麗だよ！」=“That ......[H名] is more beautiful than the sea here!”
+「その……[H名]さんは、ここの海より綺麗だよ！」=“That ... [H名] is cleaner than the ocean here!”
 「吐き気を催す程に臭いわね。深刻な空気汚染だわ」=“It smells nauseatingly bad. Serious air pollution.”
 「なにか気になる名産品とかあった？」=“Did you see any specialties that caught your eye?”
 「なに？　言ったら貴方がお金を出してくれるの？　フフッ、リストアップするから少し待ってなさい」=“What?　If I tell you, will you pay for it?　Wait a minute, I'll make a list.”
-「ここのご飯って、けっこう独特な味付けだけど、[H名]さんの口にはあってる？」=“The food here is quite unique in flavor. Is it to your taste?”
+「ここのご飯って、けっこう独特な味付けだけど、[H名]さんの口にはあってる？」=“The rice here has a rather unique flavor, is it to your taste?”
 「ええ、美味しくいただいているわ。一つ難点を言うとしたら、料理の名前から何が出てくるか分からないことくらいね」=“Yes, it's delicious. The only drawback is that you never know what you are going to get from the names of the dishes.”
 「旅先ってつい財布の紐が緩くなって、色んな名物を買っちゃったりしない？」=“When you travel, don't you tend to loosen your purse strings and buy all kinds of specialties?”
 「ないわね。私は無駄使いなんてしないもの。そんなことになるのは、自律出来ていない証拠よ」=“No, I don't. No. I never waste money. I don't waste money. That's a sign that I'm not autonomous.”

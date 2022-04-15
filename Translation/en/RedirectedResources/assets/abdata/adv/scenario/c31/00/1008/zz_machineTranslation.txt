@@ -11,12 +11,12 @@
 「くっ……やぶ蛇だったか。でも、うーん……」=“I'm not sure if it's a ...... snake or not. But, um, .......”
 「ほら、早く口説いてみろ」=“Come on, make a move.”
 「よし、それじゃあ……」=“All right, then. ......”
-「ああ、[H名]。きみの瞳はまるで海ほたるのようにきらめいて綺麗だ……！」=“Ah, [H名]. Oh, [H名], your eyes are as beautiful and sparkling as sea fireflies. ......!”
+「ああ、[H名]。きみの瞳はまるで海ほたるのようにきらめいて綺麗だ……！」=“Oh, [H名]. Your eyes are as sparkling and beautiful as sea fireflies...”
 「……こ、こんな感じでどうかな？」=“...... Here, how about this?”
 「ぷっ、くっくっく……」=“Pfft, pfft, ......”
 「あははははっ、それは反則だ！　胸がときめくどころか、腹が……クク、よじれてしまう！」=“Hahahahaha, that's foul!　It's not just my breasts that are fluttering, it's my belly that's ...... churning!”
 「うっ……そこまで笑わなくたっていいじゃないか」=“...... You don't have to laugh so hard.”
-「それだったら、今度は[H名]が俺を口説いてみてよ」=“If you don't like it, say no. Then you can try hitting on me.”
+「それだったら、今度は[H名]が俺を口説いてみてよ」=“Well, then, you'll have to hit on me this time, [H名].”
 「俺の台詞を笑うくらいだし、当然、ときめくような感じで口説けるんでしょ？」=“You laugh at my lines, so of course you can hit on me in a flirtatious way, right?”
 「フッ、その挑発に乗ってやる。私の台詞で悶えてしまえっ」=“I'll take your challenge. I'm going to take you up on your challenge and make you squirm with my lines.”
 「こほん。あー……えっと、その……だな」=“Really. Uh, ......, you know, .......”

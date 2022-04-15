@@ -44,4 +44,4 @@
 「えっと……。も、もう一度、最初からお願いできますか……？」=“Let's see, ....... Can you please start again from the beginning at ......?”
 「え？　あ、うん。その……あ、改まると恥ずかしいけど……」=“Huh?　Oh, yeah. It's ......, and I'm embarrassed to admit it, but it's .......”
 「……はいっ」=“...... Yes?”
-「ふ、不束者ですけど……よろしくお願いします、[P名]さん！」=“Hmm, I'm not very good at ......, [P名]!”
+「ふ、不束者ですけど……よろしくお願いします、[P名]さん！」=“I know I'm a bit of a luddite, but ... would love to have you on board, [P名]!”

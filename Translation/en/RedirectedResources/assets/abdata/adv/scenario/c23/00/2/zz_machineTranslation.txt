@@ -38,4 +38,4 @@
 「あーもうっ、負けだよ負け……ワタシの完敗ですぞ！」=“I've lost, I've lost, I've lost. ...... I've lost!”
 「その……ワタシも、あなたが好き……だよ。だから、えっと……」=“That ...... I like you too ....... So, um, .......”
 「こちらこそ、お付き合いよろしくお願いします！！」=“I'm looking forward to working with you!”
-「もちろん！　よろしく、[H名]！」=“Of course!　Nice to meet you, [nickname]!”
+「もちろん！　よろしく、[H名]！」=“Of course!　Nice to meet you, [H名]!”

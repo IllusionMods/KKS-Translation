@@ -19,7 +19,7 @@
 「はは、気温が上がってきたのかな？」=“Ha, is it getting warmer in here?”
 「たぶん……そうです。縁側もずっと涼しいわけではないのですね」=“Maybe ...... it is. It's not always cool on the porch, is it?”
 「日当たりによるからねー」=“Depends on the sun.”
-（本当は照れて身体が熱くなってるんだろうけど……[H名]は可愛いなぁ……）=(I'm sure she's really embarrassed and her body is getting hot, but ......[H名] is so cute. ......)
+（本当は照れて身体が熱くなってるんだろうけど……[H名]は可愛いなぁ……）=“(I know she's really embarrassed and her body is getting hot... [H名] is so cute...)”
 「どうしました？　そんなに見つめて……やはりアイスが食べたいのですか？」=“What's the matter?　Are you staring at ...... me like that, or do you want some ice cream?”
 「いや、俺が見てたのはアイスじゃなくて[H名]だよ」=“No, I wasn't looking at the ice cream, I was looking at [H名].”
 「ん……また熱くなりました。アイスがもう一本必要かもしれません」=“I'm getting hot again ....... I think I might need another bottle of ice cream.”

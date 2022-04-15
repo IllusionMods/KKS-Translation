@@ -17,7 +17,7 @@
 「じゃあ、経済動物として扱ってあげるわ。嬉しいでしょう？」=“I'm going to treat you like an economic animal. Won't that make you happy?”
 「この前、ヤマネコを見かけたんだよ」=“I saw a bobcat the other day.”
 「へぇ……運がいいわね。その幸福を噛み締めておきなさい」=“Oh, ......, you're lucky. You should bite into that happiness.”
-「[H名]さんは見かけたことはないの？」=“Have you ever seen one, Mr. [H名]?”
+「[H名]さんは見かけたことはないの？」=“Have you ever seen Miss [H名]?”
 「ちらっと見たことはあるわ。何故かすぐに逃げられるけれど」=“I've glimpsed him. I've had glimpses of him, though for some reason he always runs away.”
 「別に何もしてないんだけど……不思議なことがあるものね」=“I didn't do anything, but ...... there are strange things that happen.”
 「は、ははは……多分、身の危険を感じたんじゃないかな……」=“Ha, ha, ha. ...... Maybe he felt threatened. ......”
@@ -28,7 +28,7 @@
 「宙で光っている間は綺麗だけれど、所詮は塵でしょう？　ゴミとなにも変わりないわ」=“It's beautiful while it's glowing in the air, but it's just dust, isn't it?　It's no different from garbage.”
 「で、でも、宇宙の塵だよ？　なんかロマンない？」=“But dust in space?　Isn't that romantic?”
 「ないわね、ゴミはゴミよ」=“No, garbage is garbage.”
-「……[H名]さんって、星にお願いごとはしなさそうだね」=“You don't seem to ask for anything from the stars, do you, ......[H名]?”
+「……[H名]さんって、星にお願いごとはしなさそうだね」=“... [H名] doesn't seem to make requests to the stars.”
 「フッ、よくわかってるじゃない。願いは自分で叶えるものよ、星や神になんて祈ったりしないわ」=“You know exactly what I mean. You know exactly what I mean. Wishes come true by themselves, not by praying to stars or gods.”
 「この前、サガリバナを見られたんだよ」=“I saw a sagebrush the other day.”
 「ふぅん、それは幸運だったわね。一晩しか咲かないから、なかなか見られない花なのに」=“Hmm, that's fortunate. They only bloom for one night, so it's not easy to see them.”
@@ -70,7 +70,7 @@
 「浦島太郎のイジメっこは、カメが泣くのが面白くて、ちょっかいをかけていたのかしら？」=“I wonder if Urashima Taro's tormentors were amused by the turtle's tears and messed with him.”
 「ど、どうだろ？　でもそう言われたらなんか納得できるような……」=“I don't know.　I don't know, but it makes sense to me. ......”
 「星の砂が売られているのを良く見かけるよね」=“You see a lot of star sand for sale, don't you?”
-「[H名]さんはそういうお土産は買ったりしないの？」=“You don't buy such souvenirs, do you, Mr. [H名]?”
+「[H名]さんはそういうお土産は買ったりしないの？」=“Don't you ever buy souvenirs like that?”
 「別に買わないってことはないわよ？　私だって可愛いものは嫌いではないもの」=“It's not that I don't buy them, you know.　It's not that I don't buy them. I don't mind pretty things either.”
 「でも、星の砂をつかって貴方を泣かせる方法が思いつかないのよね」=“But I can't think of a way to make you cry using star sands.”
 「そんな方法は永遠に見つからなくていいです……」=“You'll never have to find a way. ......”
@@ -91,10 +91,10 @@
 「[H名]さんは好きなシチュエーションとかってある？」=“Do you have a favorite situation, [H名]?”
 「そうね、男性の泣き顔とかはそそると思うわ」=“Well, I find the crying face of a man intriguing.”
 「他にも恥辱にまみれた顔で震えているところも良いわね」=“I also like it when they're shaking with shame on their faces.”
-「そ、そうなんだ？　[H名]さんらしいというかなんというか……」=“Oh, really?　It's just like [H名]. ......”
+「そ、そうなんだ？　[H名]さんらしいというかなんというか……」=“Oh, really?　It's very [H名]an of you or whatever you call it...”
 「フッ、安心なさい。貴方の泣き顔も嫌いじゃないわよ」=“Don't worry. I don't mind your crying face either.”
 「それ、全然安心できないから！」=“That's not reassuring at all!”
-「[H名]さんは欲求不満の時に一人で解消したりするのかな？」=“When you're frustrated, do you relieve yourself?”
+「[H名]さんは欲求不満の時に一人で解消したりするのかな？」=“Do you ever relieve yourself alone when you are frustrated, [H名]?”
 「とりあえず、貴方を踏めば解消できるわね」=“Well, at least I can relieve myself by stepping on you.”
 「いや、踏まないでよ！　嫌だよ、それ！？」=“No, don't step on me!　I don't want to do that!”
 「踏むかわりに椅子になってくれるだけでも良いわよ？」=“Can you just be my chair instead of stepping on me?”

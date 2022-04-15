@@ -8,13 +8,13 @@
 「この私と付き合おうとするくらいなんだから、もっと現実を見てるのかと思っていたのだけれど……」=“I thought you'd be more realistic if you wanted to go out with me. ......”
 「いいえ、違うわね。私に対して夢見がちだからこそ、付き合おうと思ったのかしら？」=“No, you didn't. Is it because you are so dreamy about me that you decided to go out with me?”
 「別に夢を見てるわけじゃないんだけどね……」=“It's not like I'm dreaming. ......”
-「俺は、そのまんまな[H名]さんが好きだし」=“I like you just the way you are, Mr. [H名].”
+「俺は、そのまんまな[H名]さんが好きだし」=“I like [H名] just the way she is.”
 「……そう」=“...... Yeah.”
 「それで？　貴方は、ここで私と何をしたいの？」=“So?　What do you want with me here?”
-「あー、うん。できれば[H名]さんとこの鐘を一緒に鳴らしてみたいなって思ったんだけど……」=“Uh, yeah. Uh, yeah, I was thinking I'd like to ring this bell with [H名] if I could. ......”
+「あー、うん。できれば[H名]さんとこの鐘を一緒に鳴らしてみたいなって思ったんだけど……」=“Uh, yeah. I was thinking I'd like to ring this bell with [H名] if I could...”
 「ダメ、かな？」=“No?”
 「……たまには下僕の願いを聞き届けてあげるのも、主の務めね」=“...... It's the Lord's duty to grant his servant's wishes once in a while.”
 「良いわ。特別に一緒に鳴らしてあげる」=“Good. I'll make a special sound with you.”
-「本当！？　ありがとう、[H名]さん！」=“Really?　Thank you, [H名]!”
+「本当！？　ありがとう、[H名]さん！」=“Really!　Thank you, [H名]!”
 「どんな形であれ、貴方と縁が結ばれるのであれば……私も喜ばしいことだもの」=“I'd be happy to ...... make a connection with you in any way I can.”
 「えっ、それって――」=“What? That's...”

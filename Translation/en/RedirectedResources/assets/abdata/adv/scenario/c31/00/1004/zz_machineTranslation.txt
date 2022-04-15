@@ -4,14 +4,14 @@
 「ああ。歩いて火照った体にはちょうどいい」=“Yeah. It's good for the body after a long day of walking.”
 「だが、どうして急に浜辺を歩こうとしたんだ？」=“But why did you suddenly decide to walk on the beach?”
 「うーん、別に理由らしい理由があるわけじゃないんだけどさ」=“Well, I don't really have a good reason.”
-「[H名]と少しでも一緒にいたいから……なのかな」=“I think I'm on ...... because I want to be with [name] as much as possible.”
+「[H名]と少しでも一緒にいたいから……なのかな」=“I guess I want to be with [H名] as much as possible, so that's why I'm ...”
 「んなっ……なにを言っているんだっ、おまえは！」=“What ...... are you talking about, man?”
 「まぁ、おまえが私に惚れ込んでいるのはわかっているが……」=“Well, I know you're in love with me, but ......”
-「うん。好きだよ、[H名]」=“Yes. I like you, [H名].”
+「うん。好きだよ、[H名]」=“Yes, he said. I like you, [H名].”
 「ぐぬっ……さ、さっきから、私を照れさせてどうするつもりだっ」=“I'm sure I'll get my revenge!" "Gosh, ......, how dare you embarrass me just now.”
 「なにか下心があるんじゃないだろうな……？」=“You don't have any ulterior motives, do you, ......?”
 「そんなことないって」=“That's not true.”
-「ただ……うん、下心があるとしたら、少しでも[H名]の照れた顔をみたいなってことくらいかな」=“Just ...... Yeah, the only ulterior motive I have is to see if I can get a little embarrassment on [H名]'s face.”
+「ただ……うん、下心があるとしたら、少しでも[H名]の照れた顔をみたいなってことくらいかな」=“I just want to ... see [H名]'s embarrassed face if I have any ulterior motives.”
 「やっぱりあるんじゃないかっ」=“I knew you had it in you.”
 「……まぁ、悪い気はしないが……それだけ愛されてるってことだろう？」=“...... Well, I don't feel bad about it, but ...... that's how much people love it, isn't it?”
 「というか、少しはおまえも私に照れた顔をみせたらどうだ？」=“I mean, why don't you show me a little embarrassment?”

@@ -13,5 +13,5 @@
 「そう見えないのなら、アナタは私を変に買いかぶってレッテルを貼っているのよ」=“If you don't see it that way, then you're buying me and labeling me as something I'm not.”
 「ごめんごめん反省するよ。あはは、またやり込められちゃった」=“I'm sorry, I'm sorry, I'm sorry. I'm sorry, I'm sorry, I'm sorry.”
 「やり込めたかったわけじゃないわ。……それも含めて私の悪い癖ね。こうしていて息が詰まったりしない？」=“It's not that I wanted to put you through it. It's a bad habit of mine. ...... Do you ever get choked up doing this?”
-「全然。言うまでもないけど、俺は[H名]といる時が一番楽しくて幸せだよ」=“Not at all. Needless to say, I'm happiest and most joyful when I'm with [H名].”
+「全然。言うまでもないけど、俺は[H名]といる時が一番楽しくて幸せだよ」=“Not at all. Needless to say, I'm happiest and most enjoyable when I'm with [H名].”
 「……そう、それならよかったわ」=“...... Well, that's good.”

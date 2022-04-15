@@ -9,7 +9,7 @@
 [P名]・[H名]=[P名], [H名]
 「「Ｒｅａｄｙ，ｓｅｔ，ｇｏ！」」=Ready, set, go!
 「Ｆｏｏｏｏ♪　アハッ、ｂｅ　ｓｔｉｌｌ　ｍｙ　ｂｅａｔｉｎｇ　ｈｅａｒｔ♪　まだムネがｄｏｋｉ　ｄｏｋｉしてるヨ♪」=“Foooo, be still my beating heart..." "My heart is still doki doki...”
-「飲んでる最中に[H名]がウィンクしてくるから俺もドキドキしちゃったよ」=“I was drinking when [H名] winked at me and I got nervous too.”
+「飲んでる最中に[H名]がウィンクしてくるから俺もドキドキしちゃったよ」=“[H名] winked at me while we were drinking, which made me nervous too.”
 「フフフ♪　アナタもｄｏｋｉ　ｄｏｋｉ♡　ふたりでｈａｐｐｙダネ♡」=“You're doki doki too. We're happy together.”
 「うん、こういうのできるって幸せだよホント」=“Yeah, it's a blessing to be able to do this, really.”
 「Ｏｈ，ソレジャ、Ｏｎｅ　ｍｏｒｅシヨ♪　Ｄｏｋｉ　ｄｏｋｉ　ｄｒｉｎｋ，Ｏｎｅ　ｍｏｒｅ♡」=“Oh, so that's one more thing.”

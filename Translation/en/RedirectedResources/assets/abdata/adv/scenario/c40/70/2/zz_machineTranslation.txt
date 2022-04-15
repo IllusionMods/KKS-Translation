@@ -1,12 +1,12 @@
 （さぁ、告白するぞ……勇気を出すんだ俺……）=(Come on, I'm going to confess ...... you're gonna have to be brave, me ......)
-「えっと、突然ごめん……俺、[H名]のことが好きなんだ。付き合って欲しい」=“'Um, sorry for the sudden ...... I like [H名]. I want you to go out with me.”
+「えっと、突然ごめん……俺、[H名]のことが好きなんだ。付き合って欲しい」=“'Well, I'm sorry to suddenly ... I like [H名]. I want you to go out with me.”
 「なにっ！？　ほ、本気か？」=“What?　Are you serious?”
 「うん、俺は本気だよ」=“Yeah, I'm serious.”
 「ど、どうして我なのだ？　理由を聞かせてもらってもいいか？」=“Why me?　May I ask why?”
 「それは……どうしてだろう……言葉にするのはちょっと難しい感じで……」=“It's ...... kind of hard to put into words why ...... it's kind of hard to put into words .......”
 「理由も分からずに告白したのか？　それでは我もどう答えたらよいか……」=“'You confessed without knowing why?　How then shall I answer ......?”
 「いや待って！　えっと、いつも凛々しくて堂々としてるとことか、だけど可愛いところもたくさんあるところとか……」=“No, wait!　Well, you know, you're always dignified and imposing, but you have a lot of cute parts too. ......”
-「色々言いたいことが多すぎてまとまらないんだけど……とにかく、[H名]の全部が好きなんだ！」=“There are so many things I want to say, I can't even keep it together. ...... Anyway, I love everything about [H名]!”
+「色々言いたいことが多すぎてまとまらないんだけど……とにかく、[H名]の全部が好きなんだ！」=“There are so many things I want to say, I can't even put them all together... Anyway, I love everything about [H名]!”
 「ぜ、全部だとっ！　しかし、いつも凛々しく堂々というのは少々過大評価だ……我は今、かなりその……平静を欠いている」=“All of it!　But always dignified and dignified is a bit of an overestimation ...... I'm pretty much out of that ...... equanimity right now.”
 「……それってつまり、俺の告白でドキドキしてくれてるってこと？」=“...... does that mean you're thrilled by my confession?”
 「そうだ……我も完璧な鋼の女というわけではない。こうして不意を打たれれば、狼狽えもする……」=“Yes,...... I am not a woman of perfect steel either. If I'm caught off guard like this, it can be disconcerting. ......”
@@ -22,7 +22,7 @@
 「本気なのは伝わっている。目を見れば分かる……」=“I can tell you're serious. I can see it in your eyes. ......”
 「ありがとう……俺のことも、よく見てくれてるんだね」=“Thank you ...... for looking out for me, too.”
 「まぁな。今は特にだが、普段もそれなりに……貴殿には負けると思うがな」=“Well, he said. Especially now, but I think I usually lose to ...... you in my own way, too.”
-「えっ、それってつまり……もしかして[H名]も俺のこと……」=“What, that means ...... maybe [H名] is me too ......?”
+「えっ、それってつまり……もしかして[H名]も俺のこと……」=“What, does that mean ... that maybe [H名] also ... about me?”
 「待て！　それ以上は我が言うべきことだ……！」=“Wait!　Any more than that and I'll have to tell you. ......!”
 「ぁ、ごめん、ちょっと焦っちゃって……」=“Oh, sorry, I was in a bit of a hurry. ......”
 「いや、早く返事をしなかった我も悪い。少々臆病になってしまっていてな……」=“No, it was my fault for not responding sooner. I've been a little timid. ......”
@@ -34,7 +34,7 @@
 「剣は我にとって半身のようなものだ。つまり、常に共にありたいという意思表明だな……」=“The sword is like a half-body to me. In other words, it's a statement of my intention to always be with you. ......”
 「じゃあ、俺は[H名]の鞘になるよ」=“Then I'll be [H名]'s sheath.”
 「ぁ……そうか、我にも鞘が……収まる場所ができたのだな。むぅ、参った……顔が緩んで……こっちを見ないでくれ」=“I see that I now have a place for my sheath to ...... fit in. Mh, I'm in trouble. ...... my face relaxes and ...... don't look at me.”
-「ううん、見るよ。[H名]だって、ずっと抜き身で緊張してたんじゃ休まらないでしょ？」=“No, I'll watch. [H名], you can't rest if you're tense and unplugged all the time, can you?”
+「ううん、見るよ。[H名]だって、ずっと抜き身で緊張してたんじゃ休まらないでしょ？」=“No, I'll watch. Even [H名] can't rest if she's tense and unarmed all the time, can she?”
 「だから、鞘に収まってる時くらいは……俺の前だけでは、ただの可愛い女の子で居て欲しいな」=“So, at least when you're in your sheath, I hope you're just a pretty girl in front of ...... me.”
 「あぁ、それ以上はもう……我は今、幸せ過ぎて涙が出そうだ……」=“Oh, I can't ...... go any further, I'm so happy right now I could cry ......”
 「泣いてもいいんだよ？　お互い弱いところも見せられるのが恋人なんだから」=“'It's okay to cry, okay?　We can show each other our weaknesses, because that's what lovers do.”
@@ -42,9 +42,9 @@
 「いや、こんな弱気ではいかんな。これからはもっと女性らしい所作を心がけるつもりだ！　なにか変なことがあったら指摘してくれ」=“'No, I mustn't be this weak. From now on I'm going to try to behave in a more feminine manner!　If you see anything strange, point it out to me.”
 「うーん、リラックスはして欲しいけど、無理に変わろうとはしなくていいよ」=“Um, I want you to relax, but you don't have to try to change.”
 「だが、それでは貴殿に恥をかかせることにならないか？　我のような武骨者が恋人と知れたら……」=“But wouldn't that embarrass you?　If a martial man like me were found out to be your lover, you would be .......”
-「誰になんと言われようと、[H名]は俺の自慢の恋人……伝説の名剣にだって負けないよ！」=“No matter what anyone says, [H名] is my proudest lover ...... and even the legendary sword is no match for her!”
+「誰になんと言われようと、[H名]は俺の自慢の恋人……伝説の名剣にだって負けないよ！」=“I don't care what anyone says, [H名] is my prized girlfriend ... and even the legendary sword is no match for her!”
 「なんと……ああ、最早満ち足り過ぎて……この気持ちを何と言えば……」=“Oh, ...... how I'd like to say that I'm too full of ...... myself.”
 「それなら、愛してるって言ってほしいな」=“Then I wish you'd tell me you love me.”
 「そうか、そうだな……我等はもう恋人同士。多くを語らずとも……」=“I see. ...... we are lovers now. We don't have to say much to each other. ......”
 「愛しているぞ……我はここに誓う。我を好きと言ってくれた貴殿の剣となり、常に共に在ることを！」=“I love you, ...... I hereby swear. I will be your sword and always be with you when you say you love me!”
-「ありがとう、[H名]……俺も、愛してるよ」=“Thank you, [H名]......, I love you too.”
+「ありがとう、[H名]……俺も、愛してるよ」=“Thank you, [H名]... I love you, too.”

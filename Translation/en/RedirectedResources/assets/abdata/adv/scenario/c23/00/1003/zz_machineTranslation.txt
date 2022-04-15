@@ -8,12 +8,12 @@
 「うん。意味がわからないね！」=“Yeah. I don't get it!”
 「いや、お酒のことだってことはわかるけど、Ｔシャツに書く意味がわからないね」=“No, I know it's about the drink, but I don't see the point of putting it on a T-shirt.”
 「でも、インパクトは十分。道行く人も思わず二度見すること間違い無しの逸品ですぞ！」=“But it's impressive enough. You'll make people on the street look twice!”
-「それで、[H名]はそれを買うの？」=“And [H名] buys them?”
+「それで、[H名]はそれを買うの？」=“So, is [H名] buying it?”
 「もちろん。買わない理由がどこにもない」=“Of course. There's no reason not to.”
 「うーん……それなら、俺も同じのを買おうかな……」=“Hmm ...... Then I'll buy the same one ......”
 「え？　あなたも買うのかい？」=“What?　Are you buying?”
 「いや、どうせだったらペアルックとかも良いかなって思って」=“No, I was thinking maybe we could pair up or something.”
 「……！？」=“......!”
 「まぁ、文字Ｔシャツはちょっと恥ずかしいんだけどね……」=“Well, I'm a little embarrassed about the text t-shirt. ......”
-「それでも[H名]とペアなら別に良いかなって」=“I thought it would be better if I was paired with [H名].”
+「それでも[H名]とペアなら別に良いかなって」=“Still, I thought it would be nice if [H名] and I were a pair.”
 「い、いきなりそう言うこと言うのは反則なんだなぁ……うぅ、もぅ……」=“I guess it's against the law to say something like that out of the blue. ...... Oh, no. ......”

@@ -1,4 +1,4 @@
-「ねぇ、[H名]。少し縁側で過ごして行こうか？」=“Hey, [H名]. Why don't we spend a little time on the porch?”
+「ねぇ、[H名]。少し縁側で過ごして行こうか？」=“Hey, [H名]. Shall we go spend a little time on the porch?”
 「ふふふ、やっぱり縁側にはアイスだよね」=“Ice cream on the porch is always a good idea.”
 「これぞ、日本の田舎の風景って感じがしますぞぉ」=“This is what the Japanese countryside looks like.”
 「あー、それわかる。こののんびりとした風情がいいよね」=“Oh, I know what you mean. I like this laid-back atmosphere.”

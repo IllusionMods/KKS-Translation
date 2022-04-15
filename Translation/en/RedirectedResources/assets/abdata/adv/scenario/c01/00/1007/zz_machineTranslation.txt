@@ -13,7 +13,7 @@
 「もし、深海で二人きりになったらどうします？」=“What would you do if you were alone with me in the deep sea?”
 「うーん……俺の酸素を口移しで分ける……とか？」=“Hmmm ...... sharing my oxygen with my mouth?”
 「えっ、いえ、そういうサバイバル的な話ではなく……！　もっとこう、うぅ……」=“Uh, no, I'm not talking about that kind of survivalist ......!　More like, uh, .......”
-「はは、分かってるよ。今のは冗談。深海で真珠でも取って、[H名]にプレゼントしてあげたいかな」=“Haha, I know. That was a joke. I'd like to get some pearls from the deep sea and give them to [H名].”
+「はは、分かってるよ。今のは冗談。深海で真珠でも取って、[H名]にプレゼントしてあげたいかな」=“Haha, I know. Now that was a joke. Maybe I should take some pearls from the deep sea and give them to [H名] as a gift.”
 「それは素敵ですね。私、絶対一生の宝物にします」=“That's wonderful. I'm going to treasure it forever.”
 「まぁでも、あくまで想像の話だからね……」=“Well, that's just my imagination. ......”
 「今はそうだな……グソクムシのぬいぐるみを後でプレゼントしてあげるよ」=“For now, yes. ...... I'll get you a stuffed bedbug later.”

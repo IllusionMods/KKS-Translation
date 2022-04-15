@@ -81,7 +81,7 @@
 「生で出会えただけで感激だったしね」=“I was just thrilled to see you in the flesh.”
 「それはいい心掛けさー。野生の生き物の邪魔をするのはいけないことだからね」=“That's a good thought. It's not right to disturb wild creatures.”
 「それにしても、いいなぁー。自分も一回くらいは会ってみたいさー」=“It's nice to see them. I'd like to meet one myself, at least once.”
-「もし今度見かけたら、すぐ[H名]に連絡するよ」=“If I see you again, I'll call you right away.”
+「もし今度見かけたら、すぐ[H名]に連絡するよ」=“If I see her again, I'll call [H名] right away.”
 「本当？　えへ、ありがとー」=“Really?　Thank you.”
 「星の砂って、砂じゃないって知ってた？」=“Did you know that star sand is not sand?”
 「えっ、砂なのに砂じゃないの？　なんかモヤモヤするやっさー」=“What? It's sand, but it's not sand?　I don't know what's bothering me.”

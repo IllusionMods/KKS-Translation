@@ -1,4 +1,4 @@
-「[H名]……いいかな？」=“[H名]......, okay?”
+「[H名]……いいかな？」=“[H名], can I ... have a word?”
 「部屋に入ってすぐなんて……もう、いきなりだなぁ」=“I can't believe you just walked into my room. ...... It's so sudden.”
 「ご、ごめん……気持ちが昂っちゃって……」=“I'm sorry. ...... I'm so excited. ......”
 「まぁ……そんなこと言われたら、悪い気しないけど……いいよ、エッチ……しよう？」=“Well, ...... I don't feel bad if you say that, but ...... okay, let's have sex ......?”

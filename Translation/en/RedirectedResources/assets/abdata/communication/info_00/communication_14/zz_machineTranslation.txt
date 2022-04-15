@@ -109,7 +109,7 @@
 「結婚って憧れる？」=“Do you want to get married?”
 「そりゃそうだろ！　いつかお前とだな……って何言わせるんだよ！」=“Of course I do!　Maybe someday with you. ...... What are you talking about?”
 「そうだな、もしするなら、相手はやっぱ、お前がいいかなぁ……なんて」=“Well, if I did, I think you'd be the one I'd want to marry, .......”
-「俺、[H]の好きな所なら幾らでも挙げられるかも」=“I could list all the things I like about you.”
+「俺、[H]の好きな所なら幾らでも挙げられるかも」=“I could list a million things I like about [H].”
 「い、いきなり何を言い出すんだよ……」=“What the hell are you talking about, ......?”
 「なんだか、ムラムラしてきた……」=“I'm starting to get horny. ......”
 「お前……溜まってるなら言ってくれよな」=“If you've got a ...... problem, tell me about it.”

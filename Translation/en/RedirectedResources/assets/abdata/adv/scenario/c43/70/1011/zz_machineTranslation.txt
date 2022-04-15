@@ -16,7 +16,7 @@
 「せやから、やっぱ時々遊びにくるぐらいにとどめといた方がええと思うんやわ」=“So I think it's best if you just come by once in a while.”
 「そうだね……それは確かに。またここに来れるかなぁ」=“Yes. ...... that's for sure. I wonder if I can come back here again.”
 「……この景色、一回チラ見するだけやったら勿体ないわ。ほんま、ええ眺めやわぁ……」=“I'd be ashamed if I only got one glimpse of this view at ......." It's really a nice view. ......”
-「うん、最高に綺麗だね。……キミも綺麗だよ、[H名]」=“'Yes, you're the most beautiful. ...... you're beautiful too, [H名].”
+「うん、最高に綺麗だね。……キミも綺麗だよ、[H名]」=“'Yes, it's the most beautiful thing I've ever seen... you're beautiful too, [H名].”
 「ここまで景色綺麗やと、窓ガラスもピッカピカにしとかんとアカン気ぃせえへん？」=“Don't you think the windows need to be shined when the scenery is this beautiful?”
 「まさかの無視！？」=“You can't possibly be ignoring me!”
 「ここのめっちゃでっかいベッド、見た？　あの上でゴロンゴロンしながら、ぼーっと海を眺めるんは最高やろなぁ」=“Did you see this huge bed here?　It must be great to just sit back, relax, and stare out at the ocean.”

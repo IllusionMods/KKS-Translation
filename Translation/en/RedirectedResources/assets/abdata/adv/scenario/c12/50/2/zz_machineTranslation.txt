@@ -30,7 +30,7 @@
 「そう、だね……わかった。俺、ちょっと浮ついてたかも……」=“Yeah, yeah. ...... Okay. I guess I was a little carried away. ......”
 「あ、ああ……わかってくれたら、それでいいんだ。また別の時にでも言ってくれればいいから」=“Oh, yeah. ...... If you understand, that's fine. You can tell me another time.”
 「……いや、今言うよ。告白したいって気持ち、無視できない」=“...... No, I'll tell you now. I can't ignore the fact that I want to confess.”
-「もう待てない……一日でも、一秒でも早く、[H名]の恋人になりたいんだ」=“I can't wait any longer. ...... I want to be [H名]'s lover as soon as possible, even if it's just for a day or a second.”
+「もう待てない……一日でも、一秒でも早く、[H名]の恋人になりたいんだ」=“I can't wait any longer... I want to be [H名]'s lover every second of the day.”
 「好きだ。俺と付き合って欲しい」=“I like you. I like you. I want you to go out with me.”
 「……今のは、心に来た」=“...... Now that was mind-blowing.”
 「……最高の言葉だった。ありがと……その……こんなあたしでよかったら、お前の横にいさせてくれ」=“That was the best thing ...... I've ever heard. Thank you ...... for that. ...... If you're okay with me being like this, let me be by your side.”

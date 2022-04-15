@@ -110,7 +110,7 @@
 「どんな結婚式がしたい？」=“What kind of wedding do you want?”
 「和装でも、洋装でも、キミが隣にいてくれるなら……それでいいぞ」=“I don't care if it's Japanese or Western, as long as you're next to me. ......”
 「賑やかなのがいいなー！　いっぱい呼んで、いっぱい騒ぎたいぞー」=“I want it to be loud!　I want to invite a lot of people and make a lot of noise.”
-「[H]のことが好きだよ」=“I like you.”
+「[H]のことが好きだよ」=“I love [H].”
 「あたしもキミのことが大好きだぞー」=“I love you, too.”
 「なんだか、ムラムラしてきたなぁ……」=“I'm starting to get horny. ......”
 「そう言われたら、あたしまで興奮してきちゃうぞー……」=“That's what I'm saying. I'm getting excited. ......”

@@ -8,7 +8,7 @@
 「Ｈｍｍ～……ニッポンゴって難しいヨネ、ｎｉｃｋｎａｍｅてコト？」=“Hmm~...... Nippongo is a difficult word. Is it a nickname?”
 「そうそう。魚自体は縁側に似てないけど、ネタとしてはちょっとゴツゴツしてるここの床に似てるよね」=“Yes, yes. The fish itself doesn't resemble the edge, but the story resembles the floor here, which is a little rough.”
 「Ｉ Ｓｅｅ　デモ、Ｉｃｅ　ｂａｒはＩｃｅ　ｂａｒなんダネ」=“I see demonstration. Ice bar is ice bar.”
-「そのまんまだね。アイスバーって、[H名]が住んでた国にもあったの？」=“That's exactly what I was thinking. Did they have ice bars in the country where [H名] lived?”
+「そのまんまだね。アイスバーって、[H名]が住んでた国にもあったの？」=“It's just the way it is. Did they have ice cream bars in the country where [H名] lived?”
 「Ｙｅａｈ，アッチだと、アイスは……ンー……ｅｓｓｅｎｔｉａｌ……ヒツヨウ、フカケツ……？」=“Yeah, over there, the ice cream is ......n-......essential......hituyou, sharkets...? ...?”
 「へぇ、そんなに？　なくちゃならないものって感じ？」=“Oh, really?　Like it's indispensable?”
 「Ｓｏ！　ナクチャナラナイモノ。ダカラ、Ｉｃｅ　ｂａｒもイッパイ、あるヨ！」=“So! There's plenty of ice bars, too!”
@@ -16,7 +16,7 @@
 「コドモも、オトナも、Ｉｃｅがダイスキ♪　家の近くマデ、Ｉｃｅのｔｒｕｃｋ来るカラ！」=“Kids and adults alike love Ice." "I'm coming to an Ice truck near my house!”
 「アイスのトラックって、移動販売車ってことか」=“An ice cream truck? You mean a truck that sells ice cream?”
 「Ｙｅｓ♪　ワタシもトモダチとイッパイ食べたヨ♪」=“Yes, I ate a lot of food with my friends.”
-「いいな～。この島にも独特な文化とか風習があるけど、[H名]の育った国の生活も興味あるよ」=“I like it. This island has its own unique culture and customs, but I'm also interested in the life in the country where [H名] grew up.”
+「いいな～。この島にも独特な文化とか風習があるけど、[H名]の育った国の生活も興味あるよ」=“I love it! This island has its own unique culture and customs, but I'm also interested in life in the country where [H名] grew up.”
 「オトナになったら、ふたりで研修旅行スル？」=“When we're grown up, we'll go on a study tour together.”
 「あはは、研修じゃなくて普通の旅行でいいけどね」=“Haha, I don't want a training course, just a regular trip.”
 「ＯＫ♪　アナタが気に入ったら、ｓｗｅｅｔ　ｈｏｍｅを作ってもイイネ♡」=“OK. If you like it, I can make you a sweet home.”

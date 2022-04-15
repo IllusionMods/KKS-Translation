@@ -17,5 +17,5 @@
 「そういうのは気にしなくていいって。それより……」=“You don't have to worry about that. It's more like .......”
 「わかっておるっ！　ずっと……み、見つめてるのじゃ、お主のことだけを……」=“I know!　I've been ...... staring at you all day, and you've been ...... staring at me.”
 「だから、お、お主も……その」=“That's why you, too, ......”
-「うん、[H名]だけを見てるよ。この音楽が止むまでずっと」=“Yes, I'll only look at [H名]. Until this music stops.”
+「うん、[H名]だけを見てるよ。この音楽が止むまでずっと」=“Yes, I'm only looking at [H名]. Until this music stops.”
 「……うむっ」=“...... Mmm.”

@@ -16,9 +16,9 @@
 「休憩……しますか？」=“Do you want to take a break ......?”
 「大丈夫。今のは例え話だよ」=“Don't worry. That was just a metaphor.”
 「そうでしたか。でも本当に目が回ったら、言ってください」=“That's right. But if you're really dizzy, let me know.”
-「分かった。[H名]は優しいね」=“Okay. [H名] is sweet.”
+「分かった。[H名]は優しいね」=“I understand. [H名] is kind.”
 「一緒に踊る人がいなくなったら……困りますから……」=“I don't want ...... to be without someone to dance with.”
 「あれ、そこは素直に大好きだからって言ってくれないの？」=“Hey, why don't you just say that you love it?”
 「……分かりました。言い直します」=“...... I understand. I'll rephrase.”
 「あなたが大好きです。だから、私はあなたに優しくします……」=“I love you. So I'll be nice to you. ......”
-「ありがとう。俺も大好きだから、[H名]には目一杯優しくするよ」=“Thank you. I love you too, and I'll be as nice as I can to [H名].”
+「ありがとう。俺も大好きだから、[H名]には目一杯優しくするよ」=“Thank you. I love you too, so I'll be as nice as I can to [H名].”

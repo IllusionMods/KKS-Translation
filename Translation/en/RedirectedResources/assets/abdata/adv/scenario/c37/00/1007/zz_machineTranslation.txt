@@ -1,4 +1,4 @@
-「当たり前だけど色んな魚がいるねぇ。[H名]はどれが好き？」=“Of course, but there are many kinds of fish. [Which one do you like?”
+「当たり前だけど色んな魚がいるねぇ。[H名]はどれが好き？」=“There are so many different kinds of fish. Which one is [H名]'s favorite?”
 「あの……サンゴの辺りを泳いでいるオレンジ色……可愛いです」=“That ...... orange ...... swimming around the coral is cute.”
 「あぁ、カクレクマノミだね。水族館の人気者だよ」=“Oh, a clownfish. They're popular at the aquarium.”
 「可愛いので、人気になるのは当然ですね」=“She's cute, so it's no wonder she's popular.”

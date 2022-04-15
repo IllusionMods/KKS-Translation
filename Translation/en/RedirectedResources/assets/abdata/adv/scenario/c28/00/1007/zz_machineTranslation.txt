@@ -5,7 +5,7 @@
 「そうだったの？」=“Was that so?”
 「あまり、こういう場所には来ないからのう……」=“I don't get to come to these places very often. ......”
 「例えばなんじゃが、この水槽がパリンって割れたらどこに逃げればよいのじゃ？」=“Well, for example, if this tank cracked open, where would I run to?”
-「ここにいる人間でそんな心配してるの、[H名]だけだと思うよ」=“I think [name] is the only person here who's worried about that.”
+「ここにいる人間でそんな心配してるの、[H名]だけだと思うよ」=“I think [H名] is the only person here who worries that much.”
 「ふと気になったのだから仕方なかろう！」=“I'll eat you up if you're defenseless.”
 「大丈夫だって。もし、そんなことになったら俺か守るから」=“Don't worry. If it comes to that, I'll protect you.”
 「……相手は怒涛の水じゃぞ？」=“...... are you dealing with raging water?”

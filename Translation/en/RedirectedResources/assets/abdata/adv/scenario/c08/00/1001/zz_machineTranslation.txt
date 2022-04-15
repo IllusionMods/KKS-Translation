@@ -9,12 +9,12 @@
 「え！？　だ、大好きって……」=“What?　I mean, I love .......”
 「どうして照れてるの？」=“Why are you embarrassed?”
 「だって、そんな大声で言われたら……」=“Because I didn't think he'd propose to me so straightforwardly. ......”
-「も～、そこは照れずに受け止めなくちゃ。いまの[P名]君は私のお爺ちゃんなんだから」=“Don't be shy, you have to accept it. You're my grandpa now, you know.”
+「も～、そこは照れずに受け止めなくちゃ。いまの[P名]君は私のお爺ちゃんなんだから」=“I had to accept it without embarrassment. You are my grandfather now.”
 「あっ、そうだったね。ごめんごめん」=“Oh, that's right. Sorry, sorry.”
 （そうだよな。今の『好き』って言葉も家族に対するもので……）=(That's right. The words "I love you" now are also for the family. ......
 「それじゃあもう一度いくね」=“Let's do it again.”
-「[P名]君、だぁ～い好き♪」=“I really like [P名].”
+「[P名]君、だぁ～い好き♪」=“[P名], I love you so much!”
 「えっ！？　名前で呼んだら意味が変わっちゃうよ」=“What?　If you call me by my name, it will change my meaning.”
 「えへへ♪　いまのは私がお婆ちゃんになった場合だよ」=“That's what I'd say if I was a grandmother.”
-「歳を取っても[P名]君を名前で呼んで、たくさん甘えちゃうんだから」=“When I'm old, I'll still call you [P名] and spoil you a lot.”
+「歳を取っても[P名]君を名前で呼んで、たくさん甘えちゃうんだから」=“Even though I'm getting older, I still call you by your name and spoil you a lot.”
 「あはは。それなら頑張って長生きしないとね」=“Haha. Well, then you'll have to live long and hard.”

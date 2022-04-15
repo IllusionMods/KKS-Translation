@@ -4,7 +4,7 @@
 「何がでしょうか？」=“What would that be?”
 「もしかして、私の踊り……どこか変でしょうか……？」=“Maybe there's something wrong with my ...... dancing. ......?”
 「いやいや、そっちじゃなくて」=“No, no, no, that's not it.”
-「まさか[H名]の方からダンスに誘ってくるとは思ってなかったからさ」=“I wasn't expecting you to ask me to the dance.”
+「まさか[H名]の方からダンスに誘ってくるとは思ってなかったからさ」=“I didn't expect [H名] to ask me to the dance.”
 「あ……。あぅぅぅ、そ、その……恥ずかしい、です……」=“Oh, ....... Oh, no, that ...... is embarrassing. ......”
 「そんなに恥ずかしがらなくても良いんじゃないかな？」=“You don't have to be so shy about it, do you?”
 「それに、俺はすごく嬉しかったしさ」=“And I'm very happy about it.”
@@ -15,7 +15,7 @@
 「あなたと一緒に踊りたいって思っていたら……気が付いたらお誘いしていて……、」=“When I was thinking about dancing with you, ...... I found myself asking you out, ......”
 「恥ずかしかったけど、頑張ってみました。えへへ」=“I was embarrassed, but I tried my best. Heh.”
 「そ、そうなんだ？　面と向かってそう言われると、さすがに照れるな」=“Oh, really?　I'm embarrassed when you say that to my face.”
-「でも、せっかく[H名]が勇気を出してくれたんだし、俺もちゃんと応えないとね」=“But since [H名] has summoned up the courage, I have to respond in kind.”
+「でも、せっかく[H名]が勇気を出してくれたんだし、俺もちゃんと応えないとね」=“But since [H名] has been so courageous, I have to respond in kind.”
 「応える……ですか？　でも、もう踊って貰ってますけど」=“Responding to ......?　But you're already dancing for me.”
 「うん。だからこうする」=“Yes. That's why I'm doing this.”
 「ひゃぁっ！？　あ、あ、あの、近い、ですっ。密着、してぇ……っ」=“What?　I'm not sure what to do. I want to be close to you. ......”

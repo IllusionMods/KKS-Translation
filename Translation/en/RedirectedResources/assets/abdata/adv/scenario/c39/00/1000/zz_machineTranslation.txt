@@ -7,9 +7,9 @@
 「ちょっと恥ずかしいけど、それも含めて楽しいかな。ほらほら、早く飲も？　なんくるないさー」=“I'm a little embarrassed, but it's all part of the fun. Come on, let's have a drink.　It'll be fine.”
 「あぅ、キミにそう言われちゃったら……自分も覚悟を決めるしかないねぇ……」=“Oh, now that you mention it, ...... I'll have to prepare myself. ......”
 「分かった、もうごちゃごちゃ考えるのはやめる！　えへへ、なんくるないさー！」=“All right, I'll stop messing around.　All right, I'll stop messing around!”
-「そうそう、その方が[H名]らしくて可愛いよ」=“Yeah, that's what makes you pretty.”
+「そうそう、その方が[H名]らしくて可愛いよ」=“Yes, yes, that's more like [H名] and prettier.”
 「はぅっ、やっと心を落ち着けたのに……キミに可愛いとか言われたら……うー、またドキドキが……」=“Haha, I've finally calmed down, but if ...... you say I'm cute, I'll ...... be nervous again.”
-「はは、うーうー言ってる[H名]は可愛いなぁ」=“Haha, he's so cute when he oohs and aahs.”
+「はは、うーうー言ってる[H名]は可愛いなぁ」=“Haha, [H名] is so cute when she ooohs and ahhhs.”
 「うー、可愛いはもうやめてー。ドキドキが収まらなくて、いつになっても飲めなくなっちゃうよー？」=“Oh, stop being so cute. I can't stop my heart from pounding and I'm not going to be able to drink anytime soon.”
 「無理に収めなくてもいいんじゃない？　ドキドキを楽しむのがカップルドリンクなんだから」=“You don't have to force it.　It's a couples' drink. It's supposed to be exciting.”
 「……じゃあ、せめて飲み終わるまで変なこと言うのは禁止ねー？　噴き出してキミの顔にかけても知らないよー？」=“......, at least don't say anything funny until you've finished your drink, okay?　I don't care if I blow up in your face.”

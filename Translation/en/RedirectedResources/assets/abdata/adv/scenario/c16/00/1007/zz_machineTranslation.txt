@@ -7,7 +7,7 @@
 「そんな今更」=“That's too late.”
 「フフッ、だから……きっとそういうこと。私、ちょっと浮かれているんだわ」=“I'm happy to dance with [P名]." "Hmm, so ...... must be that way. I guess I'm a little carried away.”
 「好きな人と一緒に水族館、なんて……少女漫画みたいだもの」=“An aquarium with someone you like is like a ...... girl's manga.”
-「[H名]って少女漫画とか読むんだ？」=“Does [H名] read shoujo manga?”
+「[H名]って少女漫画とか読むんだ？」=“[H名] reads shoujo manga and stuff?”
 「私だって子供だった頃はあったのよ？　今はそういう物語の世界に思いを馳せたりはしないけれどね」=“I was a kid once, you know?　I used to be a kid, you know. I don't think about those stories anymore.”
 「なら、少女漫画を越えていくしかないか……」=“Then we'll have to go beyond the shoujo manga. ......”
 「どんな刺激的な思い出作りを企んでるの？　変なことをするのは禁止よ？」=“What exciting memories are you planning to make?　Don't do anything crazy, okay?”

@@ -1,4 +1,4 @@
-「[H名]の好きなレジャーって何？」=“What is [H名]'s favorite leisure activity?”
+「[H名]の好きなレジャーって何？」=“What's [H名]'s favorite leisure activity?”
 「ボク、そういうの疎くて。キミと色々楽しめたらいいなって思ってるよ」=“I'm not very good at that kind of thing. I hope I can have a lot of fun with you.”
 「この島って遊ぶ場所が沢山あってワクワクするよね」=“There are so many exciting places to play on this island.”
 「うんうん！　楽しそうな体験がいっぱいあるよね、凄く興味があるんだ」=“Mm-hmm!　There are so many fun experiences that I'm really interested in.”
@@ -8,11 +8,11 @@
 「ふふ、キミと一緒にいるときは羽目を外し過ぎないように気を付けてるんだよ」=“Hmm. I try not to get too flustered when I'm with you.”
 「レジャースポットって人が混雑してるけど、そういうのは苦手じゃない？」=“I know that leisure spots are crowded, but aren't you afraid of that kind of thing?”
 「賑やかすぎるところはあまり行かないけど、活気のある所は好きだよ」=“I don't go to places that are too busy, but I like places that are lively.”
-「[H名]はマリンスポーツって興味ある？」=“Are you interested in marine sports?”
+「[H名]はマリンスポーツって興味ある？」=“Is [H名] interested in marine sports?”
 「あるけど、一人だと勇気がでないかも。すぐ実行できる人って凄いよね」=“I have the courage, but I might not have the courage if I'm alone. It's amazing how quickly people can do it.”
 「この島って、普段見かけないような生き物がいるよね」=“There are creatures you don't usually see on this island.”
 「カラフルだったり、面白い形をしてたりするよね。南国感があってボクは好きだよ」=“I love the colorful and interesting shapes. I like them because they have a tropical feel to them.”
-「[H名]は自然豊かな所って好き？」=“Do you like places with a lot of nature?”
+「[H名]は自然豊かな所って好き？」=“Does [H名] like being in a natural setting?”
 「もちろん。空気がおいしいだけで、嬉しくなっちゃうよ」=“Of course. Just the taste of the air makes me happy.”
 「ここはＴＨＥ南国の島って感じで、歩いてるだけでテンションがあがっちゃうね」=“This place feels like a tropical island, and I get excited just walking around.”
 「ふふ、だからキミも情熱的なのかな。ボクは嫌いじゃないよ」=“I guess that's why you're so passionate. I don't mind it.”
@@ -20,7 +20,7 @@
 「太陽と水に恵まれてるもんね、ボクたちも元気いっぱいで研修旅行に臨もうね」=“We're blessed with sunshine and water, and we're going on a study tour with lots of energy.”
 「大自然に囲まれてると、普段は考えないことを考えたりするよね」=“When you're surrounded by nature, you think about things you wouldn't normally think about.”
 「あ、それわかる。普段は勉強とか人間関係のこととか、色々あるもんね」=“I know what you mean. Usually, I have a lot of things to do, like studying and relationships.”
-「この島に来てから星座に興味を持ったんだけど、[H名]は星について考えたことってある？」=“I've been interested in the constellations since I came to this island, have you ever thought about the stars, [H名]?”
+「この島に来てから星座に興味を持ったんだけど、[H名]は星について考えたことってある？」=“I've been interested in the constellations since I came to the island, have you ever thought about the stars?”
 「ボク、天体って結構好きだよ。綺麗だし、宇宙ってだけでロマンを感じるよね」=“I like astronomical objects a lot. It's beautiful and I feel romantic just by looking at the universe.”
 「浜辺を歩くとカニとかヤドカリとか、可愛い生き物がいっぱいいるよね」=“When you walk on the beach, you see crabs, hermit crabs, and all sorts of cute creatures.”
 「お散歩気分で歩くと、素敵な発見がいっぱいあるよね。ボクもよく歩くんだ」=“I think that walking around the city like this is a great way to discover many wonderful things. I walk a lot too.”
@@ -38,9 +38,9 @@
 「全部はまだ飲めてないけど、とっても美味しいよね！　見つけたら買って飲んでるよ」=“I haven't had a chance to drink it all yet, but it's so good!　I buy them when I find them and drink them.”
 「この島のお菓子って食べたことのあるものが多いよね」=“I've eaten many of the sweets on this island before.”
 「あはは、わかるよ。でも不思議とこの島で食べた方がおいしいんだよね」=“Haha, I know what you mean. But strangely enough, the food tastes better here on the island.”
-「この島の料理って[H名]の口に合ってる？」=“Is the food on this island good enough for [H名]'s palate?”
+「この島の料理って[H名]の口に合ってる？」=“Is the island's cuisine suitable for [H名]'s palate?”
 「うん、味付けが独特なものもあるけど、あまり好き嫌いしない方だから何でも美味しく食べてるよ」=“Yes, some of the flavors are unique, but I'm not a picky eater, so I enjoy everything.”
-「[H名]は家族に何か買って帰るの？」=“Does [H名] buy anything for his family to take home?”
+「[H名]は家族に何か買って帰るの？」=“Does [H名] buy anything for her family?”
 「実はいっぱい頼まれちゃってるんだ。帰る日は荷物で両手がいっぱいになっちゃうんじゃないかな」=“I've been asked to do a lot of things," he said. I think my hands will be full with luggage the day I leave.”
 「何に使うかわからないけど、妙に惹かれる名産品ってあるよね」=“I don't know what they're used for, but there are certain specialty items that I find strangely appealing.”
 「ボク、そういうときって思わず調べちゃうんだよね。自分の理解の範疇を超えてるものって興味持っちゃうんだ」=“I tend to do a lot of research when I'm in a situation like that. I get interested in things that are beyond my understanding.”
@@ -48,7 +48,7 @@
 「ボクたちの住んでる所とは違う文化を感じるよね。説明文があるとつい読み込んじゃうんだ」=“I feel the culture is different from where we live. When there is a description, I read it.”
 「いきなりだけど、俺とのエッチに満足してくれてる？」=“I know this is out of the blue, but are you satisfied with the sex you're having with me?”
 「もう、本当にいきなりなんだから……満足度って……ぼ、ボクの態度を見てたら、わからない、かな……？」=“I'm really just out of the blue. ...... satisfaction is ...... something you wouldn't know if you saw my attitude. ......?”
-「その……変わったエッチをやってみたいんだけど、[H名]は興味ある？」=“I'd like to try that ...... different kind of sex. Are you interested in [H名]?”
+「その……変わったエッチをやってみたいんだけど、[H名]は興味ある？」=“I'd like to try that ... unusual sex, is [H名] interested?”
 「えっと……どのくらい変わってるのかな？　その、内容によっては、興味あるかも……」=“Let's see... ...... How strange is that?　Well, you know, depending on what it is, I might be interested in .......”
 「この前のエッチ、すごく盛り上がったよね」=“The last time we had sex, it was a lot of fun.”
 「そういう話は……せめて、エッチの最中にしてほしいな……気持ちいいと、ボク、口が軽くなると思うから……」=“I wish you would talk about that ...... at least during sex, because I think my mouth gets lighter when I'm feeling ...... good.”

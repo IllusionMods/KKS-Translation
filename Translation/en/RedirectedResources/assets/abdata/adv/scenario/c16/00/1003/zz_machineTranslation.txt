@@ -7,7 +7,7 @@
 「それはそうでしょう。目の前で相手の頬が引きつったりしたら一生のトラウマよ？」=“I'm sure it is. If you see their cheeks twitch in front of you, you'll be traumatized for life.”
 「そこまで失礼な人、そうそういないよ」=“Not many people would be that rude.”
 「さっきも言った通り、考え過ぎているのは自覚してる」=“Like I said, I'm aware I'm overthinking things.”
-（……[H名]の場合、本当にそうなんだろうな）=(......[H名], you really are, aren't you?
+（……[H名]の場合、本当にそうなんだろうな）=“(... I guess that's really true in [H名]'s case)”
 「……見えてきたわ。他の人も、あれこれ思い悩んだ挙げ句、こういうお菓子とか無難なところに着地するのね」=“I'm starting to see ....... I can see that other people, after all their troubles, have landed on a safe place like this, with sweets.”
 「まあ、もらって困るものではないよ」=“Well, it's not a bad gift.”
 「そう。アナタがそう言うのなら、これを買うことにするわ」=“Yeah. Well, if that's what you want, then I'm buying this.”

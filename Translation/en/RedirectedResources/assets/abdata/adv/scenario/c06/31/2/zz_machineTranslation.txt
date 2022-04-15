@@ -3,7 +3,7 @@
 「うん、そうだね……もう少しここで一緒にいてもいいかな？」=“Yeah, yeah. ...... Can I stay here with you a little longer?”
 「はい、貴方が望んでくださるなら、否やはございません。心行くまでここにいましょう」=“Yes, if that's what you want, you can have it. I will stay here until my heart's content.”
 （よし、いい雰囲気だ。告白するぞ……）=(Okay, I'm in a good mood. I'm going to confess. ......
-「あ、[H姓]さん、いきなりこんなこと言うとびっくりされるかもしれないけど……」=“Oh, [Last Name], you might be surprised to hear this out of the blue, but ......”
+「あ、[H姓]さん、いきなりこんなこと言うとびっくりされるかもしれないけど……」=“Oh, [H姓], you may be surprised to hear me say this out of the blue, but ...”
 「あら、なんでしょう。貴方に言われて嫌なことはございません。どうぞ、遠慮なく仰ってください」=“Oh, I don't know. There's nothing I don't like to hear you say. Please, don't hesitate to say so.”
 「うん、きみのことが好きなんだ。俺と付き合ってほしい」=“Yes, I like you. I want you to go out with me.”
 「それは……そうですか。私のことを、好いてくださっていたのですね」=“That's ...... true. You like me, don't you?”
@@ -32,7 +32,7 @@
 「……なんだか、ドキッとするね」=“...... You're making me nervous.”
 「よい響きです。もし貴方が受け入れてくだされば実現いたしますよ」=“Sounds good. If you're open to it, we'll make it happen.”
 「きみのこと、重いなんて思わない。ううん……」=“I don't think you're heavy. No. ......”
-「そういうところも[H姓]さんのいいところだと思う。是非俺と結婚を前提にして付き合ってほしい」=“I think that's one of the things I like about [Last Name]. I'd like you to marry me.”
+「そういうところも[H姓]さんのいいところだと思う。是非俺と結婚を前提にして付き合ってほしい」=“I think that's one of the best things about you, [H姓]. I would love for you to go out with me on the premise of marriage.”
 「はい。私も貴方のことを憎からず想っておりました」=“Yes. I've always loved you, too.”
 「にく？」=“Garlic?”
 「うふふ、心からお慕い申し上げておりました。どうぞ私の身も心も貴方の色に染めていただきとうございます」=“I've adored you so much. I hope you will dye my body and soul with your colors.”
@@ -42,7 +42,7 @@
 「では不躾ではございますが、早速お願いしたいことがございます」=“Now, if you don't mind, I'd like to ask you something.”
 「お、なんでも言って」=“Oh, whatever you say.”
 「貴方さえよろしければ、私の事は下の名前で呼んでくださらないでしょうか」=“If it's okay with you, you can call me by my first name.”
-「下の名前って、[H名]ってこと？」=“What do you mean, "under"?”
+「下の名前って、[H名]ってこと？」=“By first name, do you mean [H名]?”
 「はい……嗚呼、貴方の口から私の名前が奏される日が来るなんて、こんな幸福なことは類を見ません……」=“Yes ...... ah, I have never been so happy to hear my name played by your mouth .......”
-「ちょっと照れるけど、[H名]が喜んでくれるなら、これからは下の名前で呼ばせてもらうよ」=“It's a little embarrassing, but if it makes you happy, I'll call you by your first name from now on.”
+「ちょっと照れるけど、[H名]が喜んでくれるなら、これからは下の名前で呼ばせてもらうよ」=“I'm a little embarrassed, but if it makes [H名] happy, I'll call her by her first name from now on.”
 「はい。人生を共にする恋人同士として、何卒よろしくお願いいたします……」=“Yes. As lovers for life, I look forward to working with you. ......”

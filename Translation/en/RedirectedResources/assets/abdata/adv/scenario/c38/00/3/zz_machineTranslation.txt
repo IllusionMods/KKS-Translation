@@ -1,6 +1,6 @@
 「好きって、その……恋愛の意味でって事？」=“Do you mean you like me in the ...... romantic sense?”
 「はい、そうです……できれば、その……私とお付き合いしてくれませんか？」=“Yes, I am. ...... If you could, would you be willing to go out with me?”
-「そんな風に思っていてくれたなんて嬉しいよ。俺も[H名]の事、好きだから」=“I'm glad you feel that way about me. I like you too.”
+「そんな風に思っていてくれたなんて嬉しいよ。俺も[H名]の事、好きだから」=“I'm glad you feel that way. I like you too, [H名].”
 「そうだったんですね……私も、嬉しいです」=“I'm glad to hear that. ...... I'm glad to hear that, too.”
 「俺たち相思相愛だったんだよ……だから、恋人として付き合おう」=“We were meant to be together, ......, so let's be lovers.”
 「はい、よろしくお願いします」=“Yes, thank you very much.”

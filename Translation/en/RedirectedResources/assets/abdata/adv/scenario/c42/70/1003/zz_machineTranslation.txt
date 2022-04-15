@@ -1,7 +1,7 @@
 「ちょっとお土産を見てみない？」=“Let's take a look at some souvenirs. - Let's take a look at some souvenirs.”
 「見てみて、ちんすこうだよー。定番のお菓子と言ったら絶対にこれだよねっ」=“Look, it's Chinsuko! If I say it's a classic snack, it's definitely this one!”
 「お土産で買うならこれ！　ってくらい、定番中の定番だね」=“This is the one to buy as a souvenir!　It's such a classic.”
-「[H名]はそれを買うの？」=“Is [H名] buying it?”
+「[H名]はそれを買うの？」=“Does [H名] buy it?”
 「うーん、どうしよう？　迷ってるんだよねー」=“'Hmmm, what should I do?　I'm not sure what to do.”
 「ほら、オーソドックスな味は当然だけど、色んな味が売ってるの」=“You see, they sell all sorts of flavors, not just the orthodox ones, of course.”
 「へぇ……結構な変わり種な味も売ってるんだねぇ」=“Wow, they sell some pretty strange flavors at .......”
@@ -11,4 +11,4 @@
 「ちょっと想像がつかないね……。ここは冒険せずに、オーソドックスな味だけにしてみたらどうかな？」=“'It's a little hard to imagine. ...... Why don't we not be adventurous here and just stick to the orthodox flavors?”
 「うーん……もちろんそれが無難だけど、それだとなんか負けな気がする……」=“'Ummm...... of course that's safe, but I feel like that's kind of a lose-lose......'”
 「よし決めた！　お土産用じゃなくて、自分で食べるように１つ買ってみることにする！」=“I've made up my mind!　I'll try to buy one to eat myself, not for souvenirs!”
-「は、はは……チャレンジャーだね、[H名]は……」=“Ha-ha-ha ...... you're a challenger, [H名] is ......”
+「は、はは……チャレンジャーだね、[H名]は……」=“Ha, ha ... challenger, [H名] is ...”

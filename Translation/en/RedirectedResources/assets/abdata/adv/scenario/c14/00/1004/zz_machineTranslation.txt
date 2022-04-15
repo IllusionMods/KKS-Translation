@@ -7,11 +7,11 @@
 「よーよー、マブい女連れてんじゃねーかって絡まれる……みたいなやつ？」=“Hey, you're like the ...... guy who's always asking me if I'm with a bad girl.”
 「それのどこが青くせぇドラマ……」=“What's with all the blue drama ......?”
 「って、バカかよ！　やめろよマブいとか」=“You're an idiot!　Stop it, it's not funny.”
-「[H名]はマブいよ！　俺が不良だったら間違いなくちょっかい出したくなるね」=“[H名] is a jerk!　If I were a delinquent, I'd definitely want to mess with him.”
+「[H名]はマブいよ！　俺が不良だったら間違いなくちょっかい出したくなるね」=“[H名] is a mule!　If I were a punk, I'd definitely want to mess with you.”
 「バカ野郎！　私がそんなクソみたいな連中にホイホイついていくと思ってんのか」=“Asshole!　Do you really think I'm going to go along with that kind of shit?”
 「私は決めた男にずっとついていくタイプの、お、女だ……」=“I'm the kind of woman who follows a man all the way to the end of his days. ......”
 「って、黙ってんじゃねぇよ！　引いてんのか」=“Don't make me say this. - Don't make me say this!　Are you pulling my leg?”
-「まさか、逆だよ。[H名]がそんなに俺のこと想ってくれてるなんて嬉しいなぁって思っただけ」=“No way, it's the other way around. I just thought it would be nice to know that [your name] cares about me that much.”
+「まさか、逆だよ。[H名]がそんなに俺のこと想ってくれてるなんて嬉しいなぁって思っただけ」=“No way. It's the other way around. I just thought it was nice that [H名] thought of me that much.”
 「……当たり前のこといちいち言うな」=“...... Don't tell me what to do.”
 「ったく、暑くなっちまっただろ！　もうちょっと歩こうぜ」=“Goddamn it, it's getting hot in here!　Let's go for a walk.”
 「あはは。もちろん、どこまででも付き合うよ」=“Haha. Of course I'll go with you as far as I can.”

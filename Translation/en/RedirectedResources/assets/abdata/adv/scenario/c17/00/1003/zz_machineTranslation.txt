@@ -1,4 +1,4 @@
-「ねぇ、[H名]さん。ちょっとお土産を見ていかない？」=“Hey, [H名]. Would you like to see some souvenirs?”
+「ねぇ、[H名]さん。ちょっとお土産を見ていかない？」=“Hey, [H名]. Do you want to check out some souvenirs?”
 「結構可愛いし、なかなか良いと思うんだけれど、どう思う？」=“It's pretty cute. I think it's pretty good. What do you think?”
 「キーホルダーだね。これはシーサーかな？」=“You like the key chain? Is that a shisa?”
 「ええ。このとぼけた顔があなたそっくりだわ」=“Yes. Your face is just like yours.”

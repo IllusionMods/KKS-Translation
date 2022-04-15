@@ -10,7 +10,7 @@
 「……っ。お、おい、そんなに見つめるな。やめろっ」=“It's ....... Hey, hey, don't stare so hard. Stop it.”
 「じーー……」=“Jeez. ......”
 「うぐっ、だからやめろと言ってるだろ！」=“Ugh, I told you not to do that!”
-「ねぇ、[H名]。なんか顔が赤くなってきてない？」=“Hey, [H名]. Are you getting red in the face?”
+「ねぇ、[H名]。なんか顔が赤くなってきてない？」=“Hey, [H名]. Isn't your face getting red somehow?”
 「なっ！？」=“What?”
 「それに少し汗を掻いているようにも見えるけど……これ、なんだろうね？」=“And you look like you're sweating a little. ...... What is this?”
 「こ、これは少しだけ暑いからで――」=“It's just a little hot in here.”

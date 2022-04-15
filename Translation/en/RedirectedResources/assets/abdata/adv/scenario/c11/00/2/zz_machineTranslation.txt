@@ -23,7 +23,7 @@
 「……わ、わかった。ちょっと待って。もう一度、心の準備をしなおすから」=“...... Okay, okay. Wait a minute. I'm going to get myself ready again.”
 「そんなにすごいこと言うつもりなの？　なんだか不安になってきちゃった……」=“Are you going to say something so amazing?　I'm starting to get worried. ......”
 「すー……はー…………じゃ、じゃあ言うよ……」=“Soo...... ha............, then I'll say .......”
-「お、俺、[H名]が好きなんだ！」=“Oh, I like [H名]!”
+「お、俺、[H名]が好きなんだ！」=“Oh, I love [H名]!”
 「ええ、それで？」=“Yeah, and?”
 「へ？　あ、あの……ええっと……いや、その……好きって気持ちを伝えたかったんだけど……」=“What?　Oh, um, ...... well, ...... no, I wanted to tell you that I ...... like you, but... ...”
 「……えーっと……そういえば、言葉に出して気持ちは伝えてなかったかしら……？」=“...... Well, ......, I don't know if I've ever expressed my feelings in words ......?”

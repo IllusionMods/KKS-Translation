@@ -1,13 +1,13 @@
 「……突然なんだけどさ、俺たち、愛称で呼び合ってみない？」=“...... I know this is sudden, but why don't we call each other by our nicknames?”
 「愛称？　それって、仲のいい友達同士とか、こ、恋人同士で呼び合うやつ……よね？」=“A nickname?　That's what friends and lovers call each other. ......”
-「そうそう。それで、俺のことは[Pあだ名]って呼んでほしいんだけど……」=“Yeah, yeah. So, I'd like you to call me [Pあだ名]. ......”
+「そうそう。それで、俺のことは[Pあだ名]って呼んでほしいんだけど……」=“Yes, yes, yes. So, I'd like you to call me [Pあだ名]...”
 「はぁ！？　何それ、バッカじゃないの？」=“What?　What the fuck is wrong with you?”
-「ダメかな？　俺も[Hあだ名]って呼ぶからさ」=“No?　I call him [nickname] too.”
+「ダメかな？　俺も[Hあだ名]って呼ぶからさ」=“No?　I'll call you [Hあだ名], too.”
 「……！　な、何言ってんのよ、バカ！　あんぽんたん！　おたんこなす！」=“......!　What are you talking about, you idiot!　I'm sorry.　Otakonasu!”
 「ちょ、それじゃあ悪口だって」=“Wait, that's a swear word.”
 「マニアック星人！　おしりプリプリ左衛門！」=“Maniac aliens!　Maniac aliens! - Butt-fucking lefty!”
-「えっと、あと、あと…………[Pあだ名]」=“Um, and also, and also ............[Pあだ名].”
-「……は、ははっ。素直じゃないなぁ、[Hあだ名]は」=“...... Ha, ha, ha. You're so naive, [nickname].”
+「えっと、あと、あと…………[Pあだ名]」=“Well, and, and, and ... [Pあだ名].”
+「……は、ははっ。素直じゃないなぁ、[Hあだ名]は」=“'... ha, ha. You're not being honest, [Hあだ名].”
 「う……うるさいうるさ～いっ！　もう二度と呼ばないんだから、バカっ！」=“I'm not calling you again.　I'm never calling you again, you idiot!”
 「けっこう気に入ったんだけど……そんなに嫌がるなら、もう無理にお願いしないよ」=“I liked it a lot, but ...... if you don't like it that much, I won't ask you to do it anymore.”
 「えっ……！　あ……いや、恥ずかしいけど、そこまで嫌ってわけじゃ、なくて……その……」=“What? ......!　Oh, ...... no, I'm embarrassed, but it's not that I don't like you that much, it's just that .........”

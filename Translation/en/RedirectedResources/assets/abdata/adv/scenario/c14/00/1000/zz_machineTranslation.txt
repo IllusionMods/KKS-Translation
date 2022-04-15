@@ -15,6 +15,6 @@
 「こういうのもこれからはキャラにしていこうよ」=“I thought I would be embarrassed and not like this.”
 「……覚悟決めろってことか。ま、まあ、確かに、ビビってんのも私のキャラじゃねぇか」=“...... You mean I should be prepared? I'm not sure what to make of it, but I'm sure it's a good idea.”
 「上等だ、カップルドリンクくらい軽くシメてやるよ」=“I think I did a good job. I had a lot of fun.”
-「可愛いなぁ、[H名]は」=“That's cute, [H名].”
+「可愛いなぁ、[H名]は」=“[H名] is so cute.”
 「バカにすんなって言ってんだろ！」=“I said don't be an asshole!”
 「あはは」=“Ha-ha.”

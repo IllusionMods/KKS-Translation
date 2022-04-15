@@ -4,4 +4,4 @@
 「わたくしも、あなたの事が気になっていましたの。これから、よろしくお願いいたしますわね」=“I've been thinking about you too. I'm looking forward to working with you.”
 「やった！　こちらこそよろしくね」=“Yay!　Nice to meet you, too.”
 「でも油断はなさらないように。わたくしに相応しくないと思ったら、即刻関係を解消いたしますわ」=“But don't let your guard down. If I find you unworthy of me, I will terminate our relationship immediately.”
-「うん、[H名]さんに相応しい男になれるように頑張るよ」=“Yeah, I'll try my best to be a man worthy of [H名].”
+「うん、[H名]さんに相応しい男になれるように頑張るよ」=“Yes, I will do my best to be a man worthy of you, [H名].”

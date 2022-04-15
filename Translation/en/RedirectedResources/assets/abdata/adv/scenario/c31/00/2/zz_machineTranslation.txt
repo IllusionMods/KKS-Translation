@@ -1,4 +1,4 @@
-（[H名]に告白をしよう……）=I'm going to confess my feelings to [H名]. ......
+（[H名]に告白をしよう……）=“(Confess to [H名] at ...)”
 （そう考えたのは良いけど、どう切り出したら良いんだろうか？）=(It's good that you thought of that, but how do I get it out?
 「……さっきから私をちらちら見ているが、どうかしたのか？」=“...... You've been glancing at me for a while now, what's wrong?”
 「えっ！？　あ、いやっ、別になんでもないんだけど……」=“What?　Oh, no, it's nothing. It's .......”
@@ -21,7 +21,7 @@
 「はぁぁぁ！？」=“Huh?”
 「お、おい、待て。なんだ、その勝負は！？」=“Oh, hey, wait. What the hell is that game?”
 「というか、こ、告白って、おまえ、なにを言って――」=“I mean, what are you talking about, confessing?”
-「[H名]、好きだ！　俺と付き合って欲しい！！」=“[H名], I like you!　I want you to go out with me!”
+「[H名]、好きだ！　俺と付き合って欲しい！！」=“[H名], I love you!　I want you to go out with me!”
 「んなぁっ！？」=“What the fuck?”
 「す、好きって、おまえ、それ、なにを……っ」=“I like you. What are you doing with that ......?”
 「よし、俺は告白したよ。次はそっちの番だからね」=“Okay, I confess. Now it's your turn, okay?”
@@ -40,4 +40,4 @@
 「え？　ほ、本当に……？」=“What?　Are you sure it's ......?”
 「……っ。に、二度は言わないからな」=“....... I'm not gonna ask you again.”
 「あと、この勝負は私の勝ちだ！　そういうことでいいなっ」=“Also, I win this game!　I'll take that as a yes.”
-「もちろんだよ！　[H名]、これからは恋人としてよろしく！」=“Of course!　[H名], let's be lovers from now on!”
+「もちろんだよ！　[H名]、これからは恋人としてよろしく！」=“Of course!　[H名], please be my lover from now on!”

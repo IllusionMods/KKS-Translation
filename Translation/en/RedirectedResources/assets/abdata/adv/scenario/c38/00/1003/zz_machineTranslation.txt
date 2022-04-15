@@ -2,7 +2,7 @@
 「ふふっ、とても可愛いキーホルダーを見つけてしまいました。どうでしょうか？」=“I found a very cute key chain. What do you think?”
 「お、いいね。如何にも南国って感じがする」=“It's nice. It's got a very tropical feel to it.”
 「はい、説明によると魔除けの効果もあるらしいです。でも……その割に愛嬌のあるお顔ですよね」=“Yes, according to the explanation, it also has the effect of warding off evil. But ...... you have a charming face, don't you?”
-「あはは、[H名]ってこういう感じが好きなんだ？　意外かも」=“Haha, [H名] likes it like this?　That's surprising.”
+「あはは、[H名]ってこういう感じが好きなんだ？　意外かも」=“I'm sorry, [H名] likes this kind of thing?　Maybe I didn't expect that.”
 「え……そうでしょうか？」=“Yeah, ...... are you?”
 「うん、こういうのにはあんまり興味ないのかと思ってた」=“Yeah, I thought you didn't care much for this kind of thing.”
 「そんなことないですよ。可愛いものは好きですし、魔除けなんかにも興味があります」=“That's not true. I like pretty things, and I'm interested in charms.”
@@ -10,7 +10,7 @@
 「だよね。ということは、そのキーホルダーの顔がそんなに気に入ったってこと？」=“I know. Does that mean you like the face on the key chain that much?”
 「ふふっ、違いますよ。貴方と一緒だから、ついつい素が出てしまったんです」=“No, you're not. I'm with you, so I'm just being honest.”
 「これも貴方との思い出になるのかなって思ったら……それだけで嬉しくて……って、浮かれてるみたいでちょっと恥ずかしいですね」=“I'm just happy ...... that this is going to be a memory with you, and I'm a little embarrassed ...... that I seem to be getting carried away.”
-「ううん、そう思ってもらえて嬉しい。俺も[H名]との思い出は全部大切だよ」=“No, I'm glad you think so. I cherish all the memories I have with [H名].”
+「ううん、そう思ってもらえて嬉しい。俺も[H名]との思い出は全部大切だよ」=“No, I'm glad you feel that way. I cherish all the memories I have of [H名], too.”
 「そうだ。せっかくだから、ここはお揃いのキーホルダーを買おう。どうかな？」=“Yes. Since we're here, let's buy matching key chains. What do you think?”
 「はいっ。ふふっ、すごく嬉しいです。顔がにやけちゃいそう……」=“Yes. I'm so happy. My face is all smiley. ......”
-（ちょっとお堅いイメージがあったけど……こういう[H名]も新鮮で可愛いよな）=(I had an image of you being a little uptight, but ...... this kind of [H名] is fresh and cute too.
+（ちょっとお堅いイメージがあったけど……こういう[H名]も新鮮で可愛いよな）=“(I had an image of her being a bit uptight, but ... this kind of [H名] is fresh and cute too)”

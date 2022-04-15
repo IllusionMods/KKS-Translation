@@ -1,4 +1,4 @@
-「[H名]は、この鐘の噂は知ってる？」=“Do you know what this bell is rumored to be?”
+「[H名]は、この鐘の噂は知ってる？」=“Does [H名] know about the rumor about the bell?”
 「もちろんだよー。私だって女の子だし、ちゃーんと気になる場所はチェック済みだからねー」=“Of course! I'm a girl, too, and I've already checked out the places that interest me.”
 「この鐘を鳴らした２人は、必ず結ばれる……。縁結びの鐘なんだよね」=“Two people who ring this bell will surely be united. ...... It's a matchmaking bell.”
 「そうそう。本当かどうかはわからないけど、ロマンチックな言い伝えだよね」=“Yes, yes. I don't know if it's true, but it's a romantic saying.”
@@ -16,4 +16,4 @@
 「そうだね。じゃあ、鳴らしてみようか？」=“I agree. Shall I ring then?”
 「うん。それじゃあ……せーのっ」=“I'm sorry, I'm not sure I'll be able to do that. Okay, then. ......”
 「……えへへ、これでもっともっと仲良くなれるね？」=“...... hehehe, now we can get to know each other even better, huh?”
-「そうだね。これからもよろしく、[H名]」=“I agree. Keep up the good work, [H名].”
+「そうだね。これからもよろしく、[H名]」=“Yes, it is. Keep up the good work, [H名].”

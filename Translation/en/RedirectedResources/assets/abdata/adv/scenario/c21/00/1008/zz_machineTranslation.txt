@@ -9,14 +9,14 @@
 「俺たちがおじいちゃんとおばあちゃんになったときに話し合えるね」=“We can talk about this when we're grandparents.”
 「……！　あはは、結婚もまだなのに……でも、そうなったらもっと嬉しい……」=“......!　Haha, we haven't even gotten married yet. ...... But I'd be more than happy if we did. ......”
 「歌の歌詞みたいだけど、私がおばあちゃんになっても、キミに好きだって言われるような女の子でいたいな」=“It's like the lyrics to the song, I want to be the girl you tell you love when I'm a grandmother.”
-「[H名]だったらきっと可愛いおばあちゃんになるよ」=“I'm sure [name] will make a lovely grandmother.”
+「[H名]だったらきっと可愛いおばあちゃんになるよ」=“If you were [H名], I bet you'd make a lovely grandmother.”
 「えへへ、キミもきっと格好いいおじいちゃんになるよ……ううん、私がする。してあげたい……しても、いいかな？」=“Heh, you'll make a great grandpa. ...... No, I'll do it. I want to do it. ...... Can I do it?”
 「もちろん。というか照れちゃって言えなかったけど、俺も同じこと思ったよ」=“Of course. I was too shy to say it, but I thought the same thing.”
 「言ってほしい……ってお願いしたら、言ってくれる？」=“If I asked you to say ......, would you say it?”
 「あはは、照れるけど……やっぱり気持ちは伝えないとね」=“Haha, it's embarrassing, but ...... you have to tell people how you feel.”
 「うんっ、聞かせて……」=“Yeah, let me hear it. ......”
-「俺がおじいちゃんになっても[H名]に好きだって言われるような男でいる。それから――」=“I'll be the kind of guy that [H名] likes even when I'm a grandpa. And then--”
-「俺が[H名]を可愛いおばあちゃんにする。これからずっと付き合って、結婚して、家庭を築いたりして、どんどん素敵な人にする」=“I'm going to make [H名] a lovely grandmother. We're going to be together for a long time, and we're going to get married, and we're going to start a family, and I'm going to make you a better and better person.”
+「俺がおじいちゃんになっても[H名]に好きだって言われるような男でいる。それから――」=“I'll be the kind of guy that [H名] will tell me she likes when I'm a grandpa. And then--”
+「俺が[H名]を可愛いおばあちゃんにする。これからずっと付き合って、結婚して、家庭を築いたりして、どんどん素敵な人にする」=“I will make [H名] a lovely grandmother. We'll keep dating, getting married, raising a family, etc., and I'll make her more and more wonderful.”
 「してもいいかな？」=“Do you mind if I do?”
 「うんっ！　してください！　私の一生がそんな風になったら素敵だから、してほしい……」=“Yes!　Please do!　It would be wonderful if my whole life was like that, so please do. ......”
 「私が可愛いおばあちゃんになった姿を想像していいのはキミだけだよ……ううん」=“You're the only one who can imagine me as a cute grandma. ......”

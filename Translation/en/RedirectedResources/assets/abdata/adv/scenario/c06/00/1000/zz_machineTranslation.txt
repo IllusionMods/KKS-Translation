@@ -14,5 +14,5 @@
 「申し訳ございません。貴方がどりんくを飲むお顔があまりにも魅力的だったので、つい……」=“I'm sorry. The look on your face as you drank the dorinku was so attractive that I couldn't help but ......”
 「いや、謝ることはないけど……ちょっと照れるな」=“No, there's nothing to apologize for, but ...... it's a little embarrassing.”
 「ですが、供していただいた飲み物をないがしろにするわけには参りません。次こそしっかりと飲ませていただきます」=“However, I will not neglect the drinks you have offered me. Next time, I will make sure I drink it.”
-「さっきよりも情熱的に[H名]のことを見つめちゃったりして」=“I'm staring at [H名] more passionately than I have in the past.”
+「さっきよりも情熱的に[H名]のことを見つめちゃったりして」=“I found myself staring at [H名] with even more passion than before.”
 「まあ、うふふ。どんなものかわかったからにはあとは極めるのみ、私も情熱的に見つめ返しつつ味あわせていただきますね」=“Oh, well. I'm not sure I can do it as nicely as that. Well, now that you know what it's like, all you have to do is master it, and I'll be staring back at you passionately while you taste it.”

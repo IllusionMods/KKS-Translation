@@ -8,7 +8,7 @@
 「何か引っかかるの？　めっちゃ高額とか」=“What's the catch?　Like, really expensive?”
 「そういわけでなくてな……その、なんじゃ……」=“That's not what I meant. ...... What's ...... that?”
 「……わしにこういうハイカラなものは似合わないかもしれぬ、と思っての」=“...... I'm not sure I'm cut out for this kind of high-fashion stuff.”
-「なんだ、そんなこと？　[H名]は可愛いから何を着たって似合うよ」=“What's that?　[You're a pretty girl. You'll look good in anything.”
+「なんだ、そんなこと？　[H名]は可愛いから何を着たって似合うよ」=“What, you mean like that?　[H名] is pretty and looks good in whatever she wears.”
 「かわっ、お、お主……！」=“Oh, my God, you're ......!”
 「そう思ってなかったらお付き合いしてないから」=“If I didn't think so, I wouldn't be in a relationship with you.”
 「そうかもしれぬが……」=“Maybe so, but ......”

@@ -1,6 +1,6 @@
 「キャンプファイヤーを囲んでフォークダンスか……折角だから二人で参加しない？」=“Folk dancing around a campfire. ...... Why don't you two join us?”
 「ちょっと恥ずかしいけど、キミのお誘いなら断れないねー。いいよ、一緒に踊ろう」=“I'm a little embarrassed, but I can't say no to your invitation. I'll dance with you.”
-「[H名]、リラックスだよ。なるべくリードするようにするから」=“Relax, [H名]. I'll try to lead as much as I can.”
+「[H名]、リラックスだよ。なるべくリードするようにするから」=“[H名], relax. I'll try to lead as much as possible.”
 「リラックスは、ちょっと難しいさー。だって、キミが凄く近くて……周りにも、いっぱい人がいるのに……」=“Relaxing is a little difficult. It's a little hard to relax when you're so close to ...... and there's so many people around you.”
 「別に変なことしてるわけじゃないんだから、周りは気にしなくて大丈夫だよ」=“It's not like we're doing anything weird, so you don't have to worry about it.”
 「そうは言っても……みんなはこんなに密着して踊って、恥ずかしくないのかねー？」=“Even so, ......, aren't you embarrassed to be dancing so closely together?”
@@ -11,7 +11,7 @@
 「おぉ、動きが急に良くなったね。今度は俺が足を引っ張らないようにしないと……」=“Oh, you're moving a lot better now. Now I've got to make sure I don't slow you down. ......”
 「それは無いから大丈夫よー。自分が合わせるし、これは競技じゃなくて楽しむための踊りだからねー」=“I don't think so. It's okay. I'll adapt and this is not a competition, it's a dance for fun.”
 「そうだった。変に意識してたのは俺の方だったのかも……」=“That's right. Maybe I'm the one who was being weird about it. ......”
-「[H名]は、故郷でなんか踊りとかやってたの？」=“Did [name] do any dancing back home?”
+「[H名]は、故郷でなんか踊りとかやってたの？」=“Did [H名] do any kind of dancing back home?”
 「特別習ったことは無いけど、みんな陽気な人達だったからねー。身体が勝手に動く感じはあったよー」=“I didn't learn anything special, but they were all such cheerful people. I could feel my body moving on its own.”
 「はは、それならフォークダンスより、元気な踊りの方が似合いそうだね」=“Haha, I think a vigorous dance would be more appropriate than a folk dance.”
 「一人で違う踊りはしないよー？　自分は目立ちたいわけじゃなくて、キミと踊りたかっただけだから」=“I don't do different dances by myself.　I don't want to show off, I just want to dance with you.”

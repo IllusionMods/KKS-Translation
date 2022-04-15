@@ -1,5 +1,5 @@
 「むむむむ……」=“Mmmm......”
-「ねぇ、[H名]。水槽と睨めっこしてどうしたの？」=“Hey, [H名]. What are you doing staring at the fish tank?”
+「ねぇ、[H名]。水槽と睨めっこしてどうしたの？」=“Hey, [H名], he said. What's wrong with you staring at the fish tank?”
 「……魚は、どうしてこんなに無表情な顔をしているんだろうな？」=“Why do ...... fish have such expressionless faces?”
 「さっきからこっちを睨んでいるような気がして、負けじと睨み返しているところだ」=“I've been feeling like you've been staring at me for a while now, so I'm staring back.”
 「なにも魚に対して負けん気を発揮しなくてもいいと思うんだけど……」=“I don't think you have to be so competitive with the fish. ......”
@@ -9,7 +9,7 @@
 「あっ、魚があっちにいっちゃった……」=“Oh, the fish went that way. ......”
 「よし、私の勝ちだ」=“Okay, I win.”
 「どうだ、見ただろ？　フフッ、魚なんて物の数じゃないな」=“Did you see that?　Huh, fish don't count.”
-「ははっ。そうやってはしゃぐ[H名]は可愛いね」=“Hahaha. Haha. [H名] is cute when she gets excited like that.”
+「ははっ。そうやってはしゃぐ[H名]は可愛いね」=“Haha. [H名] is so cute when she talks like that.”
 「か、かわいいだと……？」=“You think I'm cute. ......?”
 「うん。どれだけ見てても飽きない気がするよ」=“Yeah. I don't think I'll ever get tired of looking at it.”
 「っ……こっちを見るな」=“...... Don't look at me.”

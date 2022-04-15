@@ -1,4 +1,4 @@
-「すごいなぁ……。[H名]さん、流れ星があんなに見えるよ」=“It's amazing ....... [H名], I can see all those shooting stars.”
+「すごいなぁ……。[H名]さん、流れ星があんなに見えるよ」=“I'm amazed... [H名], I can see shooting stars like that.”
 「ええ、流石に圧巻ね……」=“Yeah, that's pretty impressive. ......”
 「これはいつまでも見ていたいと思わされるような光景だわ」=“This is the kind of scene that makes you want to look at it forever.”
 「うん。本当にすごい」=“Yeah. It's really amazing.”
@@ -9,14 +9,14 @@
 「そうだ、試しに貴方が願いごとをしてみなさいよ」=“Yes, why don't you try making a wish?”
 「俺が？　別にいいけど……」=“You like me?　I don't care. ......”
 「じゃあ、いくよっ」=“Okay, here we go.”
-「[H名]さんと仲良くなれますように、[H名]さんとなか――ぶべっ！」=“I want to be friends with [name], I want to be friends with [name].”
+「[H名]さんと仲良くなれますように、[H名]さんとなか――ぶべっ！」=“May you and [H名] get along well, [H名]-san naka--bubbe!”
 「し、舌、かんだ……」=“My tongue is in my mouth. ......”
 「プッ……ずいぶんとマヌケね。まさか舌を噛むなんて」=“Pfft. ...... You're such an idiot. I didn't think you'd bite your tongue.”
 「もしかしたら、と思っていたけれど……想像以上の無様さを披露して主を笑わせるとは、さすが私の下僕ね」=“I thought it might be, but ...... you're my servant, making the Lord laugh with more hollowness than I imagined.”
 「しょ、しょこまれ言わなくたって……」=“Shh, shh, shh, shh, shh. ......”
 「あら、下僕ごときが機嫌でも損ねたの？」=“Oh, what's wrong with a servant's mood?”
 「むしろ私をいっときとはいえ破顔させたのだから、泣いて喜ぶところではないかしら？」=“Shouldn't I be crying for you, since you made me break my face, even if only for a moment?”
-「んー……ま、まぁ、[H名]さんの笑顔を見られたのは嬉しいけど……」=“Hmm ......, well, I'm glad I got to see [H名] smile. ......”
+「んー……ま、まぁ、[H名]さんの笑顔を見られたのは嬉しいけど……」=“Hmmm ... well, well, it's nice to see [H名]'s smile ...”
 「……まぁ、良いわ。笑って気分も良いし、不問にしてあげる」=“...... Well, good. I'm going to laugh and feel good about it, and I'm going to dismiss it.”
 「でも……さっきの願いごとについては、よく話し合う必要があるみたいね」=“But ...... I think we need to talk about that wish you just made.”
 「私と仲良くなれますように……そんなことを星に願うの？　正直に言ってガッカリしたわ」=“Do you wish to ...... the stars that you can get along with me?　Honestly, I'm disappointed.”
@@ -29,4 +29,4 @@
 「ええ。地面に這いつくばって足を舐めるの。簡単でしょう？」=“Yes. Crawl on the ground and lick your feet. Isn't that easy?”
 「ええーっ、そう言うのじゃなくて、もっと色っぽいのを期待してるんだけど……」=“Yeah, I'm not looking for that, I'm looking for something more sexy. ......”
 「下僕にはお似合いじゃない。少なくとも、空の星に願うよりはよっぽど現実的だわ」=“I don't want to be a servant. At least it's more practical than wishing on stars in the sky.”
-「べ、別の方法でお願いします、[H名]さん！」=“I'm not tired and I'm not  this tired.”
+「べ、別の方法でお願いします、[H名]さん！」=“Be, please, another way, [H名]!”

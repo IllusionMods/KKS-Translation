@@ -3,7 +3,7 @@
 「連れてきてくれて本当に嬉しいです♡　ここの水族館デート、もう何度も頭の中で練習してきてたんです♡」=“I'm really glad you brought me here. I've been practicing this aquarium date in my head for a long time.”
 「じゃあ、ここから先は[H名]にエスコートしてもらおうかな」=“Well, I guess I'll let [H名] escort me from here on out.”
 「いいんですか♡　私、連れ回しちゃいますよ♡」=“Are you sure, handsome? - I'll take you around, handsome.”
-「うん、[H名]は俺より俺のこと知ってるし、間違いないだろうから」=“Yeah, because [name] knows me better than I know myself, and I'm sure of it.”
+「うん、[H名]は俺より俺のこと知ってるし、間違いないだろうから」=“Yes, because [H名] knows me better than I know myself, and I'm pretty sure she does.”
 「そんな♡　自分より自分のこと知ってる気持ち悪い女のことサラッと褒めてくれるなんて……♡」=“There's nothing wrong with you. - Oh no, handsome, you can't just give a compliment to a creepy girl who knows more about you than you do. ......”
 「自分で自分のこと気持ち悪いなんて言っちゃダメだよ」=“Don't call yourself creepy.”
 「はい♡　あなたのことならなんでも知っていますから、絶対に満足してもらえるデートコースですよ♡　早速行っちゃいましょう♡」=“Yes ♡ I know everything about you, so this is a date course that will definitely satisfy you ♡ Let's go right away ♡.”
@@ -11,8 +11,8 @@
 「はぁ～～、すごいエスコートだったよ。もう俺の趣味全開というか、水族館ってこんなに楽しかったんだね」=“It was a great escort. I'm not sure if it's my taste at all, but I didn't know aquariums could be so much fun.”
 「うふふふ♡　私のあなたへの愛、フル活用しちゃいました♡」=“Ufufufu ♡ I have made full use of my love for you ♡”
 「あなたが私のために水族館を選んでくれたのもわかっていましたから、その恩返しでもあります♡」=“I also knew that you chose the aquarium for me, so I'm returning the favor, handsome.”
-「あはは、[H名]に隠し事はできないね」=“Haha, you can't hide anything from [H名].”
+「あはは、[H名]に隠し事はできないね」=“Haha, you can't keep secrets from [H名].”
 「ふふ♡　そうですけど、あなたが隠したそうにしてることは、あえて見ないふりしています♡」=“Yes, but I'm pretending not to see what you're trying to hide from me.”
 「もしかして俺、めちゃくちゃ甘やかされてる？」=“Maybe I'm too spoiled for my own good?”
 「甘やかしてるなんて♡　私はただ、私といるときのあなたが少しでも生きやすいようにしているだけです♡」=“I'm just trying to make your life a little easier when you're with me.”
-（いろいろ気を使ってくれてるんだな……俺も[H名]のことを少しでも生きやすくしてあげたいよ）=(You're taking care of a lot of things. ...... I want to make life a little easier for [H名].)
+（いろいろ気を使ってくれてるんだな……俺も[H名]のことを少しでも生きやすくしてあげたいよ）=“(I know you care about a lot of things ... I'd like to make life a little easier for [H名] too)”
