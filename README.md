@@ -226,6 +226,10 @@ Table with the localization of the translations for each part of the game:
 | 37 | 無感情　　　　　| Emotionless        | Base Game |
 | 38 | 几帳面　　　　　| Perfectionist      | Base Game |
 | 39 | 島っ娘　　　　　| Island Girl        | Base Game |
+| 40 | 高潔　　　　  　| Noble              | KKS EX    |
+| 41 | ボクっ娘　　　　| Bokukko            | KKS EX    |
+| 42 | 天真爛漫　　  　| Genuine            | KKS EX    |
+| 43 | ノリノリ　　　　| Hype               | KKS EX    |
 
 ##### NPC Personalities
 

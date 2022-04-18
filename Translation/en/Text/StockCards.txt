@@ -288,3 +288,27 @@
 玉城=Tamaki
 優=Yuu
 ゆう=Yuu
+
+//40 - Noble
+神渡 クリスタ=Kamiwatari Krista
+クリスタ=Krista
+神渡=Kamiwatari
+クリス=Kris
+
+//41 - Bokukko
+笠原 望夢=Kasahara Nozomu
+笠原=Kasahara 
+望夢=Nozomu
+のぞみ=Nozomi
+
+//42 - Genuine　
+結城 萌=Yuuki Moe
+結城=Yuuki
+萌=Moe
+もえ=Moe
+
+//43 - Hype　
+北野 亜弥=Kitano Aya
+北野=Kitano
+亜弥=Aya
+あや=Aya
