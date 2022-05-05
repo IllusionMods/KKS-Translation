@@ -20,10 +20,10 @@
 「少しだけ過激な話なんだけど……」=“It's a little bit extreme. ......”
 「それでは、またお会いしましょう」=“Well, I'll see you around.”
 「すみません。この辺でお開きにしましょう」=“I'm sorry. Let's call it a night.”
-「俺と一緒に観光しようよ」=“Why don't you come sightseeing with me?”
+「俺と一緒に観光しようよ」=“Come sightseeing with me.”
 「わ、私とですか？　どうなっても知りませんよ？」=“Oh, you mean with me?　I don't care what happens.”
 「ごめんなさい、観光はやめておきます」=“I'm sorry, I don't want to go sightseeing.”
-「俺と一緒に遊ぼうよ」=“Come hang out with me.”
+「俺と一緒に遊ぼうよ」=“Come and play with me.”
 「いいんですか？　周りに気を付けて下さいね」=“Are you sure?　Just be careful around me, okay?”
 「あなたに怪我をさせてしまいそうなので……ご遠慮します」=“I don't want to ...... hurt you.”
 「良かったら、俺と一緒に体験コーナーに行かない？」=“Would you like to come with me to the experience area?”

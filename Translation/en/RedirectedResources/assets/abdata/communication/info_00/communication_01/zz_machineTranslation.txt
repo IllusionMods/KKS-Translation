@@ -399,7 +399,7 @@
 「……いいですよ。私も……[Pあだ名]……と、肌を重ねたいと思っていましたので」=“... good. I've been wanting to get under the skin with ... [Pあだ名] ..., too.”
 「あ、あの……[Pあだ名]……と、え、エッチをしたいのですけれど……」=“Oh, um, I'd like to have sex with ... [Pあだ名] ..., but ...”
 「あの、少しお話しませんか？」=“Uhm, won't you chat with me for a bit?”
-「あの、[Pあだ名]。少しお話しませんか？」=“Um, [Pあだ名]. Can I talk to you for a minute?”
+「あの、[Pあだ名]。少しお話しませんか？」=“Uhm, [Pあだ名]. Won't you chat with me for a bit?”
 「きゃっ……私しかいなくてよかったです……本当はダメなことですからね？」=“I'm glad I'm the only one ...... who can do that, because it's really not a good idea.”
 「だ、ダメですよ……じっくり見ようとしてないで、出て行ってください」=“No, you can't. ...... Don't try to take a good look at me, just get out.”
 「よくないことですよ？　今はその……私しかいませんので、問題ないですが」=“It's a bad idea, okay?　I'm the only one who's ...... here right now, so it's not a problem.”

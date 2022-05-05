@@ -105,7 +105,7 @@
 「……遠慮しておくわ」=“....... I'll pass.”
 「まぁ、付き合ってあげてもいいわ」=“Well, I'll go with you if you want.”
 「あなたと二人で？　……悪いけど、止めておくわ」=“Just you and me?　...... I'm sorry, but I don't think so.”
-「一緒に何か体験してみない？」=“Why don't we try something together?”
+「一緒に何か体験してみない？」=“Shall we go and experiencing something together?”
 「別にいいわよ。あなたは何をしたいの？」=“I don't mind. What do you want to do?”
 「またの機会にしておくわ」=“I'll save it for another time.”
 「俺と一緒にご飯を食べない？」=“Would you like to have dinner with me?”
@@ -209,7 +209,7 @@
 「そろそろ時間だわ。それじゃ、また話しましょ」=“It's time to go. I'll talk to you later.”
 「あら、少し話し込みすぎたかしら、また時間が合えば話しましょう」=“Oh, I think we've talked too much. We'll talk again when the time is right.”
 「また話しましょう。それじゃ」=“We'll talk again. All right.”
-「俺……きみのことが好きなんだ」=“I'm ...... in love with you.”
+「俺……きみのことが好きなんだ」=“I... I love you.”
 「困ったわ……あなたの事、まだそんな風に見れないのよ」=“I'm in trouble. ...... I don't see you that way yet.”
 「私、あなたと付き合いたいと思ってるんだけれど……どうかしら？」=“I'm thinking about going out with you. ...... What do you think?”
 「そうよね、やっぱり……大丈夫、今の事は忘れていいから」=“Yeah, I know. ...... Don't worry, you can forget about that.”

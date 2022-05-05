@@ -9,7 +9,7 @@
 「……どうか、したの？」=“...... What's wrong with you?”
 「……胸とお尻なら、どっちが好き？　……なんとなく聞いただけ、気にしないで」=“......Which do you like better, breasts or ass?　...... I'm just asking, don't worry about it.”
 「わっ……な、なに？」=“Oh, ......, what?”
-「……なに？」=“What's ......?”
+「……なに？」=“...what?”
 「……なに、か？」=“......What?”
 「……あ、私？」=“...... Oh, me?”
 「自分を動物に例えるなら？」=“If you were an animal, what would you be?”

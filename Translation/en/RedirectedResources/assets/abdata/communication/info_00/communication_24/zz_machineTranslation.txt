@@ -28,7 +28,7 @@
 「俺と一緒に遊びに行こうよ」=“Come hang out with me.”
 「わかりました♡　あなたと遊びに行けるなんて最高に幸せです♡」=“I understand. ♡ I'm so happy to go out with you.”
 「とても残念です……別の遊びの約束が入ってしまっていて……」=“I'm so sorry ...... that I have other plans to visit ......”
-「俺と何か体験しに行こうよ」=“Why don't you go experience something with me?”
+「俺と何か体験しに行こうよ」=“Why not come and experience something with me?”
 「あなたと一緒に体験ができるなんて、夢のようです♡」=“It's like a dream come true to be able to experience it with you.”
 「こんなタイミングだなんて……私、他に体験の約束が……」=“I can't believe the timing ...... I have another appointment ......”
 「良かったら、一緒にご飯に行かないか？」=“Would you like to have dinner with me?”

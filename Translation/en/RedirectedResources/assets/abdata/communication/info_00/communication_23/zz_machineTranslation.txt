@@ -230,7 +230,7 @@
 「あの、さぁ、エッチ、してくれない？　変なこと頼んでごめん」=“Will you have sex with me?　I'm sorry I asked you to do something weird.”
 「恋人じゃないのに本当にごめん。何か体がムズムズして、もぅ」=“I'm sorry I'm not your girlfriend. I'm really sorry. I'm just so tingly.”
 「あぁ、そ、そう……でも逆に助かったかも。ありがとう」=“Oh, yeah, that's ...... a relief. Thank you.”
-「俺と一緒に観光しようよ」=“Why don't you come sightseeing with me?”
+「俺と一緒に観光しようよ」=“Come sightseeing with me.”
 「いいですぞ、一緒に行きましょう」=“All right, I'll go with you.”
 「申し訳ないなぁ、今は観光は遠慮しておきますぞ」=“I'm sorry, but I don't think we should go sightseeing right now.”
 「どうかな、ワタシと観光に行かないかい？」=“I don't know. Would you like to go sightseeing with me?”

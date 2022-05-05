@@ -21,7 +21,7 @@
 「あ、アタシもう行くから。またね～」=“Oh, I'm leaving now. See you later.”
 「いいよー、どこ行こっか？」=“Okay, where do you want to go?”
 「ごめんね～、今はやめとくよー」=“I'm sorry, I can't right now.”
-「俺と一緒に遊ぼうよ」=“Come hang out with me.”
+「俺と一緒に遊ぼうよ」=“Come and play with me.”
 「マジで？　うん、遊ぶ、遊ぶ」=“Seriously?　Yeah, I'll play, I'll play.”
 「ん～、今ちょっと遊びたい気分じゃないんだよねー」=“Hmm, I'm not really in the mood to play right now.”
 「一緒に何か体験しようよ」=“Let's do something together.”
@@ -57,7 +57,7 @@
 「エッチな動画を見てたんだけど……」=“I was watching a pornographic video on .......”
 「もうこんな時間？　楽しかった、また話そうね～」=“Is it that late already?　It was fun. Let's talk again!”
 「あっという間に時間経っちゃったね。それじゃまたね～」=“We'll talk again. I'll see you later.”
-「君のことが好きだ」=“I like you.”
+「君のことが好きだ」=“I love you.”
 「そっか……それは嬉しいけど…まだ、友達でいたいかな……」=“I see. ...... That's great, but I think I'd still like to be your friend. ......”
 「アタシさ、キミの事好きなんだけど……付き合ってもらえない？」=“I really like you. ...... Will you go out with me?”
 「やっぱ、ダメなんだね……まぁしょうがないか」=“I like you. ...... Would you go out with me? - No, I guess not.”

@@ -57,7 +57,7 @@
 「この間、女の子同士でさ……」=“I was with a girl the other day at .......”
 「あたし、もう行かないとダメなんだ―。それじゃまたなー」=“I have to go now. See you later.”
 「お、もう時間だ―。それじゃあ、また話そうな―」=“Oh, it's time. I'll talk to you later.”
-「君のことが好きだ」=“I like you.”
+「君のことが好きだ」=“I love you.”
 「うぅ～、ごめんなー……キミにまだ、そういう気持ちは持ってないんだー」=“Ugh, I'm sorry. ...... I don't have those feelings for you yet.”
 「あたし、キミのことが好きだぞ……付き合って欲しいんだ」=“I like you. ...... I want you to go out with me.”
 「そうか、だめかー……残念だけど、仕方がないぞー」=“Oh, no. ...... I'm sorry, but I don't have a choice.”

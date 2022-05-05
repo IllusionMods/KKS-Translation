@@ -128,7 +128,7 @@
 「映画はよく見る？」=“Do you watch a lot of movies?”
 「良く見てるよ。ＣＭで面白そうだと見に行きたくなっちゃうよね」=“I watch a lot of commercials, and if they look interesting, I feel like going to see them.”
 「たまに見るかな。すごい話題作とかだったら見に行くと思う」=“I watch it once in a while. If it's a hot movie or something, I'll go see it.”
-「この島には慣れた？」=“Are you used to the island?”
+「この島には慣れた？」=“Goteten familiar with the island?”
 「大分慣れたかな。でも遊んでばっかりで、全然研修してないけど」=“I've gotten used to it. I think I've gotten used to it, though I've been playing around a lot and haven't done any training at all.”
 「慣れたよー。あったかくって過ごしやすいよね、ここ」=“I've gotten used to it. It's warm and comfortable here, isn't it?”
 「えっとぉ、うーん……ごめん、よかったら、別のお話にしない？」=“Let's see. ...... Sorry, can we talk about something else?”

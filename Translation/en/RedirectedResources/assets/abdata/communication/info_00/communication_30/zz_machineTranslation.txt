@@ -65,7 +65,7 @@
 「んー、困ったわね……ごめんなさい、返事はちょっと待ってくれるかしら？」=“Hmm, that's a problem. ...... I'm sorry, can you give me a minute to respond?”
 「ねぇ、キミの事、好きって言ったら信じてくれる……？」=“Hey, would you believe me if I told you I like you ......?”
 「あら、本気にしちゃったかしら？　冗談よ、冗談……」=“Oh my God, did I just take you seriously?　I'm kidding. I'm kidding. ......”
-「二人で島を観光しない？」=“Do you want to go sightseeing on the island?”
+「二人で島を観光しない？」=“Do you want to go sightseeing around the island?”
 「ええ、キミとならいいわよ？」=“Yeah, I'll do it with you.”
 「ねぇ、私と一緒に島を歩かない？」=“Hey, do you want to walk the island with me?”
 「ふふっ、よかった。　それじゃ早速行きましょ？」=“Sure, why not?　Let's get going, shall we?”
