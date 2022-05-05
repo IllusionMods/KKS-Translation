@@ -179,7 +179,7 @@
 「約束する。絶対、気持ち良くしてみせるから」=“I promise. I promise I'll make you feel good.”
 「えっとさ……今からエッチしない？」=“So, ......, do you want to have sex now?”
 「……うん、いいよー。えへ、気持ち良くしてほしいさぁ♪」=“...... Yeah, sure. Yeah, I want you to make me feel good.”
-「あのさ、俺の部屋に来ない？」=“Hey, do you want to come to my room?”
+「あのさ、俺の部屋に来ない？」=“Why don't you come to my room?”
 「部屋に？　ぁ……うん、わかった。付いていくさー」=“In my room?　Yeah. ...... Yeah, okay. I'll come with you.”
 「えっと……私の顔になにか付いてますか？」=“Um, ...... do I have something on my face?”
 「ぅ……その……あんまり見ないでください……」=“Oh, ......, don't look too ...... hard.”

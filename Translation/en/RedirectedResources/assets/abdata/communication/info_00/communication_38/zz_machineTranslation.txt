@@ -248,7 +248,7 @@
 「体験は出来ないんですか……仕方がありませんね」=“You can't do that? ...... I don't have a choice.”
 「ご飯、一緒に食べに行かない？」=“Would you like to go to dinner with me?”
 「食事ですか？　分かりました、ご一緒します」=“Dinner?　All right, I'll join you.”
-「すみません……今は食べられそうにありません」=“I'm sorry. ...... I don't think I can eat right now.”
+「すみません……今は食べられそうにありません」=“Sorry... can't seem to eat right now.”
 「よろしければ、私と食事に行きませんか？」=“Would you like to have dinner with me, if you don't mind?”
 「良かったです。何を食べに行きましょうか」=“Great. What would you like to eat?”
 「そうですか……なら、食事はまた今度にしますね」=“Well, if you're going to ......, I'll see you later.”

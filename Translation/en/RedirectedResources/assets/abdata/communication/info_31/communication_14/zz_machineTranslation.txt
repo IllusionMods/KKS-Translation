@@ -26,7 +26,7 @@
 「付き合うほど、暇じゃねぇんだ」=“I don't have time for this shit.”
 「……お前がいいなら、別にいいぜ」=“......, if that's what you want.”
 「なんでお前と遊ばなきゃいけねぇんだ？」=“Why the fuck should I play with you?”
-「一緒に何か体験してみない？」=“Why don't we try something together?”
+「一緒に何か体験してみない？」=“Shall we go and experiencing something together?”
 「体験か……やってみると意外と面白いかもな」=“Experience. ...... might be fun to try.”
 「そういうことをしたい気分じゃねぇな」=“I'm not in the mood for that kind of thing.”
 「俺と一緒に食事しない？」=“Would you like to have dinner with me?”

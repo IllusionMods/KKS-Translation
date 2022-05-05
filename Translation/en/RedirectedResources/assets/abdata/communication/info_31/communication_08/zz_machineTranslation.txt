@@ -65,7 +65,7 @@
 「あのね、ちょっとお買い物に付き合ってほしいの」=“Listen, I'd like to go shopping with you.”
 「えへへ、ありがとう。あなたが選んでくれると嬉しいなぁ」=“I want to go shopping with you. I'd love it if you could help me choose.”
 「そっかぁ……じゃあ、また今度お願いするね」=“Okay. ...... I'll see you next time, okay?”
-「俺と遊びに行かない？」=“Do you want to go out with me?”
+「俺と遊びに行かない？」=“Why not come play with me?”
 「うん、いいよぉ。何して遊ぼっか？」=“Yeah, sure. What do you want to do?”
 「遊びたいけど……ちょっと遊んでばっかりいたから、今は控えてるの。ごめんねぇ」=“I'd love to, but I've been ...... playing around a lot, so I'm holding off. Sorry.”
 「あのね、一緒に遊ばない？」=“Hey, do you want to play with me?”

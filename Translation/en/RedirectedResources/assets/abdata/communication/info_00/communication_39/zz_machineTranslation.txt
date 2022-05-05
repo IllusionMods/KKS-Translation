@@ -299,7 +299,7 @@
 「改めてそういう話をされると照れるねー。なんか違う話にしよー？」=“I'm embarrassed when you talk about it again. Let's talk about something else.”
 「[H名]……好き！」=“I like [H名] ...!”
 「えへへ、自分も好きよー。かなさんどー♪」=“I like it too. I like you too, Kana.”
-「俺のこと、どれくらい好き？」=“How much do you like me?”
+「俺のこと、どれくらい好き？」=“How much do you love me?”
 「もうでーじ好きよー。ちょっと言葉では表しきれんねー」=“I like you already. It's hard to put into words.”
 「二人の子供ができたら、やっぱり少し訛った喋り方になるかな？」=“Do you think I'll have a slight accent when I have two kids?”
 「あいっ！　子供！？　えっと……自分がママだから、たぶん訛るねー」=“Aww!　Kids?　Well, ...... I'm a mom, so I'll probably have an accent.”

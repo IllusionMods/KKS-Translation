@@ -23,7 +23,7 @@
 「一緒に観光に行かない？」=“Do you want to go sightseeing with me?”
 「私と？　別にいいよ」=“With me?　No, thanks.”
 「ごめんねー。今観光って気分じゃないんだ」=“I'm sorry. I'm not in the mood for sightseeing.”
-「俺と一緒に遊ぼうよ」=“Come hang out with me.”
+「俺と一緒に遊ぼうよ」=“Come and play with me.”
 「いいよー。何して遊ぶの？」=“No problem. What do you do for fun?”
 「遊びはいいかなー。今は遠慮しとくね」=“I don't want to play. I'll hold off for now.”
 「一緒に何か体験しようよ」=“Let's do something together.”
