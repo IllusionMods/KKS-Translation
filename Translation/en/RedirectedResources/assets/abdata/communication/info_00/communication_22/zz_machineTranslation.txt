@@ -26,7 +26,7 @@
 「俺と一緒に遊ぼうよ」=“Come and play with me.”
 「いいよー。何して遊ぶの？」=“No problem. What do you do for fun?”
 「遊びはいいかなー。今は遠慮しとくね」=“I don't want to play. I'll hold off for now.”
-「一緒に何か体験しようよ」=“Let's do something together.”
+「一緒に何か体験しようよ」=“Let's go do something together.”
 「わかったよ。何を体験するの？」=“Okay, okay. What are we going to do?”
 「ごめんね。他の子と体験する約束してるんだよね」=“I'm sorry. I'm sorry, but I'm supposed to be doing something with another girl.”
 「一緒にご飯食べに行かない？」=“Do you want to go to dinner with me?”

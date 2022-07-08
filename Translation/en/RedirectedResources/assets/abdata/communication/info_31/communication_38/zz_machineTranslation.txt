@@ -107,7 +107,7 @@
 「良かったら、一緒に遊びに行かない？」=“Would you like to go out with me?”
 「いいですよ。何をして遊びますか？」=“No, thank you. What do you want to do for fun?”
 「ごめんなさい。遊びはやめておきます」=“I'm sorry. I don't want to play.”
-「一緒に何か体験しようよ」=“Let's do something together.”
+「一緒に何か体験しようよ」=“Let's go do something together.”
 「分かりました。何か素敵な体験がしたいですね」=“All right, then. I'd like to experience something wonderful.”
 「すみません。体験は、別の友達と約束がありまして……」=“I'm sorry. I'm sorry, but I have another appointment with a friend at .......”
 「一緒にご飯を食べに行こうよ」=“Let's go to dinner together.”

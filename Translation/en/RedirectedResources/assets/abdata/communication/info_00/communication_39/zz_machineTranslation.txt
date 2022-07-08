@@ -373,7 +373,7 @@
 「キミと一緒にご飯食べたいなー。ダメかね―？」=“I want to have dinner with you. Can't we?”
 「えへへ、嬉しいねー。お腹いっぱい食べ過ぎちゃいそうさー」=“I'm so happy. I think I'm going to eat too much.”
 「そっかぁ、無理して食べると美味しいものも不味くなるからねぇ……仕方ないねぇ」=“Oh, well, if you force yourself to eat, even the best food will taste bad. ...... I don't blame you.”
-「あのさ……俺の部屋に来ない？」=“Hey, ......, do you want to come to my room?”
+「あのさ……俺の部屋に来ない？」=“Hey, um... want to head with me to my room?”
 「う、うん……いいよー。キミの部屋で、ゆっくりしよー」=“Yeah, ...... is fine. Let's relax in your room.”
 「うーん、今すぐはねぇ……また後でも大丈夫？」=“Hmm, not right now. ...... Can we do it later?”
 「[H名]、付いてきて」=“[H名], follow me.”

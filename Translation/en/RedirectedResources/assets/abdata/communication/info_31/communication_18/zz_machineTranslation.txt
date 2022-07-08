@@ -46,7 +46,7 @@
 「この前、歩いていたら道端で……」=“I was walking down the street the other day and I saw a ......”
 「そりゃあもう、甘くて、酸っぱくて……想像力が追い付かないような恋愛です」=“Well, a sweet, sour, ...... kind of love that my imagination can't handle.”
 「好きな人がいるというだけで、ものすごく幸せな気がします」=“Just the fact that I love someone makes me feel very happy.”
-「理想の恋人像ってある？」=“Do you have an ideal lover?”
+「理想の恋人像ってある？」=“Do you have an idea of an ideal lover?”
 「そうですね……優しくて、頑丈な人……ですかね」=“Well, someone who is ...... kind and sturdy, I guess.”
 「理想ですか…どんな不幸にも負けない人がいいですね」=“I'd like someone who's not afraid of any misfortune.”
 「結婚に興味ある？」=“Are you interested in marriage?”
