@@ -154,7 +154,7 @@
 「恋人とは手を握りたい？」=“Do you want to hold hands with your lover?”
 「やっぱり握りたいかな。えへ、へ」=“Do you want to hold hands with your lover? Heh, heh.”
 「妄想もできないよ。どうなんだろうね」=“I can't even fantasize about it. I don't know.”
-「理想の恋人像ってある？」=“Do you have an ideal lover?”
+「理想の恋人像ってある？」=“Do you have an idea of an ideal lover?”
 「あるけど……どのキャラも尊すぎて一人に絞れない」=“I do, but ...... all the characters are too precious for me to choose just one.”
 「恋人って響き自体が、既に理想な気がするけど……」=“The word "lover" already sounds ideal to me. ......”
 「結婚に憧れがある？」=“Do you long for marriage?”

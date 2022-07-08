@@ -137,7 +137,7 @@
 「恋人ができたらどんな風に過ごしたい？」=“How would you like to spend your time if you had a boyfriend?”
 「いつだって一緒に居たいかな。え、重すぎるかな、大丈夫だよね？」=“How would you like to spend your time with your girlfriend? Is that too heavy?”
 「わかんないけど、恋人がいるって考えただけで楽しくなっちゃうと思う」=“I don't know, but just the thought of having a girlfriend makes me happy.”
-「理想の恋人像ってある？」=“Do you have an ideal lover?”
+「理想の恋人像ってある？」=“Do you have an idea of an ideal lover?”
 「よくわかんないけど、好きになったらそれが理想の人かな」=“I don't know, but if I fell in love with someone, that would be my ideal person.”
 「優しくて、誠実で、それで……やっぱり中身が大事だと思う」=“I think it's important to be kind, sincere, and ...... inside.”
 「プロポーズに希望ってある？」=“What do you want in a proposal?”

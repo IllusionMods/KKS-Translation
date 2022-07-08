@@ -24,7 +24,7 @@
 「俺と一緒に遊ぼうよ」=“Come and play with me.”
 「マジで？　うん、遊ぶ、遊ぶ」=“Seriously?　Yeah, I'll play, I'll play.”
 「ん～、今ちょっと遊びたい気分じゃないんだよねー」=“Hmm, I'm not really in the mood to play right now.”
-「一緒に何か体験しようよ」=“Let's do something together.”
+「一緒に何か体験しようよ」=“Let's go do something together.”
 「いいよ、折角だから色々やりたいね」=“Sure. I'd love to do some stuff with you.”
 「えっとね…今は別にいいかな～」=“Well, I don't think that's a good idea right now.”
 「これからご飯にしない？」=“Do you want to have dinner now?”

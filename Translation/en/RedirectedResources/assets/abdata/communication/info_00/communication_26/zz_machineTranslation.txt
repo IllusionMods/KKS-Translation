@@ -219,7 +219,7 @@
 「あの……二人で観光、どう……？」=“How about ...... some sightseeing, just the two of us, ......?”
 「……じゃ、行こ」=“...... Let's go.”
 「……残念」=“...... Too bad.”
-「一緒に遊びに行かない？」=“Do you want to go out with me?”
+「一緒に遊びに行かない？」=“Do you want to head out with me?”
 「うん、いいよ……？」=“Yeah, sure. ......?”
 「今は……気分じゃない、かな……」=“I don't think I'm in the mood for ....... ......”
 「ねぇ……遊ぼ？」=“Hey, ......, wanna play?”
