@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「風が気持ちいいのですー！　嫌なことがあった時にここに来たら、スッキリ出来そうですね」=“The wind feels so goodー！ You can come here when you've had a bad day and feel refreshed.”
+「風が気持ちいいのですー！　嫌なことがあった時にここに来たら、スッキリ出来そうですね」=“The wind feels so goodー！ You can come here when you've had a bad day and feel refreshed.”
 「えっ……？　な、なにか嫌なことがあったの？」=“Eh...? Are you having a bad day?”
 「た、例えばの話なのです！　本当にあったわけじゃないですから！」=“That's just an example! It's not like anything's happened!”
 「そっかぁ、思い違いでよかったよ」=“I see. I'm glad I misunderstood you.”
