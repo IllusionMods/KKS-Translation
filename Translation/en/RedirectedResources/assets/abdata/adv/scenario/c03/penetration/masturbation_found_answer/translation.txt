@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「わかってるです、そんなに大きくしちゃってるですから……」=
-//「それじゃ、早速するです！　ほら、するったらするですよ！」=
+「わかってるです、そんなに大きくしちゃってるですから……」=“I know, it's gotten so big...”
+「それじゃ、早速するです！　ほら、するったらするですよ！」=“Then let's start right away! I'm doing it!”
