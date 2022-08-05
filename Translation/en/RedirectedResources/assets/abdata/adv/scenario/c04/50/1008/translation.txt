@@ -23,4 +23,4 @@
 「けれど、あまり無理しなくていいわよ？　顔が真っ赤じゃない」=“But, you don't have to try that hard, you know? Your face's bright red.”
 「あはは……背伸びしすぎたかな。上手く口が回らないや」=“Ahaha... maybe I was a bit out of my comfort zone. I'm starting to lose my own words.”
 「ふふっ。あなたの気持ちはよく伝わったわ」=“Fufu. You've communicated your feelings well enough.”
-//「これ以上、言葉はいらないわね。今はただ静かに、波の音に耳を傾けましょう……」=
+「これ以上、言葉はいらないわね。今はただ静かに、波の音に耳を傾けましょう……」=“No need for more words. Let's just quietly listen to the sound of the waves.”
