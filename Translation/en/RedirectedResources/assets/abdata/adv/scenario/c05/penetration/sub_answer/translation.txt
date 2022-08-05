@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うん、こうなるって聞いてたから……いつでもいいよ？」=
+「うん、こうなるって聞いてたから……いつでもいいよ？」=“Yeah, I heard this would to happen... It's okay whenever?”
