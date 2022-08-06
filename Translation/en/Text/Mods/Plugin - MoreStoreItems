@@ -1,3 +1,4 @@
+// These are literal resource strings for string.Format, not regexes/splitters. The plugin replaces the placeholders with translated strings on its own.
 {0}は{1}でオナニーしている={0} is masturbating in {1}
 {0}は{1}でレズのセックスしている={0} is having lesbian sex in {1}
 エロ活動：{0}=Erotic activity in {0}
