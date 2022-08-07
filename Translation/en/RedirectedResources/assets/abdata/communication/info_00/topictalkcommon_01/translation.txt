@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「島にあるレジャーを全部やってみたいんだよね」=“I'd like to try all the leisure activities on the island.”
 「全てですか？　難しいかもしれませんが、頑張ってください」=“All of them?　That'll be hard - good luck with that.”
 「お気に入りのレジャーって、なにかある？」=“What's your favorite leisure activity?”
