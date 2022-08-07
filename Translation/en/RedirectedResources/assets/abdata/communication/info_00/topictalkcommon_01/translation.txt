@@ -49,6 +49,7 @@
 「はいっ。なので、友人に色々買っていこうと思っています」=“Yes. So I'm thinking of buying lots of stuff for my friends.”
 「何を買うか迷うなぁ……」=“I can't decide what to buy...”
 「分かります……どれも魅力的ですよね」=“I know... they're all very tempting.”
+「やってみたいエッチってある？」=“Are there certain types of sex you want to try?”
 「い、いえっ……普通のエッチでけっこうですっ」=“N-no... I'm fine with regular sex!”
 「実はすごいドスケベだったりしない？」=“Aren't you, in fact, quite a dirty girl?”
 「わ、私のことをどんな風に思ってるんですか？　そんなことは、ない……はずです」=I-is that what you think of me? That's not true, at all...”
