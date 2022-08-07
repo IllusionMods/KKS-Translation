@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「観光地だけあって、レジャーの種類が豊富だよね」=“There's a wide variety of leisure activities in this tourist area.”
 「そうね、なにをして遊ぶか迷っちゃうわ♡」=“Yeah, I can't decide what to do for fun.”
 「やってみたいレジャーってある？」=“Are there any leisure activities you want to try?”
