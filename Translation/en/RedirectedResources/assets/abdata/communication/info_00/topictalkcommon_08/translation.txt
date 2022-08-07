@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「どのレジャーで遊ぶか迷っちゃうよね」=“I can't decide which leisure activity to play.”
 「うん、分かるよ～。いっつも何をしようか悩んじゃうもん」=“Yeah, I get it~ I always have a hard time deciding what to do.”
 「外で遊ぶのは好き？」=“Do you like to play outside?”
