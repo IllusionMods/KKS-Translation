@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「色んなレジャーがあるから、全部体験するのは大変そうだね」=“There are so many things to do, it must be hard to experience them all.”
 「だからこそ挑戦のし甲斐があるかと存じます」=“That's why I think it's worth the challenge.”
 「どのレジャーも体力が必要だけど、大丈夫？」=“You okay with all these leisure activities requiring physical strength?”
