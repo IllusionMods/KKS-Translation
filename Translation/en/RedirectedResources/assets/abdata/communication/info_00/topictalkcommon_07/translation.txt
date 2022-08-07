@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「もしかして、全部のレジャーを制覇するつもりでいる？」=“Are you going to conquer all the leisure activities, by any chance?”
 「当たり前だろ？　遊びつくさなきゃ損だぜ！」=“Of course not.　You've got to play them all!”
 「あったかいから、歩いてるだけで汗をかいちゃうよね」=“It's so warm, you'll sweat just walking around.”
