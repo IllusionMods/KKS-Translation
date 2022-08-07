@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「遊び過ぎて、筋肉痛になりそうなんだよね」=“I've been playing so much, I'm getting sore muscles.”
 「ま、そうなったら安静にするんだな。おまえの分まであたしが遊んでくるから安心してなって」=“Well, when that happens, you need to take it easy. Don't worry, I'll play for you.”
 「身体を動かすのって好き？」=“Do you like to exercise?”
