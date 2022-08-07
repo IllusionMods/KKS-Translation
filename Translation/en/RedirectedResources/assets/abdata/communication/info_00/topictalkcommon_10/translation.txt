@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「魔界にも、たくさんのアクティビティがあるの？」=“Are there a lot of activities in the magical world?”
 「ククッ、無論だ！　望むなら汝を誘致するぞ」=“Huhu, of course!　I'll lure thee if thou wilt.”
 「身体を動かすのは好き？」=“Do you like physical activity?”
