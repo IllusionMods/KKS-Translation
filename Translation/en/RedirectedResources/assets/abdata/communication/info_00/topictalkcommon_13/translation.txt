@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「この島にはたくさんのレジャーがあるよね」=“There's a lot of leisure on this island, isn't there?”
 「だね～。あり過ぎて飽きることなさそ～」=“Sure~. There's so much to do, you'll never get bored.”
 「どんなレジャーに興味があるの？」=“What kind of leisure activities are you interested in?”
