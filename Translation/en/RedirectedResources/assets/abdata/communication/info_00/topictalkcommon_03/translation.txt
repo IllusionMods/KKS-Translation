@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「どんなレジャーで遊ぶか、悩んじゃうよね」=“It's so hard to decide what kind of leisure activities to do.”
 「そのお悩み分かるですよー。私も決め切れてないのです」=“I know what you mean. I can't decide either.”
 「気候があったかいから、歩いてるだけでいい運動になるよね」=“The weather is so warm that just walking around is good exercise.”
