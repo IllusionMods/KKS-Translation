@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「気になってるレジャーってあったりする？」=“Are there any leisure activities you're interested in?”
 「全部気になりますわ！　ですので、一つずつ遊んでいこうと思っていますの」=“I'm interested in everything!　So I'm going to play them one by one.”
 「一緒に遊べそうなレジャーもたくさんあるね」=“There are a lot of leisure activities that we can play together.”
