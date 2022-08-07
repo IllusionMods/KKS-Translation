@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「体を動かすアクティビティとか好きなの？」=“You like physical activites and stuff?”
 「もちろん大好きだぞ。体を動かしてるだけで楽しくなってくるぞ」=“I love them, of course. I have fun just moving my body around.”
 「色んなアクティビティがあって、どれがいいか迷うよね」=“There are so many different activities, it's hard to know which ones to choose.”
