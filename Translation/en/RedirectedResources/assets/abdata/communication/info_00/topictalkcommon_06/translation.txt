@@ -49,6 +49,7 @@
 「茶道でお菓子を見繕う機会はございますが……それだけですよ？　お茶に合うかどうかが分かるぐらいです」=“I've had the opportunity to pick up sweets at tea ceremonies... but that's all, you know?　It enough just to know if something goes good with tea.”
 「可愛らしい名産品も色々あるけど、何か気になるものはあった？」=“There are all kinds of lovely local products. Did you see anything that caught your eye?”
 「ご当地きゃらくたぁの絵柄が刷られた商品がいつくつかありまして……とても心が惹かれております」=“There are a number of products that have local characters printed on them... I'm very fascinated by them.”
+「やってみたいエッチってある？」=“Are there certain types of sex you want to try?”
 「その……変態とか、すけべって罵ってくれない？」=“Um... would you call me a pervert, or a slut?”
 「……変態。あの……これでよろしいのでしょうか？」=“...a pervert. Um... am I right?”
 「性に関する知識自体がそれ程ありませんので、特には思いつかないです」=“I don't know much about sex itself, so I can't really think of anything.”
