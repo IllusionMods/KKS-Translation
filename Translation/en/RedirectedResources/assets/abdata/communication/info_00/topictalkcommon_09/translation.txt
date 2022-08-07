@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「身体を動かすことって好き？」=“Do you like to exercise?”
 「もちろん好きよ。身体を動かしてるだけで、なんだかテンションがあがっていくわ」=“Of course I do. Just exercising fires me up.”
 「どんなレジャーで遊ぶか迷っちゃうよね」=“I can't decide what kind of leisure activities to do.”
