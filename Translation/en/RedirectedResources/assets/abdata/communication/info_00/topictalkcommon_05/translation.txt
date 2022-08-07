@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「意外と運動が得意だったりする？」=“Are you any good at sports?”
 「得意とは言えないけど、“かれら”がコツを教えてくれるから、苦手でもないかな」=“I can't say I'm very good at them, but 'they're' showing me the ropes, so I'm not bad at them.”
 「気になるレジャーはあった？」=“Did you find any leisure activities that you liked?”
