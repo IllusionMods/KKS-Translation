@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「外で遊ぶのって好き？」=“Do you like to play outside?”
 「汗を流すのは気持ちいいし、割と好きね」=“I like to sweat. It feels good.”
 「屋内で出来るレジャーも豊富だったらいいのにね」=“It would be nice if there were more indoor activities.”
