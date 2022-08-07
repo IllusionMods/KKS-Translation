@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「とりあえず、色んなレジャーを楽しもうよ」=“For now, let's just enjoy all the various leisure activities.”
 「そうだな。どれがいいか、一緒に考えようぜ」=“Yes, let's. We'll figure out which one is best.”
 「アクティビティがいっぱいあるから、どれにしようか迷っちゃうよ」=“There are so many activities, it's hard to decide which one to do.”
