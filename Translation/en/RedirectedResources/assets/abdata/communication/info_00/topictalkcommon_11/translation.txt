@@ -1,3 +1,6 @@
+//
+// Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
+//
 「なにか気になるレジャーはあった？」=“Any leisure activities catch your eye?”
 「ええ、あり過ぎて困ってるぐらい。研修を忘れないように気をつけながら、私も遊んでみるつもりよ」=“Ehh, there's so many that I'm at a loss. I'mgoing to try to keep up, but I have to make sure I don't forget to study.”
 「運動は得意な方なの？」=“Are you a good athlete?”
