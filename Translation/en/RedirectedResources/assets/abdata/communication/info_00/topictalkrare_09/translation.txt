@@ -26,6 +26,7 @@
 「へー、お見合いまでいくとちょっと過保護な感じもするけど」=“Ehe- If they do matchmaking... that seems a little overprotective.”
 「絶対数が少ないと相手にめぐりあうのも大変、とかだからじゃない？」=“It must be hard to find partners when the total number is so small... maybe that's why?”
 「そう……でも、やっぱり生涯の伴侶とは運命的に出会いたいじゃない」=“Yes... but wouldn't you want to meet your life partner through fate, instead?”
+「たとえば？」=“For example?”
 「ぐいぐいこないでよ、もうっ。デリカシーがないんだから。ヤマネコよりあたしを手厚く保護すべきだわ」=“Don't be so pushy, geez! You have no sense of delicacy. You should be more protective of me than you are of the wildcats.”
 「さっき、過保護は嫌みたいなこと言ってたような……」=“I thought you said something ealier about not wanting to be overprotected...”
 「この辺りは流星群が見られるんだよ」=“You can watch meteor showers around here.”
