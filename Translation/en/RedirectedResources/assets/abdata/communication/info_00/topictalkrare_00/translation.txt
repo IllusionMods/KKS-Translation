@@ -122,4 +122,3 @@
 「……機嫌を損ねないよう、気をつけるよ」=“I'll be careful not to put you in a bad mood.”
 「そうした方がいいわね。もちろん……私もケンカにならないよう注意するわ」=“You'd better. Of course... I'll be careful not to get us into a fight, too”
 「うん……お互い、仲良しが一番だよね」=“Yeah... it's best if we get along with each other.”
-
