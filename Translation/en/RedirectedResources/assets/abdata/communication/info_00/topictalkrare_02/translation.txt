@@ -93,6 +93,7 @@
 「ロマンチック、かぁ……まあ、そうかも」=“Romance, is it... well, maybe so.”
 「恋愛は苦悩がつきもの。簡単に成就できれば、それに越したことありませんわ！」=“Love is always a struggle. The easier it is to achieve, the better!”
 「そういう言い方、全然ロマンチックじゃないなぁ……」=“When you say it like that, it's not romantic at all...”
+「………………」=“...”
 「いかがなさいまして？　黙って考え事してると、少し不気味ですわ」=“What's this now?　It's kind of creepy when you just shut up and think about it.”
 「ぶ、不気味って……ただ考え事してただけなのに……」=“Creepy... I was just thinking about it...”
 「あら失敬……いったい何を考えていらっしゃったの？」=“Oh, forgive me... just what on earth are you thinking?”
