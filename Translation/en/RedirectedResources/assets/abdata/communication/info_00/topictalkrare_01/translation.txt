@@ -81,6 +81,7 @@
 「海ほたるの光って、見てると癒されるよね」=“The light from the sea fireflies is soothing to look at, isn't it?”
 「はい、ずっと見ていたくなるような綺麗な光ですね」=“Yes, it's so beautiful, that I want to keep looking at it.”
 「やっぱり綺麗なものは見てるだけで癒しを与えるんだろうなぁ……」=“I guess there's a healing effect just from looking at something beautiful...”
+「じー……」=“*Stare*......”
 「え、えっ？　どうしたのですか？　急にじっと……私を見て……」=“E-Eh?　What's going on?　You're suddenly... staring at me...”
 「いや～、見てると癒されるなーって」=“No~ I'm just thinking that watching you is soothing.”
 「も、もう……そうやってすぐからかうの……悪い癖ですよ……」=“G-geez... you're so quick to make fun of me... that's a bad habit...”
