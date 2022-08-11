@@ -119,4 +119,3 @@
 「うん。だって男側には痛いことってなにもないわけでしょ？」=“Yes. Because there's no pain on the guy's side, you know?”
 「だから独りよがりになってなかったか、ちゃんと優しく出来てたか……他にも色々あるけど、そういうのは気になっちゃうんだよ」=“So I'm not being smug. I hope that I was nice to you... there's a lot more to it than that, but that's what I'm worried about.”
 「そーなのですね……えへへ、あなたが初めての人で良かったって改めて思ったのです」=“Is that so... ehehe, now I'm super happy again about you being my first.”
-
