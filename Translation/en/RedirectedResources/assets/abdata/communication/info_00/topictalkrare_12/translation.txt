@@ -90,6 +90,7 @@
 「頭ごなしに否定はしないけどさ、ちゃんと筋道を話してくれよ」=“I mean, I'm not just going to deny it out of hand, but you need to tell me what's going on.”
 「ああ、ごめん……突然言いたくなったんだ」=“Ahh, sorry... it's just something I suddenly wanted to say.”
 「……まあ、男からしたらそうなのかもな。って、本当に思ったことを口にしただけなのかよ」=“Well, maybe from a man's perspective. I mean, did you really just blurt out what you were thinking?”
+「うん」=“Yeah.”
 「突然だけど、何かフェチってある？」=“This might be sudden, but do you have any fetishes?”
 「本当に突然だな……んー……どうだろう？　あんまりないかも……」=“That is really sudden... nh-... I wonder? Maybe not so much...”
 「あんまりない……ってことは、少しはあるってこと？」=“Not so much... so maybe just a little, then?”
