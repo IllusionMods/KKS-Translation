@@ -119,4 +119,3 @@
 「そうなんだ……ありがとう！」=“I see... well, thanks!”
 「誰かに語って聞かせたい気分ですわ。ＳＮＳに書き散らしたいほどに」=“I feel like I want to tell everyone about it... so much that I want to post it all over social media.”
 「そ、それだけは勘弁して…………」=“P-please don't do that...”
-
