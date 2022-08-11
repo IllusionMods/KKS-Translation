@@ -130,4 +130,3 @@
 「ほっといたしました。はしたない女と評されては元も子もございませんから」=“I'm relieved. If I were to be described as a woman of low character, I'd have nothing else to lose.”
 「よろしければ、これからも私の身体に幸福をもたらしてくださいまし」=“If you don't mind, please continue to bring happiness to my body.”
 「うん、きみさえよければ喜んで」=“Yeah, I'd be happy to, if you're willing.”
-
