@@ -119,4 +119,3 @@
 「なんでそうなるんだよ！　は、反応がガキみたいだからってことか」=“And what's up with that?　Haa, you're reacting like a little kid.”
 「抱きしめてもいい？」=“Can I hug you?”
 「ぐいぐいくるんじゃねーよ。お、お前、割とエッチだよな……」=“Don't come at me like that. Y-you're rather naughty, aren't you?”
-
