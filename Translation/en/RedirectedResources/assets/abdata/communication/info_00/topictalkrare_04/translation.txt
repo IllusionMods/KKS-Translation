@@ -107,4 +107,3 @@
 「あなたね……普通、そういうこと聞く？　デリカシーのない人」=“You... do you usually ask that? You a guy with no sense of delicacy.”
 「けれどまあ……悪くはなかったわ。優しくしてくれたから……」=“But, well... it wasn't bad. Because you were so gentle with me.”
 「これからも優しくしてね、あなたになら私のすべてを見せられる気がするの……」=“Please continue to be nice to me. I feel like I can show you everything I have to offer...”
-
