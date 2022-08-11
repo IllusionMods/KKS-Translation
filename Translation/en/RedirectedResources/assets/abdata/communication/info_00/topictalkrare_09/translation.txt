@@ -126,4 +126,3 @@
 「そ、そんなに真面目に謝らなくてもいいわよ。意識してくれるの……嬉しいし」=“You don't have to apologize so earnestly. I'm happy... you're thinking about me.”
 「意識するのは嫌なのに？」=“You don't want to think about it?”
 「照れちゃうってだけよ。あんたのこと想うのが嫌なわけない、から……」=“I'm just embarrassed. It's not that I don't like thinking about you, it's just...”
-
