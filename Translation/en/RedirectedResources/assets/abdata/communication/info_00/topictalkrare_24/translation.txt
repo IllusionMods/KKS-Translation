@@ -45,6 +45,7 @@
 「はい♡　一夜しか咲かないことで有名なお花ですよね♡」=“Yes♡ It's a flower famous for blooming only one night♡”
 「うん、一夜ってところが凄いよね」=“Yeah, that one night thing is amazing.”
 「そうですか……そうやってあなたを誘惑したんですね……」=“Is that so... that's how it seduced you...”
+「え？」=“Eh?”
 「私も明日死ぬことが決まっていれば、今夜はあなたを独り占めできますか……？」=“If you're going to die tomorrow, can I have you all to myself tonight?”
 「え……し、死なないよね？」=“Eh... I'm not going to die, okay?”
 「私も明日死ぬことが決まっていれば、今夜はあなたを独り占めできますか♡」=“If you were to die tomorrow, I would have you all to myself tonight♡”
@@ -57,6 +58,7 @@
 「飼うんですか？」=“Are you going to keep them?”
 「いや、孵化を見守ってただけだよ。親鳥がいるはずだしね」=“No, I just watched them hatch. I'm sure they have parents.”
 「それなら、私を飼ってみませんか？　親はいますけど、納得させますから♡」=“Well, why don't you keep me?　I have parents, but I'll convince them♡”
+「え……」=“Eh......”
 「あなたが望むなら頑張って卵に戻ります♡」=“I'll do my best lay eggs, if that's what you want♡”
 「いや、人間は卵生じゃないから」=“No, humans aren't ovoviviparous.”
 「あなたのためなら常識だって覆してみせますよ♡」=“If it's for you, I'll change anything♡”
