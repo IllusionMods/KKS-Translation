@@ -65,7 +65,7 @@
 「仲間が増えるのは嬉しいな。帰ったら、一緒に初心者向けの花を探してみる？」=“It's nice to have more friends. When we get back, wanna try to find some beginner's flowers together?”
 「賛成なのです！　えへ、楽しみが増えたですよー」=“I second the motion!　Ehe, I'm looking forward to it!”
 「マンタってどれくらいの大きさか知ってる？」=“Do you know how big manta rays get?”
-「えーと……４メートルとか５メートルくらいでしたよね？」=Er, um... like, about 4 or 5 meters, right?”
+「えーと……４メートルとか５メートルくらいでしたよね？」=“Er, um... like, about 4 or 5 meters, right?”
 「……正解。じゃあ現状で一番大きいサイズは？」=“...exactly. Well, so what's the biggest one there is?”
 「確か９メートルだったはずです。水族館のパネルで読んだですよ」=“I think it's 9 meters. I read it on a panel at the aquarium.”
 「くっ……これも正解だ。マンタ博士の座は譲るよ」=“Whoa... that's right, too. You are now to be known as 'Dr. Manta'.”

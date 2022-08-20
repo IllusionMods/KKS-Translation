@@ -7,6 +7,6 @@
 「うん、ちょっと恥ずかしいけど、キミがボクに求めてくれるなら……[Pあだ名]」=“Yes, it's a little embarrassing, but if you want me to ... [Pあだ名]”
 「おぉ、感激だ！　ありがとう、[Hあだ名]！」=“Oh, I'm so excited!　Thank you, [Hあだ名]!”
 「も、もう……キミのこと、愛称？　で呼ぶのも恥ずかしいのに、ボクのことあだ名で呼ぶのは反則だよ」=“I can't believe I'm going to go to .......　It's a foul to call me by my nickname when it's embarrassing to call me by my nickname.”
-「あ、嫌だった？」=“Oh, you didn't like it?”
+「あ、嫌だった？」=“Ah, so it was awful?”
 「その逆。嬉しいけど……その、胸がキュンとするよりお腹がふわってなるっていうか……変な感じだよ」=“The opposite. I'm flattered, but ...... it makes my stomach flutter more than it makes my heart ache, or ...... it's weird.”
 「嫌じゃないならよかったけど、それは気が気じゃないね。こんな風に呼び合うのはたまににしよう」=“I'm glad you don't hate it, but I wouldn't mind that. Let's call each other like this once in a while.”

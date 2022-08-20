@@ -34,9 +34,9 @@
 「名前を失念したが……一番泳ぐのが速い魚だな。確か時速１００ｋｍ近く出たはずだ。そのスピードを私は体感してみたい」=“I've lost track of the name, but it's ...... the fastest swimming fish. I'm pretty sure it's close to 100km/h. I've seen it go that fast. I'd like to experience that speed.”
 「どうして同じ海なのに、ここと俺たちが住んでるところで海の透明度っていうか……綺麗さが違うんだろう？」=“Why is there a difference in the clarity or ...... cleanliness of the ocean between here and where we live?”
 「確かに……海は繋がっているはずなのに不思議だな。研修旅行なんだし、調べてみるとするか」=“It's strange because the ...... oceans are supposed to be connected. It's a study tour, so let's check it out.”
-「自販機で売られてる飲み物も、けっこう独特だよね」=“The drinks sold in the vending machines are quite unique, aren't they?”
+「自販機で売られてる飲み物も、けっこう独特だよね」=“Even the drinks sold in the vending machines are quite unique.”
 「ああ……興味本位で買ってみたんだが、少し後悔した。どんな味か分からないものは、よく調べた方がいいな」=“Oh ...... I bought it out of curiosity and regretted it a bit. If you don't know what something tastes like, you better check it out.”
-「こっちのお菓子を買ってみたんだけど、食べてみる？」=“I bought this candy. Would you like to try it?”
+「こっちのお菓子を買ってみたんだけど、食べてみる？」=“I bought some snacks from here, would you like to try them?”
 「ん？　……いや、食べたことがあるから大丈夫だ。ドーナツみたいで美味しいが、飲み物がほしくなるしな」=“Hmm?　...... No, it's okay, I've had it before. It's like a donut, but tastier, and you'll want a drink.”
 「せっかくだし、ここの料理を全部制覇してみたいんだよね」=“I'd like to try all the food here, you know?”
 「いいんじゃないか。他の地域じゃ滅多に見かけないメニューもあると思うし、旅の記念になると思うぞ」=“That's good. I'm sure there are some dishes that are rarely seen in other parts of the world, and it would be a great souvenir of your trip.”

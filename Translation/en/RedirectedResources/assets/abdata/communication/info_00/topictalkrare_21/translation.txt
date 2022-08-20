@@ -12,7 +12,7 @@
 「大きいのだと１メートルにもなるらしいよ」=“They say the biggest ones can grow up to a meter.”
 「ええっ！？　すごく大きなカニなんだ」=“Ehh!?　That's one big crab.”
 「あ、カニじゃなくてヤドカリの仲間なんだって」=“Ah, but they're not crabs, they're hermit crabs.”
-「ヤシガニなのにヤドカリ……なんだか実体がわからないね……？」=A hermit crab, even though it's a coconut crab... I'm not really sure what's up with that...? ”
+「ヤシガニなのにヤドカリ……なんだか実体がわからないね……？」=“A hermit crab, even though it's a coconut crab... I'm not really sure what's up with that...?”
 「月桃って知ってる？」=“Do you know what shell ginger is?”
 「うん！　この島に来る前に読んだガイドブックに載ってたよ！」=“Yeah!　I read about it in the guidebook before I got here!”
 「勉強熱心だね」=“You're very studious.”

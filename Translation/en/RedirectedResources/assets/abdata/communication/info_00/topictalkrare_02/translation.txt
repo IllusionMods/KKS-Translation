@@ -43,7 +43,7 @@
 「でも、夜中にしか咲かないから、夜ふかししなきゃね」=“But, they only bloom at night, so you'll have to stay up late.”
 「まあっ！？　夜ふかしは美容の大敵ですわ。諦めるしかなさそうですわね」=“Oh, my!?　Staying up late is the worst enemy of beauty. I guess I'll just have to give up on that idea.”
 「……根性がないのは、いったいどっちなのやら」=“...now I'm wondering who's the one with no guts.”
-「そうそう、鳥の巣の中で、雛鳥が生まれてたんだよ！」=So hey, chicks hatched in the bird's nest.”
+「そうそう、鳥の巣の中で、雛鳥が生まれてたんだよ！」=“So hey, chicks hatched in the bird's nest.”
 「まあ！　それは素晴らしいですわね！　でも触ったりしてませんわよね」=“Oh my!　That's wonderful!　But you didn't touch it, did you?”
 「もちろんだよ。触ったら、親鳥に怒られるしね」=“Of course not. If I did, the parents would be very angry.”
 「人間の匂いが付くと、親鳥がその雛を育てなくなることもあるそうですわ」=“I've heard that sometimes the parent birds won't raise their chicks if they get the scent of humans on them.”

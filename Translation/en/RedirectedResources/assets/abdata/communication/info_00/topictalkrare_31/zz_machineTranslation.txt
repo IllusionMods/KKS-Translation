@@ -17,7 +17,7 @@
 「調べて見たら、香辛料としても使われてるみたい」=“I looked it up. It's also used as a spice.”
 「想像以上に多目的に利用できる優秀な植物なんだな」=“It's an excellent plant that can be used for more purposes than I thought.”
 「月桃、侮れないね……」=“Moonberries are not to be underestimated. ......”
-「ヤマネコって可愛いよね」=“Isn't the bobcat cute?”
+「ヤマネコって可愛いよね」=“Wildcats are so cute.”
 「この島にいる野性のネコだったか？　確かに愛らしい姿をしていたな」=“Was it a wild cat on the island?　They sure do have a lovely appearance.”
 「しかし普通のネコとヤマネコは一体なにが違うんだ？」=“But what's the difference between a normal cat and a bobcat?”
 「見た目は……まぁ微妙に違うが、可愛いことに変わりはないぞ」=“They may look ...... slightly different, but they're still cute.”

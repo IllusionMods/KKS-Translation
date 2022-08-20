@@ -18,7 +18,7 @@
 「Ｙｅｓ♪　トッテモ美味しいｒｉｃｅ　ｃａｋｅ！」=“Yes, it's the most delicious rice cake!”
 「中々食べれないカラ、イッパイｙｕｍ－ｙｕｍシマス♪」=“I don't get to eat it often, so I do a lot of yum-yum.”
 （ヤムヤムは美味しいとかそういう意味だったな。そんなに気に入ったんだ）=(Yum-yum means "delicious" or something like that. You like it so much.
-「ヤマネコって可愛いよね」=“Isn't the bobcat cute?”
+「ヤマネコって可愛いよね」=“Wildcats are so cute.”
 「Ｏｈ，ｌｏｖｅｌｙ　ｃａｔ♡　ワタシの住んでた国にもいるんデスヨ♪」=“Oh, lovely cat ♡ There are some in the country where I used to live.”
 「え、ヤマネコが？　この島だけの猫じゃなかったんだ」=“Oh, a bobcat?　I didn't know they were only on this island.”
 「Ｙｅａｈ♪　野生のコは山の中デスケド、ｚｏｏにもイマス♪」=“Yeah, wild cats are found in the mountains, but also in the Zoo.”
@@ -47,7 +47,7 @@
 「Ｃａｎｏｅを漕いで水の上に浮かぶ花、ｆａｎｔａｓｔｉｃデシタ♪」=“The flowers floating on the water as you paddle the canoe, it's fantastic.”
 「そうなんだ。見れるといいね」=“I see. I hope you get to see it.”
 「ウン！　見かけタラ、連絡ｐｌｅａｓｅダヨ♡」=“Yeah!　If you see them, please let me know.”
-「何日も見守ってた卵がこの前ついに孵ったんだよ」=“The egg I've been watching over for days finally hatched the other day.”
+「何日も見守ってた卵がこの前ついに孵ったんだよ」=“That egg I've been watching for a while finally hatched.”
 「卵って本当に孵化するんだなってびっくりしたよ」=“I was surprised to see that eggs really do hatch.”
 「Ｏｈ，生命の神秘デスネ、アナタがＰａｐａデスネ」=“Oh, the mystery of life. You're the papa.”
 「いやいや、見守ってただけだから」=“No, no, I was just watching.”
@@ -68,7 +68,7 @@
 「ソレ、テキトーすぎじゃないデスカ？　デモ、試してミマース♪」=“Isn't that a bit too random?　I think so too.”
 「マンタって可愛いよね」=“Manta rays are cute, aren't they?”
 「Ｉ　ｔｈｉｎｋ　ｓｏ　ｔｏｏ♡　シカモ、マンタは愛情深いんデスヨ♡」=“I think so too♡ Sikamo, manta rays are very affectionate.”
-「え、そうなの？」=“Oh, really?”
+「え、そうなの？」=“Eh, really?”
 「マンタはオスとメスで泳ぐらしいデス♡　トッテモ素敵デスヨネ♡」=“I hear mantas swim with males and females.”
 「それはラブラブだね」=“That's so lovey-dovey.”
 「ワタシたちも今度、一緒に泳ぎマスカ？　マンタの真似をシナガラ♡」=“Do you want to swim with us sometime?　I'm going to imitate a manta ray.”

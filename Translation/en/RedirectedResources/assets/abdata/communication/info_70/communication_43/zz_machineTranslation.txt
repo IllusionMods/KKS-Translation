@@ -49,10 +49,10 @@
 「勤勉な男の人って好き？」=“Do you like hardworking men?”
 「ええんちゃう？　人生なんでもコツコツ行くんが一番や思うで」=“Yeah, that's good, right?　I think it's best to keep at it, no matter what you do in life.”
 「勤勉かぁ……まあ、嫌いちゃうけど、好きかって言われたら……う～～ん……」=“I'm not sure if I like it or not, but if you ask me if I like it, I'll tell you: ......”
-「マイペース男子って好きになれる？」=“Do you like fast-paced guys?”
+「マイペース男子って好きになれる？」=“You like guys who go at their own pace?”
 「全然イケるで。ウチ、合わせるタイプやし。知らんけど」=“You'll be totally fine. We're the type to adapt. I don't know.”
 「どうかな～？　ちゃんと噛み合うたらええねんけどね」=“I don't know.　It would be nice if we could get it to work.”
-「優しい男子は好き？」=“Do you like gentle men?”
+「優しい男子は好き？」=“Do you like gentle boys?”
 「優しい男子？　そんなん嫌いな子おる？　いや、おらんて」=“Gentle boys?　Are there any girls who don't like that?　No, I don't have any.”
 「優しいだけの子はアカンね。一緒におってしょーもないもん」=“I don't like girls who are only nice to me. They are so boring to be with.”
 「クール系な男子って、好き？」=“Do you like cool boys?”

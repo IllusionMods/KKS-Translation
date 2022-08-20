@@ -54,7 +54,7 @@
 「ごめんなさい！　早くそれ見せて」=“I'm sorry!　Show it to me.”
 （いつもそれぐらい素直ならいいのに）=(I wish she was always that honest...)
 「知ってる？　民宿の庭のアサガオが咲いたんだよ」=“You know what?　The morning glories in the inn's garden have bloomed.”
-「ふぅん、そうなのね」=“Hmph, is that so.
+「ふぅん、そうなのね」=“Hmph, is that so.”
 「あんまり興味ないのか。実は俺、こっそり水をあげたりしてたんだよね……」=“So, that doesn't interest you. You know, I've been secretly watering them, and stuff.”
 「自分の家でもないのに？」=“And it's not even your house, is it?”
 「そう言われるとそうなんだけど、なんだか気になって」=“Well, that is true, but I was concerned about them, for some reason.”

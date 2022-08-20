@@ -15,7 +15,7 @@
 「お話、いっぱいしたいさー」=“I really want to talk a lot-”
 「なんでも遠慮なく聞いてー、その方が嬉しいさー」=“Feel free to ask me anything. I'm glad you're here-”
 「なんて言うか……この島は凄く良い所だよね」=“How should I put it... the island's a terrific place.”
-「うん、自分もこの島はお気に入りよー」=“Yeah, I love the island, too-
+「うん、自分もこの島はお気に入りよー」=“Yeah, I love the island, too-”
 「えへ、なんかぼやーっとしてるねー。でも、言いたいことは分かるよー」=“Ehe, that's kind of vague- But I get what you mean-”
 「この島と[H名]は相性良さそうだね」=“This island and [H名] seem to be a good match.”
 「自分の出身地じゃないけど、大きな括りだと故郷だからね。居心地がいいさー」=“It's not where I was born, but it's my hometown in the overall scheme of things. It's so cozy-”

@@ -1,6 +1,6 @@
 「綺麗だねー。海中がそのまま引っ越ししてきたみたいだ」=“It's beautiful. It's like the whole ocean has moved in.”
 「実際そうみたいですね。近海の生物の水槽のようです……」=“It sounds like you actually are. It's like an aquarium of marine life. ......”
-「へぇ、そうなんだ」=“Oh, yeah.”
+「へぇ、そうなんだ」=“Ehe, is that so.”
 「はい……」=“Yes .......”
 「……随分と熱心に見てるけど、気に入ったの？」=“...... You're looking at it very intently. Do you like it?”
 「そう、ですね。水槽の中は、普通なら見ることの出来ない世界ですから、とても惹かれます」=“Yes, I do. I'm very attracted to aquariums because it's a world that you can't normally see.”

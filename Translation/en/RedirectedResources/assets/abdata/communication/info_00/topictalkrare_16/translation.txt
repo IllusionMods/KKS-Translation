@@ -76,7 +76,7 @@
 「産卵シーズンだし、時期もよかったわね」=“It's spawning season. You're in the right place at the right time.”
 「今って産卵シーズンなの？」=“It's spawning season?”
 「知ってて言ったんじゃなかったの？　基本的に夏の時期よ」=“I thought you said you knew.　It's basically summer time.”
-「いやー、ウミガメが見れるってだけでワクワクしてさ。よく調べてはなかったんだよ」=“No, I was just excited to see sea turtles. I really didn't research it.
+「いやー、ウミガメが見れるってだけでワクワクしてさ。よく調べてはなかったんだよ」=“No, I was just excited to see sea turtles. I really didn't research it.”
 「ふぅん。もしかして、アナタってカメが好きなの？」=“Hmph. I guess you like turtles?”
 「好きというか……背中に乗ってみたいって憧れはあるかな」=“I'm not saying I love them... but I guess I've always wanted to ride on their backs.”
 「おとぎ話じゃないんだから」=“This isn't a fairytale.”

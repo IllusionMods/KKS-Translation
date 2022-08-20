@@ -3,7 +3,7 @@
 //
 「そういえばさ、ホエールウォッチングとか気になる？」=“Oh, by the way, would you be interested in whale watching?”
 「クジラを見るの？　あは、いいね、すごく興味あるっ！」=“Go see the whales?　Ahaa, sure, I'm really interested!”
-「あっ、でも……あんまり近いと怖いかも……船が転覆したりしない？」=Ah! But... I'd be afraid of getting too close... wouldn't the boat capsize?”
+「あっ、でも……あんまり近いと怖いかも……船が転覆したりしない？」=“Ah! But... I'd be afraid of getting too close... wouldn't the boat capsize?”
 「うーん、さすがにそれはないと思うよ。ある程度の距離はあるんじゃない？」=“Hmm, I don't think so. We won't be getting that close, you know?”
 「あはは、そうだよね。だったらぜひ写真に撮ってみたいかもー！」=“Ahaha, that's true. In that case, I might want to take some pictures-!”
 「ヤシガニって知ってるかな？」=“Do you know what a coconut crabs are?”
@@ -55,7 +55,7 @@
 「もちろんだよ。だって……君が大切にお世話してるの知ってるもん」=“Of course I do. Because... I know it's been you taking care of them.”
 「え、そうなの！？　いつから！？」=“I-is that so!?　Since when!?”
 「けっこう前からかな？　ずっとお水あげてたよね？」=“I guess it's been a while.　You've been watering them for a long time, haven't you?”
-「君ってお花にも優しいんだなーって思って、こっそり見てたの。ごめんね」=I was just thinking about how nice you were to the flowers when I was peeking. Sorry.”
+「君ってお花にも優しいんだなーって思って、こっそり見てたの。ごめんね」=“I was just thinking about how nice you were to the flowers when I was peeking. Sorry.”
 「そ、そうなんだ？　見られてたと思うと……ちょっと恥ずかしい……」=“R-really? It's a little embarrassing... knowing that I was being spied on...”
 「そんなことないよ。その……素敵な人だなって思ってたよ、えへへっ♪」=“Don't think that. Um... I was thinking about what a lovely person you are, ehehe!♪”
 「マンタがたくさん泳いでるとこって見てみたいよね」=“I'd love to see a place with lots of manta rays swimming around.”

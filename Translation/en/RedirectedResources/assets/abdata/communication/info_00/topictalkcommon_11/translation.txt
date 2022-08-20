@@ -56,4 +56,4 @@
 「実は母乳が出たりしない？」=“Do you actually make breast milk yet?”
 「もう……私の初めての人があなたなのは知ってるでしょ？　赤ちゃんがいないんだから、出たりしないわ」=“Geez... you know you're my first, right? I'm not pregnant, so none comes out.”
 「そういうお話は、あなたにはまだ早いわ」=“I'm not ready for that kind of talk.”
-「エッチなお話をしてくるなんて……背伸びをしてるのかしら」=I can't believe you're saying naughty stuff... I wonder if that makes you hard.”
+「エッチなお話をしてくるなんて……背伸びをしてるのかしら」=“I can't believe you're saying naughty stuff... I wonder if that makes you hard.”

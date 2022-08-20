@@ -28,7 +28,7 @@
 「俺達に何かできることってあるかな？」=“Is there anything we can do to help?”
 「寄付じゃな」=“Donations.”
 「ぐうの音も出ない正論だね……」=“That's a good proposal...”
-「流れ星っていったら、やっぱり星に願うことかな」=“I guess when shooting stars are talked about, everyone means wishing on the stars.
+「流れ星っていったら、やっぱり星に願うことかな」=“I guess when shooting stars are talked about, everyone means wishing on the stars.”
 「一般的にはそうかもしれぬ。じゃが、わしは星に祈ったことなどないぞ」=“Generally speaking, perhaps. But I've never prayed to the stars.”
 「そうなの？」=“That so?”
 「神頼みというのはあまり好まぬからな」=“I don't like to rely on the gods.”

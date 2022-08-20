@@ -23,4 +23,4 @@
 「うーん、特にないかな」=“Hmm, not really.”
 「そうね、私も……何も出てこない」=“Yeah, I can't find anything on ...... either.”
 「こうしてるだけで充分よね？　……あんたと私、二人で」=“Isn't it enough that we're doing this?　......, you and me, together.”
-「…………うん」=“............ Yeah.”
+「…………うん」=“...yeah.”

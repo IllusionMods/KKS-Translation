@@ -5,7 +5,7 @@
 「あの、一つ心配事があるのですが……」=“Um, I have one concern. ......”
 「ん？　なに？」=“Hmm?　What?”
 「二人同時にストローで飲むんですよね？」=“We'll both be drinking out of straws, right?”
-「うん、そうだね」=“Yes, it is.”
+「うん、そうだね」=“Yeah, that's right.”
 「吸うんじゃなく、ぷーっと吹いたりしません……よね？」=“You don't suck, you don't blow ......, do you?”
 「あはは、そんなことはしないよ」=“No, I won't do that.”
 「そ、そうですよね？　あなたはいたずらっ子みたいなところはありますけど、そこまで子供ではありませんよね？」=“I know, right?　You may be a bit of a naughty boy, but you're not that much of a child, are you?”
