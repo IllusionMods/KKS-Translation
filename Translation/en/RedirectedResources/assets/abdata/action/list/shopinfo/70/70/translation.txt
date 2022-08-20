@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//スイートルーム利用券=
-//ホテルのスイートルームを利用できるようになるチケット。=
+スイートルーム利用券=Suite room ticket
+ホテルのスイートルームを利用できるようになるチケット。=A ticket that allows you to use a private hotel suite.
 残り{0}個={0} left in stock

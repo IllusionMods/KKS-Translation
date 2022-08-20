@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//（……うん？　なんだか下の方が気持ちいいような……気のせいか？）=
-//「って、気のせいじゃない！？　ひかり、何をしてるのっ？」=
-//「んー？　見ての通りよー？　キミのが苦しそうにしてたから、助けてあげてたわけ」=
-//「キミはじっとしててー。自分に任せて大丈夫だからねー」=
+//（……うん？　なんだか下の方が気持ちいいような……気のせいか？）=(...Hm? Somehow, it feels good down there... Am I imagining things?)
+//「って、気のせいじゃない！？　ひかり、何をしてるのっ？」=“Wait, it's not my imagination!? Hikari, what are you doing?”
+//「んー？　見ての通りよー？　キミのが苦しそうにしてたから、助けてあげてたわけ」=“Nn? As you can see, I'm helping you out, since it looked kind of painful.”
+//「キミはじっとしててー。自分に任せて大丈夫だからねー」=Alright, you stay still and leave it to me.”
