@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あの、さ……もしかして、エッチなことしたかったりする？」=
-//「ううん、嫌とかじゃないよ。自分もね、実は少し期待してたから……でも女の子から誘うのは、流石にはしたないかなぁって……」=
-//「だから、誘われてドキッとしたけど、凄く嬉しい……キミも自分を求めてくれてるって、分かったから……」=
+「あの、さ……もしかして、エッチなことしたかったりする？」=“Um... would you maybe want to do something naughty?”
+「ううん、嫌とかじゃないよ。自分もね、実は少し期待してたから……でも女の子から誘うのは、流石にはしたないかなぁって……」=“Noo, I'm not saying I'd like to. I was just kinda expecting that... I wonder if it's even a good idea for a girl to do the asking...”
+「だから、誘われてドキッとしたけど、凄く嬉しい……キミも自分を求めてくれてるって、分かったから……」=“So I'm thrilled that you asked me out, but I'm also very happy, because I know that you want me, too...”
