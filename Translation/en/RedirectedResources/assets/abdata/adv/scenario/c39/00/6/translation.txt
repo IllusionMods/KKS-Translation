@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あ、やっと起きたねー。おはよ……ねぼすけさん♪」=
-//「キミは寝てても起きても可愛いねぇ……えへへ、もうちょっとゴロゴロしてよかー」=
+「あ、やっと起きたねー。おはよ……ねぼすけさん♪」=“Oh, you're finally awake- Good morning... mister sleepyhead♪”
+「キミは寝てても起きても可愛いねぇ……えへへ、もうちょっとゴロゴロしてよかー」=“You're cute, whether you're alseep, or awake...  ehehe, sure we can't romp around a little longer-”
