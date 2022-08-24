@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここ、かなりのパワースポットらしいよ。何かお願い事とかしていこうか？」=
-//「うん！　折角来たんだし、お願いしないと損よねー。キミは何をお願いするのー？」=
-//「そうだなぁ……無病息災とか健康第一とか？」=
-//「うーん、確かに大事なことだけど……ちょっと地味なお願いだねぇ……」=
-//「じゃあ思い切って……[H名]ともっと仲良くなれますようにって、お願いしちゃおうかな」=
-//「えっ、そ、そんなのわざわざお願いしなくてもきっと大丈夫よー？　ここはほら、パワースポットなんだし……」=
+「ここ、かなりのパワースポットらしいよ。何かお願い事とかしていこうか？」=“I heard this place is quite the power spot. Do you want to make a wish or something?”
+「うん！　折角来たんだし、お願いしないと損よねー。キミは何をお願いするのー？」=“Yeah!　That's the reason we came here, after all- So, what are you gonna ask for-?”
+「そうだなぁ……無病息災とか健康第一とか？」=“I guess... maybe I'll go with good health first?”
+「うーん、確かに大事なことだけど……ちょっと地味なお願いだねぇ……」=“Hmm, it's definitely important, but... but that's kind of an everyday request...”
+「じゃあ思い切って……[H名]ともっと仲良くなれますようにって、お願いしちゃおうかな」=“Then I'll go out on a limb and ask for... then I'll ask for [H名] to help me to get to know her better.”
+「えっ、そ、そんなのわざわざお願いしなくてもきっと大丈夫よー？　ここはほら、パワースポットなんだし……」=“Eh! That's alright, you don't need to bother asking for that, okay-? This place is a power spot...”
