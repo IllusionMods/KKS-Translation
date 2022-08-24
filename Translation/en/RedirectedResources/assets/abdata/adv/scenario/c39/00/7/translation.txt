@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//（あれ……なんか下半身がムズムズする……変な夢だな……）=
-//「って、これ……夢じゃない！　[H名]、何してるのっ！？」=
-//「なにって、なんだか凄く元気だったから……出してあげた方がいいかなーって」=
-//「寝ながらでも気持ちよくなれるんだねー。キミ、ピクピク動いてたよー。でーじ可愛かったー」=
+（あれ……なんか下半身がムズムズする……変な夢だな……）=(Whoa... there's this tingling in my lower half... what a strange dream...)
+「って、これ……夢じゃない！　[H名]、何してるのっ！？」=“But this... isn't a dream! What are you doing, [H名]?”
+「なにって、なんだか凄く元気だったから……出してあげた方がいいかなーって」=“Well, you know, he seemed to be in high spirits... so I figured it'd be better for him to let it out-”
+「寝ながらでも気持ちよくなれるんだねー。キミ、ピクピク動いてたよー。でーじ可愛かったー」=“You can enjoy yourself, even while you're sleeping- You're so cute-”
