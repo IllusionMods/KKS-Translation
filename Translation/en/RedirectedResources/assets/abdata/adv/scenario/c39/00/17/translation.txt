@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あは……キミに恥ずかしいところ見られちゃったねぇ……思い出すと、顔から火が出そう……」=
-//「何度もすれば、どんどん慣れてくるはずだから……また、その……よろしくねぇ？」=
+「あは……キミに恥ずかしいところ見られちゃったねぇ……思い出すと、顔から火が出そう……」=“*Sigh*... you caught me in an embarrassing situation... my face burns up when I think about it.”
+「何度もすれば、どんどん慣れてくるはずだから……また、その……よろしくねぇ？」=“Do it enough times, and I'll get used to it... still, um... treat me kindly, okay?”
