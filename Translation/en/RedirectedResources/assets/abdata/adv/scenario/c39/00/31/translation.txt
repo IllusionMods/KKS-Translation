@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お店に来てみたけど……これって観光になってるのかな？」=
-//「立派な観光よー。ご当地のお土産とかもあるし、雰囲気だってキミが住んでる所と違うでしょう？」=
-//「確かに……雰囲気はけっこう違うし、珍しいものがいっぱいある気がする」=
-//「そうそう、そういう所を見つけるのが楽しいさー。似てるからって全部同じだと思ったら勿体ないからねー」=
-//「確かに……なんか、[H名]って案外大人なんだね。そこが今日一番の発見かな」=
-//「もう、案外は余計さー。ほら、観光に来たんだから……もっと周りをよく見て―」=
+「お店に来てみたけど……これって観光になってるのかな？」=“So, we're at the store... I guess this is sightseeing, too?”
+「立派な観光よー。ご当地のお土産とかもあるし、雰囲気だってキミが住んでる所と違うでしょう？」=“It's great sightseeing- There's local souvenirs, and they atmosphere's different from where we live, isn't it?”
+「確かに……雰囲気はけっこう違うし、珍しいものがいっぱいある気がする」=“Definitely... the atmosphere is quite different, and I guess there's a bunch of unusual stuff.”
+「そうそう、そういう所を見つけるのが楽しいさー。似てるからって全部同じだと思ったら勿体ないからねー」=“Right, right. It's great to find places like this- I'd be a shame to think that just because they all look alike, that they're the same-”
+「確かに……なんか、[H名]って案外大人なんだね。そこが今日一番の発見かな」=“Indeed... you know, you're a lot more mature than I thought,[H名]. That's probably my best discovery of the day.”
+「もう、案外は余計さー。ほら、観光に来たんだから……もっと周りをよく見て―」=“Geez, that's too much- Hey, we're here for sightseeing... let's look around some more-”
