@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃ、キミもちゃんと起きれたみたいだし……自分は帰るねー」=
-//「あ……帰っちゃうの？」=
-//「だいじょーぶ、またすぐに会えるから。そんな子犬みたいな顔しないでー」=
+「それじゃ、キミもちゃんと起きれたみたいだし……自分は帰るねー」=“Well then, looks like you're up and about, too... I'll be heading out-”
+「あ……帰っちゃうの？」=“Oh... you're leaving?”
+「だいじょーぶ、またすぐに会えるから。そんな子犬みたいな顔しないでー」=“It's alright, I'll see you again soon. Don't look like such a puppy-”
