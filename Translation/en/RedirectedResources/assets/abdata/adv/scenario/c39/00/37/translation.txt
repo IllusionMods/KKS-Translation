@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ダイビングとかドキドキだね。海の中は綺麗なんだろうなぁ……」=
-//「うんうん！　綺麗なサンゴ、可愛い熱帯魚……もしかしたらイルカもいるかもしれないさー！」=
-//「はは、イルカもいるかもって……[H名]もダジャレとか言うんだね」=
-//「えっ、あ……今のは違くてぇ。ちょっと興奮し過ぎて、変なこと言ってしまっただけよー」=
-//「そうなの？　結構面白かったのに」=
-//「うー、そうやってからかってるとー、もしほんとにイルカを見つけても教えてあげないからねー」=
+「ダイビングとかドキドキだね。海の中は綺麗なんだろうなぁ……」=“I'm excited about diving. It must be beautiful under the sea...”
+「うんうん！　綺麗なサンゴ、可愛い熱帯魚……もしかしたらイルカもいるかもしれないさー！」=“Yeah, yeah!　Beautiful coral, cute tropical fish... and maybe even dolphins-!”
+「はは、イルカもいるかもって……[H名]もダジャレとか言うんだね」=“Haha, you said there might even be dolphins... [H名] just made a pun, or something.”
+「えっ、あ……今のは違くてぇ。ちょっと興奮し過ぎて、変なこと言ってしまっただけよー」=“Eh, ah... not really. I just got a little overexcited, and said something weird-”
+「そうなの？　結構面白かったのに」=“Is that so?　I thought it was pretty funny.”
+「うー、そうやってからかってるとー、もしほんとにイルカを見つけても教えてあげないからねー」=“Uuu-, if you tease me like that- if I really find a dolphin, I won't tell you-”
