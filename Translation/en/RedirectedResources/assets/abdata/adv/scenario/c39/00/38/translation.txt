@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「一人の時は海ってどうやって遊んだらいいかよく分からなかったけど……[H名]と一緒なら何でも楽しめそう」=
-//「それ、自分も一緒よー。キミとは海をただボーっと眺めてるだけでも、ずっと飽きずにいられそう」=
-//「実際飽きないだろうね。こういう時、[H名]と恋人になってよかったって改めて思うよ」=
-//「それも一緒よー。キミとなら……泳いだり、砂のお城を作ったり、海で遊べること何でもしてみたいさー」=
-//「よし、じゃあ折角だし……全部やっちゃおうか！」=
-//「えへへ、いいよー。全部付き合う～♪　二人でこの海を制覇してしまおー」=
+「一人の時は海ってどうやって遊んだらいいかよく分からなかったけど……[H名]と一緒なら何でも楽しめそう」=“When I was alone, I didn't really know how to play in the ocean, but with you, [H名], I can enjoy anything.”
+「それ、自分も一緒よー。キミとは海をただボーっと眺めてるだけでも、ずっと飽きずにいられそう」=“I'm with you on that- I'll never get tired of just gazing at the ocean with you.”
+「実際飽きないだろうね。こういう時、[H名]と恋人になってよかったって改めて思うよ」=“I know I'll never get tired of it. It's moments like this that make me glad I became your lover, [H名].”
+「それも一緒よー。キミとなら……泳いだり、砂のお城を作ったり、海で遊べること何でもしてみたいさー」=“Same here- I'd love to swim with you... or build sandcastles, or anything else we can do in the ocean-”
+「よし、じゃあ折角だし……全部やっちゃおうか！」=“Right, so here's a great opportunity... let's do them all.”
+「えへへ、いいよー。全部付き合う～♪　二人でこの海を制覇してしまおー」=“Ehehe, sure- I'm up for everything~♪ We'll conquer the sea together-”
