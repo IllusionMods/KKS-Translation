@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あぁ～楽しかったー。やっぱり身体を動かして遊ぶとスッキリするさー。また一緒に遊ぼうね～」=
+「あぁ～楽しかったー。やっぱり身体を動かして遊ぶとスッキリするさー。また一緒に遊ぼうね～」=“Ahh~ That was fun- It's refreshing to move and and play, after all- Let's play together again~”
