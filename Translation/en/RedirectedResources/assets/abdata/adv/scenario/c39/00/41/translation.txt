@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱり誰と遊ぶより、キミと一緒が一番だねぇ。満足感が全然違うさー」=
+「やっぱり誰と遊ぶより、キミと一緒が一番だねぇ。満足感が全然違うさー」=“I would rather play with you, than anyone else. It's a totally different feeling-”
