@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うーん……なんか俺のシーサー、目がでっか過ぎるような……」=
-//「あはは、キミのシーサーは愛嬌があっていいねー。クリクリおめめで可愛いさー」=
-//「これ……可愛いの？　気持ち悪くない？」=
-//「気持ち悪いなんて言ったら罰当たりよー。そのシーサーはキミの守り神になるんだからー」=
-//「いやでも……[H名]のみたいに、もっとちゃんとした感じにしたいなぁ……」=
-//「だったら、周りをもっと大きくすればいいよー。それでバランスが取れるはずさー」=
+「うーん……なんか俺のシーサー、目がでっか過ぎるような……」=“Hmmm... I dunno- my shisa's eyes look too big...”
+「あはは、キミのシーサーは愛嬌があっていいねー。クリクリおめめで可愛いさー」=“Ahaha, your shisa is so loveable- Those big eyes make it look so cute-”
+「これ……可愛いの？　気持ち悪くない？」=“So... it's cute? It's not creepy?”
+「気持ち悪いなんて言ったら罰当たりよー。そのシーサーはキミの守り神になるんだからー」=“I'd be cursed if I said it looked creepy- That shisa will become your guardian deity-”
+「いやでも……[H名]のみたいに、もっとちゃんとした感じにしたいなぁ……」=“No, but... I wish I could get it right, like yours, [H名]...”
+「だったら、周りをもっと大きくすればいいよー。それでバランスが取れるはずさー」=“Then you should make the rest of it bigger- That'll balance things out-”
