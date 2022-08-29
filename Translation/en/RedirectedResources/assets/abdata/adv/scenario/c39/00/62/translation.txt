@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]がより綺麗になる為に、今度は前側も塗っていこうか」=
-//「……下心が丸見えだけど、許してあげるさー」=
-//「うっ……ごめん、もし嫌なら……普通に背中だけにしておくよ」=
-//「嫌とは言ってないよー？　キミに触ってもらえるのは、気持ちいいからねー」=
+「[H名]がより綺麗になる為に、今度は前側も塗っていこうか」=“Let me spread it on your front side now, [H名], to make you more beautiful.”
+「……下心が丸見えだけど、許してあげるさー」=“...I can see your ulterior motives, but I'll forgive you-”
+「うっ……ごめん、もし嫌なら……普通に背中だけにしておくよ」=“Uuu... sorry. If you don't want to... I'll just do it on your back, like normal.”
+「嫌とは言ってないよー？　キミに触ってもらえるのは、気持ちいいからねー」=“I didn't say I didn't like it, okay-?　It feels good when you touch me-”
