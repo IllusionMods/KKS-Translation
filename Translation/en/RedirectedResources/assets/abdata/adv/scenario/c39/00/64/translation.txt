@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「にふぇーでーびたん♪　でーじ気持ち良かったさー」=
-//「ふふ、君の腕前はじょーとーだねー。良かったよー」=
-//「ありがとー。悪くなかったさー」=
-//「本当に終わっちゃうわけ？　次は塗ってねー」=
+「にふぇーでーびたん♪　でーじ気持ち良かったさー」=“That was some spreading♪ It felt really good-”
+「ふふ、君の腕前はじょーとーだねー。良かったよー」=“Fufu, you're really good at that- That was great-”
+「ありがとー。悪くなかったさー」=“Thank you. That wasn't bad-”
+「本当に終わっちゃうわけ？　次は塗ってねー」=“So you're not going to finish?　Next time, try spreading it on me-”
