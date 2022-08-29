@@ -2,9 +2,9 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「すぅ……すぅ……ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
-（んぅ……ん……なんか、下半身に違和感が……？）=(Nn... nn... my crotch feels kinda...?)
+（んぅ……ん……なんか、下半身に違和感が……？）=(Nn... nn... something doesn't feel right in the lower half of my body...?)
 「…………」=“...”
-//「うわっ、[H名]！？　ダメだよ……！」=
-//「あ、やっと起きたねー。んっ、おはよー。ダメなんて言ってー、キミのここはずっと硬いままだよー？」=
-//「それは、寝起きはそうなっちゃうもので……」=
-//「ふーん、ほんとにそれだけー？　じゃあ、このまま続けたらどうなっちゃうのー？　自分、知りたいなぁ……」=
+「うわっ、[H名]！？　ダメだよ……！」=“Whoa, [H名]!?　You can't be...!”
+「あ、やっと起きたねー。んっ、おはよー。ダメなんて言ってー、キミのここはずっと硬いままだよー？」=“Oh, you're finally awake- Nh, morning- Don't tell me I can't- This part of you is still hard-”
+「それは、寝起きはそうなっちゃうもので……」=“That's always what happens when I wake up in the morning...”
+「ふーん、ほんとにそれだけー？　じゃあ、このまま続けたらどうなっちゃうのー？　自分、知りたいなぁ……」=“Hmm, is that really all it is-? Well then, what'll happen if I keep going like this...”
