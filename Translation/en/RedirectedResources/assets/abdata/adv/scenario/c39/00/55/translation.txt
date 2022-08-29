@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[Pあだ名]、はいたーい！」=
-//「……へ？　今なんて？」=
-//「んぅ？　『はいたい』は『こんにちは』って意味の挨拶よー？　忘れちゃったー？」=
-//「いや、そっちは分かってるんだけど……俺のこと、なんか違う呼び方しなかった？」=
-//「えへへ、ちょっとあだ名で呼んでみよかなーって。どう？　馴れ馴れし過ぎたー？」=
-//「そんなことないよ。いきなりで驚いたけど……あだ名で呼んでもらえて嬉しかった」=
-//「よかったぁ。ならたまにはあだ名で呼んでもいーい？」=
-//「もちろん。こっちからお願いしたいくらいだよ。[H名]と一気に距離が縮んだ気がするし」=
-//「じゃあ……キミも自分のこと、あだ名で呼んでくれたりするー？」=
-//「えっ、いいの？　うーん、それなら……[Hあだ名]とかどう？」=
-//「はぅっ……うん、それでいいよー。なんか、あだ名で呼ばれるとくすぐったくなるねぇ……」=
-//「はは、そうだね。少しずつ使って慣れていこうか」=
+「[Pあだ名]、はいたーい！」=“[Pあだ名], hai tai!”
+「……へ？　今なんて？」=“Eh...?　What, now?”
+「んぅ？　『はいたい』は『こんにちは』って意味の挨拶よー？　忘れちゃったー？」=“Nhuu? 'Hai tai' is a greeting that means 'hello', right-? Did you forget-?”
+「いや、そっちは分かってるんだけど……俺のこと、なんか違う呼び方しなかった？」=“No, I didn't forget... but didn't you call me by something different?”
+「えへへ、ちょっとあだ名で呼んでみよかなーって。どう？　馴れ馴れし過ぎたー？」=“Ehehe, I just thought I'd call you by your nickname- How was it? Or am I being too familiar-?”
+「そんなことないよ。いきなりで驚いたけど……あだ名で呼んでもらえて嬉しかった」=“Not at all. I was just surprised at the suddenness of it... I'm happy to be called by my nickname.”
+「よかったぁ。ならたまにはあだ名で呼んでもいーい？」=“That's good. Then you don't mind if I sometimes call you by your nickname-?”
+「もちろん。こっちからお願いしたいくらいだよ。[H名]と一気に距離が縮んだ気がするし」=“Of course. And I'd like to ask if I could do the same thing. I feel like I'm suddenly getting closer to you, [H名].”
+「じゃあ……キミも自分のこと、あだ名で呼んでくれたりするー？」=“Then... why don't you call me by my nickname?”
+「えっ、いいの？　うーん、それなら……[Hあだ名]とかどう？」=“Eh, so that's okay? Mmm... then how about... [Hあだ名]?”
+「はぅっ……うん、それでいいよー。なんか、あだ名で呼ばれるとくすぐったくなるねぇ……」=“Ahuu... yeah, that's good- It tickles me when you call me by my nickname...”
+「はは、そうだね。少しずつ使って慣れていこうか」=“Haha, you're right. Let's get used to them, little by little.”
