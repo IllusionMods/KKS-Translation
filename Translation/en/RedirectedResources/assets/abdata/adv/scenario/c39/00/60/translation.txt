@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「あ、あのねぇ……ちょっとキミの顔が見たくなっちゃって……お部屋、入れてくれるー？」=
+「あ、あのねぇ……ちょっとキミの顔が見たくなっちゃって……お部屋、入れてくれるー？」=Y-you know... I just wanted to see your face a little... will you let me in your room-?”
 SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-//「うん、いいよ。寂しくなっちゃったのかな？」=
-//「うん、ちょっとー。でもキミの声を聞いたら、すぐに心がポカポカになったよー」=
-//「邪魔にならないようにするから、少し一緒にいさせてー。キミの匂いとか体温をね、近くで感じてたいの……」=
-//「いないのー？　はぁ、会いたかったなぁ……うぅ、どうしよう……どんどん寂しくなっちゃってる……」=
+「うん、いいよ。寂しくなっちゃったのかな？」=“Yeah, sure. Guess you got lonely?”
+「うん、ちょっとー。でもキミの声を聞いたら、すぐに心がポカポカになったよー」=“Yeah, a little- But as soon as I heard your voice, my heart got all warm and fuzzy-”
+「邪魔にならないようにするから、少し一緒にいさせてー。キミの匂いとか体温をね、近くで感じてたいの……」=“I'll try not to get in the way. Just let me hang out with you for a bit- I want to smell you, and feel your body heat close to me-”
+「いないのー？　はぁ、会いたかったなぁ……うぅ、どうしよう……どんどん寂しくなっちゃってる……」=“You're not here? *Sigh* I miss you so much... uuu, what to do... now I'm even more lonely...”
