@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「実はさ、[H名]に呼んでもらいたい愛称があるんだけど……」=
-//「愛称？　あだ名とは違うのー？」=
-//「うん、その……[Pあだ名]って……呼んで欲しくて……」=
-//「あぁ、愛称ってそういうねー。えへっ、キミの趣味がちょっと分かった気がするさー」=
-//「もしかして……ちょっと引いた？」=
-//「ううん、そんなことないよー。ちょっと待ってねぇ……どんな感じで呼ぶか考えてるからー」=
-//「……よし、じゃあ呼ぶよー。[Pあだ名]……こんな感じでいいー？」=
-//「いい！　凄くいい！　ありがとう[Hあだ名]！」=
-//「わっ、自分もあだ名で呼んでくれるのー？　なんだかちょっと、ゾクってしたよー」=
-//「はは、それはいい意味で？」=
-//「うん、もちろんよー。えへへ、キミがあだ名で呼ばれたいーって言った気持ち、少し分かったかもー」=
-//「じゃあ、たまにはこんな感じで呼び合おうか？」=
-//「そうだねー。ずっとこの呼び方をするのは、こそばゆいさー」=
+「実はさ、[H名]に呼んでもらいたい愛称があるんだけど……」=“Actually, there's this nickname I'd like you to call me by, [H名]...”
+「愛称？　あだ名とは違うのー？」=“A pet name?　Is that different from a nickname?”
+「うん、その……[Pあだ名]って……呼んで欲しくて……」=“Yeah, um... I want you to call me...[Pあだ名]...”
+「あぁ、愛称ってそういうねー。えへっ、キミの趣味がちょっと分かった気がするさー」=“Ahh, that's what 'nickname' means. Ehe, I think I know what you're into a little better now-”
+「もしかして……ちょっと引いた？」=“Maybe you're... drawing the wrong conclusion?”
+「ううん、そんなことないよー。ちょっと待ってねぇ……どんな感じで呼ぶか考えてるからー」=“No, I don't think so- Hey, wait a second... I'm trying to think up something to call you-”
+「……よし、じゃあ呼ぶよー。[Pあだ名]……こんな感じでいいー？」=“...right, then I'll call you...[Pあだ名]... like that-?”
+「いい！　凄くいい！　ありがとう[Hあだ名]！」=“Good!　Great!　Thank you, [Hあだ名]!”
+「わっ、自分もあだ名で呼んでくれるのー？　なんだかちょっと、ゾクってしたよー」=“Wow, now you're calling me by a nickname-?　That kinda gave me the chills-”
+「はは、それはいい意味で？」=“Haha, you mean that in a good way?”
+「うん、もちろんよー。えへへ、キミがあだ名で呼ばれたいーって言った気持ち、少し分かったかもー」=“Yes, of course- Ehehe, now I think I understand a little bit why you want me to call you by your nickname-”
+「じゃあ、たまにはこんな感じで呼び合おうか？」=“So, why don't we call each other like this sometimes?”
+「そうだねー。ずっとこの呼び方をするのは、こそばゆいさー」=“That's right- It'd be embarassing to use them all the time-”
