@@ -14,13 +14,13 @@
 「はは、確かに見ようによっては葡萄っぽいけど……」=“Yeah, it does look like grapes, but ......”
 「実際に食べたりもできるんよね？　なんかで読んだことある気がする」=“You can actually eat them, right?　I think I've read something about it.”
 「でもあの葡萄みたいなのは花やもんね。一体どこを食べるとかいな？　葉っぱ？　わぁ、めっちゃ気になってきたー！」=“But those grape-like things are flowers. What exactly do you eat?　Leaves?　Wow, I'm getting really curious!”
-「ヤマネコって好き？」=“Do you like bobcats?”
+「ヤマネコって好き？」=“Do you like wildcats?”
 「もちろん好いとうよ。私、動物はみんな好きやもん」=“Of course I like them. I like all animals.”
 「そうだよね。もしも見られるとしたら見たい？」=“That's true. If you could see one, would you?”
-「うん、ヤマネコっていうくらいやけん、普通の飼い猫よりも絶対モフモフやんね」=“Well, they're called bobcats, so they're definitely firmer than your average cat.”
+「うん、ヤマネコっていうくらいやけん、普通の飼い猫よりも絶対モフモフやんね」=“Well, they're called wildcats, so they're definitely firmer than your average cat.”
 「それって種類の問題なんじゃ……」=“I think it's a matter of breed. ......”
 「えー、そうなん？　山の中で生きとるくらいやけん、ワイルドなんかと思っとったけど……」=“Oh, really?　They live in the mountains, so I thought they were wild. ......”
-「あ、でもヤマネコもお魚好きなんかな？　川魚とか食べるとるとかいな？」=“I wonder if bobcats like fish too.　Do you think they eat river fish?”
+「あ、でもヤマネコもお魚好きなんかな？　川魚とか食べるとるとかいな？」=“I wonder if wildcats like fish too.　Do you think they eat river fish?”
 「うーん、どうなんだろう？　でも確かに猫はみんな魚好きなイメージあるよね」=“Well, I don't know.　I don't know, but I think all cats like fish, don't they?”
 「流れ星っていいよね。見れたらラッキーって思わない？」=“Shooting stars are nice, aren't they? Don't you feel lucky when you see one?”
 「思う思う！　私の実家田舎やけん、結構よく見えたとよ」=“I think so!　My parents live in the countryside, so they can see them quite often.”

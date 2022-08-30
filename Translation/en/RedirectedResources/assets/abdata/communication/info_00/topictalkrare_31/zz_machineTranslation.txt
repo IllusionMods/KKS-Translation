@@ -19,7 +19,7 @@
 「月桃、侮れないね……」=“Moonberries are not to be underestimated. ......”
 「ヤマネコって可愛いよね」=“Wildcats are so cute.”
 「この島にいる野性のネコだったか？　確かに愛らしい姿をしていたな」=“Was it a wild cat on the island?　They sure do have a lovely appearance.”
-「しかし普通のネコとヤマネコは一体なにが違うんだ？」=“But what's the difference between a normal cat and a bobcat?”
+「しかし普通のネコとヤマネコは一体なにが違うんだ？」=“But what's the difference between a normal cat and a wildcat?”
 「見た目は……まぁ微妙に違うが、可愛いことに変わりはないぞ」=“They may look ...... slightly different, but they're still cute.”
 「……そういうことを調べるのが、この旅行の目的だと思うよ！」=“...... I think that's the purpose of this trip, to find out!”
 「つまり知らないってことだな。だが、おまえが言うことは正しい。今度ふたりで調べてみるか？」=“So you don't know. But you're right. Maybe you and I should check it out sometime.”

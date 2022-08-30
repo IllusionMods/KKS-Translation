@@ -17,7 +17,7 @@
 「匂いの好みは別れるみたいですが、私は好きですよ」=“The smell is not to everyone's taste, but I like it.”
 「匂いか……たしか防虫効果があるんだったかな」=“That smell... I think it's used in insect repellent.”
 「お茶として飲むこともあるそうですけど、どんな味なのか想像つきませんね」=“I've heard it's sometime drank as tea, but I can't imagine what it tastes like.”
-「聞いてよ、ヤマネコを見かけたんだ！」=“Check it out, I saw a bobcat!”
+「聞いてよ、ヤマネコを見かけたんだ！」=“Check it out, I saw a wildcat!”
 「わぁ……いいですね。可愛かったですか？」=“Wow... that's really nice. Was it cute?”
 「うん、もふもふだったよ。さすがに撫でるのは無理だったけど……」=“Yes, it was so fluffy. But, as you'd expect, I couldn't pet it...”
 「野生なんだからしかたありませんよ」=“There's no helping that. It's wild.”

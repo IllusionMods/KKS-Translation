@@ -27,7 +27,7 @@
 「気が強い子が好きなのかなぁ？　……ですかね」=“I wonder if you like strong-willed girls? ...I guess.”
 「どうあってもそういうイメージか」=“That's the image, no matter how you look at it.”
 「どーしてそんなことを聞くのですか？　やっぱり私が……」=“Why are you asking me that?　After all, I'm...”
-「俺、ヤマネコって可愛いと思うんだけど」=“I think bobcats are cute.”
+「俺、ヤマネコって可愛いと思うんだけど」=“I think wildcats are cute.”
 「だったら、普通にそれだけ言えばいいと思うのです……」=“Then why didn't you just tell me that...”
 「どうすれば流れ星を見逃さないで済むかな？」=“How do I keep from missing out on shooting stars?”
 「難題なのです。流星群とかでもなければ流れ星なんて一瞬でからね……」=“That's a challenge. Unless there's a meteor shower or something, shooting stars are there just for a blink of an eye.”
