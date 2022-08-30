@@ -2,4 +2,3 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「えっ？　終わって大丈夫なわけ？　うーん……キミがいいなら、わかったさぁ」=“Eh? You're telling me you want to stop? Okay... if you're fine with stopping, I'll go along.”
- 
