@@ -108,7 +108,7 @@
 「女性の体に興味はない？　もし興味があるようなら……ね？」=“Aren't you interested in a woman's body? So, if you're interested... yeah?”
 「時間ね。ごめんなさい、もういかないと」=“It's time. I'm sorry, I have to go.”
 //「どうやらここまでのようね。さようなら」=
-「時間ね。もういくわ」=It's that time. I have to go.”
+「時間ね。もういくわ」=“It's that time. I have to go.”
 「そう、色々興味深かったわ。またいつでも話しかけて」=“Well, that was entertaining. You can talk to me anytime.”
 「えぇ、さよなら」=“Ehh, goodbye.”
 //「これから観光しようよ」=
@@ -225,7 +225,7 @@
 「君のことが好きだ」=“I love you.”
 「……ごめんなさい、今はまだ、アナタの気持ちに応えられないわ」=“...I'm sorry, but I'm not ready to respond to your feelings just yet.”
 「突然こんな事言われて、困るかも知れないけど……私、アナタの事が好きなの」=“I know I might get in trouble for springing this on you... but I love you.”
-「……そうよね。いきなり変な事を言ってごめんなさい……気にしなくていいから」=“...I see. Sorry for just saying something so weird out of the blue like that... don't worry about it.¨
+「……そうよね。いきなり変な事を言ってごめんなさい……気にしなくていいから」=“...I see. Sorry for just saying something so weird out of the blue like that... don't worry about it.¨”
 「あ、あのさ……きみとHしたいんだ」=“I, I, uh... I want to have sex with you.”
 //「その前のめりな姿勢には関心するわ。でもね、それと答えは別」=
 「きみとHしたい。ダメかな？」=“I want to have sex with you. Or is that a no?”

@@ -22,7 +22,7 @@
 「魔界にも自然が豊かな所ってあるの？」=“Is there any place in the demon world that are rich in nature?”
 「ここほど緑が豊かなところは、我が知る限りはないな」=“There's no place I know of that's as lush as this place.”
 「今日も空が綺麗だね」=“The sky is so beautiful today.”
-「うむ……ここへ来てから、我はよく空を見上げる様になったが……汝も一緒だったのだな」=Umm... since I arrived here, I often look up into the sky... I see you do, as well.”
+「うむ……ここへ来てから、我はよく空を見上げる様になったが……汝も一緒だったのだな」=“Umm... since I arrived here, I often look up into the sky... I see you do, as well.”
 「綺麗な自然を俺たちが汚さない様に気を付けないとね」=“We have to be careful we don't contaminate the beauty of nature.”
 「そうだな……我は悪魔だが、汝の言うことは正しいと思うぞ。我もこれから一層気を付けよう」=“Yes... I may be a demon, but I believe you're right. I'll be more careful from now on.”
 「アクアリウムとかやってみたいと思う？」=“Do you think you'd like to try the aquarium?”

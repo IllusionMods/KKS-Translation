@@ -79,7 +79,7 @@
 「ねぇ、私と一緒に体験行ってみない？」=“Hey, do you want to come with me to the experience?”
 「ありがとう。それじゃあ何の体験にしようか？」=“Thanks. So what do you want to do?”
 「ダメかー。仕方がないね、また今度にするよ」=“No? Oh, well, I guess we'll just have to do it another time.”
-「一緒にご飯食べに行こうよ」=“Let's go to dinner together.”
+「一緒にご飯食べに行こうよ」=“Let's grab something to eat together.”
 「行く行く。何か美味しいもの食べたいなー」=“I'm in. I want to eat something delicious.”
 「ごめんね、今あんまりご飯の気分じゃないんだー」=“I'm sorry, I'm not really in the mood for dinner right now.”
 「私とご飯に行かない？　どうかな？」=“Do you want to go out to dinner with me?　I don't know.”

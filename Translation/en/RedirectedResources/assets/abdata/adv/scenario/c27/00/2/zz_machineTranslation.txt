@@ -33,7 +33,7 @@
 「うぅぅぅーーーー」=“Ooooohhh!”
 「いや、そんなに唸らなくても」=“No, you don't have to be so snarky.”
 「ただの自己嫌悪よ！　ひとりで勝手に勘違いして傷ついて……バカみたいじゃない」=“It's just self-loathing!　You're just self-loathing! You're hurting yourself with your own misunderstandings. ...... It's so stupid.”
-「あははははは」=“Ha-ha-ha-ha.”
+「あははははは」=“Ahahahaha!”
 「な、何よ……好きって言うならフォローしてくれてもいいでしょ？」=“What? If you like ......, why don't you follow me?”
 「事実だからね」=“It's true.”
 「でも、俺はそういうきみのことが大好きだから」=“But I love it when you do that.”
@@ -44,4 +44,4 @@
 「乙女的には同じようなものなの！」=“It's the same thing with a girl!”
 「わかったよ！　そんな幸せな未来にたどり着けるように……でも、うん、あまり肩肘張らずにさ」=“All right!　I hope you have a happy future with ......, but, yeah, don't be too hard on yourself.”
 「俺達らしく、今まで通りで仲良くやっていこう」=“Let's just be like us and get along like we always have.”
-「…………うん」=“............ Yeah.”
+「…………うん」=“...yeah.”

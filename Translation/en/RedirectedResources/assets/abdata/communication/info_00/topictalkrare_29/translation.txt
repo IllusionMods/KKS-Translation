@@ -85,7 +85,7 @@
 「フェチシズムの話をしよう！」=“Let's talk about fetishism!”
 「……唐突過ぎて、思考がついていきません」=“...I can't keep up with you when you spring things like that on me.”
 「でも、大事な話だよ。本当に大事」=“But it's important. Really important.”
-「そ、そうですか？　まあ、誰しも性的嗜好があると思いますけど」=“W-why is that? Well, I guess we all have our sexual preferences.
+「そ、そうですか？　まあ、誰しも性的嗜好があると思いますけど」=“W-why is that? Well, I guess we all have our sexual preferences.”
 「それで、どんな趣味なの？」=“So, what are your preferences?”
 「ノーコメントです」=“No comment.”
 「欲求不満な時、どうしてるの？」=“What do you do when you're frustrated?”

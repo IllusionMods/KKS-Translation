@@ -91,7 +91,7 @@
 「至って平常だよ。ただちょっと真理を悟っただけさ」=“Everything's normal. I just had a little epiphany.”
 「女の子の胸には夢とロマンが詰まってるでしょ？　それって宇宙に似てると思うんだ」=“A girl's breasts are full of dreams and romance, aren't they?　That sounds like the universe, to me.”
 「……なんでも宇宙に結びつければいいと思ってない？」=“...you just can't connect everything to space.”
-「適当なことばかり言ってると、“かれら”にお仕置きしてもらからね」= 'They'll' punish you if you keep spouting nonsense.”
+「適当なことばかり言ってると、“かれら”にお仕置きしてもらからね」=“They'll' punish you if you keep spouting nonsense.”
 「わわ、ごめん。怒らないでよ～」=“Wawa, sorry. Don't be mad at me.”
 「何のフェチか教えてくれる？」=“Can you tell me what your fetish is?”
 「そういうこと言ったらダメって、“かれら”に言われてるの」=“When you asked that, 'they' told me not to tell you.”

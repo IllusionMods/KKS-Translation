@@ -106,7 +106,7 @@
 「えーと……ド直球でそんなこと聞かれても、正直に言って返答に困りますぞ」=“Uh, ah... when you ask me such a direct question, I honestly have a hard time giving you an answer.”
 「ま、まぁ、あえて答えるなら……する時もあれば、しないこともあるって感じになりますな」=“W-Well, if I had to answer, I'd say... sometimes I do, and sometimes I don't.”
 「なんか中途半端な答えだね、それ」=“That's kind of a half-assed answer, isn't it?”
-「ワタシにはゲームがあるので、それで欲求不満も解消できますぞ！」=“I take my frustration out by playing games!
+「ワタシにはゲームがあるので、それで欲求不満も解消できますぞ！」=“I take my frustration out by playing games!”
 「ああ……なるほどね。それもありか」=“Ahh... so that's it. That, too.”
 「初めてのエッチのときってどうだったのかな？」=“What was it like, the first time we had sex?”
 「痛かった」=“It hurt.”

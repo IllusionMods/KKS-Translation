@@ -20,7 +20,7 @@
 「うん。ボクもキミと付き合いたい」=“I'm not sure. I want to go out with you, too.”
 「やった……！　ありがとう、嬉しいよ」=“'Yay ......!　Thank you. It's my pleasure.”
 「ボクも嬉しい、両想いだったんだ……でも、少しだけ複雑な気分かも」=“I'm happy for you, too, that it's a double love ......, but it might be a little complicated.”
-「え、なんで？」=“What? Why?”
+「え、なんで？」=“Eh, why?”
 「ここに来たとき、ボクも『ここなら告白できるかも』って思ったから、キミに先を越されちゃったなって」=“When I came here, I thought, 'Maybe I can confess my feelings here,' but you beat me to it.”
 「じゃあ俺が言い出さなかったら[H名]が告白してくれてたの？」=“So if I hadn't come out and said it, [H名] would have confessed it to me?”
 「うん。ボクが勇気を出せていればだけど」=“I'm not sure. If I can muster the courage.”

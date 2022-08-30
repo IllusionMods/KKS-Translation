@@ -57,7 +57,7 @@
 「マンボウみたいに縦に潰れた感じの生き物もいるし、魚は不思議よね」=“Some of them are like sunfish, squashed vertically. Fish are strange.”
 「中には目が飛び出しているようなのもいるから、見ていて飽きないわ」=“Some of them look like their eyes are popping out of their heads, so you can't get tired of looking at them.”
 「その魚たちからしたら、人間のことを不思議に思ってるかもしれないね」=“Some of them even have eyes that pop out.”
-「海ほたるって綺麗だよね」=“Sea fireflies are beautiful, aren't they?”
+「海ほたるって綺麗だよね」=“Sea fireflies are beautiful.”
 「見た目だけで言えば、見飽きない程度には私も綺麗だと思うわ」=“I think they're pretty enough to look at, but not so pretty as to be boring.”
 「でも、あれってホタルと言うだけあって、生き物でしょう？」=“But they're called fireflies. They're living things, aren't they?”
 「うん、そうだよ」=“Yes, they are.”

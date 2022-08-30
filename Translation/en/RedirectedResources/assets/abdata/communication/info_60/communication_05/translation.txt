@@ -171,7 +171,7 @@
 「そうだね、広すぎてどの星へ行くか悩んじゃいそう」=“That's right... it's so big, we'd have a hard time deciding which planet to go to.”
 「うーん、するなら別の話しよ？　その話題はどうでもいいよ」=“Mmm-hmm, let's talk about something else. That topic doesn't interest me.”
 「友達から惚気話を聞かされてさ……」=“A friend of mine told me a love story. ......”
-「そうなの？　わたしもそういう相手がいればなぁ」=Is that so? I wish I had a friend like that.”
+「そうなの？　わたしもそういう相手がいればなぁ」=“Is that so? I wish I had a friend like that.”
 //「エッチって特別なものだと思う？」=
 「うん！　心を解放いて、宇宙に繋がる方法だから」=“Yeah! It's a way to free your mind and connect with the universe.”
 「うーん。あなたたちにとったら、ただの行為かもね」=“Mmm-hmm. For humans, it might just be an act.”

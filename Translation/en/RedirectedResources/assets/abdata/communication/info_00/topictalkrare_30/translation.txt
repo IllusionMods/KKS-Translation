@@ -10,7 +10,7 @@
 「もちろん知ってるわ。カニのような、エビのような奇妙な形をした生き物よね」=“Of course I do. They're these weird creatures that look like crabs, or shrimp.”
 「しかもすごく大きいわよね。あの大きなハサミがキミの指を……」=“They're really big, too. And if your fingers got in those big pincers...”
 「待って待って！　考えたら痛くなってきたっ！」=“Wait, hold up!　That hurts, just thinking about it!”
-「ふふっ、ごめんね。ちょっと意地悪しちゃった。慌ててるキミを想像したら可愛くて♪」=Fufu, sorry. That was a little mean of me. I was just imagining you in a panic, and you were so cute♪”
+「ふふっ、ごめんね。ちょっと意地悪しちゃった。慌ててるキミを想像したら可愛くて♪」=“Fufu, sorry. That was a little mean of me. I was just imagining you in a panic, and you were so cute♪”
 「月桃って知ってるかな？」=“Do you know what shell ginger is?”
 「ええ、知ってるわ。確かアロマオイルや香料として使用する植物よね」=“Ehh, I do. It's a plant used for aromatic oils and fragrances.”
 「どうやら種子は乾燥させて、薬として飲んだりも出来るんだって」=“Apparently, the seeds can be dried and drunk as a medicine.”

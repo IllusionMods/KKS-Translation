@@ -79,7 +79,7 @@
 「はぁ……あなたね。砂浜一面に広がるヒトデの群れを想像してみなさいな」=“*Sigh*... you. Imagine a bunch of starfish spreading all over the beach.”
 「うっ。それはホラーだ……」=“Uuu. That's horrible...”
 「でしょ？　だからお星様に例えたのよ。その方がロマンチックだもの」=“Right?　That's why I compared it to the stars. It's more romantic that way.”
-「モノの捉え方しだいで気分って変わるものなんだね。勉強になったよ」=I guess things change, depending on how you look at them. I learn a lot from you.”
+「モノの捉え方しだいで気分って変わるものなんだね。勉強になったよ」=“I guess things change, depending on how you look at them. I learn a lot from you.”
 「ウムイの鐘を鳴らすと恋が実るというけど本当かな？」=“I wonder if it's true that ringing the Umui Bell will bring love to fruition?”
 「１００パーセント真実だと思うわ」=“I think it's 100% sure it's true.”
 「すごい自信だね。その根拠は？」=“You're very confident. What makes you so sure?”
@@ -96,7 +96,7 @@
 「ふふっ、教えてあ～げない」=“Fufu! I can't tell you~”
 「え～？　いいでしょ。せめてヒントだけでも教えてよ」=“Eh~?　Well, okay. At least give me a hint?”
 「ダメよ。教えちゃったら見つける楽しみが減るじゃない」=“Nope. If I gave you a clue, you'll have less fun finding it.”
-「私の秘密、あなたの手で暴いてほしいな……なんてね。ふふっ」=“And I hope you'll make me reveal my secret to you. Fufu!
+「私の秘密、あなたの手で暴いてほしいな……なんてね。ふふっ」=“And I hope you'll make me reveal my secret to you. Fufu!”
 「エッチな気分になった時はどうしてる？」=“What do you do when you're feeling naughty?”
 「え？　そ、そうね。ご想像にお任せするわ……」=“Eh?　Well, that. I'll leave that to your imagination...”
 「ふ～ん、なるほどね。そういうわけか」=“Hmm, I see. So that's how you are.”

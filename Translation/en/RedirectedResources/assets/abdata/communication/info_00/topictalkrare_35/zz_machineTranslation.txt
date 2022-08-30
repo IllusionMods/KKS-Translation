@@ -63,7 +63,7 @@
 「なんか……あんまり近付いたら噛まれたりしそうやない？　それがちょっと怖い……」=“I'm afraid that if I get too close to them, they might bite me.　That's what I'm afraid of. ......”
 「どうなんだろう？　あんまり聞かないけど……」=“What do you think?　I don't hear much about it. ......”
 「そうなんかな？　でものんびりゆっくり一緒に泳ぐのはやってみたいっちゃけどね」=“I don't know.　But I'd like to try swimming with them slowly and leisurely.”
-「海ほたるってどう思う？」=“What do you think of Umihotaru?”
+「海ほたるってどう思う？」=“What do you think of sea fireflies?”
 「めっちゃ綺麗やん！　海が星空になったみたいで感動するん！」=“It's so beautiful!　It's so beautiful! It's like the ocean is a starry sky!”
 「確かに。満天の星空の下で見ると海に反射してるみたいな気になるよね」=“That's true. When you see it under a starry sky, it's like the reflection of the sea.”
 「うん、生き物があんな綺麗な景色を作るってすごいことやない？」=“Yeah, isn't it amazing that living things can create such a beautiful scene?”

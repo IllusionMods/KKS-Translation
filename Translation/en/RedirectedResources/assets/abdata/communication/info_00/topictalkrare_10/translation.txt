@@ -115,6 +115,6 @@
 「ななな何を言うのだっ！　い、いきなりそんなことを言い出すとは、汝は気が狂ったのか！？」=“W-w-what are you talking about! Saying such a thing, so suddenly... are you crazy?!”
 「ご、ごめん……でも、男としてはどうだったのか気になってさ……」=“S-sorry... as a man, I have to wonder how it was for you.”
 「俺、ちゃんと優しく出来てたかな？」=“Did I do everything right?”
-「それは……その、なんだ…………痛みはあったが……汝の優しは、伝わってきた、ぞ……？」=“Um, about that... I felt pain... but I felt how gentle you were...?
+「それは……その、なんだ…………痛みはあったが……汝の優しは、伝わってきた、ぞ……？」=“Um, about that... I felt pain... but I felt how gentle you were...?”
 「ほっ……それはよかった。これからも、満足してもらえるように頑張るね」=“Hooo... that's good. I'll keep trying to satisfy you.”
 「ぅぅ……恥ずかしすぎるから、この話はもう止めて……」（素）=“Uuu... I'm so embarrassed to talk about this... let's just stop talking about it...”

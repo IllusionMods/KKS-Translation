@@ -107,7 +107,7 @@
 「恋愛祈願か……」=“Love prayers...”
 「私はひとりでいくつもりはないですよ♡　あなたとしか行きません♡」=“I don't intend to go alone♡ I'll only go with you♡”
 「参考までに聞くけど、なんで？」=“Just to know - why?”
-「もし恋愛の神様が女性だったら、その神様の力を借りるなんて嫌ですから♡」=“If the God of Love is a woman, then I don't want to ask for help from a Goddess♡"
+「もし恋愛の神様が女性だったら、その神様の力を借りるなんて嫌ですから♡」=“If the God of Love is a woman, then I don't want to ask for help from a Goddess♡”
 「あはは、さすがブレないね」=“Haha, you never waver.”
 「自分の胸の事どう思ってる？」=“How do you feel about your breasts?”
 「あなたの好きな大きさに整形してきます♡　なんでも言ってください♡」=“I'll go ahead and reshape them to your desired size♡ Tell me anything you want♡”

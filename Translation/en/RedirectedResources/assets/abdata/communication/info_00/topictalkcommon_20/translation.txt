@@ -4,7 +4,7 @@
 「島の空気がもう、レジャーで染まってる気がするよ」=“I feel like the air on the island is already stained with leisure.”
 「そうですか？　確かに、ちょっと暑くて開放的ですけど……」=“Is that so?　Sure, it's a little hot and open, but...”
 「どんなアクティビティで遊びたい？」=“What kind of activities do you want to do?”
-「そうですね……あんまり激しくないのが、嬉しいです……」=“Let's see... I'd be happy with something not too intense...
+「そうですね……あんまり激しくないのが、嬉しいです……」=“Let's see... I'd be happy with something not too intense...”
 「これだけ豊富なんだから、絶対楽しめるアクティビティがあるよ」=“With such a wide variety of activities, there is definitely something for you to enjoy.”
 「そうだと嬉しいですね……なんだか、ワクワクしてきました」=“I'm glad to hear that... now I'm getting a little fired up.”
 「ただ普通に散歩してても、アクティビティみたいに感じるよ」=“Even just talking a walk feels like an activity.”

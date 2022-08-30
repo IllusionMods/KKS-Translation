@@ -256,7 +256,7 @@
 「体験学習は友達に誘われてまして……ごめんなさい」=“A friend already invited me for a hands-on learning experience... I'm sorry.”
 「どうでしょう……私と体験をしに行きませんか？」=“So how about... would you like to go to an experience with me?”
 「一緒に行ってくれるんですね。ありがとうございます」=“We'll be going together. Thank you very much.”
-「そうですか……無理を言って、すみません」=“I see... sorry I asked for so much.¨
+「そうですか……無理を言って、すみません」=“I see... sorry I asked for so much.¨”
 //「一緒に何か食べに行こうよ」=
 「行きます。少しお腹が空いていて……」=“I'll go. I'm a little hungry...”
 「すみません……今は食べられそうにありません」=“Sorry... can't seem to eat right now.”
