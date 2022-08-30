@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うぅ～、ずっとドキドキしっぱなしだったよー。でも……見つからなくてよかったねー」=
+「うぅ～、ずっとドキドキしっぱなしだったよー。でも……見つからなくてよかったねー」=“Uuu~ I was so nervous, the entire time- But... we're lucky they didn't find us-”

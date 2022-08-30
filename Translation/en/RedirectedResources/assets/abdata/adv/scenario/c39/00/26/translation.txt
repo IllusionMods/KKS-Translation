@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、誰かに見つかったらどうしてた？　自分はきっと……やめられなかったはず……」=
+「ねぇ、誰かに見つかったらどうしてた？　自分はきっと……やめられなかったはず……」=“Hey, what would you have done if someone had found us?　I'm not sure... I could have stopped...”

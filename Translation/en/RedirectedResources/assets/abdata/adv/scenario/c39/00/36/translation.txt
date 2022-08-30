@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カヤックに乗るなら、やっぱり掛け声とかあった方がいいよね？」=
-//「そうだねぇ、息が合わないと上手く進まなそうだし……何か決めておこうか」=
-//「じゃあ……『いち、に』とか『みぎ、ひだり』とかが普通かなぁ？」=
-//「それだと途中で疲れた時に力が出なくないー？　自分は『なんくる、ないさー』がいいと思うなぁ」=
-//「はは、[H名]らしいね。いいよ、俺は賛成」=
-//「えへへ、楽しいカヤックになりそうだねー♪　もし木に引っかかったりしても、なんくるないさー！」=
+「カヤックに乗るなら、やっぱり掛け声とかあった方がいいよね？」=“If we're going to go kayaking, we may as well have a cadence or something, right?”
+「そうだねぇ、息が合わないと上手く進まなそうだし……何か決めておこうか」=“Well, I don't think we'll get anywhere if we don't work together... let's decide on something.”
+「じゃあ……『いち、に』とか『みぎ、ひだり』とかが普通かなぁ？」=“Then... 'one, two' or 'right, left', like usual?”
+「それだと途中で疲れた時に力が出なくないー？　自分は『なんくる、ないさー』がいいと思うなぁ」=“I believe that'd just tire me out, right in the middle of paddling.　I think I'd rather go with, 'nankuru, nana no nai'.”
+「はは、[H名]らしいね。いいよ、俺は賛成」=“Haha, that's just like you, [H名]. Okay, I'm with you.”
+「えへへ、楽しいカヤックになりそうだねー♪　もし木に引っかかったりしても、なんくるないさー！」=“Ehehe, this is gonna be some fun kayaking-♪ It won't be a problem, even if we get snagged in a tree-!”

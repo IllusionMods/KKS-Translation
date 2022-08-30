@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「卓球台があるね。一勝負していこうか？」=
-//「ねぇ、もう一勝負しよー？　やっと身体があったまってきたからー」=
-//「え……[H名]の勝ちだったんだし。もういいんじゃないかな？」=
-//「だめー。今キミ、手加減したでしょー。そういうの、自分は分かるんだからねー」=
-//「いや……本気だったよ？」=
-//「ほんとかねぇ？　じゃあもう疑わないけど、もっとキミと勝負はしたいから続けよー」=
-//「分かった。でも[H名]がそんなに卓球好きだったなんて知らなかったよ」=
-//「えへへ、それはちょっと違うかなー。自分が好きなのは卓球じゃなくて、キミと遊ぶことさー」=
-//「そっか……そういうことなら、次は勝てるように頑張るよ！」=
-//「お、いい目になったねー！　それでこそ自分のライバルさー！」=
-//「はは。俺、恋人からライバルになっちゃったの？」=
-//「も、もちろん恋人よー。うぅ、心を揺さぶりに来たねー。ちょっと卑怯じゃない？」=
-//「心理戦は立派な作戦だよ。本気を出していいんでしょう？」=
-//「むー、じゃあ自分が勝ったら……キミに何でも言うこと聞いてもらうからねー！」=
-//「えっ、ちょ、そういう勝負にするの？　じゃあ……俺が勝ったら……」=
-//「なにをもごもご言ってるのー？　もう勝負は始まってるよー！　自分のサーブ、受けてみるさー！」=
-//「わぁっ、待って……！　今構えるから！」=
+「卓球台があるね。一勝負していこうか？」=“There's a ping-pong table. Wanna play a game?”
+「ねぇ、もう一勝負しよー？　やっと身体があったまってきたからー」=“Hey, wanna play one more-?　I'm finally getting warmed up-”
+「え……[H名]の勝ちだったんだし。もういいんじゃないかな？」=“Eh... you won, [H名]. That's enough, don't you think?”
+「だめー。今キミ、手加減したでしょー。そういうの、自分は分かるんだからねー」=“Nope- You just went easy on me- You don't think I know what I'm doing here-?”
+「いや……本気だったよ？」=“No... are you serious?”
+「ほんとかねぇ？　じゃあもう疑わないけど、もっとキミと勝負はしたいから続けよー」=“Really?　You don't need to doubt me. I'd like to play more games with you, so let's keep going-”
+「分かった。でも[H名]がそんなに卓球好きだったなんて知らなかったよ」=“I understand. But I didn't know you liked table tennis so much, [H名].”
+「えへへ、それはちょっと違うかなー。自分が好きなのは卓球じゃなくて、キミと遊ぶことさー」=“Ehehe, that's kind of not it- It's not that I like playing ping-pong, it's that I like playing with you-”
+「そっか……そういうことなら、次は勝てるように頑張るよ！」=“I see... in that case, I'll try to win next time!”
+「お、いい目になったねー！　それでこそ自分のライバルさー！」=“Oh, you've got good eyes!　That's what makes you my competitor!”
+「はは。俺、恋人からライバルになっちゃったの？」=“Haha. Have I gone from being your boyfriend to your rival?”
+「も、もちろん恋人よー。うぅ、心を揺さぶりに来たねー。ちょっと卑怯じゃない？」=“Of course, sweetheart- Uuu, you're trying to weaken my heart. That's a little unfair, you know-?”
+「心理戦は立派な作戦だよ。本気を出していいんでしょう？」=“Psychological warfare is an allowed strategy. Let's get down to business, alright?”
+「むー、じゃあ自分が勝ったら……キミに何でも言うこと聞いてもらうからねー！」=“Geez- OK, if I win, then... you gotta do anything I tell you to-!”
+「えっ、ちょ、そういう勝負にするの？　じゃあ……俺が勝ったら……」=“Eh, wait, so that's how we're gonna do this? Then... if I win...”
+「なにをもごもご言ってるのー？　もう勝負は始まってるよー！　自分のサーブ、受けてみるさー！」=“What are you mumbling about-?　The game has already started-!　Hurry up and serve-!”
+「わぁっ、待って……！　今構えるから！」=“Wow, wait...!　I'll get ready now!”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そういえば、紅型って何て読むか最初分からなかったよ」=
-//「普通は読めないはずさー。『びんがた』って平仮名で書いてある方が分かりやすいしねー」=
-//「どういう風にしようかな。[H名]に似合う感じのデザインにしたいんだよね」=
-//「じゃあ、自分はキミに似合うデザインを考えるねー」=
-//「それじゃ、お互い作ったものをあとで交換しようか」=
-//「うん、そうしよー。キミに作ってもらった世界で一つだけの紅型……一生の宝物にするからー」=
+「そういえば、紅型って何て読むか最初分からなかったよ」=“Come to think of it, I didn't know how to read the word 'bingata' at first.”
+「普通は読めないはずさー。『びんがた』って平仮名で書いてある方が分かりやすいしねー」=“Most folks can't- It's easier to understand 'bingata' when it's written in hiragana.”
+「どういう風にしようかな。[H名]に似合う感じのデザインにしたいんだよね」=“So, how should I do this? I want to create a design that looks good on you, [H名].”
+「じゃあ、自分はキミに似合うデザインを考えるねー」=“Then I'll come up with a design that suits you-”
+「それじゃ、お互い作ったものをあとで交換しようか」=“Well, should we exchange our creations later?”
+「うん、そうしよー。キミに作ってもらった世界で一つだけの紅型……一生の宝物にするからー」=“Yeah, let's do that- You're making me a one-of-a-kind Bingata... that'll I treasure for the rest of my life-”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「体験て難しいのかと思ってたけど……キミが一緒にやってくれたから楽しめたよー。ありがとうねー」=
+「体験て難しいのかと思ってたけど……キミが一緒にやってくれたから楽しめたよー。ありがとうねー」=“I thought this experience would be difficult... but I had fun, because I was with you- Thank you-”

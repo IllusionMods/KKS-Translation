@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお土産コーナーを見ていかない？」=
-//「見て見てー『ちんすこう』があったよー。島のお土産と言えばやっぱりコレよねー」=
-//「そうだね。食べたことはなくても名前は知ってるって人はかなり多そう」=
-//「味も形も色々あるからねー。キミはどれが好きー？」=
-//「ほんとだ……チーズ味とかパイナップル味とか……色々あり過ぎて悩むなぁ」=
-//「それなら、いろんな味が入ったやつがいいんじゃない？　気に入った味があれば、また買いに来ればいいしねー」=
-//「それはアリだね。[H名]の言う通りにしてみるよ」=
-//「えへへ、食べ比べとか二人でしたいねー。きっと楽しいよー」=
-//「確かに楽しそうだけど、[H名]は食べ飽きてたりしないの？」=
-//「全然よー。美味しいものはいつ食べても美味しいし、キミと食べたらまた違った味になるはずさー」=
-//「そう？　味は、そこまでは変わらないと思うけど……」=
-//「変わるよー。キミと付き合ってからねー、いつも見てた景色だって全部違って見えてるんだよー」=
-//「あ、それは俺も分かるかも……」=
-//「だからさー。ちんすこうだって、全部違った味になるはずよー。えへへ、楽しみだね～♪」=
+「ちょっとお土産コーナーを見ていかない？」=“Why don't we check out the souvenir corner for a minute?”
+「見て見てー『ちんすこう』があったよー。島のお土産と言えばやっぱりコレよねー」=“Hey, look, there's some 'chinsukos'- When it comes to island souvenirs, you can't go wrong with those-”
+「そうだね。食べたことはなくても名前は知ってるって人はかなり多そう」=“That's right. I'm sure there are a lot of people who have never had them, but know the name.”
+「味も形も色々あるからねー。キミはどれが好きー？」=“There's so many shapes and flavors- Which one is your favorite-?”
+「ほんとだ……チーズ味とかパイナップル味とか……色々あり過ぎて悩むなぁ」=“Well, let's see... there's cheese flavor, pineapple flavor... there's too many too choose just one.”
+「それなら、いろんな味が入ったやつがいいんじゃない？　気に入った味があれば、また買いに来ればいいしねー」=“In that case, wouldn't a variety of flavors be best? If there's one you like, you can came back and buy it again.”
+「それはアリだね。[H名]の言う通りにしてみるよ」=“That's true. I'll try that, [H名].”
+「えへへ、食べ比べとか二人でしたいねー。きっと楽しいよー」=“Ehehe, I'd like to eat and compare them with you- I'm sure that'd be fun-”
+「確かに楽しそうだけど、[H名]は食べ飽きてたりしないの？」=“Sounds like fun, but won't you get tired of eating, [H名]?”
+「全然よー。美味しいものはいつ食べても美味しいし、キミと食べたらまた違った味になるはずさー」=“Not at all- Good food always tastes good, and it'll taste different when I eat it with you-”
+「そう？　味は、そこまでは変わらないと思うけど……」=“How's that?　I don't see how it would taste different...”
+「変わるよー。キミと付き合ってからねー、いつも見てた景色だって全部違って見えてるんだよー」=“It's different- Everything different since I started going out with you- Even the scenery looks different-”
+「あ、それは俺も分かるかも……」=“Oh, I think I know what you're saying...”
+「だからさー。ちんすこうだって、全部違った味になるはずよー。えへへ、楽しみだね～♪」=“That's right-. So even the chinsukos taste different- Ehehe, I'm looking forward to it~”

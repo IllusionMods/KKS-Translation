@@ -2,9 +2,9 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「すぅ……すぅ……ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
-（ううん、何だか下半身に違和感が……？）=(Nnnnn... my crotch feels kinda...?)
+（ううん、何だか下半身に違和感が……？）=(Nnnnnh... my crotch feels kinda...?)
 「…………」=“...”
-//「えっ、うそっ……！　俺のっ、[H名]に入って……」=
-//「おはよー♪　目覚ましセックスはどうー？　気持ちいいでしょー？」=
-//「き、気持ちいいけど……ぁあっ、まだ何がなんだか……」=
-//「寝起きだからねー。キミはそのまま寝てていいよー。最後までちゃんと、自分がするからー」=
+「えっ、うそっ……！　俺のっ、[H名]に入って……」=“Eh, no way...! I'm inside you, [H名]...”
+「おはよー♪　目覚ましセックスはどうー？　気持ちいいでしょー？」=“Ohoho-♪ How about some wake-up sex-? You feeling good-?”
+「き、気持ちいいけど……ぁあっ、まだ何がなんだか……」=“Oh, I'm feeling good... ahhh! Still, I don't know why...”
+「寝起きだからねー。キミはそのまま寝てていいよー。最後までちゃんと、自分がするからー」=“I'd just woken up- But you can go back to sleep- I'll finish this up on my own-” 

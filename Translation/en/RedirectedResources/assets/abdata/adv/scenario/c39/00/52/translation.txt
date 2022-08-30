@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「キミがいっぱい食べてるのを見ると、なんだか嬉しくなるんだよねー。えへへ、なんでかねー」=
+「キミがいっぱい食べてるのを見ると、なんだか嬉しくなるんだよねー。えへへ、なんでかねー」=“It makes me kinda happy to see you eating so much. Ehehe, I don't know why-”

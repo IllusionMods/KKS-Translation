@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「海に近いところだし、やっぱり海産物を食べたいよね」=
-//「だからよー。キミは男の子なんだし、この『爆盛海鮮丼』とか頼んでみたらー？」=
-//「うわ……凄い量だね。確かに全部の海鮮を一気に食べられそうだけど……食べきれるかな……」=
-//「えへへ、じゃあ二人ではんぶんこにするー？　自分もちょっと興味あるしー」=
-//「二人なら丁度いいサイズかもね。よし、頼んでみようか」=
-//「好きなものがあったら先に言ってねー。自分は何でも好きだからー、遠慮しないで食べちゃってー」=
+「海に近いところだし、やっぱり海産物を食べたいよね」=“Since we're so close to the ocean, we should eat some seafood.”
+「だからよー。キミは男の子なんだし、この『爆盛海鮮丼』とか頼んでみたらー？」=“That's right- Since you're a boy, why don't you order this 'bakumori kaisendon', or something like that-?”
+「うわ……凄い量だね。確かに全部の海鮮を一気に食べられそうだけど……食べきれるかな……」=“Whoa... that's a lot of food. Sure looks like you get every type of seafood at once... I don't know if I could eat that all...”
+「えへへ、じゃあ二人ではんぶんこにするー？　自分もちょっと興味あるしー」=“Ehehe, well then, let's go halfsies, okay-? I'm a little curious about it, myself-”
+「二人なら丁度いいサイズかもね。よし、頼んでみようか」=“It's probably the perfect size for two people. Right, I'll order it.”
+「好きなものがあったら先に言ってねー。自分は何でも好きだからー、遠慮しないで食べちゃってー」=“If you have a favorite, tell me first- I like everything, so I'm afraid I might eat it-”
