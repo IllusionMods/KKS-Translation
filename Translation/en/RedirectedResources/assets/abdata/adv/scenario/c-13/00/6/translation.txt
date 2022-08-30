@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えへ、おはよー。キミの寝顔、たっぷり見させてもらったからね♪　先に起きた方の特権やっさー」=
-//「なぁに？　恥ずかしいわけ？　可愛かったから大丈夫よー♪」=
+「えへ、おはよー。キミの寝顔、たっぷり見させてもらったからね♪　先に起きた方の特権やっさー」=“Ehe, good morning. I've had a real good look at your sleeping face♪ The privilege of waking up first~♪”
+「なぁに？　恥ずかしいわけ？　可愛かったから大丈夫よー♪」=“What?　Are you embarrassed?　You were cute so it's okay~♪”

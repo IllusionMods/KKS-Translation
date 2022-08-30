@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「その……自分はまだ……ううん、気にしないでー。えっと……次も、楽しみにしてるからね？」=
+「その……自分はまだ……ううん、気にしないでー。えっと……次も、楽しみにしてるからね？」=“Um... I still didn't... no, don't worry about it. I'll be... looking forward to the next one, okay?”
