@@ -19,10 +19,10 @@
 「花だから、美味しくないんじゃない？」=“They're flowers, so they can't taste good, can they?”
 「そーなんか……桃って名前に負けてへん？　それ」=“I don't know...it's kind of like being named after a peach .......　That.”
 「見た目重視だから、仕方ないんじゃないかなぁ」=“I guess it's all about looks.”
-「ヤマネコってさ、すっごく可愛いんだよ」=“Bobcats are so cute.”
+「ヤマネコってさ、すっごく可愛いんだよ」=“Wildcats are so cute.”
 「けど、野生のネコやしなぁ……触ったら、めっさ引っ掻いたり噛み付いたりしてきよるんやろな」=“But they're wild cats, and if you touch ...... them, they'll probably scratch and bite you really hard.”
 「可愛いんだから、我慢しなきゃ！」=“He's so cute, we have to put up with him!”
-「おお～～、愛情、ヤバいな……まあどっちにしろヤマネコは触らん方がええで」=“Ohhhh, affection, yuck. ...... Well, either way, you shouldn't touch a bobcat.”
+「おお～～、愛情、ヤバいな……まあどっちにしろヤマネコは触らん方がええで」=“Ohhhh, affection, yuck. ...... Well, either way, you shouldn't touch a wildcat.”
 「うん……そうだろうね。はぁ、飼いたいなぁ……」=“'Yeah ...... I'm sure you're right. Huh, I wish I could keep her. ......”
 「……普通のイエネコで満足した方がええんちゃうかなぁ」=“I guess I should be content with ...... just being a regular weenie.”
 「そう簡単に懐かへんやろうし、そもそも飼えへんで」=“I don't think he'll miss you that easily, and you can't keep him in the first place.”

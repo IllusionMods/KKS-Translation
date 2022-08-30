@@ -21,8 +21,8 @@
 「なんの興味もないわけね……」=“You're not interested in any of this...”
 「名前は美味そうなのにな」=“The name sounds delicious, though.”
 「結局そこに戻ってくるんだ」=“You always come back to eating things.”
-「そうだ。前にヤマネコ見たよ」=“Right. I saw a bobcat earlier.”
-「ヤマネコはあれだな、うん……あれだ」=“So, bobcats are like that, yeah... like that.”
+「そうだ。前にヤマネコ見たよ」=“Right. I saw a wildcat earlier.”
+「ヤマネコはあれだな、うん……あれだ」=“So, wildcats are like that, yeah... like that.”
 「強そうな猫」=“Quite the strong-looking cat.”
 「そうそう。目とか完全に肉食獣だった」=“Right, yeah. Its eyes were totally predatory.”
 「うかつに手を出したら齧られるな」=“You don't want to mess with it, or it'll eat you.”

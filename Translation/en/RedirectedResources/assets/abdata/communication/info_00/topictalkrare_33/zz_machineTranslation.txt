@@ -16,13 +16,13 @@
 「太ももの、内側……」=“Inside my thighs. ......”
 「あら、太ももの内側は体温が高いから、香りが立ちやすいのよ」=“Oh, the inside of the thighs are warmer, so the scent comes out more easily.”
 「ほら、月桃の香りが好きならもっと近くで嗅いでみたら？　ふふふ」=“Look, if you like the smell of shell ginger, why don't you smell it closer?　Mmm-hmm.”
-「この島で人気の動物といえばヤマネコだよね」=“The most popular animal on this island is the bobcat.”
+「この島で人気の動物といえばヤマネコだよね」=“The most popular animal on this island is the wildcat.”
 「人気だけど、触れられないのが残念よね。ネコなら撫でたいもの」=“It's a pity you can't touch them. I'd love to pet a cat.”
 「[H名]さん、ネコ好きなんだ」=“[H名], you like cats.”
 「なんとなくわかるでしょうけど、波長が合うのよね」=“You know what I mean. We're on the same wavelength.”
 「わかる、ネコが寄ってきそうな雰囲気を纏ってるからねぇ」=“I can tell. You have an air of mystery about you that attracts cats.”
 「だから餌をカバンに入れてた時期もあるんだけど……」=“That's why I used to carry food in my bag. ......”
-「ヤマネコには当然あげちゃだめでしょうね。はぁ、ネコが触りたくなっちゃった」=“Of course you can't feed a bobcat. Oh, I want to touch a cat.”
+「ヤマネコには当然あげちゃだめでしょうね。はぁ、ネコが触りたくなっちゃった」=“Of course you can't feed a wildcat. Oh, I want to touch a cat.”
 「俺じゃだめ？」=“Why not me?”
 「だーめ。ネコにあなたの代わりが務まらないようにね、ふふふ」=“No. Don't let the cat take your place, okay?”
 「流れ星見たら、願い事ってする？」=“When you see a shooting star, do you make a wish?”

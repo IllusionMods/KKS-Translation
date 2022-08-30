@@ -19,10 +19,10 @@
 「……？　他にも何か理由があるの？」=“You're going to ......?　Is there any other reason?”
 「月桃ってアロマとかお菓子とか、女の子が好きそうなものがあるよね。調べたらボクも少しは女の子っぽくなれるかなぁって」=“Gekko has aromas, sweets, and other things that girls seem to like. I thought I could be a little more girly if I looked into it.”
 （[H名]は今でも十分女の子らしいけど……彼女には彼女なりの考えがあるんだろうな）=([H名] is still girly enough, but I guess ... she has her own ideas)
-「多分そうだと思うんだけど、この前ヤマネコを見かけたよ」=“I think I probably did, but I saw a bobcat the other day.”
+「多分そうだと思うんだけど、この前ヤマネコを見かけたよ」=“I think I probably did, but I saw a wildcat the other day.”
 「えっ、凄い！　なかなか見かけないっていうけど、どんな感じだった？」=“What? Oh, great!　I know you say you don't see them very often, but what was it like?”
 「体つきががっしりしてるっていうか、なんか勇ましかったよ」=“He had a very sturdy body and was very brave.”
-「い、いいなぁ。ボクも会ってみたい。会ってヤマネコの強さを感じてみたいよ……！」=“I like it. I'd like to meet him, too. I want to meet him and feel the strength of the bobcat. ......”
+「い、いいなぁ。ボクも会ってみたい。会ってヤマネコの強さを感じてみたいよ……！」=“I like it. I'd like to meet him, too. I want to meet him and feel the strength of the wildcat. ......”
 「会っても触れ合ったりとかはできないと思うよ。警戒心バリバリだったし」=“I don't think we'd be able to touch each other if we met. I don't think I'd be able to touch him. He was so guarded.”
 「ボク、その勇ましい姿を見られるだけで満足だから大丈夫！　ボクも見つけられるかなぁ」=“I'm happy just to see you being so brave.　I wonder if I can find one.”
 「島を散歩してたら、そのうち会えるんじゃないかな。俺もそうだったし」=“If you take a walk around the island, I'm sure you'll meet him sooner or later. I did that myself.”

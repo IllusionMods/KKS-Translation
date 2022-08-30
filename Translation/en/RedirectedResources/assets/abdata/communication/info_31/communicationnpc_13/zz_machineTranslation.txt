@@ -111,7 +111,7 @@
 「へぇ、よく調べたねー。島に興味を持ってくれて嬉しいさー！」=“Wow, you did a lot of research. I'm glad you're interested in the island!”
 「それに注目するなんて流石だねー！　もうこの島をマスターしたといっても過言じゃないよー！」=“I'm glad you're interested in the island!　It's no exaggeration to say that you've mastered this island!”
 「ガイドブックで読んだんですけど、ここには珍しい猫がいるんですね」=“I read in the guidebook that there are rare cats here.”
-「たぶん<color%3D#ffa801ff>ヤマネコ</color>のことですね。とっても珍しくて、私もまだ一度しか会ったことがないんです」=“I read in the guidebook that there is a rare cat here..." "Probably the <color%3D#ffa801ff>bobcat</color>. It's so rare that I've only met one myself.”
+「たぶん<color%3D#ffa801ff>ヤマネコ</color>のことですね。とっても珍しくて、私もまだ一度しか会ったことがないんです」=“I read in the guidebook that there is a rare cat here..." "Probably the <color%3D#ffa801ff>wildcat</color>. It's so rare that I've only met one myself.”
 「島の人は、<color%3D#ffa801ff>自然公園</color>や<color%3D#ffa801ff>路地</color>を歩いてるときに見かけたことがあるそうですよ」=“People on the island have seen them while walking in <color%3D#ffa801ff>nature parks</color> and <color%3D#ffa801ff>alleyways.”
 「もし見つけられたら、ラッキーですね！」=“If you find one, you're in luck!”
 「あ！　注意しないといけないことを忘れてました！」=“Oh!　I forgot to pay attention!”
@@ -142,7 +142,7 @@
 「でも……あれに乗る<color%3D#ffa801ff>カップル</color>はみんなして、すごく密着するんですよね……」=“But ...... all the <color%3D#ffa801ff>couples</color> who ride them get very close together. ......”
 「ここへ来て開放的な気分になるのか……イチャイチャしてる方は多いです」=“There are a lot of people who come here to feel free and ...... make out with each other.”
 「ガイドブックで読んだんだけど、ここには珍しい猫がいるんだね」=“I read in the guidebook that there are some rare cats here.”
-「たぶん<color%3D#ffa801ff>ヤマネコ</color>のことだはず。でーじ珍しいから、自分も一回しか見たことないさーね」=“It's probably a <color%3D#ffa801ff>bobcat</color>. It's so rare that I've only seen one myself.”
+「たぶん<color%3D#ffa801ff>ヤマネコ</color>のことだはず。でーじ珍しいから、自分も一回しか見たことないさーね」=“It's probably a <color%3D#ffa801ff>wildcat</color>. It's so rare that I've only seen one myself.”
 「おじぃやおばぁは、<color%3D#ffa801ff>自然公園</color>とか<color%3D#ffa801ff>路地</color>を歩いてるときに見かけたって言ってたよー」=“My grandparents said they saw them when they were walking in <color%3D#ffa801ff>nature parks</color> or <color%3D#ffa801ff>alleyways</color>.”
 「もし見つけることが出来たら、ラッキーやっさー！」=“If you can find him, you're in luck!”
 「あいっ！　注意しないといけないことを忘れてた！」=“Oh!　I forgot to pay attention!”

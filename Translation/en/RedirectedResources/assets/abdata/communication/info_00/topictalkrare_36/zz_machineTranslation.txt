@@ -15,7 +15,7 @@
 「貴方も、もっと使い勝手が良くなれば嬉しいんだけど……」=“I'm sure you'll be glad to know that it's much easier to use. ......”
 「いや、物のように扱われても困るよ……」=“No, I don't want you to treat me like an object. ......”
 「じゃあ、経済動物として扱ってあげるわ。嬉しいでしょう？」=“I'm going to treat you like an economic animal. Won't that make you happy?”
-「この前、ヤマネコを見かけたんだよ」=“I saw a bobcat the other day.”
+「この前、ヤマネコを見かけたんだよ」=“I saw a wildcat the other day.”
 「へぇ……運がいいわね。その幸福を噛み締めておきなさい」=“Oh, ......, you're lucky. You should bite into that happiness.”
 「[H名]さんは見かけたことはないの？」=“Have you ever seen Miss [H名]?”
 「ちらっと見たことはあるわ。何故かすぐに逃げられるけれど」=“I've glimpsed him. I've had glimpses of him, though for some reason he always runs away.”

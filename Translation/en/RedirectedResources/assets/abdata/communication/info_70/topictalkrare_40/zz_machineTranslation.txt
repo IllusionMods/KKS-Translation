@@ -17,12 +17,12 @@
 「万能だな。島にたくさん植えられているのも頷ける」=“'Versatile,' he said. No wonder so many are planted on the island.”
 「花も綺麗だし、一石何鳥か分からないね」=“The flowers are beautiful, and you never know how many birds with one stone.”
 「本当に優れたものは機能と美を共に備えるものだ。我等も見習わねばな」=“The truly excellent things have both function and beauty. We must learn from them.”
-「ヤマネコって、やっぱり普通の猫より強いのかな？」=“Are bobcats stronger than normal cats?”
+「ヤマネコって、やっぱり普通の猫より強いのかな？」=“Are wildcats stronger than normal cats?”
 「野生だからな。少なくとも家で飼われている猫よりは強いのではないか？」=“It's wild. Isn't it at least stronger than a house cat?”
 「じゃあ懐かせるのは無理かな？　この前それっぽい猫を見たんだけど……」=“'Then I don't know if I can make him miss me.　I saw a cat that looked like that the other day. ......”
 「餌付けくらいはできるかもしれないが、懐くまでは難しいだろうな」=“I might be able to at least feed him, but it'll be hard to get him to miss me.”
-「ダメかぁ……ヤマネコと仲良くなりたかったなぁ……」=“I wish I could have been friends with a ...... bobcat. ......”
-「それなら、貴殿がヤマネコより強いと見せつけてやれば従うかもしれないぞ？」=“Then show them you're stronger than the bobcat, and they might follow?”
+「ダメかぁ……ヤマネコと仲良くなりたかったなぁ……」=“I wish I could have been friends with a ...... wildcat. ......”
+「それなら、貴殿がヤマネコより強いと見せつけてやれば従うかもしれないぞ？」=“Then show them you're stronger than the wildcat, and they might follow?”
 「強いってどうやって見せつけるの？　まさか戦ったりしないよね？」=“How do you show them you're strong?　You're not going to fight, are you?”
 「簡単だ。睨み合って引かなければいい」=“It's easy. Just stare at each other and don't pull away.”
 「えぇっ、そんなことしたら飛びかかってくるよ！？」=“What? He'll jump on me if I do that!”

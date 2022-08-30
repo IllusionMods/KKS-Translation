@@ -13,7 +13,7 @@
 「さすがよく知ってるんだね。実際に嗅いだことはあるの？」=“I've actually smelled it before. Have you actually smelled it?”
 「ええ、ありますよ。あとは……お茶にして飲ませて頂いたこともあります」=“Yes, I have. Yes, I have, and I've also drunk the ...... tea.”
 「だけどあれはお薬のような風味が強くて……思い出すと口の中が苦くなります……」=“But it had such a strong medicinal flavor that it made my mouth water ...... when I remembered it.”
-「ヤマネコってどう思う？」=“What do you think of bobcats?”
+「ヤマネコってどう思う？」=“What do you think of wildcats?”
 「可愛いと思いますよ。ちょっと野性的な毛並みですけど、やっぱり猫ですし……」=“I think they're cute. I think they're cute. Their fur is a little wild, but they're still cats. ......”
 「猫好きなんだ？」=“So you like cats?”
 「はい、猫に限らず、動物全般が好きなんです。どんな動物も見ているだけで癒されますから」=“Yes, I like animals in general, not just cats. I like all animals, not just cats.”

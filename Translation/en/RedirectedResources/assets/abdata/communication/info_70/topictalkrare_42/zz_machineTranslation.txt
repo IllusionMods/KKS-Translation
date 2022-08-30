@@ -16,7 +16,7 @@
 「へぇ、そうなんだ。それはちょっと興味あるかも」=“Oh, I see. That might be of some interest.”
 「じゅあ、今度一緒に食べてみようよ。絶対に気に入ると思うから！」=“Jyu, let's try it together sometime. I'm sure you'll like it!”
 「そうだね、食べに行くときはぜひとも声を掛けてね」=“Yes, by all means, give me a shout when you go out to eat.”
-「この前、ヤマネコとバッタリ出くわしたんだよ」=“I bumped into a bobcat the other day.”
+「この前、ヤマネコとバッタリ出くわしたんだよ」=“I bumped into a wildcat the other day.”
 「へぇ、そうなんだ。やっぱり可愛かった？」=“I'm sorry. Was she pretty after all?”
 「可愛い……とは思うんだけど、なにぶん野生のだったから……」=“I think it's cute ......, but it was wild .......”
 「あー……もしかして引っかかれた、とか？」=“Uh, ...... maybe you got scratched or something?”
