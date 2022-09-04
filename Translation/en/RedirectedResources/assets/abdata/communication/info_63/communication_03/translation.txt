@@ -392,7 +392,7 @@
 「えへへ、あなたとなら上手に作れる気がするですよ！」=“Ehehe, I have this feeling that I can make a better one, with you!”
 「あ……一人でやっても仕方ないので、私も止めにするです」=“Ah... it's not like I can do it by myself, so I'm gonna stop, too.”
 「はいです！　ご飯、ご飯～♪　楽しみなのですよ～♪」=“Alrighty! Food, food~♪ I'm so looking forward to it~♪”
-//「今、お腹が鳴りませんでしたか？　それじゃご飯に行くですよ」=
+「今、お腹が鳴りませんでしたか？　それじゃご飯に行くですよ」=“Did your stomach growl just now? Then let's go have a dinner.”
 「いいお返事、ありがとうなのですっ。えへへ、何を食べるか迷っちゃうです」=“Good answer, thank you so much. Ehehe, I can't decide what to eat!”
 「あれ？　私のお腹の音だったですか？　は、恥ずかしいです～」=“What's that? Did my tummy make a sound? I-I'm so embarrassed~”
 「あのさ、俺の部屋に来てくれない？」=“Um, hey, why don't you come to my room?”
