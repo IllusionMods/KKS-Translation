@@ -80,7 +80,7 @@
 「本当に星の形してるぅー、可愛いー♪　とかは……」=“They're really shaped like stars- So cute-♪ Or something...”
 「……途中で照れた？」=“Did that just embarrass you?”
 「すいません照れました」=“Sorry, I'm embarrassed.”
-「ウムイの鐘のウムイは、想いって意味があるんだって」='Umui' in 'Umui Bell' means 'feelings'.”
+「ウムイの鐘のウムイは、想いって意味があるんだって」=“'Umui' in 'Umui Bell' means 'feelings'.”
 「そっか……想いの鐘」=“I see... the Bell of Emotions.”
 「そう聞くと……ちょっと、重そうかも？」=“That sounds a little... heavy, don't you think?”
 「まぁ、たくさんのカップルが想いを込めて鳴らしてるわけだしね」=“Well, a lot of couples ring it to express their feelings.”

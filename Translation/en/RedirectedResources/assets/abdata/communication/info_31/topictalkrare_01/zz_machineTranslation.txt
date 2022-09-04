@@ -62,7 +62,7 @@
 「ふふ、きっと凄く綺麗なアサガオが咲いたのでしょうね。見なくても分かります」=“Fufu, I bet you ended up with some beautiful morning glory blossoms. I don't need to see them to know that.”
 「実際、咲いた時は嬉しくてさ。めちゃくちゃ綺麗に見えたよ」=“Actually, I was so happy when they bloomed. They looked so beautiful.”
 「正に貴方の努力が花咲いた瞬間ですからね、私もその場にいたかったです」=“Truly, that is a moment when your hard work blossomed. Wish I could have been there.”
-「はは、努力は言い過ぎかなぁ。ただ水をあげてただけだし」=Haha, maybe 'hard work' is an exaggeration. I was just giving it water.”
+「はは、努力は言い過ぎかなぁ。ただ水をあげてただけだし」=“Haha, maybe 'hard work' is an exaggeration. I was just giving it water.”
 「でも、アサガオさんにとってはその水が何よりの助けになっていた筈ですよ」=“But I'm sure that watering the morning glory helped it more than anything else.”
 「アサガオ……恩返しにくるかな？」=“Maybe the morning glory... will come to return the favor?”
 「ふふ、きっと来てくれますよ。可愛いアサガオの妖精さんが」=“Fufu, I'm sure it will. A lovely little morning glory fairy.”

@@ -38,7 +38,7 @@
 「画像がないときは、食べ物の名前で検索かけた方がいいぞ。苦手なものが出て来たりして、残すと失礼だからな」=“If you don't see a picture, you might want to search for the food's name. If you get something you don't like, it'd be rude just to leave it.”
 「ここら辺に長寿の人が多いのって、食べ物が関係してるのかな？」=“Do you think food has something to do with the longevity of the people around here?”
 「たぶんそれもあるだろうけど、風習とか人柄とかも関係してるんじゃないか？　のんびりしてる人が多いし」=“Maybe that's part of it, but I think it also has something to do with customs and personalities.　Lots of people are laid back.”
-「自販機で売られてる飲み物も、けっこう独特だよね」=“Even the drinks sold in the vending machines are quite unique.”
+「自販機で売られてる飲み物も、けっこう独特だよね」=“Even the drinks sold in the vending machines are pretty unique.”
 「あたしも初めは戸惑ったよ。知ってる飲み物が全然ない……って。まぁ、普通の自販機もあったから安心したけどさ」=“I was also confused at first, too. I didn't know any of the drinks...! Well, I was relieved when I found a regular vending machine.”
 「どの名産品が一番人気あるんだろう？」=“Which speciality products are the most popular?”
 「あんまり圧倒的な差をつけて一位ってのは想像できないなぁ。どれも満遍なく人気がありそうだ」=“I can't imagine any of them would be in first place by too much of a margin. THey all seem universally popular.”
