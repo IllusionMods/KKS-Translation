@@ -20,6 +20,6 @@
 「あなたがこうだから私もこう、同じ条件、どっちもどっち、あとは……喧嘩両成敗とか？　そんな言葉で縛られるなんておかしいと思わない？」=“If you're this then I'll that, on equal footings, one and the same, and what else... two to make a quarrel? Don't you think it's silly to be bounded by such words?”
 「だって二人がどれだけ愛し合っていても、違う環境で育ってきた、個性のある個人同士じゃない。全部一緒くたじゃないの、全部違うの」=“Because no matter how much we love each other, we're unique individuals who have grown up in different environments. We're not the same, we're different in every way.”
 「それを認め合って、影響し合って、変わっていって、時々喧嘩して、意見を言い合って、二人だけのルールを作って、愛し合っていくんでしょ」=“Should we not then acknowledge and accept those differences?. We'll change, we'll fight sometimes, we'll argue and make our own rules... and still love each other.”
-//「[H名]さん……人生何周目？」=
-//「残念ながら１周目よ♡　とにかく、私はあなた以外に好きな人なんてできないから安心して。この気持ちは魔法でも理屈でもないの」=
-//（最後に全部ひっくり返されちゃった……でも、それが平等ってことか。なんか、[H名]さんにはいつまでも敵いそうにないな）=
+「[H名]さん……人生何周目？」=“[H名]... Which time is this for you?”
+「残念ながら１周目よ♡　とにかく、私はあなた以外に好きな人なんてできないから安心して。この気持ちは魔法でも理屈でもないの」=“Unfortunately, it's my first time♡　Anyway, I can't love anyone other than you, so don't worry. This feeling is neither magic nor logic.”
+（最後に全部ひっくり返されちゃった……でも、それが平等ってことか。なんか、[H名]さんにはいつまでも敵いそうにないな）=(In the end, she turned everything around... It's what equality is about, I guess. Somehow, I don't think I'll ever be able to beat [H名].)

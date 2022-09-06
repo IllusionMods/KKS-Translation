@@ -10,7 +10,7 @@
 「したいと思っています」=“I'd like to be in love.”
 「されたいのかもしれません」=“Maybe I want to be loved.”
 「恋愛には熱くなる方？」=“Are you passionate about love?”
-「そうだと思います」=“I think so.”
+「そうだと思います」=“I believe so.”
 「そんなことはないと思います」=“No, I don't think so.”
 「恋愛ドラマとかであったことなんだけどさ……」=“It's something that happens in romantic dramas. ......”
 「そんな事もあるんですね」=“I've seen it happen.”

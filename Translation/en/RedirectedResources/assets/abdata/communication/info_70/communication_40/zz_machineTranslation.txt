@@ -300,7 +300,7 @@
 「正直、それはもう常にだな。なるべく貴殿の迷惑にならないようにと心掛けてはいるが」=“Frankly, it's always been that way," he said. I try not to bother you as much as possible.”
 「思うというより、それが当たり前ではないのか？　我は貴殿の剣なのだから」=“I think it's more of a given than a thought," he said.　I am your sword.”
 「むぅ、きっと我が悪いのだ……貴殿の話に即答できない我を許してくれ」=“Hmm, it must be my fault. ...... forgive me for not responding immediately to your story.”
-「[H名]……大好きだよ」=“I love you, [H名] ...”
+「[H名]……大好きだよ」=“I love you, [H名]...”
 「なっ！　い、いきなりどうした？　うぅ……わ、我も……大好きだぞ」=“Nah!　What's up?　Ugh ......, I love ...... too!”
 「[H名]の手料理を食べてみたいんだけど……」=“I'd love to try [H名]'s home-cooked food...”
 「手料理か……まぁ、その……機会があれば、いつか……な？　期待せずに待っていてくれ」=“A home-cooked meal or ...... well, that ...... opportunity, sometime ......?　Don't get your hopes up.”
