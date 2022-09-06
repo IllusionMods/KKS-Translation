@@ -41,7 +41,7 @@
 「噂で聞いたんだけど……」=“So I heard these rumors...”
 「……ここは観光地だしな。そういうカップルがいてもおかしくはない」=“...this is a tourist spot. It's not strange that couples like that would be here.”
 「実は……女の子から告白されたことがあったりする？」=“Ever had a girl confess her feelings to you?” 
-//「それは……ノーコメントだ」=“That's, well... no comment.”
+「それは……ノーコメントだ」=“That's, well... no comment.”
 「[H名]って、お姉様とか女王様とか、呼ばれてそうだよね？」=“[H名], seems like you're the type to get called "Onee-sama~" or "My Queen!" by others, aren't you?”
 「ほぅ、何故そう思ったのか、聞かせて欲しいな」=“Hoh, what makes you think that? I'd like to hear the answer.”
 「積極的な男性ってどう思う？」=“What do you think of assertive guys?”

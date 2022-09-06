@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「も、もうっ……こんなところ覗いて……めっ！　なのですっ！　でも……せっかく入ってきちゃったなら……も、もう少しゆっくりしていくですよ」=G-geez...! I can't believe you're peeking in here! Like this! But... if you came all this way... t-then you can take your time and stay a bit.”
+「も、もうっ……こんなところ覗いて……めっ！　なのですっ！　でも……せっかく入ってきちゃったなら……も、もう少しゆっくりしていくですよ」=“G-geez...! I can't believe you're peeking in here! Like this! But... if you came all this way... t-then you can take your time and stay a bit.”
