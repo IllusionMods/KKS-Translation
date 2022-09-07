@@ -74,7 +74,7 @@
 「ねえ、そんな話やめましょうよ。話題を変えましょ！」=“Hey, let's not talk about that. Change the subject!”
 「ねえ、エッチな話しない？」=“Hey, I'm not gonna talk about sex, okay?”
 「な、なに言ってんのよ！　するわけないでしょう！？」=“Wh-what are you talking about?”
-//「ねえ、オナニーって週何回してる」=“Hey, how many times a week do you masturbate?”
+「ねえ、オナニーって週何回してる」=“Hey, how many times a week do you masturbate?”
 「そりゃ、週四……ってば、バカ！　そんなの言うわけないでしょ！」=“Well, four times a week... gah, you moron! I'd never tell you that!”
 「SEXって、どういう意味か知ってる？」=“Do you know what 'sex' means?”
 「せ、セックスはセックスでしょう？　エッチ以外に意味なんてあるの……？」=“'Sex' just means sex, right? Does sex even have another meaning...?”
