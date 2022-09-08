@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「今回は上級者向けのことをやってみようか」=
-//「上級者向けってなによ？」=
-//「それはね、前側を塗ることだよ。背中だけじゃなく前も塗ることで、より綺麗になれるんだ」=
-//「よく分かんないけど、お得そうね！　それじゃあ、お願いできる？」=
+「今回は上級者向けのことをやってみようか」=“Let's try some advanced stuff this time.”
+「上級者向けってなによ？」=“What do you mean by 'advanced'?”
+「それはね、前側を塗ることだよ。背中だけじゃなく前も塗ることで、より綺麗になれるんだ」=“Well, you know, spreading on your front. I can put it there, as well as your back, to make you more beautiful.”
+「よく分かんないけど、お得そうね！　それじゃあ、お願いできる？」=“I don't know about you, but that sounds great! Well then, could I ask you to do that?”
 「もちろん」=“Of course.”
