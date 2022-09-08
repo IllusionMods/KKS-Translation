@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ひょっとして、あんた天才？　すごく気持ち良かったわ～」=
-//「あんた、中々やるわね。さすがだわ」=
-//「悪くなかったけど、あんたならもっと出来ると思うわ」=
-//「ちょっとちょっと！　まだ塗ってないわよ～？」=
+「ひょっとして、あんた天才？　すごく気持ち良かったわ～」=“You a genius, by any chance? That felt really good~”
+「あんた、中々やるわね。さすがだわ」=“You're pretty good at that. As expected.”
+「悪くなかったけど、あんたならもっと出来ると思うわ」=“That wasn't bad, but I know you can do better.”
+「ちょっとちょっと！　まだ塗ってないわよ～？」=“Wait, hold on! You haven't spread it on me yet~?”
