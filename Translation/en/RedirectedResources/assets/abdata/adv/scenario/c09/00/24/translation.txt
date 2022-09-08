@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「え？　もうこれで終わり？　あんた、調子が悪いんじゃない？」=
+「え？　もうこれで終わり？　あんた、調子が悪いんじゃない？」=“Eh? We're done? You feeling okay?”
