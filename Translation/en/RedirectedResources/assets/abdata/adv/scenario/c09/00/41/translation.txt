@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「いい汗がかけたわね。あたし達が二人で頑張った証だわ」=
+//「いい汗がかけたわね。あたし達が二人で頑張った証だわ」=“We worked up a good sweat. A real testament to how hard we both worked.”
