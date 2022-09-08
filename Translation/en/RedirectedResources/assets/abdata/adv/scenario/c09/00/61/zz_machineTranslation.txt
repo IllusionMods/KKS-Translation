@@ -1,5 +1,0 @@
-「へぇ、ここではオイルを塗れるんだって」=“Oh, they have oil here. - Oh, they have oil here.”
-「オイルなんて塗ってどうするのよ？　身体がべとべとになるだけじゃない」=“What's the point of putting oil on my body?　What's the point of putting oil on my body?”
-「知らないの？　オイルは美容効果があるんだよ」=“You don't know?　The oil has beauty benefits.”
-「そうなの！？　じゃあ、さっそく塗ってほしいわ！」=“Oh, really?　Then I want you to paint it for me!”
-「いいよ、任せて」=“All right, I got it.”
