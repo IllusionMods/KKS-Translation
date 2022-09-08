@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へぇ、ここではオイルを塗れるんだって」=
-//「オイルなんて塗ってどうするのよ？　身体がべとべとになるだけじゃない」=
-//「知らないの？　オイルは美容効果があるんだよ」=
-//「そうなの！？　じゃあ、さっそく塗ってほしいわ！」=
-//「いいよ、任せて」=
+「へぇ、ここではオイルを塗れるんだって」=“Ehe, they said you can do massage here.”
+「オイルなんて塗ってどうするのよ？　身体がべとべとになるだけじゃない」=“What are you planning to do with that oil? It'll just make my body sticky.”
+「知らないの？　オイルは美容効果があるんだよ」=“I don't think so, okay? Oil has beauty benefits, you know.”
+「そうなの！？　じゃあ、さっそく塗ってほしいわ！」=“Oh, that so!? Well, then spread it on me, ASAP!”
+「いいよ、任せて」=“Sure, I'm on it.”
