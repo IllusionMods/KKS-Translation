@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……俺のこと好きって言ったの？　それとも好きじゃなくて、スキーと言い間違えただけ？」=
-//「この場所でスキーなんていう訳ないでしょ！　あ、あんたのことが……好きって言ったのよ」=
-//「言い間違えでも、俺が聞き間違えた訳でもなかったんだね」=
-//「そうよ。そ、それで……どうなの？　やっぱり……あたしとじゃ、いや？」=
-//「ううん、嫌じゃない。本当に嬉しいよ」=
-//「一緒にいて楽しくて、いつも笑顔にさせてくれる[H名]のことが俺も好きなんだ」=
-//「本当？　あんたと両想いだなんて……夢見たいだわ」=
-//「でも、夢じゃないのよね？　現実よね？」=
-//「現実だよ。これからは、恋人としてよろしくね」=
+「……俺のこと好きって言ったの？　それとも好きじゃなくて、スキーと言い間違えただけ？」=“...you said you love me? Or you don't like me, and you actually mispronounced 'skiing'?”
+「この場所でスキーなんていう訳ないでしょ！　あ、あんたのことが……好きって言ったのよ」=“There's no way I'd ski around here! I said that... I loved you.”
+「言い間違えでも、俺が聞き間違えた訳でもなかったんだね」=“So you didn't say it wrong, and I didn't misunderstand you.”
+//「そうよ。そ、それで……どうなの？　やっぱり……あたしとじゃ、いや？」=“That's right. So... how about it? Not with me, after all?”
+「ううん、嫌じゃない。本当に嬉しいよ」=“Nope, I don't mind. I'm really happy.”
+「一緒にいて楽しくて、いつも笑顔にさせてくれる[H名]のことが俺も好きなんだ」=“I like you too, [H名]. You're fun to be with, and you always make me smile.”
+「本当？　あんたと両想いだなんて……夢見たいだわ」=“Really? I can't believe we're in love... it's like a dream come true.”
+「でも、夢じゃないのよね？　現実よね？」=“But it's not a dream, right? It's real, isn't it?”
+「現実だよ。これからは、恋人としてよろしくね」=“It's real. You're going to be my girlfriend from now on.”
