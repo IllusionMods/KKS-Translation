@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ホテルでは普通の料理の方が多いのね」=
-//「食べ慣れた味が恋しくなった人の為に、そういうメニューを用意してるんじゃないかな」=
-//「なるほどね～、それが正解な気がするわ。あんたは賢いわね！」=
-//「ははは……どうもどうも」=
+「ホテルでは普通の料理の方が多いのね」=“Seems like hotels usually have lots of regular food.”
+「食べ慣れた味が恋しくなった人の為に、そういうメニューを用意してるんじゃないかな」=“I guess the menu's prepared that way, since poeple miss what they're used to eating.”
+「なるほどね～、それが正解な気がするわ。あんたは賢いわね！」=“Oh, I get it~ I think you're right. You're so smart!”
+「ははは……どうもどうも」=“Hahaha... thanks, thanks.”
