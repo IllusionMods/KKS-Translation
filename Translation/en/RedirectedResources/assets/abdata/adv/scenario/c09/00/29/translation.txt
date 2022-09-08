@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「何して遊ぶ？　あたし、トランプ持ってるわよ！」=
-//「もっと楽しいことがあるの？　……ふんふん、男女が交わり合って愛を確かめる遊びね」=
-//「って、それはエッチじゃない！　い、嫌ではないけど……もっとムードのある誘い方をしなさいよ！」=
+「何して遊ぶ？　あたし、トランプ持ってるわよ！」=“So, what are we doing? I have a deck of cards!”
+「もっと楽しいことがあるの？　……ふんふん、男女が交わり合って愛を確かめる遊びね」=“You have something more fun than that? *Sniff sniff* So, a game where a man and woman mingle to confirm their love.”
+「って、それはエッチじゃない！　い、嫌ではないけど……もっとムードのある誘い方をしなさいよ！」=“Whoa, not sex, right!? No, I don't mind... but you should have a more subtle way of asking someone out!”
