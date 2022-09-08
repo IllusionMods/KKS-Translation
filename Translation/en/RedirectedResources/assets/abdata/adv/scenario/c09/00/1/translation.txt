@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ん？　どこに付き合えばいいわけ？」=
-//「えぇと、そういう意味じゃなくて……」=
-//「……君のことが好きなんだ。だから、俺と付き合ってほしい」=
-//「なんだ、勘違いしてたわ。分かった、あたし達付き合いましょう」=
-//「って、えぇぇぇ！？　あんた、あたしのこと好きなの！？」=
-//「リアクションが遅いよ……さっき言った通り、俺は君のことが好きだよ」=
-//「それで、結局ＯＫなのかな？」=
-//「えっと……うん。あたしも、あんたのこと……好きよ。だから、その……よろしく……」=
+「ん？　どこに付き合えばいいわけ？」=“Nh? Where should we go?”
+「えぇと、そういう意味じゃなくて……」=“Ehh, that's not what I meant...”
+「……君のことが好きなんだ。だから、俺と付き合ってほしい」=“...I like you. So I'd like you to go out with me.”
+「なんだ、勘違いしてたわ。分かった、あたし達付き合いましょう」=Oh wow, I totally misunderstood you. I understand. I'll go out with you.”
+「って、えぇぇぇ！？　あんた、あたしのこと好きなの！？」=“Wha--! Ehhhh!? You like me!?”
+「リアクションが遅いよ……さっき言った通り、俺は君のことが好きだよ」=“You're slow to react... like I said, I like you.”
+「それで、結局ＯＫなのかな？」=“So, you're OK with this, after all?”
+「えっと……うん。あたしも、あんたのこと……好きよ。だから、その……よろしく……」=“Er, um... yeah. I... like you, too. So, um... let's be together...”
