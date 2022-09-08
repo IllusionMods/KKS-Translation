@@ -1,6 +1,0 @@
-「さっきからメニュー表をずっと眺めて……にらめっこでもしてるの？」=“Have you been staring at the menu list and staring at ......?”
-「違うわよ！　どれも美味しそうだから、何を頼むか決まらないの」=“No, it's not!　Everything looks so good, I can't decide what to order.”
-「そんなに悩むなら、俺が決めようか？」=“If it bothers you so much, why don't you let me decide?”
-「そうね……あんたになら、あたしの運命を任せられるわ」=“Yeah, ...... I'd trust my fate to you.”
-「あたしの命がかかってると思って選んでちょうだい」=“I want you to choose me as if my life depended on it.”
-（……選びにくいなぁ）=(......It's hard to choose.)
