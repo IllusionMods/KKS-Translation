@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なんのレジャーがいいかな。あんまり難しくなさそうなのはどれだろう？」=
-//「どうして難しいのを除くのよ？　ダイビングとか楽しそうだわ」=
-//「覚えることがたくさんあるから……ね？」=
-//「その目は何よ！　あたしをバカにしないでちょうだい」=
-//「ダイビングって、水中でコミュニケーションを取る為に色んなサインがあるんだよ？　覚えられる？」=
-//「無理ね」=
+「なんのレジャーがいいかな。あんまり難しくなさそうなのはどれだろう？」=“What kind of activity would you like to do? Which ones don't seem too hard?”
+「どうして難しいのを除くのよ？　ダイビングとか楽しそうだわ」=“Why leave out the hard ones? Diving and stuff sounds fun.”
+「覚えることがたくさんあるから……ね？」=“There's lot to memorize... you know?”
+「その目は何よ！　あたしをバカにしないでちょうだい」=“Why you looking at me that way!? Don't make fun of me.”
+「ダイビングって、水中でコミュニケーションを取る為に色んなサインがあるんだよ？　覚えられる？」=“Well, there's a bunch of signs to you use to communicate underwater, you know? Can you remember them?”
+「無理ね」=“I can.”
