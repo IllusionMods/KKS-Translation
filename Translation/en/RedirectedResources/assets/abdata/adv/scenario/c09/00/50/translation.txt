@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さっきからメニュー表をずっと眺めて……にらめっこでもしてるの？」=
-//「違うわよ！　どれも美味しそうだから、何を頼むか決まらないの」=
-//「そんなに悩むなら、俺が決めようか？」=
-//「そうね……あんたになら、あたしの運命を任せられるわ」=
-//「あたしの命がかかってると思って選んでちょうだい」=
-//（……選びにくいなぁ）=
+「さっきからメニュー表をずっと眺めて……にらめっこでもしてるの？」=“You've been staring at the menu for a while... just gonna keep staring?”
+「違うわよ！　どれも美味しそうだから、何を頼むか決まらないの」=“No, I'm not! It's just that I can't decide what to order. It all looks so good.”
+「そんなに悩むなら、俺が決めようか？」=“If you can't make up your mind, why not let me decide?”
+「そうね……あんたになら、あたしの運命を任せられるわ」=“That's right... I can trust you with my fate.”
+「あたしの命がかかってると思って選んでちょうだい」=“Think of it as my life in your hands... and make your choice.”
+（……選びにくいなぁ）=(...no pressure.)
