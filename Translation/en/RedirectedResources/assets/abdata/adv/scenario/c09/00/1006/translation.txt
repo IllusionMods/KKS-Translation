@@ -19,6 +19,6 @@
 「[H名]は本当に可愛いね」=“You're so cute, [H名].
 「か、可愛いって……もうっ！　ごまかして」=“You said I'm cute... geez! Cheater.”
 「好きだよ」=“I love you.”
-//「～～ッ！！　も、もういいわよ。わかったから……それは、あ、あたしもだし」=“Gahhh~~!! Th-that's enough. I get it... and I... I do too.”
+「～～ッ！！　も、もういいわよ。わかったから……それは、あ、あたしもだし」=“Gahhh~~!! Th-that's enough. I get it... and I... I do too.”
 「さ、二人で鳴らしてみよう？　二人の恋がずっと続くように」=“Shall we both ring it now? May our love last forever.”
 「最初からそう言えばいいの。当然鳴らすわ！　あたし達、運命の二人だもの」=“You should have just said that from the beginning. Of course I'll ring it! We're fated for each other.”
