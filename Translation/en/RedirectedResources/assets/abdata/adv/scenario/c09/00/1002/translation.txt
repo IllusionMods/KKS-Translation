@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「せっかくだから、ちょっと卓球してこうよ」=
-//「あたしに挑戦するつもり？　いい度胸してるじゃない」=
-//「さあ、勝負よ！」=
-//「おお、構えが本格的だ。しっかり腰が落ちてる」=
-//「ふっふっ、驚くのはこれからよ！」=
-//「５点先取ね。負けたらジュースおーごりっ♪」=
-//「ちょ、後出しでズルい……っ！」=
+「せっかくだから、ちょっと卓球してこうよ」=“Since we're here, let's play a little ping-pong.”
+「あたしに挑戦するつもり？　いい度胸してるじゃない」=“You're challenging me? You've got some guts.”
+「さあ、勝負よ！」=“Come on, let's play!”
+「おお、構えが本格的だ。しっかり腰が落ちてる」=“Ohhh, such a serious stance. Your legs are firmly set.”
+「ふっふっ、驚くのはこれからよ！」=“Fu! Fu! Prepare to be shocked!”
+「５点先取ね。負けたらジュースおーごりっ♪」=“Five points ahead. The loser buys the juice.”
+「ちょ、後出しでズルい……っ！」=“Hey, no fair setting the terms now...!!”
 「…………………………」=“...”
-//「で、弱いってどういうことなの？　５対０で俺が勝っちゃったよ」=
-//「経験者だったなんてずるい。あたしのことハメたわね」=
-//「ちょっとやったことがあるくらいだよ」=
-//「羊の皮をかぶったあれでしょ？　まんまと騙されたわ。はいはい強いですねー」=
-//「何とでも言っていいよ。ジュース、ごちそうになるね」=
-//「くぅ……ジュース奢りなんて言わなきゃよかった！」=
+「で、弱いってどういうことなの？　５対０で俺が勝っちゃったよ」=“Hey, what do you mean by 'weak'? I won, 5 to 0.”
+「経験者だったなんてずるい。あたしのことハメたわね」=“It's unfair that you have experience. You set me up!“
+「ちょっとやったことがあるくらいだよ」=“Maybe just a little.”
+「羊の皮をかぶったあれでしょ？　まんまと騙されたわ。はいはい強いですねー」=“So, you're like that thing in sheep's clothing? You had us all fooled. Yeah, yeah, so powerful-”
+「何とでも言っていいよ。ジュース、ごちそうになるね」=“You can call me whatever you want. Thanks for the juice.”
+「くぅ……ジュース奢りなんて言わなきゃよかった！」=“Guh... I shouldn't have said I'd buy you a juice.”
