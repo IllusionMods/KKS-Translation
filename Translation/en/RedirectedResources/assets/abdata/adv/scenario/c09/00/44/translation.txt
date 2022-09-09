@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「上手に三線を弾けた方の勝ちよ？　負けた方は……そうね、ジュースを奢るってことで！」=
-//「いいよ。じゃあ、まずは俺から」=
-//「ふふん、お手並み拝見ね」=
-//（めっちゃこっちを見てる……なんか緊張するな）=
+「上手に三線を弾けた方の勝ちよ？　負けた方は……そうね、ジュースを奢るってことで！」=“So, whoever plays the sanshin better, wins, okay? The loser... has to buy the winner a glass of juice!”
+「いいよ。じゃあ、まずは俺から」=“Sure. Well, let's start.”
+「ふふん、お手並み拝見ね」=“Fu fu, let's see what you got.”
+（めっちゃこっちを見てる……なんか緊張するな）=(She's staring at me... I'm kind of nervous about this.)
 …………=......
-//「……どうだった？」=
-//「こんなの勝負になるはずがないじゃない！　あたしの負け……あんたの作戦勝ちね」=
-//「俺に作戦なんてなかったけどね」=
+「……どうだった？」=“...so, how was that?”
+「こんなの勝負になるはずがないじゃない！　あたしの負け……あんたの作戦勝ちね」=“There's no contest! I lost... you won the game.”
+「俺に作戦なんてなかったけどね」=“I didn't have a strategy, though, you know?”

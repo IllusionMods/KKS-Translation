@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//（ふぅ……ここまで道のりは、やっぱりちょっと大変だな）=
-//「……ねえ、ちょっと」=
-//「あ、ごめん。一人で先に行き過ぎたかな」=
-//「誰がそんな話したのよ」=
-//「疲れたんでしょ？　[H名]、顔赤くなってるし……なんだか息遣いも乱れてるような」=
-//「誰がハアハアいってるっていうの？　失礼ね。そんなの変態みたいじゃない」=
-//「あたしは、ただ……」=
-//「こ、ここは、あのウムイの鐘よ。わかってて、あたしのことここに連れてきたのよね……？」=
-//「わかってて、って？」=
-//「違うの！？　もしかして、ただの観光……」=
-//「俺が知ってることなんて、このウムイの鐘を鳴らした二人は永遠に結ばれるってジンクスくらいだよ」=
-//「全部知ってるじゃない！　なんなのよ、バカ」=
-//「あははは」=
-//「何もおかしくないわよ！　人のことドキドキさせておいて、そんな風に笑ったり……」=
-//「あっ、ドキドキっていうのは別にそういう意味じゃないからね！」=
-//「[H名]は本当に可愛いね」=
-//「か、可愛いって……もうっ！　ごまかして」=
-//「好きだよ」=
-//「～～ッ！！　も、もういいわよ。わかったから……それは、あ、あたしもだし」=
-//「さ、二人で鳴らしてみよう？　二人の恋がずっと続くように」=
-//「最初からそう言えばいいの。当然鳴らすわ！　あたし達、運命の二人だもの」=
+（ふぅ……ここまで道のりは、やっぱりちょっと大変だな）=(Phew... the path up to here was a little daunting.)
+「……ねえ、ちょっと」=“...hey, hold up.”
+「あ、ごめん。一人で先に行き過ぎたかな」=“Ah, sorry. I guess I got too far ahead.”
+「誰がそんな話したのよ」=“Who said anything about that?”
+「疲れたんでしょ？　[H名]、顔赤くなってるし……なんだか息遣いも乱れてるような」=“Are you tired? You're flushed, [H名]... and it seems you're out of breath.” 
+「誰がハアハアいってるっていうの？　失礼ね。そんなの変態みたいじゃない」=“Who says I'm huffing and puffing? Rude. I'm not making perverted noises.”
+「あたしは、ただ……」=“I just...”
+「こ、ここは、あのウムイの鐘よ。わかってて、あたしのことここに連れてきたのよね……？」=“H-here's the Umui Bell. We came here, because you knew it was here, I suppose...?”
+「わかってて、って？」=“I know, okay?”
+「違うの！？　もしかして、ただの観光……」=“Is that bad!? Maybe we were just sightseeing...”
+「俺が知ってることなんて、このウムイの鐘を鳴らした二人は永遠に結ばれるってジンクスくらいだよ」=“All I know that's there's this charm on the Umui Bell. A couple who rings it will be together, forever.”
+「全部知ってるじゃない！　なんなのよ、バカ」=“You know all about it! What the hell, you moron.”
+「あははは」=“Ahahaha.”
+「何もおかしくないわよ！　人のことドキドキさせておいて、そんな風に笑ったり……」=“There's nothing funny about it! You make people nervous when you laugh like that...”
+「あっ、ドキドキっていうのは別にそういう意味じゃないからね！」=“Ah! And I don't mean 'thrilled', either, you know!”
+「[H名]は本当に可愛いね」=“You're so cute, [H名].
+「か、可愛いって……もうっ！　ごまかして」=“You said I'm cute... geez! Cheater.”
+「好きだよ」=“I love you.”
+「～～ッ！！　も、もういいわよ。わかったから……それは、あ、あたしもだし」=“Gahhh~~!! Th-that's enough. I get it... and I... I do too.”
+「さ、二人で鳴らしてみよう？　二人の恋がずっと続くように」=“Shall we both ring it now? May our love last forever.”
+「最初からそう言えばいいの。当然鳴らすわ！　あたし達、運命の二人だもの」=“You should have just said that from the beginning. Of course I'll ring it! We're fated for each other.”

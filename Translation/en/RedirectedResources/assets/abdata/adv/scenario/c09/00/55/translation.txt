@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねえ、あんたの愛称考えてみたんだけど、聞きたい？　聞きたいでしょ？」=
-//「そうでもないかな」=
-//「即答！？　彼女が愛称考えてきたのよ！　それも寝る間も惜しんで！　普通気になるでしょ！？」=
-//「あー、うん……。ちょっと天邪鬼な態度をとってごめんね。聞かせてほしいな」=
-//「何よ、やっぱり気になってたんじゃない。最初からそう言いなさいよ。それじゃあ、今から呼ぶから心して聞きなさい！」=
+「ねえ、あんたの愛称考えてみたんだけど、聞きたい？　聞きたいでしょ？」=“Hey, I've been trying to come up with a nickname for you. Want to hear it? You want to hear it, right?”
+「そうでもないかな」=“Not really.”
+「即答！？　彼女が愛称考えてきたのよ！　それも寝る間も惜しんで！　普通気になるでしょ！？」=“Such a quick answer!? I came up with a nickname for you! And without even having to sleep on it! I thought you'd be curious!?”
+「あー、うん……。ちょっと天邪鬼な態度をとってごめんね。聞かせてほしいな」=“Oh- Yeah... sorry for being a little rude. I'd love to hear it.”
+「何よ、やっぱり気になってたんじゃない。最初からそう言いなさいよ。それじゃあ、今から呼ぶから心して聞きなさい！」=“What, I knew you were curious. You should have just said so to begin with. Well then, here I go, so listen up!”
 「……[Pあだ名]」=“...[Pあだ名]”
-//「……思ったより照れくさいね、これ」=
-//「ちょっと、その反応はこっちまで恥ずかしくなるじゃない！」=
-//「はは、愛称考えてくれてありがと、[Hあだ名]」=
-//「っ……何よ、急に……」=
-//「俺も考えてみたんだ、どうかな？」=
-//「まあ……いいと思うわ」=
-//「……ねえ、せっかく付けた愛称だから、たまに呼んでみてもいい？」=
-//「もちろんいいよ。呼んでくれたら俺も嬉しいし」=
+「……思ったより照れくさいね、これ」=“...that's more embarrassing than I thought it would be.”
+「ちょっと、その反応はこっちまで恥ずかしくなるじゃない！」=“Hey! Your reaction is embarrassing me!”
+「はは、愛称考えてくれてありがと、[Hあだ名]」=“Haha, thanks for coming up with that nickname, [Hあだ名].”
+「っ……何よ、急に……」=“!... what's this, all the sudden...”
+「俺も考えてみたんだ、どうかな？」=“I thought hard too, so what do you think?”
+「まあ……いいと思うわ」=“Well, ah... I guess it's fine.”
+「……ねえ、せっかく付けた愛称だから、たまに呼んでみてもいい？」=“...hey, I gave you that nickname, so you can call me by one every once in a while, okay?”
+「もちろんいいよ。呼んでくれたら俺も嬉しいし」=“That's fine, of course. I'd be happy if you called me by it.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あたしでも楽しめるレジャーがあって安心したわ」=
+「あたしでも楽しめるレジャーがあって安心したわ」=“It's so nice to know that there's leisure activities I can enjoy, too.”

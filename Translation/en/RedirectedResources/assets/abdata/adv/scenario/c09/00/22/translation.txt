@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「え……？　これで終わり？　もっとしてよ！」=
+「え……？　これで終わり？　もっとしてよ！」=“Eh...? That's it? Let's do more!”

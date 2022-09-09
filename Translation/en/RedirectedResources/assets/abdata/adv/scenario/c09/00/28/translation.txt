@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あんたの部屋で何をするわけ？　って、あんた……なんか鼻息が荒いわよ？」=
-//「はぁ！？　エッチをするつもりであたしを誘ったの！？」=
-//「あたしはてっきり遊ぶんだと思って……あ、別に嫌なわけじゃ、ないけど……」=
+「あんたの部屋で何をするわけ？　って、あんた……なんか鼻息が荒いわよ？」=“So, what are we doing in your room? Uh, did you just snort at me?”
+「はぁ！？　エッチをするつもりであたしを誘ったの！？」=“Haaa!? You invited me here to have sex with you!?”
+「あたしはてっきり遊ぶんだと思って……あ、別に嫌なわけじゃ、ないけど……」=“I thought we were just gonna play a game... oh, it's not that I don't want to, but...”

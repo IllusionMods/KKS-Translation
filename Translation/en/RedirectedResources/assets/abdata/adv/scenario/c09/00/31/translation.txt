@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「灯台って、どうしてこんな場所に建ってるの？」=
-//「航海中の船に場所を知らせる為だよ。内陸の方に建ってたら見えないでしょ」=
-//「後悔中の船……？　言ってる意味はよく分からないけど、分かったわ」=
-//「分からないのに、何が分かったの？」=
-//「あたしには分からないことが、分かったのよ」=
-//（なんで誇らしげに言うんだろう……）=
+「灯台って、どうしてこんな場所に建ってるの？」=“I wonder why lighthouses are built in places like this, you know?”
+「航海中の船に場所を知らせる為だよ。内陸の方に建ってたら見えないでしょ」=“It's to let ships in distress know where they are. If it were built inland, then they couldn't see it.”
+「後悔中の船……？　言ってる意味はよく分からないけど、分かったわ」=“Ships in distress...? I'm not sure what you mean, but I think I get it.”
+「分からないのに、何が分かったの？」=“But if you don't know, then what did you get?”
+「あたしには分からないことが、分かったのよ」=“I didn't know what I didn't know, but I know now.”
+（なんで誇らしげに言うんだろう……）=(Why does she sound so proud when she says that...)

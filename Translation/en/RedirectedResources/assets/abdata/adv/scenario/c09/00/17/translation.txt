@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「き、気持ちよかった……あたしの動き、こんなんでよかったかな？」=
-//「ああ、とてもやりやすいよ」=
-//「そう、それならよかった……」=
+「き、気持ちよかった……あたしの動き、こんなんでよかったかな？」=“That felt great... I suppose I did everything alright?”
+「ああ、とてもやりやすいよ」=“Ohh, everything was so easy.”
+「そう、それならよかった……」=“So, then everything's good...”

@@ -2,16 +2,16 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「お土産を見てみようよ」=“Let's have a look at the souvenirs.”
-//「旅行のお土産っていったらお菓子よね！　定番だわ」=
-//「もらって困るものじゃないしね」=
-//「絶対って言える？　賞味期限がタイトだったとしても……かしら」=
-//「なんで、もらった相手を困らせる方向にシフトしたのさ」=
-//「あたしが悪人みたいな言い方しないで。[P名]の危機感が足りないから指摘しただけでしょ」=
-//「危機感？　ま、まあ、うん、ありがとう気をつけるよ」=
-//「いいのよ。あたしって目配り……だっけ？　リーダーらしい振る舞いができるタイプだから」=
-//「調子出てきたね。その勢いでベストなお土産を見繕ってくれる？」=
-//「そうね……うーん、あれも……これも、なかなかおいしそうではあるけど。ご当地らしさも考慮すると……」=
-//「やっぱりこれだわ！　断然これっ！！」=
-//「最初からずっとそれを持ってたよね？」=
-//「直感ってことね！　これ絶対においしいわよ。一緒に食べましょ」=
-//「さっきまでのうんちくはなかったことでいいわけね？」=
+「旅行のお土産っていったらお菓子よね！　定番だわ」=“When it comes to souvenirs on a trip, it's all about sweets, isn't it! Totally a standard.” 
+「もらって困るものじゃないしね」=“But they're not something I'd like to send off.”
+「絶対って言える？　賞味期限がタイトだったとしても……かしら」=“You totally sure about that? Maybe if the expiration date's close... I guess.”
+「なんで、もらった相手を困らせる方向にシフトしたのさ」=“Why the sudden shift about annoying the recipients?”
+「あたしが悪人みたいな言い方しないで。[P名]の危機感が足りないから指摘しただけでしょ」=“Don't make it sound like I'm a bad person. I was just pointing out your lack of urgency, [P名].”
+「危機感？　ま、まあ、うん、ありがとう気をつけるよ」=“My sense of urgency? W-well, yeah, thanks, I'll try to keep that in mind.”
+「いいのよ。あたしって目配り……だっけ？　リーダーらしい振る舞いができるタイプだから」=
+「調子出てきたね。その勢いでベストなお土産を見繕ってくれる？」=“That's okay. My vigor will help you in finding the best souvenirs, you know?”
+「そうね……うーん、あれも……これも、なかなかおいしそうではあるけど。ご当地らしさも考慮すると……」=“Let's see... mmm, that one... and that one... they look pretty tasty, too. You have to take the locality into consideration, too...”
+「やっぱりこれだわ！　断然これっ！！」=“This one, right here! This is the one, by far!!”
+「最初からずっとそれを持ってたよね？」=“Isn't that the one you'd had with you from the beginning?”
+「直感ってことね！　これ絶対においしいわよ。一緒に食べましょ」=“That's my intuition at work! These are totally delicious. Let's eat them together.”
+「さっきまでのうんちくはなかったことでいいわけね？」=“So, I guess it's okay to pretend all the stuff I said earlier never happened, right?”

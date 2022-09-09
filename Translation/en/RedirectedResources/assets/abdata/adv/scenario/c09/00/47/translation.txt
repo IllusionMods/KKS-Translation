@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「勝負、楽しかったわね！　それじゃあ、あたしは……ジュースを奢る？　なんとことかしら～」=
+「勝負、楽しかったわね！　それじゃあ、あたしは……ジュースを奢る？　なんとことかしら～」=“Well played, that was fun! Well then... now I gotta buy you a juice? What a thing to say~” 

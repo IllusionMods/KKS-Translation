@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねえ……ちょっと部屋にいれてちょうだい」=
+「ねえ……ちょっと部屋にいれてちょうだい」=“Hey... can I come in your room for a sec?”
 SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-//「こんな時間にどうしたの？」=
-//「その……えっと……正直に言うと、あんたに会いたくなったの」=
-//「だから、その……あたしの相手をして……少しくらいならエッチなことをしても、いいから……」=
-//「……もう寝ちゃったの？　はぁ……まあ、別に……また明日も会えるからいいや」=
+「こんな時間にどうしたの？」=“It's late... what's going on?”
+「その……えっと……正直に言うと、あんたに会いたくなったの」=“Um... er, uh... to be honest, I miss you.”
+「だから、その……あたしの相手をして……少しくらいならエッチなことをしても、いいから……」=“So, uh... be my partner... it's fine if we do naughty things for a little while...”
+「……もう寝ちゃったの？　はぁ……まあ、別に……また明日も会えるからいいや」=“...he's already asleep? *Sigh*... it's not like I can't see him tomorrow.”

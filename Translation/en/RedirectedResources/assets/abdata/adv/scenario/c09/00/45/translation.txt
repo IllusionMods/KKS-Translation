@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「まぁ……今回は失敗しちゃったけど、次は成功するわ。見てなさい！」=
+「まぁ……今回は失敗しちゃったけど、次は成功するわ。見てなさい！」=“Well... I failed this time, but I'll win next time. Just watch!”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ええっ！？　エッチがしたいって、あたし達は友達じゃない！」=
-//「分かってるけど……どうしてもシたいんだ。ダメかな？」=
-//「それにエッチをしたら、俺たちはもっと仲良くなれると思うんだ」=
-//「仲良くなれるのは……悪いことじゃないわね。でも……」=
-//「気持ち良くなれるし、いいこと尽くめだよ！　だからお願いします！」=
-//「あんたが、そこまで頼み込むなら……」=
+「ええっ！？　エッチがしたいって、あたし達は友達じゃない！」=“Ehhh!? We're not close friends, but you still want to have sex!?”
+「分かってるけど……どうしてもシたいんだ。ダメかな？」=“Look, I get it... but I really want to have sex. That a bad thing?”
+「それにエッチをしたら、俺たちはもっと仲良くなれると思うんだ」=“Besides, I'd think we'd get along even better, if we had sex.”
+「仲良くなれるのは……悪いことじゃないわね。でも……」=“We could get along better... that wouldn't be bad. But...”
+「気持ち良くなれるし、いいこと尽くめだよ！　だからお願いします！」=“We can both enjoy it, and that would make both of us feel good! So, please, let's do it!” 
+「あんたが、そこまで頼み込むなら……」=“Well, if you're really that desperate...”

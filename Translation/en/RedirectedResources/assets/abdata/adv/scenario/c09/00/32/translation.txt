@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「綺麗な場所だけど、この滝は一体なんなの？」=
-//「ここはパワースポットなんだって」=
-//「うっ、とてつもないパワーを感じる……！　圧倒されるわ……！」=
-//「俺が説明した途端にパワーが飛んできたの？」=
-//「そうよ」=
-//「ああ、断言しちゃうんだ……」=
+「綺麗な場所だけど、この滝は一体なんなの？」=“It's beautiful here, but what's the deal with the waterfall?”
+「ここはパワースポットなんだって」=“I heard that this place is a power spot.”
+「うっ、とてつもないパワーを感じる……！　圧倒されるわ……！」=“Uuu! I sense a tremendous power...! It's overwhelming...!”
+「俺が説明した途端にパワーが飛んできたの？」=“So when it's pointed it out, the power just pours out?”
+「そうよ」=“That's right.”
+「ああ、断言しちゃうんだ……」=“Ohh, I swear...”
