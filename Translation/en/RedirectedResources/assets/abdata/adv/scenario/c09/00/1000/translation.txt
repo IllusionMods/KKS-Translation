@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルドリングだってさ。頼んでみようよ」=
-//「……多いわ！」=
-//「まず、量に対する感想がくるとは思わなかった」=
-//「こんなのあたし一人じゃ飲みきれない」=
-//「いや、カップルドリンクなんだから……」=
-//「さては、欧米基準ってわけね？　向こうはなんでもサイズが大きいって何かで見たことあるもの」=
-//「二人で飲むんだってば！」=
-//「二人で！？　……そ、それはそれで欧米仕様ね。大胆さを強いてきてるわ」=
-//「あっ、腰が引けてるわけじゃないのよ？　なんたってあたし達は恋人……なんだし」=
-//「こほんっ。それじゃ、飲んでみる？　どんな味なのかしら」=
-//「せーのでチューてするのよ？　あと、できれば目は閉じてて欲しいかも……」=
-//「キスするわけじゃないからね？」=
-//「に、似たようなものでしょ！」=
-//「違うと思う」=
+「カップルドリングだってさ。頼んでみようよ」=“There's even a couple's drink. Let's order one.”
+「……多いわ！」=“...there's so much!”
+「まず、量に対する感想がくるとは思わなかった」=“You know, I didn't think I'd get feedback on how much there is.”
+「こんなのあたし一人じゃ飲みきれない」=“I can't drink all this by myself.”
+「いや、カップルドリンクなんだから……」=“No, it's a drink for couples...”
+「さては、欧米基準ってわけね？　向こうはなんでもサイズが大きいって何かで見たことあるもの」=“So we're going by Western standards? It's like everything is this size over there.”
+「二人で飲むんだってば！」=“I said we'd drink it together!”
+「二人で！？　……そ、それはそれで欧米仕様ね。大胆さを強いてきてるわ」=“Together!? Th-that's the Western way of doing it. It's to force you to be more bold.”
+「あっ、腰が引けてるわけじゃないのよ？　なんたってあたし達は恋人……なんだし」=“Ah! I'm not trying to be a baby about it, okay? I mean, we're lovers, after all... and everything.”
+「こほんっ。それじゃ、飲んでみる？　どんな味なのかしら」=“Ahem. Then shall we drink? I wonder what it tastes like.”
+「せーのでチューてするのよ？　あと、できれば目は閉じてて欲しいかも……」=“Wanna give it a little taste? And you might want to keep your eyes closed, too...”
+「キスするわけじゃないからね？」=“It's not we're kissing, is it?”
+「に、似たようなものでしょ！」=“But it's kinda the same!”
+「違うと思う」=“I don't think so.”
