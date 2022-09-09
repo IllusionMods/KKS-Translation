@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここ涼しいね。休んでいこうか」=
-//「ありがと♪　ふふ、アイス買ってきてくれるなんて気が利くじゃない」=
-//「そこはレディーファーストですから」=
-//「火照った身体に、ひんやり冷たくて気持ちいい風に……アイス」=
-//「こういうのなんて言うんだったかしら？」=
-//「どういうのを表現しようとしてるのかわからないから、なんとも……」=
-//「ととのう？　だったかも。何かで見た気がするわ」=
-//「それってサウナと水風呂を往復するやつとかじゃなかったっけ？　よくわからないけど」=
-//「ばかね。ちゃんと聞いてた？　誰もサウナの話なんかしてないでしょ」=
-//（俺か？　俺が悪いのか……）=
-//「雅やかとか、風光明媚とかそういうのよ。このまったりとした優雅な気持ちは」=
-//（風光明媚は違うような……）=
-//「何よ、急に黙っちゃって」=
-//「もしかして……そ、そういうこと？　特別な気分になっちゃったの？」=
-//「だ、ダメよ！　あたし、簡単に流されちゃうような単純な女じゃないんだから」=
-//「……そうなんだ、初めて知ったよ」=
-//「ガッつかないで。せっかくの優雅な時間よ？　もっと海みたいな雄大な心で……」=
-//「ご高説の途中だけどさ、アイスはほったらかしでいいの？　早く食べないと溶けちゃうけど」=
-//「大変！　急いで食べなきゃ」=
-//（優雅さどっかいっちゃった……）=
+「ここ涼しいね。休んでいこうか」=“It's cool here. Let's take a rest.”
+「ありがと♪　ふふ、アイス買ってきてくれるなんて気が利くじゃない」=“Thanks♪ Fufu, how thoughtful of you to buy me an ice cream.”
+「そこはレディーファーストですから」=“It's a 'ladies first' kind of thing.”
+「火照った身体に、ひんやり冷たくて気持ちいい風に……アイス」=“A cool and enjoyable breeze for a hot body... and ice cream.”
+「こういうのなんて言うんだったかしら？」=“What do you call this kind of thing?”
+「どういうのを表現しようとしてるのかわからないから、なんとも……」=“I don't know what you're getting at, so I can't say...”
+「ととのう？　だったかも。何かで見た気がするわ」=“This setup, you know? How this is. I think I've seen something like this.”
+「それってサウナと水風呂を往復するやつとかじゃなかったっけ？　よくわからないけど」=“Isn't it the one where you go back and forth between the sauna, and then an ice bath, or something? I'm not sure.”
+「ばかね。ちゃんと聞いてた？　誰もサウナの話なんかしてないでしょ」=“That's dumb. I was listening, okay? Nobody was saying anything about saunas.”
+（俺か？　俺が悪いのか……）=(Me? It's my fault...)
+「雅やかとか、風光明媚とかそういうのよ。このまったりとした優雅な気持ちは」=“Elegance, scenic beauty, that kind of thing. That laid-back and elegant feeling.”
+（風光明媚は違うような……）=“(Scenic beauty seems different...)
+「何よ、急に黙っちゃって」=“What, you're quiet all the sudden.”
+もしかして……そ、そういうこと？　特別な気分になっちゃったの？」=“I guess... it's something like that? You make me feel special.”
+「だ、ダメよ！　あたし、簡単に流されちゃうような単純な女じゃないんだから」=“B.S.! I'm not some kind of simple girl who's easily swept away!”
+「……そうなんだ、初めて知ったよ」=“...I was right the first time.”
+「ガッつかないで。せっかくの優雅な時間よ？　もっと海みたいな雄大な心で……」=“Don't get upset. It's time for some elegance, isn't it? With a heart more majestic than the sea...”
+「ご高説の途中だけどさ、アイスはほったらかしでいいの？　早く食べないと溶けちゃうけど」=“Hate to interrupt your high-mindness, but could you just leave ice cream out of this?”
+「大変！　急いで食べなきゃ」=“So serious! We gotta hurry up and eat.”
+（優雅さどっかいっちゃった……）=(And elegance goes right out the window...)
