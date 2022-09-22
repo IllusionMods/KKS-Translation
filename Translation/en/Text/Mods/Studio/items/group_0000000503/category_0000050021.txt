@@ -1,57 +1,57 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+// Dumped for Koikatsu Sunshine v1.1.4 (CharaStudio) by KKS_ModTextDump v0.7.0.1
 //
 
 #set exe CharaStudio
 
 
 // chara/ymd/si_handitem.unity3d
-ほうき[FK]=Broom [FK]
-モップ=Mop
-タオル[FK]=Towel [FK]
-ハンカチ[FK]=Handkerchief [FK]
-花束=Bouquet
-ブライダルブーケ=Bridal Bouquet
-バラ一輪=One Rose
-チアバトン=Cibaton
-ハリセン=Harisen
-ハリセン しなり=Harrison
-ピコピコハンマー=Pico Pico Hammer
-ウォーターガン=Water Gun
 うなぎ[FK]=Unagi [FK]
-煙管=Smoke Pipe
-伸ばし棒=Stick
-警棒=Batons
-魔法の杖[FK]=Magic Wand [FK]
-ヒロインソード=Heroine Sword
-チェーンソー=Chainsaw
+ほうき[FK]=Broom [FK]
+アサルトライフル=Assault Rifle
+ウォーターガン=Water Gun
 ガンブレード １=Gun Blade １
 ガンブレード ２=Gun Blade ２
-スタンガン=Stun Gun
-ハンドガン=Hand Gun
-アサルトライフル=Assault Rifle
-バトルライフル=Battle Rifle
-弾薬=Ammunition
-薬莢=Pharmaceutical Capsule
-重火器=Heavy Weapons
-重火器 展開=Heavy Weapons Deployment
-剣=Sword
-錆びた剣=Rusted Sword
-刺突剣=Stabbing Sword
-曲剣=Curved Sword
-小太刀=Short Sword
 クナイ=Kunai
-鉤爪=Claw
+スタンガン=Stun Gun
+タオル[FK]=Towel [FK]
+チアバトン=Cibaton
+チェーンソー=Chainsaw
+ハリセン=Harisen
+ハリセン しなり=Harrison
+ハンカチ[FK]=Handkerchief [FK]
+ハンドガン=Hand Gun
+バトルライフル=Battle Rifle
+バラ一輪=One Rose
+ヒロインソード=Heroine Sword
+ピコピコハンマー=Pico Pico Hammer
+ブライダルブーケ=Bridal Bouquet
+モップ=Mop
+伸ばし棒=Stick
+刺突剣=Stabbing Sword
+剣=Sword
 大剣=Large Sword
+小太刀=Short Sword
+弾薬=Ammunition
 戦槌=Battle
-鎌１=Sickle 1
-鎌２=Sickle 2
+曲剣=Curved Sword
+本=Book
 杖 １=Cane １
 杖 ２=Cane ２
-本=Book
-盾 １=Shield １
-盾 ２=Shield ２
-盾 ３=Shield ３
 槍 １=Spear 1
 槍 ２=Spear 2
 槍 ３=Spear 3
+煙管=Smoke Pipe
+盾 １=Shield １
+盾 ２=Shield ２
+盾 ３=Shield ３
+花束=Bouquet
+薬莢=Pharmaceutical Capsule
+警棒=Batons
+重火器=Heavy Weapons
+重火器 展開=Heavy Weapons Deployment
+鉤爪=Claw
+錆びた剣=Rusted Sword
+鎌１=Sickle 1
+鎌２=Sickle 2
+魔法の杖[FK]=Magic Wand [FK]

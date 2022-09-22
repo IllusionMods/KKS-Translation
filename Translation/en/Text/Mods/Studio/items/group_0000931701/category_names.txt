@@ -1,10 +1,10 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+// Dumped for Koikatsu Sunshine v1.1.4 (CharaStudio) by KKS_ModTextDump v0.7.0.1
 //
 
 #set exe CharaStudio
 
-俠盜車手5 公寓（大）=Autotube for chopper 5 (large)
-俠盜車手5 公寓（小）=Autobotter 5 (small)
+俠盜車手5 公寓（大）=Autotube for chopper 5 (Large)
+俠盜車手5 公寓（小）=Autobotter 5 (Small)
 俠盜車手5 公寓（中）=Middle of the above workbench
 俠盜車手5 公寓（其他部分）=Other parts of the workhouse

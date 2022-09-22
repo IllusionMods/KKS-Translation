@@ -1,10 +1,10 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+// Dumped for Koikatsu Sunshine v1.1.4 (CharaStudio) by KKS_ModTextDump v0.7.0.1
 //
 
 #set exe CharaStudio
 
 
 // list/characustom/NT_A_Z_0_9.unity3d
-C=C
-H=H
+C=Letter "C"
+H=Letter "H"

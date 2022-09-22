@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+// Dumped for Koikatsu Sunshine v1.1.4 (CharaStudio) by KKS_ModTextDump v0.7.0.1
 //
 
 #set exe CharaStudio
@@ -7,5 +7,5 @@
 
 // chara/ymd/si_skydome.unity3d
 スカイドーム=Sky Dome
-透過球=Transparent Sphere
 画像球 外側=Image Sphere Outside
+透過球=Transparent Sphere

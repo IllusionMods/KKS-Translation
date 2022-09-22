@@ -1,0 +1,7 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (CharaStudio) by KKS_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+//虫子=

@@ -1,6 +1,16 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_ModTextDump v0.6.1
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_ModTextDump v0.7.0.1
 //
+
+// chara/etc.unity3d
+なし=None
+
+// chara/Matne/matne_sailor_bc_00.unity3d
+タイプ５改（胸当てラインなし色固定）=Type 5 modified (No breastplate line, color fixed)
+タイプ５改（胸当てラインなし色連動）=Type 5 modified (Without breastplate line, color linked)
+
+// chara/Matne/matne_sailor_b_00.unity3d
+タイプ５改（胸当てラインなし）=Type 5 modified (No Breastplate Line)
 
 // chara/roy12_mod/roy12_halfseifuku_00.unity3d
 タイプ２ (No frills)=Type 2 (No frills)
@@ -10,13 +20,3 @@
 
 // chara/_mods/watanabe.unity3d
 みら僕=Miraboku
-
-// chara/Matne/matne_sailor_bc_00.unity3d
-タイプ５改（胸当てラインなし色連動）=Type 5 modified (without breastplate line, color linked)
-タイプ５改（胸当てラインなし色固定）=Type 5 modified (no breastplate line, color fixed)
-
-// chara/Matne/matne_sailor_b_00.unity3d
-タイプ５改（胸当てラインなし）=Type 5 modified (no Breastplate Line)
-
-// chara/etc.unity3d
-なし=None
