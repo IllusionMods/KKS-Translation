@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「きゃっ！　ジロジロ見てないで早く出て行ってください！」=
+「きゃっ！　ジロジロ見てないで早く出て行ってください！」=“Kyah--! Don't stare, please just leave already!”

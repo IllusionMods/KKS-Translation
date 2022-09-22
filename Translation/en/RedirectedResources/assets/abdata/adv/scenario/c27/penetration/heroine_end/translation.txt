@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「悪くはなかったわ。うん、機会があれば、またしましょ」=
+「悪くはなかったわ。うん、機会があれば、またしましょ」=“It wasn't bad. Yeah, let's do it again if we get the chance.”

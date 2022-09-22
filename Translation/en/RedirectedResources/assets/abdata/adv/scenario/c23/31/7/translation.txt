@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//（もう朝か。昨日はあの後すぐ寝ちゃったな。あれ？　下半身がここち、いいな）=
+（もう朝か。昨日はあの後すぐ寝ちゃったな。あれ？　下半身がここち、いいな）=(Already morning, huh? Fell asleep right after what we did last night. Huh? It sure feels good, down there.)
 「って、うおっ！？」=“--Woah--!?”
-//「あ、え、ええと。起こしちゃったね。ちょっとあなたのココをマッサージしていたんだ」=
+「あ、え、ええと。起こしちゃったね。ちょっとあなたのココをマッサージしていたんだ」=“Ah, e-erhm. I woke you up, huh? I was just massaging you a bit down here.”

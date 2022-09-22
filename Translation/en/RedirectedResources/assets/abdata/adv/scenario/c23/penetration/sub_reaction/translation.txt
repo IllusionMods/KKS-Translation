@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「まったく、いつからワタシたちを見てたんだい？」=
+「まったく、いつからワタシたちを見てたんだい？」=“Jeez, just how long have you been watching us for?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うぅっ、覗きなんて趣味が悪いぞ……女子同士の秘密だったのに……」=
+「うぅっ、覗きなんて趣味が悪いぞ……女子同士の秘密だったのに……」=“Uuuu--, it's not nice to peep... it was supposed to be our little secret...”

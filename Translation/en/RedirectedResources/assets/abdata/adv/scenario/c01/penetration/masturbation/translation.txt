@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「きゃっ！？　あの、いつから見ていたんですか……？」=
+「きゃっ！？　あの、いつから見ていたんですか……？」=“Kyah--!? Uhm, since when have you been watching...?”

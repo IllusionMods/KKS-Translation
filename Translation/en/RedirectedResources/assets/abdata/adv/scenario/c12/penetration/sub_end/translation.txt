@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「何が、ってわけじゃなく、こー……なんか全部が気持ちよかったな……あはは……」=
+「何が、ってわけじゃなく、こー……なんか全部が気持ちよかったな……あはは……」=“It wasn't, like, just one thing, but like... everything felt good... ahahah...”

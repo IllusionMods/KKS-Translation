@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うむ、なかなか楽しめたぞ。３人での儀式も良いものだな。クックック……♪」=
+「うむ、なかなか楽しめたぞ。３人での儀式も良いものだな。クックック……♪」=“Umu, it was quite fun. Performing the rite with 3 people is quite nice as well. Kuh kuh kuh...♪”

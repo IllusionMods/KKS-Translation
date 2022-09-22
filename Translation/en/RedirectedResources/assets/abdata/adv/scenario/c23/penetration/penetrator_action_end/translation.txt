@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おぉ……感謝ですぞ！　これはみなぎってきましたぞぉ♪」=
+「おぉ……感謝ですぞ！　これはみなぎってきましたぞぉ♪」=“Ooh... thanks! I'm raring to go now♪”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なんだかちょっぴり興奮しちゃったわね♪　でもこういうのはたまにだからいいのよ」=
+「なんだかちょっぴり興奮しちゃったわね♪　でもこういうのはたまにだからいいのよ」=“That was a teensy bit arousing♪ But this sort of thing is nice only when done in moderation.”

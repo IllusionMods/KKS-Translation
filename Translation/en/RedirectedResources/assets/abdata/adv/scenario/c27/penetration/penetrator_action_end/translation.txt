@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「よかった……任せて、混ざるからにはきっちりこなしてみせるから」=
+「よかった……任せて、混ざるからにはきっちりこなしてみせるから」=“Thank god... leave it to me, I'll pull my own weight.”
