@@ -1,5 +1,5 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+// Dumped for Koikatsu Sunshine v1.1.4 (CharaStudio) by KKS_ModTextDump v0.7.0.1
 //
 
 #set exe CharaStudio
@@ -21,7 +21,7 @@
 保險套=Insurance Cover
 
 // studio/earthshipmobcircle.unity3d
-路人剪影（圓圈）=Roadside Assistance (circle)
+路人剪影（圓圈）=Roadside Assistance (Circle)
 
 // studio/earthshipmobrectangle.unity3d
 路人剪影（長方形）=Roadside Pruning (Rectangle)
@@ -29,8 +29,8 @@
 // studio/earthshipmobshadow.unity3d
 路人剪影（影子）=Roadside Assistance
 
-// studio/earthshipremotevibe.unity3d
-遙控按摩棒=Far Away Anesthesia
-
 // studio/earthshippedobear.unity3d
 Pedo熊=Pedo Bear
+
+// studio/earthshipremotevibe.unity3d
+遙控按摩棒=Far Away Anesthesia

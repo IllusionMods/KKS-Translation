@@ -1,14 +1,10 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_ModTextDump v0.6.1
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_ModTextDump v0.7.0.1
 //
 
+// chara/kaguranana.unity3d
+//カグラナナ アーティストver. frills=
+
 // chara/mt_pattern_SP.unity3d
-骑士护腿(左)=Knight's Leggings (L)
 骑士护腿(右)=Knight's Leggings (R)
-
-// chara/ao_leg_01.unity3d
-注射ガーターリング（左）=Injection Ring Garter (L)
-注射ガーターリング（右）=Injection Ring Garter (R)
-
-// chara/AccClothes/p_o_panst_01_acc.unity3d
-パンスト=Pantyhose
+骑士护腿(左)=Knight's Leggings (L)

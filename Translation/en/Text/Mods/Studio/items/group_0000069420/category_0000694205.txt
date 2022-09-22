@@ -1,21 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+// Dumped for Koikatsu Sunshine v1.1.4 (CharaStudio) by KKS_ModTextDump v0.7.0.1
 //
 
 #set exe CharaStudio
 
-
-// studio/earthshipamerican.unity3d
-アメリカンダイナー風ステージ=American Diner Style Stage
-
-// studio/earthshipstar.unity3d
-星=Star
-
-// studio/earthshipkt.unity3d
-香港觀塘=Hong Kong Kwantung
-
-// studio/earthshipseastar.unity3d
-海☆中☆屋=Sea China House
 
 // studio/earthship1229americanapart.unity3d
 アメリカンな家=American House
@@ -38,8 +26,20 @@ CxRed room配布用=CxRed room for distribution
 // studio/earthship1229sof.unity3d
 あのイベント会場=That event hall
 
+// studio/earthshipamerican.unity3d
+アメリカンダイナー風ステージ=American Diner Style Stage
+
+// studio/earthshipkt.unity3d
+香港觀塘=Hong Kong Kwantung
+
 // studio/earthshipromancepublic.unity3d
 ロマンスな司書室=Romance Librarian Room
+
+// studio/earthshipseastar.unity3d
+海☆中☆屋=Sea China House
+
+// studio/earthshipstar.unity3d
+星=Star
 
 // studio/earthshipwsl.unity3d
 洋館書庫 Western Style Library=Western Style Library

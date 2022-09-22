@@ -1,6 +1,9 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_ModTextDump v0.6.1
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_ModTextDump v0.7.0.1
 //
+
+// chara/etc.unity3d
+なし=None
 
 // chara/nam/mt_inverted_nip_00.unity3d
 陥没乳首1A=Recessed Nipple 1A
@@ -37,27 +40,24 @@ Clochette乳首5=Clochette Nipple 5
 Clochette乳首6=Clochette Nipple 6
 Clochette乳首7=Clochette Nipple 7
 
-// chara/etc.unity3d
-なし=None
-
 // chara/phmod/mt_nip_PH1.unity3d
-リアル１=Real 1
-リアル２=Real 2
-陥没乳首=Depressed Nipple
-パフィー=Puffy
 エロマンガ=Erotic Manga
 スター=Star
 ハート=Heart
+パフィー=Puffy
+リアル１=Real 1
+リアル２=Real 2
+陥没乳首=Depressed Nipple
 
 // chara/phmod/mt_nip_PH2.unity3d
+エロマンガ落書き=Eromanga Graffiti
+パフィー落書き=Puffy Graffiti
 リアル１落書き=Real 1 Doodle
 リアル２落書き=Real 2 Graffiti
 陥没乳首落書き=Puffy Graffiti
-パフィー落書き=Puffy Graffiti
-エロマンガ落書き=Eromanga Graffiti
 
 // chara/YAN_MOD/yan_nip.unity3d
 タイプＡ=Type A
-タイプＡ（ハイライト無し）=Type A (without highlight)
+タイプＡ（ハイライト無し）=Type A (Without highlight)
 タイプＢ=Type B
-タイプＢ（ハイライト無し）=Type B (without highlight)
+タイプＢ（ハイライト無し）=Type B (Without highlight)

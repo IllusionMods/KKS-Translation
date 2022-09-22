@@ -1,11 +1,11 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+// Dumped for Koikatsu Sunshine v1.1.4 (CharaStudio) by KKS_ModTextDump v0.7.0.1
 //
 
 #set exe CharaStudio
 
 
 // chara/ymd/se_Light.unity3d
+MOD スポットライト=MOD Spotlight
 MOD ディレクショナル=MOD Directional
 MOD ポイントライト=MOD Point light
-MOD スポットライト=MOD Spotlight

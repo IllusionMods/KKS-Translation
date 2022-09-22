@@ -1,8 +1,8 @@
 //
-// Dumped for Koikatsu Sunshine v1.0.3 (CharaStudio) by KKS_ModTextDump v0.7.0.0
+// Dumped for Koikatsu Sunshine v1.1.4 (CharaStudio) by KKS_ModTextDump v0.7.0.1
 //
 
 #set exe CharaStudio
 
-食べ物=Food
 小道具=Small Props
+食べ物=Food
