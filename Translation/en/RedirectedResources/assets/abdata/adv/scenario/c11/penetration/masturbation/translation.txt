@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あらあら、まぁ……いつからそこに？　びっくりだわ……」=
+「あらあら、まぁ……いつからそこに？　びっくりだわ……」=“My oh my... since when have you been there? I'm shocked...”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うん、ワタシも乱入OK、ですぞ」=
+「うん、ワタシも乱入OK、ですぞ」=“Yeah, I'm fine with it too.”

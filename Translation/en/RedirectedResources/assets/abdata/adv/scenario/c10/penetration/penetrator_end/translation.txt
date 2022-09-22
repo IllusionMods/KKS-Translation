@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あの、えっと、ありがとう……よ、良かったら、また交ぜてほしい、です……」=
+「あの、えっと、ありがとう……よ、良かったら、また交ぜてほしい、です……」=“Uhm, erhm, thanks... i-if it's fine, I'd love to, join again...”

@@ -309,7 +309,7 @@
 「自分で言うのはアレだけど……そうね。あなたのためなら、結構なんでもやるわよ？」=“I can't believe I'm saying this, but... yeah. I'd do just about anything for you, you know?”
 「どうかしら……自覚はないんだけど。あなたは、そう思うの？」=“I wonder... I'm not aware of it. What do you think?”
 「恋と愛の違いってなんだろう？」=“What's the difference between 'koi' and 'ai'?”
-//「うーん……『恋』は片思いで、『愛』は両想い……そんなイメージがあるわ」=
+「うーん……『恋』は片思いで、『愛』は両想い……そんなイメージがあるわ」=“Mmm-hmm... 'koi' is a one-sided love, 'ai' is a two-way street... that's how I see it, anyway.”
 「『愛情』は家族や友人にも向けるけど、『恋』は違うし……難しい質問ね」=“For 'ai', I turn to my family and friends, but 'koi' is different... it's a tough question.”
 「えっと、少し恥ずかしいから……この話は終わり、ね？」=“Er, um, I'm a little embarrassed... we're done talking about that, okay?”
 「今から[H名]のこと褒めまくるから、照れずに全部聞き届けてね？」=“I'm gonna be showering you with praise, [H名]... don't get all embarrassed when you hear me say things, okay?”

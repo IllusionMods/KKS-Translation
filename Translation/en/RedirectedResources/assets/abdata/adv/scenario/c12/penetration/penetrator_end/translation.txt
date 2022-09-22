@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ……混ぜてくれてありがとな。また一緒にしてくれると、もっと嬉しい、かな……♪」=
+「はぁ……混ぜてくれてありがとな。また一緒にしてくれると、もっと嬉しい、かな……♪」=“Haah... thanks for letting me join. I hope you let me join in again, that'd make me, so much happier...♪”

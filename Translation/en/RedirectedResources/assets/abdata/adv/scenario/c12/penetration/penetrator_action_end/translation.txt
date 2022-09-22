@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ありがとな……その分、ヤる事はしっかりヤるからさ……期待しててくれよな？」=
+「ありがとな……その分、ヤる事はしっかりヤるからさ……期待しててくれよな？」=“Thanks... in return, I'll do what needs to be done... look forward to it, okay?”

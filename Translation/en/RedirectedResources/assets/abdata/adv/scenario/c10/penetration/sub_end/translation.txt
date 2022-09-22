@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「本当に２人とも相手するとは……汝の力は、底が知れんな……」=
+「本当に２人とも相手するとは……汝の力は、底が知れんな……」=“To think thou wouldst actually manage it... thy power truly is bottomless...”

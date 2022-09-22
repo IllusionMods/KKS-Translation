@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ひゃっ……！？　えっ、えっ？　あ、なんで、あんた……ふぇっ……？」=
+「ひゃっ……！？　えっ、えっ？　あ、なんで、あんた……ふぇっ……？」=“Hyah--...!? Eh--, eh--? Ah, why, you... fueh--...?”
