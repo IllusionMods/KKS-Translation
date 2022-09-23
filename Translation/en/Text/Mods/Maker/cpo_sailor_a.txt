@@ -12,10 +12,10 @@
 乳カーテンセーラー貧乳=Breast Curtain Sailor \w Small Breasts
 
 // chara/anse/anse_sailor_dress.unity3d
-//あんせセーラーワンピースA=
+あんせセーラーワンピースA=Anse Sailor Dress A
 
 // chara/anse/anse_sailor_dress_b.unity3d
-//あんせセーラーワンピースB=
+あんせセーラーワンピースB=Anse Sailor Dress B
 
 // chara/anse/anse_short_tent_sailor.unity3d
 脇見せセーラー=Sailor with side show

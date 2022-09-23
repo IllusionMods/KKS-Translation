@@ -105,4 +105,4 @@ F15 調整 II=F15 Adjustment II
 
 // mod/RM50/hair/KKS_hair301_re1.unity3d
 [RM50]切り揃えアシンメトリバング(R)=[RM50] Clean-Cut, Asymmetrical Bangs (R)
-//[RM50]切り揃えアシンメトリバング改=
+[RM50]切り揃えアシンメトリバング改=[RM50] Clean-Cut, Asymmetrical Bangs (Revised)

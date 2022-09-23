@@ -22,7 +22,7 @@
 なし=None
 
 // chara/hair_base.unity3d
-//汎用髪型ベース=
+汎用髪型ベース=Generic Base Hair
 
 // chara/Hayashi/vhair02_b_02.unity3d
 くせっ毛ベリーショート=Curly Belly Short
@@ -99,12 +99,12 @@
 ドリルツインテール=Drill twin tails
 
 // mod/RM50/hair/KKS_bowz01.unity3d
-//[RM50] Base β(タイプ1用)=
-//[RM50]坊主頭1β(タイプ1用)=
+[RM50] Base β(タイプ1用)=[RM50] Base β (For Type 1)
+[RM50]坊主頭1β(タイプ1用)=[RM50] Shaved Head 1β (For Type 1)
 
 // mod/RM50/hair/KKS_hair301_re1.unity3d
 [RM50]切りそろえアシンメトリ(R)=[RM50] Clean-Cut, Asymmetrical (R)
-//[RM50]切りそろえアシンメトリ改=
+[RM50]切りそろえアシンメトリ改=[RM50] Clean-Cut, Asymmetrical (Revised)
 
 // wen/wenlihuazou.unity3d
 wen立华奏=wen liyuan
