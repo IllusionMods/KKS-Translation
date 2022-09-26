@@ -2,15 +2,68 @@
 
 // Should not be scoped since items may list at any level and will be needed by both main game and studio
 
+//Misc
+r:"^kunoichi.(.+)$"=Ninja Girl $1
+sr:^斜ギンガム\s*(?<modifier>\S+)\s*$=Diagonal Gingham ${modifier}
+
+// Hair variations
+sr:^(.+\S)\s*[（\(]アホ毛あり[）\)]\s*$=$1 (w/ ahoge)
+sr:^(.+\S)\s*[（\(]帽子あり[）\)]\s*$=$1 (w/ hat)
+sr:^ーサイドアップ\s*[（\(]([^）\)])[）\)]\s*$=Side Up ($1)
+sr:^\s*(\S.*)改$=$1 (Revised)
+
+// Modders
+
+sr:^\[蓬莱伝説\]\s*(\S.*)$=[Horai Densetsu] $1
+sr:^\[RM50\]\s*(\S.*)$=[RM50] $1
+
+// Character items (hololive, etc.)
+
+sr:^雪花ラミィ\s+(?<name>\S.*)\s*$=Yukihana Lamy ${name}
+sr:^鈴木ヒナ\s+(?<name>\S.*)\s*$=Suzuki Hina ${name}
+sr:^美波七海\s+(?<name>\S.*)\s*$=Minami Nanami ${name}
+sr:^癒月ちょこ\s+(?<name>\S.*)\s*$=Yuzuki Choco ${name}
+sr:^温泉ルウシェ\s+(?<name>\S.*)\s*$=Onsen Rouche ${name}
+sr:^戌神ころね\s+(?<name>\S+.*)\s*$=Inugami Korone ${name}
+sr:^呜米Umy(?<num_i>\d+)公式服\s+(?<name>\S+.*)\s*$=MeUmy ${num_i} Official ${name}
+sr:^呜米Umy公式服\s+(?<name>\S+.*)\s*$=MeUmy Official ${name}
+sr:^呜米\s*Umy\s+(?<name>\S+.*)\s*$=MeUmy ${name}
+sr:^夜?見れな\s+(?<name>\S+.*)\s*$=Yorumi Rena ${name}
+sr:^大神ミオ\s+(?<name>\S+.*)\s*$=Ookami Mio ${name}
+sr:^ミラクル\s+(?<name>\S+.*)\s*$=Miracle ${name}
+sr:^C酱\s+(?<name>\S.*)\s*$=Shiyuu Chishiki ${name}
+sr:^七瀬くるみ\s+(?<name>\S.*)\s*$=Nanase Kurumi ${name}
+sr:^乌拉\s+(?<name>\S.*)\s*$=Ura ${name}
+// Magical Yumina  ?
+sr:^マジカル乌拉\s+(?<name>\S.*)\s*$=Magical ${name}
+sr:^さくらみこ\s+(?<name>\S.*)\s*$=Sakura Miko ${name}
+sr:^アラストル\s+(?<name>\S.*)\s*$=Alastor ${name}
+sr:^カグラナナ\s*アーティストver.\s+(?<name>\S.*)\s*=Karuga Nana Artist ver. ${name}
+sr:^カグラナナ\s+(?<name>\S.*)\s*$=Kagura Nana ${name}
+// chacacter from Shironeko Project
+sr:^シエラ 蒼空\s+(?<name>\S.*)\s*$=Sierra ${name}
+sr:^マジカル\s+(?<name>\S.*)\s*$=Magical ${name}
+
+sr:^あんせ\s*(?<item>.+)\s*[ (\(](?<vary>\S.*)[)\)]\s*$=Anse ${item} (${vary})
+sr:^あんせ\s*(?<item>.+)\s*$=Anse ${item}
+
+
+// modified versions
+sr:^セクシー\s*(?<item>\S.*)\s*(?<vary_i>[0-9]+)$=Sexy ${item} ${vary_i}
+sr:^セクシー\s*(?<item>\S.*)$=Sexy $1
+sr:^カスタム\s*(?<item>\S.*)$=Custom $1
+sr:^逆\s*(?<item>\S.*)$=Reverse $1
+
+
+// Regexes below need to be lowest priority
+
 // Translate a non latin word followed by latin letters or numbers, so the first word needs to be translated just once.
 // Example: Instead of "シャツA=Shirt A", "シャツ2=Shirt 2" and "シャツ[a4]=Shirt [a4]", only "シャツ=Shirt" is needed.
 // OBS: It needs to have at least one non latin letter in the beginning followed by one latin letter or number, otherwise it would break things in other places.
-sr:"^(?<nonLatin>[^\u0000-\u024F]+)(?<latin_i>[\u0020-\u024F｢【｣】]+)$"=${nonLatin} ${latin_i}
+sr:"^(?<nonLatin>[^\u0000-\u024F]+)(?<latin_i>[\u0021-\u024F｢【｣】][\u0020-\u024F｢【｣】]+)$"=${nonLatin} ${latin_i}
 
 // Same as above but the non latin word is in the middle.
 // Example: Instead of "[Modder]シャツ(F_5)=[Modder] Shirt (F_5)", only "シャツ=Shirt" is needed
-sr:"^(?<latin_i>[\u0020-\u024F｢【｣】]+)(?<nonLatin>[^\u0000-\u024F]+)(?<latin2_i>[\u0020-\u024F｢【｣】]*)$"=${latin_i} ${nonLatin} ${latin2_i}
+sr:"^(?<latin_i>[\u0021-\u024F｢【｣】][\u0020-\u024F｢【｣】]+)(?<nonLatin>[^\u0000-\u024F]+)(?<latin2_i>[\u0021-\u024F｢【｣】][\u0020-\u024F｢【｣】]*)$"=${latin_i} ${nonLatin} ${latin2_i}
 
-//Misc
-r:"^kunoichi.(.*)$"=Ninja Girl $1
-
+sr:^(?<nonLatin>[^\u0000-\u024F]+)\s*[ (\(](?<vary>[^）\)]+)[）\)]\s*$=${nonLatin} (${vary})
