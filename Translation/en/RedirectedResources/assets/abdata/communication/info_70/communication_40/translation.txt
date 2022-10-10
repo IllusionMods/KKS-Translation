@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「なっ、何を考えている！　この変態め！　即刻出ていけ！」=
-//「ほう……勇気と蛮勇は違うということ、その体にたっぷり教え込んでやろうか？」=
-//「すまない。今は貴殿に構っている余裕が無くてな……」=
-//「ん……来るがいい！　我が剣の錆にしてくれる……！　すぅ……んぅぅ……」=
-//「くぅ……ジロジロ見るんじゃない！　し、視線がいやらしいぞっ！」=
-//「むぅ、いくら水中戦を想定しているとはいえ、この装備は少々心許ないな……」=
-//「ここが目的地か？　それとも何か不穏な気配でも感じたか？」=
-//「待て、一つ忠告だ……我は貴殿を信頼して付いてきた。それを無下にしてくれるなよ？」=
+//「なっ、何を考えている！　この変態め！　即刻出ていけ！」=“Y, you pervert! What do you think you're doing?　Get out of here now!”
+「ほう……勇気と蛮勇は違うということ、その体にたっぷり教え込んでやろうか？」=“Hoo, How about I give you a good lesson on the difference between courage and bravery?”
+「すまない。今は貴殿に構っている余裕が無くてな……」=“I'm sorry. I don't have time to keep you company right now……”
+「ん……来るがいい！　我が剣の錆にしてくれる……！　すぅ……んぅぅ……」=“Hmm…… come on!　You will become rust in my sword……!　Suuuu…… Hmm……”
+「くぅ……ジロジロ見るんじゃない！　し、視線がいやらしいぞっ！」=“Kuu…… Stop staring at me!　Your gaze is too obscene!”
+「むぅ、いくら水中戦を想定しているとはいえ、この装備は少々心許ないな……」=“Muu, even assuming it is designed for underwater warfare, I feel anxious with this equipment……”
+「ここが目的地か？　それとも何か不穏な気配でも感じたか？」=“Is this where we're heading?　Or have you sensed something disturbing?”
+//「待て、一つ忠告だ……我は貴殿を信頼して付いてきた。それを無下にしてくれるなよ？」=“Wait, a word of advice: ...... I'm following you because I trust you. Don't ruin that, okay?”
 //「貴殿を見ていると、何故か戦意が高揚したようになる……不思議な感覚だ」=
 //「その、なんだ……我は女としてどうだ？　貴殿の率直な意見を聞かせて頂きたい」=
 //「んなっ！？　我の死角に入っただと！　貴殿……なかなかやるな」=
