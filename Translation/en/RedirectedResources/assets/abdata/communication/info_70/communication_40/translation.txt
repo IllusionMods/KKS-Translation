@@ -18,10 +18,10 @@
 「もしかして……ファンタジー小説とかが好きなのかな？」=“Maybe you like ...... stuff like fantasy novels?”
 「そうだな、そういうことにしておいてくれ。その方が何かと都合がいい」=“Right, Let's just leave it at that. It's more convenient this way.”
 「はぁ、またその類の質問か……答えは否だ。まぁ、奇妙な繋がりは感じるが……」=“Huh, another one of those questions ...... The answer is no. Well, I do feel a strange connection .......”
-//「実は凄い貴族のお嬢様だったりする？」=
-//「はは、凄いとまでは言えないが……まぁ、食うに困るようなことはなかったな」=
-//「まさか。それなりに裕福な暮らしはさせてもらっていたが、貴族なんて柄ではない」=
-//「貴殿は遠慮という言葉を覚えた方が良い。自重でも構わんぞ」=
+「実は凄い貴族のお嬢様だったりする？」=“Are you actually a great noblewoman?”
+「はは、凄いとまでは言えないが……まぁ、食うに困るようなことはなかったな」=“Haha, I wouldn't say great, but ...... well, I naver had any trouble eating.”
+「まさか。それなりに裕福な暮らしはさせてもらっていたが、貴族なんて柄ではない」=“Indeed. I've been allowed to live a reasonably well-off life, but I'm not a aristocrat.”
+「貴殿は遠慮という言葉を覚えた方が良い。自重でも構わんぞ」=“You should learn the word "restraint". And learn "prudence" as well.”
 //「[H名]って、剣道とか強そうだよね」=
 //「実際強いぞ。その、なんと言うか……経験が違うからな」=
 //「案外、[H名]みたいな子が女子力高かったりするんだよね」=
