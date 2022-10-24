@@ -22,8 +22,8 @@
 乳首の種類=Nipple Type
 陰毛の種類=Pubic Hair Type
 日焼け跡の種類=Suntan Type
-ボディーペイント０１の種類=Body Paint 01 Type
-ボディーペイント０２の種類=Body Paint 02 Type
+ボディーペイント０１の種類=Body Paint 01 Selection
+ボディーペイント０２の種類=Body Paint 02 Selection
 ボディーペイント０１の配置=Body Paint 01 Position
 ボディーペイント０２の配置=Body Paint 02 Position
 前髪の種類=Front Hair Type
