@@ -18,7 +18,7 @@
 「わかっていて言ったのじゃな？　好き、と」=“You knew what you were doing, didn't you?　You said you liked it.”
 「それは……す、少なくともわしにとっては『あなたに心を捧げます』というのと同じ意味じゃぞ」=“That's ...... the same as saying, "I give my heart to you," at least to me.”
 「うん、ちょうどそういう意味だよ」=“Yeah, that's just what I meant.”
-「そ、そうか……」=“Yeah, yeah. ......”
+「そ、そうか……」=“W-Well, I suppose...”
 「俺は[H名]のことが好きで……心を捧げる覚悟だし、きみの心が欲しい」=“I love [H名] and I'm ready to give my ... heart and I want your heart.”
 「なんと力強い言葉か。さすがは、わしの心を射止めた男なのじゃ」=“What powerful words. That's the man who won my heart.”
 「心を射止めたってことは……」=“Winning your heart is ......”

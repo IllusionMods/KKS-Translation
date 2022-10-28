@@ -1,4 +1,4 @@
-「好きだよ」=“I like you.”
+「好きだよ」=“I love you.”
 「……はあ？　てめぇ、誰が隙だらけだって。ケンカ売ってんのか」=“What about ......?　Who are you calling a gap? Are you trying to start a fight?”
 「そんなこと言ってないから！」=“I didn't say that!”
 「ごまかしてんじゃねぇぞ。お前がスキとかどうこう言ってやがったのは、この耳で……」=“Don't play dumb with me. I heard you say something about suki in your ear. ......”

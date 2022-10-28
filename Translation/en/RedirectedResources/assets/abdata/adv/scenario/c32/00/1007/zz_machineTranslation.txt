@@ -8,7 +8,7 @@
 「ありがとうございます。でも、この辺りの海なら、素潜りするだけでもこの光景が見られそうですね」=“Thank you very much. But in the ocean around here, you can see this scene just by diving.”
 「そうだね。時間が出来れば、一緒に行こう」=“That's right. We'll go together when we have time.”
 「……ふふ」=......
-「ん？　どうしたの？」=“Hm? What's up?”
+「ん？　どうしたの？」=“Nh? What's going on?”
 「……私たち、お付き合いしてるんだなと思いまして」=“...... I thought we were in a relationship.”
 「え？　実際付き合ってるでしょ？　どうして改めてそう思ったの？」=“What?　We're actually dating, right?　What made you think that again?”
 「『一緒にしよう』って……ちゃんと誘ってくれたじゃないですか」=“You asked me out with ......, didn't you?”

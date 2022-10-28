@@ -27,7 +27,7 @@
 「一緒に何か体験しようよ」=“Let's go do something together.”
 「いいよ、折角だから色々やりたいね」=“Sure. I'd love to do some stuff with you.”
 「えっとね…今は別にいいかな～」=“Well, I don't think that's a good idea right now.”
-「これからご飯にしない？」=“Do you want to have dinner now?”
+「これからご飯にしない？」=“Why don't we go grab something to eat now?”
 「いいねー、折角だから美味しいモノ食べたいかな」=“That's great. I'd like to try something delicious.”
 「ごめんねー、今はご飯はいらないかなー」=“I'm sorry, I don't think I want to eat right now.”
 「ごめん！　友達と約束してて……また今度で、マジ絶対だから！」=“Sorry!　I'm sorry, I'm meeting a friend at ...... another time, I swear!”

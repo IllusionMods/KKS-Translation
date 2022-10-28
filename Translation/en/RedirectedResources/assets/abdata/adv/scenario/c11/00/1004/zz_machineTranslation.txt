@@ -12,7 +12,6 @@
 「うん……静かで気持ちいいね」=“Yeah. ...... It's nice and quiet.”
 「風も、波の音も気持ちいい……。いつまでもこうしていたいわ」=“The wind and the sound of the waves feel good. I wish I could stay like this forever.”
 「あ、でも、潮風を浴びすぎるのも健康によくないそうよ」=“Oh, but they say too much sea breeze is bad for your health.”
-「そうなの？」=“That so?”
 「目や鼻の粘膜に塩分がよくないって話を聞いたことがあるわ」=“I've heard that salt is bad for the lining of the eyes and nose.”
 「ははは、心配しすぎだって。ほら、もっと景色を楽しもう」=“Haha, you're worrying too much. Come on, let's enjoy the scenery more.”
 「そうね……そうしましょう」=“Yes. ...... Let's do that.”

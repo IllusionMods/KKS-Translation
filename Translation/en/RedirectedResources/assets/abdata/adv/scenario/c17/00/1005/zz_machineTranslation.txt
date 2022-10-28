@@ -9,7 +9,7 @@
 「ひゃぁ！？　ち、近すぎるわよ……！」=“Oh, my God!　You're too close. ......!”
 「ご、ごめん。ちょっとよろけちゃって」=“I'm sorry. I stumbled a little.”
 「いったん離れるからっ」=“I'm leaving.”
-「あっ……」=“Oh, .......”
+「あっ……」=“Ah--...”
 「そこまで、逃げるように離れたくなって良いのに……」=“So much for wanting to get away from it all. ......”
 「えっ、何か言った？」=“What? What did you say?”
 「何でもないわ。油断なんてしてるからバランスを崩すのよ」=“It's nothing. It's your carelessness that's throwing you off balance.”

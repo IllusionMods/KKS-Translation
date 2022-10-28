@@ -1,4 +1,4 @@
-「何か用？」=“What do you want?”
+「何か用？」=“Something up?”
 「ん、私とお話したいの？」=“Hmm, you want to talk to me?”
 「気軽に話せるって大事だよね」=“It's important to be able to talk to people easily.”
 「うんうん、気を使いすぎるのは疲れちゃうしね」=“Yeah, I'm tired of being too careful.”
@@ -10,7 +10,7 @@
 「恋愛には積極的に行動する方？」=“Are you an active person when it comes to relationships?”
 「そうだねぇ、当たって砕けろってよく言うし、そうなるんじゃないかしら？」=“Well, you know what they say, you gotta take risks, right?”
 「ん－、流石に無謀な行動はしたくはないかなぁ」=“Well, I don't want to be reckless.”
-「どんな恋愛をしてみたい？」=“What kind of love would you like to have?”
+「どんな恋愛をしてみたい？」=“What kind of love do you want?”
 「んー、理想があっても思い通りに行かないのが恋、ってイメージがあるからなぁ……」=“Hmmm, I have this image of love not going the way you want it to, even if you have an ideal. ......”
 「どんな……って理想はないかな。勝負は時の運、って言うじゃない？」=“I don't think there is any ideal ....... I don't think there is any ideal . They say that the game is in the hands of chance.”
 「ねぇ、こんな噂話、聞いたことある？」=“Hey, have you ever heard of this gossip?”
@@ -107,7 +107,7 @@
 「好きでい続ける為にはどういう事が有効的かな？」=“What do you think is the most effective way to stay in love?”
 「そうね……どんな事でも許す寛大な心が大事かしら？」=“Well, I think it's important to be open-minded and forgive ...... anything.”
 「私だったら、お互いの気持ちをしっかりとぶつけ合う事が大事だと思うわ」=“I think it's important to be open and honest with each other.”
-「好きだよ」=“I like you.”
+「好きだよ」=“I love you.”
 「ふふっ、私も好き、愛してるわ」=“Mmm, I like you too, I love you.”
 「っ……もぉ、不意打ち過ぎよ」=“Oh, ......, that's too much of a surprise.”
 「やっぱり、甘えられる人がいるのは大事だよね」=“It's important to have someone to spoil you, isn't it?”

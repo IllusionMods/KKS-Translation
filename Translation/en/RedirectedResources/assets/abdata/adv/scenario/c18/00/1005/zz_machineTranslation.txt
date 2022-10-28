@@ -17,7 +17,7 @@
 「ふふっ、そんな考え方も出来るんですね。私も[P名]さんと踊れるのは幸せです」=“I can see how you can think like that. I am happy to dance with you too, [P名].”
 「なら、不幸なことが起こったなんて思わないで欲しいな」=“Then I hope you don't think I'm having a bad day.”
 「俺も[H名]も幸せなんだからさ」=“Because I'm happy and [H名] is happy.”
-「あっ……」=“Oh, .......”
+「あっ……」=“Ah--...”
 「っと。そろそろ今かかってる曲が終わりそうだね」=“Okay. I think we're almost done with the song we're playing.”
 「じゃあ、次の曲も一緒に踊れるくれないかな？」=“Now, can you dance with me to the next song?”
 「俺に、もう一度[H名]と踊れる幸運にあずかれるチャンスをくれると嬉しいんだけど……」=“I'd love it if you'd give me the chance to have the good fortune to dance with [H名] again ...”
