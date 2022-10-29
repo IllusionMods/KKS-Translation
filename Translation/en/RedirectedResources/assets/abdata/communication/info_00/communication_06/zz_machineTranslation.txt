@@ -25,7 +25,7 @@
 「まあ、それは誠ですか？」=“Well, is it true?”
 「船着き場で……」=“At the pier. ......”
 「ふふ、可愛らしいですね」=“Mmm, that's cute.”
-「どういう恋をしてみたい？」=“What kind of love would you like to have?”
+「どういう恋をしてみたい？」=“What kind of love do you want to have?”
 「当たり前のことではございますが……幸せな恋でしょうか」=“What kind of love would you like to have? - The obvious kind, of course. ...... A happy love?”
 「……物語の出来事の様な、燃える恋でしょうか」=“Or would it be the kind of love that burns like something out of a ...... story?”
 「恋人が出来たらやってみたいことってある？」=“Is there anything you'd like to do when you get a boyfriend?”

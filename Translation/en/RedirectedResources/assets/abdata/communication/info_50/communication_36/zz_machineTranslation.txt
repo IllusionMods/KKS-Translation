@@ -62,7 +62,7 @@
 「暇潰しにはなったわ。それじゃ」=“I've passed the time. Bye.”
 「ふぅん、私ともう話す事はないと？　貴方、何様？」=“Hmm, you have nothing to say to me anymore?　Who the hell are you?”
 「は？　何がしたかったの？　馬鹿にしないで」=“What?　What do you want?　Don't be ridiculous.”
-「一緒に島を観光しない？」=“Do you want to go sightseeing on the island with me?”
+「一緒に島を観光しない？」=“Why don't we tour the island together?”
 「私の邪魔をしないなら、別にいいわ」=“As long as you don't bother me, I'm fine.”
 「どうして私が貴方と観光しないといけないのかしら？」=“Why should I go sightseeing with you?”
 「遊ぶ相手がいないの？　惨めね……可哀想だから付き合ってあげるわ」=“Don't you have anyone to play with?　You're miserable. ...... I'll go out with you because I feel sorry for you.”
@@ -70,7 +70,7 @@
 「えっと……一緒に体験コーナーに行かない？」=“Well, ...... do you want to go to the hands-on corner with me?”
 「そうね……研修の為の旅行だし、付き合ってあげるわ」=“Well, ...... it's a training trip, so I'll go with you.”
 「貴方と一緒に行く必要性が皆無ね」=“There's no need for me to go with you.”
-「お腹が空いてたら、これからご飯にしない？」=“If you're hungry, do you want to have dinner now?”
+「お腹が空いてたら、これからご飯にしない？」=“If you're hungry, why not grab something to eat?”
 「運がよかったわね。たまたま小腹が空いてたから、一緒に食べてあげるわ」=“You're lucky. I happen to be hungry, so I'll eat with you.”
 「私が家畜と一緒に食事をする……？　冗談でしょ？」=“I'll eat with you because I happen to be hungry.　Are you kidding me?”
 「馬鹿につける薬は無いと言うけれど、変態にも無さそうね」=“They say there's no medicine for stupidity, and it seems there's no medicine for perversion.”

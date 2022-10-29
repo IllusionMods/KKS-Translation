@@ -1,4 +1,4 @@
-「好きだよ」=“I like you.”
+「好きだよ」=“I love you.”
 「……えっ？」=“......What?”
 「好きだ。俺と……恋人としてお付き合いして欲しい」=“I like you. I want you to be my ...... lover.”
 「な、なんだか……そんな感じ？　俺としてはかなり本気で、覚悟を決めてたんだけど」=“What, you're kind of ...... like that?　I was pretty serious about it. I was ready for it.”
