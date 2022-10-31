@@ -14,7 +14,7 @@
 「デートってどんなイメージがある？」=“What do you think of dating?”
 「手ぇ繋いで歩いてりゃ、デートなんじゃねぇの？」=“If you're walking around holding hands, isn't that a date?”
 「デートか……確かに興味はあるけど……一人じゃできないからな」=“A date. ...... I'm interested, but I can't ...... do it alone.”
-「どんな恋愛をしてみたい？」=“What kind of love would you like to have?”
+「どんな恋愛をしてみたい？」=“What kind of love do you want?”
 「……想像できねぇよ、そんなこと」=“I can't imagine what ...... would be like.”
 「どんな出会いが理想？」=“What's your ideal encounter?”
 「……絶対言わねぇ」=“...... I'll never tell.”
@@ -79,7 +79,7 @@
 「なぁ、体験コーナーに行ってみないか？」=“Hey, do you wanna go to the lab with me?”
 「行ってくれるのか？　良かったぜ……一人じゃちょっと小っ恥ずかしくてな」=“You're going?　That's great, ....... I'm a little embarrassed to be alone.”
 「無理なのか？　仕方ないな、また今度にするか」=“You can't?　Oh, well, maybe some other time.”
-「これからご飯にしない？」=“Do you want to have dinner now?”
+「これからご飯にしない？」=“Why don't we go grab something to eat now?”
 「いいぜ！　お前の奢りな？　……って、冗談だよ、冗談」=“All right!　You're buying?　....... I'm kidding. I'm kidding.”
 「メシの約束なら、別の奴としちゃってるんだよなぁ……また今度一緒に行こうぜ」=“If you want to go out to eat, I've already got another guy. ...... Let's go out sometime.”
 「なぁ、腹へってたらメシ食いに行こうぜ」=“Hey, if you're hungry, let's go grab a bite to eat.”

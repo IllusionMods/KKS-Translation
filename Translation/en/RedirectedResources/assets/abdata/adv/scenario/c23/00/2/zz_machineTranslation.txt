@@ -3,7 +3,6 @@
 「もちろん良いよ。ワタシに何の話かなぁ？」=“Of course you can. What are you talking to me about?”
 「うん、実はさ」=“Yeah, actually...”
 「きみが好きだ。付き合って欲しい！」=“I like you. I want you to go out with me!”
-「……へ？」=“To ......?”
 「えーと……ご、ごめんよ。聞こえなかったから、も、も、もう一度お願いできるかな？」=“Well, ......, I'm sorry. I didn't hear you, so can you, can you try again?”
 「な、ななな、何を言ってるか聞こえないでずぞ！　あーあー、キコエナーイ」=“No, no, no, no, I can't hear what you're saying!　Oh, no, no, no, no, no, no.”
 「それ絶対に聞こえているよね！？」=“I'm pretty sure you heard me.”

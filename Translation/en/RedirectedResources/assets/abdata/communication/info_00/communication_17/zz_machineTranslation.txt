@@ -218,7 +218,7 @@
 「きみとエッチしたいんだけど……」=“I'd like to have sex with you. ......”
 「あのね、私たちの関係わかってる？　……まぁ、してもいいのだけれど」=“You know what? Do you understand our relationship?　I want to have sex with you. ...... Well, you can.”
 「あなたの気持ちを否定したくはないけれど……ダメよ」=“I don't want to deny you your feelings, but ...... no.”
-「ここできみとエッチしたいな」=“I wanna have sex with you here.”
+「ここできみとエッチしたいな」=“I want to have sex here with you.”
 「ここで！？　あなた変態ね……。まぁ私も、興奮しているのだけれど」=“Here?　You're such a pervert, ....... Well, I'm excited, too.”
 「でっ、できるわけないじゃない！　周りに人がいるのに、なに言ってるの」=“No, you can't do that!　What are you talking about? There are people around.”
 「ここでって……仕方ないわね、誰か来たらすぐやめるわよ」=“What do you mean, "here"? ...... I don't have a choice. I'll stop as soon as someone comes.”
@@ -395,7 +395,7 @@
 「ちょっと聞いてほしいのだけど」「ところで」「そういえば」「たとえば……」「ねえ」=I'd like to ask you something, by the way, about ......, for example.
 「……なにかしら？　その……[Pあだ名]。……やっぱりこれ、恥ずかしいわ」=“I'm at ... What is it?　Its ... [Pあだ名]. I'm still embarrassed by ... this.”
 「そういう状況じゃないの、わかってないのかしら」=“That's not what this is about, don't you get it?”
-「ん？　どうしたの[Hあだ名]」=“Hmm?　What's wrong, [Hあだ名]?”
+「ん？　どうしたの[Hあだ名]」=“Nh? What's going on, [Hあだ名]?”
 「……呼んだだけよ、なんでもないわ」=“I'm just calling ....... It's nothing.”
 「……いいわ。……気持ちよくしてね？　[Pあだ名]」=“I'm going to go to ... and say, Okay. Make ... feel good, okay?　[Pあだ名].”
 「ねぇ……私の欲求、解消してくれる？ 　[Pあだ名]」=“Hey ... can you relieve me of my cravings? 　[Pあだ名].”

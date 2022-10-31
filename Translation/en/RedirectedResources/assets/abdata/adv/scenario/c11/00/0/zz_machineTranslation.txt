@@ -1,7 +1,1 @@
-「お友達も増えてきたみたいで、良かったわね」=“I'm glad to see you're making friends.”
-「君がきっかけを作ってくれたおかげだよ。ありがとう」=“I don't know what's going on. Thank you.”
-「そんな、お礼なんていいのよ～。頑張ったのはあなたなんだし」=“Don't thank me. You're the one who did all the hard work.”
-「本当に感謝してるんだ。ここまで親身になってくれたのは君だけだし」=“I really appreciate it. You're the only person who's ever been so kind to me.”
 「うふふ、だってあなたが可愛くて、放っておけなかったんですもの」=“I couldn't leave you alone, you're so cute.”
-「これからもいっぱい私を頼ってね。あなたになら、特別何だってしてあげちゃう」=“I'm not sure what to do. I'll do anything special for you.”
-「あはは……いつも助かってます。これからもよろしく！」=“Hahaha ......, you're always so helpful. Keep up the good work!”

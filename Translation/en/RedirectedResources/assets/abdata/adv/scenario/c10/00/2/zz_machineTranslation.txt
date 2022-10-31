@@ -37,7 +37,6 @@
 「さすがは悪魔との契約だね。破ったら呪われそうだ」=“That's a deal with the devil. I'll be damned if I break it.”
 「そうだぞ。だから慎重に選べ。我と契約を結んだが最後、二度と逃れられなくなる」=“That's right. So choose carefully. Once you make a contract with me, you will never be able to escape.”
 「覚悟ならとっくに決まってるよ。[H名]のことを好きになった日から」=“I've been ready for this for a long time. From the day I fell in love with [H名].”
-「そ、そうか……」=“Yeah, yeah. ......”
 「なら、その……私でよければ、あなたの恋人にしてください……」=“Then, if that ...... is okay with me, I'd like to be your lover .......”
 「うん、わかった。これで契約成立だね。これからもよろしく」=“Okay, okay. That's the deal. Keep up the good work.”
 「ククッ、こちらこそよろしくなのだ。我が契約者よ！」=“Thank you, too, my contractor! My contractor!”

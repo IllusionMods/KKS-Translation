@@ -376,7 +376,7 @@
 「なあなあ、お腹空いてへん？　ご飯行こーやぁ」=“Hey, hey, are you hungry?　Let's go out for dinner.”
 「おっしゃー。食うで～……たらふく食いまくるで～……へっへっへ」=“I'm going to go to the airport. I'm going to eat~...... I'm going to eat my fill~...... heh heh heh.”
 「あれ？　腹減ってへんの？　空腹のサイクル、合わせとかなあかんなぁ……」=“What's that?　Aren't you hungry?　I'll have to adjust my hunger cycle. ......”
-「今から俺の部屋に来ない？」=“Why don't you come to my room now?”
+「今から俺の部屋に来ない？」=“Why not come to my room now?”
 「……ええけど、でも……その……まあええわ。ウチも腹括らんとあかんな……」=“I'm not sure if I'm going to be able to do that," he said. ......Yeah, but ...... that ...... well. We need to get a grip on ourselves too. ......”
 「ちょ、ア、アカン、今はアカンねん……ほんまゴメン。ゴメリンコ」=“I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry. I'm sorry.”
 「ちょっと一緒に来てくれる？」=“Will you come with me for a minute?”
@@ -384,7 +384,7 @@
 「せやね」「せやねん」「ホンマそう」「ボチボチやで」「めっちゃええやん」=I know. - I know. - I know. - I know. - It's not bad.
 「んなアホな」「ありえんわ～」「それ、ないわ」「ちゃうって」「いや、ちゃうねんて」=That's ridiculous. - That's impossible. - No, it's not. - No, it's not.
 「ホンマ？」「それな」「もっかい言うて？」「あ～、それな」「聞いたことあるわ～」=Really? Yeah. - Say it again? Oh, yeah, I've heard of that.
-「ええ！？」「ほんまかいな」「エグゥ！」「エゲつなぁ！」「うそ～ん……」=Yeah? Oh, my God. That's so cool! Noooooo ......"
+「ええ！？」「ほんまかいな」「エグゥ！」「エゲつなぁ！」「うそ～ん……」=Yeah? Oh, my God. That's so cool! Noooooo ......
 「ええやん」「それホンマ！」「おおきに！」「ウチも！」「めっちゃええやん……」=Yeah. - That's true! Good night! Me too! That's so good. ......
 「はぁ！？」「ありえへん……っ」「それ、アカンやつ！」「ええかげんにしてっ」「しばくで？」=Huh? That's impossible. ...... Come on. - You're gonna kill me?
 「ちょ、もう……」「ええ～～？」「うそや……」「なんで……？」「ありえんわ……」=Wait, no more ......" "Yeah~?" No way. ....... Why ......? That's impossible. ......
