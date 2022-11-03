@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「Ｏｈ，ワタシ、ついにアナタとＳｅｘしちゃいマスカ！」=
-//「うん、俺達恋人同士だし、そろそろどうかなってね」=
-//「Ｏｆ　ｃｏｕｒｓｅ！　ワタシ、待ってまシタ！　とても嬉しいデス！」=
-//「そ、そこまで喜んでくれるならやりがいがある、かな……？」=
-//「Ｙｅｓ！　早くシマショウ！　ワタシのこと、いっぱい愛してくだサイ！」=
+「Ｏｈ，ワタシ、ついにアナタとＳｅｘしちゃいマスカ！」=“<Oh>, I'm going to have <sex> with you at last!”
+「うん、俺達恋人同士だし、そろそろどうかなってね」=“Yeah, I mean, we're lovers, so I'm thinking it's that time, you know?”
+「Ｏｆ　ｃｏｕｒｓｅ！　ワタシ、待ってまシタ！　とても嬉しいデス！」=“<Of course!> I've been waiting! I am very happy!”
+「そ、そこまで喜んでくれるならやりがいがある、かな……？」=“S-since you're this happy, then I guess it's all worthwhile...?”
+「Ｙｅｓ！　早くシマショウ！　ワタシのこと、いっぱい愛してくだサイ！」=“<Yes!> Come on, hurry up! Please love me a lot!”
