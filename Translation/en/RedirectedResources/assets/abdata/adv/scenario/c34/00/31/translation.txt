@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「Ｓｈｏｐｐｉｎｇ,見るだけデモ楽しいデース」=
-//「だね。でも折角ならちゃんと買い物もしないとね」=
-//「ウゥ、そこはワタシのｍｏｎｅｙとご相談デース……」=
-//「まあ……うん、俺も気に入ったの全部買ったらあっという間になくなるだろうな……」=
+「Ｓｈｏｐｐｉｎｇ,見るだけデモ楽しいデース」=“<Shopping>, just window shopping is a fun date.”
+「だね。でも折角ならちゃんと買い物もしないとね」=“Seems so. But if we're gonna do this, we have to do some proper shopping.”
+「ウゥ、そこはワタシのｍｏｎｅｙとご相談デース……」=“Uuu... I must consult with my <money>...”
+「まあ……うん、俺も気に入ったの全部買ったらあっという間になくなるだろうな……」=“Well... yeah, if I bought everything I liked, too, it'd be gone in no time.”
