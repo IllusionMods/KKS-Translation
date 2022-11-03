@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ、気持ちよすぎデス。アナタが触ったところ、まだ熱いデスヨ……♡」=
-//「ふふっ、アナタの手、とてもよかったデス……♡」=
-//「アナタならｏｉｌｅｄ，いつでも歓迎デスヨー♡」=
-//「そういうときもありマス、また来ようネ？」=
+「はぁ、気持ちよすぎデス。アナタが触ったところ、まだ熱いデスヨ……♡」=“*Sigh*, that felt so good desu. I'm still hot where you touched me...♡”
+「ふふっ、アナタの手、とてもよかったデス……♡」=“Fufu! Your hands were very good desu...♡”
+「アナタならｏｉｌｅｄ，いつでも歓迎デスヨー♡」=“You're always welcome to <oiled> me-♡”
+「そういうときもありマス、また来ようネ？」=“Guess that happens sometimes, shall we come again?”
