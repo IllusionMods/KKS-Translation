@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「アナタ、いますカー……？」=
+「アナタ、いますカー……？」=“Are you there-...?”
 SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
 「どうしたの？」=“What's up?”
-//「いましタ、オジャマシマース」=
-//「すみまセン、とてもアナタに会いたくなりまシタ。傍にいてイイヨネ……？」=
-//「コレはいないデス……どこ行きましタ……？」=
+「いましタ、オジャマシマース」=“You're here... sorry to bother you.”
+「すみまセン、とてもアナタに会いたくなりまシタ。傍にいてイイヨネ……？」=“I'm sorry, it's just I miss you so much. Say close to me, okay...?”
+「コレはいないデス……どこ行きましタ……？」=“There's no one here... where did he go...?”
