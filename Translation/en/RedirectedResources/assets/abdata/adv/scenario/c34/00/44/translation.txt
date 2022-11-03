@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「Ｏｈ,いっぱいｐａｔｔｅｒｎありマス。アナタはどれが好きデスカ？」=
-//「んーそうだなぁ……これなんかどう？　[H名]にピッタリだと思うんだけど」=
-//「ｒｅａｌｌｙ?　ワカリマシタ、これ決めマス！」=
-//「そしたら、頑張って完成させないとね」=
-//「Ｙｅｓ！　アナタ選んでくれた、ワタシ、頑張って作りマース！」=
+「Ｏｈ,いっぱいｐａｔｔｅｒｎありマス。アナタはどれが好きデスカ？」=“Oh, there's lots of <patterns>. Which do you like best?”
+「んーそうだなぁ……これなんかどう？　[H名]にピッタリだと思うんだけど」=“Nh- let's see... how about this one? I think it'd be perfect for you, [H名].”
+「ｒｅａｌｌｙ?　ワカリマシタ、これ決めマス！」=“<Really?> I get it, do that one!”
+「そしたら、頑張って完成させないとね」=“Then I'll have to work hard to finish it.”
+「Ｙｅｓ！　アナタ選んでくれた、ワタシ、頑張って作りマース！」=“<Yes!> You chose for me, I will do my best to make it!”
