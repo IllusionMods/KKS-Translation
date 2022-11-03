@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「Ｓｃｈｉｅｓｓｅｒはｄｏｇデスカ？」=
-//「んー、狛犬っぽい見た目だけど、獅子らしいんだよなぁ……あれ、てことは猫科になるのかな？」=
-//「Ｃａｔ！？　Ｓｃｈｉｅｓｓｅｒはｃｕｔｅだケド、猫違うデス！」=
-//「確かに猫っぽさはないね……この見た目で猫みたいに甘えてきたら……」=
-//「Ｏｈ,Ｓｕｒｒｅａｌデス……でも、ちょっと見てみたいデス」=
+「Ｓｃｈｉｅｓｓｅｒはｄｏｇデスカ？」=“Is <schiesser> a <dog> desu?”
+「んー、狛犬っぽい見た目だけど、獅子らしいんだよなぁ……あれ、てことは猫科になるのかな？」=“Nh- It looks like a guardian dog, but's actually a lion... so I guess that puts it in the cat family, you know?”
+「Ｃａｔ！？　Ｓｃｈｉｅｓｓｅｒはｃｕｔｅだケド、猫違うデス！」=“<Cat!?> <Schiesser> is <cute>, but it's not a cat!”
+「確かに猫っぽさはないね……この見た目で猫みたいに甘えてきたら……」=“It's definitely not cat-like... If you look like this and spoil me like a cat...”
+「Ｏｈ,Ｓｕｒｒｅａｌデス……でも、ちょっと見てみたいデス」=“Oh, <surreal> desu... but I'd like to see that.”
