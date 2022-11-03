@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「まだまだｐｒａｃｔｉｃｅ必要デス、また来まショー！」=
+「まだまだｐｒａｃｔｉｃｅ必要デス、また来まショー！」=“I still need to <practice>, I will come back again!”
