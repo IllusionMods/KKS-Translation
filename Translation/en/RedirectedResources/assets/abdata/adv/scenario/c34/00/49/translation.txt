@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お腹空いたなー、何を食べようか……」=
-//「ワタシもお腹ペコペコデース……お腹いっぱいなるの、食べたいデース……」=
-//「んー結構食べれそうなら……思い切ってコレ頼んでみる？」=
-//「Ｏｈ,コレはとてもｃｈａｌｌｅｎｇｅｒデース……でも、今なら食べれマス……！」=
-//「よし、それじゃあ――」=
+「お腹空いたなー、何を食べようか……」=“I'm starving- What shall we eat?”
+「ワタシもお腹ペコペコデース……お腹いっぱいなるの、食べたいデース……」=“I'm starving, too, desu... I want to go eat with you until my stomach's full...”
+「んー結構食べれそうなら……思い切ってコレ頼んでみる？」=“Nh- well, if you're thinking you want to eat a lot... wanna take the plunge and order this?”
+「Ｏｈ,コレはとてもｃｈａｌｌｅｎｇｅｒデース……でも、今なら食べれマス……！」=“Oh, a <challenger> desu... but let's eat now...!”
+「よし、それじゃあ――」=“Right, well then--”
