@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「エッチ……？　ワタシとＳｅｘしたい、デスカ？」=
-//「まぁ、率直に言えばそういう事だね……ダメかな？」=
-//「アナタとＳｅｘ……ハイ、大丈夫デス、出来マス」=
-//「え、言っておいてあれだけど、本当にいいの……？」=
-//「Ｙｅｓ，とても怖いデス。デモ、アナタなら、ワタシのカラダ、任せられマス……」=
+「エッチ……？　ワタシとＳｅｘしたい、デスカ？」=“Sex...? You want to have <sex> with me, desu?”
+「まぁ、率直に言えばそういう事だね……ダメかな？」=“Well, yeah, that's what I'm getting at... or is that no good?”
+「アナタとＳｅｘ……ハイ、大丈夫デス、出来マス」=“<Sex> with you... yes, alright, we can do it.”
+「え、言っておいてあれだけど、本当にいいの……？」=“Eh, did you just say that'd be fine...?”
+「Ｙｅｓ，とても怖いデス。デモ、アナタなら、ワタシのカラダ、任せられマス……」=“<Yes>, very scared desu. But, if it's you, I can trust you with my body...”
