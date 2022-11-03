@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「またアナタと見に来たいデス、お願いシマスネ？」=
+「またアナタと見に来たいデス、お願いシマスネ？」=“I want to come see it again with you, please?”
