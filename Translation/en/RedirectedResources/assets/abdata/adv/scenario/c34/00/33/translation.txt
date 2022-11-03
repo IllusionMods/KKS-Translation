@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「また来たくなりマシタ。その時は、お願いシマスネー」=
+//「また来たくなりマシタ。その時は、お願いシマスネー」=“I want to come here again. I'll ask for you then-”
