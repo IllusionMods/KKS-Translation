@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「Ｄａｔｉｎｇ……俺と付き合いたいって事？」=
-//「Ｙｅｓ,アナタが欲しいデス……！」=
-//「お国柄か、熱の伝わり方がやっぱりすごいな……」=
-//「ダメ、デスカ……？」=
-//「……いや、俺も[H名]の事好きだし。うん、付き合おうか！」=
-//「ｒｅａｌｌｙ！?　アリガトガザイマス！　ワタシ、ｖｅｒｙ　ｖｅｒｙ　ｈａｐｐｙデス！！」=
+「Ｄａｔｉｎｇ……俺と付き合いたいって事？」=“<Dating>... you want to go out with me?”
+「Ｙｅｓ,アナタが欲しいデス……！」=“<Yes>, I want you desu...!”
+「お国柄か、熱の伝わり方がやっぱりすごいな……」=“Maybe it's something about where you're from, but the way you give off warmth is amazing...”
+「ダメ、デスカ……？」=“So no good, desu...?”
+「……いや、俺も[H名]の事好きだし。うん、付き合おうか！」=“...no, I like you too, [H名]. Yeah, let's go out!”
+「ｒｅａｌｌｙ！?　アリガトガザイマス！　ワタシ、ｖｅｒｙ　ｖｅｒｙ　ｈａｐｐｙデス！！」=“<Really!?> Thank you so much! I <very very happy> desu!!”
