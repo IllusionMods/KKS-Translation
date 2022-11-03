@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「またアナタと食べたいデス。アナタが食べるところ、見たいデス」=
+「またアナタと食べたいデス。アナタが食べるところ、見たいデス」=“I want to eat with you again. I want to watch you when you eat desu.”
