@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ワタシ、先に出てマス。アナタはゆっくりでダイジョウブデスヨー」=
+「ワタシ、先に出てマス。アナタはゆっくりでダイジョウブデスヨー」=“I'm heading out first. It's alright for you to take your time.”
