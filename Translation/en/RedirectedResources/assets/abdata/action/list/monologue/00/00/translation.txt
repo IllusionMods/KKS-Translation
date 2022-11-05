@@ -4,6 +4,6 @@
 「よし、今日も旅行を楽しもう！」=“Alright, let's enjoy today's trip!”
 「今日はどこを見て回ろうかな」=“I wonder where I should go today.”
 「今日も女の子たちと仲良くやっていこう！」=“Let's get along with the girls today, too!”
-「いい天気だ！　何かいいことあるかも」=“The weather is great! Maybe something good will happen!”
+「いい天気だ！　何かいいことあるかも」=“The weather is great! Maybe something good will happen.”
 「さて、今日は何をしようかな」=“Now, what should I do today?”
 「今日も張り切っていこう！」=“Let's keep it going today!”
