@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「綺麗なビンガタゾメ出来そうデス。アナタのＣｈｅｅｒｉｎｇのおかげデス！」=
+「綺麗なビンガタゾメ出来そうデス。アナタのＣｈｅｅｒｉｎｇのおかげデス！」=“I think I can make a beautiful bingata desu. Thanks to your <cheering>!”

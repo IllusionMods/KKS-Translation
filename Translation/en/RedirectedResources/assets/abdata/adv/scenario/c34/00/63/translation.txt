@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「Ｔｈａｎｋ　ｙｏｕ！　見て見て、とてもきれいなりまシタ！」=
-//「ハイ、上手でシタヨ！　次も楽しみデース！」=
-//「ありがとうございまシタ、またお願いしたいデス」=
-//「今度は塗ってくだサイね？　お願いシマース」=
+「Ｔｈａｎｋ　ｙｏｕ！　見て見て、とてもきれいなりまシタ！」=“<Thank you!> Look, look, I'm so pretty!”
+「ハイ、上手でシタヨ！　次も楽しみデース！」=“Yes, you're good at that! I'm looking forward to next time-!”
+「ありがとうございまシタ、またお願いしたいデス」=“Thank you very much, I'd like to ask you to do this again.”
+「今度は塗ってくだサイね？　お願いシマース」=“Try spreading in on me next time, okay? Please.”

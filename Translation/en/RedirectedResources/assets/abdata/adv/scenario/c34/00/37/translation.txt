@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ｋａｙａｋデスネ、難しいそうデスカ？」=
-//「それはやってみないとーかな？」=
-//「フム、何事もｃｈａｌｌｅｎｇｅデスネ、ガンバリマス！」=
-//「うんうんその勢い。一緒に頑張ろう！」=
-//「オーー！」=
+「ｋａｙａｋデスネ、難しいそうデスカ？」=“<Kayak> desu, is it difficult?”
+「それはやってみないとーかな？」=“Guess we should try it out?”
+「フム、何事もｃｈａｌｌｅｎｇｅデスネ、ガンバリマス！」=“Hmm, everything is such a <challenge> desu!”
+「うんうんその勢い。一緒に頑張ろう！」=“Yeah, yeah, that's the spirit. Let's work together!”
+「オーー！」=“Oh--!”

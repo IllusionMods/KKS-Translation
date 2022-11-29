@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「灯台、Ｌｉｇｈｔｈｏｕｓｅ言うデスネ」=
-//「明るい家……そのまんまだね」=
-//「ココは静かで気持ちいいデスネ」=
-//「そうだね、風や波の音、時々ウミネコの鳴き声くらいかな？」=
-//「とてもゆっくり出来そうデス。ゆっくりしていきまショー」=
+「灯台、Ｌｉｇｈｔｈｏｕｓｅ言うデスネ」=“Say <lighthouse> for me.”
+「明るい家……そのまんまだね」=“Lighthouse... just like that.”
+「ココは静かで気持ちいいデスネ」=“It's nice and quiet here.”
+「そうだね、風や波の音、時々ウミネコの鳴き声くらいかな？」=“That's right. Just the sound of the wind and waves, and sometimes the cries of the seagulls.”
+「とてもゆっくり出来そうデス。ゆっくりしていきまショー」=“Seems very relaxing. Let's take our time-”
