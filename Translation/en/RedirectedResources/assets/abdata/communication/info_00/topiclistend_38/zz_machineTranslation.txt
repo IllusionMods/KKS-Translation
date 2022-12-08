@@ -1,7 +1,7 @@
 「私、あまり上手ではありませんが、<color%3Dyellow>釣り</color>が好きなんです」=“I'm not a very good fisherman, but I like to <color%3Dyellow>fish</color>.”
 「たまに上手に釣れた時の、手の感覚が最高なんです」=“I'm not very good at it, but I like fishing.”
-「<color%3Dyellow>バナナボート</color>は、とてもエキサイトできますね」=“<Yellow banana boat</color> is very exciting.”
-「海の上を走る疾走感と、かかる水しぶきの涼しさが溜まりませんね」=“Banana boats are very exciting. The feeling of running on the water and the coolness of the spray is irresistible.”
+「<color%3Dyellow>バナナボート</color>は、とてもエキサイトできますね」=“<<color%3Dyellow>Banana boats</color> are very exciting.”
+「海の上を走る疾走感と、かかる水しぶきの涼しさが溜まりませんね」=“The feeling of running on the water and the coolness of the splashes is irresistible.”
 「私<color%3Dyellow>カヤック</color>の事、結構楽しいと思います」=“I think the kayaking thing is pretty fun.”
 「操縦も難しいものではないですし、自分のペースで進める所が素敵ですね」=“It's not difficult to maneuver, and it's nice to be able to go at your own pace.”
 「なるほど、それも面白そうですね」=“I see. That sounds interesting too.”
