@@ -101,7 +101,7 @@ Scope of the Section: Applies to the Chara Maker
 アナタといる事に価値を見出せない、私は忙しいの=I see no value in your company. I'm very busy.
 
 //17 - Reluctant
-私と話がしたい？　他をあたってもらってもいいかしら=You want to talk to me? I suggest you find someone else to bug.
+私と話がしたい？　他をあたってもらってもいいかしら=You want to talk to me? I'd suggest you try someone else.
 あまりまじまじと見ないで=Quit staring at me like that.
 あなた変態ね……=You're a pervert alright...
 
