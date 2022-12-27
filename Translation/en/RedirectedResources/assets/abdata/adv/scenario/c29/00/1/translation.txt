@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そう、ですか……あなたの気持ち、わかりました」=
+「そう、ですか……あなたの気持ち、わかりました」=Is that so... I understand your feelings.”
 「………………」=“...”
-//「その気持ちに、私も答えたい思います」=
-//「ってことは……！」=
-//「はい、不束者では御座いますが……これからもよろしくお願いします」=
+「その気持ちに、私も答えたい思います」=“I'd also like to reciprocate those feelings.”
+「ってことは……！」=“That means...!”
+「はい、不束者では御座いますが……これからもよろしくお願いします」=“Yes, I know I'm inexperienced at this, but... please treat me well from now on.”
