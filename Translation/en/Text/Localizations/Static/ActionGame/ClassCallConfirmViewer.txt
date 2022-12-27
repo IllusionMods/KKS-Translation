@@ -4,4 +4,4 @@
 ホテル=Hotel
 民宿=Guest House
 合宿所=Training Center
-に以下からランダムでキャラを滞在させます。=will be occupied by a random character.
+に以下からランダムでキャラを滞在させます。=Will be occupied by a random character.
