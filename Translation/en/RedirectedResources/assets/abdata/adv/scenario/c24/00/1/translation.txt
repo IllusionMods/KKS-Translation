@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私の事が……好き？　好きとはどういう意味ですか……？」=
-//「そのままの意味だよ。きみが好きだから付き合いたいって事」=
-//「わ、私は……自分でもわかってるんです……あなたに好かれる資格がないって、だって重たいし、それに……」=
-//「いいんだよ。そういう所も全部ひっくるめて、可愛いなって思ってるから」=
-//「私、嬉しいです……あなたが、あのあなたが私を好きだと言ってくれて……」=
-//「私も……きちんとあなたとお付き合いしたです……よろしく、お願いします♡」=
+「私の事が……好き？　好きとはどういう意味ですか……？」=“You... like me?　What do you mean you like me...?”
+「そのままの意味だよ。きみが好きだから付き合いたいって事」=“That's what I meant. I like you and I want to go out with you.”
+「わ、私は……自分でもわかってるんです……あなたに好かれる資格がないって、だって重たいし、それに……」=“I-I... I know... I don't deserve to be liked by you, because I'm gloomy, and besides...”
+「いいんだよ。そういう所も全部ひっくるめて、可愛いなって思ってるから」=“It's okay. I think you're cute in all those ways.”
+「私、嬉しいです……あなたが、あのあなたが私を好きだと言ってくれて……」=“I'm glad... that you, you know, told me you like me...”
+「私も……きちんとあなたとお付き合いしたです……よろしく、お願いします♡」=“I also... would like to go out with you properly... please, take care of me♡”
