@@ -16,7 +16,7 @@
 プレイヤーを選択して下さい ▼=Please Select a Player ▼
 
 新規作成=Create New
-滞在目的=Porpuse for Stay
+滞在目的=Purpose of Stay
 研修旅行=Study Tour
 
 誕生日/=Birthday/
