@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「あ……その目、本気の言葉なのね？」=“Ah... what's with that serious look in your eyes?”
-「うん、冗談でこんなこと言ったりしない。本当に[H名]のことが好きなんだ」=“Yeah, I'm not joking around here. I really like you, [H名].”
-「……好きな人から気持ちを伝えてもらえるのって、こんなに嬉しいことだったのね」=“...it makes me really happy to hear that from someone  I like so much.”
+「うん、冗談でこんなこと言ったりしない。本当に[H名]のことが好きなんだ」=“Yeah, I'm not joking around here. I really love you, [H名].”
+「……好きな人から気持ちを伝えてもらえるのって、こんなに嬉しいことだったのね」=“...it makes me really happy to hear that from someone I like so much.”
 「え？　それって……」=“Eh? So that means...”
 「ええ、私も君のことが好きよ。これからは彼氏彼女として仲良くしましょ」=“Ehhh, I like you, too. From now on, let's get along as a couple... boyfriend, and girlfriend.”
