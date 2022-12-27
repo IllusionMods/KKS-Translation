@@ -11,15 +11,15 @@
 
 //Sex Experience
 エッチ経験=Sex Experience
-女の子が絶頂した=The Girl Climaxed
-男が射精した\r=The Man Ejaculated\r
-同時絶頂した\r=Climaxed Simultaneously\r
-なにもしなかった=I did nothing
+女の子が絶頂した=The girl climaxed
+男が射精した\r=The man ejaculated\r
+同時絶頂した\r=Climaxed simultaneously\r
+なにもしなかった=Nothing done
 
 //Bonus
 ボーナス=Bonus
 初めてのエッチ\r\n=First time having sex\r\n
-女の子からのエッチ誘い\r=Girl Asked For Sex\r
+女の子からのエッチ誘い\r=Girl asked for sex\r
 性癖進行ボーナス=Sexual Progression
 
 //Familiarity
