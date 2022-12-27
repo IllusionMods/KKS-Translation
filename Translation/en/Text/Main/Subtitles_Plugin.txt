@@ -21,7 +21,7 @@ Scope of the Section: Applies to the Chara Maker
 君、運命って信じる=Do you believe in fate?
 
 //01 - Ojousama
-その……よろしくお願いしますね=Um... It's a pleasure to meet you.
+その……よろしくお願いしますね=Um... it's a pleasure to meet you.
 お疲れ様です=Good work today.
 もしよろしければこの後……い、いえ、なんでもありません！　失礼します！=If it's alright, after this, we could... n-no, it's nothing! Do excuse me!
 
@@ -92,7 +92,7 @@ Scope of the Section: Applies to the Chara Maker
 
 //15 - Wild
 な、な、どこ行くんだい何か楽しいことあるのか？=Hey, hey, where are you going, do you have something fun to do?
-クンクン、クンクン。怪しいニオイが……=*sniff* *sniff*. Smells fishy...
+クンクン、クンクン。怪しいニオイが……=*sniff* *sniff* Smells fishy...
 ヤラしーこと考えてるにおいだぞ=Smells like you're thinking about sex!
 
 //16 - Wannabe
@@ -106,7 +106,7 @@ Scope of the Section: Applies to the Chara Maker
 あなた変態ね……=You're a pervert alright...
 
 //18 - Jinxed
-私の顔…何かついてますか？=My face... Do I have anything on it?
+私の顔…何かついてますか？=My face... do I have anything on it?
 お話ですか？嬉しいです=You want to talk? I'd love to.
 不安な時は強く抱きしめて欲しいです=If I ever look uneasy, I want you to just hold me tight.
 
@@ -146,13 +146,13 @@ Scope of the Section: Applies to the Chara Maker
 みんなのやる気が下がる～？　やる気は個人の問題だと思うんだけどな～=Everyone gets demotivated too~? I think motivation is everyone's own personal problem though~
 
 //26 - Quiet
-……あなたと話す時間は、楽しいから好き=...Spending time chatting with you is fun, so I like it.
+……あなたと話す時間は、楽しいから好き=...spending time chatting with you is fun, so I like it.
 ……ちょっと、疲れた=...I'm a bit, tired.
 ……今日もお話、聞かせて……？=...tell me, lots of stuff today...?
 
 //27 - Stubborn
-……な、何？　私に聞きたいことでもあるの？=...Wh-What? Is there something you want to ask me?
-わ～っ！　あんた馬鹿！？=Wah! Are you an idiot?!
+……な、何？　私に聞きたいことでもあるの？=...wh-what? Is there something you want to ask me?
+わ～っ！　あんた馬鹿！？=Wah! Are you an idiot!?
 もしかして、このままキス……だ、ダメ！　まだダメぇっ！=Hang on, are we about to kiss...? N-no! I'm not ready yet!
 
 //28 - Old-Fashioned
@@ -162,7 +162,7 @@ Scope of the Section: Applies to the Chara Maker
 
 //29 - Humble
 ……そう。あなたも物好きですね=...I see. You sure are quite the eccentric person.
-……なんでしょうか=What is it?
+……なんでしょうか=...what is it?
 んっ……あなたの手、温かい……=Nn... your hand, it's so warm...
 
 //30 - Friendly
@@ -207,8 +207,8 @@ Scope of the Section: Applies to the Chara Maker
 
 //38 - Perfectionist
 あぁ,ちょうどあなたとお話ししたいと思っていました=Oh, I was just hoping to talk to you.
-あの、もしかして私……口説かれていますか？=Um, are you hitting on me... By any chance?
-んふふ、また何かございますか？=Hehehe... What can I do for you again?
+あの、もしかして私……口説かれていますか？=Um, are you hitting on me... by any chance?
+んふふ、また何かございますか？=Hehehe... what can I do for you again?
 
 //39 - Island Girl
 何でも遠慮なく聞いてそのほうがうれしいさ=Don't hesitate to ask me anything, I'll be happy to help.
@@ -221,8 +221,8 @@ Scope of the Section: Applies to the Chara Maker
 おい、そのだらしない顔をやめろ=Hey, stop with that unsightly face.
 
 //41 - Bokukko
-なんだかちょっと緊張しちゃうね・・・　君はしない？=I'm kind of nervous... You aren't?
-え・・・っと？　ボクの顔に何かついてる？=E...Eh? Is there something on my face?
+なんだかちょっと緊張しちゃうね・・・　君はしない？=I'm kind of nervous... you aren't?
+え・・・っと？　ボクの顔に何かついてる？=E...eh? Is there something on my face?
 ボクになにか用事かなあ？=Is there something you need from me?
 
 //42 - Genuine　
