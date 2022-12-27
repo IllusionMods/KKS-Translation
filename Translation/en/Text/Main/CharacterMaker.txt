@@ -875,7 +875,7 @@ Y=Y
 
 // Maker called from Booking Edit Menu
 学生証画像の撮影=Take Student ID Image
-編集前に戻す=Revert edits
+編集前に戻す=Revert Edits
 キャラを編集前に戻しますか？=Revert this character?
 キャラ編集状態のリセット確認=Revert Edits Confirmation
 反映せず終了=Cancel & End
