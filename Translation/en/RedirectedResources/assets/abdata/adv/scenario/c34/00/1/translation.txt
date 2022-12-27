@@ -5,4 +5,4 @@
 「本当だよ。どうかな……？」=“Yes, really. So, how about it...?”
 「……ワタシ、こんなデスガ……それでもイイノ？」=“...I, this is... I'm okay?”
 「勿論、いや、[H名]がいいんだ」=“Of course. No, you're all I want, [H名].”
-//「……ワカリマシタ。ワタシ、アナタのＬｏｖｅｒなりマス！　ガンバリマス！」=“I understand! I'll be your <lover>! I'll do my best!”
+「……ワカリマシタ。ワタシ、アナタのＬｏｖｅｒなりマス！　ガンバリマス！」=“I understand! I'll be your <lover>! I'll do my best!”
