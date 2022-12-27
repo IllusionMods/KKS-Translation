@@ -8,8 +8,8 @@
 #set exe KoikatsuSunshine
 #set level 13
 
-うつ伏せになって=Turn Face Down
-仰向けになって=Lay on Your Back
+うつ伏せになって=Get on your stomach.
+仰向けになって=Lie on your back.
 着替えて=Change Clothes
 服の読み込み=Load Clothes
 読込み=Load
