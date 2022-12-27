@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おーっほっほっほ！　その心意気、よくってよ！」=
-//「……えっと、返事はどうなのかな？」=
-//「うふふ、今の告白を受けて、あなたの気持ちを無下にすることなんて出来ませんわ」=
-//「わたくしも、あなたの事が気になっていましたの。これから、よろしくお願いいたしますわね」=
-//「やった！　こちらこそよろしくね」=
-//「でも油断はなさらないように。わたくしに相応しくないと思ったら、即刻関係を解消いたしますわ」=
-//「うん、[H名]さんに相応しい男になれるように頑張るよ」=
+「おーっほっほっほ！　その心意気、よくってよ！」=“Ohohoho!　I like your spirit.”
+「……えっと、返事はどうなのかな？」=“...umm, what about the reply?”
+「うふふ、今の告白を受けて、あなたの気持ちを無下にすることなんて出来ませんわ」=“Ufufu, to reply to your confession just now, I can't dismiss your feelings outright.”
+「わたくしも、あなたの事が気になっていましたの。これから、よろしくお願いいたしますわね」=“I've been thinking about you too. From this point on, please do treat me well.”
+「やった！　こちらこそよろしくね」=“Yay!　Please take care of me.”
+「でも油断はなさらないように。わたくしに相応しくないと思ったら、即刻関係を解消いたしますわ」=“But don't let your guard down. If I find you unworthy of me, I shall terminate our relationship immediately.”
+「うん、[H名]さんに相応しい男になれるように頑張るよ」=“Yes, I will do my best to be a man worthy of you, [H名].”
