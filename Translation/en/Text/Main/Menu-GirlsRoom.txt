@@ -40,9 +40,9 @@
 血液型/=Blood Type
 //Blanking the "Type" word after the "Blood type", because it don't make sense on english:
 型= 
-滞在目的=Purpuse for Stay
-性格:=Pers:
-愛称:=Nick:
+滞在目的=Purpose of Stay
+性格:=Pers.:
+愛称:=Nick.:
 
 
 滞在者登録=Register Guest
@@ -110,7 +110,7 @@
 // Player Menu
 //---------------------------------------------------------
 プレイヤー情報=Player Info
-呼ばれる愛称=Called by the Nickname
+呼ばれる愛称=Nickname to go by
 
 //---------------------------------------------------------
 // Cute Guide Menu
@@ -125,11 +125,11 @@
 // Dialog Boxes
 //---------------------------------------------------------
 //Release Room
-登録キャラの解除確認=Confirm the character removal
+登録キャラの解除確認=Confirm Character Removal
 解除しますか？=Do you want to remove this girl?
 
 //Release this room
-登録キャラの一括解除確認=Confirm bulk character removal
+登録キャラの一括解除確認=Confirm Bulk Character Removal
 施設内のキャラを解除しますか？=Do you want to remove all characters from this location?
 
 //Release all rooms
