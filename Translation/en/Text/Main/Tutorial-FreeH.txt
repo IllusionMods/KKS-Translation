@@ -4,7 +4,7 @@
 好きな女の子を選ぶ。=Choose a girl.
 男キャラを選ぶ。=Choose a boy.
 Ｈするマップを選択。=Choose a map.
-「決定」でエッチ開始！=Press ‘Decide’ to start!
+「決定」でエッチ開始！=Press ‘Accept’ to start!
 本編をプレイしてフリーＨの体位を増やそう！=Play the game to unlock more positions!
 ゲーム本編で見た体位は\nフリーＨに追加されます！=Positions seen in the main\ngame are added to Free H!
 #unset level -1024
