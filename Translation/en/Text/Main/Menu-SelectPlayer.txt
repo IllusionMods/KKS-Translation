@@ -34,9 +34,9 @@
 //-------------------------------------------------------------------
 // Change Nickname Menu
 //-------------------------------------------------------------------
-呼ばれる愛称を選択してください▼=Choose a nickname to be called ▼
+呼ばれる愛称を選択してください▼=Choose a nickname to be called by ▼
 この女の子に呼ばれる愛称を設定▼=Set a nickname to be called by this girl ▼
-プレイヤーの名前▼=Player name ▼
+プレイヤーの名前▼=Player Name ▼
 共通で呼ばれる愛称=Default Nickname
 個別で呼ばれる愛称=Personal Nickname
 共通の愛称に戻す=Return to default nickname
