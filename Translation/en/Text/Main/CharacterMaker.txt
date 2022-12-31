@@ -20,7 +20,7 @@
 
 //Exit menu
 キャラメイク終了確認=Leaving the Character Maker
-キャラメイクを終了しますか？=Quit the Character Maker?
+キャラメイクを終了しますか？=Quit the character maker?
 
 //Generic words
 はい=Yes
@@ -58,7 +58,7 @@ HSV=HSV
 RGB=RGB
 サンプル=Sample
 全削除=Delete All
-左クリックで適用=Left-Click to apply
+左クリックで適用=Left-click to apply
 左クリックで現在のカラーを登録します=Left-click to copy current color
 左クリックで適応、右クリックで削除します=Left-click to apply, right-click to delete
 
