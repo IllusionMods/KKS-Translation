@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 ひかり=Hikari
-「えへへ、この島での生活はどうですか？　楽しんでもらえてたら嬉しいですっ」=“'Ehehe, how is life on this island?　I hope you're enjoying it.”
+「えへへ、この島での生活はどうですか？　楽しんでもらえてたら嬉しいですっ」=“Ehehe, how is life on this island?　I hope you're enjoying it.”
 「実は……今日は[P姓]さんにお知らせがあって来ました」=“Actually... I'm here today to give you some news, [P姓].”
 「今日も暑いけど大丈夫ー？　疲れてたりしないー？」=“It's hot again today, but are you okay?　Are you tired or anything?”
 「疲れてるなら、ゴーヤーを食べれば元気がでるよー！　ゴーヤーチャンプルーが一番食べやすいからおすすめさぁ」=“If you're tired, just eat some bitter melon and you'll feel better!　Bitter melon stir-fry is the easiest to eat, so I recommend it.”
