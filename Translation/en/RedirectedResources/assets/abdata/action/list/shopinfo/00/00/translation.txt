@@ -2,12 +2,12 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 島の話題を聞く=Ask for a talk topic on the island
-何かお困りですか？よければこの島の話題でもどうですか？=Can I help you with something? How about some information about this island?
+何かお困りですか？よければこの島の話題でもどうですか？=Can I help you with something? How about some information about this island, if you like?
 本日残り{0}回={0} items left for today
 アサガオの種=Morning-glory seeds
-アサガオの種を購入しますか？=Do you wish to purchase a morning-glory seeds?
+アサガオの種を購入しますか？=Do you wish to purchase morning-glory seeds?
 鳥の巣=Bird nest
 灯台に再度鳥の巣を設置しますか？=Do you wish to replace the bird nest near the lighthouse?
 シークレットビーチについて=The secret beach
-灯台へ続く通路の落石を片付ければ通行は可能ですが、危険なので近づかないでください。=Clearing the rubbles on the path to the lighthouse should open up the way to secret beach, but please don't go there since it's dangerous.
+灯台へ続く通路の落石を片付ければ通行は可能ですが、危険なので近づかないでください。=Clearing the rubble on the path to the lighthouse should open up the way to secret beach, but please don't go there since it's dangerous.
 残り{0}個={0} left in stock

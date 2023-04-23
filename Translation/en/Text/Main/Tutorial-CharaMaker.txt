@@ -1,5 +1,5 @@
 #set level -1024
-好みの女の子を創りだそう！=Create a girl to your likings! 
+好みの女の子を創りだそう！=Create a girl to your liking! 
 ◆キャラメイクの流れ=◆ Character creation flow
 好みの見た目に設定！=Choose her looks!
 個性や性格を設定！=Set her personality and traits!

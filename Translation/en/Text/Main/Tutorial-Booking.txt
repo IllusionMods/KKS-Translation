@@ -25,7 +25,7 @@
 //Ignoring for better spacing with white space
 　　　　を\n選んだら…=Once choosen, find...
 女の子を選択して=Choose a girl
-「決定」！=“Decide”!
+「決定」！=“Accept”!
 女の子が\n滞在しました！=New girl\nregistered!
 ◆滞在状況の画面説明=◆ Guest Status
 表示宿泊施設の切り替え=Change current lodging

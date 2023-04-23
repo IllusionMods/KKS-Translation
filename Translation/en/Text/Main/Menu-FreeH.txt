@@ -82,7 +82,7 @@ H段階=H-Level
 マップ選択=Select Map
 
 //Time of Day
-時間帯=Time Of Day
+時間帯=Time of Day
 朝=Dawn
 昼=Noon
 夕方=Dusk

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-本当に削除しますか？=Really Delete This?
+本当に削除しますか？=Do you really want to delete this?
 ファイルの解凍を行っています…=Unpacking file...
 キャッシュを削除しました。=Cache has been deleted.
 データを削除しました。=Data has been deleted.

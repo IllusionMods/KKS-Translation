@@ -19,8 +19,8 @@
 変形まとめ=Slider List
 
 //Exit menu
-キャラメイク終了確認=Leaving The Character Maker
-キャラメイクを終了しますか？=Quit The Character Maker?
+キャラメイク終了確認=Leaving the Character Maker
+キャラメイクを終了しますか？=Quit the character maker?
 
 //Generic words
 はい=Yes
@@ -58,9 +58,9 @@ HSV=HSV
 RGB=RGB
 サンプル=Sample
 全削除=Delete All
-左クリックで適用=Left-Click To Apply
-左クリックで現在のカラーを登録します=Left-Click To Copy Current Color
-左クリックで適応、右クリックで削除します=Left-Click To Apply, Right-Click To Delete
+左クリックで適用=Left-click to apply
+左クリックで現在のカラーを登録します=Left-click to copy current color
+左クリックで適応、右クリックで削除します=Left-click to apply, right-click to delete
 
 //-------------------------------------------------------------------
 // Top Menu (see Generic for types)
@@ -84,7 +84,7 @@ RGB=RGB
 化粧=Makeup
 
 //Face -> General
-頭の種類に合わせたデフォルトの顔に戻す=Reset Face Type To Default Face
+頭の種類に合わせたデフォルトの顔に戻す=Reset face type to default face
 顔の全体横幅=Face Width
 顔の上部前後=Upper Face Depth
 顔の上部上下=Upper Face Height
@@ -124,10 +124,10 @@ r:"^耳の角度([A-Z])軸$"=Ear Angle $1 Axis
 眉の内側形状=Inner Eyebrow Shape
 眉の外側形状=Outer Eyebrow Shape
 眉の色=Eyebrow Color
-眉を髪より手前に表示=Eyebrows Show Through Hair
-眉の色を髪と陰毛に反映する=Copy Eyebrow Color To Hair And Pubic Hair
-眉の色を髪の色に合わせる=Copy Hair Color To Eyebrows
-眉の色を陰毛の色に合わせる=Copy Pubic Hair Color To Eyebrows
+眉を髪より手前に表示=Eyebrows show through hair
+眉の色を髪と陰毛に反映する=Copy eyebrow color to hair and pubic hair
+眉の色を髪の色に合わせる=Copy hair color to eyebrows
+眉の色を陰毛の色に合わせる=Copy pubic hair color to eyebrows
 コンフィグ依存=Config Decides
 
 //Face -> Eyes
@@ -166,8 +166,8 @@ sr:^瞳の色([①-⑨])$=Eye Color $1
 瞳のグラデ合成方法=Eye Gradient Strength
 瞳のグラデ上下調整=Eye Gradient Vertical
 瞳のグラデサイズ=Eye Gradient Size
-左目の設定を右目に反映=Copy Left Eye To Right
-右目の設定を左目に反映=Copy Right Eye To Left
+左目の設定を右目に反映=Copy left eye to right
+右目の設定を左目に反映=Copy right eye to left
 ※ 現在の目のパターンではアイシャドウは表示されません。=※ Eyeshadow cannot be displayed with this pattern.
 
 //Face -> Nose
@@ -297,9 +297,9 @@ r:^ペイント([０-９0-9]+)位置プリセット$=Paint $1 Position Presets
 
 //Body -> Pubic Hair
 陰毛の色=Pubic Hair Color
-陰毛の色を髪と眉に反映する=Copy Pubic Hair Color To Hair And Eyebrows
-陰毛の色を眉の色に合わせる=Copy Eyebrow Color To Pubic Hair
-陰毛の色を髪の色に合わせる=Copy Hair Color To Pubic Hair
+陰毛の色を髪と眉に反映する=Copy pubic hair color to hair and eyebrows
+陰毛の色を眉の色に合わせる=Copy eyebrow color to pubic hair
+陰毛の色を髪の色に合わせる=Copy hair color to pubic hair
 
 //Body -> Suntan
 日焼け跡の色=Suntan Color
@@ -330,13 +330,13 @@ r:^ボディーペイント([０-９0-9]+)の種類$=Body Paint $1 Selection
 その他=Miscellaneous
 
 //Hair -> General Hair Settings
-前髪・後ろ髪・横髪・エクステの色を統一する=Share Color With All Hairs
-根本と毛先の色を個別に設定する=Enable Root And Tip Color Adjustment
-アウトラインの色を個別に設定する=Enable Outline Color Adjustment
-ハイライトの色を個別に設定する=Set Highlight Color Separately
-髪の色を眉と陰毛に反映する=Copy Hair Color To Eyebrows and Pubic Hair
-髪の色を眉の色に合わせる=Copy Eyebrow Color To Hair Base
-髪の色を陰毛の色に合わせる=Copy Pubic Hair Color To Hair Base
+前髪・後ろ髪・横髪・エクステの色を統一する=Share color with all hairs
+根本と毛先の色を個別に設定する=Enable root and tip color adjustment
+アウトラインの色を個別に設定する=Enable outline color adjustment
+ハイライトの色を個別に設定する=Set highlight color separately
+髪の色を眉と陰毛に反映する=Copy hair color to eyebrows and pubic hair
+髪の色を眉の色に合わせる=Copy eyebrow color to hair base
+髪の色を陰毛の色に合わせる=Copy pubic hair color to hair base
 アウトラインの色=Outline Color
 揺らさない=Don't Move
 ハイライトの色=Highlight Color
@@ -459,26 +459,26 @@ TypeB=Type B
 TypeC=Type C
 
 //Clothing -> Bottom
-ボトムスを初期の状態に戻す=Restore Default Bottom Settings
+ボトムスを初期の状態に戻す=Restore default bottom settings
 
 //Clothing -> Bra
-インナー上を初期の状態に戻す=Reset Default Bra Settings
+インナー上を初期の状態に戻す=Reset default bra settings
 
 //Clothing -> Underwear
-インナー下を初期の状態に戻す=Reset Default Underwear Settings
+インナー下を初期の状態に戻す=Reset default underwear settings
 
 //Clothing -> Gloves
-手袋を初期の状態に戻す=Restore Default Glove Settings
+手袋を初期の状態に戻す=Restore default glove settings
 
 //Clothing -> Pantyhose
-パンストを初期の状態に戻す=Restore Default Pantyhose Settings
+パンストを初期の状態に戻す=Restore default pantyhose settings
 
 //Clothing -> Legwear
-靴下を初期の状態に戻す=Restore Default Legwear Settings
+靴下を初期の状態に戻す=Restore default legwear settings
 
 //Clothing -> Shoes
-内履きを初期の状態に戻す=Restore Default Indoor Shoe Settings
-外履きを初期の状態に戻す=Restore Default Outdoor Shoe Settings
+内履きを初期の状態に戻す=Restore default indoor shoe settings
+外履きを初期の状態に戻す=Restore default outdoor shoe settings
 
 //Clothing -> Copy Menu
 コピー元のコーディネート=Clothing Source
@@ -493,8 +493,8 @@ r:"^パーツ([A-Z])$"=Part $1
 // Accessories menu
 //-------------------------------------------------------------------
 //Accessory Main Menu Options
-タイプや種類変更時に前回の親を引き継ぐ=Use Previous Parent When Changing Accessory Type
-種類変更時に前回の色を引き継ぐ=Use Previous Color When Changing Accessory
+タイプや種類変更時に前回の親を引き継ぐ=Use previous parent when changing accessory type
+種類変更時に前回の色を引き継ぐ=Use previous color when changing accessory
 タイプ=Type
 
 //Slot Lists
@@ -656,10 +656,10 @@ O=O
 AB=AB
 
 //Profile -> Character -> Name Box
-名前を入力して下さい▼=Please Enter A Name ▼
+名前を入力して下さい▼=Please enter a name ▼
 
 //Profile -> Character -> Nickname Box
-愛称を入力して下さい▼=Please Enter A Nickname ▼
+愛称を入力して下さい▼=Please enter a nickname ▼
 
 //Used for Profile -> Name/Nickname Entry Boxes
 決定=Accept
@@ -675,11 +675,11 @@ AB=AB
 
 // Profile -> H-Scene
 性感帯=Erogenous Zone
-キスを拒否しない？=Always Allows Kisses?
-激しい愛撫を拒否しない？=Always Allows Groping?
-アナルを拒否しない？=Always Allows Anal Sex?
-電マを拒否しない？=Always Allows Vibrating Toys?
-ゴム付けなくてもOK？=Condomless Sex Is Okay?
+キスを拒否しない？=Always allows kisses?
+激しい愛撫を拒否しない？=Always allows groping?
+アナルを拒否しない？=Always allows anal sex?
+電マを拒否しない？=Always allows vibrating toys?
+ゴム付けなくてもOK？=Condomless sex is okay?
 
 //Profile -> Traits
 はらぺこ=Hungry
@@ -744,7 +744,7 @@ H好き=H Love
 //Personality
 
 
-※ 読込みたい情報にチェックを入れてください=※ Please Check What Aspects Of The Character To Load
+※ 読込みたい情報にチェックを入れてください=※ Please check what aspects of the character to load
 //Face
 体=Body
 //Hair
@@ -760,13 +760,13 @@ H好き=H Love
 
 // File Menu -> Save/Delete Character -> Delete Image
 キャラカードの削除確認=Confirm Character Card Deletion
-本当に削除しますか？=Really Delete This?
+本当に削除しますか？=Really delete this?
 
 // File Menu -> Save/Delete Character -> Replace Image
 キャラカードの上書き保存確認=Confirm Character Card Overwrite
-本当に上書きしますか？=Really Overwrite This?
+本当に上書きしますか？=Really overwrite this?
 
-キャラ画像を変更しますか？=Change This Character's Picture?
+キャラ画像を変更しますか？=Change this character's picture?
 変更して保存=New Image
 変更せず保存=Keep Image
 保存をやめる=Don't Save
@@ -790,14 +790,14 @@ No Image=No Image
 アクセサリ=Accessories
 
 // File Menu -> Save Clothing -> Dialogue Box
-コーディネートの新規保存確認=Save Confirm For The New Clothing Set
-コーディネート名を入力して下さい=Please Enter A Name For The Clothing Set
+コーディネートの新規保存確認=Save Confirm for the new Clothing Set
+コーディネート名を入力して下さい=Please enter a name for the clothing set
 
 // File Menu -> Save Clothing -> Overwrite
-コーディネートの上書き保存確認=Confirm Clothing Set Overwrite
+コーディネートの上書き保存確認=Confirm clothing set overwrite
 
 // File Menu -> Save Clothing -> Delete
-コーディネートの削除確認=Confirm Clothing Set Deletion
+コーディネートの削除確認=Confirm clothing set deletion
 
 
 // File Menu -> Lighting Settings
@@ -870,13 +870,13 @@ Y=Y
 // Miscellaneous Messages
 スペースキーで戻ります=Spacebar To Return
 
-キャラメイクを終了しますか？=Quit The Character Maker?
-キャラ編集を終了しますか？=Quit Editing This Character?
+キャラメイクを終了しますか？=Quit the Character Maker?
+キャラ編集を終了しますか？=Quit editing this character?
 
 // Maker called from Booking Edit Menu
 学生証画像の撮影=Take Student ID Image
 編集前に戻す=Revert Edits
-キャラを編集前に戻しますか？=Revert This Character?
+キャラを編集前に戻しますか？=Revert this character?
 キャラ編集状態のリセット確認=Revert Edits Confirmation
 反映せず終了=Cancel & End
 反映して終了=Apply & End

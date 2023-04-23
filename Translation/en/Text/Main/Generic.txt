@@ -14,8 +14,8 @@
 // Exit Box
 //---------------------------------------------------------
 終了確認=Exit Confirmation
-ゲームを終了しますか？=Quit The Game?
-はい=OK
+ゲームを終了しますか？=Quit the game?
+はい=Yes
 いいえ=No
 やめる=Cancel
 
@@ -226,14 +226,14 @@
 メモを記入できます=You can write notes
 
 //Girl ask to join 3P
-周りから視線を感じる…=I can feel someone's stare...
+周りから視線を感じる…=I can feel someone staring at me...
 に入りますか？=Do you want to join?
 シーン確認=Scene Confirmation
 Hシーン確認=H Scene Confirmation
 
 //Watch Masturbation
-しよう=Let's do it
+しよう=Let's do it.
 このままエッチに入りますか？=Want to go with the flow and have sex?
 
 //Watch Lesbian
-僕も混ぜて=Let me join in
+僕も混ぜて=Count me in.
