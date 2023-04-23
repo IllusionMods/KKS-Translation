@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ありがとー。私も、頑張ってキミたちを気持ち良くするからねー」=
+「ありがとー。私も、頑張ってキミたちを気持ち良くするからねー」=“Thanks~. I'll do my best too, and make you both feel good, okay~?”

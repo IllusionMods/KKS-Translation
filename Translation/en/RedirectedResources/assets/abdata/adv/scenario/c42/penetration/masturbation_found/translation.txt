@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「あっ、出てきたんだ？　見てて、我慢できなくなちゃったー？」=
+「あっ、出てきたんだ？　見てて、我慢できなくなちゃったー？」=“Ah--, you came out. Was just watching not enough anymore~?”

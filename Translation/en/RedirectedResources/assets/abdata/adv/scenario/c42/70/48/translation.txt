@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「こういうところって、やっぱり海で獲れたてのが出てくるんだね」=
-//「新鮮な魚介類は美味しいもんねー。生でもよし、焼いてもよしで、どれを食べるか迷っちゃうよぉ」=
-//「欲張って、あれもこれもと注文したいところだけど……。[H名]はどうする？」=
-//「うーん……決めた！　キミと同じものにする！」=
-//「えっ、何それ、ずるい！」=
-//「ずるくないもーん。それでどれを注文するの？　ほらほら、早く決めてよー」=
-//「ぐぬぬ……ああくそっ、いっそ両方注文してやる……！」=
+「こういうところって、やっぱり海で獲れたてのが出てくるんだね」=“Just by looking, it makes you realize that it was all harvested straight from the sea, doesn't it?”
+「新鮮な魚介類は美味しいもんねー。生でもよし、焼いてもよしで、どれを食べるか迷っちゃうよぉ」=“Yep, and fresh seafood is so good~. Eat it raw, eat it grilled, it all works so, it's hard to decide what to go with~”
+「欲張って、あれもこれもと注文したいところだけど……。[H名]はどうする？」=“I almost want to just go all out, and order this and that and everything else but... what about you, [H]?”
+「うーん……決めた！　キミと同じものにする！」=“Nnn... alright, I've got it! I'll go with whatever you go with!”
+「えっ、何それ、ずるい！」=“Eh--, what even, you crafty little--!”
+「ずるくないもーん。それでどれを注文するの？　ほらほら、早く決めてよー」=“There's nothing crafty about it~. So then, what are you going with? C'mon, pick already~”
+「ぐぬぬ……ああくそっ、いっそ両方注文してやる……！」=“Gnnnn... Aah, damn--, alright I'm doing it...!”

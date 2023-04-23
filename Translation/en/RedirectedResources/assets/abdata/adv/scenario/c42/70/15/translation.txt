@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「覗きなんてダメなんだよー？　見つけたのが私だから良いけど……。それで、キミはこれからどうするつもりかなー？」=
+「覗きなんてダメなんだよー？　見つけたのが私だから良いけど……。それで、キミはこれからどうするつもりかなー？」=“You really shouldn't peep, you know? It's fine since I was the one who caught you, though... So then, what do you plan on doing next~?”

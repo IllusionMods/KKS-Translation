@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ちょっとお土産を見てみない？」=
-//「見てみて、ちんすこうだよー。定番のお菓子と言ったら絶対にこれだよねっ」=
-//「お土産で買うならこれ！　ってくらい、定番中の定番だね」=
-//「[H名]はそれを買うの？」=
-//「うーん、どうしよう？　迷ってるんだよねー」=
-//「ほら、オーソドックスな味は当然だけど、色んな味が売ってるの」=
-//「へぇ……結構な変わり種な味も売ってるんだねぇ」=
-//「正直、ちんすこうの味だって考えると、ちょっと想像がつかない部分もあるけど……」=
-//「うん。ゴーヤー味とか、お土産で買うのはちょっとした冒険になっちゃいそうだもんねぇ」=
-//「ゴーヤー自体は美味しいけど、あの苦みはちんすこうに合うのかなぁ…？」=
-//「ちょっと想像がつかないね……。ここは冒険せずに、オーソドックスな味だけにしてみたらどうかな？」=
-//「うーん……もちろんそれが無難だけど、それだとなんか負けな気がする……」=
-//「よし決めた！　お土産用じゃなくて、自分で食べるように１つ買ってみることにする！」=
-//「は、はは……チャレンジャーだね、[H名]は……」=
+「ちょっとお土産を見てみない？」=“Wanna go look at souvenirs for a bit?”
+「見てみて、ちんすこうだよー。定番のお菓子と言ったら絶対にこれだよねっ」=“Look look, it's Okinawan cookies~. As far as souvenirs go, you can't go wrong with these--”
+「お土産で買うならこれ！　ってくらい、定番中の定番だね」=“Yeah, the standard of standards as far as souvenirs go, isn't it?”
+「[H名]はそれを買うの？」=“Gonna go with that then?”
+「うーん、どうしよう？　迷ってるんだよねー」=“Nnnn, I dunno. I can't decide~”
+「ほら、オーソドックスな味は当然だけど、色んな味が売ってるの」=“I mean, the orthodox flavours are obviously here but, they've got all sorts of them really.”
+「へぇ……結構な変わり種な味も売ってるんだねぇ」=“Hoh... quite some real radical stuff in here too~”
+「正直、ちんすこうの味だって考えると、ちょっと想像がつかない部分もあるけど……」=“Honestly, some of these I can't even imagine what they'd taste like, as cookies...”
+「うん。ゴーヤー味とか、お土産で買うのはちょっとした冒険になっちゃいそうだもんねぇ」=“Yep. Like the bitter gourd and stuff, I bet that'd make for an adventurous souvenir~”
+「ゴーヤー自体は美味しいけど、あの苦みはちんすこうに合うのかなぁ…？」=“Bitter gourds themselves taste great but, would that bitter base really work for a cookie...?”
+「ちょっと想像がつかないね……。ここは冒険せずに、オーソドックスな味だけにしてみたらどうかな？」=“It's hard to even imagine, isn't it... How about just sticking to the orthodox stuff and leaving the adventure for someone else?”
+「うーん……もちろんそれが無難だけど、それだとなんか負けな気がする……」=“Nnn... that would be the safe choice, but I feel like I'm losing somehow...”
+「よし決めた！　お土産用じゃなくて、自分で食べるように１つ買ってみることにする！」=“Alright, I've decided! I'll buy one set for myself rather than as a souvenir!”
+「は、はは……チャレンジャーだね、[H名]は……」=“H-Hahah... quite the challenger, aren't you...”
