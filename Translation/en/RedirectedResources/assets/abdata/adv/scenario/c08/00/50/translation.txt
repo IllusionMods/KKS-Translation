@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ポーク玉子のおにぎり美味しい～♪　何個でも食べられるかも」=
-//「お手頃価格で量がけっこうあるから、俺も軽食によく食べてるよ」=
-//「一番好きなおにぎりの具が変わっちゃいそうだよぉ」=
-//「ずいぶん気に入ったみたいだね。でも、そんなに食べて大丈夫？　スイーツが入らなくなっちゃうよ」=
-//「う……で、デザートは……諦めることにするね」=
-//（[H名]がスイーツよりおにぎりを取るとは……本当に好きなんだな）=
+「ポーク玉子のおにぎり美味しい～♪　何個でも食べられるかも」=“These pork and egg riceballs are amazing~♪ I could eat tons of them I think.”
+「お手頃価格で量がけっこうあるから、俺も軽食によく食べてるよ」=“And they're darn cheap for how big they are, I end up getting them too just as a light snack.”
+「一番好きなおにぎりの具が変わっちゃいそうだよぉ」=“I feel like my favourite rice ball filling's gonna change at this rate~”
+「ずいぶん気に入ったみたいだね。でも、そんなに食べて大丈夫？　スイーツが入らなくなっちゃうよ」=“You really like it that much, huh? You sure you should be eating that much though? You won't be able to get any dessert at this rate.”
+「う……で、デザートは……諦めることにするね」=“Uu... I-I'll... give up on dessert for today.”
+（[H名]がスイーツよりおにぎりを取るとは……本当に好きなんだな）=(I can't believe she picked the rice balls over sweets... she must really love them.)

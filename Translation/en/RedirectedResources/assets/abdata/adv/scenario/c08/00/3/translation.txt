@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]……ありがとう、嬉しいよ」=
-//「俺も前から[H名]のことが気になっててさ、いつか告白しようと思ってたんだ」=
-//「へっ？　あなたも、私のことが好きだったの……？」=
-//「うん、好きだよ。だから……俺たち付き合おう！」=
-//「……幸せ過ぎて、なんだか夢を見てるみたい」=
-//「でも、夢じゃないんだもんね。えへへ、やったぁ！　ずっと仲良しでいようね！」=
+「[H名]……ありがとう、嬉しいよ」=“[H]... thank you, you don't know how happy that makes me.”
+「俺も前から[H名]のことが気になっててさ、いつか告白しようと思ってたんだ」=“You've been on my mind for the longest time too, so I was thinking of confessing to you myself one of these days.”
+「へっ？　あなたも、私のことが好きだったの……？」=“Heh? You, loved me this whole time too...?”
+「うん、好きだよ。だから……俺たち付き合おう！」=“Yeah, I love you. That's why... let's go out together!”
+「……幸せ過ぎて、なんだか夢を見てるみたい」=“...I'm so happy, this feels like a dream.”
+「でも、夢じゃないんだもんね。えへへ、やったぁ！　ずっと仲良しでいようね！」=“But, it's not, is it~? Eheheh, yay~! Let's never fight, okay?”
