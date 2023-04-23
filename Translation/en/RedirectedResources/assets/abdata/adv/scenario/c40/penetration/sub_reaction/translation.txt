@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「くっ、不覚だ……いくら情事の最中とはいえ、覗かれていることに気付けなかったとは……」=
+「くっ、不覚だ……いくら情事の最中とはいえ、覗かれていることに気付けなかったとは……」=“Kuh--, what a blunder... even if we were in the midst of our tryst, to think you'd escape my notice...”

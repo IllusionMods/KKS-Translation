@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「折角二人でいるんだし、カップルドリンクを飲んでみようよ」=
-//「[H名]、ほんとに飲んだ？　全然減ってなくない？」=
-//「の、飲んだぞ……貴殿の顔をしっかり見ながら、もうバッチリ飲んだとも」=
-//「じゃあ、どんな味だった？」=
-//「なっ、味か？　うーむ、トロピカルな味だったな？　異国情緒溢れるというか……うん、とにかく美味しかった！」=
-//「[H名]……嘘ついてるのバレバレだよ？」=
-//「ぐ……すまない。正直なところ、貴殿の顔を目の前にしたら飲むどころではなくなってしまって……」=
-//「やっぱりね。でもカップルドリンクなんだから、ちゃんと二人で飲みたいな」=
-//「お、怒ってはいないのか？　貴殿の剣などと言っておきながら嘘をつくなんてと……呆れてはいないのか？」=
-//「怒ってもないし、呆れてもないよ。次は一緒に飲んでくれたら嬉しいなーとは思ってるけど」=
-//「分かった。ならば我は、その信頼に全力で応えよう！」=
-//「カップルドリンクごとき何を恐れるものぞ！　さっきのは我はどうかしていた、次は一撃で仕留めてみせる！」=
-//「はは、気合が入ってるのはいいけど、カップルドリンクは敵じゃないよ？」=
-//「むしろ俺達の愛を深めてくれる味方なんだから、戦う感じは抑えて普通に可愛く飲んで欲しいな」=
-//「むぅ、そうやって貴殿はいつも我に難題をもちかける。普通に可愛くと言われても、どうすればいいか……」=
-//「だったらちょっと極端なくらいが丁度いいんじゃない？　『愛してる、チュー♪』とか言いながら飲むとか？」=
-//「っく、ぅう……ぁ、愛してるぞ……ちゅー♪」=
+「折角二人でいるんだし、カップルドリンクを飲んでみようよ」=“We're here together as a couple so, let's order a couples' drink too.”
+「[H名]、ほんとに飲んだ？　全然減ってなくない？」=“[H], did you really drink any? Isn't it the same level as before?”
+「の、飲んだぞ……貴殿の顔をしっかり見ながら、もうバッチリ飲んだとも」=“I-I did drink... I drank a whole gulp, while staring at your face.”
+「じゃあ、どんな味だった？」=“Then, what did it taste like?”
+「なっ、味か？　うーむ、トロピカルな味だったな？　異国情緒溢れるというか……うん、とにかく美味しかった！」=“Wha--, the taste? Uumuh, a bit tropical, I suppose? Positively overflowing with exoticness, really... yep, it was delicious!”
+「[H名]……嘘ついてるのバレバレだよ？」=“[H]... even a bystander could tell that's a lie, you know?”
+「ぐ……すまない。正直なところ、貴殿の顔を目の前にしたら飲むどころではなくなってしまって……」=“Guh... apologies. If I were being honest, I simply could not bring myself to do it, with your face so close to mine...”
+「やっぱりね。でもカップルドリンクなんだから、ちゃんと二人で飲みたいな」=“I knew it. But it's a couples' drink so, I'd rather we drank it together.”
+「お、怒ってはいないのか？　貴殿の剣などと言っておきながら嘘をつくなんてと……呆れてはいないのか？」=“A-Are you not angry? I talked big, calling myself your sword and all, but I ended up lying to you... are you not fed up of me?”
+「怒ってもないし、呆れてもないよ。次は一緒に飲んでくれたら嬉しいなーとは思ってるけど」=“I'm not angry, and I'm not fed up either. It would make me pretty happy if you gulped some down together with me though.”
+「分かった。ならば我は、その信頼に全力で応えよう！」=“Got it. I shall answer to that trust you have in me with my entire being then!”
+「カップルドリンクごとき何を恐れるものぞ！　さっきのは我はどうかしていた、次は一撃で仕留めてみせる！」=“What's there to fear, in this meagre couples' drink?! Something was clearly wrong with me earlier, this time I shall take it down in a single blow!”
+「はは、気合が入ってるのはいいけど、カップルドリンクは敵じゃないよ？」=“Hahah, it's good that you're into it now but, the drink's not your enemy, you know?”
+「むしろ俺達の愛を深めてくれる味方なんだから、戦う感じは抑えて普通に可愛く飲んで欲しいな」=“If anything, it's an ally helping us deepen our relationship, so I'd rather you restrained that fighter side of you a bit and just drank it with me normally and cutely.”
+「むぅ、そうやって貴殿はいつも我に難題をもちかける。普通に可愛くと言われても、どうすればいいか……」=“Muh, you always pose such challenges in front of me. Even if you tell me to do it "normally" and "cutely", I don't exactly...”
+「だったらちょっと極端なくらいが丁度いいんじゃない？　『愛してる、チュー♪』とか言いながら飲むとか？」=“Then how about taking it to an extreme? Like if you maybe drank it while going "I love you, *kiss*~♪"?”
+「っく、ぅう……ぁ、愛してるぞ……ちゅー♪」=“Kuh--, uuu... I--, I love you... *kiss*~♪”

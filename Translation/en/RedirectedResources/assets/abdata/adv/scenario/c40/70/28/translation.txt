@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「その、なんだ……我を自室に招いたということは……貴殿はそういうことをしたいと思っているのか？」=
-//「別に嫌とかではないのだぞ？　貴殿に求められるのは、我にとっても喜ばしいことだからな……」=
-//「だから、何も遠慮することは無い。ここは貴殿の部屋なのだしな……我もとことん付き合おう……」=
+「その、なんだ……我を自室に招いたということは……貴殿はそういうことをしたいと思っているのか？」=“Erm, so... the fact that you have brought me here... do you wish to do things such as that?”
+「別に嫌とかではないのだぞ？　貴殿に求められるのは、我にとっても喜ばしいことだからな……」=“It's not as if I am against it, you know? Being wanted by you, is naught but bliss to me...”
+「だから、何も遠慮することは無い。ここは貴殿の部屋なのだしな……我もとことん付き合おう……」=“Thusly, do not hold back. This is your room, afterall... I shall keep you company the whole time as well...”

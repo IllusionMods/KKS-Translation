@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「む……ようやく起きたか。眠りの呪いでもかけられたかと心配して、目覚めのキスが必要かと考えていたところだ……」=
-//「ふふ、貴殿の寝顔は最高に可愛かったからな……お姫様扱いをしてもおかしくはなかろう？」=
+「む……ようやく起きたか。眠りの呪いでもかけられたかと心配して、目覚めのキスが必要かと考えていたところだ……」=“Muh... finally awake, are you. For a moment, I was worried that perhaps you were under a sleeping curse, and were in need of a wake up kiss...”
+「ふふ、貴殿の寝顔は最高に可愛かったからな……お姫様扱いをしてもおかしくはなかろう？」=“Fufuh, your sleeping was truly adorable, you see... worthy of such princess treatment, I'd say.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「こういう落ち着いた場所で食事するって、なんかいいね」=
-//「ああ、貴殿と二人というのがまたいいな。腹だけでなく、心まで満たされるようだ」=
-//「はは、[H名]ってたまに詩人だよね」=
-//「んなっ、仕方ないだろう……武骨なだけでは貴殿に嫌われないかと、色々学んでいる最中なんだ」=
-//「へぇ、乙女ちっくな詩とかを読んでたりするの？　俺も読んでみたいな」=
-//「むぅぅ……今すぐそのニヤニヤ顔をやめるんだ！　でないと苦いゴーヤを口に突っ込むぞ！」=
+「こういう落ち着いた場所で食事するって、なんかいいね」=“Eating in such a calm place like this is, kinda nice, isn't it?”
+「ああ、貴殿と二人というのがまたいいな。腹だけでなく、心まで満たされるようだ」=“Aah, especially the fact that we're doing it together. I can feel not only my stomach, but my heart filling up as well.”
+「はは、[H名]ってたまに詩人だよね」=“Hahah, you're really poetic sometimes, you know that?”
+「んなっ、仕方ないだろう……武骨なだけでは貴殿に嫌われないかと、色々学んでいる最中なんだ」=“Wwha--, I cannot help it--... I have been studying up on many things lately, as I do not wish for you to come to hate my boorish self.”
+「へぇ、乙女ちっくな詩とかを読んでたりするの？　俺も読んでみたいな」=“Hoh, and you read girly poems to do that? I wanna try reading some of those too.”
+「むぅぅ……今すぐそのニヤニヤ顔をやめるんだ！　でないと苦いゴーヤを口に突っ込むぞ！」=“Muuh... you will wipe that grin of your face right now! Else I shall stuff a bitter gourd down your mouth!”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「なかなか良い体験になったな。一人では腰が重いことでも、二人なら色々と楽しめそうだ」=
+「なかなか良い体験になったな。一人では腰が重いことでも、二人なら色々と楽しめそうだ」=“That made for quite the experience. Even if it's something annoying and tiresome, it's quite enjoyable to do it with someone.”

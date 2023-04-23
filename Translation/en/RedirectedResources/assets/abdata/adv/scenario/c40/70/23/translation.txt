@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「待て、自分だけ満足したら終了か？　違うよな？　貴殿はそんな不甲斐ない男では無い筈だ」=
+「待て、自分だけ満足したら終了か？　違うよな？　貴殿はそんな不甲斐ない男では無い筈だ」=“Wait, are you happy as long as just you yourself are satisfied? You cannot possibly be, right? You cannot possibly be such a disappointing man.”
