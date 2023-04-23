@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねえ、オイル塗ろうか？　ほら、ここにあるし」=
-//「ええ香りやなぁ。たこ焼きかな？　それともオムそばかも……」=
-//「……いや、全然違うでしょ。ハーブみたいな香りがしてるし」=
-//「冗談や～ん。ほな、お願いしよっかな」=
+「ねえ、オイル塗ろうか？　ほら、ここにあるし」=“Hey, want me to put oil on you? Look, they've got some here.”
+「ええ香りやなぁ。たこ焼きかな？　それともオムそばかも……」=“Smells real nice, that~. Is it takoyaki? No, maybe egg noodles...”
+「……いや、全然違うでしょ。ハーブみたいな香りがしてるし」=“...Like hell, dummy. It smells like herbs and nothing else.”
+「冗談や～ん。ほな、お願いしよっかな」=“It's a joke~. C'mon, put it on me, will you?”

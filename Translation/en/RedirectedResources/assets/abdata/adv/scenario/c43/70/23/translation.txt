@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「あの、別に怒ったり、不満に思ったりしとるわけちゃうねんけどさぁ……ウチ、イカれへんかってん……そこちょっと、残念やったな」=
+「あの、別に怒ったり、不満に思ったりしとるわけちゃうねんけどさぁ……ウチ、イカれへんかってん……そこちょっと、残念やったな」=“Uhm, it's not like I'm angry or, dissatisfied or anythin' but like~... I still ain't cum... that's a bit, of a shame, ya know?”

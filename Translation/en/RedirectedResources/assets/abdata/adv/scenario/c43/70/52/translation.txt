@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「あ～、めっちゃ食うてもうたなぁ……なんか、自分の顔見とったら妙に美味しく感じるねん。不思議なこっちゃで」=
+「あ～、めっちゃ食うてもうたなぁ……なんか、自分の顔見とったら妙に美味しく感じるねん。不思議なこっちゃで」=“Ah~, I'm stuffed~... man, I started lookin' at yer face halfway through and it started tastin' a whole lot better. What a mystery.”

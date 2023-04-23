@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「は～～……なんか楽しかったなぁ～。今回のこれ、最高の思い出になりそうやわ」=
+「は～～……なんか楽しかったなぁ～。今回のこれ、最高の思い出になりそうやわ」=“Hah~~... that was kinda fun~. Bet I'mma remember this my whole life.”

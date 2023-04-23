@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「うわぁぁ、ヤバかったー……めっちゃええやん、これ……クセになってまいそう……ともかく、仲間に入れてくれておおきにやで」=
+「うわぁぁ、ヤバかったー……めっちゃええやん、これ……クセになってまいそう……ともかく、仲間に入れてくれておおきにやで」=“Uwaah, that was somethin'~... this stuff is so nice... feels like I'mma get addicted... anyways, thanks fer lettin' me join in.”
