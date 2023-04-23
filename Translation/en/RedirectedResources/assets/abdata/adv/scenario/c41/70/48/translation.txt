@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「わあ、メニューを見てるだけで、お腹がぐーぐー鳴っちゃいそう。何にしようかな、刺身定食も捨てがたいけど海鮮丼もいいよね」=
-//「あ、女性専用のレディースセットなんてのもあるよ。値段もお手ごろだし、だね」=
-//「玄米の小海鮮丼とお吸い物のセットかぁ……丼はアボカドとカットトマトが具だくさんでカロリー控えめ……うーん」=
-//「これもいいけど、海鮮丼はやっぱり白米で食べたくない？　ボク、こっちの海鮮こぼれ盛り定食にするよ」=
-//（美容に興味がないわけじゃないんだろうけど、なんだか勇ましいチョイスだな。でも、[H名]とは気が合いそうな気がするぞ）=
+「わあ、メニューを見てるだけで、お腹がぐーぐー鳴っちゃいそう。何にしようかな、刺身定食も捨てがたいけど海鮮丼もいいよね」=“Wah, I feel like my belly's gonna start growling just from the images. What do I go with, the sashimi set is too good to pass up on but the seafood rice bowl sounds nice too, you know?”
+「あ、女性専用のレディースセットなんてのもあるよ。値段もお手ごろだし、だね」=“Ah, seems like there's a women only ladies' set too. Pretty reasonably priced too.”
+「玄米の小海鮮丼とお吸い物のセットかぁ……丼はアボカドとカットトマトが具だくさんでカロリー控えめ……うーん」=“A set of a small seafood rice bowl with brown rice and soup, huh... and the rice bowl's loaded with avocado and chopped tomatoes, making it pretty low calorie... Nnnn.”
+「これもいいけど、海鮮丼はやっぱり白米で食べたくない？　ボク、こっちの海鮮こぼれ盛り定食にするよ」=“That sounds nice too but, a seafood rice bowl with white rice sounds better, no? I'm gonna go with this overloaded seafood set myself.”
+（美容に興味がないわけじゃないんだろうけど、なんだか勇ましいチョイスだな。でも、[H名]とは気が合いそうな気がするぞ）=(I mean, I imagine she still cares about her figure but, that's a pretty brave choice, all things considered. But I feel like that just fits her image too.)

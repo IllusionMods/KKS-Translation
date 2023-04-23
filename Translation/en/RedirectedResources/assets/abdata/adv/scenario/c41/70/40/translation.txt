@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ちょっと照れちゃったけど、いい思い出になったね。その……またふたりで来れたらいいね？」=
+「ちょっと照れちゃったけど、いい思い出になったね。その……またふたりで来れたらいいね？」=“I started blushing there for a bit but, that made for some good memories, didn't it. I uhm... it'd be nice if we could do this again, huh?”

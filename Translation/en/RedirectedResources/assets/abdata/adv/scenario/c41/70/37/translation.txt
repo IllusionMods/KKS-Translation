@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「わぁ……！　写真で見た通りのマングローブだ、すごいね」=
-//「大自然って感じだよね……あ、見て見て、カップルカヤックに乗れるらしいよ」=
-//「えっ……！　で、でもボクたち、まだカップルじゃないけど……」=
-//「え？　ああ、ごめん。このカップルってふたり乗りって意味だと思うけど」=
-//「あっ、そ、そうだよね？　ごめんボク何言ってるんだろうね。あ、あはは、えっと……とりあえず乗ろうよ。カヤック乗ってみたかったんだ」=
-//「う、うん」=
-//（気まずい……というか、さっき[H名]が『まだ』カップルじゃないって言った気がするんだけど、意識はしてくれてる、のかな……？）=
+「わぁ……！　写真で見た通りのマングローブだ、すごいね」=“Wah...! The mangroves look exactly like they do in pictures, amazing.”
+「大自然って感じだよね……あ、見て見て、カップルカヤックに乗れるらしいよ」=“Almost looks like untamed wilderness, doesn't it... ah, look over there, seems like we can ride in a couples' kayak.”
+「えっ……！　で、でもボクたち、まだカップルじゃないけど……」=“Eh--...! B-but, we aren't a couple yet...”
+「え？　ああ、ごめん。このカップルってふたり乗りって意味だと思うけど」=“Eh? Aah, sorry. I'm pretty sure it's just a way of saying two people rather than lovers only, really.”
+「あっ、そ、そうだよね？　ごめんボク何言ってるんだろうね。あ、あはは、えっと……とりあえず乗ろうよ。カヤック乗ってみたかったんだ」=“Ah--, r-right, of course. Sorry, what the heck am I even saying. A-Ahaha, erhm... let's just ride them. I've always wanted to try riding a kayak.”
+「う、うん」=“O-Okay.”
+（気まずい……というか、さっき[H名]が『まだ』カップルじゃないって言った気がするんだけど、意識はしてくれてる、のかな……？）=(That was awkward... heck, didn't she say "yet" there? She did, didn't she? Is it something she, thinks about...?)

@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「[H名]は俺のことをよくわかってくれてるよね？」=
-//「え、急にどうしたの？　改めてそう聞かれると不安だけど、わかりたいっていう気持ちはあるよ」=
-//「その気持ちがあれば十分だよ。つまり、俺のことを[Pあだ名]って呼んでみてくれない？」=
-//「キミのことを……？　えっと、理由は聞いちゃ駄目？」=
-//「駄目じゃないよ。[H名]に呼ばれると興ふ……ドキドキすると思って」=
-//「たしかにボクってキミのことをよくわかってるかも。ヒントをくれたからキミの狙いがわかっちゃった」=
+「[H名]は俺のことをよくわかってくれてるよね？」=“You understand me pretty well by now, don't you, [H]?”
+「え、急にどうしたの？　改めてそう聞かれると不安だけど、わかりたいっていう気持ちはあるよ」=“Eh, what's up, all of a sudden? Being asked that so suddenly makes me feel a bit on edge, but I really do want to understand you, that much is true.”
+「その気持ちがあれば十分だよ。つまり、俺のことを[Pあだ名]って呼んでみてくれない？」=“That's more than enough. Basically, won't you call me [Pあだ名]?”
+「キミのことを……？　えっと、理由は聞いちゃ駄目？」=“Call you that...? Erhm, could I ask why maybe?”
+「駄目じゃないよ。[H名]に呼ばれると興ふ……ドキドキすると思って」=“Sure you can. I was just thinking that if it'd probably ar--... make my heart pound a lot, if you called me that.”
+「たしかにボクってキミのことをよくわかってるかも。ヒントをくれたからキミの狙いがわかっちゃった」=“I really might understand you pretty well. You gave me a hint so I get what you're trying to go for.”
 「じゃあ……」=“Then...”
-//「うん、ちょっと恥ずかしいけど、キミがボクに求めてくれるなら……[Pあだ名]」=
-//「おぉ、感激だ！　ありがとう、[Hあだ名]！」=
-//「も、もう……キミのこと、愛称？　で呼ぶのも恥ずかしいのに、ボクのことあだ名で呼ぶのは反則だよ」=
-//「あ、嫌だった？」=
-//「その逆。嬉しいけど……その、胸がキュンとするよりお腹がふわってなるっていうか……変な感じだよ」=
-//「嫌じゃないならよかったけど、それは気が気じゃないね。こんな風に呼び合うのはたまににしよう」=
+「うん、ちょっと恥ずかしいけど、キミがボクに求めてくれるなら……[Pあだ名]」=“Yep, it's a bit embarrassing but, you're the one who's asking so... [Pあだ名].”
+「おぉ、感激だ！　ありがとう、[Hあだ名]！」=“Ooh, so good! Thanks, [Hあだ名]!”
+「も、もう……キミのこと、愛称？　で呼ぶのも恥ずかしいのに、ボクのことあだ名で呼ぶのは反則だよ」=“J-Jeez... just calling you by that, nickname I guess? Is embarrassing enough on its own, doing that right after is unfair.”
+「あ、嫌だった？」=“Ah, you didn't like it?”
+「その逆。嬉しいけど……その、胸がキュンとするよりお腹がふわってなるっていうか……変な感じだよ」=“It's the opposite. It made me really happy but... it uhm, rather than making my heart pound, I feel bottom of my belly suddenly feeling... weird.”
+「嫌じゃないならよかったけど、それは気が気じゃないね。こんな風に呼び合うのはたまににしよう」=“I'm glad you don't hate, but we certainly can't have you feeling that way all the time. Let's just call each other this way only sometimes.”

@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「お土産を売ってる所っていっぱいあるけど、場所によってラインナップが全然違うから飽きないよね」=
-//「本当にそうだよね。あ、見て見て、この剣なんてさっき見た場所にはなかったよ。宝石が散りばめてあって格好いいなぁ」=
-//「え、この剣のキーホルダー？　いや普通にわかるけど、[H名]はこっちの髪飾りとかの方が興味あるかと思ったよ」=
-//「あ、この髪飾りも女の子っぽくて可愛いね。うーん……でも……やっぱりこっちの剣の方が目が行っちゃうんだよね」=
-//「ちょうど赤い宝石の剣と青い宝石の剣の２種類あるし、よかったら一緒に観光した記念に買う？　好きな方選んでいいよ」=
-//「えっ、買う買う！　赤と青……う～～ん……すごく悩むけど、あーでも……青！　青い宝石の剣にする！　選ばせてくれてありがとう！」=
-//「あはは、喜んでもらえてよかったよ。じゃあレジに行こうか」=
-//（髪飾りより剣の方が好きなんて、ちょっと変わってるなぁ。でも、[H名]がちょっとだけ身近に感じられるようになったかも……）=
+「お土産を売ってる所っていっぱいあるけど、場所によってラインナップが全然違うから飽きないよね」=“There's a whole lot of souvenir shops in this place but, the lineup is different in each one so it never gets old, does it?”
+「本当にそうだよね。あ、見て見て、この剣なんてさっき見た場所にはなかったよ。宝石が散りばめてあって格好いいなぁ」=“It really doesn't. Ah, look look, the other place didn't have this sword. It looks so cool with that gem studded in it~”
+「え、この剣のキーホルダー？　いや普通にわかるけど、[H名]はこっちの髪飾りとかの方が興味あるかと思ったよ」=“Eh, this sword keychain? I mean I get it but, I really thought you'd prefer something like this hairclip here.”
+「あ、この髪飾りも女の子っぽくて可愛いね。うーん……でも……やっぱりこっちの剣の方が目が行っちゃうんだよね」=“Ah, that hairclip is really girly and cute too. Nnn... but... I just can't help but be drawn to this sword instead.”
+「ちょうど赤い宝石の剣と青い宝石の剣の２種類あるし、よかったら一緒に観光した記念に買う？　好きな方選んでいいよ」=“They do have one with a red gem and one with a blue one, so wanna buy them together as a little keepsake of this trip? You can pick whichever.”
+「えっ、買う買う！　赤と青……う～～ん……すごく悩むけど、あーでも……青！　青い宝石の剣にする！　選ばせてくれてありがとう！」=“Eh--, I wanna I wanna! Red or blue... nnnnn~... I dunno, maybe, oh but... blue! I want the blue one! Thanks for letting me pick!”
+「あはは、喜んでもらえてよかったよ。じゃあレジに行こうか」=“Ahahah, as long as you're happy. Let's go get this billed then.”
+（髪飾りより剣の方が好きなんて、ちょっと変わってるなぁ。でも、[H名]がちょっとだけ身近に感じられるようになったかも……）=(She's pretty quirky, preferring things like these over that hairclip. But, I feel like grew closer together, just a bit, from that...)

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ボクたちがしてるところ、いつから見てたの？　あ、責めてるわけじゃないよ？」=
+「ボクたちがしてるところ、いつから見てたの？　あ、責めてるわけじゃないよ？」=“Since when have you been watching us, going at it? Ah, it's not like I'm accusing you of anything, okay?”

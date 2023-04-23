@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「全身に塗った方がいいと思うし、今度はお腹側も塗っていこうか」=
-//「なんだか目つきが怪しいなぁ。オイルを塗りたいのはお腹だけ？」=
-//「…………できればお腹以外にも」=
-//「もう、だと思った。でもキミだったら構わないし、お願いしようかな」=
-//「……！　ま、任せてよ」=
+「全身に塗った方がいいと思うし、今度はお腹側も塗っていこうか」=“It'd be better to get as much of you covered in it as possible, so how about we do your belly too, today.”
+「なんだか目つきが怪しいなぁ。オイルを塗りたいのはお腹だけ？」=“Somehow that gaze feels dubious~. Are you sure my belly's the only place you wanna rub it on?”
+「…………できればお腹以外にも」=“...If possible, I'd like to do other parts too.”
+「もう、だと思った。でもキミだったら構わないし、お願いしようかな」=“Dummy, I knew it. But I don't mind if it's you so, could you, please?”
+「……！　ま、任せてよ」=“...! L-Leave it to me.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「……もういいの？　だってキミ、まだ……あ、もしかして熱中症？　お水持ってこようか？　気分が悪いなら無理しないで休んでね」=
+「……もういいの？　だってキミ、まだ……あ、もしかして熱中症？　お水持ってこようか？　気分が悪いなら無理しないで休んでね」=“...You sure? I mean, you still, haven't... ah, is it heatstroke? Want me to get you some water? If you don't feel good, don't force yourself and rest up, okay?”
