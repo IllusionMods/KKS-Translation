@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ……なんか、凄い事をしてしまった気分さー。まだ頭が、ぽわーんてしてるよー」=
+「はぁ……なんか、凄い事をしてしまった気分さー。まだ頭が、ぽわーんてしてるよー」=“Haah... I feel like, we just did something amazing~. My head still, feels all floof~”
