@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ホテルで食事できるなんて、なかなか気が利いてるよね」=
-//「そうですね。他の子たちも、結構利用してるみたいですし」=
-//「何より、どの料理を食べても美味しいって言うのが最高だね」=
-//「はい。これならハズレはないですから、私も安心して食べられます」=
+「ホテルで食事できるなんて、なかなか気が利いてるよね」=“To think this hotel also has a restaurant open to the public, the management's pretty sensible.”
+「そうですね。他の子たちも、結構利用してるみたいですし」=“Indeed. I do believe the other girls come here a lot too.”
+「何より、どの料理を食べても美味しいって言うのが最高だね」=“And more than anything else, every single dish tastes so good, it's just great.”
+「はい。これならハズレはないですから、私も安心して食べられます」=“Yes. You simply cannot go wrong here, so I can eat quite comfortably as well.”
