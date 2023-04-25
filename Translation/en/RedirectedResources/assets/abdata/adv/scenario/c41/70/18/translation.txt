@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「こんなこと言ったらはしたないかもしれないけど、ボクとキミって身体の相性がよすぎるんじゃないかな。びっくりするぐらい気持ちいいもん」=
+「こんなこと言ったらはしたないかもしれないけど、ボクとキミって身体の相性がよすぎるんじゃないかな。びっくりするぐらい気持ちいいもん」=“This might be a bit of a vulgar thing to say but, don't you think our bodies are just too compatible? I mean, it feels startlingly good.”

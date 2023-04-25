@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「あのさ、実は[H名]とエッチがしたくて部屋に誘ったんだ。してもいいかな？」=
-//「ふふ、ボクとエッチしたいんだ。キミならなんとなくそう言ってくるかなって思ってたから、予想が的中しちゃった」=
-//「あ、しちゃったっていうのは悪い意味じゃなくて……ちょっと、照れが出ちゃって……ごめん、深呼吸させて……すー……はー……」=
-//「準備、できたよ。キミのお部屋なんだから、遠慮とかしなくていいんだからね……って、ボク変なこと言ってるね、緊張してるから許して……」=
+「あのさ、実は[H名]とエッチがしたくて部屋に誘ったんだ。してもいいかな？」=“Hey, listen. The truth is, I invited you here since I wanted to have sex. Could we?”
+「ふふ、ボクとエッチしたいんだ。キミならなんとなくそう言ってくるかなって思ってたから、予想が的中しちゃった」=“Fufuh, you want to have sex with me. I just had a feeling that's what it was so, really I was expecting it.”
+「あ、しちゃったっていうのは悪い意味じゃなくて……ちょっと、照れが出ちゃって……ごめん、深呼吸させて……すー……はー……」=“Ah, not to say that I don't like that or anything... now I'm blushing... sorry, let me take a breather... *inhale*... *exhale*...”
+「準備、できたよ。キミのお部屋なんだから、遠慮とかしなくていいんだからね……って、ボク変なこと言ってるね、緊張してるから許して……」=“Okay, I'm ready now. We're in your room so, you don't need to hold back at all today, okay?... Wuh, I'm saying weird stuff, I'm sorry, I'm just nervous...”

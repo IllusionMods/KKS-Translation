@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「わっ！？　えっ……えぇっ、キミ、なんでっ！？　わぁ～～だめっ、お願い見ないでっ……！」=
+「わっ！？　えっ……えぇっ、キミ、なんでっ！？　わぁ～～だめっ、お願い見ないでっ……！」=“Wah--!? EH--... eeeh--, why are, you--!? Waah~~, don't--, please don't look--...!”

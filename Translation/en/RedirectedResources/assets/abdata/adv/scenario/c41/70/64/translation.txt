@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「キミにいっぱい塗ってもらえてドキドキしちゃった、またお願いしてもいいかな」=
-//「キミの気持ちが手から伝わってきたよ、ふふふ」=
-//「キミのおかげでちょっと気持ち良くなれたよ、ありがとう」=
-//「もしかして緊張しちゃった？　キミも可愛いところがあるんだね」=
+「キミにいっぱい塗ってもらえてドキドキしちゃった、またお願いしてもいいかな」=“That made my heart pound a ton, would you mind if I ask you to do that again for me some time?”
+「キミの気持ちが手から伝わってきたよ、ふふふ」=“I could feel your feelings through your hands, fufufuh~”
+「キミのおかげでちょっと気持ち良くなれたよ、ありがとう」=“Thanks to you, that felt a bit nice, thanks.”
+「もしかして緊張しちゃった？　キミも可愛いところがあるんだね」=“Did you get nervous midway? You've got your cute sides too, huh?”

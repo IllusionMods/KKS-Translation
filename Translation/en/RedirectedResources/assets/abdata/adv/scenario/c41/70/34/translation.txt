@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「キミといると本当に楽しくて、時間を忘れちゃうんだよね。また時間のあるときにふたりで島を回れたら嬉しいな」=
+「キミといると本当に楽しくて、時間を忘れちゃうんだよね。また時間のあるときにふたりで島を回れたら嬉しいな」=“When I'm with you, I have so much fun, I just forget the time, you know? I hope we can see more of the island when we both have some time, that'd make me really happy.”

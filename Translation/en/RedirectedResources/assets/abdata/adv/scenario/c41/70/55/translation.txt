@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねえ、キミさえよかったらなんだけど、二人だけのあだ名を考えない？」=
-//「二人だけのって、なんだか恋人らしいね。いいよ。でも、どうしようかな」=
-//「ボク、いろいろ考えてきたんだよ。でも、その中でも一番ドキドキする呼び方があって……」=
-//「発表してもらってもいい？」=
-//「うん。あ、嫌だったら正直に言ってくれていいからね？」=
-//「[H名]が一生懸命考えてくれたんだから、嫌なわけないよ。さっそく呼んでみてくれる？」=
-//「う、うん……ねえ、[Pあだ名]」=
-//「何？」=
-//「わぁ……嬉しいけど、ちょっと照れちゃう。あ、そうだ、キミもボクにつけてくれる？」=
-//「じゃあ…………[Hあだ名]っていうのはどう？」=
-//「わ、そのあだ名で呼ばれたことあるけど、キミに呼ばれると全然違う。なんていうか、特別な感じがするよ」=
-//「あはは、そうだよね。特別な感じもするし、普通にちょっと照れくさいから、少しずつ慣れていこうか」=
+「ねえ、キミさえよかったらなんだけど、二人だけのあだ名を考えない？」=“Hey, if it's okay with you, could we think of nicknames for one another? Just for us to use.”
+「二人だけのって、なんだか恋人らしいね。いいよ。でも、どうしようかな」=“Just for us to use, huh? That sounds pretty lovey-dovey. Sure, but, what do we go with?”
+「ボク、いろいろ考えてきたんだよ。でも、その中でも一番ドキドキする呼び方があって……」=“I thought of a whole lot for you. But there's one in particular that makes my heart pound...”
+「発表してもらってもいい？」=“Could you tell me what that is?”
+「うん。あ、嫌だったら正直に言ってくれていいからね？」=“Sure. Ah, if you don't like it, you can just tell me, okay?”
+「[H名]が一生懸命考えてくれたんだから、嫌なわけないよ。さっそく呼んでみてくれる？」=“You thought so hard to come up with it, [H], there's no way I wouldn't like it. Could you call me it?”
+「う、うん……ねえ、[Pあだ名]」=“O-Okay... hey, [Pあだ名].”
+「何？」=“What is it?”
+「わぁ……嬉しいけど、ちょっと照れちゃう。あ、そうだ、キミもボクにつけてくれる？」=“Wah~... I'm really happy but, also a bit embarrassed. Ah, right, will you give me one too?”
+「じゃあ…………[Hあだ名]っていうのはどう？」=“Alright, then... how's [Hあだ名]?”
+「わ、そのあだ名で呼ばれたことあるけど、キミに呼ばれると全然違う。なんていうか、特別な感じがするよ」=“Wah, I've been called that before but, it feels completely different when it's from your mouth. It just, it feels special.”
+「あはは、そうだよね。特別な感じもするし、普通にちょっと照れくさいから、少しずつ慣れていこうか」=“Ahahah, it does, doesn't it? It's also a bit embarrassing so, let's just slowly get used to them, okay?”
