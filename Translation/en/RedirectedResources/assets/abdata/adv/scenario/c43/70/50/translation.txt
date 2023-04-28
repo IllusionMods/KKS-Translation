@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「おー、落ち着いた雰囲気やな～。メニューも一般的やし、値段もお手頃……これ、当りの店やな」=
-//「うん、ホテルのレストランだからもっと高級店を想像してたけど……まあ、そういうお店はまたいずれ」=
-//「楽しみにしてるで～。まあ、ウチは優しいからな、そーいう時は割り勘でかまへん」=
-//「気遣いありがとう。その時が楽しみだ……さて、と何を食べようかな～……」=
+「おー、落ち着いた雰囲気やな～。メニューも一般的やし、値段もお手頃……これ、当りの店やな」=“Oh~, what a calm air~. the menu's super normal too, and the price reasonable... looks like we've a winner here.”
+「うん、ホテルのレストランだからもっと高級店を想像してたけど……まあ、そういうお店はまたいずれ」=“Yep, it's a hotel restaurant so I was expecting a more high class establishment but... well, we can go to that sorta place some other day.”
+「楽しみにしてるで～。まあ、ウチは優しいからな、そーいう時は割り勘でかまへん」=“I'm lookin' forward to that~. Well, I'm a real sweet gal so, I dun mind goin' dutch at that time.”
+「気遣いありがとう。その時が楽しみだ……さて、と何を食べようかな～……」=“Thanks for thinking of my wallet. Can't wait for that day myself... now then, what should we get~...”

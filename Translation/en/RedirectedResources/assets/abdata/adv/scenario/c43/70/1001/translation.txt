@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ここ、涼むのに良さそうだね。ちょっと休んでいこうか」=
-//「やっぱ暑い中で食べるアイスは最高やね」=
-//「うん、美味しいよね～。最高のシチュエーションだ」=
-//「けど、このアイスってさぁ、ご当地アイスなん？　ウチ、この島に来て初めて見てん」=
-//「そうだね。俺も初めて見たから、そういうことなんじゃないかな」=
-//「……そーいうたらさぁ、ウチが普段食べてたアイスって、マイナーなローカル商品なんやって知ってな、めっちゃショック受けてん」=
-//「ああ、そういうのあるよね」=
-//「日本全国津々浦々、いや、世界中の人がおんなじアイス食うてニコニコしてるんや思てたんやけどなぁ～」=
-//「３３４のアイスキャンデー♪　って、言いながらね」=
-//「３３４……？」=
-//「あ、それ、店の名前。そういうテレビＣＭ、しとってん」=
-//「う～ん、知らないなぁ」=
-//「せやねん……っ！　他地方の人、全然知らんでさぁ……ショックやったわぁ」=
-//「けど、それ、ウチが普通やと思ってることが、時と場所が違えば全然普通やない……ってことやねんな」=
-//「これって、ウチの世界が広がった瞬間でもあんねんなぁ」=
-//「うん、大事な経験だね。大人になるための通過儀礼みたいなもんだよ」=
-//「……せやねん。まあ、いずれ、自分とこのご当地アイス、食べてみたいなぁ」=
-//「うん……食べさせてあげたいな。で、ついでに家族に紹介しようかな」=
-//「……アホ。先走り過ぎや。それよりほら、食べよ。溶けてまうで」=
+「ここ、涼むのに良さそうだね。ちょっと休んでいこうか」=“Seems like a good place to cool off, this. Let's take a little break.”
+「やっぱ暑い中で食べるアイスは最高やね」=“Nothin' like some ice cream on a hot summer day, innit?”
+「うん、美味しいよね～。最高のシチュエーションだ」=“Yep, it's real good, isn't it~? It's the best possible combo.”
+「けど、このアイスってさぁ、ご当地アイスなん？　ウチ、この島に来て初めて見てん」=“But, ain't this ice cream a local brand? Saw it for the first time on this island.”
+「そうだね。俺も初めて見たから、そういうことなんじゃないかな」=“Probably. It's the first time I'm seeing it too, so it probably is a local brand.”
+「……そーいうたらさぁ、ウチが普段食べてたアイスって、マイナーなローカル商品なんやって知ってな、めっちゃショック受けてん」=“...So you know~, when I found out that the ice cream I usually eat is a minor local brand, I got a super shock.”
+「ああ、そういうのあるよね」=“Aah, that happens, doesn't it?”
+「日本全国津々浦々、いや、世界中の人がおんなじアイス食うてニコニコしてるんや思てたんやけどなぁ～」=“I really thought that everyone in Japan, no, everyone in this whole darn world was eatin' the same ice cream and smilin' like an idiot throughout, too~”
+「３３４のアイスキャンデー♪　って、言いながらね」=“Ya know, while goin' all, "Nothin' beats 334 Icepops!" and all.”
+「３３４……？」=“334...?”
+「あ、それ、店の名前。そういうテレビＣＭ、しとってん」=“Ah, that's the name of the brand. They run those ads on TV, ya know.”
+「う～ん、知らないなぁ」=“Nnn~, can't say I do~”
+「せやねん……っ！　他地方の人、全然知らんでさぁ……ショックやったわぁ」=“Right...--! So, when I found out that people from other places've never heard of it~... I got a real shock~”
+「けど、それ、ウチが普通やと思ってることが、時と場所が違えば全然普通やない……ってことやねんな」=“But, that's just, suff that I think is normal, not bein' normal to someone from a different place and time... ain't it?”
+「これって、ウチの世界が広がった瞬間でもあんねんなぁ」=“It's a real world widenin' moment, ya know~?”
+「うん、大事な経験だね。大人になるための通過儀礼みたいなもんだよ」=“Yeah, it's a very important experience. Almost a rite of passage into adulthood.”
+「……せやねん。まあ、いずれ、自分とこのご当地アイス、食べてみたいなぁ」=“...Right. Well, someday, I wanna try the icecream they sell where ya live~”
+「うん……食べさせてあげたいな。で、ついでに家族に紹介しようかな」=“Yep... I wanna let you try some too. And, maybe we'll take a detour and go introduce you to my parents too, while we're at it.”
+「……アホ。先走り過ぎや。それよりほら、食べよ。溶けてまうで」=“...Idiot. Yer rushin' too far too fast. Forget that, let's eat. It's gonna melt otherwise.”

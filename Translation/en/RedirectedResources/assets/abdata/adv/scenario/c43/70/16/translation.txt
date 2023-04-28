@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「はー……なんか、ワケもわからんうちに終わってもうたわ～。けど、めっちゃおもろかったで！」=
-//「……いや、おもろかったはちゃうか。まあ、ええわ」=
+「はー……なんか、ワケもわからんうちに終わってもうたわ～。けど、めっちゃおもろかったで！」=“Hah... that kinda, ended before I even got what was goin' on~. But, it was super fun!”
+「……いや、おもろかったはちゃうか。まあ、ええわ」=“...No, I guess "fun" ain't the word to describe it. Well, whatever.”

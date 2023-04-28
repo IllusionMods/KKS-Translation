@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「あー……遊んだ遊んだ～。なんやろ、味わう全部がおもろかったわ……これも全部、自分のおかげやろな～」=
+「あー……遊んだ遊んだ～。なんやろ、味わう全部がおもろかったわ……これも全部、自分のおかげやろな～」=“Ah~... yep, I had my fill of fun today~. Seriously though, everything we tried was fun... it's probably all thanks to you too~”

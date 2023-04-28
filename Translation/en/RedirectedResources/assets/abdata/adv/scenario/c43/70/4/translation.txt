@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「……二～三確認させてもうてええかな？」=
-//「ど、どうぞ……」=
-//「それって、つまり……アレをするってこっちゃな？　恋人でもないウチと自分が……」=
-//「そういうことになるね…………で、他の確認事項は？」=
-//「……なかったわ。うーん……でも、ええんかなぁ、そんなことして……んー、ん～～……んぬぬぬぬぬぅぅぅ……」=
-//「……ま、えっか」=
-//「ええんかーい！　い、いや、でもオッケーしてくれてありがとう」=
+「……二～三確認させてもうてええかな？」=“...Ya mind if I confirm two or three things?”
+「ど、どうぞ……」=“G-Go ahead...”
+「それって、つまり……アレをするってこっちゃな？　恋人でもないウチと自分が……」=“So, basically... ya mean "that", right? Even though we're not a couple or anythin'...”
+「そういうことになるね…………で、他の確認事項は？」=“Yep, you've got it... so, what else do you wanna ask?”
+「……なかったわ。うーん……でも、ええんかなぁ、そんなことして……んー、ん～～……んぬぬぬぬぬぅぅぅ……」=“...There ain't anythin'. Nnnn... but, is it really okay, to do that sorta stuff... nnn~, nnnn~~... nnnununununuuuu...”
+「……ま、えっか」=“...Well, sure I guess.”
+「ええんかーい！　い、いや、でもオッケーしてくれてありがとう」=“You guess!? N-No, I mean, thanks for going along with it.”

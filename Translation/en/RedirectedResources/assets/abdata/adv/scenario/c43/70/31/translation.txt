@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「さーて、いったいどんなドキドキがウチらを待ってるんやろか……」=
-//「いやいや、何も起こらないから」=
-//「いや～～、わからんでぇ？　突然海から巨大怪獣が現れたり、はたまた宇宙人が攻めてきたり……」=
-//「一大スペクタクルだね」=
-//「もしくは、おにぎりを落として追いかけていったら、地下世界につながる穴に落ちてしもーたり……」=
-//「……て、急に童話になっちゃった……」=
+「さーて、いったいどんなドキドキがウチらを待ってるんやろか……」=“Now then~, just what sorta heart poundin' is waitin' for us today...”
+「いやいや、何も起こらないから」=“Nothing's gonna happen, you know.”
+「いや～～、わからんでぇ？　突然海から巨大怪獣が現れたり、はたまた宇宙人が攻めてきたり……」=“Ya never know, ya know~? A giant monster could suddenly pop outta the sea, or the aliens could start their assault or...”
+「一大スペクタクルだね」=“Quite the Michael Bay movie you're imagining there.”
+「もしくは、おにぎりを落として追いかけていったら、地下世界につながる穴に落ちてしもーたり……」=“Or maybe, one of us could drop their riceballs, and when we go ta pick it up we could fall through a hole straight into the underworld...”
+「……て、急に童話になっちゃった……」=“...And suddenly it's an isekai now...”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ウチらの秘密の楽しみやったのに……いつから見てたん？」=
+「ウチらの秘密の楽しみやったのに……いつから見てたん？」=“It was supposed to be a little fun just between us... how long have ya been there for?”

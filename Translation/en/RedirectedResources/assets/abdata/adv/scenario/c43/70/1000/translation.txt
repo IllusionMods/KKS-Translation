@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「カップルドリンクを頼めるんだって。ねえ、一緒に飲まない？」=
-//「お、きたきた。いや～、ちょうどめっちゃ喉乾いとってん」=
-//「うん、だね。俺もカラカラだ」=
-//「……そんな状態で、二人で飲んだら…………ガーッて行ってまわへん？」=
-//「なに？　『ガーって行く』って……」=
-//「せやからぁ、喉の乾きにまかせて、グイグイ行ってまうんちゃう？　ってことやん……」=
-//「ああ、相手に構わず、自分勝手に飲んじゃうってこと？」=
-//「そーいうことやねん……。これ、なかなか自制心いるなぁ……」=
-//「いや、いいんだよ？　グビグビガツガツガンガン飲んでくれても」=
-//「そーいうわけにもいかんやん！　ほら……ウチ、意外と繊細やねんで？」=
-//「うん、まあ、そうかも」=
-//「やから、『うわっ、めっちゃいっぱい飲むやん……でも飲む姿、可愛い……』とか思われたら、なんか恥ずかしいやん？」=
-//「……繊細さ、どこ？」=
-//「ウチ、繊細やけど、冗談は言う子やねんて。『ハハハハハ』って笑うんが正解やで」=
-//「……ツッコミが正解なんじゃないの？」=
-//「わかってへんな。ツッコミっちゅうんは、ボケへのリアクションやねん。ボケてもないのに、ツッコむんは道交法違反や」=
-//「いや、法律関係ないし！！」=
-//「そうそう、今のがボケとツッコミやで……と、話してたら、喉カラカラや」=
-//「だね、そろそろ飲もう。氷が溶けちゃうしね……それじゃ、いただきます――」=
+「カップルドリンクを頼めるんだって。ねえ、一緒に飲まない？」=“Apparently we can get a couples' drink here. Hey, wanna drink it together?”
+「お、きたきた。いや～、ちょうどめっちゃ喉乾いとってん」=“Oh, finally. Man~, my throat was just startin' ta feel dry too.”
+「うん、だね。俺もカラカラだ」=“Yep, mine too.”
+「……そんな状態で、二人で飲んだら…………ガーッて行ってまわへん？」=“...If we ordered that, in this situation... won't it just disappear?”
+「なに？　『ガーって行く』って……」=“What? I'm not...”
+「せやからぁ、喉の乾きにまかせて、グイグイ行ってまうんちゃう？　ってことやん……」=“I'm sayin'~, won't we end up just lettin' our throats be free, and just suck back? Ya know...”
+「ああ、相手に構わず、自分勝手に飲んじゃうってこと？」=“Aah, basically you mean just focusing on drinking it without paying attention to the other person?”
+「そーいうことやねん……。これ、なかなか自制心いるなぁ……」=“Exactamundo... This sorta stuff, needs a lotta self control, don't it~...”
+「いや、いいんだよ？　グビグビガツガツガンガン飲んでくれても」=“No, it's fine, you know? You can just go hard and gulp it down too if you want.”
+「そーいうわけにもいかんやん！　ほら……ウチ、意外と繊細やねんで？」=“Can't have that! I mean... I'm more delicate than ya'd think, ya know?”
+「うん、まあ、そうかも」=“I see, well, I can see it.”
+「やから、『うわっ、めっちゃいっぱい飲むやん……でも飲む姿、可愛い……』とか思われたら、なんか恥ずかしいやん？」=“So, if ya started thinkin'「Uwah--, she's gulpin' it down... but she looks kinda cute doin' that...」, it's gonna be embarrassin', no?”
+「……繊細さ、どこ？」=“...Where's the 'delicate'?”
+「ウチ、繊細やけど、冗談は言う子やねんて。『ハハハハハ』って笑うんが正解やで」=“I'm pretty delicate but, also a jokester, dummy. Yer supposed to go「Hahahahaha」at that.”
+「……ツッコミが正解なんじゃないの？」=“...Wasn't I supposed to tsukkomi?”
+「わかってへんな。ツッコミっちゅうんは、ボケへのリアクションやねん。ボケてもないのに、ツッコむんは道交法違反や」=“Ya just don't get it. Tsukkomis are supposed ta be retorts to gags. Retortin' when I ain't even doin' a gag is just a traffic law violation.”
+「いや、法律関係ないし！！」=“I don't see a car anywhere though!?”
+「そうそう、今のがボケとツッコミやで……と、話してたら、喉カラカラや」=“Exactly, see, that was a proper gag and a tsukkomi... oh, my throat's went all dry while we were at that.”
+「だね、そろそろ飲もう。氷が溶けちゃうしね……それじゃ、いただきます――」=“Mine too, let's get to drinking already. The ice is gonna start melting soon... alright, here I go--”

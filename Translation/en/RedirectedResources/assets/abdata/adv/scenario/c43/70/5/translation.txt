@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ま、まあ、ええんちゃう？　うん……ウチら、恋人なんやし……そんなん当たり前のことやん？」=
-//「よかった……実はその、すごくしたくてしたくてしたくてしたくて……」=
-//「い、いや、何回言うねんっ、もうわかったっちゅーねん……ふぅ……でも、あうぅ、上手いことできるかなぁ……不安や……」=
-//「……俺も上手にできるかな……不安だよ」=
-//「……ま、まあ、こういう時は思い切りが肝心やからな。気合い入れていくで……ファイト、オー…………」=
-//「……声、ちっちゃっ」=
+「ま、まあ、ええんちゃう？　うん……ウチら、恋人なんやし……そんなん当たり前のことやん？」=“W-Well, why not? Yep... We're, a couple and stuff so... ain't that gonna be just normal?”
+「よかった……実はその、すごくしたくてしたくてしたくてしたくて……」=“Thank god... the truth is, I've just been wanting to do it so bad, so bad, so goddamn bad...”
+「い、いや、何回言うねんっ、もうわかったっちゅーねん……ふぅ……でも、あうぅ、上手いことできるかなぁ……不安や……」=“A-Aight, stop sayin' that again and again--, I got it already... fuuh... but, auuu, will I be able to do it all proper... I'm worried...”
+「……俺も上手にできるかな……不安だよ」=“...I am worried too... about the same thing.”
+「……ま、まあ、こういう時は思い切りが肝心やからな。気合い入れていくで……ファイト、オー…………」=“...W-Well, what's important at times like these is just goin' fer it. I'mma get fired up... fighto!...”
+「……声、ちっちゃっ」=“...That was too loud, I could hear it still.”
