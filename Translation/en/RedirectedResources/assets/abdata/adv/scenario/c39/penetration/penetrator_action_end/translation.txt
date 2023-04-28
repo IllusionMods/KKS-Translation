@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ありがとう。二人の邪魔にならないように、自分も頑張るねー。ゆたしくー」=“Thanks. I'll do my best too, to not get in you guys' way, okay~? Be nice to me~”
+//「ありがとう。二人の邪魔にならないように、自分も頑張るねー。ゆたしくー」=

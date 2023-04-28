@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-OPTION[100]:気持ちに応える=Respond to her feelings.
-気持ちに応える=Respond to her feelings.
+//OPTION[100]:気持ちに応える=
+//気持ちに応える=
 OPTION[100]:……ごめん=...Sorry.
 ……ごめん=...Sorry.
 OPTION[101]:いいよ=Alright.
