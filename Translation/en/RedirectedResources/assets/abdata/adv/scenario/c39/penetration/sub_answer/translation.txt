@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うーん、一人だけ仲間外れは可哀相だし……みんなで仲良くできるならいいよー」=
+「うーん、一人だけ仲間外れは可哀相だし……みんなで仲良くできるならいいよー」=“Nnn, I'd hate to just leave her all by herself too... if there's a way for us all to have fun together then sure~”
