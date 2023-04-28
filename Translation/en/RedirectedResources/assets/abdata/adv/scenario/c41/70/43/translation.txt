@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「この島に来てから、たまにどこかから三線の音色が聞こえてきてたけど、自分で弾くとなるとやっぱり難しいね」=
-//「うん。でもやるからにはマスターしたいよね。先生が『三線を弾きながら告白した人が今の旦那さん』って話してて、ときめいちゃったし」=
-//「たしかにロマンチックな話だったね。しかしなるほど、[H名]は告白したい派か」=
-//「えっ……べ、別にしたい派ってわけじゃ……その、好きな人なら、されるのも大歓迎だよ……って、ボク何言っちゃってるんだろうね、あはは」=
-//「いや、そこの所もっと詳しく」=
-//「な、なんで拘るの？　詳しくって言われても……その……あっ、そろそろ休憩時間終わるから、練習に戻ろうっ！」=
-//（逃げたな……）=
+「この島に来てから、たまにどこかから三線の音色が聞こえてきてたけど、自分で弾くとなるとやっぱり難しいね」=“I've been hearing the distinctive sound of a sanshin every so often ever since we came here but, playing it yourself is pretty darn hard, huh?”
+「うん。でもやるからにはマスターしたいよね。先生が『三線を弾きながら告白した人が今の旦那さん』って話してて、ときめいちゃったし」=“Yep. But since we're doing it, I'd love to actually learn it properly, you know? Especially after the master told us all about how her husband proposed to her while playing it, that made my heart pound a bit.”
+「たしかにロマンチックな話だったね。しかしなるほど、[H名]は告白したい派か」=“That did sound pretty romantic, for sure. But I see, you're the type that wants to be the one confessing, huh?”
+「えっ……べ、別にしたい派ってわけじゃ……その、好きな人なら、されるのも大歓迎だよ……って、ボク何言っちゃってるんだろうね、あはは」=“Eh--... i-it's not like I--... I uhm, I wouldn't mind being confessed to at all either, if it was by the man I loved... wuh, what am I even saying, ahahah--”
+「いや、そこの所もっと詳しく」=“No, I'd love to hear more.”
+「な、なんで拘るの？　詳しくって言われても……その……あっ、そろそろ休憩時間終わるから、練習に戻ろうっ！」=“W-Why though? I mean, even if you... I uhm... ah--, our break time's almost up so, let's get back to practice--!”
+（逃げたな……）=(She got away...)

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「この島の文化と同じぐらいキミのことを知りたいから、もっとキミといろんな体験がしたいな。それに、できればずっと一緒にいたいし……」=
+「この島の文化と同じぐらいキミのことを知りたいから、もっとキミといろんな体験がしたいな。それに、できればずっと一緒にいたいし……」=“I want to know more about you just as much as I want to know about this island so, I wanna experience lots more together. Also, if possible, I want us to be together forever...”

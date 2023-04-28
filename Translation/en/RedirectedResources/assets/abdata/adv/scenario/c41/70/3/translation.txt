@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「え、俺……？」=
-//「あ……やっぱり、ボクじゃだめ？　それがキミの正直な気持ちなら全然大丈夫だよ。でも、これからも仲良くしてほしくて、その――」=
-//「ま、待って待って。その逆だよ、俺も[H名]のことが好きだったから、ちょっとびっくりして……」=
-//「うそ……キミも、ボクのこと好きだったの？　好きって、友達じゃなくて……だから、その……恋愛対象として、ってこと……？」=
-//「もちろん。実は両想いかなって思ってたんだけど……[H名]ってよく気を使って優しくしてくれるから、俺の勘違いかもって思っててさ」=
-//「勘違いじゃないよ。ボク、気を使ってたのは最初だけだから。それはみんなに対してそうなんだけど、キミとはいつの間にか自然と喋ってたんだ」=
-//「うん、俺の目から見てもそんな感じだったから、本心も合っててよかった」=
-//「じゃあ改めて、[H名]の告白を受け取らせてもらうね。俺でよかったら、付き合ってほしい。恋人同士として付き合おう」=
-//「うん！　あぁ、よかったぁ……ボク、ボクっ、ダメ元だったから、キミってすごくモテそうだから……まだ信じられない、本当に嬉しいよっ」=
-//「自慢じゃないけど、そんなモテないし、スペックも高くないから。でも……[H名]にはモテてよかった、これからよろしくね」=
+「え、俺……？」=“Eh, me...?”
+「あ……やっぱり、ボクじゃだめ？　それがキミの正直な気持ちなら全然大丈夫だよ。でも、これからも仲良くしてほしくて、その――」=“Ah... I guess I really am not good enough? If that's how you really feel then that's completely okay. But I still want us to be friends so uhm--”
+「ま、待って待って。その逆だよ、俺も[H名]のことが好きだったから、ちょっとびっくりして……」=“W-Wait, just wait. It's the opposite, I've been in love with you for a while now too so, it just caught me a bit off guard...”
+「うそ……キミも、ボクのこと好きだったの？　好きって、友達じゃなくて……だから、その……恋愛対象として、ってこと……？」=“No way... you love me too? Not just find me nice to be around... actually, you know, love me, as a girl...?”
+「もちろん。実は両想いかなって思ってたんだけど……[H名]ってよく気を使って優しくしてくれるから、俺の勘違いかもって思っててさ」=“Of course. I've actually been wondering for a while if we've just been running in circles... you're really considerate and really sweet so, I didn't know if I was just misunderstanding things between us, you know?”
+「勘違いじゃないよ。ボク、気を使ってたのは最初だけだから。それはみんなに対してそうなんだけど、キミとはいつの間にか自然と喋ってたんだ」=“You weren't. I was being a bit considerate when we first met, it's true. I do that with everyone. But that all disappeared once we started talking more and more.”
+「うん、俺の目から見てもそんな感じだったから、本心も合っててよかった」=“Yep, it looked the same way to me so, I'm glad we share the same feelings.”
+「じゃあ改めて、[H名]の告白を受け取らせてもらうね。俺でよかったら、付き合ってほしい。恋人同士として付き合おう」=“Then, let's do this again. If you'll have me then please, I want you to go out with me. Let's become a couple.”
+「うん！　あぁ、よかったぁ……ボク、ボクっ、ダメ元だったから、キミってすごくモテそうだから……まだ信じられない、本当に嬉しいよっ」=“Okay! Aah, thank god~... I, I--, I only took the shot because I had nothing to lose, because I feel like you're really popular so... I still can't believe it, I'm so happy--”
+「自慢じゃないけど、そんなモテないし、スペックも高くないから。でも……[H名]にはモテてよかった、これからよろしくね」=“I'm not bragging or anything, but I'm not that popular, nor am I that high value anyway. But... I'm glad I'm popular with you, [H].”

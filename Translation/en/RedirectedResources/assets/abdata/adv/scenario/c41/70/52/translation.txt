@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「その……お腹いっぱいになったし、これで研修に精が出せるね。キミともいっぱい話せたし、ちょっとだけ恥ずかしかったけれど楽しかったよ」=
+「その……お腹いっぱいになったし、これで研修に精が出せるね。キミともいっぱい話せたし、ちょっとだけ恥ずかしかったけれど楽しかったよ」=“I uhm... my belly is full now so, I'm good to put in my all for the rest of the day's work. We got to chat lots too so, it was a tiny bit embarrassing but I had fun.”

@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「島で遊ぶって言ったら海なわけだけど、何か海でしたいことってある？」=
-//「海といえばやっぱりスイカ割り……だけど、今すぐ用意するのは難しいし、シンプルに泳ぐ？　どっちが速く泳げるか競争とか！」=
-//（なぜか男らしいチョイスだ……）=
-//「泳ぎに自信あるの？」=
-//「え？　うーん、自信あるのって聞かれて即答するレベルじゃないけど……キミと勝負したら純粋に楽しいかなって」=
-//「そう言われると、男としては断れないな。よーし、勝負だ」=
-//「それじゃ準備体操しなきゃ。まだお互いに知り合って日が浅いし、全力で勝負すればきっともっと仲良くなれるよ」=
-//「だね、親睦を深めよう」=
-//（[H名]って優しい女の子なイメージがあったけど、意外と活発なのかな？　とにかく手は抜かずにやろう）=
+「島で遊ぶって言ったら海なわけだけど、何か海でしたいことってある？」=“Having some fun at an island like this obviously means the sea but, is there something in particular you wanna do?”
+「海といえばやっぱりスイカ割り……だけど、今すぐ用意するのは難しいし、シンプルに泳ぐ？　どっちが速く泳げるか競争とか！」=“I mean, it's the beach so you can't beat watermelon splitting... but, it'd be hard to get that going right this moment so, do you wanna just go for a swim? Maybe we could have a little race!”
+（なぜか男らしいチョイスだ……）=(What a manly choice for a girl...)
+「泳ぎに自信あるの？」=“Confident in your swimming, are you?”
+「え？　うーん、自信あるのって聞かれて即答するレベルじゃないけど……キミと勝負したら純粋に楽しいかなって」=“Eh? Nnnn, not enough to say yes without a hint of doubt but... I was just thinking that maybe it'd be fun to do that together, and stuff.”
+「そう言われると、男としては断れないな。よーし、勝負だ」=“I can't say no to that, as a guy. Alright, a race it is.”
+「それじゃ準備体操しなきゃ。まだお互いに知り合って日が浅いし、全力で勝負すればきっともっと仲良くなれるよ」=“We'll have to start off with some warm up exercises then. We've still only known each other for a few days, so I'm sure we'll get even closer together if we put our all into this.”
+「だね、親睦を深めよう」=“Yeah, let's deepen our friendship.”
+（[H名]って優しい女の子なイメージがあったけど、意外と活発なのかな？　とにかく手は抜かずにやろう）=(She looks like such a sweet and meek girl, but I guess she's surprisingly active, huh? Anyways, guess I'll put my all into it too.)

@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「[H名]、カップルドリンクだって。いい思い出になると思うし、頼んでみようよ」=
-//「え……これがカップルドリンク？　ボク、ドリンクが２つ来るのかと思ってた……あっ、ストローが２本刺さってるってことは……」=
-//「そう、１つのドリンクを２人で飲むのがカップルドリンクなんだよ」=
-//「わぁ～～……想像しただけで体温が１度ぐらいあがっちゃったかも。こんなすごいドリンクを一緒に飲んだら、もっとあがりそう……」=
-//「風邪レベル！？　でも、こういうの漫画とかで見たことない？　女の子の間では定番なのかと思ってたけど」=
-//「えっと……ちょっと変わってるかもなんだけど、女の子が好きそうなものってなんだか恥ずかしくなっちゃうタイプなんだよね」=
-//「そうなの？」=
-//「うーん……可愛いぬいぐるみとか、お洒落な服とかすごく興味あるし、女子力の高い女の子を見るといいなぁって思うんだけど……」=
-//「ボクの部屋に女の子が好きそうなぬいぐるみを置いたら……とか、ボクがこんな服着ちゃうの？　って想像すると、急に恥ずかしくなるの」=
-//「だからこういうドリンクみたいな、女の子ならみんな知ってそうなことを知らなかったりするんだよね、ボク」=
-//「それは……なんだろう、落ち着かない感じなの？」=
-//「自分には似合わないって思っちゃうのかな。そわそわする感じ……変だよね、女の子なんだからもっと楽しんじゃえばいいのに」=
-//「人によってやりたくてもやれないことって違うし、全然変じゃないよ。でも、できれば恥ずかしがらずに楽しみたいって思ってるんだよね？」=
-//「うん、だってボクはキミの彼女だもん。女の子としてのボクにドキッとしてもらいたいし、男の子であるキミを虜にしたいから……」=
-//「正直もう[H名]の虜だけど……このドリンクから始めてみようよ。こういうのは少しずつ慣れていけばいいと思う」=
-//「ボクのこと、呆れないでリードしてくれて嬉しいな……うん、このドリンクを飲んで女の子の階段をもう１段のぼるよ」=
-//「俺も一緒に男の階段を１段のぼるよ。なんてったって、一緒に飲むドリンクだからね」=
-//「あはは、そうだね……ボク、いつか自分でも誇れるような女の子になるからね。それで、もっとキミに好きになってもらうから♪」=
-//「楽しみが１つ増えたところで、そろそろ飲んでみようか」=
+「[H名]、カップルドリンクだって。いい思い出になると思うし、頼んでみようよ」=“[H], look here, "couples' drink", it says. It's probably gonna make for nice memories, so let's order it.”
+「え……これがカップルドリンク？　ボク、ドリンクが２つ来るのかと思ってた……あっ、ストローが２本刺さってるってことは……」=“Eh... this is a couples' drink? I thought there would be two drinks... ah--, is that why there's two straws in it...”
+「そう、１つのドリンクを２人で飲むのがカップルドリンクなんだよ」=“That's right, drinking a single drink together is what makes it a couples' drink.”
+「わぁ～～……想像しただけで体温が１度ぐらいあがっちゃったかも。こんなすごいドリンクを一緒に飲んだら、もっとあがりそう……」=“Wah~~... I think just thinking about it made my body a degree hotter. If we drunk such an amazing drink together, I feel like it'd go even higher...”
+「風邪レベル！？　でも、こういうの漫画とかで見たことない？　女の子の間では定番なのかと思ってたけど」=“That bad!? But, have you never seen this in manga before? I thought this would be pretty well known amongst girls.”
+「えっと……ちょっと変わってるかもなんだけど、女の子が好きそうなものってなんだか恥ずかしくなっちゃうタイプなんだよね」=“Erhm... it might be pretty weird of me but, the sort of stuff that girls like really embarrasses me, you know?”
+「そうなの？」=“Really?”
+「うーん……可愛いぬいぐるみとか、お洒落な服とかすごく興味あるし、女子力の高い女の子を見るといいなぁって思うんだけど……」=“Nnnn... I love girly toys and, girly fashion and, whenever I see girly girls I just dream of being like them too but~...”
+「ボクの部屋に女の子が好きそうなぬいぐるみを置いたら……とか、ボクがこんな服着ちゃうの？　って想像すると、急に恥ずかしくなるの」=“Just thinking about stuff like "A toy like this, in my room?"... or, "Me, a dress like this?", makes me puff up red.”
+「だからこういうドリンクみたいな、女の子ならみんな知ってそうなことを知らなかったりするんだよね、ボク」=“That's why, stuff like this, this couples' drink and whatnot, that everyone seems to know about is, kind of beyond what I know.”
+「それは……なんだろう、落ち着かない感じなの？」=“That's... I wonder. Is it that you can't relax around stuff like this?”
+「自分には似合わないって思っちゃうのかな。そわそわする感じ……変だよね、女の子なんだからもっと楽しんじゃえばいいのに」=“It might be that I just subconsciously think that it doesn't fit someone like me. It makes me really restless... it's weird, isn't it? I'm a girl so I should enjoy stuff like this more.”
+「人によってやりたくてもやれないことって違うし、全然変じゃないよ。でも、できれば恥ずかしがらずに楽しみたいって思ってるんだよね？」=“Everyone has things they really want to do but just can't, so it's not weird at all. But, you do want to enjoy it without feeling embarrassed the whole time, don't you?”
+「うん、だってボクはキミの彼女だもん。女の子としてのボクにドキッとしてもらいたいし、男の子であるキミを虜にしたいから……」=“Yep, I mean, I'm your girlfriend. I want to make your heart skip a beat to my girly bits, and I want to make your boyish bits head over heels for me...”
+「正直もう[H名]の虜だけど……このドリンクから始めてみようよ。こういうのは少しずつ慣れていけばいいと思う」=“I'm already head over heels, you know... but let's just start with this drink. I think it'd be fine to just slowly get used to this stuff.”
+「ボクのこと、呆れないでリードしてくれて嬉しいな……うん、このドリンクを飲んで女の子の階段をもう１段のぼるよ」=“It makes me so happy, the way you always take the lead without getting tired of me... Okay, I'm gonna drink this drink and take another step to womanhood.”
+「俺も一緒に男の階段を１段のぼるよ。なんてったって、一緒に飲むドリンクだからね」=“I'm gonna join you and take one towards manhood myself. Afterall, it's a two person drink, not one.”
+「あはは、そうだね……ボク、いつか自分でも誇れるような女の子になるからね。それで、もっとキミに好きになってもらうから♪」=“Ahahah, of course... One day, I'm gonna become the sort of girl that I can be proud of. And then, I'm gonna make you fall for me even harder♪”
+「楽しみが１つ増えたところで、そろそろ飲んでみようか」=“With something like that to look forward to, let's toast it with this drink.”

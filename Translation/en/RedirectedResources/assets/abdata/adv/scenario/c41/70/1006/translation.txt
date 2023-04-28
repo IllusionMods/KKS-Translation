@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「やっとキミとウムイの鐘に来られて嬉しいな」=
-//「あれ、そんなにお待たせしちゃってた？」=
-//「あ、つい『やっと』なんて言っちゃった。えっと、ウムイの鐘があるってことは島に来る前から知っててね……」=
-//「だから、キミのことを『ちょっと素敵だな』って思ってたぐらいから、二人でここに来ることもあるかもって考えたことがあったんだ」=
-//「なるほど、それなら『やっと』来られた、だね」=
-//「誰かに恋をすること自体初めてだったから、恋愛にご利益がありそうなスポットもたくさん調べたんだよね」=
-//「それはウムイの鐘が一発でヒットするだろうね。鐘を鳴らした二人は絶対に結ばれるってことだけど、どう思った？」=
-//「結局は本人の努力次第だと思ったけど、やっぱり女の子としては憧れるよね」=
-//「男の子としても憧れるよ。俺にも[H名]と付き合いたいって時期はあったから、絶対に結ばれるっていうご利益はデカすぎる」=
-//「あはは、そうだよね。でもボクたちってもう付き合ってるから、結ばれてるよね？」=
-//「そこはほら、結婚じゃない？」=
-//「え、結婚……！？」=
-//「待って、そこで驚かないで。俺が傷つく」=
-//「え！？　……あっ、そういうことじゃなくて！　キミと結婚したくないってことじゃなくて、キミが結婚って言葉を使ったことに驚いて」=
-//「それはそれで……俺ってそんな結婚しそうにない？」=
-//「ううん、きっとそんなことないと思うんだけど、なんというか、イメージかな。キミって他の女の子からもすごく人気があるから」=
-//「ああ、そういうことか……でも、俺は[H名]と結婚したいな」=
-//「ボクの他にも魅力的な女の子はいっぱいいると思うけど、いいの？」=
-//「うん。そうじゃないとウムイの鐘に一緒に来たりしないよ」=
-//「……ありがとう。ボク、キミに会えて本当によかったな。女の子として、一番嬉しいよ」=
-//「そう言ってくれると俺も嬉しい。それじゃあ、結婚まで二人が一緒にいられるように、絶対結ばれる鐘の御利益に預かろうか」=
+「やっとキミとウムイの鐘に来られて嬉しいな」=“We're finally visiting the bell of Umui together, I'm so happy.”
+「あれ、そんなにお待たせしちゃってた？」=“Huh, did I make you wait for it that much?”
+「あ、つい『やっと』なんて言っちゃった。えっと、ウムイの鐘があるってことは島に来る前から知っててね……」=“Ah, I said "finally". Erhm, I've known about this place since even before we came to this island so...”
+「だから、キミのことを『ちょっと素敵だな』って思ってたぐらいから、二人でここに来ることもあるかもって考えたことがあったんだ」=“So ever since the day I started finding you a bit dreamy, I found myself thinking about how we might come here together someday too, and stuff.”
+「なるほど、それなら『やっと』来られた、だね」=“I see, so we really did "finally" come here, huh?”
+「誰かに恋をすること自体初めてだったから、恋愛にご利益がありそうなスポットもたくさん調べたんだよね」=“It was my first time ever falling in love to begin with so, I looked up a lot of spots that might help with that, you know?”
+「それはウムイの鐘が一発でヒットするだろうね。鐘を鳴らした二人は絶対に結ばれるってことだけど、どう思った？」=“I bet this bell fits that to a T, too. The legend says that any pair that rings it together is certain to be tied together, what did you make of that?”
+「結局は本人の努力次第だと思ったけど、やっぱり女の子としては憧れるよね」=“At the end of the day, I did think that it depends upon the people themselves but, as a girl I just can't help but love that sort of stuff.”
+「男の子としても憧れるよ。俺にも[H名]と付き合いたいって時期はあったから、絶対に結ばれるっていうご利益はデカすぎる」=“It's the same for me as a guy. I wanted to go out with you for the longest time too so, something like a divine blessing that makes sure you'll end up together was just too tempting to not consider.”
+「あはは、そうだよね。でもボクたちってもう付き合ってるから、結ばれてるよね？」=“Ahahah, of course. But we're already dating so, we're already 'tied', no?”
+「そこはほら、結婚じゃない？」=“That's, I mean, doesn't that refer more to marriage?”
+「え、結婚……！？」=“Eh, marriage...!?”
+「待って、そこで驚かないで。俺が傷つく」=“Alright, don't let that be the thing that shocks you. You're wounding me.”
+「え！？　……あっ、そういうことじゃなくて！　キミと結婚したくないってことじゃなくて、キミが結婚って言葉を使ったことに驚いて」=“Eh!? ...Ah--, that's not what I meant! It wasn't the idea of marrying you, it was that you brought up marriage that shocked me.”
+「それはそれで……俺ってそんな結婚しそうにない？」=“Okay, putting that aside fro a second... do I really come off as that unwilling to marry?”
+「ううん、きっとそんなことないと思うんだけど、なんというか、イメージかな。キミって他の女の子からもすごく人気があるから」=“No, definitely not but, how do I say this, it's your image, I guess? Like, you're really popular with other girls too so--”
+「ああ、そういうことか……でも、俺は[H名]と結婚したいな」=“Aah, so that's what it is... but, the one I want to marry is you, [H].”
+「ボクの他にも魅力的な女の子はいっぱいいると思うけど、いいの？」=“I'm pretty sure there's lots more girls even just here that are a lot more charming, are you sure?”
+「うん。そうじゃないとウムイの鐘に一緒に来たりしないよ」=“Yep. I wouldn't have brought you here otherwise.”
+「……ありがとう。ボク、キミに会えて本当によかったな。女の子として、一番嬉しいよ」=“...Thanks. I really am glad I met you. I'm really happy right now, as a girl.”
+「そう言ってくれると俺も嬉しい。それじゃあ、結婚まで二人が一緒にいられるように、絶対結ばれる鐘の御利益に預かろうか」=“Hearing you say that makes me happy too. Well then, let's ring this bell together then, shall we? Just to make sure we stay together until we get hitched.”
 「うん……！」=“Yeah...!”

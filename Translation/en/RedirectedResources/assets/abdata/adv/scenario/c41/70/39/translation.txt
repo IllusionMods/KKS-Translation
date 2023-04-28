@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「男の子と遊ぶのってもう少し緊張するかと思ったけど……キミが優しいからかな、全然気にならなかった。よかったらまた遊ぼうね」=
+「男の子と遊ぶのってもう少し緊張するかと思ったけど……キミが優しいからかな、全然気にならなかった。よかったらまた遊ぼうね」=“I thought playing around with a boy like this would be a lot more awkward but... I wonder if it's because of just how sweet you are, but it didn't feel that way at all. Let's play around like this again, okay?”
