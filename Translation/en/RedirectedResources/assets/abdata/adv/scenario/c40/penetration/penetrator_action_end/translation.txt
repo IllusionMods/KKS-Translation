@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ありがとう、よろしく頼む。感謝は行動で示すつもりだ……期待してくれ」=
+「ありがとう、よろしく頼む。感謝は行動で示すつもりだ……期待してくれ」=“Thank you, I appreciate it. And I plan on showing that with my actions... do look forward to it.”

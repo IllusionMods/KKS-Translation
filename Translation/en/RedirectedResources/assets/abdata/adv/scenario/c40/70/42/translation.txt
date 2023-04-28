@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「[H名]は何か楽器とかできたりするの？」=
-//「いや、武技の心得ならあるが……楽器は微妙だな。特にこの三線というのは、郷土の楽器なのだろう？」=
-//「うん、その通り。でも俺も初心者だし、お互い同じスタートラインなんだから気楽にいこうよ」=
-//「そうだな、貴殿の言う通りだ。お互いに最初は変な音を出すだろうが、笑うのは無しだぞ？」=
-//「分かってるって。[H名]はなんでも一生懸命だし、笑ったりしないよ」=
-//「はは、そう言う貴殿だって意外と真面目なのは知っているぞ。どちらが早く上手くなるか、勝負だな」=
+「[H名]は何か楽器とかできたりするの？」=“You know how to play a musical instrument, [H]?”
+「いや、武技の心得ならあるが……楽器は微妙だな。特にこの三線というのは、郷土の楽器なのだろう？」=“No, I do have confidence in my martial skill... however, instruments are a different story. Especially this sanshin, is it not a local instrument?”
+「うん、その通り。でも俺も初心者だし、お互い同じスタートラインなんだから気楽にいこうよ」=“Yep, that's exactly it. But I'm a beginner too. We've got the exact same start line here, so let's just take it easy.”
+「そうだな、貴殿の言う通りだ。お互いに最初は変な音を出すだろうが、笑うのは無しだぞ？」=“Right, it is as you say. We are both going to make quite the strange sounds with these at first, but you must not laugh, alright?”
+「分かってるって。[H名]はなんでも一生懸命だし、笑ったりしないよ」=“I know, I know. You always do your best no matter what it is, so I'm not gonna laugh.”
+「はは、そう言う貴殿だって意外と真面目なのは知っているぞ。どちらが早く上手くなるか、勝負だな」=“Hahah, you say that but I know you're quite the earnest fellow deep down as well. I suppose this is a contest then, to see which one of us will master it first.”

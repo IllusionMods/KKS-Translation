@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「うむ、少し戸惑いはあったが楽しめたな」=
+「うむ、少し戸惑いはあったが楽しめたな」=“Umu, I did find myself at a loss a bit there but it was fun nonetheless.”

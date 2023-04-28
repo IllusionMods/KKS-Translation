@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「うむ……ついに来たか。大丈夫だ……我も何度もシミュレーションを繰り返してきた。覚悟はできている」=
-//「ありがとう。でも、シミュレーションて……オナニーとか？」=
-//「ぐ……そうだ。いざという時に備えるのは騎士の本分……貴殿に求められた時に応えられるよう、鍛えてきた！」=
-//「はは、それじゃ俺がリードされちゃうかもね」=
-//「貴殿がそれを望むなら、我は構わないぞ……色々勉強してきたからな……色々……」=
-//「[H名]も楽しみにしててくれたみたいで嬉しいよ。もっと早く誘えば良かったかな」=
+「うむ……ついに来たか。大丈夫だ……我も何度もシミュレーションを繰り返してきた。覚悟はできている」=“Umu... finally, huh? It is alright... I have simulated this myself time and time again. So I am prepared.”
+「ありがとう。でも、シミュレーションて……オナニーとか？」=“Thank you. But, "simulation"... you mean masturbation and whatnot?”
+「ぐ……そうだ。いざという時に備えるのは騎士の本分……貴殿に求められた時に応えられるよう、鍛えてきた！」=“Guh... that's right. Always being ready for come what may is a knight's duty... I have been tempering myself, so as to be able to respond in kind when you crave me!”
+「はは、それじゃ俺がリードされちゃうかもね」=“Hahah, maybe I'm gonna be the one led around today then.”
+「貴殿がそれを望むなら、我は構わないぞ……色々勉強してきたからな……色々……」=“If you desire that, then I would not mind that... I studied quite a bit, you see... quite a bit...”
+「[H名]も楽しみにしててくれたみたいで嬉しいよ。もっと早く誘えば良かったかな」=“I'm glad, since you're so down for this too. Maybe I should have asked earlier.”

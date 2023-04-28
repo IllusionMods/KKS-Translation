@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「お土産を見てこうよ」=
-//「なぁ見てくれ、凄くいい感じのＴシャツを見つけたぞ！」=
-//「あー、[H名]はそういう感じ好きそうだね」=
-//「ああ！　豪快な筆使いながらも、質実剛健、正々堂々という感じがひしひしと伝わってくる！」=
-//「でも……泡盛ってお酒の名前だからね？」=
-//「知っているとも。できれば『騎士道』と書いてあるものが良かったのだが、無いと言われてしまった」=
-//「店員さんに聞いたんだ？」=
-//「ああ、どうしてもと言うなら、自分で書いてはどうかと勧められた……」=
-//「それ、アリなんじゃない？　無地のＴシャツを買ってさ、自分で筆を使って書いてみたら？」=
-//「むぅ……しかし、ここまで上手く書ける自信はないぞ？」=
-//「別に上手く書く必要はないんじゃないかな。それこそ、魂がこもってればいい的な？」=
-//「確かに……そう言われると一理あるな。貴殿も一緒に書いてくれるか？」=
-//「いいよ。お互いの名前を書いたペアルックＴシャツとかにしようか？」=
-//「なっ、待て！　それは流石にどうなのだ？　周りから後ろ指をさされるようなことにならないか？」=
-//「そう？　俺は全然アリだと思うけどなぁ……」=
-//「や、やはりこの泡盛Ｔシャツが一番だな！　うん、一目見て良いと思ったものを買うのが正解だろう！」=
+「お土産を見てこうよ」=“Let's go take a look at souvenirs.”
+「なぁ見てくれ、凄くいい感じのＴシャツを見つけたぞ！」=“Hey, look at this, I found a really nice t-shirt!”
+「あー、[H名]はそういう感じ好きそうだね」=“Aah, that does seem like the sort of thing you'd like, doesn't it?”
+「ああ！　豪快な筆使いながらも、質実剛健、正々堂々という感じがひしひしと伝わってくる！」=“Aah! The brushwork is bold, yet you can truly feel the sincerety behind it!”
+「でも……泡盛ってお酒の名前だからね？」=“But... just so you know, Awamori is the name of a liqour, alright?”
+「知っているとも。できれば『騎士道』と書いてあるものが良かったのだが、無いと言われてしまった」=“Of course, I am aware. I would have preferred one with "chivalry" on it instead, however it seems they do not have one of those.”
+「店員さんに聞いたんだ？」=“You asked the clerk?”
+「ああ、どうしてもと言うなら、自分で書いてはどうかと勧められた……」=“Aah, I was even given the suggestion of doing it myself, if I wanted one so badly...”
+「それ、アリなんじゃない？　無地のＴシャツを買ってさ、自分で筆を使って書いてみたら？」=“Wouldn't that work? You could buy a blank shirt and write that on it yourself, no?”
+「むぅ……しかし、ここまで上手く書ける自信はないぞ？」=“Muh... however, I likely would not be able to do such a good job of it, you realize?”
+「別に上手く書く必要はないんじゃないかな。それこそ、魂がこもってればいい的な？」=“Does it need to be a "good job"? I mean, a rougher job would have more soul in it anyway, no?”
+「確かに……そう言われると一理あるな。貴殿も一緒に書いてくれるか？」=“You're not wrong... certainly, I can see what you are getting at. Will you write it with me?”
+「いいよ。お互いの名前を書いたペアルックＴシャツとかにしようか？」=“Sure. Wanna just go all out and make something like couples' shirts for each other with our names on them?”
+「なっ、待て！　それは流石にどうなのだ？　周りから後ろ指をさされるようなことにならないか？」=“Wha--, hold your horses! That would really be too much, no? Will people not end up talking about us behind our backs over that?”
+「そう？　俺は全然アリだと思うけどなぁ……」=“You think so? I think they'd look pretty good, personally~...”
+「や、やはりこの泡盛Ｔシャツが一番だな！　うん、一目見て良いと思ったものを買うのが正解だろう！」=“N-Now that I'm looking at it again, this Awamori t-shirt truly is nice! Indeed, one should always go with their first choice!”

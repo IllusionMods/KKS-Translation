@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「観光は楽しかったな。まぁ、貴殿と一緒だと我は何でも楽しくなってしまうのだが……」=
+「観光は楽しかったな。まぁ、貴殿と一緒だと我は何でも楽しくなってしまうのだが……」=“That was quite fun. Well, not that it matters, since I can enjoy myself just about anywhere as long as you're there...”

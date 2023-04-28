@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「まさか、こんな綺麗に塗ってもらえるとはな……助かった、感謝するぞ」=
-//「ほぅ、なかなかの腕前だったな。いい意味で予想を裏切られた」=
-//「ありがとう。多少気になる点はあったが、まぁ概ね満足だ」=
-//「どうした？　貴殿から言い出したことだぞ？　怖気づくとは情けない」=
+「まさか、こんな綺麗に塗ってもらえるとはな……助かった、感謝するぞ」=“To think you'd put it on so well... I'm grateful, thank you.”
+「ほぅ、なかなかの腕前だったな。いい意味で予想を裏切られた」=“Hoh, I see you're no slouch. You betrayed my expectations, though in a good way.”
+「ありがとう。多少気になる点はあったが、まぁ概ね満足だ」=“Thank you. Some points did bother me, but well, I am more or less satisfied.”
+「どうした？　貴殿から言い出したことだぞ？　怖気づくとは情けない」=“What's wrong? You were the one who suggested this, you know? Are you a chicken?”

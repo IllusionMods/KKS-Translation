@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「本音を言えば、まだ遊び足りないが……自重しておこう。また貴殿と遊べるのを楽しみにしているよ」=
+「本音を言えば、まだ遊び足りないが……自重しておこう。また貴殿と遊べるのを楽しみにしているよ」=“If I can be honest, I still have not played enough... however, I shall endure. I'll be looking forward to the next time.”
