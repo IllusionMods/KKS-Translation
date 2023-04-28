@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「……それじゃあ、シてもいいかな？」=“...So then, could we start then?”
-「ええけど、もっとこう……ムード的な何かを演出しようっちゅう努力がないねんなぁ……それがちょっと不満や」=“Sure but, ya know... ya should put in a bit more effort creatin' a proper mood and stuff~... can't say I'm too keen on how yer goin' about it.”
-「まあ、今更言うてもしゃーないかぁ……ウチもムード作るんめっさ苦手やし……ほいだら、始めよかー」=“Well, guess that ship's sailed at this point anyway... I'm super bad at creatin' a proper mood and stuff myself too so... c'mon, let's start~”
+//「……それじゃあ、シてもいいかな？」=
+//「ええけど、もっとこう……ムード的な何かを演出しようっちゅう努力がないねんなぁ……それがちょっと不満や」=
+//「まあ、今更言うてもしゃーないかぁ……ウチもムード作るんめっさ苦手やし……ほいだら、始めよかー」=

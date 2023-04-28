@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「え！？　急に切り込んできたやん……ちょ、や、その……あー、ど、どない言うてええんかわからへんねんけど……」=“Eh?! Ya sure get to the point real quick... I mea--, no--, uhm... aah~, I-I dunno what to even say...”
-「も、もしかして断る言葉を選んでる……？」=“A-Are you trying to figure out how to best turn me down...?”
-「いや、断ったりせんて。付き合ったりするんは全然オッケーやねん……けど……」=“No, I ain't doin' that. I'm super duper fine with goin' out... but...”
-「あ、そ、そうなんだ……俺、告白成功してたんだ……それで、『けど』って何？」=“Ah, I-I see... My confession got through... so, what's the 'but' for?”
-「あー、その……コンビ名、どないしよっかなーって……」=“Ah~, ya know... kinda can't come up with a combo name for our duo...”
-「コンビ名…………？　あ、いや、なんでやねーん！！」=“A combo name...? Ah, no, like hell ya dummy!!”
-「ツッコミ、下手くそやなぁ。まあええわ……これからキッチリ仕込んだるで……へへへ」=“Yer tsukkomis suck super bad~. Well whatever... I'mma drill 'em into ya thoroughly... heheheh~”
+//「え！？　急に切り込んできたやん……ちょ、や、その……あー、ど、どない言うてええんかわからへんねんけど……」=
+//「も、もしかして断る言葉を選んでる……？」=
+//「いや、断ったりせんて。付き合ったりするんは全然オッケーやねん……けど……」=
+//「あ、そ、そうなんだ……俺、告白成功してたんだ……それで、『けど』って何？」=
+//「あー、その……コンビ名、どないしよっかなーって……」=
+//「コンビ名…………？　あ、いや、なんでやねーん！！」=
+//「ツッコミ、下手くそやなぁ。まあええわ……これからキッチリ仕込んだるで……へへへ」=

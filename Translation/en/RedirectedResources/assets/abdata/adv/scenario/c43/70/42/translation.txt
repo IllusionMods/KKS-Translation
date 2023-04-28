@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ふ～ん……想像してたより、難しくない……かな？」=“Hmm~... it's not as hard as I... thought it'd be?”
-「でも、丁寧さ、めっちゃ必要やで。こりゃ、手ぇ抜かれへんなっ……むむむ、集中集中～～……」=“But, it needs a whole lotta care. Can't let myself get distracted--... mumumuh, gotta concentrate~...”
-「どう？　どんな感じ？」=“So, how's it going?”
-「ん～～……まあまあやな。ウチのセンスがエグいくらい色使いに現れとる。そっちは？」=“Nnn~~... pretty so-so. All my tastes are showin' up in the color. You?”
-「あはは、変な色使いになっちゃった……」=“Ahahah, it kinda took a weird turn midway...”
-「いや、うん……そんなに悪ない思うで？　Ｔシャツの柄にピッタリや」=“Yeah, it sure did... it's not that bad, ya know? Could put that on a t-shirt.”
-「そ、そう？　ありがとう……」=“Y-You think? Thanks...”
+//「ふ～ん……想像してたより、難しくない……かな？」=
+//「でも、丁寧さ、めっちゃ必要やで。こりゃ、手ぇ抜かれへんなっ……むむむ、集中集中～～……」=
+//「どう？　どんな感じ？」=
+//「ん～～……まあまあやな。ウチのセンスがエグいくらい色使いに現れとる。そっちは？」=
+//「あはは、変な色使いになっちゃった……」=
+//「いや、うん……そんなに悪ない思うで？　Ｔシャツの柄にピッタリや」=
+//「そ、そう？　ありがとう……」=

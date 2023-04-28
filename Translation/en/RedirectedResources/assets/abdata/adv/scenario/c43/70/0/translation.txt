@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「あー……なんか自分、めっちゃエエなぁ」=“Ah~... yer kinda super fun~”
-「めっちゃエエでしょ？　[H名]こそ。めっちゃエエよ」=“Ain't I though? You too. You're super fun.”
-「ホンマ？　そない言われたら、ホンキ出さんとしゃーないな」=“For real? Guess I'mma have ta pull out all the stops then.”
-「本気？　本気を出すとどうなるの？」=“All the stops? And what does that entail?”
-「もっと、こう……ガーッと行くっちゅうこっちゃ」=“More, like... come at ya, ya know?”
-「…………ごめん、よくわかんない」=“...Sorry, I don't get it.”
-「気にせんでエエよ。ほな今後とも仲良ぉしたってな」=“Ya don't need ta mind it. C'mon, gimme a friendly handshake.”
-「うん。こちらこそ、仲良くしてね！」=“Sure. Let's become even more friendly with each other!”
+//「あー……なんか自分、めっちゃエエなぁ」=
+//「めっちゃエエでしょ？　[H名]こそ。めっちゃエエよ」=
+//「ホンマ？　そない言われたら、ホンキ出さんとしゃーないな」=
+//「本気？　本気を出すとどうなるの？」=
+//「もっと、こう……ガーッと行くっちゅうこっちゃ」=
+//「…………ごめん、よくわかんない」=
+//「気にせんでエエよ。ほな今後とも仲良ぉしたってな」=
+//「うん。こちらこそ、仲良くしてね！」=

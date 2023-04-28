@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「はぁ……ここで断るんもなんか悪いしな……ほな、ちょっとやってみる？」=“Haah... I'd feel bad sayin' no here too... c'mon, wanna try it?”
+//「はぁ……ここで断るんもなんか悪いしな……ほな、ちょっとやってみる？」=

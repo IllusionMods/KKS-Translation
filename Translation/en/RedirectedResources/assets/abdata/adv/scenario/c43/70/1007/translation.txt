@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「うわー、めっちゃ綺麗やん！　この窓。デカいし、透明やし」=“Uwah~, it's super pretty! This window, it's so big, so transparent too.”
-「注目するの、そこ！？」=“That's what you notice first!?”
-「あ、ごめんごめん。ついうっかり……」=“Ah, sorry sorry. I just couldn't help it...”
-「いや、うっかりって返しもよくわかんないけど……まあ、それにしても、立派で、綺麗な水族館だね」=“No, even if you say that... well, that aside, what an amazing aquarium, isn't it?”
-「うん、マジで綺麗やな～。色とりどりのサンゴ礁に、原色バリバリの小魚の群れ……」=“Yep, it's seriously pretty~. Schools of pure colored fish, swimming around within multicolored corals...”
-「めっちゃ可愛いなぁ。この近海の海中も、こんな感じなんやろうけど……」=“It's super cute~. I mean, it probably looks just like this within the sea outside too...”
-「まあ、それなら素潜りでもすれば良さそうだけどね」=“Well, we could go skin diving there sometime too.”
-「いやぁ、息、そないに続かへんやん？　ウチ、落ち着いた状態でジックリ見たいわ。お茶でも飲みながら」=“Nah, I don't think I can keep my breath held that long, ya know? I wanna take my time savourin' the view. With some tea or sumthin'.”
-「……この水族館、飲食禁止っぽいけどね」=“...Eating and drinking's banned in here though, you know.”
-「マジかー……非常時には、ここの魚、釣って食うたろ思てたのにな～」=“For real~?... And here I thought that we could fish in these tanks and eat them, in an emergency~”
-「さっき、めっちゃ可愛いって言ってたのに？」=“You just called them super cute though?”
-「うん、せやから非常時には陥らへんようにしたいもんやで」=“Yep, so I wouldn't want them to be in an emergency.”
-「……けど、なんやろな。この底知れぬシーフードへの誘惑は。水族館の中に、寿司屋作ったら、めっちゃ繁盛しそうやな」=“...But I wonder why. The appeal of this bottomless amount of seafood is just somethin' else. If we set up a sushi bar in here, bet we'd never run outta customers.”
-「そ、そうかなぁ……動物園の横に焼肉屋があったら、繁盛すると思う？」=“Y-You think?... Do you think a BBQ shop inside a zoo would do all that well?”
-「どうやろ……？　まあまあイケそうな気ぃするけどなぁ」=“Who knows...? I think it'd work pretty good myself~”
-「……ま、まあ、ともかく。ゆっくりと館内を見て回ろう」=“...W-Well, anyway. Let's take our time exploring the place.”
+//「うわー、めっちゃ綺麗やん！　この窓。デカいし、透明やし」=
+//「注目するの、そこ！？」=
+//「あ、ごめんごめん。ついうっかり……」=
+//「いや、うっかりって返しもよくわかんないけど……まあ、それにしても、立派で、綺麗な水族館だね」=
+//「うん、マジで綺麗やな～。色とりどりのサンゴ礁に、原色バリバリの小魚の群れ……」=
+//「めっちゃ可愛いなぁ。この近海の海中も、こんな感じなんやろうけど……」=
+//「まあ、それなら素潜りでもすれば良さそうだけどね」=
+//「いやぁ、息、そないに続かへんやん？　ウチ、落ち着いた状態でジックリ見たいわ。お茶でも飲みながら」=
+//「……この水族館、飲食禁止っぽいけどね」=
+//「マジかー……非常時には、ここの魚、釣って食うたろ思てたのにな～」=
+//「さっき、めっちゃ可愛いって言ってたのに？」=
+//「うん、せやから非常時には陥らへんようにしたいもんやで」=
+//「……けど、なんやろな。この底知れぬシーフードへの誘惑は。水族館の中に、寿司屋作ったら、めっちゃ繁盛しそうやな」=
+//「そ、そうかなぁ……動物園の横に焼肉屋があったら、繁盛すると思う？」=
+//「どうやろ……？　まあまあイケそうな気ぃするけどなぁ」=
+//「……ま、まあ、ともかく。ゆっくりと館内を見て回ろう」=

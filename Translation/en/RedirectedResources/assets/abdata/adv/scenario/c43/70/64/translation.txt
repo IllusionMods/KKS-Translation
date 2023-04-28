@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「は～～……変な気分になりそうなぐらい、エエ気持ちやったわ～」=“Haah~~... that felt so good, I'm almost feelin' all weird here~”
-「うん、なんかめっちゃよかった……またお願いしよかな」=“Yep, that was great... maybe I'll ask for that again sometime.”
-「ふー……ちゃんと塗れた？　それやったらエエか」=“Fuh~... did ya put it on everywhere? Guess that's that then.”
-「……ああ、塗らへんパターンね。まあ、そういうボケもありっちゃありやな」=“...Aah, it's that sorta gag, huh? Well, I guess it works too.”
+//「は～～……変な気分になりそうなぐらい、エエ気持ちやったわ～」=
+//「うん、なんかめっちゃよかった……またお願いしよかな」=
+//「ふー……ちゃんと塗れた？　それやったらエエか」=
+//「……ああ、塗らへんパターンね。まあ、そういうボケもありっちゃありやな」=

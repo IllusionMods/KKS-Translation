@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-OPTION[100]:気持ちに応える=Respond to her feelings.
-気持ちに応える=Respond to her feelings.
+//OPTION[100]:気持ちに応える=
+//気持ちに応える=
 OPTION[100]:……ごめん=...Sorry.
 ……ごめん=...Sorry.
 OPTION[101]:いいよ=OK.
@@ -13,14 +13,14 @@ OPTION[102]:いいよ=OK.
 OPTION[102]:ごめん=Sorry.
 OPTION[103]:いいよ=OK.
 OPTION[103]:ごめん=Sorry.
-OPTION[104]:いいね、体験してみよう=Sounds fun, let's do it.
-いいね、体験してみよう=Sounds fun, let's do it.
-OPTION[104]:別にいいかな=I think I'm good, honestly.
-別にいいかな=I think I'm good, honestly.
-OPTION[105]:空いてたから付き合うよ=I actually am, so sure.
-空いてたから付き合うよ=I actually am, so sure.
-OPTION[105]:空いてないかな=I think I'm good for now.
-空いてないかな=I think I'm good for now.
+//OPTION[104]:いいね、体験してみよう=
+//いいね、体験してみよう=
+//OPTION[104]:別にいいかな=
+//別にいいかな=
+//OPTION[105]:空いてたから付き合うよ=
+//空いてたから付き合うよ=
+//OPTION[105]:空いてないかな=
+//空いてないかな=
 OPTION[201]:いいよ=OK.
 OPTION[201]:ごめん=Sorry.
 OPTION[202]:いいよ=OK.
@@ -30,6 +30,6 @@ OPTION[203]:ごめん=Sorry.
 OPTION[204]:いいよ=OK.
 OPTION[204]:ごめん=Sorry.
 OPTION[205]:いいよ=OK.
-OPTION[205]:空いてないかな=I think I'm good for now.
+//OPTION[205]:空いてないかな=
 OPTION[207]:いいよ=OK.
 OPTION[207]:ごめん=Sorry.

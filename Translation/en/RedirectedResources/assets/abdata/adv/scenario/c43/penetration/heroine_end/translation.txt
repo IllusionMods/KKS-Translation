@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「う～ん、これ、けっこうお得やね。ほら、一粒で二度美味しい的な……うん、なんか気に入ってもうたわ」=“Nn~, I made it out like a bandit there. Ya know, kinda like savourin' somethin' twice over... yep, I liked that.”
+//「う～ん、これ、けっこうお得やね。ほら、一粒で二度美味しい的な……うん、なんか気に入ってもうたわ」=

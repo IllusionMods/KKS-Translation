@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ここをこうして……シーサー作り、意外と楽しい……」=“Do this bit like this... man, making shisa is surprisingly fun...”
-「……お？　それ、めっちゃええやん。なんか、守り神って言うより、人を取って食う、祟り神っちゅう感じやけど」=“...Oh? That's super nice. Looks more like a man eatin' demon god than a guardian diety though.”
-「ワイルドでかっこいいでしょ？　そっちは？」=“Ain't that cool though? It's nice and wild. What about yours?”
-「……ウチ、アカンわ。なんか、こう……可愛さがグイグイくる感じになってもうたわ」=“...Mine ain't good. It's kinda, like... it keeps overflowin' cuteness no matter what I try.”
-「うん、そうだね……可愛いよ。大きな猫って感じ」=“Yep, it sure does... it's adorable. Looks like a big cat, almost.”
-「まあ、おんなじ猫科やし……これでええか」=“Well, it's a feline just like shisas so... guess it's fine.”
-「シーサーって猫科なのかなぁ……」=“Are shisas really feline though...”
+//「ここをこうして……シーサー作り、意外と楽しい……」=
+//「……お？　それ、めっちゃええやん。なんか、守り神って言うより、人を取って食う、祟り神っちゅう感じやけど」=
+//「ワイルドでかっこいいでしょ？　そっちは？」=
+//「……ウチ、アカンわ。なんか、こう……可愛さがグイグイくる感じになってもうたわ」=
+//「うん、そうだね……可愛いよ。大きな猫って感じ」=
+//「まあ、おんなじ猫科やし……これでええか」=
+//「シーサーって猫科なのかなぁ……」=

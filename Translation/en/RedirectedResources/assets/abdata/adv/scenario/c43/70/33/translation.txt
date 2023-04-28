@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「結構よかったで～。また誘たってな」=“That was pretty nice~. Ask me again.”
+//「結構よかったで～。また誘たってな」=

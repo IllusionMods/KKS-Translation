@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「……嬉しいよ。まさか、[H名]から告白してくれるだなんて……も、もちろん返事はオッケーだよ」=“...That makes me really happy. I can't believe you're the one confessing to me... o-of course, the answer's a yes.”
-「ホンマ？　はー…………よかったぁ……めっさ緊張したわー……けど、勇気出してよかったー……」=“Ya mean it? Haah~... thank god~... that made me super nervous~... but I'm glad I shot for it~...”
-「うん、勇気してくれてありがとう……」=“Yep, thanks for going for it...”
-「ほんなら……ウチは、もう自分の彼女的なアレなん？」=“So now... I'm somethin' like yer girlfriend and stuff?”
-「いや、『的なアレ』じゃなく、彼女そのものだよ」=“No, not just "something like" but rather my girlfriend, no ifs no buts.”
-「マジかー……うわー、エラいことなったなぁ……そーかぁ、ウチが彼女かぁ……まず、コンビ名から考えんといかんな」=“Damn~... uwah~, this sure got big all of a sudden~... I see~, your girlfriend, huh~... we're gonna have to think up a name fer our comedy duo.”
-「コンビ名…………って、いや、なんやそれ！！」=“Comedy duo... uh, I mean, heck's that!!”
-「お？　ええツッコミやん……こりゃ安心やな」=“Oh? Nice tsukkomi... that's a major relief.”
-「そ、そう？　ともかく今後ともよろしくね」=“T-That so? Well I'm glad to hear that.”
+//「……嬉しいよ。まさか、[H名]から告白してくれるだなんて……も、もちろん返事はオッケーだよ」=
+//「ホンマ？　はー…………よかったぁ……めっさ緊張したわー……けど、勇気出してよかったー……」=
+//「うん、勇気してくれてありがとう……」=
+//「ほんなら……ウチは、もう自分の彼女的なアレなん？」=
+//「いや、『的なアレ』じゃなく、彼女そのものだよ」=
+//「マジかー……うわー、エラいことなったなぁ……そーかぁ、ウチが彼女かぁ……まず、コンビ名から考えんといかんな」=
+//「コンビ名…………って、いや、なんやそれ！！」=
+//「お？　ええツッコミやん……こりゃ安心やな」=
+//「そ、そう？　ともかく今後ともよろしくね」=

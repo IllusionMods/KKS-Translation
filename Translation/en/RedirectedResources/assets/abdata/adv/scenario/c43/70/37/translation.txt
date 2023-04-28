@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「マングローブにカヤックか～……。ええねぇ、南国ならではって感じやね～」=“A kayak through the mangroves, huh~... Sounds fun, would be a shame to not do it after we came all the way to this island~”
-「うん、楽しそうだね。それじゃ早速乗ろう！」=“Yep, really does sound fun. Let's get on it then!”
-「まあ、待ちーや。その前に大事なこと決めんと……前がええ？　後ろがええ？」=“Hold yer horses there. Ya gotta decide somethin' important first... do ya prefer it in the front? Or the rear?”
-「……それって、いやらしい意味じゃないよね？」=“...You don't mean what I think you mean by that, right?”
-「わかってるくーせーにー。で、どっちがええ？　文句あるなら問答無用で前に乗ってもらうで」=“Ya know exactly what I mean~. Now then, which is it? If ya've got a problem then ya can just go in the front.”
-「まあ、それでも全然構わないけど」=“Well, I'd be fine with that too.”
+//「マングローブにカヤックか～……。ええねぇ、南国ならではって感じやね～」=
+//「うん、楽しそうだね。それじゃ早速乗ろう！」=
+//「まあ、待ちーや。その前に大事なこと決めんと……前がええ？　後ろがええ？」=
+//「……それって、いやらしい意味じゃないよね？」=
+//「わかってるくーせーにー。で、どっちがええ？　文句あるなら問答無用で前に乗ってもらうで」=
+//「まあ、それでも全然構わないけど」=

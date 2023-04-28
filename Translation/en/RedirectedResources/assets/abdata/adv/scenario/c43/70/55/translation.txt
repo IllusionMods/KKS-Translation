@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「なあなあ、[Pあだ名]～？」=“Hey hey, [Pあだ名]~?”
-「……どうしたの、突然。その呼び方、何？」=“...What's up with you suddenly? What's with that name?”
-「なんか急に、そない呼びたなってん。イヤやった？」=“I just kinda felt like it, all of a sudden. Ya don' like it?”
-「いや、別にイヤやおまへんけど」=“Nah, I mean, I dun really mind it.”
-「ほんまぁ～。よかったわぁ……ほんならたまに呼ぼうかなー」=“For real~? Thank god~... maybe I'll call ya that every so often then~”
-「ええ、そないしておくれやす～」=“Shure, ya do that~”
-「……どないしたん？　急に訛ってくるやん」=“...What's up? Ya dun talk like that.”
-「うん、俺も真似してみようかなーって」=“Yep, thought I'd try playing at it too.”
-「どこ真似してんの……。普通、『じゃ、俺もあだ名で呼ぼうかな』やろ？」=“Playin' at what... Normally, ya'd go fer「Then, I'll call you one too」, no?”
-「あ、そっち……？　んー……じゃあ[Hあだ名]なんてどう？」=“Ah, that...? Nn~... how about [Hあだ名] then?”
-「ええやん。ほな、自分もたまに呼んでーや。けど、訛りは禁止な」=“Sounds nice. C'mon, ya call me that every so often too. But, no more talkin' like that.”
-「えー、訛りたかったなぁ……」=“Eh~, but it's fun~...”
+//「なあなあ、[Pあだ名]～？」=
+//「……どうしたの、突然。その呼び方、何？」=
+//「なんか急に、そない呼びたなってん。イヤやった？」=
+//「いや、別にイヤやおまへんけど」=
+//「ほんまぁ～。よかったわぁ……ほんならたまに呼ぼうかなー」=
+//「ええ、そないしておくれやす～」=
+//「……どないしたん？　急に訛ってくるやん」=
+//「うん、俺も真似してみようかなーって」=
+//「どこ真似してんの……。普通、『じゃ、俺もあだ名で呼ぼうかな』やろ？」=
+//「あ、そっち……？　んー……じゃあ[Hあだ名]なんてどう？」=
+//「ええやん。ほな、自分もたまに呼んでーや。けど、訛りは禁止な」=
+//「えー、訛りたかったなぁ……」=

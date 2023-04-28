@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「自分、エグいなぁ……いっぺんに二人も……いやぁ、普通に感心するわ」=“Yer somethin' else~... takin' us both down like that... no~, I'm just impressed here.”
+//「自分、エグいなぁ……いっぺんに二人も……いやぁ、普通に感心するわ」=

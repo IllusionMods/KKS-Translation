@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「……なあ、ウチのこの状況って、アレやんな？　ほら、その…………アレを、アレで、アレなことをやなぁ……」=“...Hey, so I'm like, in that sorta situation, innit? C'mon, ya know... doin' that thin', with that thin', in my thin'...”
-「あ、いや、その……なんちゅうか…………ちょっと緊張してんねん。ほんま、そんだけやし……」=“Ah, no, well... how do I... I'm kinda nervous, ya know? I mean it, that's all it is...”
-「せやから、その…………優しゅうしたってな？」=“So like, ya know... be gentle, aight?”
+//「……なあ、ウチのこの状況って、アレやんな？　ほら、その…………アレを、アレで、アレなことをやなぁ……」=
+//「あ、いや、その……なんちゅうか…………ちょっと緊張してんねん。ほんま、そんだけやし……」=
+//「せやから、その…………優しゅうしたってな？」=

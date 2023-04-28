@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「……まあ、ええか。楽しそうやん」=“...Well, why not? Sounds fun.”
-「全然ええで！　ちょうど、人手が欲しいな思ててん」=“I'm down! I was just thinkin' that I could use a hand here.”
+//「……まあ、ええか。楽しそうやん」=
+//「全然ええで！　ちょうど、人手が欲しいな思ててん」=

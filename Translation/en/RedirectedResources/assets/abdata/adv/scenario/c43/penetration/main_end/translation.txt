@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「あー……なんや、これー……思ってた百倍ぐらい、おもろかったやん……でも、ちょっとしんどいわ……」=“Ah~... what is, this~... that was a hundred times more fun, than I thought it'd be... but, I feel knackered...”
+//「あー……なんや、これー……思ってた百倍ぐらい、おもろかったやん……でも、ちょっとしんどいわ……」=

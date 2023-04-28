@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「うっわっ、全身砂でジャリジャリや……。でもおおきに、楽しかったで～」=“Uwah--, my whole body's all covered in sand... But thanks, I had a ton of fun~”
+//「うっわっ、全身砂でジャリジャリや……。でもおおきに、楽しかったで～」=

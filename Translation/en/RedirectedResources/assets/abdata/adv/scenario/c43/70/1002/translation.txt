@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「卓球台があるよ。よかったらやっていかない？」=“They've got a ping pong table. Wanna try it out?”
-「おっしゃ～～、もう一勝負行こか！」=“Aight~~, time for a round then!”
+//「卓球台があるよ。よかったらやっていかない？」=
+//「おっしゃ～～、もう一勝負行こか！」=
 「…………」=“...”
-「なんか言いたいことありそうやん……？　言うてええで」=“Ya seem like yer itchin' ta say somethin'... Just go ahead.”
-「いや、そんなに自信満々な態度で構えなのに、全然下手っぴだなーって」=“No well, you just went into that so confidently, I didn't think you'd be that bad at it, you know?”
-「別にええやん。勝負にはハッタリも必要やしな」=“Eh that's fine. Bluffin's part of any game too.”
-「うん、まあ全然いいんだけど……でも、楽しんでる？」=“Yep, I mean not that I mind or care... but, are you having fun?”
-「そらもう、めっちゃ楽しいで。なんか、こう……緊張感がたまらんわ」=“Well of course, it's super fun. It's kinda, like... the tension is just too good.”
-「……気楽にやろうよ」=“...Let's just take it easy.”
-「でも、リラックスし過ぎたら、ラケットが手ぇからすっぽ抜けてまうし……」=“But, if I relax too much, the racket's gonna end up slippin' outta my hand so...”
-「それはリラックスしすぎかも……ま、まあいいや、続きしよっか」=“That might be relaxing a bit too much for sure... w-well, whatever, let's just play.”
-「ふっふっふ、ウチはしつこいでぇ？　潔ええ時もあるけどな！」=“Fuh fuh fuh, I'm a sore loser, ya know~? Though I've got my pure side too!”
-「う、うん……わかってる……」=“Y-Yeah... I know...”
+//「なんか言いたいことありそうやん……？　言うてええで」=
+//「いや、そんなに自信満々な態度で構えなのに、全然下手っぴだなーって」=
+//「別にええやん。勝負にはハッタリも必要やしな」=
+//「うん、まあ全然いいんだけど……でも、楽しんでる？」=
+//「そらもう、めっちゃ楽しいで。なんか、こう……緊張感がたまらんわ」=
+//「……気楽にやろうよ」=
+//「でも、リラックスし過ぎたら、ラケットが手ぇからすっぽ抜けてまうし……」=
+//「それはリラックスしすぎかも……ま、まあいいや、続きしよっか」=
+//「ふっふっふ、ウチはしつこいでぇ？　潔ええ時もあるけどな！」=
+//「う、うん……わかってる……」=

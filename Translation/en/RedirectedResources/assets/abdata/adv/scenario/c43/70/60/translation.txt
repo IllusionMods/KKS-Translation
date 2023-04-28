@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「まいどー。今、時間ある～？　いや、まあ忙しかったら別にええねんけど…………あがってもええ？」=“Hey, I kno' it's outta nowhere~. Do ya have time right now~? If ya don't, well, that's fine too... mind if I come in?”
+//「まいどー。今、時間ある～？　いや、まあ忙しかったら別にええねんけど…………あがってもええ？」=
 SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-「どうぞどうぞ、ちょっと散らかってるけど」=“You're always welcome. Sorry for the mess though.”
-「かまへんかまへん、小綺麗な方が逆に落ち着かへんし」=“It's fine, it's fine. Feels more awkward when it's all neat an' tidy anyway.”
-「さて、と……ほな、一緒にゴロゴロしよか。今、精神エネルギーが足りひんねん……ちょっと補充させてな」=“Now, then... c'mon, let's roll aroun' in bed together. My stores of heart-energy are runnin' a little low... lemme recharge 'em.”
-「え～～？　うそーん……おらんとかある～～？　マジかー……寂しいなぁ……」=“Eeh~~? No way~... ya ain't in or sumthin'~? For real~?... I feel so lonely...”
+//「どうぞどうぞ、ちょっと散らかってるけど」=
+//「かまへんかまへん、小綺麗な方が逆に落ち着かへんし」=
+//「さて、と……ほな、一緒にゴロゴロしよか。今、精神エネルギーが足りひんねん……ちょっと補充させてな」=
+//「え～～？　うそーん……おらんとかある～～？　マジかー……寂しいなぁ……」=

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「お～～、なんか渋いとこ、攻めるやん。ウチ、こういう雰囲気の店、結構好きやねん」=“Ooh~~, pretty tasteful place, this. I like places like these a lot.”
-「よかった。実は俺もこういう店好きなんだよね」=“Great. I actually like this sort of a mood myself too, you know?”
-「ええセンスしとるわ。さ～て、何、食べよっかなー」=“Ye've got pretty good taste. Now then~, what should I get~”
-「船着き場だからね、シーフードが名物みたいだよ」=“We're near the harbour so, seems like it's pretty well known for its seafood.”
-「ほんまや……刺し身の盛り合わせ、めっちゃ美味しそうやん！　頼もっ。ほいで、めっちゃ食おっ」=“For real... this sashimi platter looks super delish! Let's go with this--. C'mon, let's eat our hearts out--”
-「うんうん、そうしよう。めっちゃ食べよう」=“Yepyep, let's do that. Stuff ourselves till we can't anymore.”
+//「お～～、なんか渋いとこ、攻めるやん。ウチ、こういう雰囲気の店、結構好きやねん」=
+//「よかった。実は俺もこういう店好きなんだよね」=
+//「ええセンスしとるわ。さ～て、何、食べよっかなー」=
+//「船着き場だからね、シーフードが名物みたいだよ」=
+//「ほんまや……刺し身の盛り合わせ、めっちゃ美味しそうやん！　頼もっ。ほいで、めっちゃ食おっ」=
+//「うんうん、そうしよう。めっちゃ食べよう」=

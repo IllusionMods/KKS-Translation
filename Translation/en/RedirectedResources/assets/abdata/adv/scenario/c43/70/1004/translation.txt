@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「綺麗な浜辺だね。ちょっと歩いてみない？」=“What a beautiful beach. Wanna go take a walk?”
-「風が気持ちええな～～……ええ雰囲気やん。映画のワンシーンにぴったりやね」=“The breeze feels so nice~~... what a nice atmosphere. Feels almost exactly like one of those scenes from a movie.”
-「うん、いい風だ。恋愛映画にピッタリのビーチだね。素敵なシーンになりそうだ」=“Yep, it's a nice breeze. The beach is almost a perfect fit for a romantic movie, isn't it? You could direct an amazing scene with this backdrop.”
-「うんうん、恋愛にウツツを抜かす、警戒心の欠片もないアホ男女が血祭りにあげられるシーンにピッタリや」=“Yepyep, just perfect for one of those scenes where a lovebird couple with not a shred of wariness are offered up to the blood gods.”
-「ホ、ホラー映画を想定してるとは思ってなかったよ……」=“I-I didn't think you meant a horror movie...”
-「もしくはサメ映画な。知っとる？　最近のサメ映画、結構エグいことになっとるって話やわ。知らんけど」=“Could also be a shark film. Did'ya know? Apparently shark films are pretty intense these days. Dunno tho.”
-「知らないの……？　いや、口癖なんだろうけど」=“You don't...? No, well I guess that's one of your stock phrases.”
-「実は、サメ映画とかホラー映画とかあんまり見いひんねんなぁ～」=“I actually don't really go see shark films or horror films all that much, ya know~”
-「そうなの？」=“Really?”
-「だって、めっちゃ怖いやろ？　いや、ウチも大人やし、苦手なことを一つ一つ潰していかんとアカン思てんねんけどなぁ」=“I mean, they're super scary, no? No, well, I'm a grown up too, and I know that I gotta overcome all these things that I can't handle one after the other too.”
-「ああ、そういうの大事だね」=“Yeah, that stuff is important.”
-「けど……まあ、いきなり怖いもん見たら、心臓壊れて死ぬやん？　せやからさ……お願いがあんねん」=“But... well, if I just started watchin' somethin' scary like that, won't my heart crack and kill me? So... I've a request.”
-「心臓マッサージ？　それとも人工呼吸？」=“What, a cardiac massage? Or some CPR?”
-「あー、そうそう、命を繋ぎ止めるためにはそーいうの大事やね～～……って、どんなお願いやねんっ」=“Ah~, exactly, that sorta stuff is real important, ya know? To keep someone on this side of the lifestream~... wuh, what sorta request is that even--”
-「いや～～、ええ感じでボケてくれるやん？　自分のそーいうとこ、めっちゃ好きやねん」=“Man~, ya sure know how to follow up, don'tcha? I love that side of ya, for real.”
-「あはは……それで、お願いって何？」=“Ahahah... so then, what's the request?”
-「そー、そー……えーっと、だからぁ、怖い映画見る時、一緒におってくれへん？　できたら手ぇ繋ぎっぱなしで」=“Right, so~... erhm~, so basically~, won'tcha come be next to me, when I watch one of those? If ya could hold my hand the whole time too, that'd be just peachy.”
-「それぐらいお安いご用だよ。……なんだったら、今から手をつなぐ？」=“That's nothing. ...I mean, if you want, wanna hold hands now?”
-「……せやな。せっかくのビーチなんやし、お手々つないで散歩するんもええ思い出になりそうや」=“...Yeah. We won't be able to come visit beaches like this often, takin' a walk down the place while holdin' hands might make for some real nice memories.”
-「うん、じゃ、早速――」=“Yep, then, let's--”
-「でも、あんまりイチャイチャはせんとこな？　だって、ほら……殺人鬼の標的にされたないし……」=“But, don't flirt too much, aight? I mean, ya know... I dun wanna end up as a target for some sorta bloodthirsty maniac...”
-「……ホラー映画、苦手過ぎだよ」=“...You're seriously way too terrified of horror films.”
+//「綺麗な浜辺だね。ちょっと歩いてみない？」=
+//「風が気持ちええな～～……ええ雰囲気やん。映画のワンシーンにぴったりやね」=
+//「うん、いい風だ。恋愛映画にピッタリのビーチだね。素敵なシーンになりそうだ」=
+//「うんうん、恋愛にウツツを抜かす、警戒心の欠片もないアホ男女が血祭りにあげられるシーンにピッタリや」=
+//「ホ、ホラー映画を想定してるとは思ってなかったよ……」=
+//「もしくはサメ映画な。知っとる？　最近のサメ映画、結構エグいことになっとるって話やわ。知らんけど」=
+//「知らないの……？　いや、口癖なんだろうけど」=
+//「実は、サメ映画とかホラー映画とかあんまり見いひんねんなぁ～」=
+//「そうなの？」=
+//「だって、めっちゃ怖いやろ？　いや、ウチも大人やし、苦手なことを一つ一つ潰していかんとアカン思てんねんけどなぁ」=
+//「ああ、そういうの大事だね」=
+//「けど……まあ、いきなり怖いもん見たら、心臓壊れて死ぬやん？　せやからさ……お願いがあんねん」=
+//「心臓マッサージ？　それとも人工呼吸？」=
+//「あー、そうそう、命を繋ぎ止めるためにはそーいうの大事やね～～……って、どんなお願いやねんっ」=
+//「いや～～、ええ感じでボケてくれるやん？　自分のそーいうとこ、めっちゃ好きやねん」=
+//「あはは……それで、お願いって何？」=
+//「そー、そー……えーっと、だからぁ、怖い映画見る時、一緒におってくれへん？　できたら手ぇ繋ぎっぱなしで」=
+//「それぐらいお安いご用だよ。……なんだったら、今から手をつなぐ？」=
+//「……せやな。せっかくのビーチなんやし、お手々つないで散歩するんもええ思い出になりそうや」=
+//「うん、じゃ、早速――」=
+//「でも、あんまりイチャイチャはせんとこな？　だって、ほら……殺人鬼の標的にされたないし……」=
+//「……ホラー映画、苦手過ぎだよ」=
