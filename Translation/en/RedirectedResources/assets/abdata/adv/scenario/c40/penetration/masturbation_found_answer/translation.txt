@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「……覗くだけでは満足できんか……まあ、貴殿ならばそう来るだろうと思っていたぞ」=“...Simply peeping isn't enough to satisfy you, huh... well, I did think it would come to this, since it is you.”
-「お互いにしたいことは一緒なのだ、断る理由もあるまい。むしろ、どう楽しむかの方が重要だ」=“We both wish for the same thing here, so I have no reason to refuse. What's more important is, in what way do we enjoy ourselves now?”
+//「……覗くだけでは満足できんか……まあ、貴殿ならばそう来るだろうと思っていたぞ」=
+//「お互いにしたいことは一緒なのだ、断る理由もあるまい。むしろ、どう楽しむかの方が重要だ」=

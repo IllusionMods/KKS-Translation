@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「では、そろそろ我は失礼するぞ。いくら恋人同士とはいえ、節度は守らんとな」=“Well then, I shall be excusing myself. We may be lovers but, some standards must be maintained.”
-「……そう？　もう少し一緒に居てくれてもいいんじゃない？」=“...That so? Do you have to dash out at this very moment? It's not like the world's gonna end.”
-「ふふ、そうしてすぐ、貴殿は我を試すようなことを言う。理性が溶かされてしまう前に、退室した方が良さそうだな」=“Fufuh, you do always test me like that. It would be best for me to make my exit, before all my self control melts away.”
+//「では、そろそろ我は失礼するぞ。いくら恋人同士とはいえ、節度は守らんとな」=
+//「……そう？　もう少し一緒に居てくれてもいいんじゃない？」=
+//「ふふ、そうしてすぐ、貴殿は我を試すようなことを言う。理性が溶かされてしまう前に、退室した方が良さそうだな」=

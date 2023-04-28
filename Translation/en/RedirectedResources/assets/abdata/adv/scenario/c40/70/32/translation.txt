@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「灯台って、レーダーとかがある今でも役に立ってるのかな？」=“Do you think lighthouses are still useful, now that we have stuff like radar and whatnot?”
-「絶対役に立っていると思うぞ。船乗り達にとっては、この灯りが道しるべなのだからな」=“I'm sure they are. To seamen, such lights are their beacons, afterall.”
-「そっか、家の灯りが見えると安心するもんね。それと同じ感じかな？」=“I see, it is kind of relieving to see the lights on when coming home, isn't it? Is it the same sort of thing?”
-「ああ、その通りだ。我も貴殿の灯台のようにありたいものだな」=“Aah, exactly. I wish to become such a lighthouse for you as well.”
-「あれ、剣じゃなくて今度は灯台になるの？」=“Huh, so now you wanna stop being my sword and become a lighthouse now?”
-「なっ……剣であり灯台なのだ！　ほら、剣は光を反射しやすいからな。灯台にだってなれるさ」=“Wha--... I would be a sword and a lighthouse, of course! Afterall, a sword is quite good at reflecting light. It's not all that far from a lighthouse.”
-「そうだね。[H名]を見てると安心するから、もう灯台になれてるよ」=“True. Looking at you relaxes me so, you're already a lighthouse to me.”
+//「灯台って、レーダーとかがある今でも役に立ってるのかな？」=
+//「絶対役に立っていると思うぞ。船乗り達にとっては、この灯りが道しるべなのだからな」=
+//「そっか、家の灯りが見えると安心するもんね。それと同じ感じかな？」=
+//「ああ、その通りだ。我も貴殿の灯台のようにありたいものだな」=
+//「あれ、剣じゃなくて今度は灯台になるの？」=
+//「なっ……剣であり灯台なのだ！　ほら、剣は光を反射しやすいからな。灯台にだってなれるさ」=
+//「そうだね。[H名]を見てると安心するから、もう灯台になれてるよ」=

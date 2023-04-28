@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「やはり勇気は大事だな……二人に声をかけて正解だった。もう、感謝の言葉もない」=“Courage truly is most important of all... it was the right call, to speak up there. I cannot thank you both enough.”
+//「やはり勇気は大事だな……二人に声をかけて正解だった。もう、感謝の言葉もない」=

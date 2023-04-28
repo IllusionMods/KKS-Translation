@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「観光地でホテルのレストランって……ちょっと味気なかったかな？」=“Was it a bit tasteless... to bring us out to a hotel restaurant, on this tourist attraction of an island?”
-「いや、どこでもいつもの味が食べられるのは貴重だぞ。食で冒険すると痛い目を見る時もあるからな……」=“No, it is a very valuable thing, to be able to savour flavours one is used to, no matter where one is. Especially since being adventurous with food can lead to some really bad time...”
-「それはあるね。郷土料理とかって、割と好き嫌いあったりするから」=“For sure. Especially since sometimes local flavours just don't sit well with some people.”
-「その通りだ。故にお互いの好みもよく分かっていない状況なら、ベストな選択だろう」=“Precisely. Thusly, in a situation where neither of us knows the other's palate, you could not have picked a better place.”
-「ありがとう。フォローしてくれて……」=“Thanks. For backing me up there...”
-「なんだ、これだけ言ってまだ気遅れているのか？　折角の食事が不味くなるぞ？　もっと堂々としろ」=“What, still not feeling confident, even after all that? You're not going to enjoy the meal this way. Be more bold and unapologetic.”
+//「観光地でホテルのレストランって……ちょっと味気なかったかな？」=
+//「いや、どこでもいつもの味が食べられるのは貴重だぞ。食で冒険すると痛い目を見る時もあるからな……」=
+//「それはあるね。郷土料理とかって、割と好き嫌いあったりするから」=
+//「その通りだ。故にお互いの好みもよく分かっていない状況なら、ベストな選択だろう」=
+//「ありがとう。フォローしてくれて……」=
+//「なんだ、これだけ言ってまだ気遅れているのか？　折角の食事が不味くなるぞ？　もっと堂々としろ」=

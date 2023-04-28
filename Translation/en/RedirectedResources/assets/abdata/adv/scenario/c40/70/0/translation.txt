@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「その、なんだ……貴殿ともう少し親睦というか、そういうものを深めたいというかだな……つまり、んぅ……」=“Erhm, so... I would like for our amity to erm, for us to deepen our... so uhm, nnnn...”
-「もっと仲良くなりたい……でいいかな？」=“So you wanna... get closer?”
-「そ、そうだ！　流石、貴殿は察しがいいな。それで……どうだ？　我のような女でも、仲良くしてもらえるだろうか？」=“T-That's right! As usual, you are quick on the uptake. So then... how about it? Can you find it within yourself to get closer, even to a woman such as me?”
-「うん、もちろん！　仲良くするの大歓迎だよ」=“Yes, of course! I'd love to get closer to you.”
-「なんと……大歓迎か。はは、そこまで言ってもらえるとは……嬉しいな。うん、実に嬉しい！」=“Truly... you'd love to, you say? Hahah, hearing you say that... does brighten my day. Yep, it truly does!”
-「俺も嬉しいよ。それじゃ……改めてよろしくね」=“Mine too. Well then... to more good times.”
-「ああ、よろしく頼む。貴殿と我の道に、幸多からんことを！」=“Aah, to more good times. To lots and lots more of them!”
+//「その、なんだ……貴殿ともう少し親睦というか、そういうものを深めたいというかだな……つまり、んぅ……」=
+//「もっと仲良くなりたい……でいいかな？」=
+//「そ、そうだ！　流石、貴殿は察しがいいな。それで……どうだ？　我のような女でも、仲良くしてもらえるだろうか？」=
+//「うん、もちろん！　仲良くするの大歓迎だよ」=
+//「なんと……大歓迎か。はは、そこまで言ってもらえるとは……嬉しいな。うん、実に嬉しい！」=
+//「俺も嬉しいよ。それじゃ……改めてよろしくね」=
+//「ああ、よろしく頼む。貴殿と我の道に、幸多からんことを！」=

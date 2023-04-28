@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「はは、まだ上手く力が入らない……イク度に気持ちよさが強くなって、身体が溶けてしまうようだった……」=“Hahah, I still feel limp... everytime I came, it got stronger, it felt as though my body was going to melt...”
+//「はは、まだ上手く力が入らない……イク度に気持ちよさが強くなって、身体が溶けてしまうようだった……」=

@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「あ、見て！　ハリセンボンがいる」=“Ah, look! There's porcupinefish there.”
-「ああ、棘はまだ寝ているな。ストレスなく泳げている証拠だ」=“Aah, without its thorns showing. Proof that it's living a stress free life.”
-「できれば膨らんでるところが見たかったなぁ……」=“It'd have been nice to see it all ballooned up though...”
-「そう言ってやるな。膨らむのは緊急時の防衛体勢なのだ、普段から棘を立てていたら疲れてしまうだろう」=“Don't say that. They do that as a defense mechanism, would you not get tired bracing yourself constantly?”
-「そっか……でも膨らんでる姿って可愛いよね」=“I see... but they look so cute when they're inflated, don't they?”
-「はは、確かにな。本人は精一杯威嚇しているつもりなのだろうが」=“Hahah, indeed. Though for the fish in question it's a matter of intimidating away predators instead.”
-「うんうん、怒ってても可愛いとか……誰かさんと一緒だね」=“Yepyep, they look so adorable even when they're mad... just like a certain someone.”
-「なっ、我は別に膨らんだりしないぞ？」=“Wha--, I do not balloon up like that, you know?”
-「ほら、ちょっと膨らんだ。もう水槽に入れてずっと見てたいくらい可愛いよ」=“There, you just did though. You look so adorable right now I just wanna bottle you up in a fishtank and look at you forever.”
-「むぅぅ……我は魚ではなくて貴殿の恋人だぞ。水槽などに入れなくても、ずっと見たければ好きにすればいい」=“Muuh... I am your lover, not a fish. You need not put me in a tank, if you wish to look at me, you can do it to your heart's content.”
-「ほんと？　じゃあ、ジー……」=“You mean it? Then, *stare*...”
-「ぐ……い、今は魚を見ろ！　ほら、ハリセンボンが膨らんできたぞ！」=“Guh... F-Focus on the fish for now! Look, the fish just ballooned up!”
-「えっ、それは見たい！　おお、ほんとに膨らんでる！」=“Eh--, I wanna see that! Ooh, it really did balloon up!”
-「なんでいきなり膨らんだんだろうね？　近くに大きい魚が来たとかかな？」=“I wonder why it did that? Did it see some big fish nearby?”
-「知らん。我らが騒いでいたからではないか？　うるさくてかなわんと言ってるのかもしれないぞ」=“Do not ask me. Is it not because of us? Perhaps it's telling us that we're being too noisy.”
-「え……こっちも大分、膨らんじゃってる？」=“Eh... are you ballooning up too?”
-「ああ、誰かさんがからかい過ぎるせいでな。棘も立っているから近付かない方がいいぞ？」=“Aah, for a certain someone keeps teasing me too much. My thorns as showing as well, so you would do well to keep your distance, you know?”
-「ごめんて……ギューって抱き締めたらしぼんでくれる？」=“Alright, I'm sorry... will you deflate back down if I hug you tight?”
-「なっ、待て！　だから棘が立っていると言っているだろう？　そんなものを抱き締めたら痛いぞ？」=“Wha--, wait! Did I not just say that my thorns are showing? You're going to be in for quite some pain if you do that, you know?”
-「ちょっと痛いくらいは我慢するよ。それで[H名]の機嫌が直るなら安いものだし」=“I can take a bit of pain. If it'll help you get over that then it's no biggie at all.”
-「まったく、貴殿には敵わんな。別に本当に怒っていたわけじゃない……ほら、もうハリセンボンもしぼんだようだぞ」=“Good grief, there truly is no winning against you. I wasn't actually angry at you, you know... look, even the fish went and deflated away.”
+//「あ、見て！　ハリセンボンがいる」=
+//「ああ、棘はまだ寝ているな。ストレスなく泳げている証拠だ」=
+//「できれば膨らんでるところが見たかったなぁ……」=
+//「そう言ってやるな。膨らむのは緊急時の防衛体勢なのだ、普段から棘を立てていたら疲れてしまうだろう」=
+//「そっか……でも膨らんでる姿って可愛いよね」=
+//「はは、確かにな。本人は精一杯威嚇しているつもりなのだろうが」=
+//「うんうん、怒ってても可愛いとか……誰かさんと一緒だね」=
+//「なっ、我は別に膨らんだりしないぞ？」=
+//「ほら、ちょっと膨らんだ。もう水槽に入れてずっと見てたいくらい可愛いよ」=
+//「むぅぅ……我は魚ではなくて貴殿の恋人だぞ。水槽などに入れなくても、ずっと見たければ好きにすればいい」=
+//「ほんと？　じゃあ、ジー……」=
+//「ぐ……い、今は魚を見ろ！　ほら、ハリセンボンが膨らんできたぞ！」=
+//「えっ、それは見たい！　おお、ほんとに膨らんでる！」=
+//「なんでいきなり膨らんだんだろうね？　近くに大きい魚が来たとかかな？」=
+//「知らん。我らが騒いでいたからではないか？　うるさくてかなわんと言ってるのかもしれないぞ」=
+//「え……こっちも大分、膨らんじゃってる？」=
+//「ああ、誰かさんがからかい過ぎるせいでな。棘も立っているから近付かない方がいいぞ？」=
+//「ごめんて……ギューって抱き締めたらしぼんでくれる？」=
+//「なっ、待て！　だから棘が立っていると言っているだろう？　そんなものを抱き締めたら痛いぞ？」=
+//「ちょっと痛いくらいは我慢するよ。それで[H名]の機嫌が直るなら安いものだし」=
+//「まったく、貴殿には敵わんな。別に本当に怒っていたわけじゃない……ほら、もうハリセンボンもしぼんだようだぞ」=

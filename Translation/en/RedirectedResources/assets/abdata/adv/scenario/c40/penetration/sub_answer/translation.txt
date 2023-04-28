@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「貴殿が男一人でいいと言うなら、我も構わない。三人でしてみよう……」=“If you are fine with this, as the sole man here, then I mind it not either. Let us do it together...”
+//「貴殿が男一人でいいと言うなら、我も構わない。三人でしてみよう……」=

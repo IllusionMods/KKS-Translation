@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「むぅ、終わってしまうと呆気ないものだな……あんなに乱れていたのが嘘のようだ」=“Muh, feels quite disappointing when it ends, doesn't it... it almost feels like an illusion, how hard we were going at it.”
+//「むぅ、終わってしまうと呆気ないものだな……あんなに乱れていたのが嘘のようだ」=

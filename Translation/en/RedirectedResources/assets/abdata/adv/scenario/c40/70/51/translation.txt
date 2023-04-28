@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「やはり食事は一人より二人だな。貴殿と一緒だと、いつもより美味しく感じたぞ」=“Eating meals together really does make a difference. With you in tow, it felt a whole lot more delicious than usual.”
+//「やはり食事は一人より二人だな。貴殿と一緒だと、いつもより美味しく感じたぞ」=

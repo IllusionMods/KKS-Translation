@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「どうした？　調子が悪かったか？　すまない、我が先に気付くべきだったな……」=“What's the matter? Are you not feeling alright today? Apologies, I should have noticed earlier...”
+//「どうした？　調子が悪かったか？　すまない、我が先に気付くべきだったな……」=

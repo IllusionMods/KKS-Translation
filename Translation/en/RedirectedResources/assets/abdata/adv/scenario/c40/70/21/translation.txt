@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「なぁ、我から視線を離さないでくれ……まだ貴殿との繋がりを、ほんの少しでもいいから感じていたいのだ」=“Hey, do not look away from me... I wish to feel our connection, even the tiniest bit, if I can still.”
-「我も貴殿のことをずっと見ているぞ。ん……気持ちよかったな……また、しような？」=“I am also looking at you, always. Nn... that felt so nice... let us, do that again, alright?”
+//「なぁ、我から視線を離さないでくれ……まだ貴殿との繋がりを、ほんの少しでもいいから感じていたいのだ」=
+//「我も貴殿のことをずっと見ているぞ。ん……気持ちよかったな……また、しような？」=

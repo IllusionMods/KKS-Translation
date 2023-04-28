@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「乗るならやっぱり、二人乗りのカヤックがいいよね？」=“If we're gonna ride something, a two person kayak would be best, wouldn't it?”
-「無論だ。我等の相性を見せつける時が来た……誰にも追いつかせずに完全勝利を狙おう！」=“Of course. It is time, for us to show off our affinity... We shall let none catch us, and aim straight for victory!”
-「え、待って……レースとかじゃないよ？　マングローブを見て回るだけだからね？」=“Eh, wait... this isn't a race, alright? We're just gonna circle around and look at mangroves, okay?”
-「なんだとっ！？　では我のこの昂った気持ちはどうすればいい……」=“What--!? But then what must I make of this fire within me...”
-「うーん、じゃあ普通の人達が一周のところを俺達は二周しちゃうとか？」=“Nnn, then how about we make two laps in the same amount of time the others make one lap each?”
-「おぉ、それだ！　任せてくれ、誰よりも貴殿にマングローブを見せてやるぞ！」=“Ooh, that's it! Leave it to me, I shall put on a better show for you than anyone else shall get to see!”
+//「乗るならやっぱり、二人乗りのカヤックがいいよね？」=
+//「無論だ。我等の相性を見せつける時が来た……誰にも追いつかせずに完全勝利を狙おう！」=
+//「え、待って……レースとかじゃないよ？　マングローブを見て回るだけだからね？」=
+//「なんだとっ！？　では我のこの昂った気持ちはどうすればいい……」=
+//「うーん、じゃあ普通の人達が一周のところを俺達は二周しちゃうとか？」=
+//「おぉ、それだ！　任せてくれ、誰よりも貴殿にマングローブを見せてやるぞ！」=

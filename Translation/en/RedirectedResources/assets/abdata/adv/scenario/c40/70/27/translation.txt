@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「うむ、勇気を出して誘った甲斐があったな。やはり勇気は大事だ……貴殿には本当に感謝している」=“Umu, it was worth summoning my courage and asking you. Courage truly is important... I truly am grateful to you.”
+//「うむ、勇気を出して誘った甲斐があったな。やはり勇気は大事だ……貴殿には本当に感謝している」=

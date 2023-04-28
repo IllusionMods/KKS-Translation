@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「パワースポットとかって信じる方？」=“Do you believe in power spots and whatnot?”
-「ああ、信じているぞ。見えているものだけが全てではない、見えない力こそ大きいものだ」=“Aah, I do. Not everything is as meets the eye, invisible power is real power.”
-「ちょっと意外だね。[H名]は自分の剣以外は信じない！　とか言うかと思ってた」=“I didn't expect that. I thought you'd say something like "The only thing I believe in is my own sword!" or whatever.”
-「待て待て、貴殿の中の我のイメージはそんな風なのか？　まぁ確かに、完全に否定はできないが……」=“Wait wait, is that how you see me? Well, certainly, I cannot deny that I do feel that way...”
-「はは、悪いイメージじゃないから安心して」=“Hahah, it's not a negative image of you or anything, so don't worry.”
-「むしろ、パワースポット好きとか、意外に乙女チックなところも可愛いなーって思ったから」=“If anything, the fact that you like stuff like this is, kinda girlish so it's pretty cute, in my opinion anyway.”
-「なっ、こらっ！　からかうな！　まったく……真剣に答えて損をした」=“Wha--, hey--! Do not make fun of me! Good grief... I should not have given you a serious answer.”
-（照れてる照れてる。そういうところがまた可愛いんだよな……）=(She's blushing, she's blushing. That side of her is really cute too, you know...)
+//「パワースポットとかって信じる方？」=
+//「ああ、信じているぞ。見えているものだけが全てではない、見えない力こそ大きいものだ」=
+//「ちょっと意外だね。[H名]は自分の剣以外は信じない！　とか言うかと思ってた」=
+//「待て待て、貴殿の中の我のイメージはそんな風なのか？　まぁ確かに、完全に否定はできないが……」=
+//「はは、悪いイメージじゃないから安心して」=
+//「むしろ、パワースポット好きとか、意外に乙女チックなところも可愛いなーって思ったから」=
+//「なっ、こらっ！　からかうな！　まったく……真剣に答えて損をした」=
+//（照れてる照れてる。そういうところがまた可愛いんだよな……）=

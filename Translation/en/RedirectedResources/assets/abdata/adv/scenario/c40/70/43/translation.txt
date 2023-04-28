@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「紅型って、この独特の色使いがいいよね」=“Stencil dyeing has this really unique coloring to it, doesn't it?”
-「そうだな。色と模様の組み合わせというのはそれだけで意味を成す。旗印などが正にそれだな」=“Indeed. The combination of colors and designs lend meaning on their own ability. Flags are a perfect example.”
-「旗かぁ……紅型の旗とか作ったらカッコよさそうだね」=“Flags, huh... bet the flags we make using these would turn out real cool.”
-「それぞれ作ってみるか？　貴殿も男なのだ、己の旗を持っていて損はあるまい」=“Shall we make one each then? You are a man as well, you ought to have a flag of your own.”
-「うん、作ってみるよ。なんか楽しくなってきた！」=“Yep, let's try it. Finally, this is starting to get fun!”
-「よし、我も気合を入れて作るぞ。旗は自身の誇りそのものだからな。一切手は抜けん」=“Alright, I shall get fired up and make one as well. One's flag is one's pride in itself, afterall. I shall not hold back.”
+//「紅型って、この独特の色使いがいいよね」=
+//「そうだな。色と模様の組み合わせというのはそれだけで意味を成す。旗印などが正にそれだな」=
+//「旗かぁ……紅型の旗とか作ったらカッコよさそうだね」=
+//「それぞれ作ってみるか？　貴殿も男なのだ、己の旗を持っていて損はあるまい」=
+//「うん、作ってみるよ。なんか楽しくなってきた！」=
+//「よし、我も気合を入れて作るぞ。旗は自身の誇りそのものだからな。一切手は抜けん」=

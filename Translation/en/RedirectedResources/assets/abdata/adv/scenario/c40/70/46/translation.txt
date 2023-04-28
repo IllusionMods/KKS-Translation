@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「何事も経験とはよく言ったものだな。貴殿のおかげで、やってみて分かる面白さを理解できた」=“They do say that one must experience everything once. Thanks to you, I understand the joy of that now.”
+//「何事も経験とはよく言ったものだな。貴殿のおかげで、やってみて分かる面白さを理解できた」=

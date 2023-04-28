@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「なっ！？　い、いつから見ていたのだ……！」=“Wha--!? S-Since when have you been watching...!”
+//「なっ！？　い、いつから見ていたのだ……！」=

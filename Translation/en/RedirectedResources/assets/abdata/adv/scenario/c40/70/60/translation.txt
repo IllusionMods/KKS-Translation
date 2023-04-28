@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「おい、いるか？　その、少し話をしないか？　忙しいのなら、少し顔を見せてくれるだけでもいい……」=“Oi, are you in? Erm, won't you talk to me a bit? If you are busy, I would be satisfied just getting to see your face a bit...”
+//「おい、いるか？　その、少し話をしないか？　忙しいのなら、少し顔を見せてくれるだけでもいい……」=
 SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-「どうぞ。別に忙しくないから。そんな寂しそうな声を出さなくても大丈夫だよ」=“Come in. I'm not busy or anything. You don't need to sound so lonely either, I'm right here.”
-「わ、我は寂しそうな声など……いや、そうだ、少し貴殿が恋しくなってしまったのだ……」=“I-I did not... no, that's right, I just could not help but miss your presence...”
-「女々しいと笑ってもいいぞ。そもそも我は女だからな……貴殿の前では、なるべく心を偽らずにいたい……」=“Feel free to laugh at the womanliness of it all. To begin with, I am a woman... I do not wish to lie to my own heart, not in front of you...”
-「むぅ、いないか。気配は感じる気がするのだがな……きっと、そうあって欲しいという我の願望だろう……」=“Muh, I suppose you're not in. I do feel a presence inside, though... I imagine it's my own heart, leading me astray...”
+//「どうぞ。別に忙しくないから。そんな寂しそうな声を出さなくても大丈夫だよ」=
+//「わ、我は寂しそうな声など……いや、そうだ、少し貴殿が恋しくなってしまったのだ……」=
+//「女々しいと笑ってもいいぞ。そもそも我は女だからな……貴殿の前では、なるべく心を偽らずにいたい……」=
+//「むぅ、いないか。気配は感じる気がするのだがな……きっと、そうあって欲しいという我の願望だろう……」=

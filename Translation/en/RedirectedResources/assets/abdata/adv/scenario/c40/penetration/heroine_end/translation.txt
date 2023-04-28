@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「はは、男女混合でなんて……凄い体験をしてしまったな。これはもう忘れられなそうだ」=“Hahah, doing it all together like that... that was quite the experience. I do not think I'll forget that anytime soon.”
+//「はは、男女混合でなんて……凄い体験をしてしまったな。これはもう忘れられなそうだ」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「取り込み中のところすまない。その、不躾ながら……我も仲間に入れてもらえないだろうか？」=“Apologies for interrupting. I erm, I realize this is perhaps quite presumptuous of me... but won't you let me join your merry band?”
+//「取り込み中のところすまない。その、不躾ながら……我も仲間に入れてもらえないだろうか？」=

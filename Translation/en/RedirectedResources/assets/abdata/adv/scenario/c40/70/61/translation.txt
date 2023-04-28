@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ねぇ、オイル塗ってあげようか？　背中側とか、自分じゃ塗り辛いでしょ？」=“Hey, want me to put oil on you? You'd have a hard time putting it on your own back, no?”
-「うむ、確かに背中は自分では塗れないな……貴殿に頼むのが得策か」=“Umu, certainly, it's not the easiest task... I suppose asking you would be the better choice.”
-「そうそう、絶対その方がいいよ。ちゃんとしっかり塗るからさ」=“Exactly, it's definitely gonna be the better choice. I'll lather it on thoroughly, don't worry.”
-「はは、そこまで気合が入っているなら間違いないか……では、よろしく頼む」=“Hahah, I suppose I chose the right person for the job then... well then, please do it.”
-「うん、よろしく頼まれました！　後は俺に任せてよ」=“Yep, I shall! Leave the rest to me.”
+//「ねぇ、オイル塗ってあげようか？　背中側とか、自分じゃ塗り辛いでしょ？」=
+//「うむ、確かに背中は自分では塗れないな……貴殿に頼むのが得策か」=
+//「そうそう、絶対その方がいいよ。ちゃんとしっかり塗るからさ」=
+//「はは、そこまで気合が入っているなら間違いないか……では、よろしく頼む」=
+//「うん、よろしく頼まれました！　後は俺に任せてよ」=
