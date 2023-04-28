@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「最初はどうなるかと思ったけど、三人でするのもいいね……よかったら、またしちゃおうよ」=“I didn't have high hopes at the start but, doing it all together like this is nice too, isn't it... let's do it again, if that's okay.”
+//「最初はどうなるかと思ったけど、三人でするのもいいね……よかったら、またしちゃおうよ」=

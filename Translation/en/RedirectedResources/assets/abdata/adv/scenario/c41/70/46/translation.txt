@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「キミと島の文化を体験できたのは楽しかったけど、恋バナってやっぱり恥ずかしいよ。キミとなら、尚更だから……」=“It was fun to experience the local culture of this island with you but, talking about love and stuff really is embarrassing. Especially when it's, you...”
+//「キミと島の文化を体験できたのは楽しかったけど、恋バナってやっぱり恥ずかしいよ。キミとなら、尚更だから……」=

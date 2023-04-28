@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ん……」=“Nn...”
-「起きた？　目が覚めたら好きな人が横にいるって幸せだね。キミの寝顔もとっても可愛かったし」=“Are you up? Being next to the person you live in the morning sure is pure bliss. Your sleeping face was really cute too.”
-「あ、勝手に見ちゃってごめんね。我慢しようと思ったんだけど、ボク好きな人の顔ってずっと見てたいタイプみたい、ふふふ」=“Ah, sorry for staring without asking first. I did consider not doing it but, seems like I'm the type that wants to stare at her beloved's face forever, fufufuh.”
+//「ん……」=
+//「起きた？　目が覚めたら好きな人が横にいるって幸せだね。キミの寝顔もとっても可愛かったし」=
+//「あ、勝手に見ちゃってごめんね。我慢しようと思ったんだけど、ボク好きな人の顔ってずっと見てたいタイプみたい、ふふふ」=

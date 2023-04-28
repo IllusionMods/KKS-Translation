@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「その、非常識かもしれないけど、二人とも仲良しだし……うん、大丈夫だよ」=“It uhm, it might be nonsensical but, we're pretty close so... yep, sure.”
+//「その、非常識かもしれないけど、二人とも仲良しだし……うん、大丈夫だよ」=

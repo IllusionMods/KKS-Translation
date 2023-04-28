@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「いつかボクの手料理も振る舞うからね。練習中だからかなり待ってもらうかもしれないけど、絶対にご馳走するから」=“One of these days, I'm gonna put my cooking in front of you. I'm still practicing so you might have to wait a bit but, you'll definitely get to taste it someday.”
+//「いつかボクの手料理も振る舞うからね。練習中だからかなり待ってもらうかもしれないけど、絶対にご馳走するから」=

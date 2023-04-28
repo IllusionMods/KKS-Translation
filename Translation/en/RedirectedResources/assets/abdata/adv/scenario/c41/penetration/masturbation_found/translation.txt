@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「キミが覗いてるのに気づいてたから、わざとグチュグチュっていやらしい音をたててたんだよ？」=“I already noticed that you were there, that's why I was making all those soppy sounds, you know?”
+//「キミが覗いてるのに気づいてたから、わざとグチュグチュっていやらしい音をたててたんだよ？」=

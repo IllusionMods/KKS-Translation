@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「勉強になっただけじゃなくて楽しかったよ。もっとふたりで色々なことを体験してみようよ。あ、もちろんキミがよかったらだからね」=“It wasn't just educational, it was also fun. Let's experience lots more stuff together. Ah, only if you're okay with that, I mean.”
+//「勉強になっただけじゃなくて楽しかったよ。もっとふたりで色々なことを体験してみようよ。あ、もちろんキミがよかったらだからね」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「あ……ボク、ちょっと食べ過ぎちゃったかな？　その、お腹空いちゃってて……あんまり引かないでくれると嬉しいな……あはは……」=“Ah... did I eat a bit too much? I was uhm, I was a bit hungry so... I hope you're not disgusted... ahahah...”
+//「あ……ボク、ちょっと食べ過ぎちゃったかな？　その、お腹空いちゃってて……あんまり引かないでくれると嬉しいな……あはは……」=

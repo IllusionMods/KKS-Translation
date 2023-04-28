@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「わあ、お魚がいっぱい。見て見て、大きなお魚のお腹に小さなお魚がくっついて泳いでるよ」=“Wah, there's so many fishies. Look look, that huge fish has a tiny fish swimming while hugging its belly.”
-「おお、本当だ。広い水槽だからなんでも見えるね」=“Ooh, it really does. This place has everything, doesn't it? The tank's real big too.”
-「……おっ？　あの魚なんて[H名]が好きそう」=“...Oh--? I feel like you'd like that fish, [H].”
-「え、どれどれ？」=“Eh, which one?”
-「あれあれ。あのトゲトゲがいっぱいあって、カラフルなやつ」=“That one. That spiney, colorful one.”
-「あの子！？　うーん、ちょっとデザインが悪役すぎない？」=“That one!? Nnn, isn't the design a bit too villainish?”
-「あれは悪役なのか……[H名]ならカッコイイって言うかと思ったんだけど、じゃあどの魚が好み？」=“Villainish, huh... I thought you'd find it cool. Alright, what sort of fish do you like then?”
-「キミが言ったカラフルトゲトゲな子も可愛いけど……そうだなぁ……ボクの好みの子っていうと……あの子かな？」=“The one you pointed out was cute too but... let's see~... the sort of fishies I like... one of those?”
-「同じくカラフルだけど、なんかシュッとしてるね。もしかして正義のヒーローっぽいから？」=“It's just as colorful but, with a much more slender form, huh? Is it because it looks like a hero of justice?”
-「言われてみればそうかも。ボク、小さい頃は男の子が見るようなアニメばっかり見てたから、その影響かな」=“Now that you say that, it might be. I've been watching the sort of anime boys watch ever since I was little so, it might be that.”
-「そういう観点から言うと、たしかにさっきのは悪役だね。というかなんで悪役ってトゲ系のデザインが多いんだろう」=“From that sort of lens, I can see why you'd find the other one villainish. To begin with, just why are villains more 'spikey' than heroes anyway?”
-「わかりやすく攻撃的だからかな。対して主人公側は秩序のあるデザインが多いよね」=“I guess to make them seem obviously aggressive? Usually the protagonist and his allies have more mild designs, don't they?”
-「たしかに……」=“You might have a point...”
-「あはは、恋人同士で水族館に来たのになんだか色気のない話しちゃってごめんね」=“Ahahah, sorry for bringing up something so unsexy when we came all the way to the aquarium. It's a waste of a lovey-dovey date, isn't it?”
-「いやいや、こういう話ができるから[H名]とは居心地がいいんだと思うよ」=“No no, it's exactly because we can chat about stuff like this that I feel so comfortable around you, [H].”
-「それに、[H名]ならいつでも色気を出せるって俺は知ってるから」=“Not to mention, I know you could let out the sexy at the drop of a hat if you really wanted to, too.”
-「えぇ、そんなこと……うーん、ないことはないかも、なんてね。ふふふ♪」=“Eeh, that... nnn, might be true, heh. Fufufuh~♪”
-（すごく真面目な[H名]だけど、急に小悪魔っぽいところを出してきたりするんだよね）=(She's really straight laced usually but, sometimes that impish side just comes out out of nowhere, you know?)
-「え、なんで黙っちゃったの？　ボク、ちょっと調子に乗り過ぎちゃった？」=“Eh, why did you go quiet so suddenly? Did I get a bit too carried away?”
-「そんなことはないから安心して。ただ、[H名]は悪の女幹部の素質があるな～と」=“Not at all, so don't worry. I was just thinking that you'd make for a real mean section chief at some company, you know~?”
-「えぇ～！？　正義のヒーローのヒロインがいいよ。なんでそう思ったの？　ボクがいつでも色気を出せることを否定しなかったから？　教えて！」=“Eeh~!? I'd rather be a hero of justice's heroine. What made you think that? Is it the fact that I didn't deny being able to let out the sexy at the drop of a hat? Tell me!”
-（こういう水族館デートも新鮮だなぁ）=(Aquarium dates like these sure are nice too~)
+//「わあ、お魚がいっぱい。見て見て、大きなお魚のお腹に小さなお魚がくっついて泳いでるよ」=
+//「おお、本当だ。広い水槽だからなんでも見えるね」=
+//「……おっ？　あの魚なんて[H名]が好きそう」=
+//「え、どれどれ？」=
+//「あれあれ。あのトゲトゲがいっぱいあって、カラフルなやつ」=
+//「あの子！？　うーん、ちょっとデザインが悪役すぎない？」=
+//「あれは悪役なのか……[H名]ならカッコイイって言うかと思ったんだけど、じゃあどの魚が好み？」=
+//「キミが言ったカラフルトゲトゲな子も可愛いけど……そうだなぁ……ボクの好みの子っていうと……あの子かな？」=
+//「同じくカラフルだけど、なんかシュッとしてるね。もしかして正義のヒーローっぽいから？」=
+//「言われてみればそうかも。ボク、小さい頃は男の子が見るようなアニメばっかり見てたから、その影響かな」=
+//「そういう観点から言うと、たしかにさっきのは悪役だね。というかなんで悪役ってトゲ系のデザインが多いんだろう」=
+//「わかりやすく攻撃的だからかな。対して主人公側は秩序のあるデザインが多いよね」=
+//「たしかに……」=
+//「あはは、恋人同士で水族館に来たのになんだか色気のない話しちゃってごめんね」=
+//「いやいや、こういう話ができるから[H名]とは居心地がいいんだと思うよ」=
+//「それに、[H名]ならいつでも色気を出せるって俺は知ってるから」=
+//「えぇ、そんなこと……うーん、ないことはないかも、なんてね。ふふふ♪」=
+//（すごく真面目な[H名]だけど、急に小悪魔っぽいところを出してきたりするんだよね）=
+//「え、なんで黙っちゃったの？　ボク、ちょっと調子に乗り過ぎちゃった？」=
+//「そんなことはないから安心して。ただ、[H名]は悪の女幹部の素質があるな～と」=
+//「えぇ～！？　正義のヒーローのヒロインがいいよ。なんでそう思ったの？　ボクがいつでも色気を出せることを否定しなかったから？　教えて！」=
+//（こういう水族館デートも新鮮だなぁ）=

@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「えーと……誰も見てはないかな」=“Erhm... you don't think anybody's looking at us, right?”
-「キョロキョロしてどうしたの？」=“What's got you so restless?”
-「いや、ここってホテルのレストランだから、他の子もいそうでさ。ふたりきりで食べてるところ見られたら勘違いされるかなって」=“Nothing, it's just, we're at the hotel restaurant so, there's probably other girls here right now. And I was just thinking that if they saw us eating together, they might misunderstand.”
-「勘違いって……えっ……もしかして、ボクたちがカップルって間違われちゃうってこと……！？」=“Misunderstand... eh--... wait, you mean they might mistake us for a couple...?!”
-「女子ってそういう噂が好きなイメージがあるから。俺は別にいいんだけど[H名]が迷惑かなって思ってさ」=“I mean, you know, girls like those sorts of spicy rumours. I don't particularly care myself but I wouldn't wanna cause problems for you, [H].”
-「め、迷惑だなんてそんなことっ……あ……そ、そんなことよりほら、早く何食べるか決めようよ。店員さん待たせても悪いし」=“Y-You're not causing me problems, dummy--... ah... f-forget all that, let's pick what we're gonna eat already. The waitress is probably waiting on us.”
-「え？　ああ、そうだね」=“Eh? Aah, right.”
-（迷惑じゃないなら、脈ありってことかな……？　そんなこと言われると、けっこう意識し始めちゃうんだよな……）=(If it's not a problem, does that mean there's hope for...? I bet if I said that to her, she's gonna start getting all self conscious too...)
+//「えーと……誰も見てはないかな」=
+//「キョロキョロしてどうしたの？」=
+//「いや、ここってホテルのレストランだから、他の子もいそうでさ。ふたりきりで食べてるところ見られたら勘違いされるかなって」=
+//「勘違いって……えっ……もしかして、ボクたちがカップルって間違われちゃうってこと……！？」=
+//「女子ってそういう噂が好きなイメージがあるから。俺は別にいいんだけど[H名]が迷惑かなって思ってさ」=
+//「め、迷惑だなんてそんなことっ……あ……そ、そんなことよりほら、早く何食べるか決めようよ。店員さん待たせても悪いし」=
+//「え？　ああ、そうだね」=
+//（迷惑じゃないなら、脈ありってことかな……？　そんなこと言われると、けっこう意識し始めちゃうんだよな……）=

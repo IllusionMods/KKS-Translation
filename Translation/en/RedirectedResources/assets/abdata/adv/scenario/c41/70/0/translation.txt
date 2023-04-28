@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ふふ……なんだかキミって、男の子らしい男の子だよね。もしボクが男の子に生まれてたら、キミみたいになりたいって思ったんじゃないかな」=“Fufuh... you're kinda, a really boyish boy, you know? If I was born a boy instead, I wonder if I'd look up to you.”
-「男の子らしいっていうと……ちょっと荒っぽかった？」=“A boyish boy... was I being a bit rough?”
-「ううん。そういう意味じゃなくて、優しいし話しやすいし……たまにびっくりすることも言うけど、なんだかんだでほっとしちゃうんだよね」=“No. I didn't mean it like that, you're just so sweet and so easy to talk to... sometimes you give me big surprises too but, at the end of the day I just feel really relaxed around you.”
-「好印象って意味ならよかった。可愛い[H名]にそう思ってもらえて嬉しいよ、ありがとう」=“Well I'm glad as long as it's a positive impression and not a negative one. Especially since you're really cute, [H], hearing you say that means a lot to me.”
-「か、可愛い？　ボクが……？　えっと、ボクのどういうところでそう思ったの？」=“C-Cute? Me...? Erhm, what part of me made you think that way?”
-「なんて言ったらいいのかな……中性的ってほど男の子寄りじゃないけど、他の女の子にはない魅力があると思うよ」=“I don't know how to express it... you're not boyish to the point of being adrogynous but, you have a charm to you that other girls just don't have, in my opinion.”
-「そっか、魅力って捉えてくれるんだね。……うん、やっぱりキミって、ボクの理想の男の子像だな。よかったら、これからも仲良くしてね」=“I see, you see it as a charm, huh? ...Yep, you really are, just the sort of ideal boy I dream of. I hope you don't mind us continuing to be friends.”
+//「ふふ……なんだかキミって、男の子らしい男の子だよね。もしボクが男の子に生まれてたら、キミみたいになりたいって思ったんじゃないかな」=
+//「男の子らしいっていうと……ちょっと荒っぽかった？」=
+//「ううん。そういう意味じゃなくて、優しいし話しやすいし……たまにびっくりすることも言うけど、なんだかんだでほっとしちゃうんだよね」=
+//「好印象って意味ならよかった。可愛い[H名]にそう思ってもらえて嬉しいよ、ありがとう」=
+//「か、可愛い？　ボクが……？　えっと、ボクのどういうところでそう思ったの？」=
+//「なんて言ったらいいのかな……中性的ってほど男の子寄りじゃないけど、他の女の子にはない魅力があると思うよ」=
+//「そっか、魅力って捉えてくれるんだね。……うん、やっぱりキミって、ボクの理想の男の子像だな。よかったら、これからも仲良くしてね」=

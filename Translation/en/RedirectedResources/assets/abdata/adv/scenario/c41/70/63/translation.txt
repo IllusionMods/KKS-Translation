@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「はぁ、とっても特別な時間になったよ。キミとオイルに感謝だね」=“Haah, that was really special. And it was all thanks to the oil and you, wasn't it?”
-「とっても気持ちよかったよ、ありがとう」=“That felt amazing, thank you.”
-「これで肌ケアはバッチリだね、ありがとう」=“With this, my skin care regime is taken care of, thanks.”
-「あれ？　ボクにオイルを塗ってくれるんじゃなかったの？」=“Huh? Weren't you gonna put oil on me?”
+//「はぁ、とっても特別な時間になったよ。キミとオイルに感謝だね」=
+//「とっても気持ちよかったよ、ありがとう」=
+//「これで肌ケアはバッチリだね、ありがとう」=
+//「あれ？　ボクにオイルを塗ってくれるんじゃなかったの？」=

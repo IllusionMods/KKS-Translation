@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「なんだか大変なことになっちゃったね……あ、嫌ってことじゃないよ、ボクは大丈夫だから」=“This is getting pretty big, isn't it... ah, I'm not saying I mind, I'm fine with it.”
-「ボクは全然大丈夫。みんなでエッチなこと、楽しんじゃおうよ」=“I'm completely fine with it. Let's enjoy some fun stuff together, all of us.”
+//「なんだか大変なことになっちゃったね……あ、嫌ってことじゃないよ、ボクは大丈夫だから」=
+//「ボクは全然大丈夫。みんなでエッチなこと、楽しんじゃおうよ」=

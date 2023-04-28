@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「えっ。ボク……キミに告白してもらったの？　わ、どうしよう……あっ、どうしようって言うのはね、ううん、その前に答えないとね。えと……」=“Eh--, did you... just confess to me? Wah, what do I do... ah--, by that, I don't mean to--, no, I should give you my answer first, shouldn't I? Erhm...”
-「ボクもキミのことが好き。ボクも付き合いたい！　……その、どうしようって言うのは、キミから告白してもらえるなんて、思ってもなくて……」=“I love you too. I want to go out with you too! ...I uhm, the reason I said "what do I do", is because I never expected you to do that, so I...”
-「頭が真っ白、みたいな？」=“Your head went blank?”
-「うん。ボクもキミに告白したくって……でも断られたら今みたいにお喋りできなくなるのかなって思ったら、すぐに勇気がしぼんじゃうの……」=“Yep. I've wanted to confess to you too, for the longest time... but every single time I summoned the courage, the thought of you saying no making me freeze up like now, would make it all vanish...”
-「それじゃ、つらい思いをさせちゃったかな。[H名]ともっといろんな話がしたいから、これから恋人同士としてよろしくね」=“I guess I've caused you a lot of pain, huh? It'd be really sad if our relationship died before we really got to know each other, so from now on we're a couple, okay?”
-「うんっ、こちらこそよろしくね。あ……ボク、キミと恋人同士になったらいっぱい甘えたいって思ってたんだけど……いいかな？」=“Okay--. Ah... I always had it in my mind that if we ever became a couple, I'd want to get spoiled lots by you... would you mind that?”
-「もちろん。甘えんぼうになった[H名]、めちゃくちゃ期待してるよ」=“Not at all. I'm looking forward to seeing just how spoiled you can be, [H].”
+//「えっ。ボク……キミに告白してもらったの？　わ、どうしよう……あっ、どうしようって言うのはね、ううん、その前に答えないとね。えと……」=
+//「ボクもキミのことが好き。ボクも付き合いたい！　……その、どうしようって言うのは、キミから告白してもらえるなんて、思ってもなくて……」=
+//「頭が真っ白、みたいな？」=
+//「うん。ボクもキミに告白したくって……でも断られたら今みたいにお喋りできなくなるのかなって思ったら、すぐに勇気がしぼんじゃうの……」=
+//「それじゃ、つらい思いをさせちゃったかな。[H名]ともっといろんな話がしたいから、これから恋人同士としてよろしくね」=
+//「うんっ、こちらこそよろしくね。あ……ボク、キミと恋人同士になったらいっぱい甘えたいって思ってたんだけど……いいかな？」=
+//「もちろん。甘えんぼうになった[H名]、めちゃくちゃ期待してるよ」=

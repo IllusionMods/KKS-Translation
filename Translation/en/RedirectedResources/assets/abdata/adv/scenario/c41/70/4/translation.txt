@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「えっ……！　ボクと、エッチしたい、んだ……そっか……。えっと……と、とりあえず、こういうときのキミは冗談言わないって知ってるよ」=“Eh--...! You want, to have sex, with me... I see... Erhm... w-well, I do understand that you would never joke about things like these.”
-「ボクたちって、その、付き合ってないよね。だけど、そういうの全部通り越して、いますぐボクとしたいってこと、だよね？」=“We aren't exactly, uhm, going out though, are we? But you, want to bypass all that and, take me right now, don't you?”
-「うん。順番が逆だって思うけど、告白より先にそういう気持ちが来たことを隠したくなくて……」=“Yep. I get that I've got the order backwards here but, I just didn't want to hide this feeling, this desire to have sex with you overpowering me before the desire to even confess...”
-「[H名]が裏表なく、素直に俺に向き合ってくれてるから、俺もそうしたいと思って……だから、これで嫌われても悔いはないよ」=“You always face me head on, without hiding anything from me so, I wanted to do the same... so, even if this makes you hate me, I still don't regret a thing.”
-「き、嫌いになんてならないよ。そっか……ちゃんとボクのことも考えてくれたんだね。それなら……いいよ。ボクも、キミとしたかったから」=“I-I could never hate you. I see though... you think of me too, don't you? In that case... okay. I wanted to, do it with you too, afterall.”
-「……！　ありがとう[H名]。それじゃあ、しようか……」=“...! [H], thank you. Let's do it then...”
+//「えっ……！　ボクと、エッチしたい、んだ……そっか……。えっと……と、とりあえず、こういうときのキミは冗談言わないって知ってるよ」=
+//「ボクたちって、その、付き合ってないよね。だけど、そういうの全部通り越して、いますぐボクとしたいってこと、だよね？」=
+//「うん。順番が逆だって思うけど、告白より先にそういう気持ちが来たことを隠したくなくて……」=
+//「[H名]が裏表なく、素直に俺に向き合ってくれてるから、俺もそうしたいと思って……だから、これで嫌われても悔いはないよ」=
+//「き、嫌いになんてならないよ。そっか……ちゃんとボクのことも考えてくれたんだね。それなら……いいよ。ボクも、キミとしたかったから」=
+//「……！　ありがとう[H名]。それじゃあ、しようか……」=

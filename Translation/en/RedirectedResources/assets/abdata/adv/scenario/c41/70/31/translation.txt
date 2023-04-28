@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「わぁ……おっきいね……！　遠くから見ても存在感あったけど、近くに来ると、なんていうんだろう、目に焼き付く感じだね」=“Wah... it's sure big...! You can feel it from far away too but, looking at it from up close, the impact is just, it's just different.”
-「こういうシンプルで大きな建物って、地元じゃなかなか見られないもんね」=“Buildings like these, with such plain designs yet built so tall, are pretty rare over from where we are, afterall.”
-「そうだよね。なんだか圧倒されちゃうな……」=“Yeah. It's almost domineering...”
-「この島って綺麗なものがいっぱいあるけど、案外この灯台みたいなインパクトのある景色が、一生忘れられない思い出になったりしてね」=“This island has a lot of pretty things but, surprisingly, this lighthouse might end up becoming one of those unforgettable memories instead.”
-「一生忘れられない思い出かぁ……こうしてふたりで灯台に驚いたことって、未来のボクたちにとってどんな思い出になるんだろうね？」=“An unforgettable memory, huh~... I wonder how we'll remember it, when we look back to how startled we are right now?”
+//「わぁ……おっきいね……！　遠くから見ても存在感あったけど、近くに来ると、なんていうんだろう、目に焼き付く感じだね」=
+//「こういうシンプルで大きな建物って、地元じゃなかなか見られないもんね」=
+//「そうだよね。なんだか圧倒されちゃうな……」=
+//「この島って綺麗なものがいっぱいあるけど、案外この灯台みたいなインパクトのある景色が、一生忘れられない思い出になったりしてね」=
+//「一生忘れられない思い出かぁ……こうしてふたりで灯台に驚いたことって、未来のボクたちにとってどんな思い出になるんだろうね？」=
 「え……？」=“Eh...?”
-（……なんで俺いまドキッとしたんだろう？　[H名]が意味深なこと言うから……かな？）=(...Just why did my heart skip a beat there? Was it because she just said something so... suggestive?)
+//（……なんで俺いまドキッとしたんだろう？　[H名]が意味深なこと言うから……かな？）=

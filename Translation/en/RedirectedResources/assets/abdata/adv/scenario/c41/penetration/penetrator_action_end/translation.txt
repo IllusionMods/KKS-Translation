@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「本当にごめんね。三人でなんて驚かせちゃったのに、受け入れてくれてありがとう……！」=“I really am sorry. Thanks for letting me join, even though I ruined the mood like that...!”
+//「本当にごめんね。三人でなんて驚かせちゃったのに、受け入れてくれてありがとう……！」=

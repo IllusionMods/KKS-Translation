@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「え、終わりなんだ……？　えっと……うん、キミが満足してくれたなら、良かったかな……」=“Eh, already...? Erhm... okay, as long as you're satisfied, I guess that's okay...”
+//「え、終わりなんだ……？　えっと……うん、キミが満足してくれたなら、良かったかな……」=

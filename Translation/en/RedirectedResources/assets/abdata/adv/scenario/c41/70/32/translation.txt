@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「この滝に来てみたかったんだよね。[H名]とお付き合いさせてもらえることになったし、パワーをもらおうと思って」=“I really wanted to visit this waterfall, you know? We finally started going out together too so, I was thinking that maybe we could receive its power.”
-「本当？　ボクもキミと来たかったんだ。友達とは何回か来てるんだけど、恋人と一緒に来るのは初めてだから」=“Really? I wanted to come here too. I've come here so many times with my friends already but, it's my first time coming with a boyfriend.”
-「俺は[H名]と一緒にいるだけでパワーが湧いてくるけど、念には念をってね」=“Just being with you fills me with power, but you know, just in case.”
-「ええっ……えへへ、そんなこと言われたら照れちゃうよ。ボクもキミといると幸せでいっぱいだよ……なんて、パワースポットで惚気ちゃった」=“Eeh--... eheheh, you're gonna make me blush, dummy. Being with you fills me with happiness too... heh, now we're flirting at the power spot.”
-「パワースポットもいろんな人にパワーをあげてると思うし、俺たちがイチャイチャして幸せパワーをお裾分けする？」=“I'm sure the power spot lends its power to all sorts of people that come visit so, how about we start flirting even harder and share the power of our happiness with it too?”
-「ふふふ、滝のパワーとボクたちのイチャイチャパワーを交換しちゃうんだね。そういうバカップルみたいなこと、やってみたかったんだ」=“Fufufuh, a little exchange of its energy for our love energy, huh? I've always wanted to do, such lovey-dovey stuff.”
+//「この滝に来てみたかったんだよね。[H名]とお付き合いさせてもらえることになったし、パワーをもらおうと思って」=
+//「本当？　ボクもキミと来たかったんだ。友達とは何回か来てるんだけど、恋人と一緒に来るのは初めてだから」=
+//「俺は[H名]と一緒にいるだけでパワーが湧いてくるけど、念には念をってね」=
+//「ええっ……えへへ、そんなこと言われたら照れちゃうよ。ボクもキミといると幸せでいっぱいだよ……なんて、パワースポットで惚気ちゃった」=
+//「パワースポットもいろんな人にパワーをあげてると思うし、俺たちがイチャイチャして幸せパワーをお裾分けする？」=
+//「ふふふ、滝のパワーとボクたちのイチャイチャパワーを交換しちゃうんだね。そういうバカップルみたいなこと、やってみたかったんだ」=

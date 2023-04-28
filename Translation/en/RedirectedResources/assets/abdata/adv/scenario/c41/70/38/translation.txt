@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ダイビング楽しみだね。どんな魚が見られるんだろう」=“Man, I can't wait to go diving. I wonder what sort of fish we'll see.”
-「ボク、テレビでよく観るお魚の群れが見たいな。生だとすごく綺麗なんだろうね」=“I wanna see the fishies they always show on TV. I bet seeing a school of them from up close's gonna look really pretty.”
-「そうだね……あ、インストラクターさんが準備できたって。それじゃ行こうか」=“Yeah... ah, seems like the instructor's ready to go. Let's head out.”
+//「ダイビング楽しみだね。どんな魚が見られるんだろう」=
+//「ボク、テレビでよく観るお魚の群れが見たいな。生だとすごく綺麗なんだろうね」=
+//「そうだね……あ、インストラクターさんが準備できたって。それじゃ行こうか」=
 …………=......
-「はぁ～、楽しかった。[H名]、何が一番印象に残った？」=“Haah~, that was fun. [H], which bit left the biggest impression on you?”
-「ボクはね……あ、えっと……お魚以外でもいい？　一番だと、そうなっちゃうんだけど……」=“For me, it was... ah, erhm... does it have to be fishies? I mean, you asked for the biggest so...”
-「……？　サンゴとか？」=“...? Was it the coral reefs?”
-「えと、水中だから会話できなかったけど、目が合っただけでキミの言いたいことが伝わるんだよね、だから嬉しくなっちゃって……あはは……」=“Erhm, we couldn't really chat underwater but, I could tell exactly what you wanted to say to me whenever I looked at your eyes, that was the part I loved the most... ahahah...”
-（そんなこと思っててくれたのか……魚そっちのけで完全にバカップルの波動が漏れちゃってるけど、これはこれでアリだな……）=(That's what she was thinking of, huh... it's like the wave of our love is pushing aside the fishes and everything, but that's fine in its own right too...)
+//「はぁ～、楽しかった。[H名]、何が一番印象に残った？」=
+//「ボクはね……あ、えっと……お魚以外でもいい？　一番だと、そうなっちゃうんだけど……」=
+//「……？　サンゴとか？」=
+//「えと、水中だから会話できなかったけど、目が合っただけでキミの言いたいことが伝わるんだよね、だから嬉しくなっちゃって……あはは……」=
+//（そんなこと思っててくれたのか……魚そっちのけで完全にバカップルの波動が漏れちゃってるけど、これはこれでアリだな……）=

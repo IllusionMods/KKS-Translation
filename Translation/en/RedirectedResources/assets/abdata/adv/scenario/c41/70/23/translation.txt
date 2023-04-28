@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「あれ、もういいの……？　それじゃ、今度はいっぱいしてもいい……？　その、キミに気持ちよくしてもらいたいから……」=“Huh, already...? Then, do you mind if we do it lots next time...? I uhm, I want you to make me feel really good so...”
+//「あれ、もういいの……？　それじゃ、今度はいっぱいしてもいい……？　その、キミに気持ちよくしてもらいたいから……」=

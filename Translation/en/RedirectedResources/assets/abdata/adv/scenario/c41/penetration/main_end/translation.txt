@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「この三人でするって、あんな感じなんだね……ボク、凄く勉強になっちゃった」=“Doing it with 3 people, feels like that, huh... I learned a whole lot today.”
+//「この三人でするって、あんな感じなんだね……ボク、凄く勉強になっちゃった」=

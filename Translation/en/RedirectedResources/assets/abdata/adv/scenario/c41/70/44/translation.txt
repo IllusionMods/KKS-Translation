@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「カップル限定のペアシーサー作りって、いいね。お互いがお互いに似せたシーサーを作るって、素敵な思い出になるよ」=“This couples' only pair shisa crafting class is pretty nice, isn't it? Each of us creating a shisa in the other's image, I can already tell this is gonna be an amazing memory.”
-「そうなの。ボクもここ見つけたときに、キミと来たいな～って思ってて。気に入ってくれたかな」=“Exactly. When I found out about this place, I wanted to just drag you over too~. Do you like it?”
-「もちろん！　……さて、彼氏としては[H名]の特徴をしっかり捉えたシーサーにしたいな」=“Of course! ...Now then, as your boyfriend, I'mma have to properly bake your face into this.”
-「[H名]の特徴をうまいことデフォルメして……お、いい感じで[H名]シーサーになってきたよ」=“Take your features, deform them a bit and... oh, it's turning out pretty good, if I do say so myself.”
-「わっ、本当だ、ボクにそっくり！　キミって器用なんだね」=“Wah--, it really is, it looks so like me! You're really good at this, aren't you?”
-「いや、それ程でも。たぶん[H名]の顔は見慣れてるからだと思う。[H名]だって俺そっくりじゃないか」=“Nah, not that good. It's probably just that I'm used to staring at your face so much. I mean, yours looks just like me too.”
-「やっぱり付き合ってると、お互いの特徴を無意識に掴んでくるものなんだね。キミとの絆を感じられて嬉しいな」=“Once you start going out with someone, your mind just gets their features down pat without you even noticing it, huh? It makes me kinda happy, since our bond is so strong.”
-「俺も嬉しいよ」=“Me too, [H].”
-（このシーサー……将来、もし[H名]と結婚したら、玄関に飾りたいな……飾れるように、頑張るか）=(These shisas... I'd love to have them decorating the entrance of our house. ...Guess I'mma have to do my best, to see that day.)
+//「カップル限定のペアシーサー作りって、いいね。お互いがお互いに似せたシーサーを作るって、素敵な思い出になるよ」=
+//「そうなの。ボクもここ見つけたときに、キミと来たいな～って思ってて。気に入ってくれたかな」=
+//「もちろん！　……さて、彼氏としては[H名]の特徴をしっかり捉えたシーサーにしたいな」=
+//「[H名]の特徴をうまいことデフォルメして……お、いい感じで[H名]シーサーになってきたよ」=
+//「わっ、本当だ、ボクにそっくり！　キミって器用なんだね」=
+//「いや、それ程でも。たぶん[H名]の顔は見慣れてるからだと思う。[H名]だって俺そっくりじゃないか」=
+//「やっぱり付き合ってると、お互いの特徴を無意識に掴んでくるものなんだね。キミとの絆を感じられて嬉しいな」=
+//「俺も嬉しいよ」=
+//（このシーサー……将来、もし[H名]と結婚したら、玄関に飾りたいな……飾れるように、頑張るか）=
