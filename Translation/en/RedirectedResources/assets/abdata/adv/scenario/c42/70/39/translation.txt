@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「テンション上がり過ぎちゃったかな？　でも、キミとだからすっごく楽しく感じちゃったよー」=
+「テンション上がり過ぎちゃったかな？　でも、キミとだからすっごく楽しく感じちゃったよー」=“Did I get a bit too into it? But, you were there so I had a ton of fun~”

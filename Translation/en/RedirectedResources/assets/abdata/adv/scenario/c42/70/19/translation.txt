@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「はぁ……すっごく気持ち良かったよー。でも、まだいっぱいできそうかも……？　えへへへ」=
+「はぁ……すっごく気持ち良かったよー。でも、まだいっぱいできそうかも……？　えへへへ」=“Haah... that felt amazing~. But, I might be able to keep going still...? Eheheh~”

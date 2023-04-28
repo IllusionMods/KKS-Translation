@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ここは話題のパワースポットらしいね」=
-//「へぇ……良くわからないけど、きっとなんかすごいパワーがここにあるんだろうねー」=
-//「試しに、俺たちも何か願いごとをしてみようか？　叶えばラッキーだしさ」=
-//「うんっ。じゃあ、私はキミともっとラブラブになれますように……ってお願いしてみようかな？」=
-//「[H名]、気持ちは嬉しいけど……」=
-//「そんな願いごとだったら、わざわざ願わなくてもいつだって叶うよ」=
-//「えへへ……。そうかもしれないけど、それ以上に仲良くなりたいから……ダメだった？」=
-//「ダメなもんか。それじゃあ、俺も[H名]と同じ願いにするよ。だから２人一緒に願おう！」=
+「ここは話題のパワースポットらしいね」=“Seems like this is the power spot everyone's been talking about.”
+「へぇ……良くわからないけど、きっとなんかすごいパワーがここにあるんだろうねー」=“Heh... I don't really get it but, I bet there's probably some sort of super amazing power here~”
+「試しに、俺たちも何か願いごとをしてみようか？　叶えばラッキーだしさ」=“Wanna test it ourselves by wishing for something? If it comes true, we'd be lucking out.”
+「うんっ。じゃあ、私はキミともっとラブラブになれますように……ってお願いしてみようかな？」=“Yeah!--. Then, maybe I'll... wish for things to get even more lovey-dovey between us?”
+「[H名]、気持ちは嬉しいけど……」=“[H], hearing you say that makes me really happy but...”
+「そんな願いごとだったら、わざわざ願わなくてもいつだって叶うよ」=“You don't need to waste a wish on that, I'd make that your reality anytime you want me to.”
+「えへへ……。そうかもしれないけど、それ以上に仲良くなりたいから……ダメだった？」=“Eheheh... Maybe so but, I want to get even closer to you so... should I not have?”
+「ダメなもんか。それじゃあ、俺も[H名]と同じ願いにするよ。だから２人一緒に願おう！」=“No way. Tell you what, I'll wish for the same thing as you. So let's make it come true together!”

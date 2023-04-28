@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「な、何してるのー！？　はぁ……覗きとか良くないよ？　さすがに、私も呆れちゃうかなー……」=
+「な、何してるのー！？　はぁ……覗きとか良くないよ？　さすがに、私も呆れちゃうかなー……」=“W-What are you doing~?! Haah... it's not good to peep on girls, you know? Even I'm gonna start getting fed up...”

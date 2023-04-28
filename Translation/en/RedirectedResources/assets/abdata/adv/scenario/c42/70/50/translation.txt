@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ホテルのレストランだし、メニューは普通っぽいものが多いね。さすがに有名料理は抑えてるけど」=
-//「食材はできるだけ地産地消してるみたいだから、これもある意味で南の島の料理なんじゃないかなー？」=
-//「なるほどね。確かにそれは言えてるかも……」=
-//「まぁ、料理よりも俺としては[H名]と一緒に食事しているってことが重要なんだけどね」=
-//「えへへ。いつも通りのご飯でも、恋人同士のデートって考えると特別な感じがするもんねっ」=
-//「うん、せっかくだからいろいろお話しながら食事を楽しもうか？」=
-//「賛成！　じゃあ、早速何か注文しよっ」=
+「ホテルのレストランだし、メニューは普通っぽいものが多いね。さすがに有名料理は抑えてるけど」=“Since it's a restaurant at a hotel, there's a lot of normal looking stuff, isn't there? Even their famous dishes are pretty restrained.”
+「食材はできるだけ地産地消してるみたいだから、これもある意味で南の島の料理なんじゃないかなー？」=“They use as many local ingredients in them as they can though, so wouldn't it count as local food in its own way~?”
+「なるほどね。確かにそれは言えてるかも……」=“You're not wrong. Certainly, you could say that...”
+「まぁ、料理よりも俺としては[H名]と一緒に食事しているってことが重要なんだけどね」=“Well, the food's good too but you being there eating next to me does a lot more for me, you know?”
+「えへへ。いつも通りのご飯でも、恋人同士のデートって考えると特別な感じがするもんねっ」=“Eheheh. Even just regular food seems special when you eat it on a date with a person you love, doesn't it--”
+「うん、せっかくだからいろいろお話しながら食事を楽しもうか？」=“Yep, wanna take our time eating and chatting? We came all this way afterall.”
+「賛成！　じゃあ、早速何か注文しよっ」=“I wanna! Let's order something already--”

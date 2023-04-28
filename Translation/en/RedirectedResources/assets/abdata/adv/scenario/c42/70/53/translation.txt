@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ご馳走様でした。好きな人と食べる料理って、何でも美味しく感じちゃうから不思議だよねー、えへへへ」=
+「ご馳走様でした。好きな人と食べる料理って、何でも美味しく感じちゃうから不思議だよねー、えへへへ」=“What a wonderful meal. Just about anything tastes wonderful if you eat it with the person you love, doesn't it?~ Eheheheh.”

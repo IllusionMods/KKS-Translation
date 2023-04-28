@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「うーん、なんか違うんだよなぁ……」=
-//「あのさ、俺の作ったシーサーが妙に大きい気がして……」=
-//「あっ……。う、うん。私の作った奴よりもひとまわりくらい大きいかも……」=
-//「やっぱり！　作ってるうちに、どんどん大きくなって来ちゃってさぁ」=
-//「あっ、でも、私のと並べたらカップルっぽく見えるんじゃないかな？　ほらほら、どう思うー？」=
-//「……っ！？　そんな風に見えなくもないかも」=
-//「じゃあ、私のと並べて置いて、夫婦ってことにしようよ！　えへへへ」=
+「うーん、なんか違うんだよなぁ……」=“Nnnn, it doesn't really look right~...”
+「あのさ、俺の作ったシーサーが妙に大きい気がして……」=“Hey, I feel like the shisa I made is a bit, big...”
+「あっ……。う、うん。私の作った奴よりもひとまわりくらい大きいかも……」=“Ah--... Y-Yeah. It might be a whole size bigger than mine...”
+「やっぱり！　作ってるうちに、どんどん大きくなって来ちゃってさぁ」=“You think so too! It just got bigger and bigger while I was making it, you know~”
+「あっ、でも、私のと並べたらカップルっぽく見えるんじゃないかな？　ほらほら、どう思うー？」=“Ah--, but, don't you think they look like a couple when yours is next to mine? Look, what do you think~?”
+「……っ！？　そんな風に見えなくもないかも」=“...--!? I think I can see it.”
+「じゃあ、私のと並べて置いて、夫婦ってことにしようよ！　えへへへ」=“Then, let's leave them next to each other like that, and make them into a husband and wife! Eheheheh.”

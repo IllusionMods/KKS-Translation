@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「海だー！　砂浜だー！　あははっ、やっぱり海はいいねー！」=
-//「[H名]はずいぶんとはしゃいでるね。そんなに海で遊ぶのが楽しいの？」=
-//「もちろん！　海に来るだけで、不思議とテンションが上がっちゃうよねっ」=
-//「その気持ち、わかる気がする。興奮するというかなんというか……」=
-//「えへへ、一緒だね。キミもそういう一面があるのは新しい発見かもー」=
-//「ははっ。まぁ、細かいことはともかく、今は思いっきり遊ぼう！」=
+「海だー！　砂浜だー！　あははっ、やっぱり海はいいねー！」=“It's the sea~! The sandy beach~! Ahahah--, the sea really is a nice place to be~!”
+「[H名]はずいぶんとはしゃいでるね。そんなに海で遊ぶのが楽しいの？」=“Well I see someone's really into it. Does playing around in the sea excite you that much?”
+「もちろん！　海に来るだけで、不思議とテンションが上がっちゃうよねっ」=“Of course! Just coming over to the sea has a way of making you really hyped up, you know?--”
+「その気持ち、わかる気がする。興奮するというかなんというか……」=“I feel like I understand. Like, it's really stimulating, in a way...”
+「えへへ、一緒だね。キミもそういう一面があるのは新しい発見かもー」=“Eheheh, I see you feel it too. I think it's the first time I'm seeing that side of you~”
+「ははっ。まぁ、細かいことはともかく、今は思いっきり遊ぼう！」=“Hahah--. Well, let's set aside the details for now, and just enjoy ourselves full blast!”
