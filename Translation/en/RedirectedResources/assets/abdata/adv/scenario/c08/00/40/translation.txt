@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「夢中になっちゃってごめんねぇ。冷たいお茶を買ってきたから、これで冷やしてね」=
+「夢中になっちゃってごめんねぇ。冷たいお茶を買ってきたから、これで冷やしてね」=“I got a bit too into it, sorry~. I even bought you some nice iced tea so, cool off from that, okay~?”

@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお店を見てみようよ」=
-//「ねえねえ、これ見て。可愛い狛犬のキーホルダーが売ってるよぉ」=
-//「狛犬じゃなくて獅子を模した神獣だね。島の守り神様なんだよ」=
-//「へぇ～、そうなんだぁ。ワンちゃんじゃなくてライオンだったんだねぇ」=
-//「口を開いてる子と閉じてる子がいるけど、何か違いがあるの？」=
-//「口が開いてる獅子は幸運を招き寄せて、口を閉じてる獅子は災いを封じる力があるんだ」=
-//「夫婦の獅子神様で、二つ一組で家の入り口に置くと御利益があるんだって」=
-//「じゃあじゃあ、買うならセットで買わないと」=
-//「ラブラブ仲良し夫婦なのに、離ればなれになったら可哀想だよぉ」=
-//「だったら俺もキーホルダーを買うよ。俺と[H名]とで持ち歩けば、ずっと一緒にいられるでしょ？」=
-//「うん！　私達も二人で一組。ラブラブなカップルだもんね。えへへ♪」=
+「ちょっとお店を見てみようよ」=“Let's go take a look at the shop.”
+「ねえねえ、これ見て。可愛い狛犬のキーホルダーが売ってるよぉ」=“Hey hey, look at this. They've got such a cute shrine dog keychains on sale.”
+「狛犬じゃなくて獅子を模した神獣だね。島の守り神様なんだよ」=“They're not shrine dogs, rather they're divine beasts imitating lions. They're this island's guardian dieties.”
+「へぇ～、そうなんだぁ。ワンちゃんじゃなくてライオンだったんだねぇ」=“Heh~, I didn't know that~. So they were lions, not puppies, huh~”
+「口を開いてる子と閉じてる子がいるけど、何か違いがあるの？」=“One's got its mouth open and the other's got it closed, is there a meaning to it?”
+「口が開いてる獅子は幸運を招き寄せて、口を閉じてる獅子は災いを封じる力があるんだ」=“The one with it's mouth open invites good fortune, and the one with the closed mouth has the power to keep misfortune at bay.”
+「夫婦の獅子神様で、二つ一組で家の入り口に置くと御利益があるんだって」=“They're a couple so, if you put them together on your front door, they bless and protect the house.”
+「じゃあじゃあ、買うならセットで買わないと」=“Then then, I guess we'll have to buy them in a set.”
+「ラブラブ仲良し夫婦なのに、離ればなれになったら可哀想だよぉ」=“It'd be so sad to split apart such a lovey-dovey couple~”
+「だったら俺もキーホルダーを買うよ。俺と[H名]とで持ち歩けば、ずっと一緒にいられるでしょ？」=“I'll buy one too then. If we both buy one, they'll get to be together forever, no?”
+「うん！　私達も二人で一組。ラブラブなカップルだもんね。えへへ♪」=“Yeah! Afterall, we're a lovey-dovey couple set too, aren't we~. Eheheh♪”

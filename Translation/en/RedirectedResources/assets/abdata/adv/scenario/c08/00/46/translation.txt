@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ん～、ちょっと失敗しちゃった……次はもっと上手に出来るといいなぁ」=
+「ん～、ちょっと失敗しちゃった……次はもっと上手に出来るといいなぁ」=“Nn~, I messed up a bit... I hope I can do a better job next time~”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えへへ、すっごくすーごく良かったよぉ♪」=
-//「きっと、あなは上手なんだろね、気持ち良かったよぉ」=
-//「どう？　私、綺麗になってる？」=
-//「塗ってないのに、本当に終わっちゃうんだ……何か用事でも思い出したの？」=
+「えへへ、すっごくすーごく良かったよぉ♪」=“Eheheh, it felt super super~ nice~♪”
+「きっと、あなは上手なんだろね、気持ち良かったよぉ」=“I bet it's because you're just so good at this, it felt great~”
+「どう？　私、綺麗になってる？」=“How do I look? Am I getting prettier?”
+「塗ってないのに、本当に終わっちゃうんだ……何か用事でも思い出したの？」=“We're seriously stopping, even before you've put it on... did you remember something you really have to do, or something?”

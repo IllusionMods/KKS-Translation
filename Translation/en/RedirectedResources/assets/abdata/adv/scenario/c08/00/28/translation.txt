@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えへへ、なんかドキドキしちゃう。そう思ってるのは私だけなのかなぁ？」=
-//「あなたも、ドキドキしてるの？　おんなじ気持ちなんだね、よかったぁ♪」=
-//「ぁ……おっきくなってる。エッチ、したいの？　……うん、それじゃあしよっかぁ」=
+「えへへ、なんかドキドキしちゃう。そう思ってるのは私だけなのかなぁ？」=“Eheheh, my heart's kinda pounding. Is it just me~?”
+「あなたも、ドキドキしてるの？　おんなじ気持ちなんだね、よかったぁ♪」=“Yours is, pounding too? We feel the same way, huh? Thank god~♪”
+「ぁ……おっきくなってる。エッチ、したいの？　……うん、それじゃあしよっかぁ」=“Ah... you're getting bigger. You wanna, have sex? ...Okay, let's do it then~”

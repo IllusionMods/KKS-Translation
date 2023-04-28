@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へぇ、ここではオイルを塗れるんだ」=
-//「オイルを塗ったら、どんな効果があるの？」=
-//「美容効果とかそんな感じ。よかったら、塗ってあげようか？」=
-//「美容かぁ。私も気にした方がいいだろうし……うん、お願いするね」=
+「へぇ、ここではオイルを塗れるんだ」=“Heh, we can use the oil here.”
+「オイルを塗ったら、どんな効果があるの？」=“What sort of effect does it have?”
+「美容効果とかそんな感じ。よかったら、塗ってあげようか？」=“It makes you more beautiful and whatnot. Want me to put it on you?”
+「美容かぁ。私も気にした方がいいだろうし……うん、お願いするね」=“More beautiful, huh~? It's about time I started thinking about that stuff too... okay, please do.”

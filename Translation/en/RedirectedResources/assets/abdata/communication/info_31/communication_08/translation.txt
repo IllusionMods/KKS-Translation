@@ -386,7 +386,7 @@
 「うんっ！　あそぼあそぼ！」=“Yeah! Let's play, let's play!”
 「ねぇねぇ、遊んでほしいなぁ」=“Hey, come on, I want to play with you.”
 「やったぁ！　えへへ、二人でいっぱい遊ぼうね！」=“Yay! Ehee, let's play a whole bunch with each other!”
-//「今はダメなのぉ……うぅ、後で絶対遊んでね？」=
+「今はダメなのぉ……うぅ、後で絶対遊んでね？」=“Not right now~?... Uuu, make time later, okay?”
 「いいよぉ。何の体験を申し込みに行こっかぁ？」=“All right. What experience should we sign up for?”
 「あのね、あなたとやってみたい体験があるの」=“You know, there's this experience I'd like to try with you.”
 「ありがとぉ！　あなたに良いところを見せられる様に頑張るね」=“Thanks! I'll do my best to show you my good side, okay?”

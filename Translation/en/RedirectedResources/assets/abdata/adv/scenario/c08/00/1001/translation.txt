@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「休憩がてら、ここでアイスでも食べない？」=
-//「ふぅ……風が気持ちいいね。アイスも美味しい♪」=
-//「そうだねぇ。なんだかまったりしちゃうねぇ」=
-//「ふふっ。お爺ちゃんみたいな喋り方だね」=
-//「あはは。あまりにもリラックスし過ぎて、気が抜けたのかも」=
-//「お爺ちゃ～ん。もっとアイスちょうだい～」=
-//「ほっほっほっ。たくさん買ってきたから、好きなだけ食べるがええ」=
-//「やった～！　お爺ちゃん大好きっ♪」=
-//「え！？　だ、大好きって……」=
-//「どうして照れてるの？」=
-//「だって、そんな大声で言われたら……」=
-//「も～、そこは照れずに受け止めなくちゃ。いまの[P名]君は私のお爺ちゃんなんだから」=
-//「あっ、そうだったね。ごめんごめん」=
-//（そうだよな。今の『好き』って言葉も家族に対するもので……）=
-//「それじゃあもう一度いくね」=
-//「[P名]君、だぁ～い好き♪」=
-//「えっ！？　名前で呼んだら意味が変わっちゃうよ」=
-//「えへへ♪　いまのは私がお婆ちゃんになった場合だよ」=
-//「歳を取っても[P名]君を名前で呼んで、たくさん甘えちゃうんだから」=
-//「あはは。それなら頑張って長生きしないとね」=
+「休憩がてら、ここでアイスでも食べない？」=“Wanna take a break and eat some ice cream here?”
+「ふぅ……風が気持ちいいね。アイスも美味しい♪」=“Fuuh... the breeze is really nice, isn't it? The ice cream is really good too♪”
+「そうだねぇ。なんだかまったりしちゃうねぇ」=“Sure is. I can feel my shoulders relaxing~”
+「ふふっ。お爺ちゃんみたいな喋り方だね」=“Fufuh--, now you're talking like a grandpa.”
+「あはは。あまりにもリラックスし過ぎて、気が抜けたのかも」=“Ahahah. I might have been, the relaxtion hit me like a ton of bricks.”
+「お爺ちゃ～ん。もっとアイスちょうだい～」=“Grandpa~. I want more ice cream~”
+「ほっほっほっ。たくさん買ってきたから、好きなだけ食べるがええ」=“Hoh hoh hoh--. I bought lots so, eat up.”
+「やった～！　お爺ちゃん大好きっ♪」=“Yay~! I love you granpda--♪”
+「え！？　だ、大好きって……」=“Eh!? L-Love...”
+「どうして照れてるの？」=“Why're you blushing?”
+「だって、そんな大声で言われたら……」=“I mean, you said it so loudly...”
+「も～、そこは照れずに受け止めなくちゃ。いまの[P名]君は私のお爺ちゃんなんだから」=“Jeez~, you gotta stay in character and take it without blushing. Right now, you're my grandpa, [P]-kun.”
+「あっ、そうだったね。ごめんごめん」=“Ah--, right. Sorry, sorry.”
+（そうだよな。今の『好き』って言葉も家族に対するもので……）=(Of course. That "love" was aimed towards her family rather than...)
+「それじゃあもう一度いくね」=“I'll say it one more time then, okay?”
+「[P名]君、だぁ～い好き♪」=“[P]-kun, I love~ you♪”
+「えっ！？　名前で呼んだら意味が変わっちゃうよ」=“Eh--!? That sounds way different when you put my name in the front.”
+「えへへ♪　いまのは私がお婆ちゃんになった場合だよ」=“Eheheh♪ That was me roleplaying as the grandma.”
+「歳を取っても[P名]君を名前で呼んで、たくさん甘えちゃうんだから」=“Even when we grow old and wrinkly, I'm still gonna call you [P]-kun and have you spoil me lots.”
+「あはは。それなら頑張って長生きしないとね」=“Ahahah. Well then, I guess we'll just have to live that long then.”
