@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふぅ……楽しかったね。いっぱい遊べてすっごく満足だよぉ」=“Fuh... that was very fun, wasn't it? I'm super satisfied, we got to play around so much~”
+//「ふぅ……楽しかったね。いっぱい遊べてすっごく満足だよぉ」=

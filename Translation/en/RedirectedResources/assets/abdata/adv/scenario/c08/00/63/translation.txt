@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えへへ、すっごく気持ち良かったよ～」=“Eheheh, that felt super nice~”
-「おかげで気持ち良くなれたよ～」=“Thanks to you, I got to feel great today~”
-「私、綺麗になれたかなぁ？」=“Do you think I got prettier~?”
-「なんで塗ってくれないの？　使い方が分かんないわけじゃないよね？」=“Why won't you put it on me? It's not like you don't know how, right?”
+//「えへへ、すっごく気持ち良かったよ～」=
+//「おかげで気持ち良くなれたよ～」=
+//「私、綺麗になれたかなぁ？」=
+//「なんで塗ってくれないの？　使い方が分かんないわけじゃないよね？」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「あの……俺はいつ砂の中から出してもらえるの？」=“Uhm... when do you suppose can I get out of the sand?”
-「ん～とね、私が満足するまでは中にいてほしいかな」=“Nnn~, basically, I want you to stay in there until I'm satisfied.”
-「……了解です。でも暑いから早めに出してくれると嬉しいな」=“...Roger. But it's pretty darn hot so I'd appreciate it a lot if that moment comes soon.”
-「ふ～ん、ふんふんふ～ん♪　もっと高く積み上げて～♪」=“Hmm~, hmhmhm~♪ Yep, you definitely needs more sand~♪”
-「もう聞いていらっしゃらない！？」=“Are you not listening anymore, miss!?”
+//「あの……俺はいつ砂の中から出してもらえるの？」=
+//「ん～とね、私が満足するまでは中にいてほしいかな」=
+//「……了解です。でも暑いから早めに出してくれると嬉しいな」=
+//「ふ～ん、ふんふんふ～ん♪　もっと高く積み上げて～♪」=
+//「もう聞いていらっしゃらない！？」=

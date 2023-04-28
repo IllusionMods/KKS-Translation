@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっとは上達したよね？　えへへ、褒めてくれてありがとぉ」=“I definitely got a bit decent at it, didn't I? Eheheh, thanks for cheering me on~”
+//「ちょっとは上達したよね？　えへへ、褒めてくれてありがとぉ」=

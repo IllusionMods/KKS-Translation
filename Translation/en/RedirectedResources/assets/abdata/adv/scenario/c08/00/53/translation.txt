@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっと……食べ過ぎちゃったかも。でも幸せ～♪」=“I think I... ate a bit much. But I'm in so much bliss~♪”
+//「ちょっと……食べ過ぎちゃったかも。でも幸せ～♪」=

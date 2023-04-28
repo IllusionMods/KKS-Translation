@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「灯台って、なんの為に建ってるの？」=“Why do lighthouses exist anyway?”
-「船が迷わない為の目印……だったかな」=“To keep ships from getting lost... if I'm remembering right?”
-「海の上には基本的に何もないから、灯台の光を頼りに航海をするんだよ」=“There's more or less nothing out there at sea so, they use the lighthouse as their guiding light on voyages.”
-「へぇ～、そうなんだ。すっごく大事な役割があるなんて、灯台はすごいねぇ」=“Heh~, I see. Lighthouses sure are amazing, what an important role~”
-「でも、ネットの記事で読んだんだけど、ＧＰＳの影響で老朽化した灯台は取り壊されるかもしれないんだって」=“But, and I read this on the net, apparently thanks to the advent of GPS, they're starting to tear down the old and dilapidated ones.”
-「ＧＰＳって聞いたことあるけど、なぁに？」=“I've heard of GPS before, but what is it~?”
-「……俺のことなんでも知ってる人だって、勘違いしてない？」=“...You sure you're not mistaking me a walking encyclopedia or something?”
+//「灯台って、なんの為に建ってるの？」=
+//「船が迷わない為の目印……だったかな」=
+//「海の上には基本的に何もないから、灯台の光を頼りに航海をするんだよ」=
+//「へぇ～、そうなんだ。すっごく大事な役割があるなんて、灯台はすごいねぇ」=
+//「でも、ネットの記事で読んだんだけど、ＧＰＳの影響で老朽化した灯台は取り壊されるかもしれないんだって」=
+//「ＧＰＳって聞いたことあるけど、なぁに？」=
+//「……俺のことなんでも知ってる人だって、勘違いしてない？」=

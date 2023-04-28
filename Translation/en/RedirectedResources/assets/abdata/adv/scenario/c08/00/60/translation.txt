@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ねぇ、まだ起きてる？」=“Hey, are you still up?”
+//「ねぇ、まだ起きてる？」=
 SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
 「どうかしたの？」=“What's the matter?”
-「急にね、あなたに会いたくなったの」=“Just suddenly, you know, I just felt like seeing you.”
-「だからね、ぎゅって抱きしめてほしいなぁ」=“So, you know, I want you to hug me tight tonight~”
-「……もう寝ちゃってたのかな。はぁ……私を帰って寝よう」=“...Did he already go to sleep? Haah... I should go back and sleep too.”
+//「急にね、あなたに会いたくなったの」=
+//「だからね、ぎゅって抱きしめてほしいなぁ」=
+//「……もう寝ちゃってたのかな。はぁ……私を帰って寝よう」=

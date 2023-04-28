@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えへへ、欲しかったものが買えてよかったぁ。付き合ってくれて、ありがとぉ」=“Eheheh, I'm so happy I got to buy that~. Thanks for going along with me today~”
+//「えへへ、欲しかったものが買えてよかったぁ。付き合ってくれて、ありがとぉ」=

@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「大きな水槽だね。熱帯魚の他にも、ウミガメやクラゲとかも飼われてるみたいだ」=“What a big aquarium, isn't it? Aside from tropical fishes, they even seem to have sea turtles and jellyfishes and whatnot.”
-「わぁ～、素敵～♪　まるで竜宮城みた～い」=“Wah~, so lovely~♪ It's almost like we're in the Palace of the Dragon King~”
-「本当にいろいろなお魚さんがいるね。タイやヒラメは踊ったりしないのかなぁ？」=“There really are a ton of fishies here. You think there's any porgies or flounders dancing around?”
-「あはは。さすがに踊ってはいないね」=“Ahahah. I don't think they'd be dancing, if they have any.”
-「あっ！　見てっ。サメがこっちの方に泳いでくる」=“Ah--! Look--! The shark's swimming over this way.”
-「すごく大きなお口だねぇ。他のお魚さん達が食べられないか心配だよぉ」=“That's a really big mouth, isn't it~? Now I'm worried if it's gonna gobble up the other fishies~”
-「あれはジンベイザメだね。小魚やプランクトンを食べるから、中型の魚は食べないみたい」=“I believe that one's a whale shark. It eats tiny fishes and planktons and whatnot, and not medium sized fishes from the looks of it.”
-「温厚で臆病な性格だから人を襲うことはないんだってさ」=“It's got a real gentle and timit personality too so apparently it doesn't attack humans either.”
-「へぇ～、そうなんだぁ。心優しいサメもいるんだねぇ。まるで……」=“Heh~, I see~. So there's kind and gentle sharks out there too, huh~? Almost like...”
-「俺みたいだよね」=“Almost like me, isn't it?”
-「え～？　そういうこと自分で言っちゃうの？　自意識過剰かもぉ」=“Eh~? Who says that about themselves? You're a bit too egotistical, methinks~”
-「がーん！　うぅっ、調子に乗りました……」=“Gahn~! Uuu--, I got carried away...”
-「なんて嘘だよ♪　臆病なところは似てないけど、[P名]君も人を襲ったりしないもんね」=“I'm joking♪ The timid part aside, you wouldn't hurt other people either, would you, [P]-kun~?”
-「これからもずっと、私の大好きな優しい[P名]君のままでいてね。えへへ♪」=“Always stay the sweet and kind man that I love lots and lots, okay? Eheheh♪”
+//「大きな水槽だね。熱帯魚の他にも、ウミガメやクラゲとかも飼われてるみたいだ」=
+//「わぁ～、素敵～♪　まるで竜宮城みた～い」=
+//「本当にいろいろなお魚さんがいるね。タイやヒラメは踊ったりしないのかなぁ？」=
+//「あはは。さすがに踊ってはいないね」=
+//「あっ！　見てっ。サメがこっちの方に泳いでくる」=
+//「すごく大きなお口だねぇ。他のお魚さん達が食べられないか心配だよぉ」=
+//「あれはジンベイザメだね。小魚やプランクトンを食べるから、中型の魚は食べないみたい」=
+//「温厚で臆病な性格だから人を襲うことはないんだってさ」=
+//「へぇ～、そうなんだぁ。心優しいサメもいるんだねぇ。まるで……」=
+//「俺みたいだよね」=
+//「え～？　そういうこと自分で言っちゃうの？　自意識過剰かもぉ」=
+//「がーん！　うぅっ、調子に乗りました……」=
+//「なんて嘘だよ♪　臆病なところは似てないけど、[P名]君も人を襲ったりしないもんね」=
+//「これからもずっと、私の大好きな優しい[P名]君のままでいてね。えへへ♪」=

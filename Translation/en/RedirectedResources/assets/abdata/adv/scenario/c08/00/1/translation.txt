@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えっ？　あなたは、私のことが好き……なの？」=“Eh--? You, love... me?”
-「そうだよ。[H名]を見てるとドキドキするし、ずっと傍にいたいなって思うんだ」=“That's right. Just looking at you makes my heart pound, and it makes me want to stay by your side forever.”
-「わ、私もね……あなたを見てるとドキドキして、もっと傍にいられたらなぁって……思うよ」=“Y-You know, that's funny... when I look at you, my heart pounds the same and, it makes me wanna... stay with you too.”
-「じゃあ、俺たち……両想いだったってこと？」=“Then, does that mean... we've both loved each other this whole time?”
-「うんっ！　えへへ……嬉しいなぁ。恋人として、これからもよろしくねっ」=“Yeah--! Eheheh... I'm so happy`. Let's be a couple from now on, okay?--”
+//「えっ？　あなたは、私のことが好き……なの？」=
+//「そうだよ。[H名]を見てるとドキドキするし、ずっと傍にいたいなって思うんだ」=
+//「わ、私もね……あなたを見てるとドキドキして、もっと傍にいられたらなぁって……思うよ」=
+//「じゃあ、俺たち……両想いだったってこと？」=
+//「うんっ！　えへへ……嬉しいなぁ。恋人として、これからもよろしくねっ」=

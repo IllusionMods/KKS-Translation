@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「おお、綺麗な滝だね～。でも、なんでここがパワースポットなの？」=“Oooh, what a pretty waterfall~. But, why's this place a powerspot?”
-「まぁ……呼称されるだけの何かがあったんじゃない？」=“Well... there's probably a reason or two to it, no?”
-「この滝に打たれたら不思議な力が宿ったとか、この滝は神様自らがお創りになったとか」=“Like maybe someone got swept away in it once and woke up to amazing powers, or maybe it was wrought by the hands of God himself or whatever.”
-「そうなの！？　それじゃあ、とってもありがたい滝なんだ～」=“Really!? Well then, we gotta pay our respects properly~”
-「いや、今のは俺の想像だからね？　本当にあったわけじゃないよ？」=“That was just me throwing out entirely random guesses, okay? It's not like it's actually that stuff, okay?”
+//「おお、綺麗な滝だね～。でも、なんでここがパワースポットなの？」=
+//「まぁ……呼称されるだけの何かがあったんじゃない？」=
+//「この滝に打たれたら不思議な力が宿ったとか、この滝は神様自らがお創りになったとか」=
+//「そうなの！？　それじゃあ、とってもありがたい滝なんだ～」=
+//「いや、今のは俺の想像だからね？　本当にあったわけじゃないよ？」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「[H名]がより綺麗になる為に、今回は前側も塗ろうか」=“Let's do the front as well this time, so that you become even prettier.”
-「うん、分かったよ。背中だけ綺麗だったら、ちょっと変だもんね」=“Okay, sure. It'd look pretty weird if my back was the only beautiful part of me.”
-「そういうこと。俺と一緒にもっと上を目指そう！」=“Exactly. Let's aim for higher things together!”
-「おー！」=“Alright~!”
+//「[H名]がより綺麗になる為に、今回は前側も塗ろうか」=
+//「うん、分かったよ。背中だけ綺麗だったら、ちょっと変だもんね」=
+//「そういうこと。俺と一緒にもっと上を目指そう！」=
+//「おー！」=

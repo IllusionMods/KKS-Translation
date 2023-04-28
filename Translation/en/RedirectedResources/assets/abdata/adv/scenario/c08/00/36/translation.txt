@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「どうやって二人の呼吸を合わせよっか？」=“How should we go about synchronizing our breathing?”
-「掛け声を決めた方がいいかもね。いっち、にー、いっち、にー、みたいな感じで」=“Might help to decide on a shout or something. One, two, one two, and whatnot.”
-「それでいいと思うなぁ。いっち、にー、いっち、にー♪」=“I think that'd be fine, yeah~. One, two~, one, two~♪”
-「えへへ、一緒に一番を目指して頑張ろうね！」=“Eheheh, let's aim for the top spot and do our best, okay?~!”
-「人と競争するんじゃなくて、自然を楽しむ為のカヤックだからね？」=“Just for the record, we're not here to compete but rather to enjoy nature, alright?”
+//「どうやって二人の呼吸を合わせよっか？」=
+//「掛け声を決めた方がいいかもね。いっち、にー、いっち、にー、みたいな感じで」=
+//「それでいいと思うなぁ。いっち、にー、いっち、にー♪」=
+//「えへへ、一緒に一番を目指して頑張ろうね！」=
+//「人と競争するんじゃなくて、自然を楽しむ為のカヤックだからね？」=

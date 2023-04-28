@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えへへ、楽しかったぁ♪　私のしたいことに付き合ってくれてありとぉ！　すっごく嬉しいよ！」=“Eheheh, I had a blast~♪ Thanks for going along with what I wanted to do~! It made me super happy!”
+//「えへへ、楽しかったぁ♪　私のしたいことに付き合ってくれてありとぉ！　すっごく嬉しいよ！」=

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「どう？　順調にシーサー作れてる？」=“How's it going? Is your shisa coming along well?”
-「ちょっと苦戦してるけど、悪くないと思うよ」=“Bit of a hard fight but, mine's coming out decidedly not bad.”
-「こうやって何かを作るのって、久しぶりだな～。子供の頃を思い出して、楽しいよぉ」=“It's been a while since I've made something by hand like this~. It's really fun and nostalgic~”
-「はは、そっか。なら誘って正解だったよ」=“Hahah, I see. Well I'm glad I asked then.”
-「うんっ、ありがとぉ。でも手が止まってるよ？　あなたが作ってくれないと、私のシーサー、一人ぼっちになっちゃう」=“Yeah--, thanks~. But your hands are slowing down, you know? If you don't finish yours too, my shisa's gonna end up all alone~”
+//「どう？　順調にシーサー作れてる？」=
+//「ちょっと苦戦してるけど、悪くないと思うよ」=
+//「こうやって何かを作るのって、久しぶりだな～。子供の頃を思い出して、楽しいよぉ」=
+//「はは、そっか。なら誘って正解だったよ」=
+//「うんっ、ありがとぉ。でも手が止まってるよ？　あなたが作ってくれないと、私のシーサー、一人ぼっちになっちゃう」=
