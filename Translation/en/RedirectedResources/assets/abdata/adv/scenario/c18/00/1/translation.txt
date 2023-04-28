@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へ？　それって……私のことが、ですか？」=
-//「……うん、そうだよ。俺と付き合って欲しい」=
-//「び、びっくりしました……ど、どうしましょう」=
-//「ごめん、驚かせるつもりはなかったんだけど」=
-//「あ、謝らないで下さいっ！　……幸せ過ぎて、驚いただけですから」=
-//「私で良ければ、よろしくお願いしますっ」=
+「へ？　それって……私のことが、ですか？」=“Heh? Do you... mean, me?”
+「……うん、そうだよ。俺と付き合って欲しい」=“...Yep, that's right. I want you to go out with me.”
+「び、びっくりしました……ど、どうしましょう」=“I-I didn't expect that... w-what do I do--”
+「ごめん、驚かせるつもりはなかったんだけど」=“Sorry, I never meant to shock you like this.”
+「あ、謝らないで下さいっ！　……幸せ過ぎて、驚いただけですから」=“P-Please do not apologize--! ...I'm just shocked out of, sheer happiness.”
+「私で良ければ、よろしくお願いしますっ」=“If you'll have me, then please--”

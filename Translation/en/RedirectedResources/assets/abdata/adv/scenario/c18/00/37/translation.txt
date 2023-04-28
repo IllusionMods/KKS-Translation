@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「折角だから、何かレンタルして遊ぼうか」=
-//「そうですね……でも、何を借りても失敗しそうな気がします」=
-//「シュノーケリングは溺れちゃいそうだし、バナナボートは放り出されてしまいそうで……」=
-//「でも、こういうのってそういう失敗も楽しむものだから」=
-//「そ、そうですかね？」=
-//「うん、気にせず遊んだほうがいいよ。さぁ、行こう」=
+「折角だから、何かレンタルして遊ぼうか」=“We came all the way here, so maybe we should rent something too.”
+「そうですね……でも、何を借りても失敗しそうな気がします」=“Indeed... but, I feel like it's going to end up disastrous anyway.”
+「シュノーケリングは溺れちゃいそうだし、バナナボートは放り出されてしまいそうで……」=“If we go snorkeling, we may drown, and the banana boat may simply throw us overboard...”
+「でも、こういうのってそういう失敗も楽しむものだから」=“But, that would be fun and enjoyable in its own way.”
+「そ、そうですかね？」=“D-Do you think so?”
+「うん、気にせず遊んだほうがいいよ。さぁ、行こう」=“Yep, don't worry about it and just enjoy yourself. Let's go, c'mon.”
