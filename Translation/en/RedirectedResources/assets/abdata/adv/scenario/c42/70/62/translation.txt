@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「今回は背中だけじゃなくて、正面にも塗ってみようよ」=“Let's do the front this time too, not just your back.”
-「ん～……さすがに、恋人同士でも正面は恥ずかしいかも」=“Nn~... even if we're a couple, that sounds a bit embarrassing.”
-「そ、そっか……。じゃあ、背中だけにしておく？」=“I-I see... Then, wanna do just your back?”
-「ううん、正面もして？　えへへ、キミにならされてもいいからねー」=“No, do the front too for me? Eheheh, if you're the one doing it, I don't mind~”
+//「今回は背中だけじゃなくて、正面にも塗ってみようよ」=
+//「ん～……さすがに、恋人同士でも正面は恥ずかしいかも」=
+//「そ、そっか……。じゃあ、背中だけにしておく？」=
+//「ううん、正面もして？　えへへ、キミにならされてもいいからねー」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「しかたないなー。仲間はずれは嫌だもんね？　だから、一緒にしよ？」=“I guess it can't be helped~. We wouldn't want to leave anyone out, would we? So, let's do it together?”
+//「しかたないなー。仲間はずれは嫌だもんね？　だから、一緒にしよ？」=

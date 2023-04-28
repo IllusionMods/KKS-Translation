@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ねぇねぇ、キミのこともっといろいろと知りたいなー。ダメ、かなぁ？」=“Hey, hey, I wanna get to know you lots more~. Could I~?”
-「ダメなんてことはないよ。そう言ってもらえて、すごく嬉しい」=“Of course, I'd never be against that. I'm super happy you feel that way.”
-「そっかぁ。えへへ、よかったー」=“I see~. Eheheh, thank god~”
-「それじゃあ、俺からも提案。よかったら、[H名]のことも俺にいろいろ教えてくれない？」=“Well then, here's an idea from me. Won't you teach me lots more about yourself too?”
-「私のことを？」=“Me?”
-「うん。その方がもっとお互いに仲良くなれるかなって思って」=“Yep. That'd help us get even closer, I feel.”
-「うん！　じゃあ、教えっこしながら、もっと仲良くなろうねー」=“Okay! Then, let's get way~ closer while we teach each other about ourselves~”
+//「ねぇねぇ、キミのこともっといろいろと知りたいなー。ダメ、かなぁ？」=
+//「ダメなんてことはないよ。そう言ってもらえて、すごく嬉しい」=
+//「そっかぁ。えへへ、よかったー」=
+//「それじゃあ、俺からも提案。よかったら、[H名]のことも俺にいろいろ教えてくれない？」=
+//「私のことを？」=
+//「うん。その方がもっとお互いに仲良くなれるかなって思って」=
+//「うん！　じゃあ、教えっこしながら、もっと仲良くなろうねー」=

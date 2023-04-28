@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「おはよー。よく眠れたー？」=“Morning~. Did you sleep well~?”
-「キミの寝顔をいっぱい見られたし、これって添い寝したときだけの特権だよねー、えへへ」=“I got to watch you sleep a whole lot myself. A bit of a side perk of sleeping together, isn't it~? Eheheh~”
+//「おはよー。よく眠れたー？」=
+//「キミの寝顔をいっぱい見られたし、これって添い寝したときだけの特権だよねー、えへへ」=

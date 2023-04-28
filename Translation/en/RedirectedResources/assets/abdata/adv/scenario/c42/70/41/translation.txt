@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「やっぱり恋人と過ごす時間が１番だな～。えへへ、今日も楽しかったよ、ありがとっ」=“Spending time with your boyfriend really is the best~. Eheheh, I had a lot of fun today too, thanks--”
+//「やっぱり恋人と過ごす時間が１番だな～。えへへ、今日も楽しかったよ、ありがとっ」=

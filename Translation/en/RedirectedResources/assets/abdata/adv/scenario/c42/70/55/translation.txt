@@ -2,14 +2,14 @@
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 「ねぇねぇ、[Pあだ名]」=“Hey, hey, [Pあだ名].”
-「えっ、どうしたの急に？」=“Eh--, what's all this now?”
-「深い意味はないよー。ただ、ちょっといつもと違う風に呼んでみようかなって思って……えへへ」=“There's no deep meaning behind it~. I just thought that maybe I'd try to call you something different from what I usually do... eheheh.”
-「そうなんだ。いきなりだからビックリしたよ」=“I see. It startled me since it was so out of nowhere.”
-「それで、どうかなー？　あだ名で呼んでも大丈夫？」=“So, how was it~? Do you mind if I call you that nickname?”
-「そうだね……。特に嫌ってわけじゃないし、大丈夫だよ」=“Mmm... Well, it's not like I don't like it or anything, so why not?”
-「本当？　ありがとー。何だったら、私のこともあだ名で呼んでもいいよ？」=“You mean it? Thanks~. You can call me a nickname too, you know?”
-「そう？　とはいえ、あだ名か……どんなのが良いかな」=“That so? Well, even if you say that... what sorta nickname would be good?”
-「好きに呼んでくれていいよー。えへへ、ちょっと楽しみかも」=“You can just call me whatever you like~. Eheheh, I think I'm getting a bit excited.”
-「じゃあ……[Hあだ名]って呼ぶのはどう？」=“Then... how's [Hあだ名]?”
-「おぉぉ、それ良いかも！　でも、お互いに呼び合うとちょっと恥ずかしい感じもするかも……」=“Ooh, I think it's nice! But, it also feels a bit embarrassing when you call me that right after I do...”
-「そうだね。照れくさいし、時々呼び合うくらいがちょうど良いのかもね」=“Right. It's definitely embarrassing so, only using it sometimes might be just perfect.”
+//「えっ、どうしたの急に？」=
+//「深い意味はないよー。ただ、ちょっといつもと違う風に呼んでみようかなって思って……えへへ」=
+//「そうなんだ。いきなりだからビックリしたよ」=
+//「それで、どうかなー？　あだ名で呼んでも大丈夫？」=
+//「そうだね……。特に嫌ってわけじゃないし、大丈夫だよ」=
+//「本当？　ありがとー。何だったら、私のこともあだ名で呼んでもいいよ？」=
+//「そう？　とはいえ、あだ名か……どんなのが良いかな」=
+//「好きに呼んでくれていいよー。えへへ、ちょっと楽しみかも」=
+//「じゃあ……[Hあだ名]って呼ぶのはどう？」=
+//「おぉぉ、それ良いかも！　でも、お互いに呼び合うとちょっと恥ずかしい感じもするかも……」=
+//「そうだね。照れくさいし、時々呼び合うくらいがちょうど良いのかもね」=

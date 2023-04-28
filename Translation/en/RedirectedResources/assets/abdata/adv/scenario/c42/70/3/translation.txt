@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ありがとう、[H名]。そう言ってもらえてすごく嬉しい」=“Thanks, [H]. You don't know how happy that makes me.”
-「実は俺も[H名]のことが好きだったんだ……」=“I've actually been in love with you myself...”
-「えっ、そ、そうなの！？」=“Eh--, r-really!?”
-「うん。だから、むしろこちらから恋人になって欲しいってお願いしたいというか……」=“Yep. So, if anything, I'm the one who wants to ask you to be my girlfriend...”
-「じゃ、じゃあ、付き合ってくれるってことで……良いのかなー？」=“T-Then, can I take that as a... yes~?”
-「もちろん。これからも、よろしくお願いするよ」=“Of course. Let's have a great time together, alright?”
-「えへへっ、うんっ！　私、キミと付き合えて嬉しいっ」=“Eheheh--, yep--! Being able to go out with you, makes me super happy--”
-「本当にありがとーね！」=“Thank you, I mean it~!”
+//「ありがとう、[H名]。そう言ってもらえてすごく嬉しい」=
+//「実は俺も[H名]のことが好きだったんだ……」=
+//「えっ、そ、そうなの！？」=
+//「うん。だから、むしろこちらから恋人になって欲しいってお願いしたいというか……」=
+//「じゃ、じゃあ、付き合ってくれるってことで……良いのかなー？」=
+//「もちろん。これからも、よろしくお願いするよ」=
+//「えへへっ、うんっ！　私、キミと付き合えて嬉しいっ」=
+//「本当にありがとーね！」=

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ここのレンタルショップで、ダイビングとかの道具をレンタルできるみたいだね」=“Seems like you can rent diving gear, at the local rental shop here.”
-「へぇ、ダイビングかー。カラフルな海の中を見てみるの、すっごい楽しみ！」=“Heh~, diving, huh~? The idea of looking into the wide and colorful sea, sounds super exciting!”
-「でも、ダイビングは舐めちゃダメだよ。１つ間違えれば溺れてしまう危険も潜んでいるんだから」=“Don't underestimate it though. It might be going fine one moment but a single mistake is all it takes to drown.”
-「はぁい。でも、私が危なくなったらキミが助けてくれるでしょ？」=“I got it~. But, you'd save me if I got in such a situation, no?”
-「私、知ってるんだから。ちゃんと、そういうときはキミが助けてくれるってことー」=“I'm not a dummy, you know? I know that you'll be right there to save me, if it ever comes to that~”
-「うっ、ま、まあ、そんな状況になったらもちろん助けるけど……」=“Uu--, w-well, I mean of course I'd save you if it got to that but...”
-「それはそれ。危ない目に合わないのが１番なんだから、絶対に気を抜いちゃダメだからね！」=“That's separate. Prevention is always better than the cure, so no letting your attention slip, okay!?”
+//「ここのレンタルショップで、ダイビングとかの道具をレンタルできるみたいだね」=
+//「へぇ、ダイビングかー。カラフルな海の中を見てみるの、すっごい楽しみ！」=
+//「でも、ダイビングは舐めちゃダメだよ。１つ間違えれば溺れてしまう危険も潜んでいるんだから」=
+//「はぁい。でも、私が危なくなったらキミが助けてくれるでしょ？」=
+//「私、知ってるんだから。ちゃんと、そういうときはキミが助けてくれるってことー」=
+//「うっ、ま、まあ、そんな状況になったらもちろん助けるけど……」=
+//「それはそれ。危ない目に合わないのが１番なんだから、絶対に気を抜いちゃダメだからね！」=

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「えええっ！？　ま、待ってー！　エッチって……あの恋人とか夫婦がするエッチ、かなぁ？」=“Eeeeh--!? W-Wait~! Sex... do you mean that sort of stuff that a boyfriend and girlfriend and a husband and wife do~?”
-「うん、男女でいろいろする、そのエッチのことだけど……」=“Yep, the sort of stuff a man and a woman get together to do, that sorta stuff...”
-「[H名]は恋人相手じゃないと、そういうことしたくない？」=“I suppose you don't wanna do it, if it's not with someone you love?”
-「そんなことは……ない、かも？　キミとなら……うん、少し興味あるし……」=“May... be not? If it's you then... yep, I am a bit interested...”
-「じゃあ、試しにしてみようよ。ちゃんと優しくするから」=“Then, let's just do it as a test. I'll make sure to be gentle.”
-「う、うん……。じゃあ、お、お願いします……」=“O-Okay... then, p-please...”
-「ありがとう、[H名]！」=“Thanks, [H]!”
+//「えええっ！？　ま、待ってー！　エッチって……あの恋人とか夫婦がするエッチ、かなぁ？」=
+//「うん、男女でいろいろする、そのエッチのことだけど……」=
+//「[H名]は恋人相手じゃないと、そういうことしたくない？」=
+//「そんなことは……ない、かも？　キミとなら……うん、少し興味あるし……」=
+//「じゃあ、試しにしてみようよ。ちゃんと優しくするから」=
+//「う、うん……。じゃあ、お、お願いします……」=
+//「ありがとう、[H名]！」=

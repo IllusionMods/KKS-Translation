@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「うぅ……いつから私たちがしてるの、見てたのかなー……？」=“Uuu... since when have you been watching us going at this~...?”
+//「うぅ……いつから私たちがしてるの、見てたのかなー……？」=

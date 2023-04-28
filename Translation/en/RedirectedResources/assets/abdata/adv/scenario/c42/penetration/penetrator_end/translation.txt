@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「えへへ、すっごい良かったよぉ。混ぜてくれてありがとー」=“Eheheh, that was amazing~. Thanks for letting me join in~”
+//「えへへ、すっごい良かったよぉ。混ぜてくれてありがとー」=

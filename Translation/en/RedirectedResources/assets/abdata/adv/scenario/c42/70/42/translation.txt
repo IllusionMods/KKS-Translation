@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「三線って、なかなか狙った音が出せないんだよね……」=“It's really hard to get the sort of sound you want out of a Sanshin, isn't it...”
-「弦が３本しかないから、逆に他の弦楽器よりも難しかったりするのかな？」=“There's only 3 strings so, do you think it might actually be harder than other stringed instruments?”
-「うーん、どうだろう？　私は弦の数がいーっぱいある方が、混乱しちゃいそうな気がするかなー」=“Nnn, I wonder? I feel like an instrument with lots of strings would confuse me more~”
-「……たしかに、世界には６０本くらいある楽器もあるそうだから、それに比べればわかりやすいのかも」=“...There do seem to be instruments out there with 60 strings or more, compared to those, this probably is easier.”
-「こういうのは、とにかく体当たりで音を鳴らしていれば、そのうちわかるんじゃないかな？」=“Don't you think for things like this, it's the best to just keep going at it until it starts making sense?”
-「だから、せっかくの体験なんだし、じゃんじゃん鳴らしちゃおうよ」=“So, since it's such a rare experience, let's just make lots of noise, c'mon~”
+//「三線って、なかなか狙った音が出せないんだよね……」=
+//「弦が３本しかないから、逆に他の弦楽器よりも難しかったりするのかな？」=
+//「うーん、どうだろう？　私は弦の数がいーっぱいある方が、混乱しちゃいそうな気がするかなー」=
+//「……たしかに、世界には６０本くらいある楽器もあるそうだから、それに比べればわかりやすいのかも」=
+//「こういうのは、とにかく体当たりで音を鳴らしていれば、そのうちわかるんじゃないかな？」=
+//「だから、せっかくの体験なんだし、じゃんじゃん鳴らしちゃおうよ」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ふわー……なんか、気持ち良かった！　してくれてありがとうねー」=“Fuwah~... that felt, kinda nice! Thanks for doing that for me~”
-「ありがとー！　ふふっ、これで私も綺麗になれたかなー？」=“Thanks~! Fufuh--, do you think I've gotten prettier after that~?”
-「うん、こんな感じかな？　ありがとうねー」=“Yep, I guess that was that? Thanks~”
-「え？　終わりなのー？　えー？」=“Eh? Already~? Eh~?”
+//「ふわー……なんか、気持ち良かった！　してくれてありがとうねー」=
+//「ありがとー！　ふふっ、これで私も綺麗になれたかなー？」=
+//「うん、こんな感じかな？　ありがとうねー」=
+//「え？　終わりなのー？　えー？」=

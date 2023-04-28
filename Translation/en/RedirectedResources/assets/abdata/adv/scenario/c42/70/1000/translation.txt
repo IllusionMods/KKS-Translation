@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「カップルドリンクがあるんだね。良かったら、一緒に飲んでみない？」=“They serve a couples' drink here, it looks like. Wanna try getting one together?”
-「えへへ。一口飲んでみたけど、これは恥ずかしいねー。顔がすっごく近くなちゃうし、ドキドキしちゃうよぉ」=“Eheheh. I tried drinking a sip but, it sure is embarrassing~. Our faces get so close, it makes my heart pound~”
-「キミの顔がドアップで近づいて来て、まつげとか唇とかすっごく近くに見えて……」=“Your face gets so close to mine, it lets me see your eyelashes and your lips so clearly...”
-「俺もここまで恥ずかしいとは思わなかったよ」=“I didn't think it'd be this embarrassing either.”
-「えへへ。でもさ、これってすっごく恋人してるーって感じがすると思うよ？　キミはどう思う？」=“Eheheh. But you know, it really does make me realize that I've got a boyfriend I love, you know? What do you think?”
-「恋人でもなければこんな風に飲まないしね」=“You could never drink this with someone you don't love, not like this anyway.”
-「そもそもカップルドリンクって名前からしていかにも……だしね」=“I mean, to begin with, they call it a "couples' drink", that name in itself... you know?”
-「そうだねー。えへへ、顔がいつもより熱いかもー」=“Yeah~. Eheheh, I can feel my face getting hot~”
-「うーん……でもどうしよう？　まだ一口しか飲んでないし、もっと……飲んじゃう……？」=“Nnn... but what should we do? We've only just taken a sip of it, wanna... drink more...?”
-「[H名]が良ければ、俺はこのまま一緒に飲めればって思うけど……どう？」=“I mean, if you're fine with it, [H], I wouldn't have a problem with just continuining drinking it together... but what do you say?”
-「うんっ！　恥ずかしいけど、嫌じゃないし……」=“I wanna--! It's embarrassing but, it doesn't bother me and...”
-「なによりキミと一緒のドリンクを飲むっていうのは、ドキドキして好き……かなぁ」=“More than anything else, having a drink together with you like this, makes my heart pound so much, I love it... I'd say~”
-「じゃあ、早速もう一口飲もうか？」=“Then, shall we go for another sip?”
-「えへへ。じゃあ、いっせーので口をつけよ？」=“Eheheh. Then, wanna do a countdown?”
-「わかった。それじゃあ……」=“Got it. Here we go...”
-「いっせーのーでっ！」=“One, two, go--!”
+//「カップルドリンクがあるんだね。良かったら、一緒に飲んでみない？」=
+//「えへへ。一口飲んでみたけど、これは恥ずかしいねー。顔がすっごく近くなちゃうし、ドキドキしちゃうよぉ」=
+//「キミの顔がドアップで近づいて来て、まつげとか唇とかすっごく近くに見えて……」=
+//「俺もここまで恥ずかしいとは思わなかったよ」=
+//「えへへ。でもさ、これってすっごく恋人してるーって感じがすると思うよ？　キミはどう思う？」=
+//「恋人でもなければこんな風に飲まないしね」=
+//「そもそもカップルドリンクって名前からしていかにも……だしね」=
+//「そうだねー。えへへ、顔がいつもより熱いかもー」=
+//「うーん……でもどうしよう？　まだ一口しか飲んでないし、もっと……飲んじゃう……？」=
+//「[H名]が良ければ、俺はこのまま一緒に飲めればって思うけど……どう？」=
+//「うんっ！　恥ずかしいけど、嫌じゃないし……」=
+//「なによりキミと一緒のドリンクを飲むっていうのは、ドキドキして好き……かなぁ」=
+//「じゃあ、早速もう一口飲もうか？」=
+//「えへへ。じゃあ、いっせーので口をつけよ？」=
+//「わかった。それじゃあ……」=
+//「いっせーのーでっ！」=

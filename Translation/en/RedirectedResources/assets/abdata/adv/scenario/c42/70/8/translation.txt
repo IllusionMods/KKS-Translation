@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「それじゃ、そろそろ私は帰ることにするねー」=“Well then, I'mma head back now, okay?~”
-「また後で声かけてね？　約束だよっ！」=“Come find me later, okay? It's a promise--!”
+//「それじゃ、そろそろ私は帰ることにするねー」=
+//「また後で声かけてね？　約束だよっ！」=

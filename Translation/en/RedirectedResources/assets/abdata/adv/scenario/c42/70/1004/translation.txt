@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「せっかくだし、少し浜辺を歩いていこうよ」=“We're here anyway, so let's take a walk along the beach or something.”
-「波の音って、聞いていると妙に和むよね」=“The sound of waves hitting the shore, it just makes you feel peaceful, doesn't it?”
-「ヒーリングミュージックって奴だねー。波の音は特に人気があるって聞いたことがあるよ」=“ASMR, isn't it~? I've heard that the sound of waves is especially popular with people.”
-「この音を聞いていたら、私もだんだん眠くなってきちゃうよー」=“Even I'm starting to feel drowsy, listening to this~”
-「その気持ちはわかるな。波の音って、ゆっくりとした時間を感じられるもんね」=“I understand exactly how you feel. It really just makes you savour the passage of time, doesn't it?”
-「押し寄せて……引いて……また押し寄せて……」=“Surging in... pulling back... surging in again...”
-「単調だけど……でも、ちゃんと個性のある音なのが不思議だよね」=“It's very monotonous... but, yet so rich in character at the same time, it's just mystical, isn't it?”
-「目を閉じたら、南の海の風景が脳裏に思い浮かぶんだもん」=“When I close my eyes, it draws on my mind the image of a southern sea.”
-「そして、南の島を思い浮かべながら眠りに落ちる……と」=“And while that image is imprinted on your mind, you fall asleep... just like that.”
-「あははっ、それそれ。今も、目を瞑ったらつい寝ちゃいそうかもー」=“Ahahah--, yeah. I feel like I could fall asleep right now even, if I closed my eyes.”
-「せっかく一緒に散歩してるんだし、急に寝ちゃうのはやめてね？」=“We came out on a walk and everything so, don't randomly fall asleep on me, okay?”
-「大丈夫だよ。キミと一緒にいる間は、ちゃーんと起きてるから」=“Don't worry. I'm not gonna do that, not when you're with me.”
-「でも、帰ってからだったら、すぐに寝ちゃいそうかも？」=“But, I might fall asleep dead the moment I get back to my room.”
-「そうだね……。俺も帰ったら横になって、この波の音を思い出しながら寝ようかな」=“Mmmm... Maybe I'll do the same, lie down the moment I get home and just fall asleep to the memory of the waves.”
-「じゃあ、私と一緒だー。えへへっ、もしかしたら夢の中で会えるかもしれないね」=“Same as me~. Eheheh--, we might get to meet in our dreams.”
-「波の音に導かれて……って感じかな？」=“Guided on by the waves... huh?”
-「うんっ。そして、夢の中でもキミと一緒にこうして波の音を聞くの」=“Yep--. And I'll savour these sounds and these waves with you in my dreams too.”
-「それって、すっごく幸せな時間になりそうな気がするなー」=“Yeah, that would be nice. Sounds like a great time~”
-「まぁ、結局は夢の中なんだけどね」=“Well, it'd just be a dream at the end of the day though.”
-「夢の中でも、キミと一緒にいられれば……。私はすっごく幸せだよー」=“Even if it's just in a dream, as long as I can be with you... that's more than enough happiness for me~”
+//「せっかくだし、少し浜辺を歩いていこうよ」=
+//「波の音って、聞いていると妙に和むよね」=
+//「ヒーリングミュージックって奴だねー。波の音は特に人気があるって聞いたことがあるよ」=
+//「この音を聞いていたら、私もだんだん眠くなってきちゃうよー」=
+//「その気持ちはわかるな。波の音って、ゆっくりとした時間を感じられるもんね」=
+//「押し寄せて……引いて……また押し寄せて……」=
+//「単調だけど……でも、ちゃんと個性のある音なのが不思議だよね」=
+//「目を閉じたら、南の海の風景が脳裏に思い浮かぶんだもん」=
+//「そして、南の島を思い浮かべながら眠りに落ちる……と」=
+//「あははっ、それそれ。今も、目を瞑ったらつい寝ちゃいそうかもー」=
+//「せっかく一緒に散歩してるんだし、急に寝ちゃうのはやめてね？」=
+//「大丈夫だよ。キミと一緒にいる間は、ちゃーんと起きてるから」=
+//「でも、帰ってからだったら、すぐに寝ちゃいそうかも？」=
+//「そうだね……。俺も帰ったら横になって、この波の音を思い出しながら寝ようかな」=
+//「じゃあ、私と一緒だー。えへへっ、もしかしたら夢の中で会えるかもしれないね」=
+//「波の音に導かれて……って感じかな？」=
+//「うんっ。そして、夢の中でもキミと一緒にこうして波の音を聞くの」=
+//「それって、すっごく幸せな時間になりそうな気がするなー」=
+//「まぁ、結局は夢の中なんだけどね」=
+//「夢の中でも、キミと一緒にいられれば……。私はすっごく幸せだよー」=

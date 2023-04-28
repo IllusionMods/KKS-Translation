@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ねぇねぇ、中にいるかなー？　キミに会いたくて来ちゃったんだけど、中に入れてくれる……？」=“Heyhey, are you in~? Sorry for showing up like this, I just wanted to see you so bad, will you let me in...?”
+//「ねぇねぇ、中にいるかなー？　キミに会いたくて来ちゃったんだけど、中に入れてくれる……？」=
 SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-「いらっしゃい。[H名]だったらいつでも大歓迎だよ」=“Come on in. You're always welcome in here, [H].”
-「えへへ、ありがとっ。大好きだよー」=“Eheheh, thanks--. I love you~”
-「邪魔になっちゃうかもしれないけど、しばらくここにいさせてくれる？　キミと、少しでも一緒にいたいの……」=“I might end up being just a bother but, will you lemme stay over for a bit? I want to be with you, even a bit more if I can help it...”
-「いないのかな？　残念……。はぁ……会いたいよぅ……」=“Are you not in there? Shame... Haah... I want to see you...”
+//「いらっしゃい。[H名]だったらいつでも大歓迎だよ」=
+//「えへへ、ありがとっ。大好きだよー」=
+//「邪魔になっちゃうかもしれないけど、しばらくここにいさせてくれる？　キミと、少しでも一緒にいたいの……」=
+//「いないのかな？　残念……。はぁ……会いたいよぅ……」=

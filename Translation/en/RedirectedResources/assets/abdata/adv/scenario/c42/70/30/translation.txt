@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「あそこにある灯台って、けっこう大きいよね」=“The lighthouse over there, is pretty big, isn't it?”
-「そうだねー、灯台の上から見た景色は綺麗なんだろうな～」=“Yeah~, I bet it looks real pretty from up there~”
-「でも、上まで登るのは大変そうじゃない？」=“But, doesn't it seem like it'd take an age and half to get all the way up there?”
-「あははっ、たしかにそうだよね。私は近くから見上げるだけでいいかも」=“Ahahah--, for sure, it might. I think I might be fine looking up at it from down here instead.”
-「それだけでも、灯台の大きさは充分に感じられるしね」=“That alone is enough to give you a sense of just how tall the lighthouse is too, isn't it?”
-「うんうん。キミと灯台を見に来られてよかったかなっ」=“Yepyep. Maybe coming here to see this lighthouse with you was worth it afterall-”
+//「あそこにある灯台って、けっこう大きいよね」=
+//「そうだねー、灯台の上から見た景色は綺麗なんだろうな～」=
+//「でも、上まで登るのは大変そうじゃない？」=
+//「あははっ、たしかにそうだよね。私は近くから見上げるだけでいいかも」=
+//「それだけでも、灯台の大きさは充分に感じられるしね」=
+//「うんうん。キミと灯台を見に来られてよかったかなっ」=

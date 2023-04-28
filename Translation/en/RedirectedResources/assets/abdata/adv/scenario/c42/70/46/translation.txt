@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「キミといると、どんどん素敵な思い出が増えていくみたい。一緒に体験出来て楽しかったよ！」=“It feels like everytime we spend some time together, I pile on another set of wonderful memories. It was fun to experience that with you!”
+//「キミといると、どんどん素敵な思い出が増えていくみたい。一緒に体験出来て楽しかったよ！」=

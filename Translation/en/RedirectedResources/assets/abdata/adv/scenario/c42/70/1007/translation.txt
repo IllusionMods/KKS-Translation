@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「わぁ……！　いろんな魚がいっぱいいるねー！」=“Wah...! There's all sorts of fish, aren't there~!”
-「種類が多くて、見てて飽きないね」=“There's so many species, you'd never get bored looking at this.”
-「でも、不思議に思うんだけどさ。同じ水槽内に別の種類の魚を入れるのって大丈夫なのかな？」=“But, it makes me wonder. Is it really okay to have all these sorts of fish in a single tank?”
-「大丈夫ってどういうこと？」=“What do you mean?”
-「小さい魚とかは大きい魚に食べられちゃいそうでしょ？　さすがに、ある程度は水槽はわけているだろうけど……」=“Feels like the bigger ones would just gobble up the tiny ones, no? I mean, I'm sure they've probably got it somewhat split but...”
-「そこは、餌をあげてるから大丈夫なんじゃないかなー？　ご飯があったら、ちゃんとそっちを食べるでしょ？」=“Well, they keep them well fed so isn't it fine? If there's food, they'd go for that first, no?”
-「それもそうか。水槽の中だと楽して餌を食べられるんだもんね」=“I guess there's that too. Inside the tank they can just take it easy and live off the feed instead.”
-「それに、いろんな種類の魚が１つの水槽に入ってる方が、キラキラしてて綺麗だよー？」=“Not to mention, it looks way prettier with all the different kinds in a single place, you know?”
-「ほら、あそこ！　鮮やかな色の魚がいっぱいいる！」=“Look, over there! There's so many fish gathering over there, with all those vivid colors!”
-「おお……あれってなんていう魚だろ？　３種類くらいの魚が固まってるのかな？」=“Ooh... which fishies are those? Aren't there atleast 3 species there?”
-「競うようにして泳いでて、すっごく楽しそうだねー」=“Looks super fun, doesn't it? The way they're almost racing each other~”
-「南の島の魚って元々カラフルなのが多いからか、すごいね、これは……」=“Wonder if it's because the fish in the waters here are just that colorful to begin with. Seriously, this is amazing...”
-「他の水槽も同じくらい綺麗だったりするのかなー？」=“Do you think the other tanks are just as pretty~?”
-「かもしれないね。今度はあっちへ行ってみようか？」=“They might be. Wanna go check out that one this time?”
-「うんっ。さあ、早く早くー！」=“I wanna--. Come, quickly quickly~!”
+//「わぁ……！　いろんな魚がいっぱいいるねー！」=
+//「種類が多くて、見てて飽きないね」=
+//「でも、不思議に思うんだけどさ。同じ水槽内に別の種類の魚を入れるのって大丈夫なのかな？」=
+//「大丈夫ってどういうこと？」=
+//「小さい魚とかは大きい魚に食べられちゃいそうでしょ？　さすがに、ある程度は水槽はわけているだろうけど……」=
+//「そこは、餌をあげてるから大丈夫なんじゃないかなー？　ご飯があったら、ちゃんとそっちを食べるでしょ？」=
+//「それもそうか。水槽の中だと楽して餌を食べられるんだもんね」=
+//「それに、いろんな種類の魚が１つの水槽に入ってる方が、キラキラしてて綺麗だよー？」=
+//「ほら、あそこ！　鮮やかな色の魚がいっぱいいる！」=
+//「おお……あれってなんていう魚だろ？　３種類くらいの魚が固まってるのかな？」=
+//「競うようにして泳いでて、すっごく楽しそうだねー」=
+//「南の島の魚って元々カラフルなのが多いからか、すごいね、これは……」=
+//「他の水槽も同じくらい綺麗だったりするのかなー？」=
+//「かもしれないね。今度はあっちへ行ってみようか？」=
+//「うんっ。さあ、早く早くー！」=

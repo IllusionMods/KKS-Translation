@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「紅型染めって、失敗が怖くてなかなかこれだって色を付けられないんだよね……」=“It's hard to put your own spin on something like stencil dyeing, isn't it? Since it's hard enough to do it as it is without messing it up...”
-「うんうん、分かるよー。ちょっと緊張しちゃうよねー」=“Yepyep, I feel you~. It does make you a bit nervous, doesn't it~”
-「それに、こういうのってセンスがものを言うでしょ？　自分のセンスにあまり自信がないからさ……」=“Not to mention, things like these are all about design sense, aren't they? I don't think I have all that much of any sense at all...”
-「じゃあ、お互いに作ったのを交換するっていうのはどうかなー？」=“Then, how about we swap what we're making with each other after we're done~?”
-「私もそんなに自信ないし、失敗してもお互い様ってことで少しは気が楽になるかもよ？」=“I'm not all that confident about my own design sense either, and even if we fail the other would be suffering too so it might help, you know~?”
-「人にあげるとなったら、逆にもっと気になる気もするけど……」=“Though I do feel like that might raise the bar a lot higher, and make me even more tense...”
-「うん、そういうことにして、[H名]に似合うデザインを考えてみるよ！」=“Alright, let's do that, I'll try thinking of a design that'll look good on you!”
+//「紅型染めって、失敗が怖くてなかなかこれだって色を付けられないんだよね……」=
+//「うんうん、分かるよー。ちょっと緊張しちゃうよねー」=
+//「それに、こういうのってセンスがものを言うでしょ？　自分のセンスにあまり自信がないからさ……」=
+//「じゃあ、お互いに作ったのを交換するっていうのはどうかなー？」=
+//「私もそんなに自信ないし、失敗してもお互い様ってことで少しは気が楽になるかもよ？」=
+//「人にあげるとなったら、逆にもっと気になる気もするけど……」=
+//「うん、そういうことにして、[H名]に似合うデザインを考えてみるよ！」=

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「な、なんだか、すごかった……。ありがとうね、えへへへ」=“T-That was, kinda amazing... Thanks, eheheheh.”
-「ふふっ、気持ち良かったよー。ありがとうね」=“Fufuh--, that felt great~. Thanks.”
-「うん、悪くない感じだったかも。ありがとうねー」=“Yep, that wasn't all that bad. Thanks~”
-「終わっちゃうの？　塗るんじゃなかったの？　もー」=“Are we really stopping? Weren't you gonna put it on me? Jeez, dummy~”
+//「な、なんだか、すごかった……。ありがとうね、えへへへ」=
+//「ふふっ、気持ち良かったよー。ありがとうね」=
+//「うん、悪くない感じだったかも。ありがとうねー」=
+//「終わっちゃうの？　塗るんじゃなかったの？　もー」=

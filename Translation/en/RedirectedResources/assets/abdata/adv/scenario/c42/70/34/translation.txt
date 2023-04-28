@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「はぁ……楽しかったよぉ。これって、絶対にキミと一緒だからだよね！」=“Haah... that was really fun~. It's definitely gotta be because we went together!”
+//「はぁ……楽しかったよぉ。これって、絶対にキミと一緒だからだよね！」=

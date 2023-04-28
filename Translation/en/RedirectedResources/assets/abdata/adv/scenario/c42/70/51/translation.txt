@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「えへへ、キミと一緒なのが楽しくて、つい食べ過ぎちゃった。楽しい時間をありがとうねっ」=“Eheheh, it was so fun to be with you, I ended up overstuffing myself. Thanks for such a fun time--”
+//「えへへ、キミと一緒なのが楽しくて、つい食べ過ぎちゃった。楽しい時間をありがとうねっ」=

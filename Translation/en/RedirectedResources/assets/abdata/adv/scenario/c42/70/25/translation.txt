@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「もぉ、不安でドキドキしっぱなしだったよぉ。でも……その分、気持ちよかったかも……うぅ、恥ずかしい……」=“Jeez~, my heart was pounding non stop from worry there~. But... it felt just that much better too, I think... Uuu, so embarrassing...”
+//「もぉ、不安でドキドキしっぱなしだったよぉ。でも……その分、気持ちよかったかも……うぅ、恥ずかしい……」=

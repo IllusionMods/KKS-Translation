@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「さすがお土産屋。どこを見ても、欲しい物ばっかりでつい目移りしてしまうね……」=“I guess that's a gift shop for you. No matter where you look, everything looks so nice and interesting...”
-「ねー。ぎっちりといろんなお土産が並んでるもんねー」=“Doesn't it though~. They've got everything displayed so densely~”
-「あっ、あれとかキミに良いと思わない？　ちょっと見てみようよー！」=“Ah--, isn't that the sort of thing you like? Let's take a look at it~!”
-「おっ、どれかな？　というか、俺の好みなんて知っててくれてるんだ？」=“Oh--, which one? Heck, you know the sort of stuff I like?”
-「えへへ、知らない仲じゃないからねっ。ほら、早くー」=“Eheheh, we're close enough to know that about each other--. C'mon, we're going~”
-「うん。[H名]のおすすめなんだし、ぜひともチェックしておかないとね！」=“Kay. You're the one recommending it, I gotta atleast take a look at it!”
+//「さすがお土産屋。どこを見ても、欲しい物ばっかりでつい目移りしてしまうね……」=
+//「ねー。ぎっちりといろんなお土産が並んでるもんねー」=
+//「あっ、あれとかキミに良いと思わない？　ちょっと見てみようよー！」=
+//「おっ、どれかな？　というか、俺の好みなんて知っててくれてるんだ？」=
+//「えへへ、知らない仲じゃないからねっ。ほら、早くー」=
+//「うん。[H名]のおすすめなんだし、ぜひともチェックしておかないとね！」=

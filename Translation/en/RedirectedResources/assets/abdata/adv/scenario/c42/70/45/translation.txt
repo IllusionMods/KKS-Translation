@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「んー……！　楽しかったぁ。きっと、キミと一緒だったからだよね、ありがとー」=“Nn~...! That was fun~. I bet it was all because you were there with me, thanks~”
+//「んー……！　楽しかったぁ。きっと、キミと一緒だったからだよね、ありがとー」=

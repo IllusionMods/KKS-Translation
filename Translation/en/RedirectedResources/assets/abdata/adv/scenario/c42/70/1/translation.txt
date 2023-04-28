@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「えっ……！？　それって、私と……恋人になりたいってこと……だよね？」=“Eh--...?! Is that, you mean... you want to be my boyfriend... right?”
-「うん。恋人になって、付き合って欲しい」=“Yep. I want you to be my girlfriend, I want you to go out with me.”
-「そっかぁ。恋人……付き合う……えへへへ」=“I see~. A couple... going out together... eheheheh~”
-「それでどうかな？　嫌なら断ってくれても良いけど……」=“So, how about it? I mean, if you don't want to, I can take a no...”
-「断ったりなんてしないよ！　その……ね？　私もキミのこと……そういう風に思ってたから……」=“I would never say no to you! It's... you know? I uhm... I feel that way about you too...”
-「えへへ。恥ずかしいけど、恋人にして欲しいな。よろしくね……？」=“Eheheh. It's embarrassing to say it but, make me your girlfriend. Okay, Mr boyfriend...?”
+//「えっ……！？　それって、私と……恋人になりたいってこと……だよね？」=
+//「うん。恋人になって、付き合って欲しい」=
+//「そっかぁ。恋人……付き合う……えへへへ」=
+//「それでどうかな？　嫌なら断ってくれても良いけど……」=
+//「断ったりなんてしないよ！　その……ね？　私もキミのこと……そういう風に思ってたから……」=
+//「えへへ。恥ずかしいけど、恋人にして欲しいな。よろしくね……？」=
