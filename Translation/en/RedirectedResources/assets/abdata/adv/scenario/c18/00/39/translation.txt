@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「楽しいお散歩でした。どうもありがとうございます」=“That was a fun walk. Thank you very much for a splendid time.”
+//「楽しいお散歩でした。どうもありがとうございます」=

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふふっ、とっても楽しかったです。それじゃ、また一緒に食べましょうね」=“Fufuh--, I had a lot of fun. Well then, let's have another meal again soon.”
+//「ふふっ、とっても楽しかったです。それじゃ、また一緒に食べましょうね」=

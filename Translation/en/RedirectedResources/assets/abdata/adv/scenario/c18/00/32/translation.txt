@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「うーん、どれを買うか悩んじゃいます。今回は当たるといいけど……」=“Nnnn, I cannot decide which one to buy. I hope I pick the right one this time...”
-「うん、どうかしたの？」=“Hm, what's wrong?”
-「私、お買い物の時に外れを引いちゃうことが多くて……お菓子が全部粉々になっていた時は、流石に愕然としちゃいました」=“I almost always end up picking the worst item of the bunch... this one time, every single piece of candy in the box was broken to bits. That really took me aback.”
-「あー……それは災難だね。じゃあ、俺が選んであげるよ」=“Ah... yep, that's pretty traumatizing stuff. Lemme pick it for you then.”
-「ありがとうございますっ。それなら絶対に安心できますね！」=“Thank you very much--! It'll definitely be fine that way!”
+//「うーん、どれを買うか悩んじゃいます。今回は当たるといいけど……」=
+//「うん、どうかしたの？」=
+//「私、お買い物の時に外れを引いちゃうことが多くて……お菓子が全部粉々になっていた時は、流石に愕然としちゃいました」=
+//「あー……それは災難だね。じゃあ、俺が選んであげるよ」=
+//「ありがとうございますっ。それなら絶対に安心できますね！」=

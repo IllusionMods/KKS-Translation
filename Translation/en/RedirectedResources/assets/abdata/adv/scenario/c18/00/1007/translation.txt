@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「すごいですね。珍しい魚がこんなにたくさんいます」=“It's so amazing. There's so many rare fish here.”
-「他の場所では、あんまり見かけない魚だね」=“You don't really see fishes like this in other places, do you?”
-「温暖な海じゃないと生息できない、南の島特有の魚みたいですから」=“Indeed, seems that it's because these fishes can only live in the warm waters of the south.”
-「なるほど……。水族館なだけあっていろんな魚がいるなぁ」=“I see... Guess that's an aquarium for you though, there's a whole lot of them~”
-「俺の知らない魚も多いから、こうして見て回るだけで勉強になるよ」=“There's lots I've never even heard of before, so just walking around and taking it all in is gonna be real enlightening.”
-「魚だけじゃなく、蛸なんかの生き物があちらの水槽にいるみたいですよ」=“There's more than just them, it seems as though they have an octopus-like thing in one of the tanks over there.”
-「本当だ……って、でかっ！？　なに、あの大きさ！」=“You're right... wuh, so big--!? What's with that size!”
-「わ……さ、さすがに、あそこまで大きいと怖いですね」=“Wah... t-they really do start feeling a bit scary, at that sort of scale, don't they?”
-「もしあの大きさの蛸に絡みつかれたら、何もできずに不幸なことになりそうです」=“If such a big octopus got its hold on me, I wouldn't be able to do anything except let my lack of luck swallow me up.”
-「そうだね。あの足ってすごく力が強いらしいし」=“Yeah. Those legs seem really powerful too.”
-「あっ、でも……」=“Ah--, but...”
-「[H名]が蛸の足に絡みつかれているところは、ちょっとだけ見てみたいかな」=“Now I feel like wanting to see the sight of you wrapped up in one of them.”
-「えっ……！？　ど、どうしてですか……？」=“Eh--...!? B-But why...?”
-「いや、深い意味は無いんだけど、なんだか絵になりそうな気がして」=“I didn't mean anything deep by it, it just feels like it'd make quite the picture.”
-「私、嫌ですよ？　いくら不幸体質でも、それはあんまりです……」=“I wouldn't, like it though, you know? I may be an unlucky girl but, that would really be just too cruel...”
-「ああっ、ごめんごめん。もしそんなことになっても、俺がちゃんと助けるから」=“Aah--, sorry sorry. Even if that does happen, I'll be there to save you, so don't worry.”
-「でも、[P名]さんも一緒になって絡みつかれる未来しか想像できないんですけれど……」=“But, the only ending that comes to mind is you getting wrapped up along with me...”
-「うっ、それはすごくありそうかも」=“Uu--, it really might go that way, if it came to it.”
-「あそこまで大きな蛸の力に、まともに抵抗できるとも思えないし……」=“In front of an octopus that big, I don't think I'd be able to put much of a resistance...”
-「けど、一緒に絡みつかれたら体が密着するんですよね……。それは、ちょっと良いかも」=“But, if we get caught together, we'd get to be all snug to each other in the end, wouldn't we... That might be, pretty nice.”
-「えっ、何か言った？」=“Eh--, did you say something?”
-「な、何でもありませんっ」=“I-I did not--”
+//「すごいですね。珍しい魚がこんなにたくさんいます」=
+//「他の場所では、あんまり見かけない魚だね」=
+//「温暖な海じゃないと生息できない、南の島特有の魚みたいですから」=
+//「なるほど……。水族館なだけあっていろんな魚がいるなぁ」=
+//「俺の知らない魚も多いから、こうして見て回るだけで勉強になるよ」=
+//「魚だけじゃなく、蛸なんかの生き物があちらの水槽にいるみたいですよ」=
+//「本当だ……って、でかっ！？　なに、あの大きさ！」=
+//「わ……さ、さすがに、あそこまで大きいと怖いですね」=
+//「もしあの大きさの蛸に絡みつかれたら、何もできずに不幸なことになりそうです」=
+//「そうだね。あの足ってすごく力が強いらしいし」=
+//「あっ、でも……」=
+//「[H名]が蛸の足に絡みつかれているところは、ちょっとだけ見てみたいかな」=
+//「えっ……！？　ど、どうしてですか……？」=
+//「いや、深い意味は無いんだけど、なんだか絵になりそうな気がして」=
+//「私、嫌ですよ？　いくら不幸体質でも、それはあんまりです……」=
+//「ああっ、ごめんごめん。もしそんなことになっても、俺がちゃんと助けるから」=
+//「でも、[P名]さんも一緒になって絡みつかれる未来しか想像できないんですけれど……」=
+//「うっ、それはすごくありそうかも」=
+//「あそこまで大きな蛸の力に、まともに抵抗できるとも思えないし……」=
+//「けど、一緒に絡みつかれたら体が密着するんですよね……。それは、ちょっと良いかも」=
+//「えっ、何か言った？」=
+//「な、何でもありませんっ」=

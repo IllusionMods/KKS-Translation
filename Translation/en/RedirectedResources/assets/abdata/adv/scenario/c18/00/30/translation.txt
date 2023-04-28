@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「なんというか、灯台ってどこも似たような感じだね」=“Man, lighthouses look the same just about everywhere, don't they?”
-「う、うーん……？　私、詳しい訳じゃないので、よくわからないです」=“N-Nnn...? I'm not really, all that well informed on them, so I do not know.”
-「俺も詳しいって程じゃないけどね。あ、ただ光り方は灯台によって違ってるらしいよ」=“I don't know that much myself either. Ah, but apparently each lighthouses lights up in a different way.”
+//「なんというか、灯台ってどこも似たような感じだね」=
+//「う、うーん……？　私、詳しい訳じゃないので、よくわからないです」=
+//「俺も詳しいって程じゃないけどね。あ、ただ光り方は灯台によって違ってるらしいよ」=
 「そうなんですか？」=“Is that so?”
-「街の灯りと違いを出さないと、船が航路を間違えたりするらしいからね」=“Yeah, since if they don't light up differently from the city, the incoming ships might go the wrong way.”
-「なるほど、灯台って重要なんですね。……道しるべ、私も見つけたいです」=“I see, lighthouses are quite important, aren't they... I wish to, find my own guiding light someday.”
+//「街の灯りと違いを出さないと、船が航路を間違えたりするらしいからね」=
+//「なるほど、灯台って重要なんですね。……道しるべ、私も見つけたいです」=

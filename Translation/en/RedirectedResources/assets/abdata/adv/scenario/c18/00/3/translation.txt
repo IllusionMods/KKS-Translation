@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「俺に恋してるって……本気なの？」=“Are you... serious about that? About loving me?”
-「は、はい、本気です。本気で、私はあなたの事が好きです」=“Y-Yes, I am. I really do, seriously, love you.”
-「……俺たち、両想いだったんだね」=“...So this whole time, we loved each other, huh?”
-「両想いって……その、あの……という事は……」=“Each other... uhm, erhm... do you mean...”
-「もちろん、返事はＹＥＳだよ。これから恋人としてよろしくね」=“Of course, my answer's a big fat YES. From now on, we're a couple, okay?”
-「う、嬉しいですっ。こちらこそ、よろしくお願いします」=“I-I'm so happy--. Yes, gladly, please take care of me.”
+//「俺に恋してるって……本気なの？」=
+//「は、はい、本気です。本気で、私はあなたの事が好きです」=
+//「……俺たち、両想いだったんだね」=
+//「両想いって……その、あの……という事は……」=
+//「もちろん、返事はＹＥＳだよ。これから恋人としてよろしくね」=
+//「う、嬉しいですっ。こちらこそ、よろしくお願いします」=

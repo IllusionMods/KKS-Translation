@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「マングローブ林、素敵でしたね。また一緒に遊びましょう！」=“The mangroves were wonderful, weren't they? Let's go have fun like that again!”
+//「マングローブ林、素敵でしたね。また一緒に遊びましょう！」=

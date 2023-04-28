@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「素敵なシーサーが作れましたね。ずっと大事にします。えへへ……」=“We made quite some nice shisas, didn't we? I'll treasure them forever. Eheheh~...”
+//「素敵なシーサーが作れましたね。ずっと大事にします。えへへ……」=

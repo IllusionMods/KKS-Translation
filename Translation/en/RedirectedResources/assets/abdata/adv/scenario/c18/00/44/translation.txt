@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「シーサーって、魔除けのお守りなんだよね」=“Shisas are charms against evil spirits, aren't they?”
-「はい。だから頑張ってちゃんと作って、魔除けしてもらおうと思ってるんです」=“Yes. That's why I'm trying to make a proper one here, I shall have it protect me from such things.”
-「なるほど、それじゃ俺も[H名]のために頑張って作るよ」=“I see, I'll do my best to make a nice one for you then too.”
-「ふふっ、ありがとうございます。そういえば、シーサーは基本二体で一対らしいですよ」=“Fufuh--, thank you very much. Come to think of it, apparently shisas usually come in pairs.”
-「なら、二人で夫婦シーサーを作ろうか」=“In that case, let's make a couples' pair, hm?”
-「嬉しいですっ。私、なんだかいいものが作れる気がします」=“I'm so happy--! I feel like mine will come out really nicely afterall.”
+//「シーサーって、魔除けのお守りなんだよね」=
+//「はい。だから頑張ってちゃんと作って、魔除けしてもらおうと思ってるんです」=
+//「なるほど、それじゃ俺も[H名]のために頑張って作るよ」=
+//「ふふっ、ありがとうございます。そういえば、シーサーは基本二体で一対らしいですよ」=
+//「なら、二人で夫婦シーサーを作ろうか」=
+//「嬉しいですっ。私、なんだかいいものが作れる気がします」=

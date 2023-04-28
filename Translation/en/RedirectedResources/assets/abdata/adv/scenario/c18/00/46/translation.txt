@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふふっ、綺麗に染めれたと思います。それじゃ、また会いましょうね」=“Fufuh--, I think my piece came out quite nice. Well then, let's see each other again.”
+//「ふふっ、綺麗に染めれたと思います。それじゃ、また会いましょうね」=

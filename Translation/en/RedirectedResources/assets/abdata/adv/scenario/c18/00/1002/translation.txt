@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「[H名]は卓球できる？　台があるしやっていこうよ」=“You know how to play ping pong, [H]? We've got a table here so let's go for a round, c'mon.”
-「ふぅ……少し疲れてしまいました。休憩しませんか？」=“Fuuh... I feel a bit tired. How about we take a break?”
-「そうだね、俺も少し疲れちゃったよ」=“Good idea, I feel a bit tired too.”
-「卓球って台が小さいからそれほどじゃなさそうに見えるけど、実際はかなりハードだよね」=“Ping pong tables are pretty small so it doesn't seem hard at all but, it's actually pretty tough, isn't it?”
-「そうですよね。卓球って球速がかなり速いそうですから」=“Indeed. Since it's quite fast paced, especially the ball.”
-「高速で小さな台の上をあっという間に通り過ぎて行くわけですし、反応するだけでも大変ですね」=“It crosses over the table in so little time, it's hard enough to even just react to it, isn't it?”
-「反応できても、ちゃんと打ち返すのも難しいしね」=“And even if you can react, parrying it back is harder still.”
-「それに、それだけ球が速いとなると、顔に当たっちゃったら痛そうだ……」=“Not to mention, when it really starts going, if the ball hits your face...”
-「……はい。とても、すごく、痛いです」=“...Yes. It hurts. A lot.”
-「な、なんだか、すごく実感のこもった言葉だね」=“Y-You say that like you've got a lot of experience with that.”
-「今日はまだですけど、過去に何度か顔で受け止めたことがありますから」=“It hasn't happened today yet, but I've taken the ball to my face quite a few times in the past.”
-「勝負をすると、なぜか顔に向かって飛んで来ますし……」=“Whenever I have a match with someone, for some reason, the ball always goes for my face...”
+//「[H名]は卓球できる？　台があるしやっていこうよ」=
+//「ふぅ……少し疲れてしまいました。休憩しませんか？」=
+//「そうだね、俺も少し疲れちゃったよ」=
+//「卓球って台が小さいからそれほどじゃなさそうに見えるけど、実際はかなりハードだよね」=
+//「そうですよね。卓球って球速がかなり速いそうですから」=
+//「高速で小さな台の上をあっという間に通り過ぎて行くわけですし、反応するだけでも大変ですね」=
+//「反応できても、ちゃんと打ち返すのも難しいしね」=
+//「それに、それだけ球が速いとなると、顔に当たっちゃったら痛そうだ……」=
+//「……はい。とても、すごく、痛いです」=
+//「な、なんだか、すごく実感のこもった言葉だね」=
+//「今日はまだですけど、過去に何度か顔で受け止めたことがありますから」=
+//「勝負をすると、なぜか顔に向かって飛んで来ますし……」=
 「そ、そうなんだ」=“S-So that's what it was.”
-「ところで休憩の後だけど、今度は軽く打ち合う感じでラリーをして遊ぼうか？」=“By the way, after we're done with our break, how about we just go for a long rally and just lightly pass the ball between each other instead?”
-「さすがに、それを聞いて勝負をしようとは言えないし……」=“I can't exactly ask for us to have a match, not after that...”
-「あ……はい、ありがとうございます」=“Ah... yes, please. Thank you very much.”
-「よーし、それじゃ休憩終わり！　もう少し卓球で遊んでいこう！」=“Alright, break's over then! Let's keep having some more fun!”
+//「ところで休憩の後だけど、今度は軽く打ち合う感じでラリーをして遊ぼうか？」=
+//「さすがに、それを聞いて勝負をしようとは言えないし……」=
+//「あ……はい、ありがとうございます」=
+//「よーし、それじゃ休憩終わり！　もう少し卓球で遊んでいこう！」=

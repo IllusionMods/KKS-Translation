@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「波の音が気持ちいいね」=“The sound of the waves is really nice, isn't it?”
-「はい。それに二人で浜辺をお散歩なんて、なんだかロマンチックですね」=“Yes. Not to mention, a walk like this along the beach, it's pretty romantic, isn't it?”
-「相手が俺で良かったのかな……」=“You sure you're fine with doing it with me...?”
-「全然大丈夫です。男の子とお散歩なんてなかなかできないから、楽しいですよ」=“Completely fine. Walks along with a boy are not things I can do much at all so, it's quite fun.”
-「そう言ってもらえると嬉しいな」=“I'm glad to hear that.”
-「それじゃ、もうちょっと向こうまで行ってみましょう」=“Well then, let's head over there.”
+//「波の音が気持ちいいね」=
+//「はい。それに二人で浜辺をお散歩なんて、なんだかロマンチックですね」=
+//「相手が俺で良かったのかな……」=
+//「全然大丈夫です。男の子とお散歩なんてなかなかできないから、楽しいですよ」=
+//「そう言ってもらえると嬉しいな」=
+//「それじゃ、もうちょっと向こうまで行ってみましょう」=
