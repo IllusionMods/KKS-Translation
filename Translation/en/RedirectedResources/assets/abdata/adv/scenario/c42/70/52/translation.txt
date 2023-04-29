@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「キミと一緒にご飯を食べるのって、すっごく楽しかったよー！　えへへ、それじゃあまたね！」=
+「キミと一緒にご飯を食べるのって、すっごく楽しかったよー！　えへへ、それじゃあまたね！」=“I had a lot of fun eating with you~! Eheheh, see you later!”

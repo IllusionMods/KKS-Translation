@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「[H名]は、この鐘の噂は知ってる？」=
-//「もちろんだよー。私だって女の子だし、ちゃーんと気になる場所はチェック済みだからねー」=
-//「この鐘を鳴らした２人は、必ず結ばれる……。縁結びの鐘なんだよね」=
-//「そうそう。本当かどうかはわからないけど、ロマンチックな言い伝えだよね」=
-//「だねー。カップルの観光客が行く、上位の人気スポットだから！」=
-//「でも、本当かどうかわからない……っていうのは、余計な感想だと思うよー？」=
-//「ごめん、そうだよね。信じてる人もいるんだし」=
-//「それもそうだけど、こういうのって疑っちゃうとご利益がないと思うんだ」=
-//「だって、そんな噂は嘘だ……なんて思いながら鐘を鳴らす人って、本当に相手の人と結ばれたいと思ってるのかな？」=
-//「噂通り結ばれるような人たちって、鐘のことを大なり小なり信じているからだと思うの」=
-//「なるほど……それはあるかも」=
-//「信じる者は救われるって言葉もあるくらいだしね」=
-//「と言うことで……ねっ、私たちも一緒に鳴らしてみよーよ」=
-//「俺たちも？」=
-//「だって、せっかくここまで来たのに鳴らさないなんてもったいないでしょ？」=
-//「そうだね。じゃあ、鳴らしてみようか？」=
-//「うん。それじゃあ……せーのっ」=
-//「……えへへ、これでもっともっと仲良くなれるね？」=
-//「そうだね。これからもよろしく、[H名]」=
+「[H名]は、この鐘の噂は知ってる？」=“Hey, [H], do you know the story behind this bell?”
+「もちろんだよー。私だって女の子だし、ちゃーんと気になる場所はチェック済みだからねー」=“Of course~. I'm a girl too, I've already checked out everything interesting, just so you know~”
+「この鐘を鳴らした２人は、必ず結ばれる……。縁結びの鐘なんだよね」=“If two people ring this bell together, they'll be tied for life... a marriage bell, isn't it?”
+「そうそう。本当かどうかはわからないけど、ロマンチックな言い伝えだよね」=“Exactly. God knows if it's true or not but, it's a real romantic legend, isn't it?”
+「だねー。カップルの観光客が行く、上位の人気スポットだから！」=“Yeah~. It's the top tourist spot, any couple would wanna go to!”
+「でも、本当かどうかわからない……っていうのは、余計な感想だと思うよー？」=“But, whether it's really true or not... I think that's a really unneccessary thought to voice, you know?”
+「ごめん、そうだよね。信じてる人もいるんだし」=“Sorry, you're right. That's not nice to people who believe in it.”
+「それもそうだけど、こういうのって疑っちゃうとご利益がないと思うんだ」=“That's true too but, I just think there's no point in doubting this sort of thing.”
+「だって、そんな噂は嘘だ……なんて思いながら鐘を鳴らす人って、本当に相手の人と結ばれたいと思ってるのかな？」=“I mean, "that can't possibly be true"... the people who ring the bell while thinking stuff like that, do you think they really want to be married to their partner?”
+「噂通り結ばれるような人たちって、鐘のことを大なり小なり信じているからだと思うの」=“I think the sort of people who do get married after ringing this bell, do it because they believed in the bell, more or less.”
+「なるほど……それはあるかも」=“I see... you might have a point there.”
+「信じる者は救われるって言葉もあるくらいだしね」=“They do say "those who believe will be saved" afterall.”
+「と言うことで……ねっ、私たちも一緒に鳴らしてみよーよ」=“So, with that... hey--, let's ring the bell together too.”
+「俺たちも？」=“Us?”
+「だって、せっかくここまで来たのに鳴らさないなんてもったいないでしょ？」=“I mean, we came all the way here, wouldn't it be a waste to just go back without ringing it?”
+「そうだね。じゃあ、鳴らしてみようか？」=“You're right. Then, wanna ring it?”
+「うん。それじゃあ……せーのっ」=“Yep. Here we go then... one two--”
+「……えへへ、これでもっともっと仲良くなれるね？」=“...Eheheh, we'll be able to fall even more in love now, won't we?”
+「そうだね。これからもよろしく、[H名]」=“Yeah. I'm looking forward to it, [H].”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「カヤックはそれぞれで乗ることにする？　それとも２人乗りのに一緒に乗る？」=
-//「もちろん２人乗りで一緒に乗ろうよー」=
-//「それなら、上手く息を合わせないと前に進めないかもしれないね……」=
-//「大丈夫だよ。だって、私とキミだもん。きっと上手く行くよー」=
-//「そ、そうかな？　まぁ、[H名]に言われるとそんな気もするね……」=
-//「えへへ。恋人同士の共同作業だもんねっ。よーし、がんばろうー！」=
+「カヤックはそれぞれで乗ることにする？　それとも２人乗りのに一緒に乗る？」=“Do you want to get separate kayaks? Or should we get one we can both ride together?”
+「もちろん２人乗りで一緒に乗ろうよー」=“Of course a two person one, we gotta ride it together~”
+「それなら、上手く息を合わせないと前に進めないかもしれないね……」=“In that case, we'll have to sync our rhythm else we're gonna get stuck in place...”
+「大丈夫だよ。だって、私とキミだもん。きっと上手く行くよー」=“It'll be fine. I mean, it's you and me. I'm sure it'll go well~”
+「そ、そうかな？　まぁ、[H名]に言われるとそんな気もするね……」=“Y-You think so? Well, I feel like it would go pretty alright, yeah...”
+「えへへ。恋人同士の共同作業だもんねっ。よーし、がんばろうー！」=“Eheheh. It's a couples' group activity afterall, and we're a couple--. Alright, let's do our best~!”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「わっ……！　も、もしかして、私がしてるところを見てたのぉ……？」=
+「わっ……！　も、もしかして、私がしてるところを見てたのぉ……？」=“Wah--...! W-Wait, were you watching me do it~...?”

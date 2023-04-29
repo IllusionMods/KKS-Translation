@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「南の島の家庭料理ってクセの強いものが多い印象があるよね」=
-//「苦かったり、他ではあまり食べないような部位を使ったりしてるもんねー」=
-//「[H名]は食べられないものはないの？」=
-//「うん、私はなんでも大丈夫だよー。どれもこれも美味しくて困っちゃうよぉ」=
-//「ははっ、[H名]らしいね。じゃあ、今日の注文は[H名]のおすすめを中心にしようか？」=
-//「いいよー。じゃあ、どれを食べようかな？　あっ、キミこそ苦手なものとかないの？　なんでも大丈夫ー？」=
-//「俺もなんでも問題ないから、じゃんじゃん頼んじゃって！」=
+「南の島の家庭料理ってクセの強いものが多い印象があるよね」=“Feels like the cooking here's a bit out there, doesn't it? It's very unique.”
+「苦かったり、他ではあまり食べないような部位を使ったりしてるもんねー」=“They do use a lot of cuts that we don't use back home, don't they~? A lot of it is very bitter too~”
+「[H名]は食べられないものはないの？」=“And you're fine with eating all of it?”
+「うん、私はなんでも大丈夫だよー。どれもこれも美味しくて困っちゃうよぉ」=“Yep, I'm fine with anything~. It all looks so good, I have a hard time deciding what to get~”
+「ははっ、[H名]らしいね。じゃあ、今日の注文は[H名]のおすすめを中心にしようか？」=“Hahah--, that's so like you. Then, how about we go with something you recommend today?”
+「いいよー。じゃあ、どれを食べようかな？　あっ、キミこそ苦手なものとかないの？　なんでも大丈夫ー？」=“Sure~. Then, what should we eat? Ah--, is there anything you're picky about? Are you fine with it all~?”
+「俺もなんでも問題ないから、じゃんじゃん頼んじゃって！」=“Yep, I don't have a problem with much of anything, so you just go on and order for us!”

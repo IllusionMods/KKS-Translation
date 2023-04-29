@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「えへへ、すっごく良かったよー。恥ずかしいけど、いっぱい感じちゃった……」=
+「えへへ、すっごく良かったよー。恥ずかしいけど、いっぱい感じちゃった……」=“Eheheh, that was amazing~. It's embarrassing to admit, but it felt reallly really good...”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ここのオイル、自由に使っていいみたい。折角だし塗っていく？」=
-//「それ、興味ある！　なんだか面白そう～」=
-//「面白いかは分かんないけど……美容には良いと思うよ」=
-//「そっかぁ。じゃあ、キミに塗って貰おうかな～」=
+「ここのオイル、自由に使っていいみたい。折角だし塗っていく？」=“Seems like we can use as much of the oil here as we want. Wanna take this chance and try it out?”
+「それ、興味ある！　なんだか面白そう～」=“I might be into that! It sounds kinda interesting~”
+「面白いかは分かんないけど……美容には良いと思うよ」=“Not sure about the interesting part but... I do believe it has a beauty effect.”
+「そっかぁ。じゃあ、キミに塗って貰おうかな～」=“I see~. Then, maybe I'll have you rub it on me~”
