@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱり男の子はいっぱい食べるんだねぇ」=
-//「そんなに多いかな？　俺としては普通ぐらいのつもりだったんだけど」=
-//「私が一日で食べる量ぐらいあるもん。多いよ～」=
-//「それはそっちが少食過ぎるだけだよ」=
-//「っていうか、ご飯はそんなに食べてないけど、スイーツはいっぱい頼んでるじゃん」=
-//「食後のデザートは別腹でーす♪」=
+「やっぱり男の子はいっぱい食べるんだねぇ」=“Boys really do eat a lot, don't they?”
+「そんなに多いかな？　俺としては普通ぐらいのつもりだったんだけど」=“Is it really that much? Personally, I try to eat a mostly normal amount.”
+「私が一日で食べる量ぐらいあるもん。多いよ～」=“You've got as much food as I eat in a whole day. It's a lot~”
+「それはそっちが少食過ぎるだけだよ」=“That's just you eating way too little for your own good.”
+「っていうか、ご飯はそんなに食べてないけど、スイーツはいっぱい頼んでるじゃん」=“Heck, you've not got all that much actual food there, but you almost ordered the entire desserts menu.”
+「食後のデザートは別腹でーす♪」=“They go in a different belly~♪”

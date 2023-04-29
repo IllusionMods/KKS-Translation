@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「卓球台だ。ちょっと遊んでいかない？」=
-//「さっそく試合を始めようか」=
-//「ちょ、ちょっと待ってぇ～」=
+「卓球台だ。ちょっと遊んでいかない？」=“It's a ping pong table. Wanna try playing a round?”
+「さっそく試合を始めようか」=“Alright, let's start right away then.”
+「ちょ、ちょっと待ってぇ～」=“W-Wait a second~”
 「どうしたの？」=“What's up?”
-//「私、あまり卓球が得意じゃないの。ルールもよくわかんないよぉ」=
-//「なら、まずはラリーの練習から始めようか。俺が打った球を打ち返すだけでいいから」=
-//「うん、わかった。それなら簡単そうかも」=
-//「それじゃあいくよ」=
-//「ふぅ……なんとか狙った場所に打ち返せるようになったよ」=
-//「飲み込みが早いね。その調子なら大会で優勝できるかも」=
-//「も～、おだて過ぎだよぉ」=
-//「でも、[P名]君のおかげで卓球が好きになったかも。またしようね♪」=
+「私、あまり卓球が得意じゃないの。ルールもよくわかんないよぉ」=“I'm not really all that good at ping pong. I don't really get the rules either~”
+「なら、まずはラリーの練習から始めようか。俺が打った球を打ち返すだけでいいから」=“In that case, let's just start with a basic back and forth rally, shall we? You just need to hit back all the balls I throw.”
+「うん、わかった。それなら簡単そうかも」=“Okay, got it. That sounds easy enough, I think.”
+「それじゃあいくよ」=“Well then, here I come.”
+「ふぅ……なんとか狙った場所に打ち返せるようになったよ」=“Fuuh... I think I'm able to hit them all back to the place I want, now.”
+「飲み込みが早いね。その調子なら大会で優勝できるかも」=“You're pretty good at picking things up. At this rate you'll grow into a tournament winner in no time.”
+「も～、おだて過ぎだよぉ」=“Jeez~, now you're just laying it on~”
+「でも、[P名]君のおかげで卓球が好きになったかも。またしようね♪」=“But I think I like ping pong now, and it's all thanks to you, [P]-kun. Let's do it again, okay~?♪”
