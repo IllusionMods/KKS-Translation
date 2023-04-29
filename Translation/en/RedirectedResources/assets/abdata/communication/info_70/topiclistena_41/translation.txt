@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ボク、この島に来て初めて<color%3Dyellow>釣り</color>を経験したんだ。釣れたとき、凄く達成感があるんだよ」=“”
+//「ボク、この島に来て初めて<color%3Dyellow>釣り</color>を経験したんだ。釣れたとき、凄く達成感があるんだよ」=
 「釣りって男の子の趣味ってイメージがあったけど、偏見はよくないよね。キミとも一緒にできたら嬉しいな」=“Fishing always felt to me like a hobby for boys but, it's not good to be biased, is it? I hope we can do it together sometime.”
-「ボク、研修旅行でこの島に来るって決まったときから、<color%3Dyellow>シュノーケリング</color>だけはしたいって思ってたんだ」=“”
+//「ボク、研修旅行でこの島に来るって決まったときから、<color%3Dyellow>シュノーケリング</color>だけはしたいって思ってたんだ」=
 「テレビでたまに海の中の映像が流れるでしょ？　凄く綺麗だったから実際に見てみたかったんだよね」=“Sometimes they show underwater reels on TV, no? They always look so pretty so I just wanted to see it with my own eyes for once, you know?”
 「あ、そっちにも興味があるよ。この島ってレジャースポットの宝庫だよね」=“Ah, I'm interested in that too. This island's a veritable treasure box of leisure activities, isn't it?”
 「それ、ボクもそれ気になってたんだ。キミはそっちのレジャーの方が興味津々なんだね」=“I've been really interested in that too. You're interested in those sorts of things, huh?”
 「あれ、レジャーって気分じゃなかった？　じゃあキミが話したいことを話そうか」=“Huh, not really in the mood for that? Then let's chat about what you wanna chat about, okay?”
 「もしかしてこのレジャーには興味なかった？　また気になったら話そうよ」=“By any chance, are you not in the mood for that? Let's talk about it when you are then.”
-「<color%3Dyellow>水牛</color>車ってのんびりしてていいよね」=“”
+//「<color%3Dyellow>水牛</color>車ってのんびりしてていいよね」=
 「二人で何気ない話をしながら、ゆっくりと流れる時間を過ごしたら楽しそうだよね」=“The idea of just spending that time away while slowly chatting about nothing in particular at all just sounds so fun, doesn't it?”
-「船着き場に<color%3Dyellow>ネコ</color>がいたんだけど、キミも見た？」=“”
+//「船着き場に<color%3Dyellow>ネコ</color>がいたんだけど、キミも見た？」=
 「人懐っこい子だよね。普段から漁師さんにお魚をもらってるのかな？」=“It's really friendly, isn't it? Do you think the fishermen there feed it part of their haul?”
-「<color%3Dyellow>ハイビスカス</color>って見るだけで元気が出るよね。南国のエネルギーを感じるんだ」=“”
+//「<color%3Dyellow>ハイビスカス</color>って見るだけで元気が出るよね。南国のエネルギーを感じるんだ」=
 「燦燦とした太陽の光を浴びて育ったんだろうね。ボクたちもあんな風に咲き誇れたらいいな」=“I bet they look like that because they get to bathe in the sun's light all day. It'd be so nice if we could bloom so brilliantly too.”
-「ここって<color%3Dyellow>星空</color>が本当に綺麗だよね。自然でいっぱいだからかな」=“”
+//「ここって<color%3Dyellow>星空</color>が本当に綺麗だよね。自然でいっぱいだからかな」=
 「昼間の突き抜けるような青空も綺麗だけど、星が一面に輝く夜空も素敵だよね」=“The blue sky piercing through in the noon looks really nice too but, the night sky dotted with stars looks just lovely, doesn't it?”
 「キミもこの島の自然と触れ合ってるんだね。今度一緒に散歩しようよ」=“You're really connecting with the nature on this island too, aren't you? Let's go take a walk together next time.”
 「自然豊かだから、いろんな発見があるよね。ボクも見習わなくっちゃ」=“With how full of nature this place is, there's all sorts of new discoveries for us to make, aren't there? I gotta learn from your example.”
 「自然のことよりそっちのお話の方がいい？　ボク、頑張って勉強しておくよ」=“You'd rather talk about something else than nature? I'll do my best and learn more about it for you.”
 「この島の生態について調べると結構面白いよ。興味が出たらまた話そうね」=“It's pretty fun to learn about the life here, you know? Let's chat again when you feel like it, okay?”
-「<color%3Dyellow>チンアナゴ</color>って顔も身体も可愛いよね。グッズを買おうか迷ってるんだ」=“”
+//「<color%3Dyellow>チンアナゴ</color>って顔も身体も可愛いよね。グッズを買おうか迷ってるんだ」=
 「たまに縞々な子がいるんだけど、それはニシキアナゴっていう別種なんだって、知ってた？」=“Sometimes you can find striped ones too, apparently they're called Splendid Garden Eels. Did you know that?”
-「<color%3Dyellow>クマノミ</color>って比較的飼育しやすいんだって。ボク、帰ったら飼ってみようかな」=“”
+//「<color%3Dyellow>クマノミ</color>って比較的飼育しやすいんだって。ボク、帰ったら飼ってみようかな」=
 「よかったらキミも飼おうよ。クマノミ飼育仲間になって情報交換したいな」=“If that sounds fun, you should get one too. Then we can exchange information and become clownfish buds.”
 「あ、キミはそっちの方が好きだった？　覚えておくよ」=“Ah, you prefer that? I'll remember that.”
 「ボクもその話もしようか迷ったんだ。そっちが正解だったかぁ」=“I was wondering whether to talk about that over this myself. I guess that one was the right answer~”
 「海の生き物の話はＮＧだった？　それじゃ、違う話にしようね」=“You don't like talking about marine life? Well then, let's talk about something else instead.”
 「ごめんね、ボクの好きな生き物の話になっちゃってたね、別の話にしよう」=“Sorry, I just made it all about me and the sort of animals I like, didn't I? Let's talk about something else.”
-「この島の<color%3Dyellow>名物料理</color>って全部おいしいよね」=“”
+//「この島の<color%3Dyellow>名物料理</color>って全部おいしいよね」=
 「レシピを調べて自分でも作ってみようかなって思ってるんだ。作ったらキミも食べてくれる？」=“I was thinking that maybe I could get the recipes for them and try making some myself. Will you try it if I make some?”
-「<color%3Dyellow>シーサー</color>って色んな所にいるよね。本当にこの島の名物なんだなって感じるよ」=“”
+//「<color%3Dyellow>シーサー</color>って色んな所にいるよね。本当にこの島の名物なんだなって感じるよ」=
 「みんな個性的で可愛いよね。出歩くときは意識して探してるんだ」=“Each and every one is so unique too, it's so cute. I actually try to look out for them whenever I'm out and about.”
 「あ、それも気になってたんだ。ボクたち、趣味が似てるのかもね」=“Ah, I was interested in that too. We might have similar hobbies.”
 「そっちの名物もいいよね。伝統的な文化が息づく島って素敵だなぁ」=“Those specialties are nice too, aren't they? An island with such a traditional culture is so nice~”
