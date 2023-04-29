@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「あの、お部屋に入っても大丈夫ですか？」=
+「あの、お部屋に入っても大丈夫ですか？」=“Uhm, could I perhaps come into your room?”
 SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-//「いいよ。どうかしたの？」=
-//「えっとですね、あなたと一緒に居たいなと、思いまして……」=
-//「出来れば、このまま傍にいさせてほしいんですけど……ダメですか？」=
-//「あ……いないみたいですね。はぁ、残念です……」=
+「いいよ。どうかしたの？」=“Sure. What's wrong?”
+「えっとですね、あなたと一緒に居たいなと、思いまして……」=“Erhm, you see, I just wanted to, be with you and...”
+「出来れば、このまま傍にいさせてほしいんですけど……ダメですか？」=“If possible, I want you to let me stay by your side... could I?”
+「あ……いないみたいですね。はぁ、残念です……」=“Ah... you must not be in. Haah, what a shame...”

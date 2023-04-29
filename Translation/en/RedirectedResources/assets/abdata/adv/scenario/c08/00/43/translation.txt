@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「前から興味はあったんだぁ。この……えーと……べ、べにがた……？」=
-//「ああ、これは『びんがた』って読むんだよ」=
-//「へぇ、紅型かぁ。色鮮やかで綺麗だよね～」=
-//「だね。それじゃあ、さっそく始めようか」=
-//「うん、よろしくね。先生♪」=
-//「俺が教えるわけじゃないよ！？」=
+「前から興味はあったんだぁ。この……えーと……べ、べにがた……？」=“I've been interested in this for a while~. This uhm... erhm... p-pencil dyeing, is that what you call it...?”
+「ああ、これは『びんがた』って読むんだよ」=“Aah, close, it's stencil dyeing.”
+「へぇ、紅型かぁ。色鮮やかで綺麗だよね～」=“Heh, stencil dyeing, huh~? It's so vivid and pretty, isn't it~”
+「だね。それじゃあ、さっそく始めようか」=“Sure is. Well then, let's start.”
+「うん、よろしくね。先生♪」=“Yeah, teach me lots, sensei~♪”
+「俺が教えるわけじゃないよ！？」=“I'm not the instructor here, okay!?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ふぅ……身体にまだ熱が残っている。これはちょっとやそっとでは、冷めてくれそうにないな……」=
+「ふぅ……身体にまだ熱が残っている。これはちょっとやそっとでは、冷めてくれそうにないな……」=“Fuh... my body is still filled with heat. And it is of a kind that I do not think will cool down easily...”

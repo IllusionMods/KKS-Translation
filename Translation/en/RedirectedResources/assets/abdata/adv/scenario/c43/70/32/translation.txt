@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ここパワースポットとして、結構評判らしいよ」=
-//「他人の評判なんか気にせーへんで。問題は、誰と一緒に回るか……ってことちゃう？」=
-//「うん、そうかな。そうかも」=
-//「まあ、それはそれとして、パワスポのご利益、期待してまうねんけど……」=
-//「パワースポットをそうやって略して言う人、初めて見たよ……」=
-//「そうなん？　ほな『ワスポツ』は？」=
-//「もう、何が何やらさっぱりだね……」=
+「ここパワースポットとして、結構評判らしいよ」=“Seems like this place is pretty famed as a power spot.”
+「他人の評判なんか気にせーへんで。問題は、誰と一緒に回るか……ってことちゃう？」=“Dun worry about what other people think. What's important is, who yer goin' aroun' with... no?”
+「うん、そうかな。そうかも」=“Yep. Maybe.”
+「まあ、それはそれとして、パワスポのご利益、期待してまうねんけど……」=“Well, that aside, a powspo huh? Now I'mma start hopin' fer somethin' nice...”
+「パワースポットをそうやって略して言う人、初めて見たよ……」=“I think this is the first time I've ever heard someone shorten "power spot" to that...”
+「そうなん？　ほな『ワスポツ』は？」=“Really? Aight what about peespot?”
+「もう、何が何やらさっぱりだね……」=“I really don't think the meaning gets across with that one...”

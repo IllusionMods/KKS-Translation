@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私たち、上手に出来たよね？　えへへ、頑張ってよかったぁ」=
+「私たち、上手に出来たよね？　えへへ、頑張ってよかったぁ」=“We did pretty well, didn't we? Eheheh, I'm glad I tried so hard~”

@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この鐘を鳴らしたふたりは、必ず結ばれるって噂があるんですよね」=
-//「そうみたいだね」=
-//「ねぇ、[H名]。俺と一緒に鳴らしてみない？」=
-//「私と[P名]さんとで……ですか？」=
-//「噂を本当か確かめる意味もかねて、お試し的にさ」=
-//「はい。私も鳴らしてみたいです」=
-//「ですけど、大丈夫でしょうか？　少し不安です……」=
-//「不安？　どうしてかな？」=
-//「その……また不幸なことが起こるんじゃないかって考えてしまいまして」=
-//「鐘を鳴らした途端、鐘自体が落ちてきたりとか……」=
-//「いや、いくら何でもそれは考えすぎだと思う」=
-//「じゃあ、噂と真逆の結果になってしまうとか……」=
-//「それは確かに可能性としてはなくもないけど」=
-//「でも、大丈夫。俺が絶対にそんなことはさせないから」=
-//「だから[H名]は安心してくれていいよ。って言っても、何の保証はなんだけど」=
-//「ふふっ、ありがとうございます。そう言って貰えるだけですごく嬉しいです」=
-//「それでは……その、えっと……。一緒に、この鐘を鳴らして貰えませんか……？」=
-//「もちろん、喜んで！」=
-//「って、先に誘ったのは俺の方なんだけどね」=
-//「ふふっ、そうでしたね」=
-//「それでは……」=
+「この鐘を鳴らしたふたりは、必ず結ばれるって噂があるんですよね」=“There's a rumour out there that says that any pair that rings this bell together will one day marry, isn't there?”
+「そうみたいだね」=“Seems like it.”
+「ねぇ、[H名]。俺と一緒に鳴らしてみない？」=“Hey, [H]. How about we ring it together?”
+「私と[P名]さんとで……ですか？」=“You and I, [P]-san...?”
+「噂を本当か確かめる意味もかねて、お試し的にさ」=“As a test, we'll get to see for ourselves if the rumour's true or not.”
+「はい。私も鳴らしてみたいです」=“Yes. I wish to ring it with you as well.”
+「ですけど、大丈夫でしょうか？　少し不安です……」=“However, would that really be alright? I'm a bit worried...”
+「不安？　どうしてかな？」=“Worried? And why's that?”
+「その……また不幸なことが起こるんじゃないかって考えてしまいまして」=“It's uhm... I just can't help but think that maybe something's going to happen again, something really unlucky.”
+「鐘を鳴らした途端、鐘自体が落ちてきたりとか……」=“Like the bell suddenly falling down, the moment we ring it...”
+「いや、いくら何でもそれは考えすぎだと思う」=“No, I think you're overthinking it a bit too much, seriously.”
+「じゃあ、噂と真逆の結果になってしまうとか……」=“Then, maybe the exact opposite thing will happen and fate will break us apart...”
+「それは確かに可能性としてはなくもないけど」=“For sure, I can't deny the mere possibility that one day we might split up.”
+「でも、大丈夫。俺が絶対にそんなことはさせないから」=“But, don't worry. I'll definitely won't let that happen, nothing's gonna get between us.”
+「だから[H名]は安心してくれていいよ。って言っても、何の保証はなんだけど」=“So you can relax, alright? Well, I mean, I said all that but it's not like I have the power to guarantee anything.”
+「ふふっ、ありがとうございます。そう言って貰えるだけですごく嬉しいです」=“Fufuh--, thank you very much. Just hearing you say that's already made me so happy.”
+「それでは……その、えっと……。一緒に、この鐘を鳴らして貰えませんか……？」=“In that case... erhm, uhm... Could we, ring this bell together...?”
+「もちろん、喜んで！」=“Of course, I'd love to, [H]!”
+「って、先に誘ったのは俺の方なんだけどね」=“Though, I'm the one who asked you first.”
+「ふふっ、そうでしたね」=“Fufuh--, that you did.”
+「それでは……」=“Well then...”
 「うん」=“Yeah.”

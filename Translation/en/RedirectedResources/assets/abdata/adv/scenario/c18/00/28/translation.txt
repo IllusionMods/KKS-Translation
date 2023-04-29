@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「その……もしかしてなんですけど、エッチがしたいんですか？」=
-//「ぅ……そんなに分かりやすかったかな？」=
-//「は、はい……なんとういか、いつもより目がギラついていたので……」=
-//「そっか……まぁ、正直に言うとシたいんだけど、[H名]が嫌なら全然断ってくれていいからね？」=
-//「その……大丈夫です。あなたに求められて……嬉しいですから」=
+「その……もしかしてなんですけど、エッチがしたいんですか？」=“Uhm... I am only guessing, but do you wish to have sex?”
+「ぅ……そんなに分かりやすかったかな？」=“Uu... was it that obvious?”
+「は、はい……なんとういか、いつもより目がギラついていたので……」=“Y-Yes... I could feel a, glitter in your eyes that's usually not there...”
+「そっか……まぁ、正直に言うとシたいんだけど、[H名]が嫌なら全然断ってくれていいからね？」=“I see... well, if I'm being honest, yeah I wanna do it, but if you don't want to, feel completely free to say no, okay?”
+「その……大丈夫です。あなたに求められて……嬉しいですから」=“It's uhm... it's alright. Being wanted by you... makes me happy.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えぇっ！？　エッチは、好き合ってる二人がすることだよっ？」=
-//「それは分かってるけど……俺はきみとしたいんだ」=
-//「俺たちはよく知った仲でしょ？　それでもダメかな？」=
-//「確かに……知らない人とするよりかは、いいのかなぁ？」=
-//「絶対に痛くはしないから……お願いっ！」=
-//「そんなにお願いするなら、いいよぉ。でも私は初めてだから……色々迷惑をかけたらごめんね」=
+「えぇっ！？　エッチは、好き合ってる二人がすることだよっ？」=“Eeh--!? Sex is, something people who love each other do, you know--?!”
+「それは分かってるけど……俺はきみとしたいんだ」=“I get that but... I want to do it with you.”
+「俺たちはよく知った仲でしょ？　それでもダメかな？」=“I mean, we're already pretty close, aren't we? Or is it still too much?”
+「確かに……知らない人とするよりかは、いいのかなぁ？」=“For sure... I guess it'd be better than, doing it with someone you don't know at all~?”
+「絶対に痛くはしないから……お願いっ！」=“I'll make sure it doesn't hurt for you so... please--!”
+「そんなにお願いするなら、いいよぉ。でも私は初めてだから……色々迷惑をかけたらごめんね」=“If you want to do it that badly, then sure~. But I'm a virgin so... sorry if I'm a bother in bed.”

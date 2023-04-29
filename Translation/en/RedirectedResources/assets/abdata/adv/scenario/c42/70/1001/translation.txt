@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねぇ、[H名]。縁側で少し涼んでいかない？」=
-//「えへへ、ここは涼しくて気持ちいいね～」=
-//「アイスも美味しいし、風は気持ちいいし、最高だなぁ」=
-//「良かった、気に入ってくれたんだね。涼もうって誘って良かったよ」=
-//「それにしても、こうやって縁側にいると不思議な感じがするね」=
-//「不思議な感じ……って？　キミはどんなことを感じてるのかなー？」=
-//「あー……その、さ。よくお年寄りが夫婦で和んでいるってイメージがあるからさ」=
-//「それかー。確かに、そんな感じのイメージはあるよねっ」=
-//「じゃあ、さしずめ……私たちは縁側で和んでいる若夫婦って感じ……とかー？」=
-//「若夫婦……」=
-//「ご、ごめん。自分で言っておいてなんだけど、すごい恥ずかしいこと言ったかもー……」=
-//「ああ、うん……その、まあ……俺もそんな感じのこと考えてたし……」=
-//「そ、そっかぁ……」=
-//「う、うん……」=
+「ねぇ、[H名]。縁側で少し涼んでいかない？」=“Hey, [H]. Wanna go cool off a bit at the veranda?”
+「えへへ、ここは涼しくて気持ちいいね～」=“Eheheh, the air's so refreshing here, it's nice, isn't it~”
+「アイスも美味しいし、風は気持ちいいし、最高だなぁ」=“The ice cream's great too, the breeze feels great, nothing could beat this~”
+「良かった、気に入ってくれたんだね。涼もうって誘って良かったよ」=“You really like it, huh? I'm glad I asked.”
+「それにしても、こうやって縁側にいると不思議な感じがするね」=“At any rate, just standing at the veranda like this gives you this feeling, doesn't it?”
+「不思議な感じ……って？　キミはどんなことを感じてるのかなー？」=“This feeling...? What are you feeling~?”
+「あー……その、さ。よくお年寄りが夫婦で和んでいるってイメージがあるからさ」=“Aah... it's uhm, you know. Try imagining an old husband and wife just relaxing in this place. It's got that sort of an image, no?”
+「それかー。確かに、そんな感じのイメージはあるよねっ」=“Ah~. For sure, it does--”
+「じゃあ、さしずめ……私たちは縁側で和んでいる若夫婦って感じ……とかー？」=“Then, for the time being... I guess we're a young husband and wife, relaxing on the verandah... together~?”
+「若夫婦……」=“A young husband and wife...”
+「ご、ごめん。自分で言っておいてなんだけど、すごい恥ずかしいこと言ったかもー……」=“S-Sorry. I know I said it myself but, maybe that was a bit too embarrassing~...”
+「ああ、うん……その、まあ……俺もそんな感じのこと考えてたし……」=“Aaah, yeah... it's uhm, well... I was thinking the same thing so...”
+「そ、そっかぁ……」=“I-I see~...”
+「う、うん……」=“Y-Yeah...”
 「…………」=“...”
-//「ひゃっ！？　つ、つめたっ！」=
-//「あっ……アイス！　早く食べちゃわないと、溶けちゃうんじゃ……！？」=
-//「そ、そうだったね！　えへへ、なんか顔もすっごく熱いし、アイスもきっと早く溶けちゃうんだね」=
-//「じゃあ、私……その、アイスを食べちゃうね？　ちょっと無言になっちゃうかもだけど……」=
-//「うん、そうすると良いよ。俺も顔が熱いし……」=
-//「少し、静かに風を感じて涼んでるからさ」=
+「ひゃっ！？　つ、つめたっ！」=“Hyah--!? S-So cold--!”
+「あっ……アイス！　早く食べちゃわないと、溶けちゃうんじゃ……！？」=“Ah--... the ice cream! Finish it quickly, else it's gonna melt...!”
+「そ、そうだったね！　えへへ、なんか顔もすっごく熱いし、アイスもきっと早く溶けちゃうんだね」=“R-Right! Eheheh, my face is burning up too right now, so the ice cream's probably not long for this world either.”
+「じゃあ、私……その、アイスを食べちゃうね？　ちょっと無言になっちゃうかもだけど……」=“So uhm, I'mma... uhm, eat this ice cream, okay? I might get a bit quiet but...”
+「うん、そうすると良いよ。俺も顔が熱いし……」=“Yeah, do that. My face's burning up too...”
+「少し、静かに風を感じて涼んでるからさ」=“I'll quietly savour this breeze, and cool down myself.”

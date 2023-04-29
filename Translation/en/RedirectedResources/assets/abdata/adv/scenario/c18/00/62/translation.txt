@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さてと、それじゃあ俺のオイル塗りテクを見せちゃおうかな」=
-//「はい……あの、それじゃあ、前の方も……お願いして、いいですか……」=
-//「本当に？　いいよ、任せて。前にもたっぷり塗ってあげるよ」=
-//「あの、でも……できれば、普通に塗って下さいね」=
-//「もちろんだよ、普通に、普通に塗るからね」=
+「さてと、それじゃあ俺のオイル塗りテクを見せちゃおうかな」=“Now then, maybe I'll show off my oil applying technique here.”
+「はい……あの、それじゃあ、前の方も……お願いして、いいですか……」=“Yes... uhm, in that case, could you... do the front, as well...”
+「本当に？　いいよ、任せて。前にもたっぷり塗ってあげるよ」=“You sure? Leave it to me. I'll lather it on real good.”
+「あの、でも……できれば、普通に塗って下さいね」=“Uhm, but... if possible, please do it normally, okay?”
+「もちろんだよ、普通に、普通に塗るからね」=“Of course, normally, I'll do it super normally.”

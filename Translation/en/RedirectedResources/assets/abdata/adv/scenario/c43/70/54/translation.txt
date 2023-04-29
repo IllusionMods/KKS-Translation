@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「そういえばさ、俺のこと[Pあだ名]って呼んでもらいたいんだよね」=
-//「どうしたん？　えらいイキナリやん。まあ別にエエけど」=
-//「……いや、やっぱちょっと恥ずかしいなぁ……これ、なんか理由あんの？」=
-//「俺の夢だったんだ……恋人に[Pあだ名]って呼ばれるのがさ」=
-//「夢かぁ……そない言われたら、叶えへんわけにはいかんなぁ」=
-//「おっしゃあ、ほな行くで～～……[Pあだ名]」=
-//「いいね！　ああ、最高……。もっと呼んで！」=
-//「お、おう、別にかまへんけど…………[Pあだ名]……って、やっぱ恥ずいなぁ……」=
-//「……最高だよ、[Hあだ名]！」=
-//「お！？　急にどーしたん？　ウチもあだ名呼びになるん？」=
-//「いや、その方がいいかなーって……イヤだった？」=
-//「全然イヤと違うで！　めっちゃええや～ん！」=
-//「はは、それはよかった……じゃあ、ちょくちょく、この名前で呼び合おうよ」=
+「そういえばさ、俺のこと[Pあだ名]って呼んでもらいたいんだよね」=“Reminds me, I wanna hear you call me [Pあだ名], ya know?”
+「どうしたん？　えらいイキナリやん。まあ別にエエけど」=“What's up? That's super sudden. Well, not that I mind.”
+「……いや、やっぱちょっと恥ずかしいなぁ……これ、なんか理由あんの？」=“...Nah, it really is a bit embarrassin' though... is there a reason to it?”
+「俺の夢だったんだ……恋人に[Pあだ名]って呼ばれるのがさ」=“I've always dreamed of it... of having my girlfriend call me [Pあだ名] someday.”
+「夢かぁ……そない言われたら、叶えへんわけにはいかんなぁ」=“A dream, huh~... in that case, can't just let it go unfulfilled there, now can I~?”
+「おっしゃあ、ほな行くで～～……[Pあだ名]」=“Aight, here I go~~... [Pあだ名].”
+「いいね！　ああ、最高……。もっと呼んで！」=“So nice! Aah, this is the best... say it more!”
+「お、おう、別にかまへんけど…………[Pあだ名]……って、やっぱ恥ずいなぁ……」=“S-Sure, guess I don't really mind... [Pあだ名]... ya know, this really is embarrassin'...”
+「……最高だよ、[Hあだ名]！」=“...It's the best, [Hあだ名].”
+「お！？　急にどーしたん？　ウチもあだ名呼びになるん？」=“Oh!? Seriously, what's up~? I get a nickname too now?”
+「いや、その方がいいかなーって……イヤだった？」=“No well, I thought that since we were doing that... you don't like it?”
+「全然イヤと違うで！　めっちゃええや～ん！」=“Not it at all! It's super nice~!”
+「はは、それはよかった……じゃあ、ちょくちょく、この名前で呼び合おうよ」=“Hahah, glad to hear that... well then, let's call each other that whenever we can.”

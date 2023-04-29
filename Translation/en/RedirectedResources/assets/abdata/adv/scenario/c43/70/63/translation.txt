@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ええ感じやん。自分、めっちゃ上手いな～……さては、ベテランさんやな？」=
-//「ふぅ……ええ気持ちやった。おおきにやで～」=
-//「んー……まあこんなもんか。おおきにな」=
-//「って、ほんまに終わるんかい！　手ぇこんだボケするやん……」=
+「ええ感じやん。自分、めっちゃ上手いな～……さては、ベテランさんやな？」=“Good goin'. Yer super good at this~... I take it that yer an old hand at this?”
+「ふぅ……ええ気持ちやった。おおきにやで～」=“Fuuh... that felt great. Major thanks~”
+「んー……まあこんなもんか。おおきにな」=“Nn~... I guess that's that. Thanks for that.”
+「って、ほんまに終わるんかい！　手ぇこんだボケするやん……」=“Wuh, are we seriously cuttin' off there?! That's a gag if I've ever seen one...”

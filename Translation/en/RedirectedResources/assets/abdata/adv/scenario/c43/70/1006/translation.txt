@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねえ、この鐘の伝説って知ってる？」=
-//「………………そんなん、当たり前やん。もちろんやで」=
-//「なんで、一瞬間があったの？　ってか、大喜利みたいなことしようとしてた？」=
-//「お～～、さすが、ウチの相方やな。よぉわかってるや～ん♪」=
-//「はぁ……わかった。それじゃ『南の島の鐘には有名な伝説がある。その内容とは？』」=
-//「お賽銭入れたら、贔屓の球団の連敗が止まる！」=
-//「あはは、それは面白いね」=
-//「じゃ、次、そっちの番！　『南の島の鐘には有名な伝説がある。その内容とは？』」=
-//「えー……あー……う～ん、二人で鐘を鳴らすと、必ず結ばれる……」=
-//「……そ、それ、ガチのやつやん！　もう、急に素になるん、アカンてぇ……」=
-//「[H名]、照れてる？　って、やっぱり知ってたんだね。伝説」=
-//「そらまあ……どのガイドブック開いても三番目ぐらいに出てくるやん。この鐘のこと」=
-//「ああ、恥ずかしいわぁ……この鐘にお願いしに行くなんて、なんか、もう、ウチ、めっちゃグイグイ行ってるみたいやん？」=
-//「別にいいじゃん」=
-//「……ほんま？　だって必ず結ばれたら、ウチとずーっと一緒におらなあかんかもしらんねんで？」=
-//「うん、全然ＯＫ」=
-//「……ま、まあ、自分がそない言うてくれるんやったら、鐘……鳴らしてみる？」=
-//「めっちゃ盛大に。近所迷惑になるぐらい」=
-//「……いや、まあ、それは普通に鳴らそう」=
+「ねえ、この鐘の伝説って知ってる？」=“Hey, do you know the story behind this bell?”
+「………………そんなん、当たり前やん。もちろんやで」=“...Ya, it's obvious. Course I do.”
+「なんで、一瞬間があったの？　ってか、大喜利みたいなことしようとしてた？」=“You took your time answering there, didn't you? Wait, were you just trying to set up a joke there?”
+「お～～、さすが、ウチの相方やな。よぉわかってるや～ん♪」=“Ooh~, that's my man for ya. Ya sure do know me well~♪”
+「はぁ……わかった。それじゃ『南の島の鐘には有名な伝説がある。その内容とは？』」=“Haah... got it. Well then,「There's a well known legend surrounding the bell on the island in the south. That legend is?」”
+「お賽銭入れたら、贔屓の球団の連敗が止まる！」=“If you offer up money, yer favourite baseball team's losin' streak will stop!”
+「あはは、それは面白いね」=“Ahahah, that's pretty funny.”
+「じゃ、次、そっちの番！　『南の島の鐘には有名な伝説がある。その内容とは？』」=“Well then, it's yer turn next.「There's a well known legend surrounding the bell on the island in the south. That legend is?」”
+「えー……あー……う～ん、二人で鐘を鳴らすと、必ず結ばれる……」=“Eh~... aah... nnn~, if you ring it together, you will get married one day for sure...”
+「……そ、それ、ガチのやつやん！　もう、急に素になるん、アカンてぇ……」=“...T-That's, like, the real thing! Jeez, yer gonna make me get all restless, dummy~...”
+「[H名]、照れてる？　って、やっぱり知ってたんだね。伝説」=“Are you blushing, [H]? So you really did know about the legend, huh?”
+「そらまあ……どのガイドブック開いても三番目ぐらいに出てくるやん。この鐘のこと」=“That's, well... no matter which guidebook ya flip open, ya won't have to look further than the 3rd page for this bell.”
+「ああ、恥ずかしいわぁ……この鐘にお願いしに行くなんて、なんか、もう、ウチ、めっちゃグイグイ行ってるみたいやん？」=“Aah, so embarrassing~... comin' to ring this bell together, it kinda, doesn't it like, make me seem real gushy and stuff?”
+「別にいいじゃん」=“Isn't it fine?”
+「……ほんま？　だって必ず結ばれたら、ウチとずーっと一緒におらなあかんかもしらんねんで？」=“...Ya mean it? I mean, if we get hitched, ya might be stuck with me forever, ya know?”
+「うん、全然ＯＫ」=“Yep, I'd be fine with that.”
+「……ま、まあ、自分がそない言うてくれるんやったら、鐘……鳴らしてみる？」=“...W-Well, if ya feel that way then, do ya... wanna try ringin' it?”
+「めっちゃ盛大に。近所迷惑になるぐらい」=“Yep, super hard. Hard enough to bother everyone around.”
+「……いや、まあ、それは普通に鳴らそう」=“...Let's not. Let's just ring it normally.”

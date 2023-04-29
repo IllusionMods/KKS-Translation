@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うーん、どれも美味しいね」=
-//「はいっ。お肉もお魚も絶品だと思います」=
-//「来たばっかりの頃は、こっちのお料理の味付けに慣れてなかったんですけど……今では大ハマりですっ」=
-//「はは、俺も。でも美味しく食べられるのは[H名]が一緒にいてくれるからだと思うな」=
-//「それは……えへへ、私もです」=
+「うーん、どれも美味しいね」=“Nnn, it's all so good.”
+「はいっ。お肉もお魚も絶品だと思います」=“Yes--! I think both the meat and the fish are exquisite.”
+「来たばっかりの頃は、こっちのお料理の味付けに慣れてなかったんですけど……今では大ハマりですっ」=“When we'd just gotten here, I couldn't get used to the taste of the food here at all... but at this point, I'm simply addicted--”
+「はは、俺も。でも美味しく食べられるのは[H名]が一緒にいてくれるからだと思うな」=“Hahah, me too. But I do think I only enjoy the food here so much because you're always there, [H].”
+「それは……えへへ、私もです」=“That's... eheheh, it's the same for me.”

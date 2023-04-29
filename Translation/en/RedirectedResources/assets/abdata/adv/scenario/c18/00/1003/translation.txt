@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「一緒にお土産をちょっと覗いていこうよ」=
-//「このキーホルダー、とても可愛いですね。見てください、[P名]さん」=
-//「それは、星の砂のキーホルダーだね」=
-//「星の形をした砂も可愛いですけど、このキーホルダー自体も可愛い形していますよ」=
-//「でも、不思議ですよね。どうして砂が星の形になるのでしょうか？」=
-//「ああ、それは聞いたことがあるよ」=
-//「なんでも岩とか石が細かくなってできた普通の砂と違って、生物の殻らしいね」=
-//「……ええっ！？」=
-//「こ、これ、元は生き物なんですか……？」=
-//「そうらしいね。まぁ、詳しいことまでは知らないんだけど」=
-//「そうですか……」=
-//「生き物の殻だと思ったら、なんだかイメージが変わってきてしまいました」=
-//「それが浜辺を覆い隠すくらいいるなんて……想像したら、不幸な気分になってしまいそうです……」=
+「一緒にお土産をちょっと覗いていこうよ」=“Let's go look at souvenirs together.”
+「このキーホルダー、とても可愛いですね。見てください、[P名]さん」=“This keychain, is really cute, isn't it? Please look, [P]-san.”
+「それは、星の砂のキーホルダーだね」=“Ah, a starsand keychain, huh?”
+「星の形をした砂も可愛いですけど、このキーホルダー自体も可愛い形していますよ」=“The star shaped sand is really cute too but, this keychain itself is also pretty cute.”
+「でも、不思議ですよね。どうして砂が星の形になるのでしょうか？」=“But, it's quite strange, isn't it? How and why does sand end up taking the shape of a star?”
+「ああ、それは聞いたことがあるよ」=“Aah, I've heard about it before, actually.”
+「なんでも岩とか石が細かくなってできた普通の砂と違って、生物の殻らしいね」=“Apparently, unlike normal sand that's just ground down rocks and stones, it's actually dead husks of some orgasnism.”
+「……ええっ！？」=“...Eeh--!?”
+「こ、これ、元は生き物なんですか……？」=“T-This, used to be alive...?”
+「そうらしいね。まぁ、詳しいことまでは知らないんだけど」=“Seems like it. Well, I don't know about it in that much detail myself.”
+「そうですか……」=“Is that so...”
+「生き物の殻だと思ったら、なんだかイメージが変わってきてしまいました」=“It suddenly looks so different, now that I know it's dead living things.”
+「それが浜辺を覆い隠すくらいいるなんて……想像したら、不幸な気分になってしまいそうです……」=“To think that there's enough of them, to cover whole beaches... just imagining it, is making me feel a bit strange...”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「お～～……ダイビングかー……めっさ楽しみや！」=
-//「いろんな海の生き物がいるんだろうね」=
-//「刺し身醤油とか、持っていった方がええかな？」=
-//「……わさびもあった方がいいかもね」=
-//「せやね、おっしゃーっ、たらふく食うで～」=
-//「って、なんでやねーん……冗談だってわかってるけど、食べるの禁止ね」=
+「お～～……ダイビングかー……めっさ楽しみや！」=“Oh~~... Diving, huh~... sounds super fun!”
+「いろんな海の生き物がいるんだろうね」=“I bet there's all sorts of life to see in there.”
+「刺し身醤油とか、持っていった方がええかな？」=“Ya think we oughta take some soy sauce with us? For Sashimi and all.”
+「……わさびもあった方がいいかもね」=“...Some wasabi might be good too.”
+「せやね、おっしゃーっ、たらふく食うで～」=“Course. Aight--, we're gunna be gorgin' ourselves today~”
+「って、なんでやねーん……冗談だってわかってるけど、食べるの禁止ね」=“Like hell we are~... I know you're just joking but, no eating the fish, aight?”

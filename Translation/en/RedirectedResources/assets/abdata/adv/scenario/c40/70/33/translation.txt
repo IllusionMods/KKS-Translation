@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「いい観光になったな。我一人では、きっとここまで楽しめなかっただろう」=
+「いい観光になったな。我一人では、きっとここまで楽しめなかっただろう」=“That made for quite the sightseeing trip. I imagine I wouldn't have enjoyed that half as much, if I was alone.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「うむ、満腹だ。料理の味が良かったのは勿論だが、貴殿と話しながらだとつい食べ過ぎしてしまうな」=
+「うむ、満腹だ。料理の味が良かったのは勿論だが、貴殿と話しながらだとつい食べ過ぎしてしまうな」=“Umu, I am full. The food was of course good, however I always do tend to overeat a bit whenever we take meals together.”

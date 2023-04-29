@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「やっぱ、自分が一緒やとエエわ～。時間があっちゅう間や……さてと、ほなまたなー」=
+「やっぱ、自分が一緒やとエエわ～。時間があっちゅう間や……さてと、ほなまたなー」=“Bein' next ta ya really is just fun~. Time fokin' flies I tell ya... now then, see ya later~”

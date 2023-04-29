@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「はぁ……ウチのわがままに付き合ってくれて、おおきにやで。めっちゃよかった……ふぅ……ああ、まだ気持ちいいの、残ってる……」=
+「はぁ……ウチのわがままに付き合ってくれて、おおきにやで。めっちゃよかった……ふぅ……ああ、まだ気持ちいいの、残ってる……」=“Haah... thanks fer goin' alon' with that, I mean it. It was super nice... fuh... aaah, the pleasure is still, lingerin'...”

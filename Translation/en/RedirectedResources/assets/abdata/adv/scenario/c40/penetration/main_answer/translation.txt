@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「……これも何かの縁というものか。まあ、我の方は問題ないぞ」=
-//「我は問題ないぞ。パーティーが増えると、出来ることも多くなるだろうからな」=
+「……これも何かの縁というものか。まあ、我の方は問題ないぞ」=“...Perhaps this is fate as well. Well, I personally do not mind.”
+「我は問題ないぞ。パーティーが増えると、出来ることも多くなるだろうからな」=“I do not either. With more people in tow, the things we can do also increase in number, afterall.”

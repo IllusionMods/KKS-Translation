@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私ね、三線をマスターしたいの！」=
-//「すごく気合入ってるね。なにか理由でもあるの？」=
-//「だって、楽器を弾けたらカッコいいでしょ？　だから頑張るんだよ」=
-//「カッコイイって思う気持ちはすごく分かる。よし、俺も頑張ろう！」=
-//「えへへ、仲間が増えた♪　あなたと一緒なら、何でも出来る気がするなぁ」=
+「私ね、三線をマスターしたいの！」=“You know, I wanna master this sanshin!”
+「すごく気合入ってるね。なにか理由でもあるの？」=“Someone's fired up. Is there a reason to it?”
+「だって、楽器を弾けたらカッコいいでしょ？　だから頑張るんだよ」=“I mean, it'd be really cool to know how to play it, no? So I'mma work hard.”
+「カッコイイって思う気持ちはすごく分かる。よし、俺も頑張ろう！」=“I can relate to that super hard. Alright, I'll do my best too!”
+「えへへ、仲間が増えた♪　あなたと一緒なら、何でも出来る気がするなぁ」=“Eheheh, I've got a comrade~♪ I feel like I can do just about anything, as long as you're with me~”

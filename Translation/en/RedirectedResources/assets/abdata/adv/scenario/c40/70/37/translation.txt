@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「[H名]はダイビングとサーフィンならどっちがしたい？」=
-//「むぅ、悩むな……どちらも捨てがたい。この際両方してしまうか？」=
-//「え……俺は構わないけど、結構体力的にキツいと思うよ？」=
-//「はは、それなら心配無用だ。我は女だが、体力でも貴殿に負けるつもりはないぞ」=
-//「おっけー。じゃあ贅沢にどっちもやっちゃおうか！」=
-//「ああ、どうせ遊ぶなら遊び尽くしてやろう！」=
+「[H名]はダイビングとサーフィンならどっちがしたい？」=“Between diving and surfing, which do you prefer, [H]?”
+「むぅ、悩むな……どちらも捨てがたい。この際両方してしまうか？」=“Muh, what a question... I cannot pick one. How about we do both?”
+「え……俺は構わないけど、結構体力的にキツいと思うよ？」=“Eh... I don't mind but, I'm pretty sure it's gonna be a heavy workout, you know?”
+「はは、それなら心配無用だ。我は女だが、体力でも貴殿に負けるつもりはないぞ」=“Hahah, you need not worry about me. I may be a woman, however I do think I would not lose to you in terms of stamina.”
+「おっけー。じゃあ贅沢にどっちもやっちゃおうか！」=“Alright~. Let's go all out and do both then!”
+「ああ、どうせ遊ぶなら遊び尽くしてやろう！」=“Aah, if we're going to have fun, then let's have all the fun we can!”
