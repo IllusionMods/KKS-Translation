@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「やぁ、[Pあだ名]……はは、今日も元気そうで何よりだ」=
-//「え、待って……今さらっと変な呼び方しなかった？」=
-//「なっ、変とはなんだ！　我がこのあだ名に落ち着くまで、どれだけ色々考えたと思っている！」=
-//「ご、ごめん……でも、どうしていきなりあだ名で呼ぼうと思ったの？」=
-//「それは……特別感が欲しかったのだ。我と貴殿だけで通じる、特別な何かが欲しくて……」=
-//「じゃあ、俺も[H名]のことをあだ名で呼んだ方がいいね」=
-//「いや、そこまでは望んでいないぞ？　我のあだ名なんて……すぐに出てくるものでもあるまい？」=
-//「うーん……[Hあだ名]とかどう？」=
-//「んなっ！　いいぞ、凄くいい……なんというか、背筋がゾクっとした」=
-//「良かった。じゃあ今度からはあだ名で呼び合おうか？」=
-//「待て……名前というのは凄く大事なものだぞ？　それに、普段から呼んだら特別感が……」=
-//「そうだね。お互いくすぐったくなって話が続かなそうだし、たまに呼び合うくらいが丁度いいかも」=
+「やぁ、[Pあだ名]……はは、今日も元気そうで何よりだ」=“Hey, [Pあだ名]... hahah, I'm glad to see you full of energy today as well.”
+「え、待って……今さらっと変な呼び方しなかった？」=“Eh, wait... didn't you just try to slip in a weird nickname there?”
+「なっ、変とはなんだ！　我がこのあだ名に落ち着くまで、どれだけ色々考えたと思っている！」=“Wha--, 'weird', you say!? Just how much thought do you think it took, before I could bring myself to say it!?”
+「ご、ごめん……でも、どうしていきなりあだ名で呼ぼうと思ったの？」=“S-Sorry... but, just why did you feel like calling me a nickname out of nowhere anyway?”
+「それは……特別感が欲しかったのだ。我と貴殿だけで通じる、特別な何かが欲しくて……」=“That's... I wanted us to have something special. Something just between us, that others could not partake in...”
+「じゃあ、俺も[H名]のことをあだ名で呼んだ方がいいね」=“Then, I should think of one for you too, shouldn't I?”
+「いや、そこまでは望んでいないぞ？　我のあだ名なんて……すぐに出てくるものでもあるまい？」=“No, you need not go that far, you know? Surely it is not something... you can come up with simply on the spot?”
+「うーん……[Hあだ名]とかどう？」=“Nnnn... how's [Hあだ名]?”
+「んなっ！　いいぞ、凄くいい……なんというか、背筋がゾクっとした」=“Wwha--! It's good, it's really good... I just felt my backside tingle.”
+「良かった。じゃあ今度からはあだ名で呼び合おうか？」=“Great. Want us to start calling each other by those nicknames from now on then?”
+「待て……名前というのは凄く大事なものだぞ？　それに、普段から呼んだら特別感が……」=“No, wait... names are very precious things, you know? Not to mention, if we use them so frequently, they would cease to be special...”
+「そうだね。お互いくすぐったくなって話が続かなそうだし、たまに呼び合うくらいが丁度いいかも」=“Right. And it'd probably make both of us feel so tickly, we'd get too red to continue talking anyway, so maybe using them every so often might be just perfect.”

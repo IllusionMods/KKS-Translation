@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「その……今回は、前側も塗っていい？」=
-//「うむ。貴殿の頼みなら、罠と分かっていても逃げるわけにはいくまい」=
-//「……手が滑ったは、何回まで許してもらえますか？」=
-//「はは、それは貴殿次第だな。お手並み拝見といこう」=
+「その……今回は、前側も塗っていい？」=“Erhm... mind if I, put it on the front too this time?”
+「うむ。貴殿の頼みなら、罠と分かっていても逃げるわけにはいくまい」=“Umu. When it's a request from you, I can't very well say no, even knowing that it is a trap.”
+「……手が滑ったは、何回まで許してもらえますか？」=“...How many slips of the hand would you be willing to overlook, perchance?”
+「はは、それは貴殿次第だな。お手並み拝見といこう」=“Hahah, that depends on you. Let me see what you can do.”

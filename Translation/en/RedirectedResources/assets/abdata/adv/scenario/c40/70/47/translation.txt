@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「こうやって、二人で見識を広めていくのはいいな。貴殿と一緒に成長できている感じが、凄くいい……」=
+「こうやって、二人で見識を広めていくのはいいな。貴殿と一緒に成長できている感じが、凄くいい……」=“Spreading our horizons like this together is quite nice. The sensation of growing, alongside you, feels truly incredible...”

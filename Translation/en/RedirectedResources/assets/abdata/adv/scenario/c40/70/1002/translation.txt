@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「卓球で勝負しようよ。[H名]、結構強そうだし」=
-//「うわ……普通に負けちゃった。予想以上に上手いね」=
-//「はは、ラケットは短剣と扱いがほとんど一緒だからな。可哀相だが、貴殿が我に勝つには相当努力が必要だろう」=
-//「うぅ……でも無理とは言わないんだね？」=
-//「当たり前だ。我だって最初から上手かったわけではない。毎日の鍛錬が我をここまで強くしてくれたのだ」=
-//「じゃあ、早く上手くなるコツとか教えてもらえたりする？」=
-//「そうだな……まずは素直になることだ。貴殿はたまにフェイントをかけてくるが、それはまだ早い」=
-//「最初は基礎をしっかり学び、素直な剣を身に着けることが最優先だ。小手先の技は後からいくらでも学べる」=
-//「分かった。次はフェイントとか使わないで素直に全力でやってみるよ」=
-//「よし、ではまた我が相手になろう。基礎練習は一人でもできるからな。今は折角二人なのだし、実戦あるのみだ」=
-//「あ、でも……対戦もいいけど、[H名]に手取り足取り基礎を教えてもらうっていうのもアリな気がする」=
-//「んなっ！　まぁ、我はそれでも構わないが……」=
-//「……隙あり！」=
-//「ひゃわっ！　なんだいきなり！　こらっ、不意打ちなんて卑怯だぞ！」=
-//「ははは、常在戦場だ。油断する方が悪いのだぞ」=
-//「むぅ……それは我の真似か？　今のはハンデだ。同じ手は二度と通用しないからな」=
+「卓球で勝負しようよ。[H名]、結構強そうだし」=“Let's have a round of ping pong, [H]. You look like you'd be pretty good at it anyway.”
+「うわ……普通に負けちゃった。予想以上に上手いね」=“Uwah... I lost hands down. You're way better than I expected.”
+「はは、ラケットは短剣と扱いがほとんど一緒だからな。可哀相だが、貴殿が我に勝つには相当努力が必要だろう」=“Hahah, a racket isn't much different from a dagger, to handle. I do feel it a bit unfair, but you're likely going to need to put in quite the effort to win against me.”
+「うぅ……でも無理とは言わないんだね？」=“Uuu... though, I see you didn't say it's impossible.”
+「当たり前だ。我だって最初から上手かったわけではない。毎日の鍛錬が我をここまで強くしてくれたのだ」=“Of course. Even I was wet behind the ears at one point. I have only become this strong thanks to my daily efforts.”
+「じゃあ、早く上手くなるコツとか教えてもらえたりする？」=“Then, could you tell me the trick to learning to become good at this as fast as I can?”
+「そうだな……まずは素直になることだ。貴殿はたまにフェイントをかけてくるが、それはまだ早い」=“Let's see... you must first start with playing honestly. I see you sometimes try to put in some feints, however that is still too early for you.”
+「最初は基礎をしっかり学び、素直な剣を身に着けることが最優先だ。小手先の技は後からいくらでも学べる」=“You must first thoroughly learn the basics, and drill an honest use of the sword into your body. You can learn such cheap tricks as much as you want later.”
+「分かった。次はフェイントとか使わないで素直に全力でやってみるよ」=“Got it. I won't use any feints this time then, I'll just play as well as I can.”
+「よし、ではまた我が相手になろう。基礎練習は一人でもできるからな。今は折角二人なのだし、実戦あるのみだ」=“Alright, I shall serve as your partner again then. You can practice the basics as much as you want by yourself. We finally have some time together, and there's no substitute for actual sparring.”
+「あ、でも……対戦もいいけど、[H名]に手取り足取り基礎を教えてもらうっていうのもアリな気がする」=“Ah, but... I mean, sparring is good too but, I feel like having you give me some hands on training with the basics might be nice too.”
+「んなっ！　まぁ、我はそれでも構わないが……」=“Wha--! Well, I would not mind that, however...”
+「……隙あり！」=“...An opening!”
+「ひゃわっ！　なんだいきなり！　こらっ、不意打ちなんて卑怯だぞ！」=“Hyawah--! What in the--! Hey--, such surprise attacks are unfair!”
+「ははは、常在戦場だ。油断する方が悪いのだぞ」=“Hahahah, the battlefield is never too far away. It's your fault for letting your guard down.”
+「むぅ……それは我の真似か？　今のはハンデだ。同じ手は二度と通用しないからな」=“Muh... mimicing me, are you? That was a fluke. Do not think such a trick will work on me again.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「これだけ遊んだら今夜はよく眠れそうだ。遊び疲れでも疲れには変わりないからな、貴殿もよく休んでおくんだぞ」=
+「これだけ遊んだら今夜はよく眠れそうだ。遊び疲れでも疲れには変わりないからな、貴殿もよく休んでおくんだぞ」=“I imagine I will sleep well tonight, with how much we played around. However, fatigue is fatigue, no matter if it's from having fun, thusly you must also rest well.”

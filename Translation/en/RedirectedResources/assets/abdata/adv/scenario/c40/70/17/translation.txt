@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「貴殿に我の一番恥ずかしい姿を晒してしまったな。思い出すと……流石に恥ずかしくなってくる」=
-//「後でからかったりするんじゃないぞ？　我は貴殿を信用して、身体を許したのだからな……」=
+「貴殿に我の一番恥ずかしい姿を晒してしまったな。思い出すと……流石に恥ずかしくなってくる」=“I put on quite the embarrassing sight in front of you, didn't I? Just thinking back to it... I'm getting more embarrassed by the moment.”
+「後でからかったりするんじゃないぞ？　我は貴殿を信用して、身体を許したのだからな……」=“Do not tease me now that it is over, alright? I yielded my body to you, out of faith in you...”
