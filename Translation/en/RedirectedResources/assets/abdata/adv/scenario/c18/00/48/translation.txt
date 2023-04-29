@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なんだか、珍しい料理ばかりだね」=
-//「はい。どれもみんな地元の郷土料理なんでしょうか？　すごく優しい味付けです」=
-//「これなら、いくらでも入りそうだよ」=
-//「私も、おかわりしたくなっちゃいます」=
+「なんだか、珍しい料理ばかりだね」=“None of these dishes are ones you see everyday, are they?”
+「はい。どれもみんな地元の郷土料理なんでしょうか？　すごく優しい味付けです」=“Yes. Are they all part of the local cuisine? They're spiced very mildly.”
+「これなら、いくらでも入りそうだよ」=“I feel like I could fit whole bowls of this stuff in me.”
+「私も、おかわりしたくなっちゃいます」=“Me too, I can't help but want seconds.”

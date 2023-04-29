@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すっごく美味しかったですね。ちょっと食べ過ぎちゃったかもしれません……」=
+「すっごく美味しかったですね。ちょっと食べ過ぎちゃったかもしれません……」=“That was really tasty, wasn't it? I think I may have eaten a bit too much...”

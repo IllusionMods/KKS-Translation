@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「二人きり、ですね。えへへ……」=
-//「あ……やっぱり、そういうつもりだったんですね」=
-//「私も期待してたので、いいですよ。エッチ……しましょう」=
+「二人きり、ですね。えへへ……」=“It's just us, isn't it. Eheheh...”
+「あ……やっぱり、そういうつもりだったんですね」=“Ah... I see, so you wanted to do that afterall, didn't you?”
+「私も期待してたので、いいですよ。エッチ……しましょう」=“I was hoping for it as well, so it's alright. Let us... have sex.”

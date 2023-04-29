@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「不幸が起きなくてよかったです。それでは、これで」=
+「不幸が起きなくてよかったです。それでは、これで」=“It's a good thing my misfortune did not trigger. Well then, do be seeing you.”

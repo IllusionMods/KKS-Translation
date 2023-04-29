@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こんなに気持ちいいなんて……最高でした」=
-//「綺麗に塗ってもらえて、とっても気持ち良かったです」=
-//「素敵でした。ありがとうございます」=
-//「えっと……塗らないで、終わりなんですか？」=
+「こんなに気持ちいいなんて……最高でした」=“To think it'd feel so good... that was the best.”
+「綺麗に塗ってもらえて、とっても気持ち良かったです」=“It felt great, how you put it on me so nicely.”
+「素敵でした。ありがとうございます」=“That was wonderful. Thank you very much.”
+「えっと……塗らないで、終わりなんですか？」=“Erhm... are we, not doing it?”

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……はい。エッチ、しましょう」=
-//「私、今からどんな不幸が来てもあなただけは絶対守ります」=
-//「初めてなので、すごくドキドキしてますが、きっと、すごく幸せな気分になれると思いますから……」=
+「……はい。エッチ、しましょう」=“...Yes, let's, have sex.”
+「私、今からどんな不幸が来てもあなただけは絶対守ります」=“No matter what sort of misfortune befalls us, I will make sure that atleast you are unharmed.”
+「初めてなので、すごくドキドキしてますが、きっと、すごく幸せな気分になれると思いますから……」=“It will be my first time, so my heart is pounding a lot but, I do think that I'll feel incredibly happy after it all so...”

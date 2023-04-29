@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういう作業って、結構集中するよね」=
-//「そうですね。なんだか無心になれるっていうか」=
-//「わかるわかる。そのおかげか、意外と綺麗に出来てるんだ」=
-//「あ、私もです。今の所、何も残念な事は起きていません」=
-//「このまま集中して、いいもの作ろうか」=
-//「はいっ、頑張ります」=
+「こういう作業って、結構集中するよね」=“Work like this just tends to make you concentrate a bit, doesn't it?”
+「そうですね。なんだか無心になれるっていうか」=“Indeed. It almost feels like everything else simply disappears.”
+「わかるわかる。そのおかげか、意外と綺麗に出来てるんだ」=“I feel that. Thanks to that, I think mine's coming along pretty good.”
+「あ、私もです。今の所、何も残念な事は起きていません」=“Ah, mine too. Nothing has gone wrong so far at all.”
+「このまま集中して、いいもの作ろうか」=“Let's keep focusing like this, and make some nice stuff, eh?”
+「はいっ、頑張ります」=“Yes--, I'll do my best.”

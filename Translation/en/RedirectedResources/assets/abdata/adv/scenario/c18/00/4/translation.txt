@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へっ？　わ、私達、そういうことをする間柄じゃないと思うんですけど……」=
-//「わかってる。それでも、シたいんだ」=
-//「ど、どうして私なんですか……？」=
-//「俺はきみじゃなきゃダメなんだ」=
-//「うぅ……わかり、ました。あなたになら……私の初めてを捧げても、良いです……」=
+「へっ？　わ、私達、そういうことをする間柄じゃないと思うんですけど……」=“Heh--? I-I do not think, we have that sort of a relationship though...”
+「わかってる。それでも、シたいんだ」=“I know that. Even so, I wanna do it.”
+「ど、どうして私なんですか……？」=“W-Why me...?”
+「俺はきみじゃなきゃダメなんだ」=“It's gotta be you, [H]. There's nobody else for me.”
+「うぅ……わかり、ました。あなたになら……私の初めてを捧げても、良いです……」=“Uu... I, understand. I do not mind... having my virginity taken, if it's by you...”

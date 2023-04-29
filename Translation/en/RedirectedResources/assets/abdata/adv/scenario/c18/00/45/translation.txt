@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なんとか頑張れました。それじゃ、私は失礼しますね」=
+「なんとか頑張れました。それじゃ、私は失礼しますね」=“I managed to hold on, somehow. Well then, I shall excuse myself here.”

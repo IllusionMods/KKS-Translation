@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃ、マングローブ林の見学に行こうか」=
-//「カヤックに乗るんですよね？　私、大丈夫でしょうか」=
-//「大丈夫だよ、何かあっても俺が付いてるから」=
-//「えへへ、そうでした。あなたがいてくれるなら、楽しんで乗れる気がしますっ」=
+「それじゃ、マングローブ林の見学に行こうか」=“Well then, let's go for a round along the mangroves.”
+「カヤックに乗るんですよね？　私、大丈夫でしょうか」=“We'll be in a kayak, won't we? Will I really be alright?”
+「大丈夫だよ、何かあっても俺が付いてるから」=“Don't worry, you will. Even if something happens, I'll be right there.”
+「えへへ、そうでした。あなたがいてくれるなら、楽しんで乗れる気がしますっ」=“Eheheh, of course. As long as you're there, I feel like I can actually enjoy myself for once--”
