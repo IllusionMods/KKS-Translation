@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あいっ！？　嘘でしょー、いつから覗いてたのー？　うぅ、恥ずかし過ぎて、顔から火が出そう……」=
+「あいっ！？　嘘でしょー、いつから覗いてたのー？　うぅ、恥ずかし過ぎて、顔から火が出そう……」=“Aaii--!? This can't be~, how long as you been there~? Uuu, I'm so embarrassed, my face is gonna catch on fire...”

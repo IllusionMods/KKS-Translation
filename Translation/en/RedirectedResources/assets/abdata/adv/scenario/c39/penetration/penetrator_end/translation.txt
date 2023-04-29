@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぁ、凄かったぁ……勇気を出して声をかけて良かったよー。混ぜてくれてありがとうねぇ」=
+「ふぁ、凄かったぁ……勇気を出して声をかけて良かったよー。混ぜてくれてありがとうねぇ」=“Fuah, that was amazing~... I'm glad I summoned my courage and asked~. Thanks for letting me join in~”
