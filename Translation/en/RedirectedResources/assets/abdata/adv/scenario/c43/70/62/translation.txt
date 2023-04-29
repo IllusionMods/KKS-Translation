@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「背中だけじゃアレだし、今回はお腹の方も塗るってのはどうだい、ベイビー」=
-//「さすがはハニーやで。タップリ塗ったってや」=
-//「……そんなにすぐ受け入れられてくれるとは思わなかったよ」=
-//「あはは、今更照れたりせーへんって。ほんなら頼んだで～」=
+「背中だけじゃアレだし、今回はお腹の方も塗るってのはどうだい、ベイビー」=“Your back alone's gonna be a bit boring, so how about we do your belly too today, baby~”
+「さすがはハニーやで。タップリ塗ったってや」=“That's my honey for ya, always thinkin' of me. Rub it on thoroughly.”
+「……そんなにすぐ受け入れられてくれるとは思わなかったよ」=“...I didn't think you'd go along with that whole shtick so readily.”
+「あはは、今更照れたりせーへんって。ほんなら頼んだで～」=“Ahahah, it's a bit too late to be blushin'. C'mon, do it~”

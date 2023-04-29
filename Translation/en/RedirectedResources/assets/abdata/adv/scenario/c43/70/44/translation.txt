@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「おお～……結構豪快な音、するねんなぁ。なんかロックを感じひん？」=
-//「ど、どうかな？　でも、鳴らしてる感じは楽しいね」=
-//「なんかさぁ、曲作りたぁなるな。ほら、ウチらのラブラブソングとか」=
-//「……え？　作曲、できるの？」=
-//「いや、全然できへんねんけどな？　でも、なんか、ほら……ノリで出来そうやん？　底しれぬ愛の力で」=
-//「愛の力は偉大だね……まあ、でも、ラブソングは作ってみたいなぁ……いずれ」=
+「おお～……結構豪快な音、するねんなぁ。なんかロックを感じひん？」=“Ooh~... pretty good sound, that~. Doesn't that feel just like rock?”
+「ど、どうかな？　でも、鳴らしてる感じは楽しいね」=“I-I dunno? But, it is pretty fun to play, for sure.”
+「なんかさぁ、曲作りたぁなるな。ほら、ウチらのラブラブソングとか」=“Man, this is makin' me wanna compose a song. Ya know, a lovey-dovey song just for us.”
+「……え？　作曲、できるの？」=“...Eh? You know how to make songs?”
+「いや、全然できへんねんけどな？　でも、なんか、ほら……ノリで出来そうやん？　底しれぬ愛の力で」=“Nah, not one bit, ya know? But, like, ya know... don'tcha think I could do it? With the power of our bottomless love.”
+「愛の力は偉大だね……まあ、でも、ラブソングは作ってみたいなぁ……いずれ」=“That's some pretty strong power... but, well, I do wanna try making one for us... someday.”

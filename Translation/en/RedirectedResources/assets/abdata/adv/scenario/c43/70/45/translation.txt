@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「なんや、アレコレややこしいこともあったけど、終わってみたらめっちゃおもろかったわ～」=
+「なんや、アレコレややこしいこともあったけど、終わってみたらめっちゃおもろかったわ～」=“There were a lot of tricky parts to it but, it was fun to do it till the end~”

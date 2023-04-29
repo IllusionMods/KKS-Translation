@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「んんん～～～～……やっぱ、海やね！　綺麗な浜辺……波の音……吹き付ける潮風……全部エエ感じやん」=
-//「うん、やっぱ海でしょ。この島に来たんだから、ね」=
-//「ほいで、どーする？　海を眺めるもよし、波に揉まれてキャッキャ言うのもよし、穴掘って生き埋めになるのもよし……」=
-//「……難しい選択肢だね。まあ、楽しい時間が過ごせるなら、なんだって構わないけどね」=
+「んんん～～～～……やっぱ、海やね！　綺麗な浜辺……波の音……吹き付ける潮風……全部エエ感じやん」=“Nnnn~~~... yep, that's the sea for ya! The beautiful beach... the sound of waves... the salty breeze... it's all real nice.”
+「うん、やっぱ海でしょ。この島に来たんだから、ね」=“Yep, we came all the way to this island afterall. Gotta enjoy the sea.”
+「ほいで、どーする？　海を眺めるもよし、波に揉まれてキャッキャ言うのもよし、穴掘って生き埋めになるのもよし……」=“So then, what we doin'? Just gazin' at the sea works, lettin' ourselves be jostled aroun' on the waves works too, and so does diggin' a hole an' bein' buried up to our necks and whatnot...”
+「……難しい選択肢だね。まあ、楽しい時間が過ごせるなら、なんだって構わないけどね」=“...Some pretty tough choices, not gonna lie. Well, as long as we have a fun time, I don't really care what we do.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ちょ、もう……アカンてぇ……はー……気持ち良すぎて、ヤバい……。ってか、あんまりこっち見んといて……ウチ、恥ずかしい……」=
+「ちょ、もう……アカンてぇ……はー……気持ち良すぎて、ヤバい……。ってか、あんまりこっち見んといて……ウチ、恥ずかしい……」=“Hey, don't~... it's not good~... haah... it felt so good, too good... Heck, don't look over here... I'm real embarrassed...”

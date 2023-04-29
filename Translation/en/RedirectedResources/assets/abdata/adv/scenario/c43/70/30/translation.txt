@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「おー、なんか色々あるや～ん。ウチ、こういう店来るとテンションあがる子やねん」=
-//「ああ、分かる分かる。俺もテンションあがるタイプだよ」=
-//「ほいだら、適当に見て回ろうや。さ～て……どんなモノボケしてくれんのかな～……楽しみやなー……」=
-//「いや、しないよ、モノボケなんて絶対にしないから」=
+「おー、なんか色々あるや～ん。ウチ、こういう店来るとテンションあがる子やねん」=“Oh~, they've sure got all kinds~. I really like comin' to these sorta shops, ya know? They get me real hyped.”
+「ああ、分かる分かる。俺もテンションあがるタイプだよ」=“Aah, I feel you. I get really excited in places like these too.”
+「ほいだら、適当に見て回ろうや。さ～て……どんなモノボケしてくれんのかな～……楽しみやなー……」=“Let's just look at whatever strikes our fancy then. Now then~... what sorta thin' are ya gonna make a gag outta~... so excitin'~...”
+「いや、しないよ、モノボケなんて絶対にしないから」=“I'm not, you know, if you're holding your breath. Definitely not.”
