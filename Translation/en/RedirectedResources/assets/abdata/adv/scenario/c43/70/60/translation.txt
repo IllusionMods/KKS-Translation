@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 「まいどー。今、時間ある～？　いや、まあ忙しかったら別にええねんけど…………あがってもええ？」=“Hey, I kno' it's outta nowhere~. Do ya have time right now~? If ya don't, well, that's fine too... mind if I come in?”
-SELECTION:「返事をする」=Respond
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
 「どうぞどうぞ、ちょっと散らかってるけど」=“You're always welcome. Sorry for the mess though.”
 「かまへんかまへん、小綺麗な方が逆に落ち着かへんし」=“It's fine, it's fine. Feels more awkward when it's all neat an' tidy anyway.”
