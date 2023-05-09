@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「そういえば、紅型って何て読むか最初分からなかったよ」=“Come to think of it, I didn't know how to read the word 'bingata' at first.”
-「普通は読めないはずさー。『びんがた』って平仮名で書いてある方が分かりやすいしねー」=“Most folks can't- It's easier to understand 'bingata' when it's written in hiragana.”
-「どういう風にしようかな。[H名]に似合う感じのデザインにしたいんだよね」=“So, how should I do this? I want to create a design that looks good on you, [H名].”
-「じゃあ、自分はキミに似合うデザインを考えるねー」=“Then I'll come up with a design that suits you-”
-「それじゃ、お互い作ったものをあとで交換しようか」=“Well, should we exchange our creations later?”
-「うん、そうしよー。キミに作ってもらった世界で一つだけの紅型……一生の宝物にするからー」=“Yeah, let's do that- You're making me a one-of-a-kind Bingata... that'll I treasure for the rest of my life-”
+「そういえば、紅型って何て読むか最初分からなかったよ」=“Reminds me, at first I couldn't understand at all how to read the kanji for stencil dyeing.”
+「普通は読めないはずさー。『びんがた』って平仮名で書いてある方が分かりやすいしねー」=“That's because it's not very readable~. It's easier to understand when you see it written down in hiragana~”
+「どういう風にしようかな。[H名]に似合う感じのデザインにしたいんだよね」=“Hmm, how should I do this? I wanna make something that'll look good on you, you know?”
+「じゃあ、自分はキミに似合うデザインを考えるねー」=“In that case, I'mma think of a design that'll look good on you too~”
+「それじゃ、お互い作ったものをあとで交換しようか」=“Well then, how about we just make something for each other and swap them at the end?”
+「うん、そうしよー。キミに作ってもらった世界で一つだけの紅型……一生の宝物にするからー」=“Yep, let's do that~. A unique stencil dyed piece, from my boyfriend... I'mma treasure it for my whole life~”

@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ありがとう。実は……俺も[H名]のことが好きだったんだ」=“Thank you. Actually...I like you too, [H名].”
-「じゃあ……自分……キミと恋人になれるー？」=“Then... I can become... your lover-?”
-「うん、もちろん。両想いなんだから、恋人にならない方がおかしいよ」=“Yeah, of course. We're both in love with each other, so it would be strange not be lovers.”
-「そっか……そうだよね！　自分はキミが好きで……キミは自分のこと、好きって言ってくれて……」=“I see... that's right! I love you... and you said that you loved me...”
-「よかったぁ。これでキミと、ほんとに恋人になれたんだねぇ。えへへ、かなさんどー♪」=“That's great. You and I are really lovers now. Ehehe, 'kana-san do'-♪”
-「かなさん？　ごめん……どういう意味？」=“'Kana-san'?　I'm sorry... what's that mean?”
-「あ、愛してるとか……大好きって意味よー。キミもたまに……言ってくれると嬉しいなぁ」=“Ah, that means... means 'I love you'- I'd be happy if you said it, sometimes.”
-「じゃあ早速……[H名]、かなさんどー」=“Well then, let's get right to it... [H名], 'kana-san do'...”
+「ありがとう。実は……俺も[H名]のことが好きだったんだ」=“Thank you. The truth is... I've also been in love with you, [H].”
+「じゃあ……自分……キミと恋人になれるー？」=“Then... can I... be your girl~?”
+「うん、もちろん。両想いなんだから、恋人にならない方がおかしいよ」=“Yep, of course. We both love each other, it'd be weirder to not start dating.”
+「そっか……そうだよね！　自分はキミが好きで……キミは自分のこと、好きって言ってくれて……」=“I see... you're right! I love you... and you said you, love me...”
+「よかったぁ。これでキミと、ほんとに恋人になれたんだねぇ。えへへ、かなさんどー♪」=“Thank god~. I finally got to become a couple with you, huh~. Eheheh, I love you~♪ (Dialect)”
+「かなさん？　ごめん……どういう意味？」=“Eh? Sorry... what does that mean?”
+「あ、愛してるとか……大好きって意味よー。キミもたまに……言ってくれると嬉しいなぁ」=“Ah, I love you... it means I love you tons and tons~. It'd make me happy if you could... say it like that too sometimes~”
+「じゃあ早速……[H名]、かなさんどー」=“Then, I'll start right now... [H], I love you (dialect).”

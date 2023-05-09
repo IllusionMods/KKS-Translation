@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えへ、でーじよかったさー♪　キミにお願いして正解だったねー」=“Ehe, I'm glad we did this-♪ You were right to ask me-”
-「ありがとー。気持ち良かったよー」=“Thanks- That felt good-”
-「悪くなかったはずー。ありがとー」=“It wasn't bad- Thank you-”
-「あい？　本当に終わっちゃうわけ？」=“Ahuu? You really done?”
+「えへ、でーじよかったさー♪　キミにお願いして正解だったねー」=“Eheh, that was super nice~♪ I made the right call asking you~”
+「ありがとー。気持ち良かったよー」=“Thanks~. That felt great~”
+「悪くなかったはずー。ありがとー」=“That wasn't bad~. Thanks~”
+「あい？　本当に終わっちゃうわけ？」=“Aaii? Are we seriously not doing it?”

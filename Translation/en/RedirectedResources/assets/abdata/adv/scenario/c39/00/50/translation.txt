@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「郷土料理もあるけど……普通のメニューがやっぱり多いね」=“There's some local dishes here... but there's still a lot of regular items.”
-「スパゲッティとかハンバーグとかねー。ホテルに泊まる人は外から来るわけだし、慣れた味が人気なのも分かるよー」=“Spaghetti, and hamburgers- Well, people who stay at hotels are foreigners, so I can understand why familiar tastes are popular-”
-「そっか、郷土料理を食べたければ民宿とかに行けばいいし……その辺りは上手く住み分けてる感じなのかな」=“I see. So if you want local cuisine, you have to go to a guest house, or something... I guess it's pretty separated around here.”
-「こういう小さな島はみんな仲良くが一番だからー。変な競争はしないんだろうねぇ」=“On a small island like this, it's best if everyone gets along. So I guess there's no strange competitions.”
-「じゃあ……せっかく島に来たんだからとか気にせず、ステーキを食べようかな」=“Well... let's just forget we came all the way out to the island. I think I'll have steak.”
-「実はこっちには、ステーキを食べる文化があるんだよー。おじーはよく飲んだ後のシメにステーキを食べてたさー」=“In fact, we have a culture of eating steak here. My uncle used to eat steak after a night of drinking.”
-「飲んだ後にステーキか……よく入るなぁ」=“Steak after drinking... how'd we get there?”
+「郷土料理もあるけど……普通のメニューがやっぱり多いね」=“They've got regional cuisine too but... the menu is mostly normal food, isn't it?”
+「スパゲッティとかハンバーグとかねー。ホテルに泊まる人は外から来るわけだし、慣れた味が人気なのも分かるよー」=“Yeah, stuff like spaghetti and hamburg steaks and whatnot~. The people staying here are all tourists, so it's understandable why these dishes are so popular~”
+「そっか、郷土料理を食べたければ民宿とかに行けばいいし……その辺りは上手く住み分けてる感じなのかな」=“I see, and if you wanna eat local cuisine, you can just go to a local inn instead... guess they've really split it that way.”
+「こういう小さな島はみんな仲良くが一番だからー。変な競争はしないんだろうねぇ」=“It's a small island, so everyone's gotta live harmoniously~. I imagine they don't go out of their way to compete~”
+「じゃあ……せっかく島に来たんだからとか気にせず、ステーキを食べようかな」=“Then... let's forget about coming all this way to this island or whatever. Maybe I'll go for a steak.”
+「実はこっちには、ステーキを食べる文化があるんだよー。おじーはよく飲んだ後のシメにステーキを食べてたさー」=“Actually, in my hometown, we have a culture of eating steak regularly~. My gramps tended to always go for a nice big one after drinking~”
+「飲んだ後にステーキか……よく入るなぁ」=“A steak after drinking, huh... I'm surprised he could even fit one in.”

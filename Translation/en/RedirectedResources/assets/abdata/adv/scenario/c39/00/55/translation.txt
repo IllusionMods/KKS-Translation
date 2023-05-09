@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「[Pあだ名]、はいたーい！」=“[Pあだ名], hai tai!”
-「……へ？　今なんて？」=“Eh...?　What, now?”
-「んぅ？　『はいたい』は『こんにちは』って意味の挨拶よー？　忘れちゃったー？」=“Nhuu? 'Hai tai' is a greeting that means 'hello', right-? Did you forget-?”
-「いや、そっちは分かってるんだけど……俺のこと、なんか違う呼び方しなかった？」=“No, I didn't forget... but didn't you call me by something different?”
-「えへへ、ちょっとあだ名で呼んでみよかなーって。どう？　馴れ馴れし過ぎたー？」=“Ehehe, I just thought I'd call you by your nickname- How was it? Or am I being too familiar-?”
-「そんなことないよ。いきなりで驚いたけど……あだ名で呼んでもらえて嬉しかった」=“Not at all. I was just surprised at the suddenness of it... I'm happy to be called by my nickname.”
-「よかったぁ。ならたまにはあだ名で呼んでもいーい？」=“That's good. Then you don't mind if I sometimes call you by your nickname-?”
-「もちろん。こっちからお願いしたいくらいだよ。[H名]と一気に距離が縮んだ気がするし」=“Of course. And I'd like to ask if I could do the same thing. I feel like I'm suddenly getting closer to you, [H名].”
-「じゃあ……キミも自分のこと、あだ名で呼んでくれたりするー？」=“Then... why don't you call me by my nickname?”
-「えっ、いいの？　うーん、それなら……[Hあだ名]とかどう？」=“Eh, so that's okay? Mmm... then how about... [Hあだ名]?”
-「はぅっ……うん、それでいいよー。なんか、あだ名で呼ばれるとくすぐったくなるねぇ……」=“Ahuu... yeah, that's good- It tickles me when you call me by my nickname...”
-「はは、そうだね。少しずつ使って慣れていこうか」=“Haha, you're right. Let's get used to them, little by little.”
+「[Pあだ名]、はいたーい！」=“[Pあだ名], aloha!”
+「……へ？　今なんて？」=“...Heh? What did you just?”
+「んぅ？　『はいたい』は『こんにちは』って意味の挨拶よー？　忘れちゃったー？」=“Nn~? That was a hi, you know~? Did you forget~?”
+「いや、そっちは分かってるんだけど……俺のこと、なんか違う呼び方しなかった？」=“No, of course not but... didn't you just call me something different there?”
+「えへへ、ちょっとあだ名で呼んでみよかなーって。どう？　馴れ馴れし過ぎたー？」=“Eheheh, I thought that maybe I'd call you by a nickname~. What do you think? Am I being too familiar~?”
+「そんなことないよ。いきなりで驚いたけど……あだ名で呼んでもらえて嬉しかった」=“Not at all. It did startle me how out of the blue it was but... it also made me happy.”
+「よかったぁ。ならたまにはあだ名で呼んでもいーい？」=“Thank god~. Is it okay if I call you that every so often then~?”
+「もちろん。こっちからお願いしたいくらいだよ。[H名]と一気に距離が縮んだ気がするし」=“Of course. I would never say no to that. Especially since it feels like we just got a whole lot closer all of a sudden.”
+「じゃあ……キミも自分のこと、あだ名で呼んでくれたりするー？」=“Then... do you wanna call me by a nickname too~?”
+「えっ、いいの？　うーん、それなら……[Hあだ名]とかどう？」=“Eh--, you sure? Nnn, in that case... how's [Hあだ名]?”
+「はぅっ……うん、それでいいよー。なんか、あだ名で呼ばれるとくすぐったくなるねぇ……」=“Hauu--... yep, that's fine~. Being called by a nickname, feels really ticklish, huh~...”
+「はは、そうだね。少しずつ使って慣れていこうか」=“Hahah, it sure does. Let's slowly get used to using them, bit by bit.”

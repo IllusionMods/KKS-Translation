@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「キミのこと、もっと知りたいって言ったら……迷惑かなー？」=“If I say that I wanted to know more about you... would it bother you-?”
-「全然迷惑じゃないよ！　でも、一つだけ条件が……」=“It wouldn't bother me at all!　But, there is one condition...”
-「なに？　訛りを直せとかは難しいよー？　これはもう、ちょっとやそっとで直るものじゃ……」=“What?　It's too hard to fix my accent or anything, you know-? That's not just something I can fix in a hurry...”
-「いや、訛りは可愛いからそのままで大丈夫。条件はその……俺も[H名]のことがもっと知りたいなって」=“No, you can keep your accent, it's cute. The condition is... I want to know more about you, too, [H名].”
-「じゃあ、お互い教えっこだねぇ。あとその、自分の訛り……可愛いってほんとに思ってくれてるのー？」=“Well, let's learn about each other. Also, do you... really think my accent's cute-?”
-「もちろん！　なんか特殊な方言とかあったら教えて欲しいくらいだよ」=“Of course!　If you have any special dialect, I'd like to learn it.”
-「えへへ、しに嬉しい！　えっとね『しに』とか『でーじ』は『とっても』って意味よー」=“Ehehe! So happy! Well, 'shini' and 'deji' mean very-”
+「キミのこと、もっと知りたいって言ったら……迷惑かなー？」=“If I said I wanted to get to know you more... would that be a bother~?”
+「全然迷惑じゃないよ！　でも、一つだけ条件が……」=“Not at all! But, I do have one condition...”
+「なに？　訛りを直せとかは難しいよー？　これはもう、ちょっとやそっとで直るものじゃ……」=“What? I can't fix my accent, you know~? It's not something I can just change willy nilly...”
+「いや、訛りは可愛いからそのままで大丈夫。条件はその……俺も[H名]のことがもっと知りたいなって」=“No, the way you talk is really cute so you're fine as you are. The condition is, well... I wanna get to know you more too, [H].”
+「じゃあ、お互い教えっこだねぇ。あとその、自分の訛り……可愛いってほんとに思ってくれてるのー？」=“Then, I guess we'll be teaching each other then~. Also, do you really think that my accent... is cute~?”
+「もちろん！　なんか特殊な方言とかあったら教えて欲しいくらいだよ」=“Of course! So much so, I almost want you to teach it to me too, along with your dialect.”
+「えへへ、しに嬉しい！　えっとね『しに』とか『でーじ』は『とっても』って意味よー」=“Eheheh, real gladly! Erhm also you can just use "real" as a modifier for just about anything~”

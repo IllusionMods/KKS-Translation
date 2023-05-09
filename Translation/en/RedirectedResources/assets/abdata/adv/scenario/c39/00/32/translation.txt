@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「灯台って、近くで見ると結構迫力あるよね」=“The lighthouse is pretty impressive when you see it up close, isn't it?”
-「うーん、キミと登ってみたかったけど……階段を使うのはちょっと無謀かもだねー」=“Hmm, I wanted to try climbing it with you... but taking the stairs might be a bit reckless-”
-「それは……二人で話しながらでも流石に疲れそうかな……」=“That... I think we'd be too tired to talk if we ended up doing that...”
-「ここは風が気持ちいいしねー。無理して登らなくても、お話してるだけで十分楽しいさー」=“The breeze feels good here- We don't have to force ourselves to climb it. Just talking is fun enough-”
-「そうだね。今度来る時はお弁当でも持ってきて、二人で食べたいかも」=“That's right. Maybe, the next time we come here, we might want to bring lunches and eat them together.”
-「それ、大賛成！　先に言ってくれたら、キミの分も自分がお弁当作るよー。楽しみにしててー」=“I'm all for it!　If you tell me first, I'll make lunch for you, too- Look forward to it-”
+「灯台って、近くで見ると結構迫力あるよね」=“Lighthouses really hit different from so up close, don't they?”
+「うーん、キミと登ってみたかったけど……階段を使うのはちょっと無謀かもだねー」=“Nnnn, I wanted to try climbing to the top with you... but it might be a bit much to take the stairs all the way to the top~”
+「それは……二人で話しながらでも流石に疲れそうかな……」=“That's... I could see ourselves getting bored even while chatting...”
+「ここは風が気持ちいいしねー。無理して登らなくても、お話してるだけで十分楽しいさー」=“The breeze feels really nice here too~. We don't really need to go climb it, we can just chat and have fun~”
+「そうだね。今度来る時はお弁当でも持ってきて、二人で食べたいかも」=“Yeah. It might be nice to bring some lunch boxes with us next time, and eat them here.”
+「それ、大賛成！　先に言ってくれたら、キミの分も自分がお弁当作るよー。楽しみにしててー」=“I'd love that! If you just let me know the day before, I'll make one box for you too~. Look forward to it~”

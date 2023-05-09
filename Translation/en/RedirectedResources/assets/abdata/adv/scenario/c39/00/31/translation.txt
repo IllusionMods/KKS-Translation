@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「お店に来てみたけど……これって観光になってるのかな？」=“So, we're at the store... I guess this is sightseeing, too?”
-「立派な観光よー。ご当地のお土産とかもあるし、雰囲気だってキミが住んでる所と違うでしょう？」=“It's great sightseeing- There's local souvenirs, and they atmosphere's different from where we live, isn't it?”
-「確かに……雰囲気はけっこう違うし、珍しいものがいっぱいある気がする」=“Definitely... the atmosphere is quite different, and I guess there's a bunch of unusual stuff.”
-「そうそう、そういう所を見つけるのが楽しいさー。似てるからって全部同じだと思ったら勿体ないからねー」=“Right, right. It's great to find places like this- I'd be a shame to think that just because they all look alike, that they're the same-”
-「確かに……なんか、[H名]って案外大人なんだね。そこが今日一番の発見かな」=“Indeed... you know, you're a lot more mature than I thought,[H名]. That's probably my best discovery of the day.”
-「もう、案外は余計さー。ほら、観光に来たんだから……もっと周りをよく見て―」=“Geez, that's too much- Hey, we're here for sightseeing... let's look around some more-”
+「お店に来てみたけど……これって観光になってるのかな？」=“Well, we came to this shop but... is this really sightseeing?”
+「立派な観光よー。ご当地のお土産とかもあるし、雰囲気だってキミが住んでる所と違うでしょう？」=“As sightseeing as sightseeing gets~. Every place has its own local souvenirs and, even just the air is different from your hometown, no?”
+「確かに……雰囲気はけっこう違うし、珍しいものがいっぱいある気がする」=“For sure... the air's pretty different, and I feel like there's a lot of stuff you normally don't see back home.”
+「そうそう、そういう所を見つけるのが楽しいさー。似てるからって全部同じだと思ったら勿体ないからねー」=“Exactly, the real fun is finding stuff like that~. Just because it's got a similar name and looks kinda similar doesn't mean it's all the same, okay~?”
+「確かに……なんか、[H名]って案外大人なんだね。そこが今日一番の発見かな」=“For sure... underneath all that, you're a pretty mature person, aren't you? That might be the biggest discovery we make today.”
+「もう、案外は余計さー。ほら、観光に来たんだから……もっと周りをよく見て―」=“Jeez, what do you mean "all that"~? C'mon, we came to sightsee... so look around us more~”
