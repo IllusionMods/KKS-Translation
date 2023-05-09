@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっとお土産を見てみようよ」=“Let's take a little look at the souvenirs.”
-「ん、ああ、いいけど」=“Mmm, ahh, yeah sure.”
-「うーん？　どうしようかな」=“Mmmm? Now what should I get.”
-「泡盛って書いてあるけど……[H名]、それ買うの？」=“Looks like that's a local alcohol specialty... you sure you're buying that, [H名]?”
-「ダサいかな？　……ぶっちゃけ、私ってこういうの選ぶセンスがなくってさ」=“You think it's lame? To be honest, I don't have a clue on what to pick for these kinds of things.”
-「でも、せっかく来たんだし記念になんか欲しい気もする」=“But, it'd be a waste too coming all the way out here with nothing to commemorate.”
-「まあ、急ぐようなことでもないしゆっくり気に入るものを探せば……」=“Well, it's not like we're in a hurry, so let's take our time to find something you like...”
-「そうだ！　お前が私に似合いそうなの選んでくれよ」=“Oh I know!  Pick something that'll look good on me.”
-「俺？　無理無理。女の子の好みなんて、それこそわからないって」=“Me? No way. I have no idea what girls like.”
-「いいじゃん。お前が選んでくれたものなら、なんでも気に入るだろうし」=“Don't worry. I'm sure I'll love whatever you pick out for me.”
-「そ、そんな言われ方したら、ますますプレッシャーだよ」=“T-That's a lot of pressure when you put it that way.”
-「いいじゃん。なー……あ、なんならお揃いとかでもいいぞ」=“Oh come on, please... Oooh, how about a matching set for the both of us.”
-「無理無理、選べないってば」=“Nope nope. Like I said, I can't just pick one.”
-「お前が選んだのがいいなぁって私の中で決まっちゃったんだってば。なー、選んでくれよー金は払うから」=“Come on, I've already decided that I want the one you chose. Please~, I'll even go and pay for it.”
-「プレッシャーがえぐすぎる！」=“Way to bring on the pressure there!”
+「ちょっとお土産を見てみようよ」=“Let's go look at souvenirs a bit.”
+「ん、ああ、いいけど」=“Nn, aah, sure I guess.”
+「うーん？　どうしようかな」=“Nnnn? I wonder.”
+「泡盛って書いてあるけど……[H名]、それ買うの？」=“It's got "Awamori" on it... [H], are you gonna buy that?”
+「ダサいかな？　……ぶっちゃけ、私ってこういうの選ぶセンスがなくってさ」=“Does it look lame? ...I'mma be honest, I've got no sense of this sorta thing.”
+「でも、せっかく来たんだし記念になんか欲しい気もする」=“But, we came all the way here so I kinda want some sort of memento too, you know?”
+「まあ、急ぐようなことでもないしゆっくり気に入るものを探せば……」=“Well, it's not like we're heading back home in a rush so just take your time and find something you...”
+「そうだ！　お前が私に似合いそうなの選んでくれよ」=“Right! Pick something for me, that you think fits me.”
+「俺？　無理無理。女の子の好みなんて、それこそわからないって」=“Me? No way, not happening. I don't get what sort of stuff girls like myself either.”
+「いいじゃん。お前が選んでくれたものなら、なんでも気に入るだろうし」=“Innit fine? If it's something you think is nice, I'mma probably like it too.”
+「そ、そんな言われ方したら、ますますプレッシャーだよ」=“Y-You're not helping, seriously. Whatever happened to "No pressure"?”
+「いいじゃん。なー……あ、なんならお揃いとかでもいいぞ」=“It's fine~. Hey~... ah, we could even go for something matching, like something paired or whatever.”
+「無理無理、選べないってば」=“No way, I can't, seriously.”
+「お前が選んだのがいいなぁって私の中で決まっちゃったんだってば。なー、選んでくれよー金は払うから」=“I've already made up my mind that I'mma get something that you pick out, dummy. C'mon~, pick something, I'mma cough up the cash for it~”
+「プレッシャーがえぐすぎる！」=“You're seriously not helping there.”

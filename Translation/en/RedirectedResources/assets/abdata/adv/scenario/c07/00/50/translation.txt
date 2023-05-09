@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ボリュームたっぷりのステーキだね。[H名]は食べきれる？」=“That's quite the big steak. Can you eat all of that, [H名]?”
-「当ったり前だろ。この肉を完食できない私は、私じゃないぜ」=“Of course I can. If I can't polish this meat off, I'm not me, man.”
-「言ってる意味はよく分かんないけど、大丈夫なら良かったよ」=“Not sure what you're saying there, but I'm glad you're alright with it.”
-「ああ、任せろ。しかし、この島はステーキが有名だったんだな。来るまで全然知らなかった」=“Yeah, I've got this. The island's famous for its steaks. I had no idea until I got here.”
-「確かに、そんなイメージは俺もなかったなー」=“You're right. I certainly didn't imagine they did.”
-「こんなに大きいステーキを食べられるなんて……感涙ものだ！　本当にここへ来てよかったぜ！」=“I never thought I'd be able to east a steak this big... I'm moved to tears! I'm so glad we came here!”
-「……島での思い出、全部ステーキで上書きされてない？」=“...are all your memories of the island gonna be overwritten by steak?”
+「ボリュームたっぷりのステーキだね。[H名]は食べきれる？」=“That's a big steak if I've ever seen one. Think you can finish it?”
+「当ったり前だろ。この肉を完食できない私は、私じゃないぜ」=“Who do you think you're talking to? Any me who can't down meat like this, ain't me.”
+「言ってる意味はよく分かんないけど、大丈夫なら良かったよ」=“Well, as long as you're fine with it, that's all that matters.”
+「ああ、任せろ。しかし、この島はステーキが有名だったんだな。来るまで全然知らなかった」=“Yeah, leave it to me. Still, this island has a pretty famous steak, huh? I didn't know at all, until we got here.”
+「確かに、そんなイメージは俺もなかったなー」=“For sure, almost doesn't fit this sort of place, does it?”
+「こんなに大きいステーキを食べられるなんて……感涙ものだ！　本当にここへ来てよかったぜ！」=“To think I get to feast on a steak like this... I'm almost moved to tears! I truly am glad we came here!”
+「……島での思い出、全部ステーキで上書きされてない？」=“...Don't let all the memories of this island be overwritten by just one steak now.”
