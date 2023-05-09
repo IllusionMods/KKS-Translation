@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 「すぅ……すぅ…………ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
-（んぅ……すごく気持ちいいような……いったい、何が……？）=(Nnn... It feels really good... Just what......?)
+（んぅ……すごく気持ちいいような……いったい、何が……？）=(Nn... Something feels amazing... just what, is it...?)
 「…………」=“...”
 「ちょ、まっ……！　なんで、俺のが[H名]の中に……っ！？」=“Hey--, wai--...! Why is, my thing inside...?!”
 「えへへ、キミのを美味しくいただいちゃってるよー。おはようのセックス、どうかなー……？」=“Eheheh, I'm gobbling up your thing right now~. Do you like, wake-up sex~...?”

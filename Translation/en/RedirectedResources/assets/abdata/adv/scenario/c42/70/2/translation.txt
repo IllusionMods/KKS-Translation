@@ -24,7 +24,7 @@
 「それで……どうかな？　こんなことを言われて迷惑だった？」=“So... how about it? Did I bother you, by saying all that stuff?”
 「ううん……。私も……私も、キミのこと良いって思ってたから」=“No... I... I've been, thinking of you too.”
 「胸の真ん中らへんが、キミの言葉を聞いただけでさっきからずっとキュンキュンしてるんだもん」=“Just hearing you say all that's been making my heart squeeze non stop for the past little bit, I mean.”
-「[H名]……」=“[H名]...”
+「[H名]……」=“[H]...”
 「えへへ。すごく恥ずかしくて、どう言ったら良いかわかんないけど……えっと、ね」=“Eheheh. It's so embarrassing, I dunno how to even say it... erhm, so.”
 「私もキミのことが好き。胸がドキドキしちゃうくらい、好きだよ」=“I love you too. So much so, it makes my heart pound.”
 「本当……？　それじゃあ、付き合ってくれる、かな？」=“Really...? Will you, go out with me, then?”

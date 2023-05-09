@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ねぇねぇ、[Pあだ名]」=“Hey, hey, [Pあだ名].”
+「ねぇねぇ、[Pあだ名]」=“Heyhey, [Pあだ名].”
 「えっ、どうしたの急に？」=“Eh--, what's all this now?”
 「深い意味はないよー。ただ、ちょっといつもと違う風に呼んでみようかなって思って……えへへ」=“There's no deep meaning behind it~. I just thought that maybe I'd try to call you something different from what I usually do... eheheh.”
 「そうなんだ。いきなりだからビックリしたよ」=“I see. It startled me since it was so out of nowhere.”
