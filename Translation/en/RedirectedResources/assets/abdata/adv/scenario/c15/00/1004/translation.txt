@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「浜辺は気持ちいいね。ちょっと散歩しようか？」=“It's nice here, on the beach. Want to go for a little walk?”
-「…………おー」=“...oh-”
-「[H名]、さっきからずっと海の方を見てるね？　何かあるの？」=“You've been studying the ocean for a while now, haven't you, [H名]? Something up?”
-「海があるぞ」=“It's the ocean.”
-「そりゃそうだ」=“Well, that's true.”
-「海はそこまで馴染みがないからな。見てるだけで面白いぞ」=“I don't know much about the ocean. I feel strange, just looking at it.”
-「そういうもの？」=“What about it?”
-「キミは観察が足りないんだ。もっと集中したら、色んなものが見えてくる」=“You're not observant enough. If you focus more, you'll see many things.”
-「波の動きとか、風の匂いとか。そういうのみんな海の息遣いなんだそ」=“The movement of the waves. The smell of the wind. They're all the breath of the sea.”
-（スケールの大きな話になったきた……）=(This is turning into quite the conversation...)
-「はあっ、すごいなー海は」=“Ahhhaa! The ocean is amazing.”
-「おっと、ごめん。キミは退屈かー？　他のとこに行ってもいいぞ」=“Er, uh, sorry. Am I boring you-? We can go somewhere else.”
-「気にしなくていいよ。俺もだんだん、海の息遣いわかるようになってきたところ」=“You don't have to worry about it. I'm starting to understand what you mean by the breath of the sea.”
-「あはは、ホントかー？」=“Ahaha, oh really?”
-「ホント、ホント」=“Really, really.”
-「……キミは優しいな。そういうところが大好きだぞ」=“...you're so sweet. I love that about you.”
-「そ、そっか、ありがとう……」=“...I... I see... thanks...”
-「ふぅ。キレイだ、本当に」=“Fu. It really is beautiful.”
-「こうやって見てると……なんだか、あれだな？　わーって海に飛び込みたくなるな」=“When I look at it, I'm like... what the hell is this? It makes me want to scream, and jump into the sea.”
-「それはやめて」=“Don't do that.”
+「浜辺は気持ちいいね。ちょっと散歩しようか？」=“The beach feels really nice, doesn't it? Wanna go for a short walk?”
+「…………おー」=“...Oh~”
+「[H名]、さっきからずっと海の方を見てるね？　何かあるの？」=“You've been starting at the sea for a while now, haven't you? Is there something there?”
+「海があるぞ」=“There's the sea there.”
+「そりゃそうだ」=“Well, yeah.”
+「海はそこまで馴染みがないからな。見てるだけで面白いぞ」=“I'm not really used to seeing the sea, you know? Just looking at it is so fun.”
+「そういうもの？」=“That so?”
+「キミは観察が足りないんだ。もっと集中したら、色んなものが見えてくる」=“You don't look at things enough. I bet if you really tried to focus on things, you'd end up seeing a whole lot.”
+「波の動きとか、風の匂いとか。そういうのみんな海の息遣いなんだそ」=“Like the rolling of the waves, or the smell of the breeze. All of those things added up together make up the breath of the sea.”
+（スケールの大きな話になったきた……）=(And the scale suddenly went big...)
+「はあっ、すごいなー海は」=“Haah--, the sea sure is amazing~”
+「おっと、ごめん。キミは退屈かー？　他のとこに行ってもいいぞ」=“Woah, sorry. Am I boring you~? I don't mind if we go somewhere else.”
+「気にしなくていいよ。俺もだんだん、海の息遣いわかるようになってきたところ」=“Nah, don't worry about it. I was just starting to see myself what you meant there, with the breath of the sea.”
+「あはは、ホントかー？」=“Ahahah, you mean that~?”
+「ホント、ホント」=“I do, I feel it.”
+「……キミは優しいな。そういうところが大好きだぞ」=“...You're really sweet, you know. I love that side of you.”
+「そ、そっか、ありがとう……」=“D-Do you, thanks...”
+「ふぅ。キレイだ、本当に」=“Fuh. It's beautiful... it really is.”
+「こうやって見てると……なんだか、あれだな？　わーって海に飛び込みたくなるな」=“Looking at it like this... it kinda, you know? It kinda makes me wanna just leap out in there.”
+「それはやめて」=“Don't.”

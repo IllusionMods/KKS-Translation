@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「カップルドリンクだって。頼んでみよう」=“There's a drink for couples. Let order one.”
-「おー、よくわかんないから任せるぞ」=“Oh- I'm not sure about that. I'll leave the decision to you.”
-「あはは！　なんだこれジュースか？　でっかいなー」=“Ahaha! What's with this drink? It's huge-”
-「それに、キラキラだ。グラスの中が宝石箱みたいに光ってるぞ」=“And it's sparkling. The inside of the glass is shining like a jewelry box.”
-「お、詩的だ」=“Oh, how poetic.”
-「シテキってなんだ？」=“Isn't that sexy?”
-「別に意識した発言ではなかったわけね」=“I said that without thinking.”
-「なーなー、これ飲んでいいんだろ？　みんなあたしのか？」=“Na- na- Are you even allowed to drink this? Or is it all for me?”
-「[H名]はイマイチ、カップルドリンクを理解してないよね」=“You're awful, [H名]. You don't understand the point behind a couple's drink.”
-「ジュースだろ？」=“It's a drink, right?”
-「二人で飲んでねってジュースだよ。二人で顔を近づけて……どう？　照れたりしない？」=“It's a drink we're supposed to share. We put our faces together and... what's this? You embarrassed?”
-「あはは、照れるわけないだろ」=“Ahaha, how could I be embarrassed?”
-「忘れたのか？　あたし達はお付き合いしてるんだぞ。恋人だ」=“Have you forgotten? We're in a relationship. Sweethearts.”
-「わ、忘れてるわけないから」=“I-I haven't forgotten.”
-「だったら顔を近づけるくらい平気だろ？　変なやつだなー」=“So, you're not afraid to put your face close to mine? You're one strange guy-”
-「……[H名]が正しい、のか？」=“...is that right, [H名]?”
-「そかそか、二人で飲むのか。せーので一緒にだぞ？　遅れるなよ」=“Alright, alright, let's drink this together. Just for the sake of it, okay? Don't hold back.”
-（逆に俺が意識してたのが恥ずかしくなってきた……）=“Actually, now that I'm aware of it, I am getting embarrassed...)
+「カップルドリンクだって。頼んでみよう」=“A couples' drink, it says. Let's go for it.”
+「おー、よくわかんないから任せるぞ」=“Oh~, I don't get this stuff so sure, I'mma leave it to you.”
+「あはは！　なんだこれジュースか？　でっかいなー」=“Ahahah! What, is this juice? Man, it's so big~”
+「それに、キラキラだ。グラスの中が宝石箱みたいに光ってるぞ」=“Not to mention sparkly. The glass is shimmering like a treasure box or something.”
+「お、詩的だ」=“Oh, that's kinda poetic.”
+「シテキってなんだ？」=“What now?”
+「別に意識した発言ではなかったわけね」=“I see you didn't really intend it to be.”
+「なーなー、これ飲んでいいんだろ？　みんなあたしのか？」=“Hey hey~, I can drink this, right? Is it all mine?”
+「[H名]はイマイチ、カップルドリンクを理解してないよね」=“You don't really understand what a couples' drink is, do you, [H]?”
+「ジュースだろ？」=“It's just juice, no?”
+「二人で飲んでねってジュースだよ。二人で顔を近づけて……どう？　照れたりしない？」=“It's juice you're supposed to drink together. By bringing our faces up close together... so? You blushing yet?”
+「あはは、照れるわけないだろ」=“Ahahah, no way. Do you really think I would?”
+「忘れたのか？　あたし達はお付き合いしてるんだぞ。恋人だ」=“Did you forget? We're already dating. We love each other.”
+「わ、忘れてるわけないから」=“N-No way I could forget.”
+「だったら顔を近づけるくらい平気だろ？　変なやつだなー」=“So getting up close like this should be no big deal, no~? You're being weird~”
+「……[H名]が正しい、のか？」=“...Am I the, unreasonable one here?”
+「そかそか、二人で飲むのか。せーので一緒にだぞ？　遅れるなよ」=“I see I see, so you drink this thing together, huh? We're going in on 3, okay? Don't miss it.”
+（逆に俺が意識してたのが恥ずかしくなってきた……）=(If anything, now I'm feeling embarrassed for overthinking it so much...)

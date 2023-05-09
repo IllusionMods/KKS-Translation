@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「シーサーを作るのって……なかなか難しいんだなー」=“Making a Shisa... is pretty hard-”
-「見本を見ながらやればいいんじゃない？」=“Shouldn't you be referring to the example?”
-「見てるぞー……見てるけど、難しいんだー」=“I am looking at it- ...I'm looking at it, but it's still hard-”
-「そうなると……もう頑張ってとしか言えないかな」=“If that's the case... well, I guess all can say is 'good luck with that'.”
-「おぉ、頑張るぞー！」=“Ohhh, I'm doing my best-!”
+「シーサーを作るのって……なかなか難しいんだなー」=“Making shisas... is pretty hard, isn't it~”
+「見本を見ながらやればいいんじゃない？」=“Isn't it easy enough to do it with the sample as a guide?”
+「見てるぞー……見てるけど、難しいんだー」=“I'm looking at it~... I am but, it's still hard~”
+「そうなると……もう頑張ってとしか言えないかな」=“I mean... I can't say much except "do your best", really.”
+「おぉ、頑張るぞー！」=“Yeah, I'mma do my best~!”
