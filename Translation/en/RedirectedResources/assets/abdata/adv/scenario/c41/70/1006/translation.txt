@@ -22,4 +22,4 @@
 「うん。そうじゃないとウムイの鐘に一緒に来たりしないよ」=“Yep. I wouldn't have brought you here otherwise.”
 「……ありがとう。ボク、キミに会えて本当によかったな。女の子として、一番嬉しいよ」=“...Thanks. I really am glad I met you. I'm really happy right now, as a girl.”
 「そう言ってくれると俺も嬉しい。それじゃあ、結婚まで二人が一緒にいられるように、絶対結ばれる鐘の御利益に預かろうか」=“Hearing you say that makes me happy too. Well then, let's ring this bell together then, shall we? Just to make sure we stay together until we get hitched.”
-「うん……！」=“Yeah...!”
+「うん……！」=“Okay...!”

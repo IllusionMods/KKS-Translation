@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 「こんばんはー。ボクだけど、いる？　連絡もしないで来ちゃってごめんね。急に会いたくなっちゃって……」=“Hey~. It's me, are you in? Sorry for coming without calling or anything. I just wanted to see you...”
-SELECTION:「返事をする」=Respond
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
 「[H名]？　もう夜だけど、どうしたの？」=“[H]? It's already night out, what's wrong?”
 「あ……うん、そう、夜だけど……というより、夜だから、かな？　キミのことを考えてたら、どうしても会いたくなっちゃって……」=“Ah... yeah, that's right, it's already night... no, more like, because it's night? I started thinking about you, and I just couldn't help myself anymore...”

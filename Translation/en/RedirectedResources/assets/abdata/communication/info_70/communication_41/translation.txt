@@ -34,7 +34,7 @@
 「[H名]って恋愛に興味ある？」=“Do you have an interest in romance?”
 「え……ちょっと恥ずかしいけど、あると思う。え、え、キミもあるよね？　普通だよね？」=“Eh... it's a bit embarrassing to admit but, I do. E-Eh, you do too, right? It's normal, right?”
 「興味がないわけじゃないけど、付き合ったことがないから全然想像できないんだよね」=“I won't say I don't have any interest but, I've never dated anyone so I can't even begin to imagine that stuff, you know?”
-「好きな男性のタイプってある？」=“Do you have a type, in terms of guys?”
+「好きな男性のタイプってある？」=“Got a type of guy that you like?”
 「うーん……ボクを受け入れてくれる人、かなぁ」=“Nnnn... Someone who'd accept me, I guess~”
 「パッと思いついたのは、お互いを尊重し合える人かな……大事だと思うから」=“The first thing that popped into my head on that, was that I wanna date someone who gets the value of mutual respect... I think it's very important.”
 「えっ……改めて聞かれると、わからないかも。ごめんね、恋愛経験なくて……」=“Eh--... when you ask me directly like that, I don't know if I have an answer. I'm sorry, I have no experience with romance...”

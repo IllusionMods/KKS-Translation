@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? What do you wanna do?”
+「えっと……混ざりたいの？　……どうする？」=“Erhm... you wanna join us? ...What do you say?”
 「なんだか大変なことになっちゃったね……あ、嫌ってことじゃないよ、ボクは大丈夫だから」=“This is getting pretty big, isn't it... ah, I'm not saying I mind, I'm fine with it.”
 「えっと……混ざりたいの？　俺はいいけど……」=“Erhm... you wanna join us? I'm fine with it but...”
 「ボクは全然大丈夫。みんなでエッチなこと、楽しんじゃおうよ」=“I'm completely fine with it. Let's enjoy some fun stuff together, all of us.”
