@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「なかなか楽しかったわ。機会があれば、また二人で一緒に回りましょ」=“That was pretty fun. Let's go around here together again, if we get the chance.”
+「なかなか楽しかったわ。機会があれば、また二人で一緒に回りましょ」=“That was pretty fun. Let's do that again, if we get another chance.”

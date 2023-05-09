@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「美味しくて、箸が止まらなくなっちゃいそうだ」=“This is so delicious, I can't stop eating it.”
-「ふふ、料理は逃げないんだから落ち着いて？　ほら、口元が汚れちゃってるわ」=“Fufu, relax. The food isn't going anywhere, okay? Look, your mouth's getting dirty.”
-「えっ、本当？　恥ずかしいところ見せてごめん！　右側？　それとも左側かな？」=“Eh, really? I'm sorry to embarrass you! The right side? Or is it on the left side?”
-「左側よ。私が拭いてもいいけど？」=“Left side. Want me to wipe it off?”
-「いや、一人でできるから大丈夫！」=“No, I'm fine doing it myself!”
+「美味しくて、箸が止まらなくなっちゃいそうだ」=“It's so good, I can feel my chopsticks taking control of the steering wheel here.”
+「ふふ、料理は逃げないんだから落ち着いて？　ほら、口元が汚れちゃってるわ」=“Fufuh, the food's not gonna run away, so calm down? Look, you've got some on your face.”
+「えっ、本当？　恥ずかしいところ見せてごめん！　右側？　それとも左側かな？」=“Eh--, really? Sorry, that must look pathetic! Is it on the right? Or the left side?”
+「左側よ。私が拭いてもいいけど？」=“The left. Want me to wipe it off for you?”
+「いや、一人でできるから大丈夫！」=“No, I can do it myself, don't worry!”

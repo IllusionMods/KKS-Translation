@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「すぅ……すぅ…………ん、んん……」=“Zzz... zzz... Nn, nnnn...”
+「すぅ……すぅ…………ん、んん……」=“*snore*... *snore*... nn, nnnnn...”
 （んぅ……すごく気持ちいいような……いったい、何が……？）=(Nnn... something feels amazing... just what is it...?)
 「…………」=“...”
 「へっ！　ど、どうして俺の上に……？」=“Eh--! W-Why are you on...?”

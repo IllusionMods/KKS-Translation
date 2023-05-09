@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「うんっ、歯がいらないくらいお肉が柔らかくて美味しい！」=“Yeah! The meat's so tender and delicious that you barely need to chew it!”
-「コラーゲンがたっぷり入ってるからお肌にもいいのよね～」=“And it contains plenty of collagen, so it's good for your skin～”
-「へぇ、そうなんだ。美容にいいものって聞くと、やっぱりたくさん食べたくなるの？」=“Ahem, I see. So, when you hear that something's good for your beauty, do you want to eat a lot of it?”
-「積極的に取り入れたくはなるけど、食べ過ぎたらカロリー過多になって本末転倒でしょ？」=“It's tempting to take it proactively, but if you eat too much, you'll end up consuming too many calories, right?”
-「何事もバランスよくが大切よ」=“Balance is important in everything.”
+「うんっ、歯がいらないくらいお肉が柔らかくて美味しい！」=“Yeah--, the meat's so tender you don't even need teeth, honestly!”
+「コラーゲンがたっぷり入ってるからお肌にもいいのよね～」=“It's got lots of collagen in it so I bet it's great for your skin too~”
+「へぇ、そうなんだ。美容にいいものって聞くと、やっぱりたくさん食べたくなるの？」=“Hoh, I didn't know that. Does hearing something's good for your beauty make you wanna eat that thing lots afterall?”
+「積極的に取り入れたくはなるけど、食べ過ぎたらカロリー過多になって本末転倒でしょ？」=“It does but, if I overeat it'd be too many calories, and that'd just be putting the cart before the horse, no?”
+「何事もバランスよくが大切よ」=“Balance is important in all things.”

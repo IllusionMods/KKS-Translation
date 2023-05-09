@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「色々なアクティビティがあるわね～」=“There's a lot of activities here~”
-「なにか気になるものはある？」=“Something bothering you?”
-「そうねぇ、やっぱり二人で楽しめるものかしら」=“Well, look, I'm wondering if there's something the both of us can enjoy together.”
-「じゃあ一人でしか出来ないやつは除外してと……それでもけっこうな数があるね」=“So, that leaves out all the solo activities... still, there's still quite a few things left.”
-「君と二人なら何でも楽しめるのは間違いないんだし……とりあえず目に付いたこれにするわ♪」=“I'm pretty sure that you and I could have fun with anything... but for now, I spotted something we can do♪”
-「わかった、それじゃあ申し込んでくるよ」=“Alright, then I'll go sign us up, then.”
+「色々なアクティビティがあるわね～」=“There's all sorts of activities, aren't there~”
+「なにか気になるものはある？」=“Is there anything that catches your eye?”
+「そうねぇ、やっぱり二人で楽しめるものかしら」=“Let's see, it's gotta be something we can enjoy together, for one.”
+「じゃあ一人でしか出来ないやつは除外してと……それでもけっこうな数があるね」=“That takes out all the one-person-only activities then... still, there's a whole lot left, aren't there?”
+「君と二人なら何でも楽しめるのは間違いないんだし……とりあえず目に付いたこれにするわ♪」=“If we're together, I can see myself enjoying just about anything so... I'll go with this, if for no reason than my eye went to it first♪”
+「わかった、それじゃあ申し込んでくるよ」=“Got it, let's sign up for it then.”

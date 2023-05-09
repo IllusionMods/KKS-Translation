@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「う～ん、ここは潮風が気持ちいいわね」=“Mmm-hmm, the breeze from the ocean feels so good here.”
-「そうだね、広大な自然をのびのびと感じられる場所だ」=“You're right. This is somewhere where you can just relax, and enjoy the vastness of nature.”
-「開放的な気分になって、ちょっと大胆なことをしちゃうかも……」=“I'm feeling so open-minded, I might end up doing something a little daring...”
-「えっ！？　だ、大胆なこと……？」=“Eh!? Something daring...?”
-「ふふっ、なにを慌ててるの？　冗談よ、冗談♪」=“Fufu! What the rush? Kidding, just kidding♪”
+「う～ん、ここは潮風が気持ちいいわね」=“Nnn~, the salty breeze here feels really nice, doesn't it?”
+「そうだね、広大な自然をのびのびと感じられる場所だ」=“It does, what a great place to feel the raw nature spread out before us.”
+「開放的な気分になって、ちょっと大胆なことをしちゃうかも……」=“I might end up getting a bit liberal and doing some bold stuff, even...”
+「えっ！？　だ、大胆なこと……？」=“Eh--!? B-Bold stuff...?”
+「ふふっ、なにを慌ててるの？　冗談よ、冗談♪」=“Fufuh--, what're you getting flustered over? It's a joke, a joke♪”

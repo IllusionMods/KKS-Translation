@@ -2,9 +2,9 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 // Reviewer: line 8 kicked my butt, something about between "distant" from someone
-「さてと、せっかく海に来たんだし一緒に泳いじゃう？」=“Well, now we're here at the beach, why don't we take a swim together?”
-「えっと……今日はのんびりと歩くぐらいがいいかな」=“Er, um... I think I'd rather take a nice, leisurely stroll now.”
-「そうなの？　ふふ、意外と奥手なのね」=“Is that so? Fufu, you're surprisingly reserved.”
-「だって、いきなりそんな距離感で来られたら困るでしょ？」=“Is that because you don't want to come at me from that distance?”
-「君が本当にその気なら、私は別にいいけど？」=“If that's what you really want, I'm totally fine with that, okay?”
-（うっ……勇気を出せばよかった）=(Uuu... I should have been shown more courage.)
+「さてと、せっかく海に来たんだし一緒に泳いじゃう？」=“So then, we came all this way to the sea, want to go for a dip?”
+「えっと……今日はのんびりと歩くぐらいがいいかな」=“Erhm... I'd rather just take a relaxing walk for today, personally.”
+「そうなの？　ふふ、意外と奥手なのね」=“Really? Fufuh, you're quite shy under all that, aren't you?”
+「だって、いきなりそんな距離感で来られたら困るでしょ？」=“I mean, if I came on to you acting like a buddy of 10 years, that'd bother you too, no?”
+「君が本当にその気なら、私は別にいいけど？」=“I mean, I wouldn't really mind that myself, you know?”
+（うっ……勇気を出せばよかった）=(Uu--... I should have just gone for it.)

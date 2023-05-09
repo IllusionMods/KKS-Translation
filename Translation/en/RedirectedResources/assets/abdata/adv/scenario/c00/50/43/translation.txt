@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ふんふん、ふーん♪」=“Hmm hmm, hmmm-♪”
-「おおっ、すごい……筆に迷いがないね」=“Ohhh, amazing... your brush never hesitates.”
-「完成図が頭に浮かんでるの。だからあとはその通りに塗っていくだけよ」=“I have the finished picture in my head. So, all that's left to do is to paint it just exactly like that.”
-「……俺も塗って貰おうかな」=“...I guess I'll paint mine that way, too.”
-「私は別にいいけど……でも、自分で完成させた方が愛着がわくんじゃない？」=“It's not that I mind... but wouldn't you be attached to it more if you completed it your own way?”
-「確かに、その通りだ。よしっ、俺も負けない様に頑張るよ」=“Yes, you're absolutely right. All right, I'll do my best to keep up.”
+「ふんふん、ふーん♪」=“Fuhnfuhn, fuhn~♪”
+「おおっ、すごい……筆に迷いがないね」=“Ooh--, amazing... not even a single bad stroke there.”
+「完成図が頭に浮かんでるの。だからあとはその通りに塗っていくだけよ」=“I've got a finished piece in my head that I want. So all that's left is to just move the brush to achieve it.”
+「……俺も塗って貰おうかな」=“...Maybe I'll have you do mine too.”
+「私は別にいいけど……でも、自分で完成させた方が愛着がわくんじゃない？」=“I don't really mind... but, won't doing it yourself make you like it more?”
+「確かに、その通りだ。よしっ、俺も負けない様に頑張るよ」=“You're not wrong about that, at all. Alright--, I'll put in my all too, wouldn't do to lose without even trying.”

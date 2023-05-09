@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「この滝がパワースポットなんだって」=“I've heard the waterfall's a power spot.”
-「その話を聞いた瞬間にありがたみを感じちゃった。我ながら現金だって思うわ」=“The first thing I heard about it was how powerful it was. I can feel the energy for myself.”
-「はは……でも、確かになんの触れ込みもなかったら、『滝だなー』って感想しかなかった気がするなぁ」=“Haha... but if somebody hadn't said something, all I would have thought was 'it's just a waterfall'.”
-「なんでパワースポットって呼ばれるようになったんだろうね？」=“I wonder when it started becoming known as a power spot?”
-「そうねぇ……昔の人はこの滝に、なにかロマンを感じたんじゃない？」=“Let's see... I guess our ancestors must have felt romantic around this waterfall, right?”
-「なるほど、ロマンか……いい考えだね」=“So, romantic, huh... that's a good idea.”
+「この滝がパワースポットなんだって」=“Apparently this waterfall's a powerspot.”
+「その話を聞いた瞬間にありがたみを感じちゃった。我ながら現金だって思うわ」=“The moment I heard that, suddenly I felt a bit blessed. Pretty egotistical of me, if I do say so myself.”
+「はは……でも、確かになんの触れ込みもなかったら、『滝だなー』って感想しかなかった気がするなぁ」=“Hahah... but if I didn't mention it at all, I feel like all you'd have felt from it was "Well, it's a waterfall alright", because I sure would have.”
+「なんでパワースポットって呼ばれるようになったんだろうね？」=“I wonder why it led to being the local power spot anyway?”
+「そうねぇ……昔の人はこの滝に、なにかロマンを感じたんじゃない？」=“Who knows... probably because the people who came before us, felt some romance in it, no?”
+「なるほど、ロマンか……いい考えだね」=“I see, romance, huh... that's a nice way of thinking.”
