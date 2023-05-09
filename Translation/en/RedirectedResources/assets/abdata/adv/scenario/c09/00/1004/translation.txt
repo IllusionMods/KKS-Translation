@@ -1,26 +1,26 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「[H名]、よかったら浜辺を散歩してみない？」=“[H名], would you like to take a walk on the beach?”
-「そうね、せっかくだし付き合ってあげる」=“Well, since we're here, we may as well.”
-「見渡す限りの大海原、って感じだなぁ。圧倒され……」=“The ocean stretches out as far as the eye can see. It's overwhelming...”
-くしゅん！　……へぷちっ」=“How cool! ...*a-chuu*!”
+「[H名]、よかったら浜辺を散歩してみない？」=“Hey, [H], wanna go take a walk down the beach?”
+「そうね、せっかくだし付き合ってあげる」=“Why not, might as well, since we're here.”
+「見渡す限りの大海原、って感じだなぁ。圧倒され……」=“The great deep as far as the eye can see, isn't it? It's almost overwhe...”
+くしゅん！　……へぷちっ」=*achoo*! ...*sneeze*--
 「寒いの？」=“Are you cold?”
-「まさか。暑いくらいよ！　そうじゃなくて……」=“I'm not. I'm hot! it's just that...”
-「へぷしゅんっ」=“*Achuuuu!*”
+「まさか。暑いくらいよ！　そうじゃなくて……」=“As if. I'm almost boiling in this heat! It's not that...”
+「へぷしゅんっ」=“*sneeze*--”
 「…………」=“...”
-「また始まったわ。たまにあるの、潮風で鼻の奥がくすぐったくなる感じ」=“It happened again. There's like this tickle I get in the back of my nose, from the sea breeze.”
-「ごめん、あんまり共感できないかも」=“Sorry, I'm not sure I can relate.”
-「[P名]にそういう繊細さを求めても無駄だった、ってことね」=“I guess it's pointless to expect such sensitivity from you, [P名].”
-（なぜ、ドヤる……）=(Why is she so smug...)
-「あたしってそういうとこあるの。女の子特有の、デリケートな一面が」=“I have that kind of personality. It's a delicate side, unique to girls.”
-「決まったボディーソープじゃないと肌にあわないし、プリンとかもひと口食べれば値段がわかるし、枕が変わると眠れないし」=“Like, having to use a specific soap for my skin, being able to tell the price of a pudding or something, just by taking a bite, and not being able to sleep when I change my pillow.”
-「プリンどこから出てきたの？」=“How'd pudding come into this?”
-「いい？　そんな壊れ物みたいなあたしだから、これからはいっそうあたしに優しく……」=“Nice, huh? I'm such a delicate flower, so, from now on, you need to be even more gentle with me....”
-「ふえっ、へ、へ……っ！　へぷちん！」=“Fweh! Eh, eh...! *Achuu*!”
-「あはははは！　へぷちんって」=“Ahahaha! Eh... *achuu*!”
-「レディーファースト！　言ってる傍から指を差して笑うなんて、信じられない」=“Laides first! I can't believe it - pointing your finger at me and laughing.”
-「ごめんごめん。[H名]の鼻が心配だし、そろそろ戻ろうか」=“Sorry, sorry. I'm worried about that nose of yours, [H名], so let's hurry back.”
-「ええ！？　待って、変なツボに入ってるだけなの！　平気よ」=“Ehh!? Wait, it's just this weird pressure point of mine! I'm fine.”
-「……じゃあ、せめて俺のこと風よけにしたら？」=“...well, at least use me as a windbreak, okay?”
-「うん、そうしてあげる。ふふっ♪」=“Yeah, I'll do that. Fufu!♪”
+「また始まったわ。たまにあるの、潮風で鼻の奥がくすぐったくなる感じ」=“It's this again. Sometimes, the sea breeze really has its way of tickling the back of my nose.”
+「ごめん、あんまり共感できないかも」=“Sorry, I don't think I can relate at all.”
+「[P名]にそういう繊細さを求めても無駄だった、ってことね」=“I guess it was my fault for expecting you to, since you're such a burly and unsensitive man.”
+（なぜ、ドヤる……）=(What's with that smug face...)
+「あたしってそういうとこあるの。女の子特有の、デリケートな一面が」=“I have that side though, you know? The sort of delicate, sensitive side, that only girls have.”
+「決まったボディーソープじゃないと肌にあわないし、プリンとかもひと口食べれば値段がわかるし、枕が変わると眠れないし」=“My skin doesn't like it when I don't use the soap I usually do, I can tell the price of a particular cup of pudding just from the taste, and I can't sleep without my specific pillow under me.”
+「プリンどこから出てきたの？」=“Where did the pudding come from?”
+「いい？　そんな壊れ物みたいなあたしだから、これからはいっそうあたしに優しく……」=“You listening? You've got a fragile little thing as your girlfriend so, you gotta be even more gentle to me from now o...”
+「ふえっ、へ、へ……っ！　へぷちん！」=“Fueh--, heh, heh...--! *Achoo*!”
+「あはははは！　へぷちんって」=“Ahahahahah! You really went "Achoo".”
+「レディーファースト！　言ってる傍から指を差して笑うなんて、信じられない」=“I can't believe you! One moment you go all "Ladies first" and the other you actually point and laugh.”
+「ごめんごめん。[H名]の鼻が心配だし、そろそろ戻ろうか」=“Sorry, sorry. I'm actually getting worried about you now so, let's head back.”
+「ええ！？　待って、変なツボに入ってるだけなの！　平気よ」=“Eeh!? Wait, it's just some sneezing, it doesn't hurt or anything! I'm fine.”
+「……じゃあ、せめて俺のこと風よけにしたら？」=“...Then, atleast use my body as a windbreak?”
+「うん、そうしてあげる。ふふっ♪」=“Yep, I'll do that just for you. Fufuh~♪”

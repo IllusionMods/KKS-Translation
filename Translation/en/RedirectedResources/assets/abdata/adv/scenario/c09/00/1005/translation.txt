@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please pair up.”
-「キャンプファイヤーですって！？　そんなの絶対、楽しいじゃない」=“There's a bonfire!? That would definitely be fun.”
-「……まあ、思い出にはなるかな」=“...well, I guess that'd be worth remembering.”
-「格好つけてないで行きましょ？　いいとこ取られちゃう」=“Can we go as we are? Otherwise everyone'll get the best places.” 
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Everyone paired up? ...then I'll put the music on as soon as everyone's ready.”
+係員さん=Attendant
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“I shall be setting up the campfire so, please split into groups of two as you like.”
+「キャンプファイヤーですって！？　そんなの絶対、楽しいじゃない」=“A campfire?! That's definitely gonna be a blast, for sure.”
+「……まあ、思い出にはなるかな」=“...Well, it'll make for a memory, if nothing else.”
+「格好つけてないで行きましょ？　いいとこ取られちゃう」=“Don't put on airs, let's just join in? They'll take all the good spots.”
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you all broken into pairs? ...Well then, once the prepwork is complete, I shall put on the music.”
 「…………」=“...”
-「おっとと、ごめん」=“Oops, sorry.”
-「え？　ごめんって何が……あ、さてはあたしの髪の匂いとかこっそり嗅いでたんでしょ。変態」=“Eh? Sory about what... ah, I bet you've been sniffing my hair, haven't you. Pervert.”
-「足踏んじゃいそうだっただけだって！　なんで、目の前なのに気付いてないの？」=“No, I was just saying that I might have stepped on your foot! Why can't you ever notice what's going on right in front of you?”
-「そ、そうだったの？　ちょっと周りが気になっちゃって」=“W-was that it? I was kinda more focused on the people around us.”
-「……人、たくさんいると思わない？」=“...there's not that many people here, are there?”
-「どうだろ？　俺は周りなんて全然、気にならないよ」=“I guess? I don't mind people being around me at all.”
-「それどころか、[H名]から目を逸らしたくないかも」=“And, you know, I might not want to look away from you, [H名].”
-「そうやって！　たまに、思い出したようにキザなこと言うのよね」=“That's how it should be! I just have to remember that you sometimes say mean things.”
-「……ちょっとはやるじゃない」=(...that's a bit of a stretch.)
-（褒められた……）=(Maybe it was a complement...)
-「堂々としてなきゃね？　あたしもこれからは、まっすぐ[P名]のこと見てる」=“I gotta be stand up for myself, right? So, from now on, I'll be looking straight at you, [P名], too.”
-「こんなに近いと、ちょっだけくすぐったいけど」=“It tickles a little when we're this close.”
-「思い出だから」=“It'll be a memento.”
-「そ、そうね！　……大切な思い出」=“Th-that's right! ...a cherished memory.”
+「おっとと、ごめん」=“Woah, sorry.”
+「え？　ごめんって何が……あ、さてはあたしの髪の匂いとかこっそり嗅いでたんでしょ。変態」=“Eh? Sorry for wha... ah, you were sniffing my hair in secret, weren't you? You perv.”
+「足踏んじゃいそうだっただけだって！　なんで、目の前なのに気付いてないの？」=“It was because I almost stepped on your foot, dummy! How did you not even notice, I'm right in front of you here.”
+「そ、そうだったの？　ちょっと周りが気になっちゃって」=“Y-You did? I was just looking at our surroundings.”
+「……人、たくさんいると思わない？」=“...Don't you think, that there's a ton of people around?”
+「どうだろ？　俺は周りなんて全然、気にならないよ」=“Not really. I'm not even remotely bothered by them myself.”
+「それどころか、[H名]から目を逸らしたくないかも」=“Heck, I don't think I want to even look at anyone apart from you, [H].”
+「そうやって！　たまに、思い出したようにキザなこと言うのよね」=“Again! You really do say some really smug stuff like that sometimes, you know? Like you just remembered it.”
+「……ちょっとはやるじゃない」=“...That one was pretty good though.”
+（褒められた……）=(She praised me...)
+「堂々としてなきゃね？　あたしもこれからは、まっすぐ[P名]のこと見てる」=“We gotta be bold, don't we? I'm gonna do the same and look straight at you, for the rest of this dance.”
+「こんなに近いと、ちょっだけくすぐったいけど」=“It does tickle a little bit though, since you're so up close.”
+「思い出だから」=“Well, we're making memories here.”
+「そ、そうね！　……大切な思い出」=“R-Right! ...Very precious memories.”

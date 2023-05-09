@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「きゃあ！　あ、あんたなのね？　もう、覗きなんて趣味が悪いわよ！」=“Kyaa! I-is that you? Geez, you've got some poor taste there, Mr. Peeping Tom!”
+「きゃあ！　あ、あんたなのね？　もう、覗きなんて趣味が悪いわよ！」=“Kyah! I-It's you, huh? Jeez, I can't approve of you being a peeping tom!”

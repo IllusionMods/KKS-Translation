@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「カヤックなら二人で楽しめるね」=“Kayaking's fun with two people, isn't it?”
-「そうね。力を合わせて頑張るわよ！　あたしの足を引っ張らないでちょうだいね」=“That's right. We'll have to join up and do our best! Don't drag me down with you, okay?”
-「任せてよ。しっかり息を合わせるから」=“I'm on it. I'll make sure we're in sync.”
-「ふっ、心配いらないみたいね。あんたになら背中を預けられるわ」=“Fu! Sounds like there's nothing to worry about. I know I can count on you to have my back.”
-「さぁ！　背中合わせで乗り込むわよ！」=“Come on! We'll ride back-to-back!”
-「同じ方向を向いてなきゃ進まないよ」=“We gotta be on the same page, or we won't get anywhere.”
+「カヤックなら二人で楽しめるね」=“A kayak's something we can both enjoy together, isn't it?”
+「そうね。力を合わせて頑張るわよ！　あたしの足を引っ張らないでちょうだいね」=“Yeah. C'mon, we'll put our power together and do our best! Don't drag me down, okay?”
+「任せてよ。しっかり息を合わせるから」=“Sure, you can believe in me. I'll sync my breathing with yours.”
+「ふっ、心配いらないみたいね。あんたになら背中を預けられるわ」=“Pfft--, seems like I don't need to worry then. I can leave my back to you without any qualms at all.”
+「さぁ！　背中合わせで乗り込むわよ！」=“Come now! We're gonna conquer this place, with our backs to each other!”
+「同じ方向を向いてなきゃ進まないよ」=“If we don't face the same way, we're not gonna get anywhere.”

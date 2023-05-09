@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「あたし達は恋人なんだし……エッチをするのは、自然なことよね……」=“Well, we are lovers... so it's only natural we'd have sex...”
-「……うん。あたしの初めて、あんたにあげるわ」=“...yeah. You can have my first time.”
-「[H名]……」=“[H名]...”
-「その代わり、優しくしなさいよね？　痛くしたら、許さないんだから」=“In return, you gotta be gentle with me, okay? I'll never forgive you if you hurt me.”
+「あたし達は恋人なんだし……エッチをするのは、自然なことよね……」=“We're a couple so... having sex is, just normal, isn't it...”
+「……うん。あたしの初めて、あんたにあげるわ」=“...Okay. I'll let you have my, virginity.”
+「[H名]……」=“[H]...”
+「その代わり、優しくしなさいよね？　痛くしたら、許さないんだから」=“In return, be really gentle, okay? I won't forgive you, if it hurts.”

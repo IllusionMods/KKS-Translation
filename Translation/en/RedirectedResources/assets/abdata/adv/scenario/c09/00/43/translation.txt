@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「……あんたのシーサー、可愛く出来てるわね」=“...your shisa's really cute, you know?”
-「はは、ありがと。今日はなんか調子がいいみたい」=“Haha, thanks. I'm kinda in a good mood today.”
-「比べてあたしのは……なんかブサイクだわ」=“Compared to yours... mine is kinda ugly.”
-「そうかな？　俺は個性があっていいと思うよ。愛嬌あるしね」=“I don't think so. It's all about individuality. And yours is charming.” 
-「えへへ、ほんと～？　あんたがそういうなら間違いないわね！」=“Ehehe, really~? Well, then it definitely is, if you say so!”
+「……あんたのシーサー、可愛く出来てるわね」=“...Your shisa's coming out pretty cute.”
+「はは、ありがと。今日はなんか調子がいいみたい」=“Hahah, thanks. Seems like I'm in pretty good shape today.”
+「比べてあたしのは……なんかブサイクだわ」=“Compared to yours, mine is... kinda ugly.”
+「そうかな？　俺は個性があっていいと思うよ。愛嬌あるしね」=“You think? I think it's nice, it's very you. Got a ton of charm too.”
+「えへへ、ほんと～？　あんたがそういうなら間違いないわね！」=“Eheheh, really~? If you think so then it really must be nice!”
