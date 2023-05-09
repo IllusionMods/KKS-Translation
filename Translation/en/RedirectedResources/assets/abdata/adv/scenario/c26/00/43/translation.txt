@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「んー……なかなか配色が難しいな……」=
-//「ん……私はその組み合わせ、好きだよ……？」=
-//「そう……？」=
-//「うん……あなたらしくて……？」=
-//「そ、それは褒められてると思っていいのかな……？」=
+「んー……なかなか配色が難しいな……」=“Nn~... it's hard to match the colors, isn't it...”
+「ん……私はその組み合わせ、好きだよ……？」=“Nn... I really like it, the way you've done it though...?”
+「そう……？」=“Really...?”
+「うん……あなたらしくて……？」=“Yeah... it's really like you...?”
+「そ、それは褒められてると思っていいのかな……？」=“C-Can I really take that as a compliment though...?”

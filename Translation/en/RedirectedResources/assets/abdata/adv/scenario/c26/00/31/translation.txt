@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「風が気持ちいい……」=
-//「灯台っていう人工物が建っているのに、何ていうかこう……自然と一体になってる感じだよね」=
-//「うん……こういう場所、好き……」=
-//「俺も。しばらくのんびりしていこっか……」=
+「風が気持ちいい……」=“The breeze is so nice...”
+「灯台っていう人工物が建っているのに、何ていうかこう……自然と一体になってる感じだよね」=“Even though there's a whole lighthouse jutting out of the ground, as man made as it gets... it all almost feels like it's one with nature, doesn't it?”
+「うん……こういう場所、好き……」=“Yeah... I love these, sorts of places...”
+「俺も。しばらくのんびりしていこっか……」=“Me too. Let's take it easy here for now...”

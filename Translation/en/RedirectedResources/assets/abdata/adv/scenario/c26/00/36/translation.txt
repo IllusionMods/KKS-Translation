@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごいな……まさに大自然って感じだ」=
-//「これがカヤック……沈んだり、しない……？」=
-//「大丈夫大丈夫、このくらいの流れなら心配ないよ」=
-//「……わかった、操縦？　は任せるから……」=
-//「……いや、二人で漕がなきゃダメだからね？」=
+「すごいな……まさに大自然って感じだ」=“Amazing... almost feels like we're within mother nature's embrace, doesn't it?”
+「これがカヤック……沈んだり、しない……？」=“This is a kayak... won't it, sink...?”
+「大丈夫大丈夫、このくらいの流れなら心配ないよ」=“It won't, don't worry, a current like this is nothing.”
+「……わかった、操縦？　は任せるから……」=“...I got it. I'll leave the... steering? to you...”
+「……いや、二人で漕がなきゃダメだからね？」=“...So you know, we both gotta row it together, alright?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「また……二人でお買い物、しようね……」=
+「また……二人でお買い物、しようね……」=“Let's go... shopping together again, okay?...”

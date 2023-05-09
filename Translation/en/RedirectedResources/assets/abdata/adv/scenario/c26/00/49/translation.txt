@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「今日はこれにしてみようかな？」=
-//「あ……それ、私も食べたい……」=
-//「じゃ、小皿も一緒にもらおうか」=
-//「ん……あーんしてもらえればいい……」=
-//「いや、それは流石に恥ずかしいから……ちゃんと小皿もらうよ？」=
-//「……残念」=
+「今日はこれにしてみようかな？」=“Maybe I'll go for this today?”
+「あ……それ、私も食べたい……」=“Ah... I want to try that too...”
+「じゃ、小皿も一緒にもらおうか」=“Then, let's ask for a small plate along with it.”
+「ん……あーんしてもらえればいい……」=“Nn... you could just feed it to me...”
+「いや、それは流石に恥ずかしいから……ちゃんと小皿もらうよ？」=“No, that really would be embarrassing... let's just get a small plate?”
+「……残念」=“...Shame.”

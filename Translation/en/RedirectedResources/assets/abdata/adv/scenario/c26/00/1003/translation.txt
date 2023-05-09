@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお土産コーナーを覗いて行こうよ」=
-//「……この子、愛嬌あるかも」=
-//「そのキーホルダー、気に入ったの？」=
-//「気に入ったってほどでは……どう……なんだろう？」=
-//「にらめっこしてなかった？」=
-//「にらめっこ……フフ、面白い言い方するんだね」=
-//「うん……ちょっと、にらめっこに負けそうになってたかも」=
-//「なら、それも縁ってことで買っちゃったら？」=
-//「そうしようかな……って、なんだかお土産もの屋の店員さんみたいなこと言うね」=
-//「押しが強すぎたかな？」=
-//「フフ……私を乗せるのがうまいな……って思っただけ」=
-//「それはもう、彼氏ですから」=
+「ちょっとお土産コーナーを覗いて行こうよ」=“Let's go take a look at the experience corner a bit.”
+「……この子、愛嬌あるかも」=“...I think this one is, pretty charming.”
+「そのキーホルダー、気に入ったの？」=“You like that keychain?”
+「気に入ったってほどでは……どう……なんだろう？」=“I wouldn't go that far... I... wonder?”
+「にらめっこしてなかった？」=“Weren't you trying to outstare it though?”
+「にらめっこ……フフ、面白い言い方するんだね」=“Outstare it... fufuh, that's a pretty fun way of saying that.”
+「うん……ちょっと、にらめっこに負けそうになってたかも」=“Yeah... I think I was, gonna lose too.”
+「なら、それも縁ってことで買っちゃったら？」=“In that case, why not just take that as a sign and just buy it?”
+「そうしようかな……って、なんだかお土産もの屋の店員さんみたいなこと言うね」=“Maybe I will... though, you're really sounding like a salesman of this place.”
+「押しが強すぎたかな？」=“Was I pushing too hard there?”
+「フフ……私を乗せるのがうまいな……って思っただけ」=“Fufuh... I just meant that... you're pretty good at getting me into stuff.”
+「それはもう、彼氏ですから」=“Well of course, I'm your boyfriend.”

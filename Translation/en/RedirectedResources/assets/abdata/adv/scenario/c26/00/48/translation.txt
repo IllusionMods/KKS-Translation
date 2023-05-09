@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ん……独特な匂い……」=
-//「う、うん……あでも、味は普通に美味しいよ？」=
-//「……本当？」=
-//「うん。　ほら、食べてみなよ？」=
-//「……いただきます」=
+「ん……独特な匂い……」=“Nn... unique smell...”
+「う、うん……あでも、味は普通に美味しいよ？」=“Y-Yeah... ah but, it actually tastes pretty good, you know?”
+「……本当？」=“...Really?”
+「うん。　ほら、食べてみなよ？」=“Yeah. C'mon, try it.”
+「……いただきます」=“...I'm digging in.”

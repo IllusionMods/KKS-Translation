@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱり、あなたに塗ってもらうのは、気持ちいい……ありがと……」=
-//「つやつや……ばっちり……」=
-//「ありがと……また、塗ってね……？」=
-//「ん……今度は、ちゃんと塗ってほしいな……」=
+「やっぱり、あなたに塗ってもらうのは、気持ちいい……ありがと……」=“Having you do it, really does, feel nice... thanks...”
+「つやつや……ばっちり……」=“I feel so glossy... and smooth...”
+「ありがと……また、塗ってね……？」=“Thanks... do it again, next time, okay...?”
+「ん……今度は、ちゃんと塗ってほしいな……」=“Nn... I want you to, do it next time...”

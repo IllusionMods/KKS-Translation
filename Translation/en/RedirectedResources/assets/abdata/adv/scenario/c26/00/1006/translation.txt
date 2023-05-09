@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//（よし、ウムイの鐘を鳴らそう……！）=
-//「……どうしたの？　真剣な顔して」=
-//「あ、いや、これは」=
-//「なんて。……私だって、たまには冗談くらい言うんだよ」=
-//「……ここに連れてこられて、その意味がわからない女の子なんていないから」=
-//「そ、そっか、かもね！　有名だから」=
-//「……よかった」=
-//「よかったって？」=
-//「ん？　……[P名]がごまかさないでくれたから」=
-//「もちろんだよ！　俺は[H名]と一緒にこの鐘を鳴らしたいんだ」=
-//「私も……同じ気持ち」=
-//「この島で生まれた恋だから……この鐘に未来を誓うのが、一番しっくりくる気が……」=
-//「……ううん、そうじゃない」=
-//「あなたとの恋がいつまでも続くようにって……きっと私、何にでもすがりたいくらいの気持ちなの」=
-//「嬉しいよ、[H名]がそんなに俺とのことを大事に思ってくれてたなんて」=
-//「……あんまり、顔や態度に出ないから？」=
-//「それはちょっとあるかな」=
-//「それなら……こういう時にしっかり気持ちを見せておかないとね。……少し恥ずかしいけど」=
-//「……一緒に鳴らそう」=
-//「うん。[P名]も強く願ってね？　……この恋がいつまでも続きますように、って」=
+（よし、ウムイの鐘を鳴らそう……！）=(Alright, let's ring that bell...!)
+「……どうしたの？　真剣な顔して」=“...What's wrong? Your face is really serious.”
+「あ、いや、これは」=“Ah, no, this is--”
+「なんて。……私だって、たまには冗談くらい言うんだよ」=“Kidding. ...Even I know how to joke sometimes, you know.”
+「……ここに連れてこられて、その意味がわからない女の子なんていないから」=“...There's no girl out here, who wouldn't get the meaning of being brought here.”
+「そ、そっか、かもね！　有名だから」=“I-I see, probably! It's pretty famous.”
+「……よかった」=“...Thank god.”
+「よかったって？」=“What for?”
+「ん？　……[P名]がごまかさないでくれたから」=“Nn? ...Because you didn't try to pretend otherwise, [P].”
+「もちろんだよ！　俺は[H名]と一緒にこの鐘を鳴らしたいんだ」=“Of course not! I want to ring this bell together with you, [H].”
+「私も……同じ気持ち」=“I... feel the same way.”
+「この島で生まれた恋だから……この鐘に未来を誓うのが、一番しっくりくる気が……」=“Our love was born on this island so... promising our future to each other, by ringing this bell, feels the most appro...”
+「……ううん、そうじゃない」=“...No, it's not that.”
+「あなたとの恋がいつまでも続くようにって……きっと私、何にでもすがりたいくらいの気持ちなの」=“I love you so much, I think I want to... try to use anything I can, even the most absurd thing, to make sure our love lasts forever.”
+「嬉しいよ、[H名]がそんなに俺とのことを大事に思ってくれてたなんて」=“That makes me really happy, I didn't think you thought of me that seriously, [H].”
+「……あんまり、顔や態度に出ないから？」=“...Because I don't really show it, much?”
+「それはちょっとあるかな」=“Yeah, a little bit, I'd say.”
+「それなら……こういう時にしっかり気持ちを見せておかないとね。……少し恥ずかしいけど」=“In that case... I have to show you my feelings properly, atleast at times like these, don't I? ...It's a bit embarrassing though.”
+「……一緒に鳴らそう」=“...Let's ring it together.”
+「うん。[P名]も強く願ってね？　……この恋がいつまでも続きますように、って」=“Yeah. You wish for it really hard too, okay? ...Wish for our love to last forever.”

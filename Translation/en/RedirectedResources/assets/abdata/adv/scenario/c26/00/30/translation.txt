@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここって、この島では有名なパワースポットらしいよ？」=
-//「……そう」=
-//「……やっぱり滝があるからか、他の所よりはちょっと涼しいね」=
+「ここって、この島では有名なパワースポットらしいよ？」=“Seems like this place is a pretty popular powerspot here, you know?”
+「……そう」=“...I see.”
+「……やっぱり滝があるからか、他の所よりはちょっと涼しいね」=“...It feels much cooler than other places too, what with the waterfall and all.”
 「……うん」=“...Yeah.”
-//「…………ここ、あんまり好みじゃなかったかな？」=
-//「あ……そういうわけじゃ……ない……」=
-//「その……あなたと一緒だから……少し……緊張して……」=
-//「あー……うん、景色見ながら、そういうのにも慣れて行こっか？」=
+「…………ここ、あんまり好みじゃなかったかな？」=“...I guess this place was a bad pick? You don't like it here?”
+「あ……そういうわけじゃ……ない……」=“Ah... that's not... it...”
+「その……あなたと一緒だから……少し……緊張して……」=“I uhm... you're here so I'm just... a bit... nervous...”
+「あー……うん、景色見ながら、そういうのにも慣れて行こっか？」=“Ah... yeah, how about we get used to each other too, while enjoying the scenery?”

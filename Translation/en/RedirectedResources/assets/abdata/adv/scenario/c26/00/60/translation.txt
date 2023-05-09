@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねぇ……いる……？」=
-SELECTION:「返事をする」=Respond
+「ねぇ……いる……？」=“Hey... are you in...?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「ん、どうぞー」=
-//「おじゃまします……」=
-//「あの……一緒に、寝てもいい……？　あなたを感じながら、寝たいの……」=
-//「……いない、か……残念……」=
+「ん、どうぞー」=“Nn, come in~”
+「おじゃまします……」=“Okay...”
+「あの……一緒に、寝てもいい……？　あなたを感じながら、寝たいの……」=“Uhm... do you mind if I, sleep with you tonight...? I want to sleep, with you next to me...”
+「……いない、か……残念……」=“...Are you, not? ...That's a shame...”
