@@ -13,7 +13,7 @@
 「えへっ。ごめんごめん。一度やってみたかったの」=“Eheh--. Sorry, sorry. I just wanted to try that out.”
 「意地悪な子だなぁ。それならお返しだ」=“What a bully we have on our hands. Time for some revenge.”
 「大きく息を吐いて～」=“Breathe out hard~”
-「ふぅ……」=“Fuu...”
+「ふぅ……」=“*Fuuuh*...”
 「吐き続けて～」=“Keep breathing out~”
 「はぁぁ～……」=“*Haaaah*~...”
 「ここで深呼吸！　[H名]が吐いた息を俺が吸う」=“Alright, and now I'll breathe that in! The air that you breathed out.”

@@ -10,7 +10,7 @@
 「そう？　[H名]は可愛いからすごく目立つと思うけど」=“You think? You're ridiculously adorable so I think you would, personally.”
 「えへへ。ありがと♪」=“Eheheh, thanks♪”
 「でも、他にもたくさん可愛い子がいるから……。私なんかじゃ敵わないよ」=“But, there's lots of other cute girls here too... I can't compete with them.”
-「[H名]……」=“[H名]...”
+「[H名]……」=“[H]...”
 「でもねでもね。敵わないからこそ叫ぶんだ。[P名]君が大好きって」=“But you know, but you know. That's exactly why I shout how much I love you everytime, [P]-kun.”
 「体を光らせて目立つことはできないけど、素直に気持ちを伝えることはできるから」=“I can't stand out by making my body glitter but, I can make do my just honestly telling you my feelings instead.”
 「好きだよ。これからもずっと私のそばにいてね」=“I love you. Please stay with me forever, okay?”
