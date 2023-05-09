@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please pair up.”
+係員さん=Attendant
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“I shall be setting up the campfire so, please split into groups of two as you like.”
 「[H名]、是非とも俺と踊って欲しい」=“Please allow me this dance, my dear [H].”
 「はい、喜んで」=“Yes, gladly.”
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Everyone paired up? ...then I'll put on the music as soon as everyone's ready.”
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you all broken into pairs? ...Well then, once the prepwork is complete, I shall put on the music.”
 「なんだか、一緒に踊るのって恥ずかしいですよね？」=“It's kind of, embarrassing to dance together like this, isn't it?”
 「そうだね。ここまで密着することも滅多にないし……」=“Yeah. It's not often we cling together to each other so much...”
 「[H名]の息遣いも、すごく近くで感じるよ」=“I can feel your breathing, real up close too.”
