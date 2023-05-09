@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここはエステか何かでしょうか？」=
-//「そうだね、自分たちで自由にオイルとか使えるみたいだね」=
-//「どうする？　よければ、俺が塗ってあげようかと思うんだけど……」=
-//「では、あなたの手をお借りしようと思います」=
+「ここはエステか何かでしょうか？」=“Is this a beauty salon or the like?”
+「そうだね、自分たちで自由にオイルとか使えるみたいだね」=“I think so. Seems like we can use the oil here as we place too.”
+「どうする？　よければ、俺が塗ってあげようかと思うんだけど……」=“What do you wanna do? I mean, if you don't mind, I was thinking that I could put it on you...”
+「では、あなたの手をお借りしようと思います」=“Well then, please let me borrow your hands for a bit.”

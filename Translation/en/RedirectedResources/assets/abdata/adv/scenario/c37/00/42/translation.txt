@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どう？　上手くいってる？」=
-//「いえ、中々難しいですね」=
-//「あー……まぁ最初は仕方ないよねぇ、何度か作らせてもらって慣れていこうよ」=
-//「そうですね、精進します」=
+「どう？　上手くいってる？」=“So? Is it going well?”
+「いえ、中々難しいですね」=“No, it's quite the hard work, you see.”
+「あー……まぁ最初は仕方ないよねぇ、何度か作らせてもらって慣れていこうよ」=“Aah... well, it's not like there's anything we can do about it, let's just make it again and again and learn it as we go.”
+「そうですね、精進します」=“Indeed, I shall concentrate on learning.”

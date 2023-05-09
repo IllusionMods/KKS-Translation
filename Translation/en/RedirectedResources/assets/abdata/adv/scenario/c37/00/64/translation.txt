@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「危うく気が高ぶるところでした。ありがとうございました」=
-//「お疲れ様です、とてもお上手でした」=
-//「ありがとうございました、また来た時もよろしくお願いします」=
-//「わかりました、楽しみは次に取っておきます」=
+「危うく気が高ぶるところでした。ありがとうございました」=“I almost lost myself in the excitement. Thank you very much.”
+「お疲れ様です、とてもお上手でした」=“Thank you for your efforts, you were very good.”
+「ありがとうございました、また来た時もよろしくお願いします」=“Thank you very much, please do it the next time we come here again as well.”
+「わかりました、楽しみは次に取っておきます」=“I understand, I shall wait for the next time then.”

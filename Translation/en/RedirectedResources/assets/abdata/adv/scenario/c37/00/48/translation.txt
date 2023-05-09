@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この独特な香りは、この島ならではという事でしょうか」=
-//「かもね、でもそれが癖になったりすることもあるからなぁ」=
-//「そうですね、まずは食べてみない事には始まりません」=
-//「だね。それじゃ、頂いてみっか」=
+「この独特な香りは、この島ならではという事でしょうか」=“This very unique aroma, is it unique to this island, do you think?”
+「かもね、でもそれが癖になったりすることもあるからなぁ」=“Might be, but sometimes that's the part that gets you addicted, you know~?”
+「そうですね、まずは食べてみない事には始まりません」=“Indeed, there is naught to be said until we first sample it.”
+「だね。それじゃ、頂いてみっか」=“Exactly. Well then, let's dig in.”

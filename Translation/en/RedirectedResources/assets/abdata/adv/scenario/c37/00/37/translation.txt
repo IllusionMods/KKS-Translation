@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「色々な種類がありますね」=
-//「何かしてみたいものってある？」=
-//「あなたがしたいものを……いえ、こちらをやってみたいと思います」=
-//「ふむ、それじゃ借りてやってみよっか」=
+「色々な種類がありますね」=“There's all sorts of things available, aren't there?”
+「何かしてみたいものってある？」=“Is there anything you wanna try doing?”
+「あなたがしたいものを……いえ、こちらをやってみたいと思います」=“Whatever you wish to... no, I think I wish to try doing this.”
+「ふむ、それじゃ借りてやってみよっか」=“Hmm, let's rent it out then.”

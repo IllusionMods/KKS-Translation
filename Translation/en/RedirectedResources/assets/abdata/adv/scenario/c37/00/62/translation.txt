@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どうする？　また塗っていく？」=
-//「今回からは前もお願いしたいと思います」=
-//「え、いいの？　色々触っちゃうことになるけど……」=
-//「はい、あなたにならいくら触られても問題ありません」=
-//「ですが、あくまでオイルを塗って頂くだけですので、悪しからず」=
+「どうする？　また塗っていく？」=“What do you wanna do? Want me to put it on you again?”
+「今回からは前もお願いしたいと思います」=“This time I would like to ask you to do the front as well.”
+「え、いいの？　色々触っちゃうことになるけど……」=“Eh, you sure? I'm gonna end up touching you all over there, you know...”
+「はい、あなたにならいくら触られても問題ありません」=“Yes, if it's you, I do not mind being touched at all.”
+「ですが、あくまでオイルを塗って頂くだけですので、悪しからず」=“However, we're only putting oil on me so, please do not get the wrong meaning.”

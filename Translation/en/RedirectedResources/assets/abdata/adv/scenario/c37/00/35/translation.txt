@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「また買い物しましょう。もちろん、あなたと二人で」=
+「また買い物しましょう。もちろん、あなたと二人で」=“Let's go shopping again together. Of course, just you and I, alone together.”

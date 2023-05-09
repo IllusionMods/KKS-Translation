@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ありがとうございました。おかげで肌が潤いました」=
-//「ありがとうございます、とても気持ちよかったです」=
-//「お疲れさまでした、また機会がありましたらよろしくお願いします」=
-//「残念ですが仕方ありません。またよろしくお願いします」=
+「ありがとうございました。おかげで肌が潤いました」=“Thank you very much. Thanks to your efforts, my skin has become quite rich.”
+「ありがとうございます、とても気持ちよかったです」=“Thank you very much, that felt very nice.”
+「お疲れさまでした、また機会がありましたらよろしくお願いします」=“Thank you for your efforts, if we get another chance to do this then please.”
+「残念ですが仕方ありません。またよろしくお願いします」=“It is a shame but it cannot be helped. Please do it another time.”

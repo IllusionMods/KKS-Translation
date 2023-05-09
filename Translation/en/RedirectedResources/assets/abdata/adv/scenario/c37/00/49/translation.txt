@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「普段見慣れた食べ物があるのは安心しますね」=
-//「だね。島独自の料理もいいけど、長くい続けるとこういった味を思い出したくなるよね」=
-//「旅行先でのあるあるだと思います」=
-//「梅干しとかお茶漬けとかカップ麺とか……あぁ、何だか食べたくなってきた」=
-//「気持ちはわかりますが、今は目の前の料理を堪能しましょう」=
+「普段見慣れた食べ物があるのは安心しますね」=“It's quite relieving that we can get our usual fare like this on this island as well, isn't it?”
+「だね。島独自の料理もいいけど、長くい続けるとこういった味を思い出したくなるよね」=“You said it. The unique local cuisine is great too but, when you set yourself up for a long stay, you just can't help but crave these tastes, can you?”
+「旅行先でのあるあるだと思います」=“I think that's just how it goes when you're travelling.”
+「梅干しとかお茶漬けとかカップ麺とか……あぁ、何だか食べたくなってきた」=“Umeboshi, ochazuke, and cup noodles... aaah, now I want to try all of those again.”
+「気持ちはわかりますが、今は目の前の料理を堪能しましょう」=“I understand how you feel, however let's focus on savouring the food in front of us for now.”

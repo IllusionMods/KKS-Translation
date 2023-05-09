@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お疲れさまでした、また誘って頂ければと思います」=
+「お疲れさまでした、また誘って頂ければと思います」=“Thank you for your efforts. Please do invite me again.”

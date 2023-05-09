@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「当たり前だけど色んな魚がいるねぇ。[H名]はどれが好き？」=
-//「あの……サンゴの辺りを泳いでいるオレンジ色……可愛いです」=
-//「あぁ、カクレクマノミだね。水族館の人気者だよ」=
-//「可愛いので、人気になるのは当然ですね」=
-//「はは、かなり気に入ったみたいだね」=
-//「はい、お気に入りです。カクレクマノミは飼えますか？」=
-//「飼えるよ。大人しい性格だし、餌付けも割と簡単だと思う」=
-//「……少し勉強してみます」=
-//「じゃあ豆知識を一つ。カクレクマノミはオスからメスに変われるんだよ」=
-//「え……嘘です。そんなこと……ありえせん」=
-//「はは、驚いた？　普段は群れの中で一番大きいのがメスで、他の全員オスらしいんだけど……」=
-//「メスが死んじゃうと、二番目に大きかったオスがメスに性転換するんだって」=
-//「そんな簡単にオスはメスになれるものだったのですね。もしかして……あなたも性転換できますか？」=
-//「いやいや！　俺はクマノミじゃないから」=
-//「よかったです……あなたには、オスでいて欲しかったですから」=
-//「もし、俺が女子に変われるって言ったらどうしてた？」=
-//「難しい質問ですね……でも、それならそれで、女子同士でしかできない話をしたいです」=
-//「え、女子同士でしかできない話って……例えば？」=
-//「秘密です……知りたかったら女の子になってください」=
-//「ぐ……気になるけど、流石にそれは無理だって」=
+「当たり前だけど色んな魚がいるねぇ。[H名]はどれが好き？」=“It's pretty obvious but, there's a whole lot of fish here, aren't there~? Which ones do you like, [H]?”
+「あの……サンゴの辺りを泳いでいるオレンジ色……可愛いです」=“Uhm... the orange ones swimming around the corals... are very cute.”
+「あぁ、カクレクマノミだね。水族館の人気者だよ」=“Aah, the common clownfish, huh? It's the star of the show at aquariums.”
+「可愛いので、人気になるのは当然ですね」=“It's really cute so, it's only natural for it to be popular, is it not?”
+「はは、かなり気に入ったみたいだね」=“Hahah, I see you've taken a real liking to them.”
+「はい、お気に入りです。カクレクマノミは飼えますか？」=“Yes, I have. Can you keep them as pets?”
+「飼えるよ。大人しい性格だし、餌付けも割と簡単だと思う」=“You can. They're really docile so, I think you could easily make them eat from your hand too.”
+「……少し勉強してみます」=“...I shall study up on them a bit.”
+「じゃあ豆知識を一つ。カクレクマノミはオスからメスに変われるんだよ」=“Then here's some trivia. You can tell between a male and female clownfish.”
+「え……嘘です。そんなこと……ありえせん」=“Eh... impossible. That... cannot be.”
+「はは、驚いた？　普段は群れの中で一番大きいのがメスで、他の全員オスらしいんだけど……」=“Hahah, surprised? Normally, the biggest in a school is the female, and all the rest males but...”
+「メスが死んじゃうと、二番目に大きかったオスがメスに性転換するんだって」=“If the female dies, the second biggest fish, one of the males, turns into a female and takes its place.”
+「そんな簡単にオスはメスになれるものだったのですね。もしかして……あなたも性転換できますか？」=“They can change their sex from male to female that easily, huh? Perhaps... can you do it as well?”
+「いやいや！　俺はクマノミじゃないから」=“No! I'm not a clownfish, you know.”
+「よかったです……あなたには、オスでいて欲しかったですから」=“Thank god... I would rather you, stayed a man for me.”
+「もし、俺が女子に変われるって言ったらどうしてた？」=“If I said that I can infact change my sex into a girl, what'd you have done?”
+「難しい質問ですね……でも、それならそれで、女子同士でしかできない話をしたいです」=“That's a hard question... but, if it came to that, I would still like to have a girl-on-girl relationship with you, with chats only two girls can have.”
+「え、女子同士でしかできない話って……例えば？」=“Eh, chats only girls can have... for example?”
+「秘密です……知りたかったら女の子になってください」=“That's a secret... if you wish to know, please turn into a woman.”
+「ぐ……気になるけど、流石にそれは無理だって」=“Guh... I'm curious but, I can't do it, that's asking for the impossible, even from me.”

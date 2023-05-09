@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この滝が所謂パワースポットらしいね」=
-//「そのようですね」=
-//「やっぱり、こういった力強さのある自然がパワースポットとして取り上げられるものなのかな？」=
-//「自然の力が体感出来るような場所がそのように言われやすいそうです」=
-//「なるほどなぁ、ここがそうなのはすごく納得するな」=
+「この滝が所謂パワースポットらしいね」=“Seems like this waterfall's one of those so called powerspots.”
+「そのようですね」=“Seems that way, yes.”
+「やっぱり、こういった力強さのある自然がパワースポットとして取り上げられるものなのかな？」=“I guess a striking sight like this is bound to be turned into a powerspot by people, huh?”
+「自然の力が体感出来るような場所がそのように言われやすいそうです」=“A place such as this where one can easily experience the might of nature seems easy to label as such.”
+「なるほどなぁ、ここがそうなのはすごく納得するな」=“Makes sense~, I can totally see why, I mean.”

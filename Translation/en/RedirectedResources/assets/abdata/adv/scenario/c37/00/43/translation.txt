@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「染め物、というよりも塗り物という感じですね」=
-//「そうだね、ペイントアートみたいな感じかなぁ」=
-//「ですが、これはこれで面白いですね」=
-//「うん、いろんな模様を試してみよう」=
+「染め物、というよりも塗り物という感じですね」=“This feels doesn't feel very much like dyeing, does it?”
+「そうだね、ペイントアートみたいな感じかなぁ」=“Yeah, it's more like painting, I'd say?”
+「ですが、これはこれで面白いですね」=“However, this is quite interesting in its own way.”
+「うん、いろんな模様を試してみよう」=“Yeah, let's try out all sorts of patterns.”

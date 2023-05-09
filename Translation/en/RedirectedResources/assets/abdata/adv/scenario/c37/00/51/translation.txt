@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ごちそうさまでした、また食べに来たいと思います」=
+「ごちそうさまでした、また食べに来たいと思います」=“That was a fine meal. I think I would like to do this again.”
