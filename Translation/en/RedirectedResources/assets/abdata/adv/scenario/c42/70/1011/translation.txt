@@ -5,7 +5,7 @@
 「おお……本当にすごいな。さすがスイートルーム」=“Ooh... it really is amazing. Guess that's a suite for you.”
 「広いだけじゃなくて、いろんな物も備え付けられてるんだねー」=“It's not just big, it's funished with all sorts of things, isn't it~”
 「あっ……ふかふかなベッド発見！　えーい！」=“Ah--... found the mega floof bed! Eeeiii~!”
-「わっ、ちょ……[H名]……！？」=“Wah--, hey... [H]...!?”
+「わっ、ちょ……[H名]……！？」=“Wah--, hey... [H名]...!?”
 「えへへ、ベッドにダイビングしちゃったー。すごーい、ふかふかでモフモフだよ！」=“Eheheh, I dived into it~. Amazing, it's super fluffy and floofy!”
 「はぁ……急に飛び込むからビックリしたよ」=“Haah... you nearly made my heart jump outta my throat there.”
 「でも、本当にふかふかなベッドだね。こんなベッドは初めてかも……」=“But, seriously, what a soft bed. Might be the first time I've seen one like this...”
@@ -25,7 +25,7 @@
 「こんなベッドを使えることなんて滅多にないし、ましてや[H名]と一緒にっていうのはさらに希少になりかねないし」=“A chance like this to use a bed like this doesn't come often, and the chance to sleep right next to you is gonna be even more rare.”
 「そうかな？　ベッド自体はともかく、私はいつでもキミと一緒に添い寝してあげるよ？」=“You think so? I mean, the bed itself aside, I can sleep next to you whenever you want me to, you know?”
 「だって、恋人同士なんだし……。えへへ、自分で言っててちょっと恥ずかしくなってきちゃった」=“I mean, I am your girlfriend so... Eheheh, I said it myself but I'm getting embarrassed.”
-「……[H名]」=“...[H].”
+「……[H名]」=“...[H名].”
 「うん、なぁに？　どうかしたー？」=“Yep, what is it~? Something wrong~?”
 「[H名]を抱き枕にしてもいい？」=“Mind if I make you my hug pillow?”
 「なっ……何を言ってるのー！？　だ、だ、抱き枕、なんてっ」=“Wha--... what are you saying~!? A h-h-hug pillow, of all things--”
@@ -33,4 +33,4 @@
 「いや、別に変なことはしないって。ただ、[H名]の温もりを感じながら寝たいなって思っただけで」=“No, I'm not gonna pull anything weird, trust me. I was just thinking, that I wanna sleep while feeling your warmth directly, and all.”
 「ぬ、温もりって……もう、キミはエッチなんだからぁ。でも……少しくらいなら、良いかも……？」=“M-My warmth... jeez, you're such a lewdie~. But... just for a bit, might be fine...?”
 「私もキミの温もりを感じながら寝てみたいし……」=“I mean, I'm not gonna say no to savouring your warmth myself...”
-「ありがとう、[H名]！」=“Thanks, [H]!”
+「ありがとう、[H名]！」=“Thanks, [H名]!”

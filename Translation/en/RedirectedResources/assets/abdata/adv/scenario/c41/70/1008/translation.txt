@@ -3,7 +3,7 @@
 //
 「きれい……流れ星って、こんなにはっきり見えるんだね……」=“So pretty... you can see shooting stars so clearly, huh...”
 「願い事し放題だね」=“We could wish for the whole world with this many stars.”
-「あ、その前に、[H名]って何かにお願い事とかするタイプ？」=“Ah, before that, are you the type to wish on a shooting star, [H]?”
+「あ、その前に、[H名]って何かにお願い事とかするタイプ？」=“Ah, before that, are you the type to wish on a shooting star, [H名]?”
 「願っても努力しないと手に入らなかったり、叶えられなかったりするっていうのはわかってるけど、やっぱりしちゃうよね。キミはどう？」=“I get that even if you wish for it, unless you put in the effort, it won't come true, and even if you do, it might not, but I just can't help myself in the end. What about you?”
 「一応しとくタイプ」=“I do too, just in case.”
 「ふふ、それじゃボクと一緒だね。何についてお願いしようかな」=“Fufuh, same as me then. I wonder what we should wish for?”
@@ -15,7 +15,7 @@
 「完全に思いつきなんだけど、キミとボクだけのルールが欲しくて。お願い事を人に言ったら叶わないってボクたちが決めたルールじゃないよね」=“I just came up with it but, I just wanted to make it our own little rule. I mean, we weren't the ones who came up with the whole "you can't tell anyone else it won't come true" rule, did we?”
 「なるほど、面白いね。じゃあその俗説はひとまず忘れて、俺たちはお願いする前に言い合っちゃおうか」=“I see, that sounds interesting. Let's forget that then, and just tell each other before we wish for it.”
 「キミはそれでいいの？　無理にボクに合わせてくれなくても大丈夫だからね？」=“Are you fine with that? You don't need to force yourself to go along with me everytime, you know?”
-「[H名]に無理に合わせたことなんて１回もないよ」=“I've never 'forced myself', [H], not once.”
+「[H名]に無理に合わせたことなんて１回もないよ」=“I've never 'forced myself', [H名], not once.”
 「あはは、キミって本当に頼もしいね。じゃあ、どっちから言う？」=“Ahahah, you really are just the sweetest, you know? Then, who's going first?”
 「俺はまだ願い事が決まってないから先に聞かせてほしいな。だいたい[H名]関連だけど、ひとつに絞りきれなくて」=“I still haven't made up my mind on what to wish for, so I'd like to hear yours first. I mean, it's gonna be related to you of course, but I still haven't decided on what exactly.”
 「あれ、さっき願い事し放題って言ってなかった？」=“Huh, didn't you say we could wish for the whole world just then?”
@@ -38,5 +38,5 @@
 「ボクのこと、信頼してくれてるんだ。いつか二人で『研修旅行の砂浜でそんなことを話したよね』って、笑い合える日が来ますように、だね」=“You have that much faith in me--. I wish one day the day comes, when we look back to this day and laugh about it together.”
 「もっと仲良くなる方法を、一緒に探さないとね……でもそれって、やっぱり信頼かな」=“We'll have to find ways to become even closer together then... but I guess that really is faith, huh?”
 「うん。ボクね、キミが迷惑とか苦労をかけてもいいって思える唯一の女の子になりたいんだ。それが本当の信頼かなって思うから」=“Yep. You know, I want to become the girl, the only girl in your life, that you don't mind causing trouble for, or relying on. Since I think that's what it means to have faith in someone.”
-「一心同体みたいな考え方かな。いいね、俺も[H名]にそんな風に思ってもらえる男になりたいよ」=“We think the same way, huh? I want to become that sort of man for you too, [H].”
+「一心同体みたいな考え方かな。いいね、俺も[H名]にそんな風に思ってもらえる男になりたいよ」=“We think the same way, huh? I want to become that sort of man for you too, [H名].”
 （迷惑とか苦労をかけてもいいって思える唯一の存在か……それは星じゃなくて、お互いに託す願いだな。頑張ろう）=(The only existence, who you're fine with relying upon, and causing trouble for, huh... that's more a wish to each other, than to the stars. I'mma have to start working harder.)

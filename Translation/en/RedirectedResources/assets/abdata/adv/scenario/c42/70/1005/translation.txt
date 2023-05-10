@@ -3,7 +3,7 @@
 //
 係員さん=Attendant
 「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“I shall be setting up the campfire so, please split into groups of two as you like.”
-「[H名]、良かったらだけど、俺と一緒にフォークダンスを踊ろう」=“Hey, [H], if you're down for it, let's do the folk dance together.”
+「[H名]、良かったらだけど、俺と一緒にフォークダンスを踊ろう」=“Hey, [H名], if you're down for it, let's do the folk dance together.”
 「うんっ、よろこんで！　恥ずかしいけど、よろしくお願いねっ」=“Yep--, gladly! It's embarrassing, but please--”
 「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you all broken into pairs? ...Well then, once the prepwork is complete, I shall put on the music.”
 「えへへ。フォークダンスって、なんだか照れくさいねー」=“Eheheh. Folk dancing sounds kinda embarrassing, doesn't it~?”
