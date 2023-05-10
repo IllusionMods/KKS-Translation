@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「あのさ、[H名]……」=“Hey, [H]...”
+「あのさ、[H名]……」=“Hey, [H名]...”
 「言わなくても分かってるぞ！　キミからそういう匂いがしてきたからな」=“You don't need to say it, I know! You started giving off that sorta scent.”
 「やっぱり、匂いでわかっちゃうの？」=“You can really tell that stuff just from the scent?”
 「その匂いを嗅いだら、あたしも興奮してきたから……二人で気持ち良くなろうね」=“Yep, and smelling it made me feel all horny too... let's feel all good together, okay?”

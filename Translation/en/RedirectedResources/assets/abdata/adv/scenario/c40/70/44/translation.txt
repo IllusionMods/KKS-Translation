@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「もしかして結構手先器用だったりする？　[H名]のシーサー、作りが凄い細かいよね……」=“Are you actually like pretty good with your hands, [H]? Your shisa is really well detailed...”
+「もしかして結構手先器用だったりする？　[H名]のシーサー、作りが凄い細かいよね……」=“Are you actually like pretty good with your hands, [H名]? Your shisa is really well detailed...”
 「ん？　これくらい普通だと思うぞ？　確かに凝り性ではあるが……感覚的には武具の手入れと同じだな」=“Nnn? This much is not all that rare, you know? Certainly, there is some meticulousness to it, however... it is about the same work as taking care of one's armor.”
 「なんか……完成したの並べたら出来が違い過ぎて凹みそう……」=“I feel like... your finished shisa is gonna look so much better than mine, it's just gonna depress me...”
 「む……なら完成したシーサーを交換するというのはどうだ？　その方が我も更に気合が入るしな」=“Muh... in that case, how about we exchange our finished ones? That would let me get more into this as well.”

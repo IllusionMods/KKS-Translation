@@ -10,7 +10,7 @@
 「そもそもカップルドリンクって名前からしていかにも……だしね」=“I mean, to begin with, they call it a "couples' drink", that name in itself... you know?”
 「そうだねー。えへへ、顔がいつもより熱いかもー」=“Yeah~. Eheheh, I can feel my face getting hot~”
 「うーん……でもどうしよう？　まだ一口しか飲んでないし、もっと……飲んじゃう……？」=“Nnn... but what should we do? We've only just taken a sip of it, wanna... drink more...?”
-「[H名]が良ければ、俺はこのまま一緒に飲めればって思うけど……どう？」=“I mean, if you're fine with it, [H], I wouldn't have a problem with just continuining drinking it together... but what do you say?”
+「[H名]が良ければ、俺はこのまま一緒に飲めればって思うけど……どう？」=“I mean, if you're fine with it, [H名], I wouldn't have a problem with just continuining drinking it together... but what do you say?”
 「うんっ！　恥ずかしいけど、嫌じゃないし……」=“I wanna--! It's embarrassing but, it doesn't bother me and...”
 「なによりキミと一緒のドリンクを飲むっていうのは、ドキドキして好き……かなぁ」=“More than anything else, having a drink together with you like this, makes my heart pound so much, I love it... I'd say~”
 「じゃあ、早速もう一口飲もうか？」=“Then, shall we go for another sip?”

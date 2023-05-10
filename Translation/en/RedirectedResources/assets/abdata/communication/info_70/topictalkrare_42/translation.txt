@@ -13,7 +13,7 @@
 「しかも、器用に中身をほじくって食べるって話だよ」=“And what's more, they can apparently even dig up the contents pretty well to eat them.”
 「それはすごいね！　あんな手でそんなことできるんだ」=“That's amazing! They can use their claws like that, huh?”
 「タイミングがあえば、ぜひともその瞬間を見てみたいなー」=“If we get the chance, I'd love to see them going at it for myself sometime~”
-「[H名]は月桃って知ってる？」=“Do you know what a shell ginger is, [H]?”
+「[H名]は月桃って知ってる？」=“Do you know what a shell ginger is, [H名]?”
 「もちろん！　独特な香りがあって、料理を包むのに使ってるよねー」=“Of course! They've got such a nice fragrance, they use the leaves to wrap up food, don't they~”
 「この葉っぱで包んだお餅が、すっごく美味しいんだよ！」=“Apparently rice cakes wrapped in them taste really good!”
 「へぇ、そうなんだ。それはちょっと興味あるかも」=“Heh, I didn't know that. It sounds pretty interesting.”
@@ -105,7 +105,7 @@
 「女の子の後ろ姿とか見てると、時々グッとくることが……」=“But sometimes, when I look at a girl from behind, my heart just...”
 「……それは、立派なフェティシズムだと思うな」=“...That's one of those fetishes, alright.”
 「もう、キミってば私のこともそういう目で見てたんだねー」=“Jeez, you've been looking at me with those sorts of eyes too, haven't you~?”
-「やっぱり、[H名]も欲求不満になったりするのかな？」=“I guess you have times when you feel sexually frustrated too, [H]?”
+「やっぱり、[H名]も欲求不満になったりするのかな？」=“I guess you have times when you feel sexually frustrated too, [H名]?”
 「と、突然なにを言い出すのー！？」=“W-What're you even saying~?!”
 「なんとなく気になっちゃってさ。どうなのかなーって」=“I just got a bit curious, you know? Like, "does she though?" and whatnot.”
 「そりゃあ、私だってそういう気分のときもあったりするけどぉ……」=“Well I mean, sometimes I get into that sort of a mood too~...”
@@ -117,5 +117,5 @@
 「へー、そんな話があるんだ？」=“Hoh, that's what they say?”
 「うーん……でも、そんなのは人それぞれだと思うよー？」=“Nnnn... I'm pretty sure that sort of stuff depends upon the person, you know~?”
 「初めての人はやっぱり特別……って女の子も多いと思うし」=“I'm pretty sure many girls out there think that... that the first person you do it with, is very special.”
-「ちなみに、[H名]はどっちのタイプ？」=“Incidentally, which type are you, [H]?”
+「ちなみに、[H名]はどっちのタイプ？」=“Incidentally, which type are you, [H名]?”
 「わ、私は……やっぱり、特別って思いたい……かな……？」=“I-I... I'd rather be that special someone myself... you know...?”
