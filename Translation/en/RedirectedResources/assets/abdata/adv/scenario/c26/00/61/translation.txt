@@ -4,5 +4,5 @@
 「ん……ここ……」=“Nn... this place...”
 「ああ、エステか何かの場所かな……？　オイルもご自由にお使い下さいだって」=“Aah, is this a salon or something...? Says here we can use the oil freely too.”
 「……折角、だし……使わせてもらう……」=“...Well since, we're here... let's use it...”
-「ってことは、俺が[H名]の専属エステシャンになるかな？」=“Does that mean that I'm gonna be your personal beautician for today, [H]?”
+「ってことは、俺が[H名]の専属エステシャンになるかな？」=“Does that mean that I'm gonna be your personal beautician for today, [H名]?”
 「うん……塗ってほしい、な……」=“Yeah... I want you, to do it...”

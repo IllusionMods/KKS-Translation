@@ -9,13 +9,13 @@
 「そ、そっか、かもね！　有名だから」=“I-I see, probably! It's pretty famous.”
 「……よかった」=“...Thank god.”
 「よかったって？」=“What for?”
-「ん？　……[P名]がごまかさないでくれたから」=“Nn? ...Because you didn't try to pretend otherwise, [P].”
-「もちろんだよ！　俺は[H名]と一緒にこの鐘を鳴らしたいんだ」=“Of course not! I want to ring this bell together with you, [H].”
+「ん？　……[P名]がごまかさないでくれたから」=“Nn? ...Because you didn't try to pretend otherwise, [P名].”
+「もちろんだよ！　俺は[H名]と一緒にこの鐘を鳴らしたいんだ」=“Of course not! I want to ring this bell together with you, [H名].”
 「私も……同じ気持ち」=“I... feel the same way.”
 「この島で生まれた恋だから……この鐘に未来を誓うのが、一番しっくりくる気が……」=“Our love was born on this island so... promising our future to each other, by ringing this bell, feels the most appro...”
 「……ううん、そうじゃない」=“...No, it's not that.”
 「あなたとの恋がいつまでも続くようにって……きっと私、何にでもすがりたいくらいの気持ちなの」=“I love you so much, I think I want to... try to use anything I can, even the most absurd thing, to make sure our love lasts forever.”
-「嬉しいよ、[H名]がそんなに俺とのことを大事に思ってくれてたなんて」=“That makes me really happy, I didn't think you thought of me that seriously, [H].”
+「嬉しいよ、[H名]がそんなに俺とのことを大事に思ってくれてたなんて」=“That makes me really happy, I didn't think you thought of me that seriously, [H名].”
 「……あんまり、顔や態度に出ないから？」=“...Because I don't really show it, much?”
 「それはちょっとあるかな」=“Yeah, a little bit, I'd say.”
 「それなら……こういう時にしっかり気持ちを見せておかないとね。……少し恥ずかしいけど」=“In that case... I have to show you my feelings properly, atleast at times like these, don't I? ...It's a bit embarrassing though.”
