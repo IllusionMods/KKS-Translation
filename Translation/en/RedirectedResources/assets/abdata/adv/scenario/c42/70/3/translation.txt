@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ありがとう、[H名]。そう言ってもらえてすごく嬉しい」=“Thanks, [H]. You don't know how happy that makes me.”
+「ありがとう、[H名]。そう言ってもらえてすごく嬉しい」=“Thanks, [H名]. You don't know how happy that makes me.”
 「実は俺も[H名]のことが好きだったんだ……」=“I've actually been in love with you myself...”
 「えっ、そ、そうなの！？」=“Eh--, r-really!?”
 「うん。だから、むしろこちらから恋人になって欲しいってお願いしたいというか……」=“Yep. So, if anything, I'm the one who wants to ask you to be my girlfriend...”
