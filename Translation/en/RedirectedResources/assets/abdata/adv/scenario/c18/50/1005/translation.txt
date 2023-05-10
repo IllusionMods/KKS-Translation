@@ -3,7 +3,7 @@
 //
 係員さん=Attendant
 「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“I shall be setting up the campfire so, please split into groups of two as you like.”
-「[H名]、是非とも俺と踊って欲しい」=“Please allow me this dance, my dear [H].”
+「[H名]、是非とも俺と踊って欲しい」=“Please allow me this dance, my dear [H名].”
 「はい、喜んで」=“Yes, gladly.”
 「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you all broken into pairs? ...Well then, once the prepwork is complete, I shall put on the music.”
 「なんだか、一緒に踊るのって恥ずかしいですよね？」=“It's kind of, embarrassing to dance together like this, isn't it?”
@@ -17,10 +17,10 @@
 「ですけど……本当にごめんなさい」=“However... I really am sorry.”
 「いつもこうなんです。何かがあれば、すぐに不幸なことが起こってしまいまして……」=“It's always like this with me. Unlucky stuff always comes and ruins things for me, no matter what...”
 「そうかな？　まぁ、足を踏まれたのは不幸な事故とも言えるけど……」=“You think so? I mean, I guess you can say that was a pretty unlucky thing but...”
-「でも、それは[H名]とフォークダンスを踊れるっていう幸運があったからこそだしね」=“That only came to pass because I'm lucky enough to get to dance with you, [H].”
+「でも、それは[H名]とフォークダンスを踊れるっていう幸運があったからこそだしね」=“That only came to pass because I'm lucky enough to get to dance with you, [H名].”
 「幸運があったから、ですか？」=“Because you were lucky, you say?”
 「そう考えると、足を踏まれるのはあながち不幸なことじゃないって思わない？」=“When you think about it like that, doesn't it turn you stepping on my foot into a lucky and happy event instead?”
-「ふふっ、そんな考え方も出来るんですね。私も[P名]さんと踊れるのは幸せです」=“Fufuh--, I suppose there's a way to think of it like that as well. I feel really happy right now as well, being able to dance with you, [P]-san.”
+「ふふっ、そんな考え方も出来るんですね。私も[P名]さんと踊れるのは幸せです」=“Fufuh--, I suppose there's a way to think of it like that as well. I feel really happy right now as well, being able to dance with you, [P名]-san.”
 「なら、不幸なことが起こったなんて思わないで欲しいな」=“In that case, I'd rather you didn't think of it as being unlucky, [H].”
 「俺も[H名]も幸せなんだからさ」=“Because we're both very happy and lucky right now.”
 「あっ……」=“Ah--...”

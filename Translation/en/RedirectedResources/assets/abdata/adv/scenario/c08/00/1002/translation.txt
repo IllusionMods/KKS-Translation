@@ -12,4 +12,4 @@
 「ふぅ……なんとか狙った場所に打ち返せるようになったよ」=“Fuuh... I think I'm able to hit them all back to the place I want, now.”
 「飲み込みが早いね。その調子なら大会で優勝できるかも」=“You're pretty good at picking things up. At this rate you'll grow into a tournament winner in no time.”
 「も～、おだて過ぎだよぉ」=“Jeez~, now you're just laying it on~”
-「でも、[P名]君のおかげで卓球が好きになったかも。またしようね♪」=“But I think I like ping pong now, and it's all thanks to you, [P]-kun. Let's do it again, okay~?♪”
+「でも、[P名]君のおかげで卓球が好きになったかも。またしようね♪」=“But I think I like ping pong now, and it's all thanks to you, [P名]-kun. Let's do it again, okay~?♪”

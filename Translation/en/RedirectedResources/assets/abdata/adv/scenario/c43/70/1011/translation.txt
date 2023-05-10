@@ -19,7 +19,7 @@
 「せやから、やっぱ時々遊びにくるぐらいにとどめといた方がええと思うんやわ」=“So I think it'd be best to just come here sometimes to have fun and no more, personally.”
 「そうだね……それは確かに。またここに来れるかなぁ」=“Yeah... you're not wrong. Wonder if we'll get to come again~”
 「……この景色、一回チラ見するだけやったら勿体ないわ。ほんま、ええ眺めやわぁ……」=“...It'd be too wasteful to only ever look at this scenery once. Seriously, the view's so nice~...”
-「うん、最高に綺麗だね。……キミも綺麗だよ、[H名]」=“Yep, it really is beautiful. ...And so are you, [H].”
+「うん、最高に綺麗だね。……キミも綺麗だよ、[H名]」=“Yep, it really is beautiful. ...And so are you, [H名].”
 「ここまで景色綺麗やと、窓ガラスもピッカピカにしとかんとアカン気ぃせえへん？」=“Don't it feel like ya gotta keep the glass real shiny too, with a view like this behin' it?”
 「まさかの無視！？」=“Ignored!?”
 「ここのめっちゃでっかいベッド、見た？　あの上でゴロンゴロンしながら、ぼーっと海を眺めるんは最高やろなぁ」=“Did ya see the ridiculously huge bed they've got in here? Bet it'd be just the best to savour the view of the sea while rollin' around on top of it.”
