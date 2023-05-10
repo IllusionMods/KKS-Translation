@@ -2,5 +2,5 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「うん……エッチ、しよ？」=“Okay... let's have, sex?”
-「[H名]……」=“[H]...”
+「[H名]……」=“[H名]...”
 「私の初めて……全部もらってね♪」=“Take all my first times... one by one, okay?♪”

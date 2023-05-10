@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「[H名]は俺のことをよくわかってくれてるよね？」=“You understand me pretty well by now, don't you, [H]?”
+「[H名]は俺のことをよくわかってくれてるよね？」=“You understand me pretty well by now, don't you, [H名]?”
 「え、急にどうしたの？　改めてそう聞かれると不安だけど、わかりたいっていう気持ちはあるよ」=“Eh, what's up, all of a sudden? Being asked that so suddenly makes me feel a bit on edge, but I really do want to understand you, that much is true.”
 「その気持ちがあれば十分だよ。つまり、俺のことを[Pあだ名]って呼んでみてくれない？」=“That's more than enough. Basically, won't you call me [Pあだ名]?”
 「キミのことを……？　えっと、理由は聞いちゃ駄目？」=“Call you that...? Erhm, could I ask why maybe?”

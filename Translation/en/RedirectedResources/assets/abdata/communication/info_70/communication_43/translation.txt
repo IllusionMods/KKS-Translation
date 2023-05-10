@@ -279,7 +279,7 @@
 「やっぱ気軽に冗談言える相手が一番だね」=“Having someone you can casually joke around with really is the best, isn't it?”
 「え？　もっかい言うて？　って、じょーだんやんか……」=“Eh? Say that one more time? Oh, just a joke...”
 「リアクションのハードルあがるから、しんどい時あるけどな」=“Sometimes ya really gotta react though, so there's times when it's rough.”
-「はぁ……ずーっと[H名]のこと、考えちゃうよ」=“Haah... I just can't help but think of you all day, [H].”
+「はぁ……ずーっと[H名]のこと、考えちゃうよ」=“Haah... I just can't help but think of you all day, [H名].”
 「かまへんやん。その調子で、どんどん考えてーや」=“I dun mind. Fill yer head up more and more with me.”
 「それはそれで嬉しいけど、もっと他のことに頭使うた方がええで？」=“Hearin' ye say that does make me happy but, ya really should use yer head for more important stuff, ya know?”
 「友達と恋人の違いってなんだろう？」=“Just what's the difference between friends and lovers, I wonder?”
@@ -288,9 +288,9 @@
 「あー、ごめん……聞き流してもうたわ」=“Ah~, sorry... I got distracted.”
 「お笑いって好き？」=“Do you like comedy acts? Rakugo and whatnot.”
 「おもろかったら好き。おもろなくてもまあまあ好きやで」=“I like 'em when they're fun. Well, even when they're not I still like 'em.”
-「[H名]の地元で有名なお土産ってなに？」=“What's your home town famous for, [H]? I'm talking souveniers.”
+「[H名]の地元で有名なお土産ってなに？」=“What's your home town famous for, [H名]? I'm talking souveniers.”
 「そらもうアレ一択よ。アレ以外に考えられへんわ」=“Gotta be that. Can't think of anythin' else other than that, yep.”
-「気が早いかな……[H名]との今後を考えちゃうんだ」=“Wonder if I'm being too hasty... I just can't help but think of our future together, [H].”
+「気が早いかな……[H名]との今後を考えちゃうんだ」=“Wonder if I'm being too hasty... I just can't help but think of our future together, [H名].”
 「いずれ考えなあかんことやし……まあ、ええんちゃう？」=“Well, we gotta think about it someday so... ain't it fine?”
 「んー、ウチはゆっくりでええかなーって思ってんねん」=“Nn~, personally I was thinkin' of takin' it easy between us, ya know?”
 「もっと親密な関係になりたいな」=“I want us to get more intimate with each other.”
