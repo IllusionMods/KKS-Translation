@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「[H名]にとって、おふくろの味って何？　ゴーヤチャンプルーとか？」=“What sort of food means "home" to you, [H]? Something like bitter gourd chanpuru or something?”
+「[H名]にとって、おふくろの味って何？　ゴーヤチャンプルーとか？」=“What sort of food means "home" to you, [H名]? Something like bitter gourd chanpuru or something?”
 「わ、なんでわかったのー？　えへへ、大当たりだよー」=“Wah, how'd you know~? Eheheh, you're right on the money~”
 「はは、なんとなくそうなんじゃないかなって。丁度メニューにあるし、俺も食べてみようかな」=“Hahah, I just had a hunch. They serve it here too so, maybe I'll get it myself too.”
 「苦みが嫌って人もいるけど、料理の仕方で気にならなくなったりするからー。きっとここのも美味しいよー」=“Some people can't handle the bitterness but, depending on how you cook it, you can get rid of it~. I have full faith this place's version will be great too~”

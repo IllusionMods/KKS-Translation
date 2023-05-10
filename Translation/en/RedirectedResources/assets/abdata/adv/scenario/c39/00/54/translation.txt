@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「実はさ、[H名]に呼んでもらいたい愛称があるんだけど……」=“I'mma come clean, there's actually a petname I want to hear you call me, [H]...”
+「実はさ、[H名]に呼んでもらいたい愛称があるんだけど……」=“I'mma come clean, there's actually a petname I want to hear you call me, [H名]...”
 「愛称？　あだ名とは違うのー？」=“A petname? Is that different from a nickname~?”
 「うん、その……[Pあだ名]って……呼んで欲しくて……」=“Yep, it's uh... I want to hear you call me... [Pあだ名]...”
 「あぁ、愛称ってそういうねー。えへっ、キミの趣味がちょっと分かった気がするさー」=“Aah, so that's what a petname is, huh~? Eheh--, I feel like I understand your fetishes a bit more~”

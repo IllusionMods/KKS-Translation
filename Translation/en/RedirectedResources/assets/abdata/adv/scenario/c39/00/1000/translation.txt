@@ -10,7 +10,7 @@
 「ちょっと恥ずかしいけど、それも含めて楽しいかな。ほらほら、早く飲も？　なんくるないさー」=“It does a little bit but, that's part of the fun for me. C'mon, let's drink it? Don't sweat the details, c'mon~”
 「あぅ、キミにそう言われちゃったら……自分も覚悟を決めるしかないねぇ……」=“Auu, well, if you say so... I guess I have no choice but to make up my heart too~...”
 「分かった、もうごちゃごちゃ考えるのはやめる！　えへへ、なんくるないさー！」=“Got it, I'mma stop thinking so much about it! Eheheh, it'll be what it'll be~!”
-「そうそう、その方が[H名]らしくて可愛いよ」=“Exactly. That's more like you, [H]. And way cuter.”
+「そうそう、その方が[H名]らしくて可愛いよ」=“Exactly. That's more like you, [H名]. And way cuter.”
 「はぅっ、やっと心を落ち着けたのに……キミに可愛いとか言われたら……うー、またドキドキが……」=“Hauu--, my heart finally settled down too... if you say that sorta stuff... uu~, my heart's gonna start...”
 「はは、うーうー言ってる[H名]は可愛いなぁ」=“Hahah, seeing you going "Uu~" like that is so cute too~”
 「うー、可愛いはもうやめてー。ドキドキが収まらなくて、いつになっても飲めなくなっちゃうよー？」=“Uu~, stop that, no more~. I'm not gonna be able to stop my heart from pounding, and then we'll never get through this drink, you know~?”

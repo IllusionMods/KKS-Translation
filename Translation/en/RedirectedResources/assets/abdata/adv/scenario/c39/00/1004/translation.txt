@@ -21,7 +21,7 @@
 「もう、だからさっきのは急かしてるとかじゃないって……キミは優しいのか意地悪なのか時々分からないさー」=“Jeez, I told you, I wasn't trying to rush you with that... sometimes I can't tell whether you're super sweet or a big bully on the inside~”
 「ごめん。ほら、好きな子には意地悪したくなっちゃうって言うでしょ？」=“Sorry. C'mon, they say that it's in a boy's nature to want to tease the girl they love, no?”
 「んー、そういうことなら……仕方ないってことにしておいてあげるさー。えへへ、好きな子かぁ……」=“Nn~, in that case... I'll write it off as something you can't help~. Eheheh, the girl you love, huh~...”
-「うん、俺は[H名]が大好きだよ。なんなら海に向かって叫んであげようか？」=“Yep, I love you, [H]. Want me to shout it out into the wide open sea?”
+「うん、俺は[H名]が大好きだよ。なんなら海に向かって叫んであげようか？」=“Yep, I love you, [H名]. Want me to shout it out into the wide open sea?”
 「ちょっ、待って！　それは流石に恥ずかし過ぎて……この海に来れなくなってしまうよー」=“Wha--, wait! That really would be too embarrassing... I won't be able to show my face on this beach anymore~”
-「じゃあ、小声で……[H名]、愛してる」=“Then, I'll just whisper it instead... I love you, [H].”
+「じゃあ、小声で……[H名]、愛してる」=“Then, I'll just whisper it instead... I love you, [H名].”
 「あ……自分も……かなさんどー。愛してるよー」=“Ah... I... love you too~. Dearly~”

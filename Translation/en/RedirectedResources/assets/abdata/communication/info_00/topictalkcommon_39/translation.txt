@@ -5,7 +5,7 @@
 「身体を動かす系なら、なんでも好きさー」=“If it's something that involves moving my body, I love it all~”
 「遊べるレジャーが多過ぎて、どれがいいか迷っちゃうね」=“There's so many activities to enjoy, it's hard to pick one, isn't it?”
 「あは、欲張らずに一日一つずつやっていけばいいのよー」=“Ahah, we can just do them all one at a time without overreaching, you know~”
-「この島のレジャーって、[H名]の故郷に似てる？」=“Are the activities here similar to the stuff back in your hometown, [H]?”
+「この島のレジャーって、[H名]の故郷に似てる？」=“Are the activities here similar to the stuff back in your hometown, [H名]?”
 「確かに似てるけど、場所が違えば新鮮な気分で楽しめるはずー」=“Pretty similar, yeah, but I can enjoy them since they're all in a new and unique place~”
 「レジャーを楽しむ時のこだわりとかってある？」=“Got any particular thing you're a stickler for when enjoying the various activities?”
 「なんでも挑戦してみることかねー。やってみないと面白さは分からないからー」=“I guess I'm a firm believer in trying absolutely everything~. Since you can't know how fun something is until you try it~”
@@ -15,7 +15,7 @@
 「あはは。キミはすっかり、この島の虜みたいだねー」=“Ahahah. Seems like you've completely lost yourself to this island, huh~?”
 「はぁ～、空気が美味しいね。深呼吸しただけで頭がスッキリするよ」=“Haah~, the air's so tasty. Just breathing makes my head clear up.”
 「空と海と山が全部綺麗だからねー。天然の空気清浄機になってるわけさー」=“It's because the air and the sea and the mountains are all clean and pretty~. They're all like natural air purifiers~”
-「[H名]って動物は好き？」=“Do you like animals. [H]?”
+「[H名]って動物は好き？」=“Do you like animals. [H名]?”
 「動物はみんな好きだよー。ちょっと生き方が違う友達みたいなものさー」=“I love them all~. They're like friends from another genus to me~”
 「これだけ豊かな自然があれば、散歩してるだけでも観光になりそうだね」=“With this much nature around us, just walking around would make for pretty good sightseeing, wouldn't it?”
 「だからよー。探検気分で楽しいさー」=“Exactly~. It really does make you feel like an explorer~”
