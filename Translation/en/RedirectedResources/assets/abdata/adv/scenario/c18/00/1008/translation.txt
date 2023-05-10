@@ -14,7 +14,7 @@
 「…………」=“...”
 「そ、その、私も[P名]さんと同じ気持ちです。素直に、嬉しいと思ってますから」=“I-I uhm, I feel the same way as you. I am very happy inside, I really am.”
 「こんな私を恋人にしてくれて……。ありがとう、ございます」=“Thank you, so much... for making me yours.”
-「[H名]……。は、はは、なんだろこれ」=“[H]... H-Hahah, man, what is this?”
+「[H名]……。は、はは、なんだろこれ」=“[H名]... H-Hahah, man, what is this?”
 「なんだかめちゃくちゃ恥ずかしいね。顔が熱いや」=“Feels super embarrassing, doesn't it? My face is burning up.”
 「私も、です。顔が熱くて……。し、潮風が涼しいですね」=“Mine, as well. It's so hot... The sea breeze is really soothing, isn't it?”
 「うん。ここがビーチで良かったかな……」=“Yep. Good thing this place's a beach...”
@@ -29,7 +29,7 @@
 「だから、あの流れ星を見て今も誰かが願いごとをしてて……」=“So, maybe even now, someone's looking at them and wishing upon them...”
 「あの流れ星の数だけ、その誰かの願いごとがあるのかなって想像したんだ」=“I was just imagining how that someone might have as many wishes, as the amount of stars shooting by.”
 「……そうですね。そういう考え方、とても素敵だと思います」=“...Indeed. I do think that your way of thinking is very lovely.”
-「[H名]はどう？　何か願いごとをした？」=“What about you, [H]? Did you wish for anything?”
+「[H名]はどう？　何か願いごとをした？」=“What about you, [H名]? Did you wish for anything?”
 「いつも不幸だって言ってるし、幸せになれますように……とか？」=“I mean, you always talk about how unlucky you are, so I thought that maybe you'd wish to be happy someday... you know?”
 「いいえ……。私は、何も願いごとをしていないです」=“No... I have wished for nothing at all.”
 「そうなの？」=“Really?”

@@ -4,7 +4,7 @@
 「ちょっとお土産を見てみようよ」=“Let's go look at souvenirs a bit.”
 「ん、ああ、いいけど」=“Nn, aah, sure I guess.”
 「うーん？　どうしようかな」=“Nnnn? I wonder.”
-「泡盛って書いてあるけど……[H名]、それ買うの？」=“It's got "Awamori" on it... [H], are you gonna buy that?”
+「泡盛って書いてあるけど……[H名]、それ買うの？」=“It's got "Awamori" on it... [H名], are you gonna buy that?”
 「ダサいかな？　……ぶっちゃけ、私ってこういうの選ぶセンスがなくってさ」=“Does it look lame? ...I'mma be honest, I've got no sense of this sorta thing.”
 「でも、せっかく来たんだし記念になんか欲しい気もする」=“But, we came all the way here so I kinda want some sort of memento too, you know?”
 「まあ、急ぐようなことでもないしゆっくり気に入るものを探せば……」=“Well, it's not like we're heading back home in a rush so just take your time and find something you...”

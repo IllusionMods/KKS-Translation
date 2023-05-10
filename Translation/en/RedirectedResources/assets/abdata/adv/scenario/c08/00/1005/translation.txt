@@ -7,7 +7,7 @@
 「うん、いいよ」=“Yeah, alright.”
 「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Everyone paired up? ...then I'll put on the music as soon as everyone's ready.”
 「えへへ。雰囲気バッチリ♪」=“Eheheh, the mood's perfect♪”
-「[P名]君とフォークダンスを踊れるなんて夢みたいだなぁ」=“Being able to do a folk dance with you is just so dreamy, [P]-kun~”
+「[P名]君とフォークダンスを踊れるなんて夢みたいだなぁ」=“Being able to do a folk dance with you is just so dreamy, [P名]-kun~”
 「こういうシチュエーションに憧れてたの？」=“You dream about this sort of stuff?”
 「うん。たくさんの人と一緒に踊る機会なんて滅多にないでしょ？」=“Yeah. I mean, chances like this to dance together with so many people at once are rare, no?”
 「お城の舞踏会みたいで前から憧れてたんだぁ」=“I've always dreamed of a ball dance, like the ones in castles and stuff~”
@@ -17,6 +17,6 @@
 「言い過ぎじゃないよ。だって私、[P名]君のことが世界で一番好きなんだもん」=“It's not a bit much at all. I mean, I love you the most in the world afterall.”
 「自分の彼氏君を素敵だと思うのは、彼女として当然でしょ？」=“Isn't it just natural for me to think of you as just the best, as your girlfriend?”
 「だから私の中では[P名]君こそが、憧れの王子様その人なんだよ」=“That's why, in my heart, you're my very own prince incarnate.”
-「ありがとう。[H名]にそう言われたら自信が出てきたよ。俺も期待に応えないとね」=“Thank you, [H]. I think I can feel a bit more confident after all that. Especially since I can't not live up to those words.”
+「ありがとう。[H名]にそう言われたら自信が出てきたよ。俺も期待に応えないとね」=“Thank you, [H名]. I think I can feel a bit more confident after all that. Especially since I can't not live up to those words.”
 「おおっ、愛しの姫君よ。私とダンスを踊っていただけますか？」=“O my beloved princess. Would you care for a dance, on this glorious night?”
 「はいっ、喜んで。えへへ♪」=“I'd love one. Eheheh♪”
