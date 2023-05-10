@@ -3,7 +3,7 @@
 //
 「知ってる？　ウムイの鐘を鳴らした二人は必ず結ばれるという言い伝えがあるみたいだよ」=“Did you know? Seems like there's a legend saying that any couple that rings this bell together gets fated to be tied together someday.”
 「うんうん。素敵な言い伝えだよねぇ」=“Yepyep. It's a really beautiful legend, isn't it~”
-「せっかくだから、私と[P名]君で鐘を鳴らそうよ。それで永遠の愛を誓おっ」=“Since we're here. let's ring it together, [P]-kun. And pledge our love to each other forever--”
+「せっかくだから、私と[P名]君で鐘を鳴らそうよ。それで永遠の愛を誓おっ」=“Since we're here. let's ring it together, [P名]-kun. And pledge our love to each other forever--”
 「そうだね。さっそく鳴らしてみよう」=“Yeah. Let's ring it.”
 「あっ！　ちょっと待って！」=“Ah--! Wait just a sec!”
 「急にどうしたの？」=“What's the matter, so suddenly?”
@@ -12,7 +12,7 @@
 「大変なことって例えば？」=“A problem how?”
 「幸せになりすぎて天国へ召されちゃうかも！？」=“We might get dragged to heaven out of sheer happiness!”
 「[H名]と一緒ならそれでもいいけどなぁ」=“If you're with me for the ride I don't think I'd mind really.”
-「ダメだよ。[P名]君とまだまだ遊びたいもん」=“That's not good, [P]-kun. We still have lots to do, lots to play around with.”
+「ダメだよ。[P名]君とまだまだ遊びたいもん」=“That's not good, [P名]-kun. We still have lots to do, lots to play around with.”
 「あはは。冗談だよ」=“Ahahah. I'm just joking.”
 「仮にラブラブ度が上がっても平気さ。言い伝え通り、将来的に結ばれるだけだから」=“Even if we do get more lovey-dovey, it'll be fine. Just like the legend says, at most we'll just have to get married someday.”
 「それもそっかぁ。この先もずっと[P名]君と一緒だもんね」=“I guess you're right~. Afterall, we're gonna be together forever, no matter what happens, aren't we?”

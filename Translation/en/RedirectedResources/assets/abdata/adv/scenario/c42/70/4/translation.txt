@@ -7,4 +7,4 @@
 「そんなことは……ない、かも？　キミとなら……うん、少し興味あるし……」=“May... be not? If it's you then... yep, I am a bit interested...”
 「じゃあ、試しにしてみようよ。ちゃんと優しくするから」=“Then, let's just do it as a test. I'll make sure to be gentle.”
 「う、うん……。じゃあ、お、お願いします……」=“O-Okay... then, p-please...”
-「ありがとう、[H名]！」=“Thanks, [H]!”
+「ありがとう、[H名]！」=“Thanks, [H名]!”

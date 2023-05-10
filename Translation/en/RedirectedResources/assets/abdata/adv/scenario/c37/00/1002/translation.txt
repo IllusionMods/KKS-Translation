@@ -5,7 +5,7 @@
 「私の勝ち……でいいですか？」=“Can I... take that as a win?”
 「う、うん。おかしいな……結構本気でやったんだけどな……」=“Y-Yeah. Weird... I was being pretty serious though...”
 「あなたは動きが大きいので、球がどこに飛んでくるか分かりやすいです」=“Your movements are very big so, it's easy to tell where the ball will go.”
-「ぐ……逆に[H名]は動きが最小過ぎて……どこを狙ってるのか全然分からなかったよ……」=“Guh... if anything, you move so little, [H]... I couldn't tell at all where you were aiming...”
+「ぐ……逆に[H名]は動きが最小過ぎて……どこを狙ってるのか全然分からなかったよ……」=“Guh... if anything, you move so little, [H名]... I couldn't tell at all where you were aiming...”
 「卓球の基本です」=“It's the basics of ping pong.”
 「そ、そうだね……えっと、もう一勝負しない？」=“R-Right... erhm, wanna go for another round?”
 「挑戦は歓迎です。身体も丁度いい具合に温まってきました」=“Gladly. My body has gotten fairly warmed up now as well.”

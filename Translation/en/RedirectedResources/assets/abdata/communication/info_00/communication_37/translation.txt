@@ -224,7 +224,7 @@
 「あなたのお嫁さん、でしょうか」=“Becoming your bride, I suppose?”
 「少し考えさせて下さい」=“Please let me think on it for a bit.”
 「あ……すみません、あなたに見惚れていました」=“Ah... I'm sorry, I was lost in your face.”
-「この前、[H名]が夢に出てきてさ……」=“The other day, you showed up in my dreams, [H]...”
+「この前、[H名]が夢に出てきてさ……」=“The other day, you showed up in my dreams, [H名]...”
 「奇遇ですね、私もあなたの夢を見ました」=“What a coincidence. I dreamed of you as well.”
 「[H名]は常に冷静だね」=“You sure are always calm and collected, [H名].”
 「そんな事はありません。特にあなたの事を思うと……」=“That's not true. Especially not when I'm thinking about you...”

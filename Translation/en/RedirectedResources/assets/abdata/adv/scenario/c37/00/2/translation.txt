@@ -2,9 +2,9 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 （よし、今日こそ告白するぞ。こんな雰囲気のいい場所で二人きりなれたんだ、これは大チャンスだ！）=(Alright, I'm gonna confess today for sure. We're alone together in a place with such a nice atmosphere, this is my big chance!)
-「[H名]……驚かないで聞いてね？」=“[H]... don't get shocked and just hear me out, okay?”
+「[H名]……驚かないで聞いてね？」=“[H名]... don't get shocked and just hear me out, okay?”
 「はい、驚きません」=“Yes, I shall not get shocked.”
-「う、うん……えっとね、俺……[H名]のことが好きなんだ！」=“O-Okay... erhm, see... I love you, [H]!”
+「う、うん……えっとね、俺……[H名]のことが好きなんだ！」=“O-Okay... erhm, see... I love you, [H名]!”
 「…………へぅ」=“...Heuh.”
 （え……なんか今、変な声出た？　可愛かったけど、どういう意味なんだろう……）=(Eh... did she just, go "heuh"? It was really cute but, just what did she mean by it...)
 「ごめん……いきなり告白なんて、迷惑だったかな？」=“Sorry... I guess a confession out of nowhere like this, is just a bother?”
@@ -19,7 +19,7 @@
 「でも……どうして私なのですか？　正直、変な女の子だという自覚はあります」=“But... why me? Honestly, I realize that I am a fairly strange girl.”
 「他の皆さんのように明るく笑ったりできませんし、楽しいお話をするのも得意ではありません」=“I cannot laugh brightly like everyone else, and it is not my strong suit to come up with engaging topics to chat about.”
 「そんなの関係ないよ。俺は[H名]の口元がほんの少し緩んだだけで嬉しくなるし……」=“None of that matters. Even just seeing the tiniest smile on your face already makes my day...”
-「他の誰と話すより、[H名]と話すのが一番楽しい！」=“and rather than chat with anyone else, I'd rather be with you, [H]!”
+「他の誰と話すより、[H名]と話すのが一番楽しい！」=“and rather than chat with anyone else, I'd rather be with you, [H名]!”
 「……ではもう、私にはあなたしかいません。そんな風に言ってくれるのは、あなたしか……」=“...In that case, I have nobody else but you myself. You are the only one, who'd ever think of it that way...”
 「私もあなたが大好きです。誰よりも笑顔が見たくて、誰よりもお話したいです」=“I love you as well. I wish to see your smile more than anyone else's, and have you talk to me more than anyone else.”
 「うん、二人でたくさん笑って、たくさん楽しい話をしよう」=“Yep, let's laugh lots together, and have lots of fun chats, alright?”
@@ -29,7 +29,7 @@
 「きっとそのうち、明るく笑えるようにもなるよ。あ……別に今のままでも十分だけどね」=“You'll learn to laugh brightly sooner or later too. Ah... you're perfectly fine as you are right now too though, okay?”
 「やはり明るく笑えた方が……あなたも嬉しいですか？」=“Would it make you happier afterall... if I did do that?”
 「うーん……正直に言えば、[H名]の笑顔が見たいって気持ちもあるよ。でも、無理することはないからね？」=“Nnnn... if I'm being honest, I do wanna see you smile, of course I do. But it's not like you need to force yourself, okay?”
-「何回も言うけど、俺は今の[H名]でも十分過ぎるくらいに可愛いと思ってるから」=“I've said this a few times already but, you're already more than cute enough in my eyes, [H].”
+「何回も言うけど、俺は今の[H名]でも十分過ぎるくらいに可愛いと思ってるから」=“I've said this a few times already but, you're already more than cute enough in my eyes, [H名].”
 「ありがとうございます。ですが、あなたにはもっと私を好きになってもらいたいので……」=“Thank you very much. However, I wish to make you fall even more for me so...”
 「ふ……ふふ……ふふふ……こんな感じで、どうでしょう？」=“Fuh... fufuh... fufufuh... how was, that?”
 「えっと……うん、凄く可愛かったよ」=“Erhm... yep, it was really cute.”
