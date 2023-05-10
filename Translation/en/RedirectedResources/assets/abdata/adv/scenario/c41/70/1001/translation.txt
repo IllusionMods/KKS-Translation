@@ -3,7 +3,7 @@
 //
 「あ、いい風が吹いてるね。ここでちょっと涼んでいこうか」=“Ah, what a nice breeze. Let's cool off here for a bit.”
 「ふふ、二人で縁側に座ってるだけなのに、ワクワクしちゃう。キミと一緒なら、いつでもどこでも楽しいよ」=“Fufuh, even though we're only just sitting on the verandah together, my heart's pounding. With you, I have fun just about anywhere and everywhere.”
-「うん、俺も同じ気持ちだよ……けど、最近ちょっと気になってることがあってさ。俺って[H名]の邪魔になってない？」=“Yep, I feel the same way... but, it's been on my mind a bit lately. You sure I'm not a bother, [H]?”
+「うん、俺も同じ気持ちだよ……けど、最近ちょっと気になってることがあってさ。俺って[H名]の邪魔になってない？」=“Yep, I feel the same way... but, it's been on my mind a bit lately. You sure I'm not a bother, [H名]?”
 「え……全然そんなこと思ってないけど……急にどうしたの？」=“Eh... I've never once thought that at all... what's wrong?”
 「いや、[H名]って遊びより研修を優先させたいタイプかなって思ってさ」=“No, well, I was just wondering if you'd rather be spending the time here studying rather than just messing around like I do.”
 「まあ、研修旅行だから当然なんだけど……だから俺とデートしたり遊んだりしてるせいで時間を奪っちゃってないか、心配でさ」=“Well, it's a study trip so, I imagine you would... So I've been feeling a bit concerned, whether I've just been robbing you of your free time by dragging you along with me every which way.”
@@ -26,4 +26,4 @@
 「え～～！　振らないよ！　どうして心配なの？　ボク、キミに何か言っちゃった？　今話して、何で心配なのか教えて！」=“Eeh~~! I would never! What's up now? Did I say something to make you worry? Tell me right now, I want to know what's on your mind!”
 「あはは、うそうそ。[H名]には絶対に振られない自信があるからヘーキヘーキ」=“Ahahah, I was joking, sorry. I have full faith that you'd never break up with me so I'm A-OK here.”
 「も～、また翻弄されちゃった……でもボク、そうやってキミが自信を持ってくれるなら、いくらでも振り回されちゃってもいいかも」=“Jeez~, you're toying with me again... but if you have that much faith in me, I think I'm fine with you toying around with me as much as you want.”
-「[H名]も俺のことを振り回しちゃっていいよ。[H名]にだったら、多分何されても嬉しいからさ」=“You can toy around with me too, [H]. If you're the one doing it, it's probably gonna make me happy no matter what it is.”
+「[H名]も俺のことを振り回しちゃっていいよ。[H名]にだったら、多分何されても嬉しいからさ」=“You can toy around with me too, [H名]. If you're the one doing it, it's probably gonna make me happy no matter what it is.”

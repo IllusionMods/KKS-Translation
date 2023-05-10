@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「[H名]は卓球できる？　台があるしやっていこうよ」=“You know how to play ping pong, [H]? We've got a table here so let's go for a round, c'mon.”
+「[H名]は卓球できる？　台があるしやっていこうよ」=“You know how to play ping pong, [H名]? We've got a table here so let's go for a round, c'mon.”
 「ふぅ……少し疲れてしまいました。休憩しませんか？」=“Fuuh... I feel a bit tired. How about we take a break?”
 「そうだね、俺も少し疲れちゃったよ」=“Good idea, I feel a bit tired too.”
 「卓球って台が小さいからそれほどじゃなさそうに見えるけど、実際はかなりハードだよね」=“Ping pong tables are pretty small so it doesn't seem hard at all but, it's actually pretty tough, isn't it?”
