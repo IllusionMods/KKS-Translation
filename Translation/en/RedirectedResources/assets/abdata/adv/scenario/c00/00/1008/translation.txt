@@ -9,7 +9,7 @@
 「沢山あっても、現れてから消えるまで一瞬ですものね。とても間に合わないわ」=“Even with this many in the sky, each disappears in less than a second. By the time you think of one, it's already gone.”
 「うん……短くて、シンプルな願い事、予め用意しておかなきゃ……」=“Yeah... they last for so little, you gotta prepare a simple wish, in advance...”
 「ねえ、君は、どんな願い事をしたかったの？」=“Hey, what would you have wished for?”
-「はは、そんなの決まってるよ。[H名]と、末永く一緒にいること……かな」=“Hahah, that's simple. For me, it'd be... being with you forever, [H].”
+「はは、そんなの決まってるよ。[H名]と、末永く一緒にいること……かな」=“Hahah, that's simple. For me, it'd be... being with you forever, [H名].”
 「あら嬉しい……。でも、その願い、もう叶っちゃってるんじゃないの？」=“Oh my, that's sweet... But, do you even have to wish for that, at this point?”
 「末永く、だからね。[H名]の健康祈願も兼ねてるんだよ。いつまでも元気でいてもらわなきゃね」=“Well, "forever"'s also part of it, since that'd mean you'd have to stay healthy and hearty forever, for me.”
 「随分気の長いお願いね……でも、いいわ、その願い……叶えてあげる」=“You've thought that one out... but, okay then, I'll make that... wish come true.”

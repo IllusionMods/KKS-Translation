@@ -23,16 +23,16 @@
 「でも、それと同時に不安にもなるんだ」=“But, I feel anxiety at that same time.”
 「きみと離れたくない。この時間がずっと続けばいいのに……ってね」=“I don't want to be apart, if only this time could last forever... and all.”
 「ホントだ。私と同じことを考えてる。でも、どうしてそんな風に思うの？」=“You're right. That really is exactly how I feel too. But, why do you think that way?”
-「きみのことが……[H名]が好きだからだ」=“It's because I... love you, [H].”
+「きみのことが……[H名]が好きだからだ」=“It's because I... love you, [H名].”
 「えっ！？　あなたが私を……？」=“Eh--!? Love me...?”
 「そうさ。それ以外に理由はない」=“Yep. I have no other reason.”
 「[H名]のことが好きだから、そばにいるとドキドキするんだ。ずっと一緒にいたいと思うんだ」=“I love you, that's why being with you makes my heart pound. That's what makes me want to stay by your side forever.”
 「そ、そうなんだ……」=“I-I see...”
-「[H名]はどうかな？　俺と一緒にいるのは嫌？」=“What about you, [H]? Do you not like being with me?”
+「[H名]はどうかな？　俺と一緒にいるのは嫌？」=“What about you, [H名]? Do you not like being with me?”
 「ううんっ！　そんなことないよっ」=“Nuh-uh--! Not at all--!”
-「[P名]君とずっと一緒いたい。お胸のドキドキだって嫌じゃない。むしろ……」=“I want to stay with you forever, [P]-kun. I don't mind how much my heart pounds either. If anything...”
+「[P名]君とずっと一緒いたい。お胸のドキドキだって嫌じゃない。むしろ……」=“I want to stay with you forever, [P名]-kun. I don't mind how much my heart pounds either. If anything...”
 「あ、そっかぁ……この気持ちがそうなんだね。やっとわかったよ」=“Ah, I see... so this is what that feeling is, huh? I finally understand now.”
-「私も[P名]君が好き。私の恋人になってください」=“I love you too, [P]-kun. Please be my boyfriend.”
+「私も[P名]君が好き。私の恋人になってください」=“I love you too, [P名]-kun. Please be my boyfriend.”
 「喜んで」=“Gladly.”
 「ホント？　やったぁ～！」=“Really? Yay~!”
 「というかさっきの台詞、俺が言うつもりだったんだけど……」=“To begin with, I was planning on asking you that...”
@@ -41,4 +41,4 @@
 「もう遠慮しないからね？　これからは愛を伝えまくっちゃうんだから」=“I'm not gonna hold back anymore, okay? I'm going to shower you in my love from now on.”
 「もちろん覚悟の上さ。俺だってもっと素直になる」=“I'm more than ready for that. I'll become more honest about it too.”
 「これからもよろしくね。[H名]」=“Let's have a great old time together, okay?”
-「うん♪　よろしくね、[P名]君。えへへ♪」=“Yeah♪ Let's, [P]-kun. Eheheh♪”
+「うん♪　よろしくね、[P名]君。えへへ♪」=“Yeah♪ Let's, [P名]-kun. Eheheh♪”
