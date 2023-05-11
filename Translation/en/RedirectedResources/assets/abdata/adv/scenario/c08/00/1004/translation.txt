@@ -18,11 +18,11 @@
 「はぁぁ～……」=“*Haaaah*~...”
 「ここで深呼吸！　[H名]が吐いた息を俺が吸う」=“Alright, and now I'll breathe that in! The air that you breathed out.”
 「えぇっ！？」=“Eeeh--!?”
-「実に美味い空気だ！　[H名]の息吹を感じるよ」=“Truly, such tasty air! I can feel your vitality in it, [H名].”
+「実に美味い空気だ！　[H名]の息吹を感じるよ」=“Truly, such tasty air! I can feel your vitality in it, [H].”
 「あぅ～、私の大事な彼氏君が壊れちゃったよぉ」=“Aau~, my dear boyfriend broke~”
 「あはは。酸素の吸い過ぎでハイになってるかも」=“Ahahah. Might be too much oxygen too fast.”
 「も～、綺麗な海でも眺めて落ち着いてよぉ」=“Jeez~, look at the beautiful sea or something and calm down~”
-「どうせ眺めるなら[H名]の顔がいいな」=“If I gotta look at something I'd rather look at your face, [H名].”
+「どうせ眺めるなら[H名]の顔がいいな」=“If I gotta look at something I'd rather look at your face, [H].”
 「あぅあぅ。やっぱりまだ壊れたままだよぉ」=“Auu auuu. You're still broken~”
 「これでお返し完了だね。[H名]の照れる顔が見られて満足だ」=“Alright, that's that for my revenge. I've had my fill of your blushing face.”
 「あっ！　そういうこと～！？　もぉ～、意地悪なんだからぁ」=“Ah--! Was that it~!? Jeez~, you're such a bully~”

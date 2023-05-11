@@ -7,7 +7,7 @@
 「そうか？　なんなら団扇で扇いでやろうか？　風を感じるだけでも大分違うぞ」=“Is that so? Shall I fan you with an Uchiwa then? Just the breeze alone should make quite the difference.”
 「はは、[H名]って案外心配性だよね。俺は本当に大丈夫だから」=“Hahah, you're a worrywart inside, huh? I'm fine, seriously, so don't worry so much.”
 「心配もするさ。熱中症は怖いのだ、舐めてはいかん。もしも貴殿に何かあったら……」=“You cannot expect me not to. Heatstroke is quite the scary thing, you mustn't underestiamte it. If something were to happen to you...”
-「その時は[H名]が看病してくれる？」=“Will you nurse me back to health at that time, [H名]?”
+「その時は[H名]が看病してくれる？」=“Will you nurse me back to health at that time, [H]?”
 「もちろんするぞ。貴殿がどこかで倒れたりしたら、すぐに担いでこういう涼しい場所に寝かせてだな……」=“Of course. If you were to collapse on me, I would shoulder you and lie you down in a cool place like this...”
 「人工呼吸とかもしてくれる？」=“Will you do CPR on me too?”
 「なっ、そ、そうだな……必要とあれば、我はためらいなく人工呼吸だってするぞ」=“Wha--, r-right... if there is need for it, I would do it without any hesitation.”
@@ -17,7 +17,7 @@
 「そう言ってもらえるのは栄誉なことだが……貴殿はその、我が他の者と人工呼吸しても良いのか……？」=“I am honoured, however... does it not bother you, the idea of me giving artificial respiration to another person...?”
 「本音を言えば嫌だよ。でも人命がかかってるなら仕方ないよね」=“Honestly, it does. But it's not something you can help, especially if someone's life is on the line.”
 「はは、そうか。その言葉が聞けて安心した。な、なんだか暑いな……気温が上がってきたのだろうか……」=“Hahah, I see. That does bring me quite some relief. I-I feel quite hot all of a sudden... I do wonder if the temperature just went up...”
-「ん？　そう？　[H名]こそ、実は暑さに弱かったり？」=“Nn? You think so? You sure you're not the one weak to the heat, [H名]?”
+「ん？　そう？　[H名]こそ、実は暑さに弱かったり？」=“Nn? You think so? You sure you're not the one weak to the heat, [H]?”
 「ああ、弱いかもしれない。普通の暑さはフルプレートの鎧を着こんでいようと耐えられるが……」=“Aah, perhaps I might be. If it were simply normal heat, I could bear it even under full plate armor, however...”
 「貴殿の、その……愛の熱さには……少々弱いかもな……」=“I may be, uhm... a bit weak... to the heat of your love...”
 「え……ぁはは、急にそんな恥ずかしいこと言われたら、俺も暑くなってきちゃったな……」=“Eh... ahahah, now you've gotten me feeling hot too...”

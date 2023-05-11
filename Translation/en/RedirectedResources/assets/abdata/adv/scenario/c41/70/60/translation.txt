@@ -4,7 +4,7 @@
 「こんばんはー。ボクだけど、いる？　連絡もしないで来ちゃってごめんね。急に会いたくなっちゃって……」=“Hey~. It's me, are you in? Sorry for coming without calling or anything. I just wanted to see you...”
 SELECTION:「返事をする」=Respond
 SELECTION:「……」=...
-「[H名]？　もう夜だけど、どうしたの？」=“[H名]? It's already night out, what's wrong?”
+「[H名]？　もう夜だけど、どうしたの？」=“[H]? It's already night out, what's wrong?”
 「あ……うん、そう、夜だけど……というより、夜だから、かな？　キミのことを考えてたら、どうしても会いたくなっちゃって……」=“Ah... yeah, that's right, it's already night... no, more like, because it's night? I started thinking about you, and I just couldn't help myself anymore...”
 「もう遅いし、我慢してベッドに入ったんだけど、どんどん身体が火照ってきちゃって……ひとりでするぐらいなら、キミとしたいなって……」=“It was already pretty late so, I put up with it and got in bed but, my body started getting hotter and hotter... and I thought that, if I was gonna do it myself, I'd rather have you do me...”
 「そんな風に言われたら、俺も我慢できなくなるよ。しっかり鍵をかけて、ふたりが満足するまでヤりまくっちゃおう」=“You're gonna make my self control evaporate too, if you say stuff like that. Let's put on all the locks, and go at it until we're both fully satisfied.”
