@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ここのオイル使っていいみたいだね。[H名]さえよかったら塗っていく？」=“Seems like we can freely use the oil here. Want try it, [H名]?”
+「ここのオイル使っていいみたいだね。[H名]さえよかったら塗っていく？」=“Seems like we can freely use the oil here. Want try it, [H]?”
 「使っていいなら塗ってみようかな」=“If it's free then why not, I guess.”
 「あ、俺が塗ってあげるよ？」=“Ah, I can put it on you, you know?”
 「なんだか下心を感じちゃうけど……キミならいいかな、それじゃお願いできる？」=“I doubt your pure intentions, somehow... but I guess I don't mind if it's you. Could you, please?”

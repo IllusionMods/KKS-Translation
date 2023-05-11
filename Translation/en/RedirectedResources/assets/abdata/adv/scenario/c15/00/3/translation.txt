@@ -3,7 +3,7 @@
 //
 「お、俺のことが好きだったの？」=“Y-You've been in love with me?”
 「そ、そうだぞ……ダメなのか？」=“T-That's right... should I not be?”
-「ダメなもんか！　俺も、[H名]の事が好きだ……付き合いたいと思ってるよ」=“No way! I love you too, [H名]... I want to go out with you too.”
+「ダメなもんか！　俺も、[H名]の事が好きだ……付き合いたいと思ってるよ」=“No way! I love you too, [H]... I want to go out with you too.”
 「そうなのか！？　本当だったら嬉しいぞ？」=“Really!? You know you just made my day, right? Don't say you didn't mean it.”
 「本当だよ。俺たち、相思相愛なんだ」=“I meant it. We love each other.”
 「やったー！　良かった、あたしたち付き合えるんだな？　それじゃあ、よろしくな！」=“Yay~! Thank god, so we can go out together, right? That's great then!”
