@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ねぇ、[H名]。少し浜辺を散歩していこうよ」=“Hey, [H名]. Let's go take a walk along the beach.”
+「ねぇ、[H名]。少し浜辺を散歩していこうよ」=“Hey, [H]. Let's go take a walk along the beach.”
 「きゃっ！？」=“Kyah--!?”
 「大丈夫？」=“You alright?”
 「大丈夫です。波にさらわれて、ちょっとだけバランスを崩してしまっただけですから」=“I am. The wave just hit my legs and made me lose balance a bit.”
 「それなら良いけど……。でも、波打ち際はちょっと歩き辛いね」=“Alright, good... Still, it's pretty hard to walk along the seashore like this, huh?”
-「[H名]もそう思わない？」=“Don't you think so too, [H名]?”
+「[H名]もそう思わない？」=“Don't you think so too, [H]?”
 「実は少しだけ思ってます」=“I have been thinking that actually, just a bit.”
 「私って不幸ですから、転んで全身がずぶ濡れになってしまいそうですし……」=“I am a very unlucky person so, I might very well end up tripping and getting drenched from head to toe...”
 「じゃあ、俺に掴まりながら歩くのはどうかな？」=“Then, how about walking while holding onto me?”
@@ -24,4 +24,4 @@
 「おっと……大丈夫？」=“Woah... you okay?”
 「は、はい、驚いただけですから、大丈夫なんですけど……」=“Y-Yes, it just caught me a bit off-guard, I am alright...”
 「やっぱり手を繋ぎながら歩こうか？」=“How about we hold hands properly afterall, huh?”
-「はい……お願いします、[P名]さん。うぅ、恥ずかしいです……」=“Yes... please, [P名]-san. Uuu, so embarrassing...”
+「はい……お願いします、[P名]さん。うぅ、恥ずかしいです……」=“Yes... please, [P]-san. Uuu, so embarrassing...”

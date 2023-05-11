@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「[H名]ってホエールウォッチングにも興味があるんじゃない？」=“Aren't you pretty into in whale watching too, [H名]?”
+「[H名]ってホエールウォッチングにも興味があるんじゃない？」=“Aren't you pretty into in whale watching too, [H]?”
 「え？　キミの言う通りだけど、どうしてボクがクジラに興味があるってわかったの？」=“Eh? I am but, how'd you know?”
 「え？　いや、[H名]ってだいたいのことには興味津々だから、クジラもそうかなって」=“Eh? Well I mean, you're into just about everything so, it was just a random shot in the dark really.”
 「あはは、もしかしたら研修旅行で舞い上がっちゃってるのかも、ちょっと照れちゃうな」=“Ahahah, I might be getting a bit too into this whole study trip thing. That's a bit embarrassing.”
@@ -10,12 +10,12 @@
 （あはは、顔が真っ赤になっちゃった。クジラも見たいけど、普段の[H名]にも興味あるなぁ）=(Ahahah, her face just went red. We could go look at whales, but personally I'm more interested in her normal self.)
 「ヤシガニは危険だから、見つけても近づいたりしない方がいいよ」=“Coconut crabs are dangerous so, even if you come across one, you should keep your distance.”
 「あ……や、やっぱりそうだよね」=“Ah... o-of course, that makes sense.”
-「[H名]……？　もしかして、近づいたりしてるの……？」=“[H名]...? Wait, did you already get up close to one...?”
+「[H名]……？　もしかして、近づいたりしてるの……？」=“[H]...? Wait, did you already get up close to one...?”
 「そういうわけではないんだけど……実は、たまに巣穴をそーっと覗いてるんだ」=“Not exactly but... I sometimes go look at one quietly, when its in its nesting hole.”
 「なんで……？」=“Why...?”
 「暗闇で目を光らせてるヤシガニって、ロボットものの演出みたいでカッコいいだろうなと思って……」=“The way they keep a watchful eye from the dark, just seems so cool, like a scene from a robot movie...”
 「いや、カッコいいかも知れないけど、普通に危ないからね？」=“No, well, it might be pretty cool but, they're dangerous, okay?”
-「[H名]は月桃って知ってる？」=“You know what a shell ginger is, [H名]?”
+「[H名]は月桃って知ってる？」=“You know what a shell ginger is, [H]?”
 「色々調べたよ。食品やオイルに加工されるのはもちろん、月桃の茎は和紙にも加工されるんだよ」=“I've actually looked into it. Obviously, it gets processed into food and oil and whatnot but, even the stem is processed into handcrafted paper.”
 「詳しいね。[H名]はそういうのを調べるの好きそうだもんね」=“You sure know your stuff. You do seem like the type to get curious about stuff like that.”
 「ふふ、ありがとう。調べるのが好きっていうのはそうなんだけど……」=“Fufuh, thanks. I do like looking into things, but...”
@@ -33,7 +33,7 @@
 （触れ合う気まんまんだ）=(She really wants to pet it, huh?)
 「あ、でもやっぱり怖がらせちゃうかもだし、やめておこうかな、うん、見てるだけにしよう」=“Ah, but that really might end up scaring it off, so maybe not. Yep, I'll just watch from afar.”
 「あはは、仲良くなれたらいいね」=“Ahahah, I hope you find a friendly one.”
-「[H名]は流れ星って好き？　あまり嫌いな人もいないと思うけど」=“Do you like shooting stars, [H名]? I mean, I don't think there are many people out there that really hate them, but still.”
+「[H名]は流れ星って好き？　あまり嫌いな人もいないと思うけど」=“Do you like shooting stars, [H]? I mean, I don't think there are many people out there that really hate them, but still.”
 「ふふ、そうだね。でも、流れ星が悪い予兆だとする国もあるんだよ」=“Fufuh, yeah. But, they are considered bad omens in some countries, you know?”
 「へえ、そうなんだ。でも[H名]はそうじゃないよね？」=“Hoh, I didn't know that. But you don't think of them as one, right?”
 「うん、ボクは流れ星大好きだよ」=“Yep, I love shooting stars.”
@@ -88,7 +88,7 @@
 「そうなんだ。孔雀が羽を広げるのもそうだけど、生き物の求愛行動って綺麗なものが多いよね」=“I see. A whole lot of courtship rituals out there are really pretty, aren't they? Peacocks spread out their wings to court each other too.”
 「綺麗に光って相手にアピールするなんて、人間にはない発想だよね」=“Making yourself glow beautifully and appealing to a mate, it's not something humans really do, you know?”
 「人は自分が光る代わりに言葉をキラキラさせたり、綺麗な場所に行って告白したりするよね」=“Rather than making ourselves glow, we make our words glow, we take them to beautiful places and confess there.”
-「[H名]もそんな風にアピールされたい？」=“Do you want to be appealed to like that too, [H名]?”
+「[H名]もそんな風にアピールされたい？」=“Do you want to be appealed to like that too, [H]?”
 「えっ、ボクは……うーん、キラキラしてなくてもいいかな。普通に、ありのままの想いを伝えてくれたらそれで嬉しいよ」=“Eh--, I... nnn, I don't need such special treatment. As long as they're honest and tell me their feelings straight on, I'd be happy with that.”
 （照れながらも飾らない感じが[H名]らしいな。参考にさせてもらおう）=(That's just like her, to blush yet not put on any airs at all. I'll file that one for later reference.)
 「野生のウミガメって本当にいるんだね。この前見かけてびっくりしたよ」=“There really are wild sea turtles out there, huh? I saw one the other day and it shocked me.”
@@ -102,7 +102,7 @@
 「なるほど、[H名]は産卵フェチか、覚えておくよ」=“I see, so you've an egg laying fetish, huh? I'll note that down.”
 「産卵フェチって何！？　ボク、変な勘違いされちゃってない！？」=“What sort of fetish is that!? You sure you're not misunderstanding me here!?”
 （焦る[H名]も可愛いな）=(Yep, even her flustered side is adorable.)
-「星の砂のこと、[H名]はどう思ってる？」=“What do you think of star sand, [H名]?”
+「星の砂のこと、[H名]はどう思ってる？」=“What do you think of star sand, [H]?”
 「え……どうって、ちっちゃくて、トゲトゲしてるのが可愛い……かな。急にどうしたの？」=“Eh... "what", I mean, the tiny spikey shape is really cute... I guess. Why the sudden question?”
 「いや、この前砂浜を歩いてた時に見つけてさ、改めて星の砂って不思議な存在だなと」=“Well, I was just taking a walk down the beach, you see. I found some, and I just couldn't help but be in awe again.”
 「なるほどね。ボク、子供の頃は星の砂のことを隕石の欠片だと思ってたんだよ」=“I see. When I was little, I used to think that starsand was just ground up meteorite fragments.”
@@ -121,15 +121,15 @@
 「怒ってはないけど……でも、うーん……キミがそれだけボクに気を許してくれてるんだよね……？」=“I'm not mad, dummy... but, nnnn... it just means that you feel just that comfortable around me, right...?”
 「もちろん！　そうじゃなきゃおっぱいの話なんてしないよ……いや、でも非常識だったのは確かか……」=“Of course! I would never bring up something like that otherwise... no, I guess I did go too far there...”
 「キミはやっぱり優しいね。怒るというより恥ずかしかっただけだよ。ボクの胸が好きなら……ま、また、エッチの時にいっぱい触っていいからね」=“You really are sweet, you know that? I wasn't mad, just a bit embarrassed. If you love my breasts that much... f-feel free to rub them lots when we have sex, okay?”
-「おお……！　ありがとう、[H名]！　そういう受け入れてくれる所もドストライクだよ！」=“Oooh...! Thanks, [H名]! The way you just accept me for who I am is the best too!”
-「[H名]のフェチを教えてほしいな。どんなエッチなことが好きとか」=“I want to know what sort of fetishes you have, [H名]. What sort of lewd stuff do you like?”
+「おお……！　ありがとう、[H名]！　そういう受け入れてくれる所もドストライクだよ！」=“Oooh...! Thanks, [H]! The way you just accept me for who I am is the best too!”
+「[H名]のフェチを教えてほしいな。どんなエッチなことが好きとか」=“I want to know what sort of fetishes you have, [H]. What sort of lewd stuff do you like?”
 「フェチって、日常会話で出てくる単語じゃない気がするけど……でも、キミが聞きたいなら……うーん、フェチ、フェチって……」=“I feel like that's not a very "everyday conversaion" topic... but, if you want to know... Nnn, a fetish, a fetish...”
 「いや、ないならないでいいんだよ？」=“No, I mean, if you don't have any, you don't have to force yourself to think of one, you know?”
 「うーん……フェチとはちょっと違うかもしれないけど……この前のエッチで、その……キミが興奮してくれてるのが嬉しいなって、思ったよ？」=“Nnn... it might not count as a fetish exactly but... when we had sex last time, the way you uhm... the way you got so aroused, made me really happy, you know?”
 「気持ち悪いじゃなくて？」=“It wasn't disgusting?”
 「そ、そんな風に思ったりしないよ。だって、ボクにあんなに興奮してくれて……そういう経験、初めてだからびっくりしたんだ……」=“I-I would never think of it as disgusting. I mean, you were that aroused because of me... it's my first time, having someone feel that way over me, so it really caught me off-guard when you did...”
 （つまり興奮した俺フェチってことか……？　夢みたいな話だな）=(So her fetish is me getting aroused and going hard...? I couldn't even wish for something so perfect.)
-「[H名]が欲求不満になるときってどんなとき？」=“What sort of things make you start feeling sexually frustrated, [H名]?”
+「[H名]が欲求不満になるときってどんなとき？」=“What sort of things make you start feeling sexually frustrated, [H]?”
 「そ、れは……直球すぎるんじゃないかな。あ、でも、変化球ならいいってわけでもなくて……だったら直球の方がいい、かな……あはは……」=“Tha--, t's... a bit too much of a straightball, don't you think? Ah, but, that's not to say a curveball would be fine... I guess I prefer it when you're straight afterall, I guess... ahahah...”
 「なんか深く考えさせちゃってごめん。ふと気になっちゃってさ」=“Sorry, I didn't think you'd overthink it so much. I just got a bit curious.”
 「恥ずかしいだけで嫌じゃないから、謝らないで……うう、恥ずかしいなぁ……欲求不満な時……えっと、猛勉強の直後……とか？」=“I'm just embarrassed, I don't mind it or anything, so don't apologize... Uuu, so embarrassing... what makes me sexually frustrated... erhm, really intense study sessions... I guess?”

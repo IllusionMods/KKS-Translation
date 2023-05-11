@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「[H名]は何か楽器とかできたりするの？」=“You know how to play a musical instrument, [H名]?”
+「[H名]は何か楽器とかできたりするの？」=“You know how to play a musical instrument, [H]?”
 「いや、武技の心得ならあるが……楽器は微妙だな。特にこの三線というのは、郷土の楽器なのだろう？」=“No, I do have confidence in my martial skill... however, instruments are a different story. Especially this sanshin, is it not a local instrument?”
 「うん、その通り。でも俺も初心者だし、お互い同じスタートラインなんだから気楽にいこうよ」=“Yep, that's exactly it. But I'm a beginner too. We've got the exact same start line here, so let's just take it easy.”
 「そうだな、貴殿の言う通りだ。お互いに最初は変な音を出すだろうが、笑うのは無しだぞ？」=“Right, it is as you say. We are both going to make quite the strange sounds with these at first, but you must not laugh, alright?”

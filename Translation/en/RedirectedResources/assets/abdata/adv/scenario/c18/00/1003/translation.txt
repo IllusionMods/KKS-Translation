@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「一緒にお土産をちょっと覗いていこうよ」=“Let's go look at souvenirs together.”
-「このキーホルダー、とても可愛いですね。見てください、[P名]さん」=“This keychain, is really cute, isn't it? Please look, [P名]-san.”
+「このキーホルダー、とても可愛いですね。見てください、[P名]さん」=“This keychain, is really cute, isn't it? Please look, [P]-san.”
 「それは、星の砂のキーホルダーだね」=“Ah, a starsand keychain, huh?”
 「星の形をした砂も可愛いですけど、このキーホルダー自体も可愛い形していますよ」=“The star shaped sand is really cute too but, this keychain itself is also pretty cute.”
 「でも、不思議ですよね。どうして砂が星の形になるのでしょうか？」=“But, it's quite strange, isn't it? How and why does sand end up taking the shape of a star?”
