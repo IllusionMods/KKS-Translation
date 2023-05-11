@@ -59,7 +59,7 @@
 「優しい男の子って友達としてはいいけど……みたいに言われるけど、そう思う？」=“Having a nice, sweet guy as a friend is nice and all but... is what I hear a lot, but do you think so?”
 「よく聞くけど本当なのかな？　優しい男の子いいと思うよ、思いやりって大切だもん」=“I hear it a lot too, but is it really true? I think sweet guys are nice, compassion is very important.”
 「恋愛自体が雲の上の話だけど、優しすぎる男の子は申し訳なくなっちゃいそうかな」=“I mean, leaving love and stuff aside since that's just beyond me, I feel like I'd just feel guilty taking advantage of a guy like that.”
-「クールな男の子ってモテるイメージだけど、[H名]もタイプ？」=“The cool, aloof sort of guys seem real popular but, are they your type too, [H名]?”
+「クールな男の子ってモテるイメージだけど、[H名]もタイプ？」=“The cool, aloof sort of guys seem real popular but, are they your type too, [H]?”
 「たぶん素敵だと思う。そういう人が笑ったらキュンってしちゃいそうだよね」=“I think they're pretty lovely. Just seeing them laugh kinda would make your heart throb, you know?”
 「男の子のタイプを語れるほど意識したことないけど、ボクは明るい人の方がいいかな」=“I've never given it so much thought as to have a viewpoint, but I'd prefer someone more cheerful and sunny.”
 「こんなこと聞くなよって感じだけど……エッチなことに興味ってある？」=“I realize I shouldn't be asking this but... do you have any interest in lewd stuff?”
@@ -216,9 +216,9 @@
 「その、ボクもキミのことが好き……だけど、もう少し考えてもいいかな？　ごめんね！」=“I uhm, I love you too, I really do... but, could I have some more time, please? I'm sorry!”
 「あの、ね……前からキミのことが好きだったの……ボクと、付き合ってくれないかな？」=“List--, en... I've been in love with you for a while now... won't you, go out with me?”
 「うん、正直にキミの気持ちを教えてくれてありがとう。これからも……仲良くしてほしいな」=“Okay, thanks for being honest with me about your feelings. I want you to... keep being friends with me.”
-「これは冗談とかじゃなくて……[H名]とエッチしたいんだ。だめかな？」=“This isn't a joke or anything... I want to have sex with you, [H名]. How about it?”
+「これは冗談とかじゃなくて……[H名]とエッチしたいんだ。だめかな？」=“This isn't a joke or anything... I want to have sex with you, [H]. How about it?”
 「えっと……キミが真剣なのはわかったけど、ごめんね。その、いきなりすぎて……」=“Erhm... I understand how serious you are being, but I'm sorry. It's uhm, it's too sudden...”
-「えっと……また[H名]とエッチしたいんだけど、いい？」=“Erhm... I wanna have sex with you again, [H名], could we?”
+「えっと……また[H名]とエッチしたいんだけど、いい？」=“Erhm... I wanna have sex with you again, [H], could we?”
 「あ……うん。その、ボクも…………したかったから。それじゃ……何から、する？」=“Ah... okay. I uhm, I wanted... to do it too. So... what are we, doing?”
 「えっと、キミとそういうことをするのが嫌ってことじゃないんだけど……ごめんね……」=“Erhm, it's not that I'm against doing that sort of stuff with you, but it's just... I'm sorry...”
 「いまここでエッチしたら、すごく興奮すると思わない？」=“Don't you think it'd be super hot to have sex right here, right now?”
@@ -277,7 +277,7 @@
 「男装とか興味ある？」=“Got any interest in mens' clothes?”
 「昔は男の子の格好ばっかりしてたんだよ。今もスカートよりズボンの方がよく履くし」=“I used to dress in boys' clothes all the time, in the past. Even now, I end up putting on trousers more than I do skirts.”
 「それより可愛い服の方が興味あるかな。でもキミが男装をご所望なら喜んでするよ」=“I'm more interested in cute outfits myself. But if you want me to dress up like a boy then I'd gladly do it.”
-「[H名]って名前、気に入ってる？」=“Do you like your name, [H名]?”
+「[H名]って名前、気に入ってる？」=“Do you like your name, [H]?”
 「うん、もともと好きだったけど、キミが沢山呼んでくれるからもっと好きになったよ」=“Yep, I've always loved it but, I've started loving it even more since you always call me by it.”
 「昔はちょっとコンプレックスだったんだ。でも今は好きな人たちが呼んでくれる名前だから好き」=“I used to have a bit of a complex over it, back in the past. But now it's a name that people I love call me so, I love it.”
 「食べ物の好き嫌いってある？」=“Got any foods you're picky about?”

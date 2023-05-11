@@ -33,7 +33,7 @@
 「……よかった……うん、キミはそう言ってくれるよね。ボクもキミの言葉を信じられるってわかってたけど、キミの口から聞きたかったんだ」=“...Thank god... yep, I knew you'd say that. I really did believe that you'd say that but, I just wanted to hear it for myself.”
 「そっか……それにしても、[H名]は深刻な話じゃないって言ってたけど、俺にとっては十分深刻な話だったよ」=“I see... even so, you said it wasn't 'anything that serious' but I dunno, that was pretty serious to me.”
 「結局、一番気を使ってくれてるのはいつも[H名]なんだよね」=“As usual, you're the one who ends up holding things in the most between the two of us, you know?”
-「俺こそ、[H名]に気を使ってほしくないから、これからも深刻な話でもそうじゃない話でも、なんでも話してよ」=“I don't want you to make any compromises or hide anything from me either, [H名], so no matter if it's serious or the most banal thing in the world, I want you to ask me freely, okay?”
+「俺こそ、[H名]に気を使ってほしくないから、これからも深刻な話でもそうじゃない話でも、なんでも話してよ」=“I don't want you to make any compromises or hide anything from me either, [H], so no matter if it's serious or the most banal thing in the world, I want you to ask me freely, okay?”
 「……うん。他の人にできないような話も、キミにだったらできるよ……キミと出会えてよかった……付き合えて本当によかった……」=“...Okay. Even stuff I could never ask anyone else, I think I can ask you... I really am glad I met you... so glad you're my boyfriend...”
 （[H名]の心からの安堵が伝わってくる……言うか言わないか、本当に悩んだんだろうな）=(I can really feel it too, just how glad she is... must have been ruminating on it for a while now, huh?)
 （これからも、こんな風に安心していてほしい……[H名]は俺なんかよりも、ずっと優しい女の子だから……）=(I want her to feel relieved about everything, just like she is now... she's way too sweet a girl, way too good for someone like me...)

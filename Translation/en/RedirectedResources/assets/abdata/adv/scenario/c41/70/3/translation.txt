@@ -10,4 +10,4 @@
 「うん、俺の目から見てもそんな感じだったから、本心も合っててよかった」=“Yep, it looked the same way to me so, I'm glad we share the same feelings.”
 「じゃあ改めて、[H名]の告白を受け取らせてもらうね。俺でよかったら、付き合ってほしい。恋人同士として付き合おう」=“Then, let's do this again. If you'll have me then please, I want you to go out with me. Let's become a couple.”
 「うん！　あぁ、よかったぁ……ボク、ボクっ、ダメ元だったから、キミってすごくモテそうだから……まだ信じられない、本当に嬉しいよっ」=“Okay! Aah, thank god~... I, I--, I only took the shot because I had nothing to lose, because I feel like you're really popular so... I still can't believe it, I'm so happy--”
-「自慢じゃないけど、そんなモテないし、スペックも高くないから。でも……[H名]にはモテてよかった、これからよろしくね」=“I'm not bragging or anything, but I'm not that popular, nor am I that high value anyway. But... I'm glad I'm popular with you, [H名].”
+「自慢じゃないけど、そんなモテないし、スペックも高くないから。でも……[H名]にはモテてよかった、これからよろしくね」=“I'm not bragging or anything, but I'm not that popular, nor am I that high value anyway. But... I'm glad I'm popular with you, [H].”

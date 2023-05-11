@@ -10,14 +10,14 @@
 「いや、俺もロマンチックだと思ったよ。その、ここなら二人きりでゆっくり話せるなって」=“No, I was thinking the same thing. Like uhm, it's a nice place to have a nice relaxing chat together, you know?”
 「あ、無理しないでいいんだよ？　ごめんね、ボクが雰囲気のある場所だねなんて言っちゃったから。えっと、かけっこでもする？」=“Ah, you don't need to force yourself, you know? I'm sorry, it's all because I said how it's a moody place, isn't it? Erhm, you wanna go for a run?”
 （まずい、ここで日和ってかけっこなんてしたら告白って雰囲気じゃなくなる……！　よし、言おう！）=(Not good, if I keep sitting on the fence and actually say yes to that, the mood's gonna get ruined...! Aight, I'm just gonna say it!)
-「[H名]、ちょっと聞いてもらってもいい？」=“[H名], could you listen to what I have to say, for a second?”
+「[H名]、ちょっと聞いてもらってもいい？」=“[H], could you listen to what I have to say, for a second?”
 「あ、はいっ……！」=“Ah, yes--...!”
 「いや、そんなかしこまらなくても大丈夫だよ」=“No, you don't need to get so formal about it, it's fine.”
 「あ、そう？　そっか……あはは、さっきからボク、挙動不審だよね。今日の夕ご飯の話とか？　なんでも聞くよ」=“Ah, really? I see... ahahah, I've been acting pretty weird for a bit, haven't I? Is it about today's dinner? Ask me anything.”
-「えーっと……俺、[H名]が好きなんだ」=“Erhm, so basically... I love you, [H名].”
+「えーっと……俺、[H名]が好きなんだ」=“Erhm, so basically... I love you, [H].”
 「えっ……！？」=“Eh--...!?”
 「…………」=“......”
-「[H名]？」=“[H名]?”
+「[H名]？」=“[H]?”
 「あっ、えっと……やっぱりかしこまった方がいい話題だったなって……じゃなくって、その、ボクのことが好きって……」=“Ah--, erhm... was just thinking that maybe I really should have been more formal... not what I mean, I uhm, you love me...”
 「うん。よかったら俺と付き合ってほしい」=“I do. I want you to go out with me.”
 「……ボクも、キミのことが好き……」=“...I love you, too...”
@@ -45,7 +45,7 @@
 「まずは大胆になる勉強から始めなくちゃ。研修の合間にいっぱい調べるよ」=“I gotta start by learning how to be more daring. I'mma study up in the middle of our study breaks.”
 「人前でキスをしたりとか？」=“Stuff like kissing in front of others?”
 「えぇっ！？　き、キスってだけでドキドキしちゃうのに、人前なんて……迷惑になっちゃうかもしれないし……」=“Eeeh--!? J-Just kissing would be too much for me, but doing it in front of people on top... we might also become an eyesore for others...”
-「あはは、冗談だよ。[H名]が思う大胆でいいから」=“Ahahah, I'm joking. We can be as daring as you like, [H名].”
+「あはは、冗談だよ。[H名]が思う大胆でいいから」=“Ahahah, I'm joking. We can be as daring as you like, [H].”
 「う、うん……でも、キミが思う大胆って、つまりそういうことなの？」=“O-Okay... But, is that your idea of 'daring'? Kissing in public?”
 「いや、例えばって話だったから、俺が思う大胆ってなると、もっとイヤラシイ感じかも」=“No, it was just an example. If you went by my yardstick, it'd get a whole lot lewder.”
 「う、うわぁ……そういうの一番苦手だけど、キミのためならボク、頑張っちゃう……かも！　う～、恥ずかしいよ～」=“U-Uwah~... doing stuff in public scares me the most, but I could do it, if it's for you... I think! Uu~, so embarrassing~”

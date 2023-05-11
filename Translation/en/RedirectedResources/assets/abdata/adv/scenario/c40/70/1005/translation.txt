@@ -6,7 +6,7 @@
 「お、キャンプファイヤーだって。一緒に参加しようよ」=“Oh, you heard her, it's campfire time. Let's join in together.”
 「分かった。少々気恥ずかしいが、貴殿から誘われてはな」=“Got it. It is a bit embarrassing but, when you're the one asking--”
 「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Everyone paired up? ...then I'll put on the music as soon as everyone's ready.”
-「[H名]、なんか結構慣れてる感じがするね？　踊りとか習ってた？」=“[H名], you seem kinda used to this, huh? You know how to dance?”
+「[H名]、なんか結構慣れてる感じがするね？　踊りとか習ってた？」=“[H], you seem kinda used to this, huh? You know how to dance?”
 「まぁ、それなりにな。騎士の嗜みというやつだ」=“Well, a bit. Part of a knight's duty, you see.”
 「へぇ、これは俺が足手まといにならないように気を付けないとだね……」=“Heh, I'll have to be careful not to drag you down then...”
 「そんなことは気にしなくていい。我は貴殿とだから踊っているのだ、上手い下手は関係ない」=“You need not worry about that. I am dancing only because you're my partner, skill does not figure into it.”
@@ -15,7 +15,7 @@
 「いやいや、そこまで頑張らなくていいから……俺がちゃんと踊ればいいだけだし」=“No no, you seriously don't need to tough it out that much... Especially since it's just a matter of me not messing this up.”
 「そうか？　だが貴殿には余計なことを気にして欲しくないのだ……」=“That so? However, I myself do not wish for you to mind needless things too much...”
 「折角踊っているのだぞ？　我だけを見て、一緒に踊ることを楽しんで欲しい……」=“We do not dance often, you know? I wish for you to focus only on me, and enjoy this...”
-「それならもう十分楽しめてるよ。こうやって話しながら[H名]と踊れるなんて最高って感じ」=“I'm already enjoying this plenty. I don't think there's many things out there that can beat dancing like this while chatting with you, [H名].”
+「それならもう十分楽しめてるよ。こうやって話しながら[H名]と踊れるなんて最高って感じ」=“I'm already enjoying this plenty. I don't think there's many things out there that can beat dancing like this while chatting with you, [H].”
 「なら良いのだが……はは、色々細かいことを言ってすまんな。少々浮かれているのかもしれない」=“I suppose that's alright then... hahah, my apologies, I did not mean to nag so much. Seems that this is rushing to my head a bit.”
 「浮かれていいんじゃない？　それだけ[H名]も俺と踊るのが楽しいってことでしょ？」=“And what's wrong with that? That just means that you're enjoying this just as much as I am, no?”
 「そうだな。貴殿と踊っていると心が温かくなる。あのキャンプファイヤーのように、熱く燃え盛るようだ……」=“Indeed. Dancing with you warms up my heart. A blazing warmth, just like that campfire...”
