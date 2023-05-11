@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「[H名]は卓球とか得意なんじゃない？」=“Aren't you pretty good at ping pong, [H名]?”
+「[H名]は卓球とか得意なんじゃない？」=“Aren't you pretty good at ping pong, [H]?”
 「自慢じゃないけど、私は女子相手じゃほとんど負けたことないぜ。勝負するか？」=“Not bragging but, I've almost never lost to a girl, ever. Wanna go for a round?”
 「よしっ、覚悟しろよ」=“Aight--, get ready to lose then.”
 （構えが本気すぎ……）=(She's getting way too serious...)

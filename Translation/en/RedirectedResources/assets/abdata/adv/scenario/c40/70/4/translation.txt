@@ -2,8 +2,8 @@
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 「なっ……なんだと！　貴殿は今、我と……その、ェッチしたいと言ったのか？」=“Wha--... What! Did you just, say that... you erm, wish to, have sex with me?”
-「うん、言ったよ。[H名]とエッチしたいって……ダメかな？」=“Yep, I said that. I want to have sex with you, [H名]... no dice?”
+「うん、言ったよ。[H名]とエッチしたいって……ダメかな？」=“Yep, I said that. I want to have sex with you, [H]... no dice?”
 「ダメ……ではないが。本当に良いのだろうか？　我等はまだ恋人同士というわけでもないのだぞ？」=“I... did not say that. Is it really alright, though? We are still but friends, rather than lovers, you know?”
-「分かってる。だから、[H名]が嫌なら断ってくれていいよ」=“I know that. That's why, if you don't want to, you're entirely free to say no too, [H名].”
+「分かってる。だから、[H名]が嫌なら断ってくれていいよ」=“I know that. That's why, if you don't want to, you're entirely free to say no too, [H].”
 「むぅ……貴殿は卑怯だ。いや、正々堂々過ぎるのか？　どちらにせよ……承知した。我も貴殿となら……構わない」=“Muh... you truly are an unfair man. No, I suppose you are simply a bit too fair? Either way... I understand. If it's with you... I do not mind.”
-「ありがとう。絶対気持ちよくする……[H名]を満足させてみせるから」=“Thanks. I'll definitely make you feel good... I'll definitely satisfy you, [H名].”
+「ありがとう。絶対気持ちよくする……[H名]を満足させてみせるから」=“Thanks. I'll definitely make you feel good... I'll definitely satisfy you, [H].”

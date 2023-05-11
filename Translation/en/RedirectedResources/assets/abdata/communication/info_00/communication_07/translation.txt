@@ -277,7 +277,7 @@
 「ほ、ほら！　私をちゃんと……見ろよっ……！　よそ見すんな！」=“H-Hey! Take a... good look at me--...! Don't look away!”
 「なんか特別な話か？　それとも、な、何かするのか？」=“Something special you wanna talk about? Or a-are you gonna make a move?”
 「おーい、なんか怪しい雰囲気になってきたぞ……ってはい、ここまで！」=“Hey, the mood's turning real sketchy... Yeah, no, that's as far as you go!”
-「[P名]！……なんでもない！　呼んでみたかっただけ！」=“[P名]! ...It's nothing! I just wanted to say your name!”
+「[P名]！……なんでもない！　呼んでみたかっただけ！」=“[P]! ...It's nothing! I just wanted to say your name!”
 「私はもっと、お前と大人っぽい付き合いもしてみたい……な？」=“I wanna get to know you even more, in a more adult way... how about it?”
 「きゃっ……な、なんだお前か……って、ニヤニヤすんなあ！」=“Kyah--... O-Oh, it's you... Don't grin like that, you nearly gave me a heart attack!”
 「おっ、話すか？　なんでもいいぜ！」=“Oh--, wanna chat? I'm up for anything!”
@@ -286,7 +286,7 @@
 「いつかやってみたいことってある？」=“Is there anything you wanna try doing someday?”
 「そうだなぁ～……世界一周旅行なんて、いいよな～」=“That's a really good question~... I'd love to go around the world once~”
 「うーん、今はお前のことで頭がいっぱいなんだー」=“Mmm, not really, right now, my head's full of only you.”
-「[H名]って、どんな子供だった？」=“What sort of kid were you, [H名]?”
+「[H名]って、どんな子供だった？」=“What sort of kid were you, [H]?”
 「どんなって言われてもな～……今の私と、そんなに変わってないぞ？」=“Even if you ask me~... I wasn't all that different from now, you know?”
 「元気過ぎて、うるさいってよく怒られてたな。ははっ」=“I was such a wild kid, I got told a whole lot to just shut up. Hahah--”
 「自分は流行に敏感だと思う？」=“Do you think you're sensitive to fashion trends?”
@@ -303,7 +303,7 @@
 「新婚旅行はどこに行こうか？」=“Where should we go for our honeymoon?”
 「新婚旅行！？　そ、それはいくら何でも気が早すぎるぞっ！」=“Honeymoon!? E-Even if we're pretty close, that's still too early for us to think about--!”
 「お、お前は……私と結婚するつもりなんだな。そ、そうか……」=“Y-You really... plan on marrying me, huh? I-I see...”
-「[H名]のこと、好きだよ。俺の気持ち伝わってるかな？」=“I love you, [H名]. Do my feelings come across properly?”
+「[H名]のこと、好きだよ。俺の気持ち伝わってるかな？」=“I love you, [H]. Do my feelings come across properly?”
 「あ、ああ……ちゃんと届いてるぜ」=“Y-Yeah... they do, very clearly.”
 「て、照れるからストレートに聞いてくるなよ……その、ちゃんと分かってるから、安心しろ」=“D-Don't ask that stuff so directly, you're gonna make me blush... I uhm, I understand that you love me so, don't worry so much.”
 「俺と付き合ってから、なにか変わったことはある？」=“Has anything changed, since we started dating?”

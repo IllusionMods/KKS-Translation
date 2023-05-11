@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ねえ、[H名]。二人で鳴らしてみようか？」=“Hey, [H名], wanna try ringing it together?”
+「ねえ、[H名]。二人で鳴らしてみようか？」=“Hey, [H], wanna try ringing it together?”
 「い、いいけど、待て！　ちょっとだけ心の準備をさせろ」=“S-Sure but, wait! Let me get my heart ready.”
 「そこまで意気込まなくても」=“You don't need to be that serious about it.”
 「お前……こ、この鐘のジンクスを知らないのかよ」=“You... y-you seriously don't know the jinx behind this bell?”
@@ -15,7 +15,7 @@
 「そうそう、もはや結婚したも同然だよ」=“Exactly, we're basically married now.”
 「結婚は早すぎだろ！　そりゃ、私だっていつかはって思ってないわけじゃ……でも」=“That's way too far! I mean, it's not like I'm not thinking about doing that with you some... but--”
 「あ、ニヤニヤしてる。冗談だろ？　最低だこいつ」=“Ah, you're grinning. You were joking, weren't you? My guy's pure scum--”
-「人聞きが悪いにも程があるよ。言ってるだろ？　俺は[H名]とだからこの鐘を鳴らしたかったんだって」=“Am I that unreliable in your eyes? I said as much, didn't I? I wanted to ring this bell with you, because it's you, [H名].”
+「人聞きが悪いにも程があるよ。言ってるだろ？　俺は[H名]とだからこの鐘を鳴らしたかったんだって」=“Am I that unreliable in your eyes? I said as much, didn't I? I wanted to ring this bell with you, because it's you, [H].”
 「それは、まあ、うん……私もだけど」=“That's, well, yeah... me too.”
 「なんか、本当に私達は永遠に結ばれる気がしてきた。プラシーボみたいなやつかな」=“I feel like, we really will stay together forever now. Wonder if it's placebo?”
 「子供は何人にする？」=“How many kids do you want?”

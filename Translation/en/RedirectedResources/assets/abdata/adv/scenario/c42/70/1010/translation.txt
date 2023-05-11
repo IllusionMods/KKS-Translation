@@ -5,7 +5,7 @@
 「ひと遊びした直後で身体が火照ってるし、なおさら風が気持ちよく感じるよね」=“Your body starts getting hot after all this running around too, so it feels even nicer, doesn't it?”
 「うんっ。やっぱりキミと遊ぶのはすっごく楽しい！　えへへ、ついはしゃいじゃった」=“Yep--. Running around with you really is the best! Eheheh, I couldn't help myself.”
 「楽しんで貰えたなら、俺もデートをして良かったって思うよ」=“No, I'm glad to see you're enjoying yourself, makes the date worth it.”
-「そういえば、[H名]って子供のときからそんな感じだったのかな？」=“Reminds me, have you been like that since childhood, [H名]?”
+「そういえば、[H名]って子供のときからそんな感じだったのかな？」=“Reminds me, have you been like that since childhood, [H]?”
 「私の子供のときのお話？」=“You mean when I was a little kid?”
 「そうそう。子供のときから明るくて、遊ぶ時も思いっきり楽しむ……って性格だったのかな？　って思って」=“Yep, exactly. Have you always been this cheerful and, the type to go all out when having fun... and all? I just got curious.”
 「うーん……どうなんだろ？　自分のことだし、あんまり変わってないと思うけど……」=“Nnn... who knows? I mean, it's about myself so, I don't think I've changed all that much but...”

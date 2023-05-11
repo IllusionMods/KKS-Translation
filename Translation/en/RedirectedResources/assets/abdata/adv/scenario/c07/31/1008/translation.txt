@@ -26,5 +26,5 @@
 「ロマンチックに？」=“Romatically?”
 「……そういうこと」=“...Exactly.”
 「キレイだ、本当に……」=“It really is beautiful, seriously...”
-「ねぇ、[H名]……もっと近くに来たら？」=“Hey, [H名]... come closer?”
+「ねぇ、[H名]……もっと近くに来たら？」=“Hey, [H]... come closer?”
 「うん」=“Kay.”

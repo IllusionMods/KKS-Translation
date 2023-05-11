@@ -6,7 +6,7 @@
 「えっと……こういう時、俺も気の利いた言葉で返せればいいんだけど……」=“Erhm... it'd be nice if I could answer it with some pretty and clever words of my own...”
 「ごめん、ちょっと思いつかなくて……だから、俺なりの精一杯で答えるね」=“Sorry, I can't come up with anything... so, I'll just answer it the best I can, alright?”
 「う、うむ……それで構わない。いや、それが一番嬉しい。貴殿の率直な言葉を……聞かせてくれ」=“U-Umu... that would be just fine. No, I would appreciate that the most. Let me hear your... frank thoughts.”
-「ありがとう。俺も[H名]が好きだったんだ。だから俺からも……恋人になってください！」=“Thanks. I've been in love with you too, [H名]. So, this is from me now... please be my girlfriend!”
+「ありがとう。俺も[H名]が好きだったんだ。だから俺からも……恋人になってください！」=“Thanks. I've been in love with you too, [H]. So, this is from me now... please be my girlfriend!”
 「なっ、はは……こんなに喜ばしいことはない。貴殿も我のことを……あぁ、すまない、我も言葉が上手く……」=“Wha--, hahah... nothing could make me happier. I also... aah, apologies, I cannot find my way around my own words as well...”
 「じゃあさ……お互い大好きって言い合わない？　もう俺達恋人同士なんだし……それだけで十分だと思うんだ」=“Then... wanna just say "I love you" together? We're already a couple at this point so... I think that'd be more than enough between us.”
 「ああ、貴殿の言う通りだ……大好きだぞ……愛している」=“Aah, it is as you say... I love you... I truly do.”

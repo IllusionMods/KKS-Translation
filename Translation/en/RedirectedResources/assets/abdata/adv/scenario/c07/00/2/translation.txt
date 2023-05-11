@@ -5,13 +5,13 @@
 「えっ？　お、お前……今、なんて」=“Eh--? W-What did you... say just then?”
 「好きだって言ったんだよ」=“I said I love you.”
 「……マジで？」=“...For real?”
-「うん、マジの大マジ。[H名]さえよかったら、俺と付き合って欲しい」=“Yep, real as it gets. If it's alright with you, [H名], I want you to go out with me.”
+「うん、マジの大マジ。[H名]さえよかったら、俺と付き合って欲しい」=“Yep, real as it gets. If it's alright with you, [H], I want you to go out with me.”
 「…………………………」=“...”
 「なんで目を丸くしちゃってるのさ」=“What're you making such wide eyes at me for?”
 「だってお前、い、いきなりそんな……す、好きってあれだろ？　恋人とかそういう意味の……」=“I mean, y-you suddenly... y-you mean that sorta love, right? The romantic sort, with the couples and junk...”
 「いきなりってことはないでしょ。この島に来てから、俺達さ……」=“It wasn't that sudden, I'm pretty sure. I mean, ever since we came to this island, you and I have been...”
 「う、うん……仲良くしてたとは思うけど」=“Y-Yeah... we have been pretty close, for sure.”
-「でしょ？　全部楽しかったよ。だから俺……これからも[H名]と楽しくて幸せな時間を続けられたらと思ったんだ」=“Right? And it's all been real fun. So I... thought it would be just great if we could spend an even more wonderful and happier time together, [H名].”
+「でしょ？　全部楽しかったよ。だから俺……これからも[H名]と楽しくて幸せな時間を続けられたらと思ったんだ」=“Right? And it's all been real fun. So I... thought it would be just great if we could spend an even more wonderful and happier time together, [H].”
 「それも、まあ、同じだよ。お前と一緒にいるのが当たり前になってたし」=“That's, well, I feel the same way. I can't even imagine you not being there, at this point.”
 「そう言ってくれて嬉しい。お前もそう感じててくれたならよかった、って思ってはいるんだけど」=“That makes me so happy to hear. I mean, I do hope you share my feelings though.”
 「うー……ダメだ、頭こんがらがってる」=“Uuu... I can't, my head's a mess.”
@@ -25,7 +25,7 @@
 「流行とかも、あ、あんまわかんなくて……ダサいし！　だから……」=“And I don't really, g-get fashion and stuff either... I'm super lame too! So...”
 「俺は普通に女の子として可愛くて、すごく魅力的だよ」=“To me you're way cuter than a regular girl, and way more charming too.”
 「ふええええ！？」=“Fueeeeeeeh!?”
-「俺がそう思ってるんだからいいよね？　俺にとって[H名]は一番特別な女の子で……これからもずっとそうだから」=“That's how I feel, so isn't it fine? You're the most special girl to me, [H名]... and that's not gonna change.”
+「俺がそう思ってるんだからいいよね？　俺にとって[H名]は一番特別な女の子で……これからもずっとそうだから」=“That's how I feel, so isn't it fine? You're the most special girl to me, [H]... and that's not gonna change.”
 「本気、なんだな」=“You're really, serious, aren't you?”
 「うん、今も心臓バクバクいってる」=“Yep, my heart's still pounding, even now.”
 「ありがとう。あ、いや……このタイミングでお礼は変か？　でも、それしか出てこない」=“Thanks. Ah, no... I guess that really doesn't fit. But, thanks is all I can say.”

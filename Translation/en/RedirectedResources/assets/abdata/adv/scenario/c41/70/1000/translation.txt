@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「[H名]、カップルドリンクだって。いい思い出になると思うし、頼んでみようよ」=“[H名], look here, "couples' drink", it says. It's probably gonna make for nice memories, so let's order it.”
+「[H名]、カップルドリンクだって。いい思い出になると思うし、頼んでみようよ」=“[H], look here, "couples' drink", it says. It's probably gonna make for nice memories, so let's order it.”
 「え……これがカップルドリンク？　ボク、ドリンクが２つ来るのかと思ってた……あっ、ストローが２本刺さってるってことは……」=“Eh... this is a couples' drink? I thought there would be two drinks... ah--, is that why there's two straws in it...”
 「そう、１つのドリンクを２人で飲むのがカップルドリンクなんだよ」=“That's right, drinking a single drink together is what makes it a couples' drink.”
 「わぁ～～……想像しただけで体温が１度ぐらいあがっちゃったかも。こんなすごいドリンクを一緒に飲んだら、もっとあがりそう……」=“Wah~~... I think just thinking about it made my body a degree hotter. If we drunk such an amazing drink together, I feel like it'd go even higher...”

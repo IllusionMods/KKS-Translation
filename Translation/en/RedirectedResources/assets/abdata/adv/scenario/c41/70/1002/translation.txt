@@ -3,14 +3,14 @@
 //
 「あ、卓球台があるよ。勝負してみない？」=“Ah, they've got a ping pong table. Wanna try going a round?”
 「卓球台って温泉にあるイメージだったけど、こういう所にもあるんだね」=“They seem like the perfect sort of fixtures for any hot spring inn but, they keep them in places like these too, huh?”
-「温泉卓球のイメージだよね。なんとなくだけど、[H名]は卓球ができそうな印象だけど、どう？」=“They really do have that sort of image, don't they? This is just a hunch of mine too but, you seem like the type to play ping pong, [H名]. Am I right?”
+「温泉卓球のイメージだよね。なんとなくだけど、[H名]は卓球ができそうな印象だけど、どう？」=“They really do have that sort of image, don't they? This is just a hunch of mine too but, you seem like the type to play ping pong, [H]. Am I right?”
 「体育の授業でやった程度かな。筋はいいって言われたけど、どうなんだろう。キミに確かめてもらってもいい？」=“Only as much as during PE classes at school. The teachers did always tell me that I'm pretty talented at it but, I dunno. Could you confirm that for me?”
-「オッケー。それじゃあ[H名]サーブからでいいよ」=“Roger that. You can have the first serve, [H名].”
+「オッケー。それじゃあ[H名]サーブからでいいよ」=“Roger that. You can have the first serve, [H].”
 「ありがとう。スポーツテストみたいでワクワクしちゃう。ボク、全力でやるね！」=“Thanks. This feels kinda like a sports test, I feel kinda excited. I'mma put in my all, okay?”
 「やった！　勝っちゃった！」=“Yay! I won!”
 「す、筋がいいなんてもんじゃないと思うよ」=“I-I don't think it's a matter of talent at that point.”
 「本当？　なんだかキミには負けちゃってばっかりな気がしたから嬉しい」=“Really? I feel like I always end up losing to you so that makes me happy.”
-「そんなことないでしょ。[H名]は万能型っていうか、基本優等生なイメージがあるんだけどな」=“No way. You're like all-powerful, [H名], You just have that top of the scoreboard honor student sort of image, you know?”
+「そんなことないでしょ。[H名]は万能型っていうか、基本優等生なイメージがあるんだけどな」=“No way. You're like all-powerful, [H], You just have that top of the scoreboard honor student sort of image, you know?”
 「キミにそう言ってもらえるのは嬉しいけど……うーん。キミがくしゃって笑ったりしてると、この人には敵わないなぁって思っちゃうの」=“It makes me happy you feel that way but... Nnn. Whenever you smile that big smile of yours and laugh the way you do, I just can't help but think that I can never win against you.”
 「その気持ちわかるよ。俺も[H名]にそう思うときあるし、それって――」=“I get that feeling. I feel exactly that with you too, sometimes. I guess love really does--”
 「惚れた弱み、だよね？　ふふ♪」=“Make you blind, huh? Fufuh♪”
