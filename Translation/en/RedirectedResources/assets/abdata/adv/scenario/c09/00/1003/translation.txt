@@ -6,7 +6,7 @@
 「もらって困るものじゃないしね」=“Yeah, especially since nobody hates them as gifts.”
 「絶対って言える？　賞味期限がタイトだったとしても……かしら」=“You sure you can be so absolute about it? I mean, what if the best-before date was really close... what then?”
 「なんで、もらった相手を困らせる方向にシフトしたのさ」=“You really gotta find every single way to bother the person getting the gift, huh?”
-「あたしが悪人みたいな言い方しないで。[P名]の危機感が足りないから指摘しただけでしょ」=“Don't make me out to be the baddie here. All I'm saying is that you're lacking in caution, [P名].”
+「あたしが悪人みたいな言い方しないで。[P名]の危機感が足りないから指摘しただけでしょ」=“Don't make me out to be the baddie here. All I'm saying is that you're lacking in caution, [P].”
 「危機感？　ま、まあ、うん、ありがとう気をつけるよ」=“Caution? W-Well, guess so, thanks, I'll be mindful of it.”
 //「いいのよ。あたしって目配り……だっけ？　リーダーらしい振る舞いができるタイプだから」=“It's okay. I'm attentive... you know?　Since I'm a leader type of person.”
 「調子出てきたね。その勢いでベストなお土産を見繕ってくれる？」=“Someone's confident. Well then, won't you pick the best possible souvenir out for me, dear leader?”

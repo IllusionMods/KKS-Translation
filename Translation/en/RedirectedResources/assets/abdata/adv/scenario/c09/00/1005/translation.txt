@@ -14,7 +14,7 @@
 「そ、そうだったの？　ちょっと周りが気になっちゃって」=“Y-You did? I was just looking at our surroundings.”
 「……人、たくさんいると思わない？」=“...Don't you think, that there's a ton of people around?”
 「どうだろ？　俺は周りなんて全然、気にならないよ」=“Not really. I'm not even remotely bothered by them myself.”
-「それどころか、[H名]から目を逸らしたくないかも」=“Heck, I don't think I want to even look at anyone apart from you, [H名].”
+「それどころか、[H名]から目を逸らしたくないかも」=“Heck, I don't think I want to even look at anyone apart from you, [H].”
 「そうやって！　たまに、思い出したようにキザなこと言うのよね」=“Again! You really do say some really smug stuff like that sometimes, you know? Like you just remembered it.”
 「……ちょっとはやるじゃない」=“...That one was pretty good though.”
 （褒められた……）=(She praised me...)

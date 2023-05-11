@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「卓球で勝負しようよ。[H名]、結構強そうだし」=“Let's have a round of ping pong, [H名]. You look like you'd be pretty good at it anyway.”
+「卓球で勝負しようよ。[H名]、結構強そうだし」=“Let's have a round of ping pong, [H]. You look like you'd be pretty good at it anyway.”
 「うわ……普通に負けちゃった。予想以上に上手いね」=“Uwah... I lost hands down. You're way better than I expected.”
 「はは、ラケットは短剣と扱いがほとんど一緒だからな。可哀相だが、貴殿が我に勝つには相当努力が必要だろう」=“Hahah, a racket isn't much different from a dagger, to handle. I do feel it a bit unfair, but you're likely going to need to put in quite the effort to win against me.”
 「うぅ……でも無理とは言わないんだね？」=“Uuu... though, I see you didn't say it's impossible.”

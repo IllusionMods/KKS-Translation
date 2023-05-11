@@ -301,7 +301,7 @@
 「へえ～。よかったわね、それが夢で」=“Hoh~. Well, good for you.”
 「そうだ。船着き場の近くで……」=“Right. Next to the harbor...”
 「へぇ、あたしも見に行ってみるわ」=“Hoh, I'll go check it out later too.”
-「俺、[H名]の好きな所を２０個は言えると思うな」=“You know, [H名], I think I could list a whole 20 of your sensitive spots in one go.”
+「俺、[H名]の好きな所を２０個は言えると思うな」=“You know, [H], I think I could list a whole 20 of your sensitive spots in one go.”
 「なら、あたしは１００００００個言えるわ！　あたしの勝ちね」=“In that case, I could list 1000000 of yours! I clearly win that one.”
 「じゃあ、あたしは３０……いや、４５個は言えるわ！」=“Alright then, I could list 30... no, 45 of yours!”
 「今からラブソングを歌ってもいい？」=“Do you mind if I break out into a love song right now?”

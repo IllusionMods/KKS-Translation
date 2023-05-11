@@ -8,4 +8,4 @@
 「そ、そう取ってもらって構わない。いや、こういう返事の仕方は失礼だな……少し待ってくれ……」=“I-I do not mind if you take it that way. No, that is incredibly rude of me, that's not what I... do wait a moment...”
 「うん、いくらでも待つよ……」=“Yep, I'll wait as long as it takes...”
 「貴殿の思い、しかと受け取った。ありがとう……これからは我を貴殿の剣として、傍に置いてくれ……」=“I have received your feelings for me. Thank you... keep me by your side forevermore, as your partner, as your blade...”
-「[H名]……ありがとう。これで俺達、恋人同士だね」=“[H名]... thank you. With this, we're a couple.”
+「[H名]……ありがとう。これで俺達、恋人同士だね」=“[H]... thank you. With this, we're a couple.”
