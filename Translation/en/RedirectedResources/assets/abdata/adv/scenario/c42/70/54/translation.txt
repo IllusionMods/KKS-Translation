@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ねぇ、[H名]。ちょっと話があるんだけど、良いかな？」=“Hey, [H名]. I've got something I wanna talk to you about, is it okay?”
+「ねぇ、[H名]。ちょっと話があるんだけど、良いかな？」=“Hey, [H]. I've got something I wanna talk to you about, is it okay?”
 「実は……俺のことを、[Pあだ名]って呼んで貰えないかなって思ってさ」=“Basically... I was wondering if I could get you to call me [Pあだ名].”
 「へ？　ま、待ってー。どうしてそんな名前なのかな？」=“Heh? W-Wait~. Why that?”
 「恥ずかしいのもあるけど……すごく、変なあだ名で呼ぶように言われてる気がするんだけどー？」=“I mean, embarrassment is definitely part of it but... I feel like you're asking me to call you something really weird there, you know~?”

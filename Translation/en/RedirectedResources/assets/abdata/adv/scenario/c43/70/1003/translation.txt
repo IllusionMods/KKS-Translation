@@ -8,7 +8,7 @@
 「お土産いうたら他にも色々あるっちゅうのに、あえてこーいうＴシャツを選ぶの……めっちゃ勇気いらへん？」=“Going and ignoring all of those choices, and picking up one of these... don'tcha think it takes a ton of balls?”
 「いや、別に……。だってお土産、一つしか買ってはいけないだなんて縛りはないし……」=“No, I mean, well... I mean, it's not like it says anywhere that you gotta buy only one souvenir so...”
 「いや～～、ここは一点突破したいところやね。男らしく」=“Nah~, ya gotta put yer foot down and just go fer it, ya know? Like a man.”
-「……[H名]は、女じゃん」=“...But you're a woman, [H名].”
+「……[H名]は、女じゃん」=“...But you're a woman, [H].”
 「まあまあ、細かいことはええやん。でも『なんくるないさ～』はまだ無難な方やね」=“Don't sweat the small stuff. But something like「Gonna be OK」on a shirt is still pretty on the safe side, ya know?”
 「この島の代表選手みたいなワードだよね」=“I could definitely imagine those words being used as a catchphrase by a local player.”
 「んー……でもどうせＴシャツにするんやったら、もっと、こう……インパクトのある言葉無いんかなぁ」=“Nn~... but if I'mma buy a t-shirt like this, won't something with, ya know... a bit more impact be better~?”
