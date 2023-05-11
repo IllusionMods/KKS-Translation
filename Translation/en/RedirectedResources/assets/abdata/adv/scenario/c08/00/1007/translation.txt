@@ -13,5 +13,5 @@
 「俺みたいだよね」=“Almost like me, isn't it?”
 「え～？　そういうこと自分で言っちゃうの？　自意識過剰かもぉ」=“Eh~? Who says that about themselves? You're a bit too egotistical, methinks~”
 「がーん！　うぅっ、調子に乗りました……」=“Gahn~! Uuu--, I got carried away...”
-「なんて嘘だよ♪　臆病なところは似てないけど、[P名]君も人を襲ったりしないもんね」=“I'm joking♪ The timid part aside, you wouldn't hurt other people either, would you, [P名]-kun~?”
+「なんて嘘だよ♪　臆病なところは似てないけど、[P名]君も人を襲ったりしないもんね」=“I'm joking♪ The timid part aside, you wouldn't hurt other people either, would you, [P]-kun~?”
 「これからもずっと、私の大好きな優しい[P名]君のままでいてね。えへへ♪」=“Always stay the sweet and kind man that I love lots and lots, okay? Eheheh♪”
