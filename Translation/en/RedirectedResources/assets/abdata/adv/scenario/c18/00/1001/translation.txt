@@ -15,8 +15,8 @@
 「そうなんだ？　でも大丈夫だよ」=“Really? But don't worry.”
 「何があったとしても、俺が[H名]を守ってあげるから」=“Even if something happens, I'm right here, I'll protect you.”
 「ありがとうございます。そう言っていただけると、とても嬉しいです」=“Thank you very much. It makes me very happy, to hear you say that.”
-「その……[P名]さんみたいな人と恋人になれて幸せです……」=“Being... your lover, [P名]-san, makes me very happy...”
-「[H名]……」=“[H名]...”
+「その……[P名]さんみたいな人と恋人になれて幸せです……」=“Being... your lover, [P]-san, makes me very happy...”
+「[H名]……」=“[H]...”
 ギシッ……=*Crack*--...
 「……っ！？」=“...--!?”
 「えっ？　今の音って……[H名]のお尻の辺りから聞こえたような……」=“Eh--? That sound... I feel like it came from near your butt...”

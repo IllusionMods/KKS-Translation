@@ -315,7 +315,7 @@
 「照れて顔熱くなってきました……。別の話題をお願いします」=“My face is starting to burn up... Please, let's talk about something else.”
 「[H]、好きだ」=“I love you, [H].”
 「嬉しいです！　もっと、もっと言ってください！」=“I'm so happy! More, say it more please!”
-「[H名]と恋人になれて良かったよ」=“I'm glad we started dating, [H名].”
+「[H名]と恋人になれて良かったよ」=“I'm glad we started dating, [H].”
 「私も、あなたの彼女になれて幸せです」=“I am also, very happy to have become your girlfriend.”
 「生理って重い方？」=“Are your periods heavy?”
 「ええ、まあ。心配してくれてありがとうございます」=“Yes, well. Thank you very much, for worrying about me.”

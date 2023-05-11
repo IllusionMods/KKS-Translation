@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「[H名]は、この鐘の噂は知ってる？」=“Hey, [H名], do you know the story behind this bell?”
+「[H名]は、この鐘の噂は知ってる？」=“Hey, [H], do you know the story behind this bell?”
 「もちろんだよー。私だって女の子だし、ちゃーんと気になる場所はチェック済みだからねー」=“Of course~. I'm a girl too, I've already checked out everything interesting, just so you know~”
 「この鐘を鳴らした２人は、必ず結ばれる……。縁結びの鐘なんだよね」=“If two people ring this bell together, they'll be tied for life... a marriage bell, isn't it?”
 「そうそう。本当かどうかはわからないけど、ロマンチックな言い伝えだよね」=“Exactly. God knows if it's true or not but, it's a real romantic legend, isn't it?”
@@ -19,4 +19,4 @@
 「そうだね。じゃあ、鳴らしてみようか？」=“You're right. Then, wanna ring it?”
 「うん。それじゃあ……せーのっ」=“Yep. Here we go then... one two--”
 「……えへへ、これでもっともっと仲良くなれるね？」=“...Eheheh, we'll be able to fall even more in love now, won't we?”
-「そうだね。これからもよろしく、[H名]」=“Yeah. I'm looking forward to it, [H名].”
+「そうだね。これからもよろしく、[H名]」=“Yeah. I'm looking forward to it, [H].”
