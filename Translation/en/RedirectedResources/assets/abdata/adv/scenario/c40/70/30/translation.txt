@@ -3,7 +3,7 @@
 //
 「お土産屋さんて……観光になってるかな？　もっと違う場所の方が良かった？」=“Do you think a souvenir shop like this... counts as sightseeing? Maybe we should have gone somewhere else.”
 「いや、良いと思うぞ。場所によってお土産の売り方も様々だ。その違いを見るだけで十分楽しめる」=“No, I think it is fine. The wares vary quite a bit, depending on the shop. Just appreciating that difference is quite fun.”
-「へぇ、そういう見方もあるんだね。[H名]ってなんか、旅人みたいだね」=“Hoh, I didn't think you'd see it that way. You almost talk like a traveller, [H名].”
+「へぇ、そういう見方もあるんだね。[H名]ってなんか、旅人みたいだね」=“Hoh, I didn't think you'd see it that way. You almost talk like a traveller, [H].”
 「我が旅人か……言い得て妙だな。きっと貴殿は場所より人の観察に長けているのだろう」=“Me, a traveller, huh... What a fitting term for me. I see you have more of an eye for people than for places.”
 「確かにそうかも。女の子の微妙な変化とかにはよく気付く方だし」=“Probably, now that you say it. I tend to notice minor changes a lot when it comes to girls, too.”
 「はは、普通ならただのナンパ男の台詞だが……それだけはっきり言えれば大したものだ」=“Hahah, normally, a line like that would only come out of a pick up artist... but it's quite impressive you can say it with such certainty.”

@@ -4,7 +4,7 @@
 「ここの鐘は、二人で鳴らすと必ず結ばれるらしいです」=“It seems that any pair that rings this bell together, marries someday.”
 「うん、そういう伝説があるみたいだね」=“Yep, a legend like that seems to be floating around, huh?”
 「鳴らしますか？」=“Shall we ring it?”
-「俺は鳴らしてみたいけど……[H名]はどう？」=“I wanna do it but... what about you, [H名]?”
+「俺は鳴らしてみたいけど……[H名]はどう？」=“I wanna do it but... what about you, [H]?”
 「私も……鳴らしてみたいです」=“I... wish to do it as well.”
 「つまり……俺と結ばれてもいいってこと？」=“Does that mean that... you're fine with marrying me someday?”
 「そういうことです。元より……離れる気もありませんが」=“Precisely. To begin with... I'm never letting you go.”
@@ -24,4 +24,4 @@
 「そうしてもらえると助かります。あと……一日一回以上にしましょう」=“Please and thank you. Also... let's make it so that it's more than once a day.”
 「それじゃ、約束し直しってことで……もう一回鐘を鳴らそうか」=“Alright, then, since we're rewriting that promise... let's ring the bell again.”
 「はい……愛してます……凄く、愛してます……」=“Yes... I love you... I love you, so much...”
-「俺も、愛してるよ……[H名]……」=“I love you too... [H名]...”
+「俺も、愛してるよ……[H名]……」=“I love you too... [H]...”

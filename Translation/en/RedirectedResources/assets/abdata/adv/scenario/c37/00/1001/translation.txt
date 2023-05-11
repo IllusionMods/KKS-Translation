@@ -22,7 +22,7 @@
 「はは、気温が上がってきたのかな？」=“Hahah, wonder if the air temperature's gone up?”
 「たぶん……そうです。縁側もずっと涼しいわけではないのですね」=“It... likely has. Even a verandah like this does not stay cool and refreshing forever, huh?”
 「日当たりによるからねー」=“Yeah, since it depends on how much sun's hitting it~”
-（本当は照れて身体が熱くなってるんだろうけど……[H名]は可愛いなぁ……）=(Trying to hide it so much, even though she's all hot because she's blushing... [H名] is so cute...)
+（本当は照れて身体が熱くなってるんだろうけど……[H名]は可愛いなぁ……）=(Trying to hide it so much, even though she's all hot because she's blushing... [H] is so cute...)
 「どうしました？　そんなに見つめて……やはりアイスが食べたいのですか？」=“What's the matter? You're staring a lot... do you want a bite afterall?”
 「いや、俺が見てたのはアイスじゃなくて[H名]だよ」=“No, I was looking at you, not the ice cream.”
 「ん……また熱くなりました。アイスがもう一本必要かもしれません」=“Nn... it just got hotter again. I may need another ice cream to cool down.”

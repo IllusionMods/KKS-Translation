@@ -8,7 +8,7 @@
 「二人で飲むと……飲み物が減る速度が二倍になりました」=“The contents... disappeared twice as fast as they would have normally.”
 「う、うん……そうだね。二人で飲んでるからね……」=“Y-Yeah... that it did. Since we were drinking it together...”
 「いいえ、私はあまり飲めませんでしたから、あなたがたくさん飲んだだけです」=“No, I did not drink all that much of it so, you simply drank a lot of it.”
-「え……俺そんなに飲んだかな？　ていうか、[H名]はあんまり飲んでなかったの？」=“Eh... did I drink that much? Heck, you didn't drink much of it, [H名]?”
+「え……俺そんなに飲んだかな？　ていうか、[H名]はあんまり飲んでなかったの？」=“Eh... did I drink that much? Heck, you didn't drink much of it, [H]?”
 「はい……胸が少し詰まる感じがして、上手く飲めませんでした」=“Yes... my chest felt a bit heavy, so I could not drink it properly.”
 「それって……もしかしてドキドキしてたってこと？」=“Does that... mean that your heart was pounding?”
 「そうですね……おそらくはそのような状態だったかと」=“That's a good question... in all likelihood, yes.”

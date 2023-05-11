@@ -16,7 +16,7 @@
 「……お互いに好きなところを言い合うのはどうでしょう？」=“...How about we mention the parts we love about each other, in turns?”
 「うわ、絶対それ途中で恥ずかしくなるやつだね……」=“Uwah, one of us is definitely gonna get too embarrassed to continue...”
 「イチャイチャとはそういうものです」=“That's what flirting is supposed to be.”
-「じゃあ……[H名]から言ってみて」=“Then... you start, [H名].”
+「じゃあ……[H名]から言ってみて」=“Then... you start, [H].”
 「私があなたの好きなところは……全てです」=“I love... all of you.”
 「あ、それ俺も言おうとしてた……」=“Ah, I was gonna go for that one too...”
 「ん……私達は相性も最高です」=“Nn... our compatibility is unmatched as well.”
@@ -29,5 +29,5 @@
 「え、今？　夜の海辺でかくれんぼは危ないって」=“Eh, right now? It's night out right now, dummy, it'd be dangerous.”
 「冗談です。あなたを信じていますから、試す必要なんてありません」=“It was a joke. I believe in you, so there is no reason for me to test you on that.”
 「私がどこにいたって、あなたはきっとすぐに見つけてくれますよね？」=“No matter where I go, you'll come find me, won't you?”
-「もちろん。[H名]のことはいつも見てるからね」=“Of course. I'm always looking at you, [H名].”
+「もちろん。[H名]のことはいつも見てるからね」=“Of course. I'm always looking at you, [H].”
 「ありがとうございます。私もあなたを見ていますから、二人とも迷子になることはありませんね」=“Thank you very much. I am looking at you as well so, neither of us will ever get lost like this.”

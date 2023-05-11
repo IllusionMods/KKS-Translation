@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ねぇ、[H名]。縁側で少し涼んでいかない？」=“Hey, [H名]. Wanna go cool off a bit at the veranda?”
+「ねぇ、[H名]。縁側で少し涼んでいかない？」=“Hey, [H]. Wanna go cool off a bit at the veranda?”
 「えへへ、ここは涼しくて気持ちいいね～」=“Eheheh, the air's so refreshing here, it's nice, isn't it~”
 「アイスも美味しいし、風は気持ちいいし、最高だなぁ」=“The ice cream's great too, the breeze feels great, nothing could beat this~”
 「良かった、気に入ってくれたんだね。涼もうって誘って良かったよ」=“You really like it, huh? I'm glad I asked.”

@@ -3,7 +3,7 @@
 //
 「わあ、お魚がいっぱい。見て見て、大きなお魚のお腹に小さなお魚がくっついて泳いでるよ」=“Wah, there's so many fishies. Look look, that huge fish has a tiny fish swimming while hugging its belly.”
 「おお、本当だ。広い水槽だからなんでも見えるね」=“Ooh, it really does. This place has everything, doesn't it? The tank's real big too.”
-「……おっ？　あの魚なんて[H名]が好きそう」=“...Oh--? I feel like you'd like that fish, [H名].”
+「……おっ？　あの魚なんて[H名]が好きそう」=“...Oh--? I feel like you'd like that fish, [H].”
 「え、どれどれ？」=“Eh, which one?”
 「あれあれ。あのトゲトゲがいっぱいあって、カラフルなやつ」=“That one. That spiney, colorful one.”
 「あの子！？　うーん、ちょっとデザインが悪役すぎない？」=“That one!? Nnn, isn't the design a bit too villainish?”
@@ -15,7 +15,7 @@
 「わかりやすく攻撃的だからかな。対して主人公側は秩序のあるデザインが多いよね」=“I guess to make them seem obviously aggressive? Usually the protagonist and his allies have more mild designs, don't they?”
 「たしかに……」=“You might have a point...”
 「あはは、恋人同士で水族館に来たのになんだか色気のない話しちゃってごめんね」=“Ahahah, sorry for bringing up something so unsexy when we came all the way to the aquarium. It's a waste of a lovey-dovey date, isn't it?”
-「いやいや、こういう話ができるから[H名]とは居心地がいいんだと思うよ」=“No no, it's exactly because we can chat about stuff like this that I feel so comfortable around you, [H名].”
+「いやいや、こういう話ができるから[H名]とは居心地がいいんだと思うよ」=“No no, it's exactly because we can chat about stuff like this that I feel so comfortable around you, [H].”
 「それに、[H名]ならいつでも色気を出せるって俺は知ってるから」=“Not to mention, I know you could let out the sexy at the drop of a hat if you really wanted to, too.”
 「えぇ、そんなこと……うーん、ないことはないかも、なんてね。ふふふ♪」=“Eeh, that... nnn, might be true, heh. Fufufuh~♪”
 （すごく真面目な[H名]だけど、急に小悪魔っぽいところを出してきたりするんだよね）=(She's really straight laced usually but, sometimes that impish side just comes out out of nowhere, you know?)

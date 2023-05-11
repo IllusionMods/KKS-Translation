@@ -7,7 +7,7 @@
 「ああ、夜の海も綺麗だが……今は星空に目を向けておくとしよう」=“Aah, the sea is beautiful at night... however, for now I shall focus on the sky.”
 「こんな綺麗な星空、なかなか見られないもんね」=“Especially since you don't get to see a sky like this so often.”
 「そうだな。どこに行っても星は輝いていたが、綺麗さでいったらここが一番だろう」=“Indeed. The stars have always glittered no matter where I went, however I do think no other sky could beat this one in terms of beauty.”
-「[H名]は星を見るのが好きなの？」=“Do you like stargazing, [H名]?”
+「[H名]は星を見るのが好きなの？」=“Do you like stargazing, [H]?”
 「好きというよりは、癖みたいなものだな。我が今どこにいるのか、星はそれを教えてくれる」=“Rather than like, to me it's more of a habit at this point. The stars tell me, exactly where I am at any time.”
 「あー、星の位置で方位とか分かるもんね」=“Ah, you can use stars for navigation, can't you?”
 「その通りだ。星の位置は変わらず、ずっとそこで輝き続ける。それぞれの場所で、それぞれの光を……」=“Exactly. The stars do not move, they glitter endlessly from the same place, always. Each their own radiance...”
@@ -21,7 +21,7 @@
 「そ、そうか……後半は良かったが、やはり変わり者だと思われているのだな……」=“I-Is that so... I do not have any qualms with the latter half, but you really do see me as an eccentric, don't you...”
 「大丈夫だよ、そこも含めて大好きだから。むしろそこが[H名]の一番の魅力って言ってもいいくらい」=“Don't worry, I also love that part of you. If anything, to me that's the most attractive side of you.”
 「なにっ、それは本当か？　では、少し変なくらいの方が貴殿には魅力的な女性に見えるのだな？」=“What--, do you truly mean that? I suppose then to you, a bit of eccentricity is what makes an attractive woman?”
-「変にも色々あるから一概には言えないけど。[H名]の変わってるところは大好きだよ」=“Not unconditionally, since there's all sorts of "weird" out there. I love your own flavour of 'weird', [H名].”
+「変にも色々あるから一概には言えないけど。[H名]の変わってるところは大好きだよ」=“Not unconditionally, since there's all sorts of "weird" out there. I love your own flavour of 'weird', [H].”
 「うぅ……少々その、大好きと言い過ぎではないか？　そう連呼されると照れてしまう……」=“Uu... are you not, erm, saying that a bit much? I am going to start blushing...”
 「はは、照れてるところも可愛いよ」=“Hahah, you look adorable that way too.”
 「また貴殿はそんなことを……そういえば、我の変なところが好きなら……流れ星にまつわるおかしな話があるのだが……」=“It's always that with you... on that note, if you like my strangeness then... I have quite the story to tell you, about shooting stars...”
