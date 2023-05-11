@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「朝から[H名]の愛を感じて幸せだったよ」=“Being able to feel your love for me straight from the morning was pure bliss, [H名].”
+「朝から[H名]の愛を感じて幸せだったよ」=“Being able to feel your love for me straight from the morning was pure bliss, [H].”
 「ふふ、ボクもだよ♪　それじゃ、一旦部屋に帰ろうかな。今日は島を回って研修旅行をもっと充実させようって思ってるんだ」=“Fufuh, me too♪ Well then, maybe I'll go back to my room now. I was thinking to properly tour the island today and actually get some work done for our study trip today.”
 「なんだかみなぎってるね」=“Well, isn't someone just full of energy.”
 「あはは、わかって言ってるでしょ。昨日からずっとふたりきりだったから、エネルギー満タンなの。キミとお喋りもいっぱいしたいな」=“Ahahah, you say that like you don't know why. We've been together since yesterday evening so, my batteries are fully charged. I wanna chat lots later too.”

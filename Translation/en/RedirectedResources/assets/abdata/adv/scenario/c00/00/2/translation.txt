@@ -21,7 +21,7 @@
 「……あ、あの…………は、はははは……」=“...U-Uhm... hah, hahahahah...”
 「今の、私の胸の中から聞こえてくるドキドキ……もっと大きなドキドキにして欲しいの……さ、言って？」=“Can you hear, how hard my heart's pounding?... I want you to make it pound even harder... c'mon, tell me?”
 「…………わかった。すー……はー…………」=“...I got it. Suuh... haaah...”
-「俺…………[H名]のことが、好きだ」=“I... love you, [H名].”
+「俺…………[H名]のことが、好きだ」=“I... love you, [H].”
 「うん……うんうん……それから？」=“Okay... yepyep... and so?”
 「え！？　それからって……何？」=“Eh!? And so... what?”
 「だから……私と、どうなりたいのかな～って。ほら、もっと具体的な関係があるでしょう？」=“Dummy... how do you, want things to be between us~? C'mon, you should have a more concrete relationship in mind, no?”
