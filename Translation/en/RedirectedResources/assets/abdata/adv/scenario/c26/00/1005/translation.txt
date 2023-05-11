@@ -9,7 +9,7 @@
 「……こうしていると、なんだか……運動会みたい」=“...This kinda, feels like... a sports meet.”
 「子供の頃とかの？　それ多分、流れてる音楽のイメージだと思うんだよね」=“Like when we were kids? That's probably due to the music they're playing, it feels really similar, doesn't it?”
 「……うん、そうかも。陽気で可愛らしい音楽」=“...Yeah, maybe. It's really cheerful and lovely, this song.”
-「そういう[H名]も可愛らしいよ」=“And so are you, my dear [H名].”
+「そういう[H名]も可愛らしいよ」=“And so are you, my dear [H].”
 「っ……何それ、意地悪……」=“--...What's with that, you meanie...”
 「意地悪って心外だよ。俺達は恋人で……こういうムードなんだしさ」=“You wound me. We're lovers... and we're in a mood like this.”
 「あ……そっか」=“Ah... right.”
@@ -23,5 +23,5 @@
 「……そういう[P名]だから、私は……うん、きっと自分をよく見せたいって思ってるのかな」=“...It's because you're like that, that I can... yeah, that it makes me wanna show myself more to you.”
 「……時々、空回りしちゃうくらい」=“...to the point that, sometimes my head spins out of control.”
 「私……自分が思ってるよりも乙女だったみたい」=“I'm... more of a girly girl than I thought, it seems.”
-「俺が知ってる[H名]はずっと、可愛らしくて繊細な乙女だよ」=“To me, you're always a lovely, sensitive and a girly girl, [H名].”
+「俺が知ってる[H名]はずっと、可愛らしくて繊細な乙女だよ」=“To me, you're always a lovely, sensitive and a girly girl, [H].”
 「……そういう歯の浮くようなことにも、慣れないといけないみたい」=“...Seems I'll have to get used to, such awkward feeling words too.”

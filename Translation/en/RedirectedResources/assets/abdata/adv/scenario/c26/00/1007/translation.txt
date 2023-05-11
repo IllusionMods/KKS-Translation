@@ -15,5 +15,5 @@
 「それは……無理」=“I... can't.”
 （撤回が早い……）=(Gave up so easily...)
 「……あっさり諦めちゃう私は……可愛い女の子ではないのかも」=“...The way I give up so easily... might not be very cute of me.”
-「そう？　そうやって照れてる[H名]はすごく可愛いよ」=“You think so? To me, you look adorable blushing like that, [H名].”
+「そう？　そうやって照れてる[H名]はすごく可愛いよ」=“You think so? To me, you look adorable blushing like that, [H].”
 「もう……調子いいんだから」=“Jeez... you really love saying that stuff, don't you?”
