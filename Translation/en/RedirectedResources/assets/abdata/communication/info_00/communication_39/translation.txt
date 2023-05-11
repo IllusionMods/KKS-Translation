@@ -17,7 +17,7 @@
 「なんて言うか……この島は凄く良い所だよね」=“How do I say this... this island's a really nice place, you know?”
 「うん、自分もこの島はお気に入りよー」=“Yep, I love it here too~”
 「えへ、なんかぼやーっとしてるねー。でも、言いたいことは分かるよー」=“Eheh, well aren't you being a vague~. But, I get what you're trying to say~”
-「この島と[H名]は相性良さそうだね」=“You seem really at home here, [H名].”
+「この島と[H名]は相性良さそうだね」=“You seem really at home here, [H].”
 「自分の出身地じゃないけど、大きな括りだと故郷だからね。居心地がいいさー」=“I wasn't born here but, it's my hometown in a sense. It's a really comfortable place to me~”
 「あったかい所は好きさー。だから、この島も大好きよー」=“I love warm places~. So I love it here too~”
 「うーん、そういうのは長く住んでみないと分からないさー」=“Nnnn, I'd have to live here for a long time to figure that one out~”
@@ -25,7 +25,7 @@
 「えへ、好きなだけ眺めるといいさー。急かす人なんていないよー」=“Eheh, stare at it as much as you want~. There's nobody here who's gonna rush you~”
 「この島にいると、なんか泳ぎたくならない？」=“Doesn't being here kinda just make you wanna go for a swim?”
 「えへ、気持ち分かるさー。自分もよくウズウズしてるよー」=“Eheh, I get that~. I kinda start feeling restless sometimes too~”
-「[H名]って、日焼けとか気にする方？」=“Do you worry about getting tanned or sunburnt, [H名]?”
+「[H名]って、日焼けとか気にする方？」=“Do you worry about getting tanned or sunburnt, [H]?”
 「そうでもないさー。痛くならなければ気にしないよー」=“Not that much~. As long as it doesn't start hurting, I don't really mind it~”
 「恋愛とかって興味ある？」=“Do you have any interest in romance and whatnot?”
 「そりゃ、自分も女の子だからねー。まったく興味無いとは言えんよー」=“I mean, I'm a girl too~. I can't say I have no interest in it at all~”
@@ -211,7 +211,7 @@
 「あんまりキミを独り占めしちゃいけないし、このへんでお別れが丁度いいかねー」=“I wouldn't want to monopolize you all to myself so, maybe stopping here would be good anyway~”
 「了解さー。ちょっぴり残念だけど、バイバイねー」=“Roger~. It's a bit of a shame but, byebye~”
 「え？　なんだったのー？　からかうのは良くないよー」=“Eh? What was it in the end~? It's not nice to tease girls, you know~”
-「俺さ……[H名]のことが好きなんだ。付き合って欲しい！」=“You know, I... love you, [H名]. I want you to go out with me!”
+「俺さ……[H名]のことが好きなんだ。付き合って欲しい！」=“You know, I... love you, [H]. I want you to go out with me!”
 「ごめんねぇ……今はあんまり、キミとそういう関係になるのは考えられないかも……」=“Sorry~... I don't think I can, see us in that sort of a relationship just yet...”
 「自分ね……キミのことが好きになってしまったみたい。恋人に、なってくれない？」=“You know, I... seem to have fallen in love with you. Won't you, become my boyfriend?”
 「そっかぁ……ちょっといきなり過ぎたよねー？　あは……今のは忘れてー」=“I see~... that was a bit too sudden, wasn't it~? Ahah... forget what I said~”
@@ -296,14 +296,14 @@
 「恋人になってからも、恋ってできるのかな？」=“Do you think it's possible to love, even after becoming lovers?”
 「できるに決まってるよー。キミはちょっと難しく考え過ぎさー」=“Of course, dummy~. You really do overthink things sometimes~”
 「たぶん、恋から愛に変わるのかもねぇ……自分はそう思うよー」=“It's probably more about pure love rather than romantic love after that~... atleast I think so~”
-「もっと[H名]のことが知りたいな」=“I wanna know so much more about you, [H名].”
+「もっと[H名]のことが知りたいな」=“I wanna know so much more about you, [H].”
 「うん、自分もキミのことならなんでも知りたい。教えっこしようねー」=“Yep, I wanna know everything there is about you too. Let's teach each other, okay~?”
 「もうほとんど知ってるはずよー？　キミには秘密にしてることないからー」=“You should already know, you know~? I keep nothing hidden from you~”
 「恋人になったんだから、もっと[H名]と方言で喋れるようにならないとだよね？」=“I'm your boyfriend and all now so, I'mma have to suck it up and learn some of your dialect too, don't I?”
 「ゆっくり覚えてくれればいいさー。自分が全部教えてあげるからー」=“You don't need to rush it, just take it slow~. I'll teach you all of it~”
 「そこまで気を使わなくていいさー。二人とも自然体が一番よー」=“You don't need to be that considerate~. I'd rather we were both more natural to each other~”
 「改めてそういう話をされると照れるねー。なんか違う話にしよー？」=“It kinda makes me blush when you bring up that sorta stuff~. Let's talk about something else~?”
-「[H名]……好き！」=“[H名]... I love you!”
+「[H名]……好き！」=“[H]... I love you!”
 「えへへ、自分も好きよー。かなさんどー♪」=“Eheheh, I love you too~. I love you tons and tons~♪”
 「俺のこと、どれくらい好き？」=“Just how much do you love me?”
 「もうでーじ好きよー。ちょっと言葉では表しきれんねー」=“More than a whole ton~. It's hard to express in words~”
@@ -382,7 +382,7 @@
 「あのさ……俺の部屋に来ない？」=“Hey, listen... won't you come over to my room?”
 「う、うん……いいよー。キミの部屋で、ゆっくりしよー」=“O-Okay... sure~. Let's take our time, together~”
 「うーん、今すぐはねぇ……また後でも大丈夫？」=“Nnn, right this moment~... could we do it later?”
-「[H名]、付いてきて」=“Follow me, [H名].”
+「[H名]、付いてきて」=“Follow me, [H].”
 「また突然だねー。どこ行くかも言わないで付いてくの、自分くらいよー」=“No hi hellos with you, huh~? I'm the only girl who'd ever tag along with you like this, you know~?”
 うんうん、はぁーや、だーる、だーるやー=Yepyep, hoh~, right~, that's right~
 うーん、そうかねー？、違うよー、えぇ……=Nnn~, really~? That's not it~, eeeh...

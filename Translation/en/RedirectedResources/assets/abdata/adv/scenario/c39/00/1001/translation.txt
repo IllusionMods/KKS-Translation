@@ -7,13 +7,13 @@
 「スローライフってやつかねー？　キミとずっとそういう生活ができたらなーって、自分はよく思ってるよー」=“A slow life, huh~? I think a lot, about living that sort of life with you~”
 「え、それってプロポ……」=“Eh, is that a propo...”
 「あいっ、ちがっ……！　えっと、違くはないんだけど、今はまだ早いと思うし……その、えぇっとぉ……」=“Aii--, that's not--...! Erhm, no, well, it is what I meant but, I think it's still too early... and uhm, erhm~...”
-「[H名]、そういうのも……俺はゆっくりでいいと思うよ」=“[H名], I think that... yeah, we should take things slow between us.”
+「[H名]、そういうのも……俺はゆっくりでいいと思うよ」=“[H], I think that... yeah, we should take things slow between us.”
 「ぁ……うん。ありがとぉ……キミとはじっくりゆっくり、こういう幸せな時間を楽しんでいきたいなぁって……」=“Ah... yep. Thanks~... I just want to savour this little happiness we have, slowly and thoroughly...”
 「そうだね。恋人同士で楽しめること、全部楽しんでから……また次のステップに進みたいかな」=“Yeah. Only after we've enjoyed all that there is to enjoy as a couple... do I want us to take the next step.”
 「えへ、キミもおんなじでよかったぁ。お互いのペースが合うって、きっと凄く大事なことだよねー」=“Eheh, I'm so glad you feel the same way~. Having our pace match like this, is probably really important for us, isn't it~?”
 「うん。ずっと付き合っていくなら、一緒のペースの方が上手くいくと思う」=“Yep. If we're gonna do this for a long time, having the same pace for life is surely gonna help.”
 「自分はよんなー……ゆっくりしたところがあるから、ちょっと遅いなーって思ったら言ってねー？」=“I've got a real... laid back side to myself so, if it's too slow for you lemme know, okay~?”
-「それはたぶんないかな。俺は[H名]とこうやってゆったりした時間を過ごすのが大好きだから」=“You probably don't have to worry about that. Since I love slowly spending time like this with you, [H名].”
+「それはたぶんないかな。俺は[H名]とこうやってゆったりした時間を過ごすのが大好きだから」=“You probably don't have to worry about that. Since I love slowly spending time like this with you, [H].”
 「えへへ、自分もだよー。なんか、お話がループしてきちゃったねー」=“Eheheh, me too~. Our chat's kinda looping, isn't it~”
 「はは、確かに。あ、でも……アイスはそろそろ食べてあげないと溶けちゃわない？」=“Hahah, it sure is. Ah, but... shouldn't we start getting through our ice cream? It's gonna start melting.”
 「あっ、そうだった！　でもこの子、ガチガチに固まってたからまだ大丈夫よー」=“Ah--, right! But this one was really hard and rock solid to begin with so it's still fine~”

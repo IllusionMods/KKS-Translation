@@ -3,7 +3,7 @@
 //
 「紅型染めの柄、どうする？　けっこう種類あるけど……」=“Which stensil do you wanna go with? There's quite a few here...”
 「うーん、こんなにあると迷っちゃうね。でも…………うん、決めた。ボク、このヤモリの柄にする」=“Nnnn, it's hard to pick when there's this many, isn't it? But... yep, I've decided. I'll go with this gecko one.”
-「ヤモリ？　[H名]って爬虫類好きだったんだ？」=“The gecko? You a fan of reptiles, [H名]?”
+「ヤモリ？　[H名]って爬虫類好きだったんだ？」=“The gecko? You a fan of reptiles, [H]?”
 「え？　好きってわけじゃないけど、なんだか格好よくない？　見ようによってはドラゴンに見えるし……あ、翼がないからリザードマンかな？」=“Eh? I wouldn't go that far but, aren't they kinda cool? Depending on how you look at them, they're kinda like dragons too... ah but since they don't have wings I guess they'd be more lizardmen?”
 （なんか、女の子にしては珍しい語彙がポンポン出てくるな……ゲームが好きなのかな？）=(For a girl, she's sure using some pretty interesting words... does she like videogames?)
 「あ、勝手に盛り上がっちゃってごめん。もうちょっと可愛い柄の方がいいかな？　ほら、こっちのハイビスカスとか」=“Ah, sorry for going all off on you there. Should I go with something a bit cuter? You know, like this hibiscus here.”

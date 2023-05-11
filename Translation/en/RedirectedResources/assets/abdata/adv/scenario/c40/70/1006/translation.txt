@@ -21,5 +21,5 @@
 「デっ……むぅ、否定はしないが、そうはっきり言うのは少しデリカシーが無いのではないか？」=“Lo--... muh, I shan't deny it, however, do you not think you could be a bit more tactful with your words?”
 「ごめん。じゃあほら……一緒に鐘を鳴らそうよ。それとも俺と鳴らすのは嫌？」=“Sorry. Anyways, c'mon... let's ring it together. Or would you rather not ring it with me?”
 「まったく、誤魔化し方が強引だぞ？　それに、その聞き方は卑怯だ……」=“Good grief, you could do with being a bit more honest. Not to mention, that way of asking is really quite unfair...”
-「[H名]……愛してるよ」=“[H名]... I love you.”
+「[H名]……愛してるよ」=“[H]... I love you.”
 「ああ、我も……愛している……」=“Aah, I as well... I love you...”

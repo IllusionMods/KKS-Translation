@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「[H名]、見て。海が光ってるよ！」=“[H名], look. The ocean's glowing!”
+「[H名]、見て。海が光ってるよ！」=“[H], look. The ocean's glowing!”
 「わっ、海ほたるだねぇ。自分の故郷でも見たことあるけど、こんなにいっぱいいるのは初めてかもー」=“Wah--, sea fireflies, huh? I've seen them before in my hometown but, not this many at once~”
 「凄いなぁ……もう綺麗過ぎて、ファンタジーの世界みたいだね」=“It's amazing... it's so beautiful, almost feels like a fantasy world, doesn't it?”
 「だからよー。こんなに綺麗なのに人がいないなんて、さすが穴場のビーチやっさー」=“Exactly~. Even though it's so pretty, there's nobody here at all. I guess the "little known" bit of the name isn't just for show~”
@@ -12,7 +12,7 @@
 「へぇ、なら試しにすくってみようかな！」=“Hoh, then maybe we should try just that!”
 「気を付けてねー。夜の海は危ないからー」=“Be careful, okay~? The sea's dangerous at night~”
 「大丈夫、波打ち際で光ってるのをちょっとすくうだけだから……」=“Don't worry, I'm just gonna try scooping up some from the edge...”
-「おぉ、見て[H名]！　手の上でも光ってるよ」=“Ooh, look, [H名]! They're still glowing, even on my palm.”
+「おぉ、見て[H名]！　手の上でも光ってるよ」=“Ooh, look, [H]! They're still glowing, even on my palm.”
 「あは、ほんとだねー。その青い光は、雄の求愛行動でもあるらしいよー」=“Ahah, they really are~. Apparently that blue light is a sort of courtship signal from the males~”
 「え……じゃあ俺……このまま抱き締めたりした方がいい？」=“Eh... then should I... just hug you tight too?”
 「あいっ！？　なんでそうなるのー？　まぁ、抱き締められるのは……嫌じゃないけど……」=“Aaii--!? How did you get from there to there~? Well, not that I... mind being hugged, you know...”
@@ -24,9 +24,9 @@
 「そうしてあげてー。ありがとねー、海ほたるくん達……可愛い女の子、見つかるといいねぇ……」=“Do that~. Thanks~, I hope they all... find cute girls for themselves~...”
 「きっとすぐ見つかるよ。こんなにたくさん集まってるんだから」=“I'm sure they will. There's so many gathered here, afterall.”
 「うん。このちっちゃい光の一つ一つが、愛してるって言ってると思うと……なんだか凄くロマンチックだねぇ……」=“Yep. When I think about how every single one of these lights is, saying "I love you"... it makes the whole mood feel so romantic...”
-「[H名]……かなさんどー」=“[H名]... I love you tons. (Dialect)”
+「[H名]……かなさんどー」=“[H]... I love you tons. (Dialect)”
 「え……もう、いきなりそんな言われたら……顔が熱くなってしまうよー」=“Eh... jeez, dummy, stop it... you're gonna make my face go all hot~”
-「はは、[H名]は赤く光るんだね」=“Hahah, I see you glow red instead, [H名].”
+「はは、[H名]は赤く光るんだね」=“Hahah, I see you glow red instead, [H].”
 「うぅ、そういうキミだって……ちょっと顔、赤くなってないー？」=“Uuu, you say that but... isn't your face, getting a bit red too~?”
 「まぁ……カッコつけて[H名]の方言を使ったりしたから……やっぱりちょっと照れ臭いし……」=“Well... I tried to act cool and said it in your dialect so... it was a bit more embarrassing than I thought it'd be...”
 「えへっ、でも嬉しかったよ。ちゃんと覚えてくれてたんだね……『かなさんどー』は『愛してる』って意味だって」=“Eheh--, but it made me really happy. You were listening, weren't you... when I told you, what it meant.”

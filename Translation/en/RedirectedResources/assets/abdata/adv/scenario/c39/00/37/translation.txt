@@ -3,7 +3,7 @@
 //
 「ダイビングとかドキドキだね。海の中は綺麗なんだろうなぁ……」=“Diving really makes your heart pound, doesn't it? I bet it's real beautiful inside the sea...”
 「うんうん！　綺麗なサンゴ、可愛い熱帯魚……もしかしたらイルカもいるかもしれないさー！」=“Yepyep! The pretty corals, and the cute tropical fishes... we might even see a dolphin or two~!”
-「はは、イルカもいるかもって……[H名]もダジャレとか言うんだね」=“Hahah, "might even (iru kamo) see a dolphin or two (iruka mo)"... you sure know how to make puns, [H名].”
+「はは、イルカもいるかもって……[H名]もダジャレとか言うんだね」=“Hahah, "might even (iru kamo) see a dolphin or two (iruka mo)"... you sure know how to make puns, [H].”
 「えっ、あ……今のは違くてぇ。ちょっと興奮し過ぎて、変なこと言ってしまっただけよー」=“Eh--, ah... that wasn't on purpose~. I just got a bit excited and said it weirdly~”
 「そうなの？　結構面白かったのに」=“Really? It was pretty funny though.”
 「うー、そうやってからかってるとー、もしほんとにイルカを見つけても教えてあげないからねー」=“Uu~, if you keep teasing me like that~, even if I see a dolphin I'm not gonna tell you, you know~”

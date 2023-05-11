@@ -9,7 +9,7 @@
 「それなら、いろんな味が入ったやつがいいんじゃない？　気に入った味があれば、また買いに来ればいいしねー」=“In that case, why don't we get a variety box with all of them? We could just come to buy them again if there's one you like~”
 「それはアリだね。[H名]の言う通りにしてみるよ」=“That works. Let's do that.”
 「えへへ、食べ比べとか二人でしたいねー。きっと楽しいよー」=“Eheheh, I wanna sit down and compare them together~. It's gonna be so much fun~”
-「確かに楽しそうだけど、[H名]は食べ飽きてたりしないの？」=“That does sound fun but, isn't that gonna get boring for you, [H名]?”
+「確かに楽しそうだけど、[H名]は食べ飽きてたりしないの？」=“That does sound fun but, isn't that gonna get boring for you, [H]?”
 「全然よー。美味しいものはいつ食べても美味しいし、キミと食べたらまた違った味になるはずさー」=“Not at all~. Tasty things are always tasty, and eating them with you should make them taste different too~”
 「そう？　味は、そこまでは変わらないと思うけど……」=“Really? I'm not sure that's really how that works...”
 「変わるよー。キミと付き合ってからねー、いつも見てた景色だって全部違って見えてるんだよー」=“It is~. Ever since we started going out~, even the sights I'd gotten used to seeing looked completely different, you know~”

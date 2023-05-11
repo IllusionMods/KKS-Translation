@@ -3,7 +3,7 @@
 //
 「一人の時は海ってどうやって遊んだらいいかよく分からなかったけど……[H名]と一緒なら何でも楽しめそう」=“Back when I was still single, I couldn't really figure out a way to enjoy the sea but... with you, I feel like I could enjoy just about anything.”
 「それ、自分も一緒よー。キミとは海をただボーっと眺めてるだけでも、ずっと飽きずにいられそう」=“It's the same for me~. Even if we're just staring at the sea together all day, I feel like I would never get bored of it.”
-「実際飽きないだろうね。こういう時、[H名]と恋人になってよかったって改めて思うよ」=“You probably wouldn't. It's at times like these that I feel glad all over again that you're my girlfriend, [H名].”
+「実際飽きないだろうね。こういう時、[H名]と恋人になってよかったって改めて思うよ」=“You probably wouldn't. It's at times like these that I feel glad all over again that you're my girlfriend, [H].”
 「それも一緒よー。キミとなら……泳いだり、砂のお城を作ったり、海で遊べること何でもしてみたいさー」=“That's the same for me too~. I wanna try... swimming together, making sandcastles together, heck, I wanna try everything we can do in the sea~”
 「よし、じゃあ折角だし……全部やっちゃおうか！」=“Alright, then, since we came all this way... let's do it all~”
 「えへへ、いいよー。全部付き合う～♪　二人でこの海を制覇してしまおー」=“Eheheh, sure~. I'll be right behind~♪ Let's conquer this island together~”
