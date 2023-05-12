@@ -286,7 +286,7 @@
 「いつかやってみたいことってある？」=“Is there anything you wanna try doing someday?”
 「そうだなぁ～……世界一周旅行なんて、いいよな～」=“That's a really good question~... I'd love to go around the world once~”
 「うーん、今はお前のことで頭がいっぱいなんだー」=“Mmm, not really, right now, my head's full of only you.”
-「[H名]って、どんな子供だった？」=“What sort of kid were you, [H]?”
+「[H名]って、どんな子供だった？」=“What sort of kid were you, [H名]?”
 「どんなって言われてもな～……今の私と、そんなに変わってないぞ？」=“Even if you ask me~... I wasn't all that different from now, you know?”
 「元気過ぎて、うるさいってよく怒られてたな。ははっ」=“I was such a wild kid, I got told a whole lot to just shut up. Hahah--”
 「自分は流行に敏感だと思う？」=“Do you think you're sensitive to fashion trends?”
@@ -303,7 +303,7 @@
 「新婚旅行はどこに行こうか？」=“Where should we go for our honeymoon?”
 「新婚旅行！？　そ、それはいくら何でも気が早すぎるぞっ！」=“Honeymoon!? E-Even if we're pretty close, that's still too early for us to think about--!”
 「お、お前は……私と結婚するつもりなんだな。そ、そうか……」=“Y-You really... plan on marrying me, huh? I-I see...”
-「[H名]のこと、好きだよ。俺の気持ち伝わってるかな？」=“I love you, [H]. Do my feelings come across properly?”
+「[H名]のこと、好きだよ。俺の気持ち伝わってるかな？」=“I love you, [H名]. Do my feelings come across properly?”
 「あ、ああ……ちゃんと届いてるぜ」=“Y-Yeah... they do, very clearly.”
 「て、照れるからストレートに聞いてくるなよ……その、ちゃんと分かってるから、安心しろ」=“D-Don't ask that stuff so directly, you're gonna make me blush... I uhm, I understand that you love me so, don't worry so much.”
 「俺と付き合ってから、なにか変わったことはある？」=“Has anything changed, since we started dating?”

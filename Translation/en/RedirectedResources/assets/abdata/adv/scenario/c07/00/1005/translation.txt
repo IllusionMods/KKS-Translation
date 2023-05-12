@@ -3,7 +3,7 @@
 //
 係員さん=Attendant
 「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“I shall be setting up the campfire so, please split into groups of two as you like.”
-「[H名]、聞いた？　キャンプファイヤーだって」=“[H], you hear that? They're setting up a campfire.”
+「[H名]、聞いた？　キャンプファイヤーだって」=“[H名], you hear that? They're setting up a campfire.”
 「ああ、遅れをとるわけにはいかないな。輪に入ろうぜ！」=“Yeah, we can't let the others leave us in the dust. Let's join in!”
 「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you all broken into pairs? ...Well then, once the prepwork is complete, I shall put on the music.”
 「あっははは、身体の片側だけ熱い！　変な感じだ」=“Ahhahahah, one side of my body's hot and the other's cool! Feels real weird.”
