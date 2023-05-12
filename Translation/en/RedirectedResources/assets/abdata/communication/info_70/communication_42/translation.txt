@@ -106,7 +106,7 @@
 「それじゃあ、まったねー」=“Well then, see you~”
 「もう行くの？　またゆっくりお話しようねー」=“Gonna go already? Let's have a nice slow chat again soon~”
 「え、もう行っちゃうの？　次はゆっくりお話できるといいね」=“Eh, gonna go already? I hope we can have a nice slow chat next time.”
-「一緒に観光しない？」=“Why not go sightseeing with me?”
+「一緒に観光しない？」=“Wanna go sightseeing a bit together?”
 「いいよー。どこへ行くのかなっ？」=“Sure~. Where are we going--?”
 「うーん、ごめんね、そんな気分じゃないかもー」=“Nnn, I'm sorry, I don't think I'm in the mood~”
 「これから一緒に遊ぼうよ」=“Let's have some fun together.”
@@ -398,7 +398,7 @@
 あっ、えっとねぇ、そうだー、あのねっ=Ah--, erhm so~, right~, hey--
 「ねぇ、[Hあだ名]。あだ名で呼んでくれないかな？」=“Hey, [Hあだ名]. Won't you call me by that nickname?”
 「うんっ。[Pあだ名]……これでいい？　えへへ、ちょっとだけ恥ずかしいかも」=“Okay--. [Pあだ名]... Happy now? Eheheh, it's a little bit embarrassing.”
-「ねぇねぇ、[Pあだ名]」=“Hey, hey, [Pあだ名].”
+「ねぇねぇ、[Pあだ名]」=“Hey hey, [Pあだ名].”
 「うん、何かな[Hあだ名]？」=“Yep, what is it, [Hあだ名]?”
 「ううん、呼んでみただけ。何だか照れくさいねー」=“Nothing, I just wanted to say it. It's kinda embarrassing, isn't it~?”
 「う、うん。実は私も……したいって思ったんだ。だから、よろしくね……[Pあだ名]？」=“O-Okay. I actually... wanted to do it too. So, take care of me... okay, [Pあだ名]?”
