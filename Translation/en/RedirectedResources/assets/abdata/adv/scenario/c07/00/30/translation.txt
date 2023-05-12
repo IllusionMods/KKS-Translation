@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ここがパワースポット……なんだか力がみなぎってくるぜ！」=“This is a power spot... it makes me feel like I'm getting stronger.”
-「へぇ～、そうなんだ。俺は特に感じないな」=“Huh, is that so. I don't feel any different.”
-「……悪い、今のはてきとーに言ってみただけだ」=“...sorry, I just said it for funsies.”
-「パワースポットだっていうから、身体能力が高くなるのかと思ってたけど……そういう訳じゃないんだな」=“People said this was a power spot, so I believed it would make me physically stronger.”
-「訪れるだけでそんな効果があるなら、スポーツ選手が殺到してるよ」=“If visiting here had such an effect, athletes from all over would be flooding in.”
+「ここがパワースポット……なんだか力がみなぎってくるぜ！」=“This is a power spot... I can definitely feel power filling me up!”
+「へぇ～、そうなんだ。俺は特に感じないな」=“Hoh~, I see. I don't feel anything in particular.”
+「……悪い、今のはてきとーに言ってみただけだ」=“...Sorry, I just said that without thinking much.”
+「パワースポットだっていうから、身体能力が高くなるのかと思ってたけど……そういう訳じゃないんだな」=“They call it a power spot so, I thought that it'd make me feel stronger or something but... I guess it's not that easy, huh?”
+「訪れるだけでそんな効果があるなら、スポーツ選手が殺到してるよ」=“If just visiting the place filled you up with power, athletes would be tripping over each other to rush here.”

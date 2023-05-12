@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ねえ、見て！　海よ、海！　綺麗な海よ！！」=“Hey, look! The ocean, the ocean! It's so beautiful!!”
-「綺麗な海だっていうのは、本当にその通りなんだけど……なんで今さらはしゃいでるの？」=“You're absolutely right, it really is beautiful... but why are you so fired up?”
-「バカね。海を見たら、人ははしゃがずにいられないのよ？」=“Moron. When you see the ocean, you can't help but get excited, you know?”
-「そんなことないと思うよ」=“I'm not sure that's so.”
-「ねえ、なにして遊ぶ？　ビーチバレー？　それともスイカ割り！？」=“Hey, what are they playing? Beach volleyball?  Or watermelon splitting!?”
-（……とりあえず、退屈することはなさそうだな）=(...well, at least she won't get bored.)
+「ねえ、見て！　海よ、海！　綺麗な海よ！！」=“Hey, look! It's the sea, the sea! The beautiful sea!!”
+「綺麗な海だっていうのは、本当にその通りなんだけど……なんで今さらはしゃいでるの？」=“Not that you're wrong about it being beautiful but... why're you losing your mind over it now of all times?”
+「バカね。海を見たら、人ははしゃがずにいられないのよ？」=“You bonehead. There's no person out there who wouldn't lose their mind over this sight, you know?”
+「そんなことないと思うよ」=“I don't really think so.”
+「ねえ、なにして遊ぶ？　ビーチバレー？　それともスイカ割り！？」=“Hey, what do you wanna do? Beach volleyball? Or are we cracking a watermelon in half today!?”
+（……とりあえず、退屈することはなさそうだな）=(...Well, atleast this won't be boring.)

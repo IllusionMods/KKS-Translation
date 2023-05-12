@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「上手に三線を弾けた方の勝ちよ？　負けた方は……そうね、ジュースを奢るってことで！」=“So, whoever plays the sanshin better, wins, okay? The loser... has to buy the winner a glass of juice!”
-「いいよ。じゃあ、まずは俺から」=“Sure. Well, let's start.”
-「ふふん、お手並み拝見ね」=“Fu fu, let's see what you got.”
-（めっちゃこっちを見てる……なんか緊張するな）=(She's staring at me... I'm kind of nervous about this.)
-…………=......
-「……どうだった？」=“...so, how was that?”
-「こんなの勝負になるはずがないじゃない！　あたしの負け……あんたの作戦勝ちね」=“There's no contest! I lost... you won the game.”
-「俺に作戦なんてなかったけどね」=“I didn't have a strategy, though, you know?”
+「上手に三線を弾けた方の勝ちよ？　負けた方は……そうね、ジュースを奢るってことで！」=“Whoever plays it better wins, okay? Whoever loses... let's see, whoever loses buys the other juice!”
+「いいよ。じゃあ、まずは俺から」=“Sure. I'll start then.”
+「ふふん、お手並み拝見ね」=“Fufuhn~, let's see what you've got.”
+（めっちゃこっちを見てる……なんか緊張するな）=(She's staring at me real hard... it's making me kinda nervous.)
+…………=...
+「……どうだった？」=“...How was that?”
+「こんなの勝負になるはずがないじゃない！　あたしの負け……あんたの作戦勝ちね」=“How is this even supposed to be a contest! I lose... it's your tactical victory.”
+「俺に作戦なんてなかったけどね」=“I wasn't doing anything tactical though.”

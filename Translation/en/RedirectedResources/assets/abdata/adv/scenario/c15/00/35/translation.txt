@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「お店見るの楽しかったぞ、また一緒にどっか行こうな！」=“It was fun looking through the stores. Maybe we can go somewhere again!”
+「お店見るの楽しかったぞ、また一緒にどっか行こうな！」=“It was fun to look around in there, let's go somewhere together again soon!”

@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「へえ、カップルドリンクだって。頼んでみない？」=“Oh, there's a couple's drink. Why don't we ask for one?”
-「カップルって……ま、まあそりゃ、私達カップルだけどさ」=“One for couples... w-well, I suppose, I mean, we are a couple.”
-「うん、美味しい！　やっぱり使ってるフルーツが違うのかな」=“Yeah, this is tasty! I guess the fruits they use are indeed different than what we're used to.”
-「そ、そうかもなー……」=“I-I guess so...”
-「どうかした？　さっきからそわそわしてるけど」=“What's up? You been fidgeting for a while.”
-「逆になんで[P名]は平然としてんだよ。これ、飲む時に顔が近すぎだろ」=“Well how are you so calm then, [P名]? Our faces get so close when we drink.”
-「カップルドリンクってそういうものでしょ？」=“Isn't that what a couple's drink is all about?”
-「くあー、平然としてる！　腹立つー」=“Gah, look at this guy, he doesn't even care! Asshole.”
-「平然とはしてないって。[H名]の言ってることも、わからなくはないし」=“I didn't say that I don't care. I mean, it's not like I don't get what you're saying, [H名].”
-「だろ？　だったらもうちょっと……たとえば、交代で飲むとか」=“Oh yeah? Then be a bit more like...  you know, take turns drinking or something.”
-「それカップルドリンクの意味ないでしょ」=“But then what's the point of having a couple's drink anyways?”
-「呆れんな！　やっぱりお前、意識なんか全然してないだろ」=“Oh don't give me that look! I knew you didn't give a damn about this situation.”
-「してるってば。[H名]のこと大好きなんだから」=“But I am. I love you so much, [H名].”
-「平然と言いやがって。やっぱし、からかわれてるような気がしてきた」=“You say it like it's goddamn nothing. I'm beginning to feel like I'm being made fun of here.”
-「あはは、[H名]は可愛いなぁ」=“Ahaha, you are so cute, [H名].”
-「ふんだ、言ってろ！」=“Screw you, man!”
-（本心なのに。照れ屋だなぁ、[H名]は……）=“I mean it. You're a shy one, [H名]...”
-「ったく、こんなの頼んだのが悪いんだ！　残りはみんな私が飲んでやる」=“Good lord, it was a mistake ordering this! Give it to me, I'll finish the rest.” 
-「トロピカルドリンクになんの罪があるのさ」=“What's wrong with ordering tropical drinks?”
-「うっさい」=“Shaddup.”
+「へえ、カップルドリンクだって。頼んでみない？」=“Hoh, couples' drink, it says. Wanna try getting it?”
+「カップルって……ま、まあそりゃ、私達カップルだけどさ」=“A couple, huh... w-well I mean, we're a couple for sure, but like~”
+「うん、美味しい！　やっぱり使ってるフルーツが違うのかな」=“Yep, it's great! I guess they must be using a different blend of fruits.”
+「そ、そうかもなー……」=“M-Maybe...”
+「どうかした？　さっきからそわそわしてるけど」=“What's wrong? You've been fidgeting for a bit now.”
+「逆になんで[P名]は平然としてんだよ。これ、飲む時に顔が近すぎだろ」=“Why aren't you, [P名]? This thing makes us get super close when we go in for a sip.”
+「カップルドリンクってそういうものでしょ？」=“I mean, it's a couples' drink, no?”
+「くあー、平然としてる！　腹立つー」=“Kuaaah, you're seriously unfazed! It's pissing me off~”
+「平然とはしてないって。[H名]の言ってることも、わからなくはないし」=“I'm not unfazed, dummy. It's not like I don't understand where you're coming from, [H名].”
+「だろ？　だったらもうちょっと……たとえば、交代で飲むとか」=“See? So maybe we should like... you know, maybe take turns or something.”
+「それカップルドリンクの意味ないでしょ」=“That would kill the entire point of it being a couples' drink.”
+「呆れんな！　やっぱりお前、意識なんか全然してないだろ」=“Aight, I'm done! You're seriously not conscious of it at all, are you?”
+「してるってば。[H名]のこと大好きなんだから」=“I am, dummy. I love you, afterall.”
+「平然と言いやがって。やっぱし、からかわれてるような気がしてきた」=“Always without batting an eyelid. Now I'm really starting to feel like you're messing with me.”
+「あはは、[H名]は可愛いなぁ」=“Ahahah, you're seriously so adorable, [H名].”
+「ふんだ、言ってろ！」=“Hmph, keep running your mouth!”
+（本心なのに。照れ屋だなぁ、[H名]は……）=(I'm being serious though. She's so shy~...)
+「ったく、こんなの頼んだのが悪いんだ！　残りはみんな私が飲んでやる」=“Jeez, it's your fault for ordering this thing! I'mma drink the entire rest of it.”
+「トロピカルドリンクになんの罪があるのさ」=“What did the drink ever do to you?”
+「うっさい」=“Shaddup!”
