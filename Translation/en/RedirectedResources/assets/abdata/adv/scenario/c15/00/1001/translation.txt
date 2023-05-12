@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっと休んでいこうか？」=“Wanna take a break?”
-「お、いいぞー」=“Oh, okay-”
-「やったー、アイスだー！」=“Yay- Ice cream-!”
-「夏といったらやっぱりコレだよね？　俺も大好きだよ」=“Isn't this what summer's all about? I love it, too.”
-「日本の夏かー？」=“Isn't it summer in Japan?”
-「そうだね。風情っていうのかな？　こうやって庭を眺めながら、風鈴の音とか聞いてさ……」=“It is. I guess it's the taste? When I look over the garden like this, I hear the sound of wind chimes.”
-「ふーん、そんなことより外でいっぱい遊ぶ方が楽しいけどなー」=“Mmm-hmm. It's more fun to play outside, when it's like this-”
-「……まあ、子供が外で遊ぶの風情っちゃ風情なのかな」=“...well, I guess it's kinda nice for kids to play outside.”
-「そういうものなのかー」=“So that's how it is-”
-「風情とかよくわかんないけど、キミとこうしてるのが気持ちいいのはわかるぞ」=“I don't know if it's the taste, or what, but I do know that it feels good to do this with you.”
-「き、気持ちいいって……」=“It... it feels good...”
-「アイスもおいしいそうだしなー」=“And I guess the ice cream is good, too-”
-「う、うん……結局のところ俺が言いたいのもそういうことかも」=“Y-yeah... maybe that's all I'm trying to say, after all.”
-「なんだー、そっかー」=“What the hell-”
-「……ふぅ、いい気持ちだねー？」=“...fuuu, this feels good-?”
-「そうだなー。リラックスだなー」=“Well, I guess- Just relaxing-”
+「ちょっと休んでいこうか？」=“Wanna take a short break?”
+「お、いいぞー」=“Oh, sure~”
+「やったー、アイスだー！」=“Yay~, ice cream~!”
+「夏といったらやっぱりコレだよね？　俺も大好きだよ」=“Summers gotta be like this, you know? I love it too.”
+「日本の夏かー？」=“You mean our Japanese summers~?”
+「そうだね。風情っていうのかな？　こうやって庭を眺めながら、風鈴の音とか聞いてさ……」=“Yeah. Would you call it the charm of it all? Just looking at the garden like this, while listening to the windchimes...”
+「ふーん、そんなことより外でいっぱい遊ぶ方が楽しいけどなー」=“Hmmmm, not even remotely as fun as just running around outside though, you know~”
+「……まあ、子供が外で遊ぶの風情っちゃ風情なのかな」=“...Well, kids playing outside is part of the charm too, I guess.”
+「そういうものなのかー」=“That so~?”
+「風情とかよくわかんないけど、キミとこうしてるのが気持ちいいのはわかるぞ」=“I don't really get that stuff but, what I do know is that just spending time like this with you feels pretty nice.”
+「き、気持ちいいって……」=“F-Feels nice...”
+「アイスもおいしいそうだしなー」=“The icecream's great too, you know~?”
+「う、うん……結局のところ俺が言いたいのもそういうことかも」=“Y-Yeah... I think that was what I was trying to say as well.”
+「なんだー、そっかー」=“Really~? I see~”
+「……ふぅ、いい気持ちだねー？」=“...Fuh, feels nice, doesn't it~?”
+「そうだなー。リラックスだなー」=“Sure does~. So peaceful~”

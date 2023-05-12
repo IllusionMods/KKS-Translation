@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「やっぱりこういうのは苦手だ……弾き方のコツを教えてくれないか？」=“I'm not good at this stuff... can you give me some tips on how to play?”
-「コツって言われても、俺も三線は初心者だよ。一緒に頑張ろう」=“I'm a beginner at the sanshin, too. Let's work together.”
-「ん～、音色は好きだけどさ～、別に自分で弾けなくてもいいと思うんだよ」=“Nh~, I like the sound, but I mean it's not like I have to play it myself right.”
-「そんなこと言い出したら、何でもかんでも自分でやる必要がなくなるって」=“I mean going by your logic, you'll end up with the conclusion that you don't need to do anything, just have other people do it.”
-「研修旅行なんだから、ここの文化を学んでいかないと」=“We're on a study tour. We need to learn about the culture here.”
-「ぐぬぬ……正論だな。はぁ……よしっ、私なりに頑張るかぁ」=“Gah... good point. *Sigh*... right! I'll do my best.”
+「やっぱりこういうのは苦手だ……弾き方のコツを教えてくれないか？」=“I really am bad at this sorta stuff... won't you teach me the trick to this?”
+「コツって言われても、俺も三線は初心者だよ。一緒に頑張ろう」=“I mean, you ask me that but, it's my first time with one of these too. Let's do our best.”
+「ん～、音色は好きだけどさ～、別に自分で弾けなくてもいいと思うんだよ」=“Nn~, I really like the sound of it too, you know~? But I just don't think I gotta be the one playing it here.”
+「そんなこと言い出したら、何でもかんでも自分でやる必要がなくなるって」=“You can use that sorta line of thought for just about anything, you know? You don't really "need" to do anything.”
+「研修旅行なんだから、ここの文化を学んでいかないと」=“We're here on a study tour, so we oughta learn the local culture a bit too.”
+「ぐぬぬ……正論だな。はぁ……よしっ、私なりに頑張るかぁ」=“Grr... I can't argue back. Haah... aight--, I guess I'll try putting my back into it~”

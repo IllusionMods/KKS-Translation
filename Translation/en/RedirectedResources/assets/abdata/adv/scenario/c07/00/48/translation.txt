@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「さてと、何を頼むか悩みどころだな～。今の気分は肉と魚どっちだと思う？」=“Well, now I'm wondering what to order~. What do you think I'm in the mood for: meat or fish?”
-「俺に聞かれても分からないよ。単品で両方注文したら？」=“I wouldn't know if you asked me. How about ordering both?”
-「おお、ナイスアイデア！　肉はラフテーでいいとして、魚はどうしようかな～」=“Ohhh, good idea! I'll go with the rafute for meat, but which one should I go for fish~”
-「俺は……ソーキそばを頼もうかな」=“I think I'lll order... the soki soba.”
-「そば美味しいよなぁ！　よし、私もそばにしよう」=“Soba is so tasty right! Alright, I'll have some soba too.”
-「じゃあ、そばの気分じゃん……」=“Oh, so you're in the mood for soba...”
+「さてと、何を頼むか悩みどころだな～。今の気分は肉と魚どっちだと思う？」=“Now then, the hard part's deciding what to get~. Which do you think I'm in the mood for? Meat or fish?”
+「俺に聞かれても分からないよ。単品で両方注文したら？」=“There's no way I could know. Why not order both? Just the individual dishes from their sets.”
+「おお、ナイスアイデア！　肉はラフテーでいいとして、魚はどうしようかな～」=“Ooh, nice idea! I might go for Rafute for the meat, what should I get for the fish~”
+「俺は……ソーキそばを頼もうかな」=“I... think I'm gonna go with the pork ribs soba myself.”
+「そば美味しいよなぁ！　よし、私もそばにしよう」=“Soba's real tasty, isn't it~! Alright, I'mma go with that too.”
+「じゃあ、そばの気分じゃん……」=“So you were in the mood for soba all along...”

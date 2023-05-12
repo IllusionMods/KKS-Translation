@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ここは風が気持ちいいね」=“The breeze feels good here.”
-「だな。爽やかすぎて叫びたくなってくるぜ」=“Yeah. It's so relaxing, it makes me want to scream.”
-「その気持ちは分かんないんだけど……」=“I'm not sure I can relate...”
-「マジで？　何かに感動したときとかさ、自分中で気持ちがぐわーって湧き上がって来たりしないのか？」=“For real? When something moves you, don't you feel a surge of emotion inside yourself?”
-「まあ、感動した時に感情が込み上げることはあるけど……それをそのまま言葉にはしないかな」=“Well, sure, I get emotional when I'm moved... but I guess I usually don't put them into words?”
-「そうなんだな……そういう時は自分の感情に素直になった方がいいと思うぜ。こんな風にさ……最高だぁー！！」=“Is that so... I think in best to be honest with yourself in situations like those. Like this... THIS IS THE BEST-!!”
-「周りの迷惑になるって！」=“You're gonna freak out everyone around us!”
+「ここは風が気持ちいいね」=“The breeze feels really nice here, doesn't it?”
+「だな。爽やかすぎて叫びたくなってくるぜ」=“Sure does. It's so refreshing I just wanna shout out.”
+「その気持ちは分かんないんだけど……」=“I don't think I relate...”
+「マジで？　何かに感動したときとかさ、自分中で気持ちがぐわーって湧き上がって来たりしないのか？」=“Really? Do you like not feel those sorts of feelings well up inside you, whenever you're moved by something or other?”
+「まあ、感動した時に感情が込み上げることはあるけど……それをそのまま言葉にはしないかな」=“Well, when I'm moved by something, for sure, I do feel emotions but... I wouldn't go out of my way to put them into words, I guess?”
+「そうなんだな……そういう時は自分の感情に素直になった方がいいと思うぜ。こんな風にさ……最高だぁー！！」=“I see... I think you'd enjoy it a lot more just being honest to your own feelings at times like that. Like this... this is the best~!!”
+「周りの迷惑になるって！」=“We're gonna end up being an annoyance, dummy!”
