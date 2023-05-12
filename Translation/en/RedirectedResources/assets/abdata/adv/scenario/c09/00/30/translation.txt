@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「お菓子のパッケージを見てよだれを垂らしたりしないでね？」=“Don't drool over the packages of candy, okay?”
-「あたしのことをなんだと思ってるのよ！　そんなはしたないことはしないわ」=“What do you think I am?! I wouldn't do anything so immodest.”
-「ごめん。冗談が過ぎたよ」=“Sorry. I was just joking around.”
-「そりゃあね、お腹が鳴って、よだれが出そうにはなるけど……あたしはちゃんと我慢できるわ」=“Well, my stomach is growling, and I am drooling... but I have self-control.”
-（あながち間違いじゃないような？　いや、口にはしないでおこう……）=(I'm not sure that's true. No, I'll just keep my mouth shut...)
+「お菓子のパッケージを見てよだれを垂らしたりしないでね？」=“Don't start drooling over the boxes of sweets, okay?”
+「あたしのことをなんだと思ってるのよ！　そんなはしたないことはしないわ」=“Just what do you take me for! I'm not gonna do something so vulgar.”
+「ごめん。冗談が過ぎたよ」=“Sorry. I overdid that joke.”
+「そりゃあね、お腹が鳴って、よだれが出そうにはなるけど……あたしはちゃんと我慢できるわ」=“I mean, my belly's might growl a bit and stuff, and I might feel like drooling over them but... I can control myself, I'm not a kid.”
+（あながち間違いじゃないような？　いや、口にはしないでおこう……）=(I feel like that's not all that much better though? No, let's not say that to her face...)

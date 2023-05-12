@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「こっちのそばって、けっこう麺が太いわよね」=“The noodles here are really thick, aren't they?”
-「そもそも蕎麦粉を使ってないみたいだから、普通のそばの麺とはだいぶ違うらしいよ」=“Seems like they don't use buckwheat flour, so they're quite different from the usual soba noddles.”
+「こっちのそばって、けっこう麺が太いわよね」=“The buckwheat noodles they serve here are pretty thick, aren't they?”
+「そもそも蕎麦粉を使ってないみたいだから、普通のそばの麺とはだいぶ違うらしいよ」=“I mean, they don't seem to be using buckwheat flour for them so, it's not really surprising that they're different from the kind we get back home.”
 「蕎麦粉ってなに？」=“What's buckwheat flour?”
-「えーと……めちゃくちゃ簡単に言うと、そばの元になる粉だよ」=“Er, um... to put it simply, it's the powder used to make soba noodles.”
-「どういうこと？　このそばは、蕎麦粉を使ってないんでしょ？　なのにどうしてそばなの？」=“What do you mean? You saying this soba's not made from buckwheat flower? So why's it still soba?”
-「……あとで調べてあげるから、とりあえずご飯を食べようか」=“...I'll find out later. Let's just eat for now.”
+「えーと……めちゃくちゃ簡単に言うと、そばの元になる粉だよ」=“Erhm... I'll make it real simple, basically it's flour that buckwheat noodles are made out of.”
+「どういうこと？　このそばは、蕎麦粉を使ってないんでしょ？　なのにどうしてそばなの？」=“What? How does that work? How are these buckwheat noodles then? If they don't use buckwheat flour?”
+「……あとで調べてあげるから、とりあえずご飯を食べようか」=“...I'll ask them later for you so, for now let's just eat.”

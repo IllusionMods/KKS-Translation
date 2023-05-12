@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「カップルドリングだってさ。頼んでみようよ」=“There's even a couple's drink. Let's order one.”
-「……多いわ！」=“...there's so much!”
-「まず、量に対する感想がくるとは思わなかった」=“You know, I didn't think I'd get feedback on how much there is.”
-「こんなのあたし一人じゃ飲みきれない」=“I can't drink all this by myself.”
-「いや、カップルドリンクなんだから……」=“No, it's a drink for couples...”
-「さては、欧米基準ってわけね？　向こうはなんでもサイズが大きいって何かで見たことあるもの」=“So we're going by Western standards? It's like everything is this size over there.”
-「二人で飲むんだってば！」=“I said we'd drink it together!”
-「二人で！？　……そ、それはそれで欧米仕様ね。大胆さを強いてきてるわ」=“Together!? Th-that's the Western way of doing it. It's to force you to be more bold.”
-「あっ、腰が引けてるわけじゃないのよ？　なんたってあたし達は恋人……なんだし」=“Ah! I'm not trying to be a baby about it, okay? I mean, we're lovers, after all... and everything.”
-「こほんっ。それじゃ、飲んでみる？　どんな味なのかしら」=“Ahem. Then shall we drink? I wonder what it tastes like.”
-「せーのでチューてするのよ？　あと、できれば目は閉じてて欲しいかも……」=“Wanna give it a little taste? And you might want to keep your eyes closed, too...”
-「キスするわけじゃないからね？」=“It's not we're kissing, is it?”
-「に、似たようなものでしょ！」=“But it's kinda the same!”
-「違うと思う」=“I don't think so.”
+「カップルドリングだってさ。頼んでみようよ」=“Says "Couples' Drink" here. Let's try ordering it.”
+「……多いわ！」=“...It's big!”
+「まず、量に対する感想がくるとは思わなかった」=“That was not the thing I expected you to comment on first.”
+「こんなのあたし一人じゃ飲みきれない」=“I can't drink this all by myself.”
+「いや、カップルドリンクなんだから……」=“I mean, it's a couples' drink so...”
+「さては、欧米基準ってわけね？　向こうはなんでもサイズが大きいって何かで見たことあるもの」=“So, I'm guessing it's more for the western tourists? I've read before that they get everything in large and extra large over there.”
+「二人で飲むんだってば！」=“Like I said, we're gonna be drinking it together!”
+「二人で！？　……そ、それはそれで欧米仕様ね。大胆さを強いてきてるわ」=“Together!? ...T-That sounds pretty western in its own right. If there was ever anything bold, this is it.”
+「あっ、腰が引けてるわけじゃないのよ？　なんたってあたし達は恋人……なんだし」=“Ah--, it's not like I'm trying to back out or anything, okay? I mean, we're a... couple, so.”
+「こほんっ。それじゃ、飲んでみる？　どんな味なのかしら」=“*Cough*--. Well then, wanna try it? I wonder what it tastes like?”
+「せーのでチューてするのよ？　あと、できれば目は閉じてて欲しいかも……」=“You gotta go in for it after a 1-2-3, okay? Also, if you could close your eyes while doing it...”
+「キスするわけじゃないからね？」=“We're not kissing here, you know? It's just a drink.”
+「に、似たようなものでしょ！」=“I-It's very similar, dummy!”
+「違うと思う」=“Let's agree to disagree.”

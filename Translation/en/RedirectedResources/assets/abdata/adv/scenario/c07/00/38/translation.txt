@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「はぁ、はぁ……砂浜に来てやることが、かけっこって……思っても、みなかった……」=“*Heavy panting*... we come to the beach, and all you want to do is run... I never thought...”
-「おいおい、もうバテてるのか？　情けないぞー！」=“Oh, come on, you're already exhausted? You're pathetic-!”
-「砂に足をとられるから……走りにくいんだよ……」=“It's hard to run... my feet keep getting caught in the sand...”
-「それが目的なんだって！　ほら、もっと体力をつけるんだ！」=“That's the point! Look, you need to get stronger!”
-「俺に体力をつけさせて、何の意味があるのさ……？」=“What's the point of making me build my strength up...?”
-「そ、それは……あれだよ……お姫様だ……いやっ！　何でもない、何も言ってないぞ！」=“Th-that's for... you know... bridal carry... no! Nothing! I didn't say anything!”
-（……頑張ろう）=(....Let's do this)
+「はぁ、はぁ……砂浜に来てやることが、かけっこって……思っても、みなかった……」=“Haah, haah... I didn't think we'd, be breaking into a sprint... the moment we, got here...”
+「おいおい、もうバテてるのか？　情けないぞー！」=“Oi oi, are you already beat? You're being real pathetic!”
+「砂に足をとられるから……走りにくいんだよ……」=“The sand really grabs onto your feet... it's really hard to run...”
+「それが目的なんだって！　ほら、もっと体力をつけるんだ！」=“That's the entire point! C'mon, you're gonna build up that stamina!”
+「俺に体力をつけさせて、何の意味があるのさ……？」=“What's even the point, of making me have more stamina...?”
+「そ、それは……あれだよ……お姫様だ……いやっ！　何でもない、何も言ってないぞ！」=“T-That's... you know... so that you can lift m--... no--! It's nothing, I said nothing at all!”
+（……頑張ろう）=(...time to do my best.)

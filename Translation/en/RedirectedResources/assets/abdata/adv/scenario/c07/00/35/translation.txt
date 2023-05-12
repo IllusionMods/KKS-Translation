@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふぅ、気持ちのいい場所だった～。また一緒に来ような」=“Phew, that was nice there~. Let's come back together.”
+「ふぅ、気持ちのいい場所だった～。また一緒に来ような」=“Fuh, that was a real nice place~. Let's go there together again, alright?”
