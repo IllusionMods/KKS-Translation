@@ -2,14 +2,14 @@
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 （さぁ、告白するぞ……勇気を出すんだ俺……）=(Alright, time to confess... no running away, me...)
-「えっと、突然ごめん……俺、[H名]のことが好きなんだ。付き合って欲しい」=“Erhm, sorry for springing this on you... but I love you, [H]. I want you to go out with me.”
+「えっと、突然ごめん……俺、[H名]のことが好きなんだ。付き合って欲しい」=“Erhm, sorry for springing this on you... but I love you, [H名]. I want you to go out with me.”
 「なにっ！？　ほ、本気か？」=“What--!? D-Do you truly mean that?”
 「うん、俺は本気だよ」=“Yep, I do, really.”
 「ど、どうして我なのだ？　理由を聞かせてもらってもいいか？」=“W-Why me? Could I perhaps hear your reasons?”
 「それは……どうしてだろう……言葉にするのはちょっと難しい感じで……」=“That's... I wonder why... it's a bit hard for me to put it into words...”
 「理由も分からずに告白したのか？　それでは我もどう答えたらよいか……」=“Did you confess without even knowing why you wished to? I have no idea how to even respond to...”
 「いや待って！　えっと、いつも凛々しくて堂々としてるとことか、だけど可愛いところもたくさんあるところとか……」=“No, wait! Erhm, the way you're always so dignified and majestic, yet always full of so many cute sides...”
-「色々言いたいことが多すぎてまとまらないんだけど……とにかく、[H名]の全部が好きなんだ！」=“There's so many things about you that I love that we'd be here all day... basically, I just love you as a whole, [H]!”
+「色々言いたいことが多すぎてまとまらないんだけど……とにかく、[H名]の全部が好きなんだ！」=“There's so many things about you that I love that we'd be here all day... basically, I just love you as a whole, [H名]!”
 「ぜ、全部だとっ！　しかし、いつも凛々しく堂々というのは少々過大評価だ……我は今、かなりその……平静を欠いている」=“A-As a whole--!? However, I do feel you're overvaluing me quite a bit, for I feel... anything but calm... right now.”
 「……それってつまり、俺の告白でドキドキしてくれてるってこと？」=“...Do you mean that my confession made your heart pound?”
 「そうだ……我も完璧な鋼の女というわけではない。こうして不意を打たれれば、狼狽えもする……」=“That's right... I am not such a perfect woman of steel myself. Even I can be flustered, if you catch me unawares...”
@@ -35,7 +35,7 @@
 「我も……貴殿が好きだ。貴殿の剣になりたいと思っていた」=“I... love you as well. I have dreamed of becoming your sword.”
 「やった！　じゃあ俺たち両想いで……でも剣って？」=“Aight! We both love each... but wait, sword?”
 「剣は我にとって半身のようなものだ。つまり、常に共にありたいという意思表明だな……」=“One's sword is, to me, their other half. Essentially, I wish to be by your side at all times...”
-「じゃあ、俺は[H名]の鞘になるよ」=“Then, I guess I'll be your sheath, [H].”
+「じゃあ、俺は[H名]の鞘になるよ」=“Then, I guess I'll be your sheath, [H名].”
 「ぁ……そうか、我にも鞘が……収まる場所ができたのだな。むぅ、参った……顔が緩んで……こっちを見ないでくれ」=“Ah... I see, a sheath for me... a place, finally for me as well, huh? Muh, you've got me... I cannot help but grin... do not look at me.”
 「ううん、見るよ。[H名]だって、ずっと抜き身で緊張してたんじゃ休まらないでしょ？」=“Nope, I'm gonna. Even someone like you can't feel at ease always being in a fighting stance, no?”
 「だから、鞘に収まってる時くらいは……俺の前だけでは、ただの可愛い女の子で居て欲しいな」=“So, I want you to ease up, atleast while you're within your sheath... I want you to become simply the cute girl you are inside, atleast when I'm there.”
@@ -50,4 +50,4 @@
 「それなら、愛してるって言ってほしいな」=“Well, you could start with "I love you", I'd love to hear those words.”
 「そうか、そうだな……我等はもう恋人同士。多くを語らずとも……」=“I see, of course... we are already lovers. We do not need big words...”
 「愛しているぞ……我はここに誓う。我を好きと言ってくれた貴殿の剣となり、常に共に在ることを！」=“I love you... I swear here in this place, right now. I shall forevermore be a sword for you, the man to swear your love for me!”
-「ありがとう、[H名]……俺も、愛してるよ」=“Thank you, [H]... I love you, too.”
+「ありがとう、[H名]……俺も、愛してるよ」=“Thank you, [H名]... I love you, too.”
