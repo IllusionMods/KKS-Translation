@@ -53,7 +53,7 @@
 「身も心もアクティブになっているからではないでしょうか？」=“Is it not perhaps because both their hearts and bodies are active?”
 「色々動いて疲れてるはずなのに、エッチな気分だけは治まらないんだよなぁ」=“Even though I should be tired from all the running around, my libido's the one thing that won't settle down, you know~?”
 「それは生物的に生殖本能が働いているからだと思います」=“I do think that's your reproductive urges at work.”
-「[H名]もこういった所だと気分が盛り上がったりする？」=“Does being in places like these fire you up as well, [H]?”
+「[H名]もこういった所だと気分が盛り上がったりする？」=“Does being in places like these fire you up as well, [H名]?”
 「はい。相手が目の前にいれば尚更です」=“Yes. Especially if my partner's right in front of me.”
 「そのような込み入った話はまた後程」=“Let's talk about such things later.”
 「卑猥なお話ですね」=“How lewd.”

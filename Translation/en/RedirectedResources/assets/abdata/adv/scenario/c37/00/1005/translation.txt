@@ -22,7 +22,7 @@
 「休憩……しますか？」=“Would you... like to take a break?”
 「大丈夫。今のは例え話だよ」=“Nah, I'm alright. That was just hyperbole.”
 「そうでしたか。でも本当に目が回ったら、言ってください」=“Was it? But if you do start feeling uneasy, please tell me.”
-「分かった。[H名]は優しいね」=“Got it. You're really sweet, [H].”
+「分かった。[H名]は優しいね」=“Got it. You're really sweet, [H名].”
 「一緒に踊る人がいなくなったら……困りますから……」=“I would be quite troubled if... my dance partner were to collapse...”
 「あれ、そこは素直に大好きだからって言ってくれないの？」=“Aww, you're not gonna be honest and just tell me you love me there?”
 「……分かりました。言い直します」=“...I understand, I'll say it again.”

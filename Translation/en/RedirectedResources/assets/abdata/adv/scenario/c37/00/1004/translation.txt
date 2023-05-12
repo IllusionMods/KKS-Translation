@@ -11,7 +11,7 @@
 「そう考えると……不思議ですね」=“Thinking about it that way... it's quite amazing, isn't it?”
 「ん？　どの辺りが？」=“Nn? What part?”
 「ほとんど海の中で、私達は海ではない所で生まれて……出会いました」=“On a planet of mostly water, we were born in the tiny part without it... and met.”
-「へぇ、[H名]もそういうロマンチックなこと考えるんだね」=“Hoh, so even you think of some romantic stuff, huh, [H]?”
+「へぇ、[H名]もそういうロマンチックなこと考えるんだね」=“Hoh, so even you think of some romantic stuff, huh, [H名]?”
 「ん……事実を再認識しただけです」=“Nn... I just recognized the reality of things.”
 「あれ、もしかして照れてる？」=“Huh, wait, are you blushing?”
 「照れてはいません……からかうのは禁止です」=“I am not blushing... do not tease me, you're forbidden from doing so.”
@@ -19,7 +19,7 @@
 「はい、とても幸運でした」=“Yes, it was incredibly good fortune.”
 「よかった。幸運と思ってもらえてるんだ」=“You see it as good fortune, huh? I'm glad.”
 「あなたは……違うのですか？」=“Do you... not?”
-「俺も同じだよ。[H名]と出会えて、本当に良かったと思ってる」=“No, it's the same for me. I'm really glad to have met you, [H].”
+「俺も同じだよ。[H名]と出会えて、本当に良かったと思ってる」=“No, it's the same for me. I'm really glad to have met you, [H名].”
 「ん……よかったです。あなたとは全部おそろいがいいです」=“Nn... thank god. I do not like it when I differ in things from you.”
 「じゃあ、常に一緒に行動しないとね」=“We gotta always be together then.”
 「はい、一緒にいます。海でも、陸でも、空でも……」=“Yes, I shall be with you. Whether it's out at sea, on land, or in the air...”

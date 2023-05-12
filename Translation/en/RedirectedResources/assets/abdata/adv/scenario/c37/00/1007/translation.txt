@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「当たり前だけど色んな魚がいるねぇ。[H名]はどれが好き？」=“It's pretty obvious but, there's a whole lot of fish here, aren't there~? Which ones do you like, [H]?”
+「当たり前だけど色んな魚がいるねぇ。[H名]はどれが好き？」=“It's pretty obvious but, there's a whole lot of fish here, aren't there~? Which ones do you like, [H名]?”
 「あの……サンゴの辺りを泳いでいるオレンジ色……可愛いです」=“Uhm... the orange ones swimming around the corals... are very cute.”
 「あぁ、カクレクマノミだね。水族館の人気者だよ」=“Aah, the common clownfish, huh? It's the star of the show at aquariums.”
 「可愛いので、人気になるのは当然ですね」=“It's really cute so, it's only natural for it to be popular, is it not?”
