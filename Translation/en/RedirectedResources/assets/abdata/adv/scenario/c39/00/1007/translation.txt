@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ねぇ見て！　ジンベイザメがいる！　あのでっかくて顔がちょっと平べったいやつだよー」=“Hey, look!　That's a whale shark!　It's that big one with a flat face-”
-「おぉ、近くで見ると迫力あるなぁ。さすが世界最大の魚だね」=“Oh, it's so impressive up close. It's the world's largest fish.”
-「口も世界一マギー！　大き過ぎて、自分なんか丸飲みされてしまいそうよー」=“And the 'magidakara' mouth, too-! It's so big, it's like it could swallow you whole-”
-「はは、サメって言っても温厚な性格らしいよ。プランクトンとか小魚が主食なんだって」=“Haha, I've heard that these sharks are mild-mannered. Plankton and small fish are their staple food.”
-「へぇ、キミはサメに詳しいねぇ。男の子ってやっぱりそういうの好きなのー？」=“Ehe, you know a lot about sharks. Do boys like those sorts of things?”
-「まぁ、それなりに好きだけど……実を言うと、[H名]と水族館デートする時のために、色々下調べしてたんだ」=“Well, I like them in my own way... to tell you the truth, I was planning on catching up with my homework on my aquarium date with you, [H名].”
-「え、そこまでしてくれてたのー？　んぅ、なのに自分はサメを見てただはしゃいでただけで……」=“Eh, so, that's why you're glad you invited me?　Nhuu, and here I was, just excited about seeing a shark...”
-「いや、はしゃいでる[H名]は凄く可愛かったから。それが見れただけで俺は満足だよ」=“No, you're really cute when you're excited, [H名]. Just seeing that's enough for me.”
-「あぅ、ここは水族館なんだから、自分じゃなくてお魚を見なきゃダメよー？」=“Ahuu, this is an aquarium, so you have to look at the fish, not just me, okay-?”
-「大丈夫、両方見てるから。あ、ほら、餌やりの時間みたいだよ。ジンベイザメが垂直になった」=“It's alright, I can look at both. Oh, look, seems it's feed time. The whale shark's gone vertical.”
-「垂直？　あぁ、餌が水面にあるから、口をそっちに向けて泳いでるんだねー」=“Vertical?　Ahh, the food's floating on the surface, so it swims with its mouth facing it-”
-「えへへ、一生懸命食べてて可愛いさー。身体がマギーだから、食べる量も多いんだろうねー」=“Ehehe, he's eating so hard, he's cute- It's body is 'magidakara', so I guess it eats a lot-”
-「マギーって……大きいって意味でいいのかな？」=“'Magidakara'... does that mean 'big'?”
-「あ……うん。『マギー』は『大きい』とか『太い』って意味。ごめんねぇ、興奮するとつい方言が出ちゃって……」=“Oh... yeah. 'Magidakara' means 'big' or 'fat'. Sorry, when I get excited, my dialect leaks out... ”
-「謝ることないよ。ジンベイザメの大きい身体みたいに、[H名]は方言が一番のチャームポイントだからね」=“Don't apologize. Like the whale shark's large body, [H名]'s dialect is her most attractive feature.”
-「むー、自分は水族館のお魚じゃないよー？」=“Geez, I'm not a fish in an aquarium.”
-「はは、そうだね。でも[H名]は俺の彼女だから……観察日記とか付けてみようかな」=“Haha, I know. But [H名] is my girlfriend... so maybe I should keep an observation diary or something.”
-「もうっ、だったら自分も同じことするよー？　あ、交換日記とかやってみるー？」=“Geez, then I'll do the same thing, okay-? Oh, and maybe we can exchange diaries-?”
-「それもいいね。じゃあまずは、ジンベイザメと[H名]の生態について詳しく書いておくよ」=“That's a good idea. I'll start with a detailed description of the biology of whale sharks... and you,[H名].”
+「ねぇ見て！　ジンベイザメがいる！　あのでっかくて顔がちょっと平べったいやつだよー」=“Hey, look! There's a whale shark! The big one with the flat-ish face~!”
+「おぉ、近くで見ると迫力あるなぁ。さすが世界最大の魚だね」=“Ooh, the impact hits different from this up close~. I guess that's the world's largest fish for you.”
+「口も世界一マギー！　大き過ぎて、自分なんか丸飲みされてしまいそうよー」=“The mouth's the yugest in the world too! It's so big, it could probably eat me up whole~”
+「はは、サメって言っても温厚な性格らしいよ。プランクトンとか小魚が主食なんだって」=“Hahah, well, they may be called sharks but they're apparently pretty docile. Apparently it has plankton and small fish for its main diet.”
+「へぇ、キミはサメに詳しいねぇ。男の子ってやっぱりそういうの好きなのー？」=“Heh~, you know a whole lot about sharks, huh~? Do boys love that sorta stuff afterall~?”
+「まぁ、それなりに好きだけど……実を言うと、[H名]と水族館デートする時のために、色々下調べしてたんだ」=“Well, I won't deny that but... if I had to say the truth, I actually studied up a whole lot, just for our aquarium date.”
+「え、そこまでしてくれてたのー？　んぅ、なのに自分はサメを見てただはしゃいでただけで……」=“Eh, you went that far~? Nn, and here I just started running wild just from seeing a single shark...”
+「いや、はしゃいでる[H名]は凄く可愛かったから。それが見れただけで俺は満足だよ」=“No, you looked adorable so it's fine. Just seeing you be so happy is more than enough for me.”
+「あぅ、ここは水族館なんだから、自分じゃなくてお魚を見なきゃダメよー？」=“Aauu, we're at the aquarium dummy, you gotta stop looking at me and look at the fish a bit too, you know~?”
+「大丈夫、両方見てるから。あ、ほら、餌やりの時間みたいだよ。ジンベイザメが垂直になった」=“It's alright, I've got two eyes. Ah, look, seems like it's feeding time. The whale shark just went perpendicular.”
+「垂直？　あぁ、餌が水面にあるから、口をそっちに向けて泳いでるんだねー」=“Perpendicular? Aah, the food's on the surface so, it's swimming up towards it, huh~”
+「えへへ、一生懸命食べてて可愛いさー。身体がマギーだから、食べる量も多いんだろうねー」=“Eheheh, it's so cute the way it's so serious about it~. Since it's body is so yuge, it probably needs a whole lotta grub too~”
+「マギーって……大きいって意味でいいのかな？」=“Yuge... I guess you mean huge, huh?”
+「あ……うん。『マギー』は『大きい』とか『太い』って意味。ごめんねぇ、興奮するとつい方言が出ちゃって……」=“Ah... yep. "Huge" or "fat", really. Sorry~, I just can't help myself when I get excited...”
+「謝ることないよ。ジンベイザメの大きい身体みたいに、[H名]は方言が一番のチャームポイントだからね」=“You don't need to apologize. Just like the shark's huge body, your little slips of dialect are one of your charm points too.”
+「むー、自分は水族館のお魚じゃないよー？」=“Muh~, I'm not an aquarium attraction, you know~?”
+「はは、そうだね。でも[H名]は俺の彼女だから……観察日記とか付けてみようかな」=“Hahah, no, you're not. But you are my girlfriend so... maybe I'll start keeping an observation diary anyway.”
+「もうっ、だったら自分も同じことするよー？　あ、交換日記とかやってみるー？」=“Jeez--, I'm gonna do the same thing too then, you know~? Ah, wanna try making diaries to swap with each other everyday?”
+「それもいいね。じゃあまずは、ジンベイザメと[H名]の生態について詳しく書いておくよ」=“That sounds nice too. Then for starters, I guess I'll write in striking detail about you and the shark's mode of life.”

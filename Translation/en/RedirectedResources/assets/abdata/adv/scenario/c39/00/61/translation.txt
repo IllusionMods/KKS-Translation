@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「お、ここのオイルを使っていいみたいだよ。せっかくだし塗っていく？」=“Oh, seems we can use the oils here. I'll go ahead and put some on, okay?”
-「くんくん……この匂いはきっとサンニン……月桃のオイルだはずー」=“*sniff sniff*... that smells like... it should be shell ginger oil-”
-「よくオイルの種類が分かったね」=“How did you know what kind of oil to use?”
-「独特な匂いだからねー。美容に良いって聞いたことあるし、お願いするさー」=“It's a unique smell- I've heard it's good for beauty. Use that, please-”
+「お、ここのオイルを使っていいみたいだよ。せっかくだし塗っていく？」=“Oh, seems like we can freely use the oil here. Since we're here, want me to put it on you?”
+「くんくん……この匂いはきっとサンニン……月桃のオイルだはずー」=“*Sniff sniff*... this smell is definitely sannin... it should be shell ginger oil~”
+「よくオイルの種類が分かったね」=“I'm surprised you figured that out just from smell.”
+「独特な匂いだからねー。美容に良いって聞いたことあるし、お願いするさー」=“It's got a real unique smell, that's why~. I've heard that it's real good for your skin too so, please do it~”

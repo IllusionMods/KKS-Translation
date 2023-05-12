@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ここ、かなりのパワースポットらしいよ。何かお願い事とかしていこうか？」=“I heard this place is quite the power spot. Do you want to make a wish or something?”
-「うん！　折角来たんだし、お願いしないと損よねー。キミは何をお願いするのー？」=“Yeah!　That's the reason we came here, after all- So, what are you gonna ask for-?”
-「そうだなぁ……無病息災とか健康第一とか？」=“I guess... maybe I'll go with good health first?”
-「うーん、確かに大事なことだけど……ちょっと地味なお願いだねぇ……」=“Hmm, it's definitely important, but... but that's kind of an everyday request...”
-「じゃあ思い切って……[H名]ともっと仲良くなれますようにって、お願いしちゃおうかな」=“Then I'll go out on a limb and ask for... then I'll ask for [H名] to help me to get to know her better.”
-「えっ、そ、そんなのわざわざお願いしなくてもきっと大丈夫よー？　ここはほら、パワースポットなんだし……」=“Eh! That's alright, you don't need to bother asking for that, okay-? This place is a power spot...”
+「ここ、かなりのパワースポットらしいよ。何かお願い事とかしていこうか？」=“Seems like this place is a pretty well known power spot. Wanna make a wish or something?”
+「うん！　折角来たんだし、お願いしないと損よねー。キミは何をお願いするのー？」=“Yeah! We came all the way here, we'd be losing out if we don't, wouldn't we~. What are you gonna wish for~?”
+「そうだなぁ……無病息災とか健康第一とか？」=“Let's see~... a long life and great health while at it, I guess?”
+「うーん、確かに大事なことだけど……ちょっと地味なお願いだねぇ……」=“Nnn, I mean that's stuff's pretty important but... you have some plain wishes~...”
+「じゃあ思い切って……[H名]ともっと仲良くなれますようにって、お願いしちゃおうかな」=“Then maybe I'll wish for... us to get lots and lots closer together, maybe.”
+「えっ、そ、そんなのわざわざお願いしなくてもきっと大丈夫よー？　ここはほら、パワースポットなんだし……」=“Eh--, y-you don't need to waste a wish on something like that, you know~? I mean, I'm always here for you...”

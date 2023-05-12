@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えっ……それはつまり、自分と恋人になりたいって……そういうことでいいのー？」=“Eh...! That means you want to be my lover... and you want to know if I'm okay with that-?”
-「うん、そういうこと。俺と付き合うのは考えられない？」=“Yeah, something like that. So, you can't imagine yourself dating me?”
-「ううん！　真逆さー！　キミに好きって言われてからドキドキが凄くて……ゆたしく、うにげーさびら」=“Nooo!　Exactly the opposite-!　Ever since you told me you liked me, I've been so excited.”
-「えっと……ＯＫってことでいいのかな？」=“Er, um... so, it's OK with you?”
-「あ、うん！　今のはね、よろしくおねがいしますーって意味……えへへ」=“Ah, yeah!　I mean, 'please, let's be together from now on...' Ehehe!”
+「えっ……それはつまり、自分と恋人になりたいって……そういうことでいいのー？」=“Eh--... so basically, you want to be my boyfriend... can I take it like that?”
+「うん、そういうこと。俺と付き合うのは考えられない？」=“Yep, that's exactly how I want you to take it. Can't imagine going out with me?”
+「ううん！　真逆さー！　キミに好きって言われてからドキドキが凄くて……ゆたしく、うにげーさびら」=“No! It's the opposite~! My heart's been pounding ever since you told me you love me... make me your inamorata.”
+「えっと……ＯＫってことでいいのかな？」=“Erhm... I'm sorry, what? I'm guessing that's supposed to be "lover"?”
+「あ、うん！　今のはね、よろしくおねがいしますーって意味……えへへ」=“Ah, yeah! That's what I meant... eheheh.”

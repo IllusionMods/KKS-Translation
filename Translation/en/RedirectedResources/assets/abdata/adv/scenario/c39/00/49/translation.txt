@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「海に近いところだし、やっぱり海産物を食べたいよね」=“Since we're so close to the ocean, we should eat some seafood.”
-「だからよー。キミは男の子なんだし、この『爆盛海鮮丼』とか頼んでみたらー？」=“That's right- Since you're a boy, why don't you order this 'bakumori kaisendon', or something like that-?”
-「うわ……凄い量だね。確かに全部の海鮮を一気に食べられそうだけど……食べきれるかな……」=“Whoa... that's a lot of food. Sure looks like you get every type of seafood at once... I don't know if I could eat that all...”
-「えへへ、じゃあ二人ではんぶんこにするー？　自分もちょっと興味あるしー」=“Ehehe, well then, let's go halfsies, okay-? I'm a little curious about it, myself-”
-「二人なら丁度いいサイズかもね。よし、頼んでみようか」=“It's probably the perfect size for two people. Right, I'll order it.”
-「好きなものがあったら先に言ってねー。自分は何でも好きだからー、遠慮しないで食べちゃってー」=“If you have a favorite, tell me first- I like everything, so I'm afraid I might eat it-”
+「海に近いところだし、やっぱり海産物を食べたいよね」=“With how close to the sea this place is, it's hard to not wanna eat some seafood, isn't it?”
+「だからよー。キミは男の子なんだし、この『爆盛海鮮丼』とか頼んでみたらー？」=“Exactly~. You're a boy too so, how about going for this "super big seafood topped rice bowl"~?”
+「うわ……凄い量だね。確かに全部の海鮮を一気に食べられそうだけど……食べきれるかな……」=“Uwah... it really is "super" size. It's got all sorts of fish, so it won't lack for variety, that's for sure... but will I be able to finish it...”
+「えへへ、じゃあ二人ではんぶんこにするー？　自分もちょっと興味あるしー」=“Eheheh, wanna go halfsies on it then~? I'm a bit interested too~”
+「二人なら丁度いいサイズかもね。よし、頼んでみようか」=“It might be just perfect for two people, you're right. Alright, let's go with that.”
+「好きなものがあったら先に言ってねー。自分は何でも好きだからー、遠慮しないで食べちゃってー」=“If there's any particular fish you like, lemme know, okay~? I love it all so, feel free to just pick the stuff you like~”

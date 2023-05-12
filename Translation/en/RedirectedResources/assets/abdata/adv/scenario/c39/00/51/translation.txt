@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふー、もうお腹いっぱいー。キミと話しながら食べるのが楽しくて、つい食べ過ぎてしまったよー」=“Phew- I'm so full- I enjoyed talking with so much while we ate, that I ate way too much-”
+「ふー、もうお腹いっぱいー。キミと話しながら食べるのが楽しくて、つい食べ過ぎてしまったよー」=“Fuh~, my belly's stuffed~. It was so fun to just chat while eating, I overate a bit~”

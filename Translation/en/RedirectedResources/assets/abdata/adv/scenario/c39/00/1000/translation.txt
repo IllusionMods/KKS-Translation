@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「カップルドリンクがあるみたいだね。二人で飲んでみようよ」=“Looks like they have a couple's drink. Let's try it together.”
-「うぅ、ちょっと一口飲んだだけでも……なんか凄くドキドキして……味が全然分からなかったよー」=“Uuu... just a little sip... I'm kind of nervous... so I couldn't taste anything-”
-「一口だけだったからじゃない？　遠慮しないで、もっとたくさん飲んでいいんだよ？」=“Maybe it's because you only had one sip?　Don't be shy, you can drink more, okay?”
-「で、でも……こういうのはゆっくり飲みたいかなーって……」=“B-but... I was thinking I'd maybe like to drink this kind of drink slowly...”
-「それはあるね。じゃあ、次はお互い見つめ合いながら……ゆっくり飲むことにしようか」=“There is that. Well, let's take our time drinking it... while staring into each other's eyes.”
-「えっ、うん、いいけど……見つめ合いながらなんて、キミは恥ずかしくないのー？」=“Eh, yeah, good, but... you're not embarrassed when we're staring at each other-? ”
-「ちょっと恥ずかしいけど、それも含めて楽しいかな。ほらほら、早く飲も？　なんくるないさー」=“I'm a little embarrassed, but I guess that's part of the fun. Hey, come on, let's drink, okay? There's nothing to worry about-”
-「あぅ、キミにそう言われちゃったら……自分も覚悟を決めるしかないねぇ……」=“Oh, when you say it like that... I'll just have to prepare myself...”
-「分かった、もうごちゃごちゃ考えるのはやめる！　えへへ、なんくるないさー！」=“Got it... I'll stop messing around! Ehehe,　nothing to worry about-!”
-「そうそう、その方が[H名]らしくて可愛いよ」=“Right, yeah, that's more like you, [H名]... so cute.”
-「はぅっ、やっと心を落ち着けたのに……キミに可愛いとか言われたら……うー、またドキドキが……」=“Ahuu... I'm finally calming down... but when you say I'm cute... uuu, I'm still nervous...”
-「はは、うーうー言ってる[H名]は可愛いなぁ」=“Haha, [H名] is so cute when she ooohs and ahhhs.”
-「うー、可愛いはもうやめてー。ドキドキが収まらなくて、いつになっても飲めなくなっちゃうよー？」=“Uuu, quit with the cutesy stuff- My heart won't stop pounding, and I won't be able to drink anymore now, okay-?”
-「無理に収めなくてもいいんじゃない？　ドキドキを楽しむのがカップルドリンクなんだから」=“You don't have to force it, you know?　It's a couple's drink. You're supposed to enjoy the thrill.”
-「……じゃあ、せめて飲み終わるまで変なこと言うのは禁止ねー？　噴き出してキミの顔にかけても知らないよー？」=“...well, at least try not saying anything strange until we finish the drink, okay-? What'll happen if I spray some out onto your face-?”
-「分かった、約束するよ。流石にかけられるのは嫌だしね」=“All right, I promise. I don't want to get sprayed.”
-「んー、まだいっぱい残ってるけど、二人で飲めばすぐよねー？　一緒に口をつけたいから、キミが合図してー」=“Nh-, there's a lot left, but the two of us can drink it quickly, can't we?　I'd like to sip it together, so give me the signal.”
-「じゃあ……『せーの』で一緒に飲み始めようか！」=“Well... let's start drinking at 'go'!”
+「カップルドリンクがあるみたいだね。二人で飲んでみようよ」=“Seems like they have a couples' drink. Let's order it together.”
+「うぅ、ちょっと一口飲んだだけでも……なんか凄くドキドキして……味が全然分からなかったよー」=“Uuu, I only drank a sip but... it made my heart pound so much... I couldn't taste it at all~”
+「一口だけだったからじゃない？　遠慮しないで、もっとたくさん飲んでいいんだよ？」=“Probably because you only drank just the one sip, no? Don't hold back, you can drink more, you know?”
+「で、でも……こういうのはゆっくり飲みたいかなーって……」=“B-But... I was thinking that maybe we could go through it slowly...”
+「それはあるね。じゃあ、次はお互い見つめ合いながら……ゆっくり飲むことにしようか」=“You've got a point there. Then, let's drink it slowly... while drinking in each other's eyes as well.”
+「えっ、うん、いいけど……見つめ合いながらなんて、キミは恥ずかしくないのー？」=“Eh--, okay, sure but... does staring at each other's eyes, not embarrass you~?”
+「ちょっと恥ずかしいけど、それも含めて楽しいかな。ほらほら、早く飲も？　なんくるないさー」=“It does a little bit but, that's part of the fun for me. C'mon, let's drink it? Don't sweat the details, c'mon~”
+「あぅ、キミにそう言われちゃったら……自分も覚悟を決めるしかないねぇ……」=“Auu, well, if you say so... I guess I have no choice but to make up my heart too~...”
+「分かった、もうごちゃごちゃ考えるのはやめる！　えへへ、なんくるないさー！」=“Got it, I'mma stop thinking so much about it! Eheheh, it'll be what it'll be~!”
+「そうそう、その方が[H名]らしくて可愛いよ」=“Exactly. That's more like you, [H名]. And way cuter.”
+「はぅっ、やっと心を落ち着けたのに……キミに可愛いとか言われたら……うー、またドキドキが……」=“Hauu--, my heart finally settled down too... if you say that sorta stuff... uu~, my heart's gonna start...”
+「はは、うーうー言ってる[H名]は可愛いなぁ」=“Hahah, seeing you going "Uu~" like that is so cute too~”
+「うー、可愛いはもうやめてー。ドキドキが収まらなくて、いつになっても飲めなくなっちゃうよー？」=“Uu~, stop that, no more~. I'm not gonna be able to stop my heart from pounding, and then we'll never get through this drink, you know~?”
+「無理に収めなくてもいいんじゃない？　ドキドキを楽しむのがカップルドリンクなんだから」=“Do you have to stop it though? The whole point of this drink is to savour that sensation.”
+「……じゃあ、せめて飲み終わるまで変なこと言うのは禁止ねー？　噴き出してキミの顔にかけても知らないよー？」=“...Then, you have to at least keep that sorta stuff inside until we're done drinking, okay~? Else you can't blame me for accidentally spitting it out all over your face, you know~?”
+「分かった、約束するよ。流石にかけられるのは嫌だしね」=“Got it, I promise you that. Having this drink spat on my face would be a little bit much.”
+「んー、まだいっぱい残ってるけど、二人で飲めばすぐよねー？　一緒に口をつけたいから、キミが合図してー」=“Nn~, there's still lots left but, if we drink it together, we'll get through it in no time, right~? I want us to do it together so, give me the cue when~”
+「じゃあ……『せーの』で一緒に飲み始めようか！」=“Then... let's go with a good ol' 3-2-1!”

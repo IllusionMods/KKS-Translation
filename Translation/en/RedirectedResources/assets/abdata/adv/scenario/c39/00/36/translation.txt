@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「カヤックに乗るなら、やっぱり掛け声とかあった方がいいよね？」=“If we're going to go kayaking, we may as well have a cadence or something, right?”
-「そうだねぇ、息が合わないと上手く進まなそうだし……何か決めておこうか」=“Well, I don't think we'll get anywhere if we don't work together... let's decide on something.”
-「じゃあ……『いち、に』とか『みぎ、ひだり』とかが普通かなぁ？」=“Then... 'one, two' or 'right, left', like usual?”
-「それだと途中で疲れた時に力が出なくないー？　自分は『なんくる、ないさー』がいいと思うなぁ」=“I believe that'd just tire me out, right in the middle of paddling.　I think I'd rather go with, 'nankuru, nana no nai'.”
-「はは、[H名]らしいね。いいよ、俺は賛成」=“Haha, that's just like you, [H名]. Okay, I'm with you.”
-「えへへ、楽しいカヤックになりそうだねー♪　もし木に引っかかったりしても、なんくるないさー！」=“Ehehe, this is gonna be some fun kayaking-♪ It won't be a problem, even if we get snagged in a tree-!”
+「カヤックに乗るなら、やっぱり掛け声とかあった方がいいよね？」=“If we're gonna ride this kayak, we should have a yell to swing our oars, shouldn't we?”
+「そうだねぇ、息が合わないと上手く進まなそうだし……何か決めておこうか」=“Good idea~, it's gonna be hard to get anywhere if our breathing isn't synced... let's decide on something.”
+「じゃあ……『いち、に』とか『みぎ、ひだり』とかが普通かなぁ？」=“Then... don't people normally use stuff like "one, two" or "left, right" or whatever?”
+「それだと途中で疲れた時に力が出なくないー？　自分は『なんくる、ないさー』がいいと思うなぁ」=“That's not rallying enough, what if you run out of energy midway through~? Personally, I think "Gonna be, all right~" is better~”
+「はは、[H名]らしいね。いいよ、俺は賛成」=“Hahah, that sounds just like you. Sure, I'm down for that.”
+「えへへ、楽しいカヤックになりそうだねー♪　もし木に引っかかったりしても、なんくるないさー！」=“Eheheh, seems like this is gonna be a fun time~♪ Even if we get caught on a mangrove root or something, it's gonna be all right~!”

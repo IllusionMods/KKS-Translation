@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ダイビングとかドキドキだね。海の中は綺麗なんだろうなぁ……」=“I'm excited about diving. It must be beautiful under the sea...”
-「うんうん！　綺麗なサンゴ、可愛い熱帯魚……もしかしたらイルカもいるかもしれないさー！」=“Yeah, yeah!　Beautiful coral, cute tropical fish... and maybe even dolphins-!”
-「はは、イルカもいるかもって……[H名]もダジャレとか言うんだね」=“Haha, you said there might even be dolphins... [H名] just made a pun, or something.”
-「えっ、あ……今のは違くてぇ。ちょっと興奮し過ぎて、変なこと言ってしまっただけよー」=“Eh, ah... not really. I just got a little overexcited, and said something weird-”
-「そうなの？　結構面白かったのに」=“Is that so?　I thought it was pretty funny.”
-「うー、そうやってからかってるとー、もしほんとにイルカを見つけても教えてあげないからねー」=“Uuu-, if you tease me like that- if I really find a dolphin, I won't tell you-”
+「ダイビングとかドキドキだね。海の中は綺麗なんだろうなぁ……」=“Diving really makes your heart pound, doesn't it? I bet it's real beautiful inside the sea...”
+「うんうん！　綺麗なサンゴ、可愛い熱帯魚……もしかしたらイルカもいるかもしれないさー！」=“Yepyep! The pretty corals, and the cute tropical fishes... we might even see a dolphin or two~!”
+「はは、イルカもいるかもって……[H名]もダジャレとか言うんだね」=“Hahah, "might even (iru kamo) see a dolphin or two (iruka mo)"... you sure know how to make puns, [H名].”
+「えっ、あ……今のは違くてぇ。ちょっと興奮し過ぎて、変なこと言ってしまっただけよー」=“Eh--, ah... that wasn't on purpose~. I just got a bit excited and said it weirdly~”
+「そうなの？　結構面白かったのに」=“Really? It was pretty funny though.”
+「うー、そうやってからかってるとー、もしほんとにイルカを見つけても教えてあげないからねー」=“Uu~, if you keep teasing me like that~, even if I see a dolphin I'm not gonna tell you, you know~”

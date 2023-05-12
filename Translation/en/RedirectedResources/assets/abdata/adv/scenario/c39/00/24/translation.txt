@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えっと……たぶんだけど、キミはちゃんと気持ちよくなれてないんじゃない？　ほんとに終わって……いいの？」=“Er, um... maybe you're just not in the right mood? You okay with this... being over?”
+「えっと……たぶんだけど、キミはちゃんと気持ちよくなれてないんじゃない？　ほんとに終わって……いいの？」=“Erhm... I don't know this stuff super well but, you haven't gotten to enjoy it properly yet, no? Are you sure you wanna... stop?”
