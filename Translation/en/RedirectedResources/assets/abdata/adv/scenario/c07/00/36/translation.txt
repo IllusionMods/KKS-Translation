@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「さぁて、二人で競えるレジャーはないかな……」=“Let's see, is there something that we can both compete in...”
-「一緒に楽しむものなんだから、競争する様なものはないと思うよ」=“They're all for us to enjoy with each other, so I don't think there's going to be anything that we can compete in.”
-「あったとしても、勝てる自信ないし……やめておきたいな」=“And even if there is, I'm not sure that I'd be able to win... And so I'd rather not.”
-「おいおい、男のくせに情けないぞ！　よしっ、お前に気合を入れる為に稽古をするか！」=“Come on, you're so pathetic for a guy! Right!  Let's practice to get you all fired up!”
-「いや普通に遊ぼうよ」=“No, let's just play like normal.”
+「さぁて、二人で競えるレジャーはないかな……」=“Now then, isn't there an activity we can both challenge each other at...”
+「一緒に楽しむものなんだから、競争する様なものはないと思うよ」=“It's stuff meant to be enjoyed together so, I don't think there's gonna be anything we can have a contest with.”
+「あったとしても、勝てる自信ないし……やめておきたいな」=“Even if there was though, I have 0 confidence that I'm gonna win anything... so I'd rather not.”
+「おいおい、男のくせに情けないぞ！　よしっ、お前に気合を入れる為に稽古をするか！」=“Oi oi, aren't you a guy? Don't sound so pathetic! Aight--, let's get some training in then, we're gonna get you fired up in no time!”
+「いや普通に遊ぼうよ」=“No, seriously, let's just have fun normally.”

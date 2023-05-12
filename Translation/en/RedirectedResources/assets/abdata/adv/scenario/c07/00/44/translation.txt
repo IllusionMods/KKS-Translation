@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「今だけは、話しかけないでくれ……めちゃくちゃ集中して描いてるんだ」=“Don't even talk to me, right now... I'm insanely focused on drawing this.”
-「う、うん……見守ってるから、頑張って」=“S-sure... I'm watching over you. Do your best.”
-「さんきゅーな。期待に応えていい作品を作るぜ！」=“Thanks, man. I'm gonna make something that'll live up to your expectations.”
-「……って、あぁっ！？　思わず腕を挙げてた所為でズレてしまった……」=“..wha, ahhh!? My arm jerked up, and it slipped out of place...”
-「えぇと……たぶん言ったら、新しいのをくれるんじゃないかな？」=“Er, um... I think if you ask them, they'll probably you a new one?”
+「今だけは、話しかけないでくれ……めちゃくちゃ集中して描いてるんだ」=“Don't talk to me, not right now... I'm trying to seriously concentrate here.”
+「う、うん……見守ってるから、頑張って」=“S-Sure... I'll watch over you, so do your best.”
+「さんきゅーな。期待に応えていい作品を作るぜ！」=“Thanks. I'll live up to those expectations and make something amazing for you!”
+「……って、あぁっ！？　思わず腕を挙げてた所為でズレてしまった……」=“...Wuh, aaah--!? I didn't mean to raise my arm there, now it's messed up...”
+「えぇと……たぶん言ったら、新しいのをくれるんじゃないかな？」=“Eerhm... if you tell them what honestly happened, won't they give you a new one this once?”

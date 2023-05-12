@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「お前はさすがだな！　すっげーよかったぜ！」=“You're the man! That was awesome, dude!”
-「いい気分だったぜ。さんきゅー！」=“That felt good, man. Thank you-!”
-「少しすっきりした気がするぜ。ありがとな」=“I feel a little better now. Thanks, man.”
-「おいおい、ほんとに塗らないのか？」=“Oi oi, you sure you don't want to put them on?”
+「お前はさすがだな！　すっげーよかったぜ！」=“You're pretty good at this! That felt super amazing!”
+「いい気分だったぜ。さんきゅー！」=“That felt great. Thanks!”
+「少しすっきりした気がするぜ。ありがとな」=“I feel a bit refreshed. Thanks.”
+「おいおい、ほんとに塗らないのか？」=“Oi oi, are you seriously not gonna put any oil on me?”
