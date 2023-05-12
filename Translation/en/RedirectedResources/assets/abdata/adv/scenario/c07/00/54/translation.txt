@@ -11,7 +11,7 @@
 「そっかぁ……さすがに無理かぁ……残念だなぁ……」=“I see~... Guess I really was asking for too much~... what a shame~...”
 「……わ、わかった、やってやるよ！　ただし交換条件だ！　お前も、私を、愛称で呼べ！」=“...F-Fine, I'll do it! But, I've got a condition! Call me by a nickname too!”
 「全然いいよ。……[Hあだ名]」=“Sure, I don't mind at all. ...[Hあだ名].”
-「そんなあっさり……！？　えっと……うぅ……[Pあだ名]。……あー！　もう恥ずかしいぃぃ！」=“So readily...?! Erhm... uuu... [Pあだ名]. ...Aah! So embarrassing!”
+「そんなあっさり……！？　えっと……うぅ……[Pあだ名]。……あー！　もう恥ずかしいぃぃ！」=“Didn't even bat an eye...?! Erhm... uuu... [Pあだ名]. ...Aah! So embarrassing!”
 「……す、すごい破壊力……もう一回、もう一回呼んで！」=“...T-That hit so hard... One more time, call me that one more time!”
 「絶対！　絶対に呼ばないからなー！」=“Definitely not! I'm definitely not calling you that again!”
 （……と言いつつ、なんだかんだ呼んでくれそうだよなー。今度お願いしてみよっと）=(...So she says but, I have a feeling I could get her to call me it again. I'll try asking later.)
