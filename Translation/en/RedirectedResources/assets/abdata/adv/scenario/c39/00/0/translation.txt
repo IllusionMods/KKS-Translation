@@ -4,7 +4,7 @@
 「キミのこと、もっと知りたいって言ったら……迷惑かなー？」=“If I said I wanted to get to know you more... would that be a bother~?”
 「全然迷惑じゃないよ！　でも、一つだけ条件が……」=“Not at all! But, I do have one condition...”
 「なに？　訛りを直せとかは難しいよー？　これはもう、ちょっとやそっとで直るものじゃ……」=“What? I can't fix my accent, you know~? It's not something I can just change willy nilly...”
-「いや、訛りは可愛いからそのままで大丈夫。条件はその……俺も[H名]のことがもっと知りたいなって」=“No, the way you talk is really cute so you're fine as you are. The condition is, well... I wanna get to know you more too, [H].”
+「いや、訛りは可愛いからそのままで大丈夫。条件はその……俺も[H名]のことがもっと知りたいなって」=“No, the way you talk is really cute so you're fine as you are. The condition is, well... I wanna get to know you more too, [H名].”
 「じゃあ、お互い教えっこだねぇ。あとその、自分の訛り……可愛いってほんとに思ってくれてるのー？」=“Then, I guess we'll be teaching each other then~. Also, do you really think that my accent... is cute~?”
 「もちろん！　なんか特殊な方言とかあったら教えて欲しいくらいだよ」=“Of course! So much so, I almost want you to teach it to me too, along with your dialect.”
 「えへへ、しに嬉しい！　えっとね『しに』とか『でーじ』は『とっても』って意味よー」=“Eheheh, real gladly! Erhm also you can just use "real" as a modifier for just about anything~”

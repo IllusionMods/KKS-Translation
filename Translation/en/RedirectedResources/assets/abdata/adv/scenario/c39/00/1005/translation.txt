@@ -6,7 +6,7 @@
 「キャンプファイヤーを囲んでフォークダンスか……折角だから二人で参加しない？」=“A folk dance around the campire, huh... Hey, wanna do it together? Not like this is an everyday thing.”
 「ちょっと恥ずかしいけど、キミのお誘いなら断れないねー。いいよ、一緒に踊ろう」=“It's a bit embarrassing but, I can't exactly say no when it's you~. Sure, let's dance together.”
 「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you all broken into pairs? ...Well then, once the prepwork is complete, I shall put on the music.”
-「[H名]、リラックスだよ。なるべくリードするようにするから」=“[H], relax. I'll try to lead you where I can.”
+「[H名]、リラックスだよ。なるべくリードするようにするから」=“[H名], relax. I'll try to lead you where I can.”
 「リラックスは、ちょっと難しいさー。だって、キミが凄く近くて……周りにも、いっぱい人がいるのに……」=“That's a bit of a, hard ask~. I mean, you're up so close to me... even though, there's so many people around us...”
 「別に変なことしてるわけじゃないんだから、周りは気にしなくて大丈夫だよ」=“It's not like we're doing anything weird so, you don't need to worry about them.”
 「そうは言っても……みんなはこんなに密着して踊って、恥ずかしくないのかねー？」=“You say that but... does everyone else not feel embarrassed, hugging each other so closely like that~?”
@@ -17,7 +17,7 @@
 「おぉ、動きが急に良くなったね。今度は俺が足を引っ張らないようにしないと……」=“Ooh, your steps just became a lot more sure. I guess this time it's my turn to put in effort to catch up to you...”
 「それは無いから大丈夫よー。自分が合わせるし、これは競技じゃなくて楽しむための踊りだからねー」=“You don't need to, it's okay~. I can already sync with you and, this isn't a match but rather a dance for us to enjoy together~”
 「そうだった。変に意識してたのは俺の方だったのかも……」=“Right. Maybe I was the one being overly serious there...”
-「[H名]は、故郷でなんか踊りとかやってたの？」=“Did you do much dancing back in your hometown, [H]?”
+「[H名]は、故郷でなんか踊りとかやってたの？」=“Did you do much dancing back in your hometown, [H名]?”
 「特別習ったことは無いけど、みんな陽気な人達だったからねー。身体が勝手に動く感じはあったよー」=“I've never really gone out of my way to practice it but, back there everyone's really lively and friendly there, you know~. I just found my body moving by itself~”
 「はは、それならフォークダンスより、元気な踊りの方が似合いそうだね」=“Hahah, a more energetic dance would fit you a lot better then, than this folk dance.”
 「一人で違う踊りはしないよー？　自分は目立ちたいわけじゃなくて、キミと踊りたかっただけだから」=“I'm not gonna go and dance some other dance by myself, you know~? I'm not doing this to stand out, I just wanted to dance with you.”
