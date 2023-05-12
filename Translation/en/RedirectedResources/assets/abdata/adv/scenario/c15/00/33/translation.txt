@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「綺麗な景色だったなー。それじゃあ、またなー」=“That was a beautiful view- Well then, I'll see you around-”
+「綺麗な景色だったなー。それじゃあ、またなー」=“That was really pretty, wasn't it~? See ya later then~”

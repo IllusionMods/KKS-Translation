@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「カップルドリンクが飲めるんだって。頼んでみようよ」=“They have a drink for couples to share. Let's ask for one.”
+「カップルドリンクが飲めるんだって。頼んでみようよ」=“Apparently we can order a couples' drink here. Let's try ordering it.”
 「ドリンクがきたよ。味はトロピカルフルーツかな？　美味しそうだね」=“The drink's here. Wonder if it's gonna taste tropical fruity? It looks real good.”
 「えへへ♪」=“Eheheh♪”
 「急に微笑んでどうしたの？」=“What's got you smiling?”

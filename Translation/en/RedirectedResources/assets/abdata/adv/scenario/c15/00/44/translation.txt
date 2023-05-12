@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「三線の音は、なんだか元気が出て楽しいぞー」=“The sanshin has kind of an energetic, enjoyable sound-”
-「地元の人は、この音が聞こえたら、すぐ踊り出すって言うからね」=“It's said that the locals start dancing, as soon as they hear it.”
-「あたしもなんだか、踊りたくなってきたぞー！」=“I'm beginning to feel like dancing, too-!”
-「いやいや待って！　今は三線の演奏体験なんだから……」=“No, wait, hold on! This experience is just about playing the sanshin, now...”
+「三線の音は、なんだか元気が出て楽しいぞー」=“Sanshins kinda make me feel all energetic, it's really fun~”
+「地元の人は、この音が聞こえたら、すぐ踊り出すって言うからね」=“They do say that just listening to one makes the locals wanna break out into a dance.”
+「あたしもなんだか、踊りたくなってきたぞー！」=“It's the same for me, I feel like dancing now~!”
+「いやいや待って！　今は三線の演奏体験なんだから……」=“No, no, wait! We're here to learn to play one, not to dance...”

@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっとお店を見てこうよ」=“Let's check out the store.”
-「おー、いいぞー」=“Oh- Okay-”
-「それ気に入ったの？　アロハシャツかな」=“You like that? It's a Hawaiian shirt, I think.”
-「気に入ったってわけじゃないぞ？　なんとなく手に取っただけだ=“I didn't say I liked it, okay? I just ended up with it, for some reason.”
-「いいんじゃない？　[H名]はアロハ似合いそうだよ」=“What's wrong with it? You'd look good in a Hawaiian shirt, [H名].”
-「似合う？　なんでだ」=“It'd suit me? I don't get it.”
-「……なんとなくかな？」=“...you don't get it?”
-「あはは、あたしの真似っこだー」=“Ahaha, you're trying to copy me-”
-「まあいいか。キミが似合うって言うなら、これあたしのお土産にしよっかな」=“Well, whatever. If you're telling me I'd look good, then I guess this'll be my souvenir.”
-「なんなら俺が買ってプレゼントしよっか？」=“I could buy it and gift it to you, if that's what you'd like, okay?”
-「そんなのしなくていいから、キミはキミのお土産を買うんだぞ」=“You don't have to do that. Buy your own souvenirs.”
-「それも味気なくない？　あ、じゃあ[H名]は俺のを選んでよ。それで贈り合うってことで……どうかな」=“I'd just get something tasteless then, wouldn't I? Ah, pick one for me, [H名]. We could give them to each other as gifts... so how about it?”
-「う！？　そ、それはちょっと、あたしには難しすぎるなー……」=“Uuu?! Th-that's a little too much for me-...”
-「キミに似合う贈り物か。ち、ちょっと時間がほしいぞ、すぐには決められない」=“A gift that suits you... I-I need some time... I can't decide right off the bat.” 
-（自分のはあんなに簡単に決めたのに……）=(I made my decision so easily...)
+「ちょっとお店を見てこうよ」=“Let's go take a look at the shop.”
+「おー、いいぞー」=“Oh~, sure~”
+「それ気に入ったの？　アロハシャツかな」=“You like that? Looks like an aloha shirt.”
+「気に入ったってわけじゃないぞ？　なんとなく手に取っただけだ=I mean, I wouldn't say that. I just ended up grabbing it.
+「いいんじゃない？　[H名]はアロハ似合いそうだよ」=“Isn't it nice? Seems like it'd suit you.”
+「似合う？　なんでだ」=“You think so? Why?”
+「……なんとなくかな？」=“...I just do, I guess?”
+「あはは、あたしの真似っこだー」=“Ahahah, now you're just copying me~”
+「まあいいか。キミが似合うって言うなら、これあたしのお土産にしよっかな」=“Well, whatever. If you think it'll look good on me, I'll buy this as my souvenir.”
+「なんなら俺が買ってプレゼントしよっか？」=“How about I buy it and gift it to you then.”
+「そんなのしなくていいから、キミはキミのお土産を買うんだぞ」=“You don't need to bother with that, you should buy something for yourself.”
+「それも味気なくない？　あ、じゃあ[H名]は俺のを選んでよ。それで贈り合うってことで……どうかな」=“Doesn't that feel a bit boring though? Ah, you pick something for me then. And then we can gift something to each other... how about that?”
+「う！？　そ、それはちょっと、あたしには難しすぎるなー……」=“Uu!? T-That might be, a bit too high bar for me to jump across~...”
+「キミに似合う贈り物か。ち、ちょっと時間がほしいぞ、すぐには決められない」=“Something that'd look good on you, huh? I-I'm gonna need some time here, what a quest you've handed down.”
+（自分のはあんなに簡単に決めたのに……）=(Even though she picked out something for herself so easily...)

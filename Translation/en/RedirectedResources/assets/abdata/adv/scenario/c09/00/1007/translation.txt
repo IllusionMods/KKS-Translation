@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「まるで海の中だね。キレイだなぁ」=“This is like being in the ocean. It's beautiful.”
-「うふふ、口開けちゃって子供みたいよ」=“Ufufu, when your mouth's open like that, you look like a little kid.”
-「見惚れちゃうって、こんなの」=“I'm just in awe.”
-「そうね。水族館っていうとデートの定番って感じがするけど、納得感があるわ」=“I see. I was thinking that going to the aquarium was just a date night cliche, but now I'm convinced it's a great idea.”
-「薄暗くてムードあるし、みたいなこと？　映画館とかと同じかな」=“You mean, how's it's dimly lit and moody? Like a movie theatre, or something.”
-「えっち！　あんたもさっき言ってたじゃない。幻想的でキレイだからってことよ」=“Pervert! You said it yourself, earlier. I mean, because it's fantastic, and beautiful.”
-（なんでエッチって言われたんだ……)=(Why'd she call me a pervert...?)
-「ほら、あの魚とか普通じゃないわよ。なんであんなにカラフルなのかしら」=“That fish there - that's not normal. I wonder why it's so colorful.”
-「あっちの魚はすっごいちっちゃいわ！　可愛い～」=“And the fish over there are so tiny! Adorable~!”
-「気に入ったみたいでよかった」=“I'm glad you like them.”
-「クールぶっちゃって。あんたも楽しもうとしないと楽しめないわよ」=“Don't act all cool. You can't enjoy this, unless you actually try to enjoy it.”
-「そ、それとも、ちょっとはしゃぎすぎ？　いけないいけない、らしくなかったわね」=“O-or maybe you're really super excited? No, no, that's not like you, is it?”
-（すっごく[H名]らしいし、微笑ましいけど……）=(That is so [H名], and it makes me smile, but...)
-「子供みたい、って思った？」=“Do you think I'm childish?”
-「全然？　せっかく来たんだから楽しめた方がいいに決まってるよ」=“Not at all, okay? Of course, since we came all this way, we might as well enjoy ourselves.” 
-「そうよね！　ほら、ぼやぼやしてないでもっと奥に行きましょ。あたし、ペンギン見たい」=“That's right! Hey, let's not hang around. Let's further inside. I want to see the penguins.”
-「さすがにペンギンはいないと思う……」=“I don't think there's any penguins...”
+「まるで海の中だね。キレイだなぁ」=“Almost feels like we're underwater, doesn't it? It's so pretty.”
+「うふふ、口開けちゃって子供みたいよ」=“Ufufuh, you're like a little kid with your jaw wide open like that.”
+「見惚れちゃうって、こんなの」=“Just about anyone would feel this way, looking at this.”
+「そうね。水族館っていうとデートの定番って感じがするけど、納得感があるわ」=“You're not wrong. Aquariums really feel like the most bog standard date spot but, I can certainly see why.”
+「薄暗くてムードあるし、みたいなこと？　映画館とかと同じかな」=“Because it's dark and moody? Almost like a movie theatre, in that way.”
+「えっち！　あんたもさっき言ってたじゃない。幻想的でキレイだからってことよ」=“You perv! You said it yourself earlier too. It's because it's magical and really pretty.”
+（なんでエッチって言われたんだ……)=(Why do I get called a perv for stating the obvious...)
+「ほら、あの魚とか普通じゃないわよ。なんであんなにカラフルなのかしら」=“Look, that fish isn't normal. I wonder why it's so colorful?”
+「あっちの魚はすっごいちっちゃいわ！　可愛い～」=“And that one's super small! It's so cute~”
+「気に入ったみたいでよかった」=“Well, I'm glad you're enjoying yourself.”
+「クールぶっちゃって。あんたも楽しもうとしないと楽しめないわよ」=“Stop acting cool and try to enjoy yourself. Else you just won't.”
+「そ、それとも、ちょっとはしゃぎすぎ？　いけないいけない、らしくなかったわね」=“O-Or am I getting too excited? Not good, not good, that really wasn't like me, was it?”
+（すっごく[H名]らしいし、微笑ましいけど……）=(It's just like her, and really heartwarming to look at, just like a...)
+「子供みたい、って思った？」=“Did you just think "just like a child" in your head?”
+「全然？　せっかく来たんだから楽しめた方がいいに決まってるよ」=“Not at all? We came all the way here, so of course we should enjoy ourselves.”
+「そうよね！　ほら、ぼやぼやしてないでもっと奥に行きましょ。あたし、ペンギン見たい」=“Right?! C'mon, don't just stand there like a dummy, let's go further in. I wanna see a penguin.”
+「さすがにペンギンはいないと思う……」=“I really don't think they've got one of those here...”

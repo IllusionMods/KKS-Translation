@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「最初は怪しいヤツだと思ったけど、キミは悪いヤツじゃないな」=“At first, I thought you were a suspicious guy. But you're actually not a bad person.”
-「え、どうして悪いヤツじゃないってわかったの？」=“Eh, how do you know that I'm not a bad person?”
-「ニオイで大体わかるぞ」=“I can almost always tell by the way someone smells.”
-「へ～、ニオイでそんなことわかるんだ……」=“Ahem~ You can tell, just by the smell...”
-「でも、ニオイじゃわからないこともあるから、色んな話をしてもっとキミのこと教えてほしいぞ」=“But there's things I can't figure out by way they smell, so I'd like to talk to you, and learn more about you.”
-「もちろん。これからもよろしくね」=“Of course. I'll keep in touch.”
-「うん！　よろしく！」=“Yeah! Let's work together!”
-「あ、もう時間だぞ。また話そ、じゃーねー♪」=“Ah, it's time for me to go. We'll talk again, see ya-♪”
+「最初は怪しいヤツだと思ったけど、キミは悪いヤツじゃないな」=“I used to think you were a real fishy guy but, you're alright.”
+「え、どうして悪いヤツじゃないってわかったの？」=“Eh, what changed your mind?”
+「ニオイで大体わかるぞ」=“Your smell, I can tell that sort of thing.”
+「へ～、ニオイでそんなことわかるんだ……」=“Hoh~, is that so...”
+「でも、ニオイじゃわからないこともあるから、色んな話をしてもっとキミのこと教えてほしいぞ」=“But, there's things that even smells can't teach you, so I want to get to know you a lot more, with chats and stuff.”
+「もちろん。これからもよろしくね」=“Of course. Let's chat each other's ears off.”
+「うん！　よろしく！」=“Yeah! Let's!”
+「あ、もう時間だぞ。また話そ、じゃーねー♪」=“Ah, I'm out of time. Let's chat again later, see ya♪”
