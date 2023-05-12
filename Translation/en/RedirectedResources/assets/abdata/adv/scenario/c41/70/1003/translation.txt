@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「[H名]とお土産屋さんを回りたかったんだ。見ていかない？」=“I was thinking that maybe we could hit up the souvenir shop, [H]. Wanna go take a look?”
+「[H名]とお土産屋さんを回りたかったんだ。見ていかない？」=“I was thinking that maybe we could hit up the souvenir shop, [H名]. Wanna go take a look?”
 「見て見て、シーサーのキーホルダーだよ。可愛くない？」=“Look look, it's a shisa keychain. Isn't it cute?”
 「あはは、この顔がいいね～。あ、こっちに星の砂のキーホルダーもあるよ」=“Ahahah, what a nice face~. Ah, they've got some starsand keychains here too.”
 「星の砂のキーホルダーも可愛い！　うーん、でもやっぱりボクはシーサーかな。可愛いだけじゃなくて、勇ましくてカッコイイし」=“That one's cute too! Nnn, but I think I prefer the shisa one. It's not just cute, it looks so strong and cool too.”
@@ -14,7 +14,7 @@
 「本当？　もっと女の子っぽい趣味の方がよかったりしない？　キミがそう思うならボク、合わせられると思うよ」=“Really? You sure you'd not rather that I had more girly hobbies? If you do, I could change for you, you know?”
 「いやいや、別に無理しなくていいよ」=“No no, you really don't need to force yourself with stuff like that.”
 「無理じゃないよ。好きな人のためなら変わりたいって思ったんだ」=“I won't be forcing myself. If it's for you, I do want to change.”
-「それは素直に嬉しいな。でも、俺は今の[H名]が好きだから、しばらくは変わらなくていいよ」=“That does make me happy. But, I love you as you are, [H], so you don't need to change for the time being.”
+「それは素直に嬉しいな。でも、俺は今の[H名]が好きだから、しばらくは変わらなくていいよ」=“That does make me happy. But, I love you as you are, [H名], so you don't need to change for the time being.”
 「ふふ、わかった。それじゃ気が変わったら言ってね、ボクの女の子らしいところをキミだけに見せてあげるから」=“Fufuh, got it. If you change your mind someday, let me know, okay? You're the only one who'll ever get to see my girly sides, you know.”
 「うん、それはそれで楽しみだ」=“Yep, that sounds fun in its own right.”
 「ありがと♪　それじゃこのシーサーのキーホルダー買ってきちゃうね」=“Thanks♪ I'm gonna buy this shisa keychain then, okay?”
