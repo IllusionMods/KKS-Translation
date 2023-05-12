@@ -314,7 +314,7 @@
 「うんっ！　私もそう思うよ！」=“Yeah--! I think so too!”
 「一日中ひっつくことは出来ないけど、出来るだけずっと一緒にいたいよぉ」=“We can't stay together all day everyday but, I want us to be together as much as we can~”
 「このお話は、ちょっと私には早いかなぁ、他のお話しようよ」=“This chat is a bit too advanced for me, let's talk about something else.”
-「[H名]に会いたくなった時は……」=“Whenever I feel like seeing you, [H]...”
+「[H名]に会いたくなった時は……」=“Whenever I feel like seeing you, [H名]...”
 「えへへ、遠慮なんかしなくていいらかねっ！」=“Eheheh, you really don't need to hold back, okay?--!”
 「寝る前に[H]の事を想ってるとさ……」=“When I think about you before bed, [H]...”
 「私はいつもあなたのことを想っているんだよ♪」=“I'm always thinking about you, you know?♪”
