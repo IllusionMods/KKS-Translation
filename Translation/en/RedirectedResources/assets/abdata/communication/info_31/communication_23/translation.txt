@@ -298,7 +298,7 @@
 「……むむ、ファンとして見に行くべきか」=“...Mumuh, as a fan, guess I've no choice but to go watch it.”
 //「おススメの漫画、教えてよ」=
 //「お安い御用ですぞ。どんなジャンルがいいか言ってくれれば厳選するよ」=
-「好きだよ、[H]。[H]はどう、かな？」=“I love you, [H]。[H]. What, about you?”
+「好きだよ、[H]。[H]はどう、かな？」=“I love you, [H]. What about you?”
 「き、急になんでそのことをっ！？　ワ、ワタシも好きだよ」=“W-Where did that even come from!? I-I love you too.”
 「嫌いなんだなぁ……あぁ、ウソウソ、落ちこまないでぇ」=“I sure do hate you... aah, that's a lie, a lie, don't be so sad~”
 //「理想の結婚式とかってある？」=

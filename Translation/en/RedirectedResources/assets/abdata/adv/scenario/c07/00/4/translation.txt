@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「し、したいって……私たち、付き合ってないんだぞ？」=“Y-you want to do it... but we're not dating, remember?”
-「分かってる。それでも……したいんだ。ダメかな？」=“I know. But I... still want to. Is that bad?”
-「お前のことは嫌いじゃないし。エッチに興味もあるし……」=“It's not like I don't like you. I'm interested in sex, too...”
-「……わかった。や、ヤるか！　私の決意が鈍らないうちに始めてくれ！」=“...alright. L-Let's do one another! We'd better start before I get cold feet!”
+「し、したいって……私たち、付き合ってないんだぞ？」=“Y-You wanna... we're not, dating, you know?”
+「分かってる。それでも……したいんだ。ダメかな？」=“I know that. Even so... I wanna do it. Is it no good?”
+「お前のことは嫌いじゃないし。エッチに興味もあるし……」=“Well, I don't hate you. And I'm interested in sex too...”
+「……わかった。や、ヤるか！　私の決意が鈍らないうちに始めてくれ！」=“...Got it. L-Let's do it, I guess! Just push me down before my heart gets cold feet!”

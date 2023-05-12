@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「私の中の理想が高すぎたのが敗因か……分かってはいたけど、モノを作るのは難しいな」=“I guess I lost out because I set my goals too high... I knew it from the beginning, but man it's so hard to make things.”
+「私の中の理想が高すぎたのが敗因か……分かってはいたけど、モノを作るのは難しいな」=“I guess my own ideals were too close to the sun for my own good... I already knew it but, making stuff is pretty hard, isn't it?”
