@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「[H名]、少し浜辺を歩かない？」=“Hey, [H], wanna go take a walk on the beach?”
+「[H名]、少し浜辺を歩かない？」=“Hey, [H名], wanna go take a walk on the beach?”
 「はぁ、気持ちいい……段々ここに慣れてきたけど、こうやって歩いてると離島なんだなって改めて実感するよね」=“Haah, feels so nice... I'm starting to get used to being here finally but, walking on the sand like this really makes me realize all over again, that we're on an isolated island.”
 「わかるよ。言葉は通じるけど、何もかも違うよね」=“I feel that. We use the same words but, just about everything else is different, isn't it?”
 「うん。この島で過ごしたことって、きっとボクたちの人生にとっていい経験になると思うんだ。でも……ふふ」=“Yep. I'm sure that the time we're spending here right now, is going to become some really good experience for us to draw upon later in life. But... fufuh.”
@@ -19,7 +19,7 @@
 「そうしたら、次のステップに行きたいな。お互いにお互いを尊重し合える余裕があって、将来の夢をサポートし合える仲になりたいよね」=“If that ever happens, I want to move right along onto the next step. It'd be nice to have the sort of a relationship where we still have room in our hearts to respect each other, and support each other's dreams, you know?”
 「びっくりした。いつか落ち着くときが来て、ドキドキしなくなって別れるかもって言われるのかと」=“I didn't expect that. I was thinking that you were going to say that maybe we should break up if our relationship ever stops being heart pounding.”
 「そ、そんなこと言わないよ！　もし別れそうになっても二人で絶対乗り越えたいって思ってるんだから」=“I-I would never! Even if something happens that pushes us to the breaking point, I hope we can overcome that together.”
-「本当にそうだね……でも、将来の夢をサポートし合える仲かぁ。[H名]は人生設計とかしてるの？」=“You really do, don't you... but, supporting each other's dreams, huh~? Do you have a life plan or something, [H]?”
+「本当にそうだね……でも、将来の夢をサポートし合える仲かぁ。[H名]は人生設計とかしてるの？」=“You really do, don't you... but, supporting each other's dreams, huh~? Do you have a life plan or something, [H名]?”
 「人生設計なんて大げさなものじゃないけど、一応考えてはいるよ。やりたいこととか、興味のあることとかね」=“It's nothing that big but, I am thinking a bit ahead. Stuff I want to do, stuff I'm interested in.”
 「すごいな。俺は考えてるような、いないような……こんなんじゃ駄目だよね」=“You're amazing. I think about it too, sometimes I guess... I really am just no good, huh?”
 「全然駄目じゃないよ。ボクもそんな厳密に考えてるわけじゃないし、今はキミともっと仲良くなる方が重要だから、ふふ♪」=“Not at all. I'm not that serious about it myself, not to mention that for me, getting closer to you is much more important right now, fufuh~♪”
