@@ -3,8 +3,8 @@
 //
 「この鐘を鳴らしたふたりは、必ず結ばれるって噂があるんですよね」=“There's a rumour out there that says that any pair that rings this bell together will one day marry, isn't there?”
 「そうみたいだね」=“Seems like it.”
-「ねぇ、[H名]。俺と一緒に鳴らしてみない？」=“Hey, [H]. How about we ring it together?”
-「私と[P名]さんとで……ですか？」=“You and I, [P]-san...?”
+「ねぇ、[H名]。俺と一緒に鳴らしてみない？」=“Hey, [H名]. How about we ring it together?”
+「私と[P名]さんとで……ですか？」=“You and I, [P名]-san...?”
 「噂を本当か確かめる意味もかねて、お試し的にさ」=“As a test, we'll get to see for ourselves if the rumour's true or not.”
 「はい。私も鳴らしてみたいです」=“Yes. I wish to ring it with you as well.”
 「ですけど、大丈夫でしょうか？　少し不安です……」=“However, would that really be alright? I'm a bit worried...”

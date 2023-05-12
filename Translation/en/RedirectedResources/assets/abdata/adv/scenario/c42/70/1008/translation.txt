@@ -20,10 +20,10 @@
 「[H名]……」=“[H名]...”
 「えへへ。なんだか恥ずかしいこと言っちゃったかも」=“Eheheh. That sounded less embarrassing in my head.”
 「わっ、なんかすごい顔が熱くなって来た……！　あぅぅ、キミの顔、真っ直ぐに見られないかも……」=“Wah--, now my face is burning up...! Auuu, I don't think I can, look straight at your face...”
-「[H名]にそう思って貰えて嬉しいよ。だから俺も、この光景が特別に見えているんだろうね」=“I'm really happy you feel that way, [H]. I'm sure that's why this scenery looks so special to me, too.”
-「……ねぇ、[H名]。そこら辺に座って、もっとゆっくり海ほたるを眺めない？」=“...Hey, [H]. Wanna sit down over there, and savour the view together a bit more slowly?”
+「[H名]にそう思って貰えて嬉しいよ。だから俺も、この光景が特別に見えているんだろうね」=“I'm really happy you feel that way, [H名]. I'm sure that's why this scenery looks so special to me, too.”
+「……ねぇ、[H名]。そこら辺に座って、もっとゆっくり海ほたるを眺めない？」=“...Hey, [H名]. Wanna sit down over there, and savour the view together a bit more slowly?”
 「２人きりで、気が済むまでいつまでも……さ」=“Just us, until our hearts are satisfied... you know?”
 「あ……うんっ！　それ、すごく良いかも！」=“Ah... yep--! That might be, really nice!”
 「でも時間はまだ大丈夫なのかな？　遅くなっちゃうかもしれないよ？」=“But are you sure you have the time? It might end up getting really late, you know?”
-「そこは気にしなくて良いよ。俺も、[H名]ともっと一緒にいたいからさ」=“You don't need to worry about that. I wanna be with you more too, [H].”
+「そこは気にしなくて良いよ。俺も、[H名]ともっと一緒にいたいからさ」=“You don't need to worry about that. I wanna be with you more too, [H名].”
 「えへへ。ありがと、大好きっ！」=“Eheheh. Thanks, I love you--!”
