@@ -4,7 +4,7 @@
 係員さん=Staff
 「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please pair up.”
 「キャンプファイヤーで二人一組ってフォークダンスだよね？　ボク、キミと踊りたいんだけど、どうかな？」=“It's for the folk dance, isn't it? I uhm, I want to dance with you, how about it?”
-「[H名]に誘ってもらえるなんて嬉しいな。もちろんＯＫだよ」=“It's rare for you to come ask me yourself. Of course, [H].”
+「[H名]に誘ってもらえるなんて嬉しいな。もちろんＯＫだよ」=“It's rare for you to come ask me yourself. Of course, [H名].”
 「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Everyone paired up? ...then I'll put on the music as soon as everyone's ready.”
 「おおっ、うまいね。俺の方がリードしてもらえそう」=“Ooh--, you're really good at this. Feels like I'm the one being led.”
 「そんなことないよ。でも、フォークダンスは踊ったことがあるから慣れてるかな」=“Not at all. But, I've done this before so it might just be that I'm used to it.”
@@ -27,5 +27,5 @@
 「うーん、どうかなぁ。実際に告白してもらわないと、わからないかも、ふふふ」=“Nnn, I wonder~? I think I'd need to hear that confession first, to make up my mind, fufufuh~”
 「それってつまり……」=“Is that a...”
 「あ、今してってことじゃないよ？　でも……してくれたらボク、とっても嬉しいな♪」=“Ah, I'm not telling you to do it, okay? But... if you did it, it'd make me really happy♪”
-「……[H名]、ずっと好きだった、俺と付き合ってほしいんだ」=“...[H], I've loved you for the longest time. Go out with me.”
+「……[H名]、ずっと好きだった、俺と付き合ってほしいんだ」=“...[H名], I've loved you for the longest time. Go out with me.”
 「うん、喜んで……ふふふ、やっぱり実際にされないとわからないね、好きな人にフォークダンス中に告白されるのって、とっても幸せ……♪」=“Gladly... fufufuh, you really do need to hear it once to understand, don't you? Being confessed to by the person you love, in the middle of a dance, is pure bliss...♪”

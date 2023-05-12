@@ -18,7 +18,7 @@
 「南の島って暖かいし、それだけで元気になれそうだよね」=“Southern isles like these are pretty warm, just savouring this warmth fills you with energy, doesn't it?”
 「うん、元気いっぱい！　おんなじだねっ」=“Yep, lots of it! We're the same, huh--”
 「う～ん、ちょっとバテ気味かも。でも大丈夫、すぐに元気になるよ！」=“Nnn~, I feel a bit beat down actually. But don't worry, I'm gonna recharge in no time!”
-「[H名]は辛い食べ物は好き？」=“Do you like spicy foods, [H]?”
+「[H名]は辛い食べ物は好き？」=“Do you like spicy foods, [H名]?”
 「もちろん大好き！　辛いものを食べてるのって、クセになっちゃうんだよね」=“Of course, I love them! Once you start you just can't stop stuffing your face, you know~?”
 「辛いものを食べて、汗をいっぱいかくのって気持ち良くて好きかなー」=“Eating spicy foods and sweating up a storm feels so nice, so I'd say I like it~”
 「うーん、ちょっと興味ないかなー」=“Nnn, not sure I'm into it~”
@@ -26,15 +26,15 @@
 「ぼんやりとは覚えてるけど……。えへへ、どんな夢かは忘れちゃった」=“Vaguely... Eheheh, can't really recall it.”
 「海に飛び込んだら気持ちいいだろうなぁ」=“I bet it'd feel amazing to just jump into the sea~”
 「わかる！　何だか、わーって叫びながら飛び込みたくなるかも！」=“I feel you! It kinda makes you just want to dash into it while screaming your heart out, doesn't it!”
-「[H名]って日焼けって気にしたりする？」=“Do you worry about getting a tan, [H]?”
+「[H名]って日焼けって気にしたりする？」=“Do you worry about getting a tan, [H名]?”
 「全然気にしないよー。お日様を浴びるのは気持ちいいもんね！」=“Not at all~. It feels really nice to bath in the rays of the sun, afterall!”
-「[H名]って好きな人はいるのかな？」=“Do you have anyone you love, [H]?”
+「[H名]って好きな人はいるのかな？」=“Do you have anyone you love, [H名]?”
 「好きな人かー。えへへ、もちろんみんな大好き！」=“Someone I love, huh~. Eheheh, I love everyone here!”
 「いっぱいいるよー。お友達とか、みんな大好きだもん」=“Lots of them~. I love all my friends and stuff afterall.”
 「恋人ができたら、友達とは疎遠になる人も多いよね」=“There's lots of people that grow distant once they get a partner, you know?”
 「そうなんだ？　私はみんなと仲良くしたいかなー」=“Really? I'd want to stay friends with everyone still~”
 「恋人も、お友達も、みんな仲良くできると良いよねっ」=“It'd be nice if my partner and my friends could get along together--”
-「[H名]ってどんな男の人が好きだったりするの？」=“What sort of a guy would you like, [H]?”
+「[H名]ってどんな男の人が好きだったりするの？」=“What sort of a guy would you like, [H名]?”
 「うーん、私が気ままに行動しても動じない人が良いかな？」=“Nnnn, someone who wouldn't be bothered just by me being willful, I guess?”
 「落ち着いて、いつもクールな人って素敵だと思うよ！」=“I think people who are calm and always coolheaded are lovely!”
 「うーん、よくわかんない。まだあまり興味ないかな？」=“Nnn, I dunno. I'm not sure I'm interested in that stuff yet.”
@@ -68,7 +68,7 @@
 「この前、エロ本を見つけたんだけどさ」=“I found this porn mag the other day.”
 「ふむふむ、その見つけたエッチな本はどうしたのー？」=“Humuhumu, and what did you do with it~?”
 「こっそり読んだってわけだねー？　エッチだなぁ」=“You're saying you read it in secret, aren't you~? You're so lewd~”
-「ねぇ、[H名] はエッチなこと好き？」=“Hey, do you like lewd stuff, [H]?”
+「ねぇ、[H名] はエッチなこと好き？」=“Hey, do you like lewd stuff, [H名]?”
 「ないしょー。そういうことは、もっと仲良くなってからする話だよー？」=“Not telling~. That's something you should ask only once you're closer, you know~?”
 「そ、そんなこと言えないよー。もう、エッチっ」=“I-I can't tell you that~. Jeez, you lewdie--”
 「うーん……あんまり女の子にそういうこと聞いちゃダメだよー？」=“Nnnn... you really shouldn't ask girls stuff like that, you know~?”
@@ -151,7 +151,7 @@
 「全力全開でぶち破る！　頑張ればきっとなんとかなるよ！」=“I'd just go all in, with all my power! As long as you give it your all, everything will work out!”
 「うーん……くじけちゃうかも？　でも、何度でも立ち上がって頑張りたいかな」=“Nnn... I might lose heart. But, I'd like to become someone who can get up again and again.”
 「うーん、よくわかんない。別のお話の方がいいかなー」=“Nnn, I dunno. Maybe we should talk about something else~”
-「[H名]って、動物は好き？」=“Do you like animals, [H]?”
+「[H名]って、動物は好き？」=“Do you like animals, [H名]?”
 「うん、好きだよ！　どの子も可愛いよね！」=“Yep, I love them! They're all adorable, aren't they!”
 「カップルって指を絡めるように手を繋ぐけど、あれってそんなに良いのかな？」=“I see couples often holding hands with their fingers wrapped around each other's, but is it really that nice?”
 「私は良いと思うよっ。そういう素敵な相手が欲しいなー」=“I think it is--. I want a person like that in my life~”
@@ -162,7 +162,7 @@
 「告白するときって、自分からしたい方？」=“Would you rather be the one confessing?”
 「うん、好きになったら自分からアタックしたいかも！」=“Yep, I think I'd want to go on the offensive myself, if I fall for someone!”
 「それもいいけど、どうせなら告白して貰いたいかなー、えへへ」=“I wouldn't mind doing it but, I'd much rather be confessed to, personally~, eheheh.”
-「好意を伝える言葉はいろいろあるけど、[H名]はどんな言葉が好き？」=“There's all sorts of words out there to convey affection, but which ones are your favourite, [H]?”
+「好意を伝える言葉はいろいろあるけど、[H名]はどんな言葉が好き？」=“There's all sorts of words out there to convey affection, but which ones are your favourite, [H名]?”
 「ストレートに好きって言うのが１番かなー」=“For me, a direct "I love you" would work the best, I'd say~?”
 「んふふ、それは内緒だよー。気になるならキミが探してみて？」=“Nnfufuh, that's a secret~. If you're curious, why not try figuring it out yourself?”
 「今はコイバナよりも他のお話の方がいいなー」=“Rather than love gossip and whatnot, I'd rather talk about something else right now~”
@@ -171,7 +171,7 @@
 「指の長さで、男のアソコの大きさがわかるって噂があるみたいだよ」=“Seems like there's a rumour going around that you can tell the size of a man's thing by the size of their finger.”
 「そうなの！？　キミの指、見せて貰っていい？」=“Really?! Could I see your hand for a bit?”
 「あはは、そんな作り話には騙されないからねー。……嘘だよね？」=“Ahahah, I'm not gonna fall for something so obviously made up~. ...It is made up, right?”
-「[H名]はどんなときにエッチな気分になる？」=“What makes you feel lewd and horny, [H]?”
+「[H名]はどんなときにエッチな気分になる？」=“What makes you feel lewd and horny, [H名]?”
 「えーと、キュンってときめいたときとか……って、な、何を言わせるの、もー！」=“Erhm, when I feel my heart throb and jump a bea... wuh, w-what are you making me say, dummy~!”
 「そ、それを聞いてどうするの！？　エッチな気分になんてならないからね！」=“W-Why do you need that information!? I'm not gonna feel horny out of nowhere, okay!”
 「１人エッチのときのオカズはどうしてる？」=“What do you use as fap material?”
@@ -212,7 +212,7 @@
 「楽しかったよ、またね～」=“That was fun, see you~”
 「はーい、残念だけどこれで終わりだね」=“Alright, it's a shame but we can stop here.”
 「え？　もう終わりなの？　もーっ、からかうなんて酷いよー」=“Eh? Already? Jeez--, you really shouldn't tease girls~”
-「俺、[H名]のこと好きだよ。付き合って貰えないかな？」=“I love you, [H]. Is there no way I could get you to go out with me?”
+「俺、[H名]のこと好きだよ。付き合って貰えないかな？」=“I love you, [H名]. Is there no way I could get you to go out with me?”
 「うーん、返事は少し待ってくれないかな？　ごめんねー」=“Nnn, could you wait a bit for my answer? I'm really sorry~”
 「あのね、私……キミのことが好き。付き合ってくれないかな……？」=“Hey, I... I love you. Won't you go out with me...?”
 「そ、そっかぁ。残念だけど私は大丈夫！　キミもあまり気に病まないでね？」=“I-I see. It's a shame but I'm fine! Don't worry about it too much yourself either, okay?”
@@ -221,7 +221,7 @@
 「また、[H名]とエッチさせて欲しいんだけど……ダメかな？」=“I'd love it if you let me have sex with you again... how about it?”
 「もー、しかたないなぁ。キミは特別だからねー？」=“Jeez~, it can't be helped~. Only because it's you, okay~?”
 「うーん……ごめんね？　今はそういう気分じゃないかなー」=“Nnn... I'm sorry. I'm not really feeling it right now~”
-「ここで、[H名]とエッチしたいな」=“I wanna have sex with you here, [H].”
+「ここで、[H名]とエッチしたいな」=“I wanna have sex with you here, [H名].”
 「ま、周りに人がいるよ？　でも……うん、しちゃおうか？」=“T-There's people around, you know? But... okay, let's do it?”
 「さすがにそれは無理だよー。デリカシーが足りないんじゃないかな？」=“That's seriously too much for me~. You've really not enough tact, you know~?”
 「お願いだ、ここで[H名]とエッチしたい」=“Please, I wanna have sex with you here.”
@@ -297,14 +297,14 @@
 「いつまでも一緒にいられるといいね」=“It'd be nice if we could just stay together forever, wouldn't it?”
 「そうだねー。大好きな人とは一緒にいられると嬉しいな」=“Yeah. I hope we can.”
 「だからって、お風呂やトイレにまで一緒に入っちゃダメなんだよ？」=“Yeah but, you can't use that as an excuse to follow me into the toilet or the bathroom, okay?”
-「[H名]って恋人にも言えないような秘密ってある？」=“Got any secrets that you can't tell even me, [H]?”
+「[H名]って恋人にも言えないような秘密ってある？」=“Got any secrets that you can't tell even me, [H名]?”
 「キミのことが大好きなこと……とか？　でも、これは秘密じゃなかったね」=“I guess that I love you lots and lots... maybe? But I guess that wasn't much of a secret.”
 「そんなのないよー。だって、ありのままの私を好きになって欲しいもん」=“I don't have anything like that~. I mean, I want you to love me for who I am, afterall.”
 「俺たちが付き合えたのって、やっぱり運命なのかな？」=“Do you think it was fate at work afterall, that we got together and all?”
 「もちろんだよ。きっと、私とキミは結ばれる運命だったんじゃないかな？」=“Of course. I bet our fates were always tied together, don't you think so too?”
 「運命ってことはない……かな？　だって、自分でちゃんと選択した相手だもん」=“I don't really... think so? I mean, I fell in love with you myself, there's no 'fate' there.”
 「えへへ、恋人とコイバナするの恥ずかしいし、別のお話にしよ？」=“Eheheh, chatting about this stuff with you is kinda embarrassing and stuff, let's talk about something else?”
-「好きだ、[H名]！」=“I love you, [H]!”
+「好きだ、[H名]！」=“I love you, [H名]!”
 「ありがとっ、私も好きだよー」=“Thanks--, I love you too~”
 「俺のどこが好きなのかな？」=“What part of me do you love?”
 「言葉に出来ないくらいたくさんあるから、説明は難しいかなー」=“There's so many I could never list them all so, that's kind of a hard question to answer~”
@@ -362,7 +362,7 @@
 「ねえ、ここでエッチしたいんだけど……ダメかな？」=“Hey, I wanna have sex here... could we?”
 「もー、しかたないなぁ。キミと付き合ってると、私まで大胆になっちゃうよぉ」=“Jeez~, it can't be helped~. Being around you is making even me bolder lately~”
 「他の人もいるし、さすがにダメだよー。別のところで誘ってね？」=“There's other people around, that'd be really too much~. Ask me in another place, okay?”
-「ここでエッチしたいんだけど、[H名]はどうかな？」=“I wanna have sex here, what do you say, [H]?”
+「ここでエッチしたいんだけど、[H名]はどうかな？」=“I wanna have sex here, what do you say, [H名]?”
 「いいよ。でも、人が来るかもしれないし、ちゃんと気をつけないとね？」=“Sure. But, people might show up, so you gotta be careful, okay?”
 「誰かが来るかもしれないし、私はゆっくり出来る場所がいいかな」=“Someone might come in and stuff, and I'd rather do it somewhere where we can take our time.”
 「観光だねっ、もちろん良いよー。えへへ、デートみたいだねー」=“Sightseeing, huh--? Of course~. Eheheh, it's like a date~”
@@ -384,7 +384,7 @@
 「あのさ、これから俺の部屋に来ない？」=“Hey, won't you come over to my room?”
 「えっ……行く！　えへへ、彼氏にお呼ばれしちゃった－」=“Eh--... I wanna! Eheheh, my boyfriend called me to his room~”
 「うーん、ごめんね？　これからはちょっと無理かも」=“Nnn, I'm sorry~. I can't right now, not for a bit.”
-「[H名]、ちょっとついて来て貰えるかな？」=“[H], could you follow me a bit?”
+「[H名]、ちょっとついて来て貰えるかな？」=“[H名], could you follow me a bit?”
 「いいよ、どこへ連れて行ってくれるのかな？　楽しみだねっ」=“Sure, where are you gonna take me? I'm excited--”
 うん、そうだねー、へー、うんっ=Yep, right~, heh~, yep--
 えー？、どうかなー？、んんー？、違うんじゃないかなー=Eh~?, You think so?~, Nnn~?, You sure?~

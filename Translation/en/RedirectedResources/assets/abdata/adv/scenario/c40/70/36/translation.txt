@@ -3,7 +3,7 @@
 //
 「さて……浜辺で何して遊ぼうか？」=“Now then... what shall we do here today?”
 「なに？　貴殿は何も考えていなかったのか？　まったく、勢い任せにも程があるぞ」=“What? Did you think of nothing? Good grief, there should be a limit to letting the moment carry you along.”
-「ごめん……[H名]は何かしたいことある？」=“Sorry... is there anything you wanna do, [H]?”
+「ごめん……[H名]は何かしたいことある？」=“Sorry... is there anything you wanna do, [H名]?”
 「そうだな……折角だから身体を動かしたいところだ。砂浜をランニングでもするか？」=“Let's see... well, since we're here, I wish to get some activity in. How about we run along the beach?”
 「うん、いいよ。砂の上で走るっていいトレーニングになるんでしょ？」=“Yep, sure. It makes for pretty good exercise to run on sand, doesn't it?”
 「ああ、だがその分負荷も強くなるから気を付けるんだぞ。あくまで我等は遊びに来たのだからな」=“Aah, however, it is equal parts more burdensome as well, so be careful. Don't forget, we have come here to have fun.”
