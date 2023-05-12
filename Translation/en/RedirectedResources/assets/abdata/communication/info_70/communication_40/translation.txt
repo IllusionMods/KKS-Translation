@@ -22,7 +22,7 @@
 「はは、凄いとまでは言えないが……まぁ、食うに困るようなことはなかったな」=“Hahah, I would not go so far... however, I suppose we never did hunger.”
 「まさか。それなりに裕福な暮らしはさせてもらっていたが、貴族なんて柄ではない」=“Not at all. I was allowed a reasonably well-off life but, we have never been nobles.”
 「貴殿は遠慮という言葉を覚えた方が良い。自重でも構わんぞ」=“You would do well to learn to restrain yourself from asking such questions. And perhaps some prudence as well.”
-「[H名]って、剣道とか強そうだよね」=“[H], I feel like you've quite the kendo arm.”
+「[H名]って、剣道とか強そうだよね」=“[H名], I feel like you've quite the kendo arm.”
 「実際強いぞ。その、なんと言うか……経験が違うからな」=“Because I do. It's erhm, how do I say this... I simply had to have it.”
 「案外、[H名]みたいな子が女子力高かったりするんだよね」=“It always surprises me how girls like you tend to have a lot of girl power inside, you know?”
 「案外は余計だ。我は単純な力勝負でも男に負けるつもりはない」=“It shouldn't. If it's a matter of simple power, I would not lose to a man either.”
