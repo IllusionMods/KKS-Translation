@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「[H名]、よかったら浜辺を散歩してみない？」=“Hey, [H], wanna go take a walk down the beach?”
+「[H名]、よかったら浜辺を散歩してみない？」=“Hey, [H名], wanna go take a walk down the beach?”
 「そうね、せっかくだし付き合ってあげる」=“Why not, might as well, since we're here.”
 「見渡す限りの大海原、って感じだなぁ。圧倒され……」=“The great deep as far as the eye can see, isn't it? It's almost overwhe...”
 くしゅん！　……へぷちっ」=*achoo*! ...*sneeze*--

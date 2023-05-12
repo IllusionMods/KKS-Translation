@@ -24,13 +24,13 @@
 「そうだけど！　もうひと押しあったんでしょ？　あたしに生涯の愛を捧げたいと思ったきっかけが」=“It is, but! There must have been something more, no? The reason that made you want to make me the one and only love of your life.”
 「生涯？　まあ、うん、そ、そうなるかな」=“Of my life? Well, yeah, I-I guess that's how it worked out, yeah.”
 「…………顔？」=“...Was it my face?”
-「そんなこと真面目に聞いてくるとか、[H名]は本当にいい性格してると思うよ」=“The fact that you're seriously asking me that really makes me appreciate just how well natured you are, [H].”
+「そんなこと真面目に聞いてくるとか、[H名]は本当にいい性格してると思うよ」=“The fact that you're seriously asking me that really makes me appreciate just how well natured you are, [H名].”
 「いい性格って、優しいって意味？　それは、まあ……横断歩道を渡れないでいるおばあちゃんとかいたら手伝ったりするけど」=“Well natured, you mean sweet? That's, well... I mean, I'd definitely help a granny cross the street if I ever came across one, for sure.”
 「あははは」=“Ahahahah.”
 「なんで笑うのよ！　あっ、もしかしてさっきの告白……」=“Why're you laughing! Ah--, wait, was this all a big jo...”
-「冗談なんかじゃないよ。俺は[H名]にぞっこんだ！　生涯の愛だって誓える」=“It's not a joke. I really am head over heels for you, [H]! I can swear that you're the love of my life.”
+「冗談なんかじゃないよ。俺は[H名]にぞっこんだ！　生涯の愛だって誓える」=“It's not a joke. I really am head over heels for you, [H名]! I can swear that you're the love of my life.”
 「ぞっこん！？」=“Head over heels?!”
-「うん。明るくて、時々ほんのちょっと抜けてて……当然顔も可愛い[H名]のことずっと気になってたし」=“Yep. You're so bright, so cheerful, and sometimes just a tiny bit of an idiot... and with that adorable face, you've always been living inside my head, [H].”
+「うん。明るくて、時々ほんのちょっと抜けてて……当然顔も可愛い[H名]のことずっと気になってたし」=“Yep. You're so bright, so cheerful, and sometimes just a tiny bit of an idiot... and with that adorable face, you've always been living inside my head, [H名].”
 「[H名]の好きなところ聞かれたら、今はもう『全部』って答えちゃうかも」=“I think if you asked me exactly what I love about you, I might just answer with an "everything".”
 「そんなに……まさしくだわ、ぞっこんなのね」=“You love me that mu... I believe it, you really are head over heels, aren't you?”
 「コホン！　あたしも、えーと……たまにケンカ友達みたいになっちゃったりもしてたけど。それはやっぱり、うん、そうなの」=“*Ahem*! I also, erhm... I know I sometimes get argumentative with you too. But that's, yep, it's basically that.”
