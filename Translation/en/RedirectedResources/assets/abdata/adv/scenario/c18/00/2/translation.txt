@@ -49,4 +49,4 @@
 「えっと……。も、もう一度、最初からお願いできますか……？」=“Erhm... c-could you, please start from the beginning again for me...?”
 「え？　あ、うん。その……あ、改まると恥ずかしいけど……」=“Eh? Ah, okay. It's erhm... a-a bit embarrassing to do it all over again...”
 「……はいっ」=“...Yes---”
-「ふ、不束者ですけど……よろしくお願いします、[P名]さん！」=“I-I may be a handful at times... but please take care of me, [P]-san!”
+「ふ、不束者ですけど……よろしくお願いします、[P名]さん！」=“I-I may be a handful at times... but please take care of me, [P名]-san!”

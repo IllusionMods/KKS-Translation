@@ -17,7 +17,7 @@
 「え！？　……あっ、そういうことじゃなくて！　キミと結婚したくないってことじゃなくて、キミが結婚って言葉を使ったことに驚いて」=“Eh!? ...Ah--, that's not what I meant! It wasn't the idea of marrying you, it was that you brought up marriage that shocked me.”
 「それはそれで……俺ってそんな結婚しそうにない？」=“Okay, putting that aside fro a second... do I really come off as that unwilling to marry?”
 「ううん、きっとそんなことないと思うんだけど、なんというか、イメージかな。キミって他の女の子からもすごく人気があるから」=“No, definitely not but, how do I say this, it's your image, I guess? Like, you're really popular with other girls too so--”
-「ああ、そういうことか……でも、俺は[H名]と結婚したいな」=“Aah, so that's what it is... but, the one I want to marry is you, [H].”
+「ああ、そういうことか……でも、俺は[H名]と結婚したいな」=“Aah, so that's what it is... but, the one I want to marry is you, [H名].”
 「ボクの他にも魅力的な女の子はいっぱいいると思うけど、いいの？」=“I'm pretty sure there's lots more girls even just here that are a lot more charming, are you sure?”
 「うん。そうじゃないとウムイの鐘に一緒に来たりしないよ」=“Yep. I wouldn't have brought you here otherwise.”
 「……ありがとう。ボク、キミに会えて本当によかったな。女の子として、一番嬉しいよ」=“...Thanks. I really am glad I met you. I'm really happy right now, as a girl.”
