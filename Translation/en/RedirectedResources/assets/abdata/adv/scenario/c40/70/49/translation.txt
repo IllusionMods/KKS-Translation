@@ -5,6 +5,6 @@
 「甲殻類は苦手だな……やつらは硬すぎる。逆にタコやウミヘビのような軟体系も侮れないが……」=“I suppose crustaceans, I can't quite handle them... they're a bit too tough. Conversely, you cannot make light of octopi or sea snakes either, with their needlessly soft bodies...”
 「えっと……食べる話だよ？」=“Erhm... I'm talking about food, you know?”
 「なっ……わ、分かっているぞ？　今のは調理の話だ。甲殻類は硬くて包丁で切るのが大変だろう？」=“Wha--... I-I know that. I was talking about cooking. It's quite hard to chop a crustacean with a kitchen knife, no?”
-「まぁ、うん……[H名]って結構料理とかするの？」=“Well, yeah... do you cook a lot, [H]?”
+「まぁ、うん……[H名]って結構料理とかするの？」=“Well, yeah... do you cook a lot, [H名]?”
 「そうだな、結構する方だと思うぞ。食材はとれたての方が美味いと言うだろう？　つまりそういうことだ」=“Good question, I do like to think that I do. Don't they say that the fresher the ingredients, the better the end result? Basically that.”
 （つまり……どういうことなんだろう？　釣りとか漁が好きなのかな？）=(So basically... what? Does she like fishing and grilling fish?)
