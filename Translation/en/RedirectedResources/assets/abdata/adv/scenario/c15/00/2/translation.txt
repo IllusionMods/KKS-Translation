@@ -6,7 +6,7 @@
 「そんな反応？　ごめん、も、もしかしてよく聞こえなかったとかかな」=“What, just that? Sorry, m-maybe you didn't catch me or something.”
 「…………………………」=“...”
 （黙っちゃってるけど……）=(She's not saying anything...)
-「もう一度言うね？　俺は……[H名]のことが好きなんだ」=“I'll say it one more time, okay? I... love you, [H].”
+「もう一度言うね？　俺は……[H名]のことが好きなんだ」=“I'll say it one more time, okay? I... love you, [H名].”
 「……あははははー」=“...Ahahahahah~”
 「な、なんで笑うのっ？」=“W-Why're you laughing--?”
 「変なこと聞くんだな。そんなの嬉しかったからに決まってるぞ」=“You sure ask weird questions. I laughed because I felt really happy.”
@@ -33,7 +33,7 @@
 「うん！　そうだと思う」=“Yeah! I think so, atleast.”
 「よかったー」=“Great~”
 「さっき……[H名]が言ったのと同じだよ。そうやって笑ってくれたのを見て……」=“It's the same as... what you said before. Seeing you smile like that...”
-「改めて思った。俺、[H名]のことが大好きだって」=“It made me realize it again. I really do just love you, [H].”
+「改めて思った。俺、[H名]のことが大好きだって」=“It made me realize it again. I really do just love you, [H名].”
 「あたしもだぞ。キミがそうやって嬉しそうにしてて、嬉しいし」=“Me too. Seeing you all happy like that, makes me happy too.”
 「もっといっぱい、嬉しそうにしてあげたいぞ」=“I wanna make it so that, you're even happier.”
 「簡単だよ、[H名]なら」=“For you, that'd be an easy thing.”

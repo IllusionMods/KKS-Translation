@@ -8,7 +8,7 @@
 「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you all broken into pairs? ...Well then, once the prepwork is complete, I shall put on the music.”
 「…………うー」=“...Uu~”
 （……[H名]、さっきから落ち着かないな。きょろきょろしてる）=(...She's been real restless for a bit now. And her eyes won't sit still.)
-「[H名]らしくないよ。何？　もしかして、こういうのあんまり好きじゃないかな」=“You're not being like you, [H]. What is it? Do you not like this sorta thing all that much?”
+「[H名]らしくないよ。何？　もしかして、こういうのあんまり好きじゃないかな」=“You're not being like you, [H名]. What is it? Do you not like this sorta thing all that much?”
 「……好きじゃないわけじゃないけど」=“...It's not like I don't like it.”
 「俺が無理に誘っちゃったから」=“Maybe I shouldn't have asked, it must have been hard to say no.”
 「ホントに違うんだ。キミと、な、なんだろ……仲良しにするのは嬉しくて楽しいからいいんだけど」=“It really isn't that. With you, y-you know, like... it's fun and it makes me happy to be this close to you, so it's fine in that sense.”
