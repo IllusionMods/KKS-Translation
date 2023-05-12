@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「冒険みたいで楽しかったぞ！　それじゃあ、また遊ぼうなー」=“That was quite the fun adventure! Well then, let's play around again-”
+「冒険みたいで楽しかったぞ！　それじゃあ、また遊ぼうなー」=“That was fun, like a whole adventure! Let's have fun like this again~”

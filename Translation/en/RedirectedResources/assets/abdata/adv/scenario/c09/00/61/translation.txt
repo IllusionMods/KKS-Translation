@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「へぇ、ここではオイルを塗れるんだって」=“Ehe, they said you can do massage here.”
-「オイルなんて塗ってどうするのよ？　身体がべとべとになるだけじゃない」=“What are you planning to do with that oil? It'll just make my body sticky.”
-「知らないの？　オイルは美容効果があるんだよ」=“I don't think so, okay? Oil has beauty benefits, you know.”
-「そうなの！？　じゃあ、さっそく塗ってほしいわ！」=“Oh, that so!? Well, then spread it on me, ASAP!”
-「いいよ、任せて」=“Sure, I'm on it.”
+「へぇ、ここではオイルを塗れるんだって」=“Hoh, apparently we can use the oil here freely, for massage and whatnot.”
+「オイルなんて塗ってどうするのよ？　身体がべとべとになるだけじゃない」=“And what'd be the point of that? All it'll do is make our bodies all sticky and messy, no?”
+「知らないの？　オイルは美容効果があるんだよ」=“You don't know? Oil has a real beautifying effect.”
+「そうなの！？　じゃあ、さっそく塗ってほしいわ！」=“Really!? Then, please do it for me, right now!”
+「いいよ、任せて」=“Sure, leave it to me.”

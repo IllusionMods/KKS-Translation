@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「すごくリラックスできたわ～。あんたのおかげね」=“That was so relaxing~ Couldn't have done it without you, you know?”
-「中々悪くなかったわよ。また次もお願いしたいわ」=“That wasn't so bad. I'd love to do this again.”
-「まあ、普通に気持ち良かったって感じね」=“Well, I guess that felt good, nothing special, you know?”
-「ちょっと、どうして塗らないのよ？　あたしが綺麗になれないじゃない」=“Wait, why didn't you spread any on me? You didn't make me beautiful.”
+「すごくリラックスできたわ～。あんたのおかげね」=“That was super relaxing~. Thanks to you.”
+「中々悪くなかったわよ。また次もお願いしたいわ」=“That wasn't bad at all. I think I order that one again next time.”
+「まあ、普通に気持ち良かったって感じね」=“Well, that felt pretty nice, I won't deny.”
+「ちょっと、どうして塗らないのよ？　あたしが綺麗になれないじゃない」=“Hey, why won't you do it? How am I supposed to get more beautiful like this?”

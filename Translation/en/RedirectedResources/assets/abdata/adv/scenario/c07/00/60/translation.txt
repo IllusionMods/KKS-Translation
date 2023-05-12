@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「夜遅くに悪い……部屋に入れてくれないか？」=“Sorry for being late at night... let me in, please?”
-SELECTION:「返事をする」=Respond
+「夜遅くに悪い……部屋に入れてくれないか？」=“Sorry, I know it's late... won't you let me in?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-「どうかしたの？」=“What's going on?”
-「その……急に、お前に会いたくなってな……」=“Um... I wanted to see you, all of a sudden...”
-「柄にもないことを言ってる自覚はあるんだけど……今夜は、ずっと傍にいて欲しいんだ……」=“I know this sounds totally out of character... but I want you to stay close to me, tonight.”
-「……もう寝てたか。ま、こんな時間だし、仕方ないよな……」=“...he's asleep already. Well, it is pretty late, I guess.”
+「どうかしたの？」=“Something happen?”
+「その……急に、お前に会いたくなってな……」=“I erm... I just wanted to see you, really badly...”
+「柄にもないことを言ってる自覚はあるんだけど……今夜は、ずっと傍にいて欲しいんだ……」=“I realize that it's really not like me, to be like this but like... I want you to, stay next to me the whole night tonight...”
+「……もう寝てたか。ま、こんな時間だし、仕方ないよな……」=“...Guess he's asleep. Well, it's pretty late out already, so I guess it is what it is...”
