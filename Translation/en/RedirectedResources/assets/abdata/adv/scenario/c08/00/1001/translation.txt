@@ -12,12 +12,12 @@
 「え！？　だ、大好きって……」=“Eh!? L-Love...”
 「どうして照れてるの？」=“Why're you blushing?”
 「だって、そんな大声で言われたら……」=“I mean, you said it so loudly...”
-「も～、そこは照れずに受け止めなくちゃ。いまの[P名]君は私のお爺ちゃんなんだから」=“Jeez~, you gotta stay in character and take it without blushing. Right now, you're my grandpa, [P]-kun.”
+「も～、そこは照れずに受け止めなくちゃ。いまの[P名]君は私のお爺ちゃんなんだから」=“Jeez~, you gotta stay in character and take it without blushing. Right now, you're my grandpa, [P名]-kun.”
 「あっ、そうだったね。ごめんごめん」=“Ah--, right. Sorry, sorry.”
 （そうだよな。今の『好き』って言葉も家族に対するもので……）=(Of course. That "love" was aimed towards her family rather than...)
 「それじゃあもう一度いくね」=“I'll say it one more time then, okay?”
-「[P名]君、だぁ～い好き♪」=“[P]-kun, I love~ you♪”
+「[P名]君、だぁ～い好き♪」=“[P名]-kun, I love~ you♪”
 「えっ！？　名前で呼んだら意味が変わっちゃうよ」=“Eh--!? That sounds way different when you put my name in the front.”
 「えへへ♪　いまのは私がお婆ちゃんになった場合だよ」=“Eheheh♪ That was me roleplaying as the grandma.”
-「歳を取っても[P名]君を名前で呼んで、たくさん甘えちゃうんだから」=“Even when we grow old and wrinkly, I'm still gonna call you [P]-kun and have you spoil me lots.”
+「歳を取っても[P名]君を名前で呼んで、たくさん甘えちゃうんだから」=“Even when we grow old and wrinkly, I'm still gonna call you [P名]-kun and have you spoil me lots.”
 「あはは。それなら頑張って長生きしないとね」=“Ahahah. Well then, I guess we'll just have to live that long then.”

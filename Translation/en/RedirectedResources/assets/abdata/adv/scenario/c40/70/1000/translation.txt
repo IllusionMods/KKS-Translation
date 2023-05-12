@@ -2,11 +2,11 @@
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 「折角二人でいるんだし、カップルドリンクを飲んでみようよ」=“We're here together as a couple so, let's order a couples' drink too.”
-「[H名]、ほんとに飲んだ？　全然減ってなくない？」=“[H], did you really drink any? Isn't it the same level as before?”
+「[H名]、ほんとに飲んだ？　全然減ってなくない？」=“[H名], did you really drink any? Isn't it the same level as before?”
 「の、飲んだぞ……貴殿の顔をしっかり見ながら、もうバッチリ飲んだとも」=“I-I did drink... I drank a whole gulp, while staring at your face.”
 「じゃあ、どんな味だった？」=“Then, what did it taste like?”
 「なっ、味か？　うーむ、トロピカルな味だったな？　異国情緒溢れるというか……うん、とにかく美味しかった！」=“Wha--, the taste? Uumuh, a bit tropical, I suppose? Positively overflowing with exoticness, really... yep, it was delicious!”
-「[H名]……嘘ついてるのバレバレだよ？」=“[H]... even a bystander could tell that's a lie, you know?”
+「[H名]……嘘ついてるのバレバレだよ？」=“[H名]... even a bystander could tell that's a lie, you know?”
 「ぐ……すまない。正直なところ、貴殿の顔を目の前にしたら飲むどころではなくなってしまって……」=“Guh... apologies. If I were being honest, I simply could not bring myself to do it, with your face so close to mine...”
 「やっぱりね。でもカップルドリンクなんだから、ちゃんと二人で飲みたいな」=“I knew it. But it's a couples' drink so, I'd rather we drank it together.”
 「お、怒ってはいないのか？　貴殿の剣などと言っておきながら嘘をつくなんてと……呆れてはいないのか？」=“A-Are you not angry? I talked big, calling myself your sword and all, but I ended up lying to you... are you not fed up of me?”
