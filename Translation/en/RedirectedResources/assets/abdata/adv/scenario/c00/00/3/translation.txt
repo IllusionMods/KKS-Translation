@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ありがとう……！　すごく、すごく嬉しいよ」=“Thank you...! I'm really, really happy.”
-「それじゃあ、私と……」=“Well then, me too...”
-「うん、俺でよければ、[H名]の彼氏にしてください」=“Yeah, if you like me, please make me your boyfriend, [H名].”
-「嬉しい……何だか夢をみてるみたい」=“I'm so happy... it's like I'm in a dream.”
-「でも夢じゃないのよね……ふふっ、勇気を出してよかったわ」=“But this isn't a dream... fufu! I'm glad I worked up the courage to do this.”
+「ありがとう……！　すごく、すごく嬉しいよ」=“Thank you...! You don't know how happy that makes me, really.”
+「それじゃあ、私と……」=“In that case, won't you...”
+「うん、俺でよければ、[H名]の彼氏にしてください」=“Yeah, if you'll have me, please let me be your boyfriend, [H名].”
+「嬉しい……何だか夢をみてるみたい」=“I'm so happy... this almost feels like I'm in a dream.”
+「でも夢じゃないのよね……ふふっ、勇気を出してよかったわ」=“But, it's not a dream, is it... fufuh--, I'm glad I gathered my courage and asked.”

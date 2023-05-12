@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふふっ、二人でカヤックを漕ぐってことは、私達の相性が試されるわけね？」=“Fufu, paddling a kayak together is a real test of our compatibility, isn't it?”
-「まあ……ある意味そういうことになるのかな」=“Yeah... I guess that's what it comes down to, in a way.”
-「それじゃ、気合を入れて頑張らなくちゃ♪」=“Well then, I'll work hard to keep my enthusiasm up♪”
-「俺の方がなるべく呼吸を合わせるよ」=“And I'll try to keep my breathing in sync with yours.”
-「リードしてくれるのね、ありがとう♪」=“Thanks so much for taking the lead♪”
+「ふふっ、二人でカヤックを漕ぐってことは、私達の相性が試されるわけね？」=“Fufuh--, so we're going to put our compatibility to the test today, are we? I mean, we rented a whole kayak.”
+「まあ……ある意味そういうことになるのかな」=“Well... I guess in a way that's what it'd boil down to, yeah.”
+「それじゃ、気合を入れて頑張らなくちゃ♪」=“In that case, I'll have to put in my all and do my best♪”
+「俺の方がなるべく呼吸を合わせるよ」=“I'll do my best myself to sync my breathing with yours.”
+「リードしてくれるのね、ありがとう♪」=“You'll take the lead for us, huh? Thank you♪”

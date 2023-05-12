@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ねえ、この島で食べた中で一番美味しかった料理ってなあに？」=“Hey, what the most delicious thing you've eaten on the island?”
-「どれも美味しかったけど……一番となるとソーキそばかなぁ」=“Everything's delicious... but I think the best is Soki Soba.”
-「なるほどね。じゃあ私、レシピを覚えてみるわ」=“I see. I'll try to remember the recipe, then.”
-「えっ、作ってくれるの？」=“Eh! You'd make it for me?”
-「ええ。帰ったら島の思い出を語りながら一緒に食べましょ？」=“Ehhh. When we get home, shall we eat together, and talk about our memories of the island?”
-「いいね、それ！　楽しみにしてるよ」=“That'd be great! I'm looking forward to it?”
+「ねえ、この島で食べた中で一番美味しかった料理ってなあに？」=“Hey, out of all the things you've eaten here, what did you like the most~?”
+「どれも美味しかったけど……一番となるとソーキそばかなぁ」=“It was all great but... my pick's gotta be that soki soba, I'd say.”
+「なるほどね。じゃあ私、レシピを覚えてみるわ」=“I see. In that case, I'll try learning the recipe from them.”
+「えっ、作ってくれるの？」=“Eh--, you'll make it for me?”
+「ええ。帰ったら島の思い出を語りながら一緒に食べましょ？」=“Yes. Once we're back home, let's eat it together and reminisce about this place?”
+「いいね、それ！　楽しみにしてるよ」=“That sounds great! I'm looking forward to it.”

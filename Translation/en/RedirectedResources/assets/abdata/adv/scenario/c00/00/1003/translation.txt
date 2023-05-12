@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっとお店を見て回ろうよ」=“Let's take a little look around the store.”
-「ほら、ちんすこうよ。ふふ、面白い名前よね。ち・ん・す・こ・う……」=“Hey, Chinsukos. Fufu, such an interesting name. Chin...su... ko...”
-「……そんなに口に出して言わなくていいから」=“...you really don't need to pronounce it like that.”
-「どうして？　耳慣れない響きだなーって思っただけなんだけど？」=“What's the matter? I just thought it's such an unusual-sounding name, you know?”
-「あー……う、うん、確かにそうだね」=“Ah-... y-yeah, I guess so.” 
-「何か、勘違いしたんじゃない？　ふふふ」=“What... did you misunderstand something? Fufufu.”
-「いや、別に……？　そそれより、これって美味しいよね」=“No, it's nothing, okay...? On that subject, though, they're pretty tasty.”
-「そうね。独特の風味よね。でもお茶請けにピッタリ♪」=“Yeah. Quite the unique flavor. They're perfect with tea♪”
-「コーヒーと一緒に食べるのも美味しいのよね」=“And they're good with coffee, too.”
-「あ、牛乳と一緒に食べるのもオススメだよ」=“Ah, and I'd also recommend eating them with milk.”
-「牛乳？　へ～、それは思いつかなかったわ。ふふふ、食べるのが楽しみになってきちゃった♪」=“Milk? Ehe~ I hadn't thought of that. Fufufu, I'm beginning to look forward to eating them.”
-「うん、是非試してみて！　美味しいから」=“Yeah, you should try them out! They're delicious.”
-「あぁ、お茶とコーヒーと、牛乳と……うふふ、一つじゃ足りないかも♪」=“Ahhh, tea, coffee, milk... ufufu, one might not be enough♪”
+「ちょっとお店を見て回ろうよ」=“Let's go browse the store, c'mon.”
+「ほら、ちんすこうよ。ふふ、面白い名前よね。ち・ん・す・こ・う……」=“Look, it's chinsukos. Fufuh, it's a pretty interesting name, isn't it? Chi - n - su - ko...”
+「……そんなに口に出して言わなくていいから」=“...You really don't need to emphasize it like that.”
+「どうして？　耳慣れない響きだなーって思っただけなんだけど？」=“Why? I just thought, it's not the sort of word you hear all that often~, you know?”
+「あー……う、うん、確かにそうだね」=“Aah... Y-Yeah, you're right.”
+「何か、勘違いしたんじゃない？　ふふふ」=“You sure you didn't, misunderstand something? Fufufuh~”
+「いや、別に……？　そそれより、これって美味しいよね」=“No, not really...? F-Forget that, these are pretty good, aren't they?”
+「そうね。独特の風味よね。でもお茶請けにピッタリ♪」=“Yeah. They've a very unique taste, don't they? But they go perfect with tea~♪”
+「コーヒーと一緒に食べるのも美味しいのよね」=“And surprisingly great with coffee too.”
+「あ、牛乳と一緒に食べるのもオススメだよ」=“Ah, I'd recommend them with milk too.”
+「牛乳？　へ～、それは思いつかなかったわ。ふふふ、食べるのが楽しみになってきちゃった♪」=“Milk? Heh~, I'd never considered that. Fufufuh, now I'm getting pretty excited about trying some later♪”
+「うん、是非試してみて！　美味しいから」=“Yep, definitely try it! It's a great combination.”
+「あぁ、お茶とコーヒーと、牛乳と……うふふ、一つじゃ足りないかも♪」=“Aah, tea, coffee, and milk... ufufuh, just one might not be enough♪”

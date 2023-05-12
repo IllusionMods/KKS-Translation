@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ねえ、お土産コーナーって見てるだけでちょっとワクワクしない？」=“Hey, the souvenir corner isn't much to look at first, is it?”
-「ああ、分かるかも。ある意味地域の特色が詰まった場所だもんね」=“Ahhh, but look at it this way. In a sense, it's a place that reflects the characteristics of the region.”
-「そうそう。食べ物や民芸品、服にアクセサリー……色々あって見て回るだけで楽しいのよね」=“That's right. Food, folk art, clothing, and accessories... it's fun just to look around.”
-「俺、地味に好きなのが、ご当地限定のお菓子のフレーバを探すことなんだよね。この島なら『紅芋味』とか」=“One of my favorite things to do is look for the local, limited-edition candy flavors. Like the island's "red potato flavor".”
-「ふふ、あとは『シークヮーサー』味とかでしょ？　私たちやっぱり気が合うわね♪」=“Fufu, and then there's the 'Shikwasa' favor, isn't there? I knew we had something in common♪”
+「ねえ、お土産コーナーって見てるだけでちょっとワクワクしない？」=“Hey, doesn't just looking at the souvenir corner make your heart pound?”
+「ああ、分かるかも。ある意味地域の特色が詰まった場所だもんね」=“Yeah, kinda. In a way, it's the one place with the entire region's local specialities, isn't it?”
+「そうそう。食べ物や民芸品、服にアクセサリー……色々あって見て回るだけで楽しいのよね」=“Exactly. From food and handicrafts, to clothes and accessories... there's so many things, just walking around is fun, isn't it?”
+「俺、地味に好きなのが、ご当地限定のお菓子のフレーバを探すことなんだよね。この島なら『紅芋味』とか」=“For me, it might be kind of plain but, I just love searching for region specific flavours of snacks, you know? Like on this island it's purple yam.”
+「ふふ、あとは『シークヮーサー』味とかでしょ？　私たちやっぱり気が合うわね♪」=“Fufuh, and Hirami Lemons too, no? We really do think the same way♪”

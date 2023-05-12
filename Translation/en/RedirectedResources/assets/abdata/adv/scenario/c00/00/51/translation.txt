@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「やっぱり誰かと食べるご飯は美味しいわね。機会があったらまた一緒に食べましょ」=“It's always nice to have a meal with someone. Let's eat together again, when we get the chance.”
+「やっぱり誰かと食べるご飯は美味しいわね。機会があったらまた一緒に食べましょ」=“Eating with someone really does make it taste much better. Let's eat together again, if we get a chance.”

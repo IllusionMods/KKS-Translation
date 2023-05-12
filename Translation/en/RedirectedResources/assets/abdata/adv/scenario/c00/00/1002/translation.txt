@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ねえ、ちょっと卓球をしていかない？」=“Hey, wanna go play a little ping-pong?”
-「へぇ、楽しそう～♪　いいわよ、ひとつ、勝負といきましょう」=“Eh, sounds fun~! Sure, let's go with one game.”
-「うぅ……結構自信ありそうだね……」=“Uuu... you look pretty confident...”
-「くっ、こんなにいい勝負になるだなんて……」=“Kuu! I can't believe you're playing this well...”
-「ふふ、意外とヤルでしょ？　それにしても、君って……空振りが多いわね」=“Fufu, you surprised? But then again, you're... missing the ball a lot.”
-「そ、それは……なんというか……」=“Th-that's... how is is...”
-「あら、どうしたの？　何か問題でもあった？」=“Look, what's the matter? Is there something wrong?”
-「……あんまりにも、素敵過ぎて……」=“...there's no way you can be so good...”
-「ふふ、私がウインクするたびに、顔を赤くして目を逸らしていたわね♪」=“Fufu, every time I wink at you, you blush, and look away♪”
-「はぁ……敵わないなぁ」=“Ahhhhaa... there's no way I can beat you.”
-「ねえ、もう一勝負しない？　今度は罰ゲームありで」=“Hey, won't you play me again? This time... as a 'punishment game'.”
-「それは俺が不利だと思うんですけど！」=“That puts me even more at a disadvantage!”
-「今度はウインクしないから、安心してちょうだい♪」=“Please, rest assured that I won't wink at you this time♪”
+「ねえ、ちょっと卓球をしていかない？」=“Hey, wanna play some ping pong?”
+「へぇ、楽しそう～♪　いいわよ、ひとつ、勝負といきましょう」=“Heh, sounds fun~♪ Sure, let's have a little match.”
+「うぅ……結構自信ありそうだね……」=“Uuu... you seem pretty confident...”
+「くっ、こんなにいい勝負になるだなんて……」=“Kuh--, to think it'd be such a close one...”
+「ふふ、意外とヤルでしょ？　それにしても、君って……空振りが多いわね」=“Fufuh, I'm better than I look, aren't I? Even so, you... miss a whole lot, don't you?”
+「そ、それは……なんというか……」=“T-That's... how do I say this...”
+「あら、どうしたの？　何か問題でもあった？」=“Oh my, what's wrong? Was it something during the match?”
+「……あんまりにも、素敵過ぎて……」=“...You looked a bit too lovely, you know...”
+「ふふ、私がウインクするたびに、顔を赤くして目を逸らしていたわね♪」=“Fufuh, you did blush and avert your eyes every single time I winked at you, didn't you~?♪”
+「はぁ……敵わないなぁ」=“Haah... I really can't win against you.”
+「ねえ、もう一勝負しない？　今度は罰ゲームありで」=“Hey, wanna have another one? This time with a penalty.”
+「それは俺が不利だと思うんですけど！」=“I do think that's a bit too lopsided against me!”
+「今度はウインクしないから、安心してちょうだい♪」=“This time I won't wink at you so, don't worry~♪”
