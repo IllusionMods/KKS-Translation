@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「楽しかったぞ！　それじゃあなー」=“That was fun! Well then, see ya-”
+「楽しかったぞ！　それじゃあなー」=“I had fun! See ya then~”
