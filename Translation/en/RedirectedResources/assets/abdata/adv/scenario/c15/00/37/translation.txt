@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「マングローブ林をカヤックで進むんだけど……」=“We're gonna kayak through a mangrove forest...”
-「おぉー、楽しみだぞー！　これは絶対面白いヤツだ」=“Ohhh- I'm looking forward to it-! This'll definitely be fun.”
-「あんまりはしゃぎ過ぎて、転覆しないようにね」=“Don't get so excited that you capsize us.”
-「大丈夫だぞ！　キミの方こそ船から落っこちるなよー」=“I'll be alright! You're the one who's gonna end up falling out of the boat-”
-「……実はちょっと不安だったり」=“...I'm actually a little worried about that.”
-「大丈夫だって！　それじゃ、行くぞー！」=“You'll be fine! Alright then, let's go-!”
+「マングローブ林をカヤックで進むんだけど……」=“We're gonna be kayaking through the mangroves but...”
+「おぉー、楽しみだぞー！　これは絶対面白いヤツだ」=“Ooh~, I'm excited~! This is definitely gonna be fun.”
+「あんまりはしゃぎ過ぎて、転覆しないようにね」=“Try not to get us capsized from all your sheer excitement, alright?”
+「大丈夫だぞ！　キミの方こそ船から落っこちるなよー」=“It'll be fine! Don't go falling off the boat yourself, alright~?”
+「……実はちょっと不安だったり」=“...I am actually a bit worried about that.”
+「大丈夫だって！　それじゃ、行くぞー！」=“It'll be fine, dummy! C'mon, we're going~!”

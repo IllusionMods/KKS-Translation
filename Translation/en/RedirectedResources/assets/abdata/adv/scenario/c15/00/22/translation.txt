@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「もう、疲れちゃったのか？　あたしはまだまだ元気だけど、キミが疲れたなら仕方ないな……」=“Geez, you tired? I'm still fired up, but if you're tired, then it can't be helped...”
+「もう、疲れちゃったのか？　あたしはまだまだ元気だけど、キミが疲れたなら仕方ないな……」=“Tired out already? I'm still full of energy here but, if you're tired then it can't be helped...”

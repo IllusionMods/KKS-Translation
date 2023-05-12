@@ -1,12 +1,12 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「……俺のこと好きって言ったの？　それとも好きじゃなくて、スキーと言い間違えただけ？」=“...you said you love me? Or you don't like me, and you actually mispronounced 'skiing'?”
-「この場所でスキーなんていう訳ないでしょ！　あ、あんたのことが……好きって言ったのよ」=“There's no way I'd ski around here! I said that... I loved you.”
-「言い間違えでも、俺が聞き間違えた訳でもなかったんだね」=“So you didn't say it wrong, and I didn't misunderstand you.”
-「そうよ。そ、それで……どうなの？　やっぱり……あたしとじゃ、いや？」=“That's right. So... how about it? Not with me, after all?”
-「ううん、嫌じゃない。本当に嬉しいよ」=“Nope, I don't mind. I'm really happy.”
-「一緒にいて楽しくて、いつも笑顔にさせてくれる[H名]のことが俺も好きなんだ」=“I like you too, [H名]. You're fun to be with, and you always make me smile.”
-「本当？　あんたと両想いだなんて……夢見たいだわ」=“Really? I can't believe we're in love... it's like a dream come true.”
-「でも、夢じゃないのよね？　現実よね？」=“But it's not a dream, right? It's real, isn't it?”
-「現実だよ。これからは、恋人としてよろしくね」=“It's real. You're going to be my girlfriend from now on.”
+「……俺のこと好きって言ったの？　それとも好きじゃなくて、スキーと言い間違えただけ？」=“...Did you just say you love me? Or did I mishear you saying you wanted to go to a nature reserve?”
+「この場所でスキーなんていう訳ないでしょ！　あ、あんたのことが……好きって言ったのよ」=“There's no nature reserves in this place! I-I said I... love you.”
+「言い間違えでも、俺が聞き間違えた訳でもなかったんだね」=“So you didn't say it wrong, and I didn't mishear you either, huh?”
+「そうよ。そ、それで……どうなの？　やっぱり……あたしとじゃ、いや？」=“That's right. S-So then... which is it? I guess you really... don't want to?”
+「ううん、嫌じゃない。本当に嬉しいよ」=“Nope, I do. I'm really happy right now too.”
+「一緒にいて楽しくて、いつも笑顔にさせてくれる[H名]のことが俺も好きなんだ」=“How could I not love a girl who's always such a joy to be around, and who always does her best to put a smile on my face?”
+「本当？　あんたと両想いだなんて……夢見たいだわ」=“You mean it? I can't believe it... this is like a dream.”
+「でも、夢じゃないのよね？　現実よね？」=“But, it's not, is it? It's real, right?”
+「現実だよ。これからは、恋人としてよろしくね」=“It is. From now on, we're a couple, okay?”

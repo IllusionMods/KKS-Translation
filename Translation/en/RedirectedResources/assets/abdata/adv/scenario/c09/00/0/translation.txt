@@ -2,9 +2,9 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 //「へえ、あんた面白い子ね！　気に入ったわ！」=“Ehe, you're a funny guy! I like you!“
-「はは……どうも。でも、気に入ったとか、上から目線の言葉は使わない方がいいと思うよ」=“Haha... thanks. But it might be better if you said that in a little less condescending way.”
-「あっ！　いけない……またやっちゃった……」=“Ah! I did it again... I'm hopeless...”
-「あたしったら本当にデリカシーがないんだから……」=“I have no delicacy at all...”
-「いや、いいよ。俺、そういうの気にしない方だから」=“No, it's okay. I'm not someone who cares about stuff like that.”
-「ほんとに？　ありがとう！　それを聞いて安心したわ」=“Really? Thanks! I'm relieved to hear that.”
-「また話す機会があったら、いつでも話をしましょ！　じゃあね！」=“Let's talk again, when you get the chance! See ya!”
+「はは……どうも。でも、気に入ったとか、上から目線の言葉は使わない方がいいと思うよ」=“Haha... thank you. But, taken a liking to me and stuff, I think you'd be better off using less condescending words, just saying.”
+「あっ！　いけない……またやっちゃった……」=“Ah--! Darn... I did it again...”
+「あたしったら本当にデリカシーがないんだから……」=“I really don't have an ounce of tact...”
+「いや、いいよ。俺、そういうの気にしない方だから」=“No, it's fine. I don't really mind it all that much myself.”
+「ほんとに？　ありがとう！　それを聞いて安心したわ」=“Really? Thank you! That's such a relief.”
+「また話す機会があったら、いつでも話をしましょ！　じゃあね！」=“Let's chat again, if we get the chance to! See ya!”

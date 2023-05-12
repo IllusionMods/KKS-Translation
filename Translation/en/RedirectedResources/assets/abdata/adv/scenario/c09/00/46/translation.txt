@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふ～、なんとか完成したわ。あんたがアドバイスしてくれたおかげね、ありがとう」=“Phew~ I managed to finish it. Thanks for your advice.”
+「ふ～、なんとか完成したわ。あんたがアドバイスしてくれたおかげね、ありがとう」=“Fuh~, I managed it, somehow. All thanks to your advice too, thanks.”

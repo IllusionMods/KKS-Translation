@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「滝の空気、気持ち良かったぞー！」=“The breeze coming off the waterfall felt so good-!”
+「滝の空気、気持ち良かったぞー！」=“That air felt great~!”
