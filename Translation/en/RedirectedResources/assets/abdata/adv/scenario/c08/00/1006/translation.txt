@@ -6,7 +6,7 @@
 「せっかくだから、私と[P名]君で鐘を鳴らそうよ。それで永遠の愛を誓おっ」=“Since we're here. let's ring it together, [P名]-kun. And pledge our love to each other forever--”
 「そうだね。さっそく鳴らしてみよう」=“Yeah. Let's ring it.”
 「あっ！　ちょっと待って！」=“Ah--! Wait just a sec!”
-「急にどうしたの？」=“What's the matter, so suddenly?”
+「急にどうしたの？」=“What's wrong?”
 「私たちって、今でも十分仲良しでしょ？」=“We're already pretty darn happy together, aren't we?”
 「これ以上ラブラブ度が上がったら、大変なことになるんじゃないかなぁ」=“If we get even more lovey-dovey, won't it become a problem~?”
 「大変なことって例えば？」=“A problem how?”

@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「せっかくだから、ちょっと卓球してこうよ」=“Since we're here, let's play a little ping-pong.”
-「あたしに挑戦するつもり？　いい度胸してるじゃない」=“You're challenging me? You've got some guts.”
-「さあ、勝負よ！」=“Come on, let's play!”
-「おお、構えが本格的だ。しっかり腰が落ちてる」=“Ohhh, such a serious stance. Your legs are firmly set.”
-「ふっふっ、驚くのはこれからよ！」=“Fu! Fu! Prepare to be shocked!”
-「５点先取ね。負けたらジュースおーごりっ♪」=“Five points ahead. The loser buys the juice.”
-「ちょ、後出しでズルい……っ！」=“Hey, no fair setting the terms now...!!”
+「せっかくだから、ちょっと卓球してこうよ」=“Well, we're here so, let's play some ping pong, c'mon.”
+「あたしに挑戦するつもり？　いい度胸してるじゃない」=“Gonna take me on? So you really do have some courage in you, huh?”
+「さあ、勝負よ！」=“Come now, it's match time!”
+「おお、構えが本格的だ。しっかり腰が落ちてる」=“Ooh, you look pretty serious there. Got a proper stance and everything.”
+「ふっふっ、驚くのはこれからよ！」=“Fufuh--, save your surprise for what's coming!”
+「５点先取ね。負けたらジュースおーごりっ♪」=“First to 5 points wins. Whoever loses buys the other juice--♪”
+「ちょ、後出しでズルい……っ！」=“Wha--, that's unfair, you shoulda mentioned that earlier...--!”
 「…………………………」=“...”
-「で、弱いってどういうことなの？　５対０で俺が勝っちゃったよ」=“Hey, what do you mean by 'weak'? I won, 5 to 0.”
-「経験者だったなんてずるい。あたしのことハメたわね」=“It's unfair that you have experience. You set me up!“
-「ちょっとやったことがあるくらいだよ」=“Maybe just a little.”
-「羊の皮をかぶったあれでしょ？　まんまと騙されたわ。はいはい強いですねー」=“So, you're like that thing in sheep's clothing? You had us all fooled. Yeah, yeah, so powerful-”
-「何とでも言っていいよ。ジュース、ごちそうになるね」=“You can call me whatever you want. Thanks for the juice.”
-「くぅ……ジュース奢りなんて言わなきゃよかった！」=“Guh... I shouldn't have said I'd buy you a juice.”
+「で、弱いってどういうことなの？　５対０で俺が勝っちゃったよ」=“So, what was all that posturing for? I won 5-0 there.”
+「経験者だったなんてずるい。あたしのことハメたわね」=“That's so unfair, you already knew how to play. I got set up.”
+「ちょっとやったことがあるくらいだよ」=“I've played a game or two before, not much more than that.”
+「羊の皮をかぶったあれでしょ？　まんまと騙されたわ。はいはい強いですねー」=“Keep talking, you wolf in sheep's clothing. I got taken for a ride without even knowing. Yes yes, you're very strong yes~”
+「何とでも言っていいよ。ジュース、ごちそうになるね」=“Say whatever you want. I'll listen to it all over that juice you owe me.”
+「くぅ……ジュース奢りなんて言わなきゃよかった！」=“Kuh... I shouldn't have made that bet at all!”

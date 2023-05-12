@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「あーあ、もっとお金があったらお菓子を買い占めるんだけど……ま、叶わない夢のことを考えても、仕方ないわね」=“Ah-ah, if I had more money, I'd buy up all these sweets... well, there's no help in imagining things that can never come true.” 
+「あーあ、もっとお金があったらお菓子を買い占めるんだけど……ま、叶わない夢のことを考えても、仕方ないわね」=“Aaah, if I had more money I could have bought every box... but well, no point in dreaming about things that won't come true.”

@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ねえ、ちょっとお願いがあるんだけど……」=“Hey, could you do me a little favor...?”
-「なによ改まって。え、エッチなお願いでもするつもり……！？」=“What's the big deal? Eh, you gonna ask a naughty favor...!?”
-「いや、違うけど。その、愛称で呼び合ってみたいなと思ったんだ」=“No, not exactly. Um, I'm thinking we should call each other by nicknames.”
-「愛称……？　そんくらい別にいいわよ」=“Nicknames...? I don't see that as a problem.”
-「ありがとう！　じゃあ、俺の方で決めてあるから、呼んでくれる？」=“Thanks! Well, I've made up my mind, so would you call me by it?”
-「あたしが決めるんじゃないのね……まぁいいけど。それで、なんて呼び方？」=“Guess I don't get to pick... well, sure, fine. What should I call you?”
-「[Pあだ名]」=“[Pあだ名]”
-「なっ……なによソレ！？　そんな呼び方イヤよ！」=“Wa--! What the hell!? I don't like calling you that!”
-「まぁまぁそう言わずに……呼んでくれたら今度お昼おごるよ、デザートだって付ける！　あと考えた愛称も呼ぶから」=“Hey, now, don't say that... call by that, and I'll buy you lunch next time. I'll even add a dessert! And I'll call you buy whatever nickname you pick.”
-「うぐっ、そんなモノで釣るなんて卑怯よ……」=*Giggle* It's no fair when you hook me in like that...”
-「えっと、じゃあ、呼ぶわよ……[Pあだ名]」=“Er, um, well, I'll call you... [Pあだ名].”
-「おお……思ったより気恥ずかしさはあるけど、いい……。もう一回お願い、[Hあだ名]」=“Whoa... that's a little more embarrassing than I thought it would be, but it's fine... one more time, please, [Hあだ名].”
-「いい加減にしなさーい！」=“That's enough, come on!”
-「残念……呼んでほしかったんだけど……」=“Shame... I wanted you to call me...”
-「ぅ……そんなに呼んでほしいなら、考えないこともないけど」=“Uuu... since you want it so badly, I'll think about it.”
-「本当？　言質、とったからね」=“Really? I've got your word on it, then?”
+「ねえ、ちょっとお願いがあるんだけど……」=“Hey, I've got a bit of a request...”
+「なによ改まって。え、エッチなお願いでもするつもり……！？」=“What're you being so formal for? W-Wait, is it a sexual request...!?”
+「いや、違うけど。その、愛称で呼び合ってみたいなと思ったんだ」=“No, not at all. It's, uhm, I was thinking that maybe we could use nicknames for each other.”
+「愛称……？　そんくらい別にいいわよ」=“Nicknames...? Sure, that's no big deal.”
+「ありがとう！　じゃあ、俺の方で決めてあるから、呼んでくれる？」=“Thanks! Then, I've already thought of one for myself so, will you hear me out?”
+「あたしが決めるんじゃないのね……まぁいいけど。それで、なんて呼び方？」=“I'm not gonna get to decide it, huh... well, sure I guess. So, what is it?”
+「[Pあだ名]」=“[Pあだ名].”
+「なっ……なによソレ！？　そんな呼び方イヤよ！」=“Wha--... what the heck!? No way I'm calling you that!”
+「まぁまぁそう言わずに……呼んでくれたら今度お昼おごるよ、デザートだって付ける！　あと考えた愛称も呼ぶから」=“C'mon, don't be like that... if you call me that, I'll buy you lunch next time. I'll even throw in some dessert! I'll also call you the nickname I've thought up for you!”
+「うぐっ、そんなモノで釣るなんて卑怯よ……」=“Uguh--, baiting your girlfriend with things like that, is unfair...”
+「えっと、じゃあ、呼ぶわよ……[Pあだ名]」=“Erhm, then, I'll say it... [Pあだ名].”
+「おお……思ったより気恥ずかしさはあるけど、いい……。もう一回お願い、[Hあだ名]」=“Oooh... it's way more embarrassing than I expected, but it's so nice... once more, please, [Hあだ名].”
+「いい加減にしなさーい！」=“That's enough of that!”
+「残念……呼んでほしかったんだけど……」=“Shame... I really wanted to hear you say it...”
+「ぅ……そんなに呼んでほしいなら、考えないこともないけど」=“Uu... if you want to hear it that badly, I'll think about it, I guess.”
+「本当？　言質、とったからね」=“Really? Alright, I'll remember those words.”
