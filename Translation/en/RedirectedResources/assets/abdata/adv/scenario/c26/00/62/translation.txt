@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どうする？　また塗っていく？」=
-//「ん……じゃあ、前も、お願いしたい……」=
-//「えっと、そうなると……」=
-//「いいよ……あなたになら、触られても……」=
+「どうする？　また塗っていく？」=“What do you wanna do? Should I do it again?”
+「ん……じゃあ、前も、お願いしたい……」=“Nn... yeah, do the front too, this time...”
+「えっと、そうなると……」=“Erhm, that's gonna...”
+「いいよ……あなたになら、触られても……」=“It's okay... I don't mind being touched, by you...”

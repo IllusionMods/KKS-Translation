@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルドリンクが頼めるんだって。一緒に飲もうよ」=
-//「…………こういうこと、するんだ」=
-//「もしかして怒ってる？　ちょっと強引だったかな」=
-//「……そうじゃないの。恋人同士って、まだあんまりわからないから」=
-//「恋人になったらこういうことするんだ、って……」=
-//「……ごめん。さっきと同じこと言ってるね」=
-//「なんとなく意図はわかったよ。こういうのが嫌ってわけではないん……だよね？」=
-//「うん、別に」=
-//「……こういう言い方も変？　……ごめん」=
-//「自然でいいんだよ。大事なのは、俺達が一緒にいて楽しめるかどうかなんだから」=
-//「……今、ちゃんと楽しめてる？」=
+「カップルドリンクが頼めるんだって。一緒に飲もうよ」=“Apparently we can get a couples' drink. Let's drink it together.”
+「…………こういうこと、するんだ」=“...You're really gonna do that, huh?”
+「もしかして怒ってる？　ちょっと強引だったかな」=“Are you mad, by any chance? Sorry, maybe I was too pushy about it.”
+「……そうじゃないの。恋人同士って、まだあんまりわからないから」=“...That's not it. I still don't understand, anything about being a couple.”
+「恋人になったらこういうことするんだ、って……」=“So I was just saying that now that we're a couple, you're really gonna do that, huh...”
+「……ごめん。さっきと同じこと言ってるね」=“...Sorry. I'm just repeating what I said, aren't I?”
+「なんとなく意図はわかったよ。こういうのが嫌ってわけではないん……だよね？」=“Nah, I think I get it. You don't mean to say that it bothers you... right?”
+「うん、別に」=“Yeah, not really.”
+「……こういう言い方も変？　……ごめん」=“...Is that vague too? ...Sorry.”
+「自然でいいんだよ。大事なのは、俺達が一緒にいて楽しめるかどうかなんだから」=“Nah, it's completely fine. What's important is us enjoying ourselves together.”
+「……今、ちゃんと楽しめてる？」=“...Are you, enjoying yourself?”
 「もちろん」=“Of course.”
-//「そう、よかった。……あなたが変わり者で」=
-//「そういうこと自分で言う？」=
-//「……一緒にいて楽しければ問題ないんでしょ？　ほら、飲もう？」=
-//「う、うん、そうしよう」=
-//（もしかして、さっきの冗談だったのかな……）=
+「そう、よかった。……あなたが変わり者で」=“I see, I'm glad. ...Since you're an oddball.”
+「そういうこと自分で言う？」=“You sure you should be saying that?”
+「……一緒にいて楽しければ問題ないんでしょ？　ほら、飲もう？」=“...As long as we can enjoy ourselves together, it's fine, no? C'mon, let's drink?”
+「う、うん、そうしよう」=“Y-Yeah, let's do that.”
+（もしかして、さっきの冗談だったのかな……）=(Was that a joke, what she said...)

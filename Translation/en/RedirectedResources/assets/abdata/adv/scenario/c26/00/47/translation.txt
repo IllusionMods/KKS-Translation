@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「また、来ようね……目指せ、三線デュエット……？」=
+「また、来ようね……目指せ、三線デュエット……？」=“Let's come, again, okay?... Let's aim for a, sanshin duet...?”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「え……私とエッチ、したいの……？」=
-//「う、うん……きみがいい。　きみとしたくて、たまらないんだ……っ」=
-//「っ……そ、そんな風に言われたら、断りにくい……」=
+「え……私とエッチ、したいの……？」=“Eh... you want to, have sex with me...?”
+「う、うん……きみがいい。　きみとしたくて、たまらないんだ……っ」=“Y-Yeah... you, only you. I want to do it with you so bad, I can't take it...--”
+「っ……そ、そんな風に言われたら、断りにくい……」=“--!... I-It's hard to say no, when you say it like that...”
 「…………」=“...”
-//「ぅ……わ、わかったから……そんな真剣な目、ずるい……」=
+「ぅ……わ、わかったから……そんな真剣な目、ずるい……」=“Uu... I-I got it so... don't make such serious eyes, it's unfair...”

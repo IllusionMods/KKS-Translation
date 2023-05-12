@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お腹いっぱい……ごちそうさまでした」=
+「お腹いっぱい……ごちそうさまでした」=“I'm stuffed... my compliments to the chef.”

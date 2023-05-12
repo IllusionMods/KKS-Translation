@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごいねー、どこまでもずーっと水槽だよ」=
-//「……魚より水槽が気になるの？」=
-//「ごめん、今のは言い方が変だったね」=
-//「ううん、謝らないで。私の方が意地悪だったかも……」=
-//「……よそよそしいかな？」=
-//「かもね。せっかくのデートなのに、お互いぺこぺこしてるのはおかしいかも」=
-//「デート……」=
-//「そっか……言われてみたら、よくありそうなデートだね」=
-//「そうそう。ドラマとか漫画とかで、普通に出てきそうなベタな水族館デート」=
-//「……どうせなら、とことんベタにやってみる？　……女の子は、どうするのがベタなのかな……」=
-//「それはもちろん、お魚さん可愛いー♪　きゃー、アナゴさんだよー、みたいな」=
-//「それは……無理」=
-//（撤回が早い……）=
-//「……あっさり諦めちゃう私は……可愛い女の子ではないのかも」=
-//「そう？　そうやって照れてる[H名]はすごく可愛いよ」=
-//「もう……調子いいんだから」=
+「すごいねー、どこまでもずーっと水槽だよ」=“Amazing, isn't it? It's water tanks as far as the eye can see.”
+「……魚より水槽が気になるの？」=“...That's what interests you, more than the fish?”
+「ごめん、今のは言い方が変だったね」=“Sorry, I said something weird, didn't I?”
+「ううん、謝らないで。私の方が意地悪だったかも……」=“No, don't apologize. I think I was being a bit mean...”
+「……よそよそしいかな？」=“...Am I being too distant?”
+「かもね。せっかくのデートなのに、お互いぺこぺこしてるのはおかしいかも」=“Well, there's certainly distance between us. It's pretty weird too, we're on a date and everything but we keep saying sorry to one another.”
+「デート……」=“A date...”
+「そっか……言われてみたら、よくありそうなデートだね」=“I see... now that you say it, it's a pretty standard date, isn't it?”
+「そうそう。ドラマとか漫画とかで、普通に出てきそうなベタな水族館デート」=“Exactly. A corny aquarium date, straight out TV or manga.”
+「……どうせなら、とことんベタにやってみる？　……女の子は、どうするのがベタなのかな……」=“...Since we're doing this anyway, wanna make it as corny as we can? ...What do I, do as a girl...”
+「それはもちろん、お魚さん可愛いー♪　きゃー、アナゴさんだよー、みたいな」=“That's of course, "The fishes are so cute~♪", "Kyaah~", "Look, it's an eel~", and all.”
+「それは……無理」=“I... can't.”
+（撤回が早い……）=(Gave up so easily...)
+「……あっさり諦めちゃう私は……可愛い女の子ではないのかも」=“...The way I give up so easily... might not be very cute of me.”
+「そう？　そうやって照れてる[H名]はすごく可愛いよ」=“You think so? To me, you look adorable blushing like that, [H名].”
+「もう……調子いいんだから」=“Jeez... you really love saying that stuff, don't you?”

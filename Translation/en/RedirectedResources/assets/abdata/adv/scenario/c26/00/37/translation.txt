@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さーて、海で遊ぶとしたら……」=
-//「スイカ割り……ビーチバレー……ボート……いろいろある……」=
-//「何からしようか迷うなぁ……」=
-//「大丈夫……時間、いっぱいあるから……１個１個、遊んで行こ……？」=
-//「……そうだね。んじゃ、まずはアレから――」=
+「さーて、海で遊ぶとしたら……」=“Now then, things to do at the sea...”
+「スイカ割り……ビーチバレー……ボート……いろいろある……」=“Watermelon splitting... beach volleyball... taking a boatride... there's all kinds of things...”
+「何からしようか迷うなぁ……」=“It's hard to pick where to start, isn't it...”
+「大丈夫……時間、いっぱいあるから……１個１個、遊んで行こ……？」=“It's alright... we have, lots of time so... let's just, do it all one by one...?”
+「……そうだね。んじゃ、まずはアレから――」=“...Good idea. Well then, let's start with that--”

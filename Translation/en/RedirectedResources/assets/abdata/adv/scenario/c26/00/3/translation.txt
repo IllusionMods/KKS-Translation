@@ -2,6 +2,6 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「え……？」=“Eh...?”
-//「好き、だから……あなたの側に、居たいの…………ダメ、かな……？」=
-//「そんな……ダメなわけない。　俺もきみの事、好きだからさ……」=
-//「っ……あり、がと……ふふっ、嬉しい……」=
+「好き、だから……あなたの側に、居たいの…………ダメ、かな……？」=“I love, you so... I want to stay by, your side... Could, I, please...?”
+「そんな……ダメなわけない。　俺もきみの事、好きだからさ……」=“Please... of course, dummy. I love you too, so...”
+「っ……あり、がと……ふふっ、嬉しい……」=“--...Thank, you... fufuh--, I'm so happy...”

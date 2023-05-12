@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「これから先、三線の音を聞く度に……今この時の事、思い出すと思う……」=
-//「ほんと、独特というか、特徴というか……記憶に残りやすい音だよね」=
-//「うん……それに……[P名]と一緒に体験したこと、だから……」=
+「これから先、三線の音を聞く度に……今この時の事、思い出すと思う……」=“Everytime I hear a sanshin again now, I think I'll... think back to this moment, right now...”
+「ほんと、独特というか、特徴というか……記憶に残りやすい音だよね」=“Seriously, it's such a unique, like, such a distinct sound... it just has a way of staying in your memories, you know?”
+「うん……それに……[P名]と一緒に体験したこと、だから……」=“Yeah... not to mention... it's something we're, experiencing together so...”

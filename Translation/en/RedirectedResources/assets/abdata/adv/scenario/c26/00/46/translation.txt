@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「いろんな模様、試してみたい……また、来たいな……」=
+「いろんな模様、試してみたい……また、来たいな……」=“I wanna try out, lots of patterns... I wanna, come here again...”

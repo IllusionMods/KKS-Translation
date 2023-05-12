@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「いろんなアクティビティがあるなぁ……やってみたいのとかある？」=
-//「あ……ダイビング……二人で、海の中……ロマンチック……？」=
-//「あー、きれいな海だし、海中もきっときれいだろうねぇ」=
-//「一緒に体験、してくれる……？」=
-//「もちろん。それじゃ、早速聞いてみよっか」=
+「いろんなアクティビティがあるなぁ……やってみたいのとかある？」=“There's all sorts of activities to do, aren't there... is there anything you wanna try?”
+「あ……ダイビング……二人で、海の中……ロマンチック……？」=“Ah... diving... wouldn't it be... romantic, under the sea...?”
+「あー、きれいな海だし、海中もきっときれいだろうねぇ」=“Aah, the sea's real pretty too, so I bet it's just that much more pretty underwater.”
+「一緒に体験、してくれる……？」=“Will you, do it with me...?”
+「もちろん。それじゃ、早速聞いてみよっか」=“Of course. Well then, let's go ask them.”

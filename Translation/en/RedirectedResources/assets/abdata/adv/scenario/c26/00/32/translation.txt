@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あ……これ、ほしい……」=
-//「ん？　２つのシーサー……？」=
-//「うん……おそろいの、並べるの……これは、あなたと私……」=
-//「なるほどね。それじゃ、俺も買ってこうかな？」=
-//「うん……ずっと一緒が、続きますように……」=
+「あ……これ、ほしい……」=“Ah... I, want these...”
+「ん？　２つのシーサー……？」=“Nn? Two shisas...?”
+「うん……おそろいの、並べるの……これは、あなたと私……」=“Yeah... two matching ones, lined up... you and, me...”
+「なるほどね。それじゃ、俺も買ってこうかな？」=“I see. Well then, maybe I'll buy one of them too.”
+「うん……ずっと一緒が、続きますように……」=“Do it... and let's hope they keep us together, forever...”

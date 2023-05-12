@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「エッチ……いいよ……？」=
-//「え……本当にいいの？」=
-//「……？　好きな人とエッチするのは当然……」=
-//「でも……初めて、だから……優しく、ね……？」=
+「エッチ……いいよ……？」=“Sex... sure, let's do it...?”
+「え……本当にいいの？」=“Eh... are you really sure?”
+「……？　好きな人とエッチするのは当然……」=“...? I love you so of course...”
+「でも……初めて、だから……優しく、ね……？」=“But... it's my, first time so... be gentle, okay...?”

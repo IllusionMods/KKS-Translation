@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「え……私、と……？」=
-//「うん、きみと付き合いたい……好きなんだ……っ」=
+「え……私、と……？」=“Eh... me...?”
+「うん、きみと付き合いたい……好きなんだ……っ」=“Yep, I want to go out with you... I love you...--”
 「………………」=“...”
-//「……勿論、嫌なら断ってくれても構わないから……」=
-//「あ……違う、の……その、こんな私に……好きって言ってくれて、嬉しくて……」=
-//「それじゃぁ……！」=
-//「うん……私も、好きだから……これからも、よろしくお願いします……」=
+「……勿論、嫌なら断ってくれても構わないから……」=“...Of course, if you don't want to, feel entirely free to just shoot me down too...”
+「あ……違う、の……その、こんな私に……好きって言ってくれて、嬉しくて……」=“Ah... that's not, it... I uhm, I'm just so... happy, a girl like me, with you...”
+「それじゃぁ……！」=“Then...!”
+「うん……私も、好きだから……これからも、よろしくお願いします……」=“Yeah... I love, you too so... please take, care of me...”

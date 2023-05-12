@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? What do you wanna do?”
+「えっと……混ざりたいの？　……どうする？」=“Erhm... you wanna join us? ...What do you wanna do?”
 「私は……あなたがシたいなら、いいよ……？」=“I... if you wanna do it, I don't mind, you know...?”
 「さんぴー……？　ん……私、シてみたい……」=“A threesome...? Nn... I wanna, try it...”

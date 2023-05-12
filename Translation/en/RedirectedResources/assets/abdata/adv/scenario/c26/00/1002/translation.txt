@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お、卓球台だ。ちょっとやっていかない？」=
-//「卓球……」=
-//「どうしたのー？　そっち先攻でいいよ」=
-//「……待って。心の準備がまだなの」=
-//「そんな大げさな」=
-//「大げさなんかじゃない。……卓球、全然やったことないから」=
-//「下手でも平気だよ。[H名]とちょっと遊びたいなーって、軽い気持ちで誘っただけだし」=
-//「……そう、なんだ。それなら……うん、わかった」=
-//「結構、時間経っちゃったね。そろそろ切り上げようか」=
-//「ふぅ……疲れた」=
-//「でも、少しは楽しめたでしょ？」=
-//「そう、だね。……自分でも意外なくらいだけど」=
-//「……うん、楽しかった。よかったらまた誘ってね」=
-//「あはは、もちろん」=
+「お、卓球台だ。ちょっとやっていかない？」=“Oh, it's a ping pong table. Wanna go for a round?”
+「卓球……」=“Ping pong...”
+「どうしたのー？　そっち先攻でいいよ」=“What's wrong~? It's your serve.”
+「……待って。心の準備がまだなの」=“...Wait. My heart's not ready.”
+「そんな大げさな」=“Is it really something that big?”
+「大げさなんかじゃない。……卓球、全然やったことないから」=“It is. ...I've never played ping pong before.”
+「下手でも平気だよ。[H名]とちょっと遊びたいなーって、軽い気持ちで誘っただけだし」=“Even if you suck at it, it's fine. I just wanted to have a little fun together, nothing big.”
+「……そう、なんだ。それなら……うん、わかった」=“...I, see. In that case... okay, I got it.”
+「結構、時間経っちゃったね。そろそろ切り上げようか」=“We spent quite some time on that, didn't we? Let's wrap it up there.”
+「ふぅ……疲れた」=“Fuh... I'm tired.”
+「でも、少しは楽しめたでしょ？」=“But, you enjoyed it, atleast a bit, no?”
+「そう、だね。……自分でも意外なくらいだけど」=“I, think so. ...I didn't expect to, though.”
+「……うん、楽しかった。よかったらまた誘ってね」=“...Yeah, I enjoyed it. If you feel like it, ask me again.”
+「あはは、もちろん」=“Ahahah, sure.”

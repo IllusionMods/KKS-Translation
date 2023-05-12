@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ありがとう……また、来ようね……？」=
+「ありがとう……また、来ようね……？」=“Thanks... let's come again, okay...?”
