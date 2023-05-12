@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「紅型なんて聞いたことなかったから難しいのかと思ったけど、あたしでも出来そうね」=“I'd never heard of Bingata, so I thought it'd be hard to do... but I guess I can do it.”
-「けっこう細かい作業があるけど、手先は器用なの？」=“There's a lot of detail work. You good with your hands?”
-「何を言ってるのよ？　見本がそこにあるんだから、マネをすればいいだけでしょ。手先の器用さなんて関係ないわ」=“What are you talking about? Since the sample's right there, all you have to do it copy it. Never mind anything about being good with my hands.”
-「そんなこと言ってると――」=“When you say it like that...”
-「あっ」=“Ah!“
+「紅型なんて聞いたことなかったから難しいのかと思ったけど、あたしでも出来そうね」=“I'd never heard of this stencil dyeing stuff before so I thought it was gonna be pretty difficult, but even I can do it, huh?”
+「けっこう細かい作業があるけど、手先は器用なの？」=“I mean, it's pretty intricate stuff, you good with your fingers?”
+「何を言ってるのよ？　見本がそこにあるんだから、マネをすればいいだけでしょ。手先の器用さなんて関係ないわ」=“What're you saying? There's a sample right there, all I need to do is just copy it, no? Me being good with my fingers or not doesn't matter.”
+「そんなこと言ってると――」=“While you're saying that, your--”
+「あっ」=“Ah--”

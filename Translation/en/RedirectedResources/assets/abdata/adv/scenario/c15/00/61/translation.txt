@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「見てよ、美容オイルが並んでる。自由に使っていいみたいだよ」=“Look, the beauty oils are lined up.”
-「本当だぞ。すごいなー」=“You're right. Wow-”
-「どうする？　俺が塗ってあげようか」=“So how about it? I'll spread it on you.”
-「いいのかー？　助かるぞー」=“That's fine-? If it'll help-”
-「それじゃあ、任せといてよ」=“Well then, just leave this to me.”
+「見てよ、美容オイルが並んでる。自由に使っていいみたいだよ」=“Look, they've got beauty oil lined up one bottle after another. Seems like we can freely use this stuff.”
+「本当だぞ。すごいなー」=“We really can. Amazing~”
+「どうする？　俺が塗ってあげようか」=“What do you wanna do? Want me to put it on you?”
+「いいのかー？　助かるぞー」=“You sure you don't mind~? You're a lifesaver~”
+「それじゃあ、任せといてよ」=“Leave it to me.”

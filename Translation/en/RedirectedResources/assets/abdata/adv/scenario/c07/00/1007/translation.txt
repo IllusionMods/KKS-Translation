@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「さすが南国の水族館。雰囲気あるね」=“There's a real vibe here. As expected from a tropical aquarium.”
-「ああ！　これはもはや、あれだな……ちっちゃな海だな！！」=“Yeah! You could almost say it's a, what the word... a miniature ocean.”
-「あはは、テンション高いね」=“Ahaha, you're so worked up.”
-「そりゃそうだろ。せっかく南国に来たんだから、海の生き物と戯れないと」=“Of course I am. We're on a tropical island, so what else to do than to play with the sea creatures.”
-「……お触りはできそうにないけど」=“...I don't think we can touch any of them.”
-「ぅ……さすがに南国だけあって、南国っぽい魚が多いな」=“Uuu... as you'd expect from a tropical country, there's a bunch of tropical fish.”
-「南国っぽいって、マンタとか？」=“What do you mean by 'tropical?' Like, manta rays?”
-「おお、マンタもいるかもしれないな。探そうぜ」=“Ohhh, maybe even manta rays. Let's find them.”
-…………=......
-「おー、でっかい亀……見ろよ？　顔が仙人っぽいぞ。人間の言葉とか喋りそう」=“Ohh- see that... the big turtle? He has a face like an old hermit. It's almost as if he could talk, or something.”
-（マンタ探すのでは……）=(And here I thought we were looking for manta rays...)
-「よく見たら亀の大群じゃん。亀って意外とスイスイ泳ぐんだな」=“I just now notice there's large group of turtles. They're unexpectedly good swimmers.”
-「目がキラキラしてるよ？　[H名]って海の生き物が好きなんだ」=“Wow, you're sparkling your eyes like crazy huh? You must like sea creatures, [H名].”
-「海が好き……かな？　ロマンっていうの？　何かこう、胸にぐーって迫るものがあるだろ」=“I guess... I do? Maybe call it a romance? It's like, really gets to your heart you know.”
-「はっ！？　もしかして私の前世、人魚だったり」=“Oh shi-!? Don't tell me I was mermaid in a previous life.”
-「……まあ、可能性はあるな。全ての生き物のルーツは海って言うし」=“...well, it's possible. They say the origin of all life is the ocean.”
-「いやいや、そこはツッコミだろ？　お前みたいなガサツなののどこが人魚だー、とか」=“No, no, that's where you're supposed to say something funny. Something like ‘what kind of business would a crass girl like you have, being a mermaid?’ or something.”
-「[H名]は人魚似合うよ！」=“You'd look awesome as a mermaid, [H名].” 
-「余計なこと言わなきゃよかった……」=“I shouldn't have even said anything...”
+「さすが南国の水族館。雰囲気あるね」=“Guess that's a southern island aquarium for you. It's got a real mood to it.”
+「ああ！　これはもはや、あれだな……ちっちゃな海だな！！」=“Yeah! This is almost, you know... a whole tiny ocean in there!!”
+「あはは、テンション高いね」=“Ahahah, you're pretty excited.”
+「そりゃそうだろ。せっかく南国に来たんだから、海の生き物と戯れないと」=“Of course I am. We came all this way, we gotta enjoy the marine life too.”
+「……お触りはできそうにないけど」=“...Don't think we can actually touch them though.”
+「ぅ……さすがに南国だけあって、南国っぽい魚が多いな」=“Uu... there's a whole lot of southern looking fish in here, huh? I guess because it's a southern island.”
+「南国っぽいって、マンタとか？」=“You mean like mantas and whatnot?”
+「おお、マンタもいるかもしれないな。探そうぜ」=“Ooh, there might be those in here for sure. Let's go look for 'em.”
+…………=...
+「おー、でっかい亀……見ろよ？　顔が仙人っぽいぞ。人間の言葉とか喋りそう」=“Ooh, what a big turtle... look. It looks like a mountain hermit. Feels like it's gonna start talking to us.”
+（マンタ探すのでは……）=(Weren't we looking for mantas...)
+「よく見たら亀の大群じゃん。亀って意外とスイスイ泳ぐんだな」=“Now that I'm looking, ain't it a whole turtle herd? Turtles swim pretty smoothly, don't they? Never coulda imagined.”
+「目がキラキラしてるよ？　[H名]って海の生き物が好きなんだ」=“Your eyes are really sparkling there, you know? I didn't know you loved marine life so much.”
+「海が好き……かな？　ロマンっていうの？　何かこう、胸にぐーって迫るものがあるだろ」=“It's more that I love the... sea, I guess? What do they call it, the romance of it all? It's like, I feel it in my chest.”
+「はっ！？　もしかして私の前世、人魚だったり」=“Hah--!? Maybe in my past life, I mighta been a mermaid.”
+「……まあ、可能性はあるな。全ての生き物のルーツは海って言うし」=“...Well, who knows. They do say all life came outta the sea, afterall.”
+「いやいや、そこはツッコミだろ？　お前みたいなガサツなののどこが人魚だー、とか」=“No no, normally you'd retort at that point, no? Like, which part of your rough ass could be a mermaid, and all.”
+「[H名]は人魚似合うよ！」=“Nah, you'd make a great mermaid, [H名]!”
+「余計なこと言わなきゃよかった……」=“I shouldn't have said a thing...”

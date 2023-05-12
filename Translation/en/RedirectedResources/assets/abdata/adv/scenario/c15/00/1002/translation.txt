@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「卓球台か。ねぇ、勝負しようよ？」=“A ping-pong table. Hey, wanna play?”
-「勝負ー？　あはは、受けて立つぞー」=“A game-? Ahaha, you're on-”
-「おりゃー！」=“Yow-!”
-「おお、構えが本格的だ。もしかして経験者とか？」=“Ohhh, That's full-on stance. Guess you've done this before?”
-「卓球は体育でやったぞー」=“I played ping-pong in PE-”
-「なんだ、俺と同程度か。いい勝負になりそう」=“So you're as good as me. This is gonna be a good match.”
-「ふっふっふ、どうかな？　あたしの力を見せてやる」=“Fufufu, what's that now? I'll show you my power.”
-「な？　な？　あたしの勝ちだぞー」=“Na? Na? I won-”
-「はいはい、完敗だよ」=“Yes, yes... a flawless victory.”
-「強いだろー」=“You're strong-”
-「基本的な身体能力の差、って感じがしたよ。[H名]は動きが鋭いよね……」=“I think there's a basic difference in our physical abilities. You've got some sharp moves, [H名]...”
-「狩りの要領だな。相手の動きを先回りするんだ」=“That's my hunting technique. I have to anticipate the moves of my prey.”
-（そんなこと言われても分からない……）=(I have no clue what she's talking about...)
-「ふぅ、面白かった。またやろうなー」=“Phew, that was fun. Let's do that again.”
+「卓球台か。ねぇ、勝負しようよ？」=“Ping pong, huh? Hey, wanna go for a match?”
+「勝負ー？　あはは、受けて立つぞー」=“A match~? Ahahah, you're on~”
+「おりゃー！」=“Take that~!”
+「おお、構えが本格的だ。もしかして経験者とか？」=“Ooh, your stance looks proper. By any chance, an actual player?”
+「卓球は体育でやったぞー」=“I did it for PE in school~”
+「なんだ、俺と同程度か。いい勝負になりそう」=“What, the same as me, huh? Looks like this is gonna be good.”
+「ふっふっふ、どうかな？　あたしの力を見せてやる」=“Fuh fuh fuh--, I wouldn't be so sure. I'll show you my real power.”
+「な？　な？　あたしの勝ちだぞー」=“See? See? I won that one~”
+「はいはい、完敗だよ」=“Yes yes, I lost.”
+「強いだろー」=“I'm strong, aren't I~”
+「基本的な身体能力の差、って感じがしたよ。[H名]は動きが鋭いよね……」=“You for sure made me feel the difference in our physical abilities. You're really good on your feet...”
+「狩りの要領だな。相手の動きを先回りするんだ」=“It's the basics of hunting. You gotta cut off your prey from the front.”
+（そんなこと言われても分からない……）=(I mean, even if you tell me that, I don't see how that's relevant...)
+「ふぅ、面白かった。またやろうなー」=“Fuh, that was fun. Let's do this again~”

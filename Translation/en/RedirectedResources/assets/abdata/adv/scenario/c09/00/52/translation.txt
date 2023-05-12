@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「調べてもらっておいてなんだけど、よく分からなかったわ。でも、美味しいから別にいいわね」=“I didn't quite understand what you were asking me to check out. But it tasted good, so I didn't mind.”
+「調べてもらっておいてなんだけど、よく分からなかったわ。でも、美味しいから別にいいわね」=“You even went and asked them for me but, I still don't understand. But it was tasty so I don't really care anymore.”
