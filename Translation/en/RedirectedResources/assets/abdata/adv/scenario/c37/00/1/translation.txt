@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そうですか、わかりました」=
-//「……えっと、返事は……？」=
-//「？　わかりました、と言ったはずですが？」=
-//「……えっと、一応、付き合ってくれるって事でいいのかな？」=
-//「はい。お互い、恋人同士という事でこれからもよろしくお願いします」=
-//「う、うん、よろしくね……？」=
+「そうですか、わかりました」=“Is that so, I understand.”
+「……えっと、返事は……？」=“...Erhm, and your reply...?”
+「？　わかりました、と言ったはずですが？」=“? I did say I understand, did I not?”
+「……えっと、一応、付き合ってくれるって事でいいのかな？」=“...Erhm, so is it fine if I take it as you being willing to go out with me?”
+「はい。お互い、恋人同士という事でこれからもよろしくお願いします」=“Yes. Let us continue as a couple from now on.”
+「う、うん、よろしくね……？」=“O-Okay, sure I guess...?”

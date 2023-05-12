@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そうですか、私とエッチがしたいのですね」=
-//「うん、付き合ってるんだし、そういった関係もそろそろと、ね……？」=
-//「私は構いません。好きな方に抱かれるなら本望ですので」=
-//「それではこの身体、ご自由にお使い下さい」=
+「そうですか、私とエッチがしたいのですね」=“Is that so, you wish to have sex with me, huh?”
+「うん、付き合ってるんだし、そういった関係もそろそろと、ね……？」=“Yep, we're a couple and stuff so, I was thinking that we could cross the next step, you know...?”
+「私は構いません。好きな方に抱かれるなら本望ですので」=“I do not mind. Being taken by the man I love is my heart's greatest desire.”
+「それではこの身体、ご自由にお使い下さい」=“Well then, please use this body of mine freely, as you see fit.”

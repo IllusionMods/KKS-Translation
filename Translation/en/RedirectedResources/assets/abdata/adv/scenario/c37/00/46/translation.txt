@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お疲れ様です、次はどんな模様に挑戦しようか、今のうち考えておきます」=
+「お疲れ様です、次はどんな模様に挑戦しようか、今のうち考えておきます」=“Thank you for your efforts, I shall plan out what sort of patterns we ought to challenge next time.”

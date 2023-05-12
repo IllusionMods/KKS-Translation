@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「卓球台があるね。ちょっと一勝負していこうか」=
-//「私の勝ち……でいいですか？」=
-//「う、うん。おかしいな……結構本気でやったんだけどな……」=
-//「あなたは動きが大きいので、球がどこに飛んでくるか分かりやすいです」=
-//「ぐ……逆に[H名]は動きが最小過ぎて……どこを狙ってるのか全然分からなかったよ……」=
-//「卓球の基本です」=
-//「そ、そうだね……えっと、もう一勝負しない？」=
-//「挑戦は歓迎です。身体も丁度いい具合に温まってきました」=
-//「よし、次こそ勝たせてもらうよ！」=
-//「勝ちました……三戦全勝です」=
-//「ダメだ……泣きの一回まで頼んだのに……勝てる気がしない」=
-//「では勝負ではなく……練習しますか？」=
-//「うん、お願い。師匠って呼ばせてもらうよ」=
-//「それは遠慮しておきます。私はあなたの恋人です」=
-//「あ、ごめん……なんかちょっと熱くなり過ぎてたかも」=
-//「くーるにいきましょう。私はあなたと卓球ができるだけで楽しいです」=
-//「そうだね！　二人で卓球を楽しもう」=
+「卓球台があるね。ちょっと一勝負していこうか」=“There's a ping pong table here. Let's have a match, shall we?”
+「私の勝ち……でいいですか？」=“Can I... take that as a win?”
+「う、うん。おかしいな……結構本気でやったんだけどな……」=“Y-Yeah. Weird... I was being pretty serious though...”
+「あなたは動きが大きいので、球がどこに飛んでくるか分かりやすいです」=“Your movements are very big so, it's easy to tell where the ball will go.”
+「ぐ……逆に[H名]は動きが最小過ぎて……どこを狙ってるのか全然分からなかったよ……」=“Guh... if anything, you move so little, [H名]... I couldn't tell at all where you were aiming...”
+「卓球の基本です」=“It's the basics of ping pong.”
+「そ、そうだね……えっと、もう一勝負しない？」=“R-Right... erhm, wanna go for another round?”
+「挑戦は歓迎です。身体も丁度いい具合に温まってきました」=“Gladly. My body has gotten fairly warmed up now as well.”
+「よし、次こそ勝たせてもらうよ！」=“Alright, I'll definitely cinch the victory this time!”
+「勝ちました……三戦全勝です」=“I have won... for the third time in a row.”
+「ダメだ……泣きの一回まで頼んだのに……勝てる気がしない」=“I can't... I even asked for a third one... I don't think I can win.”
+「では勝負ではなく……練習しますか？」=“Well then, how about we... simply practice now?”
+「うん、お願い。師匠って呼ばせてもらうよ」=“Yeah, please. I'll even call you my master.”
+「それは遠慮しておきます。私はあなたの恋人です」=“Please refrain from that. I'm your girlfriend.”
+「あ、ごめん……なんかちょっと熱くなり過ぎてたかも」=“Ah, sorry... I think I got a bit too hot there.”
+「くーるにいきましょう。私はあなたと卓球ができるだけで楽しいです」=“Let us have a calm and relaxed round. It is fun enough for me as it is, to simply play with you.”
+「そうだね！　二人で卓球を楽しもう」=“Right! Let's just enjoy it together.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「これを機に三線の購入を検討してみたいと思います」=
-//「どうなの？　そんな簡単に手に入れられるものなのかな……？」=
-//「わかりませんが、こうしてあなたと体験した縁です、帰ってからでも続けてみたいと思います」=
-//「なるほどね、その時は是非聞かせてほしいな」=
-//「もちろん、その時が来たらあなたの為に弾かせて頂きます」=
+「これを機に三線の購入を検討してみたいと思います」=“I am thinking of taking this opportunity and perhaps buying a sanshin.”
+「どうなの？　そんな簡単に手に入れられるものなのかな……？」=“How? Is it really something you can get your hands on that easily...?”
+「わかりませんが、こうしてあなたと体験した縁です、帰ってからでも続けてみたいと思います」=“I do not know but, we have the luck of practicing playing them together, so I would like to continue learning this even back at home.”
+「なるほどね、その時は是非聞かせてほしいな」=“I see, I'd love to hear you play at that time.”
+「もちろん、その時が来たらあなたの為に弾かせて頂きます」=“Of course, when that time comes, I shall gladly play for you.”

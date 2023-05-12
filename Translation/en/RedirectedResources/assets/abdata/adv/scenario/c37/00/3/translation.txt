@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……本気なんだね？」=
-//「はい、本気です」=
-//「なら、俺もその気持ちに応えてあげたいと思う」=
-//「ありがとうございます。不束者ですが、今後ともよろしくお願いいたします」=
+「……本気なんだね？」=“...You're serious, right?”
+「はい、本気です」=“Yes, I am.”
+「なら、俺もその気持ちに応えてあげたいと思う」=“In that case, I think I want to seriously accept those feelings as well.”
+「ありがとうございます。不束者ですが、今後ともよろしくお願いいたします」=“Thank you very much. I may be a handful, but please do take care of me.”

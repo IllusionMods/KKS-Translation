@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういったホテルでの食事って、恋人同士が将来を誓い合うシーンとかよくあるよね」=
-//「そうですね、定番とも思います」=
-//「どうする？　俺達も誓い合ってみる？」=
-//「それは……改めてそういった雰囲気の中で行ってもらいたいと思います」=
-//「だよね、気軽に言えるものじゃないしね……その時まで待っててもらえるかな？」=
-//「はい、勿論です」=
+「こういったホテルでの食事って、恋人同士が将来を誓い合うシーンとかよくあるよね」=“Meals at hotels like these, kinda form a backdrop to scenes where couples propose and promise themselves to each other, don't they?”
+「そうですね、定番とも思います」=“Indeed, I do think it's quite standard.”
+「どうする？　俺達も誓い合ってみる？」=“What do you wanna do? Wanna try promising our future to each other here?”
+「それは……改めてそういった雰囲気の中で行ってもらいたいと思います」=“That's... I think I would like to come here again with that sort of an idea in mind, rather than right now.”
+「だよね、気軽に言えるものじゃないしね……その時まで待っててもらえるかな？」=“Of course, it's not something to be said so lightly either... will you wait for me, until that time?”
+「はい、勿論です」=“Yes, of course.”

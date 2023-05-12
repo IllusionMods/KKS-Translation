@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「良い風ですね」=
-//「うん、静かでとても落ち着く場所だよね」=
-//「そうですね。一人では寂しさを感じてしまいますが、二人ならそれも感じませんし」=
-//「う、うん、そうだね……」=
+「良い風ですね」=“Quite the nice breeze, isn't it?”
+「うん、静かでとても落ち着く場所だよね」=“Yeah, it's a really quiet and calming place, isn't it?”
+「そうですね。一人では寂しさを感じてしまいますが、二人ならそれも感じませんし」=“Indeed. It would be very easy to feel lonely by oneself here but, that's not a problem when you have someone with you.”
+「う、うん、そうだね……」=“Y-Yeah, there's that too...”

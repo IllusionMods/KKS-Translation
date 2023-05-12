@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あなたがいれば、私はどんな事でも頑張れると思います」=
+「あなたがいれば、私はどんな事でも頑張れると思います」=“As long as you're there, I think I can manage just about anything.”

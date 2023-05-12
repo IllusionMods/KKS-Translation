@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さて……何か遊んでみたいものってある？」=
-//「いいえ、特には」=
-//「そしたら……何か適当にこっちで考えてみるけど、それでいいかな？」=
-//「はい、お任せします」=
+「さて……何か遊んでみたいものってある？」=“Now then... got anything in particular you wanna do?”
+「いいえ、特には」=“No, not really.”
+「そしたら……何か適当にこっちで考えてみるけど、それでいいかな？」=“In that case... I'm just gonna come up with something myself, you down for that?”
+「はい、お任せします」=“Yes, I shall leave it to you.”

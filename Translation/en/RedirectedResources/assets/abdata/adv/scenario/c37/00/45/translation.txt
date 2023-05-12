@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お疲れさまでした。引き続き完成を目指していきたいと思います」=
+「お疲れさまでした。引き続き完成を目指していきたいと思います」=“Thank you for your efforts. I would like to continue this until we are perfect at it.”
