@@ -9,8 +9,8 @@
 「はは……流石にそんな心配はしなくていいよ。まあ、もし伝わったとしても俺は気にしないから」=“Haha... you really don't have to worry so much. Well, even if it did spread to me, I wouldn't mind.”
 「それより、せっかくお互い愛称を考えてきたんだから、呼び合ってみようよ」=“Rather than that, since we thought of nicknames for each other, let's use them.”
 「は、はい！　それじゃあ、言いますね」=“Y-Yes! Well then, I'll say it, okay?”
-「……[Pあだ名]」=“...[Pあだ名]”
-「[Hあだ名]」=“[Hあだ名]”
+「……[Pあだ名]」=“...[Pあだ名].”
+「[Hあだ名]」=“[Hあだ名].”
 「あぁ、呼んじゃいました……私、呼んじゃいました！」=“Aah, I said it... I said it, me!”
 「なんだか面と向かうと、少し恥ずかしいね……」=“It feels a bit embarrassing, now that we've actually done it, doesn't it...”
 「はい……照れくさいですけど、とても幸せです。あの、また呼んでみても、いい、ですか？」=“Yes... I'm extremely embarrassed, but also really happy. Uhm, is it alright, if I call you that again?”

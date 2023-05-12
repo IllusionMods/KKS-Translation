@@ -22,4 +22,4 @@
 「って、先に誘ったのは俺の方なんだけどね」=“Though, I'm the one who asked you first.”
 「ふふっ、そうでしたね」=“Fufuh--, that you did.”
 「それでは……」=“Well then...”
-「うん」=“Yeah.”
+「うん」=“Yep.”
