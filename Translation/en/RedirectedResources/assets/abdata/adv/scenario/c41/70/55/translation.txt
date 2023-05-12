@@ -6,7 +6,7 @@
 「ボク、いろいろ考えてきたんだよ。でも、その中でも一番ドキドキする呼び方があって……」=“I thought of a whole lot for you. But there's one in particular that makes my heart pound...”
 「発表してもらってもいい？」=“Could you tell me what that is?”
 「うん。あ、嫌だったら正直に言ってくれていいからね？」=“Sure. Ah, if you don't like it, you can just tell me, okay?”
-「[H名]が一生懸命考えてくれたんだから、嫌なわけないよ。さっそく呼んでみてくれる？」=“You thought so hard to come up with it, [H], there's no way I wouldn't like it. Could you call me it?”
+「[H名]が一生懸命考えてくれたんだから、嫌なわけないよ。さっそく呼んでみてくれる？」=“You thought so hard to come up with it, [H名], there's no way I wouldn't like it. Could you call me it?”
 「う、うん……ねえ、[Pあだ名]」=“O-Okay... hey, [Pあだ名].”
 「何？」=“What is it?”
 「わぁ……嬉しいけど、ちょっと照れちゃう。あ、そうだ、キミもボクにつけてくれる？」=“Wah~... I'm really happy but, also a bit embarrassed. Ah, right, will you give me one too?”
