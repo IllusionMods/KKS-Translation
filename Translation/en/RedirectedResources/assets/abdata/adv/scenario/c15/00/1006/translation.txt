@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-（よし、ウムイの鐘を[H名]と一緒に鳴らそう……！）=(Right! Let's ring the Umui bell with [H名]...!)
-「どうしたー？　それ、落っこちてきそうとかかー」=“What's going on? It's like you're about to collapse, or something-”
-「っ、そ、そんなんじゃないから」=“Um, th-that's not it.”
-「あはははははは」=“Ahahahaha!”
-「なんだ、冗談だったの？」=“What, was that a joke?”
-「お見通しだぞー」=“I can see right through you-”
-「だから、本当はちょっとドキドキした。キミはあたしと一緒にこの鐘を鳴らそうとしてるんだなーと思って……」=“So, I'm actually a little excited. I was thinking about how you were going to try ringing the bell with me.”
-「……ううん、ちょっとじゃないかもしれない」=“...mmm-hmm. Maybe not 'a little' .”
-「あはは、あたしっぽくないかな」=“Ahaha, that's not me.”
-「ぽくなくないよ。[H名]が純粋な可愛い女の子だってこと、俺はちゃんと知ってるから」=“I mean, it's not a bad idea. I know you, [H名]... you're a genuinely cute and kind-hearted girl.”
-「か、可愛いかはわかんないけど、そっか」=“I-I don't know about the 'cute' part, but I see.”
-「うん、俺は[H名]との関係がいつまでも続けばいいと思ってる」=“Yeah, I wished that our relationship will go on forever, [H名].”
-「……じゃあ、あたし達ずっと仲良しだなー」=“...well, then I guess we'll always be friends.”
-「なんだか、鐘を鳴らすまでもなく答えが出ちゃったね」=“I guess I didn't need to ring the bell to get my answer.”
-「それとこれは別だ！　ここまで来たんだから、絶対に二人で鐘を鳴らすぞ」=“That's not what this is about! Now that we've gotten this far, we definitely have to ring the bell together.”
-「お、やる気満々だ」=“Oh, so motivated.”
-「女の子だからな」=“I'm a girl.”
-「わ、わかったら、ほら、一緒に鳴らさないと叶わないんだぞ」=“I-I get it. Hey, our wishes won't come true unless we ring it together.”
-「うん、一緒にお願いしよう。いつまでも二人、仲良しでいられますようにって」=“Yeah, let's make our wish together. My wish is that we can be good friends, forever.” 
+（よし、ウムイの鐘を[H名]と一緒に鳴らそう……！）=(Alright, we're gonna ring this bell together...!)
+「どうしたー？　それ、落っこちてきそうとかかー」=“What's wrong~? Ya think it's gonna fall down or something~?”
+「っ、そ、そんなんじゃないから」=“--, T-That's really not it.”
+「あはははははは」=“Ahahahahahah--”
+「なんだ、冗談だったの？」=“What, it was a joke?”
+「お見通しだぞー」=“I can see right through you, you know~”
+「だから、本当はちょっとドキドキした。キミはあたしと一緒にこの鐘を鳴らそうとしてるんだなーと思って……」=“So you know, it made my heart pound a bit. When I thought about how you wanted to ring this bell together with me, I mean...”
+「……ううん、ちょっとじゃないかもしれない」=“...No, it might have been more than just "a bit".”
+「あはは、あたしっぽくないかな」=“Ahahah, it's not like me to be like this, is it?”
+「ぽくなくないよ。[H名]が純粋な可愛い女の子だってこと、俺はちゃんと知ってるから」=“Nah, it's not not like you. I know that inside, you're a pure and adorable girl, even if others might not.”
+「か、可愛いかはわかんないけど、そっか」=“I-I don't know about adorable, but I see.”
+「うん、俺は[H名]との関係がいつまでも続けばいいと思ってる」=“Yep, I want this relationship of ours to continue forever, if possible. I'd love that.”
+「……じゃあ、あたし達ずっと仲良しだなー」=“...I guess we're gonna chummy forever then~”
+「なんだか、鐘を鳴らすまでもなく答えが出ちゃったね」=“We didn't even have to ring the bell, did we? We already know each other's answer.”
+「それとこれは別だ！　ここまで来たんだから、絶対に二人で鐘を鳴らすぞ」=“This and that are different! We came all this way here, we're not going back without ringing it.”
+「お、やる気満々だ」=“Oh, you're raring to go.”
+「女の子だからな」=“I'm a girl, afterall.”
+「わ、わかったら、ほら、一緒に鳴らさないと叶わないんだぞ」=“I-If you get it then, c'mon, we're gonna ring it together, else our wish isn't gonna come true.”
+「うん、一緒にお願いしよう。いつまでも二人、仲良しでいられますようにって」=“Yep, let's wish for it together. Wish for us to stay together forever, and just as chummy as we are.”

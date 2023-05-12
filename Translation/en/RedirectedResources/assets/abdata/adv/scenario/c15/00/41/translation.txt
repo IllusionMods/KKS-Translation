@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「一緒にのんびりできたぞ！　また一緒に遊ぼうなー」=“We were able to relax together! Let's play together again-”
+「一緒にのんびりできたぞ！　また一緒に遊ぼうなー」=“We took it easy together! Let's have fun like that again~”

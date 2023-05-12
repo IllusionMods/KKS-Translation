@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「さんきゅー！　すっげー気持ち良かったぜ」=“Thank you- That felt super nice.”
-「気持ち良かったぜ。さんきゅーな」=“That felt good. Thank you.”
-「まぁ、普通によかったと思うぜ」=“Well, I guess that was alright.”
-「なんだ？　何で塗らなかったんだ？」=“What? You're not gonna spread it on me?”
+「さんきゅー！　すっげー気持ち良かったぜ」=“Thanks~! That felt super amazing.”
+「気持ち良かったぜ。さんきゅーな」=“That felt great. Thanks~”
+「まぁ、普通によかったと思うぜ」=“Well, I think you did a pretty good job.”
+「なんだ？　何で塗らなかったんだ？」=“What? Why didn't you put it on?”

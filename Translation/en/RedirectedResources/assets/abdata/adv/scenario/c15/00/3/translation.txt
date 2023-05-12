@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「お、俺のことが好きだったの？」=“Oh, do you like me?”
-「そ、そうだぞ……ダメなのか？」=“Th-that's right... or is that no good?”
-「ダメなもんか！　俺も、[H名]の事が好きだ……付き合いたいと思ってるよ」=“No, that's not it! I like you too, [H名]... I'd like to go out with you.”
-「そうなのか！？　本当だったら嬉しいぞ？」=“Oh, for real!? I'd be happy if that was true, you know?”
-「本当だよ。俺たち、相思相愛なんだ」=“It's true. We're in love with each other.”
-「やったー！　良かった、あたしたち付き合えるんだな？　それじゃあ、よろしくな！」=“Yay! Great, that means we're going out together? Well then, I hope you'll be nice to me from now on!”
+「お、俺のことが好きだったの？」=“Y-You've been in love with me?”
+「そ、そうだぞ……ダメなのか？」=“T-That's right... should I not be?”
+「ダメなもんか！　俺も、[H名]の事が好きだ……付き合いたいと思ってるよ」=“No way! I love you too, [H名]... I want to go out with you too.”
+「そうなのか！？　本当だったら嬉しいぞ？」=“Really!? You know you just made my day, right? Don't say you didn't mean it.”
+「本当だよ。俺たち、相思相愛なんだ」=“I meant it. We love each other.”
+「やったー！　良かった、あたしたち付き合えるんだな？　それじゃあ、よろしくな！」=“Yay~! Thank god, so we can go out together, right? That's great then!”

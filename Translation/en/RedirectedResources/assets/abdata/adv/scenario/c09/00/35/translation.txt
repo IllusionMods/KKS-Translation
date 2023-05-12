@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「とんでもないパワーをもらえたわね。まさにパワースポットだわ」=“I've been given a whole bunch of power. This truly is a power spot.”
+「とんでもないパワーをもらえたわね。まさにパワースポットだわ」=“That was a whole lot of power it just poured into us. A powerspot to surpass all others, really.”

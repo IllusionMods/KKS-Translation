@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ごちそうさま。食べ慣れた味もいいものね～」=“Thanks for the meal. It was nice to have familiar food~”
+「ごちそうさま。食べ慣れた味もいいものね～」=“That was nice. The taste of home is nice too~”

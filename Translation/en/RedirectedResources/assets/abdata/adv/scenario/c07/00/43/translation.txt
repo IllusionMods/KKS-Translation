@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「……なんか、ブサイクなシーサーになっちゃうなぁ。やっぱり私の手先が不器用なのが原因か？」=“...this is turning out to kind of an ugly Shisa. I knew it... I'm just not good with my hands, you know?”
-「見本を見ずに作ってるからだよ」=“That's because you're making one without referring to an example.”
-「そうは言っても、見本通りに作るのはつまらないだろ？　やっぱりオリジナリティがなきゃダメだ」=“I mean, it's boring to just follow the example, you know? It'll be no good without some originality.”
-「オリジナリティを追求するのは、基本が出来てからだよ」=“Originality should only be pursued after you've got the basics down.”
-「まあ、そのぶさかわなシーサーは個性にあふれてるから、それでいいんじゃない？」=“But well, since that ugly-cute Shisha is filled with originality, I guess it's fine?”
-「私が作りたいのはカッコいいシーサーなんだよ！　くぅ、もう一回形を整え直すかぁ」=“My Shisa is supposed to be cool damn it! God, I'll guess I'll have to reshape it again.”
+「……なんか、ブサイクなシーサーになっちゃうなぁ。やっぱり私の手先が不器用なのが原因か？」=“...This shisa keeps turning really ugly no matter what I do. Is it because I'm all thumbs when it comes to this stuff?”
+「見本を見ずに作ってるからだよ」=“It's because you're not looking at the model we're supposed to copy.”
+「そうは言っても、見本通りに作るのはつまらないだろ？　やっぱりオリジナリティがなきゃダメだ」=“Well, that'd just be boring, no? This sorta stuff gotta have some originality in it.”
+「オリジナリティを追求するのは、基本が出来てからだよ」=“Learn to make the basic thing first, before you chase originality and uniqueness.”
+「まあ、そのぶさかわなシーサーは個性にあふれてるから、それでいいんじゃない？」=“Well, isn't that ugly cute shisa fine anyway? It's overflowing with individuality for sure.”
+「私が作りたいのはカッコいいシーサーなんだよ！　くぅ、もう一回形を整え直すかぁ」=“I wanna create a really cool one, not this! Kuh, guess I'll start all over one more time.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「やっとその気になったんだな！」=“You finally got around to it!”
+「やっとその気になったんだな！」=“You're finally in that mood, huh!”
 「やっとって……？」=“Finally...?”
-「あたしはずっと、そうしたいと思ってたんだぞ」=“I've always wanted to do this.”
-「心の準備はずっとできてたけど……その、優しくしてくれると嬉しいな」=“I've been ready, my whole life... um, I hope that you're gonna be gentle with me.”
+「あたしはずっと、そうしたいと思ってたんだぞ」=“I've wanted to do it for the longest time here myself.”
+「心の準備はずっとできてたけど……その、優しくしてくれると嬉しいな」=“My heart's been ready for this this whole time but... uhm, I hope you'll be gentle.”
