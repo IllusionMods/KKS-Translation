@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-係員さん=Attendant
+係員さん=Organizer
 「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“I shall be setting up the campfire so, please split into groups of two as you like.”
 「キャンプファイヤー？　楽しそうだね。参加しよう！」=“A campfire? Sounds kinda fun. Let's join in!”
 「あはは、自分ノリノリやん！　これで断ったら、気の毒やし……しゃーない。参加しよか」=“Ahahah, well ain'tcha excited! I'd feel bad ta rain on yer parade here too so... can't be helped. Guess I'll join too.”
