@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふふっ、最近ちょっとずつキミを理解出来るようになったみたい」=“Fufu! I think I'm starting to understand you a little better these days.”
-「本当に？　嬉しいな。俺もちょっと距離が近くなった気がするよ」=“Really? Glad to hear it. I think I'm getting a little closer to you, too.”
-「誰かと親しくなれるのって嬉しいわよね」=“It's nice to get to know someone.”
-「これからももっともっとキミと仲良くなりたいわ」=“I hope that you'll get to know me even better.”
-「もちろん。こっちからお願いしたいくらいだよ。これからもよろしくね」=“Of course. I'd like to ask that you do the same. I hope we can work together in the future.”
-「ええっ、よろしく！　それじゃ、また色々なお話聞かせてね」=“Ehh! Let's work together! Well then, I hope we'll have more to talk about.”
+「ふふっ、最近ちょっとずつキミを理解出来るようになったみたい」=“Fufu, looks like I've started understanding more and more about you recently.”
+「本当に？　嬉しいな。俺もちょっと距離が近くなった気がするよ」=“Really? That makes me happy. I too feel like we're getting closer.”
+「誰かと親しくなれるのって嬉しいわよね」=“Knowing that you're getting close to someone would make anyone happy, right?”
+「これからももっともっとキミと仲良くなりたいわ」=“I want to get along with you even more from now on.”
+「もちろん。こっちからお願いしたいくらいだよ。これからもよろしくね」=“Of course. I feel the exact same way. Please take care of me from here-on as well.”
+「ええっ、よろしく！　それじゃ、また色々なお話聞かせてね」=“Yes, same for me! Then, please keep telling me even more interesting stories from now on.”

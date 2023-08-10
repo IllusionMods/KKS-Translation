@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「こういう所こそ、本場の地元料理が食べられそうよね」=“This is the sort of place where you can get the real, local food.”
-「そうだね、地元の人が普段食べているようなものを注文してみたいね」=“You're right. I'd like to try ordering something that the locals usually eat.”
-「うんうん、あ、これなんかどう？」=“Yeah, yeah... ah, how about this one?”
-「それは……なかなかチャレンジャーだと思うけど……」=“That'll be... quite the challenge, I think...”
-「折角来たんだし、これで私達との思い出も増えるって思えば安いものでしょ？　ほらほら」=“That's the reason we're here. Isn't it a small price to pay, to make more memories together? Hey, c'mon.”
+「こういう所こそ、本場の地元料理が食べられそうよね」=“It's only in a place like this can you actually taste some actual local cuisine, isn't it?”
+「そうだね、地元の人が普段食べているようなものを注文してみたいね」=“Yeah, sometimes you just wanna try what the local people actually eat on a regular basis, don't you?”
+「うんうん、あ、これなんかどう？」=“Yepyep. Ah, how about this?”
+「それは……なかなかチャレンジャーだと思うけど……」=“That's... looks like quite the challenge, personally....”
+「折角来たんだし、これで私達との思い出も増えるって思えば安いものでしょ？　ほらほら」=“I mean, we came all this way to this island, so if you think about it as something that'll make for another great memory between us, it's a pretty good deal, no? C'mon, play along.”

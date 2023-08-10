@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「何か元気出てきたかも。また来ようね？」=“I think I'm feeling better. Let's come back, okay?”
+「何か元気出てきたかも。また来ようね？」=“Suddenly I feel a lot more energetic. Let's come here again, okay?”

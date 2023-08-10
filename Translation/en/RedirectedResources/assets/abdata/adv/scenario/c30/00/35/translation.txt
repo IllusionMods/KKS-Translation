@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「それじゃ、また二人で買い物しようね、約束よ？」=“Well then, will you promise me we'll go shopping again?”
+「それじゃ、また二人で買い物しようね、約束よ？」=“Well then, let's come shopping again soon, okay? Promise me?”

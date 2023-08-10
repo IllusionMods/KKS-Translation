@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「こういう旅先でのホテルの食べ物は安心するわね」=“When you eat at a hotel like this when you're travelling, you can be sure the food'll be safe.”
-「そうだね、地元料理が悪いとかってわけじゃないんだけどね」=“I agree. Not that there's anything wrong with the local cuisine.”
-「ある程度食べ馴染んだものが出てくるっていうのは本当にありがたいことよね」=“But, it is nice to have something that you're used to eating, once in a while.”
-「うんうん、ここなら大丈夫って場所は必ずあってほしいな」=“Yeah, yeah! I always want there to be a place that you know is safe.”
-「そうね。あ、これも頼もうかな……すいませーん」=“Right. Ah, so I guess I'll order that, too... excuse me.”
+「こういう旅先でのホテルの食べ物は安心するわね」=“Eating at a hotel like this on a trip is really relieving, isn't it?”
+「そうだね、地元料理が悪いとかってわけじゃないんだけどね」=“Yeah, not to say there's anything wrong with the local cuisine or anything.”
+「ある程度食べ馴染んだものが出てくるっていうのは本当にありがたいことよね」=“It's just really nice to see something you've actually eaten before in front of you, you know?”
+「うんうん、ここなら大丈夫って場所は必ずあってほしいな」=“Yepyep, it's always nice to have that one place you can eat at without worry.”
+「そうね。あ、これも頼もうかな……すいませーん」=“Yeah. Ah, maybe I'll order this too.... Excuse me~!”

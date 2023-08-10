@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっとお土産を見てこうよ」=“Let's take a look at the souvenirs.”
-「わわ、これなんて気になるわね。ほら、新商品だって。それにしても……こうやって改めて見ると色々な味があるのね」=“Wawa, I'm curious about this one. Hey, they say it's a new product. But then again... if you look around again, there's a bunch of different flavors.”
-「本当だ。こんなに種類があるんだね」=“Really. I didn't know there were so many kinds.”
-「ねぇ、お互いのお土産を買うならどんなものにするか考えてみない？　特別なお土産ってことで。お菓子限定でどうかしら？」=“Hey, if we're going to buy each other souvenirs, shouldn't we be thinking about what we'll get? It's gotta be a special souvenir. How about we just limit it to candy?”
-「いいね。面白そう！」=“That's fine. Sounds interesting.”
-「ふふっ。よーし、キミのセンスに期待するわ。キミは私にどんなお土産を買ってくれるのかな？」=“Fufu. Alright- I'm counting on your taste. So, what kind of souvenir are you gonna buy me?”
-「そうだなぁ……そう面と向かって聞かれると……迷うなぁ……」=“Well you know... now we're face-to-face... I'm kinda at a loss...”
-「ふふっ、私はもう決まってるわ。今、手に持ってるこれ！　新商品のミステリアス謎味よ！」=“Fufu! I've already made up my mind. I'm holding it in my hand right now! It's the new Mystery Flavor!”
-「え、ミステリアス謎味っ！？　なんでそれなの？」=“Eh, the new Mystery Flavor!? Why that?”
-「だって……キミって色々な一面があるでしょ？　恥ずかしいことを平気で言ったと思ったら、ちょっとしたことで照れたり……」=“Because... there's many sides to you, aren't there? Whenever you think you've spluttered out something embarrassing, you get a little shy...”
-「素直だなと思ったら意地っ張りな時もあるし……キミってどんな人なんだろうって、私、いつもキミのことばかり考えちゃって」=“Sometimes, I think you're being honest, and I sometimes I think you're being stubborn... I'm always wondering what kind of person you are... I think about you all the time.”
-「でもずっと一緒にいたら、少しずつわかってくるかなって。お菓子に例えるなら、たくさん食べて初めて分かる味みたいな……」=“But I'm thinking that if I stay with you for a long time, I'll gradually come to understand you. If I compared you to candy, you're like a flavor that I can only understand after eating it a lot...”
-「それって……俺の味がわかるまで、これからもずっと一緒にいようってこと？」=“So, then... you're gonna stay with me until you understand my flavor?”
-「ふふっ、正解！　こんなこと言うのは恥ずかしいけど、キミのことをもっと知りたいし、私のことももっと知って欲しいのよ」=“Fufu! Correct! It's embarrassing to say this, but I want to know more about you... and I want you to know more about me.”
-「あ……うん、そうだね。俺も同じ気持ちだよ」=“Ah... yeah, I see. I feel the same way.”
+「ちょっとお土産を見てこうよ」=“Let's go take a look at some souvenirs.”
+「わわ、これなんて気になるわね。ほら、新商品だって。それにしても……こうやって改めて見ると色々な味があるのね」=“Wawah, this is a pretty curious thing. Look, it says here it's a new product. Not to mention... now that I'm looking at it, it's got a whole lot of flavours, huh?”
+「本当だ。こんなに種類があるんだね」=“You're right. I didn't know there were this many.”
+「ねぇ、お互いのお土産を買うならどんなものにするか考えてみない？　特別なお土産ってことで。お菓子限定でどうかしら？」=“Hey, if we're gonna buy stuff for each other, how about we give it a real think? Let's make it something special, limited to just sweets, how about it?”
+「いいね。面白そう！」=“Sounds interesting!”
+「ふふっ。よーし、キミのセンスに期待するわ。キミは私にどんなお土産を買ってくれるのかな？」=“Fufuh--, alright~, I'm looking forward to seeing what you pick. Just what will you buy me?”
+「そうだなぁ……そう面と向かって聞かれると……迷うなぁ……」=“Let's see~... now that you're actually asking me... I don't know....”
+「ふふっ、私はもう決まってるわ。今、手に持ってるこれ！　新商品のミステリアス謎味よ！」=“Fufuh--, I for one already know what I'll go with. This one, in my hands! The new mystery flavour box!”
+「え、ミステリアス謎味っ！？　なんでそれなの？」=“Eh, the mystery flavour box--!? Why that?”
+「だって……キミって色々な一面があるでしょ？　恥ずかしいことを平気で言ったと思ったら、ちょっとしたことで照れたり……」=“I mean... you've got all sorts of sides to you, no? Always saying the most embarrassing things with a straight face, yet blushing at the tiniest things...”
+「素直だなと思ったら意地っ張りな時もあるし……キミってどんな人なんだろうって、私、いつもキミのことばかり考えちゃって」=“Sometimes docile, sometimes really obstinate... I always end up wondering just what sort of person you really are.”
+「でもずっと一緒にいたら、少しずつわかってくるかなって。お菓子に例えるなら、たくさん食べて初めて分かる味みたいな……」=“But also thinking that if we spend more and more time together, I'll eventually figure it out. Using sweets as an example, it's like how you only notice a specific hint after eating lots of it...”
+「それって……俺の味がわかるまで、これからもずっと一緒にいようってこと？」=“Is that... you asking me to stay with you forever, until you figure out my 'flavour'?”
+「ふふっ、正解！　こんなこと言うのは恥ずかしいけど、キミのことをもっと知りたいし、私のことももっと知って欲しいのよ」=“Fufuh--, that's right! It's embarrassing to say this but, I want to know you more, and I want you to know me more too.”
+「あ……うん、そうだね。俺も同じ気持ちだよ」=“Ah... yeah. I feel the same way.”
