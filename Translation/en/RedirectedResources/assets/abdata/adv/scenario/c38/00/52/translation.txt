@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ごちそうさまでした。それでは、またお会いしましょう」=
+「ごちそうさまでした。それでは、またお会いしましょう」=“That was very good. Well then, let's see each other again.”

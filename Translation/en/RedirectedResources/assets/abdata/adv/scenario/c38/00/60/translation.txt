@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「あの、失礼いたします……お邪魔してもよろしいでしょうか？」=
-SELECTION:「返事をする」=Respond
-SELECTION:「……」=...
-//「大丈夫だよ、どうかしたの？」=
-//「ありがとうございます……実は、少し独り寝が寂しくなってしまいまして……」=
-//「こんな夜は、貴方と一緒に過ごしたいと思いまして……来てしまいました」=
-//「……もうお休みになっているのでしょうか。残念です」=
+「あの、失礼いたします……お邪魔してもよろしいでしょうか？」=“Uhm, excuse me... could I please come inside?”
+SELECTION:「返事をする」=Answer her.
+SELECTION:「……」=....
+「大丈夫だよ、どうかしたの？」=“No problem, did something happen?”
+「ありがとうございます……実は、少し独り寝が寂しくなってしまいまして……」=“Thank you very much... the truth is, I started feeling a bit lonely sleeping all by myself...”
+「こんな夜は、貴方と一緒に過ごしたいと思いまして……来てしまいました」=“I started wanting to, spend the night with you... so I came.”
+「……もうお休みになっているのでしょうか。残念です」=“...Are you already asleep, perhaps? That's a shame.”

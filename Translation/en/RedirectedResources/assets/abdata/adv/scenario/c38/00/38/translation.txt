@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なるほど、二人乗りのカヤックでマングローブ林の中を漕ぐんですね」=
-//「うん。[H名]は、こういうの好きかなと思ってさ」=
-//「一緒に楽しみながら、研修旅行らしく勉強もできるしね」=
-//「はいっ。まさに一石二鳥ですね。ただ……」=
-「ただ？」=“However?”
-//「えっと、その……貴方と一緒に漕ぐことに夢中になり過ぎて、マングローブを観察できないかもしれません……」=
+「なるほど、二人乗りのカヤックでマングローブ林の中を漕ぐんですね」=“I see, we'll be exploring the mangroves together in a two person kayak, huh?”
+「うん。[H名]は、こういうの好きかなと思ってさ」=“Yeah. I thought you'd like this kinda thing, so.”
+「一緒に楽しみながら、研修旅行らしく勉強もできるしね」=“We can even do the 'study' part of the study tour, while having some fun on the side.”
+「はいっ。まさに一石二鳥ですね。ただ……」=“Yes--! It truly is two birds with one stone. It's just...”
+「ただ？」=“It's just?”
+「えっと、その……貴方と一緒に漕ぐことに夢中になり過ぎて、マングローブを観察できないかもしれません……」=“Erhm, uhm... I might end up getting too absorbed into rowing with you, that I might forget to look at the trees...”

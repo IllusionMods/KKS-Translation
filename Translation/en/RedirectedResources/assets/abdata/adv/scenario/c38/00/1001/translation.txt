@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここ涼しそうだし、少しゆっくりしようよ」=
-//「風が涼しくて気持ちいい……たまにはこういう場所でのんびり過ごすのもいいですね」=
-//「うん、思いっきり夏って感じだよね」=
-//「ふふっ、そうですね。こうやって団扇で扇ぎながら、海風の香りを感じて……素敵な時間です」=
-//「それに……隣には貴方もいてくれますし……」=
-//「はは、俺も嬉しい。[H名]がいてくれて」=
-//「ありがとうございます。そう言っていただけると……すごく幸せです」=
-//「きっと私にとって……今年の夏は一生忘れられない夏になりますね」=
-//「俺も同じだよ。一生忘れられない夏だと思う」=
-//「ふふっ、だったら嬉しいです。二人にとって宝物の時間……きちんと日記にも残しておきますね」=
-//「日記つけてるんだ？　どんなこと書いてるの？」=
-//「そ、それは秘密です。時々一人で見返して、にやけちゃうような内容……ですから……」=
-//「あっ、だ、だからといって、別に変なことが書いてあるわけじゃないですよ？」=
-//「その日にあった嬉しかったこととか、楽しかったこととか……そういう良いことを書き留めてるんです」=
-//「なるほど、良いことの記録かぁ……前向きになれそうでいいね。俺もやってみようかな」=
-//「ええ、ぜひぜひ。もしよろしければ、そのうち見せていただけると嬉しいです」=
-//「貴方にとって何が幸せなことなのか……私もきちんと覚えておきたいですから……」=
-//「あ、あはは、さすがにそれは恥ずかしいかも……でも……そうだなぁ。そのうち交換日記とかしてみる？」=
-//「あ……ふふっ、賛成です。そうやってお互いのことを理解し合えるカップルになれたらいいですね」=
-//（理解し合えるカップルか……[H名]らしい考え方だな）=
+「ここ涼しそうだし、少しゆっくりしようよ」=“This place is pretty cool, so let's take it easy for a bit here.”
+「風が涼しくて気持ちいい……たまにはこういう場所でのんびり過ごすのもいいですね」=“The breeze feels so nice and cool... spending some relaxing time in a place like this every so often isn't so bad either, is it?”
+「うん、思いっきり夏って感じだよね」=“Yeah, it feels like we're right in summer.”
+「ふふっ、そうですね。こうやって団扇で扇ぎながら、海風の香りを感じて……素敵な時間です」=“Fufuh--, it sure does. Fanning ourselves with these hand fans, and savouring the scent of the sea breeze... it's a wonderful moment.”
+「それに……隣には貴方もいてくれますし……」=“Not to mention... you're here as well so...”
+「はは、俺も嬉しい。[H名]がいてくれて」=“Hahah, I'm very happy since you're here too, [H名].”
+「ありがとうございます。そう言っていただけると……すごく幸せです」=“Thank you very much. Hearing you say that makes me feel... bliss.”
+「きっと私にとって……今年の夏は一生忘れられない夏になりますね」=“I'm sure I will... never forget this year's summer, for my whole life.”
+「俺も同じだよ。一生忘れられない夏だと思う」=“Same for me. It's an unforgettable summer for me too.”
+「ふふっ、だったら嬉しいです。二人にとって宝物の時間……きちんと日記にも残しておきますね」=“Fufuh--, I hope it is. Our own little slice of treasure... I'll make sure to preserve it within my diary too.”
+「日記つけてるんだ？　どんなこと書いてるの？」=“You've got a diary? What do you write in it?”
+「そ、それは秘密です。時々一人で見返して、にやけちゃうような内容……ですから……」=“T-That's a secret. It's full of things that I look back upon while, grinning like an idiot... so....”
+「あっ、だ、だからといって、別に変なことが書いてあるわけじゃないですよ？」=“Ah--, t-that's not to say that it contains weird things or anything, alright?”
+「その日にあった嬉しかったこととか、楽しかったこととか……そういう良いことを書き留めてるんです」=“Stuff that made me happy that day, or things that I found fun... that's the sort of things I write in there.”
+「なるほど、良いことの記録かぁ……前向きになれそうでいいね。俺もやってみようかな」=“I see, a record of the things you like, huh... that's a very positive and optimistic thing to do. Maybe I'll start doing it too.”
+「ええ、ぜひぜひ。もしよろしければ、そのうち見せていただけると嬉しいです」=“Yes, please do try it. And if you do, I hope you can let me see it too sometime.”
+「貴方にとって何が幸せなことなのか……私もきちんと覚えておきたいですから……」=“I want to remember it too... just what sort of thing makes you happy...”
+「あ、あはは、さすがにそれは恥ずかしいかも……でも……そうだなぁ。そのうち交換日記とかしてみる？」=“A-Ahahah, that really would be a bit embarrassing... but... I guess~. Wanna make shared diaries then?”
+「あ……ふふっ、賛成です。そうやってお互いのことを理解し合えるカップルになれたらいいですね」=“Ah... fufuh--, yes, I'd love that. It'd be nice if we could use that to grow into an understanding couple.”
+（理解し合えるカップルか……[H名]らしい考え方だな）=(An understanding couple, huh... That's so like her.)

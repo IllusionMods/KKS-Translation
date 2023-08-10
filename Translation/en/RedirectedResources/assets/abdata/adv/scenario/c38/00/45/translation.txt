@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「綺麗な染物が出来たと思います。それでは、私はこれで」=
+「綺麗な染物が出来たと思います。それでは、私はこれで」=“I think that came out quite well. Well then, I shall be off.”

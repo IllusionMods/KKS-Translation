@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「民宿の食堂って、こんなにご飯の種類が多かったんだね」=
-//「そうですね。地元の家庭料理で溢れていますね」=
-//「見たこともない料理が多いけど、どれも美味しいよ」=
-//「はい。味も不思議と、なんだか懐かしい感じがします」=
-//「これだけ美味しいと、ついついおかわりしたくなっちゃうね」=
-//「折角ですから、お腹いっぱい頂きましょう」=
+「民宿の食堂って、こんなにご飯の種類が多かったんだね」=“I didn't know that the lodge's diner had this many dishes.”
+「そうですね。地元の家庭料理で溢れていますね」=“Indeed. It's overflowing with homely charm, isn't it?”
+「見たこともない料理が多いけど、どれも美味しいよ」=“There's lots that I've never seen before but, they all look delicious.”
+「はい。味も不思議と、なんだか懐かしい感じがします」=“Yes. The taste feels mysterious, yet somehow nostalgic as well.”
+「これだけ美味しいと、ついついおかわりしたくなっちゃうね」=“With how delicious it is, you just can't help but wanna go for seconds, can you?”
+「折角ですから、お腹いっぱい頂きましょう」=“Indeed. We might as well just eat as much as we want today.”

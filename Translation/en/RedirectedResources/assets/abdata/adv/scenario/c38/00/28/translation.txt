@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「貴方の部屋に入った以上、ただ帰るのはどうかと思うのですが……」=
-//「うん…せっかくだから、エッチしようよ」=
-//「貴方からのお誘いですから……お断りするわけにはまいりません」=
-//「できれば、素敵な時間にして下さいね」=
+「貴方の部屋に入った以上、ただ帰るのはどうかと思うのですが……」=“I've come all the way up to your room so, simply going back would be a bit...”
+「うん…せっかくだから、エッチしようよ」=“Yeah... well then, since you're here, let's have sex.”
+「貴方からのお誘いですから……お断りするわけにはまいりません」=“It's an invite from you... so I couldn't possibly say no.”
+「できれば、素敵な時間にして下さいね」=“If possible, please show me a wonderful time, okay?”

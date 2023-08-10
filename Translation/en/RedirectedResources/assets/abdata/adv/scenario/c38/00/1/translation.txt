@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あの……今のは、もしかして……私に対しての告白、なのでしょうか？」=
-//「そうだよ、俺は[H名]と付き合いたいと思ってる」=
-//「ありがとう、御座います……私も、貴方の事が好きです」=
-//「そうなんだね、良かった……それじゃあ、返事は……」=
-//「もちろん、お受けします。ぜひ、お付き合いさせて下さい」=
-//「あぁ、貴方と恋人同士になれるなんて、夢みたいです」=
+「あの……今のは、もしかして……私に対しての告白、なのでしょうか？」=“Uhm... was that, just now... a confession, aimed towards me?”
+「そうだよ、俺は[H名]と付き合いたいと思ってる」=“That's right, I want to go out with you, [H名].”
+「ありがとう、御座います……私も、貴方の事が好きです」=“Thank you, very much... I love you, as well.”
+「そうなんだね、良かった……それじゃあ、返事は……」=“You do, huh? Great... well then, your answer...”
+「もちろん、お受けします。ぜひ、お付き合いさせて下さい」=“Of course, it's a yes. Please let me go out with you.”
+「あぁ、貴方と恋人同士になれるなんて、夢みたいです」=“Aah, I can't believe we're a couple, it's like a dream.”

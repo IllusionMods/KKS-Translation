@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ひゃっ！？　何をしているんですか！？　まさか、こんなに常識がない人だったなんて……」=
+「ひゃっ！？　何をしているんですか！？　まさか、こんなに常識がない人だったなんて……」=“Hyah--?! What are you doing?! To think, you were so lacking in common sense...”
