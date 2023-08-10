@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うぅ、もうへとへとよ……動けないわ……ずっと体ビクビクしてるし。もう、少し甘えさせなさいっ」=
+「うぅ、もうへとへとよ……動けないわ……ずっと体ビクビクしてるし。もう、少し甘えさせなさいっ」=“Uuu, I'm beat... I can't move... my body won't stop twitching either--. Jeez, let me act a bit spoiled here--”

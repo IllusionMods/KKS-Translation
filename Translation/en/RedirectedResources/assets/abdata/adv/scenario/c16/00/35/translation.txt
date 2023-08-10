@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「神様、いるといいわね。それじゃあ、また一緒に出かけましょう」=
+「神様、いるといいわね。それじゃあ、また一緒に出かけましょう」=“It'd be nice if there actually is a god that heard us. Let's go out somewhere like that again soon.”

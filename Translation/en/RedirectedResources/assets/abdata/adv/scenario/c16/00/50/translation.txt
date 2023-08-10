@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どれもこれも、全部美味しいね」=
-//「本当ね。ネットの評価も高いんじゃないかしら」=
-//「ネットにはあんまり載ってないみたい。お客さんは地元の人が多いんじゃないかな」=
-//「なるほど。そういうお店が、本当の名店なのかもしれないわね」=
+「どれもこれも、全部美味しいね」=“It's all very good, isn't it?”
+「本当ね。ネットの評価も高いんじゃないかしら」=“It really is. Shouldn't this place have some pretty good reviews too?”
+「ネットにはあんまり載ってないみたい。お客さんは地元の人が多いんじゃないかな」=“Apparently not. The usual customers are probably just locals no?”
+「なるほど。そういうお店が、本当の名店なのかもしれないわね」=“I see. In a way, maybe it's restaurants like these that are the actually famous ones.”

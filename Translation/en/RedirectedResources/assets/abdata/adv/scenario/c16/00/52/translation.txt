@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なんとか食べきれたみたいね。それじゃあ、また」=
+「なんとか食べきれたみたいね。それじゃあ、また」=“I see you managed to finish it. Well then, later.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「粘土を捏ねるのって、楽しいよね」=
-//「ええ。でもけっこう力がいるから、難しいわね」=
-//「あんまり気負わずに作ればいいんじゃないの」=
-//「そうは言っても、やっぱりしっかりした物が作りたいから」=
-//「俺は一緒に体験できれば、それで楽しいけどね」=
-//「楽しいか、楽しくないかで言えば、もちろん私だって楽しいに決まってるわ」=
+「粘土を捏ねるのって、楽しいよね」=“It's pretty fun to knead clay, isn't it?”
+「ええ。でもけっこう力がいるから、難しいわね」=“Yes. But it takes a lot of strength so, it's pretty hard.”
+「あんまり気負わずに作ればいいんじゃないの」=“Do you have to get that meticulous with it? Just make it however you like.”
+「そうは言っても、やっぱりしっかりした物が作りたいから」=“I want to, but in the end I want to make a proper thing more.”
+「俺は一緒に体験できれば、それで楽しいけどね」=“For me, it's fun as long as we're doing something together, so I don't really care.”
+「楽しいか、楽しくないかで言えば、もちろん私だって楽しいに決まってるわ」=“I mean, if we're talking about fun then I'm having fun too, of course.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そ、そうよね……恋人同士なのだから、そうなるのは当たり前のことね」=
-//「どうかな、嫌だったりする？」=
-//「嫌なわけないじゃない……私は、アナタの彼女なのよ」=
-//「それに……私だって、そういう事に少し期待していたから……」=
-//「でも……その、初めてだから……優しく、してね」=
+「そ、そうよね……恋人同士なのだから、そうなるのは当たり前のことね」=“O-Of course... we're a couple so, that's just a natural step, isn't it?”
+「どうかな、嫌だったりする？」=“How about it? Do you not want to?”
+「嫌なわけないじゃない……私は、アナタの彼女なのよ」=“How could I not want to... I'm your girlfriend, you know.”
+「それに……私だって、そういう事に少し期待していたから……」=“Not to mention... I've been, looking forward to this sort of thing too...”
+「でも……その、初めてだから……優しく、してね」=“But... I'm uhm, a virgin so... be, gentle, okay?”

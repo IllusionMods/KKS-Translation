@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カヤック、大変そうだなぁ」=
-//「何を言ってるの？　マングローブ林でカヤックに乗るのが醍醐味なんじゃない」=
-//「そんなに近づいて見なくてもいいと思うんだけど」=
-//「ダメよ、これは研修なんだからしっかり観察しないと」=
-//「俺は遊びのつもりだったんだけどね……」=
-//「遊びでも、真剣にやらないと身に付かないわ。さぁ、行くわよ」=
+「カヤック、大変そうだなぁ」=“Kayaking sure seems like a pain though~”
+「何を言ってるの？　マングローブ林でカヤックに乗るのが醍醐味なんじゃない」=“What're you saying? Half the fun of all these mangroves is being able to ride a kayak between them.”
+「そんなに近づいて見なくてもいいと思うんだけど」=“I really don't think we need to look at them from that up close.”
+「ダメよ、これは研修なんだからしっかり観察しないと」=“Get a grip, we're here on a study tour, we have to do our part too.”
+「俺は遊びのつもりだったんだけどね……」=“I wanted to just have fun today though...”
+「遊びでも、真剣にやらないと身に付かないわ。さぁ、行くわよ」=“Even fun is something you won't enjoy unless you experience it with your body. Come on now, we're going.”

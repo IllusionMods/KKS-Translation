@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どれもいい料理だったわね。それじゃあ」=
+「どれもいい料理だったわね。それじゃあ」=“They were all very nice dishes, weren't they? See you then.”

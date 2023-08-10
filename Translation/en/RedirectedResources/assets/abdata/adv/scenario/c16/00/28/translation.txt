@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱり、このまま帰らせる気はないのよね？」=
-//「まぁね……折角俺の部屋で[H名]と二人っきりなんだし……」=
-//「なら、教えてあげる……」=
-//「私も実は期待していたのよ？　フフッ」=
+「やっぱり、このまま帰らせる気はないのよね？」=“You're not going to just let me go back like this, are you?”
+「まぁね……折角俺の部屋で[H名]と二人っきりなんだし……」=“Yeah... we're finally alone together, in my room of all places...”
+「なら、教えてあげる……」=“Then, I'll show you...”
+「私も実は期待していたのよ？　フフッ」=“I was hoping for this too, you know? Fufuh--”

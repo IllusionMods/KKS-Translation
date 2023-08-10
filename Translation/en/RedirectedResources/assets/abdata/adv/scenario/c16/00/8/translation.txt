@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃあ、私は先に出てるから……また後で会いましょう」=
+「それじゃあ、私は先に出てるから……また後で会いましょう」=“Well then, I'll head out first... let's see each other later.”

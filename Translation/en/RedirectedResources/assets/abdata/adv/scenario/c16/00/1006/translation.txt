@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//（よし、[H名]とウムイの鐘を鳴らすぞ……！）=
-//「アナタって意外と信心深いタイプだったのね」=
-//「……すごく出鼻を挫かれた気分だよ。この鐘のこと、知ってるよね？」=
-//「知っているし、アナタと一緒に鳴らすのはロマンチックで素敵なことだとは思っているわ」=
-//「けど、アナタの横顔があまりに緊張していたから。……ねぇ、このジンクスをどこまで信じているの？」=
-//「どこまでって聞かれると悩むけど……この鐘を鳴らすと必ず結ばれるとか言われたら、信じたくなるかな」=
-//「結ばれたら困るって意味で、顔を強張らせているということ？」=
-//「わざとでしょ？　意地悪言うのはやめてよ」=
-//「フフッ、ごめんなさい」=
-//「ただ、釘くらいは差させて？　神頼みで『はい、これで私達は結ばれます』なんていうのは安易よ」=
-//「ジンクスを本当にするのは、これからの私達ってことは忘れないで」=
-//「それはまあ、グウの音も出ないほどにそうです。ハイ」=
-//「いつの間にか敬語になってない？　私、ガミガミ言い過ぎてしまったかしら……」=
-//「そうやって我に返ってしょんぼりしちゃうところまで、パターン化してきてるかも」=
-//「パターンとか言わないで。つまらないこと言った私への仕返し？」=
-//「あははは」=
-//「意地悪ね。いいわ、もう鳴らさない」=
-//「ごめんごめん、せっかく来たんだから鳴らそうよ。神頼みが嫌ならお互いに誓うってことで」=
-//「なんて誓うの？」=
-//「ずっと一緒にいようね、って」=
-//「ずっと……ね。構わないけど、こんな私にずっと張り付かれて、息が詰まっても知らないわよ？」=
-//「息が詰まったことなんて今のとこ一回もないよ。さ、一緒に」=
+（よし、[H名]とウムイの鐘を鳴らすぞ……！）=(Alright, I'm gonna ring this bell with her...!)
+「アナタって意外と信心深いタイプだったのね」=“I didn't take you for the religious type, you know?”
+「……すごく出鼻を挫かれた気分だよ。この鐘のこと、知ってるよね？」=“...You know, you really know how to take the wind out of someone's sails. You know about this bell, right?”
+「知っているし、アナタと一緒に鳴らすのはロマンチックで素敵なことだとは思っているわ」=“Not only that, I think of it as a pretty romantic and lovely thing for us to do together.”
+「けど、アナタの横顔があまりに緊張していたから。……ねぇ、このジンクスをどこまで信じているの？」=“But, you looked just so nervous from the side. ...Hey, how much do you believe in this bell?”
+「どこまでって聞かれると悩むけど……この鐘を鳴らすと必ず結ばれるとか言われたら、信じたくなるかな」=“I don't think I can answer exactly "how much" but... hearing that ringing this bell together will tie our fates and lead to us marrying someday, does make me want to believe in it.”
+「結ばれたら困るって意味で、顔を強張らせているということ？」=“So is that why you were so stiff? Because you don't like the idea of being married to me?”
+「わざとでしょ？　意地悪言うのはやめてよ」=“Now you're just doing it on purpose, aren't you? C'mon, quit being mean.”
+「フフッ、ごめんなさい」=“Fufuh--, I'm sorry.”
+「ただ、釘くらいは差させて？　神頼みで『はい、これで私達は結ばれます』なんていうのは安易よ」=“But, let me just say this, okay? Leaving stuff like this up to some sort of god is too irresponsible, you know?”
+「ジンクスを本当にするのは、これからの私達ってことは忘れないで」=“The only ones who can make it come true are us, don't forget that.”
+「それはまあ、グウの音も出ないほどにそうです。ハイ」=“That's, well. It's as you say, indeed. I cannot refute it at all. No ma'am.”
+「いつの間にか敬語になってない？　私、ガミガミ言い過ぎてしまったかしら……」=“Now, why are you being like that? Was I being a bit too naggy there...”
+「そうやって我に返ってしょんぼりしちゃうところまで、パターン化してきてるかも」=“And just like that you're back to normal and getting depressed. You sure it's not turning into your pattern?”
+「パターンとか言わないで。つまらないこと言った私への仕返し？」=“Don't call it a pattern, jeez. Are you getting back at me for saying something so pointless?”
+「あははは」=“Ahahahah.”
+「意地悪ね。いいわ、もう鳴らさない」=“So mean to your girlfriend. Alright then, I'm not ringing it anymore.”
+「ごめんごめん、せっかく来たんだから鳴らそうよ。神頼みが嫌ならお互いに誓うってことで」=“Sorry, sorry. We came all the way here, so let's ring it. If you don't like asking for some god's blessing, let's vow to each other instead.”
+「なんて誓うの？」=“And what vows would that be?”
+「ずっと一緒にいようね、って」=“Let's stay together forever".”
+「ずっと……ね。構わないけど、こんな私にずっと張り付かれて、息が詰まっても知らないわよ？」=“Forever... huh? I don't personally mind but, don't blame me if you start regretting it later, okay?”
+「息が詰まったことなんて今のとこ一回もないよ。さ、一緒に」=“I haven't regretted it once yet, I'll take my chances. C'mon, we have to do it together.”

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「海が綺麗だと、ただ散歩するだけでも気分がいいね」=
-//「ここの砂、一体何でできてるのかしら？　多分サンゴか貝殻だと思うのだけど……」=
-//「潮風も気持ちいいし、波も穏やかだよ」=
-//「所々砂に穴が開いてるわね。何か生物の巣穴かしら……」=
-//「ねぇ、海、見てる？」=
-//「え、見てるわよ？　本当に綺麗ね」=
-//「あ……うん、そうだね」=
+「海が綺麗だと、ただ散歩するだけでも気分がいいね」=“When the sea is this pretty, even just taking a walk feels great, doesn't it?”
+「ここの砂、一体何でできてるのかしら？　多分サンゴか貝殻だと思うのだけど……」=“I wonder what the sand here is made out of? I'm fairly sure the sea shells are all corals but...”
+「潮風も気持ちいいし、波も穏やかだよ」=“The sea breeze feels so great too, and the waves are so relaxing.”
+「所々砂に穴が開いてるわね。何か生物の巣穴かしら……」=“There's a whole lot of holes all along the beach too. I wonder if they're little nests...”
+「ねぇ、海、見てる？」=“Hey, are you looking at the sea?”
+「え、見てるわよ？　本当に綺麗ね」=“Eh? I am, you know. It really is pretty.”
+「あ……うん、そうだね」=“Ah... yeah, it is.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「一気に男女の反応が見られるなんて、凄く贅沢な体験だったわ……よければ、またしましょう？」=
+「一気に男女の反応が見られるなんて、凄く贅沢な体験だったわ……よければ、またしましょう？」=“Being able to see both a man and a woman's reaction at the same time, such a lavish experience... let's do this again sometime?”
