@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「あら、シーサーって雄雌の概念があったのね」=“Oh, I didn't know there was a concept of male and female Shisas.”
-「そうみたい、口が開いてるか閉じてるか、向きが右なのか左なのか、といろいろあるね」=“Yeah, you can tell by it whether the mouth is opened or not, whether it's facing left or right, and so on.”
-「なら、私は雌のシーサーを作ろうかしら。で、あなたは雄ね？」=“Then maybe I'll make a female Shisa. And yours will be a male?”
-「うん、いいよ」=“Yeah, that's fine.”
-「ふふっ、可愛い夫婦シーサーを作りましょ？」=“Fufu, let's make a cute Shisa husband and wife okay?”
+「あら、シーサーって雄雌の概念があったのね」=“Oh my, so shisas come in male and female, huh?”
+「そうみたい、口が開いてるか閉じてるか、向きが右なのか左なのか、といろいろあるね」=“Seems like it. Whether their mouth is open or closed, whether they're facing left or right, there's all kinds of things.”
+「なら、私は雌のシーサーを作ろうかしら。で、あなたは雄ね？」=“I suppose I'll make a female one then. And you a male, okay?”
+「うん、いいよ」=“Yeah, sure.”
+「ふふっ、可愛い夫婦シーサーを作りましょ？」=“Fufuh--, let's make a cute and adorable couple, okay?”

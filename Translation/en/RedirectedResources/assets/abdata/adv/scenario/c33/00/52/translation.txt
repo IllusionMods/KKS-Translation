@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふぅ、美味しかったわね。中々当たりだったと思うわ」=“Phew, that was delicious. You picked a good one.”
+「ふぅ、美味しかったわね。中々当たりだったと思うわ」=“Fuh, that was delicious, wasn't it? I think you were right on the money there.”

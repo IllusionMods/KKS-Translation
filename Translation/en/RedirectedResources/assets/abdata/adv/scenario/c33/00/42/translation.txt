@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「三線って弾くのは難しいのかしら？」=“I wonder if it's difficult to play the sanshin?”
-「シンプルなように見えて、実際綺麗な音を出そうとすると難しそうだよね」=“It looks so simple, but it's really hard to make it sound good, isn't it?”
-「まぁ、弾いてみないと始まらないし、練習あるのみよね」=“Well, you won't know until you start, so you'll just have to practice.”
-「うん、頑張って慣れていこう」=“Yeah, let's do our best, and get accustomed to it.”
+「三線って弾くのは難しいのかしら？」=“Is it difficult to play a sanshin?”
+「シンプルなように見えて、実際綺麗な音を出そうとすると難しそうだよね」=“It does seem like the sort of "easy to learn, hard to master" instrument, doesn't it?”
+「まぁ、弾いてみないと始まらないし、練習あるのみよね」=“Well, we won't get anywhere if we don't actually play it so, I suppose it's just a matter of practice, isn't it?”
+「うん、頑張って慣れていこう」=“Yep, let's do our best and learn it.”

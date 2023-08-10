@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「いい感じに作れてきたわね。完成が楽しみだわ」=“You're starting to make it look good. I look forward to seeing it when it's done.”
+「いい感じに作れてきたわね。完成が楽しみだわ」=“We made some really nice ones, didn't we? I can't wait to see them baked.”
