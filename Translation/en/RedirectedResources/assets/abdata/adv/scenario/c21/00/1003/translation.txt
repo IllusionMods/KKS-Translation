@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねえ、お土産を見てみない？」=
-//「見て見て、ちんすこう！　ここのお土産っていったらこれは外せないでしょ！」=
-//「そうだね、あとはこっちの紅芋のとか、黒糖チョコとかはどう？」=
-//「うーん……そっちも美味しそうだけど、渡す人が多いからちんすこうで統一した方がいいかな～」=
-//「え、そんなに多いの？」=
-//「うん、家族の分でしょ。それから近所の子でしょ、おばあちゃんにも買っていきたいし……あー、やっぱりちんすこうでお小遣い使い切っちゃう」=
-//「こういうとき大人だったらな～って思うよね。大人買いして、みんなにいろんなもの買って帰れるもん」=
-//「俺はもう[H名]は大人だと思うけどね」=
-//「え？　なんで？　ぜんぜんだよ？」=
-//「いやいや、尊敬するよ」=
-//「ここから送ってもらえるなんて便利だね！　頑張って持って帰らなくちゃって覚悟してたんだ」=
-//「もしそうなってたら、かなり嵩張っただろうね。とりあえずこれでお土産はバッチリだね」=
-//「うんっ！　……あ♪　キミも家族へのお土産にしちゃおうかな。帰ったら、家に連れてって家族に紹介しちゃったりして♪」=
-//「おおう、急にビッグイベントが……覚悟しておくよ」=
+「ねえ、お土産を見てみない？」=“Hey, wanna look at some souvenirs?”
+「見て見て、ちんすこう！　ここのお土産っていったらこれは外せないでしょ！」=“Look look, chinsukou! You can't forget about these when you come down all the way here, can you!”
+「そうだね、あとはこっちの紅芋のとか、黒糖チョコとかはどう？」=“Yeah, and how about these purple sweet potatoes, and this brown sugar chocolate?”
+「うーん……そっちも美味しそうだけど、渡す人が多いからちんすこうで統一した方がいいかな～」=“Nnn... those look delicious too but, I have to give them to a lot of people so buying a whole bunch of chinsukou would be better~”
+「え、そんなに多いの？」=“Eh, that many people?”
+「うん、家族の分でしょ。それから近所の子でしょ、おばあちゃんにも買っていきたいし……あー、やっぱりちんすこうでお小遣い使い切っちゃう」=“Yeah, I mean, there's my family, right? Then there's the girls from my neighbourhood, right? And I want to save some for grandma too... ah~, my allowance is gonna be spent on just chinsukou.”
+「こういうとき大人だったらな～って思うよね。大人買いして、みんなにいろんなもの買って帰れるもん」=“It's at times like these that you feel jealous of grown ups, isn't it~? I could buy a bunch of everything and take it back home for everyone.”
+「俺はもう[H名]は大人だと思うけどね」=“I think you're already pretty grown up though, [H名].”
+「え？　なんで？　ぜんぜんだよ？」=“Eh? Why? I'm not at all, you know?”
+「いやいや、尊敬するよ」=“No no, I respect you a lot.”
+「ここから送ってもらえるなんて便利だね！　頑張って持って帰らなくちゃって覚悟してたんだ」=“That's so convenient that they deliver it for you! I was preparing to take it all the way back home by myself.”
+「もしそうなってたら、かなり嵩張っただろうね。とりあえずこれでお土産はバッチリだね」=“That'd get real unwieldy real fast, so I'm not surprised. Anyways, that's your souvenirs sorted then, huh?”
+「うんっ！　……あ♪　キミも家族へのお土産にしちゃおうかな。帰ったら、家に連れてって家族に紹介しちゃったりして♪」=“Yeah--! ...Ah♪ Maybe I'll take you home to my family as a souvenir too. We could introduce you, you know♪”
+「おおう、急にビッグイベントが……覚悟しておくよ」=“Oooh, a sudden big event... I'll prepare myself.”

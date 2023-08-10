@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お散歩、楽しかったよ。それじゃあ、またね」=
+「お散歩、楽しかったよ。それじゃあ、またね」=“That was a fun walk, wasn't it? See you later then.”

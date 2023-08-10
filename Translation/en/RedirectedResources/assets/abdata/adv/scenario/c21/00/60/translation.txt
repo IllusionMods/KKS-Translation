@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねぇ、キミの部屋まで来ちゃったんだけど、入っても大丈夫？」=
-SELECTION:「返事をする」=Respond
-SELECTION:「……」=...
-「どうしたの？」=“What's up?”
-//「えっとね……キミと、一緒に過ごしたいなぁって思って……」=
-//「エッチな事しても大丈夫だから……好きにしていいよ」=
-//「なんだ、いないのかぁ……しょうがない、また今度にしよ」=
+「ねぇ、キミの部屋まで来ちゃったんだけど、入っても大丈夫？」=“Hey, I came all the way here, can I come in?”
+SELECTION:「返事をする」=Answer her.
+SELECTION:「……」=.......
+「どうしたの？」=“What's wrong?”
+「えっとね……キミと、一緒に過ごしたいなぁって思って……」=“Erhm, so... I just wanted to, spend the night in your room...”
+「エッチな事しても大丈夫だから……好きにしていいよ」=“You can do lewd stuff to me if you want... really, have your way with me.”
+「なんだ、いないのかぁ……しょうがない、また今度にしよ」=“What, you're not in?... It can't be helped, I'll come another time.”

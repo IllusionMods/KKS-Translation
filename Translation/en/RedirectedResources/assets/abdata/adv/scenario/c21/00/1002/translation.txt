@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「卓球台があるし、一勝負しない？」=
-//「ラリーじゃなくて一勝負？　言っておくけど、私けっこう強いよ？」=
-//「え、そうなの？　それじゃ、[H名]サーブからでいいよ」=
-//「オッケー♪　コテンパンにしちゃうね！」=
-//「あははっ、またスマッシュ決めちゃった♡」=
-//「つ、強い……！」=
-//「小さい頃から子供会で鍛えられてるんだよね～。他にもボウリングとかバスケとかもそこそこやれちゃうんだから」=
-//「子供会って、近所の子供たちが保護者たちといろいろやるやつ？」=
-//「近所っていうか、その地区？　男の子も女の子もごちゃ混ぜで、いろいろ遊んでたよ」=
-//「年頃の男女がごちゃ混ぜで！？　それ恋愛に発展するやつじゃ……」=
-//「本当に小っちゃい頃の話だよ？　私の初恋も初彼氏くんもキミなんだから安心してね♪」=
-//「欲張りだとは思うけど、正直ほっとしてる」=
-//「私、昔から少女漫画にどっぷりで運命的な出会いに憧れてたから、地区の男の子とか全然興味なかったな～」=
-//「そこら辺の石ころみたいな俺だけど、運命の相手になれてますか？」=
-//「も～、私から見たら宝石みたいな男の子だよ♪　これからも運命の相手同士、よろしくね♡」=
-//「是非是非、こちらこそだよ」=
+「卓球台があるし、一勝負しない？」=“They've got a ping pong table here, wanna go for a round?”
+「ラリーじゃなくて一勝負？　言っておくけど、私けっこう強いよ？」=“Not a rally, but a round? I'll say it in advance, but I'm pretty good at this, you know?”
+「え、そうなの？　それじゃ、[H名]サーブからでいいよ」=“Eh, really? You can have the first serve then, [H名].”
+「オッケー♪　コテンパンにしちゃうね！」=“Okay~♪ You're gonna get beaten to a pulp, mister!”
+「あははっ、またスマッシュ決めちゃった♡」=“Ahahah--, I got another smash in♡”
+「つ、強い……！」=“S-So tough!....”
+「小さい頃から子供会で鍛えられてるんだよね～。他にもボウリングとかバスケとかもそこそこやれちゃうんだから」=“I've been training my ping pong at gatherings ever since I was a good, you know~? I'm also pretty decent at bowling and basketball and whatnot.”
+「子供会って、近所の子供たちが保護者たちといろいろやるやつ？」=“Gatherings? You mean the sort where the parents from the neighbourhood would get all their kids together to do stuff?”
+「近所っていうか、その地区？　男の子も女の子もごちゃ混ぜで、いろいろ遊んでたよ」=“More like the entire district, for us? They'd throw all of us boys and girls together, and have us play games and whatnot.”
+「年頃の男女がごちゃ混ぜで！？　それ恋愛に発展するやつじゃ……」=“Boys and girls of age, thrown together?! Isn't that the sort of thing that leads to love...”
+「本当に小っちゃい頃の話だよ？　私の初恋も初彼氏くんもキミなんだから安心してね♪」=“I'm talking about when I was really little, you know? Like tiny. You're my first boyfriend and the first guy I even fell in love with, so don't worry♪”
+「欲張りだとは思うけど、正直ほっとしてる」=“I realize it's being a bit too clingy of me, but I do feel relieved.”
+「私、昔から少女漫画にどっぷりで運命的な出会いに憧れてたから、地区の男の子とか全然興味なかったな～」=“I used to be basically addicted to shoujo manga as a kid so I always dreamed of a fateful meeting with my future beloved, so I didn't pay any attention to the boys from those gatherings at all~”
+「そこら辺の石ころみたいな俺だけど、運命の相手になれてますか？」=“I'm like a random pebble off the street though, you sure I fit that bill?”
+「も～、私から見たら宝石みたいな男の子だよ♪　これからも運命の相手同士、よろしくね♡」=“Jeez~, to me you're a gem♪ We're fated together, okay? You got it?♡”
+「是非是非、こちらこそだよ」=“Loud and clear.”

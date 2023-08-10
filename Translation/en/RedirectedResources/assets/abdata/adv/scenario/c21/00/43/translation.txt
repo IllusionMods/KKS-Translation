@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線って、結構難しいね」=
-//「うん。でも、音が出せるだけで楽しいよ」=
-//「そうだね。これでちゃんと演奏になってればいいんだけど」=
-//「何となくノリで弾いてれば、演奏っぽい感じがするよ」=
-//「でもそれ、同じ曲、二度と弾けないでしょ？」=
-//「確かに……さっきどうやって弾いてたか覚えてないもんね」=
+「三線って、結構難しいね」=“Playing a sanshin is pretty hard, huh?”
+「うん。でも、音が出せるだけで楽しいよ」=“Yeah. But it's fun to just make sounds with it.”
+「そうだね。これでちゃんと演奏になってればいいんだけど」=“Yeah. I hope this actually counts as an 'experience' though.”
+「何となくノリで弾いてれば、演奏っぽい感じがするよ」=“As long as we really get into it and play them, it'll turn into a proper one, atleast I think so.”
+「でもそれ、同じ曲、二度と弾けないでしょ？」=“But we won't be able to recreate that same performance again, no?”
+「確かに……さっきどうやって弾いてたか覚えてないもんね」=“You're not wrong... I don't remember how I played it earlier, afterall.”

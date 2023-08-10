@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういう作業って、無言で集中しちゃうよね」=
-//「うん。やるからには綺麗に仕上げたいもんね」=
-//「あ、ちょっとはみ出しちゃった」=
-//「大丈夫だよ。それぐらいなら多分落ちるから」=
-//「なんか、かなり慣れてきてるんじゃないの？」=
-//「頑張って仕上げて、キミにプレゼントしたいからね、えへへ」=
+「こういう作業って、無言で集中しちゃうよね」=“Stuff like this really makes you just focus in silence, doesn't it?”
+「うん。やるからには綺麗に仕上げたいもんね」=“Yeah. Since we're already doing it, we might as well do it properly, afterall.”
+「あ、ちょっとはみ出しちゃった」=“Ah, I messed up a bit.”
+「大丈夫だよ。それぐらいなら多分落ちるから」=“Don't worry. I think that much is fine.”
+「なんか、かなり慣れてきてるんじゃないの？」=“Is it just me or are you pretty used to doing this stuff?”
+「頑張って仕上げて、キミにプレゼントしたいからね、えへへ」=“I just wanna finish it up nicely so that I can gift it to you, eheheh.”

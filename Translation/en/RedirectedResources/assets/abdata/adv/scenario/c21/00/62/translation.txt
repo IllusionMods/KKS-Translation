@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃあ、頑張ってオイル塗りさせてもらおうかな」=
-//「うん、お願いね……あとね、前の方にも、塗っていいから」=
-//「前にも？　わかった、綺麗に塗るよ」=
-//「ありがとう……前は、あんまり強く塗らないでね」=
-//「了解。全身を丁寧に塗らせてもらうよ」=
+「それじゃあ、頑張ってオイル塗りさせてもらおうかな」=“Well then, I guess I'll rub it on you again.”
+「うん、お願いね……あとね、前の方にも、塗っていいから」=“Yep, please... also, you can do the front too, if you want.”
+「前にも？　わかった、綺麗に塗るよ」=“The front too? Got it, I'll do it really nicely.”
+「ありがとう……前は、あんまり強く塗らないでね」=“Thanks... don't put too much, strength into it though, okay?”
+「了解。全身を丁寧に塗らせてもらうよ」=“Roger. I'll be really careful with your whole body.”

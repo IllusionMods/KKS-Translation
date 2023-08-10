@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少し浜辺を歩かない？」=
-//「あ、私も同じこと考えてた！　やっぱり南の島でデートするなら海辺で散歩したいよね。一緒に歩こっ♪」=
-//「波の音が気持ちいいね～……あ、こういうときは心地いいっていうのかな？」=
-//「気持ちいいし心地いいよね。地元だと味わえないっていうか……」=
-//「うんっ、だよね！　それに、私たちの距離もぐっと近づいたよね。南の島効果かな？」=
-//「だね、暑いから開放的になってるんじゃないかな」=
-//「あはっ♪　それじゃふたりとも、南の島の魔法にかかっちゃったんだね♪」=
-//「まさに魔法だなぁ、おかげで[H名]と付き合えたしね」=
-//「告白のときはすごく恥ずかしかったけど、なんだか私たちらしかったよね」=
-//「うん、いま思い出しても顔が熱くなるけど、俺たちらしかったと思う」=
-//「……好きだよ」=
-//「えっ、俺も」=
-//「あはっ、急にどうしたのって聞かれないの嬉しいなぁ」=
-//「びっくりはしたけど、俺も好きだし」=
-//「えへへ……うん♡　だから南の島の魔法にもありがとうだけど、ちゃんとふたりの関係を築いてくれたキミにもありがと♪」=
-//「それはこっちのセリフでもあるよ。頼りないところあるかもだけど、これからもよろしくね」=
-//「頼りないなんて思ってないよ。だってキミの気持ちはすごく伝わってるから。以心伝心は難しいけど、これからもキミのことずっと理解してたい」=
-//「キミが怒るときも、悲しむときも、感情を理解できてれば寄り添えるし、嬉しいときも、キミがどうして笑ってるのかわかれば私も嬉しいから」=
-//「俺もそうしたいから、[H名]の前ではできるだけ自分を隠さないようにするよ。恥ずかしいとつい隠しちゃうけど……」=
-//「それこそ南の島の魔法にかからなくっちゃ♪　ふたりともずっと開放的でいたら、すれ違いとかも少なくなるよ！」=
-//「だね。よーし、それならもっとここを満喫しないと。ふたりで遊んで、ふたりで食べて、南の島の力を吸収しよう！」=
-//「うん！　大・大・大・大賛成♪」=
+「少し浜辺を歩かない？」=“Wanna take a walk along the beach?”
+「あ、私も同じこと考えてた！　やっぱり南の島でデートするなら海辺で散歩したいよね。一緒に歩こっ♪」=“Ah, I was thinking the same thing! We've come all this way to this island, we gotta have atleast a few beachside dates, don't we? Let's walk together--♪”
+「波の音が気持ちいいね～……あ、こういうときは心地いいっていうのかな？」=“The sound of the waves is so nice~... ah, I guess this is what feeling "comfortable" means?”
+「気持ちいいし心地いいよね。地元だと味わえないっていうか……」=“It feels great and comfortable too. It's something we can't really savour back home, like...”
+「うんっ、だよね！　それに、私たちの距離もぐっと近づいたよね。南の島効果かな？」=“Yeah--, exactly! We got a ton closer here too. I wonder if that's just the island's effect?”
+「だね、暑いから開放的になってるんじゃないかな」=“Probably, the heat's probably making us a whole lot more open too, I'd say.”
+「あはっ♪　それじゃふたりとも、南の島の魔法にかかっちゃったんだね♪」=“Ahah♪ So we've both fallen under the spell of this southern island, huh~?♪”
+「まさに魔法だなぁ、おかげで[H名]と付き合えたしね」=“It truly is magic, yeah. Thanks to that, we're dating right now too.”
+「告白のときはすごく恥ずかしかったけど、なんだか私たちらしかったよね」=“It was super embarrassing when we confessed to each other but, it was also kinda just like us, wasn't it?”
+「うん、いま思い出しても顔が熱くなるけど、俺たちらしかったと思う」=“Yeah, my face still gets hot thinking back to it, but I do agree that it was just like us.”
+「……好きだよ」=“...I love you.”
+「えっ、俺も」=“Eh--? Me too.”
+「あはっ、急にどうしたのって聞かれないの嬉しいなぁ」=“Ahah--, I love how you didn't ask me why I said it~”
+「びっくりはしたけど、俺も好きだし」=“It did catch me off guard but, I love you too, so.”
+「えへへ……うん♡　だから南の島の魔法にもありがとうだけど、ちゃんとふたりの関係を築いてくれたキミにもありがと♪」=“Eheheh... yeah♡ That's why, I'm thankful to the magic of this place too but, I'm more thankful to you, for building our relationship like this♪”
+「それはこっちのセリフでもあるよ。頼りないところあるかもだけど、これからもよろしくね」=“That's my line too. I know I'm not always the most reliable but, keep being with me, okay?”
+「頼りないなんて思ってないよ。だってキミの気持ちはすごく伝わってるから。以心伝心は難しいけど、これからもキミのことずっと理解してたい」=“I don't think of you as unreliable at all. I feel how much thought you put into everything for me, afterall. It's hard to understand each other just instinctively but, I want to keep understanding you.”
+「キミが怒るときも、悲しむときも、感情を理解できてれば寄り添えるし、嬉しいときも、キミがどうして笑ってるのかわかれば私も嬉しいから」=“Whenever you're angry, or sad, if I can figure it out then I can snuggle up to you and make you feel better, and when you're happy, I can be happy about it together with you.”
+「俺もそうしたいから、[H名]の前ではできるだけ自分を隠さないようにするよ。恥ずかしいとつい隠しちゃうけど……」=“I want that too, so I try to not hide myself in front of you as much as I can. Sometimes it gets hard when it's embarrassing but...”
+「それこそ南の島の魔法にかからなくっちゃ♪　ふたりともずっと開放的でいたら、すれ違いとかも少なくなるよ！」=“That's exactly why we need the magic of this place♪ If we always stay open with each other like we are now, we won't have misunderstandings between us either!”
+「だね。よーし、それならもっとここを満喫しないと。ふたりで遊んで、ふたりで食べて、南の島の力を吸収しよう！」=“Yeah. Alright, we gotta savour this place more then. Gotta run around lots more, eat lots more, and absorb the power of this place!”
+「うん！　大・大・大・大賛成♪」=“Yeah! I super - super - super agree♪”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「買い物付き合ってくれてありがとう。それじゃあ、また一緒にどこか行こうね」=
+「買い物付き合ってくれてありがとう。それじゃあ、また一緒にどこか行こうね」=“Thanks for helping me out with that. Let's go somewhere like that again soon, okay?”
