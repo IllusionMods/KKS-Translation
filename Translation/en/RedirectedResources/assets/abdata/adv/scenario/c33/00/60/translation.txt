@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ねぇ、いる……？」=“Hey, are you there...?”
-SELECTION:「返事をする」=Respond
-SELECTION:「……」=...
-「どうしたの？」=“What's going on?”
-「ふふっ、お邪魔するわね」=“Fufu! Sorry to bother you.”
-「あら、あなたの愛しい彼女が部屋に来たのよ？　私が何を求めているか……わかってるわよね？」=“Oh, your darling girlfriend's shown up in your room, hasn't she? You know what I want...right?”
-「……もう、寝ているのかしら？　仕方ないわね……」=“...geez, I guess he's asleep? It can't be helped...”
+「ねぇ、いる……？」=“Hey, are you in...?”
+SELECTION:「返事をする」=Answer her.
+SELECTION:「……」=..........
+「どうしたの？」=“What's wrong?”
+「ふふっ、お邪魔するわね」=“Fufuh--, I'm coming in, okay?”
+「あら、あなたの愛しい彼女が部屋に来たのよ？　私が何を求めているか……わかってるわよね？」=“Oh dear, the girl you love so darn much has come over to your room, you know? You can tell... what I want, right?”
+「……もう、寝ているのかしら？　仕方ないわね……」=“...Jeez~, are you sleeping? I guess that's okay then...”

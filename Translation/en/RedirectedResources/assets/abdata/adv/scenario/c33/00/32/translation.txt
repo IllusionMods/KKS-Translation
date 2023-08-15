@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふふっ、恋人同士で灯台なんて、何だかロマンチックね」=“Fufu! There's something romantic about two lovers by the lighthouse.”
-「静かな場所だけど、なんかこう……雰囲気があるよね」=“It's quiet here, but there's this... vibe to it you know.”
-「えぇ。まぁ、それは隣にあなたがいるから、あなたと一緒にこの場にいるからだと思うわ」=“Yeah. But well, I think it's because you're next to me, and I'm here with you.”
-「……そうだね、俺も[H名]さんが隣にいるからそう感じるんだろうな」=“...You're right, when you're next to me, [H名], I guess I feel that way, too.”
+「ふふっ、恋人同士で灯台なんて、何だかロマンチックね」=“Fufuh--, checking the lighthouse out as a couple, how romantic.”
+「静かな場所だけど、なんかこう……雰囲気があるよね」=“It's a very quiet place but, how I say this... it's got a vibe to it, doesn't it?”
+「えぇ。まぁ、それは隣にあなたがいるから、あなたと一緒にこの場にいるからだと思うわ」=“Yes. Well, I think that's because you're here, because we're here together.”
+「……そうだね、俺も[H名]さんが隣にいるからそう感じるんだろうな」=“....Yeah, I probably feel this way because you're here too, [H名].”

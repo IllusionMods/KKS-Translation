@@ -2,4 +2,4 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「お邪魔するわね」=“I'm coming in then.”
-「さ、二人きりよ？　ふふっ、好きなだけイチャイチャ出来るわね……？」=“Well, it's just the two of us, no? Fufu! We can make out as much as we want.”
+「さ、二人きりよ？　ふふっ、好きなだけイチャイチャ出来るわね……？」=“Now then, we're alone, you know? Fufuh--, we can make out as much as we want, huh...?”

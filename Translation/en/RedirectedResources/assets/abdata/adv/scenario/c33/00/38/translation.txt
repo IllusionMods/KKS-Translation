@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「カヤック、折角だし二人で乗れるタイプがいいわね」=“I'd like a kayak that we can both ride in.” 
-「そうだね、二人で協力していきたいね」=“I agree, we should work together.”
-「えぇ、あなたと私、二人の共同作業よ？」=“Yeah, you and me, collaborating together.”
+「カヤック、折角だし二人で乗れるタイプがいいわね」=“Since we're doing this, we might as well get a two person kayak, right?”
+「そうだね、二人で協力していきたいね」=“Yeah, it'd be nice to row it together.”
+「えぇ、あなたと私、二人の共同作業よ？」=“Yes, it'll be a joint effort between us, okay?”
