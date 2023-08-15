@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ぁぁ、凄く気持ち良かったです……これは、クセになってしまいそうですね……」=
+「ぁぁ、凄く気持ち良かったです……これは、クセになってしまいそうですね……」=“Aah, that felt amazing... I might get addicted to this...”

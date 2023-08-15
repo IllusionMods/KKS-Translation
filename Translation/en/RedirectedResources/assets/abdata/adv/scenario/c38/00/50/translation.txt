@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この食堂、すっごくメニューが豊富だね」=
-//「そうですね。この地域特有のお料理が多いみたいですね」=
-//「文字を読んだだけじゃ、分からないものもあるから、とりあえず頼んでみようか」=
-//「それは、中々勇気が要りますね」=
-//「そういうのも、醍醐味だと思うんだけどなぁ」=
-//「確かに、楽しそうですね……分かりました。一緒に頂きますね」=
+「この食堂、すっごくメニューが豊富だね」=“This eatery really has one big menu, doesn't it?”
+「そうですね。この地域特有のお料理が多いみたいですね」=“Indeed. Seems like there's a lot of unique local recipes in this region.”
+「文字を読んだだけじゃ、分からないものもあるから、とりあえず頼んでみようか」=“Even if we spend all day reading, we're not gonna understand what's what so, let's just order stuff for now.”
+「それは、中々勇気が要りますね」=“I don't know, that sounds like something that requires a lot of courage.”
+「そういうのも、醍醐味だと思うんだけどなぁ」=“The thrills are part of what makes it good, I'd say.”
+「確かに、楽しそうですね……分かりました。一緒に頂きますね」=“You're not wrong, it does sound rather fun and adventurous... Alright then. I'll join you.”

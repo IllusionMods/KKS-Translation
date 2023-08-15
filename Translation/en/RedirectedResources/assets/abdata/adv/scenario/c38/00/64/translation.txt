@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「とても気持ち良かったです。どうもありがとうございます」=
-//「オイルを塗ってもらえる感覚、最高でした」=
-//「とてもいい感じでした、ありがとうございます」=
-//「あの、オイル、切れてしまったんですか？」=
+「とても気持ち良かったです。どうもありがとうございます」=“That felt wonderful. Thank you very much.”
+「オイルを塗ってもらえる感覚、最高でした」=“The sensation of you applying oil on me felt absolutely wonderful.”
+「とてもいい感じでした、ありがとうございます」=“That was wonderful, thank you very much.”
+「あの、オイル、切れてしまったんですか？」=“Uhm, is there no oil, by any chance?”

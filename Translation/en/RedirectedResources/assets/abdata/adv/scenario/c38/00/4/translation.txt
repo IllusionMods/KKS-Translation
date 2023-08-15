@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「わ、私とですか？　でも、私達はそういう関係では……」=
-//「分かってる……でも、どうしても[H名]とエッチがしたいんだ」=
-//「どうしても、ですか……貴方がそこまでおっしゃるなら……」=
-//「いいんだね？　ありがとう」=
-//「あの……でも、私、初めてですから、優しくお願いしますね」=
+「わ、私とですか？　でも、私達はそういう関係では……」=“W-With me? But, we aren't in that sort of a....”
+「分かってる……でも、どうしても[H名]とエッチがしたいんだ」=“I know that... but, I just want to have sex with you, no matter what.”
+「どうしても、ですか……貴方がそこまでおっしゃるなら……」=“No matter what, you say... if you're that intent on it...”
+「いいんだね？　ありがとう」=“You don't mind, right? Thank you.”
+「あの……でも、私、初めてですから、優しくお願いしますね」=“Uhm... but, I'm a virgin, so, please be gentle with me, okay?”

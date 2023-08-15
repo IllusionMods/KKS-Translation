@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ホテルのレストランで食事なんて、なんだか贅沢してる気分だよ」=
-//「そうですね。どのお料理も綺麗で美味しそうです」=
-//「ハンバーグにナポリタン……意外とメニューは庶民的だよね」=
-//「でも、その方が落ち着いて食事できると思いますよ」=
-//「確かにそうだね。あんまり高級すぎても味がわからないか」=
-//「はい。いつも通りに美味しく頂きましょう」=
+「ホテルのレストランで食事なんて、なんだか贅沢してる気分だよ」=“This feels kinda luxurious, not gonna lie.”
+「そうですね。どのお料理も綺麗で美味しそうです」=“Indeed. All of them look so pretty and delicious.”
+「ハンバーグにナポリタン……意外とメニューは庶民的だよね」=“From hamburg steaks to napolitan... the menu's surprisingly unpretentious, isn't it?”
+「でも、その方が落ち着いて食事できると思いますよ」=“But, I think that's what they're going for, since it'll allow us to eat in peace.”
+「確かにそうだね。あんまり高級すぎても味がわからないか」=“You're not wrong. There wouldn't be any point in making it too high class, not like we'd be able to taste it.”
+「はい。いつも通りに美味しく頂きましょう」=“Yes. Let's just have a good meal, as always.”

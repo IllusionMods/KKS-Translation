@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「綺麗な水槽……こんなにたくさんの魚がいるんですね。何種類くらいいるんでしょうか？」=
-//「うーん、どのくらいだろう……？　この水族館でも特にメインの水槽だもんね。相当な数がいそう」=
-//「ですよね。実際の海の中もこんな風に多様な魚で溢れていると思うと……なんだかすごく神秘的です」=
-//「基本的に海は海面からしか見たことがないので……今度、海中の様子を撮影した映像なども見てみます」=
-//「あ、それいいかも。俺も一緒に見たいな」=
-//「ええ、ぜひ。ふふっ、なるほど……こういうことなんですね」=
-//「……？　何が？」=
-//「いえ、恋人同士の会話というものが……いつも、どんな場所でも、次の約束に繋がっていくんだなぁって……」=
-//「貴方とそういう関係になれたこと……改めて幸せだなぁって思って……ふふっ、変なこと考えてごめんなさい」=
-//「ううん、全然変じゃないよ。俺も[H名]と色々な約束ができるの嬉しい。映像だけじゃなくて、いつか実際にダイビングもしよう」=
-//「いいですね。国内のスポットもそうですけど、海外なんかも行ってみたいです」=
-//「魚を見るだけじゃなくて、海底の遺跡を見たり……ふふっ、貴方と話しているとどんどん夢が膨らんでいきます」=
-//「俺もだよ。いつかこの水槽の中みたいに綺麗な場所を[H名]と泳ぎたいな」=
-//「ええ、約束です。早速、色々な場所を調べてみますね。善は急げ、ですから」=
-//（[H名]、すごく嬉しそうな顔してる。きっと俺も同じような表情してるんだろうな）=
+「綺麗な水槽……こんなにたくさんの魚がいるんですね。何種類くらいいるんでしょうか？」=“What a beautiful fishtank... there really are this many fish, huh? How many species are in there, I wonder?”
+「うーん、どのくらいだろう……？　この水族館でも特にメインの水槽だもんね。相当な数がいそう」=“Nnnn, how many indeed....? It's one of the main tanks in a big place like this. So probably lots.”
+「ですよね。実際の海の中もこんな風に多様な魚で溢れていると思うと……なんだかすごく神秘的です」=“That makes sense. When I think about how the actual sea probably has all sorts of fish swimming around just like this... it feels very mystical to me.”
+「基本的に海は海面からしか見たことがないので……今度、海中の様子を撮影した映像なども見てみます」=“I've only ever really looked at the surface of the sea so... next time, I'll try watching some undersea footage instead.”
+「あ、それいいかも。俺も一緒に見たいな」=“Oh, that sounds fun. I'll join you too for that.”
+「ええ、ぜひ。ふふっ、なるほど……こういうことなんですね」=“Yes, please. Fufuh--, I see... so this is how it is, huh?”
+「……？　何が？」=“....? What is?”
+「いえ、恋人同士の会話というものが……いつも、どんな場所でも、次の約束に繋がっていくんだなぁって……」=“Nothing, I was just thinking how as a couple, our chats... they always end up leading to promises of doing something together again, no matter where we are...”
+「貴方とそういう関係になれたこと……改めて幸せだなぁって思って……ふふっ、変なこと考えてごめんなさい」=“The fact that we have that sort of a relationship now... just made me feel so much bliss again... fufuh--, I'm sorry for saying something so weird.”
+「ううん、全然変じゃないよ。俺も[H名]と色々な約束ができるの嬉しい。映像だけじゃなくて、いつか実際にダイビングもしよう」=“No, it's not weird at all. I love being able to make all these promises with you like this too. We don't need to stop at the footage, let's actually go diving together someday.”
+「いいですね。国内のスポットもそうですけど、海外なんかも行ってみたいです」=“That sounds nice. Going diving somewhere in Japan sounds very nice too, but I'd love to go somewhere foreign as well.”
+「魚を見るだけじゃなくて、海底の遺跡を見たり……ふふっ、貴方と話しているとどんどん夢が膨らんでいきます」=“We don't have to stop at just looking at fish either, we could even go looking at some underwater ruins and whathaveyou... fufuh--, my dreams always end up expanding so wide whenever we talk.”
+「俺もだよ。いつかこの水槽の中みたいに綺麗な場所を[H名]と泳ぎたいな」=“Me too. Someday, I wanna go swimming somewhere pretty like this fishtank with you, [H名].”
+「ええ、約束です。早速、色々な場所を調べてみますね。善は急げ、ですから」=“Yes, that's a promise. I'll go ahead and check out all sorts of places, okay? They say to strike while the hammer's hot, afterall.”
+（[H名]、すごく嬉しそうな顔してる。きっと俺も同じような表情してるんだろうな）=(She looks so happy. I bet I look just as happy right now too.)

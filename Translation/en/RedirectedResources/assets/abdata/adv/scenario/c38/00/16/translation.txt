@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「その、初めてだったのですが……ご満足、頂けましたか？」=
+「その、初めてだったのですが……ご満足、頂けましたか？」=“Uhm, that was my first time but... did I, satisfy you?”

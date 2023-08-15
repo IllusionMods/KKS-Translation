@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁっ……私、どうなってしまうかと思いました。もう貴方に、溺れてしまいそうです……」=
+「はぁっ……私、どうなってしまうかと思いました。もう貴方に、溺れてしまいそうです……」=“Haah--... I didn't know, what was going to happen to me.”

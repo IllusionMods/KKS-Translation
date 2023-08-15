@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ありがとうございます、とても気持ち良かったです」=
-//「素晴らしかったです、どうもありがとうございます」=
-//「綺麗に塗ってくれて、嬉しいです」=
-//「どうかしたんですか？　塗ってくれませんでしたね」=
+「ありがとうございます、とても気持ち良かったです」=“Thank you very much, that felt wonderful.”
+「素晴らしかったです、どうもありがとうございます」=“That was wonderful, thank you very much.”
+「綺麗に塗ってくれて、嬉しいです」=“I loved it, you did it so nicely.”
+「どうかしたんですか？　塗ってくれませんでしたね」=“What's the matter? You didn't do it in the end, huh?”

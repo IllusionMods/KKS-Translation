@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「中々、味のあるシーサーになりましたね。それでは、また今度」=
+「中々、味のあるシーサーになりましたね。それでは、また今度」=“We made some quite chic looking shisas, didn't we? Well then, I'll see you next time.”

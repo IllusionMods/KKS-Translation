@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここまで来たら灯台が良く見えるね」=
-//「そうですね。とても素敵な灯台です」=
-//「何年もの間、この島の航路を見守って来たんだろうね」=
-//「そう思うと、とても頼もしく見えて来ますね」=
-//「俺たちも、灯台みたいな頼りがいのある道しるべを見つけられるといいね」=
-//「はい……大丈夫ですよ、二人で一緒に探しましょう」=
+「ここまで来たら灯台が良く見えるね」=“You can really see the lighthouse clearly from here, huh?”
+「そうですね。とても素敵な灯台です」=“Indeed. It's a very lovely lighthouse.”
+「何年もの間、この島の航路を見守って来たんだろうね」=“I bet it's protected this island's naval routes for quite a long time.”
+「そう思うと、とても頼もしく見えて来ますね」=“Thinking about it that way, it starts looking quite reliable, doesn't it?”
+「俺たちも、灯台みたいな頼りがいのある道しるべを見つけられるといいね」=“It'd be nice if we can find a reliable guidepost of our own, wouldn't it?”
+「はい……大丈夫ですよ、二人で一緒に探しましょう」=“Yes... it's alright though, we can search for one together.”

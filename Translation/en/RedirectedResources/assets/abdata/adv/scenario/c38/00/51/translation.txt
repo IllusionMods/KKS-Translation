@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「家庭料理、なんだかほっとしましたね。それでは、これで」=
+「家庭料理、なんだかほっとしましたね。それでは、これで」=“That home cooking really hit the spot, didn't it? Well then, I'll be off.”
