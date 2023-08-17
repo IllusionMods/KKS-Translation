@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「キミと遊んでると時間がいくらあっても足りないわね……また二人で遊びましょ？」=“There's never enough time to play with you... wanna play together again?”
+「キミと遊んでると時間がいくらあっても足りないわね……また二人で遊びましょ？」=“No matter how much time we set aside to have fun, it's never enough.... let's do that again soon?”

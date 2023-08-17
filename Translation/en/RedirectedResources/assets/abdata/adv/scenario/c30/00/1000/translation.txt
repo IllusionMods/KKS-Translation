@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ここってカップル向けのドリンクがあるんだって。飲んでみようよ」=“I heard they serve drinks for couples here. Let's have a drink.”
-「ふむふむ、思った以上にカップルって感じのドリンクだわ」=“Hmm, hmm, I didn't expect how much this drink really was intended for couples.”
-「ははっ、なにそれ、どういうこと？」=“Hhaha! What's that... what do you mean?”
-「ふふっ、まずはグラスの大きさね。ほら、二人で飲んでも十分なサイズでしょ？」=“Fufu! First of all - the size of the glass. Hey, it really is big enough for two people to drink from it, you know?”
-「飾りつけも、まさに南国ですって感じで、ロマンチックな雰囲気を二人で楽しめるでしょ？」=“The decorations are all very tropical... it lets us enjoy the romantic atmosphere together.” 
-「うんうん」=“Sure, yeah.”
-「極め付けはこのストロー。いかにもカップルで一緒に飲んで下さい、イチャついちゃって下さいって感じじゃない」=“And, to top it all off, the straw. It's almost like they're asking couples to drink together, and then make out.”
-「あはは、確かにそうだね」=“Ahaha, you're totally right.”
-「それによく考えると……このドリンクちょっと恥ずかしいわね。ううん、ちょっとどころじゃなくて……ものすごく恥ずかしいわね」=“So, if you think about it... this drink is actually kinda embarrassing. Yeeeah, not just a little, but a lot... it's really embarrassing.”
-「う……そう言われると……恥ずかしいかも……」=“Uuuu... now you mention it... maybe it's embarrassing...”
-「でしょ？　これをキミと一緒に飲むところを想像したら……ふふっ、私たちどうなっちゃうのかなぁ」=“Right? Imagining you and I drinking this together... fufu! I wonder what's gonna happen with us.”
-「わわっ、確かに照れる！　ごめんっ！　もしかして嫌だったっ！？」=“Wawa! It's definitely embarrassing! Sorry! I guess you really don't like it!?”
-「えっ！？　ち、違うわよっ！　誤解しないでっ！　別に嫌とかではなくて……」=“Eh!? N-no, that's not it! Don't get me wrong! It's totally not that I don't like it, or anything...”
-「こんな恥ずかしいことも、キミと一緒だから楽しいってことよ。キミとだから……したいんじゃない……」=“Even something so embarrassing is fun, when I'm together with you. Because I'm with you... I don't hate it.”
-「もしかして……本当に照れてる？」=“Maybe... you really are embarrassed?”
-「っ！？　もーっ、そんなこと言ってないで！　早く飲みましょ！？　じゃなきゃもっと照れちゃうわ！」=“Wha-!? Sheesh, don't say things like that! Can we just drink this now!? Otherwise, I'm gonna get even more embarrassed!”
+「ここってカップル向けのドリンクがあるんだって。飲んでみようよ」=“Apparently they have a drink for couples here. Let's try it.”
+「ふむふむ、思った以上にカップルって感じのドリンクだわ」=“Hmm hmm, that's a lot more couple-y than I thought it'd be.”
+「ははっ、なにそれ、どういうこと？」=“Hahah--, what's that even mean?”
+「ふふっ、まずはグラスの大きさね。ほら、二人で飲んでも十分なサイズでしょ？」=“Fufuh--, for starters, the glass is very big. Look, it's big enough for two people, no?”
+「飾りつけも、まさに南国ですって感じで、ロマンチックな雰囲気を二人で楽しめるでしょ？」=“And the decorations too, you can tell they're supposed to be full of a southern feel, so we can enjoy that romantic mood too, no?”
+「うんうん」=“Yepyep.”
+「極め付けはこのストロー。いかにもカップルで一緒に飲んで下さい、イチャついちゃって下さいって感じじゃない」=“And the pièce de résistance is this straw. Doesn't it just look like it's telling us "please, do drink it together" or "please, do make out"?”
+「あはは、確かにそうだね」=“Ahahah, you're not wrong.”
+「それによく考えると……このドリンクちょっと恥ずかしいわね。ううん、ちょっとどころじゃなくて……ものすごく恥ずかしいわね」=“Not to mention, when you think about it... this drink's a bit embarrassing, isn't it? No, it's not just a bit... it's ridiculously embarrassing.”
+「う……そう言われると……恥ずかしいかも……」=“Uu... now that you say it... I feel it too....”
+「でしょ？　これをキミと一緒に飲むところを想像したら……ふふっ、私たちどうなっちゃうのかなぁ」=“Right? If we were to drink it together... fufuh--, I wonder just what's gonna happen to us~”
+「わわっ、確かに照れる！　ごめんっ！　もしかして嫌だったっ！？」=“Wawah--, it's definitely embarrassing! Sorry--! Should I not have--?!”
+「えっ！？　ち、違うわよっ！　誤解しないでっ！　別に嫌とかではなくて……」=“Eh--!? N-No! Don't misunderstand--! I wasn't saying that I mind it or anything...”
+「こんな恥ずかしいことも、キミと一緒だから楽しいってことよ。キミとだから……したいんじゃない……」=“Even something this embarrassing is fun since we're together, is what I mean't. I want to do it... because it's you, you know...”
+「もしかして……本当に照れてる？」=“Wait... are you actually blushing?”
+「っ！？　もーっ、そんなこと言ってないで！　早く飲みましょ！？　じゃなきゃもっと照れちゃうわ！」=“--!? Jeez~, zip up your mouth! Let's drink it already!? Else I'm gonna blush even more!”

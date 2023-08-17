@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「私は先に出てるから。ほら、一応周りの目、あるでしょ……？」=“I'll be heading out first. Hey, you know I've got my eyes on you, right...?”
+「私は先に出てるから。ほら、一応周りの目、あるでしょ……？」=“I'll head out first. I mean, people might gossip, you know...?”

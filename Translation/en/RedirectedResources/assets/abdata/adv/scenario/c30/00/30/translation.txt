@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「この滝はパワースポットになってるらしいね」=“I heard that this waterfall is a power spot.”
-「あーなんとなくわかるかも、力強さを感じるのよね」=“I think I know what you mean... there's a powerful feeling here.”
-「だね。滝そのものもだけど、この自然全体がそう感じさせるのかもなぁ」=“That's right. It's just not the waterfall itself, but it's all of nature that might make me feel this way.”
-「折角だし、ここでいっぱいパワー貰っていきましょ？」=“Well, since we're here, shouldnt we draw a lot of power from this place?”
-「そうだね、もう少しゆっくりしていこっか」=“That's right. Let's take it a little slower.”
+「この滝はパワースポットになってるらしいね」=“Seems like this waterfall's the local powerspot, huh?”
+「あーなんとなくわかるかも、力強さを感じるのよね」=“Ah~, I feel like I get it, you can really feel its strength, can't you?”
+「だね。滝そのものもだけど、この自然全体がそう感じさせるのかもなぁ」=“Yeah. The waterfall too but also, it might be the nature all around us too.”
+「折角だし、ここでいっぱいパワー貰っていきましょ？」=“Since we're here, let's have it bless us with lots of its power?”
+「そうだね、もう少しゆっくりしていこっか」=“Yeah, let's take it easy here for a bit.”

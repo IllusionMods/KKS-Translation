@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「少し浜辺を歩こうよ」=“Let's take a little walk on the beach.”
-「はぁぁ……風が気持ち良いわね。ほら、海もとっても綺麗！」=“Ahhhaaa... the breeze feels good. And look, the ocean's so beautiful!”
-「うん、本当だ。綺麗だね」=“Yeah, it really is. It's quite pretty.”
-「ね、こうやってゆっくりと波の音を聴いているとすごく落ち着くと思わない？」=“Hey, don't you think it's really relaxing to listen to the sound of the waves slowly rolling in?”
-「あ、それ聞いたことがある。ヒーリング効果ってやつかな」=“Ah, I've heard about that. A 'healing effect', I suppose.”
-「そう、それ。波の音が心地よくて心が穏やかになるの。身体もリラックスして気持ちが軽くなる感じがするわ」=“That's it. The sound of the waves is soothing and calming. My body feels more relaxed... I feel lighter.”
-「うん、わかるなぁ。波の音って癒される」=“Yeah, I know what you mean. The sound of the waves is soothing.”
-「不安なとき、何も考えずに一人で波の音を聴くのもいいけど……私はキミと一緒がいいな。こんな風に二人で」=“When I'm unsettled, it's nice to just listen to the sound of waves, and not think about anything else.” 
-「もちろん、俺だってそう思うよ」=“Of course. I think so, too.”
-「ふふっ、でもね、本当は私がキミにとってのヒーリング効果になれたら……なんて思ってたりして」=“Fufu! But to tell the truth, I want to be a healing force, to you... what do you think?”
-「えっ？」=“Eh?”
-「キミが自分を落ち着けたい時、疲れすぎて思考停止になってる時……私がキミの癒しになれたらなって……」=“When you need to relax, when you're too tired to think... I hope that I can be a comfort to you.”
-「いつでもキミを元気にしてあげたい。いつでもキミを笑顔にしてあげたい。そう思ってるのよ」=“I'll always be there, to make you feel better. I always want to make you smile. That's what I think.”
+「少し浜辺を歩こうよ」=“Let's walk along the beach a bit.”
+「はぁぁ……風が気持ち良いわね。ほら、海もとっても綺麗！」=“Haah... the breeze feels really nice, doesn't it? Look, even the sea's so pretty!”
+「うん、本当だ。綺麗だね」=“Yeah, it really is.”
+「ね、こうやってゆっくりと波の音を聴いているとすごく落ち着くと思わない？」=“Hey, don't you think that listening to the waves like this is really calming?”
+「あ、それ聞いたことがある。ヒーリング効果ってやつかな」=“Ah, I've heard of that before. It's got a healing effect, right?”
+「そう、それ。波の音が心地よくて心が穏やかになるの。身体もリラックスして気持ちが軽くなる感じがするわ」=“Yep, that. The sound of the waves feels so nice, it calms your heart down. It relaxes your body too, making you feel all light.”
+「うん、わかるなぁ。波の音って癒される」=“Yep, I feel that~. The sound's so soothing.”
+「不安なとき、何も考えずに一人で波の音を聴くのもいいけど……私はキミと一緒がいいな。こんな風に二人で」=“It's nice to just listen to this all by yourself too, of course, when you're worried, but... I prefer doing it with you. Doing it like this.”
+「もちろん、俺だってそう思うよ」=“Of course, I think the same.”
+「ふふっ、でもね、本当は私がキミにとってのヒーリング効果になれたら……なんて思ってたりして」=“Fufuh--, but you know, sometimes I think... what if I could become a healing effect for you?”
+「えっ？」=“Eh--?”
+「キミが自分を落ち着けたい時、疲れすぎて思考停止になってる時……私がキミの癒しになれたらなって……」=“When you're stressed out, when you can't think straight and just want to relax... if I could be there to sooth you...”
+「いつでもキミを元気にしてあげたい。いつでもキミを笑顔にしてあげたい。そう思ってるのよ」=“I want to always be a source of cheer for you. I want to always make you smile, that's how I feel.”
 「[H名]……」=“[H名]...”
-「ふふっ、なーんて。ちょっと自惚れすぎちゃったかしら？　大自然と比べるなんて……恥ずかしいわよね」=“Fufu! Maybe I'm a little to conceited? It's embarrassing to compare myself to the great outdoors.”
-「そんなことないよ！　今だって俺は[H名]に癒されているし……もっともっと自惚れていいよ！」=“That's not true! You're healing me even now, [H名]... go ahead and be even more conceited!”
-「もう、そんなこと言われたら本当に自惚れちゃうわよ？　本当の本当に自惚れるからね？」=“Geez, if you say something like that to me, I'm really gonna fall in love with you, you know? Now I'm really, really proud, okay?”
-「うん！　それに俺だって[H名]をいつでも笑顔にさせたいって思ってるし」=“Yeah! Besides, [H名], I always want to make you smile, too.”
-「ふふっ、キミはいつでも私を元気にしてくれてるわ。ほら、今だって一番の笑顔をキミにあげてるもの」=“Fufu! You're always cheering me up. Hey, I'm giving you the biggest smile I can again.”
+「ふふっ、なーんて。ちょっと自惚れすぎちゃったかしら？　大自然と比べるなんて……恥ずかしいわよね」=“Fufuh--, I'm kidding. That was a bit too conceited, wasn't it? Comparing myself to mother nature... it's just cringy, isn't it?”
+「そんなことないよ！　今だって俺は[H名]に癒されているし……もっともっと自惚れていいよ！」=“Not at all! Even now, you're soothing me, [H名]... feel free to feel more conceited!”
+「もう、そんなこと言われたら本当に自惚れちゃうわよ？　本当の本当に自惚れるからね？」=“Jeez, I really will grow conceited like that, you know? I really really will, you know?”
+「うん！　それに俺だって[H名]をいつでも笑顔にさせたいって思ってるし」=“That's fine! I want to always make you smile too, [H名].”
+「ふふっ、キミはいつでも私を元気にしてくれてるわ。ほら、今だって一番の笑顔をキミにあげてるもの」=“Fufuh--, you always do. Look, even now I'm giving you my biggest smile.”

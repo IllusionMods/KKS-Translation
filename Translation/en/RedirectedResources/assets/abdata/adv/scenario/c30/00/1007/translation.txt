@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「わぁ、大きな水槽……海の中みたいでとっても綺麗。えっと、どんな魚がいるのかしら」=“Hey, the aquarium's huge... is so beautiful. It's almost like I'm in the ocean. Er, um, I wonder what kind of fish they have.”
-「うん、本当に綺麗だね。魚の数も多い……」=“Yeah, they're really beautiful. There's so many fish...”
-「あっ、ねぇ見て。あのカメってちょっとキミに似てない？　のんびり穏やかに見えるけど、我が物顔で泳いでて……」=“Ah! Hey, look. Doesn't that turtle look like you? It looks all laid-back and relaxed, and it's swimming like it owns the place.”
-「えー、俺ってそんな感じ？」=“Eh- That's what I'm like?”
-「ふふっ、そんな一面もあるじゃない。それに一途で真っ直ぐで一生懸命で……でもちょっと頑固にも見えるのよね」=“Fufu! That's one side of you. Single-minded, straightforward, and hard-working... but also a little stubborn.”
-「うーん、それって褒めてるのかなぁ？」=“Mmm-hmm, I guess you're trying to compliment me?”
-「もちろん褒めてるわよ。すごーく褒めてる。えーっと、それじゃ……私はどの魚に似てるかしら？」=“Of course I'm complimenting you. A huge compliment, in fact. Er, um- well then... what fish do I resemble?”
-「うーん、そうだなぁ。このイソギンチャクかな」=“Mmm-hmm, let's see. That anemone, I think.”
-「えーっ、イソギンチャク？　なんで？　似てる要素ある？」=“Eh-! A sea anemone? That? There's a resemblance?”
-「触れると毒みたいにいじわるされるところ」=“The part where, if you tamper with it, you get poisoned.”
-「もう、全然褒めてないじゃない。それに私……そんなにいじわるばかりしてないわよ。たまにちょっとだけする……くらいで」=“Geez, that's not a compliment, at all. You don't... have to be so mean to me like that. I mean, sometimes I do that, a little...” 
-「お、いじわるするのは認めるんだ？　でも、毒はいじわるだけじゃなくて……」=“Oh, so you do admit you mess around with me? But poison... that isn't about just messing around...”
-「[H名]の魅力も……俺をとりこにしちゃう毒……なんだよね」=“[H名]'s charm... is a poison that captivates me... that's what I meant.”
-「なっ……も、もーっ、なに恥ずかしいこと言ってるのよ。やっぱりキミはカメじゃないわ。サメよ、サメ」=“Wha-! G-geez-! How can you say such embarrassing things. You're not a turtle, after all. You're a shark. A shark.”
-「サメ！？　俺ってそんなに獰猛！？」=“A shark!? Am I that fierce?”
-「違うわよ。サメなキミは私にいつでも嬉しい言葉をくれるの。それで私をドキドキさせてパニックにさせるのよ」=“No, you're not. You're a shark who always says pleasant things to me... and you leave me panicking, my heart pounding.”
-「あはは、それじゃいつでもドキドキさせられるように頑張るよ」=“Ahaha, then I'll keep doing my best to make your heart pound.”
-「ふふっ、私はドキドキで心が爆発しないように頑張るわ♪」=“Fufu! And I'll do my best to keep my heart from exploding with excitement♪”
+「わぁ、大きな水槽……海の中みたいでとっても綺麗。えっと、どんな魚がいるのかしら」=“Wah, such a big fishtank... it's like we're under the sea. Erhm, I wonder what sort of fish it has.”
+「うん、本当に綺麗だね。魚の数も多い……」=“Yep, it really is pretty. It's got lots of fish too...”
+「あっ、ねぇ見て。あのカメってちょっとキミに似てない？　のんびり穏やかに見えるけど、我が物顔で泳いでて……」=“Ah--, hey, look. Doesn't that turtle look like you a bit? It looks so relaxed and gentle at first glance, but it's swimming around like it owns the place...”
+「えー、俺ってそんな感じ？」=“Eh~? Do I look like that?”
+「ふふっ、そんな一面もあるじゃない。それに一途で真っ直ぐで一生懸命で……でもちょっと頑固にも見えるのよね」=“Fufuh--, you've got that side, no? Always so earnest and dedicated too... but a bit obstinate too, you know?”
+「うーん、それって褒めてるのかなぁ？」=“Nnnn, is that really a compliment?”
+「もちろん褒めてるわよ。すごーく褒めてる。えーっと、それじゃ……私はどの魚に似てるかしら？」=“Of course it is. A really big one~. Erhm, then... what about me, which fish do I look like?”
+「うーん、そうだなぁ。このイソギンチャクかな」=“Nnn, lemme see~. I guess this sea anemone.”
+「えーっ、イソギンチャク？　なんで？　似てる要素ある？」=“Eh--, a sea anemone? Why? What's similar between us?”
+「触れると毒みたいにいじわるされるところ」=“The way you tease me to death everytime, like poison.”
+「もう、全然褒めてないじゃない。それに私……そんなにいじわるばかりしてないわよ。たまにちょっとだけする……くらいで」=“Jeez, that's not a compliment at all. Not to mention... I don't tease you that much. I do it sometimes... just a bit.”
+「お、いじわるするのは認めるんだ？　でも、毒はいじわるだけじゃなくて……」=“Oh, so you admit that you do it? But that's not the only poisonous bit...”
+「[H名]の魅力も……俺をとりこにしちゃう毒……なんだよね」=“Your charm is... also a poison to make me fall... you know?”
+「なっ……も、もーっ、なに恥ずかしいこと言ってるのよ。やっぱりキミはカメじゃないわ。サメよ、サメ」=“Wha--... j-jeez--, what're you saying something so embarrassing for! Yep, I was wrong, you're not a turtle at all. You're a shark, a big shark.”
+「サメ！？　俺ってそんなに獰猛！？」=“A shark!? Am I that fierce?!”
+「違うわよ。サメなキミは私にいつでも嬉しい言葉をくれるの。それで私をドキドキさせてパニックにさせるのよ」=“That's not it. You always just say the things that make me the happiest, my big shark. And you make my heart pound and make me panic everytime.”
+「あはは、それじゃいつでもドキドキさせられるように頑張るよ」=“Ahahah, I guess I'll try to make that happen everytime then.”
+「ふふっ、私はドキドキで心が爆発しないように頑張るわ♪」=“Fufuh--, and I'll try my best to not have my heart burst from it♪”

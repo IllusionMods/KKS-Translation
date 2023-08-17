@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-係員さん=Staff
-「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We're going to have a bonfire. If you're going to participate, please pair up.”
-「キャンプファイヤーだって。せっかくだから参加しようよ！」=“They're having a bonfire. Well, since we're here, we should join up!”
-「いいわね。面白そう！　それじゃリードは任せるわ」=“I'm okay with that. Sounds interesting! I'll let you take the lead.”
-「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Everyone paired up? ...then I'll put on the music as soon as everyone's ready.”
-「あ……あれ……えーっと……」=“Ah... this is... er, um-...”
-「ほら、違うわよ。だから右手はこうで、左足はこんな感じで……ここで大きくターンかしら？」=“Hey, this isn't working. My right hand is like this, and my left foot is like this... and isn't the big turn here?”
-「それ絶対に違うでしょ！」=“I'm pretty sure that's not it!”
-「ふふっ、ごめんなさい。焦っているキミを見るのが面白くて……すっごく可愛いわ」=“Fufu! Sorry about that. It's just fun to see you in such a rush... you're really cute.”
-「うぅ……恥ずかしい……だからって適当な踊りを教えなくても……」=“Uuu... so embarrassing... you shouldn't need to teach me how to dance...”
-「ううん、もちろん決まってる踊りがあるのは知ってるけど……こんな感じで自由に踊るのも楽しいでしょ？　ほら、ほら」=“Yeeeah, of course, I understand this is a specific type of dancing... but it's fun to just dance around like this, isn't it? Hey, c'mon.”
-「えーっと……もしかして……[H名]、いつもよりはしゃいでない？」=“Er, um-... could it be that... you're more excited than you usually are, [H名]?”
-「えっ？　そんなことないわよ……って、本当に？　私そんな風に見える？」=“Eh? That's not true... what, really? It that what it looks like?”
-「うーん、いつもより少し幼い感じがする」=“Mmm-hmm. You seem a more immature than usual.”
-「幼いっ！？　うそ、そんなにはしゃいでるの私！？　えっ？　ちょっと待って……思考が追いつかないわ……」=“Immature? No way... am I really that excited!? Eh? Hold up a second... I can't keep up with my thoughts...”
-「あはは、そっか、なるほど。わかった気がするよ」=“Ahaha, oh, I saw how it is. I'm beginning to understand.”
-「……？　何がわかったの？　私が少女っぽくて、少女じみてて、まるで少女みたいに見えるってこと？」=“...? What did you discover? That I'm acting a little girl... that I look like a little girl?”
-「ううん、そうじゃなくて。そんな風に焦っている様子が可愛いっていうのがわかったんだ」=“Yeeeeah, that's not what it is. I've always found it cute when someone gets flustered like that.”
-「ちょっ……それって……もう、さっき私が言ったことじゃない。なんでかしら、キミに言われると悔しいわね」=“Wai--! That's... geez, that's not what you said earlier. I don't know why, but it's frustrating to hear that coming from you.”
-「でも本当だよ。そんな[H名]も可愛いなって思ったんだ」=“But it's true, though. I'm thinking you're cute when you're like that, [H名].”
-「は……ぅ……それ以上言わないで。恥ずかしくて踊れなくなっちゃうわ……」=“Haa... uuu... don't say another word. I'll be too embarrassed to dance...”
-「でも……はしゃいでいたのは本当かも。キミと初めて体験することは全部楽しいし……ね、絶対にこの手を離さないでね」=“But... maybe it's true that I got excited. Everything I experience with you for the first time is fun... hey, don't let go of my hand.”
+係員さん=Organizer
+「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“I shall be setting up the campfire so, please split into groups of two as you like.”
+「キャンプファイヤーだって。せっかくだから参加しようよ！」=“So she said. Let's join in, we might as well!”
+「いいわね。面白そう！　それじゃリードは任せるわ」=“It does sound pretty fun! Well then, lead me well.”
+「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you all broken into pairs? ...Well then, once the prepwork is complete, I shall put on the music.”
+「あ……あれ……えーっと……」=“Ah... huh... erhm...”
+「ほら、違うわよ。だから右手はこうで、左足はこんな感じで……ここで大きくターンかしら？」=“C'mon, that's not how you do it. Move your right hand like this, and your left foot like this... and I suppose a big twirl here?”
+「それ絶対に違うでしょ！」=“That's definitely not how!”
+「ふふっ、ごめんなさい。焦っているキミを見るのが面白くて……すっごく可愛いわ」=“Fufuh--, I'm sorry. It's just so funny to look at you panicking... You look adorable.”
+「うぅ……恥ずかしい……だからって適当な踊りを教えなくても……」=“Uuu... so embarrassing... even so, you don't need to teach me to move around willy nilly....”
+「ううん、もちろん決まってる踊りがあるのは知ってるけど……こんな感じで自由に踊るのも楽しいでしょ？　ほら、ほら」=“No, I mean, of course there's more 'proper' ways to dance but... just moving around as we please like this is fun too, no? C'mon, like this.”
+「えーっと……もしかして……[H名]、いつもよりはしゃいでない？」=“Erhm... is it just me or... are you being extra fiery today?”
+「えっ？　そんなことないわよ……って、本当に？　私そんな風に見える？」=“Eh--? Not at all... wait, am I? Do I seem that way to you?”
+「うーん、いつもより少し幼い感じがする」=“Nnnn, you feel a bit more immature than usual.”
+「幼いっ！？　うそ、そんなにはしゃいでるの私！？　えっ？　ちょっと待って……思考が追いつかないわ……」=“Immature?! No way, do I really!? Eh--? Hang on a sec... I can't think properly...”
+「あはは、そっか、なるほど。わかった気がするよ」=“Ahahah, I see, yep. I think I get it now.”
+「……？　何がわかったの？　私が少女っぽくて、少女じみてて、まるで少女みたいに見えるってこと？」=“....? What do you get? That I'm so immature, so like a little girl, that I look like a little girl right now?”
+「ううん、そうじゃなくて。そんな風に焦っている様子が可愛いっていうのがわかったんだ」=“No, not that. I meant that I get why you thought that I looked adorable when panicking.”
+「ちょっ……それって……もう、さっき私が言ったことじゃない。なんでかしら、キミに言われると悔しいわね」=“Hey--... wha--.... jeez, that's what I said earlier, isn't it? Somehow, it feels frustrating to hear that from you.”
+「でも本当だよ。そんな[H名]も可愛いなって思ったんだ」=“But it's true. You did look adorable just then.”
+「は……ぅ……それ以上言わないで。恥ずかしくて踊れなくなっちゃうわ……」=“Ha... uu... don't go any further. The embarrassment's gonna make my legs stop...”
+「でも……はしゃいでいたのは本当かも。キミと初めて体験することは全部楽しいし……ね、絶対にこの手を離さないでね」=“But... I really might have been a bit too into it. Everything new we do together is always fun, afterall... hey, don't let go of my hand, at all, okay?”
