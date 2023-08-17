@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あの灯台、いつ頃からあるんだろう？」=
-//「あの灯台はよくわからないけど、今実働している日本で一番古い灯台は、約１６０年前に建てられたらしいよ」=
-//「すごい、そんなに前からあるんだ」=
-//「海を航海するって考えたら、もっとずっと大昔からやってたことだからね」=
-//「なるほどぉ……灯台にも歴史ありだね」=
+「あの灯台、いつ頃からあるんだろう？」=“I wonder how long that lighthouse's been there?”
+「あの灯台はよくわからないけど、今実働している日本で一番古い灯台は、約１６０年前に建てられたらしいよ」=“I don't know about that specific one but, apparently the oldest lighthouse still standing in Japan's about 160 years old.”
+「すごい、そんなに前からあるんだ」=“Amazing, they were there even back then, huh?”
+「海を航海するって考えたら、もっとずっと大昔からやってたことだからね」=“I mean, considering about how long humanity's been a sea faring species, we've been making lighthouses for a long time too.”
+「なるほどぉ……灯台にも歴史ありだね」=“I see~.... even lighthouses have their history, huh?”

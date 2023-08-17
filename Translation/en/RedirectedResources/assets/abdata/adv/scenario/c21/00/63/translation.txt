@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すっごく、いい感じだったよ。ありがとう」=
-//「気持ち良かったー。ありがとうね」=
-//「うん、悪くなかったよ」=
-//「あれ？　何もしないんだ？」=
+「すっごく、いい感じだったよ。ありがとう」=“That felt really, really nice. Thanks.”
+「気持ち良かったー。ありがとうね」=“That felt great~”
+「うん、悪くなかったよ」=“Yep, that wasn't bad.”
+「あれ？　何もしないんだ？」=“Huh? You're not gonna do anything?”

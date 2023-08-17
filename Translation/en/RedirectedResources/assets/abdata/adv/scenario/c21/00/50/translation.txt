@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「素朴だけど、どれを食べても美味しいね」=
-//「俺、この料理気に入ったかも」=
-//「ふ～ん、だったら、作り方教わろうかな」=
-//「自分で作るの？」=
-//「うん、今度キミに作ってあげたいなぁって思って、えへへ」=
+「素朴だけど、どれを食べても美味しいね」=“It's very simple fare but, it's all really good, isn't it?”
+「俺、この料理気に入ったかも」=“I think I love this, honestly.”
+「ふ～ん、だったら、作り方教わろうかな」=“Hmm~, maybe I'll have them teach me how to make it.”
+「自分で作るの？」=“You're gonna make it yourself?”
+「うん、今度キミに作ってあげたいなぁって思って、えへへ」=“Yeah, since I wanna make it for you sometime~, eheheh.”

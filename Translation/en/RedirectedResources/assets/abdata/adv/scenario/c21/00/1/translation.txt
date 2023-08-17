@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えぇっ？　きみの事って、私の事？　本気で言ってるの？」=
-//「もちろん本気だよ…本気で、きみの事が好きなんだ」=
-//「そうなんだ……びっくりしちゃった……あ、あのね、私もキミの事、好きなんだけど」=
-//「そうだったのか……俺たち、両想いだったんだ」=
-//「うん、そうみたい……だから、キミと付き合ってもいいよ」=
-//「ううん……ぜひ、付き合って、下さい」=
+「えぇっ？　きみの事って、私の事？　本気で言ってるの？」=“Eeeh--? You, me? Are you being serious?”
+「もちろん本気だよ…本気で、きみの事が好きなんだ」=“Of course I am... I am in love with you, seriously.”
+「そうなんだ……びっくりしちゃった……あ、あのね、私もキミの事、好きなんだけど」=“I see... that really surprised me... y-you know, I am in, love with you too.”
+「そうだったのか……俺たち、両想いだったんだ」=“I see... so we loved each other this whole time, huh?”
+「うん、そうみたい……だから、キミと付き合ってもいいよ」=“Yeah, looks like it... so, I don't mind going out with you at all.”
+「ううん……ぜひ、付き合って、下さい」=“No... please let me, go out with you.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「好きって……それは、友達としてって事？」=
-//「ううん、そうじゃなくて……友達以上、かな」=
-//「俺も、きみのことが好きなんだ……もちろん、友達以上として」=
-//「それって、恋人未満とか……？」=
-//「いや、恋人として……俺と付き合って欲しい」=
-//「私も、私もそう思ってたの……こちらこそ、よろしくね」=
+「好きって……それは、友達としてって事？」=“Love... is that, as a friend?”
+「ううん、そうじゃなくて……友達以上、かな」=“No, not really... beyond friends, maybe?”
+「俺も、きみのことが好きなんだ……もちろん、友達以上として」=“I love you too... of course, more than as a friend.”
+「それって、恋人未満とか……？」=“Is that, less than as a sweetheart....?”
+「いや、恋人として……俺と付き合って欲しい」=“No, as a sweetheart... I want you to be my girlfriend.”
+「私も、私もそう思ってたの……こちらこそ、よろしくね」=“I wanted, I wanted that too... take care of me, okay?”

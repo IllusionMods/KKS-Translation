@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「二人とも、混ぜてくれて本当にありがとう……♡」=
+「二人とも、混ぜてくれて本当にありがとう……♡」=“I'm seriously thankful that you guys let me join in...♡”

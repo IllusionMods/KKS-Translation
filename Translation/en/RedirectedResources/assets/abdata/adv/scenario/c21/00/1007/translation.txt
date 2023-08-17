@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「わ～～っ、お魚綺麗～♪」=
-//「南の島だからか、カラフルなのが多いね」=
-//「ね！　あっ、見て見て、あの子たち、２匹でぴったりくっついて泳いでる！　カップルかな？」=
-//「カップルかもね。性別の見分けつかないから、組み合わせは不明だけど」=
-//「えっ、普通に男女じゃないの！？　あ、今どき男女は普通じゃないか！」=
-//「両性愛の魚はいるらしいね」=
-//「え～～っ、そうなんだ！　じゃああの２匹が男の子同士でも女の子同士でも、ずっと仲良くいれたらいいね」=
-//「そうだね……あっ、サメだ」=
-//「ひゃっ、怖い……！」=
-//「あはは、水槽の向こうだから大丈夫だよ。そういえばサメって、体内受精をする珍しい魚なんだよ」=
-//「体内受精？　あれ、魚ってあれだよね、メスが産んだタマゴにオスが……って、何言ってるんだろ私」=
-//「そう、ほとんどの魚は体外受精だけど、オスのサメはクラスパーと呼ばれる２本の生殖器があって、それをメスに挿入するんだ、神秘だね」=
-//「……なんでそんなに詳しいの？」=
-//「海の世界はロマンだからね」=
-//「もう、エッチなんだから」=
-//「はーい、エッチって言った方がエッチなんです～」=
-//「ち、違うもん！　普通だもん！」=
-//「仕方ないな。エッチな[H名]のために、次はイカがどうやって子を成すか教えてあげよう」=
-//「だからなんでそんな海の生き物の性について詳しいの！？」=
+「わ～～っ、お魚綺麗～♪」=“Wah~~, the fishies are so pretty~♪”
+「南の島だからか、カラフルなのが多いね」=“There's a lot of very colorful ones too. Wonder if it's because it's the south?”
+「ね！　あっ、見て見て、あの子たち、２匹でぴったりくっついて泳いでる！　カップルかな？」=“Yeah! Ah--, look look, those two, they're snuggling so close together as they swim! Are they a couple?”
+「カップルかもね。性別の見分けつかないから、組み合わせは不明だけど」=“They might be. I can't tell their genders apart so, I don't know what combination we're looking at.”
+「えっ、普通に男女じゃないの！？　あ、今どき男女は普通じゃないか！」=“Eh--, they're not a normal male female couple!? Ah, I guess that's not normal these days, huh!”
+「両性愛の魚はいるらしいね」=“There's bisexual fish out there too.”
+「え～～っ、そうなんだ！　じゃああの２匹が男の子同士でも女の子同士でも、ずっと仲良くいれたらいいね」=“Eeh~, I see! Then, whether those two are boys or girls, I hope they get to be together forever.”
+「そうだね……あっ、サメだ」=“Yeah... ah--, it's a shark.”
+「ひゃっ、怖い……！」=“Hyah--, so scary...!”
+「あはは、水槽の向こうだから大丈夫だよ。そういえばサメって、体内受精をする珍しい魚なんだよ」=“Ahahah, it's beyond the glass so don't worry. Reminds me, did you know that sharks are a kind of rare fish that do internal fertilization?”
+「体内受精？　あれ、魚ってあれだよね、メスが産んだタマゴにオスが……って、何言ってるんだろ私」=“Internal fertilization? Huh, aren't fish like that, where the female lays the eggs, and the male... wuh, what am I saying.”
+「そう、ほとんどの魚は体外受精だけど、オスのサメはクラスパーと呼ばれる２本の生殖器があって、それをメスに挿入するんだ、神秘だね」=“That's right, most fish do external fertilization, however male sharks have these two sexual organs called claspers, which they insert into the female to do it. Life works in mysterious ways.”
+「……なんでそんなに詳しいの？」=“...Why do you know that much?”
+「海の世界はロマンだからね」=“The world under the sea is where men's passions lie.”
+「もう、エッチなんだから」=“Jeez, you're so lewd.”
+「はーい、エッチって言った方がエッチなんです～」=“Perhaps the lady should look in the mirror~. You smelt it, you dealt it~”
+「ち、違うもん！　普通だもん！」=“N-No! I'm normal!”
+「仕方ないな。エッチな[H名]のために、次はイカがどうやって子を成すか教えてあげよう」=“There's no helping it. For your sake, my lewd [H名], I'll tell you how squids go about procreating.”
+「だからなんでそんな海の生き物の性について詳しいの！？」=“Seriously, why do you know so much about how sea creatures have sex!?”

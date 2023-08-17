@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あの……エッチがしたいんだけど、いい？」=
-//「いいけど……もうちょっとムードのある言い方ってあるんじゃないかな？」=
-//「うっ……ごめん。ひねりが無さ過ぎたね」=
-//「うん、ストレートすぎるよ。でも、そういう所、嫌いじゃないよ♪」=
+「あの……エッチがしたいんだけど、いい？」=“Uhm... I want to have sex, could we?”
+「いいけど……もうちょっとムードのある言い方ってあるんじゃないかな？」=“Sure but... don't you have more romantic lines that you can use?”
+「うっ……ごめん。ひねりが無さ過ぎたね」=“Uu--... Sorry. There wasn't a hint of tact in there, was it?”
+「うん、ストレートすぎるよ。でも、そういう所、嫌いじゃないよ♪」=“Yep, way too straight. But I don't hate that side of you, you know♪”

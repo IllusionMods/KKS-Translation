@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「色んな美容オイルが置いてあるね」=
-//「全部自由に使っていいなんて……すごいね」=
-//「どうする？　折角だから、俺がオイル塗ってあげようか」=
-//「キミが？　う～ん、だったら、お願いしていいかな」=
-//「うん、いいよ。頑張って綺麗に塗るからね」=
+「色んな美容オイルが置いてあるね」=“They've got all sorts of beauty oil here, huh?”
+「全部自由に使っていいなんて……すごいね」=“I can't believe we can use it all as we please... it's amazing.”
+「どうする？　折角だから、俺がオイル塗ってあげようか」=“What do you wanna do? Want me to do it for you, since we're here?”
+「キミが？　う～ん、だったら、お願いしていいかな」=“You? Nn~, you really don't mind?”
+「うん、いいよ。頑張って綺麗に塗るからね」=“Yep, I don't. I'll do my best and do it really nicely.”

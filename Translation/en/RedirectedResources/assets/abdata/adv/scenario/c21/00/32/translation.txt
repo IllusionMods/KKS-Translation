@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どうする？　何か買い物でもしていく？」=
-//「そうだね。パパとママにもお土産買っていきたいからなぁ」=
-//「色んな物が売ってるよね……これだけあったら何買うか迷いそうだね」=
-//「うん。お菓子とかもいいけど、日持ちしないとダメだから」=
-//「民芸品とかはどうかな？」=
-//「ママはそういうの好きだけど、パパは興味ないんだよね……お土産ってなかなか難しいね」=
+「どうする？　何か買い物でもしていく？」=“So, what do you wanna do? Wanna go do some shopping or something?”
+「そうだね。パパとママにもお土産買っていきたいからなぁ」=“Yeah. I do wanna buy some souvenirs for my papa and mama~”
+「色んな物が売ってるよね……これだけあったら何買うか迷いそうだね」=“They've got a whole lot of things here, huh... with this much of a selection, it's a hard pick, huh?”
+「うん。お菓子とかもいいけど、日持ちしないとダメだから」=“Yeah. Sweets are good and all but, they gotta last until we get home.”
+「民芸品とかはどうかな？」=“How about some folk crafts instead?”
+「ママはそういうの好きだけど、パパは興味ないんだよね……お土産ってなかなか難しいね」=“Mama really likes that kinda stuff but, my papa doesn't really care, you know?... Souvenirs are so hard~”

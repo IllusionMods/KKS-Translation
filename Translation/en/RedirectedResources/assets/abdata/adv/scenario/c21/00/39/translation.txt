@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「バナナボート、面白かったね。それじゃあ、私はここで」=
+「バナナボート、面白かったね。それじゃあ、私はここで」=“That was really fun, wasn't it? Well then, I'll be off.”
