@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「素敵な滝でしたね……それでは、これで失礼します」=
+「素敵な滝でしたね……それでは、これで失礼します」=“That was a wonderful waterfall, wasn't it... well then, do excuse me.”

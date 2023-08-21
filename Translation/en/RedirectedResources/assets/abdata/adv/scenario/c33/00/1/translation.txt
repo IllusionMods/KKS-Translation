@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふーん……？　そんなに私の事が好きなのね？」=“Hmmm...? You like me that much?”
-「うん、この気持ちに嘘はないよ」=“Yeah, I'm not lying about how I feel.”
-「ふふっ、熱いのね。……その熱さに、私もやられちゃいそうね」=“Fufu, you're one fiery guy huh... Your passion is making me fall head over heels here.”
-「ってことは……」=“Which means...”
-「えぇ、お付き合いしてあげる。私の事、もっともっと熱くさせて頂戴ね……？」=“Sure, I'll go out with you.  Keep burning me up even more from now on, okay...?”
+「ふーん……？　そんなに私の事が好きなのね？」=“Hmmm....? You love me that much, huh?”
+「うん、この気持ちに嘘はないよ」=“Yeah, these feelings are no lie.”
+「ふふっ、熱いのね。……その熱さに、私もやられちゃいそうね」=“Fufuh--, I see you're very passionate. ...All that heat's gonna burn me up too.”
+「ってことは……」=“You mean...”
+「えぇ、お付き合いしてあげる。私の事、もっともっと熱くさせて頂戴ね……？」=“Yes, I'll go out with you. Make me feel hotter and hotter, okay...?”

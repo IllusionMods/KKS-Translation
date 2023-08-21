@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「予想通りというか……ドキドキし過ぎて、あまり景色を楽しめませんでした……いつかまた貴方と一緒に乗りたいです」=
+「予想通りというか……ドキドキし過ぎて、あまり景色を楽しめませんでした……いつかまた貴方と一緒に乗りたいです」=“That went exactly as I feared, rather... my heart pounded so much, I couldn't savour the scenery at all... I'd love to try that again with you, someday.”

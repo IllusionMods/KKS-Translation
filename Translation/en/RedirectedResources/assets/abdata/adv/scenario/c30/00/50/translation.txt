@@ -2,6 +2,6 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「それじゃ何を食べようかなぁ」=“Well then, what should we eat?”
-「あ、これにしよっかな、キミが好きなやつ」=“Ah, I think I'll have this, the one you like.”
-「うん、それじゃこっちは……[H名]が好きなコレにしようかな」=“Yeah, so then... I think I'll go with the one that you like, [H名].”
-「ふふっ、それじゃ、後でお互いに食べ合いっこしましょ？」=“Fufu! Alright then, wanna eat together, later?”
+「あ、これにしよっかな、キミが好きなやつ」=“Ah, I think I'll go with this then, I know you like it.”
+「うん、それじゃこっちは……[H名]が好きなコレにしようかな」=“Okay, then I'll... go with this one that you love.”
+「ふふっ、それじゃ、後でお互いに食べ合いっこしましょ？」=“Fufuh--, well then, let's feed some to each other too?”

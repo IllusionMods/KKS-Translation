@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お料理、すごく美味しかったね。それじゃあ、また一緒に食べようね」=
+「お料理、すごく美味しかったね。それじゃあ、また一緒に食べようね」=“That was super tasty, wasn't it? Let's eat something together again later, okay?”

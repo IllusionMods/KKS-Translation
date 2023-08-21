@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「これがウムイの鐘だね。早速鳴らしてみようよ！」=“So this is the Umui Bell. Let's get this thing ringing!”
-「ちょっと待って。その前にクイズよ。さて、この鐘にはある言い伝えがあります。それはどんなことでしょうか？」=“Hold up a second. Now, there is a legend concerning this bell. You know what it is?”
-「もちろん知ってるよ！　一緒に鳴らしたら必ず結ばれるってやつだよね」=“Of course I do! IF we ring it together, we'll always be bound to each other.”
-「ふふっ、残念でした。正解は一緒に鳴らしたもの同士は末代まで祟られ、永遠に……」=“Fufu! What a shame. The right answer is: 'those that ring the bell together, will be haunted by the generations to come, forever...' ”
-「えーっ、それ絶対に違うでしょ！」=“Eh-! I'm absolutely sure that's not it!”
-「うふふっ、残念、騙されてくれなかったわね。焦ってあわあわしちゃうキミを見るの、お姉さん好きなんだけどなぁ」=“Ufufu! Too bad, I didn't fool you. Your onee-san likes to see you fidget and sweat a little.”
-「ほら、やっぱり。さすがに騙されないってば」=“Hey, like you expected - you're right, I'm not fooled.” 
-「ふふっ、でもね、やっぱりさっきの答えじゃ不正解かな。さて答えは何でしょうか？　１０秒以内に答えられる？」=“Fufu! But I guess the answer I gave earlier isn't correct. So what's the right answer? Can you give the answer to me within 10 seconds?”
-「え？　本当に違うの？　そんなはずは……えーっと……」=“Eh? No, really? Well, it's like this... er, um-...”
-「はい、タイムリミットよ。ふふっ、キミにはちょっと難しい問題だったかしら」=“Yes, time's up, okay? Fufu! I guess the questions was just a little too difficult for you.”
-「えー、v？　本当に分からないんだけど」=“Eh- what? I really don't understand.”
-「ええ、正解はね。私とキミが一緒に鳴らしたら、いつまでも素敵な恋人同士でいられるってことでした」=“Ehh, here's the right answer. When you and I ring this together, it means that we're gonna be the best lovers, forever.”
-「どう、正解でしょ？　私にはすっごく簡単な問題だったわよ？　はい、それじゃクイズは終わり。一緒に鳴らしましょう」=“So that's the right answer? That wasn't very hard to figure out, alright? Yes, then the quiz is over. Let's ring the bell together.”
-「違うよ。それじゃ正解じゃない。恋人だけじゃなくて、最終的には素敵な夫婦にならないと」=“No it's not. That's not the right answer. Not only do we have to be lovers, we also have to become the best couple.”
-「えっ！？　ちょっ、ちょっと。それって……もーっ！　その答えは卑怯だわ！　ずるい！」=“Eh!? Wa-wait. That's... geez-! That's not a fair answer! So unfair!”
-「間違ってる……かな」=“I think that might be wrong.”
-「ううん、間違ってない。それが正解。私とキミがいつまでも素敵な恋人同士になれて、最後には素敵な夫婦になる言い伝え……」=“Yeeeah, it's not wrong. It's the right answer. You and I are gonna be the best lovers forever, and we're gonna end up as the greatest couple, ever.”
-「うん、絶対にそうなるよ。俺、[H名]のこと大好きだから」=“Yeah, I'm pretty sure we will. Because I love you so much, [H名].”
-「私も……キミのことが大好き。だから、そうね、絶対にそうなるわ……って、ふふっ、なんだかちょっと恥ずかしいわね」=“I... love you, too. So, yeah, it's definitely gonna happen... fufu! That's kind of embarrassing.”
-「あはは、恥ずかしくても事実だよ。さ、それじゃ一緒に鳴らそう。いくよ……せーのっ！」=“Ahaha, embarrassing, but true. Come on, then. Let's ring it together. Let's do this!”
+「これがウムイの鐘だね。早速鳴らしてみようよ！」=“This is the bell of Umuy, huh? Let's try ringing it!”
+「ちょっと待って。その前にクイズよ。さて、この鐘にはある言い伝えがあります。それはどんなことでしょうか？」=“Hang on a second. A quiz for you, first. Did you know, this bell has a certain legend behind it. What sort of legend is that, my good sir?”
+「もちろん知ってるよ！　一緒に鳴らしたら必ず結ばれるってやつだよね」=“Of course, I know of it! You're talking about the one that says we'll be tied together someday if we ring it, right?”
+「ふふっ、残念でした。正解は一緒に鳴らしたもの同士は末代まで祟られ、永遠に……」=“Fufuh--, sadly, no. The actual legend states that whichever pair rings this bell together will be cursed together, for eternity...”
+「えーっ、それ絶対に違うでしょ！」=“Eh~, c'mon, even I'm not that stupid!”
+「うふふっ、残念、騙されてくれなかったわね。焦ってあわあわしちゃうキミを見るの、お姉さん好きなんだけどなぁ」=“Ufufuh--, shame, I couldn't pull one over you. Onee-san really loves seeing you get flustered and panic though, you know~?”
+「ほら、やっぱり。さすがに騙されないってば」=“I knew it. Even I'm not gonna be fooled by that one.”
+「ふふっ、でもね、やっぱりさっきの答えじゃ不正解かな。さて答えは何でしょうか？　１０秒以内に答えられる？」=“Fufuh--, but you know, that answer really was a bit incorrect. Now then, what could the actual answer be? Can you tell me within 10 seconds?”
+「え？　本当に違うの？　そんなはずは……えーっと……」=“Eh? Is it really not that? That can't... erhm....”
+「はい、タイムリミットよ。ふふっ、キミにはちょっと難しい問題だったかしら」=“Alright, time's up. Fufuh--, I suppose it was a bit too difficult for you.”
+「えー、v？　本当に分からないんだけど」=“Eh~? I really don't get it though.”
+「ええ、正解はね。私とキミが一緒に鳴らしたら、いつまでも素敵な恋人同士でいられるってことでした」=“Yes, well, the real answer was that if we ring it together, we'll be able to stay as a wonderful couple forever.”
+「どう、正解でしょ？　私にはすっごく簡単な問題だったわよ？　はい、それじゃクイズは終わり。一緒に鳴らしましょう」=“See, isn't that the right answer? It was a super easy question, you know? Alright then, that's that quiz done. Let's ring the bell.”
+「違うよ。それじゃ正解じゃない。恋人だけじゃなくて、最終的には素敵な夫婦にならないと」=“You've got it wrong though, that's not it. "Couple" doesn't cut it, we gotta eventually become a husband and wife too.”
+「えっ！？　ちょっ、ちょっと。それって……もーっ！　その答えは卑怯だわ！　ずるい！」=“Eh--?! H-Hey. That's... jeez--! That's a very unfair answer! You cheeky boy!”
+「間違ってる……かな」=“Am I... wrong?”
+「ううん、間違ってない。それが正解。私とキミがいつまでも素敵な恋人同士になれて、最後には素敵な夫婦になる言い伝え……」=“No, you're not. That's the right answer. The legend states that we'll be a loving couple forever, and eventually get married and...”
+「うん、絶対にそうなるよ。俺、[H名]のこと大好きだから」=“Yep, we definitely will. Because I love you, [H名].”
+「私も……キミのことが大好き。だから、そうね、絶対にそうなるわ……って、ふふっ、なんだかちょっと恥ずかしいわね」=“I... love you too. So, yeah, that'll definitely happen... wuh, fufuh--, that's a bit embarrassing to say though, isn't it?”
+「あはは、恥ずかしくても事実だよ。さ、それじゃ一緒に鳴らそう。いくよ……せーのっ！」=“Ahahah, yeah but it's true. Now then, let's ring it together. Here we go... one, two--!”

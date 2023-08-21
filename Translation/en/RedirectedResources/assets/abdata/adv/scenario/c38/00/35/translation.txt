@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「絶対思い出に残ると思います。また二人でどこかに行きましょうね」=
+「絶対思い出に残ると思います。また二人でどこかに行きましょうね」=“I think we'll definitely never forget that. Let's go somewhere like that again, okay?”

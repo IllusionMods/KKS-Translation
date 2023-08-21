@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「え、もちろん本当だったらすごく嬉しいけど……」=“Eh, I'd be very happy, if this is true...”
-「ふーん？　嬉しいだけ？」=“Mmm-hmm? Just happy?”
-「えっと、付き合ったりとかいちゃいちゃしてみたい、かな……？」=“Er, um, I'd like to go out with you, or make out with you, or...?”
-「よし、じゃあ付き合おっか。カップル成立っと」=“Right, then let's go out. As a couple.”
-「え？　……え？」=“Eh? ...eh?”
-「ふふっ、これから末永くよろしくね……？」=“Fufu! Should I look forward to being with you for many years to come, then...?”
+「え、もちろん本当だったらすごく嬉しいけど……」=“Eh, if you're serious I'm super happy but...”
+「ふーん？　嬉しいだけ？」=“Hmmm~? Just happy?”
+「えっと、付き合ったりとかいちゃいちゃしてみたい、かな……？」=“Erhm, I'd like to go out and make out and flirt and whatnot, I guess...?”
+「よし、じゃあ付き合おっか。カップル成立っと」=“Alright, let's go out then. We're a couple now.”
+「え？　……え？」=“Eh? ....Eh?”
+「ふふっ、これから末永くよろしくね……？」=“Fufuh--, you're stuck with me now so take care of me, okay...?”

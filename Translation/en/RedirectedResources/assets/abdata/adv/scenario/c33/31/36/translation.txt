@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「で、海に来てみたけど、何をして遊ぶのかしら？」=“So, we're at the beach, but are we going to do something?”
-「そうだなぁ……うーん、[H名]さんと遊びたくて誘ったんだけど、実は何をしようかは特に考えてなくて……」=“I suppose... hmmm, I invited you out to play, [H名], but I didn't actually have a specific idea of what we'd be doing.”
-「あら、そんなに私と遊びたかったのかしら？」=“Oh, you wanted to play with me that badly?”
-「まあ、折角こんないいとこに来たんだしね」=“I mean, why waste a trip to such a nice place you know?”
-「ふふっ、思ってたより仕方ない人ね……そういうときは、一緒に何をするか考えればいいのよ？」=“Fufu! You're more helpless than I thought... in that case, we'll just have to think about what we're going to do together.”
-「そ、そうだね……二人で考えてみよっか」=“R-right... let's see what we can figure out together.”
+「で、海に来てみたけど、何をして遊ぶのかしら？」=“So, we came all the way here but, what should we do to 'have fun'?”
+「そうだなぁ……うーん、[H名]さんと遊びたくて誘ったんだけど、実は何をしようかは特に考えてなくて……」=“Lemme think... Nnnn, I asked since I wanted to have fun but, I didn't actually think about what we would do, honestly...”
+「あら、そんなに私と遊びたかったのかしら？」=“Oh my, did you want to have fun with me that much?”
+「まあ、折角こんないいとこに来たんだしね」=“Well, we did come all the way to an island this nice, afterall.”
+「ふふっ、思ってたより仕方ない人ね……そういうときは、一緒に何をするか考えればいいのよ？」=“Fufuh--, there truly is no helping you, is there... at times like these, all we need to do is think of a solution together, you know?”
+「そ、そうだね……二人で考えてみよっか」=“Y-You're right... I guess two heads are better than one.”

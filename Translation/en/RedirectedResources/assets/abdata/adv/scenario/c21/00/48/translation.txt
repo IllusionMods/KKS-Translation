@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「流石はホテルのレストラン、メニューがいっぱいだね」=
-//「うん。それにどれも美味しそう」=
-//「ついつい頼み過ぎちゃいそうだね」=
-//「男の子なんだから、全部食べられるんじゃないの？」=
-//「そこまで大食いじゃないよ」=
-//「私が手伝ってあげるから、いっぱい頼んじゃお」=
+「流石はホテルのレストラン、メニューがいっぱいだね」=“I guess that's a hotel's restaurant for you, this many's anything but lacking.”
+「うん。それにどれも美味しそう」=“Yeah. It all looks so good too.”
+「ついつい頼み過ぎちゃいそうだね」=“I feel like I'm gonna end up ordering too much.”
+「男の子なんだから、全部食べられるんじゃないの？」=“You're a boy, so won't you be able to finish it all?”
+「そこまで大食いじゃないよ」=“I'm not that much of a glutton.”
+「私が手伝ってあげるから、いっぱい頼んじゃお」=“I'll help you out too, so let's order lots.”

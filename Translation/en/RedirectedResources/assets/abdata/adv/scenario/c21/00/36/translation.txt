@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「色々レンタルできるみたいだけど、何して遊ぶ？」=
-//「私はバナナボートがいいかなぁ」=
-//「あれってやっぱり、モーターボートで引っ張ってもらえるのかな」=
-//「そうじゃないの？　その方がスピードがあって楽しそうだし」=
-//「引っ張られて落ちゃったりしない？」=
-//「大丈夫、大丈夫。その落ちちゃうのが楽しいんだから」=
+「色々レンタルできるみたいだけど、何して遊ぶ？」=“Seems like we can rent a whole bunch of stuff, what do you wanna do?”
+「私はバナナボートがいいかなぁ」=“I think I wanna go banana boating~”
+「あれってやっぱり、モーターボートで引っ張ってもらえるのかな」=“I wonder if it also includes pulling us along via a motorboat?”
+「そうじゃないの？　その方がスピードがあって楽しそうだし」=“It should, no? You get a whole lot more speed that way.”
+「引っ張られて落ちゃったりしない？」=“But won't that make you fall off?”
+「大丈夫、大丈夫。その落ちちゃうのが楽しいんだから」=“It's fine, it's fine. That's the fun part.”

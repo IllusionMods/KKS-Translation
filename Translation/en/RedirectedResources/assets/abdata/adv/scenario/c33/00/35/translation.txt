@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「また来ましょ？　あなたとなら何度来てもいいわ」=“We'll come back, right? I don't mind how many times I come back, as long as I'm with you.”
+「また来ましょ？　あなたとなら何度来てもいいわ」=“Let's come here again? I really wouldn't mind that if you're with me.”

@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとだけ卓球をしていかない？」=
-//「サーブはどっちからにする？　それと、何ゲームするかも決めないといけないわね」=
-//「あはは、ノリノリだね」=
-//「こういう勝負ごとは真剣に取り組むからこそ楽しいものでしょ？」=
-//「それは確かに、[H名]の言う通りだ」=
-//「意見が一致したわね。それじゃあ……１ゲームの一発勝負にしましょうか。もし、私が勝ったら……フフッ」=
-//「え？　怖い……罰ゲーム先に決めておいてよ」=
-//「アナタが勝てばいいだけでしょう？　それとも、自信がないのかしら？」=
-//「くっ、言ってくれるね。よしっ、俺も本気で行くよ！」=
-//「これで１１点。まさか、本当に私が勝ってしまうなんて思わなかったわ」=
-//（くぅ、罰ゲームが気になって集中できなかった……）=
-//「なんて……花を持たせてくれたのでしょう？　アナタは優しいから」=
-//「そ、そういうことも……あったりするかも？」=
-//「でも、勝ちは勝ちよね？　罰として……手でも、繋いでもらおうかしら」=
-//「あはは、喜んで」=
+「ちょっとだけ卓球をしていかない？」=“Wanna go for a round of ping pong?”
+「サーブはどっちからにする？　それと、何ゲームするかも決めないといけないわね」=“Who's going to be serving first? Also, we have to decide how many games we'll be playing, first.”
+「あはは、ノリノリだね」=“Ahahah, you're sure into it.”
+「こういう勝負ごとは真剣に取り組むからこそ楽しいものでしょ？」=“Matches like these are only fun when you take them seriously, no?”
+「それは確かに、[H名]の言う通りだ」=“Yep, you're not wrong there.”
+「意見が一致したわね。それじゃあ……１ゲームの一発勝負にしましょうか。もし、私が勝ったら……フフッ」=“I see we see eye to eye. Well then... let's just go for a single round make-or-break game. If I win... fufuh--”
+「え？　怖い……罰ゲーム先に決めておいてよ」=“Eh? Scary... Atleast tell me what I'm gonna be in for first.”
+「アナタが勝てばいいだけでしょう？　それとも、自信がないのかしら？」=“Why? Just win and you won't need to find out. Or is it that you're not confident about your chances?”
+「くっ、言ってくれるね。よしっ、俺も本気で行くよ！」=“Kuh--, now you've said it. Alright--, I'm gonna get serious too!”
+「これで１１点。まさか、本当に私が勝ってしまうなんて思わなかったわ」=“That's 11 points then. I didn't think I'd actually win there, what a surprise.”
+（くぅ、罰ゲームが気になって集中できなかった……）=(Kuh, I got so focused on what she was gonna make me do that I couldn't get into the game...)
+「なんて……花を持たせてくれたのでしょう？　アナタは優しいから」=“Heh, if only though... You actually went easy on me, didn't you? Because you're a sweetie.”
+「そ、そういうことも……あったりするかも？」=“M-Maybe... perhaps?”
+「でも、勝ちは勝ちよね？　罰として……手でも、繋いでもらおうかしら」=“But a win's a win, right? As your punishment... maybe I'll have you hold my hand the whole time.”
+「あはは、喜んで」=“Ahahah, gladly.”

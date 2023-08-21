@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あの、あんなに恥ずかしいことはちょっと……見つからなくて、本当に良かったです」=
+「あの、あんなに恥ずかしいことはちょっと……見つからなくて、本当に良かったです」=“Uhm, something so embarrassing... I'm glad we, weren't seen.”

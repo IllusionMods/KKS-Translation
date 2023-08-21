@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この島の海辺には、色んな生き物がいるんですね。貴方と歩けて楽しかったです」=
+「この島の海辺には、色んな生き物がいるんですね。貴方と歩けて楽しかったです」=“The sands here are home to a whole lot of different creatures, huh? I had a lot of fun walking with you.”

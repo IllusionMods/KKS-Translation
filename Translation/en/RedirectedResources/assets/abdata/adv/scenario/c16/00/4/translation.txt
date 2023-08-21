@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「呆れるわ……男って本当に、本能の赴くままに動いてるのね」=
-//「呆れられたっていいよ……俺は本気で、キミとしたいんだ」=
-//「……そんなに私がいいの？」=
-//「キミがいい……いや、キミじゃないとダメなんだ」=
-//「そこまで言うなら、仕方がないわね。その代わり、優しないと怒るから」=
+「呆れるわ……男って本当に、本能の赴くままに動いてるのね」=“I'm genuinely stunned... men really do let their instincts do all the thinking, huh?”
+「呆れられたっていいよ……俺は本気で、キミとしたいんだ」=“It's fine if you're stunned, or even disgusted really... I want to do it with you just that badly.”
+「……そんなに私がいいの？」=“...You want me that much?”
+「キミがいい……いや、キミじゃないとダメなんだ」=“Yes, I do... no, it has to be you.”
+「そこまで言うなら、仕方がないわね。その代わり、優しないと怒るから」=“I suppose it can't be helped in that case. But in return, you have to be gentle, else I'll get really mad.”

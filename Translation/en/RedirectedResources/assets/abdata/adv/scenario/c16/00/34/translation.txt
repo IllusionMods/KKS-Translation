@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「まだ顔が赤い気がするわ……こほん、私は何も言ってないから。それじゃあまた」=
+「まだ顔が赤い気がするわ……こほん、私は何も言ってないから。それじゃあまた」=“My face still feels a bit red... *cough*, I wasn't the one who said anything, for the record. See you.”

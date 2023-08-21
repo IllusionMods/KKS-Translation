@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「もしよかったら、お土産を買う時に一緒に選んでいただけると嬉しいです」=
+「もしよかったら、お土産を買う時に一緒に選んでいただけると嬉しいです」=“If it's alright, I'd love to pick out my souvenirs of this trip together with you sometime.”

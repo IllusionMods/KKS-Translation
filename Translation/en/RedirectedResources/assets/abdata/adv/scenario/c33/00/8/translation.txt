@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「それじゃ、私は先に出てるわね」=“Well then, I'll be heading out first.”
-「また外で……いえ、いろんな所でイチャイチャしましょ？　ふふっ」=“Let's make out again, outside... no, let's make out everywhere, okay? Fufu!”
+「それじゃ、私は先に出てるわね」=“I'm going to head out first then, okay?”
+「また外で……いえ、いろんな所でイチャイチャしましょ？　ふふっ」=“Let's flirt outsi... no, let's flirt everywhere we can later? Fufuh~”

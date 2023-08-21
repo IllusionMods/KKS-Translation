@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ありがとうございます。お二人のご迷惑にならないように、気を付けます」=
+「ありがとうございます。お二人のご迷惑にならないように、気を付けます」=“Thank you very much. I will be careful, not to get in the way of either of you.”

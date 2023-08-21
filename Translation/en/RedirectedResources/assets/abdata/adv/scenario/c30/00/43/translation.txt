@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「この配色、どうかな？」=“How about this color scheme?”
-「うん、いい感じじゃない？　というか私の配色とほぼ同じ？」=“Yeah, I'm not sure, you know? I mean, it's almost the same as the colors I'm using.”
-「あー、そっちをちらほら見てたからかな……ぱ、パクリじゃないよ？」=“Ah- I guess it was because I kept glancing over there... it's not a clone of yours, is it?”
-「ふふっ、わかってるわよ、それにキミの視線も、ね？」=“Fufu! I understand exactly what you were looking at, you know?”
+「この配色、どうかな？」=“How's this color scheme?”
+「うん、いい感じじゃない？　というか私の配色とほぼ同じ？」=“Nnn, isn't it fine? Heck, it's more or less the same as mine.”
+「あー、そっちをちらほら見てたからかな……ぱ、パクリじゃないよ？」=“Ah, I think that's because I was looking at yours every now and then... I-I didn't mean to rip it off, okay?”
+「ふふっ、わかってるわよ、それにキミの視線も、ね？」=“Fufuh--, I know, I know. Your gaze too, I can feel that too, okay?”

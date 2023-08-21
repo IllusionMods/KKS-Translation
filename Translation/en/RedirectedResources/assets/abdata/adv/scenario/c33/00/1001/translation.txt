@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「涼しそうだし、ここでゆっくりしようよ」=“It's cool here. Let's relax here for a while.”
-「ね、団扇持ってきてくれてありがとう。こういう気遣いができるから女の子にモテるのよね」=“Hey, thanks for bringing a uchiwa. It's that kind of concern that makes you irresistable to girls.”
-「えっ！？　な、なんの話！？」=“Eh!? Wh-what's this, now!?”
-「あら、急に焦ってどうしたの？　私は思ったことを言っただけよ」=“Oh, why are you so worked up all of a sudden? I just said what I was thinking.”
-「いや……いきなりそんなこと言うからびっくりして……」=“No... I was just surprised to hear you say that out of the blue...”
-「ふふ、自分で言っておいてヤブヘビなの。あなたって、付き合うなら重婚も覚悟しないといけないぐらいモテるのよね……困ったわ」=“Fufu, I probably made things harder for myself by saying that. I mean you're so attractive that if someone goes out with you, they'd better be prepared for polygamy... Troubling indeed.”
-「重婚！？　いや、俺はそんなモテキャラじゃないよ！　イケメンじゃないし、気の利いたことも言えないし、他にも……」=“Polygamy? No, I'm not one of those "Chad" type! I'm not good-looking, I'm not even good with words, and besides those I'm...” 
-「色々コンプレックスがあるのね。たしかに顔がよくて気の利いたことを言える人はチヤホヤされるでしょうけど、モテるっていうのは――」=“You have a lot of complexes huh. It's true that if you're handsome and clever, you'd be popular, but being attractive is...”
-「[H名]さん、もし俺がモテても俺は……！　……いや、ごめん、やっぱりなんでもない。根拠のないことは言えないっていうか……」=“[H名], even if I were popular, I’d...! ...no, sorry, it's nothing, after all. It's, uh, well... I guess I can't say it without giving proof so...”
-「そこ。女の子が……ううん、きっと男の子だって、人なら誰だってそういう誠実さのある人に恋をするの、私がそうであるようにね」=“That. That there's why all girls... no, all girls and boys, I'd even go and say that all of mankind would fall in love with someone that has your sincerity, just like I did.”
-「誠実って……俺、かなりひどいこと言ったよ……？」=“Sincerity... but I have said some pretty terrible things, haven't I?”
-「本当のひどいことって言うのはね、さっきあなたが言いかけた『もし俺がモテても俺は君だけが好きだ』って言うことよ」=“The truly awful thing is what you were about to say earlier: 'Even if I'm popular, I'd still only love you.'”
-「私はまだ人生経験浅いけど、それでも人に１００％なんてないことぐらい知ってるわ。それを恋の魔法でなんとかしようなんて虫のいい話でしょ」=“I may not have a lot of life experience yet, but I still know that no one's 100% perfect. And thinking that falling in love will magically solve those problems is just being ignorant.”
-「……そうかも。でも、だとしたら[H名]さんだってモテそうだし、俺も覚悟しなくちゃね。そうじゃないとお互い平等じゃないし」=“...That may be so. But if that's the case, you seem pretty popular yourself, [H名], so I'd better be prepared too. Otherwise, we wouldn't be fair to each other.”
-「安心して、私はあなた以外に好きな人なんてできないから。平等って、天秤が釣り合っている状態のことを言うわけじゃないと思うの」=“Rest assured, I'm simply can't love anyone but you. And fair I think, shouldn't necessarily be about balancing the scales.”
-「天秤？」=“Balancing the scales?”
-「あなたがこうだから私もこう、同じ条件、どっちもどっち、あとは……喧嘩両成敗とか？　そんな言葉で縛られるなんておかしいと思わない？」=“If you're this then I'll that, on equal footings, one and the same, and what else... two to make a quarrel? Don't you think it's silly to be bounded by such words?”
-「だって二人がどれだけ愛し合っていても、違う環境で育ってきた、個性のある個人同士じゃない。全部一緒くたじゃないの、全部違うの」=“Because no matter how much we love each other, we're unique individuals who have grown up in different environments. We're not the same, we're different in every way.”
-「それを認め合って、影響し合って、変わっていって、時々喧嘩して、意見を言い合って、二人だけのルールを作って、愛し合っていくんでしょ」=“Should we not then acknowledge and accept those differences?. We'll change, we'll fight sometimes, we'll argue and make our own rules... and still love each other.”
-「[H名]さん……人生何週目？」=“[H名]... how many lives have you lived?”
-「残念ながら１週目よ♡　とにかく、私はあなた以外に好きな人なんてできないから安心して。この気持ちは魔法でも理屈でもないの」=“Unfortunately for you, I'm still on my first life♡ Anyway, rest assured that there's nobody else I could possibly love. My love for you isn't because of some magic or because it's sound logic.”
-（最後に全部ひっくり返されちゃった……でも、それが平等ってことか。なんか、[H名]さんにはいつまでも適いそうにないな）=(Things got completely turned around there at the end... but that's what your ‘fairness’ is about huh. Somehow, I don't think I'll ever be your equal, [H名].)
+「涼しそうだし、ここでゆっくりしようよ」=“It's pretty cool here, so let's chill out here for a bit.”
+「ね、団扇持ってきてくれてありがとう。こういう気遣いができるから女の子にモテるのよね」=“Hey, thanks for packing these hand fans for us. It's why you're so popular with girls, you know? Because you care.”
+「えっ！？　な、なんの話！？」=“Eh--?! S-Sorry, what're we talking about?!”
+「あら、急に焦ってどうしたの？　私は思ったことを言っただけよ」=“Oh my, what's got you in a panic? I just said what I thought.”
+「いや……いきなりそんなこと言うからびっくりして……」=“I mean... it's because you said that that I....”
+「ふふ、自分で言っておいてヤブヘビなの。あなたって、付き合うなら重婚も覚悟しないといけないぐらいモテるのよね……困ったわ」=“Fufuh--, I always end up stirring up the hornet's nest. You're so popular, I'm gonna have to get ready for a second wife someday too, aren't I... what a bind~.”
+「重婚！？　いや、俺はそんなモテキャラじゃないよ！　イケメンじゃないし、気の利いたことも言えないし、他にも……」=“A second wife!? No way, I'm not that much of a heartthrob, you know! Like to begin with, I'm not all that handsome, and you can't say I have good taste either, not to mention...”
+「色々コンプレックスがあるのね。たしかに顔がよくて気の利いたことを言える人はチヤホヤされるでしょうけど、モテるっていうのは――」=“You've a whole lot of complexes, don't you? For sure, handsome guys with good faces and good taste get all the attention but, you know, to actually be popular with girls, you--”
+「[H名]さん、もし俺がモテても俺は……！　……いや、ごめん、やっぱりなんでもない。根拠のないことは言えないっていうか……」=“[H名]-san, even if I was a popular guy, I'd still...! ...No, sorry, it's nothing. I shouldn't say something I can't back up...”
+「そこ。女の子が……ううん、きっと男の子だって、人なら誰だってそういう誠実さのある人に恋をするの、私がそうであるようにね」=“See, that's what I mean. Any girl... no, even boys, any person out there would fall in love with someone that honest and sincere, just like I did.”
+「誠実って……俺、かなりひどいこと言ったよ……？」=“Sincere... I said I'm not sure I'd be loyal to you though, that's pretty horrible, no...?”
+「本当のひどいことって言うのはね、さっきあなたが言いかけた『もし俺がモテても俺は君だけが好きだ』って言うことよ」=“The truly horrible thing would have been to finish that earlier sentence and say "Even if I was popular, I'd still only love you", you know.”
+「私はまだ人生経験浅いけど、それでも人に１００％なんてないことぐらい知ってるわ。それを恋の魔法でなんとかしようなんて虫のいい話でしょ」=“I don't have much life experience but, I atleast know that nobody is 100% anything. Saying that the magic of love will make it work somehow is just too convenient.”
+「……そうかも。でも、だとしたら[H名]さんだってモテそうだし、俺も覚悟しなくちゃね。そうじゃないとお互い平等じゃないし」=“...Maybe. But, you're pretty popular too, [H名], so I guess I gotta get ready for it too, don't I? Else it wouldn't be fair and equal.”
+「安心して、私はあなた以外に好きな人なんてできないから。平等って、天秤が釣り合っている状態のことを言うわけじゃないと思うの」=“Don't worry, I can't fall in love with anyone else. And fairness and equality, all that talk of balancing the scales is stupid, in my opinion.”
+「天秤？」=“Scales?”
+「あなたがこうだから私もこう、同じ条件、どっちもどっち、あとは……喧嘩両成敗とか？　そんな言葉で縛られるなんておかしいと思わない？」=“You're that way, so I'll be that way too", "operating under the same conditions", "you're just as black as me", and... "neither party is right"? Don't you think binding each other with words like that is insane?”
+「だって二人がどれだけ愛し合っていても、違う環境で育ってきた、個性のある個人同士じゃない。全部一緒くたじゃないの、全部違うの」=“Afterall, no matter how much people love one another, everyone's raised differently, and everyone's their own individual person, no? You can't be one and the same, everything is different.”
+「それを認め合って、影響し合って、変わっていって、時々喧嘩して、意見を言い合って、二人だけのルールを作って、愛し合っていくんでしょ」=“Accepting that, affecting each other, slowly changing along with one another, sometimes fighting, sometimes stating our opinions, making our own rules together, and loving each other at the end is what it's all about, no?”
+「[H名]さん……人生何週目？」=“[H名]-san... how many lifetimes have you been through?”
+「残念ながら１週目よ♡　とにかく、私はあなた以外に好きな人なんてできないから安心して。この気持ちは魔法でも理屈でもないの」=“Sorry to say, but this is my first♡ Anyways, I can't fall in love with someone else so don't worry. I don't have any reason or logic or magic to back that up.”
+（最後に全部ひっくり返されちゃった……でも、それが平等ってことか。なんか、[H名]さんにはいつまでも適いそうにないな）=(In the end, she knocked all that aside anyway... but, I guess that's what's 'fair' to her. Man, I don't think I'm ever going to be able to out-talk her.)

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お土産物が沢山あるよ」=
-//「そうですね。見たことが無いような民芸品もいっぱいです」=
-//「何か買っていくの？」=
-//「まだここでは買いませんけど、いずれどこかで」=
-//「これだけ種類があったら、簡単には決められないか」=
-//「はい。ゆっくり悩んで選びたいと思っています」=
+「お土産物が沢山あるよ」=“There's lots of souvenirs here.”
+「そうですね。見たことが無いような民芸品もいっぱいです」=“There sure are. There's lots of local crafts type things that I've never seen before as well.”
+「何か買っていくの？」=“Gonna buy something?”
+「まだここでは買いませんけど、いずれどこかで」=“Not here and not yet, but perhaps somewhere someday.”
+「これだけ種類があったら、簡単には決められないか」=“I guess it's hard to pick one thing with this many choices.”
+「はい。ゆっくり悩んで選びたいと思っています」=“Yes. I'd like to take my time picking out something nice.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ねぇ、これなんてどう？」=“Hey, what do you think about these?”
-「ん、つがいの置物……？」=“Nh, a pair of figurines...?”
-「そ。お土産としてもいいでしょ？」=“So. Think they'd make good souvenirs?”
-「そうだね、どれどれ、どのくらい種類あるのかな……」=“Well, there are quite a few different kinds...”
-「これなんてどう？　何だか私達っぽくない？　すっごく可愛いし――」=“What is with us? This doesn't sound like us, you know? Way too cutsie--”
+「ねぇ、これなんてどう？」=“Hey, how about one of these?”
+「ん、つがいの置物……？」=“Nn, sets of paired ornaments...?”
+「そ。お土産としてもいいでしょ？」=“Yep. They're perfect as a souvenir, no?”
+「そうだね、どれどれ、どのくらい種類あるのかな……」=“Yeah. Let's see, what all kinds to they have...”
+「これなんてどう？　何だか私達っぽくない？　すっごく可愛いし――」=“How about these? Don't they look kinda like us? They're super adorable too~”

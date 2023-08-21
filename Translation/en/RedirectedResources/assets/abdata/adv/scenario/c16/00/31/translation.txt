@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「とりあえず、島の奥まで来たね」=
-//「そうね、風が気持ちいいわ」=
-//「灯台も立派だし、やっぱりいい島だね、ここは」=
-//「ここまで過ごしやすいと、ついつい永住したくなってくるわ」=
-//「俺もだよ……どうせなら、一緒に住んでみる？」=
-//「なっ！？　な、何を言ってるのよ、いきなり……恥ずかしい事言わないで……」=
+「とりあえず、島の奥まで来たね」=“Well, I guess we can mark coming here off our list.”
+「そうね、風が気持ちいいわ」=“Yeah, the breeze feels great.”
+「灯台も立派だし、やっぱりいい島だね、ここは」=“The lighthouse looks awe inspiring too. Seriously, what a nice island.”
+「ここまで過ごしやすいと、ついつい永住したくなってくるわ」=“With how easy it is to live here, part of me wants to move here permanently.”
+「俺もだよ……どうせなら、一緒に住んでみる？」=“Me too... if we're gonna do that, wanna try doing it together?”
+「なっ！？　な、何を言ってるのよ、いきなり……恥ずかしい事言わないで……」=“Wha--!? W-What're you saying, so suddenly... don't say embarrassing stuff like that...”

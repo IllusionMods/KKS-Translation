@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「紅型って、すごく綺麗だよね」=
-//「そうですね。鮮やかでこの地方の風土に合ってると思います」=
-//「１３世紀頃に、インドやジャワ、中国の技法が伝わって、徐々に確立されて行ったらしいよ」=
-//「様々な技法がこの地方の風土に馴染みながら、生み出されて行ったものなんですね」=
-//「それだけ長い間、研究もされてきたんだろうね」=
-//「少し体験するだけなのに、なんだか壮大なロマンを感じますね」=
+「紅型って、すごく綺麗だよね」=“Stencil dyeing's really pretty, isn't it?”
+「そうですね。鮮やかでこの地方の風土に合ってると思います」=“It sure is. It's very vivid, I think it fits this region very much.”
+「１３世紀頃に、インドやジャワ、中国の技法が伝わって、徐々に確立されて行ったらしいよ」=“Apparently, it's based on techniques that came here around the 13th century, from India, Java and China.”
+「様々な技法がこの地方の風土に馴染みながら、生み出されて行ったものなんですね」=“All sorts of new and unique techniques have been born here, influenced by the local culture, haven't they?”
+「それだけ長い間、研究もされてきたんだろうね」=“And they've probably polished them ever since too.”
+「少し体験するだけなのに、なんだか壮大なロマンを感じますね」=“Even though we're only participating in a small experience, you can feel the grand romance in it, can't you?”

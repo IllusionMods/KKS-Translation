@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、浜辺でちょっとゆっくりしていこうよ」=
-//「……[H名]？」=
-//「あら……ごめんなさい。私、ぼーっとしていたかしら」=
-//「うん。海を見てたの？」=
-//「ええ、普段あまり馴染みがないから……いつまででも眺めていられそう」=
-//「確かに、プールとか人工的なものとは違うよね。波の動きとか……」=
-//「そうね。目まぐるしく表情を変えて……こうしていると海は生き物なんだってわかるわ」=
-//「私達にとっては穏やかな優しい存在に映るけど、きっと海に寄り添って生活している人にとってはそうじゃないのでしょうね」=
-//「今ですら少し荒々しさがあるもの。海はただ恵みを与えてくれるだけの存在ではないって、こうしていると理解できる」=
-//「……ごめんなさい。また一人で語っちゃってたわ」=
-//「気にしないで。話、楽しかったよ」=
-//「本気で言ってるのなら、アナタは結構な変わり者よ」=
-//「そうかな？　好きな人が自分の考えを話してくれてるんだし、俺にとっては楽しい時間だよ」=
-//「それに[H名]は魅力的な女の子だからね。傍にいられるだけで幸せな気持ちになるよ」=
-//「……アナタって、急にキザなことを言うわね。恥ずかしくないの？」=
-//「照れがないと言ったら嘘になるけど、本心だから」=
-//「はぁ……今回は私の負け。そんなこと言われたら、照れないわけがないわ」=
-//「勝負をしてたつもりはないけど……」=
-//「今度は……私が愛を伝える番かしら？」=
-//「それは嬉しいけど、話が脱線してない？」=
-//「もう……今のはただの照れ隠しよ。それぐらい察して」=
+「ねぇ、浜辺でちょっとゆっくりしていこうよ」=“Hey, let's relax at the beach a bit.”
+「……[H名]？」=“...[H名]?”
+「あら……ごめんなさい。私、ぼーっとしていたかしら」=“Oh... I'm sorry. Was I spacing out there?”
+「うん。海を見てたの？」=“Yep. Were you looking at the sea?”
+「ええ、普段あまり馴染みがないから……いつまででも眺めていられそう」=“Yes, it's not a sight you get to see much back home... I think I could look at this forever.”
+「確かに、プールとか人工的なものとは違うよね。波の動きとか……」=“For sure, a pool or anything artificial just can't compare, can it? Stuff like the waves...”
+「そうね。目まぐるしく表情を変えて……こうしていると海は生き物なんだってわかるわ」=“Yeah. Always rolling, always changing... looking at it like this really does make you realize that the sea is alive too.”
+「私達にとっては穏やかな優しい存在に映るけど、きっと海に寄り添って生活している人にとってはそうじゃないのでしょうね」=“To us it might be a peaceful and gentle thing but, the people who live near it likely think differently.”
+「今ですら少し荒々しさがあるもの。海はただ恵みを与えてくれるだけの存在ではないって、こうしていると理解できる」=“Even now, there's some harshness within it. Looking at it like this, I can tell now, that the sea doesn't only give.”
+「……ごめんなさい。また一人で語っちゃってたわ」=“...I'm sorry, I ended up monologuing again.”
+「気にしないで。話、楽しかったよ」=“Don't mind it. I liked it anyway.”
+「本気で言ってるのなら、アナタは結構な変わり者よ」=“If you actually mean that, then you're a pretty big weirdo.”
+「そうかな？　好きな人が自分の考えを話してくれてるんだし、俺にとっては楽しい時間だよ」=“You think? The girl I love's talking about how she feels about things, I'm down for that anytime.”
+「それに[H名]は魅力的な女の子だからね。傍にいられるだけで幸せな気持ちになるよ」=“And you're a really charming girl, you know. Just spending time with you is its own reward to me.”
+「……アナタって、急にキザなことを言うわね。恥ずかしくないの？」=“...You say some really smug stuff sometimes, you know that? Don't you feel embarrassed?”
+「照れがないと言ったら嘘になるけど、本心だから」=“It would be a lie to say that I don't, but I mean it.”
+「はぁ……今回は私の負け。そんなこと言われたら、照れないわけがないわ」=“Haah... I lose, I lose. There's no way for me to keep my blush down, not after that.”
+「勝負をしてたつもりはないけど……」=“I didn't think we were in a contest...”
+「今度は……私が愛を伝える番かしら？」=“I wonder if... it's my turn to show my love now?”
+「それは嬉しいけど、話が脱線してない？」=“I wouldn't mind that but, isn't that pretty off-the-point?”
+「もう……今のはただの照れ隠しよ。それぐらい察して」=“Jeez... I was trying to change the topic out of embarrassment. Try to guess that much, atleast.”

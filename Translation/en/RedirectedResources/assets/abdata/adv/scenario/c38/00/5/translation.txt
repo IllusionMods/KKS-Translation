@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「貴方が望むなら、私は何の問題もないですよ」=
-//「それじゃ、始めるよ」=
-//「はい……あの、初めてなので、優しくして下さいね」=
+「貴方が望むなら、私は何の問題もないですよ」=“If you wish for it, I have no issues with it.”
+「それじゃ、始めるよ」=“Well then, here I go, okay?”
+「はい……あの、初めてなので、優しくして下さいね」=“Yes... uhm, I'm a virgin so, please be gentle with me, okay?”

@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お、卓球台があるよ。ちょっとやっていかない？」=
-//「私、こういうのは苦手で……どうかお手柔らかにお願いしますね」=
-//「うん、大丈夫。楽しむ感じでのんびりやろう。まずはラリーを続けることを目標に」=
-//「はい、頑張ります」=
-//「うぅ……すみません。まさかたったの１０回も続かないなんて……」=
-//「あはは、仕方ないよ。卓球って意外と難しいし……」=
-//「はい……もともとそれほど得意でないということもありますが……」=
-//「でも貴方はとても上手ですよね。やり方の本などを読まれたことがあるんでしょうか？」=
-//「うーん、特に読んだことはないけど……何となくできるようになった感じかな」=
-//「えっ、勉強しなくてもできるなんて天才です。私なんて、最初からどう動いたらいいかもわからなくて……」=
-//「あんまり難しく考えないで、感覚でやるといいよ。次はもう少し気楽にやってみよう」=
-//「気楽に……ですね。はい、せめて１０回は超えられるように頑張ってみます」=
-//「うん、俺もいいところに打ち返せるように頑張るよ」=
+「お、卓球台があるよ。ちょっとやっていかない？」=“Oh, there's a ping pong table. Wanna try it?”
+「私、こういうのは苦手で……どうかお手柔らかにお願いしますね」=“I'm not really good at this sort of thing... please do go easy on me, okay?”
+「うん、大丈夫。楽しむ感じでのんびりやろう。まずはラリーを続けることを目標に」=“Yep, don't worry. Let's just go slowly and try to enjoy it. For now, let's try to keep a rally going.”
+「はい、頑張ります」=“Yes, I'll do my best.”
+「うぅ……すみません。まさかたったの１０回も続かないなんて……」=“Uu... I'm sorry. I can't believe I can't manage even 10 hits...”
+「あはは、仕方ないよ。卓球って意外と難しいし……」=“Ahahah, it's fine, you can't help it. Not like table tennis is all that easy....”
+「はい……もともとそれほど得意でないということもありますが……」=“Yes... to begin with, there's the fact that I'm not all that good at this...”
+「でも貴方はとても上手ですよね。やり方の本などを読まれたことがあるんでしょうか？」=“However, you're very good at it, aren't you? Have you read any books on it, perchance?”
+「うーん、特に読んだことはないけど……何となくできるようになった感じかな」=“Nnn, not really but... I just learned how to play it, I guess.”
+「えっ、勉強しなくてもできるなんて天才です。私なんて、最初からどう動いたらいいかもわからなくて……」=“Eh--, you learned it to this degree without any studying, you're a genius. I don't even know how should I even try to move...”
+「あんまり難しく考えないで、感覚でやるといいよ。次はもう少し気楽にやってみよう」=“Don't overthink it, just try to go at it by feel. Let's try going at an even more relaxed pace next.”
+「気楽に……ですね。はい、せめて１０回は超えられるように頑張ってみます」=“An even more relaxed pace... huh? Yes, I'll try my best so that we can get past atleast 10 parries.”
+「うん、俺もいいところに打ち返せるように頑張るよ」=“Yep, I'll try to hit them back towards easy spots too.”

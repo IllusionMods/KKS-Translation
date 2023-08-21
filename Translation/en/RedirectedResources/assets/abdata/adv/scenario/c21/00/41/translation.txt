@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カヤック、一緒に乗れて嬉しかったよ。また遊ぼうね」=
+「カヤック、一緒に乗れて嬉しかったよ。また遊ぼうね」=“It made me really happy, riding it together with you. Let's do that again, okay?”

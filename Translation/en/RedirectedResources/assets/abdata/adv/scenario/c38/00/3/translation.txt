@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「好きって、その……恋愛の意味でって事？」=
-//「はい、そうです……できれば、その……私とお付き合いしてくれませんか？」=
-//「そんな風に思っていてくれたなんて嬉しいよ。俺も[H名]の事、好きだから」=
-//「そうだったんですね……私も、嬉しいです」=
-//「俺たち相思相愛だったんだよ……だから、恋人として付き合おう」=
-//「はい、よろしくお願いします」=
+「好きって、その……恋愛の意味でって事？」=“Love, uhm... you mean in a romantic way?”
+「はい、そうです……できれば、その……私とお付き合いしてくれませんか？」=“Yes, I do... if possible, uhm... won't you go out with me?”
+「そんな風に思っていてくれたなんて嬉しいよ。俺も[H名]の事、好きだから」=“I'm so happy you think of me that way. I'm in love with you too, so.”
+「そうだったんですね……私も、嬉しいです」=“You are, huh... I'm very, happy as well.”
+「俺たち相思相愛だったんだよ……だから、恋人として付き合おう」=“This whole time we were in love with each other... so, let's go out together.”
+「はい、よろしくお願いします」=“Yes, please take care of me.”

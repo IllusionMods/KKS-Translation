@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「砂浜が綺麗だから、散歩するのも楽しいね」=
-//「うん。砂がさらさらですごく気持ちいい」=
-//「波の音も穏やかで、のんびりできるし」=
-//「ホント、バカンスって感じだよねぇ」=
-//「一応、研修旅行なんだけどね」=
-//「それは言わないでよ、もぉ……」=
+「砂浜が綺麗だから、散歩するのも楽しいね」=“Even just taking a walk is really fun, isn't it? Since it's so pretty.”
+「うん。砂がさらさらですごく気持ちいい」=“Yeah. The sand feels really smooth and nice.”
+「波の音も穏やかで、のんびりできるし」=“The sounds from the waves are really relaxing too, perfect for letting go.”
+「ホント、バカンスって感じだよねぇ」=“It really does feel just like a vacation, doesn't it?”
+「一応、研修旅行なんだけどね」=“For what it's worth, we're on a research trip.”
+「それは言わないでよ、もぉ……」=“Don't be a wet blanket, c'mon~...”

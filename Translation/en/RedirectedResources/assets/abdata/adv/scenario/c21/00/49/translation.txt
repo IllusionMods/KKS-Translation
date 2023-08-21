@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「普段見かけないようなメニューがいっぱいだね」=
-//「読んでみてもわからないものもあるけど、とりあえずいっぱい頼んでみようか」=
-//「うん、いいよ。私もたくさん食べてみたい」=
-//「あんまり食べ過ぎると太っちゃわない？」=
-//「大丈夫。食べた分運動すれば平気だから」=
+「普段見かけないようなメニューがいっぱいだね」=“There's all sorts of food you don't usually see, isn't there?”
+「読んでみてもわからないものもあるけど、とりあえずいっぱい頼んでみようか」=“There's stuff that I can't tell what it is even if I can read it, I guess we should start by ordering first.”
+「うん、いいよ。私もたくさん食べてみたい」=“Yeah, sure. I wanna try lots of it too.”
+「あんまり食べ過ぎると太っちゃわない？」=“Won't you get fat if you eat too much though?”
+「大丈夫。食べた分運動すれば平気だから」=“Don't worry. I'll just need to exercise it all off later.”

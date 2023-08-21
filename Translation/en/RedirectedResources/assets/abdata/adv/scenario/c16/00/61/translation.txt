@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へぇ、こんなにいっぱい使っていい美容オイルがあるんだね」=
-//「日差しが強い地域だもの。肌へのケアは十分対策が取られてると思うわ」=
-//「どうする、俺が塗ってあげようか？」=
-//「そう？　だったらお願いしようかしら」=
-//「うん、任せてよ。頑張って綺麗に塗るから」=
+「へぇ、こんなにいっぱい使っていい美容オイルがあるんだね」=“Heh, they've got this much of this beauty oil, huh? And we can use it for free too.”
+「日差しが強い地域だもの。肌へのケアは十分対策が取られてると思うわ」=“The sun's so harsh here, afterall. I think their skincare measures are fairly decent for what they are.”
+「どうする、俺が塗ってあげようか？」=“What do you say, want me to rub it on you?”
+「そう？　だったらお願いしようかしら」=“You sure? Maybe I'll take you up on that.”
+「うん、任せてよ。頑張って綺麗に塗るから」=“Yep, leave it to me. I'll do a real nice job of it.”

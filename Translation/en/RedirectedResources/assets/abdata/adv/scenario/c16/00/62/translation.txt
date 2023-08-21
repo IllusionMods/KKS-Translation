@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃあ、俺がオイルを塗ってあげるよ」=
-//「助かるわ……だったら、ちゃんと全身塗ってもらおうかしら」=
-//「全身って、前の方にも塗っていいって事？」=
-//「えぇ、そうよ。その代わり、真面目に塗ってくれないとダメよ」=
-//「分かってる、真面目に塗るよ。任せて」=
+「それじゃあ、俺がオイルを塗ってあげるよ」=“Well then, I'll rub it on you.”
+「助かるわ……だったら、ちゃんと全身塗ってもらおうかしら」=“Please do... since you're doing it, could I get you to do my entire body too?”
+「全身って、前の方にも塗っていいって事？」=“Your entire body? So I get free rein on your chest too?”
+「えぇ、そうよ。その代わり、真面目に塗ってくれないとダメよ」=“Yes, that's right. In return though, you have to take it seriously and do it properly.”
+「分かってる、真面目に塗るよ。任せて」=“I know, I won't mess around. Leave it to me.”

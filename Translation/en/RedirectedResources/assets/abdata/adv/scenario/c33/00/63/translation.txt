@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「見て見て、あなたのおかげでとてもすべすべになったわ♡」=“Look at me... you've made me so smooth♡”
-「また来ましょ？　その時もあなたの手で、ね……？」=“Let's do this again, yes? And with your hands, yeah...?”
-「ありがとう、また塗って頂戴ね？」=“Thank you. You'll spread it on me again, won't you?”
-「まあ、そんな時もあるわね。次来た時にまたお願いね？」=“Well, it happens, sometimes. Let's try this again some other time.” 
+「見て見て、あなたのおかげでとてもすべすべになったわ♡」=“Look look, my body's all soft and smooth, you did this, you know♡”
+「また来ましょ？　その時もあなたの手で、ね……？」=“Let's come here again? And do it for me that time too, okay...?”
+「ありがとう、また塗って頂戴ね？」=“Thanks, do it next time too, okay?”
+「まあ、そんな時もあるわね。次来た時にまたお願いね？」=“Well, everyone has those days. Do it for me next time, okay?”

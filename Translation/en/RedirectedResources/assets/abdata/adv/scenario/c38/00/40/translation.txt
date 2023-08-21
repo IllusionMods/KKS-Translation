@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「その……私がバランスを崩しそうになった時、支えてくれてありがとうございます……そ、それではっ」=
+「その……私がバランスを崩しそうになった時、支えてくれてありがとうございます……そ、それではっ」=“Uhm... thank you very much, for supporting me when I was about to lose my balance... I-I'll be going then--!”

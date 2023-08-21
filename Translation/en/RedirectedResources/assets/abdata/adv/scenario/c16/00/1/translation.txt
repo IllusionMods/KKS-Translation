@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「冗談にしては……質が悪いと思うのだけど……」=
-//「冗談なんかじゃないよ。俺は本気でキミの事が好きなんだ」=
-//「わ、私は……アナタの事、友人だと、その……少し待って、なんだか混乱して……」=
-//「ごめん、困らせるつもりはなかったんだけど……」=
-//「謝らないで。……私も自分の気持ちに気づいたわ」=
-//「私も……アナタが好きよ。だから、これから宜しくお願いします」=
+「冗談にしては……質が悪いと思うのだけど……」=“As far as jokes go... that one is very bad taste, you know...”
+「冗談なんかじゃないよ。俺は本気でキミの事が好きなんだ」=“It's not a joke. I mean it, I love you.”
+「わ、私は……アナタの事、友人だと、その……少し待って、なんだか混乱して……」=“I-I... think of, you as a friend, uhm.... wait, no--, give me some time, my head....”
+「ごめん、困らせるつもりはなかったんだけど……」=“Sorry, I didn't mean to put you on the spot like that...”
+「謝らないで。……私も自分の気持ちに気づいたわ」=“Don't apologize. ...I just realized my own feelings too.”
+「私も……アナタが好きよ。だから、これから宜しくお願いします」=“I... love you too. So take care of me, and let's get along.”

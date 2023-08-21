@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「滝の近くって気持ちがいいよね」=
-//「うん、空気も涼しくって、なんだか爽やかな感じがする」=
-//「やっぱり、マイナスイオン的なものが出てるのかな」=
-//「よくわかんないけど、なんかいいものが出てるような気がするね」=
-//「さすがにパワースポットって言われてるだけの事はあるか」=
-//「私も、いっぱいパワーもらっちゃおうかな、えへへ」=
+「滝の近くって気持ちがいいよね」=“It feels really nice near waterfalls, doesn't it?”
+「うん、空気も涼しくって、なんだか爽やかな感じがする」=“Yeah, the air's so cool and refreshing, I feel almost invigorated.”
+「やっぱり、マイナスイオン的なものが出てるのかな」=“I wonder if negative ions really are a thing around waterfalls?”
+「よくわかんないけど、なんかいいものが出てるような気がするね」=“I dunno but, I feel like it's spitting out something really nice for sure.”
+「さすがにパワースポットって言われてるだけの事はあるか」=“I guess there's a reason why they call it a powerspot afterall, huh?”
+「私も、いっぱいパワーもらっちゃおうかな、えへへ」=“Maybe I'll have it give me lots of its power too, eheheh~”

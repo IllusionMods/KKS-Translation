@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「きゃ～っ！？　み、見てたの？　も～、いつから？　って、コラーっ、鼻をクンクンさせないのぉ」=
+「きゃ～っ！？　み、見てたの？　も～、いつから？　って、コラーっ、鼻をクンクンさせないのぉ」=“Kyah~?! Y-You were watching? Jeez~, since when? Wuh, hey--, don't sniff around like that~”

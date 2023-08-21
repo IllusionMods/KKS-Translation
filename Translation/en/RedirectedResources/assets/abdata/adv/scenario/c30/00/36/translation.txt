@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「さて、何を借りてみようかな……」=“Now, let's see what there is to rent...”
-「折角二人で来たなら、二人で出来るものがいいよね」=“Since we're here together, we should find something we can do together.”
-「そうだねぇ、何かやってみたいものとかある？」=“Alright then, is there anything you'd like to try?”
-「んー？　キミの判断に任せるよー」=“Nh-? I'll leave it up to you-”
-「そ、そうか、責任重大だな……それじゃぁ――」=“Th-that's a big responsibility... well then-”
+「さて、何を借りてみようかな……」=“Now then, what should we rent out....”
+「折角二人で来たなら、二人で出来るものがいいよね」=“Well, since we came all the way here together, something we can do together would be nice.”
+「そうだねぇ、何かやってみたいものとかある？」=“Yeah~, is there anything you wanna try doing?”
+「んー？　キミの判断に任せるよー」=“Nn~? I'll leave it to you~”
+「そ、そうか、責任重大だな……それじゃぁ――」=“I-I see, guess it's all up to me then.... alright--”

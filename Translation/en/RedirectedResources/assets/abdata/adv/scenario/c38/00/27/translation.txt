@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「大変気持ちよかったです……今日はお付き合いいただき、ありがとうございました」=
+「大変気持ちよかったです……今日はお付き合いいただき、ありがとうございました」=“That felt very splendid... thank you very much, for keeping me company today.”

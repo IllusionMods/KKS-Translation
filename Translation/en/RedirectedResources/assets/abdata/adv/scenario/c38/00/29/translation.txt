@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「折角お誘いいただいたんですから、私に何かできることはありませんか？」=
-//「だったら、エッチがしたいんだけど……」=
-//「エッチ、ですか？　いいですよ、貴方となら問題ありません」=
-//「それじゃあ、宜しくね」=
-//「はい、こちらこそ、よろしくお願いします」=
+「折角お誘いいただいたんですから、私に何かできることはありませんか？」=“You went out of your way to bring me here, so is there ought I can do for you?”
+「だったら、エッチがしたいんだけど……」=“Well, it'd be pretty nice if we could have sex....”
+「エッチ、ですか？　いいですよ、貴方となら問題ありません」=“Sex, is it? Sure, I don't mind since it's you.”
+「それじゃあ、宜しくね」=“Well then, let's get to it.”
+「はい、こちらこそ、よろしくお願いします」=“Yes, please take care of me.”

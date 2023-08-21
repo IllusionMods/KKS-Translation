@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どう……だった？　まだあまり慣れてないから、ちゃんと出来たかなって……」=
-「すごく良かったよ」=“It was great.”
-//「そう？　うふふっ、よかった♪」=
+「どう……だった？　まだあまり慣れてないから、ちゃんと出来たかなって……」=“How... was I? I'm still not used to this at all so, I dunno if I did a good job...”
+「すごく良かったよ」=“You were amazing.”
+「そう？　うふふっ、よかった♪」=“Was I? Ufufuh--, great♪”

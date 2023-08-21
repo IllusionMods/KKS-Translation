@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「粘土で何か作るなんて、子供の頃以来だよ」=
-//「その時は何を作っていたんですか？」=
-//「自動車とか怪獣とかかな」=
-//「男の子っぽいですね……なら、シーサーも作れそうじゃありませんか」=
-//「そうだといいんだけど……」=
-//「大丈夫ですよ。頑張って素敵なシーサーを作りましょう」=
+「粘土で何か作るなんて、子供の頃以来だよ」=“Man, I haven't made anything with clay since I was a kid.”
+「その時は何を作っていたんですか？」=“What did you make with it back then?”
+「自動車とか怪獣とかかな」=“Cars and monsters and whatnot.”
+「男の子っぽいですね……なら、シーサーも作れそうじゃありませんか」=“That's so boyish... in that case, wouldn't a shisa be easy as well?”
+「そうだといいんだけど……」=“I hope so...”
+「大丈夫ですよ。頑張って素敵なシーサーを作りましょう」=“It'll be alright. Let's do our best together and make pretty shisas.”

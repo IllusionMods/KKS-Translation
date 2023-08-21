@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「見てよ、ここにある美容オイル、全部自由に使っていいみたいだよ」=
-//「すごいですね。観光地ならではのサービスなのでしょうか」=
-//「たぶん、そうだと思うよ。よかったら、俺が塗ってあげようか？」=
-//「よろしいのですか？　なら、お願いしますね」=
+「見てよ、ここにある美容オイル、全部自由に使っていいみたいだよ」=“Look, seems like we can use all the beauty oil here freely.”
+「すごいですね。観光地ならではのサービスなのでしょうか」=“Amazing. I wonder if that's because this is a tourist spot?”
+「たぶん、そうだと思うよ。よかったら、俺が塗ってあげようか？」=“Probably. Want me to rub it on you?”
+「よろしいのですか？　なら、お願いしますね」=“Are you sure? Please, then.”

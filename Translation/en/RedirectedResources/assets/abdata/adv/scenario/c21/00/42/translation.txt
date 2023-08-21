@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こうして粘土をこねてると、陶芸家になった気分だね」=
-//「作るのはシーサーでしょ？　お皿とかお茶碗じゃないんだよ」=
-//「わかってるけど、ちょっと気分を味わいたかっただけだよ」=
-//「私は真面目に、可愛いシーサー作るからね」=
-//「それ、シーサー？　ネズミみたいに見えるけど……」=
-//「シーサーなの。ちょっと耳が大きくなっちゃっただけだから」=
+「こうして粘土をこねてると、陶芸家になった気分だね」=“Kneading clay like this really makes you feel like a potter, doesn't it?”
+「作るのはシーサーでしょ？　お皿とかお茶碗じゃないんだよ」=“We're making shisas, no? Don't go making a plate or a bowl now.”
+「わかってるけど、ちょっと気分を味わいたかっただけだよ」=“I know but, I did wanna try it out atleast once.”
+「私は真面目に、可愛いシーサー作るからね」=“Well, I'm gonna just focus on making a cute and adorable shisa.”
+「それ、シーサー？　ネズミみたいに見えるけど……」=“Wait, is that supposed to be a shisa? It looks more like a mouse to me...”
+「シーサーなの。ちょっと耳が大きくなっちゃっただけだから」=“It is a shisa. I just accidentally made the ears a bit too big.”

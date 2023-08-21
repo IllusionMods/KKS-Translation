@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお土産を見て行こうよ」=
-//「ふふっ、とても可愛いキーホルダーを見つけてしまいました。どうでしょうか？」=
-//「お、いいね。如何にも南国って感じがする」=
-//「はい、説明によると魔除けの効果もあるらしいです。でも……その割に愛嬌のあるお顔ですよね」=
-//「あはは、[H名]ってこういう感じが好きなんだ？　意外かも」=
-//「え……そうでしょうか？」=
-//「うん、こういうのにはあんまり興味ないのかと思ってた」=
-//「そんなことないですよ。可愛いものは好きですし、魔除けなんかにも興味があります」=
-//「でも……そうですね、確かにいつもはあまりそういうところを見せないかもしれません」=
-//「だよね。ということは、そのキーホルダーの顔がそんなに気に入ったってこと？」=
-//「ふふっ、違いますよ。貴方と一緒だから、ついつい素が出てしまったんです」=
-//「これも貴方との思い出になるのかなって思ったら……それだけで嬉しくて……って、浮かれてるみたいでちょっと恥ずかしいですね」=
-//「ううん、そう思ってもらえて嬉しい。俺も[H名]との思い出は全部大切だよ」=
-//「そうだ。せっかくだから、ここはお揃いのキーホルダーを買おう。どうかな？」=
-//「はいっ。ふふっ、すごく嬉しいです。顔がにやけちゃいそう……」=
-//（ちょっとお堅いイメージがあったけど……こういう[H名]も新鮮で可愛いよな）=
+「ちょっとお土産を見て行こうよ」=“Let's go take a look at some souvenirs.”
+「ふふっ、とても可愛いキーホルダーを見つけてしまいました。どうでしょうか？」=“Fufuh--, I found a really cute keychain. What do you think?”
+「お、いいね。如何にも南国って感じがする」=“Oh, that's nice. It's got a very southern feel to it.”
+「はい、説明によると魔除けの効果もあるらしいです。でも……その割に愛嬌のあるお顔ですよね」=“Yes, according to the description, it's even a ward against evil. But... that said, it's got quite the charming face, doesn't it?”
+「あはは、[H名]ってこういう感じが好きなんだ？　意外かも」=“Ahahah, you like this sort of thing, do you? Can't say I expected that.”
+「え……そうでしょうか？」=“Eh... really?”
+「うん、こういうのにはあんまり興味ないのかと思ってた」=“Yeah, I thought you wouldn't really be into this sort of stuff.”
+「そんなことないですよ。可愛いものは好きですし、魔除けなんかにも興味があります」=“Not at all. I love adorable things, and I'm quite interested in such charms as well.”
+「でも……そうですね、確かにいつもはあまりそういうところを見せないかもしれません」=“But... indeed, I suppose I don't really show that side of myself all that often.”
+「だよね。ということは、そのキーホルダーの顔がそんなに気に入ったってこと？」=“Yeah. Guess that just means you like the face on that thing that much, huh?”
+「ふふっ、違いますよ。貴方と一緒だから、ついつい素が出てしまったんです」=“Fufuh--, that's not the reason why. I just ended up letting my real self come out, since I'm with you.”
+「これも貴方との思い出になるのかなって思ったら……それだけで嬉しくて……って、浮かれてるみたいでちょっと恥ずかしいですね」=“I was just thinking about how maybe this'd become another memory for us and... that made me so happy so I just... wuh, how embarrassing, for me to get this carried away.”
+「ううん、そう思ってもらえて嬉しい。俺も[H名]との思い出は全部大切だよ」=“Not at all, I'm very happy you feel that way. I treasure all our memories together too.”
+「そうだ。せっかくだから、ここはお揃いのキーホルダーを買おう。どうかな？」=“Right. Since we're here, let's buy some matching keychains together. How about it?”
+「はいっ。ふふっ、すごく嬉しいです。顔がにやけちゃいそう……」=“Yes--! Fufuh--, I'd love that. I can't help but grin...”
+（ちょっとお堅いイメージがあったけど……こういう[H名]も新鮮で可愛いよな）=(She has a really strait-laced image to herself but... this side of her is so fresh and adorable too.)

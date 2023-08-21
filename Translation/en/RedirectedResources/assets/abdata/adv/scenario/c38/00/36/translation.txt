@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「折角だし、ビーチらしいことをして遊びたいよね」=
-//「そうですね。でも……ビーチらしい遊びは、何があるんでしょうか？」=
-//「うーん、定番はビーチバレーかな。二人でも出来るし」=
-//「な、なるほど……ですが、すみません……私の場合、足を引っ張ってしまうと思います……」=
-//「別に俺は気にしないけど……[H名]が乗り気じゃないなら、のんびり砂浜でもあるこうか」=
-//「ふたりで海辺の生き物を探したりしよう」=
-//「あ……はいっ、ありがとうございます」=
+「折角だし、ビーチらしいことをして遊びたいよね」=“Since we're at the beach, we might as well do something related, huh?”
+「そうですね。でも……ビーチらしい遊びは、何があるんでしょうか？」=“Indeed. But... I wonder what sort of beach-related things there are for us to do?”
+「うーん、定番はビーチバレーかな。二人でも出来るし」=“Nnnn, the most common would be beach volleyball, probably. We can even do it together.”
+「な、なるほど……ですが、すみません……私の場合、足を引っ張ってしまうと思います……」=“I-I see... however, I'm sorry... in my case, I'm afraid I'll just end up dragging you down...”
+「別に俺は気にしないけど……[H名]が乗り気じゃないなら、のんびり砂浜でもあるこうか」=“I don't particularly mind that but... if you're not up for it then, I guess we can just take a nice chill walk too.”
+「ふたりで海辺の生き物を探したりしよう」=“Let's go look for some sand and sea creatures together.”
+「あ……はいっ、ありがとうございます」=“Ah... yes--, thank you very much.”

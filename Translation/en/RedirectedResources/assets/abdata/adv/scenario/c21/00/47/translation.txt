@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「綺麗に染物が出来て良かったよ。また一緒に体験しようね」=
+「綺麗に染物が出来て良かったよ。また一緒に体験しようね」=“I'm glad both of ours came out so nicely. Let's do something like that again, okay?”

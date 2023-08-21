@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ウムイの鐘……この鐘を鳴らすと、二人は永遠に結ばれるんですよね。素敵な言い伝えです」=
-//「うん、そうだね」=
-//「照れくさいですけど……私……恋人と一緒にこういうことをやってみたいと、小さな頃から憧れていました……」=
-//「そうなんだ？　俺が相手で大丈夫？」=
-//「貴方じゃなきゃ嫌……なんです。もう……当然じゃないですか」=
-//「あはは、ごめん。俺も[H名]とじゃなきゃ嫌だ」=
-//「でも憧れてたってことは、他にもこういう場所を知ってるの？」=
-//「はい。少し恥ずかしいのですが、小さな頃からウムイの鐘と似たような場所を調べていて……」=
-//「他にも色々あるんです。例えば、二人で南京錠を付ける場所や、小さな穴をくぐり抜ける場所なんかんも……」=
-//「へぇ……全部、必ず結ばれるって伝説があるの？」=
-//「はい、大体の場所はそういう言い伝えがありますね。だから……いつか貴方とそういうところも巡ってみたいです」=
-//「いいね。俺もやってみたい。この国のカップルスポット、全部まわろう」=
-//「ふふっ、それは大変ですね。でも……すごく楽しそう。ぜひお願いします」=
-//「うん、これからまだまだ時間はあるんだし……だって俺たち、この鐘で永遠に結ばれるんだから」=
-//「あ……ふふっ、ありがとうございます。嬉しいです。では最初の一歩として……私と一緒に鳴らしていただいてよろしいですか？」=
-//「もちろん、俺の方からもお願いするよ。[H名]、これからも俺とずっと一緒にいてください」=
-//「こちらこそ……これからもよろしくお願いします」=
-//「私の人生が……貴方との思い出で溢れていきますように……」=
+「ウムイの鐘……この鐘を鳴らすと、二人は永遠に結ばれるんですよね。素敵な言い伝えです」=“The bell of Umuy... if we ring this bell, we'll be tied together for eternity, won't we? What a wonderful legend.”
+「うん、そうだね」=“Yeah, it sure is.”
+「照れくさいですけど……私……恋人と一緒にこういうことをやってみたいと、小さな頃から憧れていました……」=“It's very embarrassing to admit this but... I... have always wanted to do something like this with my beloved, ever since I was a child....”
+「そうなんだ？　俺が相手で大丈夫？」=“Really? You sure you're fine doing it with me?”
+「貴方じゃなきゃ嫌……なんです。もう……当然じゃないですか」=“You know I'd rather not do it with... anyone else. Do you... even need to ask?”
+「あはは、ごめん。俺も[H名]とじゃなきゃ嫌だ」=“Ahahah, sorry. You're the only one I'd ever do this with too.”
+「でも憧れてたってことは、他にもこういう場所を知ってるの？」=“But since you said that you've always dreamed of this, do you know other places like this too?”
+「はい。少し恥ずかしいのですが、小さな頃からウムイの鐘と似たような場所を調べていて……」=“Yes. It's a bit embarrassing but, I've been looking up places like this ever since I was a child....”
+「他にも色々あるんです。例えば、二人で南京錠を付ける場所や、小さな穴をくぐり抜ける場所なんかんも……」=“There's all kinds of them. For example, places where you can lock padlocks together, or places where you can pass through small holes together...”
+「へぇ……全部、必ず結ばれるって伝説があるの？」=“Hoh... and they all have legends like this one?”
+「はい、大体の場所はそういう言い伝えがありますね。だから……いつか貴方とそういうところも巡ってみたいです」=“Yes, most of them have similar sorts of legends. So...I'd love to visit them with you someday.”
+「いいね。俺もやってみたい。この国のカップルスポット、全部まわろう」=“That sounds nice. I wanna do that too. Let's make a round of all the couple spots in this country someday.”
+「ふふっ、それは大変ですね。でも……すごく楽しそう。ぜひお願いします」=“Fufuh--, that'd be quite the arduous trip. But... it does sound very fun. I'd love it if we could.”
+「うん、これからまだまだ時間はあるんだし……だって俺たち、この鐘で永遠に結ばれるんだから」=“Sure, we've still got lots of time too... I mean, we're gonna be tied together for eternity by this bell.”
+「あ……ふふっ、ありがとうございます。嬉しいです。では最初の一歩として……私と一緒に鳴らしていただいてよろしいですか？」=“Ah... fufuh--, thank you very much. I'm very happy. Well then, as the first step... could we ring it together, do you mind?”
+「もちろん、俺の方からもお願いするよ。[H名]、これからも俺とずっと一緒にいてください」=“Not at all, I want to ask you the same. Please stay with me forever, [H名].”
+「こちらこそ……これからもよろしくお願いします」=“Of course... please stay with me forever as well.”
+「私の人生が……貴方との思い出で溢れていきますように……」=“May my life be... filled with memories of us together...”

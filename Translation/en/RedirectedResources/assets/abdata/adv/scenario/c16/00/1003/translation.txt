@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお店を見て回ってもいい？」=
-//「ええ、大丈夫よ」=
-//「どうしたの？　なんだか随分と熱心に箱を見てるね」=
-//「気になるじゃない。賞味期限とか、成分とか、他にも色々」=
-//「たかがお土産で考え過ぎだって思うかもしれないけど……実は私、あまり誰かに贈り物したことがないの」=
-//「どうせ贈るなら喜ばれたい、みたいなこと？」=
-//「それはそうでしょう。目の前で相手の頬が引きつったりしたら一生のトラウマよ？」=
-//「そこまで失礼な人、そうそういないよ」=
-//「さっきも言った通り、考え過ぎているのは自覚してる」=
-//（……[H名]の場合、本当にそうなんだろうな）=
-//「……見えてきたわ。他の人も、あれこれ思い悩んだ挙げ句、こういうお菓子とか無難なところに着地するのね」=
-//「まあ、もらって困るものではないよ」=
-//「そう。アナタがそう言うのなら、これを買うことにするわ」=
-//「ちょっ、急にこっちに責任を回さないでよ！？」=
-//「味はどうすればいいのかしら？　無難なプレーンか……他の変わり種の方が喜ばれると思う？」=
-//（お土産を選ぶの本当に苦手なんだな。意外だ……）=
+「ちょっとお店を見て回ってもいい？」=“Mind if we check this shop out?”
+「ええ、大丈夫よ」=“Yes, sure, I don't mind.”
+「どうしたの？　なんだか随分と熱心に箱を見てるね」=“What's wrong? You're really staring holes in that box there.”
+「気になるじゃない。賞味期限とか、成分とか、他にも色々」=“And why not? You have to check this stuff properly, you know? Stuff like best before dates, the ingredients list, and whatnot.”
+「たかがお土産で考え過ぎだって思うかもしれないけど……実は私、あまり誰かに贈り物したことがないの」=“You might be thinking that I'm overthinking it, especially considering it's just a souvenir but... I've actually not given many gifts in my life.”
+「どうせ贈るなら喜ばれたい、みたいなこと？」=“So you just want whoever you give it to to like it, huh?”
+「それはそうでしょう。目の前で相手の頬が引きつったりしたら一生のトラウマよ？」=“Well, yeah. Seeing their face twitch right in front of me would stay with me for the rest of my life, you know? I'd rather not have that.”
+「そこまで失礼な人、そうそういないよ」=“I don't think there's many people out there that are that rude about gifts.”
+「さっきも言った通り、考え過ぎているのは自覚してる」=“I said it before too, I realize that I'm overthinking it.”
+（……[H名]の場合、本当にそうなんだろうな）=(...In her case, she really might show it on her face.)
+「……見えてきたわ。他の人も、あれこれ思い悩んだ挙げ句、こういうお菓子とか無難なところに着地するのね」=“...I see it now. Other people probably go through all these choices too, only to end up going with a safe choice like a box of sweets like this, huh?”
+「まあ、もらって困るものではないよ」=“Well, it's not something anyone would mind receiving, for sure.”
+「そう。アナタがそう言うのなら、これを買うことにするわ」=“I see. If you think so, then I'll go with this.”
+「ちょっ、急にこっちに責任を回さないでよ！？」=“Wha--, could you not suddenly put it on my head like that?!”
+「味はどうすればいいのかしら？　無難なプレーンか……他の変わり種の方が喜ばれると思う？」=“What flavour should I go with? The safe 'original'... or do you think they'd like something a bit more out there?”
+（お土産を選ぶの本当に苦手なんだな。意外だ……）=(She really can't pick out a souvenir to save her life, huh? Pretty abnormal for her...)
