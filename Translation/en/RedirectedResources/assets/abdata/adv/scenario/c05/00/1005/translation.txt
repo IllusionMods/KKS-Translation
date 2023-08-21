@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-係員さん=Staff
+係員さん=Organizer
 「これからキャンプファイヤーを行いますので、参加される方は二人一組になってください」=“We'll be lighting the campfire now, so all participants please form a pair.”
 「フォークダンスが始まるみたいだ。参加してみようよ」=“It seems the folk dancing's about to start. Let's join in”
 「ダンス……うん、いいよ」=“Dancing... sure, that's okay.”
