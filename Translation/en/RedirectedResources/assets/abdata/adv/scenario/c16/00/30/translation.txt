@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「豊富な品揃えね。土産物から服まで色々揃ってるみたい」=
-//「見たことが無いような珍しいものもあるよね」=
-//「勉強不足ね。前もって調べて置けば、ちゃんと分かるものよ」=
-//「なら、あれはなんて言うお土産？」=
-//「え……あれ？　その……ごめんなさい、私も人のことを言える立場じゃなかったわ」=
+「豊富な品揃えね。土産物から服まで色々揃ってるみたい」=“They've got a whole lot of stuff, huh? From souvenirs to clothes, they've got a little of everything.”
+「見たことが無いような珍しいものもあるよね」=“There's some stuff I've never seen before either.”
+「勉強不足ね。前もって調べて置けば、ちゃんと分かるものよ」=“Clearly you didn't study enough. If you'd done your research, that wouldn't be a problem for you.”
+「なら、あれはなんて言うお土産？」=“Then, what's that, can you tell me?”
+「え……あれ？　その……ごめんなさい、私も人のことを言える立場じゃなかったわ」=“Eh... that? Uhm... I'm sorry, clearly those in glass houses shouldn't throw rocks.”

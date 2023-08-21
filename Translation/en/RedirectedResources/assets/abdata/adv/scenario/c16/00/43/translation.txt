@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おお、めちゃくちゃ真剣だね」=
-//「もちろんよ。やるからには綺麗に作りたいもの」=
-//「なるほど……でも紅型染めって、思ってたより難しいね」=
-//「簡単な事より難しい事の方が、より自分を高めてくれる気がするわ」=
-//「でも体験だけなんだから、そこまでしなくても……」=
-//「ダメよ、真剣だからこそ身に付くのよ。ほら、アナタもしっかり手を動かして」=
+「おお、めちゃくちゃ真剣だね」=“Ooh, you're super serious.”
+「もちろんよ。やるからには綺麗に作りたいもの」=“Of course. If we're doing this then I want to make something nice.”
+「なるほど……でも紅型染めって、思ってたより難しいね」=“I see... still, stencil dyeing's more difficult than it seems on the surface, isn't it?”
+「簡単な事より難しい事の方が、より自分を高めてくれる気がするわ」=“It's the more difficult things in live that elevate you higher.”
+「でも体験だけなんだから、そこまでしなくても……」=“But it's just an experience so, I don't think they need to be that...”
+「ダメよ、真剣だからこそ身に付くのよ。ほら、アナタもしっかり手を動かして」=“That's a bad mentality, it sticks in your head because it requires effort. C'mon, move your hands too.”

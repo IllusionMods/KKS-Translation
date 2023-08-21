@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あ、ありがと……これは、期待に添えられるよう頑張るしかないわね……！」=
+「あ、ありがと……これは、期待に添えられるよう頑張るしかないわね……！」=“T-Thanks... I'll just have to do my best, to live up to expectations...!”

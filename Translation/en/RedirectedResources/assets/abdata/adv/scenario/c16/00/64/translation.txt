@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「最高に気持ち良かったわ。どうもありがとう」=
-//「オイルを塗ってもらえるなんて、素敵な気分だったわ」=
-//「うん、いい感じだったわ、ありがとう」=
-//「あら、どうかしたの？　オイルが固まってたとか？」=
+「最高に気持ち良かったわ。どうもありがとう」=“That felt very wonderful. Thank you so much.”
+「オイルを塗ってもらえるなんて、素敵な気分だったわ」=“That felt wonderful, I didn't think it'd feel that good.”
+「うん、いい感じだったわ、ありがとう」=“Yep, that was nice. Thanks.”
+「あら、どうかしたの？　オイルが固まってたとか？」=“Oh my, something wrong? Did the oil not come out of the bottle?”

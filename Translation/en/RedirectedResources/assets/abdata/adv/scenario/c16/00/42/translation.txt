@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線って、意外にむずかしいね」=
-//「確かにね。でも音色が好きだから、弾けるようになりたいわ」=
-//「三線の音の合わせて踊りのは、楽しそうだもんね」=
-//「とても陽気で、聞いていても見ていても、幸せな気分になるのよね」=
-//「よし、俺も頑張って、弾けるようにならないと」=
-//「私も負けないわ」=
+「三線って、意外にむずかしいね」=“Sanshins are surprisingly difficult to play, huh?”
+「確かにね。でも音色が好きだから、弾けるようになりたいわ」=“Definitely. But I love the sound they make, so I want to learn how to play one properly.”
+「三線の音の合わせて踊りのは、楽しそうだもんね」=“It does sound pretty fun to dance to that tune, doesn't it?”
+「とても陽気で、聞いていても見ていても、幸せな気分になるのよね」=“It's so jovial, just listening to it or watching someone dance to it instantly puts you in a better mood.”
+「よし、俺も頑張って、弾けるようにならないと」=“Alright, I guess I gotta do my best and learn how to play it.”
+「私も負けないわ」=“I'm not going to lose either.”

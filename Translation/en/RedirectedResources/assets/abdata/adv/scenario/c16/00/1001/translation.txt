@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここ涼しいね。ちょっと休んでいかない？」=
-//「……旅っていいわね。こういう時に、ふと実感するわ」=
-//「気分いいなー、ってこと？」=
-//「要約してしまえばそういうことなのでしょうけど……何て言えばいいのかしら」=
-//「暑さを感じたらリモコンを探すような生活が当たり前になると、団扇の風の心地よさを知る機会はないでしょう？」=
-//「何気ない発見、みたいなことかな」=
-//「そうそう。さっきよりは近づいたわ。……むしろ、言いたいことズバリかも」=
-//「……大げさではなく、私にとってここは新しい世界」=
-//「たくさんの自然が残っていて、少し違う文化があって……たくさんの未知が何気なくあちらこちらに佇んでいる」=
-//「うん、新鮮な体験は多いかな」=
-//「そうでしょう？　そこまで大きな期待はしていなかったのだけど、思いがけず見識が……」=
-//「なんて……私みたいな小娘がこんな言い方をしたら、生意気もいいところよね」=
-//「生意気なんてことはないよ。そういうのだって立派な旅の楽しみ方だよ」=
-//「語りすぎ、って思ってない？　今更すぎるかしら」=
-//「[H名]の言うことはユニークだし聞いてて面白いよ。これからも遠慮なく語ってほしいな」=
-//「そう言ってくれると救われるわ。アナタとの時間は心地よくて……それでつい、饒舌になってしまうのかも」=
-//「さすがに野暮だったわね。せっかくのこの時間、贅沢に浸りましょ」=
-//「うん、そうだね……」=
-//「ふぅ、いい風……」=
+「ここ涼しいね。ちょっと休んでいかない？」=“This place is pretty cool, huh? Wanna take a break here?”
+「……旅っていいわね。こういう時に、ふと実感するわ」=“...Traveling is so nice. I always realize that, at times like these.”
+「気分いいなー、ってこと？」=“You like it, huh?”
+「要約してしまえばそういうことなのでしょうけど……何て言えばいいのかしら」=“If I had to abridge it then I suppose yes... how do I say this?”
+「暑さを感じたらリモコンを探すような生活が当たり前になると、団扇の風の心地よさを知る機会はないでしょう？」=“When turning the A/C on when you feel hot becomes second nature to you, you can't really understand how comfortable the air blown by a handfan can feel, no?”
+「何気ない発見、みたいなことかな」=“So basically you're talking about all the minor discoveries.”
+「そうそう。さっきよりは近づいたわ。……むしろ、言いたいことズバリかも」=“Yep, that. That's closer to what I meant. ...Heck, I think it's bang on.”
+「……大げさではなく、私にとってここは新しい世界」=“...It's not an exaggeration, this truly is a new world to me.”
+「たくさんの自然が残っていて、少し違う文化があって……たくさんの未知が何気なくあちらこちらに佇んでいる」=“There's so much nature here, and the culture's a bit different... there's so many unknowns lurking in all parts.”
+「うん、新鮮な体験は多いかな」=“Yep, there's lots of novel experiences to be had here, for sure.”
+「そうでしょう？　そこまで大きな期待はしていなかったのだけど、思いがけず見識が……」=“Right? I didn't expect anything special from this place but, against all expectations....”
+「なんて……私みたいな小娘がこんな言い方をしたら、生意気もいいところよね」=“Heh... I sound very cheeky right now, don't I? Saying stuff like this even though we're so young.”
+「生意気なんてことはないよ。そういうのだって立派な旅の楽しみ方だよ」=“Not at all. That's just your way of enjoying a trip, nothing wrong with that.”
+「語りすぎ、って思ってない？　今更すぎるかしら」=“You sure I'm not talking too much? Or is it too late for that now?”
+「[H名]の言うことはユニークだし聞いてて面白いよ。これからも遠慮なく語ってほしいな」=“[H名], the stuff you talk about is unique, and it's always interesting to me. I want you to always keep telling me whatever you feel like, okay?”
+「そう言ってくれると救われるわ。アナタとの時間は心地よくて……それでつい、饒舌になってしまうのかも」=“You don't know how happy that makes me. Spending time with you is just so pleasant for me... it might be why I always talk so much.”
+「さすがに野暮だったわね。せっかくのこの時間、贅沢に浸りましょ」=“It really was a bit too much though. Let's simply immerse ourselves in this moment, not like we'll get much of this.”
+「うん、そうだね……」=“Yeah, you're right...”
+「ふぅ、いい風……」=“Fuh, this breeze is so nice...”

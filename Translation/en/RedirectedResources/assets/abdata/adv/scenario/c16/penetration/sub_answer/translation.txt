@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「む、アナタがいいって言うなら……はぁ、仕方ないわね……」=
+「む、アナタがいいって言うなら……はぁ、仕方ないわね……」=“Muh, if you want to then... haah, I guess it can't be helped...”

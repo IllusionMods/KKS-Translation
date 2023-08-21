@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「二人で遊ぶなら、バナナボートとかどうかな？」=
-//「海に落ちそうになったら、アナタにしがみついていいのかしら？」=
+「二人で遊ぶなら、バナナボートとかどうかな？」=“How about we go banana boating together? We can get on the same boat that way.”
+「海に落ちそうになったら、アナタにしがみついていいのかしら？」=“Is it fine if I cling onto you, if I feel like I'm about to fall off?”
 「もちろん」=“Of course.”
-//「しがみついたまま海に落ちたら、アナタが溺れてしまうわよ？」=
-//「いいんだよ、キミとだったらいくらでも溺れたいから」=
-//「……危ないから、シュノーケリングにしましょうか」=
-//「そうだね……」=
+「しがみついたまま海に落ちたら、アナタが溺れてしまうわよ？」=“If I do that and we fall into the water, you'd drown with me, you know?”
+「いいんだよ、キミとだったらいくらでも溺れたいから」=“That's fine, I wouldn't really mind that either.”
+「……危ないから、シュノーケリングにしましょうか」=“...No. It's dangerous so let's go snorkeling instead.”
+「そうだね……」=“Sure...”

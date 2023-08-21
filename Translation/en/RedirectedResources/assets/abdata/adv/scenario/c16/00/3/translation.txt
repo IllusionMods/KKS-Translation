@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えっと……それって男女の関係で、好きって意味なの？」=
-//「そ、そうよ……そういう意味で気持ちを伝えたわ」=
-//「う、嬉しいよ……俺も、俺もキミのことが好きだったから」=
-//「……本当？　それなら、私の告白、受け入れてくれるの？」=
-//「もちろんだよ！　これからは、恋人同士として宜しくね」=
-//「ありがとう……こちらこそ、よろしくお願いするわ」=
+「えっと……それって男女の関係で、好きって意味なの？」=“Erhm... is that a "love" as in, romantic love? As in a male-female relationship?”
+「そ、そうよ……そういう意味で気持ちを伝えたわ」=“T-That's right... that's how I meant it.”
+「う、嬉しいよ……俺も、俺もキミのことが好きだったから」=“I-I'm so happy... I've been in love with you for the longest time too.”
+「……本当？　それなら、私の告白、受け入れてくれるの？」=“...You mean it? Are you going to, accept my confession then?”
+「もちろんだよ！　これからは、恋人同士として宜しくね」=“Of course! From now on, let's take care of each other as a couple, okay?”
+「ありがとう……こちらこそ、よろしくお願いするわ」=“Thanks... and yes, please take care of me.”

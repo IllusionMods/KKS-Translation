@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ありがとう、すごく気持ち良かったわ」=
-//「いい感じだったわ、どうもありがとう」=
-//「綺麗に塗ってくれたのね。助かったわ」=
-//「どうしたの？　塗ってくれなかったのね」=
+「ありがとう、すごく気持ち良かったわ」=“Thanks, that felt really nice.”
+「いい感じだったわ、どうもありがとう」=“That was very nice, thank you so much.”
+「綺麗に塗ってくれたのね。助かったわ」=“You rubbed it in really nicely, I could tell. Thanks.”
+「どうしたの？　塗ってくれなかったのね」=“What's wrong? You didn't do it afterall, huh?”

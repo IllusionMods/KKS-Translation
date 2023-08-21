@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「いつ見ても雄大な滝だなぁ」=
-//「本当にこの島って自然が豊かね」=
-//「何か、神秘的なパワーがあるっていうのも納得できるよ」=
-//「スピリチュアルな話ね。でも、アナタが信じるなら、私も信じるわ」=
-//「絶対あるはずだよ。昔からそういう土地には神様がいるんだから」=
-//「だったら、お願いしていきましょうか。私たちがずっと一緒に居られますようにって……」=
+「いつ見ても雄大な滝だなぁ」=“This waterfall never does get any less grand, does it?”
+「本当にこの島って自然が豊かね」=“This island really is full of nature everywhere you look.”
+「何か、神秘的なパワーがあるっていうのも納得できるよ」=“Honestly, I can understand why people say it has some sort of a mystical power.”
+「スピリチュアルな話ね。でも、アナタが信じるなら、私も信じるわ」=“How spiritual. But if you believe it, I suppose I'll believe it too.”
+「絶対あるはずだよ。昔からそういう土地には神様がいるんだから」=“I'm sure there's something. Places like these have gods from ages past protecting them.”
+「だったら、お願いしていきましょうか。私たちがずっと一緒に居られますようにって……」=“Let's make a wish or something then. Maybe ask them to help us stay together forever...”

@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルドリンクか。面白そうだね、頼んでみようか？」=
-//「ふぅん……おいしいわ。あれだけ大々的に宣伝しているだけのことはあるわね」=
-//「フルーツの質がいいのかしら？　それとも……」=
-//「フフッ、何を飲んでも美味しいと言ってしまいそうな、このロケーションのせいもあるのかしら」=
-//「……うーん」=
-//「眉間に皺を寄せてどうしたの？　悩むほどのことを言った覚えはないわ」=
-//「悩むってほどでは。思ってたのと、ちょっと違っただけというか」=
-//「思っていたこと？」=
-//「こういう露骨なのだと少しは照れたりするかな？　って、内心ちょっと期待してたり……」=
-//「でもほら、すごい堂々としてるし。余裕をもってこのシチュエーションを楽しんでるように見えたから」=
-//「そういう意地悪な企みだったのね。なら、的外れでもないわ。少しはくすぐったいもの」=
-//「それを上回るくらい、浮かれてるってだけ。私だって女の子だもの」=
-//「そう見えないのなら、アナタは私を変に買いかぶってレッテルを貼っているのよ」=
-//「ごめんごめん反省するよ。あはは、またやり込められちゃった」=
-//「やり込めたかったわけじゃないわ。……それも含めて私の悪い癖ね。こうしていて息が詰まったりしない？」=
-//「全然。言うまでもないけど、俺は[H名]といる時が一番楽しくて幸せだよ」=
-//「……そう、それならよかったわ」=
+「カップルドリンクか。面白そうだね、頼んでみようか？」=“A couples' drink, huh? That sounds interesting. Want to try ordering it?”
+「ふぅん……おいしいわ。あれだけ大々的に宣伝しているだけのことはあるわね」=“Hmm... it's delicious. They don't advertise it like that for nothing, I see it now.”
+「フルーツの質がいいのかしら？　それとも……」=“I wonder if the quality of the fruits they use is just that good? Or maybe...”
+「フフッ、何を飲んでも美味しいと言ってしまいそうな、このロケーションのせいもあるのかしら」=“Fufuh--, I wonder if it's the location at fault too, for making me want to say something like "no matter what it is, it'd be delicious".”
+「……うーん」=“....Nnn.”
+「眉間に皺を寄せてどうしたの？　悩むほどのことを言った覚えはないわ」=“What're you creasing your brows for? I don't think I said anything that distressing.”
+「悩むってほどでは。思ってたのと、ちょっと違っただけというか」=“No, you didn't. It was just a bit different from what I was expecting, I guess.”
+「思っていたこと？」=“What you were expecting?”
+「こういう露骨なのだと少しは照れたりするかな？　って、内心ちょっと期待してたり……」=“I was hoping you'd blush atleast a little bit, you know? It's so out in the open afterall...”
+「でもほら、すごい堂々としてるし。余裕をもってこのシチュエーションを楽しんでるように見えたから」=“But, you're not blushing at all. Heck, if anything, you look like you're enjoying the situation.”
+「そういう意地悪な企みだったのね。なら、的外れでもないわ。少しはくすぐったいもの」=“So that's why you made us order this, huh? You're a mean man. But, you're not off the mark. It does feel a bit ticklish.”
+「それを上回るくらい、浮かれてるってだけ。私だって女の子だもの」=“But I'm just loving this a lot more than that. I'm a girl too, you know.”
+「そう見えないのなら、アナタは私を変に買いかぶってレッテルを貼っているのよ」=“If I don't seem that way to you, then you're just rating me too highly and labelling me when I don't meet those expectations.”
+「ごめんごめん反省するよ。あはは、またやり込められちゃった」=“Sorry, sorry, I'll reflect on my actions. Ahahah, I got talked down again.”
+「やり込めたかったわけじゃないわ。……それも含めて私の悪い癖ね。こうしていて息が詰まったりしない？」=“That's not what I was trying to do. ...That's another bad habit of mine, isn't it? Don't I harry you too much?”
+「全然。言うまでもないけど、俺は[H名]といる時が一番楽しくて幸せだよ」=“Not at all. It goes without saying but, I feel the happiest when I'm with you, you know.”
+「……そう、それならよかったわ」=“...I see, I'm glad to hear that then.”
