@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「むむむむ……」=
-//「ねぇ、[H名]。水槽と睨めっこしてどうしたの？」=
-//「……魚は、どうしてこんなに無表情な顔をしているんだろうな？」=
-//「さっきからこっちを睨んでいるような気がして、負けじと睨み返しているところだ」=
-//「なにも魚に対して負けん気を発揮しなくてもいいと思うんだけど……」=
-//「でも、気持ちはわかるよ。魚の瞳って少し不気味なところがあるよね」=
-//「だろ？　だから今は邪魔するな。まだ勝負はついていないんだからな」=
-//「むむむむむ……」=
-//「あっ、魚があっちにいっちゃった……」=
-//「よし、私の勝ちだ」=
-//「どうだ、見ただろ？　フフッ、魚なんて物の数じゃないな」=
-//「ははっ。そうやってはしゃぐ[H名]は可愛いね」=
-//「か、かわいいだと……？」=
-//「うん。どれだけ見てても飽きない気がするよ」=
-//「っ……こっちを見るな」=
-//「何だったら、俺と睨めっこしてみる？」=
-//「だから、こっちを見るなと言ってるだろっ。あーもう、ほら、次の水槽を見に行くぞ」=
+「むむむむ……」=“Mumumumuh...”
+「ねぇ、[H名]。水槽と睨めっこしてどうしたの？」=“Hey, [H名]. What're you staring down that water tank for?”
+「……魚は、どうしてこんなに無表情な顔をしているんだろうな？」=“...Why do fish have such blank expressions?”
+「さっきからこっちを睨んでいるような気がして、負けじと睨み返しているところだ」=“I feel like that one's been been staring me down for a while now, so I've just been staring it down in return.”
+「なにも魚に対して負けん気を発揮しなくてもいいと思うんだけど……」=“I really don't think you need to go and show off your competitive side to a fish of all things though...”
+「でも、気持ちはわかるよ。魚の瞳って少し不気味なところがあるよね」=“But, I can relate. A fish's eyes look kinda uncanny, don't they?”
+「だろ？　だから今は邪魔するな。まだ勝負はついていないんだからな」=“Right? So don't bother me right now. We still haven't settled things between us.”
+「むむむむむ……」=“Mumumumumuh...”
+「あっ、魚があっちにいっちゃった……」=“Ah--, the fish went away...”
+「よし、私の勝ちだ」=“Alright, I win.”
+「どうだ、見ただろ？　フフッ、魚なんて物の数じゃないな」=“You saw it, right? Fufuh--, fish are simply beneath me.”
+「ははっ。そうやってはしゃぐ[H名]は可愛いね」=“Hahah--. You sure are adorable, [H名].”
+「か、かわいいだと……？」=“A-Adorable...?”
+「うん。どれだけ見てても飽きない気がするよ」=“Yeah. I don't think I could ever get tired of looking at you.”
+「っ……こっちを見るな」=“--!... Don't look at me.”
+「何だったら、俺と睨めっこしてみる？」=“Say, if you're doing that, wanna stare each other down too?”
+「だから、こっちを見るなと言ってるだろっ。あーもう、ほら、次の水槽を見に行くぞ」=“I'm telling you, don't look at me--! Aah, jeez, c'mon, we're going to the next tank.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「今回は、違う場所も塗ってみない？」=
-//「どうせ『胸を塗ってあげる』とか言い出すんだろう？　読めているぞ」=
-//「……ダメ？」=
-//「はぁ……恋人のおまえだから許すんだぞ？　それを忘れるなよ」=
-//「もちろん！」=
+「今回は、違う場所も塗ってみない？」=“How about we try doing another part of you too, this time?”
+「どうせ『胸を塗ってあげる』とか言い出すんだろう？　読めているぞ」=“You're just gonna say "I'll rub it on your chest for you", aren't you? Even I'm not that dumb.”
+「……ダメ？」=“...Can't I?”
+「はぁ……恋人のおまえだから許すんだぞ？　それを忘れるなよ」=“Haah... I'm only allowing it because you're my boyfriend, alright? Don't forget that.”
+「もちろん！」=“Of course!”

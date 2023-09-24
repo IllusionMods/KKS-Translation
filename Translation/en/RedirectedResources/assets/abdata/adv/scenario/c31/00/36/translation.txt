@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「せっかくの機会だし、ビーチで身体を鍛えるとするか」=
-//「えっ！？　普通に遊ぼうよ」=
-//「何を言っている。遊ぶのにも体力が必要なんだぞ？　まずは身体づくりを徹底するんだ」=
-//「身体づくりが必要になるほど、遊び倒すつもりはないんですけど……」=
+「せっかくの機会だし、ビーチで身体を鍛えるとするか」=“Well then, since we're here, let's do some workouts.”
+「えっ！？　普通に遊ぼうよ」=“Eh--?! Let's just have some fun, c'mon.”
+「何を言っている。遊ぶのにも体力が必要なんだぞ？　まずは身体づくりを徹底するんだ」=“What're you saying? You can't have fun without stamina, you know? We gotta work on our physical fitness first.”
+「身体づくりが必要になるほど、遊び倒すつもりはないんですけど……」=“I wasn't planning on us running around so much that we'd need to be physically fit to not collapse though...”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「運動しながら自然を堪能出来て一石二鳥って感じだったな」=
+「運動しながら自然を堪能出来て一石二鳥って感じだったな」=“We got to savour the nature and get a workout in at the same time, that's two birds with one stone right there.”

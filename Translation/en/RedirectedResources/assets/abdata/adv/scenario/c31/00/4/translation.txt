@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「んなっ……お、おまっ……気は確かなのか？」=
-//「まぁ、うん……大丈夫、確かだよ。その上で……[H名]とシたいと思ってるんだ」=
-//「俺にとって、[H名]は魅力的だから……ダメかな？」=
-//「求められて悪い気はしないが……急に言われてもな……」=
-//「だが、その……おまえが相手なら、良いと思っている自分がいるんだ……だから……少しだけなら……問題ない」=
+「んなっ……お、おまっ……気は確かなのか？」=“Wwha--... y-you--... are you sane?”
+「まぁ、うん……大丈夫、確かだよ。その上で……[H名]とシたいと思ってるんだ」=“Well, I mean... don't worry, I can confirm that I'm sane. And I still... want to do it with you, on top of that.”
+「俺にとって、[H名]は魅力的だから……ダメかな？」=“To me, you're a very attractive woman so... could we?”
+「求められて悪い気はしないが……急に言われてもな……」=“It doesn't feel bad to be wanted but... it's just a bit sudden, you know...”
+「だが、その……おまえが相手なら、良いと思っている自分がいるんだ……だから……少しだけなら……問題ない」=“But well, uhm... a part of me's telling me to say yes, since it's you... so... I guess I don't mind... doing it for a little bit.”

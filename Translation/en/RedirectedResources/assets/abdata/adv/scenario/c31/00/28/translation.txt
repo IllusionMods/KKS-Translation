@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私の予想が外れてなければ……そういうことをするつもりで、誘ったんだよな？」=
-//「……やはりそうか。途中で気づけてよかったよ」=
-//「まぁその……分かってて付いて来たんだ。返事は言わなくても分かるだろ？」=
+「私の予想が外れてなければ……そういうことをするつもりで、誘ったんだよな？」=“If my expectations aren't out of whack... then you asked me to come here, because you want to do 'that', right?”
+「……やはりそうか。途中で気づけてよかったよ」=“...I knew it. I'm glad I realized it on the way.”
+「まぁその……分かってて付いて来たんだ。返事は言わなくても分かるだろ？」=“It's, well, uhm... I came inside knowing that so, I don't have to say it outloud for you to get it, right?”

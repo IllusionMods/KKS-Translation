@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「思えば、灯台を近くで見る機会はこれまでなかったな」=
-//「言われてみれば確かに。遠目に見たことは何度かあったけど、近くに来たことはなかった気がするよ」=
-//「まぁ、近くで見たところで何だと言う話にはなるが」=
-//「ははは……灯台自体はそうかもしれないけど、ここは良い場所じゃない？　風が気持ちいいしね」=
-//「そうだな。しばらくここで涼むとするか」=
+「思えば、灯台を近くで見る機会はこれまでなかったな」=“Now that I think about it, I don't think I've ever seen a lighthouse from up close like this before.”
+「言われてみれば確かに。遠目に見たことは何度かあったけど、近くに来たことはなかった気がするよ」=“Now that you say it, me neither. I'm pretty sure I've seen lighthouses in general before, but only from far away I think.”
+「まぁ、近くで見たところで何だと言う話にはなるが」=“Well, not that it changes much, a lighthouse's a lighthouse.”
+「ははは……灯台自体はそうかもしれないけど、ここは良い場所じゃない？　風が気持ちいいしね」=“Hahahah... maybe but, isn't this place pretty nice? The breeze feels great too.”
+「そうだな。しばらくここで涼むとするか」=“Yeah. Let's stay here for a bit and chill out, I guess.”

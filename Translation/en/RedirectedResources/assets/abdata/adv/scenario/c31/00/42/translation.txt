@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お土産売り場でも見かけるけど、紅型って色鮮やかで綺麗だよね」=
-//「初めて見たとき、思わず息を呑んだよ。こういった美術品には明るくない素人の感想だがな」=
-//「しかし、こんな細やかな作業が必要だとは……私の分が完成するのはかなり時間がかかりそうだ」=
-//「俺も似た様なものだよ。ふたりでじっくりやっていこう」=
+「お土産売り場でも見かけるけど、紅型って色鮮やかで綺麗だよね」=“You see it a lot at giftshops and the like too but, stencil dyed stuff is very vivid and pretty, isn't it?”
+「初めて見たとき、思わず息を呑んだよ。こういった美術品には明るくない素人の感想だがな」=“The first time I saw it, it genuinely took my breath away. Though, that's just my impression as a layman who knows nothing.”
+「しかし、こんな細やかな作業が必要だとは……私の分が完成するのはかなり時間がかかりそうだ」=“Still, I didn't think it'd require this much detailed work... I think I'm gonna end up taking a whole lot more time on my piece.”
+「俺も似た様なものだよ。ふたりでじっくりやっていこう」=“I'm in the same boat, don't worry. Let's just take our time with it.”

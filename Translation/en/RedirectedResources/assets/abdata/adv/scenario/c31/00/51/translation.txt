@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……結局、私たちが考えたところで、正解にはたどり着けそうにないな。……次は注文して確かめてみるか？」=
+「……結局、私たちが考えたところで、正解にはたどり着けそうにないな。……次は注文して確かめてみるか？」=“...In the end, even with two heads, I don't think we got any closer to figuring it out. ...How about we just order it next time and see what comes out?”

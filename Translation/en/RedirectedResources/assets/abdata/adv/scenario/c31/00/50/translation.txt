@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おまえが頼んだそのお好み焼きみたいなやつはなんだ？」=
-//「これ？　ヒラヤーチーだよ。ニラがたっぷりで美味しいけど、食べてみる？」=
-//「欲しかったわけでは……いや、ここは厚意に甘えるとしよう。では一口……」=
-「どう？」=“How you feeling?”
-//「うん、美味しいなっ。お好み焼きに似ているなら簡単だろうし、旅行から帰っても作れそうだ」=
-//「それじゃあ、後でレシピを聞いてみよっか」=
+「おまえが頼んだそのお好み焼きみたいなやつはなんだ？」=“What's that okonomiyaki looking thing that you ordered?”
+「これ？　ヒラヤーチーだよ。ニラがたっぷりで美味しいけど、食べてみる？」=“This? It's a Hirayachi. It's great, it's got loves of garlic chives in it, wanna try it?”
+「欲しかったわけでは……いや、ここは厚意に甘えるとしよう。では一口……」=“No, it's not like I wan... no, I guess I should just accept the offer here. Well then, don't mind if I...”
+「どう？」=“How is it?”
+「うん、美味しいなっ。お好み焼きに似ているなら簡単だろうし、旅行から帰っても作れそうだ」=“Yep, it's delicious--! It looks pretty similar to okonomiyaki so it's probably easy to make, I think I could make it once we're back home too.”
+「それじゃあ、後でレシピを聞いてみよっか」=“Well then, I guess we can ask for the recipe after we're done.”

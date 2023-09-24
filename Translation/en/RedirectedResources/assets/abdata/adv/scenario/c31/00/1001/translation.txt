@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここなら涼しいし、縁側で少し休んでいこうか？」=
-//「はぁ……ここは良い風が吹いてるね。涼しくて気持ちいいよ」=
-//「なんだ、この程度の暑さでへばったのか？」=
-//「別にそういう訳じゃなくて、ちょっと休もうと思っただけだよ」=
-//「そういう[H名]は暑くないの？」=
-//「私はおまえみたいに軟弱じゃないからな」=
-//「むしろ、これくらいの気温なら心地良いくらいだ」=
-//「へえ～。本当かなぁ？」=
-//「な、なんだ……そんなに私を見つめて来て」=
-「じー……」=“*Stare*......”
-//「……っ。お、おい、そんなに見つめるな。やめろっ」=
-//「じーー……」=
-//「うぐっ、だからやめろと言ってるだろ！」=
-「そんなに見つめられると……」=“If you stare that much at me...”
-//「ねぇ、[H名]。なんか顔が赤くなってきてない？」=
-//「なっ！？」=
-//「それに少し汗を掻いているようにも見えるけど……これ、なんだろうね？」=
-//「こ、これは少しだけ暑いからで――」=
-//「あれ？　でも[H名]は暑くないって言ってなかったっけ？」=
-//「心地よいくらいだって。それなのに、汗を掻いてるの？」=
-//「お、おまえ、わかって言ってるだろ！」=
-//「あはは、ごめん。ちょっとからかい過ぎちゃったかな？」=
+「ここなら涼しいし、縁側で少し休んでいこうか？」=“Pretty cool here, huh? Wanna relax for a bit?”
+「はぁ……ここは良い風が吹いてるね。涼しくて気持ちいいよ」=“Haah... the breeze here really is nice. It's so cool and refreshing.”
+「なんだ、この程度の暑さでへばったのか？」=“What, is just this much heat enough to take you down?”
+「別にそういう訳じゃなくて、ちょっと休もうと思っただけだよ」=“I mean, not really but, I just wanted to take it easy for a bit.”
+「そういう[H名]は暑くないの？」=“You don't feel the heat yourself, [H名]?”
+「私はおまえみたいに軟弱じゃないからな」=“I'm not a weakling like you, so no.”
+「むしろ、これくらいの気温なら心地良いくらいだ」=“If anything, this much heat is just perfect for me, it's very comfortable.”
+「へえ～。本当かなぁ？」=“Hoh~. I wonder how true that is~?”
+「な、なんだ……そんなに私を見つめて来て」=“W-What... what're you staring at me for?”
+「じー……」=“*stare*...”
+「……っ。お、おい、そんなに見つめるな。やめろっ」=“...--! O-Oi, stop it. Cut it out--”
+「じーー……」=“*stare*...”
+「うぐっ、だからやめろと言ってるだろ！」=“Uguh--, I'm telling you to cut it out!”
+「そんなに見つめられると……」=“If you stare at me so much, I'll...”
+「ねぇ、[H名]。なんか顔が赤くなってきてない？」=“Hey, [H名]. Isn't your face getting kinda red there?”
+「なっ！？」=“Wha--!?”
+「それに少し汗を掻いているようにも見えるけど……これ、なんだろうね？」=“And I'm pretty sure that's sweat I see there... I wonder why that's there?”
+「こ、これは少しだけ暑いからで――」=“T-That's just because it's a bit hot--”
+「あれ？　でも[H名]は暑くないって言ってなかったっけ？」=“Huh? But didn't you say that you didn't feel the heat just then?”
+「心地よいくらいだって。それなのに、汗を掻いてるの？」=“You even said it was 'comfortable'. And yet you're sweating?”
+「お、おまえ、わかって言ってるだろ！」=“Y-You, you're doing that knowing full well, aren't you!”
+「あはは、ごめん。ちょっとからかい過ぎちゃったかな？」=“Ahahah, sorry. Did I tease you too much?”

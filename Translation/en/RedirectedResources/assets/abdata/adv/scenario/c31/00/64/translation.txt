@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「フッ……さすがと言ったところか。おかげで満足できたよ」=
-//「良かったが、おまえならもっと上を目指せるはずだ。これで満足するなよ？」=
-//「及第点といったところか。まあ、悪くはなかったぞ」=
-//「……なんだ？　用事でも思い出したのか？　まったく、仕方のない奴だ」=
+「フッ……さすがと言ったところか。おかげで満足できたよ」=“Fuh... I guess I should have expected that from you. That was really satisfying.”
+「良かったが、おまえならもっと上を目指せるはずだ。これで満足するなよ？」=“That was great but, you can aim for higher skies. Don't be satisfied with just this, alright?”
+「及第点といったところか。まあ、悪くはなかったぞ」=“That's a passing mark and no more. Well, it wasn't bad, for sure.”
+「……なんだ？　用事でも思い出したのか？　まったく、仕方のない奴だ」=“...What? Did you remember something you gotta do or something? Good grief, what am I gonna do with you?”

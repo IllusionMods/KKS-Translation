@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なっ……それは、冗談で……い、いや、おまえはそんなことをする奴じゃない」=
-//「……ほ、本気、なんだな？」=
-//「うん。本気で[H名]のことが好きだし、本気で付き合いたいって思ってる」=
-//「そうか……おまえの気持ちは充分伝わったよ」=
-//「じゃあ、その……付き合うことにするか。実は私も、おまえのことが、ずっと気になっていたんだ」=
+「なっ……それは、冗談で……い、いや、おまえはそんなことをする奴じゃない」=“Wha--... that's not, a jo... n-no, you're not the sorta guy to do that.”
+「……ほ、本気、なんだな？」=“...Y-You're serious, aren't you?”
+「うん。本気で[H名]のことが好きだし、本気で付き合いたいって思ってる」=“Yeah, I'm in love with you seriously, and I seriously want to go out with you.”
+「そうか……おまえの気持ちは充分伝わったよ」=“I see... I understand how you feel, I get it.”
+「じゃあ、その……付き合うことにするか。実は私も、おまえのことが、ずっと気になっていたんだ」=“Then, erhm... I guess we can go out. You've actually also been, on my mind for the longest time.”

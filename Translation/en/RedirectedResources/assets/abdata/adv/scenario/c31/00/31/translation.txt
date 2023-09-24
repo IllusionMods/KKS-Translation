@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やはり観光地の店は品数が豊富だな。見どころがたくさんある」=
-//「うん、どれも面白そうだよね。お、これは中々強烈そうなものが……」=
-//「ん？　あぁ、ゴーヤのジュースか。かなり苦そうだが……買うのか？」=
-//「好奇心は刺激されるね」=
-//「止めはしないが忠告はしておく。一緒に甘い飲み物も買っておけ。パイナップルやマンゴー辺りがおすすめだ」=
+「やはり観光地の店は品数が豊富だな。見どころがたくさんある」=“That's a souvenir shop for you, it's full of things. So many things to look at.”
+「うん、どれも面白そうだよね。お、これは中々強烈そうなものが……」=“Yeah, they all look pretty interesting, don't they? Ah, this looks like one intense item...”
+「ん？　あぁ、ゴーヤのジュースか。かなり苦そうだが……買うのか？」=“Nn? Aah, bitter gourd juice, huh? It does seem like it'd be pretty bitter... gonna buy it?”
+「好奇心は刺激されるね」=“I won't deny that I feel a bit curious.”
+「止めはしないが忠告はしておく。一緒に甘い飲み物も買っておけ。パイナップルやマンゴー辺りがおすすめだ」=“I'm not gonna try stopping you, but atleast buy a sweet drink alongside it. I personally recommend pineapple or mango juice.”

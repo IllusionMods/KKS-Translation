@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ぷっ……くく……一口飲んだあとのおまえの顔……ふふっ、傑作だったぞ……」=
+「ぷっ……くく……一口飲んだあとのおまえの顔……ふふっ、傑作だったぞ……」=“Pff--... kukuh... your face after you took a sip... fufuh--, truly a work of art...”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なるほど、カヤックでマングローブ林を見て回るわけか。面白そうだな」=
-//「さっそくやってみようか。[H名]は前と後ろ、どっちがいい？」=
-//「後ろ側で頼む。前は……いや、何でもない」=
-//「俺はどっちでもいいんだけど、言い淀まれると気になるなぁ」=
-//「……まぁその、おまえが後ろにいると……視線が気になって集中出来そうになかったんだよ」=
+「なるほど、カヤックでマングローブ林を見て回るわけか。面白そうだな」=“I see, so we get into one of these and tour around the mangroves, huh? Sounds interesting.”
+「さっそくやってみようか。[H名]は前と後ろ、どっちがいい？」=“Let's do it right away then. Which seat do you prefer, [H名]? Front or rear?”
+「後ろ側で頼む。前は……いや、何でもない」=“The rear, please. The front sounds... no, it's nothing.”
+「俺はどっちでもいいんだけど、言い淀まれると気になるなぁ」=“I don't particularly care either way but, now you've made me curious.”
+「……まぁその、おまえが後ろにいると……視線が気になって集中出来そうになかったんだよ」=“...Well, it's uh, you know. I won't be able to focus on rowing... if your eyes are behind me.”

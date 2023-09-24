@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線は奥が深いな。もっと上手くなりたいもんだ」=
+「三線は奥が深いな。もっと上手くなりたいもんだ」=“What a deep instrument. I definitely want to get better at it.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「弦が少ないから、簡単だろうと高を括っていたけど……普通に難しい」=
-//「フッ、安易な考えだな。おまえの理屈でいくと、ピアノなんかはとんでもない難易度になるぞ？」=
-//「だね……反省してます。それしても、[H名]はなんていうか三線を弾く姿が様になってるね」=
-//「そうか？　……まぁ、おまえよりは弾けているかもしれないが」=
-//「ぜひ教えてもらいたいですっ」=
-//「私も初心者だ。尋ねられても教えられん」=
+「弦が少ないから、簡単だろうと高を括っていたけど……普通に難しい」=“There's not that many strings, so I was looking down on it a bit but... it's difficult for sure.”
+「フッ、安易な考えだな。おまえの理屈でいくと、ピアノなんかはとんでもない難易度になるぞ？」=“Pff--, what a simpleton. If we go by your logic, a piano would be unplayable by anyone but a superman, you know?”
+「だね……反省してます。それしても、[H名]はなんていうか三線を弾く姿が様になってるね」=“Yeah... I'm reflecting on it. Still, you look pretty good with a sanshin in hand, [H名].”
+「そうか？　……まぁ、おまえよりは弾けているかもしれないが」=“You think? ...Well, I might be a better player than you, for sure.”
+「ぜひ教えてもらいたいですっ」=“I would love to learn from you, please--!”
+「私も初心者だ。尋ねられても教えられん」=“I'm a beginner too. I can't teach you no matter how much you beg.”

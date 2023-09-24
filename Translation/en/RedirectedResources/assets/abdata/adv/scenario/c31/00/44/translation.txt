@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]のシーサー、なんか勇ましいね」=
-//「魔よけの為の置物だからな。かっこいい方が効果があると思わないか？」=
-//「確かにそうかも。俺も、もう少し調整してみようかな……なんかアホ面っぽくなってさ」=
-//「どれどれ……」=
-//「っ…………い、今のひょうきんな顔も……愛嬌があって……私は良いと思うぞ？」=
-//「……そこまで笑わなくてもいいじゃん」=
+「[H名]のシーサー、なんか勇ましいね」=“Your shisa's looking kinda manly there, [H名].”
+「魔よけの為の置物だからな。かっこいい方が効果があると思わないか？」=“It's supposed to be an evil warding charm, afterall. Don't you think it'd be more effective this way?”
+「確かにそうかも。俺も、もう少し調整してみようかな……なんかアホ面っぽくなってさ」=“You might be right. Maybe I'll change up mine a bit too... It kinda looks like an idiot right now.”
+「どれどれ……」=“Lemme see...”
+「っ…………い、今のひょうきんな顔も……愛嬌があって……私は良いと思うぞ？」=“--!... t-that funny looking face looks... pretty adorable too... I don't think you have to change it.”
+「……そこまで笑わなくてもいいじゃん」=“...Do you have to laugh that much?”
