@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「何を買うか考えてるの？」=
-//「うん……でも、やっぱり本はあんまり置いてないみたい」=
-//「そうだね、お土産物がメインみたいだから」=
-//「私、お土産が本だったらすごく嬉しいのに……」=
-//「写真集とかならありそうだよね。綺麗な景色とか写ってる」=
-//「出来れば、活字が読みたいいんだけど……この辺りの伝承について書かれた本とかないのかな……」=
+「何を買うか考えてるの？」=“Thinking of what to buy?”
+「うん……でも、やっぱり本はあんまり置いてないみたい」=“Yeah... but, it doesn't seem like they have many books at all.”
+「そうだね、お土産物がメインみたいだから」=“Yeah, seems like this is mainly a souvenir shop than anything else.”
+「私、お土産が本だったらすごく嬉しいのに……」=“I'd love to buy a book as a souvenir too...”
+「写真集とかならありそうだよね。綺麗な景色とか写ってる」=“I bet they've got a photo book or two. With real beautiful photos.”
+「出来れば、活字が読みたいいんだけど……この辺りの伝承について書かれた本とかないのかな……」=“I'd rather buy one with stuff in it to read though... do they really not have a book with the local traditions and whatnot written in it...”

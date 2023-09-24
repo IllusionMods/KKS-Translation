@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……やっぱり、変わったメニューが多いね」=
-//「地域色が出てるよね。なにか気になる料理はあった？」=
-//「どれも興味はある……かな。知ってるけど食べたことなかったり、そもそも初めて名前を知った料理もあるし……」=
-//「そっか。なら、特に興味がある料理をふたつあげてよ。片方俺が注文するからさ」=
-//「いいの？　じゃあ……うん、頑張って決めるね」=
+「……やっぱり、変わったメニューが多いね」=“...There really are a whole lot of weird dishes, aren't there?”
+「地域色が出てるよね。なにか気になる料理はあった？」=“A whole lot of regional dishes, yep. Anything caught your eye in particular?”
+「どれも興味はある……かな。知ってるけど食べたことなかったり、そもそも初めて名前を知った料理もあるし……」=“They all did... I'd say. Dishes I've heard of but never tried, and even dishes I'm seeing the names of for the first time...”
+「そっか。なら、特に興味がある料理をふたつあげてよ。片方俺が注文するからさ」=“I see. In that case, pick out two that you really wanna try. I'll order one of them and we can share.”
+「いいの？　じゃあ……うん、頑張って決めるね」=“You sure? Then... okay, give me a minute, I'll make up my mind.”

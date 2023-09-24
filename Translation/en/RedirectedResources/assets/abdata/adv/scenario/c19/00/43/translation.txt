@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あのね、シーサーって獅子と犬どっちがモチーフだと思う？」=
-//「あれ？　獅子じゃないの？」=
-//「このふたつのどっちかって説があるんだって。狛犬と似ているのが理由みたい」=
-//「なるほどね。でも、言葉の響き的にはやっぱり獅子じゃないかな？　確かに見た目はライオンより犬っぽいけど」=
-//「ふふ……そうだね。もしかしたら、獅子と犬が混ざった結果、今のシーサーがあるのかも……」=
+「あのね、シーサーって獅子と犬どっちがモチーフだと思う？」=“So listen, which do you think's the real motif behind shisas? Lions or dogs?”
+「あれ？　獅子じゃないの？」=“Huh? It's not a lion?”
+「このふたつのどっちかって説があるんだって。狛犬と似ているのが理由みたい」=“Apparently there's a theory behind them. Seems like it's because they're similar to komainu statues.”
+「なるほどね。でも、言葉の響き的にはやっぱり獅子じゃないかな？　確かに見た目はライオンより犬っぽいけど」=“I see. But, since their name sounds so similar to the word for lion, isn't the motif probably lions? I mean sure, they might look more like dogs than lions, but still.”
+「ふふ……そうだね。もしかしたら、獅子と犬が混ざった結果、今のシーサーがあるのかも……」=“Fufuh... Yeah. Maybe, they might just be a mix of, lions and dogs together...”

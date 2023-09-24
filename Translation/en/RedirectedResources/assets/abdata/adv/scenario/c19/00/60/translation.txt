@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねぇ……今から、大丈夫かな？」=
-SELECTION:「返事をする」=Respond
+「ねぇ……今から、大丈夫かな？」=“Hey... is now, an okay time?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「大丈夫だけど、どうかしたの？」=
-//「さっき読んでた本でね……二人じゃないと分かち合えない気持ちがあるって書いてて……」=
-//「どういう意味かなぁって……確かめたくなったんだけど……いい？」=
-//「……もう寝たのかな？　残念だけど、私もそろそろ寝ないとかな」=
+「大丈夫だけど、どうかしたの？」=“It is, but did something happen?”
+「さっき読んでた本でね……二人じゃないと分かち合えない気持ちがあるって書いてて……」=“I was reading this book, you see... and in it, it said that there're feelings that you can't understand unless you share them with someone...”
+「どういう意味かなぁって……確かめたくなったんだけど……いい？」=“And I just got super curious... and wanted to figure out just what feelings they were... do you mind?”
+「……もう寝たのかな？　残念だけど、私もそろそろ寝ないとかな」=“...Did you go to sleep already? It's a shame but, I gotta head to bed soon too.”

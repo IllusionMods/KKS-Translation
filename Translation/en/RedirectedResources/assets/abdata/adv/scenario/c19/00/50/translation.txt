@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ホテルでご飯を食べてるだけで、贅沢してる気分になるよね」=
-//「ちょっとリッチになった気がするってこと？　ふふっ、少し分かるかも」=
-//「メニューは結構庶民的なんだけどね」=
-//「小説に出てくるような高級料理ばっかりだったら、私たちには払えないよ？」=
-//「それは確かにその通りだ……」=
+「ホテルでご飯を食べてるだけで、贅沢してる気分になるよね」=“The way we're having lunch at a hotel, feels kinda indulgent, doesn't it?”
+「ちょっとリッチになった気がするってこと？　ふふっ、少し分かるかも」=“Feeling a bit rich there? Fufuh--, I can understand that.”
+「メニューは結構庶民的なんだけどね」=“The menu's real working class though.”
+「小説に出てくるような高級料理ばっかりだったら、私たちには払えないよ？」=“If it was full of high class food like the stuff that shows up in novels, we wouldn't be able to afford it, you know?”
+「それは確かにその通りだ……」=“You're not wrong about that...”

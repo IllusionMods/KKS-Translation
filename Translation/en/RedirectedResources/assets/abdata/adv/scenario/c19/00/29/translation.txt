@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……そわそわしてるけど、もしかして……エッチしたいの？」=
-//「ははは……やっぱり分かっちゃうか。その……いいかな？」=
-//「私達は恋人同士だから、それぐらいわかるよ。エッチも……大丈夫」=
-//「本の中の世界みたいに、素敵な時間にしてね……」=
+「……そわそわしてるけど、もしかして……エッチしたいの？」=“...You're being really fidgety there, do you... want to have sex?”
+「ははは……やっぱり分かっちゃうか。その……いいかな？」=“Hahahah... I guess I can't hide it from you. Do you, erhm... do you mind?”
+「私達は恋人同士だから、それぐらいわかるよ。エッチも……大丈夫」=“We're lovers, dummy. I'm gonna notice when you're like that. And I don't... mind.”
+「本の中の世界みたいに、素敵な時間にしてね……」=“Show me a lovely time, just like the sort of lovely worlds I read about in books, okay?...”

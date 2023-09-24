@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「遊ぶなら、何かレンタルした方がいいのかな」=
-//「えっと……何が借りれるの？」=
-//「バナナボートとか、シュノーケルとかかな」=
-//「だったら、私はバナナボートがいいかな……」=
-//「結構、アクティブなの選ぶんだね」=
-//「うん……せっかくなら、普段できないような遊びをしてみたくて……」=
+「遊ぶなら、何かレンタルした方がいいのかな」=“Should we rent something out? If we're gonna do this, I mean.”
+「えっと……何が借りれるの？」=“Erhm... what sort of stuff can we rent?”
+「バナナボートとか、シュノーケルとかかな」=“A banana boat or snorkeling gear or whatever else, I guess.”
+「だったら、私はバナナボートがいいかな……」=“In that case, I think I'd prefer the banana boat...”
+「結構、アクティブなの選ぶんだね」=“That's a pretty intense thing that you've picked.”
+「うん……せっかくなら、普段できないような遊びをしてみたくて……」=“Yep... I mean, if we're doing this, I was thinking that maybe we could do something I don't normally...”

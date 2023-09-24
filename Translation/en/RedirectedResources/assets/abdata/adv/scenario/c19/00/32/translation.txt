@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この滝、パワースポットって言われてるみたいだよ」=
-//「パワースポット……何か逸話みたいなのってあるのかな？」=
-//「伝説みたいな感じのやつ？」=
-//「そう……私ね、そういう物語的なものを探すのが大好きなの」=
-//「なるほど、そういうのなら探せばありそうだよね」=
-//「うん。だから、私すごく楽しみ。面白いお話だといいな」=
+「この滝、パワースポットって言われてるみたいだよ」=“Seems like this waterfall's known as a powerspot around here.”
+「パワースポット……何か逸話みたいなのってあるのかな？」=“A powerspot... Is there like an anecdote behind it, you think?”
+「伝説みたいな感じのやつ？」=“You mean like a legend?”
+「そう……私ね、そういう物語的なものを探すのが大好きなの」=“Yeah... you know, I love searching for such story rich things.”
+「なるほど、そういうのなら探せばありそうだよね」=“I see, I feel like we could probably find the story behind it if we looked.”
+「うん。だから、私すごく楽しみ。面白いお話だといいな」=“Yep. That's why, I'm really excited. I hope it's an interesting story.”

@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと卓球しない？」=
-//「えっと……ご、ごめんね、卓球ってどうやって始まるんだっけ」=
-//「そこから？」=
-//「運動は全般的に苦手なの……コートに線があるけど、どこに入れば点になるのかな……」=
-//「ルールとか、あんまり難しく考えなくていいよ。楽しめれば勝ちだから」=
-//「楽しむ……ね、わかった！　これも経験」=
-//「それじゃあ、よろしくね？」=
-//「そろそろ休憩にしようか？　思ったよりも盛り上がったね」=
-//「ふうっ、疲れるよりも肩が凝っちゃった」=
-//「そんなに生真面目にやらなくても適当でよかったのに」=
-//「……大丈夫、ちゃんと楽しんだから。たまには身体を動かすのもいいかも」=
-//「そう？　それならよかった」=
-//「うん、たまにだったらまた付き合ってもいいよ。……下手でも笑わないでくれるなら」=
+「ちょっと卓球しない？」=“Wanna play some ping pong?”
+「えっと……ご、ごめんね、卓球ってどうやって始まるんだっけ」=“Erhm... I-I'm sorry, how do you start doing this again?”
+「そこから？」=“Seriously?”
+「運動は全般的に苦手なの……コートに線があるけど、どこに入れば点になるのかな……」=“I'm really bad at anything physical... I can see a line on the table but, what counts as a point...”
+「ルールとか、あんまり難しく考えなくていいよ。楽しめれば勝ちだから」=“You really don't need to worry about the rules that much. You win by having fun anyway.”
+「楽しむ……ね、わかった！　これも経験」=“Having fun... huh, I got it! This is an experience too, just like everything else.”
+「それじゃあ、よろしくね？」=“Well then, go ahead then, will you?”
+「そろそろ休憩にしようか？　思ったよりも盛り上がったね」=“Wanna take a break now? We got into it a whole lot more than I thought we would.”
+「ふうっ、疲れるよりも肩が凝っちゃった」=“Fuh--, my shoulders feel a lot more stiff than tired.”
+「そんなに生真面目にやらなくても適当でよかったのに」=“You could have just taken it easy instead of getting so into it.”
+「……大丈夫、ちゃんと楽しんだから。たまには身体を動かすのもいいかも」=“...Don't worry, it's plenty fun for me. It might be nice to move my body too, every so often.”
+「そう？　それならよかった」=“That so? Well I'm glad to hear that.”
+「うん、たまにだったらまた付き合ってもいいよ。……下手でも笑わないでくれるなら」=“Yep, I don't mind doing this again if it's just every so often. ...As long as you never laugh at me for being bad at it.”

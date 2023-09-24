@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「二人きりだしさ……エッチ、しない？」=
-//「すごくストレートだね」=
-//「もっと気の利いた言い回しすれば良かったかな」=
-//「ううん、大丈夫……案外ストレートな方が心に響くから」=
-//「いいよ、エッチしようか……私も、したかったの……」=
+「二人きりだしさ……エッチ、しない？」=“Hey, since we're alone here anyway... wanna, have sex?”
+「すごくストレートだね」=“You're being very straight today.”
+「もっと気の利いた言い回しすれば良かったかな」=“Maybe I should have sugarcoated it a bit more.”
+「ううん、大丈夫……案外ストレートな方が心に響くから」=“No, don't worry... I feel it in my heart more when you're straight with me.”
+「いいよ、エッチしようか……私も、したかったの……」=“It's fine, let's have sex... I wanted to, do it with you too so...”

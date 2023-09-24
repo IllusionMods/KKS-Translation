@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……けっこう怖かったけど、楽しかったね」=
+「……けっこう怖かったけど、楽しかったね」=“...That was pretty scary but, also really fun, wasn't it?”

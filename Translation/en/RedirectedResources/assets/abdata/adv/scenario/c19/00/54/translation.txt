@@ -10,8 +10,8 @@
 「大丈夫。むしろこれがいいんだ」=“Fine. More than fine, really.”
 「……わかった、やってみる。あっ、ところで私の愛称は……？」=“...Got it, I'll try. Ah--, by the way, what about mine...?”
 「もちろん、ちゃんと考えてるよ。それじゃあ、呼ぶからね」=“Of course, I've already thought of one for you. Well then, I'mma call you it, okay?”
-「[Hあだ名]」=“[Hあだ名]”
-「……[Pあだ名]」=“...[Pあだ名]”
+「[Hあだ名]」=“[Hあだ名].”
+「……[Pあだ名]」=“...[Pあだ名].”
 「……呼んじゃった。すごく胸がドキドキしたよ」=“...I said it. It made my heart race so much.”
 「はは、確かに。普段と違うからちょっと恥ずかしかったね」=“Haha, for sure. It's different from what we usually do, so it was a bit embarrassing, wasn't it?”
 「でも、何だか嬉しい気持ちになれたな。よかったら、またやってもいい？」=“But, it made me really happy. Mind if we do that again sometime?”

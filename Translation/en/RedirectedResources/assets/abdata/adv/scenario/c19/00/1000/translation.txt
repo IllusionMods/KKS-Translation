@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルドリンクだって。一緒に飲もうよ」=
-//「おいしい……けど。ふふっ、なんだかくすぐったくなっちゃう」=
-//「照れちゃうってこと？　まあ、それはあるかもね」=
-//「そうでしょ？　あ……もちろん、嫌って意味ではないから誤解しないでね」=
-//「……こういうのはあまり予想していなかったからってだけ」=
-//「[H名]が好きなな恋愛小説に、こういうシーンは出てきたりしないの？」=
-//「カップルドリンク？　うーん、出てこないかな」=
-//「そ、そっか、そんなの書いたらバカップルみたいか」=
-//「って、そんな言い方したら俺達がバカップルって言ってるようなものだね。ごめん」=
-//「そんな、謝らなくていいよ」=
-//「私は[P名]君と物語みたいな恋がしたいわけじゃないの」=
-//「……ありのままの自然な私達として、いつまでも続いていくありふれた恋を育みたいと思ってるから」=
-//「あはは。[H名]が話すと、なんでも詩みたいになっちゃうね」=
-//「ちょっと芝居がかってた？　でも、本当の気持ちよ……」=
-//「俺もだよ」=
-//「ありがとう。なら、これくらいは恋人として当たり前の体験だよね」=
-//「……飲んじゃおっか。このくすぐったさも二人でドキドキ楽しみながら」=
+「カップルドリンクだって。一緒に飲もうよ」=“A "couples' drink", it says. Let's get it together.”
+「おいしい……けど。ふふっ、なんだかくすぐったくなっちゃう」=“It's delicious... but. Fufuh--, it feels kinda ticklish.”
+「照れちゃうってこと？　まあ、それはあるかもね」=“Feeling embarrassed? Well, it is pretty embarrassing.”
+「そうでしょ？　あ……もちろん、嫌って意味ではないから誤解しないでね」=“Isn't it though~? Ah... of course, it's not like I mind it so don't misunderstand, okay?”
+「……こういうのはあまり予想していなかったからってだけ」=“...I just never imagined this sort of thing happening, that's all.”
+「[H名]が好きなな恋愛小説に、こういうシーンは出てきたりしないの？」=“Do these sorts of scenes not show up, in the romance novels you read, [H名]?”
+「カップルドリンク？　うーん、出てこないかな」=“Ones with a drink like this? Nnnn, not much, for sure.”
+「そ、そっか、そんなの書いたらバカップルみたいか」=“I-I see, I guess it'd feel like overdoing it by writing a scene like that in, huh?”
+「って、そんな言い方したら俺達がバカップルって言ってるようなものだね。ごめん」=“Wait, from that point of view, I'm basically saying that we're overdoing it, aren't I? Sorry.”
+「そんな、謝らなくていいよ」=“No way, don't say sorry.”
+「私は[P名]君と物語みたいな恋がしたいわけじゃないの」=“It's not like I want to have the sort of a romance with you that only shows up in books.”
+「……ありのままの自然な私達として、いつまでも続いていくありふれた恋を育みたいと思ってるから」=“...I'd rather we nurtered a normal, mundane sort of love that we can keep going forever, just the way we are.”
+「あはは。[H名]が話すと、なんでも詩みたいになっちゃうね」=“Ahahah. Just about everything turns kinda poetic out of your mouth, doesn't it, [H名]?”
+「ちょっと芝居がかってた？　でも、本当の気持ちよ……」=“Was it a bit too theatrical? But, it's how I really feel...”
+「俺もだよ」=“And it's how I feel too.”
+「ありがとう。なら、これくらいは恋人として当たり前の体験だよね」=“Thanks. In that case, this much is just normal for a normal couple, no?”
+「……飲んじゃおっか。このくすぐったさも二人でドキドキ楽しみながら」=“...Yeah, let's keep drinking. While savouring this tickly feeling together too.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここにある美容オイル、自由に使っていいみたいだけど興味ある？」=
-//「美容オイル？　う～ん、確かに興味はあるけど」=
-//「だったら、俺が塗ってあげようか、オイル？」=
-//「いいの？　それなら、お願いしようかな」=
-//「任せてよ、綺麗に塗ってあげるから」=
+「ここにある美容オイル、自由に使っていいみたいだけど興味ある？」=“Seems like we can use the beauty oil here as we please, interested?”
+「美容オイル？　う～ん、確かに興味はあるけど」=“Beauty oil? Nnn, I can't say I'm not.”
+「だったら、俺が塗ってあげようか、オイル？」=“In that case, want me to put it on you then?”
+「いいの？　それなら、お願いしようかな」=“You sure? Maybe I'll take you up on that.”
+「任せてよ、綺麗に塗ってあげるから」=“Leave it to me, I'll do a good job of it.”

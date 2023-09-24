@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ……ごちそうさまでした。帰ったら、この島の料理が食べられる場所を探してみようかなぁ」=
+「ふぅ……ごちそうさまでした。帰ったら、この島の料理が食べられる場所を探してみようかなぁ」=“Fuuh... that was great. I think once we go back home, I might look for a place where I can get some more of this food~”

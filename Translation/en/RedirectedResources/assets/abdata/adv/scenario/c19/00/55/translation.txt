@@ -7,8 +7,8 @@
 「え、そうなの？　実は俺もそろそろ愛称呼びしたいなーと思って、考えたりしてたんだ」=“Eh, really? I was just thinking that maybe we should try calling each other by nicknames, so I've been thinking of one for you.”
 「お揃いで嬉しいな。聞かせてくれる？　俺も呼ぶからさ」=“I'm happy we were of the same minds. Will you let me hear it? I'll call you the one I picked too.”
 「うん。えっと……じゃあ、言うね」=“Okay. Erhm... then, I'll say it, okay?”
-「……[Pあだ名]」=“...[Pあだ名]”
-「[Hあだ名]」=“[Hあだ名]”
+「……[Pあだ名]」=“...[Pあだ名].”
+「[Hあだ名]」=“[Hあだ名].”
 「うふふ……そんないい愛称がもらえるなんて、嬉しい」=“Ufufu... to think I'd get such a nice nickname, I'm so happy.”
 「あはは……おおげさだよ」=“Ahaha... you're exaggerating.”
 「ううん、大げさなんかじゃないよ……やっぱり私、あなたの恋人でよかった」=“No, I'm not exaggerating at all... I really am glad, that you're my boyfriend.”
