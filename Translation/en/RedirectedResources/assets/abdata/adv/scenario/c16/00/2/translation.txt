@@ -2,9 +2,9 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「好きだよ」=“I love you.”
-「……えっ？」=“....Eh--?”
+「……えっ？」=“...Eh--?”
 「好きだ。俺と……恋人としてお付き合いして欲しい」=“I love you. I want you to... go out with me, as my girlfriend.”
-「…………」=“............”
+「…………」=“...”
 「な、なんだか……そんな感じ？　俺としてはかなり本気で、覚悟を決めてたんだけど」=“I-I guess... you don't think I mean it? I'm pretty serious though, I made up my heart and everything.”
 「そ、それは分かってるけれど……私、なにか変だった？」=“I-I get that... did I seem weird there?”
 「あんまり驚いた感じじゃなかったからさ……もしかして態度でバレバレだったかな？」=“Well, you didn't seem very shocked there... Was it obvious from the way I was acting, or something?”
@@ -30,7 +30,7 @@
 「な、なに？」=“W-What?”
 「手玉に取られている……ね。我ながら語るに落ちたわ」=“Being led around by the nose... huh? I suppose that makes sense.”
 「私、どうやらずっと前からアナタのことが好きで……アナタの気を引こうとしていたみたい」=“Seems that I've loved you for the longest time already... and have been trying to get your attention ever since.”
-「……[H名]」=“....[H名].”
+「……[H名]」=“...[H名].”
 「恋って怖いのね……こうしている今も、心を作り変えられていくような感じがしてる」=“Love's pretty scary, isn't it... even now, I feel like my heart's changing in real time.”
 「少し前までは気にならなかったアナタとの距離を、急に意識したり……」=“The distance between us that I never minded until now, suddenly feels so close...”
 「これからもそんなことばっかりかもよ？　そうやって、俺達の関係は続いていくんだ」=“It might just end up being more and more of that stuff, you know? That's how our relationship's gonna go from now on.”

@@ -26,7 +26,7 @@
 「そうね。この島は基本的に晴れの日が多いそうよ」=“I suppose. Seems that it is usually sunny like this here.”
 「つまらない話なんだけさ……」=“Kind of a pointless question, but...”
 「ならしないで。いえ、やっぱりしなさい。何故つまらないと思ったの？」=“Then don't ask. No, do, actually. Why do you think it's pointless?”
-「この前、浜辺で……」=“The other day, at the beach....”
+「この前、浜辺で……」=“The other day, at the beach...”
 「そう。珍しい事もあるものね」=“I see. There's no shortage of rare things here, huh?”
 「恋に興味はある？」=“Got any interest in romance?”
 「あるわ。別に不思議な事でもないでしょう」=“I do. Nothing strange about that, is there?”
@@ -156,7 +156,7 @@
 「もちろん完璧よ。アナタを案内することも出来るわ」=“Of course, thoroughly. I could even guide you around.”
 「調べることは調べたけれど、現地で初めて発見することも多いと思うわ」=“I did research what I could, but there's lots of things that I'm seeing here for the first time.”
 「もうちょっと違う話題はないの？」=“Do you not have another topic for me?”
-「今日は何して遊ぼうかな……」=“Man, what should I have fun with today....”
+「今日は何して遊ぼうかな……」=“Man, what should I have fun with today...”
 「プランを決めていなかったの？　私は予定通り行動するわ」=“You haven't made any plans yet? I'll be doing everything according to my own ones.”
 「真実の愛って信じる？」=“Do you believe in true love?”
 「信じ……たいわね。私に見つけられるかわからないけど、必ず存在するわ」=“I... would like to. I don't know if I'll be able to find it myself but, I'm sure it exists, somewhere.”
@@ -224,7 +224,7 @@
 「えぇ、またお話しましょ」=“Yes, let's chat again.”
 「君のことが好きだ」=“I love you.”
 「……ごめんなさい、今はまだ、アナタの気持ちに応えられないわ」=“...I'm sorry, I can't give you an answer, not yet.”
-「突然こんな事言われて、困るかも知れないけど……私、アナタの事が好きなの」=“I don't know if saying this out of the blue to you is a bother or not, but.... I love you.”
+「突然こんな事言われて、困るかも知れないけど……私、アナタの事が好きなの」=“I don't know if saying this out of the blue to you is a bother or not, but... I love you.”
 「……そうよね。いきなり変な事を言ってごめんなさい……気にしなくていいから」=“...Of course. I'm sorry for saying something like that so suddenly... You don't need to mind it, it's fine.”
 「あ、あのさ……きみとHしたいんだ」=“H-Hey... I wanna have sex with you.”
 「その前のめりな姿勢には関心するわ。でもね、それと答えは別」=“I respect your attitude, if nothing else. But, that's all that I respect, the answer's a no.”

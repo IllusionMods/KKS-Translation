@@ -3,8 +3,8 @@
 //
 OPTION[100]:気持ちに応える=Respond to her feelings.
 気持ちに応える=Respond to her feelings.
-OPTION[100]:……ごめん=....Sorry.
-……ごめん=....Sorry.
+OPTION[100]:……ごめん=...Sorry.
+……ごめん=...Sorry.
 OPTION[101]:いいよ=Sure.
 いいよ=Sure.
 OPTION[101]:ごめん=Sorry.

@@ -3,7 +3,7 @@
 //
 「遅い時間にごめんなさい。今、大丈夫かしら？」=“Sorry for doing this so late at night. Do you mind?”
 SELECTION:「返事をする」=Answer her.
-SELECTION:「……」=........
+SELECTION:「……」=...
 「問題ないけど、どうかしたの？」=“Not at all, what's up though?”
 「えっと、大事な用事があるのよ……アナタと、私にしかできない事なんだけど……」=“Erhm, there's something really important, you see... something only you and I, can do...”
 「もう、最後まで言わせないで……分かって、くれるわよね？」=“Don't make me say it, dummy... you know, what I mean, right?”

@@ -30,7 +30,7 @@
 「何が『じゃあ』なのか分からないけど……悪い提案じゃないわね」=“I'm not sure where that "then" came from but... not the worst idea, no.”
 「この辺りは流れ星が有名なんだよ」=“The shooting stars here are very famous.”
 「知っているわ。生憎、私はまだ見たことがないのだけれど」=“I know. Sadly, I have not seen any myself just yet.”
-「時期がいいと雨みたいに降ってくるから、そんなに流れてたら……」=“Apparently they fall like rain if the time is right, imagine that many falling at once....”
+「時期がいいと雨みたいに降ってくるから、そんなに流れてたら……」=“Apparently they fall like rain if the time is right, imagine that many falling at once...”
 「お願いごとをし放題？」=“You'd wish for the world, wouldn't you?”
 「バレたか」=“Saw right through me, huh?”
 「フフッ、アナタってたまに子供みたいなことを言うわね」=“Fufuh--, you really are like just a child sometimes, you know?”
@@ -64,7 +64,7 @@
 「……正解」=“...Correct.”
 「あ、ごめんなさい。知らないふりをしておけばよかったかしら？」=“Ah, I'm sorry. Should I have pretended to not know it?”
 「そういう気遣いは要らないです」=“You need not be so considerate on my account.”
-「拗ねないで。えーと、私が知らなくて、アナタが知っていそうなことは……」=“Now now, don't sulk. Erhm, there's surely things you know that I don't, like....”
+「拗ねないで。えーと、私が知らなくて、アナタが知っていそうなことは……」=“Now now, don't sulk. Erhm, there's surely things you know that I don't, like...”
 「……無理しなくていいよ？　俺も思いつかないし」=“...You really don't need to force yourself to try, you know? I can't think of anything either.”
 「海ほたるって、キラキラして宝石みたいだよね」=“With how much they glitter, sea fireflies almost look like gems, don't they?”
 「そう？　キラキラしてるのは認めるけど、もっと落ち着いた光じゃないかしら」=“You think? I won't deny that they glitter but, their light is a whole lot more subdued, no?”
