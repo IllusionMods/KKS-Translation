@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「風が気持ちいいのですー！　嫌なことがあった時にここに来たら、スッキリ出来そうですですね」=“The breeze feels so good-! If I come here when I've having a bad day, I'm sure I'll feel better.”
-「えっ……？　な、なにか嫌なことがあったの？」=“Eh...? Are you having a bad day?”
-「た、例えばの話なのです！　本当にあったわけじゃないですから！」=“That's just an example! It's not like anything's happened!”
-「そっかぁ、思い違いでよかったよ」=“I see. I'm glad I misunderstood you.”
-「えへへ、心配してくれてありがとうなのですっ」=“Ehehe, thanks for being concerned about me!”
+「風が気持ちいいのですー！　嫌なことがあった時にここに来たら、スッキリ出来そうですですね」=“The breeze feels so nice~! If anything bad happens, I could just come here and get a full refresh, huh~?”
+「えっ……？　な、なにか嫌なことがあったの？」=“Eh--...? D-Did something happen?”
+「た、例えばの話なのです！　本当にあったわけじゃないですから！」=“I-I just meant if it ever does! Nothing's actually happened!”
+「そっかぁ、思い違いでよかったよ」=“I see, well as long as it didn't.”
+「えへへ、心配してくれてありがとうなのですっ」=“Eheheh, thanks for worrying about me--!”

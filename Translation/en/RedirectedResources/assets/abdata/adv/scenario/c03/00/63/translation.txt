@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ふぅー、とっても気持ち良かったのです！」=“Phew- That was super enjoyable!”
-「中々気持ち良かったですよー」=“That felt super good-”
-「ちょっとスッキリした気がするですよ」=“I'm feeling a little refreshed.”
-「えっと……用事でも出来ちゃったですか？」=“Er, um... was there an errand you needed to run?”
+「ふぅー、とっても気持ち良かったのです！」=“Fuuh~, that felt really nice!”
+「中々気持ち良かったですよー」=“That felt pretty darn nice~”
+「ちょっとスッキリした気がするですよ」=“I feel a bit refreshed.”
+「えっと……用事でも出来ちゃったですか？」=“Erhm... did you just remember an errand or something?”

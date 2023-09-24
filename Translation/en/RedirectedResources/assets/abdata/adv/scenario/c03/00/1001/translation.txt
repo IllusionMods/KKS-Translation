@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっと休んでいこうよ」=“Let's take a little break.”
-「にへへへへ～……」=“Nihehehehe~...”
-「どうしたの？　変な笑い方して」=“What's up? That was a weird laugh.”
-「へっ？　私、笑ってたですか？　……って、それよりも『変な』はちょっと引っかかるです」=“Eh!? Did I laugh? ...But more importantly, what did you mean by ‘weird’, huh?”
-「恋人に言うことじゃないと思うのです！　さすがに傷つくですよ……？」=“It's not something you should say to your girlfriend! My feelings are hurt now, you know...?”
-「可愛いなーってニュアンスで言ったつもりだったんだよ、勘違いさせてごめん」=“I meant it in a nuanced way, like, 'you're so cute'. I'm sorry if you misunderstood.”
-「そ、そうなのですか？　それならいいのですが……」=“I-is that so? Then that's fine, I guess...”
-「それで、随分ご機嫌だけど、アイスが好きなの？」=“So, you look like you're in a pretty good mood. Liking that ice cream, little miss?”
-「子供扱いはＮＧなのです！　私が思わずニコニコしてた理由は……分かってくれるですよね？」=“Don't treat me like a child! I instinctively giggled because... well you know why, don't you?”
-「その……こーいうのは、恋人同士の特別な時間だなー……と思って浸っていたのですよ」=“Because, um... I just thinking that this is such a special time for lovers... and I was soaking it in.”
-「そうだね。くつろいだ、穏やかな時間……みたいな」=“I agree. This is such a relaxing, peaceful time.”
-「こーいうのを通じて実感が積み上がっていくと思うのです。恋ってソワソワドキドキばっかりじゃないのですね……」=“I think that through times like these, it starts to grow on you that we're actually lovers. Love isn't all about excitement and nervousness, is it...”
-「何気ない幸せだなーって時間が……すっごく心地良いのです」=“Just casual, happy time together... it's very enjoyable.”
-「何気ない時間が幸せってわかるなぁ……俺も[H名]と二人でいるの、好きだよ」=“Yeah, I can relate to that... I love being alone with you, too, [H名].”
-「こうやって、並んでアイス食べてるだけでも幸せを実感する」=“I feel happy just eating ice cream side by side like this.”
-「そ、そんなこと、まっすぐ目を見て言われたら……好きになっちゃうですよー！」=“When you look me in the eye, and say something like that... it's gonna make me fall in love with you-!”
-「まだ好きじゃないの！？」=“You don't love me already!?”
-「好きに決まってるのです！　今よりもーっともーっとって意味なのです！」=“Of course I love you! I mean you love more now than ever!”
-「あはは、それなら良かったよ」=“Ahaha, well, that's good to know.”
+「ちょっと休んでいこうよ」=“Let's rest for a bit.”
+「にへへへへ～……」=“Niheheheheh~...”
+「どうしたの？　変な笑い方して」=“What's wrong? That was a pretty weird laugh.”
+「へっ？　私、笑ってたですか？　……って、それよりも『変な』はちょっと引っかかるです」=“Heh--? I was laughing? ...Also, don't call it weird~”
+「恋人に言うことじゃないと思うのです！　さすがに傷つくですよ……？」=“I don't think that's something one should say to the person they love! Even I'm going to get hurt, you know...?”
+「可愛いなーってニュアンスで言ったつもりだったんだよ、勘違いさせてごめん」=“I was trying to imply that it was kinda cute, with my tone. Sorry for not saying it clearly.”
+「そ、そうなのですか？　それならいいのですが……」=“R-Really? In that case it's fine...”
+「それで、随分ご機嫌だけど、アイスが好きなの？」=“So then, you seem to be in a great mood, you like the ice cream that much?”
+「子供扱いはＮＧなのです！　私が思わずニコニコしてた理由は……分かってくれるですよね？」=“Don't treat your girlfriend like a kid! The reason I was laughing without thinking... I don't need to tell you, right?”
+「その……こーいうのは、恋人同士の特別な時間だなー……と思って浸っていたのですよ」=“It's uhm... it's because this is a very couple-ish special slice of time~... and I was just savouring it.”
+「そうだね。くつろいだ、穏やかな時間……みたいな」=“You're not wrong. It's very relaxing and calm... I get you.”
+「こーいうのを通じて実感が積み上がっていくと思うのです。恋ってソワソワドキドキばっかりじゃないのですね……」=“I think it's through these things that love actually builds up. It's not all about the heart throbbing thrills, is it...”
+「何気ない幸せだなーって時間が……すっごく心地良いのです」=“These sorts of casual happy moments... feel the nicest of them all.”
+「何気ない時間が幸せってわかるなぁ……俺も[H名]と二人でいるの、好きだよ」=“I can understand that too... I love spending time just alone with you like this too, [H名].”
+「こうやって、並んでアイス食べてるだけでも幸せを実感する」=“I feel happiness even just sharing ice cream together side by side with you like this.”
+「そ、そんなこと、まっすぐ目を見て言われたら……好きになっちゃうですよー！」=“I-If you, say that while staring into my eyes... I'm gonna fall in love with you~!”
+「まだ好きじゃないの！？」=“You haven't so far?!”
+「好きに決まってるのです！　今よりもーっともーっとって意味なのです！」=“Of course I have! I mean that I'd fall even more in love, lots more!”
+「あはは、それなら良かったよ」=“Ahahah, that's a relief.”

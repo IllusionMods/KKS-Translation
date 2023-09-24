@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えへへ、大好きなあなたと水族館……頬がゆるゆるになっちゃうですよー」=“Ehehe, going to the aquarium with my favorite person... my cheeks are gonna get loose from smiling-”
-「はは、そこまで喜んでもらえるなんて光栄だな」=“Haha, I'm flattered that you're so pleased.”
-「でも俺じゃなくて、魚を見ないとダメだよ？」=“But you need to look at the fish, and not me, okay?”
-「はわわ、確かにその通りなのです！　どんなお魚がいるですかね？」=“Awawa, you're absolutely correct! What kind of fish do they have here?”
-「珍しい魚がいっぱいいるよ。ほら、あそこにいるやつとか」=“Lots of rare fish. Like, that one over there...”
-「おおっ、すっごくカラフルな色をしてるですよー！　綺麗なのです」=“Ooooh, it has so many colors-! It's so pretty!”
-「はっ！　あっちにはすごーくでっかいのがいるですー！」=“Whoa! And there's a huge one right over there-!”
-「えへ、見どころ満点ですね！」=“Ehe, there's so much to see!”
-「俺……[H名]を連れてきてよかったよ」=“I'm... glad I brought you here, [H名].”
-「どーしてそんなに震えちゃってるですか！？」=“Why are you trembling so much!?”
-「あまりにも無邪気にに喜んでくれるから、嬉しくてさ……」=“Such innocent happiness here... makes me happy, too...”
-「そ、そんな反応をされると、私が困っちゃうですよ？　一緒に笑顔で楽しんでほしいのですっ」=“Y-You're making me speechless with that kind of reaction, you know? I want you to smile and have fun with me!”
-「そうだね。じゃあ……手を繋ぎながら回ろうか。恋人らしく、ね」=“Yeah, you're right. Then... let's look around, while we hold hands. Like lovers do, eh?”
-「はいなのですっ！　えへへ、照れちゃうけど……すっごく良いですね！」=“Okey-dokey! Ehehe, this is embarrassing... but super nice, too!”
+「えへへ、大好きなあなたと水族館……頬がゆるゆるになっちゃうですよー」=“Eheheh, at the aquarium with the man I love... my grins spreading whether I like it or not~”
+「はは、そこまで喜んでもらえるなんて光栄だな」=“Hahah, I'm honoured as your boyfriend, to see you so happy.”
+「でも俺じゃなくて、魚を見ないとダメだよ？」=“But you have to look at the fish too, you know? Not just me.”
+「はわわ、確かにその通りなのです！　どんなお魚がいるですかね？」=“Hawawah, you're certainly right! Just what sort of fishies do they even have?”
+「珍しい魚がいっぱいいるよ。ほら、あそこにいるやつとか」=“Lots and lots of rare ones. Look, that one over there's one you don't see everyday.”
+「おおっ、すっごくカラフルな色をしてるですよー！　綺麗なのです」=“Ooh--, it's got such a colorful body~! It's so pretty.”
+「はっ！　あっちにはすごーくでっかいのがいるですー！」=“Hah--! That one over there's super big~!”
+「えへ、見どころ満点ですね！」=“Eheh, there's something to look at in every direction!”
+「俺……[H名]を連れてきてよかったよ」=“Man... I'm glad I brought you here, [H名].”
+「どーしてそんなに震えちゃってるですか！？」=“Why're you quivering so much though!?”
+「あまりにも無邪気にに喜んでくれるから、嬉しくてさ……」=“The way you always show your joy so innocently, it just made me so happy...”
+「そ、そんな反応をされると、私が困っちゃうですよ？　一緒に笑顔で楽しんでほしいのですっ」=“W-What am I supposed to do, if you start shaking from happiness? I'd rather we both enjoyed ourselves here while laughing--”
+「そうだね。じゃあ……手を繋ぎながら回ろうか。恋人らしく、ね」=“You're right. Then... let's walk around while holding hands. Like a lovey-dovey couple, you know?”
+「はいなのですっ！　えへへ、照れちゃうけど……すっごく良いですね！」=“Okay--! Eheheh, it's really embarrassing but... also really nice, isn't it!”

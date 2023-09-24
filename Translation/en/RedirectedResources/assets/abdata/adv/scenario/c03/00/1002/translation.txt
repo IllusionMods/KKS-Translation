@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっとだけ卓球をやっていこうよ」=“Let's play a little table tennis.”
-「ラケット握るのこうだったです？　うーん、あんまり経験ないから緊張しちゃうですよー」=“Do you hold the racquet like this? Hmm, I don't have much experience with this so I'm little nervous.”
-「そんなに難しく考えなくても」=“Don't overthink it.”
-「下手っぴでも私に幻滅しないで欲しいです……」=“I hope you won't be disappointed with me even if I'm not good at it...”
-「なんでそんなにテンション低いの？　幻滅なんかしないよ」=“Why do you sound so down? I won't be disappointed.”
-「じゃあ好きです？」=“Then you'll still love me?”
-「す、好きだよ……ってなんの話？　卓球で遊ぶだけでしょ。ほら、行くよ？」=“I do... but why are you bringing this up? We're just playing ping-pong. Here we go, okay?”
-「やっぱり、あんまり好みじゃなかった？　調子出なかったみたいだね」=“As I thought, you didn't enjoy the game that much, do you? You didn't look that enthusiastic throughout the match.”
-「……そうやってとぼけるなんて、意地悪なのです」=“...it's mean of you to act aloof like that.”
-「俺、なんかしたっけ？」=“Wait, did I do something, anything?”
-「好きって言ったことですよ！　試合中ずっとドキドキして……し、視線とかも気になっちゃったのです」=“You said you love me! And so I my was racing throughout the match... a-and your eyes fixating on me didn't help much either.”
-（聞かれたから答えただけなのに……）=(I mean, all I did was just answer her question...)
-「私、変なお顔してなかったですか？　にやけちゃってたので心配なのです……」=“Was I making funny faces? I kinda smirked a lot and so now I can't stop thinking about it...”
-「全然！　その……ずっと可愛かったよ」=“Not at all! Um... you were cute the whole time.”
-「本当ですか？　えへへ……」=“Really? Ehehe...”
-「って、これじゃあまた照れちゃうですよー！」=“Geez, you're making me embarrassed again-!”
-「このままじゃ、無限にこのやり取りが続きそうだね……これで切り上げよっか」=“At this rate, we'll just go back and forth like this forever... let's wrap this up around here, yeah?”
+「ちょっとだけ卓球をやっていこうよ」=“Let's play some ping pong, c'mon.”
+「ラケット握るのこうだったです？　うーん、あんまり経験ないから緊張しちゃうですよー」=“Is this how you hold a racket? Nnn, I don't have much experience with this so I can't help but be nervous~”
+「そんなに難しく考えなくても」=“You don't need to think about it so hard.”
+「下手っぴでも私に幻滅しないで欲しいです……」=“Please don't fall out of love with me if I suck at it...”
+「なんでそんなにテンション低いの？　幻滅なんかしないよ」=“Why're you so down? I'm not gonna fall out of love, dummy.”
+「じゃあ好きです？」=“Then, do you love me?”
+「す、好きだよ……ってなんの話？　卓球で遊ぶだけでしょ。ほら、行くよ？」=“I-I do, I love you... but what is this about? We're just playing ping pong, no? C'mon, I'm gonna serve, okay?”
+「やっぱり、あんまり好みじゃなかった？　調子出なかったみたいだね」=“I guess you didn't like it that much afterall? You didn't really seem to be into it.”
+「……そうやってとぼけるなんて、意地悪なのです」=“...I can't believe you're playing dumb, you're such a meanie.”
+「俺、なんかしたっけ？」=“What, did I do something?”
+「好きって言ったことですよ！　試合中ずっとドキドキして……し、視線とかも気になっちゃったのです」=“You said you love me! The whole time my heart was pounding so much... I-I couldn't even look at your face because your eyes are right there.”
+（聞かれたから答えただけなのに……）=(I just answered as she asked me to, though...)
+「私、変なお顔してなかったですか？　にやけちゃってたので心配なのです……」=“Was I making a weird face throughout? I couldn't help but feel really happy so I'm worried...”
+「全然！　その……ずっと可愛かったよ」=“Not at all! You erhm... you were really cute, the whole time.”
+「本当ですか？　えへへ……」=“Really? Eheheh...”
+「って、これじゃあまた照れちゃうですよー！」=“Wuh, at this rate I'm gonna start blushing again~!”
+「このままじゃ、無限にこのやり取りが続きそうだね……これで切り上げよっか」=“If we keep going like this, this'll never end... let's wrap up our game here.”

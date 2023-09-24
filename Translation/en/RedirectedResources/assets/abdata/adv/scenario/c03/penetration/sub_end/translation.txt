@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「はぁ、わかってたです……あんなの、絶対いいってわかってたですよぉ……」=“Haaa, I knew it... I knew it would be fantastic...”
+「はぁ、わかってたです……あんなの、絶対いいってわかってたですよぉ……」=“Haah, it's over... I knew it was going to be awesome...”

@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「お、俺のことが好きだったの……？」=“Y-you love me...?”
-「は、はいっ……あなたと仲良くしている内に……す、好きになったですよ」=“Y-yes...! Being friends with you... has made me come to love you.”
-「私じゃ、ダメですか……？」=“Am I, not good enough for you...?”
-「ううん、そんなことない」=“Nuh uh, that's not true.”
+「お、俺のことが好きだったの……？」=“Y-You've loved me this whole time...?”
+「は、はいっ……あなたと仲良くしている内に……す、好きになったですよ」=“Y-Yes--... between all the time we've spent together... I-I fell in love before I realized it.”
+「私じゃ、ダメですか……？」=“Am I, really not good enough...?”
+「ううん、そんなことない」=“No, not at all.”
 「俺も、[H名]のことが好きだよ」=“I love you too, [H名].”
-「じゃ、じゃあ……」=“Then, then...”
-「うん、これから恋人としてよろしくね」=“Yeah, let's be lovers from now on.”
-「夢じゃ、ないですよね？　うぅ、良かったですぅ～～」=“This isn't a dream, is it? Uuu, I'm super happy~~”
+「じゃ、じゃあ……」=“T-Then...”
+「うん、これから恋人としてよろしくね」=“Yep, let's be a couple from now on.”
+「夢じゃ、ないですよね？　うぅ、良かったですぅ～～」=“This isn't a, dream, right? Uuu, I'm so happy~~”

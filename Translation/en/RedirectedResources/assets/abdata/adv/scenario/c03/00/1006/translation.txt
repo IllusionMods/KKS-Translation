@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「[H名]、この鐘を一緒に鳴らそう」=“[H名], let's ring the bell together.”
-「ぜ、絶対そうくると思ってたです！　待ってくだ……あ、いえっ」=“I knew you would ask me that! Hold up.. ah, no!”
-「あわわわ！　いえっていうのは嫌って意味ではないのです！　つまり……そのー」=“Awawawa! I didn't mean ‘don't’ when I said 'no'! I mean... um-”
-「……はいです。あなたと一緒に、こ、この鐘……ウムイの鐘を鳴らしたいのですっ」=“...Yes. The bell... I want to ring the bell of Umui... with y-you!”
-「ありがとう」=“Thank you.”
-「って、こ、これ、大げさすぎですか？　プロポーズじゃないんだぞー！　みたいな……」=“Wait, a-aren't we making a big deal outta this? Like ‘it's not a proposal you know’, or something along those lines...”
-「……すみませんです。変なこと言ったですよ」=“...I'm super sorry. I said something strange.”
-「……プロポーズか。うん、似たようなものだよ」=“A proposal, huh. Yeah, it's kinda the same actually.”
-「似たようなものなのです！？」=“It is!?”
-「だって、この鐘は『二人の恋が永遠に続きますように』って願いを込めて鳴らすものなんだよ」=“I mean, you're supposed to ring the bell while wishing 'let our love last forever'.”
-「ずっと一緒にいよう……っていうのと同じ意味だよね？　だから、間違ってはないと思うよ」=“So is that not saying ‘let's be together forever’? So yeah, they're not different in my opinion.”
-「……あなたはやっぱり素敵なのです！　カッコよくて、大好きですっ！」=“...you really are super wonderful! You're so cool... I love you!”
-「っ、そ、それ何？　持ち上げてるの？」=“Uh, wh-what's this? Why are you flattering me all of a sudden?”
-「本当の気持ちですよ。変に冗談めかしたりしないで言ってくれたこと……とっても嬉しかったのです」=“Because that's how I really feel. You said that without making a weird joke out of it... and I'm so happy because of it!”
-「未来を信じられるようになったです。私達がずっと一緒で仲良しな未来……」=“I've come to believe in our future. A future in which we're always close, always together...”
-「……そうなるといいね」=“...it's my wish that that happens.”
-「あはは……なんだか、鐘を鳴らす前から重要イベントをやっちゃった感じですね」=“Ahaha... it's kind of like we've done something significant here, even before we rang the bell.”
-「本番はこれからだよ。さ、一緒に」=“We're just getting started. Come on, together now.”
-「えへへ……誓っちゃったですよ、私達」=“Ehehe... we just made our vows.”
-「これでもう俺達、切っても切れない二人だね」=“I guess we're inseparable now.”
-「ですねっ！　幸せにしてくださいです。こ、子供は二人で……でっかい犬もっ」=“Yep! Please, make me happy. We'll have two kids... and a big dog!”
-（……本当のプロポーズになっちゃった）=(...Well, this's turned into a real proposal.)
+「[H名]、この鐘を一緒に鳴らそう」=“[H名], let's ring this bell together.”
+「ぜ、絶対そうくると思ってたです！　待ってくだ……あ、いえっ」=“I-I knew it'd come to this, I just knew it! Please wai--... ah, no--!”
+「あわわわ！　いえっていうのは嫌って意味ではないのです！　つまり……そのー」=“Awawawah! I didn't mean that I don't want to! Basically... uhm~”
+「……はいです。あなたと一緒に、こ、この鐘……ウムイの鐘を鳴らしたいのですっ」=“...Yes. I want to, r-ring this... Bell of Umuy, with you--!”
+「ありがとう」=“Thanks.”
+「って、こ、これ、大げさすぎですか？　プロポーズじゃないんだぞー！　みたいな……」=“Wuh, a-am I making too big a deal out of it? Are you gonna laugh that laugh of yours and say "Haha, it's not a proposal, you know~!", like...”
+「……すみませんです。変なこと言ったですよ」=“...I'm sorry. I didn't mean to say that, that wasn't very normal.”
+「……プロポーズか。うん、似たようなものだよ」=“...A proposal, huh? Well, it's not all that different.”
+「似たようなものなのです！？」=“It's not!?”
+「だって、この鐘は『二人の恋が永遠に続きますように』って願いを込めて鳴らすものなんだよ」=“I mean, you don't ring a bell like this without really hoping in your heart that your love will last forever, you know.”
+「ずっと一緒にいよう……っていうのと同じ意味だよね？　だから、間違ってはないと思うよ」=“Which means we're hoping to stay together forever... no? So I don't think it's all that different.”
+「……あなたはやっぱり素敵なのです！　カッコよくて、大好きですっ！」=“...You really are just wonderful! You're so cool, I love you--!”
+「っ、そ、それ何？　持ち上げてるの？」=“--, w-what's with that? Are you trying to flatter me?”
+「本当の気持ちですよ。変に冗談めかしたりしないで言ってくれたこと……とっても嬉しかったのです」=“It's how I really feel. It made me really happy, you know... the way you took it seriously without passing it off as a joke.”
+「未来を信じられるようになったです。私達がずっと一緒で仲良しな未来……」=“I can actually believe in our future together now. A future where we'll never grow apart...”
+「……そうなるといいね」=“...That would be pretty nice.”
+「あはは……なんだか、鐘を鳴らす前から重要イベントをやっちゃった感じですね」=“Ahahah... almost feels like we cleared the main event before even ringing the bell, doesn't it?”
+「本番はこれからだよ。さ、一緒に」=“It's not over until we do it though. C'mon, give me your hand.”
+「えへへ……誓っちゃったですよ、私達」=“Eheheh... we rang it. Together.”
+「これでもう俺達、切っても切れない二人だね」=“With this, we can no longer be torn apart, come hell or high water.”
+「ですねっ！　幸せにしてくださいです。こ、子供は二人で……でっかい犬もっ」=“Indeed--! Please make me a happy woman. I-I want two kids... and a big family dog too--!”
+（……本当のプロポーズになっちゃった）=(...It really turned into a real proposal.)

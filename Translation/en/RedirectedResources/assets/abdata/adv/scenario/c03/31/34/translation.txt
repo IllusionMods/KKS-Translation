@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「いい場所でしたね。私、好きになったですよー」=“That was a nice place. I've really gotten to like it-”
+「いい場所でしたね。私、好きになったですよー」=“That was a really nice place, wasn't it? I've fallen in love with it~”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっと失敗しちゃったですが……悪くない出来なのですっ」=“I messed mine up a little.... but it's still not too bad!”
+「ちょっと失敗しちゃったですが……悪くない出来なのですっ」=“I messed up a little bit but... It's not bad at all--!”
