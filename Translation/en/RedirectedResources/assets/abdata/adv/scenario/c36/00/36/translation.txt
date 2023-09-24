@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「二人乗りのカヤック……？　……ああ、なるほど。貴方、私の手足になりたかったのね」=
-//「そういうことなら早く言いなさい。いっぱいこき使ってあげるわ」=
-//「えっと……何がどうなってそんな結論に至ったのか分からないけど、俺は純粋に[H名]さんとカヤックを楽しみたかったんだよ？」=
-//「だから、貴方の要望に応えてあげているんじゃない。私はのんびりマングローブを眺めているから、貴方はずっと漕いでなさい」=
-//「はい……」=
+「二人乗りのカヤック……？　……ああ、なるほど。貴方、私の手足になりたかったのね」=“A two person kayak...? ...Ah, I see. You wanted to become my hands and feet, huh?”
+「そういうことなら早く言いなさい。いっぱいこき使ってあげるわ」=“If that's all then just say it from the start. I'll work you to the bone anytime.”
+「えっと……何がどうなってそんな結論に至ったのか分からないけど、俺は純粋に[H名]さんとカヤックを楽しみたかったんだよ？」=“Erhm... I don't know how you came to that conclusion but, I just wanted us to enjoy kayaking together, you know?”
+「だから、貴方の要望に応えてあげているんじゃない。私はのんびりマングローブを眺めているから、貴方はずっと漕いでなさい」=“And I'm answering your demands, am I not? I'll just relax and look at the mangroves, so do your best rowing.”
+「はい……」=“Okay...”

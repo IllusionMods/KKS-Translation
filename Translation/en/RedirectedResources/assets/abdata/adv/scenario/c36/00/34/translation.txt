@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「荷物持ち、ご苦労様。今日の働きぶりは褒めてあげるわ」=
+「荷物持ち、ご苦労様。今日の働きぶりは褒めてあげるわ」=“Good job there. I don't mind praising you for that bit of work.”

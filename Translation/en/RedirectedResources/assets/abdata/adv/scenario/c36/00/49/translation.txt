@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ばくだんおにぎりってメニューがあるわね。大量のからしやワサビが入ったおにぎりかしら」=
-//「そんな危険なメニューを置く店はないよ……たぶん、大きくて丸っこいから見た目をしてるから、爆弾って名前が付いてるんじゃない？」=
-//「あら、貴方は食べたことがあるの？」=
-//「うん、名前のインパクトに惹かれてね。丸っこいかまぼこの中に、じゅーしーのおにぎりが入ってて美味しかったよ」=
-//「ふぅん。イメージとは違ったけれど、美味しそうね。注文してみるわ」=
+「ばくだんおにぎりってメニューがあるわね。大量のからしやワサビが入ったおにぎりかしら」=“They've got a dish called "bomb riceballs", I see. I wonder if they've got huge amounts of mustard or wasabi as filling?”
+「そんな危険なメニューを置く店はないよ……たぶん、大きくて丸っこいから見た目をしてるから、爆弾って名前が付いてるんじゃない？」=“I don't think any shop would serve something like that... It's probably because they're big and round and look like bombs, no?”
+「あら、貴方は食べたことがあるの？」=“Oh my, have you eaten one before?”
+「うん、名前のインパクトに惹かれてね。丸っこいかまぼこの中に、じゅーしーのおにぎりが入ってて美味しかったよ」=“Yeah, the name really attracted me. It's a round kamaboko with a juicy onigiri inside, it's really good.”
+「ふぅん。イメージとは違ったけれど、美味しそうね。注文してみるわ」=“Hmmm, it's not what I expected, but it does sound pretty good. I'll order it.”

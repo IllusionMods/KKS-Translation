@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「貴方、こんな特技があったのね。普通に気持ちが良かったわ」=
-//「まだまだね。私はこれくらいじゃ満足しないから、次はもっとしっかりやりなさい」=
-//「低いハードルすら下回る結果だったわ。もう少し腕を磨いておきなさい」=
-//「なに？　恐れ多くて私に触れられないとでも言うの？」=
+「貴方、こんな特技があったのね。普通に気持ちが良かったわ」=“I didn't know you had a skill like this. That felt pretty darn good.”
+「まだまだね。私はこれくらいじゃ満足しないから、次はもっとしっかりやりなさい」=“I suppose that's all you've got. But you can't satisfy me with just that, so try harder.”
+「低いハードルすら下回る結果だったわ。もう少し腕を磨いておきなさい」=“In the end, you couldn't overcome even the lowest hurdle. Sharpen your skills.”
+「なに？　恐れ多くて私に触れられないとでも言うの？」=“What? Are you saying that you're too afraid to touch me?”

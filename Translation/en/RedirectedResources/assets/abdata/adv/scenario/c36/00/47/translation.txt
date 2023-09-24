@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「コツさえ掴めば意外と簡単よ。機会があったら教えてあげるわ」=
+「コツさえ掴めば意外と簡単よ。機会があったら教えてあげるわ」=“It's surprisingly easy once you figure out the trick to it. I'll teach you if there's ever a chance.”

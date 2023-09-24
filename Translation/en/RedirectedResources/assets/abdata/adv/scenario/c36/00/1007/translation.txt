@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]さん、深海魚の水槽があるみたいだよ」=
+「[H名]さん、深海魚の水槽があるみたいだよ」=“[H名]-san, there's a fishtank with deep sea fish.”
 「…………」=“...”
-//「[H名]さん？　そんなに囓りついてなにを見てるの？」=
-//「別に……なかなか興味深いと思っていただけよ」=
-//「小魚の群れが？　えっと、この魚の種類は……」=
-//「種類はなんだって良いわ」=
-//「えっ？　でも、興味を持っているんじゃないの？」=
-//「ええ。こう……簡単にぐちゃっと潰せそうなのが良いわよね」=
-//「[H名]さん、怖いよ！？」=
-//「フフッ、冗談よ。でも、ここまで群れられると、それなりに見応えがあるわね」=
-//「貴方はどう思う？　私のように、踏み潰したくなるのかしら？」=
-//「いや……特にそういう感想はないかな。普通に可愛いとか、綺麗とか、この魚知ってるーとか……」=
-//「今は、[H名]さんと一緒に水族館デートできてるのが楽しいかな」=
-//「……そう。まぁ、貴方が楽しめているならそれでいいんじゃない」=
-//「それで、向こうに深海魚の水槽があるんだったかしら？」=
-//「うん。良かったら一緒に見に行きたいなって思ったんだけど……」=
-//「そうね、深海魚は深海魚で滑稽よね。地上まで引きずり上げられて、見世物になっているんだもの」=
-//「は、はは……楽しみ方は人それぞれだけど……。[H名]さんは変わってるね……」=
+「[H名]さん？　そんなに囓りついてなにを見てるの？」=“[H名]-san? What're you staring at with that scary expression?”
+「別に……なかなか興味深いと思っていただけよ」=“Nothing... I just thought it was pretty interesting.”
+「小魚の群れが？　えっと、この魚の種類は……」=“This school of small fish? Erhm, this fish is...”
+「種類はなんだって良いわ」=“Who cares about what it is?”
+「えっ？　でも、興味を持っているんじゃないの？」=“Eh--? But, aren't you interested in it?”
+「ええ。こう……簡単にぐちゃっと潰せそうなのが良いわよね」=“Yes. It looks... very easily squishable, I like that.”
+「[H名]さん、怖いよ！？」=“[H名]-san, that really is scary, you know?!”
+「フフッ、冗談よ。でも、ここまで群れられると、それなりに見応えがあるわね」=“Fufuh--, I'm joking. But they are pretty interesting to look at, when they flock together like that.”
+「貴方はどう思う？　私のように、踏み潰したくなるのかしら？」=“What do you think? Does it make you want to crush them too?”
+「いや……特にそういう感想はないかな。普通に可愛いとか、綺麗とか、この魚知ってるーとか……」=“No... not really. When I look at fish, I just think they're cute, or pretty, or "ah, I know that one"...”
+「今は、[H名]さんと一緒に水族館デートできてるのが楽しいかな」=“Right now, I'm enjoying our little aquarium date together.”
+「……そう。まぁ、貴方が楽しめているならそれでいいんじゃない」=“...I see. Well, I suppose if you're enjoying it then that's that.”
+「それで、向こうに深海魚の水槽があるんだったかしら？」=“So then, was there a deep sea fish tank over there?”
+「うん。良かったら一緒に見に行きたいなって思ったんだけど……」=“Yeah. I did want to go look at it together but...”
+「そうね、深海魚は深海魚で滑稽よね。地上まで引きずり上げられて、見世物になっているんだもの」=“I suppose, they do make for a pretty comical sight, don't they? If you drag them up to the surface, they make for quite the spectacle.”
+「は、はは……楽しみ方は人それぞれだけど……。[H名]さんは変わってるね……」=“H-Hahah... I know everyone's got different ways of enjoying themselves but... You really are pretty out there, [H名]-san...”

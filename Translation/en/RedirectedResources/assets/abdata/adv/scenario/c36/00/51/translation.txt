@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……貴方、家畜のくせに食事のマナーはちゃんと出来ているのね。少しだけ見直したわ」=
+「……貴方、家畜のくせに食事のマナーはちゃんと出来ているのね。少しだけ見直したわ」=“...Even though you're livestock, I see you know your table manners. I've raised my opinion of you a tiny bit.”

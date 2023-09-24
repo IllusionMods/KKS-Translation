@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なに？　下僕はひとりじゃ性欲処理もできないの？」=
-//「う、うん……俺はどうしても[H名]さんとエッチしたいんだ。ダメ……かな？」=
-//「別にダメとは言ってないわ。下僕を躾けるのは主の務めよ」=
+「なに？　下僕はひとりじゃ性欲処理もできないの？」=“What? A manservant like you can't even take care of his sex drive by himself?”
+「う、うん……俺はどうしても[H名]さんとエッチしたいんだ。ダメ……かな？」=“Y-Yeah... I want to have sex with you really badly, [H名]-san. I guess... we can't?”
+「別にダメとは言ってないわ。下僕を躾けるのは主の務めよ」=“I didn't say that. Disciplining my manservant is also part of my duty as your master.”
 「じゃあ……」=“Then...”
-//「ええ、いいわ。私の初めてを貴方にあげる。この有難みをしっかりと噛み締めることね」=
+「ええ、いいわ。私の初めてを貴方にあげる。この有難みをしっかりと噛み締めることね」=“Yes, alright. I'll let you have my virginity. Savour the value of that thoroughly.”

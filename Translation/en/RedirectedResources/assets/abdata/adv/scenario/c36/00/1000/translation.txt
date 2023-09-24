@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、[H名]さん。カップルジュースを飲んでみたいんだけどどうかな？」=
-//「ねぇ、下僕。このストロー……吸い口が二つあるように見えるのだけど？」=
-//「そうだね。カップルジュースだしおかしなところはないと思うけど？」=
-//「それくらい、私だってわかっているわ」=
-//「ただ、下僕のくせに私と同じ物を飲むつもりなのか？　と聞いているのよ」=
-//「えっ？　そのつもりだったんだけど……ダメだった？」=
-//「やっぱり別々のドリンクがいいなら、もう一つ何か注文するけど……」=
-//「……別に良いわ。考えてみれば、一人でこのサイズのグラス一杯は飲みすぎだもの」=
-//「しかたないし、下僕には特別に私と同じ物を飲むことを許可してあげる」=
-//「ありがとう、嬉しいよ[H名]さん」=
-//「それじゃ、さっそく頂いてみようかしら」=
-//「う、うん……」=
+「ねぇ、[H名]さん。カップルジュースを飲んでみたいんだけどどうかな？」=“Hey, [H名]-san. I wanna try getting the couples' juice, how about it?”
+「ねぇ、下僕。このストロー……吸い口が二つあるように見えるのだけど？」=“Hey, manservant. This straw... it looks to me like its got two mouthpieces though.”
+「そうだね。カップルジュースだしおかしなところはないと思うけど？」=“Yeah. It's a couples' juice so it doesn't seem all that weird to me though?”
+「それくらい、私だってわかっているわ」=“I get that much too.”
+「ただ、下僕のくせに私と同じ物を飲むつもりなのか？　と聞いているのよ」=“What I'm asking is, do you really think you're gonna drink the same drink as me?”
+「えっ？　そのつもりだったんだけど……ダメだった？」=“Eh--? That was the plan but... should I not have asked?”
+「やっぱり別々のドリンクがいいなら、もう一つ何か注文するけど……」=“I mean, if you don't like it, I can order something else for myself but...”
+「……別に良いわ。考えてみれば、一人でこのサイズのグラス一杯は飲みすぎだもの」=“...It's whatever. Thinking about it, there's no way I could finish a drink this large myself anyway.”
+「しかたないし、下僕には特別に私と同じ物を飲むことを許可してあげる」=“It can't be helped, so I'll allow you this once to drink the same drink as me, manservant.”
+「ありがとう、嬉しいよ[H名]さん」=“Thank you, I'm so happy, [H名]-san.”
+「それじゃ、さっそく頂いてみようかしら」=“Well then, I suppose it's time to drink.”
+「う、うん……」=“O-Okay...”
 「…………」=“...”
-//「……あれ？　飲まないの？」=
-//「貴方ねぇ。下僕のくせに、何をジッと人の唇を見ているのよ」=
-//「そんな暇があったら、さっさと下僕もストローに口をつけて飲みなさい」=
-//「わ、わかった！」=
+「……あれ？　飲まないの？」=“...Huh? You're not drinking it?”
+「貴方ねぇ。下僕のくせに、何をジッと人の唇を見ているのよ」=“Say, manservant. Do you think you've got the standing to stare at someone's lips?”
+「そんな暇があったら、さっさと下僕もストローに口をつけて飲みなさい」=“If you're that free then put your straw in your mouth and start drinking already.”
+「わ、わかった！」=“O-Okay!”

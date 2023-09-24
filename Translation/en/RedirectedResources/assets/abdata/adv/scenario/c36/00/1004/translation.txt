@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少し浜辺を歩いて散歩していかない？」=
-//「波打ち際を歩くのは良いけど、砂地は足がとられて歩き辛いのが難点ね」=
-//「そうだね。さすがに舗装されてる道みたいには歩けないよね」=
-//「……そうね、良いことを思いついたわ。貴方、私の足元に跪きなさい」=
-//「えっ！？　き、急になんでそんなことを！？」=
-//「砂地が歩き辛いなら、歩きやすいものを足場にすれば良いでしょう？」=
-//「それなら、貴方が私の足場になればすべてが解決するわ」=
-//「いやいやいやっ、さすがにそれは無理だから！」=
-//「あら、下僕がずいぶんと反抗的なようね。貴方に許された返事は『よろこんで』だけでしょう？」=
-//「さあ、返事は？」=
-//「そ、それには問題があると思う！」=
-//「……良いわ。説明しなさい」=
-//「俺が跪いて足場になったとして、カバーできる範囲は一歩かそこらだよね？」=
-//「水溜まりを超えるとかならちょうど良いかもしれないけど、すぐにまた砂地を歩くことになるんじゃないかな？」=
-//「なるほど、一理あるわ」=
-//「確かに一歩や二歩だけ砂地から逃れられても、それでは何の意味もないわね」=
-//「うん。わかって貰えて良かったよ……」=
-//「でも、それはそれとして、貴方を踏みたい気分だわ」=
-//「理不尽だ！」=
-//「フフッ、安心しなさい。こんなことは貴方以外には言わないわ」=
-//「できれば俺にも言わないで欲しいです……」=
+「少し浜辺を歩いて散歩していかない？」=“Hey, want to take a walk down the beach?”
+「波打ち際を歩くのは良いけど、砂地は足がとられて歩き辛いのが難点ね」=“Walking along the shore's good and all but, your feet really end digging into the sand, don't they?”
+「そうだね。さすがに舗装されてる道みたいには歩けないよね」=“Yeah. You can't really walk along the shore like it's a paved road.”
+「……そうね、良いことを思いついたわ。貴方、私の足元に跪きなさい」=“...Oh, I've got a good idea. You, kneel at my feet.”
+「えっ！？　き、急になんでそんなことを！？」=“Eh--!? W-Why so suddenly?!”
+「砂地が歩き辛いなら、歩きやすいものを足場にすれば良いでしょう？」=“The sand's hard to walk on, so I just need to get myself some easy footing, no?”
+「それなら、貴方が私の足場になればすべてが解決するわ」=“And since you're here, I can just make you my foothold, it'd solve all the problems in one go.”
+「いやいやいやっ、さすがにそれは無理だから！」=“No no no--, even I can't do that much!”
+「あら、下僕がずいぶんと反抗的なようね。貴方に許された返事は『よろこんで』だけでしょう？」=“Oh my, being very rebellious today, aren't we? A manservant like you only has the option of going "gladly", no?”
+「さあ、返事は？」=“So then, your answer?”
+「そ、それには問題があると思う！」=“I-I still think there's bigger problems!”
+「……良いわ。説明しなさい」=“...Alright. Explain.”
+「俺が跪いて足場になったとして、カバーできる範囲は一歩かそこらだよね？」=“Even if I kneel and become a foothold for you, the most I can cover is one step, maybe two, right?”
+「水溜まりを超えるとかならちょうど良いかもしれないけど、すぐにまた砂地を歩くことになるんじゃないかな？」=“It might work if it was a puddle instead but, won't you have to walk on sand again right away?”
+「なるほど、一理あるわ」=“I see, I can see the reasoning.”
+「確かに一歩や二歩だけ砂地から逃れられても、それでは何の意味もないわね」=“Even if I manage to escape the sand for a step or two, it won't achieve much, would it?”
+「うん。わかって貰えて良かったよ……」=“Yeah. I'm glad you're so understanding...”
+「でも、それはそれとして、貴方を踏みたい気分だわ」=“But, that aside, I do want to step on you.”
+「理不尽だ！」=“You're being unreasonable!”
+「フフッ、安心しなさい。こんなことは貴方以外には言わないわ」=“Fufuh--, don't worry. I would never say this to anyone else.”
+「できれば俺にも言わないで欲しいです……」=“If possible, please don't say it to me either...”

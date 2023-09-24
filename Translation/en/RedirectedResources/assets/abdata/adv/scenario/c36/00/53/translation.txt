@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この次も私の疑問に答えられる様にしておきなさい。そうしたら、いつかご褒美をあげる」=
+「この次も私の疑問に答えられる様にしておきなさい。そうしたら、いつかご褒美をあげる」=“Learn to do that everytime. If you do, I'll reward you for it someday.”

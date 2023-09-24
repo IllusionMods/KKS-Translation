@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅん。ここではオイルを塗れるのね」=
-//「せっかくだし、塗ってみようかしら。背中側は届かないから、貴方に任せるわ」=
-//「えっ……俺が塗っていいの？」=
-//「特別に許してあげる。だから早くしなさい」=
-//「う、うんっ」=
+「ふぅん。ここではオイルを塗れるのね」=“Hmmm. The oil here's free, huh?”
+「せっかくだし、塗ってみようかしら。背中側は届かないから、貴方に任せるわ」=“Since we're here, I suppose I'll try it. I can't reach my back, so I'll leave it to you.”
+「えっ……俺が塗っていいの？」=“Eh--... you're sure?”
+「特別に許してあげる。だから早くしなさい」=“I'll let you do it, this once. So make it quick.”
+「う、うんっ」=“O-Okay--”

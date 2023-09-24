@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……この部屋、少しにおうわね」=
-//「旅先だというのに、貴方は虚しく自分を慰めていたの？　気持ちが悪い」=
-//「私が相手してあげるから、そんなことはもう止めなさい。次にこの部屋を借りる人が可哀想だわ」=
+「……この部屋、少しにおうわね」=“...This room smells a bit.”
+「旅先だというのに、貴方は虚しく自分を慰めていたの？　気持ちが悪い」=“Have you been masturbating pathetically, even on a trip like this? Disgusting.”
+「私が相手してあげるから、そんなことはもう止めなさい。次にこの部屋を借りる人が可哀想だわ」=“I'll keep you company so, stop doing that. You're making me feel bad for whoever gets the short straw and gets this room next.”

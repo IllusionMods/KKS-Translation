@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱり[H名]さんは、手先が器用なんだね。俺のなんかより、ずっと綺麗に仕上がってるや」=
-//「なに？　褒めたところで何もしてあげないわよ」=
-//「純粋に褒めただけだって！　ほら、見てよ。俺の紅型はあんまりうまくいってないでしょ？」=
-//「うわ、本当ね……貴方の人生みたいに、はみ出しているわ」=
-//「そこまで言わなくても良くない……？」=
+「やっぱり[H名]さんは、手先が器用なんだね。俺のなんかより、ずっと綺麗に仕上がってるや」=“You really are good with your hands, aren't you, [H名]-san? Yours is lightyears better than mine.”
+「なに？　褒めたところで何もしてあげないわよ」=“What? I'm not gonna give you anything even if you butter me up like that.”
+「純粋に褒めただけだって！　ほら、見てよ。俺の紅型はあんまりうまくいってないでしょ？」=“I was just complimenting you! I mean, look. Mine isn't all that good, no?”
+「うわ、本当ね……貴方の人生みたいに、はみ出しているわ」=“Uwah, seriously... it's a mess, just like your life.”
+「そこまで言わなくても良くない……？」=“Do you have to go that far...?”
