@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「二人乗り式のカヤックかぁ」=
-//「ふふん、私達二人なら余裕やろ？」=
-//「そうだね、二人の力を見せつけてやりますかね」=
-//「それじゃ、一緒に張り切っていくけんね！」=
+「二人乗り式のカヤックかぁ」=“A two person kayak, huh~”
+「ふふん、私達二人なら余裕やろ？」=“Fufuhn, it's nothing in front of us, no?”
+「そうだね、二人の力を見せつけてやりますかね」=“Yeah, I suppose it's time for us to show our power to the world.”
+「それじゃ、一緒に張り切っていくけんね！」=“Well then, time to get this done!”

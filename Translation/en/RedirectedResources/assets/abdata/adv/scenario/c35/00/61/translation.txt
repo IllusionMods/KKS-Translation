@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここは……エステ的なもんやろか？」=
-//「そうみたい、オイルとかタダで使えるってさ」=
-//「ふーん……でもスタッフがおらんってことは、塗ってもらうとしたら……」=
-//「俺が塗るってことになるね。どうする？」=
-//「どうするて……ま、まぁ、折角やし背中だけでもお願いしようかな……？」=
+「ここは……エステ的なもんやろか？」=“Is this... like a beauty parlor or something?”
+「そうみたい、オイルとかタダで使えるってさ」=“Seems like it, says here we can use the oil for free.”
+「ふーん……でもスタッフがおらんってことは、塗ってもらうとしたら……」=“Hmmm... but since there's no staff, if I want someone to rub it on my back...”
+「俺が塗るってことになるね。どうする？」=“It'll have to be me, yeah. What do you wanna do?”
+「どうするて……ま、まぁ、折角やし背中だけでもお願いしようかな……？」=“What do I wanna do... w-well, since we're here, maybe I'll have you rub some on me...?”

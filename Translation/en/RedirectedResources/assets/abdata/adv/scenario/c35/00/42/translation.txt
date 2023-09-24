@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「むー……なかなか難しかねぇ……」=
-//「なかなかお手本通りに作るにはーだね」=
-//「悔しい……なぁ、もっかいやってもええ？」=
-//「うん、俺ももう少しやっていきたいしね」=
-//「それじゃ、今度はコレを――」=
+「むー……なかなか難しかねぇ……」=“Muh~... this is pretty difficult~...”
+「なかなかお手本通りに作るにはーだね」=“Yeah, the example's not exactly simple either.”
+「悔しい……なぁ、もっかいやってもええ？」=“So frustrating... hey, do you mind if I make it again?”
+「うん、俺ももう少しやっていきたいしね」=“Sure, I wanna keep working on mine a bit more too.”
+「それじゃ、今度はコレを――」=“Well then, this time I'll--”

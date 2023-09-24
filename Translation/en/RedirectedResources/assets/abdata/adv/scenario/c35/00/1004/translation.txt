@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「少し浜辺を歩こうよ」=“Let's take a little walk on the beach.”
-//「んーっ、風が気持ちいいー！　海の香りも良いし、波の音も心地良いー！」=
-//「あははっ、いきなり盛り沢山な感想だ」=
-//「えへへ。私って山育ちやけん、まさに海ですーって場所やとテンション上がるっちゃん！　めっちゃ楽しい！」=
-//「でも海って不思議やね。場所によって砂浜の感じとかも全然違うん……新しい発見なん！」=
-//「へぇ、そんな違いがあるんだね。そういうの面白いかも。俺にとっても新しい発見だ」=
-//「あっ……あのね、突然こげんこと言うの……ばり恥ずかしいっちゃけど……あの……その……」=
-//「え、何？　気になるよ」=
-//「えっと……ね。私……君と付き合うようになって、二人で新しい発見ができるんが……本当に嬉しいと」=
-//「今まではお互いバラバラの発見しか出来んかったんに、これからは二人だけの新しい発見が出来るんやなーって思って」=
-//「しかもこれからもずーっと続いていくんやろ？　そう思ったらすごい嬉しくなって……」=
-//「二人だけの新しい発見か……あはは、ちょっと照れる……」=
-//「私もめっちゃ恥ずかしい！　でも今やないと言えん気がして……もう、君とおるといつも顔が熱くなるーっ！」=
-//「あはは、言ってくれてありがとう。そんな風に思ってくれて嬉しい」=
-//「もー、君はいつも恥ずかしげもなくそげんこと言えるっちゃもん！　本当は照れてないっちゃろ？　今日のもう一つの発見！」=
-//「えー、そんなことないって！　それを言うなら[H名]だって、素直だけど恥ずかしがり屋っていう発見だ」=
-//「ひゃぁっ！　ほらもーっ、君のそげんとこよ！　ドキドキして心臓が何個あっても足りんくなる……」=
-//「俺も同じだよ。[H名]といるとドキドキして……やっぱり好きなんだなって思う」=
-//「私も……君のことますます好きになった。これから先……きっと君への好きがどんどん発見されていくっちゃんね。えへへ」=
+「少し浜辺を歩こうよ」=“Let's take a walk along the beach.”
+「んーっ、風が気持ちいいー！　海の香りも良いし、波の音も心地良いー！」=“Nn~, the breeze feels so nice~! The seawater smells great too, and the waves sound so nice~!”
+「あははっ、いきなり盛り沢山な感想だ」=“Ahahah--, that's a very colorful impression.”
+「えへへ。私って山育ちやけん、まさに海ですーって場所やとテンション上がるっちゃん！　めっちゃ楽しい！」=“Eheheh. I was raised in the mountains so, being next to the sea like this really gets me excited! It's super fun!”
+「でも海って不思議やね。場所によって砂浜の感じとかも全然違うん……新しい発見なん！」=“But the sea's incredible, isn't it? The sand feels so different depending on where you are... I learned that after coming here!”
+「へぇ、そんな違いがあるんだね。そういうの面白いかも。俺にとっても新しい発見だ」=“Hoh, you don't say? That sounds pretty interesting. I guess I learned that one too now.”
+「あっ……あのね、突然こげんこと言うの……ばり恥ずかしいっちゃけど……あの……その……」=“Ah--... hey, listen, it's pretty embarrassing to say this... out of the blue like this but... uhm... erhm...”
+「え、何？　気になるよ」=“Eh, what is it? Now you're making me curious.”
+「えっと……ね。私……君と付き合うようになって、二人で新しい発見ができるんが……本当に嬉しいと」=“Erhm... so. Ever since we... started dating, finding new things makes me... really happy.”
+「今まではお互いバラバラの発見しか出来んかったんに、これからは二人だけの新しい発見が出来るんやなーって思って」=“Even though until now we learned about everything separately, we're starting to discover new things together, one by one.”
+「しかもこれからもずーっと続いていくんやろ？　そう思ったらすごい嬉しくなって……」=“And it's gonna be like this always from now on, no? When I thought about that, it just made me so happy...”
+「二人だけの新しい発見か……あはは、ちょっと照れる……」=“Our own discoveries, huh... ahahah, now you're making me blush...”
+「私もめっちゃ恥ずかしい！　でも今やないと言えん気がして……もう、君とおるといつも顔が熱くなるーっ！」=“I feel super embarrassed too! But I felt like I had to say it now, else I wouldn't be able to... jeez, being with you always makes my face burn up so much--!”
+「あはは、言ってくれてありがとう。そんな風に思ってくれて嬉しい」=“Ahahah, thanks for telling me. I'm really happy you feel that way.”
+「もー、君はいつも恥ずかしげもなくそげんこと言えるっちゃもん！　本当は照れてないっちゃろ？　今日のもう一つの発見！」=“Jeez~, it's because you always say stuff like that without the slightest bit of embarrassment! You're not actually blushing, are you? That's another thing I learned today.”
+「えー、そんなことないって！　それを言うなら[H名]だって、素直だけど恥ずかしがり屋っていう発見だ」=“Eh~, that's not true at all! Also, you say that but I learned something about you too, that you can't hide your shyness even if you're upfront about things.”
+「ひゃぁっ！　ほらもーっ、君のそげんとこよ！　ドキドキして心臓が何個あっても足りんくなる……」=“Hyah--! See, that's what I meant~! My heart's pounding so fast, I'm gonna need more of them...”
+「俺も同じだよ。[H名]といるとドキドキして……やっぱり好きなんだなって思う」=“It's the same for me. Being with you makes my heart pound so much... it makes me realize just how much I love you.”
+「私も……君のことますます好きになった。これから先……きっと君への好きがどんどん発見されていくっちゃんね。えへへ」=“Me too... I'm falling in love more and more. I'll probably... discover just more and more parts of you I love too, from now on. Eheheh.”

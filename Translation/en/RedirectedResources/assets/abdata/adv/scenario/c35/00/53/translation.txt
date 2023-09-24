@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「美味しかったなぁ。いつか、君にもあげんうまか手料理を……なんちゃって」=
+「美味しかったなぁ。いつか、君にもあげんうまか手料理を……なんちゃって」=“That was so good~. I wanna learn how to make that too, to make it for you... heh, someday.”

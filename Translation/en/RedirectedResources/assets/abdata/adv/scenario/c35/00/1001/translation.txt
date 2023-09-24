@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここ涼しそうだね。少しゆっくりしていこうよ」=
-//「はぁぁ、本当に涼しいねぇ。風もあってばり気持ちいいやん！」=
-//「そうだね。しかもこういった自然の風って何故か落ち着くんだよなぁ」=
-//「私も思った！　自然の風が運んでくれる緑とか海の香りとか、肌への感触とか……優しさで出来とるって感じがするね」=
-//「……いつも思ってるけど、[H名]のその感性ってすごいよね」=
-//「えー、そんなこと思っとったと？　なんか照れる……私はただ思ったことを言っとるだけなんに……」=
-//「でもきっと……それだけ自然の力が偉大ってことなんよ。自然の前ではみんな敵わんと！」=
-//「でもアイスは食べるんだ？」=
-//「えへへっ、これはこれ、それはそれっ！　甘いものの前ではもっと敵わんと！」=
-//「あははっ、そんな[H名]もすごく魅力的だな」=
-//「はうぅ……君こそすごいとよ。いつも私のこと嬉しくさせてくれるっちゃもん。一緒におるだけで照れる……」=
-//「そんなこと言われたら俺だって照れるよ。それこそ思ったことを言ってるだけだし」=
-//「あー、そうか！　分かったっ！」=
-//「わっ！　びっくりした！　どうしたの？」=
-//「あのね、さっき自然の風が優しいって感じたんは、君が一緒におるからなんよ！」=
-//「君と一緒やといつも居心地良くて、優しさに包まれとる感じがするん。やけん、今も余計に優しいって感じてっ！」=
-//「はは、そんな風に思ってくれるのは嬉しいけど……俺もますます照れる……」=
-//「本当？　やったね！　これでおあいこ！　ね、私……これからもずーっと、君と一緒に優しい時間を過ごしたい」=
-//「うん、俺もだよ。ずっと一緒にいようね」=
+「ここ涼しそうだね。少しゆっくりしていこうよ」=“This place is pretty cool, huh? Let's take it easy for a bit here.”
+「はぁぁ、本当に涼しいねぇ。風もあってばり気持ちいいやん！」=“Haah, it really is cool~. The breeze feels super nice too!”
+「そうだね。しかもこういった自然の風って何故か落ち着くんだよなぁ」=“Yeah. And the winds of nature like these really just feel calming somehow too, don't they?”
+「私も思った！　自然の風が運んでくれる緑とか海の香りとか、肌への感触とか……優しさで出来とるって感じがするね」=“I thought that too! The greenery and the smell of the sea, carried by the wind, the way it feels on your skin... it feels like its made up of kindness, doesn't it?”
+「……いつも思ってるけど、[H名]のその感性ってすごいよね」=“...You know, I always think this but, your sensibilities are amazing, [H名].”
+「えー、そんなこと思っとったと？　なんか照れる……私はただ思ったことを言っとるだけなんに……」=“Eh~, do you really? You're gonna make me blush... I'm just saying whatever I think...”
+「でもきっと……それだけ自然の力が偉大ってことなんよ。自然の前ではみんな敵わんと！」=“But... that's just how amazing the power of nature is, I'm sure. None of us are anything in front of it!”
+「でもアイスは食べるんだ？」=“But you've still got an ice cream in your hand there.”
+「えへへっ、これはこれ、それはそれっ！　甘いものの前ではもっと敵わんと！」=“Ehehe--, that's that and this is this--! I'm even weaker to sweet things!”
+「あははっ、そんな[H名]もすごく魅力的だな」=“Ahahah--, that side of you is really charming too.”
+「はうぅ……君こそすごいとよ。いつも私のこと嬉しくさせてくれるっちゃもん。一緒におるだけで照れる……」=“Hauu... you're amazing too. You always make me so happy. Just being with you makes me blush...”
+「そんなこと言われたら俺だって照れるよ。それこそ思ったことを言ってるだけだし」=“You're gonna make me blush too if you say that. Afterall, I'm just saying whatever I think too.”
+「あー、そうか！　分かったっ！」=“Ah~, I see! Got it--!”
+「わっ！　びっくりした！　どうしたの？」=“Wah--! That surprised me! What is it?”
+「あのね、さっき自然の風が優しいって感じたんは、君が一緒におるからなんよ！」=“Listen, when I said that the wind of nature feels kind, it's because you're here!”
+「君と一緒やといつも居心地良くて、優しさに包まれとる感じがするん。やけん、今も余計に優しいって感じてっ！」=“Whenever I'm with you, I always feel so nice and comfy, like I'm wrapped up in a blanket of kindness and sweetness. That's why it feels so ridiculously kind right now--!”
+「はは、そんな風に思ってくれるのは嬉しいけど……俺もますます照れる……」=“Hahah, while I love that you think of me that way... you're making me blush even more here...”
+「本当？　やったね！　これでおあいこ！　ね、私……これからもずーっと、君と一緒に優しい時間を過ごしたい」=“Really? Yay! We're even then! Hey, I wanna... spend more, lots more sweet time like this together, forever.”
+「うん、俺もだよ。ずっと一緒にいようね」=“Yeah, me too. Let's stay together forever, okay?”

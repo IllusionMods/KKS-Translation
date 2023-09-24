@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お土産コーナーがあるよ。ちょっと覗いていかない？」=
-//「うーん、これだけあると迷うね。どれも美味しそうだし……」=
-//「これなんてどうかいな？　ドキドキ南国味って書いとうよ。しかも期間限定商品！」=
-//「ドキドキ南国……ど、どんな味か全然分からない……」=
-//「それがいいとよー。あげた人に楽しんでもらいたいし、期間限定やけん特別感もあるし。もちろん、美味しかったら幸せやし」=
-//「確かに。そう考えると嬉しいかも」=
-//「やろ？　私ね、お土産とかプレゼント選ぶの好きなんよ。どげんものがいいかなって、相手のことを考えるのが面白いと」=
-//「選びながら、相手が喜んでくれとるところまで想像して……それも含めてばり楽しいとよ」=
-//「そういうところ、[H名]らしい。優しいよね」=
-//「あはは、そんなんじゃないって！　優しさやなくて、むしろ自分が楽しみたいだけやしっ！」=
-//「はは、じゃあそういうことにしておこっか」=
-//「むぅぅ、君はいつもそげんことばっかりー！　じゃあ君へのお土産は超ウルトラ激辛味で決まりやね。美味しそうやない？」=
-//「わわ、ごめんごめん。普通に甘いのにして！」=
+「お土産コーナーがあるよ。ちょっと覗いていかない？」=“There's a souvenir corner here. Wanna check it out?”
+「うーん、これだけあると迷うね。どれも美味しそうだし……」=“Nnn, it's hard to pick when there's so many things, isn't it? They all look so delicious...”
+「これなんてどうかいな？　ドキドキ南国味って書いとうよ。しかも期間限定商品！」=“How about this? It says "heart pounding flavours of the south" on it. It's limited time too!”
+「ドキドキ南国……ど、どんな味か全然分からない……」=“Heart pounding flavours of the south... I-I can't tell what it's gonna be at all...”
+「それがいいとよー。あげた人に楽しんでもらいたいし、期間限定やけん特別感もあるし。もちろん、美味しかったら幸せやし」=“That's the good part~. You'd want the person you give it to to enjoy it, no? And it's limited time too, so it'd feel special. And of course, if it's tasty then it'll be a triple win.”
+「確かに。そう考えると嬉しいかも」=“You're not wrong, that does sound like a good gift.”
+「やろ？　私ね、お土産とかプレゼント選ぶの好きなんよ。どげんものがいいかなって、相手のことを考えるのが面白いと」=“Right? I really like picking out souvenirs and presents, you know. Thinking about what to buy, and imagining them being happy is really fun.”
+「選びながら、相手が喜んでくれとるところまで想像して……それも含めてばり楽しいとよ」=“And you get to do them both together... it's really fun that way.”
+「そういうところ、[H名]らしい。優しいよね」=“That sounds just like you. My girlfriend is just so sweet afterall.”
+「あはは、そんなんじゃないって！　優しさやなくて、むしろ自分が楽しみたいだけやしっ！」=“Ahahah, that's not it! I just enjoy doing it, my sweetness or whatever doesn't measure into it--!”
+「はは、じゃあそういうことにしておこっか」=“Hahah, I guess we can leave it at that then.”
+「むぅぅ、君はいつもそげんことばっかりー！　じゃあ君へのお土産は超ウルトラ激辛味で決まりやね。美味しそうやない？」=“Muuuh, always with that stuff~! Alright then, I guess we're buying something really spicy for you. Doesn't that sound tasty, hmm?”
+「わわ、ごめんごめん。普通に甘いのにして！」=“Wawah, sorry sorry. Make it something sweet, please!”

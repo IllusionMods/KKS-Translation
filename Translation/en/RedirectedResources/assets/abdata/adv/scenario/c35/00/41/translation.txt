@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふふっ、二人でやれば何でも出来ちゃう気がするね」=
+「ふふっ、二人でやれば何でも出来ちゃう気がするね」=“Fufuh--, it feels like we could do anything together, doesn't it?”

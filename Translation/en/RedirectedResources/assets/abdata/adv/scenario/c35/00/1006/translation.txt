@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここに初めて来たときに思ったけど、自然に囲まれた素敵な場所よねー」=
-//「ここを一緒に鳴らしたっていう思い出を共有できるだけでも、なんかずーっと仲良しでいられそうやない？」=
-//「なんていうか……この島の自然にも祝福されそうな気がするっちゃもん」=
-//「あ、確かにそんな気がする。意外とそれが伝説の始まりだったりして……」=
-//「可能性はあるよね。自然に……地球に向かって、二人の気持ちを約束する……みたいな……なんか厳かな気分になるもん」=
-//「でも……この鐘の音ってどこまで響くとかいな？　誰かが鳴らしたら、みんな気付くんかな？」=
-//「どうなんだろう？　浜辺とか船着き場くらいまでは響くかなぁ？」=
-//「そっかぁ……でもどうせやったら世界中に響いて欲しいっちゃけどなぁ。私たち二人はずーっと仲良くいるんですーって！」=
-//「あはは、世界中はさすがに恥ずかしくない？　でもまぁ……[H名]とだったら、世界中に宣言してもいいかな」=
-//「あ……ふふっ、私も！　君とやったらいいなぁって思う！　全世界の人に宣言したいもん！　私たちラブラブなんよーって！」=
-//「いつまでも仲良くするけん、きちんと見守っとってねって……えへへ、自分で言っとってちょっと恥ずかしくなってきた……」=
-//「でも……本当にそれくらい……君のこと好きなんよ。やけん……この鐘、一緒に鳴らしてもらってもいい？」=
-//「もちろんだよ。最初からそのつもりで来たんだから。目一杯鳴らそう！」=
-//「ありがとうっ！　うん、思いっきり鳴らすー！　それじゃいくけんね？　いい？　せーのっ……」=
-//「わぁぁっ！　ばり綺麗な音ー！　世界中の人、きちんと聞いてくれたかいな？　えへへ」=
-//「ね……これからもずっとずっと……いつまでも仲良くしとってね！」=
-//「もちろん、約束するよ。世界に宣言したんだから、ずっとラブラブでいよう」=
-//（良かった。[H名]……いつも以上にテンション高く喜んでくれてる。やっぱりここに来て正解だったな）=
+「ここに初めて来たときに思ったけど、自然に囲まれた素敵な場所よねー」=“I thought this when we first came here but, it really is a wonderful place, isn't it? With all the nature.”
+「ここを一緒に鳴らしたっていう思い出を共有できるだけでも、なんかずーっと仲良しでいられそうやない？」=“Doesn't it feel like we could stay happy together forever, just on the back of the memory of ringing this together?”
+「なんていうか……この島の自然にも祝福されそうな気がするっちゃもん」=“How do I say this... it feels like even the nature's gonna bless us and our future together.”
+「あ、確かにそんな気がする。意外とそれが伝説の始まりだったりして……」=“Ah, it does feel like that for sure. Who knows, maybe that's what started this legend...”
+「可能性はあるよね。自然に……地球に向かって、二人の気持ちを約束する……みたいな……なんか厳かな気分になるもん」=“Could be. Facing the nature... the Earth, and promising our feelings to each other... in a way... feels very solemn.”
+「でも……この鐘の音ってどこまで響くとかいな？　誰かが鳴らしたら、みんな気付くんかな？」=“But... how far do you think the sound from this bell's gonna echo? Do you think people would notice, if someone rung it?”
+「どうなんだろう？　浜辺とか船着き場くらいまでは響くかなぁ？」=“Who knows? Maybe as far as the beach, or the harbour?”
+「そっかぁ……でもどうせやったら世界中に響いて欲しいっちゃけどなぁ。私たち二人はずーっと仲良くいるんですーって！」=“I see... but if we're doing this, it'd be nice if it could echo throughout the whole world instead~, telling the world that we'll get along forever together, and all~!”
+「あはは、世界中はさすがに恥ずかしくない？　でもまぁ……[H名]とだったら、世界中に宣言してもいいかな」=“Ahahah, wouldn't that get embarrassing pretty quickly? But well... I guess I wouldn't mind declaring it to the world, since it's you.”
+「あ……ふふっ、私も！　君とやったらいいなぁって思う！　全世界の人に宣言したいもん！　私たちラブラブなんよーって！」=“Ah... fufuh--, me too! I wouldn't mind it either! I wanna declare it to everyone in the world! Declare that we're super duper in love!”
+「いつまでも仲良くするけん、きちんと見守っとってねって……えへへ、自分で言っとってちょっと恥ずかしくなってきた……」=“That we'll get along forever so, watch over us... eheheh, I said it myself but I'm starting to feel embarrassed...”
+「でも……本当にそれくらい……君のこと好きなんよ。やけん……この鐘、一緒に鳴らしてもらってもいい？」=“But... I do love you... just that much. So... could we ring this bell together?”
+「もちろんだよ。最初からそのつもりで来たんだから。目一杯鳴らそう！」=“Of course. That's why I brought you here. Let's ring it with all our power!”
+「ありがとうっ！　うん、思いっきり鳴らすー！　それじゃいくけんね？　いい？　せーのっ……」=“Thanks--! Yep, I'mma ring it hard~! Well then, here we go, okay? You ready? One, two--...”
+「わぁぁっ！　ばり綺麗な音ー！　世界中の人、きちんと聞いてくれたかいな？　えへへ」=“Waah--! That's such a pretty sound! Do you think everyone around the world heard it? Eheheh.”
+「ね……これからもずっとずっと……いつまでも仲良くしとってね！」=“Hey... let's get along... forever and ever, okay?”
+「もちろん、約束するよ。世界に宣言したんだから、ずっとラブラブでいよう」=“Of course, I promise you. We declared it to the world, so let's stay lovey-dovey forever.”
+（良かった。[H名]……いつも以上にテンション高く喜んでくれてる。やっぱりここに来て正解だったな）=(Great. She's... way happier than usual. It really was the right choice to bring her here.)

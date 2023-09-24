@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はー、滝、すっごいなぁ……」=
-//「そうだね、力強さも感じるし、パワースポットって言われるのも納得だよね」=
-//「そうやなぁ、ずっと見てられるかも……」=
-//「時間はたっぷりあるんだし、好きなだけ見ていこっか」=
-//「うん。はぁ、空気も気持ちええなぁ……」=
+「はー、滝、すっごいなぁ……」=“Hah~, this waterfall's so amazing...”
+「そうだね、力強さも感じるし、パワースポットって言われるのも納得だよね」=“Yeah, you can really feel the power, it makes sense why people call it a power spot.”
+「そうやなぁ、ずっと見てられるかも……」=“Yeah~, I think I could look at it forever...”
+「時間はたっぷりあるんだし、好きなだけ見ていこっか」=“We've got lots of time, so let's look at it as much as you want.”
+「うん。はぁ、空気も気持ちええなぁ……」=“Okay. Haah~, the breeze feels so nice too...”

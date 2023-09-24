@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、これ美味しそうやない？」=
-//「ふむ、初めて見るメニューだけど、[H名]が言うなら頼んでみる価値ありそうかな？」=
-//「ふふっ、もし合わなくても、二人でがんばれば食べきれるやろ？」=
-//「まぁ、そうならない事を祈りたいが……好奇心には抗えないからなぁ」=
-//「そうそう。いろんな事、二人で共感していきとーよ」=
+「ねぇ、これ美味しそうやない？」=“Hey, doesn't this look pretty tasty?”
+「ふむ、初めて見るメニューだけど、[H名]が言うなら頼んでみる価値ありそうかな？」=“Hmm, it's the first time I've ever seen it but, since you're the one saying it, I guess we can try it together?”
+「ふふっ、もし合わなくても、二人でがんばれば食べきれるやろ？」=“Fufuh--, even if we don't like it, we could probably get through it together somehow, no?”
+「まぁ、そうならない事を祈りたいが……好奇心には抗えないからなぁ」=“Well, I'd rather it not come to that but... well, I can't resist my own curiosity either.”
+「そうそう。いろんな事、二人で共感していきとーよ」=“Exactly. Let's experience all sorts of things together, okay?”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふふっ、二人でお買い物～♪」=
-//「ん、そんなに嬉しい事なの？」=
-//「当り前やん、恋人と二人でショッピングデートなんよ？」=
-//「うーん、デートと呼べるのか果たして……」=
-//「ええんよ、私がデートと思ったらデートなんやから、ふふっ♪」=
+「ふふっ、二人でお買い物～♪」=“Fufuh--, we're shopping together~♪”
+「ん、そんなに嬉しい事なの？」=“Nn, does it make you that happy?”
+「当り前やん、恋人と二人でショッピングデートなんよ？」=“Of course, it's a shopping date, you know?”
+「うーん、デートと呼べるのか果たして……」=“Nnn, I dunno if we can really call it a date though...”
+「ええんよ、私がデートと思ったらデートなんやから、ふふっ♪」=“It's fine~, I'm calling it a date so it is one. Fufuh~♪”

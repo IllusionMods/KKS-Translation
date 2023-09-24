@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここまでやね。ふふっ、完成、楽しみやな～」=
+「ここまでやね。ふふっ、完成、楽しみやな～」=“I guess that's that then. Fufuh--, I can't wait to see them~”

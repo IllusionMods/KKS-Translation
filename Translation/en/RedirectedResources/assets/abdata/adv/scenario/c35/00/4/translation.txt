@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なっ、そ、そげん私としたかと……？」=
-//「うん、どうしても我慢出来ないんだ……っ」=
-//「どうしてもって……ま、まぁ、私も興味はなくはないんやけど……」=
-//「なら……！」=
-//「そ、そんながっつかんと！　するなら落ち着いて、優しくしてほしかよ……？」=
+「なっ、そ、そげん私としたかと……？」=“Wha--, y-you wanna do it with me that badly...?”
+「うん、どうしても我慢出来ないんだ……っ」=“Yeah, I just can't take the urge anymore...--”
+「どうしてもって……ま、まぁ、私も興味はなくはないんやけど……」=“You just can't... w-well, it's not like I'm not interested either...”
+「なら……！」=“Then...!”
+「そ、そんながっつかんと！　するなら落ち着いて、優しくしてほしかよ……？」=“D-Don't be that greedy! If we're gonna do it, then I want you to take it slow and gentle, okay...?”

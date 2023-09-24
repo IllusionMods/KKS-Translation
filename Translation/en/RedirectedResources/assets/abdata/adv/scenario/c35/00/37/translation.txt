@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さーて、何を借りよっかねぇ」=
-//「そうやなぁ、折角なら二人、ペアで出来るのがええなぁ……」=
-//「なになに？　そんなに俺とくっつきたいの？」=
-//「そ、そんなんちゃうし！　ほ、ほら、アレなんかどう？」=
+「さーて、何を借りよっかねぇ」=“Now then~, what should we rent~”
+「そうやなぁ、折角なら二人、ペアで出来るのがええなぁ……」=“Let's see~, something we can do together as a pair would be nice~...”
+「なになに？　そんなに俺とくっつきたいの？」=“What? You want us to cling to each other that badly, huh?”
+「そ、そんなんちゃうし！　ほ、ほら、アレなんかどう？」=“N-No, it's not like that! C-C'mon, how about that?”
