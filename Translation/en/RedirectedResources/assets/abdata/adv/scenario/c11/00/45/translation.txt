@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「貴重な体験ができたわね。誘ってくれてありがとう」=
+「貴重な体験ができたわね。誘ってくれてありがとう」=“That made for a great experience, didn't it? Thanks for asking me along.”

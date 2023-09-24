@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「何もないって決めつけるより、遅効性でも効果があると信じた方が素敵だと思わない？」=
+「何もないって決めつけるより、遅効性でも効果があると信じた方が素敵だと思わない？」=“Rather than just accepting than there's nothing, don't you think it's way more romantic to believe that there's something to it, even if it's slow acting?”

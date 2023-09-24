@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「その……俺なんかでいいの？」=
-//「ええ。私の相手は、あなたしか考えられないわ」=
-//「そんな風に思ってくれてたなんて嬉しいよ。子供扱いされてたし、男として見て貰えてないと思ってたから……」=
-//「誤解させちゃってたのね、ごめんなさい。私はあなたのことをひとりの男性として好きなの。だから……返事を聞かせてくれない？」=
-//「もちろん、ＯＫだよ。俺もきみのことが好きだ」=
-//「ああ、すごく嬉しいわ。あなたの彼女になれるなんて……」=
+「その……俺なんかでいいの？」=“Uhm... you sure you're fine with me?”
+「ええ。私の相手は、あなたしか考えられないわ」=“Yes. I can't imagine anyone else, other than you.”
+「そんな風に思ってくれてたなんて嬉しいよ。子供扱いされてたし、男として見て貰えてないと思ってたから……」=“You don't know how happy it makes me knowing you feel that way. Since it always seemed like I was only a little boy to you, rather than a man...”
+「誤解させちゃってたのね、ごめんなさい。私はあなたのことをひとりの男性として好きなの。だから……返事を聞かせてくれない？」=“I made you misunderstand, didn't I? I'm sorry. I love you, as the man you are. So... won't you tell me your answer?”
+「もちろん、ＯＫだよ。俺もきみのことが好きだ」=“Of course it's a yes. I love you too.”
+「ああ、すごく嬉しいわ。あなたの彼女になれるなんて……」=“Aah, I'm so, so happy. I can't believe I get to be yours...”

@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「色んな魚がいるね」=
-//「うん……美味しそうよね♪　どんな味がするのかしら」=
-//「……食べるの？」=
-//「もちろん！　食べるに決まってるわ」=
-//「そっか……」=
-//「綺麗なだけじゃ、誰のお腹もいっぱいにならないもの」=
-//「まぁ、そういうものかも」=
-//「これだけの魚がいるんだから、きっとそれぞれ料理や調理法が違うんでしょうね」=
-//「勉強のしがいがあるね」=
-//「あなたに美味しいお魚料理、食べさせてあげたいわ」=
-//「いっぱい食べて、いっぱい寝て、いっぱい遊んで……元気な男の子に育って欲しいわね♪」=
-//「まだ育たなきゃだめ？　横に大きくなるだけかも」=
-//「うふふ、それはそれで可愛いと思うわよ。でも健康を損なうのは駄目ね」=
-//「……魚料理、楽しみにしてるね。旅行中は難しいかもしれないけど」=
-//「そうね……またいずれ、ね。ぜーったい食べてもらうわ♪」=
+「色んな魚がいるね」=“There's all sorts of fish around, huh?”
+「うん……美味しそうよね♪　どんな味がするのかしら」=“Yeah... they all look delicious, don't they♪ I wonder what they taste like?”
+「……食べるの？」=“...You're gonna eat them?”
+「もちろん！　食べるに決まってるわ」=“Of course! Of course I'm gonna eat them.”
+「そっか……」=“I see...”
+「綺麗なだけじゃ、誰のお腹もいっぱいにならないもの」=“You can't fill your belly with prettiness alone, you know.”
+「まぁ、そういうものかも」=“Well, I guess you have a point.”
+「これだけの魚がいるんだから、きっとそれぞれ料理や調理法が違うんでしょうね」=“There's so many fish around, they all probably have different ways of cooking them too.”
+「勉強のしがいがあるね」=“Worth learning about, isn't it?”
+「あなたに美味しいお魚料理、食べさせてあげたいわ」=“I want to learn it all so that I can cook them deliciously for you.”
+「いっぱい食べて、いっぱい寝て、いっぱい遊んで……元気な男の子に育って欲しいわね♪」=“Make you eat lots, sleep lots, play lots... and grow up into a big and energetic boy♪”
+「まだ育たなきゃだめ？　横に大きくなるだけかも」=“Do I really gotta grow still though? I'm pretty sure I'm only gonna get wider from here on out.”
+「うふふ、それはそれで可愛いと思うわよ。でも健康を損なうのは駄目ね」=“Ufufuh, I think you'd be pretty darn adorable like that too. But indeed, that would be bad for your health, for sure.”
+「……魚料理、楽しみにしてるね。旅行中は難しいかもしれないけど」=“...I'm looking forward to it though. It might be pretty difficult to cook anything while we're out here though.”
+「そうね……またいずれ、ね。ぜーったい食べてもらうわ♪」=“Yeah... someday. I'll definitely serve you some delicious fish someday♪”

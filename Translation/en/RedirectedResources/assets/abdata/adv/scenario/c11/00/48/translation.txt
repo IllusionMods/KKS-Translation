@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここの料理って、よく豚肉が使われてるよね」=
-//「豚さんは鳴き声以外すべて食べるって言葉があるらしいわ。それぐらい馴染み深い食材みたい」=
-//「中には血を使ったお料理もあるんですって」=
-//「ええっ！？　ほ、本当に鳴き声以外食べてるんだ……さすがに、血は遠慮しておきたいけど……」=
+「ここの料理って、よく豚肉が使われてるよね」=“A lot of dishes here use pork, don't they?”
+「豚さんは鳴き声以外すべて食べるって言葉があるらしいわ。それぐらい馴染み深い食材みたい」=“They do say you can eat every part of the pig, except their whines. I imagine that's just how well they know it as an ingredient.”
+「中には血を使ったお料理もあるんですって」=“Apparently there's some dishes that even use the blood.”
+「ええっ！？　ほ、本当に鳴き声以外食べてるんだ……さすがに、血は遠慮しておきたいけど……」=“Eeh--!? Y-You really can eat every part except their whines, huh... I'd really rather not eat blood myself though...”

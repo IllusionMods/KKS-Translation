@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「もう少しお野菜を摂った方がいいんじゃないかしら？」=
-//「やっぱりそうか……男はつい茶色の食べ物に惹かれちゃうんだよね」=
-//「から揚げとかが美味しいのはすごく分かるけど、バランスを考えないとダメよ」=
-//「島の新鮮なお野菜だってあるんだから、しっかり食べましょう」=
-//（本当にお母さんみたいだな……）=
+「もう少しお野菜を摂った方がいいんじゃないかしら？」=“Shouldn't you go for atleast a few more veggies than that?”
+「やっぱりそうか……男はつい茶色の食べ物に惹かれちゃうんだよね」=“I guess you're right... as a man, I just can't help but go for fried food, you know?”
+「から揚げとかが美味しいのはすごく分かるけど、バランスを考えないとダメよ」=“I know, fried food like karaage really is good but, you have to eat a balanced diet, okay?”
+「島の新鮮なお野菜だってあるんだから、しっかり食べましょう」=“They even serve fresh vegetables directly from the farm here, so let's eat some of those too.”
+（本当にお母さんみたいだな……）=(She really is like a mother...)

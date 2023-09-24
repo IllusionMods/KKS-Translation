@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふふっ、あなたは今日も可愛いわね。朝から堪能しちゃった♪」=
-//「私は一度部屋に戻るわね。また後で会いましょう」=
+「ふふっ、あなたは今日も可愛いわね。朝から堪能しちゃった♪」=“Fufuh--, you're adorable today too. And I got to savour that face plenty straight from the morning, too♪”
+「私は一度部屋に戻るわね。また後で会いましょう」=“I'll head back to my room for a bit, okay? Let's see each other later.”

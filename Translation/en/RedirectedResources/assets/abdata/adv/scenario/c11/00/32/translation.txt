@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「パワースポットらしいけど、[H名]は何か感じる？」=
-//「今のところ特にないわね。でも人間が知覚できないだけで、何かしらの力はあるんだと思うわ」=
-//「それか……すぐ効果が現れるんじゃなくて、時間が必要なのかも」=
-//「たとえばどれぐらい？」=
-//「う～ん、十年ぐらいかしら？」=
-//「流石にかかりすぎだと思うな……」=
+「パワースポットらしいけど、[H名]は何か感じる？」=“Apparently this place is a power spot, you feel anything, [H名]?”
+「今のところ特にないわね。でも人間が知覚できないだけで、何かしらの力はあるんだと思うわ」=“Nothing in particular for now. But I do think there's something here, even if we as humans can't perceive it.”
+「それか……すぐ効果が現れるんじゃなくて、時間が必要なのかも」=“If not that, then... it might be something that takes a while to show an effect in your life.”
+「たとえばどれぐらい？」=“How long do you think that while could be?”
+「う～ん、十年ぐらいかしら？」=“Nnn~, ten years?”
+「流石にかかりすぎだと思うな……」=“Yeah, that's a bit too long I think...”

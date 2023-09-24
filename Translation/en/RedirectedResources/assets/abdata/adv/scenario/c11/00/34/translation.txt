@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うふふ、私に彼氏さんが出来たら、また一緒にここへ来ようと思うわ」=
+「うふふ、私に彼氏さんが出来たら、また一緒にここへ来ようと思うわ」=“Ufufuh, I think I'm going to come here again, once I get a boyfriend.”

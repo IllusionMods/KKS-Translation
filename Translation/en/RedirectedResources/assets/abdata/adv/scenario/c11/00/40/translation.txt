@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「遊ぶつもりが、動物を見守る会になっちゃってたわね。でも楽しかったわ♪」=
+「遊ぶつもりが、動物を見守る会になっちゃってたわね。でも楽しかったわ♪」=“We planned on just messing around but, it turned into an animal observation trip somewhere in the middle, didn't it? But I still enjoyed it♪”

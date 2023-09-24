@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そういえば……この鐘って、素敵なジンクスがあるみたいよ。知ってる？」=
-//「もちろん。この鐘を鳴らした二人は、必ず結ばれるんだよね」=
-//「ねえ、鳴らしてみない？　ふふ、どんなことになるのか興味があるわ」=
-//「いいね、鳴らしてみよう！」=
-//「これで、結ばれたのかな？」=
-//「……でも、私たちって、もう結ばれてるわよね？」=
-//「うん。でも、これでさらに濃密な結ばれ方になったんじゃない？」=
-//「ふふふ、そうかも……きっと、一生別れられないわね」=
-//「何いってるの？　最初から別れるつもりなんかないよ」=
-//「うふふ、嬉しいわ♪　一生、仲良しね」=
-//「一生だけで足りるかな？　来世分まで一緒かも」=
-//「ふふ……壮大な話になっちゃったわね」=
-//「いっそのこと、もっと鳴らしてみようよ！　この世界が終わるまで、一緒に要られるかも」=
-//「そんなに私と一緒がいいの？　ふふふ、可愛いんだから……」=
-//「いや……ちょっと言ってみただけだよ。別に来世とか信じてないしさ」=
-//「……私も信じてはいないけど、でもそういう大げさな言い方されるとドキドキしちゃうわ♪」=
-//「うん、喜んでもらえて嬉しいよ」=
-//「せっかくだし、もう一度鳴らしてみる？」=
-//「そうだね……好きなだけ鳴らしてみよう」=
-//「鳴らしただけ、もっといっぱい、深く結ばれると嬉しいわ♪」=
+「そういえば……この鐘って、素敵なジンクスがあるみたいよ。知ってる？」=“Reminds me... it seems like, this bell has a lovely legend behind it. You know what it is?”
+「もちろん。この鐘を鳴らした二人は、必ず結ばれるんだよね」=“Of course. It says that any pair that rings this bell together will one day be wed, doesn't it?”
+「ねえ、鳴らしてみない？　ふふ、どんなことになるのか興味があるわ」=“Hey, you wanna try ringing it? Fufuh, I'm curious to see what's gonna happen.”
+「いいね、鳴らしてみよう！」=“Sounds fun, let's try it!”
+「これで、結ばれたのかな？」=“So, are we tied together now?”
+「……でも、私たちって、もう結ばれてるわよね？」=“...Weren't we already tied together to each other?”
+「うん。でも、これでさらに濃密な結ばれ方になったんじゃない？」=“Yep. But this probably made that bond even denser, no?”
+「ふふふ、そうかも……きっと、一生別れられないわね」=“Fufufuh, you might be right... we probably can't split up anymore.”
+「何いってるの？　最初から別れるつもりなんかないよ」=“What're you saying? I was never gonna let you go to begin with.”
+「うふふ、嬉しいわ♪　一生、仲良しね」=“Ufufuh, I'm so happy♪ Let's get along for our whole lives, okay?”
+「一生だけで足りるかな？　来世分まで一緒かも」=“Is just one life gonna be enough though? We might be stuck together long after we're dead too.”
+「ふふ……壮大な話になっちゃったわね」=“Fufuh... now that's getting pretty darn big.”
+「いっそのこと、もっと鳴らしてみようよ！　この世界が終わるまで、一緒に要られるかも」=“Screw it, we're here anyway, let's ring it once more! We might be able to stay together till the world ends that way.”
+「そんなに私と一緒がいいの？　ふふふ、可愛いんだから……」=“You like being with me that much? Fufufuh, you're so adorable...”
+「いや……ちょっと言ってみただけだよ。別に来世とか信じてないしさ」=“No well... I just wanted to say that. Not like I believe in life after death myself.”
+「……私も信じてはいないけど、でもそういう大げさな言い方されるとドキドキしちゃうわ♪」=“...I don't either but, when you really lay it on like that, you make my heart pound, you know♪”
+「うん、喜んでもらえて嬉しいよ」=“Yep, I do it because I know it makes you happy.”
+「せっかくだし、もう一度鳴らしてみる？」=“As you said, we're here anyway, want to ring it one more time?”
+「そうだね……好きなだけ鳴らしてみよう」=“Yeah... let's ring it as much as we want.”
+「鳴らしただけ、もっといっぱい、深く結ばれると嬉しいわ♪」=“It'd be really nice if our bond gets just that much denser too♪”

@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「少し浜辺を歩こうよ」=“Let's take a little walk on the beach.”
-//「ん～……綺麗な浜辺だね」=
-//「ええ、そうねぇ……本当に綺麗。心が洗われてしまいそう……」=
-//「あ、でも、気をつけてね。砂の中に尖ったものがあるかもしれないし、漂流物に足を引っ掛けちゃうかも……」=
-//「あはは、心配しすぎだよ」=
-//「でも、心配なの。もしあなたが怪我でもしちゃったら、そこからバイキンが入るかもしれないし……」=
-//「もしそうなったら、楽しい楽しい旅行が台無しになっちゃうわ」=
-//「大丈夫だよ。もしそうなっても、ここでこうしていた楽しい時間は、必ず思い出に残るからね」=
-//「うふふ、ありがとう♪　そう言ってもらえて、本当に嬉しいわ」=
-//「でも、私はずーっと、楽しい時間が続けばいいと思ってるの。だから怪我したりしないでね？」=
-//「もちろん。わかってる……そっちこそ、怪我しちゃ駄目だよ」=
-//「……そうね。私も気をつけなきゃ……で、気をつけつつ、この状況をた～っぷり楽しまなきゃ♪」=
-//「うん……静かで気持ちいいね」=
-//「風も、波の音も気持ちいい……。いつまでもこうしていたいわ」=
-//「あ、でも、潮風を浴びすぎるのも健康によくないそうよ」=
-「そうなの？」=“That so?”
-//「目や鼻の粘膜に塩分がよくないって話を聞いたことがあるわ」=
-//「ははは、心配しすぎだって。ほら、もっと景色を楽しもう」=
-//「そうね……そうしましょう」=
+「少し浜辺を歩こうよ」=“Let's take a walk along the beach a bit.”
+「ん～……綺麗な浜辺だね」=“Nn~... what a beautiful beach.”
+「ええ、そうねぇ……本当に綺麗。心が洗われてしまいそう……」=“Yes, it sure is... very pretty. It almost feels like my heart's being washed clean...”
+「あ、でも、気をつけてね。砂の中に尖ったものがあるかもしれないし、漂流物に足を引っ掛けちゃうかも……」=“Ah, but, do be careful, okay? There might be something sharp buried in the sand, and you might also trip on driftwood...”
+「あはは、心配しすぎだよ」=“Ahahah, you worry too much.”
+「でも、心配なの。もしあなたが怪我でもしちゃったら、そこからバイキンが入るかもしれないし……」=“But I'm worried anyway. If you do injure yourself, you might get an infection...”
+「もしそうなったら、楽しい楽しい旅行が台無しになっちゃうわ」=“And if that happens, this fun trip will all come to nothing.”
+「大丈夫だよ。もしそうなっても、ここでこうしていた楽しい時間は、必ず思い出に残るからね」=“Don't worry. Even if that happens, it won't erase all these fun memories that we're sharing together.”
+「うふふ、ありがとう♪　そう言ってもらえて、本当に嬉しいわ」=“Ufufuh, thanks~♪ I really am glad, to hear you say that.”
+「でも、私はずーっと、楽しい時間が続けばいいと思ってるの。だから怪我したりしないでね？」=“But, in my opinion, it'd be best if these fun times could last forever. So don't go injuring yourself, okay?”
+「もちろん。わかってる……そっちこそ、怪我しちゃ駄目だよ」=“Of course, I know. ...Don't get injured yourself either.”
+「……そうね。私も気をつけなきゃ……で、気をつけつつ、この状況をた～っぷり楽しまなきゃ♪」=“...Yeah. I'll have to be careful too... and while being careful, enjoy this situation lots~♪”
+「うん……静かで気持ちいいね」=“Yep... it's really nice and quiet, isn't it?”
+「風も、波の音も気持ちいい……。いつまでもこうしていたいわ」=“The wind, and the sea too, it all sounds so nice... I want to stay like this forever.”
+「あ、でも、潮風を浴びすぎるのも健康によくないそうよ」=“Ah, but, spending too much time taking in the sea breeze isn't good for your health either, apparently.”
+「そうなの？」=“Really?”
+「目や鼻の粘膜に塩分がよくないって話を聞いたことがあるわ」=“I've heard before that it does a number on the mucous membrane on your eyes and inside your nose.”
+「ははは、心配しすぎだって。ほら、もっと景色を楽しもう」=“Hahahah, you're seriously worrying too much. C'mon, let's enjoy the scenery a bit more.”
+「そうね……そうしましょう」=“Yeah... let's do that.”

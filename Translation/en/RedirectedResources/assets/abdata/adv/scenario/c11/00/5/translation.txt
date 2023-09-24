@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うふふ、ついにこの時が来たのね」=
-//「大丈夫？　ちゃんと元気にぴゅっぴゅできる？」=
-//「お、俺のことより……[H名]の方こそ大丈夫？」=
-//「心配してくれてありがとう、私は平気よ。だから……あなたは気にせず、腰を振ってちょうだいね」=
+「うふふ、ついにこの時が来たのね」=“Ufufuh, so we're finally doing this, huh?”
+「大丈夫？　ちゃんと元気にぴゅっぴゅできる？」=“Will you be okay? Think you can gush it out fine for me~?”
+「お、俺のことより……[H名]の方こそ大丈夫？」=“R-Rather than me... will you be okay, [H名]?”
+「心配してくれてありがとう、私は平気よ。だから……あなたは気にせず、腰を振ってちょうだいね」=“Thanks for worrying about me, I'll be fine. So... don't worry about me and just pound me hard, okay?”

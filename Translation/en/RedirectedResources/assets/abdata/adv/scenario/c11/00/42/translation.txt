@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「予想通り、紅型は中々難しいな……」=
-//「そっちは……って、すごい、手先器用なんだね」=
-//「そう？　そんな大したことじゃないと思うけど」=
-//「いやかなり上手だよ。なんか、裁縫とかも得意そうだね」=
-//「ふふっ、お裁縫は好きよ。もしかしたら、そのおかげで上手くいってるのかも」=
-//「なるほど、道理で……俺も俺なりに頑張ろうっと」=
+「予想通り、紅型は中々難しいな……」=“I half expected this but, stencil dyeing is pretty darn hard, isn't it...”
+「そっちは……って、すごい、手先器用なんだね」=“Hmm? Let me... wuh, amazing, you're really good with your hands, aren't you?”
+「そう？　そんな大したことじゃないと思うけど」=“You think? I don't think it's that impressive though.”
+「いやかなり上手だよ。なんか、裁縫とかも得意そうだね」=“No, it's darn good. You'd be right at home with a sewing needle.”
+「ふふっ、お裁縫は好きよ。もしかしたら、そのおかげで上手くいってるのかも」=“Fufuh--, I love sewing. It might be thanks to all that practice.”
+「なるほど、道理で……俺も俺なりに頑張ろうっと」=“I see, no wonder... I'll do my best in my own small way too.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「いっぱい楽しめたわね。機会があったら、また二人でカヤックに乗りましょう」=
+「いっぱい楽しめたわね。機会があったら、また二人でカヤックに乗りましょう」=“We got to enjoy ourselves a ton today, huh? Let's go kayaking again if we get the chance.”

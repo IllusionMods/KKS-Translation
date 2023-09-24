@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねえ、お土産を探してみようよ」=
-//「それ、シーサーのキーホルダーだね」=
-//「そうなのよ。ほら、見て……可愛いと思わない？　うふふ」=
-//「うん、そうだね。でもさぁ……シーサーっ魔除けなんでしょう？　可愛くていいのかなぁ」=
-//「ふふ、いいのよ。だって、これは魔除けなんかじゃなく、キーホルダーなんだもの」=
-//「怖かったら、きっと一つも売れないわ。これぐらい可愛いのがちょうどいいと思わない？」=
-//「まあ、たしかに……魔除け級に怖いキーホルダーなんて、下げて歩きたくないよね……」=
-//「あ……見てみて。これ、手作りなのね。ほら、どのシーサーも微妙に顔が違ってる」=
-//「あ、ほんとだ。どの子が一番かな」=
-//「ふふ、今手にしているこの子が一番ね……ほら、お目々が可愛い♪」=
-//「キミは今日からウチの子よ……よろしくね、シーちゃん♪」=
-//「シーサーのシーちゃんかぁ……ちょっと安易じゃない？　名付け方……」=
-//「いいのよ。呼びやすいのが一番なんだもの。ほら、この子も喜んでるわ……ね～、シーちゃん♪　ふふ、いい子ねー……」=
-//（お母さんの顔になってる……）=
+「ねえ、お土産を探してみようよ」=“Hey, let's go take a look at some souvenirs together.”
+「それ、シーサーのキーホルダーだね」=“That's a shisa keychain, isn't it?”
+「そうなのよ。ほら、見て……可愛いと思わない？　うふふ」=“That's right. Look... doesn't it look adorable? Ufufuh~”
+「うん、そうだね。でもさぁ……シーサーっ魔除けなんでしょう？　可愛くていいのかなぁ」=“Yeah, it's pretty cute. But, I dunno... aren't shisas supposed to be charms that ward off evil spirits? I'm not sure if they should be that cute.”
+「ふふ、いいのよ。だって、これは魔除けなんかじゃなく、キーホルダーなんだもの」=“Fufuh, it's fine. I mean, it's not a charm, it's a keychain.”
+「怖かったら、きっと一つも売れないわ。これぐらい可愛いのがちょうどいいと思わない？」=“If they made them scary, they probably wouldn't manage to sell any. Aren't they perfect like this?”
+「まあ、たしかに……魔除け級に怖いキーホルダーなんて、下げて歩きたくないよね……」=“Well, you've got a point... nobody would really want to carry a scary evil warding charm around on their phones or whathaveyou...”
+「あ……見てみて。これ、手作りなのね。ほら、どのシーサーも微妙に顔が違ってる」=“Ah... look look. This is handmade, isn't it? Look, their faces are a tiny bit different.”
+「あ、ほんとだ。どの子が一番かな」=“Ah, you're right. I wonder which one's cuter.”
+「ふふ、今手にしているこの子が一番ね……ほら、お目々が可愛い♪」=“Fufuh, the one I have in my hands is the cutest... look, even its tiny eyes are adorable♪”
+「キミは今日からウチの子よ……よろしくね、シーちゃん♪」=“From today onwards, you're part of my family... welcome home, shii-chan~♪”
+「シーサーのシーちゃんかぁ……ちょっと安易じゃない？　名付け方……」=“Shii-chan for a shisa... isn't that a bit too simple a name?...”
+「いいのよ。呼びやすいのが一番なんだもの。ほら、この子も喜んでるわ……ね～、シーちゃん♪　ふふ、いい子ねー……」=“That's just fine, it's easy to say it anyway. Look, it's so happy with it... aren't you~, shii-chan?♪ Fufuh, what a good little boy~...”
+（お母さんの顔になってる……）=(Such a motherly face...)

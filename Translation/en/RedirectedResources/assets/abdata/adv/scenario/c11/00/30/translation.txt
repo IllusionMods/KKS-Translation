@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「他じゃ見かけない名物がいっぱいあるね」=
-//「そうねぇ、じっくり見てるとそれだけで時間が過ぎちゃいそう」=
-//「今日のところは、ざっと眺めるだけにしようか。なにも買わないのに長時間いたらお店にも迷惑だし」=
-//「あら、あそこにあるのは何かしら？　あ、向こうのも気になるわ～」=
-//「って、思いっきり釣られてる！」=
+「他じゃ見かけない名物がいっぱいあるね」=“They've got tons of stuff you wouldn't find anywhere else, don't they?”
+「そうねぇ、じっくり見てるとそれだけで時間が過ぎちゃいそう」=“Yeah, I feel like we're going to end up spending all day here just looking at all the stuff.”
+「今日のところは、ざっと眺めるだけにしようか。なにも買わないのに長時間いたらお店にも迷惑だし」=“Let's just take a quick look at things for today. We'd be creating needless work for the store too if we just window shop for too long without buying anything.”
+「あら、あそこにあるのは何かしら？　あ、向こうのも気になるわ～」=“Oh my, what's that over there? Ah, I like that too~”
+「って、思いっきり釣られてる！」=“Wuh, she's going for one thing after another!”

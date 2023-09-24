@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ……このアーサー汁、なんだかほっとする味だなぁ」=
-//「海藻たっぷりで美味しそうね～。私も一口……」=
-//「どう？　なんか初めて口にしたはずなのに、落ち着かない？」=
-//「確かにあなたの言う通りだわ。どんな場所でもご家庭の味は、心をほんわかさせるのかしら」=
-//「あなたと結婚したら、私もそんなお料理が出来る様に頑張るわね」=
+「はぁ……このアーサー汁、なんだかほっとする味だなぁ」=“Haah... this clear broth has this really relaxing taste, you know~”
+「海藻たっぷりで美味しそうね～。私も一口……」=“They really loaded it up with seaweed, didn't they~? Let me try some too...”
+「どう？　なんか初めて口にしたはずなのに、落ち着かない？」=“How is it? Even though it's the first time we're having it, doesn't it really calm you down?”
+「確かにあなたの言う通りだわ。どんな場所でもご家庭の味は、心をほんわかさせるのかしら」=“For sure, it really does. I suppose home cooking is home cooking, no matter where you go, huh?”
+「あなたと結婚したら、私もそんなお料理が出来る様に頑張るわね」=“When we get married, I'll do my best to make my cooking taste like this too, okay?”

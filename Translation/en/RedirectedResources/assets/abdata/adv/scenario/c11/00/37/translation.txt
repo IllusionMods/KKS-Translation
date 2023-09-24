@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お、あそこにいる生き物はなんだろう……」=
-//「あら？　なにか珍しいものを見つけたの？」=
-//「うん、あそこにとまってる鳥……くちばしも身体も全体的に赤いやつ」=
-//「うーん…………ああ、あの子ね！　たしかに見たことない鳥さんかも」=
-//「ふふっ、あなたはよく観察してるのね。私は全然気づかなかったのにすごいわ♪」=
+「お、あそこにいる生き物はなんだろう……」=“Oh, I wonder what that creature over there is...”
+「あら？　なにか珍しいものを見つけたの？」=“Oh? Did you find something interesting?”
+「うん、あそこにとまってる鳥……くちばしも身体も全体的に赤いやつ」=“Yep, that bird over there... the one with the completely red beak and body.”
+「うーん…………ああ、あの子ね！　たしかに見たことない鳥さんかも」=“Nnn... aah, that one! I don't think I've seen it before either, no.”
+「ふふっ、あなたはよく観察してるのね。私は全然気づかなかったのにすごいわ♪」=“Fufuh--, you're really paying attention, huh? I didn't notice it at all, so amazing♪”

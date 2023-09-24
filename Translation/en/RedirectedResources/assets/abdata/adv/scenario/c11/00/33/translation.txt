@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「もう少し見ていたかったけど……時間が限られている以上、しかたないわね」=
+「もう少し見ていたかったけど……時間が限られている以上、しかたないわね」=“I wanted to keep looking at stuff a bit more but... there's nothing we can really do about time running out, can we?”
