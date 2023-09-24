@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「……宇宙に関するグッズは売ってなさそうだなぁ」=“I don't think they sell anything related to space.”
-「それは……そうだろうとしか言えないかな。ここと宇宙はあんまり縁がないと思うよ」=“I guess all I can say is... you're right. I don't think there's much of a connection between here, and the cosmos.”
-「星の砂も関係ないみたいだし……残念」=“And star-sand don't seem to have anything to do with it either... too bad.”
-「あれは生き物の殻だからね。ファンタジックな名前だから、騙される気持ちは分かるけど」=“Because they're just the shells of living creatures. It's a mysterious-sounding name, so I could see how it could be deceiving.”
+「……宇宙に関するグッズは売ってなさそうだなぁ」=“...Doesn't seem like they're selling much of anything space related~”
+「それは……そうだろうとしか言えないかな。ここと宇宙はあんまり縁がないと思うよ」=“That's... it is what it is, really. I don't think this place has much of a connection with space.”
+「星の砂も関係ないみたいだし……残念」=“The starsand doesn't seem like it does either... what a shame.”
+「あれは生き物の殻だからね。ファンタジックな名前だから、騙される気持ちは分かるけど」=“That's because starsand is just husks of living organisms. But I can see why you feel a bit deceived, the name's a bit fantastical afterall.”

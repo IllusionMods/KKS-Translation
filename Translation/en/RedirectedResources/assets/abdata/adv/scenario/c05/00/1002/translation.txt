@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「卓球で一勝負していかない？」=“Want to play some table tennis?”
-「えへへ、負けないよぉ～」=“Ehehe, I won't lose to you~”
-「やるからには全力でいくよ。いざ勝負！」=“I'll do my very best. Time to play!”
-「やったぁ。勝った～っ！」=“I did it. I won~!”
-「ぜぇぜぇ……ま、負けた……。まさか１点も取れないなんて」=“Yeah, yeah... well, I lost. I don't think I even scored a point.”
-「俺が打つ球、どうしてすべて打ち返せたの？」=“How did you return all of my serves?”
-「[P名]くんの目を見ていたらなんとなくね」=“Well, I kinda knew where to hit by lookin at your eyes.”
-「あとは“かれら”の助言かな？」=“Plus I was being advised too, you know?”
-「助言？」=“Advised?”
-「うん！　“かれら”の声に従ってラケットを振ったら、ぜんぶの球を打ち返せたんだよ」=“Yeah! If I swing the paddle when ‘they’ tell me to, I can hit all the balls back!”
-「くそ～！　１対１じゃなかったわけか」=“Shit~! So we're not playing one-on-one!”
-「えへへ、ごめんね。今度は“かれら”の助言なしで勝負しよっ」=“Ehehe. Sorry. Let's play again, without ‘their’ advice.”
-「よ～し。次こそ負けないぞ～」=“Right. I'm not gonna lose this time.”
-「ふふっ。お手柔らかにね」=“Fufu. Go easy on me.”
+「卓球で一勝負していかない？」=“How about we go for a round of table tennis?”
+「えへへ、負けないよぉ～」=“Eheheh, I'm not gonna lose~”
+「やるからには全力でいくよ。いざ勝負！」=“If we're doing this then I'm gonna go full bore. Time for a match!”
+「やったぁ。勝った～っ！」=“Yay~. I won~!”
+「ぜぇぜぇ……ま、負けた……。まさか１点も取れないなんて」=“*wheeze*... I-I lost... I can't believe I couldn't get even a single point.”
+「俺が打つ球、どうしてすべて打ち返せたの？」=“Just how did you even parry back every single one of those shots?”
+「[P名]くんの目を見ていたらなんとなくね」=“I dunno, I was just looking at your eyes and it sorta happened.”
+「あとは“かれら”の助言かな？」=“Well, that and "their" instructions, I guess?”
+「助言？」=“Instructions?”
+「うん！　“かれら”の声に従ってラケットを振ったら、ぜんぶの球を打ち返せたんだよ」=“Yeah! I moved my racket exactly how "they" told me to, and I managed to parry every single shot.”
+「くそ～！　１対１じゃなかったわけか」=“Damn~! So it wasn't a proper 1v1, huh?”
+「えへへ、ごめんね。今度は“かれら”の助言なしで勝負しよっ」=“Eheheh, I'm sorry. Let's have another round, without their helping hand this time--”
+「よ～し。次こそ負けないぞ～」=“Alright~. I'm not gonna lose this time~”
+「ふふっ。お手柔らかにね」=“Fufuh--. Go easy on me, okay~?”

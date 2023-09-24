@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「そういえば、宇宙食って食べたことある？」=“So tell me, have you ever eaten space food?”
-「うん、通販で頼んだことがるよ」=“Yeah, I've ordered it online.”
-「通販で買えるんだ！？　どんな感じなの？　美味しい？」=“You can order it online?! What's it like? Does it taste good?”
-「お湯をかけたら、だいたいは元の味そのままになるから美味しいかな。さすがに食感は違うんだけど」=“It's just like normal food, once you mix it with hot water. The texture is obviously different though.”
-「そんなことを気にするなんて、わたしと宇宙に行きたいの？」=“Why are you interested though... do you want to go into space with me?”
-「まあ、興味があったんだよ。俺も買ってみようかな……」=“Well, I was just curious. I think I'll buy some.”
+「そういえば、宇宙食って食べたことある？」=“Reminds me, have you ever had space food?”
+「うん、通販で頼んだことがるよ」=“Yep, I've ordered it online before.”
+「通販で買えるんだ！？　どんな感じなの？　美味しい？」=“You can buy it online?! What is it like? Is it tasty?”
+「お湯をかけたら、だいたいは元の味そのままになるから美味しいかな。さすがに食感は違うんだけど」=“It goes back to more or less what it used to be when you rehydrate it with water so, I guess it was tasty? Definitely felt different texture wise though.”
+「そんなことを気にするなんて、わたしと宇宙に行きたいの？」=“But why do you care though? Do you want to go to space with me?”
+「まあ、興味があったんだよ。俺も買ってみようかな……」=“Well, I was a bit interested, that's all. Maybe I'll buy some too...”

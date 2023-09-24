@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ありがとう。お陰で、いい場所が見つかったよ」=“Thank you. You've found a good place for me.”
+「ありがとう。お陰で、いい場所が見つかったよ」=“Thanks. Because of you, I got to see a nice place.”

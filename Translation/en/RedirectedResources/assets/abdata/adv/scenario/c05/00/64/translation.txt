@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ありがとう。やっぱり宇宙を感じる為には、あなたが不可欠だなぁ」=“Thank you. I knew you were indispensable for me to feel the universe.”
-「ありがとう。あなたのおかげで、気持ち良くなれたよ」=“Thank you. I feel much better, thanks to you.”
-「なんだか身体が軽くなった気がする……ありがとう」=“I feel so much lighter... thank you.”
-「塗ってないのに、終わっちゃうの？」=“You haven't oiled me up... are you done?”
+「ありがとう。やっぱり宇宙を感じる為には、あなたが不可欠だなぁ」=“Thanks. You really are vital, to me being able to feel the universe~”
+「ありがとう。あなたのおかげで、気持ち良くなれたよ」=“Thanks. Thanks to you, I got to feel amazing.”
+「なんだか身体が軽くなった気がする……ありがとう」=“I feel like my body just got a bit lighter... thanks.”
+「塗ってないのに、終わっちゃうの？」=“Are we really gonna stop? You haven't even rubbed any oil in yet.”
