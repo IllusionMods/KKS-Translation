@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「これは……中々特徴的な味だな」=
-//「じゃがわしは好きじゃのこれ。食べぬなら頂こうかの？」=
-//「うん、あげるよ。はい、あーん」=
-//「あーん……ってば、馬鹿者！　なな何をさせる気じゃ！」=
-//「あはは、冗談冗談、はいこれ」=
-//「まったく……そういった事は恋仲になってからで……むうぅ……っ」=
+「これは……中々特徴的な味だな」=“This is... quite the unique taste.”
+「じゃがわしは好きじゃのこれ。食べぬなら頂こうかの？」=“However, I like it quite a bit. If you're not eating it, shall I?”
+「うん、あげるよ。はい、あーん」=“Yeah, sure, here you go. Say aaahn.”
+「あーん……ってば、馬鹿者！　なな何をさせる気じゃ！」=“Aaahn... wuh, you fool! W-W-What are you trying to do!”
+「あはは、冗談冗談、はいこれ」=“Ahahah, I'm just messing around. Here you go.”
+「まったく……そういった事は恋仲になってからで……むうぅ……っ」=“Good grief... save that stuff for your lover... muuh...--”

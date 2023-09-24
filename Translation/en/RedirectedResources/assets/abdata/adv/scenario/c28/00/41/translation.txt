@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少々いちゃつきすぎたかの……お主といると、どうしてもはしゃいでしまうのじゃ……」=
+「少々いちゃつきすぎたかの……お主といると、どうしてもはしゃいでしまうのじゃ……」=“I think we flirted a bit too much there... I just cannot help myself, when I'm with you, you know...”

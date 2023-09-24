@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「のう、居るか……？」=
-SELECTION:「返事をする」=Respond
+「のう、居るか……？」=“Say, are you in...?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「あぁ、入ってきていいよ？」=
-//「では、お邪魔するぞ……」=
-//「その、どうしてもお主が欲しくなってしもうての……わしの我儘、許してほしいのじゃ……」=
-//「……返事なし、か……どこに行ったんじゃろう……」=
+「あぁ、入ってきていいよ？」=“Yeah, feel free to come in.”
+「では、お邪魔するぞ……」=“Well then, do excuse me...”
+「その、どうしてもお主が欲しくなってしもうての……わしの我儘、許してほしいのじゃ……」=“Uhm, I just cannot help but crave you, you see... forgive this bout of willfulness...”
+「……返事なし、か……どこに行ったんじゃろう……」=“...No answer, huh... I wonder where he is...”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふいー満腹満腹。ごちそうさまじゃ」=
+「ふいー満腹満腹。ごちそうさまじゃ」=“Fuuiii, I'm stuffed. That was great.”

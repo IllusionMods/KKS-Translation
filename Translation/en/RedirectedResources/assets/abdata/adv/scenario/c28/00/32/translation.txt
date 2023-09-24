@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふーむ、何かこの旅路の思い出になるような土産はないかのう……」=
-//「それってペアルック的なものとか？」=
-//「んや、お主との思い出になりそうなものであれば何でもよいかの？」=
-//「……あんまりこだわりとかはないかな？」=
-//「そういうわけではないが……お主と買った土産を見て、今日この日を思い出すことが出来るのであれば、とな」=
-//「なるほどね……そしたら、しっかり思い出せるような、印象の残るようなお土産を探さないとな」=
-//「うむ、二人で一緒に探すのじゃ」=
+「ふーむ、何かこの旅路の思い出になるような土産はないかのう……」=“Hmmm, is there nothing that'll make for good memorabilia here...”
+「それってペアルック的なものとか？」=“You want some special? Like pair shirts or whatever?”
+「んや、お主との思い出になりそうなものであれば何でもよいかの？」=“Not at all, I'd be fine with anything that'll make for good memorabilia for us.”
+「……あんまりこだわりとかはないかな？」=“...So you don't care that much about what it is, huh?”
+「そういうわけではないが……お主と買った土産を見て、今日この日を思い出すことが出来るのであれば、とな」=“Well, I wouldn't say that but... I just want something that I can look at, and think back to how we bought it together, really.”
+「なるほどね……そしたら、しっかり思い出せるような、印象の残るようなお土産を探さないとな」=“I see... in that case, we're gonna have to buy something really impactful, that we'll be able to remember easily.”
+「うむ、二人で一緒に探すのじゃ」=“Umu, let us search for it together.”

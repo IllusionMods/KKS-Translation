@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと涼んでいかない？　気持ちよさそうだよ」=
-//「アイスは冷たいのう。ふふっ。最高の気分じゃ」=
-//「風の通り道だし、ここは気持ちいいね」=
-//「うむ。よいところを見つけたのう」=
-//「こうしてると、日本の夏ーって感じだね」=
-//「見慣れた風景とはちょいと違うが、そんな感じじゃな」=
-//「子供の頃、お主はどんな風に夏休みを過ごしておったのじゃ？　思い出深いものがあれば聞かせてくれぬか？」=
-//「いやー、普通だと思うよ。ごろごろしたりテレビ見たり……」=
-//「ちょうどこんな風にアイスを食べたりとか」=
-//「それはそれで定番の夏の過ごし方ではあろうが、もう少し何か出てこんか？」=
-//「例えば、カブトムシを捕まえたとかそういうのじゃ」=
-//「いやあ、そういうことはあんまりしなかったかな」=
-//「わんぱくな子供時代を過ごしていたものと勝手に想像していたが……ちょっぴり裏切られた気分じゃ」=
-//「逆に[H名]はどんな感じだったの？」=
-//「わしか？　近所のおじいさんとよく将棋をしておったぞ」=
-//「朝から晩まで……は言い過ぎじゃが、いっぱい付き合ってもらってたのう」=
-//「それはイメージ通り過ぎる」=
-//「対局のあとは、おばあさんがスイカを切り分けてくれてな……あれは美味しかったのじゃ」=
-//「現場を見てないはずなのに、ありありとその光景が目に浮かぶよ」=
+「ちょっと涼んでいかない？　気持ちよさそうだよ」=“Wanna cool off here? I bet it'll feel great.”
+「アイスは冷たいのう。ふふっ。最高の気分じゃ」=“This ice cream sure is cold. Fufuh, this is the best.”
+「風の通り道だし、ここは気持ちいいね」=“The wind blows through here too, it really does feel great.”
+「うむ。よいところを見つけたのう」=“Umu. We found quite the good place.”
+「こうしてると、日本の夏ーって感じだね」=“Savouring this really makes you feel "Ah, this is what summer in Japan is about", doesn't it?”
+「見慣れた風景とはちょいと違うが、そんな感じじゃな」=“It's a bit different from the scenery I am used to, but yes, indeed.”
+「子供の頃、お主はどんな風に夏休みを過ごしておったのじゃ？　思い出深いものがあれば聞かせてくれぬか？」=“As a child, what sort of summers did you spend? If they were memorable ones, won't you tell me about them?”
+「いやー、普通だと思うよ。ごろごろしたりテレビ見たり……」=“Nah~, I think they were pretty normal ones. In my case, spent mostly just being a couch potato and watching TV and whatnot...”
+「ちょうどこんな風にアイスを食べたりとか」=“Or eating ice cream while savouring the summer breeze like this.”
+「それはそれで定番の夏の過ごし方ではあろうが、もう少し何か出てこんか？」=“That is quite the normal way of spending one's summer in its own right but, is there really naught else?”
+「例えば、カブトムシを捕まえたとかそういうのじゃ」=“Like for example, did you never run out to catch any rhinoceros beetles?”
+「いやあ、そういうことはあんまりしなかったかな」=“Nah, not really.”
+「わんぱくな子供時代を過ごしていたものと勝手に想像していたが……ちょっぴり裏切られた気分じゃ」=“Though it was me who was onesidedly imagining your childhood to be filled with boyish naughtiness... I do feel a bit betrayed.”
+「逆に[H名]はどんな感じだったの？」=“What about you then? How were your summers?”
+「わしか？　近所のおじいさんとよく将棋をしておったぞ」=“Mine? I would spend them playing chess with a grandpa from my neighbourhood.”
+「朝から晩まで……は言い過ぎじゃが、いっぱい付き合ってもらってたのう」=“From day till night... would be overexaggeration, but I did have him play with me a lot.”
+「それはイメージ通り過ぎる」=“Now that fits your image perfectly, too perfectly I'd say.”
+「対局のあとは、おばあさんがスイカを切り分けてくれてな……あれは美味しかったのじゃ」=“I remember, the granny would cut up watermelon slices and serve them to us after we were done... those were very sweet.”
+「現場を見てないはずなのに、ありありとその光景が目に浮かぶよ」=“Even though I wasn't there, I feel like I can almost see the sight in my mind.”

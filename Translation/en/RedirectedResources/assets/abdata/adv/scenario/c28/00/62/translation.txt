@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふむ、またエステ、か……」=
-//「どうする？　やってく？」=
-//「そうじゃの……今回はその、前も塗ってほしいのじゃが……」=
-//「え、いいの……？」=
-//「も、もちろんお主だからじゃぞ？　ほ、ほれ、はよ準備せぬかっ」=
+「ふむ、またエステ、か……」=“Hmm, another beauty treatment, huh...”
+「どうする？　やってく？」=“What do you say? Wanna do it?”
+「そうじゃの……今回はその、前も塗ってほしいのじゃが……」=“I suppose so... this time, do the front as well...”
+「え、いいの……？」=“Eh, you sure...?”
+「も、もちろんお主だからじゃぞ？　ほ、ほれ、はよ準備せぬかっ」=“O-Of course, I am only allowing it because it's you, alright? C-Come, get the things ready--”

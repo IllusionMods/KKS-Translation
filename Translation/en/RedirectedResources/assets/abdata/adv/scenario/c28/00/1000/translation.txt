@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルドリンクだって。頼んでみようよ」=
-//「ふぅむ、お主がカップルドリンクとか言い出した時は、酔狂なものよと思ったのじゃが……」=
-//「そんなこと思ってたの？」=
-//「思っておったが口にはせんかった。わしは彼氏を立てる奥ゆかしいタイプじゃからな」=
-//「今、言っちゃったのは[H名]の中の奥ゆかしさと折り合いついてるの？」=
-//「自らに我慢を強いながらこの時間を乗り切るつもりでおったが、気が変わったので白状したのじゃ」=
-//「うむ、これはよい」=
-//「逆に何がそこまで気に入ったわけ？」=
-//「気に入ったというよりは、突き抜けた……のかのう？」=
-//「清々しいまでにバカバカしい。これはあれじゃ、同じ阿呆なら踊らにゃ……の類じゃな」=
-//「まあ、そうかもね？　俺達、言い訳のしようもないバカップルなんだから開き直って楽しもうよ」=
-//「バカップル、か……ふふ、くすぐった響きなのじゃ」=
-//「面白い。それなら馬鹿を究めてやるのじゃ！」=
-//「当然、お主にも付き合ってもらうからの？」=
-//「もちろん。どんと来いだよ」=
+「カップルドリンクだって。頼んでみようよ」=“Look, a couples' drink. Let's try ordering it.”
+「ふぅむ、お主がカップルドリンクとか言い出した時は、酔狂なものよと思ったのじゃが……」=“Hmm, when you said "couples' drink", I was fully expecting it to just be but a whimsical joke...”
+「そんなこと思ってたの？」=“Really? You were?”
+「思っておったが口にはせんかった。わしは彼氏を立てる奥ゆかしいタイプじゃからな」=“I was, though I did not say it. Afterall, I am the graceful sort, to support my man in everything he does.”
+「今、言っちゃったのは[H名]の中の奥ゆかしさと折り合いついてるの？」=“What you said just now, does that agree with that grace inside you?”
+「自らに我慢を強いながらこの時間を乗り切るつもりでおったが、気が変わったので白状したのじゃ」=“I was going to simply make myself endure it, but I changed my mind so I confessed.”
+「うむ、これはよい」=“Umu, this is good.”
+「逆に何がそこまで気に入ったわけ？」=“First you weren't into it and now you are?”
+「気に入ったというよりは、突き抜けた……のかのう？」=“Well, if I were to say it, it has simply... grown on me?”
+「清々しいまでにバカバカしい。これはあれじゃ、同じ阿呆なら踊らにゃ……の類じゃな」=“It is so refreshingly asinine. In a way, it is a matter of damned if you do and damned if you don't... so might as well.”
+「まあ、そうかもね？　俺達、言い訳のしようもないバカップルなんだから開き直って楽しもうよ」=“Well, I guess yeah? I mean, at this point, there's no point in making excuses about this stuff between us so we might as well just enjoy being idiotic lovebirds.”
+「バカップル、か……ふふ、くすぐった響きなのじゃ」=“Idiotic lovebirds, huh... fufuh, such a ticklish ring to it.”
+「面白い。それなら馬鹿を究めてやるのじゃ！」=“Alright then. Let us become thoroughly idiotic then!”
+「当然、お主にも付き合ってもらうからの？」=“Naturally, your participation is not up for debate.”
+「もちろん。どんと来いだよ」=“Of course. Come at me.”

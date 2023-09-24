@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと一勝負しない？」=
-//「いざ、尋常に勝負なのじゃ！」=
-//「勇ましいとこ出鼻をくじくみいで悪いけど……もしかして、卓球苦手だった？」=
-//「なぜ、そんなことを聞くのじゃ？」=
-//「構えがぎこちないから？」=
-//「お、お主も似たようなものじゃろう。どうせ腕前も似たりよったりに決まっておる」=
-//「そう言うなら何か賭けようか？」=
-//「よ、よいぞ？　負けたらなんでも言うことを聞いてやるのじゃ」=
-//「言ったね？　それじゃ、勝負」=
-//「あのぅ、そろそろ……」=
-//「ぐぬぬ、ま、まだじゃ！　わしはまだ負けておらん！」=
-//「もう、２０点くらい点差がついてるんだけど」=
-//「ようやくコツがつかめてきたところなのじゃ！　流れが変わる、そういう予感がわしにはある！」=
-//「さあ！　もう一本」=
-//「もう、俺の負けでいいので許してください……」=
+「ちょっと一勝負しない？」=“Wanna go for a round?”
+「いざ、尋常に勝負なのじゃ！」=“Well then, let us fight fair and square!”
+「勇ましいとこ出鼻をくじくみいで悪いけど……もしかして、卓球苦手だった？」=“Not that I want to rain on your parade but... do you not know how to play?”
+「なぜ、そんなことを聞くのじゃ？」=“Why do you ask me such a thing?”
+「構えがぎこちないから？」=“Because your stance is all off.”
+「お、お主も似たようなものじゃろう。どうせ腕前も似たりよったりに決まっておる」=“I-It is the same with you, is it not? Our skills ought not to be that different either.”
+「そう言うなら何か賭けようか？」=“Well, if you're so confident, wanna bet something on this?”
+「よ、よいぞ？　負けたらなんでも言うことを聞いてやるのじゃ」=“S-Sure? The loser must listen to anything the winner says.”
+「言ったね？　それじゃ、勝負」=“Don't forget that, alright? Here we go then.”
+「あのぅ、そろそろ……」=“Uhm~, if we could...”
+「ぐぬぬ、ま、まだじゃ！　わしはまだ負けておらん！」=“Gnnnn, a-again! I have not yet lost!”
+「もう、２０点くらい点差がついてるんだけど」=“I've got 20 points on you at this point though.”
+「ようやくコツがつかめてきたところなのじゃ！　流れが変わる、そういう予感がわしにはある！」=“Worry not, I have figured out the trick to it! The tide will change, I have a feeling it will!”
+「さあ！　もう一本」=“Come now, once more!”
+「もう、俺の負けでいいので許してください……」=“I don't care anymore, I lose, please just let me go...”

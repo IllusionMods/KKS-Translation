@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ……どんな旅先でも、こういったホテルでの食事は安心できるのが良いの」=
-//「だね。実際、食べ物っでのチャレンジは勇気がいるからなぁ……」=
-//「まぁそういったものを求めるなら地元らしい店に行けばよいだけだからの。機会があれば今度行ってみるかの？」=
-//「そうだね。まあそれはまたの機会にだ」=
-//「んむ、今は目の前の食事をありがたく頂くのじゃ」=
+「ふぅ……どんな旅先でも、こういったホテルでの食事は安心できるのが良いの」=“Fuuh... being able to enjoy food at hotels like this, no matter where one goes, truly is nice.”
+「だね。実際、食べ物っでのチャレンジは勇気がいるからなぁ……」=“Yeah. Especially since eating new food every day can get pretty stressful...”
+「まぁそういったものを求めるなら地元らしい店に行けばよいだけだからの。機会があれば今度行ってみるかの？」=“Well, if that's what you desire then we could simply go to a restaurant more suited to mainlanders. Shall we go there next time, if we get the chance.”
+「そうだね。まあそれはまたの機会にだ」=“Sure, why not? That's for next time though.”
+「んむ、今は目の前の食事をありがたく頂くのじゃ」=“Nnmuh, indeed, let us partake into the meal put before us for now.”

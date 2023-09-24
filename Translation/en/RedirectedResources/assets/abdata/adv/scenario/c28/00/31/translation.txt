@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「灯台とは、これまた趣のある建物じゃのう」=
-//「そうだね。でも、こういった海に囲まれた島ではすごく重要な建物だよ」=
-//「うむ、遠い海原から見える大事な標じゃの」=
-//「メンテナンスは大変だろうけど、ずっと残っているといいなぁ」=
-//「そうじゃの、いつかまた来た時に、変わらぬ姿を拝みたいものじゃ……」=
+「灯台とは、これまた趣のある建物じゃのう」=“A lighthouse, is it? What a quaint building it is.”
+「そうだね。でも、こういった海に囲まれた島ではすごく重要な建物だよ」=“Yeah. But, for an island like this, surrounded by water on all sides, it's a very important building.”
+「うむ、遠い海原から見える大事な標じゃの」=“Umu, an important symbol, visible from the far reaches of the sea.”
+「メンテナンスは大変だろうけど、ずっと残っているといいなぁ」=“Maintaining it is probably hell but, I hope it stays up forever.”
+「そうじゃの、いつかまた来た時に、変わらぬ姿を拝みたいものじゃ……」=“Indeed, I would like to come here again in the future someday, and pay my respects to it...”

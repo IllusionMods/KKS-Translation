@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どうじゃ？　中々上手くできたであろう？」=
-//「……なんだろう、どことなく既視感があるような？」=
-//「うむ、目の前によい参考対象がおったからの。どうじゃ？　この辺りとかお主そっくりじゃろ？」=
-//「そ、そうだね……」=
-//「ん－、じゃがまだまだ改良の余地はありそうじゃな……ここをもっと、こう――」=
+「どうじゃ？　中々上手くできたであろう？」=“How is it? Did it not come out quite well?”
+「……なんだろう、どことなく既視感があるような？」=“...It's kinda giving me a sense of dejavu, honestly.”
+「うむ、目の前によい参考対象がおったからの。どうじゃ？　この辺りとかお主そっくりじゃろ？」=“Umu, I did have a good reference to work with, afterall. How is it? This part looks especially just like you, no?”
+「そ、そうだね……」=“Y-Yeah...”
+「ん－、じゃがまだまだ改良の余地はありそうじゃな……ここをもっと、こう――」=“Nnn, I do think there's room for improvement though... perhaps this part could--”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どうじゃ？　わし、すべすべぴかぴかじゃろ？　んふふ♪」=
-//「んむ、苦しゅうないぞ、お疲れ様じゃ」=
-//「ふー、この調子で次も頼んだぞ？」=
-//「なんじゃ、気が向かなかったのか……？」=
+「どうじゃ？　わし、すべすべぴかぴかじゃろ？　んふふ♪」=“How am I? Do I not look perfectly slick and smooth? Nnfufuh♪”
+「んむ、苦しゅうないぞ、お疲れ様じゃ」=“Nnmuh, that was alright, good work.”
+「ふー、この調子で次も頼んだぞ？」=“Fuuh, do the same next time as well, alright?”
+「なんじゃ、気が向かなかったのか……？」=“What, did not feel up to it...?”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ、もう終わりか……もっとお主に、触ってほしかったのじゃ……」=
-//「ふぅ……やはりお主の手つきは気持ちいいのう……また頼むぞ？」=
-//「また塗ってほしいのじゃ。もちろん、お主の手での……？」=
-//「ま、まぁそういう時もあるよの……次の機会に取っておくのじゃ……」=
+「はぁ、もう終わりか……もっとお主に、触ってほしかったのじゃ……」=“Haah, we're done already? ...I wanted you to, touch me a bit longer there...”
+「ふぅ……やはりお主の手つきは気持ちいいのう……また頼むぞ？」=“Fuh... your hands really do feel great... do this next time as well, alright?”
+「また塗ってほしいのじゃ。もちろん、お主の手での……？」=“Do this again next time. Of course, only your hands will suffice...”
+「ま、まぁそういう時もあるよの……次の機会に取っておくのじゃ……」=“W-Well, everyone has such days... we shall simply save this for next time...”

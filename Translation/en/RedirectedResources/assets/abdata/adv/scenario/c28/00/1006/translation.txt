@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]、あ、あのさ？　もう察してるとは思うんだけど……」=
-//「無論じゃ。……鳴らすのじゃな、その鐘を」=
-//「数多の恋人達が愛を誓ってきたこの鐘を、わしら二人でっ」=
-//「そう強めに念押しされるとあれだけど、ま、まあ、そういうこと」=
-//「あれとはなんじゃ！　お主はわしとの未来を願掛けしたいのではないのか」=
-//「そ、そんなの、もはや……プロポーズじゃぞ！」=
-//「突き詰めれば、確かにそうなっちゃうかもしれないね……」=
-//「も、もっと気軽なお誘いだったのか？　わしのこの緊張って一体……？」=
-//「マゴつかないで！？　俺は本当に心から、[H名]とずっと一緒にいたいと思ってるから」=
-//「な、なら、よい……安心したのじゃ」=
-//「ならば、わしも想いを込めてこの鐘を鳴らそうぞ！」=
-//「孝心ある、強く逞しい子をどうか産ませて欲しい……と」=
-//（子供の話まで出てきちゃった……）=
-//「ま、まだ何かあるのか？　わしとしては早く鳴らして楽になりたいのじゃが……」=
-//「ごめんごめん、考えてただけ。俺達これからどんな風になっていくのかなー……って」=
-//「自分で言ったんじゃろ？　ずっと一緒に仲良く幸せにしてるに決まってるのじゃ」=
-//「だね。そうなりますように、っと」=
-//「もっと強く想いを込めるのじゃ！」=
+「[H名]、あ、あのさ？　もう察してるとは思うんだけど……」=“So, l-listen, [H名]. I'm pretty sure you've already guessed it but...”
+「無論じゃ。……鳴らすのじゃな、その鐘を」=“Of course. ...We are here to ring that bell, aren't we?”
+「数多の恋人達が愛を誓ってきたこの鐘を、わしら二人でっ」=“This bell that countless other couples have rung, to swear their love for each other--”
+「そう強めに念押しされるとあれだけど、ま、まあ、そういうこと」=“It's a bit, you know, when you emphasize it like that but, w-well, yeah.”
+「あれとはなんじゃ！　お主はわしとの未来を願掛けしたいのではないのか」=“You know, I know what! Did you not bring me here to make a wish for our future together?”
+「そ、そんなの、もはや……プロポーズじゃぞ！」=“T-That is, a... proposal, in all but name, you know!”
+「突き詰めれば、確かにそうなっちゃうかもしれないね……」=“When you follow it to its logical conclusion, yeah but...”
+「も、もっと気軽なお誘いだったのか？　わしのこの緊張って一体……？」=“W-Was it a more casual thing, perhaps? What am I even--...?”
+「マゴつかないで！？　俺は本当に心から、[H名]とずっと一緒にいたいと思ってるから」=“Don't get flustered, alright?! I'm serious here, I do want to be with you forever, [H名].”
+「な、なら、よい……安心したのじゃ」=“T-That's, good then... what a relief.”
+「ならば、わしも想いを込めてこの鐘を鳴らそうぞ！」=“In that case, I shall put my heart behind it too and ring this bell with you!”
+「孝心ある、強く逞しい子をどうか産ませて欲しい……と」=“And ask to be blessed with strong, healthy, and filial children... you know.”
+（子供の話まで出てきちゃった……）=(She's even talking about children now...)
+「ま、まだ何かあるのか？　わしとしては早く鳴らして楽になりたいのじゃが……」=“I-Is there still something else? Personally, I would rather ring it already and get it over with...”
+「ごめんごめん、考えてただけ。俺達これからどんな風になっていくのかなー……って」=“Sorry, sorry, I was just thinking. About how things are gonna get between us... and all.”
+「自分で言ったんじゃろ？　ずっと一緒に仲良く幸せにしてるに決まってるのじゃ」=“You said it yourself, no? We'll of course remain happy and together, forever.”
+「だね。そうなりますように、っと」=“Yeah. I'll wish for that myself.”
+「もっと強く想いを込めるのじゃ！」=“Do it harder!”

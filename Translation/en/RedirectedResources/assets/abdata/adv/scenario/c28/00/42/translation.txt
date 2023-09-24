@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「――むぅ、弦が少ない分簡単だと思うたが、これは中々に……」=
-//「思ったよりコツがいりそうだね」=
-//「このような実体験をすると、本職の人たちのすごさが身に染みるのう」=
-//「うん、百聞は一見に如かずとはまさにこのことだなぁ」=
+「――むぅ、弦が少ない分簡単だと思うたが、これは中々に……」=“---Muh, I thought it would be quite the easy instrument, with how few strings it has, but this is...”
+「思ったよりコツがいりそうだね」=“Needs more skill than you'd think, doesn't it?”
+「このような実体験をすると、本職の人たちのすごさが身に染みるのう」=“Experiencing these instruments like this truly makes the magnificence of the actual artists who use these sink in, doesn't it?”
+「うん、百聞は一見に如かずとはまさにこのことだなぁ」=“Yeah, seeing really is believing.”

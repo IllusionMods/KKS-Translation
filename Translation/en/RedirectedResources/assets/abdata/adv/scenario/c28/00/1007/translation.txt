@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……魚がいっぱいなのじゃ」=
-//「そりゃそうだよ。水族館なんだから」=
-//「もっとぬくもりのある返しが欲しいのじゃ！　み、見てわからぬのか……」=
-//「わしちょっと圧倒されてるかもなのじゃ」=
-//「そうだったの？」=
-//「あまり、こういう場所には来ないからのう……」=
-//「例えばなんじゃが、この水槽がパリンって割れたらどこに逃げればよいのじゃ？」=
-//「ここにいる人間でそんな心配してるの、[H名]だけだと思うよ」=
-//「ふと気になったのだから仕方なかろう！」=
-//「大丈夫だって。もし、そんなことになったら俺か守るから」=
-//「……相手は怒涛の水じゃぞ？」=
-//「泳ぎは得意だから」=
-//「いまいち守られ方がピンとこないんじゃが……まあよい、守るという意気込みだけは買おう」=
-//「なら、安心して水族館を楽しむってことで」=
-//「な、何もわからんと言っとるじゃろ！　お主が……え、エスコートするのじゃ」=
-//「了解。珍しい生き物がいるかもしれないし、ぐるっと回ってみようか」=
-//「手も繋いで欲しいのじゃ」=
-//「はいはい」=
+「……魚がいっぱいなのじゃ」=“...That's a lot of fish.”
+「そりゃそうだよ。水族館なんだから」=“Well, yeah. We're in an aquarium, afterall.”
+「もっとぬくもりのある返しが欲しいのじゃ！　み、見てわからぬのか……」=“Come up with a warmer reply! C-Can you not tell...”
+「わしちょっと圧倒されてるかもなのじゃ」=“I may be feeling a bit overwhelmed.”
+「そうだったの？」=“Really?”
+「あまり、こういう場所には来ないからのう……」=“I do not tend to come to places such as this all that often, you see...”
+「例えばなんじゃが、この水槽がパリンって割れたらどこに逃げればよいのじゃ？」=“Say, if this tank cracks and splits, where should we be running away to?”
+「ここにいる人間でそんな心配してるの、[H名]だけだと思うよ」=“I'm pretty sure you're the only person here who's worried about that.”
+「ふと気になったのだから仕方なかろう！」=“I cannot very well help it, I just need to know!”
+「大丈夫だって。もし、そんなことになったら俺か守るから」=“Seriously, don't worry. If that does happen, I'll shield you.”
+「……相手は怒涛の水じゃぞ？」=“...You'd be going against a mass of water, you realize?”
+「泳ぎは得意だから」=“I'm good at swimming.”
+「いまいち守られ方がピンとこないんじゃが……まあよい、守るという意気込みだけは買おう」=“I cannot very well picture your method of protecting me but... well, whatever, I suppose I'll take you on your word.”
+「なら、安心して水族館を楽しむってことで」=“Good, then relax and just enjoy the view.”
+「な、何もわからんと言っとるじゃろ！　お主が……え、エスコートするのじゃ」=“I-I'm telling you, I know naught of this place! You shall... e-escort me today.”
+「了解。珍しい生き物がいるかもしれないし、ぐるっと回ってみようか」=“Roger. Let's go make a round of the place then. Afterall, who knows? They might have some fish I've never seen before either.”
+「手も繋いで欲しいのじゃ」=“Hold my hand.”
+「はいはい」=“Yes yes.”

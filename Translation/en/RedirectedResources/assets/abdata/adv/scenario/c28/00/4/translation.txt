@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なっ、わ、わしとまぐわいたいとな……？」=
-//「あぁ、ダメ、かな……？」=
-//「う、ぬぅ……ダメ、ではないのじゃが……まだ付き合うてもない男としてよいものなのか、と……」=
+「なっ、わ、わしとまぐわいたいとな……？」=“Wha--, you wish to have intercourse with me...?”
+「あぁ、ダメ、かな……？」=“Aah, I guess it's a no go...?”
+「う、ぬぅ……ダメ、ではないのじゃが……まだ付き合うてもない男としてよいものなのか、と……」=“Uu, nuh... It's not a, 'no go', however... I do wonder if it's really right to do it with a man I am not dating...”
 「…………」=“...”
-//「ええぃそんな顔をするでない！　わしだってお主のに興味はあるのじゃ！」=
-//「じゃぁ……！」=
-//「よいじゃろう……わしの初めて、ありがたく受け取るのじゃ……！」=
+「ええぃそんな顔をするでない！　わしだってお主のに興味はあるのじゃ！」=“Eeh--, do not make such a face! I am interested in you as well, I will not lie!”
+「じゃぁ……！」=“In that case...!”
+「よいじゃろう……わしの初めて、ありがたく受け取るのじゃ……！」=“Why not... take my virginity, with gratitude...!”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さて、海に来てみたはいいが、いざ遊ぶとしたら何をするか考えておらんかったのう……」=
-//「そうだねぇ……ここはひとつ、恋人っぽく浜辺で追いかけっこでもする？」=
-//「なっ、そんな恥ずかしい事を……じゃが、お主がしたいと言うのなら……」=
-//「や、さすがに冗談だよ冗談……とりあえず何かあるか探してみよっか」=
-//「そ、そうじゃの…………なぁ、本当に追いかけっこ、しないのか……？」=
+「さて、海に来てみたはいいが、いざ遊ぶとしたら何をするか考えておらんかったのう……」=“Now then, we've come to the sea but, we didn't really think of what we were going to do, did we...”
+「そうだねぇ……ここはひとつ、恋人っぽく浜辺で追いかけっこでもする？」=“Yeah~... wanna just go full lovey-dovey, and play tag on the beach or something?”
+「なっ、そんな恥ずかしい事を……じゃが、お主がしたいと言うのなら……」=“Wha--, such an embarrassing thing... if you say you wish to do it...”
+「や、さすがに冗談だよ冗談……とりあえず何かあるか探してみよっか」=“Nah, that was a joke, a joke... let's look for something to do, they've gotta have something.”
+「そ、そうじゃの…………なぁ、本当に追いかけっこ、しないのか……？」=“I-I suppose... hey, we really could just play tag, you know...?”

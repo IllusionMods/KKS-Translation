@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うむ、お主と見れてよかったぞ、また来よう」=
+「うむ、お主と見れてよかったぞ、また来よう」=“Umu, I am glad we saw that together, let's come again.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「最初は恥かしかったがのう……いつの間にか夢中になってしまったのじゃ」=
+「最初は恥かしかったがのう……いつの間にか夢中になってしまったのじゃ」=“I was so embarrassed too, at first... yet somehow I ended up losing myself in it before I realized.”

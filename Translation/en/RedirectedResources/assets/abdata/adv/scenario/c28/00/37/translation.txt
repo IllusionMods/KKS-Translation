@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「このカヤックは二人乗りのやつだね」=
-//「うむ、お互いの息を合わせねばうまく進まなそうじゃの」=
-//「ま、そこは俺たちなら問題ないでしょ」=
-//「もちろんじゃ。わしらの力、今ここで示してやるのじゃ！」=
+「このカヤックは二人乗りのやつだね」=“This Kayak seats too, doesn't it?”
+「うむ、お互いの息を合わせねばうまく進まなそうじゃの」=“Umu, I imagine progress will be hard unless we can synchronize our breathing.”
+「ま、そこは俺たちなら問題ないでしょ」=“Well, I'm pretty sure we'll be fine on that front.”
+「もちろんじゃ。わしらの力、今ここで示してやるのじゃ！」=“Of course. This is my day, I shall show you my own strength!”

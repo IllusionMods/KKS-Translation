@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あ……」=
-//「ん、ほれ、この色を使いたいのじゃろ？」=
-//「お、ありがと。よくわかったね？」=
-//「当り前じゃ、わしがどれだけお主を見てると思っとるのじゃ？」=
-//「ほ、ほれ、さっさと仕上げて次の工程に移るのじゃ！」=
+「あ……」=“Ah...”
+「ん、ほれ、この色を使いたいのじゃろ？」=“Nn, take it, you wish to use it, no?”
+「お、ありがと。よくわかったね？」=“Oh, thanks. I'm surprised you were able to tell.”
+「当り前じゃ、わしがどれだけお主を見てると思っとるのじゃ？」=“It's only natural, just how much do you think I look at you?”
+「ほ、ほれ、さっさと仕上げて次の工程に移るのじゃ！」=“C-Come, finish it quickly, we must move to the next part!”
