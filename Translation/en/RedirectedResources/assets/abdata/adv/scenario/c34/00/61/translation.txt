@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ココは何する所デスカ？」=“What is this place?”
-「ここはエステを体験できる場所……って言えばいいのかな？　スタッフはいないから自分達でご自由に、かな」=“It a place to experience esthetics... I suppose you could call it that? There's no staff, so we're on our own, I guess.”
-「Ｉ　ｓｅｅ，オイルありマスネ。　アナタ、ワタシに塗ってくれマスカ？」=“<I see>. There's oil. Could you spread it on me?”
-「え、俺でいいの？　直接肌を触ることになるけど……」=“Eh, that'd be alright? You know I'll be directly touching your skin...”
-「Ｏｆ　ｃｏｕｒｓｅ！　アナタだからお願いシマス。でも、塗るのは背中だけデスヨ？」=“<Of course!> Because it's you, I'm asking for it. But only apply it to my back, okay?” 
+「ココは何する所デスカ？」=“What is this place for?”
+「ここはエステを体験できる場所……って言えばいいのかな？　スタッフはいないから自分達でご自由に、かな」=“I guess a beauty experience hall... sorta thing? There's no staff so I guess we're supposed to do it ourselves?”
+「Ｉ　ｓｅｅ，オイルありマスネ。　アナタ、ワタシに塗ってくれマスカ？」=“I see, there's some oil here. Will you do it for me?”
+「え、俺でいいの？　直接肌を触ることになるけど……」=“Eh, you sure? I'm gonna end up touching your skin directly though...”
+「Ｏｆ　ｃｏｕｒｓｅ！　アナタだからお願いシマス。でも、塗るのは背中だけデスヨ？」=“Of course! I'm asking because it's you. But, only my back, okay?”

@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねえ、お土産を探してみようよ」=
-//「Ｌｏｏｋ，コレ、似合うカナ？」=
-//「お、文字Ｔ。よく似合ってるけど、お土産じゃなくて自分用？」=
-//「家族全員のお土産ダカラ、ワタシのもないとネ♪」=
-//「家族全員でお揃いっていいね。日本語のＴシャツだし喜ばれそう」=
-//「絶対喜ぶヨ♪　Ｐａｐａはゼッサンニッポンゴ勉強中ダカラ！」=
-//「あはは、そういえば[H名]ならこの島の方言も勉強してそうだね」=
-//「モチロン、してきたヨ♪　コノ、『ナンクルナイサー』のこともネ！」=
-//「旅行雑誌か何かで読んだけど、なんとかなるさみたいな、気軽な感じなだけじゃないんだよね？」=
-//「Ｙｅａｈ♪　『ナンクルナイサー』は、モトモト、『マクトゥソーケー・ナンクルナイサ』っていうコトバなんダヨ」=
-//「まくとぅー？」=
-//「マクトゥーは誠、ソーケーはコト、誠なコトｅｑｕａｌ　ｒｉｇｈｔ　ｔｈｉｎｇｓ，タダシイ・オコナイ」=
-//「つまり、正しいことをしていれば、なんとかなる……いや、なるようになるって感じ？」=
-//「Ｙａ！　ニッポンにもコトワザあるデショ、『人事ヲ尽クシテ天命ヲ待ツ』って！　ワタシたちもそういうＣｏｕｐｌｅになろうネ！」=
-//「あ、それはいいね。じゃあ……俺も買おうかな、このＴシャツ」=
-//「Ｗｏｗ♪　ワタシとも、ワタシの家族ともお揃い！？　研修旅行から帰ったラ、ミンナでｂａｒｂｅｃｕｅダネ♡」=
-//「あはは、ちょっと緊張するけど、楽しみにしてるよ」=
+「ねえ、お土産を探してみようよ」=“Hey, let's go look for some souvenirs.”
+「Ｌｏｏｋ，コレ、似合うカナ？」=“Look, this, do you think it suits me?”
+「お、文字Ｔ。よく似合ってるけど、お土産じゃなくて自分用？」=“Oh, a t-shirt. It looks great but, are you buying it for yourself? Not as a souvenir?”
+「家族全員のお土産ダカラ、ワタシのもないとネ♪」=“I'mma buy them for everyone at home so, I gotta buy one for myself too♪”
+「家族全員でお揃いっていいね。日本語のＴシャツだし喜ばれそう」=“That'd be a pretty nice gift, you'd all match. And I bet they'd love it, since it's got Japanese on it.”
+「絶対喜ぶヨ♪　Ｐａｐａはゼッサンニッポンゴ勉強中ダカラ！」=“Definitely♪ My papa's still learning Japanese!”
+「あはは、そういえば[H名]ならこの島の方言も勉強してそうだね」=“Ahahah, now that I think about it, I bet you're studying the local dialect too, huh?”
+「モチロン、してきたヨ♪　コノ、『ナンクルナイサー』のこともネ！」=“Of course, I already am♪ I even know about this「Nankurunaisa~」!”
+「旅行雑誌か何かで読んだけど、なんとかなるさみたいな、気軽な感じなだけじゃないんだよね？」=“I did read about that in a travel magazine, if I remember right, it doesn't just mean something superficial like "It'll all work out" (Nantokanaru) or whatever, right?”
+「Ｙｅａｈ♪　『ナンクルナイサー』は、モトモト、『マクトゥソーケー・ナンクルナイサ』っていうコトバなんダヨ」=“Yeah♪ It comes from the phrase「Makutousoukei, Nankurunaisa~」, actually.”
+「まくとぅー？」=“Makutou?”
+「マクトゥーは誠、ソーケーはコト、誠なコトｅｑｕａｌ　ｒｉｇｈｔ　ｔｈｉｎｇｓ，タダシイ・オコナイ」=“「Makutou」is "honest" (makoto),「Soukei」is "things", "honest things" equals "doing the right thing".”
+「つまり、正しいことをしていれば、なんとかなる……いや、なるようになるって感じ？」=“So basically, as long as you do the right thing, it'll all work out... god willing, I guess?”
+「Ｙａ！　ニッポンにもコトワザあるデショ、『人事ヲ尽クシテ天命ヲ待ツ』って！　ワタシたちもそういうＣｏｕｐｌｅになろうネ！」=“Yah! I mean, Japanese has a saying like that too, no?「Man proposes, God disposes」and all! So let's try to become the sort of couple that this shirt talks about, okay?”
+「あ、それはいいね。じゃあ……俺も買おうかな、このＴシャツ」=“Ah, sounds good. Then... maybe I'll buy one too.”
+「Ｗｏｗ♪　ワタシとも、ワタシの家族ともお揃い！？　研修旅行から帰ったラ、ミンナでｂａｒｂｅｃｕｅダネ♡」=“Wow♪ We're all gonna match, you, me and my family!? Once we're done with this trip, let's all have a barbeque together♡”
+「あはは、ちょっと緊張するけど、楽しみにしてるよ」=“Ahahah, sounds like a pretty nerveracking experience but, sure, I look forward to it.”

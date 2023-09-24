@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「カップルドリンクが飲めるんだって。頼んでみようよ」=“They have a drink for couples to share. Let's ask for one.”
-//「Ｏｈ　ｗｏｗ♪　コレがＣｏｕｐｌｅ　ｄｒｉｎｋ♪　ＣｕｔｅなＣｏｌｏｒ、ｔａｓｔｅもカナ？」=
-//「それは飲んでみてのお楽しみだね」=
-//「Ｙｅａｈ♪　早く飲みた～い♪　イタダキマス、シヨ♪」=
-//「そうだね、じゃあ……あっそうだ、こういうのって、いっせーのーせで飲むことが多いけど、英語で『せーの』ってなんていうの？」=
-//「Ｒｅａｄｙ，ｓｅｔ，ｇｏ！　ダヨ♪」=
-//「よし、ふたりで初Ｒｅａｄｙ，ｓｅｔ，ｇｏ、やっちゃおうよ」=
-//「モチロ～ン，ウイウイシイｌｏｖｅ　ｌｏｖｅ　ｃｏｕｐｌｅダネ♡」=
-//「あはは、そう言われると照れるね。それじゃ飲もうか」=
-//[P名]・[H名]=
-//「「Ｒｅａｄｙ，ｓｅｔ，ｇｏ！」」=
-…………=......
-//「Ｆｏｏｏｏ♪　アハッ、ｂｅ　ｓｔｉｌｌ　ｍｙ　ｂｅａｔｉｎｇ　ｈｅａｒｔ♪　まだムネがｄｏｋｉ　ｄｏｋｉしてるヨ♪」=
-//「飲んでる最中に[H名]がウィンクしてくるから俺もドキドキしちゃったよ」=
-//「フフフ♪　アナタもｄｏｋｉ　ｄｏｋｉ♡　ふたりでｈａｐｐｙダネ♡」=
-//「うん、こういうのできるって幸せだよホント」=
-//「Ｏｈ，ソレジャ、Ｏｎｅ　ｍｏｒｅシヨ♪　Ｄｏｋｉ　ｄｏｋｉ　ｄｒｉｎｋ，Ｏｎｅ　ｍｏｒｅ♡」=
-//「オッケー！」=
-//「Ｙｅｅｅｓ♡　次はニッポンゴでしたいナ♪　セーノ、シヨ？」=
-//「あ、いいね。それじゃいくよ……」=
-//「「せーのっ！」」=
+「カップルドリンクが飲めるんだって。頼んでみようよ」=“We can get a couples' drink here, apparently. Let's try it.”
+「Ｏｈ　ｗｏｗ♪　コレがＣｏｕｐｌｅ　ｄｒｉｎｋ♪　ＣｕｔｅなＣｏｌｏｒ、ｔａｓｔｅもカナ？」=“Oh wow♪ This is a couples' drink♪ What a cute color, is the taste gonna be too?”
+「それは飲んでみてのお楽しみだね」=“We'll just have to see that for ourselves.”
+「Ｙｅａｈ♪　早く飲みた～い♪　イタダキマス、シヨ♪」=“Yeah♪ I wanna drink it already~♪ Let's go for it, c'mon♪”
+「そうだね、じゃあ……あっそうだ、こういうのって、いっせーのーせで飲むことが多いけど、英語で『せーの』ってなんていうの？」=“Yeah, let's... ah, right, in Japanese we say「Sei-no」when going for stuff like this, how do you say that in English?”
+「Ｒｅａｄｙ，ｓｅｔ，ｇｏ！　ダヨ♪」=“It's「Ready, set, go!」♪”
+「よし、ふたりで初Ｒｅａｄｙ，ｓｅｔ，ｇｏ、やっちゃおうよ」=“Alright, let's do our first ready, set, go together.”
+「モチロ～ン，ウイウイシイｌｏｖｅ　ｌｏｖｅ　ｃｏｕｐｌｅダネ♡」=“Of course~, we're a lovey-dovey pair of lovebirds, afterall♡”
+「あはは、そう言われると照れるね。それじゃ飲もうか」=“Ahahah, now you're gonna make me blush. C'mon, let's go for it.”
+[P名]・[H名]=[P名] - [H名]
+「「Ｒｅａｄｙ，ｓｅｔ，ｇｏ！」」=Ready, set, go!
+…………=...
+「Ｆｏｏｏｏ♪　アハッ、ｂｅ　ｓｔｉｌｌ　ｍｙ　ｂｅａｔｉｎｇ　ｈｅａｒｔ♪　まだムネがｄｏｋｉ　ｄｏｋｉしてるヨ♪」=“Fooooh♪ Ahah--, be still my beating heart♪ It really won't stop pounding♪”
+「飲んでる最中に[H名]がウィンクしてくるから俺もドキドキしちゃったよ」=“You went and winked right at me when we were drinking it too, so mine won't either.”
+「フフフ♪　アナタもｄｏｋｉ　ｄｏｋｉ♡　ふたりでｈａｐｐｙダネ♡」=“Fufufuh♪ Yours is too, huh♡ We're so happy together, huh♡”
+「うん、こういうのできるって幸せだよホント」=“Yeah, being able to do this stuff really is just bliss.”
+「Ｏｈ，ソレジャ、Ｏｎｅ　ｍｏｒｅシヨ♪　Ｄｏｋｉ　ｄｏｋｉ　ｄｒｉｎｋ，Ｏｎｅ　ｍｏｒｅ♡」=“Oh, well then, let's go for one more♪ One more sip of this doki doki drink♡”
+「オッケー！」=“Roger!”
+「Ｙｅｅｅｓ♡　次はニッポンゴでしたいナ♪　セーノ、シヨ？」=“Yeesss♡ I wanna do it in Japanese next♪ Let's do the "sei-no"?”
+「あ、いいね。それじゃいくよ……」=“Ah, sounds good. Well then, here we go...”
+「「せーのっ！」」=Sei no--!

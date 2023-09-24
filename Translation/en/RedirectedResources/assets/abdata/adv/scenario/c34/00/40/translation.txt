@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ｋａｙａｋ，むつかしいデスネ。でもアナタのおかげで楽しいデス！」=“<Kayak> is hard, isn't it? But thanks to you, I had fun!”
+「ｋａｙａｋ，むつかしいデスネ。でもアナタのおかげで楽しいデス！」=“Kayaking is pretty difficult, isn't it? But thanks to you, I had fun!”

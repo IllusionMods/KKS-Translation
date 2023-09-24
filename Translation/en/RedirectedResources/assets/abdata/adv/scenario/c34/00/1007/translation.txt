@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「Ｈｅｙ♪　こっちの水槽にも面白い魚がいるヨ、Ｃｏｍｅ　ｏｎ～♪」=
-//「うわぁ、虹色だ……しかも名前がなんか面白いね」=
-//「この島の方言ダネ！　ワタシ、面白い魚ダイスキ！」=
-//「まさか水族館がこんなにハマるとは。喜んでくれてよかったよ」=
-//「小さい頃カラ水族館は好きナノ♪　アッチに引っ越した時に連れて行ってもらった水族館、ニッポンのに似てたカラ！」=
-//「そんな似てるんだ」=
-//「ウン！　ペンギンと触れ合えたり、イルカのｓｈｏｗがあったり……アッチに行ったばかりの時、寂しかったカラ嬉しかったナ……」=
-//「そっか、[H名]にとって水族館は日本が感じられる場所だったんだ」=
-//「Ｙｅｓ，デモすぐにコトバ覚えて、トモダチたくさん出来たカラ、すぐ寂しくなくなったヨ！」=
-//「そのセイ？　オカゲ？　で、ニッポンに帰ってきてからも大変だったケド、アナタがいてくれたカラ大丈夫♡」=
-//「[H名]の助けになれてるなら嬉しいよ」=
-//「アナタと話すのもニッポン語の勉強になるし、好きだから話したいって気持ちがあるノ♡　『好きこそ物の上手なれ』ってコトワザは本当ダネ♡」=
-//「わかる。もし逆の立場だったら俺も英語がうまくなってただろうしね」=
-//「Ｗｏｗ♡　そんなアナタも見てみたかったナ♡　トッテモ嬉しいカラ♡」=
-//「[H名]と同じ勢いでペラペラになってたと思うよ」=
-//「Ｏｈ～、ワタシはそんなニッポン語ペラペラじゃないヨ？」=
-//「いやいや、そこまで喋れてたら十分だよ。この島の方言のことも勉強してるし、立派な水族館デートができてるしね」=
-//「フフ、そうダネ♡　面白い魚を見て、微笑み合うだけでも楽しいケド……」=
-//「愛し合う二人ナラ、やっぱり話し合いたいヨネ♡　少しでも、気持ちを共有したいカラ♡」=
+「Ｈｅｙ♪　こっちの水槽にも面白い魚がいるヨ、Ｃｏｍｅ　ｏｎ～♪」=“Hey♪ There's some interesting fish in this tank here, come on~♪”
+「うわぁ、虹色だ……しかも名前がなんか面白いね」=“Uwah, it's rainbow colored... and even the name's kinda interesting.”
+「この島の方言ダネ！　ワタシ、面白い魚ダイスキ！」=“It's in this island's dialect, isn't it! I love interesting fish!”
+「まさか水族館がこんなにハマるとは。喜んでくれてよかったよ」=“I didn't think you'd like the place that much. I'm glad we came here.”
+「小さい頃カラ水族館は好きナノ♪　アッチに引っ越した時に連れて行ってもらった水族館、ニッポンのに似てたカラ！」=“I've always loved aquariums, ever since I was a kid♪ Especially since the aquarium that my parents to me to when we first moved there looked the same as the ones in Japan.”
+「そんな似てるんだ」=“They're that similar, huh?”
+「ウン！　ペンギンと触れ合えたり、イルカのｓｈｏｗがあったり……アッチに行ったばかりの時、寂しかったカラ嬉しかったナ……」=“Yeah! They let us touch penguins, had a show with dolphins in it, and... I was really lonely back then sine we'd just moved so it made me really happy...”
+「そっか、[H名]にとって水族館は日本が感じられる場所だったんだ」=“I see, I guess to you, it was a place where you could still feel your connection to Japan?”
+「Ｙｅｓ，デモすぐにコトバ覚えて、トモダチたくさん出来たカラ、すぐ寂しくなくなったヨ！」=“Yes, but I learned the language in no time, and made tons of friends so, I stopped being lonely real soon after!”
+「そのセイ？　オカゲ？　で、ニッポンに帰ってきてからも大変だったケド、アナタがいてくれたカラ大丈夫♡」=“Because of that? Thanks to it? I had a pretty hard time adjusting back to Japan at first just like then but, you were there for me the whole time so I'm okay now♡”
+「[H名]の助けになれてるなら嬉しいよ」=“Well if it helped you out then I'm glad.”
+「アナタと話すのもニッポン語の勉強になるし、好きだから話したいって気持ちがあるノ♡　『好きこそ物の上手なれ』ってコトワザは本当ダネ♡」=“Talking to you is language practice in a way and, I love you so it makes me wanna talk to you♡「Passion's the shortest path to Mastery」, and all♡”
+「わかる。もし逆の立場だったら俺も英語がうまくなってただろうしね」=“I feel you. If our positions were reversed I imagine I'd be getting pretty good at speaking English too, right about now.”
+「Ｗｏｗ♡　そんなアナタも見てみたかったナ♡　トッテモ嬉しいカラ♡」=“Wow♡ That'd have been a sight to see too♡ Since it'd make me really happy♡”
+「[H名]と同じ勢いでペラペラになってたと思うよ」=“I'm sure I'd be becoming fluent at it just as intensely as you are.”
+「Ｏｈ～、ワタシはそんなニッポン語ペラペラじゃないヨ？」=“Oh~, I'm not that fluent, you know?”
+「いやいや、そこまで喋れてたら十分だよ。この島の方言のことも勉強してるし、立派な水族館デートができてるしね」=“Not at all, you're talking normally enough, and that's what matters. You're even learning about the local dialect, and most of all, we're even having a nice date together like this.”
+「フフ、そうダネ♡　面白い魚を見て、微笑み合うだけでも楽しいケド……」=“Fufuh, yeah♡ Just looking at the fun fish and smiling at each other is fun enough but...”
+「愛し合う二人ナラ、やっぱり話し合いたいヨネ♡　少しでも、気持ちを共有したいカラ♡」=“As people who love each other, we just can't help but wanna talk more, can we♡ To share our feelings more, with each other♡”

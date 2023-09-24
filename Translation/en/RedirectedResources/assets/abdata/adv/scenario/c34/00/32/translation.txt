@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「Ｗａｔｅｒｆａｌｌ，とても力強い、感じマスネ」=“<Waterfall>, very powerful, I can feel it.”
-「そうだね、流石パワースポットと言われるだけあるかな」=“Right, that's probably why it's called a power spot.”
-「ハイ、ここでｐｏｗｅｒ貰って、アナタといっぱいイチャイチャしマス！」=“Yes, I'm getting <power> here, I want to make out with you a lot!”
-「はは、それなら俺も沢山パワー貰っとかないとな」=“Haha, then I should really power up, too.”
+「Ｗａｔｅｒｆａｌｌ，とても力強い、感じマスネ」=“The waterfall, feels very powerful, doesn't it?”
+「そうだね、流石パワースポットと言われるだけあるかな」=“Yeah, I can definitely see why people call this a power spot.”
+「ハイ、ここでｐｏｗｅｒ貰って、アナタといっぱいイチャイチャしマス！」=“Yes, I'll receive this place's power, and make out with you lots with it!”
+「はは、それなら俺も沢山パワー貰っとかないとな」=“Hahah, in that case, I'm gonna have to get lots of it too.”

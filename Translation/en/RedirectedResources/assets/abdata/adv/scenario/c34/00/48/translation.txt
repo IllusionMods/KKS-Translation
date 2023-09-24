@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「フーム、Ｅｔｈｎｉｃなお店デース」=“Hmm, an <ethnic> store.”
-「うん、この島の地元感がすごくするね」=“Yeah, it makes you feel like you're an island local, doesn't it?”
-「こういう所、本当の味がワカルと思いマス」=“This is where the true flavor can be found.”
-「本当の味……あぁ、この島独自の味って事かな？」=“The true flavor... ahh, you mean the island's unique flavor, I guess?”
-「Ｙｅｓ，食べるの、とても楽しみデース！」=“<Yes>, I'm looking forward to eating it!”
+「フーム、Ｅｔｈｎｉｃなお店デース」=“Hmmm, what an ethnic place.”
+「うん、この島の地元感がすごくするね」=“Yeah, it has a really local feel to it, doesn't it?”
+「こういう所、本当の味がワカルと思いマス」=“I think we could sample the true flavour of it here.”
+「本当の味……あぁ、この島独自の味って事かな？」=“The true flavour... Aah, you mean the unique flavour of this island?”
+「Ｙｅｓ，食べるの、とても楽しみデース！」=“Yes, I'm super excited to eat here!”

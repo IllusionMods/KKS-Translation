@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「さて、何を借りてみようかな……何かやってみたいのってある？」=“Now, let's see what there is to rent... anything you want to try?”
-「ムムム、沢山ありマス……アナタ、読めますカ……？」=“Mmmm, there's lots... could you read them off...?”
-「おっと、そうだなぁ……コレなんかどうかな？」=“Oops, that's right... how about this one?”
-「……あぁ、コレ、なんとなくわかりマス。出来そうデス」=“...ahh, I can kind of understand. I think I could do that.”
-「ＯＫ、それじゃ早速借りてやってみよっか」=“<OK>, let's rent it, and give it a try.”
+「さて、何を借りてみようかな……何かやってみたいのってある？」=“Now then, what should we rent first... is there anything you wanna try?”
+「ムムム、沢山ありマス……アナタ、読めますカ……？」=“Mumumuh, there's lots but... can you, read any of this...?”
+「おっと、そうだなぁ……コレなんかどうかな？」=“Oh, right... how about this?”
+「……あぁ、コレ、なんとなくわかりマス。出来そうデス」=“...Ah, I think I know what this is. I could do it.”
+「ＯＫ、それじゃ早速借りてやってみよっか」=“OK, let's rent this out and try it.”
