@@ -166,7 +166,7 @@
 「そうね、熱くはなるべきだと思うけど、その中でも冷静に相手を見ることも大事だと思うわ」=“Yeah, I do think so but, I think looking at your partner levelheadedly is also pretty important.”
 「恋愛するにあたって何か参考にしてたものとかってある？」=“Was there anything you used as reference when you were falling in love with me?”
 「そうね、私は周りがどんな恋愛をしてきたか相談されていくうちに、かしらね？」=“Yeah, for me it happened around the time I started discussing with people around me about what sort of love lives we all had, I suppose?”
-「漫画や小説、ドラマやネット……探せばいくらでも出てくるのよね、そういったお話は」=“Manga, novels, tv dramas, the internet.... there's a lot of stuff like that out there, that you don't even have to dig deep to find, you know?”
+「漫画や小説、ドラマやネット……探せばいくらでも出てくるのよね、そういったお話は」=“Manga, novels, tv dramas, the internet... there's a lot of stuff like that out there, that you don't even have to dig deep to find, you know?”
 「なんだか考えさせられる質問ね……もうちょっと考えてもいい？」=“That's one thought provoking question... Can I think it over a bit?”
 「実は、浜辺で……」=“Actually, at the beach...”
 「ふふ、いかにもアツアツって感じね。羨ましいわ」=“Fufu, what a pair of lovebirds. I'm jealous.”
@@ -219,7 +219,7 @@
 「俺……[H名]さんの事が本気で好きなんだ」=“I... am in love with you, like seriously, [H名]. I mean it.”
 「んー……ごめんなさい、返事は保留にさせてもらえるかしら？」=“Nn... I'm sorry, could I get you to let me think on it and reply later?”
 「私、あなたの事、好きよ？」=“I love you, you know?”
-「あら、本気なのにぃ……」=“Oh dear, I'm very serious too....”
+「あら、本気なのにぃ……」=“Oh dear, I'm very serious too...”
 「あ、あのさ、[H名]さんとHしたいなって」=“H-Hey, Listen, I want to have sex with you, [H名]-san.”
 「勇気を出して誘ってくれてありがとう。実は私も同じことで悩んでたんだけど……もうちょっと時間をくれる？」=“Thanks for gathering your courage and asking me out. The truth is, I've been thinking about it for a while myself but... Can you give me a bit more time?”
 「[H名]さんととHしたいんだ」=“[H名]-san, I want to have sex with you.”
@@ -375,7 +375,7 @@
 「ふふ、勿論いいわよ」=“Fufuh, of course, I don't mind.”
 「私、あなたと灯台を見たいの。行きましょう？」=“I want to go look at the lighthouse with you. Let's go?”
 「ふふっ、あなたならそう言ってくれると思ったわ」=“Fufuh--, I knew you'd say yes.”
-「あら、行けない理由でもあるのかしら……」=“Oh my, is there a reason why you can't?....”
+「あら、行けない理由でもあるのかしら……」=“Oh my, is there a reason why you can't?...”
 「ええ。カップルらしく楽しみましょう？」=“Yes, let's enjoy ourselves like a lovey-dovey couple?”
 「あなたとカヤック乗りをしたいのだけど、一緒に遊んでくれるかしら？」=“I want to try riding a kayak, will you please come with me?”
 「ふふっ、それじゃ、早速乗りに行きましょう？」=“Fufuh--, let's go and do it right now then?”
@@ -386,7 +386,7 @@
 「ふふ、タイミングがいいわね。それじゃ行きましょうか」=“Fufuh, you've got some great timing. Let's go then.”
 「私、あなたの食べる姿が見たいの。いいかしら？」=“I want to watch you eating. Could I?”
 「ふふっ、沢山食べて頂戴ね？」=“Fufuh--, eat lots for me, okay?”
-「残念、美味しく食べるあなたの顔を見たかったわぁ……」=“That's a shame, I really wanted to see you enjoying some nice food~....”
+「残念、美味しく食べるあなたの顔を見たかったわぁ……」=“That's a shame, I really wanted to see you enjoying some nice food~...”
 「ねぇ、これから俺の部屋、来ない？」=“Hey, won't you come over to my room, right now?”
 「あら、わかりやすいお誘いね……勿論、行くわよ？」=“Oh my, what an easy to read invite... of course, I won't say no to you, you know?”
 「付いてきてもらってもいい？」=“Can you come with me?”

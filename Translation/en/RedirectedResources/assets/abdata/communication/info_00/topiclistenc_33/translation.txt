@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-//「ねぇ、<color%3Dyellow>シュノーケリング</color>とスキューバダイビングの違い、わかる？」=
+「ねぇ、<color%3Dyellow>シュノーケリング</color>とスキューバダイビングの違い、わかる？」=“Hey, do you know the difference between <color%3Dyellow>snorkeling</color> and scuba diving?”
 「そう、あのタンクがあるかないかなのよね主に」=“That's right, it's mainly whether you have the tank or not, isn't it?”
-//「あなたは<color%3Dyellow>トレッキング</color>には何が必要かわかる？」=
+「あなたは<color%3Dyellow>トレッキング</color>には何が必要かわかる？」=“Do you know what is important to keep in mind when going <color%3Dyellow>trekking</color>?”
 「そう、１番大事なのは景色を楽しむ事なのよね」=“That's right, the most important thing is to appreciate the scenery as you go along, isn't it?”
 「あら、それは私も知らなかったわ」=“Oh my, even I didn't know that.”
 「それ、もう少し詳しく教えてくれないかしら？」=“Hey, won't you tell me more about that?”
 「どう？　知れて良かったでしょう？」=“So, aren't you glad I told you about it?”
 「ふふっ、興味湧いてくれたかしら？」=“Fufuh--, feeling interested?”
-//「<color%3Dyellow>水牛</color>の目って、クリクリしていて可愛いと思わない？」=
+「<color%3Dyellow>水牛</color>の目って、クリクリしていて可愛いと思わない？」=“Don't you think <color%3Dyellow>water buffalos</color> look really cute, with those big round eyes?”
 「ふふっ、あなたも魅力が分かるみたいね」=“Fufuh--, seems like you understand their charm too.”
-//「<color%3Dyellow>マングローブ</color>って木の名前じゃなく、植物群落などの総称だって事、知ってた？」=
+「<color%3Dyellow>マングローブ</color>って木の名前じゃなく、植物群落などの総称だって事、知ってた？」=“Did you know that the term <color%3Dyellow>"mangrove"</color> doesn't refer to a specific plant but rather a whole group of them?”
 「そう、私も最初は木の名前だと思っていたのよね」=“Yep, I used to think it was the name of a tree too.”
-//「<color%3Dyellow>パワースポット</color>って実際どういった物かって知ってる？」=
+「<color%3Dyellow>パワースポット</color>って実際どういった物かって知ってる？」=“Do you know what exactly <color%3Dyellow>power spots</color> are, by the way?”
 「そうね、大地や自然などの力がみなぎる場所、というのが分かりやすいわね」=“Yeah, any place brimming with the power of the land or nature, would be the easy to understand explanation.”
-//「澄んだ<color%3Dyellow>星空</color>が見える理由、わかるかしら？」=
+「澄んだ<color%3Dyellow>星空</color>が見える理由、わかるかしら？」=“Do you know exactly why we can see the <color%3Dyellow>starry night sky</color> so clearly here?”
 「えぇ、地上からの光が少ないこと、空気が澄んでいること、どれも大事な要因ね」=“Yes, the air being clean, and the lack of light pollution, both are very important factors, aren't they?”
 「へぇ、その情報、いいわね」=“Heh, that's some pretty good info.”
 「あら、そんな情報、どこから仕入れてきたのかしら？」=“Oh my, where did you get your hands on that info?”
 「あなたも色々調べてみると楽しいわよ？」=“This stuff's pretty fun, you should look into it, you know?”
 「これでまた一つ知識が増えたわね？」=“Now you know something you didn't yesterday, don't you?”
-//「海にとって<color%3Dyellow>サンゴ</color>がどれだけ重要か、あなたにわかるかしら？」=
+「海にとって<color%3Dyellow>サンゴ</color>がどれだけ重要か、あなたにわかるかしら？」=“Do you understand just how important <color%3Dyellow>corals</color> are, to the sea?”
 「そう、綺麗な海を守るため、浄化作用としてとても重要な生き物なのよ」=“That's right, they're very important purifiers, protecting our precious beautiful seas.”
-//「<color%3Dyellow>クマノミ</color>の生態、あなたは詳しかったりするかしら？」=
+「<color%3Dyellow>クマノミ</color>の生態、あなたは詳しかったりするかしら？」=“I wonder how much you know, about the ecology of <color%3Dyellow>clownfish</color>?”
 「そうそう、いつもイソギンチャクの傍にいるあの子よ」=“Yep, exactly, I'm talking about those fish that are always swimming around sea anemone.”
 「へぇ、あなた、詳しいのね？」=“Heh, you know your stuff, huh?”
 「あら、あなた面白い事知ってるのね」=“Oh my, you know some pretty interesting stuff, huh?”
 「ふふっ、ためになったでしょう？」=“Fufuh--, good thing I told you then, huh?”
 「これを機に色々見て見るといいわよ？」=“You really should take this chance to look around, you know?”
-//「ここの<color%3Dyellow>名物料理</color>、あなたはチャレンジしてみたかしら？」=
+「ここの<color%3Dyellow>名物料理</color>、あなたはチャレンジしてみたかしら？」=“Have you given any of the <color%3Dyellow>local cuisine</color> a shot yet?”
 「へぇ、そんな味だったのね、私も気になっちゃうわ」=“Heh, so that's what it tastes like, huh? Now I'm getting curious too.”
-//「<color%3Dyellow>紅型</color>染めについて、あなたはどれだけ知ってるのかしら？」=
+「<color%3Dyellow>紅型</color>染めについて、あなたはどれだけ知ってるのかしら？」=“I wonder how much you know, about the <color%3Dyellow>local stencil dyeing</color> tradition?”
 「そうよね、もち米で作った糊を使うって、何だか時代を感じるわよね」=“I know, right? The fact that they use glue made of sticky rice really makes you feel the age of it, doesn't it?”
 「あら、いいこと教えてくれてありがとう」=“Oh my, thanks for telling me about something so nice.”
 「へぇ、やっぱり色々あるのねぇ」=“Heh, there really are all sorts of things here, huh~?”

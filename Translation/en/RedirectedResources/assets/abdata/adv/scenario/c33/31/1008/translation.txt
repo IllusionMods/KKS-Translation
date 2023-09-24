@@ -3,7 +3,7 @@
 //
 「まるで星の浜辺ね……宇宙のどこか、地球じゃない星に降り立ったみたい……」=“It's almost like a starry beach... it almost feels like, we're on some other planet in space, not earth...”
 「もし本当にそうだったらどうする？」=“What if we really were on some other planet?”
-「もし本当にそうだったら？　……ふふふ、そうね……あなたと二人きり、宇宙の片隅の星に……うん、幸せよ。とっても幸せ」=“If we really were? ....Fufufuh, let's see... just you and me, on a planet in another corner of space.... yep, I'd be happy. Very happy.”
+「もし本当にそうだったら？　……ふふふ、そうね……あなたと二人きり、宇宙の片隅の星に……うん、幸せよ。とっても幸せ」=“If we really were? ...Fufufuh, let's see... just you and me, on a planet in another corner of space... yep, I'd be happy. Very happy.”
 「よかった、早く帰りましょうとか言われなくて」=“I'm glad, I thought you'd say that you'd want to go home right away.”
 「まさか。あなただったら帰りたい？」=“No way. Would you want to?”
 「別の惑星に行くのってロマンではあるけど少し怖いかな。でも、[H名]さんと一緒ならなんとなくやっていけそうな気がする。住もう」=“Going to another planet does have a certain charm to it, but I'd be a bit scared, personally. But if you're there with me I think I could manage somehow. So yeah, let's live there.”
@@ -16,7 +16,7 @@
 「お互い様よ、私もついさっき答え合わせをしたもの」=“We're in the same boat, I made you say it out loud too, just then.”
 「え、ついさっきっていつ？」=“Eh? Just when?”
 「地球には家族も友達もいるでしょ、別の惑星に住んだりしたら大変よ？　そう聞いたのは、あなたに私と同じ幸せを口にしてほしかったから」=“When I said that thing about friends and family, and living on another planet being a hassle, I did it because I wanted you to put our happiness together above them.”
-「大切な家族、かけがえのない友達たちが遠く離れたとしても、二人きりでこの綺麗な星で暮らしたいって……」=“Even if the family I love and the friends I treasure aren't here, I still want to stay on this beautiful planet with you", I wanted to hear that...”
+「大切な家族、かけがえのない友達たちが遠く離れたとしても、二人きりでこの綺麗な星で暮らしたいって……」=“Even if the family I love and the friends I treasure aren't here, I still want to stay on this beautiful planet with you, I wanted to hear that...”
 「そんなこと思ってくれてたんだ……」=“That's what you were thinking, huh...”
 「自分でもびっくりしちゃったわ。あなたに相当惚れ込んでいるみたいね、ふふふ」=“It surprised even me. Seems like I'm head over heels for you, fufufuh~”
 「俺も好きだよ。[H名]さんが幸せって言ってくれたとき、本当に嬉しかったんだ」=“I love you too. It made me really happy, when you said you'd be happy.”
@@ -32,4 +32,4 @@
 「え、[H名]さん？」=“Eh, [H名]-san?”
 「なんでもないわ、星屑が目に入っちゃったみたい……本当に綺麗な海ほたるね……もう少し、見ていてもいい？」=“It's nothing, a bit of stardust got in my eye... these sea fireflies really are pretty, aren't they... could we, look at them a bit more?”
 「うん、いつまででも見ていようよ」=“Sure, let's look at them for as long as we can.”
-「ええ……こんなに明けてほしくない夜は初めてよ……」=“Yes.... it's the first time I've ever wanted the night to last forever...”
+「ええ……こんなに明けてほしくない夜は初めてよ……」=“Yes... it's the first time I've ever wanted the night to last forever...”

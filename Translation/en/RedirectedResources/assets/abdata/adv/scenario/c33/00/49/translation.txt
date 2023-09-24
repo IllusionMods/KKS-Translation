@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「うーん、何を食べようかしらね……？」=“Nnnn, what should we get....?”
+「うーん、何を食べようかしらね……？」=“Nnnn, what should we get...?”
 「こういう所で悩んだら……そうだなぁ、俺だったらいつも食べ慣れてそうなのを注文するかな？」=“In a place like this... let's see, I'd personally order the sort of things I'm used to eating, I guess?”
 「ふーん、あなたはそうするのね……なら、私もそうしてみようかしら？」=“Hmmm, I see... in that case, I suppose I'll try doing the same too?”

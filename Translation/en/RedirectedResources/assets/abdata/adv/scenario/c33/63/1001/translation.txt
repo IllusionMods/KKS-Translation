@@ -5,7 +5,7 @@
 「ね、団扇持ってきてくれてありがとう。こういう気遣いができるから女の子にモテるのよね」=“Hey, thanks for packing these hand fans for us. It's why you're so popular with girls, you know? Because you care.”
 「えっ！？　な、なんの話！？」=“Eh--?! S-Sorry, what're we talking about?!”
 「あら、急に焦ってどうしたの？　私は思ったことを言っただけよ」=“Oh my, what's got you in a panic? I just said what I thought.”
-「いや……いきなりそんなこと言うからびっくりして……」=“I mean... it's because you said that that I....”
+「いや……いきなりそんなこと言うからびっくりして……」=“I mean... it's because you said that that I...”
 「ふふ、自分で言っておいてヤブヘビなの。あなたって、付き合うなら重婚も覚悟しないといけないぐらいモテるのよね……困ったわ」=“Fufuh--, I always end up stirring up the hornet's nest. You're so popular, I'm gonna have to get ready for a second wife someday too, aren't I... what a bind~.”
 「重婚！？　いや、俺はそんなモテキャラじゃないよ！　イケメンじゃないし、気の利いたことも言えないし、他にも……」=“A second wife!? No way, I'm not that much of a heartthrob, you know! Like to begin with, I'm not all that handsome, and you can't say I have good taste either, not to mention...”
 「色々コンプレックスがあるのね。たしかに顔がよくて気の利いたことを言える人はチヤホヤされるでしょうけど、モテるっていうのは――」=“You've a whole lot of complexes, don't you? For sure, handsome guys with good faces and good taste get all the attention but, you know, to actually be popular with girls, you--”
@@ -17,7 +17,7 @@
 「……そうかも。でも、だとしたら[H名]さんだってモテそうだし、俺も覚悟しなくちゃね。そうじゃないとお互い平等じゃないし」=“...Maybe. But, you're pretty popular too, [H名], so I guess I gotta get ready for it too, don't I? Else it wouldn't be fair and equal.”
 「安心して、私はあなた以外に好きな人なんてできないから。平等って、天秤が釣り合っている状態のことを言うわけじゃないと思うの」=“Don't worry, I can't fall in love with anyone else. And fairness and equality, all that talk of balancing the scales is stupid, in my opinion.”
 「天秤？」=“Scales?”
-「あなたがこうだから私もこう、同じ条件、どっちもどっち、あとは……喧嘩両成敗とか？　そんな言葉で縛られるなんておかしいと思わない？」=“You're that way, so I'll be that way too", "operating under the same conditions", "you're just as black as me", and... "neither party is right"? Don't you think binding each other with words like that is insane?”
+「あなたがこうだから私もこう、同じ条件、どっちもどっち、あとは……喧嘩両成敗とか？　そんな言葉で縛られるなんておかしいと思わない？」=“You're that way, so I'll be that way too, "operating under the same conditions", "you're just as black as me", and... "neither party is right"? Don't you think binding each other with words like that is insane?”
 「だって二人がどれだけ愛し合っていても、違う環境で育ってきた、個性のある個人同士じゃない。全部一緒くたじゃないの、全部違うの」=“Afterall, no matter how much people love one another, everyone's raised differently, and everyone's their own individual person, no? You can't be one and the same, everything is different.”
 「それを認め合って、影響し合って、変わっていって、時々喧嘩して、意見を言い合って、二人だけのルールを作って、愛し合っていくんでしょ」=“Accepting that, affecting each other, slowly changing along with one another, sometimes fighting, sometimes stating our opinions, making our own rules together, and loving each other at the end is what it's all about, no?”
 「[H名]さん……人生何周目？」=“[H名]-san... how many lifetimes have you been through?”
