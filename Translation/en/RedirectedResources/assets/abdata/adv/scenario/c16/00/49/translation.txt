@@ -5,5 +5,5 @@
 「本当ね、どの料理もいい味しているわ」=“Seriously, just about all of them taste great.”
 「お腹すいてたから、ついつい頼み過ぎちゃったよ」=“I think I overordered a bit, since my belly's already full.”
 「まったく、そんなに沢山食べきれるのかしら」=“Good grief, can you really finish all that?”
-「無理だったら、ちょっと手伝ってもらえると……」=“If it turns out to be impossible, I'd really appreciate it if you could....”
+「無理だったら、ちょっと手伝ってもらえると……」=“If it turns out to be impossible, I'd really appreciate it if you could...”
 「ダメよ。自分で頼んだんだから、自分で責任持ちなさい」=“Not happening. You ordered it yourself, so take responsibility.”

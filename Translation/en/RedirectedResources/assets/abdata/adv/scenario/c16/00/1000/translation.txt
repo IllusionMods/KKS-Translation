@@ -5,7 +5,7 @@
 「ふぅん……おいしいわ。あれだけ大々的に宣伝しているだけのことはあるわね」=“Hmm... it's delicious. They don't advertise it like that for nothing, I see it now.”
 「フルーツの質がいいのかしら？　それとも……」=“I wonder if the quality of the fruits they use is just that good? Or maybe...”
 「フフッ、何を飲んでも美味しいと言ってしまいそうな、このロケーションのせいもあるのかしら」=“Fufuh--, I wonder if it's the location at fault too, for making me want to say something like "no matter what it is, it'd be delicious".”
-「……うーん」=“....Nnn.”
+「……うーん」=“...Nnn.”
 「眉間に皺を寄せてどうしたの？　悩むほどのことを言った覚えはないわ」=“What're you creasing your brows for? I don't think I said anything that distressing.”
 「悩むってほどでは。思ってたのと、ちょっと違っただけというか」=“No, you didn't. It was just a bit different from what I was expecting, I guess.”
 「思っていたこと？」=“What you were expecting?”

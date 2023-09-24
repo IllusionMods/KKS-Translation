@@ -20,6 +20,6 @@
 「意地悪ね。いいわ、もう鳴らさない」=“So mean to your girlfriend. Alright then, I'm not ringing it anymore.”
 「ごめんごめん、せっかく来たんだから鳴らそうよ。神頼みが嫌ならお互いに誓うってことで」=“Sorry, sorry. We came all the way here, so let's ring it. If you don't like asking for some god's blessing, let's vow to each other instead.”
 「なんて誓うの？」=“And what vows would that be?”
-「ずっと一緒にいようね、って」=“Let's stay together forever".”
+「ずっと一緒にいようね、って」=“Let's stay together forever.”
 「ずっと……ね。構わないけど、こんな私にずっと張り付かれて、息が詰まっても知らないわよ？」=“Forever... huh? I don't personally mind but, don't blame me if you start regretting it later, okay?”
 「息が詰まったことなんて今のとこ一回もないよ。さ、一緒に」=“I haven't regretted it once yet, I'll take my chances. C'mon, we have to do it together.”
