@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なんだか、どれも高級な感じがする」=
-//「ホテルの料理というバイアスがかかっているだけでしょ。どれも普通じゃない」=
-//「しかも、全部美味しい」=
-//「そうね。さすがに味は一級品って感じね」=
-//「こんなに頼んじゃっていいのかな？」=
-//「いいんじゃない？　食べれるうちに食べておかないと、お腹が減るわよ？」=
+「なんだか、どれも高級な感じがする」=“Man, it all looks kinda high class.”
+「ホテルの料理というバイアスがかかっているだけでしょ。どれも普通じゃない」=“You're just being influenced by the fact that we're eating at a hotel. They're all very normal dishes.”
+「しかも、全部美味しい」=“Not to mention, they're all delicious.”
+「そうね。さすがに味は一級品って感じね」=“You're not wrong. It does taste very first class.”
+「こんなに頼んじゃっていいのかな？」=“Should we really keep ordering so much though?”
+「いいんじゃない？　食べれるうちに食べておかないと、お腹が減るわよ？」=“Isn't it fine? If you don't eat while you can, you're going to feel hungry later, you know?”

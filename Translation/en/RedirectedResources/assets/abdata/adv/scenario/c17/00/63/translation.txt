@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「悪くないわね、いい感じだったわ」=
-//「なかなか、いいんじゃないかしら」=
-//「そうね、こんな感じかしら」=
-//「何もしないの？　それはそれでいいけど」=
+「悪くないわね、いい感じだったわ」=“Not bad, that felt nice.”
+「なかなか、いいんじゃないかしら」=“That was pretty nice, I suppose.”
+「そうね、こんな感じかしら」=“Yeah, I suppose that's that.”
+「何もしないの？　それはそれでいいけど」=“Not going to do anything? I suppose that's fine as well.”

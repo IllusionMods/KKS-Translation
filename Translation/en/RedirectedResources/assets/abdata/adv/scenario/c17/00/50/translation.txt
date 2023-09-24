@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「見慣れない料理がいっぱいだね」=
-//「でも、どれもみんな美味しいわ」=
-//「こういう、地元の家庭料理が食べられるのって、嬉しいよね」=
-//「まぁ、あなたとなら、なんでも美味しいのかも知れないけど」=
-//「そう言ってもらえると、すごく嬉しいなぁ」=
+「見慣れない料理がいっぱいだね」=“That's a lot of dishes that I've never seen before.”
+「でも、どれもみんな美味しいわ」=“But they all look pretty delicious.”
+「こういう、地元の家庭料理が食べられるのって、嬉しいよね」=“Being able to eat local home cooking like this is really nice, isn't it?”
+「まぁ、あなたとなら、なんでも美味しいのかも知れないけど」=“Well, I think if you're there, I could eat just about anything deliciously.”
+「そう言ってもらえると、すごく嬉しいなぁ」=“Man, you know how to make a guy happy~”

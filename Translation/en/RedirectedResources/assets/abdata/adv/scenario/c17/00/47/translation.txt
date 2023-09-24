@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ありがとう、おかげで綺麗にできた思うわ」=
+「ありがとう、おかげで綺麗にできた思うわ」=“Thanks, I think I made something really nice thanks to you.”

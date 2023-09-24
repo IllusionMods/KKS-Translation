@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、[H名]さん。ちょっとお土産を見ていかない？」=
-//「結構可愛いし、なかなか良いと思うんだけれど、どう思う？」=
-//「キーホルダーだね。これはシーサーかな？」=
-//「ええ。このとぼけた顔があなたそっくりだわ」=
-//「ええっ！？　似てるかなぁ……？」=
-//「可哀想に。自分では気付かないのね……」=
-//「ほら、よく見比べてみて？　どことなく似ているから」=
-//「良くわからないや」=
-//「それで、そのキーホルダーを買うの？」=
-//「そうね。これをずっと持っていたら、あなたのこともすぐに思い出せ――」=
-//「う、ううん、何でもない。私、これを買うことにするわ」=
-//（……俺のことをすぐ思い出せる、か。嬉しいことを言ってくれたなぁ）=
+「ねぇ、[H名]さん。ちょっとお土産を見ていかない？」=“Hey, [H名]-san. Wanna go look at souvenirs a bit?”
+「結構可愛いし、なかなか良いと思うんだけれど、どう思う？」=“It's pretty cute, and I think it's pretty nifty, personally. What do you think?”
+「キーホルダーだね。これはシーサーかな？」=“Ah, a keychain. Is this a shisa?”
+「ええ。このとぼけた顔があなたそっくりだわ」=“Yes. And this dumb looking face is just like yours too.”
+「ええっ！？　似てるかなぁ……？」=“Eeh--?! Is it...?”
+「可哀想に。自分では気付かないのね……」=“So pitiful, you don't even realize it yourself...”
+「ほら、よく見比べてみて？　どことなく似ているから」=“C'mon, try comparing it in a mirror? It really does resemble you, somehow.”
+「良くわからないや」=“I really can't tell.”
+「それで、そのキーホルダーを買うの？」=“Still, you're gonna buy that?”
+「そうね。これをずっと持っていたら、あなたのこともすぐに思い出せ――」=“Yeah. If I carry this around, it'll be like having you next to me all--”
+「う、ううん、何でもない。私、これを買うことにするわ」=“N-No, it's nothing. I'll buy this, yeah.”
+（……俺のことをすぐ思い出せる、か。嬉しいことを言ってくれたなぁ）=(...Next to her all the time, huh? That's pretty nice of her to say~)

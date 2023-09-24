@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それは……俺の事が、好きってこと……だよね？」=
-//「そ、そうよ……私はあなたの事が、好き」=
-//「俺もだよ！　俺もきみのことが好きなんだ」=
-//「ほ、本当に？　だったら、私と付き合ってくれる……？」=
-//「もちろんだよ！　俺の方からよろしくお願いするよ」=
-//「ありがとう。……私の方こそ、よろしくお願いします」=
+「それは……俺の事が、好きってこと……だよね？」=“You mean to say... you love me... right?”
+「そ、そうよ……私はあなたの事が、好き」=“T-That's right... I love, you.”
+「俺もだよ！　俺もきみのことが好きなんだ」=“Me too! I love you too.”
+「ほ、本当に？　だったら、私と付き合ってくれる……？」=“Y-You mean it? Will you go out with me then...?”
+「もちろんだよ！　俺の方からよろしくお願いするよ」=“Of course! If anything, I wanna ask you to go out with me.”
+「ありがとう。……私の方こそ、よろしくお願いします」=“Thank you. ...Please take care of me.”

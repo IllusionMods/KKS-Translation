@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うん、悪くなかったわ……ありがとう」=
-//「そうね、これで十分満足できたわ」=
-//「そうね、これでいいと思うわ」=
-//「塗ってくれないの？　何か理由でもあるのかしら」=
+「うん、悪くなかったわ……ありがとう」=“Yep, that wasn't bad... thanks.”
+「そうね、これで十分満足できたわ」=“Yep, that was more than enough.”
+「そうね、これでいいと思うわ」=“Yep, I think that's fine.”
+「塗ってくれないの？　何か理由でもあるのかしら」=“You're not going to do it? Any particular reason?”

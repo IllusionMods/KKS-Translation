@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねぇ……部屋に入れて欲しいのだけど」=
-SELECTION:「返事をする」=Respond
+「ねぇ……部屋に入れて欲しいのだけど」=“Hey... Let me in, I want to come inside.”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「こんな時間にどうしたの？　何かあった？」=
-//「何かは、これからあるのよ」=
-//「彼女が彼氏の部屋に来たんだから、そういうサインだって分かってほしいわ」=
-//「いないのかしら？　仕方がないわね……」=
+「こんな時間にどうしたの？　何かあった？」=“What's up? It's pretty late, you know? Did something happen?”
+「何かは、これからあるのよ」=“No, but something is going to happen.”
+「彼女が彼氏の部屋に来たんだから、そういうサインだって分かってほしいわ」=“I'm your girlfriend and I've come to your room, so atleast understand that it's that sort of a situation.”
+「いないのかしら？　仕方がないわね……」=“Are you not in there? I guess that's that then...”

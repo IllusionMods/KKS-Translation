@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「二人でのんびり浜辺を散策するのも悪くないね」=
-//「こういうのんびりした時間、都会じゃ味わえないわね」=
-//「それにしても、色んな貝殻が落ちてるなぁ」=
-//「ふふ、どれも綺麗だわ」=
-//「でも、[H名]さんの方が綺麗だよ」=
-//「まったく、調子のいいことを言って……」=
-//「いやぁ、照れた顔も可愛くて最高だね！」=
+「二人でのんびり浜辺を散策するのも悪くないね」=“Strolling along the beach like this isn't bad either, huh?”
+「こういうのんびりした時間、都会じゃ味わえないわね」=“You can't really savour leisurely time like this back in the city at all.”
+「それにしても、色んな貝殻が落ちてるなぁ」=“Still, there's all kinds of sea shells around the place, huh?”
+「ふふ、どれも綺麗だわ」=“Fufuh, they're all very pretty.”
+「でも、[H名]さんの方が綺麗だよ」=“But not as pretty as you, [H名]-san.”
+「まったく、調子のいいことを言って……」=“Jeez, you and your cheeky lines...”
+「いやぁ、照れた顔も可愛くて最高だね！」=“Man~, you're adorable when you're blushing too!”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここは観光向きのスポットね」=
-//「空と海が繋がってるみたいに見えるよ」=
-//「ふふっ、案外ロマンチックな事言うのね」=
-//「そりゃ、俺は生まれついてのロマンチストだからね」=
-//「そういう所、嫌いじゃないわ。……ううん、むしろ好きよ」=
+「ここは観光向きのスポットね」=“This place really is made for sightseeing.”
+「空と海が繋がってるみたいに見えるよ」=“Almost looks like the sky and the sea are one thing.”
+「ふふっ、案外ロマンチックな事言うのね」=“Fufuh--, you say some romantic things sometime.”
+「そりゃ、俺は生まれついてのロマンチストだからね」=“Of course, I was born romantic.”
+「そういう所、嫌いじゃないわ。……ううん、むしろ好きよ」=“I don't hate that side of you. ...No, I love it.”

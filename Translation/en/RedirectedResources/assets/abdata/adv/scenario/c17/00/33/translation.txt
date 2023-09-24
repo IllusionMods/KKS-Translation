@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「まあ、退屈はしなかったわ。それじゃ、これで」=
+「まあ、退屈はしなかったわ。それじゃ、これで」=“Well, it wasn't boring, atleast. Well then, I'll be off.”

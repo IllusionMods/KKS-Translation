@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここにあるオイル、全部自由に使っていいみたいだよ」=
-//「美容オイルね……日差しも強いし、丁度いいかも知れないわ」=
-//「だったら、俺が塗ってあげるよ」=
-//「あなたが？　……ここは素直に受け入れるわ。お願いしていいかしら」=
-//「大丈夫、任せて」=
+「ここにあるオイル、全部自由に使っていいみたいだよ」=“Seems like we can use all the oil here freely.”
+「美容オイルね……日差しも強いし、丁度いいかも知れないわ」=“Beauty oil, huh... the sun's really making itself known today too, so it might just be perfect.”
+「だったら、俺が塗ってあげるよ」=“Lemme rub it on you then.”
+「あなたが？　……ここは素直に受け入れるわ。お願いしていいかしら」=“You? ...I suppose I'll just accept the offer. Do you mind?”
+「大丈夫、任せて」=“Nope, leave it to me.”

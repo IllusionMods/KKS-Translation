@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どんなシーサーが作れるか、楽しみだな」=
-//「でも結局、シーサーはシーサーでしょ？　そんなに変わらないんじゃない？」=
-//「違うよ、俺はもっとすごいシーサーを作るんだ。こう、目で光線を反射するような」=
-//「……何を言ってるの？　粘土では無理よ」=
-//「これはただの粘土じゃないんだよ。特殊な鉱石っていう設定で――」=
-//「そう……あなたが楽しいなら、それでいいと思うわ」=
+「どんなシーサーが作れるか、楽しみだな」=“Man, I'm excited to see what sort of shisa's gonna come out from this.”
+「でも結局、シーサーはシーサーでしょ？　そんなに変わらないんじゃない？」=“At the end of the day, a shisa is a shisa, no? Does it make that much of a difference?”
+「違うよ、俺はもっとすごいシーサーを作るんだ。こう、目で光線を反射するような」=“It does, because I'm making a much more amazing shisa. Mine will shoot lasers out of its eyes.”
+「……何を言ってるの？　粘土では無理よ」=“...What're you saying? It's just clay, it's not going to do that.”
+「これはただの粘土じゃないんだよ。特殊な鉱石っていう設定で――」=“Nope, it's not just clay. See, the idea is that it has some really special ore within and--”
+「そう……あなたが楽しいなら、それでいいと思うわ」=“I see... as long as you're enjoying yourself.”

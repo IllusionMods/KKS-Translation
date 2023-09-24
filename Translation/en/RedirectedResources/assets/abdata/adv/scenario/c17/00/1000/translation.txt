@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へぇ、カップルジュースか。[H名]さん、試しに飲んでみない？」=
-//「それで、１口飲んでみてどうだった？」=
-//「そうね……ジュース自体はただのトロピカルフルーツジュースなのね」=
-//「もっと特別なものかと思っていただけに、ちょっとだけ残念だわ」=
-//「まあまあ、そんなこと言わないでよ」=
-//「カップルジュースって、どちらかといえば雰囲気を楽しむものだろうし」=
-//「こうやって同じグラスでジュースを飲むのはいかにもカップルって感じがしない？」=
-//「……それは否定しないわ」=
-//「視線を上げたら、あなたの顔がものすごく近くにあったから」=
-//「想像していたよりもずっと照れくさくて、今もまだドキドキしているもの」=
-//「恋人同士でも、こんなに顔を近づけるなんて滅多にないし……」=
-//「気に入ってくれた？」=
-//「ノーコメントで」=
-//「それよりも、もったいないから残りも飲んでしまいましょう？」=
-//「あなたが飲まないなら、私一人で飲んでしまうわよ」=
-//「ああっ、待って！　もちろん飲むから！」=
-//「でも、なんだかんだ言って気に入ってくれたみたいで安心したよ」=
-//「だから、ノーコメントだってば！　もう……」=
+「へぇ、カップルジュースか。[H名]さん、試しに飲んでみない？」=“Heh, a couples' juice, huh? Wanna try ordering it, [H名]-san?”
+「それで、１口飲んでみてどうだった？」=“So then, how was it?”
+「そうね……ジュース自体はただのトロピカルフルーツジュースなのね」=“Let's see... so the juice itself is just normal tropical juice, huh?”
+「もっと特別なものかと思っていただけに、ちょっとだけ残念だわ」=“I thought it was going to be something a bit more special, it's a bit disappointing.”
+「まあまあ、そんなこと言わないでよ」=“C'mon, don't say that.”
+「カップルジュースって、どちらかといえば雰囲気を楽しむものだろうし」=“Especially since a drink like this is more to enjoy the mood than anything else, really.”
+「こうやって同じグラスでジュースを飲むのはいかにもカップルって感じがしない？」=“Doesn't drinking from the same glass like this feel like a really couple thing to do?”
+「……それは否定しないわ」=“...I can't deny that, no.”
+「視線を上げたら、あなたの顔がものすごく近くにあったから」=“I looked up and there your face was, oh so close to mine.”
+「想像していたよりもずっと照れくさくて、今もまだドキドキしているもの」=“It was so much more embarrassing than I thought it'd be, my heart's still pounding a bit.”
+「恋人同士でも、こんなに顔を近づけるなんて滅多にないし……」=“Even if we love each other, we don't get all this close all that often so...”
+「気に入ってくれた？」=“So, you like it then?”
+「ノーコメントで」=“No comment.”
+「それよりも、もったいないから残りも飲んでしまいましょう？」=“Forget that, it'd be a waste not to finish it, so let's keep drinking?”
+「あなたが飲まないなら、私一人で飲んでしまうわよ」=“If you're not gonna drink it, I'll finish it by myself.”
+「ああっ、待って！　もちろん飲むから！」=“Aah--, wait! Of course I'll drink!”
+「でも、なんだかんだ言って気に入ってくれたみたいで安心したよ」=“But, still, you're saying all that but I'm glad you like it.”
+「だから、ノーコメントだってば！　もう……」=“I told you, no comment! Jeez...”

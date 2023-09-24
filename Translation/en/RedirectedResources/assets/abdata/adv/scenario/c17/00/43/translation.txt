@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「無心になって三線を弾くのって、結構楽しいね」=
-//「そうね。自分でもそれなりに弾けてるのが意外だわ」=
-//「やっぱり音楽ってノリが重要だからね。一緒にノれるって楽しいよ」=
-//「私とあなたじゃノリは違うと思うけど、三線に関しては賛成するわ」=
-//「三線と賛成……駄洒落じゃないよね？」=
-//「バカなことを言ってると、口きいてあげないわよ」=
+「無心になって三線を弾くのって、結構楽しいね」=“It's pretty fun to just go zen and play it, isn't it?”
+「そうね。自分でもそれなりに弾けてるのが意外だわ」=“Yeah. I'm surprised I'm even able to play it this well.”
+「やっぱり音楽ってノリが重要だからね。一緒にノれるって楽しいよ」=“With music, getting into it really is the most important. Especially if you get into it with someone else.”
+「私とあなたじゃノリは違うと思うけど、三線に関しては賛成するわ」=“I'm pretty sure you and I operate on fairly different wavelengths, but I can agree with that as far as playing a sanshin goes.”
+「三線と賛成……駄洒落じゃないよね？」=“Sanshin and agree (sansei)... that wasn't a pun, was it?”
+「バカなことを言ってると、口きいてあげないわよ」=“If you keep babbling about that nonsense, I'll stop replying.”
