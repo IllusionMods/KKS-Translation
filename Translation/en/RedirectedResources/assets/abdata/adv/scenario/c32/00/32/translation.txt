@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「気持ちいいですね、心が洗われていきます」=
-//「そうだね、これぞパワースポットって感じがするな」=
-//「ここで癒され、力を貰い、あなたと過ごす活力へ繋げていければと思います」=
-//「はは、それじゃ、俺も沢山貰っていかないとかな」=
+「気持ちいいですね、心が洗われていきます」=“It feels great, doesn't it? I feel my heart being cleansed.”
+「そうだね、これぞパワースポットって感じがするな」=“Yeah. This is what a powerspot's all about, isn't it?”
+「ここで癒され、力を貰い、あなたと過ごす活力へ繋げていければと思います」=“Personally, I want to receive it's power and healing effect, so that I can have the energy to spend even more time together.”
+「はは、それじゃ、俺も沢山貰っていかないとかな」=“Hahah, well then, I'm gonna have to receive lots of its power too for that.”

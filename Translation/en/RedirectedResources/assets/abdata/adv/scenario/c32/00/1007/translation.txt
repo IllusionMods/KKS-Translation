@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「わぁ、綺麗だね」=
-//「本当に綺麗ですね……夢中になってしまいそうです」=
-//「う～ん、こういうところで泳いでみたいね……」=
-//「はい……スキューバダイビングをやってみたくなります」=
-//「うん、楽しそうだ。機会があれば二人でチャレンジしてみよう！」=
-//「……溺れたら、助けてくれますか？」=
-//「そ、そんな心配しなくても大丈夫だと思うけど……もちろん絶対助けるよ！」=
-//「ありがとうございます。でも、この辺りの海なら、素潜りするだけでもこの光景が見られそうですね」=
-//「そうだね。時間が出来れば、一緒に行こう」=
-//「……ふふ」=
-//「ん？　どうしたの？」=
-//「……私たち、お付き合いしてるんだなと思いまして」=
-//「え？　実際付き合ってるでしょ？　どうして改めてそう思ったの？」=
-//「『一緒にしよう』って……ちゃんと誘ってくれたじゃないですか」=
-//「それがどうしたの？」=
-//「私と一緒にいることを、心から楽しんでくれてるんだと実感できたんです」=
-//「うん、最高に楽しいよ！　だから、ずーっと一緒にいようね」=
-//「はいっ。一緒にいて下さいね」=
+「わぁ、綺麗だね」=“Wah, it's beautiful, isn't it?”
+「本当に綺麗ですね……夢中になってしまいそうです」=“It really is... I think I'm going to lose myself in it.”
+「う～ん、こういうところで泳いでみたいね……」=“Nnn~, makes you wanna go take a dip, doesn't it...”
+「はい……スキューバダイビングをやってみたくなります」=“Yes... I'd love to try going scuba diving in there.”
+「うん、楽しそうだ。機会があれば二人でチャレンジしてみよう！」=“Yep, that sounds fun. Let's try it out if we get the chance!”
+「……溺れたら、助けてくれますか？」=“...Will you save me, if I drown?”
+「そ、そんな心配しなくても大丈夫だと思うけど……もちろん絶対助けるよ！」=“I-I don't think you need to worry that much... but of course I would!”
+「ありがとうございます。でも、この辺りの海なら、素潜りするだけでもこの光景が見られそうですね」=“Thank you very much. But, with the waters around here, I imagine you could easily see a sight like this just going skin diving even.”
+「そうだね。時間が出来れば、一緒に行こう」=“Yeah. Let's do it together, if time allows.”
+「……ふふ」=“...Fufuh.”
+「ん？　どうしたの？」=“Nn? What's wrong?”
+「……私たち、お付き合いしてるんだなと思いまして」=“...I just thought that, "ah, we really are going out, huh?".”
+「え？　実際付き合ってるでしょ？　どうして改めてそう思ったの？」=“Eh? I mean, we are, no? Not sure I get the reason why.”
+「『一緒にしよう』って……ちゃんと誘ってくれたじゃないですか」=“You asked me, no?... "Let's do it together".”
+「それがどうしたの？」=“What about it?”
+「私と一緒にいることを、心から楽しんでくれてるんだと実感できたんです」=“It made me realize that you really do enjoy being with me, with your heart.”
+「うん、最高に楽しいよ！　だから、ずーっと一緒にいようね」=“Yep, it's very fun for me! So let's always be together, okay?”
+「はいっ。一緒にいて下さいね」=“Yes--! Please always be with me.”

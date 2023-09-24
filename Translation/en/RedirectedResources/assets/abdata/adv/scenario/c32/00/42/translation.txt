@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「色々な模様があって、どれを選べばいいか迷いますね」=
-//「うーん、とりあえず最初だし簡単そうなものから選ぼうかな」=
-//「そうですね、では手始めに……私はこれにしてみます」=
-//「あぁ、確かに模様も多くないしよさそうだね」=
-//「はい、ここから少しずつ慣れていきたいですね」=
+「色々な模様があって、どれを選べばいいか迷いますね」=“There's so many patterns, it's quite hard to pick which ones to use, isn't it?”
+「うーん、とりあえず最初だし簡単そうなものから選ぼうかな」=“Nnnn, it's our first time so I think we should stick to the easier looking ones.”
+「そうですね、では手始めに……私はこれにしてみます」=“Indeed, well then, I shall... go with this one.”
+「あぁ、確かに模様も多くないしよさそうだね」=“Aah, it doesn't seem that intricate either, looks pretty simple.”
+「はい、ここから少しずつ慣れていきたいですね」=“Yes, I'm thinking of using this to slowly get used to it.”

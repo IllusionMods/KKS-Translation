@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お慕いって、俺の事、好きってこと……？」=
-//「はい、好きです。心から愛しています」=
-//「なかなか情熱的だね……そこまで慕われてるなら、俺も応えてあげなくちゃね」=
-//「それは……私とお付き合いしてくれる、という事でよろしいのでしょうか？」=
-//「うん、こちらこそ、これからもよろしくね」=
-//「……ありがとうございます。私、あなたの為に、より励んでいきたいと思います」=
+「お慕いって、俺の事、好きってこと……？」=“Adore, so you mean you love me...?”
+「はい、好きです。心から愛しています」=“Yes, I do. I love you from the bottom of my heart.”
+「なかなか情熱的だね……そこまで慕われてるなら、俺も応えてあげなくちゃね」=“That's pretty passionate of you... Well then, if you 'adore' me that much then I gotta answer you in kind too, don't I?”
+「それは……私とお付き合いしてくれる、という事でよろしいのでしょうか？」=“Can I... take that to mean that you'll go out with me?”
+「うん、こちらこそ、これからもよろしくね」=“Yeah, let's take care of each other, okay?”
+「……ありがとうございます。私、あなたの為に、より励んでいきたいと思います」=“...Thank you very much. I will do my best, more than my best, for you.”

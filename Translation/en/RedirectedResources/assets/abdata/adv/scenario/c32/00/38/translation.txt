@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さーて、何を借りてみようかな」=
-//「私は、あなたと一緒に出来るものなら何でもいいですよ？」=
-//「俺もかな。でもそれは大前提で、やっぱ二人で楽しめるものを選びたいじゃん？」=
-//「そうですね。私も、あなたと共に楽しんで、思い出を作っていきたいと思っています」=
+「さーて、何を借りてみようかな」=“Now then, what should we rent?”
+「私は、あなたと一緒に出来るものなら何でもいいですよ？」=“I don't particularly have any preferences, you know? As long as we're together, I don't really care.”
+「俺もかな。でもそれは大前提で、やっぱ二人で楽しめるものを選びたいじゃん？」=“Same for me. But if we go with that as a prerequisite, then we'd wanna pick something that we both can enjoy, no?”
+「そうですね。私も、あなたと共に楽しんで、思い出を作っていきたいと思っています」=“You're right. I also wish to, have fun with you and, make lots of memories together.”

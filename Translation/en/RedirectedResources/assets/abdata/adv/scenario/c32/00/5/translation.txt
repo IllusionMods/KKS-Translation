@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そうですね、そろそろしてもいい頃合いだと思っていました」=
-//「うん、俺達付き合ってるんだし、一歩踏み出した関係を、ってね」=
-//「はい。それに、あなたに誘われて、心なしか高ぶっている自分がいます……」=
-//「……ダメです、我慢出来そうにありません。早く、私を求めて下さい……」=
+「そうですね、そろそろしてもいい頃合いだと思っていました」=“Indeed, I did think it was getting about time for us to do the deed.”
+「うん、俺達付き合ってるんだし、一歩踏み出した関係を、ってね」=“Yeah, we're dating and everything, so let's take the next step, okay?”
+「はい。それに、あなたに誘われて、心なしか高ぶっている自分がいます……」=“Yes. Not to mention, since you asked, I feel my heart throbbing a lot faster...”
+「……ダメです、我慢出来そうにありません。早く、私を求めて下さい……」=“...This is not good, I don't think I can control myself. Please, take me...”

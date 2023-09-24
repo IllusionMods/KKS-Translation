@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あなたと一緒に食べれて、お腹も心も幸せです」=
+「あなたと一緒に食べれて、お腹も心も幸せです」=“Both my belly and my heart feel very blissful right now, since we got to eat together?”

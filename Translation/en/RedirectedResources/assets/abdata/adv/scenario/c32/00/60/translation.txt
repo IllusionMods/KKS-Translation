@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「……夜分遅くにすみません」=
-SELECTION:「返事をする」=Respond
+「……夜分遅くにすみません」=“...I'm sorry for bothering you so late at night.”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-「どうしたの？」=“What's up?”
-//「どうしてもあなたに触れたくなってしまい、居ても立っても居られず押しかけてしまいました」=
-//「どうか、この卑しい女のわがままをお許し下さい……」=
-//「留守、ですか……」=
+「どうしたの？」=“What's wrong?”
+「どうしてもあなたに触れたくなってしまい、居ても立っても居られず押しかけてしまいました」=“I just started craving your touch so badly, I tried but couldn't endure it, so now I'm here, uninvited.”
+「どうか、この卑しい女のわがままをお許し下さい……」=“Please, find it in your heart to forgive this lowly woman's willfulness...”
+「留守、ですか……」=“Are you, not in...”

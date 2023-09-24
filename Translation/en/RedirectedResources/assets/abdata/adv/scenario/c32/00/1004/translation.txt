@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「浜辺を散歩しようよ」=
-//「本当に綺麗な海だね」=
-//「はい。砂浜もきめ細やかで、サラサラで……足首まで埋まってしまいそうです」=
-//「歩いていて気持ちいいね」=
-//「見て下さい、足跡がこんなにクッキリ残っていますよ」=
-//「私たちが歩いた軌跡です……ふふ、なんだか感慨深いと思いませんか？」=
-//「……うん、２つの足跡が並んで続いてるね」=
-//「こうして、ずっと並んで歩いていけるといいですね」=
-//「この先、どんな道を歩いていくんだろう？」=
-//「ふふ、どうなんでしょうね？　でも、いつまでも並んで歩いていくことだけは決まっています」=
-//「いつまでも、いつまでも……ずっと一緒にです……」=
-//「……自分の足跡で感動できるなんて、思ってもいなかったよ」=
-//「ふふ、感動してくれてありがとうございます。私、この先もあなたと一緒に歩いて行きますね」=
-//「……あ、でも波で、足跡が消えちゃう」=
-//「それは……仕方がありません。記憶が薄れることもあります。でも、思い出は消えません」=
-//「あなたと一緒にいたこと、一緒に感じたことが何よりも大切なんですから」=
-//「……ここに来てよかった。本当に、嬉しいよ」=
-//「ふふ、よかったです……それでは、このままズンズン歩いていきましょう」=
-//「うん、二人の足跡を、どんどん残して行こうね」=
+「浜辺を散歩しようよ」=“Let's take a walk down the beach.”
+「本当に綺麗な海だね」=“It really is one pretty sea, isn't it?”
+「はい。砂浜もきめ細やかで、サラサラで……足首まで埋まってしまいそうです」=“Yes. The shore is so smooth and free flowing as well... it almost feel like my feet are going to dig into it.”
+「歩いていて気持ちいいね」=“Feels great to walk along it, doesn't it?”
+「見て下さい、足跡がこんなにクッキリ残っていますよ」=“Please look, our footprints are still so clearly present behind us.”
+「私たちが歩いた軌跡です……ふふ、なんだか感慨深いと思いませんか？」=“The path we've walked... fufuh, do you not find it moving?”
+「……うん、２つの足跡が並んで続いてるね」=“...Yeah, our footprints are going on and on, next to each other.”
+「こうして、ずっと並んで歩いていけるといいですね」=“It'd be nice if we can keep walking together like this forever.”
+「この先、どんな道を歩いていくんだろう？」=“I wonder what sort of path we have before us?”
+「ふふ、どうなんでしょうね？　でも、いつまでも並んで歩いていくことだけは決まっています」=“Fufuh, who knows? But, the one sure thing is that we'll walk across it together.”
+「いつまでも、いつまでも……ずっと一緒にです……」=“Together, forever... we'll be together forever...”
+「……自分の足跡で感動できるなんて、思ってもいなかったよ」=“...I didn't think I'd feel this moved over our own footprints, honestly.”
+「ふふ、感動してくれてありがとうございます。私、この先もあなたと一緒に歩いて行きますね」=“Fufuh, I really appreciate that you did though. I'll keep walking alongside you no matter what happens, okay?”
+「……あ、でも波で、足跡が消えちゃう」=“...Ah, but the waves are gonna wash them away.”
+「それは……仕方がありません。記憶が薄れることもあります。でも、思い出は消えません」=“That's... something we can't help. Even memories fade. But they won't stop existing.”
+「あなたと一緒にいたこと、一緒に感じたことが何よりも大切なんですから」=“Because to me, the time we've spent together and the things we've experienced are my biggest treasures.”
+「……ここに来てよかった。本当に、嬉しいよ」=“...I'm glad we came here. Seriously, I'm very glad we did.”
+「ふふ、よかったです……それでは、このままズンズン歩いていきましょう」=“Fufuh, great... well then, let's keep walking along, shall we?”
+「うん、二人の足跡を、どんどん残して行こうね」=“Yeah, let's keep laying down more footsteps together.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私はコレを頼んでみます」=
-//「む、ソレもいいなぁ。でもこっちも捨てがたいし……」=
-//「小皿を頼んで分けましょうか？　それとも、あーーーん、しましょうか？」=
-//「……後者をお願いします」=
+「私はコレを頼んでみます」=“I think I will try this.”
+「む、ソレもいいなぁ。でもこっちも捨てがたいし……」=“Muh, that sounds good too. But I wanna try this too...”
+「小皿を頼んで分けましょうか？　それとも、あーーーん、しましょうか？」=“Shall we ask for some small plates as well then? Or would you rather that I fed you some of it?”
+「……後者をお願いします」=“...The latter, please.”

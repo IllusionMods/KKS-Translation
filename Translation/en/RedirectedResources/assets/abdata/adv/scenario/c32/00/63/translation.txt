@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「とても気持ちよかったです、お上手でした」=
-//「また塗ってほしいです。その時も是非あなたに」=
-//「ありがとうございました、次もよろしくお願いします」=
-//「仕方ありません、また次の機会にお願いします」=
+「とても気持ちよかったです、お上手でした」=“That felt wonderful, you were really good at it.”
+「また塗ってほしいです。その時も是非あなたに」=“I'd love to have this done again soon. Of course, by you.”
+「ありがとうございました、次もよろしくお願いします」=“Thank you very much, please do it next time as well.”
+「仕方ありません、また次の機会にお願いします」=“It cannot be helped, please do it another time.”

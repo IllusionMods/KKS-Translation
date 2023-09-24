@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少しずつ上達している感じがしますが、もっともっと練習していきましょう」=
+「少しずつ上達している感じがしますが、もっともっと練習していきましょう」=“I do feel like I'm getting the hang of it bit by bit but, let's keep practicing more and more.”
