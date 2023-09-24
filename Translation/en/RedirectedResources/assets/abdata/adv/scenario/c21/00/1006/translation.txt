@@ -15,7 +15,7 @@
 「だね」=“Yeah.”
 （ええと……この場合は恋……ウムイの神様かな？　これからも[H名]と仲良く、ずっと一緒にいられますように……）=(Erhm... in this situation, would it be the god of love... no, the god of the bell? Please let us keep getting along, and keep being together...)
 「むむむ……」=“Mumumuh...”
-（まだ祈ってる……しかもむむむとか言ってる、可愛い……）=(She's still praying... she's even going "mumumuh", so cute....)
+（まだ祈ってる……しかもむむむとか言ってる、可愛い……）=(She's still praying... she's even going "mumumuh", so cute...)
 「ふ～～……あっ、ごめん、待たせちゃった？」=“Fuuuh~~... ah--, sorry, did I take too long?”
 「いや、今祈り終わったところ」=“No, I just finished myself.”
 「あはは、デートの待ち合わせみたい」=“Ahahah, that's like if we were meeting up for a date.”

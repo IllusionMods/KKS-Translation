@@ -3,7 +3,7 @@
 //
 「ねぇ、キミの部屋まで来ちゃったんだけど、入っても大丈夫？」=“Hey, I came all the way here, can I come in?”
 SELECTION:「返事をする」=Answer her.
-SELECTION:「……」=.......
+SELECTION:「……」=...
 「どうしたの？」=“What's wrong?”
 「えっとね……キミと、一緒に過ごしたいなぁって思って……」=“Erhm, so... I just wanted to, spend the night in your room...”
 「エッチな事しても大丈夫だから……好きにしていいよ」=“You can do lewd stuff to me if you want... really, have your way with me.”

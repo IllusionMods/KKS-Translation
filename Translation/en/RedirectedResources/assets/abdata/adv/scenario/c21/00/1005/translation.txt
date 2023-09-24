@@ -19,7 +19,7 @@
 「え……？　わっ、ご、ごめん！」=“Eh...? Wah--, s-sorry!”
 「だ、だいじょぶ！　ほら、えと、変な雰囲気出してもあれだし、踊ろ踊ろ♪」=“I-It's okay! It's uhm, you know, no point in making things weird here so, let's just dance♪”
 「だ、だね」=“Y-Yeah.”
-「うん、あはは……えっと、あとで謝らなくていいからね？　ほら、手は繋いでたでしょ？　だから一緒……じゃないけど、不可抗力！」=“Yeah, ahahah.... erhm, you don't need to apologize or anything later, okay? I mean, we were holding hands before, no? So it's... well, it's not the same but, really it was an act of god!”
+「うん、あはは……えっと、あとで謝らなくていいからね？　ほら、手は繋いでたでしょ？　だから一緒……じゃないけど、不可抗力！」=“Yeah, ahahah... erhm, you don't need to apologize or anything later, okay? I mean, we were holding hands before, no? So it's... well, it's not the same but, really it was an act of god!”
 「そう言ってもらえると助かるな」=“I'm very thankful that my girlfriend is so understanding.”
 「抱きとめてくれて嬉しかったし、男の子だなーって思っちゃったし……だから、私の方が得してるかも！　だから、その、ふたりともラッキー！」=“It made me happy when you caught me, and I really felt how manly you are so... so, really, I might have come out ahead! So, uhm, we both got lucky there!”
 「と、とにかく[H名]が転んで怪我しなくてよかったよ。このまま……曲が終わるまで踊ろう」=“E-Either way, I'm glad you didn't hurt yourself. Let's just... dance until the song's over.”
