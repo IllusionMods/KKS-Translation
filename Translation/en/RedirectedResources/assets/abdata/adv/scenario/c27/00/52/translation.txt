@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ごちそうさま。次来た時は何を食べようかしらね？」=
+「ごちそうさま。次来た時は何を食べようかしらね？」=“That was great. Now, the question is, what should we eat the next time we come?”

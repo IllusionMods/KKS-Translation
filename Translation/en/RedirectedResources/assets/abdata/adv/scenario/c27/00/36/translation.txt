@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さーて何しようかなぁ……」=
-//「何しようかしらねぇ……」=
-//「せっかく来たんだし、海に入ってみる？」=
-//「え、あ、あんたと一緒に？」=
-//「そりゃぁ二人で来たんだし……？」=
-//「そ、そうよね……べ、別に気後れてるわけじゃないからね！」=
+「さーて何しようかなぁ……」=“Now then, what should we do~...”
+「何しようかしらねぇ……」=“What should we do indeed~...”
+「せっかく来たんだし、海に入ってみる？」=“Well, wanna go take a dip?”
+「え、あ、あんたと一緒に？」=“Eh, t-together?”
+「そりゃぁ二人で来たんだし……？」=“I mean, we came here together so...?”
+「そ、そうよね……べ、別に気後れてるわけじゃないからね！」=“R-Right, of course... i-it's not like I'm losing my nerve or anything, alright!?”

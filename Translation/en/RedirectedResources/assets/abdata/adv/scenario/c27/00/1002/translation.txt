@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お、卓球台だ。ひと勝負していこうよ」=
-//「さあ、いつでもいいわよ！」=
-//「その意気込みは一体……」=
-//「あんたが勝負しようって言ったんでしょ？　真剣勝負、受けて立つわ」=
-//（なるほど、言葉通りとったか……）=
-//「いくわよ！　それじゃあ、古今東西……甘いものっ」=
-//「土壇場でルール追加してきた！」=
-//「やった！　私の勝ちね」=
-//「[H名]の勝利への執念に屈した、って感じだよ……」=
-//「ところで、勝ったら何かいいことあるの？」=
-//「そういうの決める前に試合が始まっちゃったから」=
-//「……言われてみればそうね。あーあ、決めておけばよかった」=
-//「それじゃ負けた方は勝った方の奴隷ってことで。煮るなり焼くなりご自由にどうぞ」=
-//「ほ、本当にいいのね？　そ、それじゃ……えぇと、どうしよう……？」=
-//「俺に聞かれても……[H名]がしてほしいことを言えばいいんだよ」=
-//「そんなこと、言えるわけないじゃない！」=
-//（言えないようなことなんだ……）=
+「お、卓球台だ。ひと勝負していこうよ」=“Oh, it's a ping pong table. Let's have a match, c'mon.”
+「さあ、いつでもいいわよ！」=“Alright, come at me whenever you want!”
+「その意気込みは一体……」=“Just where is that enthusiasm even...”
+「あんたが勝負しようって言ったんでしょ？　真剣勝負、受けて立つわ」=“You're the one who said "match", no? You're on then, I'm gonna get serious.”
+（なるほど、言葉通りとったか……）=(I see, so she took it literally, huh...)
+「いくわよ！　それじゃあ、古今東西……甘いものっ」=“Here I come! Well then, I spy uh... a round thing--!”
+「土壇場でルール追加してきた！」=“An eleventh hour rule change?!”
+「やった！　私の勝ちね」=“Yay! I win.”
+「[H名]の勝利への執念に屈した、って感じだよ……」=“More like your tenacity for victory made me yield...”
+「ところで、勝ったら何かいいことあるの？」=“By the way, do I get anything nice for winning?”
+「そういうの決める前に試合が始まっちゃったから」=“We didn't even decide on anything before we started, so.”
+「……言われてみればそうね。あーあ、決めておけばよかった」=“...Now that you say it, we didn't. Aaah, we really should have.”
+「それじゃ負けた方は勝った方の奴隷ってことで。煮るなり焼くなりご自由にどうぞ」=“Well then, let's just make the loser a slave to the winner. Please order me however you desire, my lady.”
+「ほ、本当にいいのね？　そ、それじゃ……えぇと、どうしよう……？」=“Y-You're really fine with that, right? W-Well then... erhm, what do I ask for...?”
+「俺に聞かれても……[H名]がしてほしいことを言えばいいんだよ」=“Even if you ask me... It's fine, just ask me anything you want me to do, [H名].”
+「そんなこと、言えるわけないじゃない！」=“I can't say something like that out loud!”
+（言えないようなことなんだ……）=(It's something she can't say, huh...)

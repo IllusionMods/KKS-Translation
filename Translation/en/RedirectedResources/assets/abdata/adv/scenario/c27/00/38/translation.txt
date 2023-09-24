@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「っと……なかなか難しそうね、これ……」=
-//「大丈夫、いざとなったら俺が[H名]の分まで漕ぐからさ」=
-//「だ、ダメよ……私だって、あんたの役に立ちたいんだから……っ」=
-//「ふふっ、んじゃ少しずつでいいから、二人で頑張ろっか？」=
+「っと……なかなか難しそうね、これ……」=“Oof... this looks pretty darn tiring, doesn't it...”
+「大丈夫、いざとなったら俺が[H名]の分まで漕ぐからさ」=“Don't worry, if it comes to it, I'll row for the both of us.”
+「だ、ダメよ……私だって、あんたの役に立ちたいんだから……っ」=“D-Don't, you can't... I want to be, of use to you too...--!”
+「ふふっ、んじゃ少しずつでいいから、二人で頑張ろっか？」=“Fufuh--, well then, let's do our best together, bit by bit?”

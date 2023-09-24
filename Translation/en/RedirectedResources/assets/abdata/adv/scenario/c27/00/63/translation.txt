@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あ、ありがと……綺麗に、塗ってくれて……」=
-//「ま、まぁまぁだったわよ、うん……」=
-//「ふぅ……まぁ、次もお願いね？」=
-//「ちょっと、何しにここに来たのよ……」=
+「あ、ありがと……綺麗に、塗ってくれて……」=“T-Thanks... for doing it, so nicely...”
+「ま、まぁまぁだったわよ、うん……」=“T-That was pretty so-so, definitely...”
+「ふぅ……まぁ、次もお願いね？」=“Fuuh... well, do it next time too, okay?”
+「ちょっと、何しにここに来たのよ……」=“Hey, what did we even come here for...”

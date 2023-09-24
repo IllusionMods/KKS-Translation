@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと散歩していこうか？」=
-//「…………わあ」=
-//「何か見えた？　鳥とか」=
-//「海よ。見渡す限りひたすら海しかないけど……」=
-//「こういう風景って素敵だなぁ、って眺めてたの」=
-//「リゾート感あるよね」=
-//「……あんた、感受性が死んでるの？」=
-//「す、すいませんっ」=
-//「恋人と二人で浜辺を散歩してるのよ？　もうちょっとムードを作る努力をしなさいよ」=
-//「こっちだって、その…………期待、してるんだから」=
-//「[H名]は可愛いね」=
-//「な、なによ？　ふざけてるの？　私は……」=
-//「本当に思ったことを言っただけだよ。[H名]は恋に前向きで……だから、なのかな？」=
-//「この海みたいにいつもキラキラ輝いて見えるよ」=
-//「ぅ……や、やればできるじゃない」=
-//「いやー、思ったことを言っただけだけど……さすがにちょっと照れくさいね」=
-//「私だって、恥ずかしいわよ……だけど、それを楽しむのが、恋人でしょ？」=
-//「確かにね。じゃあ……しばらくここで、ゆっくりしていようか」=
-「……うん」=“...Yeah.”
+「ちょっと散歩していこうか？」=“Wanna go for a bit of a walk?”
+「…………わあ」=“...Wah.”
+「何か見えた？　鳥とか」=“See something? A bird or whatever?”
+「海よ。見渡す限りひたすら海しかないけど……」=“Yeah, the sea. As far as the eye can see, really...”
+「こういう風景って素敵だなぁ、って眺めてたの」=“I was just thinking to myself, about how lovely this scenery is.”
+「リゾート感あるよね」=“It does feel like a resort, doesn't it?”
+「……あんた、感受性が死んでるの？」=“...Are you emotionally dead or something?”
+「す、すいませんっ」=“I-I'm sorry--.”
+「恋人と二人で浜辺を散歩してるのよ？　もうちょっとムードを作る努力をしなさいよ」=“You're taking a walk down the beach with your girlfriend, you know? Put more effort into making a mood.”
+「こっちだって、その…………期待、してるんだから」=“You know I'm also, uhm... hoping for you to.”
+「[H名]は可愛いね」=“You really are adorable, [H名].”
+「な、なによ？　ふざけてるの？　私は……」=“T-The heck? Are you messing around? I am...”
+「本当に思ったことを言っただけだよ。[H名]は恋に前向きで……だから、なのかな？」=“I just said what I really felt. You've just got such a positive attitude about our love... I wonder if that's why?”
+「この海みたいにいつもキラキラ輝いて見えるよ」=“To me, you're always glittering, just like this sea.”
+「ぅ……や、やればできるじゃない」=“Uu... S-See, you can do it if you try.”
+「いやー、思ったことを言っただけだけど……さすがにちょっと照れくさいね」=“Nah, well~, I only said what I actually felt but... it really is a bit embarrassing.”
+「私だって、恥ずかしいわよ……だけど、それを楽しむのが、恋人でしょ？」=“I'm embarrassed too, dummy... but, enjoying that is, what love is about, no?”
+「確かにね。じゃあ……しばらくここで、ゆっくりしていようか」=“For sure. Then... let's take it easy here for a while, shall we?”
+「……うん」=“...Okay.”

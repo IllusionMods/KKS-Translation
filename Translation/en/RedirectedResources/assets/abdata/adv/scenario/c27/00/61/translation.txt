@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へぇ、ここでエステ体験が出来るのね、オイルもあるわ」=
-//「うん、どう？　折角だから使っていかない？」=
-//「そうね……どうせタダなんだし、って、もしかしてあんたが塗る気……？」=
-//「え、一人じゃ背中とか塗れないでしょ？」=
-//「そ、そうだけど……うぅ……へ、変なとこ触ったら承知しないんだからね……？」=
+「へぇ、ここでエステ体験が出来るのね、オイルもあるわ」=“Heh, so we can have a beauty experience here, huh? They've even got oil.”
+「うん、どう？　折角だから使っていかない？」=“Yep, how about it? We're here so, wanna try it out?”
+「そうね……どうせタダなんだし、って、もしかしてあんたが塗る気……？」=“Hmm, yeah... it's free of charge anyway, wait, are you thinking that you're gonna do it...?”
+「え、一人じゃ背中とか塗れないでしょ？」=“Eh, not like you can rub oil on your own back, no?”
+「そ、そうだけど……うぅ……へ、変なとこ触ったら承知しないんだからね……？」=“Y-You're not wrong but... uuu... I-If you touch me somewhere weird, I really won't forgive you, you know...?”

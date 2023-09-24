@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねぇ、いる……かしら？」=
-SELECTION:「返事をする」=Respond
+「ねぇ、いる……かしら？」=“Hey, are you... there?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「あぁ、入ってきていいよ？」=
-//「お、お邪魔するわね……」=
-//「ほ、ほら、恋人が来てあげたのよ？　……する事くらい、わかるでしょ……？」=
-//「……いない、か……どこ行ったのかしら……」=
+「あぁ、入ってきていいよ？」=“Yeah, feel free to come in, you know?”
+「お、お邪魔するわね……」=“O-Okay then, don't mind me...”
+「ほ、ほら、恋人が来てあげたのよ？　……する事くらい、わかるでしょ……？」=“L-Look, your girlfriend came to see you, you know? ...You're not so dense that, you don't know what to do, right...?”
+「……いない、か……どこ行ったのかしら……」=“...Are you, not?... Where did you go...”

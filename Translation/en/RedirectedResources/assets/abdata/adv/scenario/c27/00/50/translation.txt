@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……うん、美味しい」=
-//「あ……そ、そうね……」=
-//「ん、どうしたの？」=
-//「な、何でもないわよ、ただ……」=
-//「ただ……？」=
-//「その、いつか私の手料理であんたに『美味しい』って言わせたいなって……」=
-//「ははっ、それは待ち遠しいなぁ」=
+「……うん、美味しい」=“...Yep, it's delicious.”
+「あ……そ、そうね……」=“Ah... y-yeah...”
+「ん、どうしたの？」=“Nn, what's wrong?”
+「な、何でもないわよ、ただ……」=“N-Nothing at all, it's just...”
+「ただ……？」=“Just...?”
+「その、いつか私の手料理であんたに『美味しい』って言わせたいなって……」=“It's erhm, I just want to make you say that about my hand cooking someday too, that's all...”
+「ははっ、それは待ち遠しいなぁ」=“Hahah--, I'll be waiting patiently for that then!”

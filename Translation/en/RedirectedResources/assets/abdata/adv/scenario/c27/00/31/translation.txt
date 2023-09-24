@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「不思議よね、１つの滝に過ぎないのに、ずっと見ていたくなるわ……」=
-//「パワースポットと言われているだけのことはあるってことかな？」=
-//「……あんたと一緒に見ているからかしら」=
-//「ん？　何か言った？」=
-//「べ、別に……ほら、もう少し見ていくわよっ」=
+「不思議よね、１つの滝に過ぎないのに、ずっと見ていたくなるわ……」=“It's so weird, isn't it? Even though it's just a waterfall, I can't help but want to look at it forever...”
+「パワースポットと言われているだけのことはあるってことかな？」=“I wonder if that means that there really is a reason why it's called a power spot.”
+「……あんたと一緒に見ているからかしら」=“...Maybe it's because you're here.”
+「ん？　何か言った？」=“Nn? Did you say something?”
+「べ、別に……ほら、もう少し見ていくわよっ」=“N-Not really... c'mon, let's look at it a bit more--!”

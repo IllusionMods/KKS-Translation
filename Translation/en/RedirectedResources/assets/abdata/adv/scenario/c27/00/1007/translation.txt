@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、見て？　あっちの方に変なのがいたわ」=
-//「あはは、変なのじゃわからないよ」=
-//「他に説明のしようがないんだもの。魚の種類とかちっとも詳しくないし」=
-//「それはまあ、俺も……」=
-//「あっ！　あそこにも変なの！」=
-//「変なのばっかりだね」=
-//「土地柄かしら？　珍しい魚がたくさんいるわね」=
-//「と言っても、水族館とかに行き慣れてるわけじゃないんだけど」=
-//「そうだね。水族館って言ったら、やっぱりデートで来る場所ってイメージがあるし」=
-//「……あんたは落ち着いてるみたいだけど、こ、こういう所は行き慣れてたりするの？」=
-//「たとえば、私以外の……」=
-//「や、やっぱりいいわ！　なんでもない。それより……」=
-//「少なくとも、これからは[H名]とだけ来るだろうね」=
-//「そ、そう……じゃなくて、二人きりかはわからないでしょ！」=
-//「先の話だけど……こういうところは家族で来るのも定番、って感じがするし……子供と一緒にとか」=
-//（それはさすがに、だいぶ先の話かな……）=
+「ねぇ、見て？　あっちの方に変なのがいたわ」=“Hey, look. There was a weird one there.”
+「あはは、変なのじゃわからないよ」=“Ahahah, I can't tell which one if you describe it like that.”
+「他に説明のしようがないんだもの。魚の種類とかちっとも詳しくないし」=“I don't know how else to really describe it though. I don't know anything about fish at all.”
+「それはまあ、俺も……」=“Well, it's not like I know any mo...”
+「あっ！　あそこにも変なの！」=“Ah--! There's a weird one there too!”
+「変なのばっかりだね」=“They're all weird, huh?”
+「土地柄かしら？　珍しい魚がたくさんいるわね」=“I wonder if it's just what the place is like? There's lots of fish I've never seen before.”
+「と言っても、水族館とかに行き慣れてるわけじゃないんだけど」=“Then again, I say that but, it's not like I've been to all that many aquariums in my life.”
+「そうだね。水族館って言ったら、やっぱりデートで来る場所ってイメージがあるし」=“Same. Especially since when you think "aquarium", you think "date spot" more than anything else.”
+「……あんたは落ち着いてるみたいだけど、こ、こういう所は行き慣れてたりするの？」=“...You say that but you're really calm. A-Are you used to coming to places like these?”
+「たとえば、私以外の……」=“Maybe with other gir...”
+「や、やっぱりいいわ！　なんでもない。それより……」=“N-Nevermind, it's nothing! It's nothing. Forget that, I wanna...”
+「少なくとも、これからは[H名]とだけ来るだろうね」=“If nothing else, I can promise you that I'll only be coming here with you from now on, [H名].”
+「そ、そう……じゃなくて、二人きりかはわからないでしょ！」=“I-I see... no, I mean, you can't promise that, it won't always just be us!”
+「先の話だけど……こういうところは家族で来るのも定番、って感じがするし……子供と一緒にとか」=“I mean, it's gonna be in the future, but... aquariums are also a family day trip spot, and whatnot... like with kids and all.”
+（それはさすがに、だいぶ先の話かな……）=(That really is gonna be in the far, far future though...)

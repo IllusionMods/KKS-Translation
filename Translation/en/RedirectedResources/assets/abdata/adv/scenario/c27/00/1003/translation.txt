@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっとお土産を見てみようよ」=“Let's have a look at the souvenirs.”
-//「あ、これ……」=
-//「ちんすこうにするの？　やっぱり、お土産の定番って感じするよね」=
-//「有名でしょ？　どこへ行ってきたか一目でわかるから、これがいいかなって」=
-//「だね。そういえば、ちんすこうについてのトリビアがあるんだけど……」=
-//「なに？」=
-//「昔は王様とか貴族しか食べることが出来なかった貴重なお菓子なんだって」=
-//「へぇ、知らなかったわ。そんなありがたいお菓子だったのね」=
-//「それが今じゃたくさん作られて、こうして陳列されてるなんて……」=
-//「当時の貴族の人がこの光景を見たら、どう思うかな？」=
-//「わぁ、お宝だぁ～……とか？　貴重だったなら、喜ぶんじゃない」=
-//「はは、なんか可愛らしい発想だね。俺は怒ると思うなぁ」=
-「どうして？」=“Why's that?”
-//「ワシたちが食べていたものを庶民が食べているだと！　許せん！　……みたいなイメージを持ってたから」=
-//「それは偏見が過ぎるでしょ」=
+「ちょっとお土産を見てみようよ」=“Let's go take a look at the souvenirs a bit.”
+「あ、これ……」=“Ah, this...”
+「ちんすこうにするの？　やっぱり、お土産の定番って感じするよね」=“Thinking of going for the Chinsukos? They are a pretty standard gift from these parts, aren't they?”
+「有名でしょ？　どこへ行ってきたか一目でわかるから、これがいいかなって」=“They're pretty famous, no? Whoever I give these to will know where we went immediately so, I was thinking that maybe I might.”
+「だね。そういえば、ちんすこうについてのトリビアがあるんだけど……」=“Yeah. Reminds me, I've actually got some trivia regarding these...”
+「なに？」=“What?”
+「昔は王様とか貴族しか食べることが出来なかった貴重なお菓子なんだって」=“Apparently in the olden days, they were a prized confection that only the nobility and royalty could eat.”
+「へぇ、知らなかったわ。そんなありがたいお菓子だったのね」=“Heh, I didn't know that. So that's how much they were loved, huh?”
+「それが今じゃたくさん作られて、こうして陳列されてるなんて……」=“To think they'd get mass produced like this in the modern age, and put on display like this...”
+「当時の貴族の人がこの光景を見たら、どう思うかな？」=“What do you think a noble from that time period would think, if they saw this?”
+「わぁ、お宝だぁ～……とか？　貴重だったなら、喜ぶんじゃない」=“Wah~, what a treasure house~... I guess? If it was that prized, wouldn't they be happy?”
+「はは、なんか可愛らしい発想だね。俺は怒ると思うなぁ」=“Hahah, what a lovely way of thinking about it. I think they'd probably get mad.”
+「どうして？」=“Why?”
+「ワシたちが食べていたものを庶民が食べているだと！　許せん！　……みたいなイメージを持ってたから」=“What, peasants, eating the things only we ought to eat!? Unacceptable! ...Is how I imagine them acting in my head.”
+「それは偏見が過ぎるでしょ」=“Now you're just being biased.”

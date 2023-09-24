@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なっ！？　急に何言い出すのよ！」=
-//「その、きみを見ていたら、気持ちが我慢出来なくて……」=
-//「え、エッチって……その、せ、セックスの事、よね……？」=
-//「あぁ、きみとしたいんだ」=
-//「うぅ……し、仕方ないわね……あんたにだけ、特別……だからね……？」=
+「なっ！？　急に何言い出すのよ！」=“Wha--!? What're you even saying, so suddenly?!”
+「その、きみを見ていたら、気持ちが我慢出来なくて……」=“Uhm, I just couldn't keep it in anymore, looking at you...”
+「え、エッチって……その、せ、セックスの事、よね……？」=“S-Sleep together... uhm, y-you mean sex, right...?”
+「あぁ、きみとしたいんだ」=“Yeah, I want to do it with you.”
+「うぅ……し、仕方ないわね……あんたにだけ、特別……だからね……？」=“Uuu... i-it can't be helped... I would never do this, for... anyone else, you know...?”
