@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「このレストラン、気取らない感じで入りやすいよね」=
-//「ええ。ホテルなのに、庶民的な感じがするんだなぁ」=
-//「メニューも一通りそろってるし、味もすごくいいよ」=
-//「ホテルに詳しくないけど、きっと一流っぽいんじゃないかな」=
-//「折角だから、もっと色々頼んでみようか」=
-//「そうだね。食べきれなかったら、二人で分けましょうぞ」=
+「このレストラン、気取らない感じで入りやすいよね」=“It's really easy to come to this place, isn't it? They don't really pretend to be high class or anything.”
+「ええ。ホテルなのに、庶民的な感じがするんだなぁ」=“Yes. Even though it's a hotel, it feels more like a diner, doesn't it?”
+「メニューも一通りそろってるし、味もすごくいいよ」=“The menu's pretty packed too, and the flavour is on point.”
+「ホテルに詳しくないけど、きっと一流っぽいんじゃないかな」=“I don't really know much about hotels but, it's probably pretty high class, no?”
+「折角だから、もっと色々頼んでみようか」=“Since we came here, let's try all sorts of stuff.”
+「そうだね。食べきれなかったら、二人で分けましょうぞ」=“Yeah. And if we can't finish something, let's just share with each other.”

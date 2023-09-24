@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えっ？ エッチしたいって……私達、そういう関係ではないはず……」=
-//「そういう関係じゃなくっても、俺はきみとエッチがしたいんだ」=
-//「そんな硬い意志を示されても……」=
-//「きみは俺とエッチするの、嫌なのか？」=
-//「い、嫌じゃないかな……うん。優しくしてくれるなら……いいよ」=
+「えっ？ エッチしたいって……私達、そういう関係ではないはず……」=“Eh--? Sex... but I don't think we have, a relationship like that...”
+「そういう関係じゃなくっても、俺はきみとエッチがしたいんだ」=“Even if we don't, I still want to have sex with you.”
+「そんな硬い意志を示されても……」=“Telling me how much you want to do it isn't going to...”
+「きみは俺とエッチするの、嫌なのか？」=“Do you hate the idea of doing it with me?”
+「い、嫌じゃないかな……うん。優しくしてくれるなら……いいよ」=“I-I don't really... Okay. As long as you promise to be gentle... we can.”

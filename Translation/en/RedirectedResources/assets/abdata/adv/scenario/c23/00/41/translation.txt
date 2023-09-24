@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「もっともっとあなたと探検してみたいんだなぁ」=
+「もっともっとあなたと探検してみたいんだなぁ」=“I wanna explore a whole lot more of this place with you.”

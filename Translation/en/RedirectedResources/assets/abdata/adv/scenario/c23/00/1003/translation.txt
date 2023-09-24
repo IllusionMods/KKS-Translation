@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょうど良いし、お土産をちょっと覗いて行こうよ」=
-//「ねぇ、[H名]。それはどういうチョイスなのかな？」=
-//「ふっふっふ。これぞ、お土産の定番の文字Ｔシャツですぞー」=
-//「ああ、よくあるよね、そういうの」=
-//「名言的なものもあるけど、インパクト重視でなんだそれ？　って感じのやつ」=
-//「残念ながら、そこまで変なのは売っていなかったよ」=
-//「だから、これ。泡盛！」=
-//「うん。意味がわからないね！」=
-//「いや、お酒のことだってことはわかるけど、Ｔシャツに書く意味がわからないね」=
-//「でも、インパクトは十分。道行く人も思わず二度見すること間違い無しの逸品ですぞ！」=
-//「それで、[H名]はそれを買うの？」=
-//「もちろん。買わない理由がどこにもない」=
-//「うーん……それなら、俺も同じのを買おうかな……」=
-//「え？　あなたも買うのかい？」=
-//「いや、どうせだったらペアルックとかも良いかなって思って」=
-//「……！？」=
-//「まぁ、文字Ｔシャツはちょっと恥ずかしいんだけどね……」=
-//「それでも[H名]とペアなら別に良いかなって」=
-//「い、いきなりそう言うこと言うのは反則なんだなぁ……うぅ、もぅ……」=
+「ちょうど良いし、お土産をちょっと覗いて行こうよ」=“It's as good a time as any, let's go take a look at some souvenirs.”
+「ねぇ、[H名]。それはどういうチョイスなのかな？」=“Hey, [H名]. What sort of choice is that supposed to be?”
+「ふっふっふ。これぞ、お土産の定番の文字Ｔシャツですぞー」=“Fuhfuhfuh. Why, it's a bog standard tourist t-shirt, of course.”
+「ああ、よくあるよね、そういうの」=“Aah, you see those a lot, don't you?”
+「名言的なものもあるけど、インパクト重視でなんだそれ？　って感じのやつ」=“There's ones with wise sayings too but, that's one of those impact-only ones, I see.”
+「残念ながら、そこまで変なのは売っていなかったよ」=“Sadly, they didn't have anything that weird.”
+「だから、これ。泡盛！」=“That's why, this. Awamori!”
+「うん。意味がわからないね！」=“Yep. Can't tell what it's saying at all!”
+「いや、お酒のことだってことはわかるけど、Ｔシャツに書く意味がわからないね」=“No well, I can tell that it's talking about the alcohol but, I don't get why they have it on a t-shirt.”
+「でも、インパクトは十分。道行く人も思わず二度見すること間違い無しの逸品ですぞ！」=“But, it's got plenty of impact. A masterpiece that's sure to turn heads on the street and make people look twice!”
+「それで、[H名]はそれを買うの？」=“So then, you're gonna buy that?”
+「もちろん。買わない理由がどこにもない」=“Of course. I've got no reason not to.”
+「うーん……それなら、俺も同じのを買おうかな……」=“Nnnn... maybe I'll buy the same one then...”
+「え？　あなたも買うのかい？」=“Eh? You too? Why?”
+「いや、どうせだったらペアルックとかも良いかなって思って」=“Well, I was thinking that maybe it wouldn't be so bad to have some matching clothes too.”
+「……！？」=“...!?”
+「まぁ、文字Ｔシャツはちょっと恥ずかしいんだけどね……」=“Though, having those matching clothes be some tourist shirts is a bit embarrassing...”
+「それでも[H名]とペアなら別に良いかなって」=“But I don't really mind that if we're gonna be wearing them together.”
+「い、いきなりそう言うこと言うのは反則なんだなぁ……うぅ、もぅ……」=“T-That's very unfair of you, to say something like that so suddenly... Uuu, jeez...”

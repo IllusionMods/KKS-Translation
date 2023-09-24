@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごく綺麗な滝だね。水も透き通ってるよ」=
-//「パワースポットなんだよね……何か落としたら金と銀を持った女神さまが出てきたりして」=
-//「何を落とすの？」=
-//「スマホとか……お前が落としたのは金のスマホか銀のスマホか？」=
-//「普通のスマホです」=
-//「正直者には金と銀のスマホをあげましょう」=
-//「いや、普通のスマホを返して下さい……」=
+「すごく綺麗な滝だね。水も透き通ってるよ」=“What a beautiful waterfall, even the water's see through.”
+「パワースポットなんだよね……何か落としたら金と銀を持った女神さまが出てきたりして」=“It's a powerspot, isn't it... Bet if you dropped something in there, the lady of the waterfall might come out offering you silver and gold versions.”
+「何を落とすの？」=“What are you gonna drop in there?”
+「スマホとか……お前が落としたのは金のスマホか銀のスマホか？」=“Like my phone maybe... "Was it a gold or a silver smartphone that you dropped in?”
+「普通のスマホです」=“Only a normal smartphone, miss.”
+「正直者には金と銀のスマホをあげましょう」=“To such an honest person, I shall bestow these gold and silver smartphones.”
+「いや、普通のスマホを返して下さい……」=“No, please return my normal smartphone...”

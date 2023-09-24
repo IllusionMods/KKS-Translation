@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと波打ち際を歩いて行こうよ」=
-//「わっ、冷たっ」=
-//「[H名]、大丈夫？」=
-//「うん。ちょっとしぶきを浴びて驚いただけだから、大丈夫」=
-//「でも、南の島とはいえ、不意打ちで水を浴びると冷たく感じますぞ」=
-//「そうだね。実際には結構水温は高いはずなんだけどねぇ」=
-//「実際の温度はともかく、水がかかるだけで反射的に『冷たい！』って言っちゃうよね」=
-//「わかりみが深い。あれってなんなんだろう？　本当に反射的に言ってしまいますぞ」=
-//「でも、完全なお湯の場合は何故か言わないんだよね」=
-//「あるあるネタですな」=
-//「あるあるネタといえば、海に来ると何故か無性に『海だー』と叫びたくなる件」=
-//「しかも、無意味に飛び跳ねながら言いたくなるのも摩訶不思議」=
-//「ああ……漫画とかでよく見かけるテンプレ的なシチュエーションだよね」=
-//「なんだったら、今からでもやってみる？」=
-//「さすがにそれは遠慮するんだなぁ」=
-//「あれは海に来たばかりのときにやるものであって、この状況でやるのはマヌケですぞ」=
-//「そっか、残念。じゃあ、この状況からでもできそうなテンプレ的な展開となら……」=
-//「あー……うん。手でも繋いで歩く……とか？」=
-//「それはアリよりのアリ……かなぁ？」=
-//「せっかく、恋人と浜辺を歩いているわけだし、イチャイチャするにはいいと思うし……」=
-//「じゃあ、もう少しのんびりとここら辺を散歩しようか」=
-//「……ええ。じゃあその……お手をどうぞ？　ってこれは、あなたの台詞ですな……」=
+「ちょっと波打ち際を歩いて行こうよ」=“Let's walk alone the shore a bit.”
+「わっ、冷たっ」=“Wah--, so cold--.”
+「[H名]、大丈夫？」=“You okay, [H名]?”
+「うん。ちょっとしぶきを浴びて驚いただけだから、大丈夫」=“Yeah. The splash of water just surprised me a little, I'm okay.”
+「でも、南の島とはいえ、不意打ちで水を浴びると冷たく感じますぞ」=“But still, we might be in the south, but sudden splashes of water still feel pretty cold.”
+「そうだね。実際には結構水温は高いはずなんだけどねぇ」=“Yeah. Even though the water's actually pretty darn warm, too.”
+「実際の温度はともかく、水がかかるだけで反射的に『冷たい！』って言っちゃうよね」=“Whether it's warm or cold, when you get some splashed on you, "so cold!" is the only thing that comes out, isn't it?”
+「わかりみが深い。あれってなんなんだろう？　本当に反射的に言ってしまいますぞ」=“I truly relate. I wonder just what causes that? It really does come out reflexively.”
+「でも、完全なお湯の場合は何故か言わないんだよね」=“But, raise the water temperature from warm to hot and suddenly we don't say it anymore.”
+「あるあるネタですな」=“Truly relatable.”
+「あるあるネタといえば、海に来ると何故か無性に『海だー』と叫びたくなる件」=“If we're talking about relatable stuff, there's also how coming out to the sea makes everyone want to go "it's the sea~!" for some reason.”
+「しかも、無意味に飛び跳ねながら言いたくなるのも摩訶不思議」=“Not just that, for some reason that's usually accompanied by a running jump as well.”
+「ああ……漫画とかでよく見かけるテンプレ的なシチュエーションだよね」=“Aah... that's a very generic sort of manga scene, isn't it?”
+「なんだったら、今からでもやってみる？」=“Want to try doing it ourselves?”
+「さすがにそれは遠慮するんだなぁ」=“No, I'm afraid I'll have to pass.”
+「あれは海に来たばかりのときにやるものであって、この状況でやるのはマヌケですぞ」=“That's something you do the moment you get to the sea, doing it right now would be simply foolish.”
+「そっか、残念。じゃあ、この状況からでもできそうなテンプレ的な展開となら……」=“I see, shame. Then, if it's something that's commonly used even in a situation like this...”
+「あー……うん。手でも繋いで歩く……とか？」=“Ah... yeah. Like walking while... holding hands?”
+「それはアリよりのアリ……かなぁ？」=“I guess that's... more than okay?”
+「せっかく、恋人と浜辺を歩いているわけだし、イチャイチャするにはいいと思うし……」=“We're walking along the shore as a couple, so I think flirting a bit is fine...”
+「じゃあ、もう少しのんびりとここら辺を散歩しようか」=“Then let's keep this walk going a little bit longer.”
+「……ええ。じゃあその……お手をどうぞ？　ってこれは、あなたの台詞ですな……」=“...Yes. So erhm... your hand? No, that's your line, isn't it...”

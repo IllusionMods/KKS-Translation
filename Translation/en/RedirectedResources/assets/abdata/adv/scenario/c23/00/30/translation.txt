@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へぇ、色々売ってるなぁ」=
-//「ワタシはこういう民芸品にも、結構うるさいんだよねぇ」=
-//「そうなの？　それじゃこの人形はどう？」=
-//「ヌルいね……繋目のバリ処理が甘いんだなぁ」=
-//「まぁ、大量生産だろうからね」=
-//「だから買うなら一点もの、一点もの探さないと損だよ」=
+「へぇ、色々売ってるなぁ」=“Hoh, they've got all kinds of things, huh?”
+「ワタシはこういう民芸品にも、結構うるさいんだよねぇ」=“I'm pretty picky, you know? Even about stuff like this.”
+「そうなの？　それじゃこの人形はどう？」=“Really? What about this doll then?”
+「ヌルいね……繋目のバリ処理が甘いんだなぁ」=“That's easy... See these burrs on the joints? Not properly sanded down.”
+「まぁ、大量生産だろうからね」=“Well, that's probably because it's mass produced.”
+「だから買うなら一点もの、一点もの探さないと損だよ」=“Still, that's why you buy a one of a kind item instead, you lose out if you don't.”

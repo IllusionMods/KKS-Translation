@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、[H名]。少し縁側で過ごして行こうか？」=
-//「ふふふ、やっぱり縁側にはアイスだよね」=
-//「これぞ、日本の田舎の風景って感じがしますぞぉ」=
-//「あー、それわかる。こののんびりとした風情がいいよね」=
-//「風も気持ちいいし、涼むならここって感じがするよ」=
-//「その分、虫が多いのが困りものですけどなー」=
-//「今だって、ワタシのアイスが垂れて、それを狙った奴らが集まってきてるし」=
-//「ははっ、すぐに食べないからだよ」=
-//「何だったら、食べるのを少し手伝おうか？」=
-//「だが、断る！」=
-//「あんまり急いで食べると頭がキーンとするから、のんびり食べてるだけだし」=
-//「でも、ここは彼氏にあーんで食べさせる展開でも不思議はないのでは……？」=
-//「……っ！？　た、確かにっ」=
-//「恋愛物では、あーんで食べさせて間接キスだ……とか悶えるシーン……！」=
-//「う～……じゃ、じゃあ、食べる……？」=
-//「え、いいの？　さっきのはちょっと言ってみただけだったんだけど」=
-//「恋人としては、外せないイベント的な感じがしますし……？」=
-//「って、やっぱなし！　そんな恥ずかしいことしてないで、１人で全部食べますぞ！」=
+「ねぇ、[H名]。少し縁側で過ごして行こうか？」=“Hey, [H名]. Wanna take a break here?”
+「ふふふ、やっぱり縁側にはアイスだよね」=“Fufufuh, ice cream and verandas are an unbeatable combo, aren't they?”
+「これぞ、日本の田舎の風景って感じがしますぞぉ」=“This truly is what rural country life in Japan is all about~.”
+「あー、それわかる。こののんびりとした風情がいいよね」=“Ah, I get you. The peaceful elegance of this is just perfect, isn't it?”
+「風も気持ちいいし、涼むならここって感じがするよ」=“The breeze feels great too, no better place to cool down than here, really.”
+「その分、虫が多いのが困りものですけどなー」=“Though, that brings with it its fair share of bugs too~”
+「今だって、ワタシのアイスが垂れて、それを狙った奴らが集まってきてるし」=“Even now, there's some of them just waiting for my ice cream to melt and drip down.”
+「ははっ、すぐに食べないからだよ」=“Hahah--, it's because you're letting it melt.”
+「何だったら、食べるのを少し手伝おうか？」=“Want me to lend a hand with finishing it?”
+「だが、断る！」=“I refuse!”
+「あんまり急いで食べると頭がキーンとするから、のんびり食べてるだけだし」=“I'm just taking it easy and going slow since if I gobble it down too fast, it's gonna give me a brain freeze.”
+「でも、ここは彼氏にあーんで食べさせる展開でも不思議はないのでは……？」=“But, would a scene where you feed your boyfriend with your own hands not fit perfectly here...?”
+「……っ！？　た、確かにっ」=“...--!? Y-You have a point--!”
+「恋愛物では、あーんで食べさせて間接キスだ……とか悶えるシーン……！」=“A scene from a romance novel, where the heroine anguishes over the indirect kiss... as the protagonist goes in for it...!”
+「う～……じゃ、じゃあ、食べる……？」=“Uu~... y-you want some then...?”
+「え、いいの？　さっきのはちょっと言ってみただけだったんだけど」=“Eh, you sure? I only said that because I felt like saying it.”
+「恋人としては、外せないイベント的な感じがしますし……？」=“As a couple, this ought to be an unskippable event though...?”
+「って、やっぱなし！　そんな恥ずかしいことしてないで、１人で全部食べますぞ！」=“Wuh, nevermind afterall! I'm not doing something so embarrassing, I'll eat it all myself!”

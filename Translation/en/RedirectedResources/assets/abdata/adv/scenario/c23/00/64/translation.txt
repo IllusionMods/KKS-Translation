@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごいよ……あなたってオイル塗りの天才だねぇ」=
-//「気持ち良かったですぞ……どうもありがとう」=
-//「これは、なかなかの腕前でしたなぁ」=
-//「あれれ？　塗ってくれないのかな」=
+「すごいよ……あなたってオイル塗りの天才だねぇ」=“Amazing... you're a real genius at this, you know~?”
+「気持ち良かったですぞ……どうもありがとう」=“That felt great... thanks lots.”
+「これは、なかなかの腕前でしたなぁ」=“That was quite some skill there, partner~”
+「あれれ？　塗ってくれないのかな」=“Huh? You're not gonna do it?”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃ、オイルを塗ろうか」=
-//「うん、そうだねぇ……あの、良かったら、前も塗ってくれて、いいからね」=
-//「そうなの？　だったら、塗るよ」=
-//「それじゃあ、お願いしようかなぁ」=
-//「任せてよ、ばっちり塗ってあげるからね」=
+「それじゃ、オイルを塗ろうか」=“Well then, let's rub some oil on you, shall we?”
+「うん、そうだねぇ……あの、良かったら、前も塗ってくれて、いいからね」=“Yeah, let's~... uhm, if you want, you can rub it on my chest too, okay?”
+「そうなの？　だったら、塗るよ」=“Really? I'll do it then.”
+「それじゃあ、お願いしようかなぁ」=“Do it then~”
+「任せてよ、ばっちり塗ってあげるからね」=“Leave it to me. I'll rub it on real thoroughly.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃあ、カヤックに乗ってマングローブを見に行こうか」=
-//「なんだか、ジャングルを進む探検隊みたいなんだなぁ」=
-//「奥地まで行ったら、何か大発見があるかも知れないね」=
-//「新種の動物とか、花を見つけたりして……」=
-//「そしたら、それに俺たちの名前が付くかも」=
-//「そうなったら楽しいなぁ。何だかワクワクしてきたよ」=
+「それじゃあ、カヤックに乗ってマングローブを見に行こうか」=“Well then, let's get on a kayak and go look at some mangroves.”
+「なんだか、ジャングルを進む探検隊みたいなんだなぁ」=“This kinda feels like we're a jungle exploration team or something, doesn't it?”
+「奥地まで行ったら、何か大発見があるかも知れないね」=“You never know, we might end up finding something in the deep end.”
+「新種の動物とか、花を見つけたりして……」=“Like a new animal species, or an undiscovered flower...”
+「そしたら、それに俺たちの名前が付くかも」=“If we do, it might end up having our names.”
+「そうなったら楽しいなぁ。何だかワクワクしてきたよ」=“That'd be pretty fun~. Now I'm feeling into this.”

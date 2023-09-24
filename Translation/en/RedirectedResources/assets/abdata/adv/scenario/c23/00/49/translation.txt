@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「民宿のご飯って、もっと旅館の料理っぽいのかと思ってたけど……」=
-//「ちょっと違いますな。いわゆる地元の家庭料理って感じ」=
-//「うん。それに、どの料理も美味しいね」=
-//「素朴ながら、とても優しい味がしますぞ」=
-//「これなら、いくらでも入るって感じだよ」=
-//「ワタシも、もっとおかわりしたいんだなぁ」=
+「民宿のご飯って、もっと旅館の料理っぽいのかと思ってたけど……」=“I thought the food here would be more like the sort you see at a ryokan but...”
+「ちょっと違いますな。いわゆる地元の家庭料理って感じ」=“It is a bit different, isn't it? What you'd call "local home cooking".”
+「うん。それに、どの料理も美味しいね」=“Yep. It's all so good too.”
+「素朴ながら、とても優しい味がしますぞ」=“The taste is simple, yet very gentle.”
+「これなら、いくらでも入るって感じだよ」=“I could fit in lots of this into me.”
+「ワタシも、もっとおかわりしたいんだなぁ」=“Me too, I might go for thirds.”

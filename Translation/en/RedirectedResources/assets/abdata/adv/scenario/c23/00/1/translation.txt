@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「い、今のってまるで……こ、こここ、こくはくぅぅぅぅ、みたいな感じだけど？」=
-//「そう、告白だよ……きみが好きなんだ。俺と、付き合って欲しい」=
-//「冗談とかでは……ないんだよね？」=
-//「冗談でこんな事言わないよ……ちゃんと、本気だから」=
-//「そっか……あのね、ワタシもあなたの事、好きなんだなぁ」=
-//「嬉しいなぁ……これからも、よろしくね」=
+「い、今のってまるで……こ、こここ、こくはくぅぅぅぅ、みたいな感じだけど？」=“T-That was... more like a, c-c-c-c-confession, though?”
+「そう、告白だよ……きみが好きなんだ。俺と、付き合って欲しい」=“Yep, because it is... I love you. I want you to go out with me.”
+「冗談とかでは……ないんだよね？」=“That's not a... joke or anything, right?”
+「冗談でこんな事言わないよ……ちゃんと、本気だから」=“I wouldn't say something like this as a joke... I mean it.”
+「そっか……あのね、ワタシもあなたの事、好きなんだなぁ」=“I see... uhm, I love you, too.”
+「嬉しいなぁ……これからも、よろしくね」=“I'm so happy... take care of me, okay?”

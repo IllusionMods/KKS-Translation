@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルジュースを飲んでみたいんだけど、どうかな？」=
-//「おお……これが、伝説のカップルジュースですな……！」=
-//「伝説って、大げさじゃないかな」=
-//「ありふれた……とまでは言わないけど、普通のジュースだよ？」=
-//「ジュース自体はそうだろうけど、アニメや漫画ではカップルの定番中の定番！」=
-//「付き合い立ての男女がキャッキャウフフして、顔を赤らめるって展開が王道なんだなぁ」=
-//「とまぁ、あれこれ言ったけど、誘ってくれてありがと。めちゃくっちゃ楽しみだよぉ」=
-//「そっか。テンションがそこまで高くなるくらい喜んでくれて嬉しいよ」=
-//「じゃあ、早速飲んでみようか？」=
-//「ガッテン承知！」=
-…………=......
-//「……まいった。何これ、めちゃくちゃ恥ずかしいですぞ」=
-//「そう、だね。俺もここまでとは思わなかったよ……」=
-//「あなたの顔が目の前にあるし、息遣いもハッキリと伝わってくるし……」=
-//「キスするようにくっつくわけじゃないから、余計に意識しちゃうというか……」=
-//「どうする？　一緒に飲むのはもうやめとく？」=
-//「……このまま飲む。諦めたらそこで試合終了だし」=
-//「でも、すっごく甘酸っぱく感じちゃうのって、絶対に気のせいじゃないんだなぁ……」=
+「カップルジュースを飲んでみたいんだけど、どうかな？」=“I wanna try getting the couples' juice, how about it?”
+「おお……これが、伝説のカップルジュースですな……！」=“Ooh... so this is the couples' juice, that the legends speak of...!”
+「伝説って、大げさじゃないかな」=“Aren't you exaggerating a bit there?”
+「ありふれた……とまでは言わないけど、普通のジュースだよ？」=“It's just normal... well, I guess not exactly normal, but still just juice, you know?”
+「ジュース自体はそうだろうけど、アニメや漫画ではカップルの定番中の定番！」=“It may very well just be juice, but in the world of anime and manga, it is the staple of staples!”
+「付き合い立ての男女がキャッキャウフフして、顔を赤らめるって展開が王道なんだなぁ」=“The perfect setting for a newly formed couple to go kyaa-kyaa hee-hee and blush enough to put tomatoes to shame, truly the holy grail of date plots.”
+「とまぁ、あれこれ言ったけど、誘ってくれてありがと。めちゃくっちゃ楽しみだよぉ」=“But well~, I say all that but, thanks for bringing me here. I'm super excited.”
+「そっか。テンションがそこまで高くなるくらい喜んでくれて嬉しいよ」=“I see. I'm glad you're that into it.”
+「じゃあ、早速飲んでみようか？」=“Well then, wanna go for it?”
+「ガッテン承知！」=“Roger that!”
+…………=...
+「……まいった。何これ、めちゃくちゃ恥ずかしいですぞ」=“...Damn. What is this, it's super embarrassing.”
+「そう、だね。俺もここまでとは思わなかったよ……」=“It, sure is. I didn't think it'd be this intense myself...”
+「あなたの顔が目の前にあるし、息遣いもハッキリと伝わってくるし……」=“I can see your face right up close, and feel your breathing too...”
+「キスするようにくっつくわけじゃないから、余計に意識しちゃうというか……」=“It's not like we're going in for a kiss either, so it makes me way too aware of it...”
+「どうする？　一緒に飲むのはもうやめとく？」=“What do you wanna do? Wanna forget about drinking more of it together?”
+「……このまま飲む。諦めたらそこで試合終了だし」=“...No, I wanna keep going. It's all over once you give up.”
+「でも、すっごく甘酸っぱく感じちゃうのって、絶対に気のせいじゃないんだなぁ……」=“But, I definitely didn't imagine that insane sweet sourness, did I...”
