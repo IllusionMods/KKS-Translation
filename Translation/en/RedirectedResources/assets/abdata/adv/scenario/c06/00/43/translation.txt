@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なんていうか……紅型をしている所が、すごく様になってるね。正に『和』って感じがするよ」=
-//「そうでしょうか？　なんだか面映ゆいです」=
-//「慣れてる感じがするし、紅型を習ってたことがあったりして」=
-//「この島に来て初めて体験しましたよ。ただ、訪れる前に予め勉強はしておりました」=
-//「そうなの？」=
-//「はい、以前から興味を持っていたので……綺麗に作って祖母へ贈るつもりです」=
-//「そっか。プレゼントする為なら、気合が入るね」=
+「なんていうか……紅型をしている所が、すごく様になってるね。正に『和』って感じがするよ」=“How do I say this... stencil dyeing kinda, fits you perfectly. It really does have a Japanese feel to it.”
+「そうでしょうか？　なんだか面映ゆいです」=“Is that so? I feel a blush coming on.”
+「慣れてる感じがするし、紅型を習ってたことがあったりして」=“You look like a real old hand at it, as if you've taken classes in it before or something.”
+「この島に来て初めて体験しましたよ。ただ、訪れる前に予め勉強はしておりました」=“This is the first time I've experienced doing this. However, I did study it a fair bit before we came here.”
+「そうなの？」=“Really?”
+「はい、以前から興味を持っていたので……綺麗に作って祖母へ贈るつもりです」=“Yes, I've always been a bit interested in this so... I intend on gifting this to my grandmother, so it has to come out nice.”
+「そっか。プレゼントする為なら、気合が入るね」=“I see. I guess it makes sense you'd study up on it.”

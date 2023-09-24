@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ、良い汗をかきましたね。また時間がある時は、二人で楽しみましょう」=
+「ふぅ、良い汗をかきましたね。また時間がある時は、二人で楽しみましょう」=“Fuuh, that was quite the workout. Let's enjoy this again, when we both have time.”

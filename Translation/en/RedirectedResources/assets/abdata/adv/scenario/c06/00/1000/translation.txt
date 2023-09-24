@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「カップルドリンクが飲めるんだって。頼んでみようよ」=“They have a drink for couples to share. Let's ask for one.”
-//「こちらが『かっぷるどりんく』という飲み物なのですね。どうぞ召し上がってください」=
-//「あ、これは二人で同時に飲むものなんだよ」=
-//「二人で同時に？　……もしや、この二本のストローは貴方と私の為に刺されたものだったのですか？」=
-//「じゃないとストロー二本なんておかしいからね」=
-//「まあ、そのような飲み物があるなんて思いもよらず……無知で申し訳ございません」=
-//「大丈夫、知らなくても悪いことはならないよ。それにこういうことするのが初めてなら、どんな感じか気にならない？」=
-//「はい、想像しただけで……嗚呼、頬が火照ってしまいます」=
-//「あはは、飲む前からそんなじゃ大変だよ」=
-//「そ、そうですね。覚悟は決まりました、何卒よろしくお願い申し上げます」=
-…………=......
-//「はぁ……胸が高鳴って、味がわかりませんでした」=
-//「というか、あまり飲んでないよね？」=
-//「そう、だったかもしれません。貴方の目を見つめることで精一杯でしたから……」=
-//「精一杯って……」=
-//「申し訳ございません。貴方がどりんくを飲むお顔があまりにも魅力的だったので、つい……」=
-//「いや、謝ることはないけど……ちょっと照れるな」=
-//「ですが、供していただいた飲み物をないがしろにするわけには参りません。次こそしっかりと飲ませていただきます」=
-//「さっきよりも情熱的に[H名]のことを見つめちゃったりして」=
-//「まあ、うふふ。どんなものかわかったからにはあとは極めるのみ、私も情熱的に見つめ返しつつ味あわせていただきますね」=
+「カップルドリンクが飲めるんだって。頼んでみようよ」=“Apparently we can get a couples' drink. Let's try it.”
+「こちらが『かっぷるどりんく』という飲み物なのですね。どうぞ召し上がってください」=“So this is the drink known as a "couples' drink", huh? Please, do go ahead then.”
+「あ、これは二人で同時に飲むものなんだよ」=“Ah, this is a drink we drink together at the same time, [H名].”
+「二人で同時に？　……もしや、この二本のストローは貴方と私の為に刺されたものだったのですか？」=“Together at the same time? ...Could it be, have these two straws been inserted for both of our usages?”
+「じゃないとストロー二本なんておかしいからね」=“No point in putting two in there otherwise, so yeah.”
+「まあ、そのような飲み物があるなんて思いもよらず……無知で申し訳ございません」=“My, that such a drink could exist never crossed my mind... I apologize for my ignorance.”
+「大丈夫、知らなくても悪いことはならないよ。それにこういうことするのが初めてなら、どんな感じか気にならない？」=“Don't worry, that's completely fine. If anything, since it's your first time doing something like this, don't you feel curious how it's gonna feel like?”
+「はい、想像しただけで……嗚呼、頬が火照ってしまいます」=“Yes, just imagining it is... aah, my face is going to catch fire.”
+「あはは、飲む前からそんなじゃ大変だよ」=“Ahahah, we haven't even started drinking. Get a grip, my dear!”
+「そ、そうですね。覚悟は決まりました、何卒よろしくお願い申し上げます」=“Y-You're right. I have made up my heart. Please, let us do it.”
+…………=...
+「はぁ……胸が高鳴って、味がわかりませんでした」=“Haah... my chest was pounding so much, I could not taste it at all.”
+「というか、あまり飲んでないよね？」=“You didn't drink much of it to begin with, no?”
+「そう、だったかもしれません。貴方の目を見つめることで精一杯でしたから……」=“You, might be right. It took my all to just look into your eyes...”
+「精一杯って……」=“Took your all...”
+「申し訳ございません。貴方がどりんくを飲むお顔があまりにも魅力的だったので、つい……」=“I apologize. You just looked so lovely drinking it, I just couldn't...”
+「いや、謝ることはないけど……ちょっと照れるな」=“No, you don't have to apologize... you're gonna make me blush though.”
+「ですが、供していただいた飲み物をないがしろにするわけには参りません。次こそしっかりと飲ませていただきます」=“However, it wouldn't do to not properly savour the drink they have served us. I shall properly drink it this time.”
+「さっきよりも情熱的に[H名]のことを見つめちゃったりして」=“Maybe I'll stare at you even more passionately this time.”
+「まあ、うふふ。どんなものかわかったからにはあとは極めるのみ、私も情熱的に見つめ返しつつ味あわせていただきますね」=“My, ufufuh. Now that I know the battle, all that's left is to carry it out to its fullest extent. I shall savour this drink thoroughly while staring at you passionately as well.”

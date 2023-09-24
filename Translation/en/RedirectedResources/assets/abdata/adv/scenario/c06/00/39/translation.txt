@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「色々とお話出来て楽しい時間でした。ありがとうございます」=
+「色々とお話出来て楽しい時間でした。ありがとうございます」=“That was a very pleasant time, especially with how much we were able to chat. Thank you very much.”

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「にんじんと卵っていうシンプルな組み合わせの炒め物だけど、美味しいね。箸が止まらないや」=
-//「こちらのお吸い物も大変美味しいです」=
-//「うんうん、豚のモツが入ってるのに全然臭くなくて、鰹節のいい香りがするよね」=
-//「はいっ。この島の家庭の味……是非とも覚えたいです。作り方を尋ねに行ってもよろしいでしょうか？」=
-//「ははは、勿論いいけど、まずは冷めないうちに食べないと。せっかくのご飯がもったいないよ？」=
-//「あ……そうですね。帰った後にも貴方に食べて欲しいと気持ちが急いていました……恥ずかしいです」=
+「にんじんと卵っていうシンプルな組み合わせの炒め物だけど、美味しいね。箸が止まらないや」=“It's just simple egg and carrot stirfry but, it's really good, isn't it? I can't stop my chopsticks.”
+「こちらのお吸い物も大変美味しいです」=“This soup is quite delectable as well.”
+「うんうん、豚のモツが入ってるのに全然臭くなくて、鰹節のいい香りがするよね」=“Yepyep, even though it's got pork guts in it, it doesn't smell at all, if anything, it has a bonito aroma to it.”
+「はいっ。この島の家庭の味……是非とも覚えたいです。作り方を尋ねに行ってもよろしいでしょうか？」=“Yes--! I would love to memorize this... the flavour of the home cooking here. Would you mind if I go and ask them for the recipe and technique?”
+「ははは、勿論いいけど、まずは冷めないうちに食べないと。せっかくのご飯がもったいないよ？」=“Hahahah, not at all but, let's eat before it gets cold first. We'd be wasting the food otherwise, you know?”
+「あ……そうですね。帰った後にも貴方に食べて欲しいと気持ちが急いていました……恥ずかしいです」=“Ah... indeed. My desire to serve this to you even once we're back home got a bit ahead of me... how embarrassing.”
 「[H名]……」=“[H名]...”

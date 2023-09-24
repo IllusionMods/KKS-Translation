@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おいる塗り……？　これは一体何でしょう？」=
-//「エステ……マッサージみたいなものかな。美容にいいんだってさ」=
-//「興味があるなら、俺が塗るよ？」=
-//「そうですね……何事も体験してみなければ分かりませんので、挑戦してみようと思います」=
+「おいる塗り……？　これは一体何でしょう？」=“Oil massage...? What could this be?”
+「エステ……マッサージみたいなものかな。美容にいいんだってさ」=“A beauty treatment... to rub oil on you, I guess. Apparently it can make you more beautiful.”
+「興味があるなら、俺が塗るよ？」=“If you're interested, want me to do it?”
+「そうですね……何事も体験してみなければ分かりませんので、挑戦してみようと思います」=“I suppose... everything must be experienced to be understood, so perhaps I shall take you up on that.”

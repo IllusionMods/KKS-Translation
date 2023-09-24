@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私は自室に戻って支度をして参りますね。また後でお会いしましょう」=
+「私は自室に戻って支度をして参りますね。また後でお会いしましょう」=“I shall return to my room to take care of things. Let's see each other again later.”

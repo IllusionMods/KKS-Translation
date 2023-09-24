@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うん？　キョロキョロしてどうかしたの？」=
-//「いえ、ほてるでご飯をいただくのが新鮮でしたので……つい辺りを見ていました」=
-//「こちらでのお食事は、なにか作法はあるのでしょうか？」=
-//「超高級ホテルならともかく、ここでは何もないよ。普通に食べて大丈夫」=
-//「ほっ……安心いたしました。では、いただきます」=
+「うん？　キョロキョロしてどうかしたの？」=“Hm? You've been staring all over the place, what's wrong?”
+「いえ、ほてるでご飯をいただくのが新鮮でしたので……つい辺りを見ていました」=“Nothing, it's simply quite the new experience for me, to eat in a place such as this... so I was looking at the surroundings.”
+「こちらでのお食事は、なにか作法はあるのでしょうか？」=“Is there a particular etiquette I must follow here?”
+「超高級ホテルならともかく、ここでは何もないよ。普通に食べて大丈夫」=“If this was a 5 star hotel then maybe but it's just a regular one. So feel free to eat normally.”
+「ほっ……安心いたしました。では、いただきます」=“Hoh--... that's quite the relief. Well then, I shall dig in.”

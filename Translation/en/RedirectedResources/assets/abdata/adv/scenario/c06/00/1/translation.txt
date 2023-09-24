@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……私も、何時からか貴方に惹かれていました」=
-//「へ？　そ、それじゃあ……」=
-//「はい。私も、貴方の事を愛しております」=
-//「ありがとう。何だか夢みたいだ……夢じゃないよね？」=
-//「この胸の奥底から熱くなる気持ちは、紛れもなく現実です。改めて、よろしくお願いいたしますね」=
+「……私も、何時からか貴方に惹かれていました」=“...I as well, have been feeling quite attracted to you for the longest time.”
+「へ？　そ、それじゃあ……」=“Heh? T-Then...”
+「はい。私も、貴方の事を愛しております」=“Yes. I love you as well.”
+「ありがとう。何だか夢みたいだ……夢じゃないよね？」=“Thank you. This feels like a dream... it's not, right?”
+「この胸の奥底から熱くなる気持ちは、紛れもなく現実です。改めて、よろしくお願いいたしますね」=“This hot feeling rising from within my heart, is unmistakably true. Please, do take care of me.”

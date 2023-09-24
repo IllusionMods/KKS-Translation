@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「大変心地よかったです」=
-//「お陰様で、身体が楽になった様な気がいたします」=
-//「お疲れ様でした。次は私の番でしょうか？　え？　貴方はよろしいのですか？」=
-//「あの……結局おいるを塗っていないような気がするのですが……？」=
+「大変心地よかったです」=“That felt very pleasant.”
+「お陰様で、身体が楽になった様な気がいたします」=“Thanks to you, my body feels almost more at ease.”
+「お疲れ様でした。次は私の番でしょうか？　え？　貴方はよろしいのですか？」=“Thank you very much. Shall I do it for you then? Eh? Are you sure?”
+「あの……結局おいるを塗っていないような気がするのですが……？」=“Uhm... it does seem to me that you've not done it yet though...?”

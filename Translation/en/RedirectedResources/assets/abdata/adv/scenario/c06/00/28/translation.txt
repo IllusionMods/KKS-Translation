@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「貴方が私を誘ってくださった理由ですが……勘違いでなければ、肌を重ねる為ですよね？」=
-//「……やはり、そうだったのですね」=
-//「いえ、嫌な訳がございません。どうか、私の事を抱いて下さい」=
+「貴方が私を誘ってくださった理由ですが……勘違いでなければ、肌を重ねる為ですよね？」=“The reason you brought me here... if I am not mistaken, it is to bed me, is it not?”
+「……やはり、そうだったのですね」=“...I knew it.”
+「いえ、嫌な訳がございません。どうか、私の事を抱いて下さい」=“No, I have no reason to refuse you. Please, take me.”

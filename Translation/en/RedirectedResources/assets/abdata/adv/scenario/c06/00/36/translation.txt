@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱり南の島に来たら海で遊ばないと」=
-//「さっそく泳ぐに行く？　あ、でも泳ぎが苦手なら言ってね」=
-//「不得手ではございませんが、思いっきり身体を動かす事より、ゆっくりしたい気分ではございます」=
-//「分かった。それじゃあ浜辺で砂の城でも作りながらのんびりしようか」=
-//「普段、海では遊んだりするの？」=
-//「いえ、あまり……幼い頃に祖母と遊んだ記憶が微かにあるくらいでしょうか」=
-//「久しぶりの海なんだ。それじゃあいっぱい楽しまないとね」=
+「やっぱり南の島に来たら海で遊ばないと」=“We definitely gotta play in the sea a bit, you don't go on trips like this everyday.”
+「さっそく泳ぐに行く？　あ、でも泳ぎが苦手なら言ってね」=“Wanna go hit the sea right away? Ah, if you're not good at swimming, that's okay too.”
+「不得手ではございませんが、思いっきり身体を動かす事より、ゆっくりしたい気分ではございます」=“I wouldn't say I'm bad at it, however I do wish to take it easy rather than run around at the moment.”
+「分かった。それじゃあ浜辺で砂の城でも作りながらのんびりしようか」=“Got it. Let's just chill at the beach then, we could make some sandcastles or something.”
+「普段、海では遊んだりするの？」=“Do you do stuff like this normally? Having fun at the beach and whatnot.”
+「いえ、あまり……幼い頃に祖母と遊んだ記憶が微かにあるくらいでしょうか」=“No, not really... at most, I suppose I have faint memories of going to the beach with my grandmother as a child.”
+「久しぶりの海なんだ。それじゃあいっぱい楽しまないとね」=“So it's been a while, huh? We're just gonna have to make up for lost time then.”

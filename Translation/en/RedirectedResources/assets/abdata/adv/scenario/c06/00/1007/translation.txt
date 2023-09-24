@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「南国のお魚だからか、明るい色のものが多いですね」=
-//「この島は紫外線の量が多いから、その紫外線を吸収しすぎないようにこんな色になってるって説があるんだよ」=
-//「まあ、そうなのですね。お調べになったのですか？」=
-//「うん、水族館に来る前にちょっとね。カラフルなサンゴ礁に紛れて天敵に見つかりにくくしてるって説もあるんだって」=
-//「まあまあ、私ももっと調べてくるべきでした。この島に来たのは研修旅行で多くを学ぶためですものね」=
-//「あはは、俺は別に研修旅行だから調べてきたわけじゃないよ。[H名]との話題が増えるかと思ってさ」=
-//「そのお気持ちが嬉しいです……私の調べた魚もこの水槽にいたらよいのですが……」=
-//「[H名]も調べてきてたの？」=
-//「はい。図鑑を見ていたら、貴方に喜んでいただけるようなお魚がいましたので……」=
-//「まあ！　いました、あちらにいる、隅の方でゆらゆらと泳いでいるお魚です」=
-//「あれ……？　見たところ普通の魚っぽいけど？」=
-//「あのお魚を丸ごと食べると、精力が高まるそうなのです」=
-//「ぶっ……」=
-//「市販の精力剤など比べ物にならないほどだそうです。もし貴方がご所望なら、漁ってきて捌こうかと思っております」=
-//「そ、そこまではしなくて大丈夫だよ。たしかに男としては嬉しいけど……」=
-//「ならば遠慮していただくわけにはまいりません。未来の大黒柱たる貴方にはいつまでも壮健でいらしてほしいのです」=
-//「それとも、お魚はそこまでお好きではありませんでしたか？　でしたら山羊を仕入れてまいります。山羊は下半身に効くそうですよ」=
-//「うん、おれは男として非常に嬉しいよ。けどとりあえず、もう少し声のボリュームをさげようか」=
+「南国のお魚だからか、明るい色のものが多いですね」=“There's a lot of vividly coloured fish, aren't there? I wonder if that's because they're southern ones.”
+「この島は紫外線の量が多いから、その紫外線を吸収しすぎないようにこんな色になってるって説があるんだよ」=“There's a theory that it's due to all the ultraviolet rays that this region gets hit with, apparently it might be protection against that.”
+「まあ、そうなのですね。お調べになったのですか？」=“My, I see. Did you look into it?”
+「うん、水族館に来る前にちょっとね。カラフルなサンゴ礁に紛れて天敵に見つかりにくくしてるって説もあるんだって」=“Yeah, a bit, before we came here. Another theory goes that it's supposed to be natural camoflauge against predators, helping them blend in with the corals and whatnot.”
+「まあまあ、私ももっと調べてくるべきでした。この島に来たのは研修旅行で多くを学ぶためですものね」=“Oh my, I should have researched it a bit myself before we came here. We did come here on a study tour, afterall.”
+「あはは、俺は別に研修旅行だから調べてきたわけじゃないよ。[H名]との話題が増えるかと思ってさ」=“Ahahah, it's not like I did it because of that. I only did it so that we'd have more to talk about here.”
+「そのお気持ちが嬉しいです……私の調べた魚もこの水槽にいたらよいのですが……」=“That makes me very, very happy... I only hope that they also have some of the fish that I've read about...”
+「[H名]も調べてきてたの？」=“You looked into it too?”
+「はい。図鑑を見ていたら、貴方に喜んでいただけるようなお魚がいましたので……」=“Yes. I was reading a field guide, and I saw some fish that I thought would really catch your interest...”
+「まあ！　いました、あちらにいる、隅の方でゆらゆらと泳いでいるお魚です」=“My! They do have it, it's those fish over there, swaying in the corner.”
+「あれ……？　見たところ普通の魚っぽいけど？」=“Those...? They look pretty normal to me though?”
+「あのお魚を丸ごと食べると、精力が高まるそうなのです」=“It's said that if you eat them whole, it boosts your vitality.”
+「ぶっ……」=“Bff--...”
+「市販の精力剤など比べ物にならないほどだそうです。もし貴方がご所望なら、漁ってきて捌こうかと思っております」=“Apparently, the sort of tonics they sell over the counter do not even remotely compare in strength. If you wish for it, I would more than gladly search and prepare one for you.”
+「そ、そこまではしなくて大丈夫だよ。たしかに男としては嬉しいけど……」=“Y-You don't need to, it's fine. Definitely, as a man, it is appealing but...”
+「ならば遠慮していただくわけにはまいりません。未来の大黒柱たる貴方にはいつまでも壮健でいらしてほしいのです」=“Then there really is no reason for you to hold back. As the man of the family, my only wish is for you to stay hale and hearty forever.”
+「それとも、お魚はそこまでお好きではありませんでしたか？　でしたら山羊を仕入れてまいります。山羊は下半身に効くそうですよ」=“Or is it that you do not enjoy fish all that much? Then I shall procure some goat instead. It is quite good for one's libido, I've heard.”
+「うん、おれは男として非常に嬉しいよ。けどとりあえず、もう少し声のボリュームをさげようか」=“Yeah, I'm definitely not against either of those as a man. But for now, let's not be so loud about it, alright?”

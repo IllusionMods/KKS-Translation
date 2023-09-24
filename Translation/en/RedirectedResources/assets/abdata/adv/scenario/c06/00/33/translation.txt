@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私はもう少し辺りを歩こうかと思います。ありがとうございました」=
+「私はもう少し辺りを歩こうかと思います。ありがとうございました」=“I think I shall explore this area a bit more on my own. Thank you very much.”
