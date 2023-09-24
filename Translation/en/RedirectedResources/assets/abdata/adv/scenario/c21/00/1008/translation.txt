@@ -6,13 +6,13 @@
 「これは……さすがにここじゃないと見られないな」=“This is... you really gotta be here to see this, don't you?”
 「うん……こんな綺麗な景色、絶対忘れられないね……キミと一緒に見られてよかった……」=“Yeah... I don't think I'm ever going to forget this... I'm glad I'm here with you...”
 「うん」=“Yeah.”
-「……ママとパパもこんな景色を見たのかな……」=“....I wonder if mama and papa also saw something like this together....”
+「……ママとパパもこんな景色を見たのかな……」=“...I wonder if mama and papa also saw something like this together...”
 「え？」=“Eh?”
 「前に言ったかもだけど、私のママとパパって本当に仲良しで、娘の私がいるのにキスしたり愛してるって言ったりしてね」=“I might have mentioned it before but, my mama and papa get along really well, so much so that they start kissing each other and saying I love you and whatnot even while I'm still in the room sometimes.”
 「それで……お酒を飲んだりすると、一緒に行った街とか、一緒に見た景色の話をするの。そういうの見てて、いいなぁって思って……」=“And sometimes... when they're drunk, they start talking about all the different cities they've visited together, all the places they've seen. When I look at that, I get kinda jealous...”
 「だから、キミと海ほたるを見られて……一生忘れられないものを見られて嬉しいな……って、そう思ったの」=“So, I'm really happy that we're looking at these sea fireflies together... that we're looking at something we'll never forget together... that's what I was thinking.”
 「俺たちがおじいちゃんとおばあちゃんになったときに話し合えるね」=“We'll be able to talk about it too, when we're both old and wrinkly.”
-「……！　あはは、結婚もまだなのに……でも、そうなったらもっと嬉しい……」=“....! Ahahah, we haven't even gotten married yet, dummy... but, I'd love that even more...”
+「……！　あはは、結婚もまだなのに……でも、そうなったらもっと嬉しい……」=“...! Ahahah, we haven't even gotten married yet, dummy... but, I'd love that even more...”
 「歌の歌詞みたいだけど、私がおばあちゃんになっても、キミに好きだって言われるような女の子でいたいな」=“It might sound like some lyrics from a love song but, I wanna be the sort of girl that can still say "I love you" to her husband, even once I'm an old granny.”
 「[H名]だったらきっと可愛いおばあちゃんになるよ」=“I'm sure you'll make for a very cute old granny, [H名].”
 「えへへ、キミもきっと格好いいおじいちゃんになるよ……ううん、私がする。してあげたい……しても、いいかな？」=“Eheheh, I'm sure you'll make for a very cool grandpa too... no, I'll make you into one. I wanna... will you, let me?”
@@ -23,7 +23,7 @@
 「俺がおじいちゃんになっても[H名]に好きだって言われるような男でいる。それから――」=“I'll become the kind of cool old man that you can still love even when we're old. And--”
 「俺が[H名]を可愛いおばあちゃんにする。これからずっと付き合って、結婚して、家庭を築いたりして、どんどん素敵な人にする」=“I'll make you into a cute old granny. I'll keep dating you, I'll marry you, I'll make a family with you, and make you into a wonderful person too.”
 「してもいいかな？」=“Will you let me?”
-「うんっ！　してください！　私の一生がそんな風になったら素敵だから、してほしい……」=“Yes--! Please do it! It'd be wonderful if my life goes that way so, I want you to do it....”
+「うんっ！　してください！　私の一生がそんな風になったら素敵だから、してほしい……」=“Yes--! Please do it! It'd be wonderful if my life goes that way so, I want you to do it...”
 「私が可愛いおばあちゃんになった姿を想像していいのはキミだけだよ……ううん」=“You're the only one who's allowed to imagine me as an old granny, okay?... No.”
 「キミだけが想像できるように、キミしか知らない私を見せるから……これからいっぱい、い～～っぱい見せるから……」=“I'll show you sides of myself that nobody knows, so that only you can imagine it... I'll show you lots of them, lots and lots of them~...”
 「うん。いいところだけじゃなくて、悪いところも全部見せてほしい」=“Sure. Not just your good sides either, I want to see your bad sides too.”

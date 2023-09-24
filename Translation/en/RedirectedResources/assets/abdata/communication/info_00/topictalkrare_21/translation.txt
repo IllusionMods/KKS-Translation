@@ -12,7 +12,7 @@
 「大きいのだと１メートルにもなるらしいよ」=“Seems that they get as big as one meter.”
 「ええっ！？　すごく大きなカニなんだ」=“Eeh--!? So they really do mean "big", huh?”
 「あ、カニじゃなくてヤドカリの仲間なんだって」=“Ah, apparently it's not a crab but a hermit crab.”
-「ヤシガニなのにヤドカリ……なんだか実体がわからないね……？」=“A hermit crab called a coconut crab... Which one is it....?”
+「ヤシガニなのにヤドカリ……なんだか実体がわからないね……？」=“A hermit crab called a coconut crab... Which one is it...?”
 「月桃って知ってる？」=“You know what shell gingers are?”
 「うん！　この島に来る前に読んだガイドブックに載ってたよ！」=“Yeah! It was in the guidebook they gave us before we came to this island!”
 「勉強熱心だね」=“Someone's studious.”
@@ -128,7 +128,7 @@
 「俺？　うーん、まあぶっちゃけ地元でも毎日欲求不満って感じだったし」=“Me? Nnn, well if I'm being honest, I felt that way everyday back home anyway so, not much change there.”
 「そんなキミとエッチしちゃったから、移っちゃったの！　も～、恥ずかしいよぉ」=“I bet you're the one who infected me with that, with your dick! Jeez~, this is so embarrassing~”
 「あはは、俺としては願ったり叶ったりだけどね」=“Ahahah, personally I couldn't really ask for more, you know?”
-「俺たちの初体験の時の話なんだけど……」=“Say, the first time we did it....”
+「俺たちの初体験の時の話なんだけど……」=“Say, the first time we did it...”
 「ちょっ、ちょちょちょ、いきなりすぎない！？」=“Wha--, whawhawha, isn't that a bit too random!?”
 「あ、嫌だった？」=“Ah, should I not have? I can stop if you don't like it.”
 「い、～～～っ……嫌じゃないけど、い、いきなりだとびっくりするもん……」=“I~~~... it's not that I don't like it, b-but it's really startling when you bring stuff like this up randomly...”

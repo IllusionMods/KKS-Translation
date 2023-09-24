@@ -9,7 +9,7 @@
 「そうだよね。いや……なんていうか、これ言って、関係が変わることもあるかなーって思ってさ」=“Of course. No, well... I just thought that, if I say this, our relationship might end up changing, you know.”
 「えとっ、その、場合によっては？　気まずくなっちゃう、みたいな……？」=“Erhm--, uhm, maybe? Like, in a bad way, you mean...?”
 「まあ、そんな感じかな」=“Well, basically.”
-「そ、そっか～～……」=“I-I see~~....”
+「そ、そっか～～……」=“I-I see~~...”
 「ごめん。はっきりしないと面倒くさいよね」=“Sorry. It's annoying how much I'm beating around the bush, isn't it?”
 「あ、ううん、全然そんなことないよ。その、キミの気持ちよくわかるし……」=“An, no, not at all. I uhm, I totally get it myself too...”
 「え？」=“Eh?”
@@ -21,11 +21,11 @@
 「その、びっくりさせるかもだけど……」=“Erhm, this might surprise you, a whole lot maybe...”
 「う、うん。なあに？」=“O-Okay. What is it~?”
 「よかったら……俺と付き合ってほしい。好きなんだ」=“If it's alright... I want you to go out with me. I love you.”
-「……！」=“......!”
+「……！」=“...!”
 「どうかな？」=“What do you say?”
-「…………えっと……すごく面倒くさいこと言ってもいい？」=“...Erhm.... Can I say something really really annoying?”
+「…………えっと……すごく面倒くさいこと言ってもいい？」=“...Erhm... Can I say something really really annoying?”
 「え？　それは……もちろん？」=“Eh? Erhm... go ahead?”
-「ごめんね。まず……私の答えはＹｅｓ……」=“I'm sorry. Firstly... my answer's a yes....”
+「ごめんね。まず……私の答えはＹｅｓ……」=“I'm sorry. Firstly... my answer's a yes...”
 「でも……私いま、キミに告白するように仕向けちゃった……よく恋愛ドラマとかで、女の子が男の子にするんだけど……」=“But... just now, I made you confess to me... I see heroines from romantic dramas and whatnot, do it a lot so...”
 「私、それ嫌いで、なんで自分から言わないんだろうって、ずるいな～ってずっと思ってた」=“But, I hate that, and I've always thought that it's really unfair, that they never say it themselves.”
 「でもやっちゃった……ずっと好きだったキミと両想いになれる瞬間が見たかった……ううん、それもあるけど、いちばんは……」=“But I did it myself... I wanted to see it for myself, the moment where you confessed to me and our feelings became one... no, there is that too, but the biggest one was...”
@@ -34,9 +34,9 @@
 「ありがと……でも、もしキミが許してくれるなら、私もキミに告白していい？　付き合ってくださいって、いまからでも言いたい」=“Thanks... but, if you'll allow it, could I confess to you too? I want to ask you to go out with me too, even if it's a bit late for that.”
 「俺も聞きたい。許すなんて偉そうなこと言えないから、是非ってことで」=“I want to hear it too. It's not something for me to "allow" anyway, I'm not some hotshot or anything, so go ahead.”
 「うん……それじゃ、言うね。その前にちょっと、深呼吸する」=“Okay... then, I'll say it, okay? But I need to take a deep breath first.”
-「すー……はー……」=“Sss.... haah....”
+「すー……はー……」=“Sss... haah...”
 「……よしっ」=“...Alright--”
-「えっと……キミは、なんか特別な感じがして、いろんなこと話してくれるし、私の話も聞いてくれて……すごく楽しいの」=“Erhm.... you've always felt a bit special to me, and you always come to chat with me, and you always listen to what I have to say too... it's really fun being with you.”
+「えっと……キミは、なんか特別な感じがして、いろんなこと話してくれるし、私の話も聞いてくれて……すごく楽しいの」=“Erhm... you've always felt a bit special to me, and you always come to chat with me, and you always listen to what I have to say too... it's really fun being with you.”
 「このままずっと喋ってたいなって気持ちが、一生キミといたいなって気持ちになって、キミとの未来のこと、いっぱい考えるようになった」=“This feeling of always wanting to keep chatting with you like this, eventually turned into wanting to always be with you, and I thought a lot, about our future together.”
 「幸せなことも大変なことも、いっぱいいっぱい考えて……本当にキミのことが好き！　ってなったの。だから、私と付き合ってください！」=“Happy times, times when we're not so happy, I thought lots and lots... I realized that I really did fall in love with you! So, please be my boyfriend!”
 「そんなに俺とのことを考えててくれたんだ……大変なことも……」=“You thought about us that much, huh... even unhappy times...”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「え……ちょ、何言ってるの？　私とエッチって……？」=“Eh... wha, what are you saying? You want to have sex....?”
+「え……ちょ、何言ってるの？　私とエッチって……？」=“Eh... wha, what are you saying? You want to have sex...?”
 「うん、Ｈしたい。ものすごく、きみとＨがしたいんだ」=“Yeah, I do. I want to have sex with you, really badly.”
-「ものすごくって……だって、私達、友達同士なのに」=“Really badly"... I mean, we're friends though.”
+「ものすごくって……だって、私達、友達同士なのに」=“Really badly... I mean, we're friends though.”
 「友達同士でもいい……きみと、したい」=“That doesn't matter to me... I still, want to do it.”
 「そこまで言うなら、いいよ……でも、ちゃんと優しくしてね」=“Okay then, since you're insisting that much... but, you have to be gentle, okay?”

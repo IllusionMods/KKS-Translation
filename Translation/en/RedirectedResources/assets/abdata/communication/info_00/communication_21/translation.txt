@@ -41,7 +41,7 @@
 「理想の恋愛ってどんな感じだろう？」=“What's your ideal romance like?”
 「良くわかんないけど、やっぱり好きな人と付き合えるのが一番なんじゃない？」=“I dunno but, wouldn't just being able to go out with the person you live be the best already?”
 「愛と恋って何が違うんだろう？」=“I wonder what the difference is, between pure love and romance?”
-「恋はドキドキで、愛はあったかい、みたいな……どうなんだろうね、えへへ」=“I feel like romance is about the heartthrobbing, and love about the warm fluffiness.... who knows? Eheheh.”
+「恋はドキドキで、愛はあったかい、みたいな……どうなんだろうね、えへへ」=“I feel like romance is about the heartthrobbing, and love about the warm fluffiness... who knows? Eheheh.”
 「そういえばこの前、偶然耳にしちゃったんだけど……」=“Reminds me, the other day, I overheard...”
 「それって、禁断の恋ってやつ！？　そ、それで……！？」=“Forbidden love?! W-What happened after...?!”
 「積極的な男性ってどう思う？」=“What do you think of assertive guys?”
@@ -119,7 +119,7 @@
 「今ね、ちょっと遊びたい気分じゃないだよねー」=“I'm not really in a mood for fun right now, you know~?”
 「何か、俺と一緒に体験しに行こうよ」=“Let's go experience something or other together, c'mon.”
 「体験？　行く行くー。どんな体験をするの？」=“Experience? I wanna, I wanna~. What're we gonna experience?”
-「体験かー……今はちょっと遠慮しとこうかな」=“Experience something, huh.... I'll pass for now.”
+「体験かー……今はちょっと遠慮しとこうかな」=“Experience something, huh... I'll pass for now.”
 「俺と一緒にご飯に行かない？」=“Wanna go get something to eat together?”
 「いいよ。何を食べに行くの？」=“Sure. What're we gonna eat?”
 「ごめんね。今ちょっとご飯の気分じゃないんだ」=“Sorry, I'm not feeling like food right now.”
@@ -294,7 +294,7 @@
 「将来かぁ……まだよくわかんないけど、キミがそばにいてくれるならなんでもいいかな」=“Dreams, huh~... I still don't know but, as long as you're there for me, I think I'd be fine with anything.”
 「得意な料理ってある？」=“Got any recipes you're extra good at?”
 「カレーかな。ママも褒めてくれるんだよ、私のカレー」=“My curry, I guess. It even gets my mama's star of approval, you know~”
-「料理は、まぁ……何となく、タマゴかけご飯とか得意かも……」=“Recipes, huh, well... I guess I'm pretty good at cracking an egg over rice....”
+「料理は、まぁ……何となく、タマゴかけご飯とか得意かも……」=“Recipes, huh, well... I guess I'm pretty good at cracking an egg over rice...”
 「うーん、ごめん、なんか違うみたい。別の話題にしよっか」=“Nnn, sorry, my mind's kinda not in it. Let's talk about something else?”
 「ちゃんと研修やってる？」=“Are you making sure to do your research too?”
 「え、なにが？　あ、研修ね……あんまりやってない、えへへ」=“Eh? My what? Ah, research, huh... not really, eheheh.”

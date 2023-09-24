@@ -6,7 +6,7 @@
 「え、そうなの？　それじゃ、[H名]サーブからでいいよ」=“Eh, really? You can have the first serve then, [H名].”
 「オッケー♪　コテンパンにしちゃうね！」=“Okay~♪ You're gonna get beaten to a pulp, mister!”
 「あははっ、またスマッシュ決めちゃった♡」=“Ahahah--, I got another smash in♡”
-「つ、強い……！」=“S-So tough!....”
+「つ、強い……！」=“S-So tough!...”
 「小さい頃から子供会で鍛えられてるんだよね～。他にもボウリングとかバスケとかもそこそこやれちゃうんだから」=“I've been training my ping pong at gatherings ever since I was a good, you know~? I'm also pretty decent at bowling and basketball and whatnot.”
 「子供会って、近所の子供たちが保護者たちといろいろやるやつ？」=“Gatherings? You mean the sort where the parents from the neighbourhood would get all their kids together to do stuff?”
 「近所っていうか、その地区？　男の子も女の子もごちゃ混ぜで、いろいろ遊んでたよ」=“More like the entire district, for us? They'd throw all of us boys and girls together, and have us play games and whatnot.”
