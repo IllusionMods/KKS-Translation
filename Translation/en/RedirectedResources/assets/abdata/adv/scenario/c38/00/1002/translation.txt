@@ -6,7 +6,7 @@
 「うん、大丈夫。楽しむ感じでのんびりやろう。まずはラリーを続けることを目標に」=“Yep, don't worry. Let's just go slowly and try to enjoy it. For now, let's try to keep a rally going.”
 「はい、頑張ります」=“Yes, I'll do my best.”
 「うぅ……すみません。まさかたったの１０回も続かないなんて……」=“Uu... I'm sorry. I can't believe I can't manage even 10 hits...”
-「あはは、仕方ないよ。卓球って意外と難しいし……」=“Ahahah, it's fine, you can't help it. Not like table tennis is all that easy....”
+「あはは、仕方ないよ。卓球って意外と難しいし……」=“Ahahah, it's fine, you can't help it. Not like table tennis is all that easy...”
 「はい……もともとそれほど得意でないということもありますが……」=“Yes... to begin with, there's the fact that I'm not all that good at this...”
 「でも貴方はとても上手ですよね。やり方の本などを読まれたことがあるんでしょうか？」=“However, you're very good at it, aren't you? Have you read any books on it, perchance?”
 「うーん、特に読んだことはないけど……何となくできるようになった感じかな」=“Nnn, not really but... I just learned how to play it, I guess.”

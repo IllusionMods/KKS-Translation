@@ -119,7 +119,7 @@
 「ごめんなさい。遊びはやめておきます」=“I'm sorry. I'd rather not.”
 「一緒に何か体験しようよ」=“Let's go experience something together.”
 「分かりました。何か素敵な体験がしたいですね」=“Alright. It'd be nice if we could do something wonderful together.”
-「すみません。体験は、別の友達と約束がありまして……」=“I'm sorry. I promised a friend I'd go with her....”
+「すみません。体験は、別の友達と約束がありまして……」=“I'm sorry. I promised a friend I'd go with her...”
 「一緒にご飯を食べに行こうよ」=“Let's go eat something together or something, c'mon.”
 「わかりました。どこで食べるんですか？」=“Alright. Where shall we eat?”
 「ごめんなさい。今は、食事の気分ではないんです」=“I'm sorry. I am not very hungry at the moment.”
@@ -247,7 +247,7 @@
 「そうですか……残念ですね」=“Is that so... that's a shame.”
 「俺と一緒に遊びに行こうよ」=“Let's go have some fun together, c'mon.”
 「よろしいのですか。それではお供しますね」=“Are you sure? I shall join you then.”
-「残念です。他に遊びに行く約束がありまして……」=“It's quite the shame. I already have plans to go do something with a friend at the moment....”
+「残念です。他に遊びに行く約束がありまして……」=“It's quite the shame. I already have plans to go do something with a friend at the moment...”
 「できれば、私と一緒に遊びに行きませんか？」=“If possible, won't you go have some fun with me?”
 「ありがとう御座います。ご一緒出来て嬉しいです」=“Thank you very much. I am very happy that we can do it together.”
 「行けないんですね……残念です」=“You cannot, huh... shame.”
