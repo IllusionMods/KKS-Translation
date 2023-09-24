@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「灯台って、昼間も光ってるのかな～？」=
-//「基本的には、暗くなってからしか光らないと思うけど……」=
-//「じゃあ、完全に夜型っすね～……私と同じかも～」=
-//「いや、昼は昼でその姿自体が航路標識として役に立ってるから」=
-//「ますます同じだよ～……私も昼は昼で、一生懸命起きてるからね～」=
+「灯台って、昼間も光ってるのかな～？」=“Do lighthouses light up during the day too~?”
+「基本的には、暗くなってからしか光らないと思うけど……」=“I'm pretty sure they only light them up after dark but...”
+「じゃあ、完全に夜型っすね～……私と同じかも～」=“Then, it's a complete night owl then, huh~... just like me~”
+「いや、昼は昼でその姿自体が航路標識として役に立ってるから」=“No, it still serves as a beacon during the day, you know?”
+「ますます同じだよ～……私も昼は昼で、一生懸命起きてるからね～」=“That's even more like me~... I do my best to stay up during the day too, you know~”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「これいいっすね～……気持ち良かったんで、またお願いしたいくらいっすよ～」=
-//「気持ち良かったっすよ～……キミはオイル塗るの上手だね～」=
-//「うん、悪くなかったっすね～」=
-//「あれ？　塗ってくれないんすか～？」=
+「これいいっすね～……気持ち良かったんで、またお願いしたいくらいっすよ～」=“This is pretty nice stuff~... That felt so good, I think I wanna ask for that again later~”
+「気持ち良かったっすよ～……キミはオイル塗るの上手だね～」=“That felt great~... you're really good at rubbing oil on others, huh~?”
+「うん、悪くなかったっすね～」=“Yep, that wasn't bad at all~”
+「あれ？　塗ってくれないんすか～？」=“Huh? You won't do it~?”

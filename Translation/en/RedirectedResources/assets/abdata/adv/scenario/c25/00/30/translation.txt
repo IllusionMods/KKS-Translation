@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この辺、空気が涼しくて気持ちいいな～」=
-//「水しぶきが飛んでるから、気温が下がるんだろうね」=
-//「近くにベッドがあったら、ゆっくり眠れるのかな～」=
-//「こんな所にあったら湿気っちゃうよ」=
-//「そっか～……名案だと思ったのにな～」=
+「この辺、空気が涼しくて気持ちいいな～」=“The air here's so nice and cool, isn't it~?”
+「水しぶきが飛んでるから、気温が下がるんだろうね」=“I imagine it's all the water splashing around, cooling it for us.”
+「近くにベッドがあったら、ゆっくり眠れるのかな～」=“I wonder if I'd be able to sleep good, right at the edge? Wish there was a bed there.”
+「こんな所にあったら湿気っちゃうよ」=“It's just gonna get all wet and disgusting, you know?”
+「そっか～……名案だと思ったのにな～」=“I see~... I thought it was a pretty good idea though~”

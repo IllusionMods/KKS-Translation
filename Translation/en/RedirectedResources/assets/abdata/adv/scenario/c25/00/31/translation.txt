@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「色んなお土産物が売ってるね」=
-//「何か買ってったりするの～？」=
-//「どうしようかな、何かお土産は買っていくつもりだけど」=
-//「誰に～？」=
-//「基本、自分用かな」=
-//「じゃあ、私と同じだね～……私も自分用にお菓子でも買って行こっかな～」=
+「色んなお土産物が売ってるね」=“They sell all sorts of things here, huh?”
+「何か買ってったりするの～？」=“Gonna buy something~?”
+「どうしようかな、何かお土産は買っていくつもりだけど」=“Maybe, I did come here to buy something, so I won't leave empty handed atleast.”
+「誰に～？」=“Who's the lucky girl~?”
+「基本、自分用かな」=“I'm gonna be buying it for myself, really.”
+「じゃあ、私と同じだね～……私も自分用にお菓子でも買って行こっかな～」=“Same as me then~... maybe I'll buy some snacks for myself~”

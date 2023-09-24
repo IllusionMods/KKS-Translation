@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「紅型って、結構歴史があるみたいだね」=
-//「そうなんだ～？　どれくらい古いの～？」=
-//「１４～１５世紀ぐらいにはあったらしいよ」=
-//「良くわかんないけど、とにかく昔からあるんだね～」=
-//「まずは、歴史の重みを感じながら、頑張って染めて行こう」=
-//「うん、とりあえず頑張ってみるよ～」=
+「紅型って、結構歴史があるみたいだね」=“Seems like there's quite a bit of history to the stencil dyeing they do here.”
+「そうなんだ～？　どれくらい古いの～？」=“Really~? How old is it?~”
+「１４～１５世紀ぐらいにはあったらしいよ」=“Seems like they were still doing it as early as the 14th-15th century.”
+「良くわかんないけど、とにかく昔からあるんだね～」=“I don't really get it, but I guess it's pretty old, huh~”
+「まずは、歴史の重みを感じながら、頑張って染めて行こう」=“For now, let's try to do the best we can, while feeling the historical importance of it.”
+「うん、とりあえず頑張ってみるよ～」=“Yep, I'll try my best~”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「最高だったすよ～……キミのオイル塗りは完璧だね～」=
-//「ばっちりだったよ～……すっごく気持ち良かったっす」=
-//「うん、いい感じだったっすよ～」=
-//「どうしたんすか～？　まだ、塗ってないよ～」=
+「最高だったすよ～……キミのオイル塗りは完璧だね～」=“That was the best~... you're a master at this~”
+「ばっちりだったよ～……すっごく気持ち良かったっす」=“That was perfect~... it felt really nice.”
+「うん、いい感じだったっすよ～」=“Yep, that was great~”
+「どうしたんすか～？　まだ、塗ってないよ～」=“What's wrong~? You still haven't rubbed any on me, you know~”

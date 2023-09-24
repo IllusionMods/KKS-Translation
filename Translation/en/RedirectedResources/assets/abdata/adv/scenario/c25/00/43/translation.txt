@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この粘土をこねて、シーサーを作るんだ」=
-//「なるほど～……でも実際、シーサーって何なんすかね～」=
-//「魔除けのお守りみたいな感じかな、獅子が原型って言われてるらしいよ」=
-//「獅子って事は、ライオンなんだね～……狛犬の仲間かと思ってたよ～」=
-//「狛犬の原型も獅子らしいからね。大体似て来るんじゃないかな」=
-//「そっか～……それじゃあ、とりあえず頑張ってシーサー作ろっかな～」=
+「この粘土をこねて、シーサーを作るんだ」=“You mold this clay, and make a shisa like this.”
+「なるほど～……でも実際、シーサーって何なんすかね～」=“I see~... but, what are shisas really though, like actually~?”
+「魔除けのお守りみたいな感じかな、獅子が原型って言われてるらしいよ」=“I guess they're like evil warding charms, in a way? Apparently, their form is based on lions.”
+「獅子って事は、ライオンなんだね～……狛犬の仲間かと思ってたよ～」=“Lions, huh~... and here I thought they were the same as the guardian dogs at shrines~”
+「狛犬の原型も獅子らしいからね。大体似て来るんじゃないかな」=“Those are also based on lions, so I'm guessing that's why you think they look similar.”
+「そっか～……それじゃあ、とりあえず頑張ってシーサー作ろっかな～」=“I see~... well then, I guess for now I'll focus on making one~”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こうやってのんびり散歩するのも悪くないね」=
-//「波の音も心地いいもんね～」=
-//「気持ち良すぎて、眠くなっちゃわない？」=
-//「ちょっとね～……でも、キミといるから楽しくて起きちゃうよ～」=
-//「なら、もう少し歩こうか」=
-//「うん、そだね～」=
+「こうやってのんびり散歩するのも悪くないね」=“Relaxing walks like these aren't bad either, huh?”
+「波の音も心地いいもんね～」=“The waves sound so nice too~”
+「気持ち良すぎて、眠くなっちゃわない？」=“Aren't they gonna just make you feel sleepy though?”
+「ちょっとね～……でも、キミといるから楽しくて起きちゃうよ～」=“I'm already feeling it~... but, even if I fall asleep, being with you is so fun, I'll wake right up again~”
+「なら、もう少し歩こうか」=“In that case, let's walk a bit more.”
+「うん、そだね～」=“Yeah, okay~”

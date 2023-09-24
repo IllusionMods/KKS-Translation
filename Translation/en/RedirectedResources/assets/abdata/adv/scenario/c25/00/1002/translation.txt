@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お、卓球台だ。やっていこうか」=
-//「よっしゃこ～～い」=
-//「目が死んでる」=
-//「びびってんのか、おら～」=
-//「そんなにやる気ないのに素直に付き合ってくれたことに愛を感じるよ……」=
-//「愛って、ま、まあ、うん……だいたいそういう感じっす」=
-//「それじゃ、俺からいくよ。ゆっくりね～？」=
-//「ふぅ、こんなところかな。そろそろ切り上げようか」=
-//「卓球って実質、初めてくらいな感じだったんだけど～……私、天才かも？」=
-//「あんな山なりのラリーで……」=
-//「初めてくらいなのに、ぽこんぽこんって続くのヤバいでしょ～」=
-//「かもね、才能あるかも」=
-//「いや～、意外な才能を見つけちゃったね～～」=
-//「そんなに気に入ったんなら、もうちょっとやっていく？」=
-//「それは無理。疲れたし」=
-//「……そう」=
+「お、卓球台だ。やっていこうか」=“Oh, a ping pong table. Let's go for a round.”
+「よっしゃこ～～い」=“Come at me then~!”
+「目が死んでる」=“Those are some dead eyes.”
+「びびってんのか、おら～」=“You scared or sumthin', c'mon~”
+「そんなにやる気ないのに素直に付き合ってくれたことに愛を感じるよ……」=“The way you're still going along with it despite not caring one whit about it... I really do feel your love.”
+「愛って、ま、まあ、うん……だいたいそういう感じっす」=“Love, w-well, yeah... you're more or less on the money.”
+「それじゃ、俺からいくよ。ゆっくりね～？」=“Well then, here I go then. Let's go slow~, okay?”
+「ふぅ、こんなところかな。そろそろ切り上げようか」=“Fuuh, that's that then. Let's wrap it up there.”
+「卓球って実質、初めてくらいな感じだったんだけど～……私、天才かも？」=“That was like, the first time I've ever played any ping pong though~... am I a ping pong genius?”
+「あんな山なりのラリーで……」=“Did you see your own hits...”
+「初めてくらいなのに、ぽこんぽこんって続くのヤバいでしょ～」=“It's pretty insane that I was able to hit them back at all, even though it's my first time, no~?”
+「かもね、才能あるかも」=“Maybe, you might have some talent afterall.”
+「いや～、意外な才能を見つけちゃったね～～」=“Man~, I never expected to be discovered in a place like this~”
+「そんなに気に入ったんなら、もうちょっとやっていく？」=“If you're that into it, wanna go for another round?”
+「それは無理。疲れたし」=“No way. I'm beat.”
+「……そう」=“...I see.”

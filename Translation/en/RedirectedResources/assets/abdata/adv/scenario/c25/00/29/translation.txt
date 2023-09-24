@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それで……キミの部屋でなにする～？　いかがわしいこと～？」=
-//「[H名]がいいなら……俺はエッチしたいな」=
-//「……冗談を言ったつもりだったんだけど、まさか本気だったなんて～」=
-//「でもまぁ……いいよ？　しちゃおっか、エッチ～」=
+「それで……キミの部屋でなにする～？　いかがわしいこと～？」=“So then... what're we doing~? Something indecent~?”
+「[H名]がいいなら……俺はエッチしたいな」=“If you don't mind, [H名]... I wanna have sex.”
+「……冗談を言ったつもりだったんだけど、まさか本気だったなんて～」=“...I said it as a joke, I can't believe that's what you actually wanted~”
+「でもまぁ……いいよ？　しちゃおっか、エッチ～」=“But well~... I don't mind, you know? Let's do it, let's have sex~”

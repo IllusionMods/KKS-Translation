@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「色んな料理を堪能したね～。また二人で食べに来よう～」=
+「色んな料理を堪能したね～。また二人で食べに来よう～」=“We enjoyed a whole lot of new dishes today, didn't we~? Let's come here again together~”

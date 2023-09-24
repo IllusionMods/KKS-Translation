@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「付き合うって、彼氏彼女でって事？」=
-//「そ、そうだよ……恥ずかしいけど、本気っすよ……」=
-//「ありがとう、嬉しいよ……俺もきみの事が好きだから」=
-//「だったら、付き合って、くれるの……？」=
-//「もちろんだよ。これからもよろしくね」=
-//「うん、良かったよ～、勇気出して～……今日はぐっすり眠れそうだよ～」=
+「付き合うって、彼氏彼女でって事？」=“Go out, you mean as a boyfriend and girlfriend?”
+「そ、そうだよ……恥ずかしいけど、本気っすよ……」=“T-That's right... it's embarrassing but, I mean it...”
+「ありがとう、嬉しいよ……俺もきみの事が好きだから」=“Thanks, I'm so happy... I love you too, afterall.”
+「だったら、付き合って、くれるの……？」=“So you'll, go out, with me...?”
+「もちろんだよ。これからもよろしくね」=“Of course. Take care of me, alright?”
+「うん、良かったよ～、勇気出して～……今日はぐっすり眠れそうだよ～」=“Okay, I'm so glad, that I summoned up the courage~... I bet I'll sleep great tonight~”

@@ -4,7 +4,7 @@
 「この前暇だった時に、キミの愛称を考えてみたんだ～」=“I was thinking up a nickname for you, when I had some free time the other day~”
 「へえ、どんな感じ？」=“Hoh, what sort of nickname?”
 「興味ある～？　それじゃあ、呼んでみるね～」=“Interested~? Well then, I'll use it, okay?~”
-「[Pあだ名]」=“[Pあだ名]”
+「[Pあだ名]」=“[Pあだ名].”
 「おお、[H]らしいというかなんというか」=“Ooh, only you could come up with something like that.”
 「気に入らなかった？」=“Don't like it?”
 「いや全然。……俺も[H]の愛称考えてみたんだけど……[Hあだ名]、なんてどう？」=“No, I do. ...I've been thinking about a nickname for you as well... [Hあだ名], how about that?”

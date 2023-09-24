@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「買い過ぎて荷物になっちゃったかな～……持って帰るのが面倒だ～」=
+「買い過ぎて荷物になっちゃったかな～……持って帰るのが面倒だ～」=“I think I bought a bit too much, what a pain~... I'll have to carry it all back~”

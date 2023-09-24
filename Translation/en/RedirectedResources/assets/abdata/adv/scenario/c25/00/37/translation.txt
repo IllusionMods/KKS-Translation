@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「とりあえず、何かレンタルして遊ぼうか」=
-//「ハンモックで、寝るのがいいかな～」=
-//「それは多分、遊びって言わない気がするよ……」=
-//「だったら～……シュノーケリングでいいや～」=
-//「海の中を観察するの？」=
-//「いや～……クラゲみたいにぷかぷか浮いてようかなぁって思って～」=
+「とりあえず、何かレンタルして遊ぼうか」=“For now, let's rent something and mess around with it.”
+「ハンモックで、寝るのがいいかな～」=“We could rent some hammocks and sleep in them~”
+「それは多分、遊びって言わない気がするよ……」=“I feel like you can't really call that "messing around"...”
+「だったら～……シュノーケリングでいいや～」=“In that case~... we can go with snorkeling, I guess~”
+「海の中を観察するの？」=“You wanna look at fish underwater?”
+「いや～……クラゲみたいにぷかぷか浮いてようかなぁって思って～」=“No~... thought that maybe I'd give floating around like a jellywish a try just once~”

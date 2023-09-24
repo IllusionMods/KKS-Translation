@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「わ、私とっすか？　い、いきなりっすね～……」=
-//「いきなりじゃないよ……ずっときみとＨしたかったんだ」=
-//「ずっとっすか……それはそれで……でも、キミが相手なら、嫌じゃないかな～……」=
-//「……ＯＫなの？」=
-//「恥ずかしいけど、いいっすよ～……その代わり、ちゃんと優しくしてね～……」=
+「わ、私とっすか？　い、いきなりっすね～……」=“W-With me? T-That's a bit out of the blue~...”
+「いきなりじゃないよ……ずっときみとＨしたかったんだ」=“It's not... I've always wanted to have sex with you, for the longest time.”
+「ずっとっすか……それはそれで……でも、キミが相手なら、嫌じゃないかな～……」=“Really?... That sounds pretty... but, I guess I don't mind if it's you~...”
+「……ＯＫなの？」=“...Really?”
+「恥ずかしいけど、いいっすよ～……その代わり、ちゃんと優しくしてね～……」=“It's embarrassing but, sure~... but you have to be gentle in return, okay?~...”
