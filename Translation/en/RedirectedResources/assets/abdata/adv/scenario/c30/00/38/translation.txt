@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「さってと、来てみたはいいけど何して遊ぼっか？」=“Now then, we did come here but what should we do?”
-「そうだねぇ……海、砂浜……追いかけっこ……？」=“Let's see~... the sea, the beach... tag, maybe....?”
-「うふふ、捕まえて御覧なさ～い、って？　流石にちょっと恥ずかしいわね……」=“Ufufuh, "catch me if you can~", and all? That'd definitely be a bit embarrassing....”
-「ま、まあね……それにイチャイチャなら普段からしてるしね」=“Y-Yeah.... and we do flirt a lot normally anyway.”
+「そうだねぇ……海、砂浜……追いかけっこ……？」=“Let's see~... the sea, the beach... tag, maybe...?”
+「うふふ、捕まえて御覧なさ～い、って？　流石にちょっと恥ずかしいわね……」=“Ufufuh, "catch me if you can~", and all? That'd definitely be a bit embarrassing...”
+「ま、まあね……それにイチャイチャなら普段からしてるしね」=“Y-Yeah... and we do flirt a lot normally anyway.”
 「そうそう。あ、でもイチャイチャしたくないわけじゃないわよ？　そこは勘違いしちゃダメだからね？」=“Yepyep. Ah, but that's not to say I don't want to flirt, okay? You definitely can't misunderstand that part, okay?”

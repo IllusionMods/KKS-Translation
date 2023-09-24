@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ねぇ、いる……？」=“Hey, are you in....?”
+「ねぇ、いる……？」=“Hey, are you in...?”
 SELECTION:「返事をする」=Answer her
-SELECTION:「……」=......
+SELECTION:「……」=...
 「いるよ。どうしたの？」=“I am. What's up?”
 「急にごめん、お邪魔するわね」=“Sorry for just showing up. I'm coming in, okay?”
-「あはは、ふとキミの事を思い出しちゃったらつい我慢出来なくなっちゃって……ね、お願い……」=“Ahahah, I suddenly just thought of you and couldn't control myself... hey, please....”
+「あはは、ふとキミの事を思い出しちゃったらつい我慢出来なくなっちゃって……ね、お願い……」=“Ahahah, I suddenly just thought of you and couldn't control myself... hey, please...”
 「……いない、か……」=“...You're not, huh...”

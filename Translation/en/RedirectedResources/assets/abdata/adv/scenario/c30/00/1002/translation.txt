@@ -2,16 +2,16 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「卓球台があるよ！　やってみよう」=“They've got a ping pong table! Let's try using it.”
-「うーん、普通にやったんじゃキミの方が有利よねぇ。でも勝負もしたいし……」=“Nnnn, doing it normally would just give you the advantage, wouldn't it~? But I do want to play....”
+「うーん、普通にやったんじゃキミの方が有利よねぇ。でも勝負もしたいし……」=“Nnnn, doing it normally would just give you the advantage, wouldn't it~? But I do want to play...”
 「だったらハンデをつけるってのはどうかな？」=“Then how about we put a handicap on me?”
 「えー、それじゃ最初から負けてるみたいじゃない？　ちょっと待ってね。絶対に何か考えるわ」=“Eh~, isn't that like just admitting that I can't win from the getgo? Just hang on a second, okay? I'll definitely think up something.”
-「…………」=“.......................”
+「…………」=“...”
 「な……何よ？　今笑ったでしょう？　もしかしてバカにしてる……とか？　もう、私だって卓球くらい普通に……」=“W... What? You just laughed, didn't you? Are you... looking down on me, by any chance? Jeez, I can play some table tennis too, you know...”
 「あはは、ごめんごめん。可愛いなと思って……こんな風にムキになることもあるんだなって」=“Ahahah, sorry, sorry. I just thought it was adorable... I've never seen you get so worked up over something.”
 「っ！？　もーっ、真剣勝負の前にそれはずるいわよっ！　私を恥ずかしがらせて戦意消失させる気ね？」=“--!? Jeez~, that's really unfair right before a match, you know--! You're trying to make me lose all my fighting spirit before we even start, aren't you?”
 「あはは、違うって。それで……どうする？」=“Ahahah, I'm not, really. So then... what do we do?”
 「油断ならないわね。あっ、こういうのはどう？　お互いの好きなところを言いながらラリーするの！　よし、早速やりましょ！」=“Can't let my guard down around you at all, can I? Ah--, how about this? Let's have a rally while we list off things we love about each other! Alright, let's do it!”
-「うあ……負けたぁ……これって恥ずかしすぎるよ……」=“Uwah... I lost.... how mortifying...”
+「うあ……負けたぁ……これって恥ずかしすぎるよ……」=“Uwah... I lost... how mortifying...”
 「ふふっ、私の圧勝！　やっぱり私の方がキミを好きってことなのかしら。その勝負がついたってことよね」=“Fufuh--, I win by a landslide! I suppose I just love you more, huh? That's that one settled then.”
 「それはないよ！　俺も負けないくらい[H名]のこと好きなんだから！」=“Not just yet! My love for you isn't gonna lose so easily, you know!”
 「も、もーっ、また私を恥ずかしがらせて！　私だって負けないくらいキミを好きなのよ！　それじゃ、もう一勝負しましょう！」=“J-Jeez, trying to make me flustered again! Mine won't either, you know! Alright, time for one more round!”

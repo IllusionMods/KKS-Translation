@@ -2,12 +2,12 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「綺麗な星空……この時間のここって、こんなにたくさんの星が見えるのね」=“Such a beautiful sky... You can see this many stars here at this hour, huh?”
-「それも普通の星じゃなくて……たくさんの流れ星……はぁぁ……幻想的でうっとりするわ」=“And they're not just normal stars either.... they're all shooting stars, all of them... haah... it's so fantastical, I'm getting charmed.”
+「それも普通の星じゃなくて……たくさんの流れ星……はぁぁ……幻想的でうっとりするわ」=“And they're not just normal stars either... they're all shooting stars, all of them... haah... it's so fantastical, I'm getting charmed.”
 「[H名]もこういうの好きなんだ？」=“You like this sort of thing too, [H名]?”
 「もう、当然でしょ？　私だって一応女の子なんですからね。こんな景色を見せられたらドキドキするわよ」=“Jeez, do you have to ask? I'm a girl too, you know. I'm gonna have my heart pound too, if you show me a sight like this.”
 「もしも独りで見てたとしても？」=“Would it still pound, if you saw it by yourself?”
 「いじわる……キミと一緒だからドキドキしてるのよ。わかってるくせに……全くキミは……」=“Such a meanie... my heart's pounding because you're here. You know it too... always being so cheeky...”
-「あはは、ごめん。きちんと聞いておきたくて……」=“Ahahaha, sorry. I just had to know....”
+「あはは、ごめん。きちんと聞いておきたくて……」=“Ahahaha, sorry. I just had to know...”
 「それじゃ逆に……キミはどうなの？　流れ星、私と一緒に見られてドキドキしない？」=“Then let me turn it on you... what about you? Isn't your heart pounding too, since I'm here?”
 「するよ。ドキドキしっぱなしで……緊張してる」=“Of course. It's pounding non stop... making me nervous.”
 「本当かしら？　なーんか余裕たっぷりって感じじゃない？　絶対私の方がドキドキしてるわ」=“You sure? You don't look very nervous to me. My heart's definitely pounding more.”
@@ -18,7 +18,7 @@
 「でも、そうね。せっかくキミと二人、満天の星空を見上げてるんだから……ドキドキしてる方が嬉しいわ」=“But, yeah. We're together here, watching the star fall together... feeling my heart pound makes me happier.”
 「ドキドキしながら……流れ星に、このドキドキがいつまでも続きますように……ってお願いするの」=“While it's still pounding... I'll make a wish to the stars... so that it keeps going.”
 「あはは、そんなことお願いする必要ないよ。俺たちはいつまでもこのままでしょ？」=“Ahahah, you don't need to wish for something like that. The two of us will always be like this, no?”
-「どうかしら……？　私はともかく、キミの性格だとすぐにふらーっとどこかへ行っちゃいそうだけど」=“Who knows....? Leaving me aside, I feel like with your personality, you'd just disappear out of nowhere someday and leave me all alone.”
+「どうかしら……？　私はともかく、キミの性格だとすぐにふらーっとどこかへ行っちゃいそうだけど」=“Who knows...? Leaving me aside, I feel like with your personality, you'd just disappear out of nowhere someday and leave me all alone.”
 「偏見だ！」=“That's prejudice, I tell you!”
 「ふふっ、ごめんなさい、冗談よ。キミって時々妙に可愛いから……ついいじわる言いたくなっちゃう」=“Fufuh--, I'm sorry, I was joking. You just get so adorable sometimes... I just can't help but tease you sometimes.”
 「もう……それじゃさっきの俺と同じだよ。[H名]が可愛いからいじわる言いたくなるんだ」=“Jeez... that's no different from me then, though. I say the cheeky stuff I say because you're adorable, [H名].”
