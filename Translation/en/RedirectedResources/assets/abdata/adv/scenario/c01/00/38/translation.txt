@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なにして遊ぶか悩むね。ビーチバレーか、それともビーチフラッグか……」=
-//「へ？　その二択なんですか？　後者は勝ち目がないので遠慮したいです……」=
-//「いや冗談だよ。でもこんな綺麗な海があると、何をして遊ぶか迷うよね」=
-//「泳ぐのも、浜辺でゆっくりするのも楽しいし」=
-//「ふふ、そうですね。ちょっと贅沢な悩みです」=
+「なにして遊ぶか悩むね。ビーチバレーか、それともビーチフラッグか……」=“As usual, it's hard to decide what to do, isn't it? Do we play beach volleyball, or maybe beach flags...”
+「へ？　その二択なんですか？　後者は勝ち目がないので遠慮したいです……」=“Eh? Do we have just those two options? I'd rather pass on that second one since I will get absolutely decimated...”
+「いや冗談だよ。でもこんな綺麗な海があると、何をして遊ぶか迷うよね」=“No, I was just joking. But with a sea this pretty, it really is hard to decide what to do, isn't it?”
+「泳ぐのも、浜辺でゆっくりするのも楽しいし」=“Even just swimming around, or walking along the beach would be plenty fun too.”
+「ふふ、そうですね。ちょっと贅沢な悩みです」=“Fufuh, indeed. We really are spoilt for choice.”

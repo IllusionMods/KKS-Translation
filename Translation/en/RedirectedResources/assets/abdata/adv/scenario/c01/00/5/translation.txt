@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……いよいよ、この時が来たんですね」=
-//「はいっ、私の初めてをもらってください」=
-//「ありがとう。俺、優しくするから」=
-//「……よろしくお願いします」=
+「……いよいよ、この時が来たんですね」=“...The time has finally come, hasn't it?”
+「はいっ、私の初めてをもらってください」=“Yes--! Please take my virginity.”
+「ありがとう。俺、優しくするから」=“Thank you. I'll be gentle.”
+「……よろしくお願いします」=“...Please.”

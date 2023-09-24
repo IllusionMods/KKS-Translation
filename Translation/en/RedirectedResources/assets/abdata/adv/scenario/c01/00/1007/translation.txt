@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「見て、深海魚コーナーだって。変わった生き物がいっぱいいるね」=
-//「皆さん独特の形をしていますね。魚ではなく大きなカニさんや……ダンゴムシさんまで」=
-//「タカアシガニにダイオウグソクムシだね。どっちも深海魚の中では人気があるんじゃないかな」=
-//「ふふ、大分お詳しいようですが、あなたもお好きなのですか？」=
-//「そこまで詳しくはないけど、グソクムシは一時期話題になったからね。それで調べたんだ」=
-//「五年近く何も食べなくても生きられるらしいよ。凄いよね」=
-//「凄いというか、想像もできませんね。私なんて……一日食べなかっただけでも倒れてしまいそうです」=
-//「はは、それは俺だって同じだよ。でもそう考えると、俺達って幸せなんだね」=
-//「はい、深海のように食べ物が少ないわけでもありませんし。とても贅沢な暮らしをさせてもらっていますね」=
-//「うんうん。好きな時に好きなだけ食べられて、こうやって恋人とデートもできて、ホント幸せだね」=
-//「ふふ、デートならグソクムシさん達だってしているかもしれませんよ？」=
-//「深海のデートかぁ……なんかロマンチックだね」=
-//「もし、深海で二人きりになったらどうします？」=
-//「うーん……俺の酸素を口移しで分ける……とか？」=
-//「えっ、いえ、そういうサバイバル的な話ではなく……！　もっとこう、うぅ……」=
-//「はは、分かってるよ。今のは冗談。深海で真珠でも取って、[H名]にプレゼントしてあげたいかな」=
-//「それは素敵ですね。私、絶対一生の宝物にします」=
-//「まぁでも、あくまで想像の話だからね……」=
-//「今はそうだな……グソクムシのぬいぐるみを後でプレゼントしてあげるよ」=
-//「えっ、グソクムシさんのぬいぐるみなんてあるのですか？」=
-//「たぶんあるんじゃないかな？　一時期流行った時に入手困難だったりしたけど……」=
-//「では、本当に欲しい方のために遠慮しておきます。私は、二人で水族館に来られただけで満足ですから」=
+「見て、深海魚コーナーだって。変わった生き物がいっぱいいるね」=“Look, it says 'deep sea fish corner'. There's so many weird ones here.”
+「皆さん独特の形をしていますね。魚ではなく大きなカニさんや……ダンゴムシさんまで」=“They've all got very unique shapes, don't they? There's fewer fish and more big mister crabs or... even mister pillbugs.”
+「タカアシガニにダイオウグソクムシだね。どっちも深海魚の中では人気があるんじゃないかな」=“Yep, that's a giant spider crab and a giant isopod. Pretty popular as far as deep sea creatures go, I think.”
+「ふふ、大分お詳しいようですが、あなたもお好きなのですか？」=“Fufuh, you seem to know quite a lot about them, do you like them as well?”
+「そこまで詳しくはないけど、グソクムシは一時期話題になったからね。それで調べたんだ」=“I wouldn't say I know a 'lot' but, they were a fad for a while, you know? That's how I learned of them.”
+「五年近く何も食べなくても生きられるらしいよ。凄いよね」=“Apparently they can live for upwards of 5 years without eating anything. It's amazing, isn't it?”
+「凄いというか、想像もできませんね。私なんて……一日食べなかっただけでも倒れてしまいそうです」=“So amazing I cannot even imagine it. If I tried to do it... I wouldn't last even a day without collapsing.”
+「はは、それは俺だって同じだよ。でもそう考えると、俺達って幸せなんだね」=“Hahah, I'm in the same boat there. But, thinking about it, we're pretty blessed, aren't we?”
+「はい、深海のように食べ物が少ないわけでもありませんし。とても贅沢な暮らしをさせてもらっていますね」=“Yes, unlike in the deep sea, we have plenty of food to go around too. We live quite the pampered life, don't we?”
+「うんうん。好きな時に好きなだけ食べられて、こうやって恋人とデートもできて、ホント幸せだね」=“Yepyep. Eating whenever we want to, as much as we want to, even being able to casually go out on dates like this, we really are blessed.”
+「ふふ、デートならグソクムシさん達だってしているかもしれませんよ？」=“Fufuh, you never know. Even mister and miss isopods might go on dates, you know?”
+「深海のデートかぁ……なんかロマンチックだね」=“A date deep under the sea, huh... sounds kinda romantic.”
+「もし、深海で二人きりになったらどうします？」=“What if we found ourselves deep under the sea, just us? What would you want to do?”
+「うーん……俺の酸素を口移しで分ける……とか？」=“Nnn... share my oxygen mouth to mouth with you... I guess?”
+「えっ、いえ、そういうサバイバル的な話ではなく……！　もっとこう、うぅ……」=“Eh--, no, I didn't mean it in that survival sort of way...! I meant it more, uuu...”
+「はは、分かってるよ。今のは冗談。深海で真珠でも取って、[H名]にプレゼントしてあげたいかな」=“Hahah, I know. I was just pulling your leg. I'd love to find a big pearl, and gift it to you.”
+「それは素敵ですね。私、絶対一生の宝物にします」=“That sounds lovely. I'd definitely treasure it for our entire lives.”
+「まぁでも、あくまで想像の話だからね……」=“Ah but, I can't actually get you one of those, alright? That was just for argument's sake...”
+「今はそうだな……グソクムシのぬいぐるみを後でプレゼントしてあげるよ」=“For now, let's see... I'll buy you a stuffed isopod doll from the gift shop.”
+「えっ、グソクムシさんのぬいぐるみなんてあるのですか？」=“Eh--, they have one of those?”
+「たぶんあるんじゃないかな？　一時期流行った時に入手困難だったりしたけど……」=“Probably, no? They were really hard to get your hands on though, when they were a fad...”
+「では、本当に欲しい方のために遠慮しておきます。私は、二人で水族館に来られただけで満足ですから」=“I suppose I'll pass on it then, so that someone who really wants one can have it instead. Just coming here with you was more than enough for me.”

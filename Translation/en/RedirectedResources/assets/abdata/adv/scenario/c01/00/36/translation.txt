@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なるほど……あなたとカヤックに乗るんですね」=
-//「あー……ごめん、嫌だったかな？　今からでも別のことする？」=
-//「いえ、嫌なわけではありません！　ただ少し緊張するなと思いまして……」=
-//「足手まといにならない様にしっかり漕ぐので、よろしくお願いいたしますっ」=
-//「いやいや、別にスポーツじゃないんだから、気楽に楽しもうよ」=
+「なるほど……あなたとカヤックに乗るんですね」=“I see... so we're going to be riding a kayak together, huh?”
+「あー……ごめん、嫌だったかな？　今からでも別のことする？」=“Ah... sorry, would you rather not? Wanna go for something else instead? We can, you know?”
+「いえ、嫌なわけではありません！　ただ少し緊張するなと思いまして……」=“No, that's not what I meant, that's not the case at all! I just thought that I might end up getting a bit nervous...”
+「足手まといにならない様にしっかり漕ぐので、よろしくお願いいたしますっ」=“I'll do my best to row, to not be a burden so, please take care of me--”
+「いやいや、別にスポーツじゃないんだから、気楽に楽しもうよ」=“Relax, we're not competing for anything here, let's just enjoy ourselves.”

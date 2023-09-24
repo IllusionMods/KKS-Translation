@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おお、すっごく綺麗だ。手先が器用なんだね」=
-//「い、いえ、それほどでもありませんよ」=
-//「謙遜しなくていいのに。本当に綺麗だよ」=
-//「はぅ……紅型の事だと分かっていますが、繰り返し『綺麗』だと言われると照れてしまいます……」=
+「おお、すっごく綺麗だ。手先が器用なんだね」=“Ooh, it's so beautiful. You really are good with your fingers.”
+「い、いえ、それほどでもありませんよ」=“N-Not at all, it really isn't that amazing.”
+「謙遜しなくていいのに。本当に綺麗だよ」=“No need to be so humble. Seriously, so beautiful.”
+「はぅ……紅型の事だと分かっていますが、繰り返し『綺麗』だと言われると照れてしまいます……」=“Hauu... I realize you're talking about the item but, if you keep saying "beautiful" again and again I will end up blushing...”

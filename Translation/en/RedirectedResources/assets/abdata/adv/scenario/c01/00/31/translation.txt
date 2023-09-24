@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「家族や友達用じゃなくて、自分の為のお土産は買った？」=
-//「いえ、特には。気になる品はいくつかあるのですが……」=
-//「一度迷ってしまうと、なにを購入するか中々決められないんです」=
-//「あー、どれも魅力的だとそうなっちゃうよね」=
-//「はい……全部購入出来れば良いのですが、流石に荷物がかさばってしまうので……」=
+「家族や友達用じゃなくて、自分の為のお土産は買った？」=“Did you buy any souvenirs for yourself yet? Not ones for your family or friends.”
+「いえ、特には。気になる品はいくつかあるのですが……」=“No, not really. There's many that I've got my eye on, but...”
+「一度迷ってしまうと、なにを購入するか中々決められないんです」=“Once the list starts expanding, it's hard to decide which to settle upon.”
+「あー、どれも魅力的だとそうなっちゃうよね」=“Ah, I guess that can't be helped, when all of them are so nice.”
+「はい……全部購入出来れば良いのですが、流石に荷物がかさばってしまうので……」=“Yes... It'd be nice if I could get them all but, my luggage truly would become a bit too unwieldy...”

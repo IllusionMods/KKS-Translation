@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へ……？　い、今、私のことを好きだと、仰いましたか？」=
-//「うん……そうだよ。俺は君のことが好きなんだ」=
-//「はぅっ！？……わ、私の聞き間違いではなかったんですね」=
-//「えっと、その……私も、あなたのことが……好きです」=
-//「本当に？　あぁ、嬉しいよ。俺たち両想いだったんだね」=
-//「私も嬉しいです。えっと……改めまして、これから恋人としてよろしくお願いいたします」=
+「へ……？　い、今、私のことを好きだと、仰いましたか？」=“Heh...? D-Did you just say, that you love me?”
+「うん……そうだよ。俺は君のことが好きなんだ」=“Yeah... that's right. I love you, [H].”
+「はぅっ！？……わ、私の聞き間違いではなかったんですね」=“Hauu---?! ...I-I did not mishear you then, did I?”
+「えっと、その……私も、あなたのことが……好きです」=“Erhm, uhm... I-I uhm, love... you as well.”
+「本当に？　あぁ、嬉しいよ。俺たち両想いだったんだね」=“You mean it? Aah, I'm so happy. So we loved each other this whole time, huh?”
+「私も嬉しいです。えっと……改めまして、これから恋人としてよろしくお願いいたします」=“I'm very happy as well. Erhm... saying it formally, let's be a couple from now on.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふふ、ありがとうございます。お陰でとてもスッキリできました」=
-//「お上手でした。ありがとうございます」=
-//「ありがとうございます。お疲れではありませんか？」=
-//「えっと……なにか急用を思い出したのですか？」=
+「ふふ、ありがとうございます。お陰でとてもスッキリできました」=“Fufuh, thank you very much. Thanks to you, I feel very refreshed right now.”
+「お上手でした。ありがとうございます」=“That was really good. Thank you very much.”
+「ありがとうございます。お疲れではありませんか？」=“Thank you very much. Are you tired?”
+「えっと……なにか急用を思い出したのですか？」=“Erhm... did you remember some urgent business, or something?”

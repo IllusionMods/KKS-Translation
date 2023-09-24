@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「え、エッチしたい……？　……あっ、私の聞き間違いですね！　そうに違いありません！」=
-//「……違うよ。俺、本当にエッチしたいって言ったんだ」=
-//「……本当に仰っていたんですね。でも、その……私たちはお付き合いをしているわけでは……」=
-//「勿論、承知の上だよ。それでも俺は君とエッチしたいんだ」=
-//「そんな真剣な目で見つめられてしまうと……わ、分かりました……優しく、してください……」=
+「え、エッチしたい……？　……あっ、私の聞き間違いですね！　そうに違いありません！」=“Eh, you wish to have sex...? ...Ah--, I misheard you, didn't I! I must have!”
+「……違うよ。俺、本当にエッチしたいって言ったんだ」=“...You didn't. I really did say that I want to have sex with you.”
+「……本当に仰っていたんですね。でも、その……私たちはお付き合いをしているわけでは……」=“...You really did, didn't you? But, uhm... we're not dating and...”
+「勿論、承知の上だよ。それでも俺は君とエッチしたいんだ」=“Of course, I realize that. Even so, I want us to have sex.”
+「そんな真剣な目で見つめられてしまうと……わ、分かりました……優しく、してください……」=“Please don't look at me with such serious eyes... I-I understand... please be, gentle...”

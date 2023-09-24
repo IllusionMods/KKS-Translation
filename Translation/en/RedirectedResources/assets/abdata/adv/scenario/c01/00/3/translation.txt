@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「俺のことが好きって……夢じゃないよね？」=
-//「……はい。勇気を出した私の告白は、夢じゃありません」=
-//「あなたのことが、好きなんです」=
-//「ありがとう。俺も……君のことが好きだよ」=
-//「あぁ……嬉しいです。私たち……恋人になれるんですね？」=
-//「うんっ。これからも、よろしくね」=
+「俺のことが好きって……夢じゃないよね？」=“You love... this isn't a dream or anything, right?”
+「……はい。勇気を出した私の告白は、夢じゃありません」=“...Yes. It took so much confidence from me, it's not a dream at all.”
+「あなたのことが、好きなんです」=“I love, you.”
+「ありがとう。俺も……君のことが好きだよ」=“Thank you. I... love you too.”
+「あぁ……嬉しいです。私たち……恋人になれるんですね？」=“Aah... I'm so happy. We can really... be a couple, right?”
+「うんっ。これからも、よろしくね」=“Yeah--. From now on, we are one.”

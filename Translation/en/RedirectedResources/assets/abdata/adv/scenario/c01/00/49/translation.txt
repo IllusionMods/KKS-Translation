@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うーん、何を注文するか迷ってしまいます。あなたはもう決めましたか？」=
-//「そばとじゅーしーっていうご飯のセットにしたよ。メニューのここにあるやつ」=
-//「あ、美味しそうですね。私も同じものにします」=
-//「他になにか頼む？　二人でシェアできるものとか」=
-//「えーと……では、この天ぷらはいかがでしょう？」=
-//「それ俺も気になってたんだ。よし、じゃあこれで注文しちゃおうか」=
+「うーん、何を注文するか迷ってしまいます。あなたはもう決めましたか？」=“Nnnnn, I just cannot decide what to order. Have you already picked yours?”
+「そばとじゅーしーっていうご飯のセットにしたよ。メニューのここにあるやつ」=“Soba and this "Juicy" rice set, whatever it is. This one, here.”
+「あ、美味しそうですね。私も同じものにします」=“Ah, that looks very delicious. I will go for the same.”
+「他になにか頼む？　二人でシェアできるものとか」=“Wanna order something else too? Something we can both share.”
+「えーと……では、この天ぷらはいかがでしょう？」=“Erhm... then, how about this tempura?”
+「それ俺も気になってたんだ。よし、じゃあこれで注文しちゃおうか」=“I kinda wanted that too. Alright, let's go with that for now then.”

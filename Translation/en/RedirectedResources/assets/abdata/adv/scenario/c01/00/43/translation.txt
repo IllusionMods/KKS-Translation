@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「知ってた？　シーサーって口を開けてる方がオスで、閉じてる方がメスなんだって」=
-//「なるほど、狛犬と一緒なんですね」=
-//「あと、オスとメスでそれぞれ役割が違うから、必ず２体セットじゃないといけないらしいよ」=
-//「ということは、私達は二体シーサーを作らないといけないのでしょうか？」=
-//「う、うーん……一体分の材料しかないし、必要ないと思うけど」=
+「知ってた？　シーサーって口を開けてる方がオスで、閉じてる方がメスなんだって」=“Did you know? The ones with their mouths open are males, and the ones with their mouths closed are female.”
+「なるほど、狛犬と一緒なんですね」=“I see, they're the same as shrine guardian dogs, huh?”
+「あと、オスとメスでそれぞれ役割が違うから、必ず２体セットじゃないといけないらしいよ」=“Also, both of them have different roles so, you gotta have both else they're not effective, apparently.”
+「ということは、私達は二体シーサーを作らないといけないのでしょうか？」=“Does that mean that we must both create a set of shisas each?”
+「う、うーん……一体分の材料しかないし、必要ないと思うけど」=“N-Nnn... we've only got enough material for one set so, I don't think we really have to.”

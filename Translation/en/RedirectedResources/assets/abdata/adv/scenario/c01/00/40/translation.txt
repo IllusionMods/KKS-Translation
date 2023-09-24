@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふふ、とても楽しかったです。あなたも楽しんでいただけたのなら、嬉しいです」=
+「ふふ、とても楽しかったです。あなたも楽しんでいただけたのなら、嬉しいです」=“Fufuh, I had a lot of fun. I hope you did too, that'd make me very happy.”

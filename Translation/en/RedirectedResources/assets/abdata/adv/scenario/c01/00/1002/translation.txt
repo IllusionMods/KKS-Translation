@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねえ、卓球で一勝負しようよ」=
-//「全然打ち返せませんでした……すみません、楽しくなかったですよね？」=
-//「いや、楽しかったよ。一生懸命ボールを追いかける[H名]が可愛くて、ずっとニヤニヤしちゃった」=
-//「あ……あの笑顔はそういう意味だったのですね」=
-//「ラリーが続く方が稀だったので、最早ゲームになっていないと苦笑されているのかと思っていました……」=
-//「そんなことないって。プロの試合でもラリーが続くのってあんまり見たことないし」=
-//「確かに……数回打ち合うことはあっても、基本的には一瞬で勝負が決まることが多い気がしますね」=
-//「卓球はそういう競技なんだよ。だからそんなに落ち込むことないって」=
-//「ふふ、分かりました。ではその……もう一度今度は勝負など関係なく、あなたとラリーがしたいです」=
-//「それいいね。だったら今度は[H名]が取りやすい場所に打つようにするよ」=
-//「よろしくお願いします。卓球……と呼んでいいのかは分かりませんが、ただあなたとボールを打ち合いたくて」=
-//「大丈夫。ラリー練習は相手の打ちやすい所に打つのが基本だから、ちゃんと卓球してるよ」=
-//「でもまぁ……あえて言い換えるなら『ラブラブピンポン』とかかな？」=
-//「ラ、ラブラブピンポン……本気で卓球をやっている人に聞かれたら、なんだか怒られそうな……」=
-//「逆だよ。俺達は卓球じゃなくてラブラブピンポンをしてるって思えば、本気の人達にも失礼じゃないでしょ？」=
-//「ふふ、そうですね。物は言いよう……私達はラブラブピンポンを楽しみましょう」=
+「ねえ、卓球で一勝負しようよ」=“Hey, let's play table tennis together.”
+「全然打ち返せませんでした……すみません、楽しくなかったですよね？」=“I couldn't hit them back at all... I'm sorry, that wasn't much fun, was it?”
+「いや、楽しかったよ。一生懸命ボールを追いかける[H名]が可愛くて、ずっとニヤニヤしちゃった」=“No, I enjoyed it. You looked adorable chasing the balls like that, it was very endearing.”
+「あ……あの笑顔はそういう意味だったのですね」=“Ah... so that's what that smile was for, huh?”
+「ラリーが続く方が稀だったので、最早ゲームになっていないと苦笑されているのかと思っていました……」=“Since I really couldn't keep a rally going for long, I thought it was a wry smile because you were starting to feel awkward...”
+「そんなことないって。プロの試合でもラリーが続くのってあんまり見たことないし」=“Not at all. Even in pro matches, you rarely see actual rallies go on for long.”
+「確かに……数回打ち合うことはあっても、基本的には一瞬で勝負が決まることが多い気がしますね」=“You're not wrong... even if they do parry the shots a few times, I feel that most of the time, the point is usually decided within just a few seconds.”
+「卓球はそういう競技なんだよ。だからそんなに落ち込むことないって」=“That's the kind of sport table tennis is. So don't get so depressed over it, c'mon.”
+「ふふ、分かりました。ではその……もう一度今度は勝負など関係なく、あなたとラリーがしたいです」=“Fufuh, alright. Well then... I want to try doing another rally with you, without caring about points.”
+「それいいね。だったら今度は[H名]が取りやすい場所に打つようにするよ」=“Sounds good. In that case, I'll try to hit them to spots where you can parry them easily.”
+「よろしくお願いします。卓球……と呼んでいいのかは分かりませんが、ただあなたとボールを打ち合いたくて」=“Please do. I'm not sure if it's... still worthy of being called table tennis but, I just want to hit the ball back and forth with you a bunch.”
+「大丈夫。ラリー練習は相手の打ちやすい所に打つのが基本だから、ちゃんと卓球してるよ」=“Don't worry. Rally practice involves hitting the ball to where the other person can parry it easier anyway, so it's still definitely table tennis.”
+「でもまぁ……あえて言い換えるなら『ラブラブピンポン』とかかな？」=“But well... I guess if you really had to, you could call it「Lovey dovey ping pong」instead?”
+「ラ、ラブラブピンポン……本気で卓球をやっている人に聞かれたら、なんだか怒られそうな……」=“L-Lovey dovey ping pong... I feel as though if actual players heard that, they'd get pretty mad at us...”
+「逆だよ。俺達は卓球じゃなくてラブラブピンポンをしてるって思えば、本気の人達にも失礼じゃないでしょ？」=“It'd be the opposite. If we're just playing lovey-dovey ping pong instead of 'table tennis', we wouldn't be being rude to actual players either, no?”
+「ふふ、そうですね。物は言いよう……私達はラブラブピンポンを楽しみましょう」=“Fufuh, you're right. I suppose it's how you say it... let's just enjoy our lovey-dovey ping pong.”

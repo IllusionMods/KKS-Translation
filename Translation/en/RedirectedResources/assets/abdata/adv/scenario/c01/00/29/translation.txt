@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここでしたら……ゆっくりと愛し合うことができそうですね」=
-//「そのつもりで誘ってくださっていたことは、分かっていました」=
-//「なので……いつでも大丈夫です」=
+「ここでしたら……ゆっくりと愛し合うことができそうですね」=“If it's here... we could make love to each other without anyone to bother us.”
+「そのつもりで誘ってくださっていたことは、分かっていました」=“I already knew, that that's why you were bringing me here.”
+「なので……いつでも大丈夫です」=“So... I am ready for it, at any time.”
