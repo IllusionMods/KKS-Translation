@@ -5,6 +5,6 @@
 （んぅ……すごく気持ちいいような……いったい、何が……？）=(Nn... Something feels amazing... just what, is it...?)
 「…………」=“...”
 「へっ！　ど、どうして俺の上に……？」=“Heh--! W-Why are you on top of...?”
-//「えへへ、エッチのことを教えてもらおうと思ったんだ」=
-//「……それで、こんなことをしたの？」=
-//「うん！　だから私に付き合ってね♪」=
+「えへへ、エッチのことを教えてもらおうと思ったんだ」=“Eheheh, I thought I'd come get some sex-ed lessons.”
+「……それで、こんなことをしたの？」=“...And that's why you're doing this?”
+「うん！　だから私に付き合ってね♪」=“Yep! So go along with me, okay?♪”
