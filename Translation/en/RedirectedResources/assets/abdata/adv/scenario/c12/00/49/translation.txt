@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「タコライスって値段がお手頃なのに量があるから、しょっちゅう頼んじゃうんだよね」=
-//「ああ、分かる分かる。量が欲しいときはタコライス一択って感じ」=
-//「かけるソースを変えたら味の違いも楽しめるし、いいよね。旅行から帰っても食べたい味だよ」=
-//「具材さえあれば簡単に作れるんじゃないか？　他の具材をトッピングして、オリジナルメニューを考えるのも楽しそうだ」=
+「タコライスって値段がお手頃なのに量があるから、しょっちゅう頼んじゃうんだよね」=“They really give you a whole lot of taco rice for your money, so I end up getting it a lot, you know?”
+「ああ、分かる分かる。量が欲しいときはタコライス一択って感じ」=“Yeah, I feel you. When you wanna fill yourself up, taco rice is one of the only options.”
+「かけるソースを変えたら味の違いも楽しめるし、いいよね。旅行から帰っても食べたい味だよ」=“And you can change the sauce they put on it for a new taste so, it's just nice. I wanna eat this back home too.”
+「具材さえあれば簡単に作れるんじゃないか？　他の具材をトッピングして、オリジナルメニューを考えるのも楽しそうだ」=“Isn't it pretty easy to make, as long as you've got the stuff? Feels like it'd be a fun time coming up with new toppings for it too.”

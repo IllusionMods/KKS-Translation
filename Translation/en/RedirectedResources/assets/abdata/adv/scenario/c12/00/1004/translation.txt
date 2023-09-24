@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「浜辺を少し、散歩してみようよ」=
-//「んー……いい風……」=
-//「うん、いい風だな……でも、もっと、こう……今は無性に荒れ狂う海が見たいんだよな」=
-//「そ、そう？　静かでキレイな海もいいと思うけど」=
-//「来る前はそういうのを求めてたんだけどな～……実際、すごくいいと思うんだ。ここの海って」=
-//「けど、今はなんだか、荒っぽい海を感じたくなったんだ」=
-//「……反動ってヤツ？」=
-//「多分それかも」=
-//「夏のリゾートビーチの反対は、冬の北方の海だと思わないか？」=
-//「そうだけど……荒れた海は危険だよ？　波にさらわれてしまうかもしれないし……」=
-//「あはは、もしおまえが波にさらわれたりしたら、あたしが助けるよ」=
-//「うん、そう言ってくれると心強いね」=
-//「……でも、おまえが危険な目にあうのは嫌だな」=
-//「だから、このキレイで、穏やかで、心洗われるような素晴らしいビーチで勘弁しておくよ」=
-//「なんだ。ここが気に入ってるじゃん」=
-//「そりゃ気にいるに決まってるだろ？　こんなにキレイな浜辺……他で見られるわけがないし」=
-//「うん、いいところだね……ここは」=
-//「けど、近々現実世界に帰らないとな。それまでたっぷりと、リゾートを楽しむことにしよう」=
+「浜辺を少し、散歩してみようよ」=“Let's take a short walk down the beach, c'mon.”
+「んー……いい風……」=“Nn... the breeze feels so nice...”
+「うん、いい風だな……でも、もっと、こう……今は無性に荒れ狂う海が見たいんだよな」=“Yeah, it really does... but, it's like, you know... I wanna see a more wild sea right now, rather than this.”
+「そ、そう？　静かでキレイな海もいいと思うけど」=“R-Really? This calm and pretty sea is fine too though.”
+「来る前はそういうのを求めてたんだけどな～……実際、すごくいいと思うんだ。ここの海って」=“Yeah, and back before we came here, you wouldn't have found me disagreeing~... it really is great, the sea here.”
+「けど、今はなんだか、荒っぽい海を感じたくなったんだ」=“But, I kinda wanna feel a wild sea more right now.”
+「……反動ってヤツ？」=“...Are you like a contrarian?”
+「多分それかも」=“Maybe.”
+「夏のリゾートビーチの反対は、冬の北方の海だと思わないか？」=“Don't you think the opposite of a summer resort beach, is the freezing northern sea?”
+「そうだけど……荒れた海は危険だよ？　波にさらわれてしまうかもしれないし……」=“Yeah but... a wild sea would be pretty dangerous, you know? You might end up getting swept away by the waves and stuff...”
+「あはは、もしおまえが波にさらわれたりしたら、あたしが助けるよ」=“Ahahah, even if that happens, I'll come and save you.”
+「うん、そう言ってくれると心強いね」=“Yep, I knew you'd say that. Thanks.”
+「……でも、おまえが危険な目にあうのは嫌だな」=“...But, I definitely wouldn't wanna see you in danger.”
+「だから、このキレイで、穏やかで、心洗われるような素晴らしいビーチで勘弁しておくよ」=“So I'll look the other way and let this beautiful, peaceful and heart cleansing wonderful sea be.”
+「なんだ。ここが気に入ってるじゃん」=“What, so you like it afterall.”
+「そりゃ気にいるに決まってるだろ？　こんなにキレイな浜辺……他で見られるわけがないし」=“Well, of course I do. It's such a pretty beach... We can't see this elsewhere.”
+「うん、いいところだね……ここは」=“Yeah, it really is nice... this place.”
+「けど、近々現実世界に帰らないとな。それまでたっぷりと、リゾートを楽しむことにしよう」=“But, we'll have to go back to reality soon enough. Until then, let's enjoy this resort as much as we can.”

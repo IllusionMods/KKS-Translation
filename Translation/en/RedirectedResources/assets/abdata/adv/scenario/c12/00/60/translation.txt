@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「遅い時間に悪い。部屋に入れてくれないか？」=
-SELECTION:「返事をする」=Respond
+「遅い時間に悪い。部屋に入れてくれないか？」=“Sorry, for bothering you so late. Won't you let me in?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「いいよ。どうしたの？」=
-//「ぅ……その、なんだ……柄じゃないことを言っちゃうんだけど、なんか急におまえに会いたくなって……」=
-//「だから……しばらく、そばにいさせてくれ。あまえの温もりを……感じていたいんだ」=
-//「あー……やっぱり寝てるか。しかたない、あたしも寝よう……」=
+「いいよ。どうしたの？」=“Sure, what's wrong?”
+「ぅ……その、なんだ……柄じゃないことを言っちゃうんだけど、なんか急におまえに会いたくなって……」=“Uu... it's uhm, you know... I know it's not very me but, I just kinda wanted to see you...”
+「だから……しばらく、そばにいさせてくれ。あまえの温もりを……感じていたいんだ」=“So... let me stay the night, just for tonight. I want to... feel your warmth.”
+「あー……やっぱり寝てるか。しかたない、あたしも寝よう……」=“Ah... guess he's asleep afterall. Can't be helped, I'll go to sleep too...”

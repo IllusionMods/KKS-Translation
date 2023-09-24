@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おお、肉が分厚い……」=
-//「あたしでも、その量を完食するのは無理そうだ。さすが男って感じだな」=
-//「そう？　俺からしたら、それだけの量で足りるのって感じだけどね」=
-//「すっごく腹が減ってるわけじゃないし、こんくらいで充分だよ。それに……」=
-//「それに？」=
-//「……カロリーとか気にするんだよ。旅先だと、つい色んなものを食べちゃうからさ」=
+「おお、肉が分厚い……」=“Ooh, so much meat...”
+「あたしでも、その量を完食するのは無理そうだ。さすが男って感じだな」=“Even I couldn't scarf down that much, even if I wanted to. I guess that's a man for you.”
+「そう？　俺からしたら、それだけの量で足りるのって感じだけどね」=“That so? From my point of you, the amount you got almost seems like not enough.”
+「すっごく腹が減ってるわけじゃないし、こんくらいで充分だよ。それに……」=“I'm not starving or anything right now, so this much is good enough. Not to mention...”
+「それに？」=“Not to mention?”
+「……カロリーとか気にするんだよ。旅先だと、つい色んなものを食べちゃうからさ」=“...I'm counting my calories too. On trips like this, you just end up overeating otherwise.”

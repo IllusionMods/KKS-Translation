@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ごちそうさま。ふぅ、食べた食べた」=
+「ごちそうさま。ふぅ、食べた食べた」=“That was great. Fuuh, I'm stuffed.”

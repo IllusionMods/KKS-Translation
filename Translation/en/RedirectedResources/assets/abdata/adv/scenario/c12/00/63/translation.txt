@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さんきゅー。すごく良かったと思うぞ」=
-//「ありがと。意外と気持ち良かったよ」=
-//「塗ってくれてありがとな」=
-//「結局塗らずに終わるのか」=
+「さんきゅー。すごく良かったと思うぞ」=“Thanks~. That was super nice.”
+「ありがと。意外と気持ち良かったよ」=“Thanks. That felt surprisingly good.”
+「塗ってくれてありがとな」=“Thanks for doing that for me.”
+「結局塗らずに終わるのか」=“So you're not doing it afterall?”

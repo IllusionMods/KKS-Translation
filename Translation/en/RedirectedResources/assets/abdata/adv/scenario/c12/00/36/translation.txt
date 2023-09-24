@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「手軽に出来るビーチバレーでもしようか」=
-//「おっけー。じゃあ負けた方はジュース奢りってことで」=
-…………=......
-//「なんか、青春って感じがするね」=
-//「青春？　どうしてだ？」=
-//「だって、異性と……女の子と海で遊んでるんだよ？　これこそ青春でしょ」=
-//「っ……きゅ、急に意識させることを言うなよ……集中できなくなるじゃん……」=
-//「それが狙いだったり。隙だらけだよっと！」=
+「手軽に出来るビーチバレーでもしようか」=“Let's play some chill beach volleyball or something.”
+「おっけー。じゃあ負けた方はジュース奢りってことで」=“Okay~. Whoever loses buys the other juice.”
+…………=...
+「なんか、青春って感じがするね」=“Man, this kinda feels like youth.”
+「青春？　どうしてだ？」=“Youth? Why?”
+「だって、異性と……女の子と海で遊んでるんだよ？　これこそ青春でしょ」=“I mean, I'm playing volleyball with you... with a girl, you know? If this isn't youth, what is?”
+「っ……きゅ、急に意識させることを言うなよ……集中できなくなるじゃん……」=“--!... D-Don't say shit to make me conscious of it... how am I supposed to concentrate...”
+「それが狙いだったり。隙だらけだよっと！」=“That was the point. You're wide open!”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「バナナボートにシュノーケリング……やっぱり海のレジャーは一通り揃ってるんだな」=
-//「だね。さっそく何かやってみる？」=
-//「うーん、今の気分的にたくさん身体を動かしたいから……これなんてどうだ？」=
-//「お、いいと思うよ。二人でも楽しめそうだしね」=
-//「決まりだな！　よしっ、気合が入るなぁ～」=
+「バナナボートにシュノーケリング……やっぱり海のレジャーは一通り揃ってるんだな」=“From banana boating to snorkeling... they've really got everything, huh? From A to Z.”
+「だね。さっそく何かやってみる？」=“Yeah. Wanna try doing something?”
+「うーん、今の気分的にたくさん身体を動かしたいから……これなんてどうだ？」=“Nnnn, right now I kinda feel like a workout so... how about this?”
+「お、いいと思うよ。二人でも楽しめそうだしね」=“Oh, sounds good. We can both enjoy that.”
+「決まりだな！　よしっ、気合が入るなぁ～」=“That's settled then! Alright, I'm getting fired up~”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ……滝の近くは涼しくて気持ちがいいな」=
-//「だねー。なんだが生き返っていく気分だよ……」=
-//「はは、涼しくて生き返るから、パワースポットだって言われてるのかも」=
-//「一理あるね。ちょっと納得しちゃった」=
-//「ただの冗談なんだから、納得しないでツッコミを入れてくれ」=
+「ふぅ……滝の近くは涼しくて気持ちがいいな」=“Fuh... it's so nice and cool here, beside the waterfall.”
+「だねー。なんだが生き返っていく気分だよ……」=“Yeah~. I feel like I'm coming back to life...”
+「はは、涼しくて生き返るから、パワースポットだって言われてるのかも」=“Hahah, that might just be why people call this a power spot.”
+「一理あるね。ちょっと納得しちゃった」=“Would make sense. It does to me.”
+「ただの冗談なんだから、納得しないでツッコミを入れてくれ」=“I was joking, don't actually agree with me, for god's sake.”

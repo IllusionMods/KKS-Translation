@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なーんだ、カヤックで競争するんじゃなくて、一緒に漕ぐのか……」=
-//「なんで残念そうなのさ。恋人同士で近くにいられるんだから、いいと思うんだけど」=
-//「それは確かに……おまえと、イチャイチャできそうだしな」=
-//「うん？　イチャイチャしたいって言った？」=
-//「っ……あたしの独り言をバッチリ聞くなよ！　もういい、早く乗り込むぞ！」=
+「なーんだ、カヤックで競争するんじゃなくて、一緒に漕ぐのか……」=“What, we're riding the same one, not racing?...”
+「なんで残念そうなのさ。恋人同士で近くにいられるんだから、いいと思うんだけど」=“Why do you sound so disappointed? We get to use this as an excuse to be all up close together, so I think it's fine.”
+「それは確かに……おまえと、イチャイチャできそうだしな」=“You're not wrong... Bet we could make out real good.”
+「うん？　イチャイチャしたいって言った？」=“Huh? Did you just say you wanna make out?”
+「っ……あたしの独り言をバッチリ聞くなよ！　もういい、早く乗り込むぞ！」=“--!... Don't make out my mumbles so perfectly! I don't care anymore, get in the damn thing!”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あたしにしては上出来、かな。サンキュー、おまえのおかげだよ」=
+「あたしにしては上出来、かな。サンキュー、おまえのおかげだよ」=“That came out pretty good, for something I made myself. Thanks, it's thanks to you.”

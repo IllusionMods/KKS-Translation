@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルドリンクだって。飲んでみようよ」=
-//「おお、いい感じだね」=
-//「ん～……こういうのは、あれだ。ちょっと緊張する」=
-//「そりゃ、仕方ないでしょ？　一つの飲み物をシェアするんだし。気にしない気にしない」=
-//「ばか、気にしないわけにはいかないだろ。恥ずかしいんだから……」=
-//「そうなの？　ふ～ん……」=
-//「なに笑ってるんだ？　ああ、もう……見るなっての」=
-//「少し顔が赤いよ？　大丈夫？」=
-//「暑いんだから、赤くなるのは当たり前だ」=
-//「ほら、そんなことより飲むぞ。がーっと一気飲みだ」=
-//「そういう飲み方するものじゃないでしょ？　こうして一緒の時間を共有するのが楽しいんじゃないか」=
-//「……わかったよ。えーっと……目と目を見合わせながら飲むんだろ？　こういうのは」=
-「そうだね」=“I know.”
-//「……先に目を反らした方が負けっていうルールにするか？」=
-//「……別にいいけど、負けたらどうなるの？」=
-//「もういっぱい同じ飲み物を頼んで、一気飲みするってのはどう？」=
-//「一気飲み……好きなの？　ゆっくり味わった方が美味しいって」=
-//「うっ……罰ゲームが思いつかなかったんだよ……ほら、飲もう。大丈夫、一気飲みなんかしないからさ――」=
+「カップルドリンクだって。飲んでみようよ」=“A couples' drink, it says here. Let's order it.”
+「おお、いい感じだね」=“Ooh, pretty good.”
+「ん～……こういうのは、あれだ。ちょっと緊張する」=“Nn~... this sorta thing is, it's kinda. It kinda makes me nervous.”
+「そりゃ、仕方ないでしょ？　一つの飲み物をシェアするんだし。気にしない気にしない」=“Well, I mean, of course. We're sharing a single drink between us. It is what it is, don't mind it.”
+「ばか、気にしないわけにはいかないだろ。恥ずかしいんだから……」=“Dummy, how am I supposed to not mind it? It's embarrassing...”
+「そうなの？　ふ～ん……」=“Really? Hmm~...”
+「なに笑ってるんだ？　ああ、もう……見るなっての」=“The hell're you sniggering about? Aah, jeez... don't stare at me.”
+「少し顔が赤いよ？　大丈夫？」=“Your face is kinda red, you know? You okay?”
+「暑いんだから、赤くなるのは当たり前だ」=“It's the heat, I can't help it.”
+「ほら、そんなことより飲むぞ。がーっと一気飲みだ」=“C'mon, we're drinking it. We're gulping it down in one go.”
+「そういう飲み方するものじゃないでしょ？　こうして一緒の時間を共有するのが楽しいんじゃないか」=“We didn't order it to do that now, did we? Isn't it all about sharing and enjoying this wonderful slice of time together?”
+「……わかったよ。えーっと……目と目を見合わせながら飲むんだろ？　こういうのは」=“...Fine. Eerhm... We gotta lock our eyes while drinking it, right? It's that sorta drink.”
+「そうだね」=“Yeah.”
+「……先に目を反らした方が負けっていうルールにするか？」=“...How about we make it so whoever looks away first loses?”
+「……別にいいけど、負けたらどうなるの？」=“...Sure but, what then? What does the loser do?”
+「もういっぱい同じ飲み物を頼んで、一気飲みするってのはどう？」=“Maybe ordering another one of these and gulping it down in one go?”
+「一気飲み……好きなの？　ゆっくり味わった方が美味しいって」=“Gulping it down... you like that? I'm pretty sure you'd enjoy it more if you sip it.”
+「うっ……罰ゲームが思いつかなかったんだよ……ほら、飲もう。大丈夫、一気飲みなんかしないからさ――」=“Uuu--... I just couldn't come up with anything... C'mon, let's drink. Don't worry, I won't gulp it down so--”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「エッチ！？　エッチってあのエッチか！？」=
-//「他にどのエッチがあるか分からないけど……たぶん、そうだよ。セック――」=
-//「生々しい言い方はしなくていいよ！　ぅぅ、どうしてあたしなんだ……？　そういうのは、恋人同士がすることじゃん……」=
-//「それだけ魅力的だったから……もちろん、無理強いするつもりはないから、嫌なら断って」=
-//「み、魅力的か……そう言われると、悪い気はしないな……ちょっとだけなら、付き合ってもいいけど……？」=
+「エッチ！？　エッチってあのエッチか！？」=“Sex?! You mean that sex?!”
+「他にどのエッチがあるか分からないけど……たぶん、そうだよ。セック――」=“I don't know what other sex there could be but... probably the one you're thinking of, yeah. Where my di--”
+「生々しい言い方はしなくていいよ！　ぅぅ、どうしてあたしなんだ……？　そういうのは、恋人同士がすることじゃん……」=“You don't need to say it, you don't! Uuu, why me...? You do that sorta stuff with your girlfriend...”
+「それだけ魅力的だったから……もちろん、無理強いするつもりはないから、嫌なら断って」=“You're just that attractive to me... of course, it's not like I'm trying to force you here, if you don't want to, just say no.”
+「み、魅力的か……そう言われると、悪い気はしないな……ちょっとだけなら、付き合ってもいいけど……？」=“A-Attractive, huh... I can't get mad at you for that... I guess I don't mind, if it's just for a bit...?”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「よし……中々カッコよく出来てる気がするなぁ」=
-//「ほんとだ、勇ましいシーサーだね」=
-//「はは、サンキュー。自分でも知らなかったけど、案外こういう才能があったりするのかな？」=
-//「先生！　是非、作り方を教えてもらいたいです」=
-//「冗談にのっかるな！　普通に照れるだろっ」=
+「よし……中々カッコよく出来てる気がするなぁ」=“Alright... I feel like mine's coming out pretty cool~”
+「ほんとだ、勇ましいシーサーだね」=“You're right, that's one brave looking shisa.”
+「はは、サンキュー。自分でも知らなかったけど、案外こういう才能があったりするのかな？」=“Hahah, thanks. I never knew it myself, but maybe I have a talent for this sorta thing?”
+「先生！　是非、作り方を教えてもらいたいです」=“Sensei! Please, do take me under your wing and teach me your ways.”
+「冗談にのっかるな！　普通に照れるだろっ」=“Don't play along with it! You're gonna make me blush--”

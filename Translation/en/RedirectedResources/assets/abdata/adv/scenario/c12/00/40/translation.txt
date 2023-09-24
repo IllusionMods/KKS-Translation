@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ～、いい汗かいた。はは、おまえもいい顔してるじゃん」=
+「ふぅ～、いい汗かいた。はは、おまえもいい顔してるじゃん」=“Fuuh~, that was a good workout. Hahah, you've got a nice expression there too.”

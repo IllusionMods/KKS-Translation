@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この鐘を鳴らした二人は、必ず結ばれるって言われてるんだよね」=
-//「そうらしいな。ってことは、既に結ばれてるあたし達は鳴らす必要がないってことだ」=
-//「え？　まさか鳴らさないの？」=
-//「別に鳴らしてもいいよ。せっかく恋人っぽいところにいるんだし」=
-//「そうだね、じゃあ、鳴らしてみようか」=
+「この鐘を鳴らした二人は、必ず結ばれるって言われてるんだよね」=“They say that any pair that rings this bell together will be tied together someday, don't they?”
+「そうらしいな。ってことは、既に結ばれてるあたし達は鳴らす必要がないってことだ」=“Seems like it, yeah. Put it another way, we're already tied together so we don't really need to.”
+「え？　まさか鳴らさないの？」=“Eh? We're not ringing it?”
+「別に鳴らしてもいいよ。せっかく恋人っぽいところにいるんだし」=“I mean I don't really mind. We came all the way to this lovey dovey place too.”
+「そうだね、じゃあ、鳴らしてみようか」=“Yeah, we did. Let's ring it then.”
 「…………」=“...”
-//「……いい音だな。けど、この場合、どうなるんだ？」=
-//「どうなるんだろうね」=
-//「まさか……別れることになったりしないよな？」=
-//「そんなことにならないと思うよ」=
-//「そう……だよな。それなら、そういう別のジンクスが噂になってるはずだし」=
-//「けど、鐘を鳴らしてオンオフで交互にスイッチが入るんだとしたら、今『別れる』モードになってるかも……」=
-//「……そんなのは嫌だな。理由があって別れるならともかく、鐘が原因で別れるだなんて」=
-//「そ、そんなことにはならないよ」=
-//「ジンクスって案外バカに出来ないぞ。思い込みに引っ張られてしまうだなんて、よくあることだからな」=
-//「……じゃあ、もう一度鳴らそう」=
-//「もしくは……何回鳴らしたかわからなくなるぐらい鳴らしまくるとか」=
-//「それもいいけど……とりあえずもう一回鳴らしておこう」=
-//「そうだな……けど、あたしは、こんなジンクス信じないからな」=
-//「おまえとの関係はあたしが決める。わかってるよな？」=
-//「もちろんだよ。さあ、鳴らそう――」=
+「……いい音だな。けど、この場合、どうなるんだ？」=“...That's a nice ring. But, what's gonna happen now?”
+「どうなるんだろうね」=“I wonder.”
+「まさか……別れることになったりしないよな？」=“We're not... gonna be made to split up or anything, right?”
+「そんなことにならないと思うよ」=“No, I'm pretty sure that won't happen.”
+「そう……だよな。それなら、そういう別のジンクスが噂になってるはずだし」=“Right... makes sense. Else we'd hear of a legend about that too.”
+「けど、鐘を鳴らしてオンオフで交互にスイッチが入るんだとしたら、今『別れる』モードになってるかも……」=“But, if this thing works like an on-off switch then, we might be in break-up mode right now...”
+「……そんなのは嫌だな。理由があって別れるならともかく、鐘が原因で別れるだなんて」=“...That would suck pretty bad. It'd be one thing to break up over a good reason but, breaking up because of a bell of all things?”
+「そ、そんなことにはならないよ」=“T-That's not gonna happen.”
+「ジンクスって案外バカに出来ないぞ。思い込みに引っ張られてしまうだなんて、よくあることだからな」=“You should look down on things like these. It's very common, you know, for couples to split up over misunderstandings.”
+「……じゃあ、もう一度鳴らそう」=“...Let's ring it once more.”
+「もしくは……何回鳴らしたかわからなくなるぐらい鳴らしまくるとか」=“Or we could... ring it so many times, that we don't even know how many times it's been anymore.”
+「それもいいけど……とりあえずもう一回鳴らしておこう」=“That'd be fine too but... for now, let's ring it once more.”
+「そうだな……けど、あたしは、こんなジンクス信じないからな」=“Yeah... but, I'm telling you, I refuse to believe in this stuff.”
+「おまえとの関係はあたしが決める。わかってるよな？」=“I decide how things go between us, not this stupid bell. You get that, right?”
+「もちろんだよ。さあ、鳴らそう――」=“Of course. C'mon, let's ring it--”

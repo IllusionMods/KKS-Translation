@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なぁ、おまえは他に楽器を弾けたりするのか？」=
-//「いや特には弾けないよ。こういう風に習うのは三線が初めて」=
-//「ふーん、そっか。勝手なイメージだけど、男って一度は楽器に挑戦してみるものなのかと思ってたよ」=
-//「憧れがなかったと言えば嘘になるかな。実際弾ける人ってカッコよく見えるし」=
-//「ちなみに、女の子視点では楽器弾ける人ってどう？」=
-//「熱中できる趣味がある人ってのは輝いてるし、あたし的にはいいと思うよ」=
-//（なるほど……三線の体験、頑張ってみようかな）=
+「なぁ、おまえは他に楽器を弾けたりするのか？」=“Hey, do you know how to play any other instruments?”
+「いや特には弾けないよ。こういう風に習うのは三線が初めて」=“No, not really. It's my first time ever learning a musical instrument properly.”
+「ふーん、そっか。勝手なイメージだけど、男って一度は楽器に挑戦してみるものなのかと思ってたよ」=“Hmm, I see. It's just something I've always thought but, I feel like all men try their hand at an instrument atleast once.”
+「憧れがなかったと言えば嘘になるかな。実際弾ける人ってカッコよく見えるし」=“It'd be a lie to say that I've never wanted to, for sure. People who know how to play one do look pretty cool too.”
+「ちなみに、女の子視点では楽器弾ける人ってどう？」=“Incidentally, as a girl, what do you think of men who can play something?”
+「熱中できる趣味がある人ってのは輝いてるし、あたし的にはいいと思うよ」=“People who have hobbies they're really into shine really brightly, and personally I can dig that sorta thing.”
+（なるほど……三線の体験、頑張ってみようかな）=(I see... Maybe I'll get serious about this experience.)
