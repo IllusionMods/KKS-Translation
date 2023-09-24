@@ -11,7 +11,7 @@
 「それで？　私はあなたになんて呼ばれちゃうのかしら」=“And? What am I going to be called by you?”
 「えっと……[Hあだ名]、なんてどうかな」=“Erhm... How about [Hあだ名]?”
 「あら、私の方は普通なのね。でも、そうよね……ふふふ、いいんじゃない？　じゃあ、呼んでみて」=“Oh, mine is fairly normal, isn't it. But, indeed... Fufufu~, I suppose it's fine. Then, try calling me that.”
-「[Hあだ名]」=“[Hあだ名]”
+「[Hあだ名]」=[Hあだ名]
 「なあに、[Pあだ名]」=“What is it, [Pあだ名]?”
 「おぉ……[H名]さんが言うと破壊力がすごいよ」=“Oooh... When you say it, the destructive power is amazing, [H名]-san.”
 「くすくす、こういう願望があったならもっと早く言ってくれてもよかったのよ？」=“*Giggle*, if you had this kind of a desire, you could have told me sooner, you know?”

@@ -3,7 +3,7 @@
 //
 「ねぇ、いる……？」=“Hey, are you in...?”
 SELECTION:「返事をする」=Answer her.
-SELECTION:「……」=..........
+SELECTION:「……」=...
 「どうしたの？」=“What's wrong?”
 「ふふっ、お邪魔するわね」=“Fufuh--, I'm coming in, okay?”
 「あら、あなたの愛しい彼女が部屋に来たのよ？　私が何を求めているか……わかってるわよね？」=“Oh dear, the girl you love so darn much has come over to your room, you know? You can tell... what I want, right?”

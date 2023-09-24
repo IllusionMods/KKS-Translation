@@ -5,9 +5,9 @@
 「そうね、ゆったりするものから激しそうなものまで、幅広く楽しめるわね」=“Yeah, from comfy things to intense stuff, you can really go all out here.”
 「海のアクティビティと陸のアクティビティ、どっちがいいとかってある？」=“Do you have like a preference, between land or sea activities?”
 「うーん、どちらもそれぞれの味あるし、1番は選べないわねぇ」=“Nnnnn, both of them are good in their own way so, it's hard to really pick one, you know~?”
-「全部のアクティビティを回ったら体力もたなそうだよなぁ……」=“It feels like we're gonna end up running ourselves ragged if we try to do everything, doesn't it?....”
+「全部のアクティビティを回ったら体力もたなそうだよなぁ……」=“It feels like we're gonna end up running ourselves ragged if we try to do everything, doesn't it?...”
 「ふふっ、焦る必要はないわ。時間はあるんだし、ゆっくり回っていけばいいのよ」=“Fufuh--, there's no need to rush. We've got lots of time here, so just relax and take your time, okay?”
-「アクティビティを効率よく回っていくコツってあったりするのかなぁ……」=“I wonder if there's like an optimized plan for doing all the activities here....”
+「アクティビティを効率よく回っていくコツってあったりするのかなぁ……」=“I wonder if there's like an optimized plan for doing all the activities here...”
 「んー、効率やコツを求めるよりも、いかに１つ１つを楽しめるか、なんじゃないかしら？」=“Nn~, rather than that, isn't it more about enjoying every single activity as much as you can?”
 「いろんなアクティビティがある中でも、やっぱり海や水が絡むものが多いね」=“There's a ton of things to do here but, even then most of those have something or other to do with the water, don't they?”
 「そうね、こういった島国特有ってことかしらね？」=“Yeah, I wonder if that's just what's normal on an island like this?”
@@ -19,7 +19,7 @@
 「水含め、環境的にとてもよい条件が揃ってるって事かしらね？」=“It's probably that the entire environment is really quite good, no? Including the water.”
 「自然を堪能するには何が一番いいかなぁ」=“I wonder what'd be the best way to enjoy all the nature here?”
 「んー、やっぱりどんな事よりも自分の足で、目で、直に触れていくのが一番なんじゃないかしら？」=“Nn~, rather than anything else, wouldn't it be best to use your own feet, your own eyes and feel it for yourself with your own hands?”
-「この自然の中で、どれだけの生存競争が行われてるのか……」=“I wonder just how many creatures are fighting for survival, under the wraps of nature here....”
+「この自然の中で、どれだけの生存競争が行われてるのか……」=“I wonder just how many creatures are fighting for survival, under the wraps of nature here...”
 「今も見えないところ、島の奥深くで行われてるかもしれないわね」=“It could even be happening right now, far far away from anywhere we can see.”
 「あの自然を維持するのって並みならないことだよなぁ」=“It's probably not an easy task to maintain all this nature, is it?”
 「そうね、この島の人の努力の甲斐は大きいと思うわ」=“Yeah, I think the people here put a lot of effort into that.”
@@ -49,7 +49,7 @@
 「あれは何でなのかしらね？　不思議だわ」=“I know, I wonder why? It's a mystery.”
 「どれか一つでも、この島の名産品は持って帰りたいなぁ」=“It'd be nice to take any single local speciality from here home, wouldn't it?”
 「島を離れる前のお土産屋、忘れずに行かないとね？」=“We'll have to make sure to hit up the gift shop before we leave, definitely.”
-「この島独特のエッチな物事ってあったりするのかな……」=“I wonder if there's any lewd things to do here that are unique to this place....”
+「この島独特のエッチな物事ってあったりするのかな……」=“I wonder if there's any lewd things to do here that are unique to this place...”
 「あら、それを調べてどうする気かしら？　勿論、私で試してくれるのよね……？」=“Oh my, and what will you do with that information? You'll come to me and nobody else, right...?”
 「こう、エッチなアクティビティとかあるとしたらどんなのがいい？」=“So like, if there were any lewd activities on this land, what kind would you like?”
 「そうねぇ、普段出来ないようなもの……蔦に絡まったりとかかしら……？」=“Let's see~, something we can't do normally... stuff like maybe bondage with vines...?”

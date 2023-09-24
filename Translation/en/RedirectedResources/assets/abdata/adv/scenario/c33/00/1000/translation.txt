@@ -6,7 +6,7 @@
 「[H名]さん、もしかして照れてる？」=“Are you blushing there, [H名]-san?”
 「ええ。昔の私はこう言うわ。『恋人？　色っぽい女だって勘違いされてるだけでしょ、彼女なんて柄じゃないんだからすぐ別れなさい』ってね」=“Yes. My old self would probably say "Boyfriend? He's probably just confusing you for someone actually sexy, no? You're not girlfriend material, so break up with him".”
 「あはは、[H名]さん変わってないね」=“Ahahah, I see you're the same as ever, [H名]-san.”
-「……あなたのそういうところが好きなの。昔の私のことを否定するわけじゃないし、俺はそんな男じゃないって否定するわけでもない……」=“...That's what I love about you, you know? You're not denying my past self either, nor are you saying that you're not that kind of man....”
+「……あなたのそういうところが好きなの。昔の私のことを否定するわけじゃないし、俺はそんな男じゃないって否定するわけでもない……」=“...That's what I love about you, you know? You're not denying my past self either, nor are you saying that you're not that kind of man...”
 「今の私と昔の私の関連性をすぐに探してくれて、私を肯定してくれる……そんなあなただから私は照れちゃうのよ」=“You always manage to find the connection between me and the girl I used to be, and you always approve of me... that's why I blush at you, you know.”
 「そう言われると、[H名]さんが照れてるのって、すごく嬉しいことだってわかるよ。最高に愛してるっていうサインなんだから」=“I get it now, you blushing is really happy thing, because it's a sign that you truly love me.”
 「最高なんて言葉を気軽に使っちゃうあなたも好きよ。等身大の私で愛しているんだもの、それは最高に愛してるってことでいいわ」=“I love the way you use words like that so easily too. You love me for who I am, so it's just fine that you truly love me for it.”
