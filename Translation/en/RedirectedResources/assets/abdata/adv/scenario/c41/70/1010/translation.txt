@@ -17,7 +17,7 @@
 「迷ってたこと？　[H名]が話したいことなら、なんでも聞くよ」=“Something you haven't been able to ask? You know I'm always down to listen to anything you have to say, right?”
 「ありがとう、キミならそう答えてくれるよね。でも、そんな深刻な話じゃないから安心して。そんなことかって思われちゃうかもなんだけど……」=“Thanks, I know you are. But, it's nothing that serious so relax. You might think that I'm just making a mountain out of a molehill but...”
 「キミは、自分のことをボクって言うボクのことを、どう思う？　えっと、だから、女の子なのにボクって、変じゃないかな……？」=“How does it make you feel, when I refer to myself as "boku"? Erhm, I mean, I'm a girl so, isn't it weird...?”
-「…………」=“......”
+「…………」=“...”
 「小さい頃は何も気にしてなかったんだ。なんとなく自分のことをボクって言ったボクを、お母さんが喜んでくれて……」=“I never paid much attention to it when I was little. I don't know when I started doing it but, hearing me call myself "boku" made my mom really happy so...”
 「お母さんが男の子がほしかったことを知った頃にはもう、完全に趣味が男の子になってて、周りからは少し変な子って思われてたんだよね」=“By the time I realized that my mom wanted a boy instead, all my hobbies and tastes were boyish and, people around me treated me like I was a bit of a weirdo, you know?”
 「でも、同級生も大人も優しい人ばかりで、いじめられることとかはなかったの。ちゃんと個性として受け止めてくれててね、でも……」=“But, not to say I ever got bullied for it, since all my friends and all the adults around me were always so nice. They all just treated it like one of my quirks, but...”

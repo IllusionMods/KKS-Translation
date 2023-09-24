@@ -4,7 +4,7 @@
 「ダイビング楽しみだね。どんな魚が見られるんだろう」=“Man, I can't wait to go diving. I wonder what sort of fish we'll see.”
 「ボク、テレビでよく観るお魚の群れが見たいな。生だとすごく綺麗なんだろうね」=“I wanna see the fishies they always show on TV. I bet seeing a school of them from up close's gonna look really pretty.”
 「そうだね……あ、インストラクターさんが準備できたって。それじゃ行こうか」=“Yeah... ah, seems like the instructor's ready to go. Let's head out.”
-…………=......
+…………=...
 「はぁ～、楽しかった。[H名]、何が一番印象に残った？」=“Haah~, that was fun. [H名], which bit left the biggest impression on you?”
 「ボクはね……あ、えっと……お魚以外でもいい？　一番だと、そうなっちゃうんだけど……」=“For me, it was... ah, erhm... does it have to be fishies? I mean, you asked for the biggest so...”
 「……？　サンゴとか？」=“...? Was it the coral reefs?”
