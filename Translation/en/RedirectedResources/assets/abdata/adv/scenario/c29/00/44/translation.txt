@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ、可愛く出来たと思います」=
-//「どれどれ……うん、可愛いなぁ」=
-//「これにもう一つ作ったシーサーを合わせて……夫婦感を出してみました」=
-//「なるほどなぁ。うん、俺もそんな感じでもう一つ作ってみようかな」=
+「ふぅ、可愛く出来たと思います」=“Fuuh, I think it came out rather adorable.”
+「どれどれ……うん、可愛いなぁ」=“Lemme see... yep, it's cute alright.”
+「これにもう一つ作ったシーサーを合わせて……夫婦感を出してみました」=“And now, I'll pair it up with the other one I made... now it's a loving couple.”
+「なるほどなぁ。うん、俺もそんな感じでもう一つ作ってみようかな」=“I see it, for sure. I think I'll make another one just like that too, yeah.”

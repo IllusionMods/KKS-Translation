@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お邪魔します、早速始めますか？」=
-//「……すみません、あなたに誘われた時から高ぶってしまい……もう、抑えられそうにありません……」=
+「お邪魔します、早速始めますか？」=“Do excuse me. Shall we start right away?”
+「……すみません、あなたに誘われた時から高ぶってしまい……もう、抑えられそうにありません……」=“...I'm very sorry, I've just been so aroused from the moment you asked me and... I don't think I can keep it in any longer...”

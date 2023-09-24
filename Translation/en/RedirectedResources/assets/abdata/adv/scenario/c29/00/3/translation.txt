@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えっと、本当に俺でいいの……？」=
-//「はい、私にはあなたしかいません」=
-//「そっか……なら、俺の方もその本気に応えてあげないとな」=
-//「っ！　よろしいのですか……？」=
-//「うん、俺もきみとなら……かな？」=
-//「ありがとうございます……私、あなたに出会えて本当によかった……」=
+「えっと、本当に俺でいいの……？」=“Erhm, are you sure you're fine with me...?”
+「はい、私にはあなたしかいません」=“Yes, you're the only one for me.”
+「そっか……なら、俺の方もその本気に応えてあげないとな」=“I see... in that case, I'm just gonna have to answer that request seriously too then.”
+「っ！　よろしいのですか……？」=“--! Is it really okay...?”
+「うん、俺もきみとなら……かな？」=“Yep, I think with you, I'd be... you know?”
+「ありがとうございます……私、あなたに出会えて本当によかった……」=“Thank you so much... I'm seriously, so glad we met...”

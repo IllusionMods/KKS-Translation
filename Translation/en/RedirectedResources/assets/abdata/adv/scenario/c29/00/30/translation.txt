@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「静かな場所ですね」=
-//「うん、波風の音と時折聞こえるウミネコの鳴き声くらいしか聞こえないね」=
-//「こういった場所は好きです。とても心が落ち着きます」=
-//「そうだね。しばらくのんびりしていこっか」=
-//「はい。……あぁ、風が気持ちいい……」=
+「静かな場所ですね」=“A quiet place, isn't it?”
+「うん、波風の音と時折聞こえるウミネコの鳴き声くらいしか聞こえないね」=“Yep, aside from the tides and the wind and the gulls squaking every so often, you can't hear much at all, can you?”
+「こういった場所は好きです。とても心が落ち着きます」=“I really like places like these. They make me feel very calm.”
+「そうだね。しばらくのんびりしていこっか」=“Yeah. Let's take it easy here for a bit.”
+「はい。……あぁ、風が気持ちいい……」=“Yes, let's. ...Aah, the breeze feels so nice...”

@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお土産を見てみない？」=
-//「キーホルダー、熱心に見てるけど、気に入ったの？」=
-//「気に入った、というか……色々と気になっていまして」=
-//「その手に持ってるの、シーサーだよね」=
-//「はい。説明書きにありましたが、シーサーって厄災を払う存在だそうですよ」=
-//「こんなに可愛いらしいのに、すごい力を持ってる子なんだと感心していました」=
-//「可愛いのは、キャラクター化されてるからで、本当はもっと怖いんじゃない？」=
-//「え？　シーサーは実在するんですか？」=
-//「どこで見られるんでしょう……動物園でしょうか？」=
-//「あ、いや……本当っていうのは、シーサーのモチーフになった動物のことを言いたくて……シーサーが実在してるわけではないよ？」=
-//「……そうでしたか。早とちりしてしまいました」=
+「ちょっとお土産を見てみない？」=“Wanna go take a look at some souvenirs?”
+「キーホルダー、熱心に見てるけど、気に入ったの？」=“You're really staring holes into that keychain, you like it?”
+「気に入った、というか……色々と気になっていまして」=“I do, or rather... it's caught my eye, in various ways.”
+「その手に持ってるの、シーサーだよね」=“That's a shisa one that you've got in your hands, right?”
+「はい。説明書きにありましたが、シーサーって厄災を払う存在だそうですよ」=“Yes. Apparently shisas are existences that ward against calamity, or atleast that's what the note tied to it says.”
+「こんなに可愛いらしいのに、すごい力を持ってる子なんだと感心していました」=“It moved me, knowing that it's such a powerful little girl, even though it's just so adorable.”
+「可愛いのは、キャラクター化されてるからで、本当はもっと怖いんじゃない？」=“I mean, that's because it's a caricature, wouldn't the real thing be much scarier?”
+「え？　シーサーは実在するんですか？」=“Eh? Do shisas actually exist?”
+「どこで見られるんでしょう……動物園でしょうか？」=“I wonder where you could see them... at the zoo?”
+「あ、いや……本当っていうのは、シーサーのモチーフになった動物のことを言いたくて……シーサーが実在してるわけではないよ？」=“Ah, no... when I said the "real thing", I meant the animal that shisas are based on... it's not like shisas exist or anything, okay?”
+「……そうでしたか。早とちりしてしまいました」=“...Is that so? It seems that I got a bit ahead of myself.”

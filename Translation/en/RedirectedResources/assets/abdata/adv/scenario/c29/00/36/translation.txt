@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カヤック、一人乗りと二人乗りとあるけどどっちにする？」=
-//「ふむ……ちょっと迷いますね……」=
-//「折角二人で来たんだし、どうせなら二人乗りにしてみない？」=
-//「私、こういったものに乗慣れてはいないので、あなたにご迷惑をかけてしまうかもしれませんよ？」=
-//「それはきっとお互い様だよ。それに、二人でやればそれぞれの負担も紛れると思うしね」=
-//「なるほど……では、二人で協力し合えるよう、私も頑張ってみます」=
+「カヤック、一人乗りと二人乗りとあるけどどっちにする？」=“They've got one person kayaks and two person ones, which do you wanna go with?”
+「ふむ……ちょっと迷いますね……」=“Hmm... that's a hard pick...”
+「折角二人で来たんだし、どうせなら二人乗りにしてみない？」=“Well, we came here together, so wanna just go all in and get a two person one?”
+「私、こういったものに乗慣れてはいないので、あなたにご迷惑をかけてしまうかもしれませんよ？」=“I'm not very used to things like these, so I may end up holding you back a lot, you know?”
+「それはきっとお互い様だよ。それに、二人でやればそれぞれの負担も紛れると思うしね」=“We're in the same boat there. Besides, if we do it together, we can cover for each other too.”
+「なるほど……では、二人で協力し合えるよう、私も頑張ってみます」=“I see... well then, I'll try my best as well, so that it goes as smoothly as possible.”

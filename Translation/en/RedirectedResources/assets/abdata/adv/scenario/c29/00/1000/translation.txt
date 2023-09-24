@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここではカップルドリンクが飲めるんだって。頼んでみようよ」=
-//「おお、豪華だね」=
-//「はい、なんというか……いかにもって感じですね」=
-//「美味しいのかな？」=
-//「美味しいのではないでしょうか。私は喉が乾いているので、何を飲んでも美味しく感じそうですが」=
-//「はは、そっか。俺も喉が乾いてるから、美味しくいただけそうだ」=
-//「……これはきっと、雰囲気を楽しむ飲み物なんでしょうね」=
-//「私、うまく雰囲気を楽しめるでしょうか。恋人同士の雰囲気を作れているか心配です」=
-//「そんなこと心配しなくていいよ。気楽に楽しもう？」=
-//「……そうですね。急に変なことを言ってすみません」=
-//「それにしても、恋人同士って不思議ですね」=
-//「そう？」=
-//「はい……こういう飲み物、友達同士では頼みませんから」=
-//「……ひょっとして照れてる？」=
-//「それは……はい、恥ずかしいです」=
-//「ですが、嫌がってるわけではありません。……誤解しないで下さいね？」=
-//「はは、してないよ。それじゃ飲もう」=
+「ここではカップルドリンクが飲めるんだって。頼んでみようよ」=“Apparently we can get a couples' drink here. Let's try it.”
+「おお、豪華だね」=“Ooh, how extravagant.”
+「はい、なんというか……いかにもって感じですね」=“Yes, how do I say this... it really does, feel that way.”
+「美味しいのかな？」=“Wonder if it's any good?”
+「美味しいのではないでしょうか。私は喉が乾いているので、何を飲んでも美味しく感じそうですが」=“It probably is, no? My throat is quite parched so, I do think I'm bound to find anything delicious at this point.”
+「はは、そっか。俺も喉が乾いてるから、美味しくいただけそうだ」=“Hahah, I see. I'm pretty thirsty too so, probably gonna be the same for me.”
+「……これはきっと、雰囲気を楽しむ飲み物なんでしょうね」=“...I imagine this drink is supposed to be drunk while savouring the atmosphere.”
+「私、うまく雰囲気を楽しめるでしょうか。恋人同士の雰囲気を作れているか心配です」=“Will I be able to do that, I wonder? I'm not sure if I'm helping all that much towards making this any couple-like.”
+「そんなこと心配しなくていいよ。気楽に楽しもう？」=“You don't need to worry about that. Let's just enjoy it normally?”
+「……そうですね。急に変なことを言ってすみません」=“...You're right. I'm sorry for saying such weird things so suddenly.”
+「それにしても、恋人同士って不思議ですね」=“Still, being a couple is quite wondrous.”
+「そう？」=“You think?”
+「はい……こういう飲み物、友達同士では頼みませんから」=“Yes... a pair of friends could never drink this together.”
+「……ひょっとして照れてる？」=“...Are you blushing there?”
+「それは……はい、恥ずかしいです」=“That's... yes, I am, since it's embarrassing.”
+「ですが、嫌がってるわけではありません。……誤解しないで下さいね？」=“However, that's not to say I dislike it. ...Please do not misunderstand it, alright?”
+「はは、してないよ。それじゃ飲もう」=“Hahah, I'm not gonna. C'mon, let's drink.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここでは無料でオイルを使えるみたいですね」=
-//「うん、どうする？　折角だし使ってみる？」=
-//「そうですね。塗り手は……いないようなので、あなたに任せてしまうことになってしまいますが……」=
-//「むしろ俺でいいの？　喜んで塗らせてもらうけど……」=
-//「ふふっ、あなただから信用してるんですよ？　では、準備しますね……」=
+「ここでは無料でオイルを使えるみたいですね」=“Seems like we can use the oil here for free.”
+「うん、どうする？　折角だし使ってみる？」=“Yep, what do you wanna do? Wanna try it out, since we're here?”
+「そうですね。塗り手は……いないようなので、あなたに任せてしまうことになってしまいますが……」=“I suppose so. There doesn't... seem to be a masseuse around so, I'm going to have to trouble you to...”
+「むしろ俺でいいの？　喜んで塗らせてもらうけど……」=“No, if anything, are you sure you're fine with that? I'll gladly do it, of course, but...”
+「ふふっ、あなただから信用してるんですよ？　では、準備しますね……」=“Fufuh--, it's because it's you, you know? I trust you. Well then, please do let me get ready...”

@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「綺麗だねー。海中がそのまま引っ越ししてきたみたいだ」=
-//「実際そうみたいですね。近海の生物の水槽のようです……」=
-//「へぇ、そうなんだ」=
-//「はい……」=
-//「……随分と熱心に見てるけど、気に入ったの？」=
-//「そう、ですね。水槽の中は、普通なら見ることの出来ない世界ですから、とても惹かれます」=
-//「この水族館には珍しい魚もいっぱいいますし」=
-//「ああ、確かにクラゲの水槽に深海魚の水槽……珍しい展示がいっぱいあったね」=
-//「はい……それらをあなたと一緒に見て回ることが出来たので、心が満たされました」=
-//「はは、そう言ってくれて嬉しいよ。誘ってよかった」=
-//「そういえば、入り口の方にお土産コーナーがあったよ。記念に買っていかない？」=
-//「本当ですか？　それなら……あなたとお揃いで、何か買っていきたいです」=
-//「ストラップ、マグカップ、帽子……何がいいか悩みどころですね」=
-//「ゆっくり見て回ろう？　時間はまだまだあるんだし」=
-//「はいっ。ふふ……私は本当に幸せ者です」=
+「綺麗だねー。海中がそのまま引っ越ししてきたみたいだ」=“It's so pretty~. Almost feels like a slice of the sea, just put in a tank.”
+「実際そうみたいですね。近海の生物の水槽のようです……」=“It seems that it really is just that. Since it's supposedly all the local fish...”
+「へぇ、そうなんだ」=“Hoh, I see.”
+「はい……」=“Yes...”
+「……随分と熱心に見てるけど、気に入ったの？」=“...You're looking at it pretty fervently, you like it that much?”
+「そう、ですね。水槽の中は、普通なら見ることの出来ない世界ですから、とても惹かれます」=“I, suppose. It's a world you can't normally see so, it's very attractive to me.”
+「この水族館には珍しい魚もいっぱいいますし」=“This aquarium also has a lot of rare fish too.”
+「ああ、確かにクラゲの水槽に深海魚の水槽……珍しい展示がいっぱいあったね」=“Aah, yeah, they did have those jellyfish and deep sea fish displays too... those are definitely rare for sure.”
+「はい……それらをあなたと一緒に見て回ることが出来たので、心が満たされました」=“Yes... and I got to look at all of them together with you so, I feel very fulfilled right now.”
+「はは、そう言ってくれて嬉しいよ。誘ってよかった」=“Hahah, that makes me happy. I'm glad I brought you here.”
+「そういえば、入り口の方にお土産コーナーがあったよ。記念に買っていかない？」=“Reminds me, they've got a souvenir shop near the entrance. Want to buy something to remember this day by?”
+「本当ですか？　それなら……あなたとお揃いで、何か買っていきたいです」=“Really? In that case... I would like to buy something together, so that we match.”
+「ストラップ、マグカップ、帽子……何がいいか悩みどころですね」=“Phone straps, mugs, even hats... it's hard to pick one, isn't it?”
+「ゆっくり見て回ろう？　時間はまだまだあるんだし」=“Let's just take our time? We've got all day anyway.”
+「はいっ。ふふ……私は本当に幸せ者です」=“Yes--! Fufuh... I truly am blessed.”

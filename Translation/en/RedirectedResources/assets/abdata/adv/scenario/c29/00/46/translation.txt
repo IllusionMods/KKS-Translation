@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「気持ちのいい音色でした。また弾きに来ましょう」=
+「気持ちのいい音色でした。また弾きに来ましょう」=“Those were quite some pleasant sounds. Let's come here to play them again.”

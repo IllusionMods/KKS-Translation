@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、ちょっと散歩しない？」=
-//「何度来ても、素敵なビーチだよね」=
+「ねぇ、ちょっと散歩しない？」=“Hey, wanna go for a bit of a walk?”
+「何度来ても、素敵なビーチだよね」=“No matter how many times we come here, this beach is always beautiful, isn't it?”
 「…………」=“...”
-//「あれ？　ノーリアクション……どうかしたの？」=
-//「あ、いえ、色々と思うことがありまして……」=
-//「……それ、不吉な言い方だね……その切り出し方って、だいたい嫌な流れになりそうなんだけど……」=
-//「あなたが何を心配されているのか分かりませんが……嫌な気持ちにはならないかと思います」=
-//「そう？　ごめん、話の腰を折っちゃって……で、どうしたの？」=
-//「あ、はい……こうして、浜辺を歩くだなんて……まるで恋人同士だなと思いまして」=
-//「……？　まるでも何も、俺たちは恋人同士でしょ？」=
-//「そうです、恋人同士です」=
-//「……私、まだ実感が薄いのかもしれません」=
-//「まぁ、そんなに時間が経ったわけじゃないし、仕方ないんじゃないかな？」=
-//「その……時間ではなく、過ごした密度の問題なのかな……と思ったりもします」=
-//「時間じゃなくて、密度……なるほど、確かにそうかも」=
-//「ただ同じ時を過ごすだけではなく、もっと恋人としての自覚を深めるような時間をあなたと過ごしたいです」=
-//「そんなことを考えてたんだね。嬉しいよ」=
-//「……今、あなたに喜んでいただけて、ホッとしています」=
-//「私は退屈な女だと思われることが怖くて……」=
-//「全然思ってないよ。最高の子だよ」=
-//「そう、なんですね……ありがとうございます」=
-//（恥ずかしがってる……可愛いなぁ……）=
+「あれ？　ノーリアクション……どうかしたの？」=“Huh? No reaction... something wrong?”
+「あ、いえ、色々と思うことがありまして……」=“Ah, no, I'm just thinking a lot at the moment...”
+「……それ、不吉な言い方だね……その切り出し方って、だいたい嫌な流れになりそうなんだけど……」=“...That sounds pretty ominous... I feel like this conversation's gonna head in a bad direction...”
+「あなたが何を心配されているのか分かりませんが……嫌な気持ちにはならないかと思います」=“I do not know what you are worrying about but... I do think it's not as bad as you're imagining.”
+「そう？　ごめん、話の腰を折っちゃって……で、どうしたの？」=“That so? Sorry, I interrupted you midway... So, what is it?”
+「あ、はい……こうして、浜辺を歩くだなんて……まるで恋人同士だなと思いまして」=“Ah, yes... the way we're, walking around at the beach... it just felt as though we were a couple.”
+「……？　まるでも何も、俺たちは恋人同士でしょ？」=“...? There's nothing 'felt' about it, we're a couple, no?”
+「そうです、恋人同士です」=“That's right, we are.”
+「……私、まだ実感が薄いのかもしれません」=“...It might be that I'm still just not used to it.”
+「まぁ、そんなに時間が経ったわけじゃないし、仕方ないんじゃないかな？」=“Well, it's not like it's been all that long, so can you really help it?”
+「その……時間ではなく、過ごした密度の問題なのかな……と思ったりもします」=“Uhm... I do think it's less about the time we've spent together and... more the density of it.”
+「時間じゃなくて、密度……なるほど、確かにそうかも」=“Not the time, but the density, huh... I see, you might be right.”
+「ただ同じ時を過ごすだけではなく、もっと恋人としての自覚を深めるような時間をあなたと過ごしたいです」=“I want to spend a more romantic and lovey-dovey time with you, not just spend more time.”
+「そんなことを考えてたんだね。嬉しいよ」=“So that's what you were thinking, huh? Man, you know how to make me happy.”
+「……今、あなたに喜んでいただけて、ホッとしています」=“...Do I? That's a relief.”
+「私は退屈な女だと思われることが怖くて……」=“I just can't help but be scared that I'm just boring you everytime...”
+「全然思ってないよ。最高の子だよ」=“You're not boring me at all. You're the best around, [H名].”
+「そう、なんですね……ありがとうございます」=“I, see... thank you very much.”
+（恥ずかしがってる……可愛いなぁ……）=(She's blushing... so adorable...)

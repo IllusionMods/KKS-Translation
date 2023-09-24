@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……それは、私と肌を重ねたい、という事ですか？」=
-//「うん、きみとセックスがしたいんだ」=
-//「そうはっきりと言われては断りにくいものですが……」=
-//「勿論、無理にとは言わない。きみの意志を尊重するよ」=
-//「……わかりました。あなたになら、この身を捧げてもよいと思います」=
-//「っ！　ありがとう！　それじゃ早速……」=
-//「あ、あまりがっつかないで下さい……優しく、お願いします……」=
+「……それは、私と肌を重ねたい、という事ですか？」=“...Do you mean to say, that you wish to lay with me?”
+「うん、きみとセックスがしたいんだ」=“Yep, I want to have sex with you.”
+「そうはっきりと言われては断りにくいものですが……」=“It's a bit hard say no when you're so direct about it...”
+「勿論、無理にとは言わない。きみの意志を尊重するよ」=“Of course, I won't ask you to force yourself. I will respect your wishes, so feel free.”
+「……わかりました。あなたになら、この身を捧げてもよいと思います」=“...I understand. If it's you, I do not think I mind all that much.”
+「っ！　ありがとう！　それじゃ早速……」=“--! Thanks! Well then, let's...”
+「あ、あまりがっつかないで下さい……優しく、お願いします……」=“P-Please do not be too greedy... please, remember to be gentle...”

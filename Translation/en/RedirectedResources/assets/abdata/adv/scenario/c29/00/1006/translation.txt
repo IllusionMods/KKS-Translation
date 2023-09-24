@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ウムイの鐘に来たということは……やはり鳴らすのですか？」=
-//「うん、そのつもりだけど……どうかな？」=
-//「はい、鳴らすことには賛成です」=
-//「ただ、ジンクスに頼りたくはないと思っています」=
-//「鳴らしたら『必ず結ばれる』ジンクスか……確かにね、俺もそう思うよ」=
-//「そもそも……『必ず結ばれる』とは、どういう意味なんでしょう」=
-//「恋人になれる、という解釈で良いのでしょうか？」=
-//「うーん、それはおかしいよね？　だってこんな観光地で二人っきりで訪れる男女は、たいてい恋人なんだし……」=
-//「家族や友人と訪れることもあると思います。その場合、どうなるんでしょうね」=
-//「……ややこしいことになるね」=
-//「……まあ、その、ジンクスはあまり賛同できませんが、二人で鐘を鳴らす、という行為は素敵だと思います」=
-//「それならよかった」=
-//「……夢見がちだとは思いませんか？」=
-//「ううん、全然。鳴らしたいと思ってたのは、俺も同じだよ」=
-//「ありがとうございます。では……せーので一緒に引っ張りましょう」=
-//「うん。じゃあ行くよ」=
-//[P名]・[H名]=
-//「「せーのっ」」=
+「ウムイの鐘に来たということは……やはり鳴らすのですか？」=“The fact that we've come here, to the Bell of Umuy... are we going to ring it?”
+「うん、そのつもりだけど……どうかな？」=“Yep, that's what I was planning but... what do you think?”
+「はい、鳴らすことには賛成です」=“Yes, I do agree that we should.”
+「ただ、ジンクスに頼りたくはないと思っています」=“However, I do not want to rely upon the legend of it.”
+「鳴らしたら『必ず結ばれる』ジンクスか……確かにね、俺もそう思うよ」=“You mean the "You'll definitely be tied together" legend, huh... you're not wrong, I think the same way.”
+「そもそも……『必ず結ばれる』とは、どういう意味なんでしょう」=“To begin with... what does the legend even mean?”
+「恋人になれる、という解釈で良いのでしょうか？」=“Would it be incorrect to take it as "you'll become a couple"?”
+「うーん、それはおかしいよね？　だってこんな観光地で二人っきりで訪れる男女は、たいてい恋人なんだし……」=“Nnn, that's weird though, no? I mean, any pair of men and women that would come to a tourist spot like this, would be a couple to begin with...”
+「家族や友人と訪れることもあると思います。その場合、どうなるんでしょうね」=“I think people come here as families or friends as well. In that case, what would it mean?”
+「……ややこしいことになるね」=“...Now it's getting pretty tangly.”
+「……まあ、その、ジンクスはあまり賛同できませんが、二人で鐘を鳴らす、という行為は素敵だと思います」=“...Well, uhm, while I do not approve of the legend much at all, I do think it'd be very wonderful if we rang the bell together.”
+「それならよかった」=“That's great then.”
+「……夢見がちだとは思いませんか？」=“...Do I seem too much of a dreamer?”
+「ううん、全然。鳴らしたいと思ってたのは、俺も同じだよ」=“Nope, not at all. I wanted to ring it with you too, afterall.”
+「ありがとうございます。では……せーので一緒に引っ張りましょう」=“Thank you very much. Well then... let's pull on it on a count of three.”
+「うん。じゃあ行くよ」=“Yep. Here we go then.”
+[P名]・[H名]=[P名]・[H名]
+「「せーのっ」」=One, two, three--!

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さて、何をして遊ぼうかねぇ……」=
-//「浜辺で簡単に出来ることとしたら…………追いかけっこですか？」=
-//「……それは傍から見られたら結構恥ずかしいと思うよ？」=
-//「あ……でも、あなたであればそういった目で見られても……」=
+「さて、何をして遊ぼうかねぇ……」=“Now then, what should we do today~...”
+「浜辺で簡単に出来ることとしたら…………追いかけっこですか？」=“If it must be something that we can do easily on the beach... I suppose a game of tag?”
+「……それは傍から見られたら結構恥ずかしいと思うよ？」=“...That'd look pretty darn embarrassing from the side, you know?”
+「あ……でも、あなたであればそういった目で見られても……」=“Ah... but, if it's with you, I don't think I'd mind that all that much either...”
 「え……？」=“Eh...?”
-//「……何でもありません。とりあえず、別の遊び方を考えましょう」=
+「……何でもありません。とりあえず、別の遊び方を考えましょう」=“...It's nothing, pretend I didn't say it. For the time being, let's think of something else.”
