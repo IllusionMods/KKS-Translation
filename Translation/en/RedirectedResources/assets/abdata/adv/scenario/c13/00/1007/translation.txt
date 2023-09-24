@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へえ、珍しい魚がいっぱいいるねー」=
-//「たとえばどれとか？」=
-//「名前はわかんないけど。カラフルな、いかにも南国っぽいのとか」=
-//「……どれだろ？」=
-//（可愛い……）=
-//「ん？　今、アタシの横顔見てなかった。不意打ちとはデリカシーないなぁ」=
-//「そういうつもりじゃなくてっ」=
-//「えー、見てたよ。人のこと水槽に気を逸らしておいて……何？　イタズラでもしようとしたの？」=
-//「なんでちょっと嬉しそうなの？　本当に違くて」=
-//「…………うん？」=
-//「可愛いなぁって……そ、それだけだから」=
-//「ふーん？　つまり水族館のムーディな雰囲気と可愛いアタシにドキドキしちゃったんだ」=
-//「そんなとこ！　さ、さて、他に珍しい海の生き物はいるかな」=
-//「どうだろねー？」=
-//（ニヤニヤしてる……）=
-//「……ねえ、チューしよっか？」=
-//「脈絡がない！」=
-//「あるもんね。むしろ、そっちがその気にさせたじゃ～ん」=
-//「謝るからここでは水槽に集中させてください」=
+「へえ、珍しい魚がいっぱいいるねー」=“Heh, there's a whole lot of unique fish here, aren't there~?”
+「たとえばどれとか？」=“Like which ones?”
+「名前はわかんないけど。カラフルな、いかにも南国っぽいのとか」=“I don't really know any of the names but, the colorful and, really tropical looking ones.”
+「……どれだろ？」=“...Which ones?”
+（可愛い……）=(So cute...)
+「ん？　今、アタシの横顔見てなかった。不意打ちとはデリカシーないなぁ」=“Nn? Didn't you just steal a glance at my face there? That's not very nice of you, to do it while I wasn't looking~”
+「そういうつもりじゃなくてっ」=“That's not what I was trying at--”
+「えー、見てたよ。人のこと水槽に気を逸らしておいて……何？　イタズラでもしようとしたの？」=“Eh~, I was watching you. You distracted me by making me look at the tank and stuff... What, were you trying to play a little prank on me or something?”
+「なんでちょっと嬉しそうなの？　本当に違くて」=“Why do you look happy about that? It really isn't that.”
+「…………うん？」=“...Then?”
+「可愛いなぁって……そ、それだけだから」=“I was just thinking... t-that you looked adorable.”
+「ふーん？　つまり水族館のムーディな雰囲気と可愛いアタシにドキドキしちゃったんだ」=“Hmm~? So basically, the mood of the aquarium and my cuteness got to you and made your heart pound, huh?”
+「そんなとこ！　さ、さて、他に珍しい海の生き物はいるかな」=“More or less! N-Now then, wonder if there's any other unique sea life in here.”
+「どうだろねー？」=“Who knows~?”
+（ニヤニヤしてる……）=(She's grinning ear to ear...)
+「……ねえ、チューしよっか？」=“...Hey, wanna kiss?”
+「脈絡がない！」=“How'd you get from that to that!?”
+「あるもんね。むしろ、そっちがその気にさせたじゃ～ん」=“I just did. If anything, you made me do it~”
+「謝るからここでは水槽に集中させてください」=“I'll apologize so please do let me focus on the tanks, miss.”

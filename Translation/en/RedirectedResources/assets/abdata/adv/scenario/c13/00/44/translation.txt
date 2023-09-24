@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うーん、うまく形を整えられないな……」=
-//「わかるー、意外とシーサーの形にするのってムズイよね～」=
-//「でも自分で作るってことが大事なんだから、ぶきっちょでもいいんじゃない？」=
-//「それもそうだね、よし頑張るか」=
-//「その意気～！　アタシも頑張ろっと」=
+「うーん、うまく形を整えられないな……」=“Nnnn, it's hard to make the shape right...”
+「わかるー、意外とシーサーの形にするのってムズイよね～」=“I feel you~, making shisas is harder than it looks, isn't it~”
+「でも自分で作るってことが大事なんだから、ぶきっちょでもいいんじゃない？」=“But what's important is making it yourself so, does it matter if it's a bit awkward looking?”
+「それもそうだね、よし頑張るか」=“That's true too, alright, guess I'll do what I can.”
+「その意気～！　アタシも頑張ろっと」=“That's the spirit~! I'll do my best too.”

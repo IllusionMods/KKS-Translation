@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「灯台ってなんかロマンチックな感じだよねー」=
-//「景色もいいし、ここでしばらく観光しようか」=
-//「いいね～、じゃあ、あの辺に行ってみようよ」=
-//「そうだね、一緒に行こう」=
-//「うん、行こ、行こー！」=
+「灯台ってなんかロマンチックな感じだよねー」=“Lighthouses have a pretty romantic vibe to them, don't they~”
+「景色もいいし、ここでしばらく観光しようか」=“The view's great too. Let's just enjoy the view here a bit.”
+「いいね～、じゃあ、あの辺に行ってみようよ」=“Sounds good~, let's go over there then, c'mon.”
+「そうだね、一緒に行こう」=“Sure, let's go together.”
+「うん、行こ、行こー！」=“Yeah, let's go, let's go~!”

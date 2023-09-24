@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃあ、何かレンタルしてみようか」=
-//「いいね、だったらアタシ、バナナボートがいいかなー」=
-//「バナナボートか……結構揺れると思うけど大丈夫？」=
-//「大丈夫、揺れたらキミに思いっきりしがみついちゃうから」=
-//「だったら……悪くないかな」=
-//「でしょ？　それじゃ、行こ、行こ～」=
+「それじゃあ、何かレンタルしてみようか」=“Well then, let's get something on rent or something.”
+「いいね、だったらアタシ、バナナボートがいいかなー」=“Sounds good, I wanna try a banana boat myself~”
+「バナナボートか……結構揺れると思うけど大丈夫？」=“A banana boat, huh... those shake a fair bit, you sure?”
+「大丈夫、揺れたらキミに思いっきりしがみついちゃうから」=“Yeah, if it shakes too much I'll just cling onto you for dear life.”
+「だったら……悪くないかな」=“That... doesn't sound bad at all.”
+「でしょ？　それじゃ、行こ、行こ～」=“Right? Let's get one, c'mon~”

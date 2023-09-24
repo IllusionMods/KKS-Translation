@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すっごく気持ち良かったよー。キミってオイル塗りの天才だねー」=
-//「結構いいじゃん……綺麗に塗れてると思うよー」=
-//「悪くなかったんじゃない？　普通に気持ち良かったよ」=
-//「待って、まだ塗ってないんだけど……意味わかんないし」=
+「すっごく気持ち良かったよー。キミってオイル塗りの天才だねー」=“That felt super nice~. You're a genius at rubbing oil on others~”
+「結構いいじゃん……綺麗に塗れてると思うよー」=“That was pretty nice... I think you did a really nice job~”
+「悪くなかったんじゃない？　普通に気持ち良かったよ」=“That wasn't bad, I'd say? Felt pretty nice.”
+「待って、まだ塗ってないんだけど……意味わかんないし」=“Wait, you still haven't put it on me though... what're you trying? I don't get it.”

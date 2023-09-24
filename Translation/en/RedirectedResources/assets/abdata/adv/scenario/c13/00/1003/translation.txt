@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]の好きそうなものが置いてそうだね。見てみようよ」=
-//「おお、ガオーッて感じ。乙女心をくすぐってくるじゃん」=
-//「ガオーッて感じが乙女に刺さるの？」=
-//「乙女心っていうか厳密にはアタシ心？　へへへ、可愛い～」=
-//「そんなにかなぁ……」=
-//「いいじゃん。大事なのはアタシが気に入るかどうかでしょ？　アタシが好きなら他人になんて言われても関係ないし」=
-//「なんでこっち見て言うの？　別の話になってきてない？」=
-//「あはは、冗談だよ、冗談」=
-//「ホントに違うからね？　[P名]くんは評判いいし、アタシにとっても自慢の彼氏だから」=
-//「……最初はそんな話じゃなかったような？　ま、まあ、嬉しいけど」=
-//「むむ♪　ってことで、このキーホルダー買っちゃお？」=
-//「うん、気に入ったならいいんじゃないかな」=
-//「買っちゃお？　って言ってんじゃん。一緒に買っておそろにするの」=
-//「俺もそれつけるのか。そっかー……」=
+「[H名]の好きそうなものが置いてそうだね。見てみようよ」=“Seems like it'd have stuff you'd like. Let's go take a look, [H名].”
+「おお、ガオーッて感じ。乙女心をくすぐってくるじゃん」=“Ooh, it's roaring cutely and stuff. Tickles my maiden heart.”
+「ガオーッて感じが乙女に刺さるの？」=“Something like that tickles maiden hearts?”
+「乙女心っていうか厳密にはアタシ心？　へへへ、可愛い～」=“Yeah or like, just my heart, I guess? Eheheh, it's so cute~”
+「そんなにかなぁ……」=“I don't really see it...”
+「いいじゃん。大事なのはアタシが気に入るかどうかでしょ？　アタシが好きなら他人になんて言われても関係ないし」=“It's fine. What's important is whether I like it or not, no? If I like it, it doesn't really matter what anybody else thinks of it.”
+「なんでこっち見て言うの？　別の話になってきてない？」=“And why're you giving me a sidelong glance while saying that? You sure you're not talking about something else?”
+「あはは、冗談だよ、冗談」=“Ahahah, it was a joke, a joke.”
+「ホントに違うからね？　[P名]くんは評判いいし、アタシにとっても自慢の彼氏だから」=“It really was, okay? You've got a great reputation with the girls, and I'm a very proud and happy girlfriend, just so you know.”
+「……最初はそんな話じゃなかったような？　ま、まあ、嬉しいけど」=“...I feel like that's not what you were saying earlier though? W-Well, I'll take it though.”
+「むむ♪　ってことで、このキーホルダー買っちゃお？」=“Mumuh~♪ With that, let's buy these keychains?”
+「うん、気に入ったならいいんじゃないかな」=“Yeah, if you like it then why not?”
+「買っちゃお？　って言ってんじゃん。一緒に買っておそろにするの」=“I said "keychains", not "keychain". We're gonna buy them together so that we have matching ones.”
+「俺もそれつけるのか。そっかー……」=“I have to carry it too, huh? I see...”

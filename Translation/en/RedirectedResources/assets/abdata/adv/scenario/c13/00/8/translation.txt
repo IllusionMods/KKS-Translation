@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふふっ、朝から一緒にいられるのって幸せな感じ～」=
-//「それじゃ、アタシは先に出てるよー。また後でね」=
+「ふふっ、朝から一緒にいられるのって幸せな感じ～」=“Fufuh--, being able to spend the morning together feels so nice~”
+「それじゃ、アタシは先に出てるよー。また後でね」=“Well then, I'mma head out first~. See you later, okay?”

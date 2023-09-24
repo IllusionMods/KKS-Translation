@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「アタシ、ちょっと食べすぎちゃったかもー。それじゃあ、またねー」=
+「アタシ、ちょっと食べすぎちゃったかもー。それじゃあ、またねー」=“I think I really did overeat a bit~. See you later then~”

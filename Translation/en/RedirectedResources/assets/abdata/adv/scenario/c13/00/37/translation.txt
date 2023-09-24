@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「綺麗な浜辺だね」=
-//「うん、海がキラキラしててすごくいい感じだよねー」=
-//「知ってる？　島の人ってあんまり海で泳がないらしいよ」=
-//「そうなの？　こんなに奇麗なのに？」=
-//「浜辺はＢＢＱする場所って認識みたいだね」=
-//「ふぅ～ん、いっつも見てると、景色が当たり前になっちゃうのかな～」=
+「綺麗な浜辺だね」=“What a pretty beach, isn't it?”
+「うん、海がキラキラしててすごくいい感じだよねー」=“Yeah, the way the sea's glittering feels really nice, doesn't it~”
+「知ってる？　島の人ってあんまり海で泳がないらしいよ」=“Did you know? Seems like the people here don't actually swim in the water that much.”
+「そうなの？　こんなに奇麗なのに？」=“Really? Even though it's so pretty?”
+「浜辺はＢＢＱする場所って認識みたいだね」=“Yeah, seems like the beach is more known as a bbq spot than anything else.”
+「ふぅ～ん、いっつも見てると、景色が当たり前になっちゃうのかな～」=“Hmm~, I guess if you're always looking at it, a sight like this can end up growing old~?”

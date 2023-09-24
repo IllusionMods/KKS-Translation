@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「せっかくキミの部屋まで来たんだし……このままなんにもしないで帰るなんて、ありえないよね？」=
-//「俺もそう思う……やっぱり[H名]と一緒に気持ち良くなりたい」=
-//「もちろんいいよー、アタシも……したいなって思ってたから」=
-//「よし……それじゃあ、早速始めようか……」=
-//「もう……そんなにガッツかなくても大丈夫だってばー」=
+「せっかくキミの部屋まで来たんだし……このままなんにもしないで帰るなんて、ありえないよね？」=“I've come all the way to your room today so... we're not gonna head right back out without doing anything, right?”
+「俺もそう思う……やっぱり[H名]と一緒に気持ち良くなりたい」=“I was thinking the same... at the end of the day, I want to feel good together with you, [H名].”
+「もちろんいいよー、アタシも……したいなって思ってたから」=“Sure, no problem~, I was... thinking the same thing too.”
+「よし……それじゃあ、早速始めようか……」=“Alright... let's get started right away then...”
+「もう……そんなにガッツかなくても大丈夫だってばー」=“Jeez... you don't need to be so hungry for it, dummy~”

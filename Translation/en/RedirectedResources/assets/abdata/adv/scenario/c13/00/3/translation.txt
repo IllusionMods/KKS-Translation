@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それ、本気なの？」=
-//「いくらアタシでも、こんな事冗談で言わないって……それで、どうなの？」=
-//「ありがとう。俺も、[H名]の事、すごく好きだよ」=
-//「マジで？！　それじゃあ、返事はＯＫって事？」=
-//「もちろん。俺で良かったら、[H名]と付き合うよ」=
-//「ヤッター！　これでアタシ達、恋人同士だね……これからも、宜しくね」=
+「それ、本気なの？」=“Are you serious about that?”
+「いくらアタシでも、こんな事冗談で言わないって……それで、どうなの？」=“I might be me but, I'm not gonna joke about something like this... so then, what's your answer?”
+「ありがとう。俺も、[H名]の事、すごく好きだよ」=“Thank you. I love you a whole lot too, [H名].”
+「マジで？！　それじゃあ、返事はＯＫって事？」=“For real!? Is that a yes then?”
+「もちろん。俺で良かったら、[H名]と付き合うよ」=“Of course. If you're fine with me, I'll gladly go out with you.”
+「ヤッター！　これでアタシ達、恋人同士だね……これからも、宜しくね」=“Yay~! With this, we're a couple, aren't we... take good care of me, okay?”

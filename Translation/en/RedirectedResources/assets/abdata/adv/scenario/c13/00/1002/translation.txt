@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、卓球台あるよ。ちょっとやっていこうか？」=
-//「えー、別にいいけどー」=
-//「ラケットの握り方って、どんなだっけ？　こうだったかな……」=
-//「全然、卓球に興味がないのはよくわかった」=
-//「興味っていうよりは縁がない？　かな。アタシ下手だから手加減してよ～」=
-//「ふぅ、お疲れ。意外と白熱しちゃったね～」=
-//「上手だったよ。最後の方はラリーも続くようになったし」=
-//「でっしょー？　アタシって何やらせても器用だからー……なんちゃって」=
-//「アタシのセクシーもご満足いただけましたぁ？　胸、チラチラ見てるの気付いてたから」=
-//「いやいや、それは見てたっていうか、見えてたのが正しくて……」=
-//「ジュースおごりね？」=
-//「……はい、おごらせていただきます」=
+「ねぇ、卓球台あるよ。ちょっとやっていこうか？」=“Hey, there's a ping pong table here. Wanna try it?”
+「えー、別にいいけどー」=“Eh~, I guess~”
+「ラケットの握り方って、どんなだっけ？　こうだったかな……」=“How'd you hold this thing again? Like this?...”
+「全然、卓球に興味がないのはよくわかった」=“Well if there's one thing I know now, it's that you have zero interest in ping pong.”
+「興味っていうよりは縁がない？　かな。アタシ下手だから手加減してよ～」=“Rather than interest, it's more like I've never really done it before? I suck super bad so go easy~”
+「ふぅ、お疲れ。意外と白熱しちゃったね～」=“Fuh, that was great. We got surprisingly into it, didn't we~”
+「上手だったよ。最後の方はラリーも続くようになったし」=“You were great. You even managed to learn to keep a rally going, at the end.”
+「でっしょー？　アタシって何やらせても器用だからー……なんちゃって」=“Didn't I though~? I'm good at anything you can make me do~... kidding.”
+「アタシのセクシーもご満足いただけましたぁ？　胸、チラチラ見てるの気付いてたから」=“Have you had your fill of my sexiness too~? I could see you stealing glances at my chest.”
+「いやいや、それは見てたっていうか、見えてたのが正しくて……」=“No no, it was less me looking, and more that I happened to see it...”
+「ジュースおごりね？」=“Buy me juice, okay?”
+「……はい、おごらせていただきます」=“...Yes, please let me buy you juice.”

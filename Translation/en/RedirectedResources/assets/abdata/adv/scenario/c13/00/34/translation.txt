@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なんかパワーもらえたかも。それじゃあ、またどっか行こうね！」=
+「なんかパワーもらえたかも。それじゃあ、またどっか行こうね！」=“I think I got some power from it, like actually. Well then, let's go somewhere like that again soon, okay?”

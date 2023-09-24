@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「メニューが豊富だから、色々選べて飽きないね」=
-//「アタシ、マジでいっぱい頼み過ぎちゃったかも～」=
-//「別に、気にせず食べればいいんじゃない」=
-//「そうは言ってもねぇ、食べすぎちゃうのも気になるし～」=
-//（まぁ、女の子的には気になる部分か）=
-//「でもぉ、どれも美味しそうだから仕方ないよね！」=
-//「結局一人で食べるつもりなんだ……」=
+「メニューが豊富だから、色々選べて飽きないね」=“The menu's so chock full, you could spend all day ordering stuff, couldn't you?”
+「アタシ、マジでいっぱい頼み過ぎちゃったかも～」=“I think I seriously ordered a bit too much~”
+「別に、気にせず食べればいいんじゃない」=“Don't worry about it, just eat as much as you want.”
+「そうは言ってもねぇ、食べすぎちゃうのも気になるし～」=“I mean, even if you say that~, I might end up overeating, you know~”
+（まぁ、女の子的には気になる部分か）=(Well, I guess she can't help worrying, as a girl.)
+「でもぉ、どれも美味しそうだから仕方ないよね！」=“But~, it all looks so good, so there's not really helping it, is there~!”
+「結局一人で食べるつもりなんだ……」=“You really are going to eat it all by yourself, huh...”

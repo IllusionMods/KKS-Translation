@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここでちょっと休んでいこうよ」=
-//「あ～、ここ涼しいねー」=
-//「だね。いい気持ち……風の通り道ってやつなのかな？」=
-//「さては猫だな～？　猫は涼しい場所探すの上手いって言うもんね」=
-//「俺が猫なの？　どっちかって言ったら、[H]の方が猫っぽいと思うけど」=
-//「ほうほう、それはつまり、アタシが猫ちゃんみたいに気まぐれで可愛らしいってことかな」=
-//「自分で言っちゃってるよね」=
-//「どうにゃのかなー？」=
-//「……猫になった！？　そこだよ、そういうとこが猫っぽい」=
-//「イタズラっ子ってこと？　あはは、愛情表現だってば」=
-//「そんなはっきり愛情表現とか言われちゃうと……ごほんっ」=
-//「照れてる。アタシ達もう恋人なんだから、そんくらい普通に言い合う関係じゃなかったっけ」=
-//「アタシとしてはー、もっとー？　彼氏さんからムード作って欲しいなー」=
-//「チラッてしない！」=
-//「また、照れてる。そういうウブで可愛いところ好きだけどね」=
-//「俺も[H名]のそういう明るくてイタズラなところ好きだよ」=
-//「……う！？　ふはー、不意打ち食らったー」=
-//「そういうとこズルいんだよね。素直にペース握らせてくれない感じ」=
-//「……真っ赤だけど」=
-//「そういうのは気付いても言わないものなの！」=
+「ここでちょっと休んでいこうよ」=“Let's take a break here.”
+「あ～、ここ涼しいねー」=“Ah~, it's really cool here, isn't it~”
+「だね。いい気持ち……風の通り道ってやつなのかな？」=“Sure is. Feels so nice... I wonder if the breeze usually passes by here like this?”
+「さては猫だな～？　猫は涼しい場所探すの上手いって言うもんね」=“You must be a cat, huh~? They do say that cats are great at finding cool places.”
+「俺が猫なの？　どっちかって言ったら、[H]の方が猫っぽいと思うけど」=“Me, a cat? If it had to be any one of us, I'd say you'd fit the bill more, [H].”
+「ほうほう、それはつまり、アタシが猫ちゃんみたいに気まぐれで可愛らしいってことかな」=“Hoh hoh, do you mean to say that I'm whimsical and lovely like a cat?”
+「自分で言っちゃってるよね」=“Your words, not mine.”
+「どうにゃのかなー？」=“Are they really meow~?”
+「……猫になった！？　そこだよ、そういうとこが猫っぽい」=“...and now an actual cat!? That's it, that's exactly what I meant saying it'd fit you more.”
+「イタズラっ子ってこと？　あはは、愛情表現だってば」=“What, my impish side? Ahahah, it's just me showing my love, dummy.”
+「そんなはっきり愛情表現とか言われちゃうと……ごほんっ」=“You know, when you say that so directly, it's... *ahem*--”
+「照れてる。アタシ達もう恋人なんだから、そんくらい普通に言い合う関係じゃなかったっけ」=“He's blushing. Aren't we lovers already? Shouldn't that sorta stuff be normal for us now?”
+「アタシとしてはー、もっとー？　彼氏さんからムード作って欲しいなー」=“I mean, personally~, I want my boyfriend to, you know~, make more of a mood for us~?”
+「チラッてしない！」=“Don't use your eyes like that!”
+「また、照れてる。そういうウブで可愛いところ好きだけどね」=“He's blushing again. Well, I do love that simple and cute side of you, though.”
+「俺も[H名]のそういう明るくてイタズラなところ好きだよ」=“I love that bright and impish side of you too, [H名].”
+「……う！？　ふはー、不意打ち食らったー」=“...Uu!? Fuhah~, I fell for that surprise attack hook line and sinker~”
+「そういうとこズルいんだよね。素直にペース握らせてくれない感じ」=“That side of you's really unfair, you know? You just won't be docile and let me control the pace~”
+「……真っ赤だけど」=“...You're blushing ear to ear though.”
+「そういうのは気付いても言わないものなの！」=“Even if you see me doing it, you shouldn't say it, dummy~!”

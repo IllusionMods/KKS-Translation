@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おー、すごい滝だね」=
-//「ここ、確かパワースポットなんでしょ？」=
-//「何か神秘的なご利益とかあったりするのかな？」=
-//「絶対なんかあるって。ま、何もなくても景色がいいのは確かでしょ」=
-//「はは、そうだね。とりあえずもうちょっと癒されていよっか」=
-//「うん、いいよー」=
+「おー、すごい滝だね」=“Ooh~, what a waterwall.”
+「ここ、確かパワースポットなんでしょ？」=“If I'm remembering right, this place is a power spot, no?”
+「何か神秘的なご利益とかあったりするのかな？」=“Wonder if there's something divine or mystical to it.”
+「絶対なんかあるって。ま、何もなくても景色がいいのは確かでしょ」=“Definitely, for sure. Well, even if there isn't, the sight's still amazing, no?”
+「はは、そうだね。とりあえずもうちょっと癒されていよっか」=“Hahah, that it is. Let's let it sooth us for a bit more.”
+「うん、いいよー」=“Yeah, okay~”

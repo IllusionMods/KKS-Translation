@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「気になる？　それ」=
-//「わぁ！？　う、うん、ちょっとね」=
-//「ちょっと？　本当かなぁ」=
-//「う……っ」=
-//「むふふ？　さっそく顔に出ちゃってるんですけど」=
-//「平気、平気。ここに向かってるなーって気づいた時点で覚悟してたから」=
-//「この鐘をカップルで鳴らすと永遠に結ばれる、だったっけ？　永遠に結ばれちゃうかー、アタシ達」=
-//「ああ、認めるよ！　俺は[H名]とこの鐘を鳴らしたかったんだ」=
-//「あは、まっすぐだ♪　[P名]くんのそういうとこ好きだよ」=
-//「なんだかんだアタシも女の子だし？　そうやって引っ張ろうとしてくれると安心する」=
-//「……なんだかんだも何も、[H名]はずっと可愛い女の子だよ」=
-//「ありがと。[P名]くんもいい感じだよ」=
-//「あは……なんか、変な感じかも。くすぐったいような嬉しいような……」=
-//「俺もだいたいそんな感じ」=
-//「この日のこと、後で絶対に思い出すよね？　何回も」=
-//「うん、一緒に何回も思い出そう」=
-//「あは、そうだね。それじゃ、鳴らそっか？」=
+「気になる？　それ」=“So, thinking about that?”
+「わぁ！？　う、うん、ちょっとね」=“Wah!? Y-Yeah, a bit.”
+「ちょっと？　本当かなぁ」=“Just a bit? Not sure I believe you~”
+「う……っ」=“Uu...--”
+「むふふ？　さっそく顔に出ちゃってるんですけど」=“Mufufuh~? It's already showing on your face though~”
+「平気、平気。ここに向かってるなーって気づいた時点で覚悟してたから」=“I'm fine, fine. I'd already made up my mind by the time I realized we were heading here.”
+「この鐘をカップルで鳴らすと永遠に結ばれる、だったっけ？　永遠に結ばれちゃうかー、アタシ達」=“Any couple that rings this bell together gets tied for eternity, was it? We're gonna be tied together for eternity, huh~?”
+「ああ、認めるよ！　俺は[H名]とこの鐘を鳴らしたかったんだ」=“Yeah, I'll admit it! I wanted to ring this bell together with you, [H名].”
+「あは、まっすぐだ♪　[P名]くんのそういうとこ好きだよ」=“Ahah~, so honest♪ I love that side of you, [P名]-kun.”
+「なんだかんだアタシも女の子だし？　そうやって引っ張ろうとしてくれると安心する」=“I mean, at the end of the day, I'm a girl inside too? It's really relieving when you pull on me like that.”
+「……なんだかんだも何も、[H名]はずっと可愛い女の子だよ」=“...To me you're always the cutest girl, you know? There's no "at the end of the day" there.”
+「ありがと。[P名]くんもいい感じだよ」=“Thank you. You've got great vibes too, [P名]-kun.”
+「あは……なんか、変な感じかも。くすぐったいような嬉しいような……」=“Ahah... this feels, kinda weird. Not sure if I feel happy or tickly...”
+「俺もだいたいそんな感じ」=“I feel just about the same way.”
+「この日のこと、後で絶対に思い出すよね？　何回も」=“We're definitely gonna remember this day later, aren't we? Again and again.”
+「うん、一緒に何回も思い出そう」=“Yeah, let's look back on it again and again in the future.”
+「あは、そうだね。それじゃ、鳴らそっか？」=“Ahah, yeah. Well then, wanna ring it?”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おー、けっこう本格的な紅型体験が出来るんだね」=
-//「うーん、綺麗に作れるかな～」=
-//「大丈夫だよ、試しにやってみよう」=
-//「そうだね、難しいけど体験しなくっちゃ！」=
+「おー、けっこう本格的な紅型体験が出来るんだね」=“Oh~, we can actually experience something this close to the real dyeing experience, huh?”
+「うーん、綺麗に作れるかな～」=“Nnnn, you think I can make something nice~?”
+「大丈夫だよ、試しにやってみよう」=“Don't worry, you'll be fine. Let's just try it out.”
+「そうだね、難しいけど体験しなくっちゃ！」=“You're right, it looks difficult but we gotta experience it!”
