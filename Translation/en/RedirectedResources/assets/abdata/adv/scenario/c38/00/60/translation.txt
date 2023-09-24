@@ -3,7 +3,7 @@
 //
 「あの、失礼いたします……お邪魔してもよろしいでしょうか？」=“Uhm, excuse me... could I please come inside?”
 SELECTION:「返事をする」=Answer her.
-SELECTION:「……」=....
+SELECTION:「……」=...
 「大丈夫だよ、どうかしたの？」=“No problem, did something happen?”
 「ありがとうございます……実は、少し独り寝が寂しくなってしまいまして……」=“Thank you very much... the truth is, I started feeling a bit lonely sleeping all by myself...”
 「こんな夜は、貴方と一緒に過ごしたいと思いまして……来てしまいました」=“I started wanting to, spend the night with you... so I came.”

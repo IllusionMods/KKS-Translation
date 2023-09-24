@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「うーん……何をして遊ぼうか？」=“Nnnn.... What should we do?”
+「うーん……何をして遊ぼうか？」=“Nnnn... What should we do?”
 「そうですね……バナナボートはいかがですか？」=“Let's see... how about banana boating?”
 「俺はいいけど……結構スピードが出るよ？　[H名]は大丈夫？」=“I don't really mind but... banana boats can get pretty fast, you know? You sure you'll be okay?”
 「はいっ。ちょっと怖いですけど……スリルがあって好きなんです」=“Yes--! It does sound a bit scary but... it sounds very thrilling as well.”

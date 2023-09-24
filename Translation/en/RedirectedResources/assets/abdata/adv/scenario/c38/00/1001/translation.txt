@@ -12,7 +12,7 @@
 「俺も同じだよ。一生忘れられない夏だと思う」=“Same for me. It's an unforgettable summer for me too.”
 「ふふっ、だったら嬉しいです。二人にとって宝物の時間……きちんと日記にも残しておきますね」=“Fufuh--, I hope it is. Our own little slice of treasure... I'll make sure to preserve it within my diary too.”
 「日記つけてるんだ？　どんなこと書いてるの？」=“You've got a diary? What do you write in it?”
-「そ、それは秘密です。時々一人で見返して、にやけちゃうような内容……ですから……」=“T-That's a secret. It's full of things that I look back upon while, grinning like an idiot... so....”
+「そ、それは秘密です。時々一人で見返して、にやけちゃうような内容……ですから……」=“T-That's a secret. It's full of things that I look back upon while, grinning like an idiot... so...”
 「あっ、だ、だからといって、別に変なことが書いてあるわけじゃないですよ？」=“Ah--, t-that's not to say that it contains weird things or anything, alright?”
 「その日にあった嬉しかったこととか、楽しかったこととか……そういう良いことを書き留めてるんです」=“Stuff that made me happy that day, or things that I found fun... that's the sort of things I write in there.”
 「なるほど、良いことの記録かぁ……前向きになれそうでいいね。俺もやってみようかな」=“I see, a record of the things you like, huh... that's a very positive and optimistic thing to do. Maybe I'll start doing it too.”
