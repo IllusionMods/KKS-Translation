@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「二人で漕ぐのって、意外と大変だったわね。でも楽しかったわ」=“Rowing together is surprisingly difficult. It was fun, though.”
+「二人で漕ぐのって、意外と大変だったわね。でも楽しかったわ」=“It was surprisingly hard to row it together, wasn't it? But I enjoyed it.”

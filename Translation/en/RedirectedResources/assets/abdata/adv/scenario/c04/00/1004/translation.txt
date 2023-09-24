@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「少し波打ち際を歩こうよ」=“Let's take a little stroll on the beach.”
-「海っていいわよね。広くて穏やかで……私の悩みが小さなものに思えるわ」=“The ocean's nice. So wide and calm... it makes my worries seem small.”
-「何か悩み事があるの？　俺でよければ相談に乗るよ」=“Do you have things to worry about? Let's talk them over, if that's okay with you.”
-「はぁ……また悩みが増えちゃった」=“Haaa... And now I've just got another one.”
-「えっ！？　どういうこと！？」=“Eh!? What do you mean?!”
-「ヒントをあげる。悩みは何も不幸だから生まれるってわけじゃないの」=“I'll give you a hint. Problems don't necessarily come up just because you're unhappy.”
-「幸せすぎて怖いってこと？」=“So you're scared about being too happy?”
-「ふふっ、正解よ」=“Fufu, right answer.”
-「あなたは優しいわよね。人が悩んでいるときに、そっと手を差し伸べてくれて」=“You're so sweet. You always gently reach out to someone who's struggling.”
-「あなたを好きになってよかったと心からそう思う。けれど、私にはもったいないかなって……」=“I'm so glad that I fell in love with you. But I think that I waste your time, sometimes...”
-「そんなことで悩んでいたの？」=“You're worried over something like that?”
-「そんなことって……これでも、真剣に悩んでるのよ？」=“You make it sounds like it's nothing... I'm actually concerned about it, you know?”
-「不安に思うことなんて何もないよ。これからもずっと[H名]のそばにいるから」=“There's nothing to be worried about. I'll always be close to you, [H名].”
-「……っ」=“...!”
-「どうしたの？　顔が赤いよ？」=“What's the matter? Why are you blushing?”
-「……気のせいよ」=“...you're imagining things.”
-「はぁ……あなたってまるで海のような人ね」=“Ahaa... you're like the ocean.”
+「少し波打ち際を歩こうよ」=“Let's go take a walk along the seashore.”
+「海っていいわよね。広くて穏やかで……私の悩みが小さなものに思えるわ」=“The sea's just great, isn't it? It's so wide and tranquil... Makes my own worries seem small in comparison.”
+「何か悩み事があるの？　俺でよければ相談に乗るよ」=“Got something troubling you? If I'll do, feel free to just tell me anything.”
+「はぁ……また悩みが増えちゃった」=“Haah... and now I have another worry on my mind.”
+「えっ！？　どういうこと！？」=“Eh--!? What do you mean!?”
+「ヒントをあげる。悩みは何も不幸だから生まれるってわけじゃないの」=“I'll give you a hint. Worries aren't something that always have to be born out of unhappiness.”
+「幸せすぎて怖いってこと？」=“You mean, it's something like feeling so happy it's scary?”
+「ふふっ、正解よ」=“Fufuh--, you're right on the money.”
+「あなたは優しいわよね。人が悩んでいるときに、そっと手を差し伸べてくれて」=“You're really sweet, you know? Anytime someone's got something on their mind, you always make it a point to reach out.”
+「あなたを好きになってよかったと心からそう思う。けれど、私にはもったいないかなって……」=“I feel thankful from the bottom of my heart that you're the one I fell in love with. But, you know, sometimes I think you're too good for me...”
+「そんなことで悩んでいたの？」=“Is that what you've been worrying about?”
+「そんなことって……これでも、真剣に悩んでるのよ？」=“You make it sound so benign... it's a serious thing for me, you know?”
+「不安に思うことなんて何もないよ。これからもずっと[H名]のそばにいるから」=“There's nothing for you to worry about. I'm not letting you go anytime soon, [H名].”
+「……っ」=“...--!”
+「どうしたの？　顔が赤いよ？」=“What's wrong? Your face is all red, you know?”
+「……気のせいよ」=“...You're imagining things.”
+「はぁ……あなたってまるで海のような人ね」=“Haah... you're seriously just like the sea.”
 「どういう意味？」=“What do you mean?”
-「さて、どういう意味でしょう。あとで答え合わせしてみる？　二人っきりでね……」=“It means what it means. I'll give you an answer later, okay? When we're alone...”
+「さて、どういう意味でしょう。あとで答え合わせしてみる？　二人っきりでね……」=“Who knows, what do I mean? Want to try checking answers? Just the two of us...”

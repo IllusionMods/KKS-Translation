@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「へ……あ、その……好きって……俺のことが、だよね？」=“Eee...ah, um... did you say... you love, me?”
-「……うん。私を……あなたの彼女に、してください……」=“...yeah. Make me your girlfriend, please...”
-「それとも、私なんかじゃ……ダメ？」=“Or am I not good enough for you...?”
-「そんなことないよっ！　いきなりだから、びっくりしただけで……」=“That's not the case! This is just such a sudden surprise...”
-「俺も……俺も[H名]のことが好きだよ」=“Me too... I love [H名], too.”
-「本当に……？　夢じゃ、ないのよね？」=“Really...? I'm not dreaming, am I?”
-「うん、改めてこれからよろしくね」=“Yeah, I'm looking forward to being by your side.”
-「嬉しいわ……こちらこそ、よろしくお願いします」=“I'm so happy... thank you for going along with me.”
+「へ……あ、その……好きって……俺のことが、だよね？」=“Hoh... ah, uhm... you mean... me, right?”
+「……うん。私を……あなたの彼女に、してください……」=“...Yeah. Make me... your girlfriend, please...”
+「それとも、私なんかじゃ……ダメ？」=“Or am I, not... good enough?”
+「そんなことないよっ！　いきなりだから、びっくりしただけで……」=“No, that's not it at all--! It was just so sudden, it just caught me off guard...”
+「俺も……俺も[H名]のことが好きだよ」=“I... I love you too, [H名].”
+「本当に……？　夢じゃ、ないのよね？」=“You mean it...? This isn't, a dream, right?”
+「うん、改めてこれからよろしくね」=“Yep, it isn't, I mean it.”
+「嬉しいわ……こちらこそ、よろしくお願いします」=“I'm so happy... please take care of me.”

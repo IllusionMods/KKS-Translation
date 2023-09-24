@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「んぅー、すごくスッキリしたわ。ふふ、さすがね」=“Mmph, I feel so much better. Fufu, as expected of you.”
-「あなたは上手ね。お陰で気持ち良くなれたわ」=“You are good. You've made me feel wonderful.”
-「オイルを塗ってくれてありがとう」=“Thank you for oiling me.”
-「……遠慮しなくていいのに」=“...you didn't need to be so shy.”
+「んぅー、すごくスッキリしたわ。ふふ、さすがね」=“Nnn~, I feel thoroughly refreshed. Fufuh, you're no slouch.”
+「あなたは上手ね。お陰で気持ち良くなれたわ」=“You're really good at this, aren't you? I got to feel something amazing today.”
+「オイルを塗ってくれてありがとう」=“Thanks for doing it for me.”
+「……遠慮しなくていいのに」=“...You really don't need to hold back, you know?”

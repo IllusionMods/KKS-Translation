@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「すごくリラックスできたわ。ありがとう」=“That was so relaxing. Thank you.”
-「気持ち良くなれたわ。ありがとう」=“That made me feel good. Thank you.”
-「少し身体が楽になったような……あなたのお陰ね」=“My body's feeling a little better... thanks to you.”
-「えっと……どうして何もしないで終わったの？」=“Er, um... why'd you end up not doing anything?”
+「すごくリラックスできたわ。ありがとう」=“That was really relaxing. Thanks.”
+「気持ち良くなれたわ。ありがとう」=“That felt really nice. Thanks.”
+「少し身体が楽になったような……あなたのお陰ね」=“I feel like my body almost feels a bit nicer... thanks to you, clearly.”
+「えっと……どうして何もしないで終わったの？」=“Erhm... why'd you stop before doing anything?”

@@ -1,14 +1,14 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「卓球台があるし、勝負しようよ」=“Hey, there's a ping-pong table here. Let's play.”
-「はぁはぁ……ま、負けたわ……」=“*Heavy breathing*... well, I lost...”
-「やった、勝ったーーー！」=“I did it, I won---!”
-「女の子相手に本気を出すなんて。紳士にあるまじき行いね」=“I can't believe you'd go so hard against a girl. That's unbecoming of a gentleman.”
-「でも、手を抜いたら怒るでしょ？」=“But you'd be upset if I held back, wouldn't you?”
-「それはもちろん。今のはただの八つ当たり」=“Of course I would. That was just a little outburst.”
-「卓球って思っていたより難しいわね。あなどっていたわ……」=“Table tennis is harder than I thought. I underestimated you...”
-「コツを教えようか？」=“Want me to give you some tips?”
-「お願いしようかしら。負けたままでは悔しいもの」=“Maybe I should ask. It's no fun losing.”
-「私を本気にさせた責任、取ってもらうから。ふふふふふ……」=“You'll have to deal with consequences of making me serious about winning. Fufufufufu...”
-（うわ……、目が本気だ。[H名]が勝つまで許してくれなさそうだなぁ……）=(Fuwa... such a serious stare. I don't think [H名]'s gonna let me off the hook until she win...)
+「卓球台があるし、勝負しようよ」=“We've got a ping pong table here, so let's have a little match.”
+「はぁはぁ……ま、負けたわ……」=“Haahaah... I-I lost...”
+「やった、勝ったーーー！」=“I did it, I won~!”
+「女の子相手に本気を出すなんて。紳士にあるまじき行いね」=“I can't believe you went all out. So ungentlemanly.”
+「でも、手を抜いたら怒るでしょ？」=“But, if I didn't, you'd have gotten mad, no?”
+「それはもちろん。今のはただの八つ当たり」=“Of course. That was just me venting my frustration.”
+「卓球って思っていたより難しいわね。あなどっていたわ……」=“Ping pong's much harder than it looks, huh? I took it too lightly...”
+「コツを教えようか？」=“Want me to teach you?”
+「お願いしようかしら。負けたままでは悔しいもの」=“I might just take you up on that. Losing like that was really frustrating.”
+「私を本気にさせた責任、取ってもらうから。ふふふふふ……」=“I'm gonna have you take full responsibility, for making me get serious about this. Fufufufufuh...”
+（うわ……、目が本気だ。[H名]が勝つまで許してくれなさそうだなぁ……）=(Uwah... her eyes are really serious. Doesn't seem like she's gonna let me go until she wins...)

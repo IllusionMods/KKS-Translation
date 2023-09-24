@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「色んなアクティビティがあるのね」=“There are so many different activities.”
-「だね。何をするか迷っちゃうな」=“Yeah. I'm at a loss at what to do.”
-「あなたはどれをやってみたい？　私は何でも大丈夫よ」=“Which one do you want to try? I'm fine with anything.”
-「うーん……それじゃあ、これなんてどう？　初心者でも楽しめると思うんだ」=“Yeeeah... how about this, then? I think even beginners could enjoy it.”
-「ふふ、いいチョイスだわ。流石ね」=“Fufu, good choice. As expected.”
+「色んなアクティビティがあるのね」=“There's all sorts of activities, huh?”
+「だね。何をするか迷っちゃうな」=“Sure are. It's hard to pick, almost.”
+「あなたはどれをやってみたい？　私は何でも大丈夫よ」=“What do you want to try out? I'm fine with anything.”
+「うーん……それじゃあ、これなんてどう？　初心者でも楽しめると思うんだ」=“Nnn... in that case, how about this? I think even a beginner could enjoy this.”
+「ふふ、いいチョイスだわ。流石ね」=“Fufuh, nice choice. I suppose it's only natural from a guy like you.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「……そんなお願い事をしてくるなんて、流石にビックリだわ」=“...I'm surprised you'd ask that from me.”
-「無理を言ってるのは分かってるよ。でも……それでも、きみとしたいんだ」=“I understand I'm asking the impossible here. But... I still want to do it with you.”
-「……強く求めて貰えるのって、悪い気はしないわね」=“It doesn't make me feel bad that you're asking so much of me.”
-「あなたなら……いいわ。でも、少し怖いから……優しくしてほしいな」=“If it's with you... then it's okay. But I'm a little scared... I want you to be gentle.”
+「……そんなお願い事をしてくるなんて、流石にビックリだわ」=“...I can't believe you'd ask for something like that, I'd be lying if I said I'm unruffled.”
+「無理を言ってるのは分かってるよ。でも……それでも、きみとしたいんだ」=“I know that I'm asking for a lot. But... I want to do it with you, I just do.”
+「……強く求めて貰えるのって、悪い気はしないわね」=“...It doesn't feel bad at all, to be wanted this badly.”
+「あなたなら……いいわ。でも、少し怖いから……優しくしてほしいな」=“...I guess it's... fine, since it's you. But, I'm a bit scared so... I want you to be gentle.”

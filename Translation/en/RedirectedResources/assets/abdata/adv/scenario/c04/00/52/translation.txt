@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ごちそうさまでした。私達は感謝の気持ちを届けましょうか」=“Thank you for the meal. Shall we give thanks?”
+「ごちそうさまでした。私達は感謝の気持ちを届けましょうか」=“That was very nice. Let's give our thanks to the chef.”

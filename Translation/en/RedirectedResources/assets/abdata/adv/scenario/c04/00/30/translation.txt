@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「こういう所で試食できるお菓子を見つけると、テンション上がるよね」=“I get excited when I find a place that lets you sample the sweets.”
-「ふふ、あなたって、けっこう子供っぽいのね」=“Fufu, that's pretty childish of you.”
-「あ、あれ？　俺だけなのかな……」=“Wha-what? Is it just me then...”
-「人に渡すものだし、あったら嬉しいのは確かだけれど、テンションは上がらないかも」=“They're for gifting people, and it's nice to have samples, but I don't think it's something to get worked up over.”
-「卑しい精神が出てしまった……みっともなくて、申し訳ない」=“My greed got the best of me there... please, forgive me.”
+「こういう所で試食できるお菓子を見つけると、テンション上がるよね」=“It's really exciting when you find free sweet samples in places like these, isn't it?”
+「ふふ、あなたって、けっこう子供っぽいのね」=“Fufuh, you've got a really childish side to you, you know?”
+「あ、あれ？　俺だけなのかな……」=“H-Huh? Is it just me...”
+「人に渡すものだし、あったら嬉しいのは確かだけれど、テンションは上がらないかも」=“I mean, free stuff is free stuff, and I won't deny it doesn't make me happy but, I don't think I get excited over it.”
+「卑しい精神が出てしまった……みっともなくて、申し訳ない」=“Damn, my greedy side must be rearing its head out... I have no excuse.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ごちそうさまでした。あ、口元が少し汚れてるわよ？　拭いてあげるから、じっとしててね」=“Thank you for the meal. Ah, isn't your mouth a little dirty? Hold still. I'll wipe it off.” 
+「ごちそうさまでした。あ、口元が少し汚れてるわよ？　拭いてあげるから、じっとしててね」=“That was very nice. Ah, your mouth's a bit dirty, you know? I'll wipe it off for you, so stay still, okay?”
