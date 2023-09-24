@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あのままあなたと世界の果てまで行きたかったです♡　でもバナナボートじゃさすがに難しいですね♡」=
+「あのままあなたと世界の果てまで行きたかったです♡　でもバナナボートじゃさすがに難しいですね♡」=“I wanted us to just keep going to the end of the world like that♡ But I suppose a banana boat's not the best ride for that job♡”

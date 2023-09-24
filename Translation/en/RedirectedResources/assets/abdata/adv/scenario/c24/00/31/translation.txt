@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この滝、パワースポットでもあるらしいよ」=
-//「そうなんですか？　縁結びのパワースポットなら、事前に調べているんですが……」=
-//「縁結びかどうかはわからないけど、結構神秘的な感じがするよ」=
-//「私にとっては、あなたが生きる活力をみなぎらせてくれる、パワースポットですよ……♡」=
-//「あはは……まぁ、俺なんかで元気が出るならいいのかな？」=
-//「うふふ、パワーをもらうために、もう少し密着しますね♡」=
+「この滝、パワースポットでもあるらしいよ」=“Seems like this waterfall's also the local powerspot.”
+「そうなんですか？　縁結びのパワースポットなら、事前に調べているんですが……」=“Really? I've looked into love knot powerspots before but...”
+「縁結びかどうかはわからないけど、結構神秘的な感じがするよ」=“I dunno if it helps any with that or not but, it definitely does feel pretty mystical.”
+「私にとっては、あなたが生きる活力をみなぎらせてくれる、パワースポットですよ……♡」=“To me, you're the one who gives me the energy to go on so, you're my powerspot...♡”
+「あはは……まぁ、俺なんかで元気が出るならいいのかな？」=“Ahahah... well, if it cheers you up, I guess I don't really mind?”
+「うふふ、パワーをもらうために、もう少し密着しますね♡」=“Ufufuh, let me get a bit closer, so that I can receive even more of it♡”

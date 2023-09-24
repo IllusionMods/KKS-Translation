@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「涼しそうだし、ここでゆっくりしようよ」=“It's cool here. Let's relax here for a while.”
-//「この島って本当に過ごしてて気持ちいいね。[H名]とも恋人同士になれたし、毎日楽しいよ」=
-//「うふふ♡　じゃあ、ずっとこの島で暮らしますか？」=
-//「えっ？　いや、ここには研修旅行に来ただけだし、その発想はなかったかな。[H名]は考えてたの？」=
-//「はい♡　あなたに片想いしていた頃から、そうなったら幸せだろうなって♡　ひとりでいるときはいつも妄想していました♡」=
-//「この島みたいな離島か、それとも本島に暮らすか、ちゃんと２パターン考えていたんですよ♪」=
-//「こういう離島に住む場合、いちばん安定しそうだったのは農業をすることだったので、南国の農業についての論文を読んでいました♡」=
-//「もちろん、あなたには好きなことをしてもらいますからね♡　解放的な島で楽しく過ごしてほしいので、生活面は私に全部お任せでいいですよ♡」=
-//「それから、もし本島の方がいいなら、私たちの地元と同じような暮らしができるので、スーパーが近い場所に住みたいと思っていました♡」=
-//「でも宅配便が届くのが一週間ぐらいかかってしまうので、都市部であればあるほど不便はしないかと思います♡」=
-//「あと、どっちにしろ車社会なので、車の免許は必須だと思って、ネットでもできる教習所の勉強をして準備していました♡」=
-//「あははっ、随分深いところまで考えてくれてるね」=
-//「――あっ、ごめんなさい！　また、気持ち悪かった頃の私のこと話してしまって……というか、今の私も凄く気持ち悪かったですよね……」=
-//「構わないよ。俺の知らないうちから[H名]みたいな可愛い子に好かれてたなんてドキドキするし……」=
-//「そういう所も含めて[H名]のこと好きだから」=
-//「そんなっ……♡　初めて好きになった人があなたでよかったです♡　普通の人なら愛が重すぎるって引いちゃうと思います♡」=
-//「たしかに重いのは認めるけど、俺は女の子にこんな愛されることって滅多にないから、普通に嬉しいよ」=
-//「だから気持ち悪いとか思わなくていいからね、素のままでいた方が[H名]は可愛いと思うから」=
-//「はぁぁ～～♡　あなたは、グシャグシャな人生を送っていた私に神様が遣わしてくれた愛の天使です……♡　本当に大好きです♡」=
-//「ははは、大げさだよ。それより[H名]がシミュレートしたここでの生活の話、もっと聞かせてほしいな」=
-//「はいっ♡　じゃあもう思い切って私がした将来設計も込みでお話しちゃいますね♡　まず、この研修旅行が終わった後のことなんですけど――」=
-//（たしかに重いと感じるときはあるけど、裏返せば全力で、ひたむきに愛されるんだ……俺には幸せすぎるぐらいだよ）=
+「涼しそうだし、ここでゆっくりしようよ」=“This place seems pretty cool, let's take it easy here.”
+「この島って本当に過ごしてて気持ちいいね。[H名]とも恋人同士になれたし、毎日楽しいよ」=“It really does feel great to live here, doesn't it? And we got to become a couple too, everyday is just great.”
+「うふふ♡　じゃあ、ずっとこの島で暮らしますか？」=“Ufufuh♡ In that case, do you want to live here forever?”
+「えっ？　いや、ここには研修旅行に来ただけだし、その発想はなかったかな。[H名]は考えてたの？」=“Eh--? Nah, we came here just for the research trip, so I can't say I've given that much thought. You've been thinking about it?”
+「はい♡　あなたに片想いしていた頃から、そうなったら幸せだろうなって♡　ひとりでいるときはいつも妄想していました♡」=“Yes♡ Back when my love for you was just one sided, I always dreamed of that♡ I'd always have delusions about it whenever I was by myself♡”
+「この島みたいな離島か、それとも本島に暮らすか、ちゃんと２パターン考えていたんですよ♪」=“I even thought about both possibilities, about whether you'd prefer living here or on the mainland♪”
+「こういう離島に住む場合、いちばん安定しそうだったのは農業をすることだったので、南国の農業についての論文を読んでいました♡」=“If you would have rather that we lived here, then agriculture would have been the easiest way for us to have a stable life so, I read a lot of scientific books regarding the local agriculture♡”
+「もちろん、あなたには好きなことをしてもらいますからね♡　解放的な島で楽しく過ごしてほしいので、生活面は私に全部お任せでいいですよ♡」=“Of course, I'd rather you did whatever it is you want to do♡ I want you to live a free and enjoyable life with me so, you can leave all the annoying and practical things to me♡”
+「それから、もし本島の方がいいなら、私たちの地元と同じような暮らしができるので、スーパーが近い場所に住みたいと思っていました♡」=“Then if you'd have preferred to live on the mainland instead, we'd be able to carry on the same sort of life that we're used to so, I was thinking that it'd be nice to live near a supermarket♡”
+「でも宅配便が届くのが一週間ぐらいかかってしまうので、都市部であればあるほど不便はしないかと思います♡」=“But it'd be annoying if home delivery of things took more than a week so, I do think it'd be best to live as close to a city as we can♡”
+「あと、どっちにしろ車社会なので、車の免許は必須だと思って、ネットでもできる教習所の勉強をして準備していました♡」=“Also, we live in a car dependent society so, I thought that we'd definitely need atleast one license between us, so I was studying at an online driving learning course as well♡”
+「あははっ、随分深いところまで考えてくれてるね」=“Ahahah--, you've really given it a lot of thought, huh?”
+「――あっ、ごめんなさい！　また、気持ち悪かった頃の私のこと話してしまって……というか、今の私も凄く気持ち悪かったですよね……」=“-- Ah--, I'm so sorry! I didn't mean to talk about the disgusting me from back then... rather, I must have sounded pretty disgusting there myself, didn't I...”
+「構わないよ。俺の知らないうちから[H名]みたいな可愛い子に好かれてたなんてドキドキするし……」=“I don't mind it. Not only does being loved by an absolute cutie like you from the shadows make my heart pound...”
+「そういう所も含めて[H名]のこと好きだから」=“I love you, and that includes that side of you too.”
+「そんなっ……♡　初めて好きになった人があなたでよかったです♡　普通の人なら愛が重すぎるって引いちゃうと思います♡」=“You're so--...♡ I'm so glad you're the person I fell in love with♡ I think any 'normal' person would feel my love's too heavy and run away♡”
+「たしかに重いのは認めるけど、俺は女の子にこんな愛されることって滅多にないから、普通に嬉しいよ」=“It definitely is a bit heavy but, it's not like I get to feel love like this everyday so, it does make me happy for sure.”
+「だから気持ち悪いとか思わなくていいからね、素のままでいた方が[H名]は可愛いと思うから」=“So you really don't need to think of yourself as disgusting, okay? I think you're at your cutest when you're yourself, [H名].”
+「はぁぁ～～♡　あなたは、グシャグシャな人生を送っていた私に神様が遣わしてくれた愛の天使です……♡　本当に大好きです♡」=“Haah~~♡ You're an angel, an angel of love sent by god to get me out of my pathetic hole of a life...♡ I really do love you♡”
+「ははは、大げさだよ。それより[H名]がシミュレートしたここでの生活の話、もっと聞かせてほしいな」=“Hahahah, you're exaggerating now. Rather, I wanna hear more about the sort of life that you'd thought out for us here.”
+「はいっ♡　じゃあもう思い切って私がした将来設計も込みでお話しちゃいますね♡　まず、この研修旅行が終わった後のことなんですけど――」=“Okay--♡ I won't hold back and just tell you all about it then, even my plan for our future together♡ Firstly, after we're done with this trip--”
+（たしかに重いと感じるときはあるけど、裏返せば全力で、ひたむきに愛されるんだ……俺には幸せすぎるぐらいだよ）=(I can't deny that it feels heavy sometimes but, if you turn that around, then it just means that she loves me really, really earnestly... it's way more than I deserve.)

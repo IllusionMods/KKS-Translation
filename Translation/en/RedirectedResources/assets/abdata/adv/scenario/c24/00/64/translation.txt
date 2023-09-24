@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごく気持ちのいい時間でした……あなたは素晴らしいですね♡」=
-//「こんなに綺麗にしてもらえて、とても幸せです♡」=
-//「ありがとうございます。気持ち良かったです♡」=
-//「あの、何もしてくれないんですか？」=
+「すごく気持ちのいい時間でした……あなたは素晴らしいですね♡」=“That was a wonderful time... you really are just wonderful♡”
+「こんなに綺麗にしてもらえて、とても幸せです♡」=“I'm so happy, you made me so much prettier♡”
+「ありがとうございます。気持ち良かったです♡」=“Thank you very much. That felt wonderful♡”
+「あの、何もしてくれないんですか？」=“Uhm, are you not going to do it?”

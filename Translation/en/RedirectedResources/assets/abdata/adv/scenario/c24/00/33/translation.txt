@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「灯台のように、これからも私のことを導いてくださいね♡」=
+「灯台のように、これからも私のことを導いてくださいね♡」=“Please guide me from now on too, just like a lighthouse, okay?♡”

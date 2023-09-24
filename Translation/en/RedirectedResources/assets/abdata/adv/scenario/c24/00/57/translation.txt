@@ -6,4 +6,4 @@
 「…………」=“...”
 「へっ！　ど、どうして俺の上に……？」=“Geh--! W-Why are you on top of me...?”
 「うふふ♡　あなたに逆夜這い、しちゃいました♡」=“Ufufu♡ I snuck into your bed♡”
-//「このまま私が動くところをずーっと見ていてくださいね♡」=
+「このまま私が動くところをずーっと見ていてくださいね♡」=“Please just stay there and take a real good look at my technique, okay?♡”

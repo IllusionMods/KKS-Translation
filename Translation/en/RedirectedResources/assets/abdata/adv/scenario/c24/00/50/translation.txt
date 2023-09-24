@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どの料理も、優しい味でなんだかほっとするね」=
-//「みんな、地元の家庭料理みたいですね……」=
-//「これなんか、最高に美味しいよ……俺、これ好きだな」=
-//「どれですか？　味を覚えさせて下さい♡」=
-//「ずいぶん熱心だね？」=
-//「あなたの好きな味を覚えて、完璧に再現したいですから……いつか、二人の食卓で♡」=
+「どの料理も、優しい味でなんだかほっとするね」=“It all has such a gentle taste to it, it's really nice, isn't it?”
+「みんな、地元の家庭料理みたいですね……」=“It all feels like the local homecooking, doesn't it...”
+「これなんか、最高に美味しいよ……俺、これ好きだな」=“Honestly, this one is perfect... I love this.”
+「どれですか？　味を覚えさせて下さい♡」=“Which one? Please let me memorize the taste as well♡”
+「ずいぶん熱心だね？」=“Someone's pretty keen, huh?”
+「あなたの好きな味を覚えて、完璧に再現したいですから……いつか、二人の食卓で♡」=“I want to memorize the taste you love, and recreate it perfectly for you... at our own dining table, someday♡”

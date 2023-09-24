@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ごめんなさい、急に来てしまって……入っても、いいですか？」=
-SELECTION:「返事をする」=Respond
+「ごめんなさい、急に来てしまって……入っても、いいですか？」=“I'm sorry, for bothering you so late at night... could I, come in?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「いいけど、何かあったの？」=
-//「私達、恋人同士なのですから……もっと一緒に居たいと思うのは、いけない事でしょうか」=
-//「こんな寂しい時は片時も離れたくないなんて……ご迷惑、でしょうか？」=
-//「お留守、なんですね……なんだか寂しいですね」=
+「いいけど、何かあったの？」=“Sure but, did something happen?”
+「私達、恋人同士なのですから……もっと一緒に居たいと思うのは、いけない事でしょうか」=“We're lovers, so... is it wrong of me, to wish to be together with you more?”
+「こんな寂しい時は片時も離れたくないなんて……ご迷惑、でしょうか？」=“I feel so lonely I don't want to let you go even for a bit... am I, bothering you?”
+「お留守、なんですね……なんだか寂しいですね」=“You're not in, huh... I feel pretty lonely.”

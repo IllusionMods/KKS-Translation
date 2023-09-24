@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「民芸品から雑貨まで、色々揃ってますね♡」=
-//「何か欲しいものあるの？」=
-//「あなたへのお土産が欲しいと思って♡」=
-//「本人が目の前にいるのに、お土産って言うのも変な感じだね」=
-//「どうしても、あなたにもらって欲しいんです♡」=
+「民芸品から雑貨まで、色々揃ってますね♡」=“They have everything, don't they? From local crafts to basic goods♡”
+「何か欲しいものあるの？」=“Is there anything you want?”
+「あなたへのお土産が欲しいと思って♡」=“I was thinking of buying something as a gift for you♡”
+「本人が目の前にいるのに、お土産って言うのも変な感じだね」=“Feels a bit weird though, since I'm right here.”
+「どうしても、あなたにもらって欲しいんです♡」=“But I still just want to gift you something♡”

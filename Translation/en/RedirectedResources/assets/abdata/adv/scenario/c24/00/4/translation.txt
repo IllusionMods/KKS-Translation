@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「いいですよ……何も問題ありません♡」=
-//「いきなりだったけど、本当にいいの？」=
-//「はい、構いません……あなたからのお誘いを、ずっと待ち望んでいましたから♡」=
-//「それじゃあ、始めるけど……」=
-//「私、初めてですが、気にしないで下さい……あなたのために、すぐ慣れますから♡」=
+「いいですよ……何も問題ありません♡」=“Alright... I don't have a problem with it♡”
+「いきなりだったけど、本当にいいの？」=“You sure? I know it's pretty sudden.”
+「はい、構いません……あなたからのお誘いを、ずっと待ち望んでいましたから♡」=“Yes, I don't mind... I've been waiting for you ask me this, for so long♡”
+「それじゃあ、始めるけど……」=“Well then, I'm gonna start but...”
+「私、初めてですが、気にしないで下さい……あなたのために、すぐ慣れますから♡」=“I'm a virgin but, please do not mind it... I'll get used to it in no time, for you♡”

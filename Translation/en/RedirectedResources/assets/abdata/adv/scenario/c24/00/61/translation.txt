@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここで、美容オイルが使えるらしいよ」=
-//「そうみたいですね……しかも、自由に使っていいなんて……」=
-//「南国だからねー。とりあえず、俺がオイル塗ってあげようか？」=
-//「あなたが……私に、オイルを……」=
-//「そう緊張しないで、大丈夫、綺麗に塗ってあげるからさ」=
+「ここで、美容オイルが使えるらしいよ」=“Seems like we can use beauty oil here.”
+「そうみたいですね……しかも、自由に使っていいなんて……」=“It seems that way... what's more, we can even use it freely...”
+「南国だからねー。とりあえず、俺がオイル塗ってあげようか？」=“Probably because it's the south~. Want me to rub it on you?”
+「あなたが……私に、オイルを……」=“You... rubbing oil, on me...”
+「そう緊張しないで、大丈夫、綺麗に塗ってあげるからさ」=“No need to be that tense, don't worry, I'll rub it on you real nicely.”

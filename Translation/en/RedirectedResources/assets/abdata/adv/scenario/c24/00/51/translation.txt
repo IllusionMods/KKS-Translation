@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あなたと同じものを同じ量食べました……少し、食べ過ぎたかも知れません♡」=
+「あなたと同じものを同じ量食べました……少し、食べ過ぎたかも知れません♡」=“I ate the same thing as you and as much of it as you... though, I might have overate a bit♡”

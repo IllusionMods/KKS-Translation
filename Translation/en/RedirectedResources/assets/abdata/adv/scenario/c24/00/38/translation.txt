@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「一緒に遊ぶなら、何かレンタルしようか」=
-//「バナナボートやシュノーケリングができるんですね♡」=
-//「どっちかっていうとバナナボートをやりたい気分なんだけど……いい？」=
-//「はい、わかりました♡」=
-//「大丈夫？　ボートから落っこちちゃうかも知れないけど」=
-//「大丈夫です、あなたから絶対離れませんから……落ちる時も一緒がいいです♡」=
+「一緒に遊ぶなら、何かレンタルしようか」=“If we're gonna do this, let's rent something.”
+「バナナボートやシュノーケリングができるんですね♡」=“We could go either banana boating or snorkeling♡”
+「どっちかっていうとバナナボートをやりたい気分なんだけど……いい？」=“Well, between those two, I'm personally feeling more like banana boating... you fine with that?”
+「はい、わかりました♡」=“Yes, alright♡”
+「大丈夫？　ボートから落っこちちゃうかも知れないけど」=“You sure? You might end up falling off the boat though.”
+「大丈夫です、あなたから絶対離れませんから……落ちる時も一緒がいいです♡」=“It's alright, I definitely won't let go of you so... even if we fall, we'll fall together♡”

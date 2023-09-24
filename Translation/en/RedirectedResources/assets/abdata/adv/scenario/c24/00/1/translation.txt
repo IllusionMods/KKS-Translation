@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「私の事が……好き？　好きとはどういう意味ですか……？」=“You... love me?　What do you mean you love me...?”
-「そのままの意味だよ。きみが好きだから付き合いたいって事」=“That's what I meant. I love you and I want to go out with you.”
-「わ、私は……自分でもわかってるんです……あなたに好かれる資格がないって、だって重たいし、それに……」=“I-I... I know... I don't deserve to be loved by you, because I'm gloomy, and besides...”
-「いいんだよ。そういう所も全部ひっくるめて、可愛いなって思ってるから」=“It's okay. I think you're cute in all those ways.”
-「私、嬉しいです……あなたが、あのあなたが私を好きだと言ってくれて……」=“I'm glad... that you, you know, told me you love me...”
-「私も……きちんとあなたとお付き合いしたです……よろしく、お願いします♡」=“I also... would like to go out with you properly... please, take care of me♡”
+「私の事が……好き？　好きとはどういう意味ですか……？」=“You... love me? What do you mean...?”
+「そのままの意味だよ。きみが好きだから付き合いたいって事」=“I mean exactly what I said. I love you so I want you to go out with me.”
+「わ、私は……自分でもわかってるんです……あなたに好かれる資格がないって、だって重たいし、それに……」=“I-I... realize it myself, you know... that I don't have the right to ask for your love, I mean, I've got so much baggage, not to mention...”
+「いいんだよ。そういう所も全部ひっくるめて、可愛いなって思ってるから」=“It's fine. I think you're very adorable, all of that included.”
+「私、嬉しいです……あなたが、あのあなたが私を好きだと言ってくれて……」=“I'm, so happy... you, you of all people, telling me you love me...”
+「私も……きちんとあなたとお付き合いしたです……よろしく、お願いします♡」=“I want to... go out with you as well... please take, care of me♡”

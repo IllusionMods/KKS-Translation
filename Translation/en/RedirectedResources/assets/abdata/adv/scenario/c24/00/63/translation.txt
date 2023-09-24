@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「とても、気持ちが良かったです……あなたの手は最高ですね♡」=
-//「あなたに塗ってもらえるなんて、夢見心地でした♡」=
-//「素晴らしかったです。ありがとうございます♡」=
-//「塗って、もらえないんですか？」=
+「とても、気持ちが良かったです……あなたの手は最高ですね♡」=“That felt, very nice... your hands are just the best, aren't they♡”
+「あなたに塗ってもらえるなんて、夢見心地でした♡」=“It was a dreamlike experience, to have you rub it on me♡”
+「素晴らしかったです。ありがとうございます♡」=“That was wonderful. Thank you very much♡”
+「塗って、もらえないんですか？」=“Will you, not do it?”
