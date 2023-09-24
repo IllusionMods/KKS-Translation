@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルドリンクを頼めるみたいだよ。ちょっと休憩していこう」=
-//「時は来た！　禁断の魔酒、此処に召喚せり！」=
-//「これはお酒じゃなくて、ノンアルコールのトロピカルフルーツジュースだよ」=
-//「なんと！　南国果汁１００パーセントジューチュとな！」=
-//「いま噛んだよね？」=
-//「か、噛んでいないぞっ！　汝の聞き間違えだ！」=
-//「こほんっ。仕切り直して……」=
-//「時は来た！　禁断の果実を絞りし魔のジュース、此処に召喚せり！」=
-//「そこから仕切り直すんだ」=
-//「我が同胞よ。共にこのジュースを飲み干すのだ。さすれば、我らの絆はより強固なものとなろう……」=
-//「一緒にジュースを飲んで、愛を確かめ合おうって話だね」=
-//「あ、愛っ！？　ま、まあそういうことではあるが……と、とにかくいただくぞっ」=
-//（……可愛いなぁ）=
-//「ど、どうして我の顔を見てニヤニヤしておるのだ。恥ずかしいから、ジロジロ見るのはやめろ～！」=
+「カップルドリンクを頼めるみたいだよ。ちょっと休憩していこう」=“Seems like we can get a couples' drink here. Let's grab a table.”
+「時は来た！　禁断の魔酒、此処に召喚せり！」=“The time has come! The forbidden demon liquour, summoned here and now!”
+「これはお酒じゃなくて、ノンアルコールのトロピカルフルーツジュースだよ」=“It's not liquour, it's a non-alcoholic tropical beverage.”
+「なんと！　南国果汁１００パーセントジューチュとな！」=“Truly?! A 100% concentrate of southern fruit juich--!”
+「いま噛んだよね？」=“You just bit your tongue there, didn't you?”
+「か、噛んでいないぞっ！　汝の聞き間違えだ！」=“I-I did not--! Thine ears are faulty!”
+「こほんっ。仕切り直して……」=“*Cough*--. Going once more...”
+「時は来た！　禁断の果実を絞りし魔のジュース、此処に召喚せり！」=“The time has come! The forbidden fruit juice, summoned here and now!”
+「そこから仕切り直すんだ」=“That's where you're going again from, huh?”
+「我が同胞よ。共にこのジュースを飲み干すのだ。さすれば、我らの絆はより強固なものとなろう……」=“My comrade. Thou shalt drink this juice with me. Doing so, shall lead to our ties being stronger...”
+「一緒にジュースを飲んで、愛を確かめ合おうって話だね」=“Yes yes, you want us to drink it together and show us how much we love each other, right?”
+「あ、愛っ！？　ま、まあそういうことではあるが……と、とにかくいただくぞっ」=“L-Love--?! W-Well, I cannot deny that, however... a-anyways, it is time--”
+（……可愛いなぁ）=(...So adorable.)
+「ど、どうして我の顔を見てニヤニヤしておるのだ。恥ずかしいから、ジロジロ見るのはやめろ～！」=“W-Why art thou smirking at my face like that? It's embarrassing, so stop staring~!”

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……こうして、[H名]とご飯を食べてるとさ」=
-//「[H名]と付き合ってるんだなーって実感するよ」=
-//「なな汝よ！　急に何を言い出すのだ！」=
-//「ごめんごめん。可愛くご飯を食べてる[H名]を見てたら、ふと思ったんだよ」=
-//「そいうこと言うなぁ……照れて、食事が進まなくなるではないか……！」=
-//「じゃあ、俺が食べさせてあげようか？」=
-//「しなくて良い！　ちゃんと一人で食べるから……」=
+「……こうして、[H名]とご飯を食べてるとさ」=“...You know, when we eat food together like this, [H名]--”
+「[H名]と付き合ってるんだなーって実感するよ」=“It makes me realize all over again that we're dating.”
+「なな汝よ！　急に何を言い出すのだ！」=“T-T-Thou! What art thou saying so suddenly?”
+「ごめんごめん。可愛くご飯を食べてる[H名]を見てたら、ふと思ったんだよ」=“Sorry, sorry. I just couldn't help myself, you look so adorable when you're eating.”
+「そいうこと言うなぁ……照れて、食事が進まなくなるではないか……！」=“Do not say such things... how am I, supposed to continue eating while blushing...!”
+「じゃあ、俺が食べさせてあげようか？」=“Want me to feed you then?”
+「しなくて良い！　ちゃんと一人で食べるから……」=“No need! I can eat by myself...”

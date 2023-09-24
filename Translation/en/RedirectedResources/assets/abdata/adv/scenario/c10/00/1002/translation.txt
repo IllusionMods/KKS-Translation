@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねえ、[H名]も一緒に卓球やらない？」=
-//「よかろう。ただし、やるからには我も本気を出すぞ」=
-//「おっ、言ったな。よ～し、負けないぞ」=
-//「クククッ。さぁ、宴の始まりであるぞ！」=
-//「なっ！？　その構えはまさか……！」=
-//「そのまさかだ！　これぞ魔界に伝わる究極の卓球殺法、リバウンドボール！」=
-//「飛んで火に入る夏の虫とは汝のことよ。我に死合を挑んだこと、地獄で後悔するがいいっ！」=
-//「くっ……！　負けるかぁぁぁっ！」=
-//「ふぎゃぁ～！　１点も取れずに負けたぁ～！」=
-//「威勢がよかったのは最初だけだったね」=
-//「もう１回！　もう１回っ！　次こそ我が秘奥義で、ギャフンって言わせてやるっ！」=
-//「はいはい。わかったよ。まだ死にたくないからお手柔らかにね」=
+「ねえ、[H名]も一緒に卓球やらない？」=“Hey, [H名], wanna join me for a round of ping pong?”
+「よかろう。ただし、やるからには我も本気を出すぞ」=“Very well. However, if we art to do this, then I shalt play seriously.”
+「おっ、言ったな。よ～し、負けないぞ」=“Oh--, alright then. Let's do this, I'm not gonna lose~.”
+「クククッ。さぁ、宴の始まりであるぞ！」=“Kukukuh--. Come now, the banquet starts now!”
+「なっ！？　その構えはまさか……！」=“Wha--!? That stance...!”
+「そのまさかだ！　これぞ魔界に伝わる究極の卓球殺法、リバウンドボール！」=“It's exactly as thou thinkst! The ultimate ping pong technique passed down in the demon realm, the Rebound Ball!”
+「飛んで火に入る夏の虫とは汝のことよ。我に死合を挑んだこと、地獄で後悔するがいいっ！」=“Thou art but the moth that heedlessly flies into the fire. Regret thine challenge, in hell!”
+「くっ……！　負けるかぁぁぁっ！」=“Kuh--...! Like helllllll--!”
+「ふぎゃぁ～！　１点も取れずに負けたぁ～！」=“Fugyah~! I lost without even a single point~!”
+「威勢がよかったのは最初だけだったね」=“Your cheer lasted all of one hit, didn't it?”
+「もう１回！　もう１回っ！　次こそ我が秘奥義で、ギャフンって言わせてやるっ！」=“One more chance! One more chance--! This time for sure, I shalt beat thee into submission with my secret technique!”
+「はいはい。わかったよ。まだ死にたくないからお手柔らかにね」=“Yes yes. I got it. I don't wanna die just yet though so go easy on me.”

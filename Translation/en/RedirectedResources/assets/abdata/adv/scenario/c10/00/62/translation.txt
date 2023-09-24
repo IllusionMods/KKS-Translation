@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さらなる魔力増加の為に、今度は前側も塗っていこうか」=
-//「ま、前を塗るだと！？　そ、それは……なんだか破廉恥ではないか……？」=
-//「うん、分かってる……でも俺は、[H名]の為を思って提案してるんだ」=
-//「そ、そうか……これは魔力の為にすることで、変な行いではない訳だから……気にしなくても良いのか……」=
-//「そうだよ。それじゃあ、俺に任せてね……」=
+「さらなる魔力増加の為に、今度は前側も塗っていこうか」=“Let's do the front as well this time, to increase your mana capacity.”
+「ま、前を塗るだと！？　そ、それは……なんだか破廉恥ではないか……？」=“T-The front!? T-That... is that not a bit perverse...?”
+「うん、分かってる……でも俺は、[H名]の為を思って提案してるんだ」=“Yep, I know... but I'm suggesting it out of love and care for you, [H名].”
+「そ、そうか……これは魔力の為にすることで、変な行いではない訳だから……気にしなくても良いのか……」=“I-Is that so... this is nothing strange, but rather simply for the sake of increasing my power, is it... so I needn't worry...”
+「そうだよ。それじゃあ、俺に任せてね……」=“That's right. Well then, leave it to me...”

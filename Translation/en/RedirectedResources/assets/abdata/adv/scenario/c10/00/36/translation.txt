@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なにをやってみようか？　俺は何でも大丈夫だから、やりたいものがあったら遠慮せず言ってね」=
-//「わ、我が決めるのか？　責任重大過ぎるぞ……」=
-//「そんな大げさに考えなくても、ただ何で遊びたいかで選べばいいんだよ」=
-//「では……魔界散策コースがないか、探すとしよう」=
-//「残念ながら、人間界にそんなものはないかな」=
+「なにをやってみようか？　俺は何でも大丈夫だから、やりたいものがあったら遠慮せず言ってね」=“Wanna do something? I'm fine with anything, so if there's something you wanna do then just lemme know, okay?”
+「わ、我が決めるのか？　責任重大過ぎるぞ……」=“T-Thou art saddling me with that responsibility? What a big responsibility it is...”
+「そんな大げさに考えなくても、ただ何で遊びたいかで選べばいいんだよ」=“You don't have to overthink it that much, just pick whatever you wanna have fun with today.”
+「では……魔界散策コースがないか、探すとしよう」=“Then... Let us check if they have a demon realm walking course here.”
+「残念ながら、人間界にそんなものはないかな」=“Sadly, I don't think you're gonna find one of those in our human world.”

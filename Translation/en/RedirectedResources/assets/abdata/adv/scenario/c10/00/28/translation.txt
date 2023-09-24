@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……ただ語り合う為だけに、我を部屋に招いたわけではないのだろう？」=
-//「我の推測が間違っていなければ、汝は……え、エッチをするために、我を……」=
-//「やはり、そうだったのだな。……断るなら、我は初めから部屋に付いて来たりしない……察してくれ」=
+「……ただ語り合う為だけに、我を部屋に招いたわけではないのだろう？」=“...Thou didst not invite me here just for a simple chat, right?”
+「我の推測が間違っていなければ、汝は……え、エッチをするために、我を……」=“If my conjecture is not flawed, t-thou did bring me here to... h-have sex...”
+「やはり、そうだったのだな。……断るなら、我は初めから部屋に付いて来たりしない……察してくれ」=“I knew it. ...If my answer was going to be one of refusal, I would have never followed thee in here... Atleast guess that much.”

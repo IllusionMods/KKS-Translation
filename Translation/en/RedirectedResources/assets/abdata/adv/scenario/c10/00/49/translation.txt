@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「魚とイカの天ぷらの盛り合わせを頼んでみたけど……」=
-//「身に纏う鎧が分厚くて……どれがどれか分からぬ」=
-//「こっちの天ぷらはこんなに衣が厚いんだね。まあ、どっちも美味しいだろうし気にせず食べればいいか」=
-//「さっそく一つ…………これは魚だな」=
-//「我も魚だったぞ」=
-//「……俺もまた魚だ」=
-//「我も……もしかして、注文を間違えたのではないか？」=
-//「それか、残りは全部イカかのどっちかだね……」=
+「魚とイカの天ぷらの盛り合わせを頼んでみたけど……」=“Well, we ordered a fish and squid tempura set but...”
+「身に纏う鎧が分厚くて……どれがどれか分からぬ」=“The armour cladding their bodies is so thick... I cannot tell which is which.”
+「こっちの天ぷらはこんなに衣が厚いんだね。まあ、どっちも美味しいだろうし気にせず食べればいいか」=“I didn't know they coated tempura so thick here. Well, it's probably delicious anyway so we should just eat.”
+「さっそく一つ…………これは魚だな」=“I'll go first, lemme see... I got fish.”
+「我も魚だったぞ」=“So did I.”
+「……俺もまた魚だ」=“...I got fish again.”
+「我も……もしかして、注文を間違えたのではないか？」=“I as well... did they misunderstand our order, perhaps?”
+「それか、残りは全部イカかのどっちかだね……」=“That, or the rest are all squid...”

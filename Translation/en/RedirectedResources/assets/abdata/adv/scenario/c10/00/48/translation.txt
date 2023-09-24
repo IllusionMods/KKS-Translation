@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「その……汝が食べているそれは、一体なんなのだ……？」=
-//「これ？　中身汁っていって、豚の中身……つまりモツが具のお吸い物だよ」=
-//「表面に見えている肉は全部モツなのか……汝は魔界でも逞しく生きていけそうだな」=
-//「こんなことでお墨付きがもらえるとは思わなかったよ」=
+「その……汝が食べているそれは、一体なんなのだ……？」=“Uhm... just what is that, that thou art eating...?”
+「これ？　中身汁っていって、豚の中身……つまりモツが具のお吸い物だよ」=“This? It's offal soup, pig offal soup, specifically... basically soup made of pig entrails.”
+「表面に見えている肉は全部モツなのか……汝は魔界でも逞しく生きていけそうだな」=“So all that meat is guts, is it... thou wouldst make quite the strong demon.”
+「こんなことでお墨付きがもらえるとは思わなかったよ」=“I didn't think this would be what gets me your seal of approval.”

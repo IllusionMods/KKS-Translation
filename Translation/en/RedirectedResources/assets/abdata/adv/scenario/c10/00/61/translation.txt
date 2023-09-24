@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここではオイル塗りが出来るみたいだよ」=
-//「ふーん……オイルを塗ったらどうなるのだ？」=
-//「綺麗になる……えーとつまり、魔力が高まるってことだよ」=
-//「なに！？　汝よ、それは本当か？　そんな簡単なことで魔力が高まるのであれば、やらない手はないぞ！」=
-//「本当だよ。じゃあ、俺が塗ってあげるね」=
+「ここではオイル塗りが出来るみたいだよ」=“Seems like we can use the oil here on our bodies.”
+「ふーん……オイルを塗ったらどうなるのだ？」=“Hmmm... and what would that achieve?”
+「綺麗になる……えーとつまり、魔力が高まるってことだよ」=“You'll become more pretty... erhm, basically, it'll increase your power.”
+「なに！？　汝よ、それは本当か？　そんな簡単なことで魔力が高まるのであれば、やらない手はないぞ！」=“What--!? Is that true, what thou art saying? If there's a chance that something so simple can help me increase my power, I shalt not let it go past!”
+「本当だよ。じゃあ、俺が塗ってあげるね」=“It's true. Well then, I'll rub it on you.”

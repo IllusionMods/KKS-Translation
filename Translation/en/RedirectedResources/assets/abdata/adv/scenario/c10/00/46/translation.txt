@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「くっ……今の我の実力では難しい様だ。だがこれで終わる我ではない……絶対リベンジしてやるぞ！」=
+「くっ……今の我の実力では難しい様だ。だがこれで終わる我ではない……絶対リベンジしてやるぞ！」=“Kuh--... seems that it'd be quite difficult for me to accomplish, as I am right now. Thusly, it shan't end here... I shall have my revenge!”

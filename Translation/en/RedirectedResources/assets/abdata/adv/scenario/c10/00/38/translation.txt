@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「魔界にも海ってあるの？」=
-//「あ、でも魔界の場合、血の海とかになってるのかな？」=
-//「それは魔界ではなく地獄の話だ。魔界にも海はあるが……泳ぐ習慣はあまりないぞ」=
-//「海を好む種族の縄張りになっていて、我らはあまり近づかないのだ」=
-//「そっか、じゃあ[H名]はあんまり海で遊んだことはないんだね」=
-//「う、うむ。だから、その……どんな遊びがあるのか、教えてほしい……」=
-//「うん、たくさん遊ぼう！」=
+「魔界にも海ってあるの？」=“Are there seas in the demon realm too?”
+「あ、でも魔界の場合、血の海とかになってるのかな？」=“Ah, but I guess in the demon realm's case, I suppose they'd be more seas of blood?”
+「それは魔界ではなく地獄の話だ。魔界にも海はあるが……泳ぐ習慣はあまりないぞ」=“That's hell, not the demon realm. The demon realm has seas as well... though we do not swim in them as much.”
+「海を好む種族の縄張りになっていて、我らはあまり近づかないのだ」=“They are the realm of those that thrive in the sea, so we do not get close to them unnecessarily.”
+「そっか、じゃあ[H名]はあんまり海で遊んだことはないんだね」=“I see, I guess you haven't had much fun in the sea before then, [H名].”
+「う、うむ。だから、その……どんな遊びがあるのか、教えてほしい……」=“U-Umu. That's why, uhm... I want you to tell me, how to...”
+「うん、たくさん遊ぼう！」=“Yeah, let's have lots of fun!”

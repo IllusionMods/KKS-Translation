@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「う、うん？　なな汝は今、叡智しないと言ったのか？」=
-//「叡智しないって意味が分からないよ……」=
-//「本当はちゃんと聞こえてたと思うけど、もう一回言うね。俺と……エッチしない？」=
-//「うぅ……そ、そんなことを言われても……」=
-//「どうしても、シたくて……ダメかな？」=
-//「……優しくするって約束してくれるなら……少しだけ……いいよ？」=
+「う、うん？　なな汝は今、叡智しないと言ったのか？」=“N-Nn? D-D-Did thou just sayeth, that thou wisht to form a sect?”
+「叡智しないって意味が分からないよ……」=“The heck's a sect...”
+「本当はちゃんと聞こえてたと思うけど、もう一回言うね。俺と……エッチしない？」=“I'm sure you heard me correctly the first time, but I'll say it again, okay? Won't you... have sex with me?”
+「うぅ……そ、そんなことを言われても……」=“Uuu... e-even if thou askst me...”
+「どうしても、シたくて……ダメかな？」=“I just, want to... is it really not possible?”
+「……優しくするって約束してくれるなら……少しだけ……いいよ？」=“...If thou givest me your word, that thou shalt be as gentle as possible... then I suppose I... don't mind?”

@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「大きな水槽……まるで海の底に潜ってるみたいだ」=
-//「おお！　すごいぞ、汝！　見たことのない魚がいっぱいだ！」=
-//「こっちが嬉しくなるくらいテンション高いね。悪魔的にも、水族館はワクワクする場所なの？」=
-//「そうだぞ！　魔界の海と人間界の海とでは、また違うからな」=
-//「そっか。ちなみに魔界の海にはどんな魚がいるの？」=
-//「ふぇっ？　そ、そうだな……その……た、たとえば、デビルフィッシュなどが有名だ！」=
-//「……それってタコのことじゃなかったっけ？」=
-//「っ……魔界と人間界で同じ名前の生き物がいるとは、何という偶然！　奇跡！」=
-//「お！　あそこにいる巨大な影はなんだ！？　新手かっ！」=
-//（……楽しそうにしてるし、これ以上突っ込むのはやめておこう）=
-//「おおおお！　今のはマンタではないか？　大きくてカッコいいぞ！」=
-//「そうだね。マンタって本当に大きいなぁ、背中に乗れそうだ」=
-//「ククッ、それは面白いアイデアだな！　我の僕になる気はないか問うてみよう」=
-//「ふぬぬぬぬ……！」=
-//（……可愛い）=
-//「……ふぅ。奴らにはまだ我の言葉理解できないらしい」=
-//「それは残念だね。次来たときは話せるといいね」=
-//「だな！　楽しみであるぞ」=
+「大きな水槽……まるで海の底に潜ってるみたいだ」=“What a big fishtank... it's like a patch of the sea.”
+「おお！　すごいぞ、汝！　見たことのない魚がいっぱいだ！」=“Ooh! It's amazing! There's so many fish I've never seen before!”
+「こっちが嬉しくなるくらいテンション高いね。悪魔的にも、水族館はワクワクする場所なの？」=“Your excitement and happiness is very infectious. Is the aquarium that much of a treat, even for demons?”
+「そうだぞ！　魔界の海と人間界の海とでは、また違うからな」=“That's right! For one, the sea in the demon realm is quite different from the sea here.”
+「そっか。ちなみに魔界の海にはどんな魚がいるの？」=“I see. Incidentally, what sort of fishes are there in the demon realm's waters?”
+「ふぇっ？　そ、そうだな……その……た、たとえば、デビルフィッシュなどが有名だ！」=“Fueh--? L-Let me think... uhm... f-for example, devilfish are quite common there!”
+「……それってタコのことじゃなかったっけ？」=“...Wasn't that the name of an octopus or something?”
+「っ……魔界と人間界で同じ名前の生き物がいるとは、何という偶然！　奇跡！」=“--!... What a coincidence, for the demon realm and the human realm to share a name! Truly a miracle!”
+「お！　あそこにいる巨大な影はなんだ！？　新手かっ！」=“Oh! What is that big shape over there?! I must see!”
+（……楽しそうにしてるし、これ以上突っ込むのはやめておこう）=(...She seems to be loving it here, I guess I'll stop grilling her.)
+「おおおお！　今のはマンタではないか？　大きくてカッコいいぞ！」=“Oooooh! Is that not a manta? It's so big and cool!”
+「そうだね。マンタって本当に大きいなぁ、背中に乗れそうだ」=“Sure is. Mantas really are very big, aren't they? Bet you can ride them.”
+「ククッ、それは面白いアイデアだな！　我の僕になる気はないか問うてみよう」=“Kukuh--, that's quite the idea! I suppose I shall ask it if it has any interest in becoming my servant.”
+「ふぬぬぬぬ……！」=“Fununununu...!”
+（……可愛い）=(...So cute.)
+「……ふぅ。奴らにはまだ我の言葉理解できないらしい」=“...Fuh. Seems that they still cannot comprehend my words.”
+「それは残念だね。次来たときは話せるといいね」=“That's a shame. It'd be nice if they manage to learn how to by the time we come here again.”
+「だな！　楽しみであるぞ」=“Indeed! I'm quite excited.”

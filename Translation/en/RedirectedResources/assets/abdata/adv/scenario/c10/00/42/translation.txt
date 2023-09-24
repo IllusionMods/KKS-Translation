@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「な……この音色は……」=
-//「三線の音だけど、それがどうかしたの？」=
-//「サンシン……？　そうなのか……魔提琴マジムンの音と似ていたが、違うなら問題ないな」=
-//「……魔提琴ってなに？」=
-//「魔界の奥底に封印された恐ろしい楽器なのだ……！　聞いたものは、えっと……その……こ、鼓膜が破れる！」=
-//「そ、そっか……」=
+「な……この音色は……」=“Wha... this sound...”
+「三線の音だけど、それがどうかしたの？」=“It's the sound a sanshin makes, what about it?”
+「サンシン……？　そうなのか……魔提琴マジムンの音と似ていたが、違うなら問題ないな」=“A 'sanshin'...? I see... it was quite similar to the sound from the demonic tiqin Majimun, but it's fine since it's not that.”
+「……魔提琴ってなに？」=“...The heck's a demonic tiqin?”
+「魔界の奥底に封印された恐ろしい楽器なのだ……！　聞いたものは、えっと……その……こ、鼓膜が破れる！」=“It is a fearsome musical instrument, sealed within the depths of hell...! Those who hear it, erhm... uhm... h-have their eardums snap!”
+「そ、そっか……」=“I-I see...”

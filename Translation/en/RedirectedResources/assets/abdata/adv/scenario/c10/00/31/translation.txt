@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こ、これが人間界のパワースポット……くっ、凄まじい力を感じる！　汝よ、平気か！？」=
-//「あ、うん。平気」=
-//「えーと……ここは、悪魔的にはあんまり近づきたくない場所だったりするのかな？」=
-//「低級悪魔なら敢え無く霧散している所だが、我ほど高位の悪魔ともなると逆に力を貰えるのだ」=
-//「汝が平気で立っていられるのは、我が守っているからだぞ」=
-//「そ、そっか、ありがとう。でも俺は悪魔じゃなくて人だから、守ってもらう必要はないかな？」=
+「こ、これが人間界のパワースポット……くっ、凄まじい力を感じる！　汝よ、平気か！？」=“S-So this is a human realm power spot... kuh--, I feel an incredible power! Art thou okay!?”
+「あ、うん。平気」=“Ah, yeah. I'm fine.”
+「えーと……ここは、悪魔的にはあんまり近づきたくない場所だったりするのかな？」=“Erhm... Is this a sort of place you'd rather not be up close to, as a demon?”
+「低級悪魔なら敢え無く霧散している所だが、我ほど高位の悪魔ともなると逆に力を貰えるのだ」=“If it were a low ranking demon, they wouldst have been atomized within moments, but as I am quite the great demon, I can receive its power instead.”
+「汝が平気で立っていられるのは、我が守っているからだぞ」=“It is because I am protecting thee, that thou art able to stand there so carefreely.”
+「そ、そっか、ありがとう。でも俺は悪魔じゃなくて人だから、守ってもらう必要はないかな？」=“I-I see, thanks. But I'm a human rather than a demon so, I don't think you need to?”

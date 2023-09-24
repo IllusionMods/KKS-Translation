@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「汝よ……その……結界を解いてはくれないか？」=
-SELECTION:「返事をする」=Respond
+「汝よ……その……結界を解いてはくれないか？」=“Say... uhm... won't you undo the barrier?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「こんな時間にどうしたの？」=
-//「汝の魔力が弱まっているのを感じて……その……安否を確かめに来たのだ」=
-//「ま、魔力を供給するから……えっと……我と肌を……重ねよう……？」=
-//「……もう眠りについているようだな。寂しいが、我も帰るとしよう」=
+「こんな時間にどうしたの？」=“What's wrong? It's pretty late.”
+「汝の魔力が弱まっているのを感じて……その……安否を確かめに来たのだ」=“I felt thine magic getting weaker... so uhm... I came to check on thee and thine safety.”
+「ま、魔力を供給するから……えっと……我と肌を……重ねよう……？」=“I-I shall share some of my own power so... erhm... won't thou... layst with me...?”
+「……もう眠りについているようだな。寂しいが、我も帰るとしよう」=“...Seems that thou art already trapped within dreamland. It is a sad thing, but I shalt go back for today.”

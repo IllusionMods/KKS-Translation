@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「潮風が気持ちいいね」=
-//「あ、でも悪魔的には塩ってあんまりよくないのかな？」=
-//「ククッ、我を塩で祓うことなど出来ないぞ。残念だったな！」=
-//「我と汝は契約を結んだのだ。汝が嫌と言っても、離れるつもりはないからな……？」=
-//「[H名]……もちろん、俺だって離れるつもりはないよ」=
+「潮風が気持ちいいね」=“The sea breeze feels great, doesn't it?”
+「あ、でも悪魔的には塩ってあんまりよくないのかな？」=“Ah, but I guess for demons the salt's not so good?”
+「ククッ、我を塩で祓うことなど出来ないぞ。残念だったな！」=“Kukuh--, thou canst not purify me with salt. Sorry to say!”
+「我と汝は契約を結んだのだ。汝が嫌と言っても、離れるつもりはないからな……？」=“Thou art bound to me by pact. Even if thou wishst for it, I have no intention of leaving thee, alright...?”
+「[H名]……もちろん、俺だって離れるつもりはないよ」=“[H名]... of course, nor do I.”

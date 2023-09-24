@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「その……すごく、気持ち良かったぞ……汝のおかげだ」=
-//「う、うむ……良い気持ちになれた気がするぞ」=
-//「まあ……悪くはなかったと思うぞ」=
-//「本当に終わるのか？　まぁ、汝がそう言うのであれば……わかった」=
+「その……すごく、気持ち良かったぞ……汝のおかげだ」=“Uhm... that felt, wonderful... it's thanks to thee.”
+「う、うむ……良い気持ちになれた気がするぞ」=“U-Umu... I do think that felt quite nice.”
+「まあ……悪くはなかったと思うぞ」=“Well... it wasn't bad, I'd say.”
+「本当に終わるのか？　まぁ、汝がそう言うのであれば……わかった」=“Art thou really not going to do it? Well, if that's your wish then... alright.”
