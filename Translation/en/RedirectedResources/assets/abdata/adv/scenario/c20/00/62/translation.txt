@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃあ、俺がオイルを塗ってあげるよ」=
-//「はい……あの、だったら……ま、前もお願いして、いいですか……」=
-//「もちろん、俺はいいけど……大丈夫なの？」=
-//「あの……あなたの事、信用してますから……」=
-//「そう言われたら、ちゃんと塗らない訳には行かないね」=
+「それじゃあ、俺がオイルを塗ってあげるよ」=“Well then, I'll rub it on you.”
+「はい……あの、だったら……ま、前もお願いして、いいですか……」=“Yes... uhm, if we're doing this... c-could you, do the front as well...”
+「もちろん、俺はいいけど……大丈夫なの？」=“Of course, I don't mind but... you sure?”
+「あの……あなたの事、信用してますから……」=“Uhm... I trust you, so...”
+「そう言われたら、ちゃんと塗らない訳には行かないね」=“I'm just gonna have to do a really good job for you then.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱりホテルで食べるのが、一番無難だね」=
-//「そうですね……どのお料理も、とっても美味しいです」=
-//「これだけ美味しかったら、いくらでも食べられそうだよ」=
-//「そんなに一遍に食べたら……お腹壊しちゃいますよ」=
+「やっぱりホテルで食べるのが、一番無難だね」=“Eating at the hotel really is the safest option, isn't it?”
+「そうですね……どのお料理も、とっても美味しいです」=“Indeed... it's all really tasty, no matter what we get.”
+「これだけ美味しかったら、いくらでも食べられそうだよ」=“I feel like I could eat a whole ton of this at once, with how good it is.”
+「そんなに一遍に食べたら……お腹壊しちゃいますよ」=“You'll get a stomach ache... if you eat that much.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……へ？　い、いきなり何を言ってるんですかっ？」=
-//「ごめん……でも、どうしても、きみとしなくて……」=
-//「うぅ……どうして、私なんですか……？」=
-//「それは……きみが、魅力的だからだよ」=
-//「……そういうことでしたら……その……少しだけ……優しくして……くださいね？」=
+「……へ？　い、いきなり何を言ってるんですかっ？」=“...Heh? W-What are you saying all of a sudden--?”
+「ごめん……でも、どうしても、きみとしなくて……」=“Sorry... but I just, really want to do it with you...”
+「うぅ……どうして、私なんですか……？」=“Uu... why me...?”
+「それは……きみが、魅力的だからだよ」=“That's... because you're really attractive.”
+「……そういうことでしたら……その……少しだけ……優しくして……くださいね？」=“...If that's the case then... uhm... just a bit... please be... gentle, okay?”

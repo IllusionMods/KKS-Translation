@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「何か買い物するの？」=
-//「そうですね……お土産とか、何か珍しいものがあれば……」=
-//「でも、これだけ品ぞろえがあると、結構迷いそうだね」=
-//「はい……島中のお土産物が、全部揃ってるみたいです」=
-//「この瓶とか綺麗だよね」=
-//「それ……お酒みたいですから、さすがに買えませんよ」=
+「何か買い物するの？」=“Gonna buy something?”
+「そうですね……お土産とか、何か珍しいものがあれば……」=“Let's see... I'd love to find a good, unique souvenir...”
+「でも、これだけ品ぞろえがあると、結構迷いそうだね」=“But, with this many items, it's a bit hard to pick one, isn't it?”
+「はい……島中のお土産物が、全部揃ってるみたいです」=“Yes... it's almost as if they have every single possible souvenir here.”
+「この瓶とか綺麗だよね」=“This bottle's pretty nice looking.”
+「それ……お酒みたいですから、さすがに買えませんよ」=“I... think that's alcohol, I really don't think we can buy that.”

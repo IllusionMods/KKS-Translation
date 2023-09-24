@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごく綺麗な滝だね」=
-//「はい……お水も透き通ってて綺麗ですね」=
-//「これなら、飲んでも大丈夫かも」=
-//「ダメですよ……いくら綺麗でも、生水はお腹に悪いですよ」=
-//「だったら、煮沸すれば大丈夫かな」=
-//「それなら……でも、煮沸する道具なんてありませんからね」=
+「すごく綺麗な滝だね」=“What a beautiful waterfall, isn't it?”
+「はい……お水も透き通ってて綺麗ですね」=“Yes... even the water is see through, so pretty.”
+「これなら、飲んでも大丈夫かも」=“We could probably get away with drinking some of it.”
+「ダメですよ……いくら綺麗でも、生水はお腹に悪いですよ」=“Please don't... even if it looks pretty, you'll ruin your stomach.”
+「だったら、煮沸すれば大丈夫かな」=“In that case, maybe it'd be fine if we just boil it.”
+「それなら……でも、煮沸する道具なんてありませんからね」=“Well, that would be... but, we don't have anything to boil any water with here.”

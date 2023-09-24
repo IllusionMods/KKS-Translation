@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「波の音が静かだね」=
-//「砂もサラサラしていて……綺麗です」=
-//「こういうのんびりした散歩も、たまにはいいね」=
-//「そうですね……なんだか、時間がゆっくり流れてるみたいです」=
-//「なるほど、だから島時間なんていう習慣ができたのかも」=
-//「確かに、そうかも知れませんね……ここだと、急ぐのが勿体ない気がします」=
+「波の音が静かだね」=“The waves sure are quiet, huh?”
+「砂もサラサラしていて……綺麗です」=“The sand is so fine too... it's really pretty.”
+「こういうのんびりした散歩も、たまにはいいね」=“Chill and relaxing walks like these are nice every once in a while, aren't they?”
+「そうですね……なんだか、時間がゆっくり流れてるみたいです」=“Indeed... it almost feels like time itself is flowing slower.”
+「なるほど、だから島時間なんていう習慣ができたのかも」=“I guess that's where the concept of "island time" comes from.”
+「確かに、そうかも知れませんね……ここだと、急ぐのが勿体ない気がします」=“Certainly, that's a possibility... it feels like it'd be quite the waste, to rush around in a place like this.”

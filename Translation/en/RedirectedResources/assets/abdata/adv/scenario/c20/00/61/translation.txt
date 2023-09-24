@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「見てよ、ここのオイル、全部自由に使っていいみたいだよ」=
-//「すごいですね……全部、美容オイルなんですか……？」=
-//「せかっくだから、俺が塗ってあげようか？」=
-//「あ、あなたが……なんだか、恥ずかしいですね」=
-//「大丈夫、丁寧に塗るから、任せといてよ」=
+「見てよ、ここのオイル、全部自由に使っていいみたいだよ」=“Look, seems like we can use the oil here for free.”
+「すごいですね……全部、美容オイルなんですか……？」=“Amazing... are they all beauty oils...?”
+「せかっくだから、俺が塗ってあげようか？」=“Since we're here, want me to rub it on you?”
+「あ、あなたが……なんだか、恥ずかしいですね」=“Y-You?... That sounds, rather embarrassing.”
+「大丈夫、丁寧に塗るから、任せといてよ」=“Don't worry, I'll do it properly, leave it to me.”

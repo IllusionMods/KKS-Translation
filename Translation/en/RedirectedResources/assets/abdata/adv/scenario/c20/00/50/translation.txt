@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なかなかいい雰囲気の食堂だね」=
-//「そうですね……古いけど、とっても清潔な感じです」=
-//「料理もすごいよね……見たことないものばっかりだよ」=
-//「はい……それに、どれもこれもとっても美味しいです」=
+「なかなかいい雰囲気の食堂だね」=“Pretty good atmosphere here, isn't it?”
+「そうですね……古いけど、とっても清潔な感じです」=“It is... the place feels very old but, it's so sanitary.”
+「料理もすごいよね……見たことないものばっかりだよ」=“The food's amazing too, isn't it... I've never seen any of these dishes before.”
+「はい……それに、どれもこれもとっても美味しいです」=“Yes... not to mention, they're all so tasty.”

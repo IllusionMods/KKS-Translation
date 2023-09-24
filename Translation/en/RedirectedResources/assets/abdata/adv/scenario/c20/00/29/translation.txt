@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あのさ……エッチしたいんだけど、いいかな？」=
-//「はい……私も……あなたと一つになりたいです」=
-//「たくさん、愛して下さいね」=
+「あのさ……エッチしたいんだけど、いいかな？」=“Listen... I wanna have sex, could we?”
+「はい……私も……あなたと一つになりたいです」=“Yes... I want to... be one with you as well.”
+「たくさん、愛して下さいね」=“Please love me lots, okay?”

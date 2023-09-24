@@ -2,11 +2,11 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「あ、あの！　ちょっと、お願いしたいことがあるんです」=“U-Uhm! There's something, I'd like to request.”
-「どうしたの？」=“What's up?”
+「どうしたの？」=“What's the matter?”
 「その……あなたの愛称を考えてきたんです。よかったら呼んでみてもいいですか？」=“It's... I've thought of a nickname for you. Would you mind if I call you by it once?”
 「本当？　うん、どんな愛称なのか聞いてみたいな」=“Really? Fire away, I wanna hear what you came up for me.”
 「えっと、あまり期待はしないでくださいね？　で、では失礼して……」=“Erhm, please don't get your expectations high, okay? W-Well then...”
-「……[Pあだ名]」=“...[Pあだ名]”
+「……[Pあだ名]」=“...[Pあだ名].”
 「おお、いいね。それじゃあ、俺も。……[Hあだ名]」=“Oooh, that's great. Well then, me too. ...[Hあだ名].”
 「はう……も、もしかして私の愛称ですか……？」=“Hauu... i-is that one for me...?”
 「うん、実は俺も考えてたんだ」=“Yeah. I was actually thinking of one for you too.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「郷土料理、美味しかったですね……それじゃあ、私はこれで」=
+「郷土料理、美味しかったですね……それじゃあ、私はこれで」=“That was very good, wasn't it... well then, I shall be off.”

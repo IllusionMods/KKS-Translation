@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どれもすごく美味しかったです……それじゃあ、失礼します」=
+「どれもすごく美味しかったです……それじゃあ、失礼します」=“It was all very tasty... well then, do excuse me.”

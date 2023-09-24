@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「紅型染めって、よく考えられてるよね」=
-//「薬品が浸み込んでいる所は、染まらないんですよね」=
-//「うん。なんだか、型抜きしてるみたいな感じだね」=
-//「そうですね……型に沿って集中する所が似てますね」=
-//「それじゃあ、綺麗に染まるようにもっと集中しようか」=
-//「はい……頑張りますね」=
+「紅型染めって、よく考えられてるよね」=“Stencil dyeing is pretty well thought out, isn't it?”
+「薬品が浸み込んでいる所は、染まらないんですよね」=“The places where you put the chemical don't get dyed, do they?”
+「うん。なんだか、型抜きしてるみたいな感じだね」=“Yeah. Almost feels like using cookie molds, in a way.”
+「そうですね……型に沿って集中する所が似てますね」=“It really does... It feels just like concentrating on a specific pattern.”
+「それじゃあ、綺麗に染まるようにもっと集中しようか」=“Well then, let's focus on it more so that it comes out nice.”
+「はい……頑張りますね」=“Yes... I'll do my best.”

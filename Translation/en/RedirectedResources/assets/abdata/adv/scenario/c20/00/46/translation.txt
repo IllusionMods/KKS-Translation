@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「頑張って集中できたと思います……それじゃあ、また何かしましょうね」=
+「頑張って集中できたと思います……それじゃあ、また何かしましょうね」=“I think I was able to do it well... well then, let's do something like that again.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「す、好きって……あの、どういう意味ですか？」=
-//「……好きだから、付き合って欲しいってこと」=
-//「ほ……本当なんですか？」=
-//「本当だよ、本気できみが好きなんだ」=
-//「わ……わかりました……私も、あなただったら大丈夫ですから……」=
-//「あの……これからも、よろしくお願いします」=
+「す、好きって……あの、どういう意味ですか？」=“L-Love... uhm, what do you mean?”
+「……好きだから、付き合って欲しいってこと」=“...I love you, so I want you to go out with me.”
+「ほ……本当なんですか？」=“D... Do you mean it?”
+「本当だよ、本気できみが好きなんだ」=“I do, I love you, I mean it.”
+「わ……わかりました……私も、あなただったら大丈夫ですから……」=“A... Alright... I don't mind if it's you so...”
+「あの……これからも、よろしくお願いします」=“Uhm... please take, care of me.”

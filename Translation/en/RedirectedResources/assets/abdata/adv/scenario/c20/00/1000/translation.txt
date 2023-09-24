@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルジュースが飲めるみたいだし、一緒に飲んでみない？」=
-//「はぁ、はぁ、はぁ、はぁ……」=
-//「あぅ……これ、すごく恥ずかしくて顔が熱くなっちゃいます……」=
-//「そ、そうだね。一口飲んでみたけど……すごく、照れくさい」=
-//「でも、[H名]はどうしてそんなに呼吸を荒らげてるの？」=
-//「そ、それは……その、飲もうとしたときに……あぅぅ」=
-//「あなたの顔が近すぎて、つい……緊張してずっと息を止めちゃって……」=
-//「ああ……そういうことだったんだ」=
-//「ははっ、顔を真っ赤にして[H名]は可愛いな」=
-//「か、からかわないでください。本当に、恥ずかしかったんですから……」=
-//「世の恋人たちって、みんなこんなことを平然とやっているのでしょうか？」=
-//「うーん、どうかな。誰もがカップルジュースを飲むわけじゃないだろうし……」=
-//「それにいろんなカップルもいるだろうから、[H名]みたいに恥ずかしがる人もいると思うよ」=
-//「それを聞いて安心しました……」=
-//「でもさ。まだジュースは残ってるわけだけど……どうする？」=
-//「[H名]が恥ずかし過ぎて無理だっていうなら、俺が１人で飲んじゃうけど」=
-//「だ、大丈夫です。私、ちゃんと飲みます……！」=
-//「その……は、恥ずかしいというだけで、あなたと飲むのは嫌というわけじゃないですから……」=
-//「そ、そっか。それじゃ……えっと、飲む？」=
-//「は、はい……」=
+「カップルジュースが飲めるみたいだし、一緒に飲んでみない？」=“Seems like we can get a couples' drink here, wanna try it out together?”
+「はぁ、はぁ、はぁ、はぁ……」=“Haah, haah, haah, haah...”
+「あぅ……これ、すごく恥ずかしくて顔が熱くなっちゃいます……」=“Auu... this is so embarrassing, my face is getting hotter...”
+「そ、そうだね。一口飲んでみたけど……すごく、照れくさい」=“Y-Yeah. We did try a sip but well... it really is, embarrassing.”
+「でも、[H名]はどうしてそんなに呼吸を荒らげてるの？」=“But, what's got you breathing so heavily though, [H名]?”
+「そ、それは……その、飲もうとしたときに……あぅぅ」=“T-That's... uhm, when I went in for it... auuuu--”
+「あなたの顔が近すぎて、つい……緊張してずっと息を止めちゃって……」=“Your face was so close, I just... stopped breathing out of nervousness...”
+「ああ……そういうことだったんだ」=“Aah... I see.”
+「ははっ、顔を真っ赤にして[H名]は可愛いな」=“Hahah--, you do look adorable with your face all red like that though.”
+「か、からかわないでください。本当に、恥ずかしかったんですから……」=“P-Please don't tease you. It really was, so embarrassing...”
+「世の恋人たちって、みんなこんなことを平然とやっているのでしょうか？」=“Does every couple out there, do stuff like this without batting an eye?”
+「うーん、どうかな。誰もがカップルジュースを飲むわけじゃないだろうし……」=“Nnn, I wonder. It's not like every couple would get a drink like this to begin with...”
+「それにいろんなカップルもいるだろうから、[H名]みたいに恥ずかしがる人もいると思うよ」=“And there's all kinds of couples out there so, I'm pretty sure there's plenty of people who get shy easily just like you.”
+「それを聞いて安心しました……」=“That's a relief...”
+「でもさ。まだジュースは残ってるわけだけど……どうする？」=“But you know. We've still got all this juice so... what do you wanna do?”
+「[H名]が恥ずかし過ぎて無理だっていうなら、俺が１人で飲んじゃうけど」=“If it's too much for you, I don't mind drinking it all myself.”
+「だ、大丈夫です。私、ちゃんと飲みます……！」=“I-It's alright. I can do it, I'll do it...!”
+「その……は、恥ずかしいというだけで、あなたと飲むのは嫌というわけじゃないですから……」=“Uhm... i-it's just embarrassing, it's not that I mind drinking it with you...”
+「そ、そっか。それじゃ……えっと、飲む？」=“R-Right. Well then... erhm, wanna do it?”
+「は、はい……」=“Y-Yes...”
