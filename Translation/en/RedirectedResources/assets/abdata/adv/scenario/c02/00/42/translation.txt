@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「子供の頃はこうして、よく粘土で遊んでたなぁ……」=
-//「君はどうだった？　あんまり、そういうイメージないけど」=
-//「お遊戯で触れる機会はありましたわ」=
-//「お父様、お母様、そしてわたくし自身の胸像を作って、褒めて貰ったこともありましてよ」=
-//「胸像！？　それは力作過ぎるね……」=
+「子供の頃はこうして、よく粘土で遊んでたなぁ……」=“Man, I remember playing with clay like this as a kid...”
+「君はどうだった？　あんまり、そういうイメージないけど」=“What about you? Personally, you don't really seem like the type for it.”
+「お遊戯で触れる機会はありましたわ」=“I did have a few chances during playtime.”
+「お父様、お母様、そしてわたくし自身の胸像を作って、褒めて貰ったこともありましてよ」=“I do remember getting quite some praise, for making busts of my father, my mother and myself.”
+「胸像！？　それは力作過ぎるね……」=“Busts!? A real Michelangelo of our time, huh...”

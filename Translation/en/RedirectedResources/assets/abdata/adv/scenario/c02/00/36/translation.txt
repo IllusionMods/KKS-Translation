@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それで、何をして遊ぶつもりですの？」=
-//「二人で何を借りるか考えようと思ってたから、まだ決めてないよ」=
-//「おほほほ、わたくしに意見を求めるのは良いことですわ！」=
-//「さっそく決めにかかりましょう。これなんていかが？」=
-//「えっと……それは一人用だね。せっかくだし、二人で楽しめるものにしようよ」=
+「それで、何をして遊ぶつもりですの？」=“So then, what do you have planned for us?”
+「二人で何を借りるか考えようと思ってたから、まだ決めてないよ」=“I was thinking of us deciding what to rent together, so I haven't planned much.”
+「おほほほ、わたくしに意見を求めるのは良いことですわ！」=“Ohohohoh, it's good that you go out of your way to seek my opinion!”
+「さっそく決めにかかりましょう。これなんていかが？」=“Let us decide quickly. How about this?”
+「えっと……それは一人用だね。せっかくだし、二人で楽しめるものにしようよ」=“Erhm... that's one person only. We came together, so let's get something we can do together.”

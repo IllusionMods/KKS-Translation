@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「よくぞ、紳士の役目を果たしましたわね。労ってさしあげましてよ」=
+「よくぞ、紳士の役目を果たしましたわね。労ってさしあげましてよ」=“Splendid job, you fulfilled your obligation as your gentleman. I appreciate thine efforts.”

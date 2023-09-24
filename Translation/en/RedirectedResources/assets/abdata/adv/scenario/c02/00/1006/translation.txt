@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「このウムイの鐘……。鐘を鳴らしたカップルは、必ず結ばれるってジンクスがあるんだってさ」=
-//「おほほほほ、結構ですわね！　是非とも鳴らして差し上げましょう！　さあ！　参りますわよ！」=
-//「この場合、どうなるんだろう？　俺たち、その……もう色々成立しちゃってるし」=
-//「決まってますわ！　もっともっと幸せになれましてよ！」=
-//「幸福度は高ければ高いほど良いものですわ！　そうは思わなくって？」=
-//「うん……まあ、そうだね」=
-//「目指すは『世界で一番幸福度の高いカップル』でしてよ！　おーっほっほっほ！」=
-//「さあ、わたくし達の幸せぶりを、天上の神に知らしめて差し上げましょう」=
-//「それじゃ、鳴らしてみようか」=
-//「おーっほっほっほっほ！！　いい音ですわ。で、何か、変化はありまして？」=
-//「いや、特には……」=
-//「それはそれで残念ですわね……鳴らし方が手ぬるかったのかしら？」=
-//「こういうのは、あんまり騒々しくやらないほうがいいと思うよ」=
-//（ただでさえ騒がしいんだし……俺たち……）=
-//「そうですわね、あなたのおっしゃる通りですわ」=
-//「それに……もうすでに、幸福度が１００バーセントに達していたと思えば、当然のことですものね！」=
-//「うん、その考え方、好きだな。すごくいい」=
-//「当然のことですわ！　さあ、もっと褒め称えなさい！　おーっほっほっほ！」=
-//（鐘を鳴らすより、声が響き渡ってる……）=
+「このウムイの鐘……。鐘を鳴らしたカップルは、必ず結ばれるってジンクスがあるんだってさ」=“This bell, the bell of Umuy... Apparently, any couple that rings it together gets fated together.”
+「おほほほほ、結構ですわね！　是非とも鳴らして差し上げましょう！　さあ！　参りますわよ！」=“Ohohohohoh, that's quite perfect then! Let us ring it! Come now! Here we go!”
+「この場合、どうなるんだろう？　俺たち、その……もう色々成立しちゃってるし」=“But, what's gonna happen? I mean, we're... already kinda together so.”
+「決まってますわ！　もっともっと幸せになれましてよ！」=“It's obvious! We'll simply become even happier!”
+「幸福度は高ければ高いほど良いものですわ！　そうは思わなくって？」=“You can never truly have enough happiness! Do you not agree?”
+「うん……まあ、そうだね」=“Yeah... I guess so.”
+「目指すは『世界で一番幸福度の高いカップル』でしてよ！　おーっほっほっほ！」=“Personally, I am aiming for us for the position of "happiest couple in the world"! Ohohohoh!”
+「さあ、わたくし達の幸せぶりを、天上の神に知らしめて差し上げましょう」=“Now then, let us make our happiness known to the gods up in heaven.”
+「それじゃ、鳴らしてみようか」=“I guess so, let's ring it.”
+「おーっほっほっほっほ！！　いい音ですわ。で、何か、変化はありまして？」=“Ohohohohoh!! What a nice sound. So then, did anything change?”
+「いや、特には……」=“No, not really...”
+「それはそれで残念ですわね……鳴らし方が手ぬるかったのかしら？」=“That's quite the shame... were we simply being too casual about ringing it?”
+「こういうのは、あんまり騒々しくやらないほうがいいと思うよ」=“Yeah but I don't think we should overdo it, it's a public place.”
+（ただでさえ騒がしいんだし……俺たち……）=(We're already pretty noisy as it is...)
+「そうですわね、あなたのおっしゃる通りですわ」=“Indeed, it is as you say.”
+「それに……もうすでに、幸福度が１００バーセントに達していたと思えば、当然のことですものね！」=“Not to mention... if we think of it as our happiness already being the maximum possible, then it's only natural, really!”
+「うん、その考え方、好きだな。すごくいい」=“Yep, I love that way of thinking, it's wonderful.”
+「当然のことですわ！　さあ、もっと褒め称えなさい！　おーっほっほっほ！」=“Of course it is! Come now, extol me more! Ohohohoh!”
+（鐘を鳴らすより、声が響き渡ってる……）=(Her laughter's even louder than the bell...)

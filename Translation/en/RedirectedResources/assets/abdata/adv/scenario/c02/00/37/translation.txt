@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なるほど、これは結構な重労働ですわね」=
-//「俺がしっかり漕ぐから大丈夫だよ」=
-//「では、頼りにさせていただきます。わたくしは優雅にマングローブを眺めますわ」=
-//「えっと、頑張るけどさ、二人で力を合わせるのが醍醐味だってことは忘れないでね？」=
+「なるほど、これは結構な重労働ですわね」=“I see, this is quite some hard work.”
+「俺がしっかり漕ぐから大丈夫だよ」=“Don't worry, I can pick up your slack.”
+「では、頼りにさせていただきます。わたくしは優雅にマングローブを眺めますわ」=“Well then, I shall leave it to you. I shall simply focus on elegantly appreciating the mangroves.”
+「えっと、頑張るけどさ、二人で力を合わせるのが醍醐味だってことは忘れないでね？」=“Erhm, while I'll try my best to row hard enough, don't forget that the real point of this is enjoying rowing it together, okay?”

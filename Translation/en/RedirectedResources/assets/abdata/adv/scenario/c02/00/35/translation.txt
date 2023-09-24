@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「付き合ってくださって、ありがとうございます。やはりあなたは最高のパートナーですわ！」=
+「付き合ってくださって、ありがとうございます。やはりあなたは最高のパートナーですわ！」=“Thank you very much, for playing along with me. You truly are the best partner one could ask for!”

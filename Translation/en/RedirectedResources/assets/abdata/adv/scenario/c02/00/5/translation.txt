@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ええ、よくってよ」=
-//「嬉しいけど……すごくあっさりＯＫしてくれるんだね」=
-//「あなたとわたくしは、お付き合いをしている仲……エッチをするのは当然ですわ」=
-//「初めから覚悟は出来ております。レディに恥をかかせないでくださいまし」=
+「ええ、よくってよ」=“Yes, alright.”
+「嬉しいけど……すごくあっさりＯＫしてくれるんだね」=“I'm glad about it, of course but... that was a really easy okay, wasn't it?”
+「あなたとわたくしは、お付き合いをしている仲……エッチをするのは当然ですわ」=“You and I are seeing each other right now... It's only natural for us to do this as well.”
+「初めから覚悟は出来ております。レディに恥をかかせないでくださいまし」=“I have been prepared from the first. Please, do not make a lady say more.”

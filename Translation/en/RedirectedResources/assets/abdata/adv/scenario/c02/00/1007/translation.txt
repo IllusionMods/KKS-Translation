@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「素晴らしいですわ！　色とりどりの魚達がわたくしを歓迎しているようですわ！」=
-//「うん、すごく綺麗だ。ゴージャスだね」=
-//「御覧なさい！　魚達やマンタが注目してますわ。おーっほっほっほ！」=
-//（ちょ、ちょっと、声が大きいかな……）=
-//「わたくしの美貌に誰しも目が離せないみたいね……見る目が高いわ。おほほほほほ」=
-//「あ、いや……その……多分大声で高笑いしているからじゃない？」=
-//「この声も、わたくしの魅力ですもの！　当然ですわ！」=
-//「う、うん……きっと魚もビックリしてる……[H名]さんの素晴らしさにね」=
-//「おーほっほっほっほっ！　そうでしょうそうでしょう。魚の言葉がわからないのが、残念だわ……」=
-//「きっとわたくしを賛辞する声で、満ち溢れているでしょうね……この建物全体が」=
-//「う～ん、ポジティブ……」=
-//「さぁ、すべての展示物を廻りますわよ！」=
-//「生きとし生けるすべてに、わたくしの魅力を知らしめねばなりませんものね」=
-//「……魚を見るんじゃなく、魚に自分を見せる人なんだね」=
+「素晴らしいですわ！　色とりどりの魚達がわたくしを歓迎しているようですわ！」=“How wonderful! It's almost as if they're all welcoming me into this place!”
+「うん、すごく綺麗だ。ゴージャスだね」=“Yep, it's a very pretty sight. Gorgeous, even.”
+「御覧なさい！　魚達やマンタが注目してますわ。おーっほっほっほ！」=“Look! The fish and even that manta are paying attention to me. Ohohohoh!”
+（ちょ、ちょっと、声が大きいかな……）=(S-She's being a bit loud...)
+「わたくしの美貌に誰しも目が離せないみたいね……見る目が高いわ。おほほほほほ」=“Seems that nobody, not even fish can take their eyes off me, huh... They know a good thing when they see one. Ohohohohohoh.”
+「あ、いや……その……多分大声で高笑いしているからじゃない？」=“Ah, no... uhm... isn't it because you're laughing so loudly?”
+「この声も、わたくしの魅力ですもの！　当然ですわ！」=“This voice is part of my charm as well, afterall! So it's only natural!”
+「う、うん……きっと魚もビックリしてる……[H名]さんの素晴らしさにね」=“Y-Yeah... I'm sure they're very taken aback too... by your splendor.”
+「おーほっほっほっほっ！　そうでしょうそうでしょう。魚の言葉がわからないのが、残念だわ……」=“Ohohohohoh! I imagine they are, I imagine they are! The only shame is that I cannot understand their words...”
+「きっとわたくしを賛辞する声で、満ち溢れているでしょうね……この建物全体が」=“I imagine voices of praise are ringing out... through this entire building.”
+「う～ん、ポジティブ……」=“Nnnn~, so positive...”
+「さぁ、すべての展示物を廻りますわよ！」=“Come now, we shall go and pass by every display!”
+「生きとし生けるすべてに、わたくしの魅力を知らしめねばなりませんものね」=“We cannot have even one of god's creatures missing the chance to see my charm for themselves.”
+「……魚を見るんじゃなく、魚に自分を見せる人なんだね」=“...Not to see the fish, but to show yourself to them, huh?”

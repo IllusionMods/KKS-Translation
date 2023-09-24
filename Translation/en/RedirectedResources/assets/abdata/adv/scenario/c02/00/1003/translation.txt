@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっとお土産を見てこうよ」=“Let's take a look at the souvenirs.”
-//「ちんすこうかぁ。この地方の定番お土産だね」=
-//「美味しそうですわ！　ご存知？　これ、お茶請けにぴったりですのよ」=
-//「パサパサだから、飲み物必須だよね」=
-//「甘いものには、紅茶が一番ですわ。最高の茶葉と、最良の水……それに美味しいお菓子があれば言うことありませんわね」=
-//「うん、だよね。でも紅茶って色々あるけど、何が一番いいのかな？」=
-//「そうですわね……やっぱりダージリンと言いたいところですけど、ミルクをたっぷり入れたアッサムがいいですわ」=
-//「ウバやディンブラも定番ですわね。で、ロイヤルミルクティにして飲む……きっと最高のティータイムになりますわ！」=
-//「……なんだか、お茶が恋しくなってきたよ」=
-//「きっとこの地方特有のお茶が、一番合うんでしょうね」=
-//「う～ん、それも美味しそうだね」=
-//「おほほほほ、その土地土地の食文化に触れること……これこそ旅行の醍醐味ですわね」=
-//「だよね、きっといい思い出になるよ」=
-//「ええ、きっとそうなりますわ！　おほほほほほ」=
+「ちょっとお土産を見てこうよ」=“Let's look at the souvenirs a bit.”
+「ちんすこうかぁ。この地方の定番お土産だね」=“Chinsukou, huh~? It's a very standard souvenir from this region, isn't it?”
+「美味しそうですわ！　ご存知？　これ、お茶請けにぴったりですのよ」=“It looks very delicious! Did you know? They make for quite the perfect accompaniments to tea.”
+「パサパサだから、飲み物必須だよね」=“They are pretty dry too, aren't they? Almost can't have them without some.”
+「甘いものには、紅茶が一番ですわ。最高の茶葉と、最良の水……それに美味しいお菓子があれば言うことありませんわね」=“There's nothing quite like black tea for sweet treats. Made with the best leaves, the purest water... and if you have sweets along with that, truly you couldn't ask for more.”
+「うん、だよね。でも紅茶って色々あるけど、何が一番いいのかな？」=“Yeah, I know, right? But there's all kinds of black tea out there, so what'd be best?”
+「そうですわね……やっぱりダージリンと言いたいところですけど、ミルクをたっぷり入れたアッサムがいいですわ」=“Indeed, a good question... I would like to say darjeeling, however a cup of assam with milk would be perfect for it.”
+「ウバやディンブラも定番ですわね。で、ロイヤルミルクティにして飲む……きっと最高のティータイムになりますわ！」=“Uva and Dimbula tea is quite commonly used as well. And of course, you'd make it into royal milk tea... Indeed, I'm sure that'd be a wonderful tea time!”
+「……なんだか、お茶が恋しくなってきたよ」=“...You know, now I want some tea myself.”
+「きっとこの地方特有のお茶が、一番合うんでしょうね」=“I imagine some local regional tea would go best with it, however.”
+「う～ん、それも美味しそうだね」=“Nnn~, that sounds pretty tasty too.”
+「おほほほほ、その土地土地の食文化に触れること……これこそ旅行の醍醐味ですわね」=“Ohohohohoh, savouring the local food culture... now that's what travel is all about, do you not agree?”
+「だよね、きっといい思い出になるよ」=“Yep, I'm sure it'd make for some great memories too.”
+「ええ、きっとそうなりますわ！　おほほほほほ」=“Yes, I concur! Ohohohohohoh!”

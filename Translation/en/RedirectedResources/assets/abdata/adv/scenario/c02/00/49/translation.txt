@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少しお尋ねしたいのですが、この島のお料理の中で、何が一番お好きですか？」=
-//「うーん、どれも美味しいから一番を決めるのは難しいなぁ。しいて挙げるなら……ソーキそばかな」=
-//「なるほど、参考になりましたわ」=
-//「何の参考になったか、聞いてもいい？」=
-//「お父様とお母様に、旅の思い出に何か振る舞おうと思っていまして。ただ、何を作るか迷っていましたの」=
-//「なるほど、納得。ご両親、きっと喜んでくれると思うよ」=
+「少しお尋ねしたいのですが、この島のお料理の中で、何が一番お好きですか？」=“There's something I'd like to pick your brain about, from the local cuisine here, which dish do you like the most?”
+「うーん、どれも美味しいから一番を決めるのは難しいなぁ。しいて挙げるなら……ソーキそばかな」=“Nnnn, they're all really good so that's a difficult question. If I had to say... soki soba?”
+「なるほど、参考になりましたわ」=“I see, that's quite helpful.”
+「何の参考になったか、聞いてもいい？」=“Mind if I ask exactly how it's helpful?”
+「お父様とお母様に、旅の思い出に何か振る舞おうと思っていまして。ただ、何を作るか迷っていましたの」=“I was thinking of treating my father and mother to a local dish, to have them share in the memories. However, I couldn't decide on which one to make.”
+「なるほど、納得。ご両親、きっと喜んでくれると思うよ」=“I see, makes sense. I'm sure your parents would be really happy.”

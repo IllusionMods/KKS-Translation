@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……い、今の言葉、本気ですの？」=
-//「冗談で言ったりしない。本気で君とシたいんだ」=
-//「……あなたの気持ちは分かりました。よくってよ、特別に許して差し上げますわ」=
-//「本当に？　ありがとう！」=
-//「わたくしだって、一人の女……そういったことに興味がありましたの。優しくしてくださいましね？」=
+「……い、今の言葉、本気ですの？」=“...A-Are you being serious right now?”
+「冗談で言ったりしない。本気で君とシたいんだ」=“I would never say this as a joke. I want to seriously do it with you.”
+「……あなたの気持ちは分かりました。よくってよ、特別に許して差し上げますわ」=“...I understand how you feel. Alright then, I shall make a special exception for you.”
+「本当に？　ありがとう！」=“You mean it? Thanks!”
+「わたくしだって、一人の女……そういったことに興味がありましたの。優しくしてくださいましね？」=“I am a woman as well, at the end of the day... It's no surprise for me to be interested in such things, no? Do be gentle, will you?”

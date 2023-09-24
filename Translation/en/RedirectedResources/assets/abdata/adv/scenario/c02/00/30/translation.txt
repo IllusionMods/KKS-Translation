@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「中々悪くない品揃えですわ」=
-//「なにか買いたいモノはあった？」=
-//「この色鮮やかな小物入れは、惹かれるものがありますわね」=
-//「ああ、紅型染めのやつだね。俺も気になってたんだ」=
-//「ただ、わたくしのコーディネートとはあまり相性が良くなくて、悩んでおりますの」=
-//（こういう風にお洒落にこだわりを持っているから、綺麗なんだろうなぁ）=
+「中々悪くない品揃えですわ」=“Not bad, it's quite the nice lineup.”
+「なにか買いたいモノはあった？」=“Found something you wanna buy?”
+「この色鮮やかな小物入れは、惹かれるものがありますわね」=“I do find myself quite attracted to this brilliant accessory case.”
+「ああ、紅型染めのやつだね。俺も気になってたんだ」=“Aah, it's stencil dyed. I had my eye on it too.”
+「ただ、わたくしのコーディネートとはあまり相性が良くなくて、悩んでおりますの」=“However, I can't say it fits my current style all that much, so I'm quite undecided.”
+（こういう風にお洒落にこだわりを持っているから、綺麗なんだろうなぁ）=(It's probably because she pays so much attention to fashion like this, that she's this beautiful.)

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……俺のことが好きって、本当なの？」=
-//「……ええ。わたくし、自分の気持ちに気付きましたの」=
-//「砕け散るのも覚悟の上での言葉ですわ。さぁ、返事を聞かせてくださる？」=
-//「そんなのＯＫに決まってるよ！　俺も君のことが好きなんだ！」=
-//「ふふふ……おーっほっほっほ！　当然でしたわね。わたくしの傍にいて、好きにならないはずがありませんもの」=
-//「……返事は当然分かっていましたが、安心いたしましたわ」=
-//「そっか……えっと、これからよろしくね」=
+「……俺のことが好きって、本当なの？」=“...Do you mean that?”
+「……ええ。わたくし、自分の気持ちに気付きましたの」=“...Yes. I have awakened to my feelings.”
+「砕け散るのも覚悟の上での言葉ですわ。さぁ、返事を聞かせてくださる？」=“Of course, I'm well prepared to be shot down as well, if that's your wish. Will you tell me your answer?”
+「そんなのＯＫに決まってるよ！　俺も君のことが好きなんだ！」=“It's a yes, of course, how could it be anything else?! I'm in love with you too!”
+「ふふふ……おーっほっほっほ！　当然でしたわね。わたくしの傍にいて、好きにならないはずがありませんもの」=“Fufufuh... ohohohoh! I should have guessed as much. With how much time you've spent in my company, there is simply no way for you to not fall for me.”
+「……返事は当然分かっていましたが、安心いたしましたわ」=“...Of course, I knew your answer ahead of time, but it is a relief nonetheless.”
+「そっか……えっと、これからよろしくね」=“I see... erhm, let's take care of each other then.”

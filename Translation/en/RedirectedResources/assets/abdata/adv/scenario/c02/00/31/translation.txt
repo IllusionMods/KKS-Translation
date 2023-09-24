@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「この滝がパワースポットなんだって」=“I've heard the waterfall's a power spot.”
-//「わたくしには、ただの滝にしか見ませんわ。あなたは何か力を感じていて？」=
-//「具体的に説明出来ないんだけど……なんか元気になれた気がするよ」=
-//「そう……あなたが感じたことは否定はしません。ですが、わたくしからすれば、やはりただの滝ですわね」=
-//「えっと……不思議な力は感じなくても、心が落ち着いたりしない？　ほら、耳を澄ませてみてよ」=
-//「普通の滝と何か違いがありますの？」=
-//「分からない……」=
+「この滝がパワースポットなんだって」=“Apparently this waterfall's a powerspot.”
+「わたくしには、ただの滝にしか見ませんわ。あなたは何か力を感じていて？」=“To me, it looks like a simple waterfall and nothing more. Do you feel anything special yourself?”
+「具体的に説明出来ないんだけど……なんか元気になれた気がするよ」=“Nnn, I can't really give a clear explanation... but I do feel more energized.”
+「そう……あなたが感じたことは否定はしません。ですが、わたくしからすれば、やはりただの滝ですわね」=“I see... I shall not deny what you're feeling. However, I really can only see it as a simple waterfall.”
+「えっと……不思議な力は感じなくても、心が落ち着いたりしない？　ほら、耳を澄ませてみてよ」=“Erhm... even if you don't feel any sort of power, doesn't it make your heart feel calmer? C'mon, try focusing on the sound.”
+「普通の滝と何か違いがありますの？」=“Is it any different from a normal waterfall?”
+「分からない……」=“I don't know...”
