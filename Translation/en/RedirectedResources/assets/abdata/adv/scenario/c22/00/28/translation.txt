@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あの、ね……君に誘われて期待してたんだけど……私の勘違いじゃないよね？」=
-//「えっと……うん、エッチしたいと思って誘ったよ」=
-//「よかったぁ……そういう気持ちだったのは、私だけじゃなかったんだね♪」=
+「あの、ね……君に誘われて期待してたんだけど……私の勘違いじゃないよね？」=“You, know... ever since you asked, I've been hoping for it... I'm not misunderstanding anything, right?”
+「えっと……うん、エッチしたいと思って誘ったよ」=“Erhm... yeah, I asked you over because I wanted to have sex.”
+「よかったぁ……そういう気持ちだったのは、私だけじゃなかったんだね♪」=“Thank god~... I wasn't the only one who felt that way then♪”

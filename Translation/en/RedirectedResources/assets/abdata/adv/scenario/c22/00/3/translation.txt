@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……俺のこと、好きだったんだ」=
-//「うん……ちゃんと、伝わったよね？」=
-//「大丈夫、伝わったよ……俺も、きみの事が好きだから」=
-//「君も私の事を……だったら私達、恋人同士になれるのかな」=
-//「なれるよ……これからもよろしくね」=
-//「こちらこそ、よろしくお願いします」=
+「……俺のこと、好きだったんだ」=“...So you loved me this whole time, huh?”
+「うん……ちゃんと、伝わったよね？」=“Yeah... you really do, understand now, right?”
+「大丈夫、伝わったよ……俺も、きみの事が好きだから」=“Don't worry, I do... Since I love you too.”
+「君も私の事を……だったら私達、恋人同士になれるのかな」=“You... in that case, do you think we can become a couple?”
+「なれるよ……これからもよろしくね」=“Sure we can... We are one now. Let's get along, alright?”
+「こちらこそ、よろしくお願いします」=“Okay. Take care of me, okay?”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えぇぇっ？　いきなり何言ってるの……私達、普通に友達だよね」=
-//「友達だけど、きみとしたいんだ」=
-//「そうなの？　確かに、そういう関係ってあるのは知ってるけど……」=
-//「だよね……俺、きみとそうなりたいって思ってるんだ」=
-//「私も、君だったら嫌じゃないけど……でも、ちゃんと優しくして欲しいな」=
+「えぇぇっ？　いきなり何言ってるの……私達、普通に友達だよね」=“Eeeh--, what're you even saying... we're just friends, aren't we?”
+「友達だけど、きみとしたいんだ」=“We are but, I still want to do it with you.”
+「そうなの？　確かに、そういう関係ってあるのは知ってるけど……」=“Really? I mean, I do know that there are people who have relationships like that but...”
+「だよね……俺、きみとそうなりたいって思ってるんだ」=“Of course... That's the sort of relationship I want us to have.”
+「私も、君だったら嫌じゃないけど……でも、ちゃんと優しくして欲しいな」=“I don't, really mind if it's you either... but, I want you to be gentle with me.”

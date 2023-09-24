@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、風も気持ちいいし、少し浜辺でも歩いていかない？」=
-//「はぁぁ……本当。気持ちいい風ー」=
-//「うん、波の音もいいよね。何だか落ち着く」=
-//「分かるー！　こういうところで暮らしてたら、なんだか心が大らかになりそうだよね」=
-//「え？　[H名]って大らかじゃないの？　俺はいつも優しい娘だなって思ってたけど……」=
-//「えー、それはどうかなー？　君の前だから猫を被ってるだけかも……」=
-//「本当はもっと……細かい事も気にするギスギスした女の子かもしれないよ？」=
-//「あはは、満面の笑顔でそんなこと言えるんだから、絶対にそういうタイプじゃないよね」=
-//「ふふっ、だったらいいなぁ……自分だとよくわからないけど……でもね、君の前では……やっぱり可愛い女の子でいたいって思ってるんだよ」=
-//「あ、もちろんっ……誰に対しても優しくはしたいけど……でも……君にだけは特別……可愛いって思われたいの……」=
-//「だから……猫を被ってるのは本当かも……なんて……えへへ」=
-//「そんなこと言ったら、俺だって同じだよ。[H名]には格好良いって思われたいから、猫被ってるかも……」=
-「そうなの？」=“That so?”
-//「そうかも」=
-//「うーん、でも……それでもいいかも♪　だってほら、お互いに猫を被ってても、一生続ければいいだけだもん」=
-//「この波の音みたいに……ずーっとずーっと……猫を被り続けてでも、君からは可愛いって思われたいのです♪」=
-//「あはは、そうだね。約束する。それじゃ俺も[H名]に格好良いって思ってもらえるように、ずーっと猫を被り続けるよ」=
-//「なんて……本当は自然体でいられるのが一番いいんだろうけど」=
-//「あはは、大丈夫。多分、私は今の状態が自然体だし……君がどんな風になっても、ずっとずっと好きでいる自信あるよ」=
-//「だから……この風とか波みたいに、途切れることなくずーっと思い合っていきたい……です……」=
-//「うん、俺もそう思う。ずっと一緒にいようね」=
+「ねぇ、風も気持ちいいし、少し浜辺でも歩いていかない？」=“Hey, the breeze here feels great, wanna take a walk down the beach?”
+「はぁぁ……本当。気持ちいい風ー」=“Haah... seriously. This breeze feels great~”
+「うん、波の音もいいよね。何だか落ち着く」=“Yeah, the sound of the waves too. It's kinda calming.”
+「分かるー！　こういうところで暮らしてたら、なんだか心が大らかになりそうだよね」=“I feel you~! I bet just living here would make our hearts three sizes bigger.”
+「え？　[H名]って大らかじゃないの？　俺はいつも優しい娘だなって思ってたけど……」=“Eh? You don't have a big heart, [H名]? And here I always thought you were a sweet girl...”
+「えー、それはどうかなー？　君の前だから猫を被ってるだけかも……」=“Eh~, who's to say~? I could just be playing innocent in front of you, you know...”
+「本当はもっと……細かい事も気にするギスギスした女の子かもしれないよ？」=“And inside... I could be a very cold girl who constantly nitpicks everything, how would you know?”
+「あはは、満面の笑顔でそんなこと言えるんだから、絶対にそういうタイプじゃないよね」=“Ahahah, well, I know you're not that type because you're saying that with a wide smile on your face.”
+「ふふっ、だったらいいなぁ……自分だとよくわからないけど……でもね、君の前では……やっぱり可愛い女の子でいたいって思ってるんだよ」=“Fufuh--, I hope so... it's hard to tell myself but... you know, to you... I just really wanna always be the cutest girl.”
+「あ、もちろんっ……誰に対しても優しくはしたいけど……でも……君にだけは特別……可愛いって思われたいの……」=“Ah, of course--... it's not like I don't wanna be nice to other people... but... you're the only one... who I want to be cute to...”
+「だから……猫を被ってるのは本当かも……なんて……えへへ」=“So... I could actually just be playing innocent... you never know... eheheh.”
+「そんなこと言ったら、俺だって同じだよ。[H名]には格好良いって思われたいから、猫被ってるかも……」=“I mean, if that's how you judge yourself then I'm the same. I want you to think I'm cool, so I might be putting on a front too...”
+「そうなの？」=“Really?”
+「そうかも」=“Yeah, maybe.”
+「うーん、でも……それでもいいかも♪　だってほら、お互いに猫を被ってても、一生続ければいいだけだもん」=“Nnnn, but... I think that's okay♪ I mean, even if we're both putting up fronts, it's fine as long as we do it forever, no?”
+「この波の音みたいに……ずーっとずーっと……猫を被り続けてでも、君からは可愛いって思われたいのです♪」=“Just like these waves... forever... even if I have to keep it up forever, I still want to be the cutest to you♪”
+「あはは、そうだね。約束する。それじゃ俺も[H名]に格好良いって思ってもらえるように、ずーっと猫を被り続けるよ」=“Ahahah, yeah. I promise you then. I'll keep putting on my cool act too, just so that you always think I'm the coolest.”
+「なんて……本当は自然体でいられるのが一番いいんだろうけど」=“Hah... I imagine it'd be best if we could just be our normal selves instead too.”
+「あはは、大丈夫。多分、私は今の状態が自然体だし……君がどんな風になっても、ずっとずっと好きでいる自信あるよ」=“Ahahah, don't worry. This is normal for me, probably... and no matter what you become, I have full confidence that I'll be able to keep loving you.”
+「だから……この風とか波みたいに、途切れることなくずーっと思い合っていきたい……です……」=“So... I want us to keep loving each other forever, just like this breeze and these waves... if we can...”
+「うん、俺もそう思う。ずっと一緒にいようね」=“Yeah, I think so too. Let's stay together forever.”

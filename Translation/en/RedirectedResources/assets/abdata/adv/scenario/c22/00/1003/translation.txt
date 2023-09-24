@@ -1,13 +1,13 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお土産をチェックしてみない？」=
-//「見てみて！　これなんてどうかな？　すごく可愛いくない？」=
-//「へぇ、星の砂が入ってるんだ？　いいね、いかにも南国って感じがする！」=
-//「だよね♪　それに恋人同士、お揃いで持ってると……なんだかラブラブって感じもするし……」=
-//「え？　お土産ってご家族用とかのじゃなくて？」=
-//「……え？　え……あっ、あーっ、そ、そっかっ！　普通はそうだよね！　あはっ、あははーっ！」=
-//「わ、私……なんだか浮かれちゃってて……つい君とのことばかり考えちゃう……」=
-//「ここから帰った後も……できればずっと、二人のキーホルダーがお揃いだったらいいなぁ……なんて……」=
-//「あはは、それは俺も賛成。それじゃ、まずはこのキーホルダーを俺たち用に買おっか」=
-//「あ……うんっ！　ふふっ、嬉しい！　何種類か色があるみたいだから、お互いのを選んでプレゼントしあいたいな♪」=
+「ちょっとお土産をチェックしてみない？」=“Wanna take a look at the souvenirs a bit?”
+「見てみて！　これなんてどうかな？　すごく可愛いくない？」=“Look look! How about this? Isn't it super cute?”
+「へぇ、星の砂が入ってるんだ？　いいね、いかにも南国って感じがする！」=“Hoh, it's got starsand in it, huh? It's pretty nice, feels very southern for sure!”
+「だよね♪　それに恋人同士、お揃いで持ってると……なんだかラブラブって感じもするし……」=“Doesn't it?♪ Not to mention, if we both get matching ones... we'll look so lovey-dovey...”
+「え？　お土産ってご家族用とかのじゃなくて？」=“Eh? You're not buying it for your family and friends?”
+「……え？　え……あっ、あーっ、そ、そっかっ！　普通はそうだよね！　あはっ、あははーっ！」=“...Eh? Eh... Ah--, aaah--, r-right! Normally you buy souvenirs for others, don't you! Ahah--, ahahah--!”
+「わ、私……なんだか浮かれちゃってて……つい君とのことばかり考えちゃう……」=“I-I... kinda got lost in my own world there... I always end up just thinking about you and nothing else...”
+「ここから帰った後も……できればずっと、二人のキーホルダーがお揃いだったらいいなぁ……なんて……」=“Thinking about how even after we're back home... it'd be nice if we could always feel right next to each other, through our matching keychains... and whatnot...”
+「あはは、それは俺も賛成。それじゃ、まずはこのキーホルダーを俺たち用に買おっか」=“Ahahah, I'm not against that. For now, let's buy these keychains for our own use then.”
+「あ……うんっ！　ふふっ、嬉しい！　何種類か色があるみたいだから、お互いのを選んでプレゼントしあいたいな♪」=“Ah... okay--! Fufuh--, I'm so happy! They've got all sorts of colors and designs too so, I want us to buy them for each other as gifts~♪”

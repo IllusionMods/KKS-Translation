@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この滝って、パワースポットでもあるらしいよ」=
-//「パワースポット？　何かご利益みたいなのがあるの？」=
-//「効果のほどはよくわからないけど、神秘の力みたいなのがあるんじゃないのかな」=
-//「神秘の力かー。確かに、何かこの辺だけ空気が違う感じがする……」=
-//「何か感じるの？」=
-//「そうだねー……滝のしぶきのせいかも、えへへ」=
+「この滝って、パワースポットでもあるらしいよ」=“Seems like this waterfall's a powerspot too.”
+「パワースポット？　何かご利益みたいなのがあるの？」=“A powerspot? Are we going to get a blessing or something?”
+「効果のほどはよくわからないけど、神秘の力みたいなのがあるんじゃないのかな」=“I don't know about that but, it probably has some mystical power to it, I'd say.”
+「神秘の力かー。確かに、何かこの辺だけ空気が違う感じがする……」=“Mystical power, huh~. The air around here does feel a tiny bit different...”
+「何か感じるの？」=“You feel something?”
+「そうだねー……滝のしぶきのせいかも、えへへ」=“Yeah~... It might just be the water in the air, eheheh.”

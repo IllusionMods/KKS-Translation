@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「わぁぁ……この水槽大きいね。お魚もたくさんいるし……あっ、見てみて、カメさんもいるよ！」=
-//「どこどこ？　あ、本当だ。優雅に泳いでるね」=
-//「うん、しかも二匹で仲良さそうに！　恋人同士かな？　夫婦かなぁ？　私たちもいつかあんな風になれたらいいなぁ」=
+「わぁぁ……この水槽大きいね。お魚もたくさんいるし……あっ、見てみて、カメさんもいるよ！」=“Waah... this tank's really big. There's lots of fishies too... ah--, look look, there's even turtles!”
+「どこどこ？　あ、本当だ。優雅に泳いでるね」=“Where where? Ah, you're right. It's swimming around so elegantly.”
+「うん、しかも二匹で仲良さそうに！　恋人同士かな？　夫婦かなぁ？　私たちもいつかあんな風になれたらいいなぁ」=“Yeah, in a friendly pair too! I wonder if they're a couple? A husband and wife maybe? It'd be nice if we could be like them someday~”
 「え？」=“Eh?”
-//「……え？　あっ、え、えっとっ、違うのっ！　今のはそのっ……傍にいられたらって意味でっ……べ、別にっ……ふ、夫婦って意味じゃ……」=
-//「そうなの？　俺は別にそういう意味でも構わないけど……」=
-//「はぅっ……そ、そんなことあっさり言っちゃだめーっ！　色々考えちゃって、君のこと真っ直ぐ見られなくなるっ！」=
-//「え、えーっと……あっ、ほらっ、お魚、他にもいっぱいいるよ！　わぁ、あの子、大きいー！　ほらほら見てーっ！」=
-//「あはは、もう完全に集中できなくなってない？」=
-//「もーっ、君が変なこと言うからーっ！　いじわるーっ！」=
-//「ごめんごめん、冗談だよ。[H名]の反応が可愛いからつい……こんな俺だけど……あのカメたちみたいに、ずっと一緒にいてくれる？」=
-//「あ……うんっ！　当然だよ。君が嫌っていっても、私がそうしちゃうんだから♪」=
-//「でも……そういう気持ちで見たら、つがいで泳いでる子たちって結構いるんだね。ほら、あの子たちもくっついて泳いでる」=
-//「えーっと……それは俺ともっとくっつきたいってこと？」=
-//「そ、そうじゃなくてっ！　あっ、やっ、く、くっつきたいとは思ってるけどっ……はぅぅっ……」=
-//「あはは、ごめん。水槽の前は冷えるから、もっとくっついて見よっか？」=
-//「うんっ♪　お魚さんたちに負けないくらい、ぴったりくっついちゃうよ♪」=
+「……え？　あっ、え、えっとっ、違うのっ！　今のはそのっ……傍にいられたらって意味でっ……べ、別にっ……ふ、夫婦って意味じゃ……」=“...Eh? Ah--, e-erhm--, I didn't--! That was--... I meant more us staying together--... i-it's not like--... w-we'd have to get married for that...”
+「そうなの？　俺は別にそういう意味でも構わないけど……」=“Really? Personally, I wouldn't really mind that though...”
+「はぅっ……そ、そんなことあっさり言っちゃだめーっ！　色々考えちゃって、君のこと真っ直ぐ見られなくなるっ！」=“Hauu--... D-don't say such things so easily~! I won't be able to look at your face anymore, you're gonna make my head boil--!”
+「え、えーっと……あっ、ほらっ、お魚、他にもいっぱいいるよ！　わぁ、あの子、大きいー！　ほらほら見てーっ！」=“E-Erhm... ah--, look--, there's so many other fishies too! Waah, that one's so big~! Look look~!”
+「あはは、もう完全に集中できなくなってない？」=“Ahahah, you already can't concentrate at all, huh?”
+「もーっ、君が変なこと言うからーっ！　いじわるーっ！」=“Jeez~! It's because you say stuff like that~! You meanie~!”
+「ごめんごめん、冗談だよ。[H名]の反応が可愛いからつい……こんな俺だけど……あのカメたちみたいに、ずっと一緒にいてくれる？」=“Sorry sorry, I was just joking. Your reactions are just so adorable, I just can't help it... I know I'm like this but... will you stay with me forever still, just like those turtles?”
+「あ……うんっ！　当然だよ。君が嫌っていっても、私がそうしちゃうんだから♪」=“Ah... yeah--! Of course. Even if you tell me to go away, I'm not gonna, you know♪”
+「でも……そういう気持ちで見たら、つがいで泳いでる子たちって結構いるんだね。ほら、あの子たちもくっついて泳いでる」=“But... looking at it that way, there's a whole lot of fishies swimming in pairs, aren't there? Look, those are snuggling together so close.”
+「えーっと……それは俺ともっとくっつきたいってこと？」=“Eerhm... does that mean you want me to snuggle up closer to you?”
+「そ、そうじゃなくてっ！　あっ、やっ、く、くっつきたいとは思ってるけどっ……はぅぅっ……」=“I-I didn't say that--! Ah--, n--, i-it's not like I don't want you to though... hauuuu--...”
+「あはは、ごめん。水槽の前は冷えるから、もっとくっついて見よっか？」=“Ahahah, sorry. It's pretty cold right up against the tanks so, wanna snuggle up and get a better look?”
+「うんっ♪　お魚さんたちに負けないくらい、ぴったりくっついちゃうよ♪」=“Yeah--♪ Let's snuggle up so tightly, that we make the fishies blush♪”

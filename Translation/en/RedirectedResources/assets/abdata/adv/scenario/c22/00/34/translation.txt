@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お土産探すの楽しかったよ。それじゃあまたねー」=
+「お土産探すの楽しかったよ。それじゃあまたねー」=“It was pretty darn fun, looking at all those souvenirs. See you later then~”

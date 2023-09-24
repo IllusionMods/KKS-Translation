@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「シーサー、難しかったけど結構上手にできたかなー。それじゃあ、またね」=
+「シーサー、難しかったけど結構上手にできたかなー。それじゃあ、またね」=“It was pretty hard to make it, but I think mine came out good~. See you later then.”

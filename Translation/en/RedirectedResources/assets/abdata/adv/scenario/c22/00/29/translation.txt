@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]……いいかな？」=
-//「部屋に入ってすぐなんて……もう、いきなりだなぁ」=
-//「ご、ごめん……気持ちが昂っちゃって……」=
-//「まぁ……そんなこと言われたら、悪い気しないけど……いいよ、エッチ……しよう？」=
+「[H名]……いいかな？」=“[H名]... do you mind?”
+「部屋に入ってすぐなんて……もう、いきなりだなぁ」=“We only just got inside though~... jeez, you're so impatient.”
+「ご、ごめん……気持ちが昂っちゃって……」=“S-Sorry... I'm just really feeling it...”
+「まぁ……そんなこと言われたら、悪い気しないけど……いいよ、エッチ……しよう？」=“Well... when you say it like that, I can't really get mad at you... sure, let's... have sex?”

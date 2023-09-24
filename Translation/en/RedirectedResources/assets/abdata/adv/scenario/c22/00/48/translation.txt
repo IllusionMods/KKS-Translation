@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この民宿、結構な量のご飯が出るね」=
-//「うん。それにあんまり見たことないお料理が多いよ」=
-//「いわゆる、地元の郷土料理なんだろうね」=
-//「これは分かる、ゴーヤーチャンプルーでしょ？」=
-//「うん、じゃあ、そっちは？」=
-//「分かんないけど……美味しいから、私は好きだよ」=
+「この民宿、結構な量のご飯が出るね」=“The meals they serve here are pretty darn big, aren't they?”
+「うん。それにあんまり見たことないお料理が多いよ」=“Yeah. And a lot of the dishes are ones I've never seen before either.”
+「いわゆる、地元の郷土料理なんだろうね」=“I imagine it's the so called 'local cuisine'.”
+「これは分かる、ゴーヤーチャンプルーでしょ？」=“I know this one, it's goya champuru, right?”
+「うん、じゃあ、そっちは？」=“Yep, and that?”
+「分かんないけど……美味しいから、私は好きだよ」=“I dunno but... it's really tasty, so I love it.”
