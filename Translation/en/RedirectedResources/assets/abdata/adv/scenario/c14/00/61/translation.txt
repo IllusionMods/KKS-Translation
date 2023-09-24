@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここにあるオイルは、肌にいいらしいよ」=
-//「へぇ……使ってもいいのか？」=
-//「自由に使っていいみたい。良かったら、俺が塗ってあげようか？」=
-//「いいのか？　だったら、頼むぜ」=
-//「うん、任せてよ」=
+「ここにあるオイルは、肌にいいらしいよ」=“Seems like the oil here's good for your skin.”
+「へぇ……使ってもいいのか？」=“Hoh... you think we can use it?”
+「自由に使っていいみたい。良かったら、俺が塗ってあげようか？」=“Seems like we can, freely. Want me to put it on you?”
+「いいのか？　だったら、頼むぜ」=“You sure? Please do.”
+「うん、任せてよ」=“Okay, just leave it to me.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「サンゴも魚もすごく綺麗だったな！　それじゃあ、また遊びに行こうぜ」=
+「サンゴも魚もすごく綺麗だったな！　それじゃあ、また遊びに行こうぜ」=“Both the corals and the fishes were real pretty, weren't they! Well then, let's do this again sometime.”

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「よう、ちょっと来てみたんだけど、入っていいか？」=
-SELECTION:「返事をする」=Respond
+「よう、ちょっと来てみたんだけど、入っていいか？」=“Hey, so I came over a bit, mind if I come in?”
+SELECTION:「返事をする」=Answer her
 SELECTION:「……」=...
-//「大丈夫だけど、何かあったの？」=
-//「お前が寂しがってるんじゃねぇかって思って、来てやったんだよ」=
-//「まぁ、私もその気だから、わかってるよな……？」=
-//「何だよ、留守か……また出直すか」=
+「大丈夫だけど、何かあったの？」=“Sure but, something wrong?”
+「お前が寂しがってるんじゃねぇかって思って、来てやったんだよ」=“I just thought you'd be feeling pretty lonely all by yourself so, I came over.”
+「まぁ、私もその気だから、わかってるよな……？」=“Well, I feel the same way so, you know what to do, right...?”
+「何だよ、留守か……また出直すか」=“The hell, are you not in?... Guess I'll come another time.”

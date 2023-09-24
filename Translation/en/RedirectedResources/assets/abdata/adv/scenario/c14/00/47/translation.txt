@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「上手く出来たと思うぜ。楽しかったよ、また一緒に体験しような！」=
+「上手く出来たと思うぜ。楽しかったよ、また一緒に体験しような！」=“I think mine came out pretty well. It was fun, let's do that again sometime!”

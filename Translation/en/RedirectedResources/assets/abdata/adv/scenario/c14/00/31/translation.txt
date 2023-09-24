@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うーん、景色のいい場所だね」=
-//「こんだけ開けた場所なら、声も良く響くんだろうな」=
-//「一緒に大声で叫んでみる？」=
-//「やんねぇよ、そんな恥ずかしいこと……絶対、叫ぶんじゃねぇぞ」=
+「うーん、景色のいい場所だね」=“Nnnn, pretty nice scenery here, isn't it?”
+「こんだけ開けた場所なら、声も良く響くんだろうな」=“Bet your voice would echo a whole lot too, with how wide open it is.”
+「一緒に大声で叫んでみる？」=“Wanna try shouting loudly together?”
+「やんねぇよ、そんな恥ずかしいこと……絶対、叫ぶんじゃねぇぞ」=“Like hell, that's embarrassing... don't you dare shout.”

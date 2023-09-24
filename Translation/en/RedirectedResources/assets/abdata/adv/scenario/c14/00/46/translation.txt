@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「結構力の入った演奏ができたな。それじゃあ、また一緒に体験しようぜ」=
+「結構力の入った演奏ができたな。それじゃあ、また一緒に体験しようぜ」=“That was a pretty fired up performance. Well then, let's try out something like that together again sometime.”

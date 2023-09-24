@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここのご飯、すごく美味しいね」=
-//「おう、どの料理もいい味してるぜ」=
-//「メニューも豊富だから、なんでも食べられるしね」=
-//「なんつーか、流石はホテルのレストランって感じだな」=
-//「うんうん。俺はもう少し何か頼もうかな」=
+「ここのご飯、すごく美味しいね」=“The food here is really good, isn't it?”
+「おう、どの料理もいい味してるぜ」=“Yeah, just about every dish tastes great.”
+「メニューも豊富だから、なんでも食べられるしね」=“The menu's super packed too, you could eat out here everyday almost.”
+「なんつーか、流石はホテルのレストランって感じだな」=“I guess that's a hotel restaurant for you, huh?”
+「うんうん。俺はもう少し何か頼もうかな」=“Yepyep. Maybe I'll order something more too.”

@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここ涼しいね。ちょっと休んでいこうか」=
-//「……おい、こんなとこに私を誘って何を企んでやがる？」=
-//「変かな？　涼みたかっただけだよ」=
-//「ウソつけ。本当は私のこと油断させて、エロいこととか企んでやがるんだろ」=
-//「えーと。つまり、キスしたいってこと？」=
-//「ばっ、あ、甘く見てんじゃねぇぞ！　やんのか」=
-//「キスを？」=
-//「……バカにして。そういうつもりじゃねぇなら、否定だけすりゃいいんだよ」=
-//「で？　どうすんだ、これから」=
-//「うん、だから涼みたいだけだって。[H名]も好きでしょ？　こういうの」=
-//「なんで私がこういうの好きとか言えんだよ」=
-//「え？　いつもコンビニの前でたむろして、肉まんとか食べてそうだから。近いノリで」=
-//「イメージで語るんじゃねぇよ！　……ま、まあ、してないわけじゃねえけどよ」=
-//「ほらやっぱり」=
-//「はいはいそうな。そういや、ちょっと喉乾いたな？　ジュース買ってこいよ」=
-//「ナチュラルにパシリに使わないでくれる？」=
-//「あははははは。冗談だよ、冗談」=
-//「ふぅ、確かにここ涼しいな。いい気分だ」=
-//（やっぱり、笑うと可愛いなぁ……）=
-//「んだろ？　ジロジロ見やがって」=
-//「……やっぱりキスする？」=
-//「や、やっぱりってなんだよ！　するかそんなの」=
+「ここ涼しいね。ちょっと休んでいこうか」=“Pretty cool here, isn't it? Let's rest a bit.”
+「……おい、こんなとこに私を誘って何を企んでやがる？」=“...Oi, what're you planning, bringing me out to a place like this?”
+「変かな？　涼みたかっただけだよ」=“Is it weird? I just wanted us to cool off a bit.”
+「ウソつけ。本当は私のこと油断させて、エロいこととか企んでやがるんだろ」=“You're a bad liar. I bet you're just waiting for me to let my guard down, so that you can do lewd stuff to me.”
+「えーと。つまり、キスしたいってこと？」=“Erhm. Basically, you want me to kiss you?”
+「ばっ、あ、甘く見てんじゃねぇぞ！　やんのか」=“Idi--, d-don't look down on me! You wanna go?”
+「キスを？」=“Go make out?”
+「……バカにして。そういうつもりじゃねぇなら、否定だけすりゃいいんだよ」=“...Always teasing me. If you're not planning on something like that, you should just deny it next time.”
+「で？　どうすんだ、これから」=“So? What're we doing now?”
+「うん、だから涼みたいだけだって。[H名]も好きでしょ？　こういうの」=“Like I said, just cooling off. You like this sorta stuff too, no?”
+「なんで私がこういうの好きとか言えんだよ」=“And what makes you say that with such authority?”
+「え？　いつもコンビニの前でたむろして、肉まんとか食べてそうだから。近いノリで」=“Eh? I mean you just look like the type to squat in front of a convenience store and wolf down meat buns, you know? And this isn't all that different.”
+「イメージで語るんじゃねぇよ！　……ま、まあ、してないわけじゃねえけどよ」=“Don't make shit up just from my image! ...W-Well, I mean, I won't deny that I do that though.”
+「ほらやっぱり」=“See? I knew it.”
+「はいはいそうな。そういや、ちょっと喉乾いたな？　ジュース買ってこいよ」=“Yes yes, you did. Reminds me, my throat's feeling a bit dry. Go buy me some juice.”
+「ナチュラルにパシリに使わないでくれる？」=“Could you not treat me like your personal butler? Thanks.”
+「あははははは。冗談だよ、冗談」=“Ahahahahahah. I'm joking, joking.”
+「ふぅ、確かにここ涼しいな。いい気分だ」=“Fuuh, this place really is cool. It feels nice.”
+（やっぱり、笑うと可愛いなぁ……）=(She really does look adorable when smiling...)
+「んだろ？　ジロジロ見やがって」=“What? You're staring.”
+「……やっぱりキスする？」=“...Wanna kiss afterall?”
+「や、やっぱりってなんだよ！　するかそんなの」=“H-Hell's with you! Make up your mind, are we doing it or not?!”

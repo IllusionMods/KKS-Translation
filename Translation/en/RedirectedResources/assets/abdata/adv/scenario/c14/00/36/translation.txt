@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「綺麗な砂浜だね」=
-//「海も綺麗だし、ほんと南の島って感じだな」=
-//「とりあえず、海に入ってみる？」=
-//「……お前がいやらしい目で見ないって言うなら別にいいぜ？」=
-//「それは……正直保証できない」=
-//「冗談だよ、一緒に付き合ってやるって！」=
+「綺麗な砂浜だね」=“What a beautiful seashore, isn't it?”
+「海も綺麗だし、ほんと南の島って感じだな」=“The sea's real pretty too, seriously feels like a southern island.”
+「とりあえず、海に入ってみる？」=“Wanna try taking a dip in the water, for now?”
+「……お前がいやらしい目で見ないって言うなら別にいいぜ？」=“...As long as you promise you won't look at me with pervy eyes, I don't really mind, you know?”
+「それは……正直保証できない」=“That's... not something I can guarantee.”
+「冗談だよ、一緒に付き合ってやるって！」=“I'm joking, of course I'll go for a dip, dummy!”

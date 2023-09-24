@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……お前、本気で言ってんのか？」=
-//「本気だよ。俺、本気で[H名]とＨしたいんだ」=
-//「冗談じゃ……ないんだな？　……ああ、くそ仕方ねぇな」=
-//「……いいぜ、お前としてやるよ。その代わり、ちゃんと……優しくしろよな」=
+「……お前、本気で言ってんのか？」=“...Are you, being serious there?”
+「本気だよ。俺、本気で[H名]とＨしたいんだ」=“I am. I want to seriously have sex with you, [H名].”
+「冗談じゃ……ないんだな？　……ああ、くそ仕方ねぇな」=“That's... not a joke, right? ...Aaah, damn, guess there's helping it.”
+「……いいぜ、お前としてやるよ。その代わり、ちゃんと……優しくしろよな」=“...Sure, I'll do it with you. In return, you gotta... be gentle, okay?”

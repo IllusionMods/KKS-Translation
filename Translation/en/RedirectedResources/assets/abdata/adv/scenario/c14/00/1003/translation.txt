@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「お土産を見てみようよ」=“Let's have a look at the souvenirs.”
-//「お？　シーサーか。これ、なかなか気合入って……」=
-//「気に入ったの？」=
-//「わっ！？　いちいち絡んでくるんじゃねぇよ」=
-//「一緒に買い物してるのに、普通に会話するのも許されないって……」=
-//「んぐっ！　そ、そりゃそうか。悪ィ……まだ、恋人のノリってやつがわかってなくてよ」=
-//「ただでさえも、あんま……友達とかいたことなかったしな」=
-//「普通でいいんだよ、普通で。俺は[H名]とこうやって一緒にいられるだけでも楽しいしさ」=
-//「お前……よくそういうことサラッと言えるよな。恥ずかしくねぇのかよ」=
-//「全然。本当のことだし」=
-//「お前のそういうとこ、私も少しは見習っていかなきゃな」=
-//「お、おい、好きだろこういうの？　私が買ってお前にくれてやろっかー」=
-//「あはは。ぎくしゃくしすぎ」=
-//「笑ってんじゃねぇよ！！」=
+「お土産を見てみようよ」=“Let's go take a look at souvenirs.”
+「お？　シーサーか。これ、なかなか気合入って……」=“Oh? Shisas, huh? I'm getting kinda fired up lookin' at...”
+「気に入ったの？」=“You like them?”
+「わっ！？　いちいち絡んでくるんじゃねぇよ」=“Wah--1? Don't come barging into everything like that.”
+「一緒に買い物してるのに、普通に会話するのも許されないって……」=“We're out shopping together though. Forbidding me from even chatting's a bit...”
+「んぐっ！　そ、そりゃそうか。悪ィ……まだ、恋人のノリってやつがわかってなくてよ」=“Nnguh--! G-Guess you're right. My bad... I'm still, not really sure what this dating thing is about.”
+「ただでさえも、あんま……友達とかいたことなかったしな」=“I mean, as it is, I've never... really had many friends.”
+「普通でいいんだよ、普通で。俺は[H名]とこうやって一緒にいられるだけでも楽しいしさ」=“Just be normal, normal. Just being able to spend time with you like this is fun enough for me, [H名].”
+「お前……よくそういうことサラッと言えるよな。恥ずかしくねぇのかよ」=“You... really can say those things without blinking an eye, huh? Do you not get embarrassed at all?”
+「全然。本当のことだし」=“Not one bit. I mean, it's the truth.”
+「お前のそういうとこ、私も少しは見習っていかなきゃな」=“I gotta pick that up from you myself, atleast a bit.”
+「お、おい、好きだろこういうの？　私が買ってお前にくれてやろっかー」=“O-Oi, do you like this sorta thing? Want me to buy it and gift it to you--”
+「あはは。ぎくしゃくしすぎ」=“Ahahah. That was way too strained.”
+「笑ってんじゃねぇよ！！」=“Don't laugh!!”

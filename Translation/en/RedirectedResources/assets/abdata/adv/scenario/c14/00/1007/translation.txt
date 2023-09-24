@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「色んな魚がいるね。いすぎてどこ見ていいかわかんないや」=
-//「お、おう、そうな」=
-//「[H名]もちゃんと見てる？　なんかそわそわしてるよね」=
-//「見てるよ！　見てるけど……ああ、認めてやるよ。落ち着かねぇなとは思ってる」=
-//「水族館なんかデートのド定番って感じでよ……あ、違うぞ？　それが嫌とか楽しくないとか言いたいわけじゃなくて」=
-//「うんうん、それが恋だよ。恋人同士としての実感ってやつだ」=
-//「はああ？　てめぇ調子に……いや、でも、そうなのかも」=
-//「そういうの全部ひっくるめて楽しもうよ」=
-//「そ、そういうもんか、わかったけどよ」=
-//「けど？」=
-//「お前、水族館には詳しいんだろうな？　私はこういうチャラついたところはだいたい全部初めてだからよ」=
-//「了解、エスコートするよ」=
-//「……変なことになっちまったよな。私が男に頼るとか」=
-//「あ、向こうにマナティーいるらしいよ？　行ってみようか」=
-//「マナティーってなんだ？」=
-//「行けばわかるよ。ほら、エスコートってことで」=
-//「へっ、調子くれやがって。マナティーがどれほどのみんか見てやろうじゃねぇか」=
-//「マナティーにメンチ切るのやめてね」=
+「色んな魚がいるね。いすぎてどこ見ていいかわかんないや」=“There's all sorts of fish, huh? There's so many I don't even know where to look.”
+「お、おう、そうな」=“Y-Yeah.”
+「[H名]もちゃんと見てる？　なんかそわそわしてるよね」=“You're looking around too, right? I feel like you aren't.”
+「見てるよ！　見てるけど……ああ、認めてやるよ。落ち着かねぇなとは思ってる」=“I am! I am, but... aah, I'll admit it. I can't seem to calm down.”
+「水族館なんかデートのド定番って感じでよ……あ、違うぞ？　それが嫌とか楽しくないとか言いたいわけじゃなくて」=“An aquarium date is just such a bog standard date that... ah, that's not it, okay? I'm not trying to say that I don't like it or that I'm not having fun or anything, okay?”
+「うんうん、それが恋だよ。恋人同士としての実感ってやつだ」=“Yepyep, that's love, dear. You're just experiencing what it means to be in love.”
+「はああ？　てめぇ調子に……いや、でも、そうなのかも」=“Haaah? This fucking guy, always getting... no, but, that might be it.”
+「そういうの全部ひっくるめて楽しもうよ」=“We just gotta enjoy it all, even that restlessness.”
+「そ、そういうもんか、わかったけどよ」=“I-Is that how it works? I guess I got it, but.”
+「けど？」=“But?”
+「お前、水族館には詳しいんだろうな？　私はこういうチャラついたところはだいたい全部初めてだからよ」=“You know your stuff when it comes to places like these, right? I've never done stuff like this before, ya know.”
+「了解、エスコートするよ」=“Roger, I'll take you around.”
+「……変なことになっちまったよな。私が男に頼るとか」=“...Took a pretty weird turn there, didn't it? Especially me relying on a man and all.”
+「あ、向こうにマナティーいるらしいよ？　行ってみようか」=“Ah, seems like they've got a manatee over there. Let's go check it out?”
+「マナティーってなんだ？」=“Heck's a manatee?”
+「行けばわかるよ。ほら、エスコートってことで」=“You'll see. C'mon, I'm your guide for today.”
+「へっ、調子くれやがって。マナティーがどれほどのみんか見てやろうじゃねぇか」=“Hoh--, someone's getting ballsy. Guess I'll see for myself just what sorta thing this manatee is.”
+「マナティーにメンチ切るのやめてね」=“Don't glare at it with those eyes, alright?”

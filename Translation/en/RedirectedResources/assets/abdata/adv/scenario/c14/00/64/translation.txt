@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「かなり気持ち良かったぜ。お前、オイル塗るの上手いな」=
-//「いい感じだったぜ。綺麗に塗ってくれてありがとな」=
-//「こんなもんかな……普通に気持ち良かったぜ」=
-//「どうしたんだ？　まだ塗ってないだろ？　オイル切れてるのか？」=
+「かなり気持ち良かったぜ。お前、オイル塗るの上手いな」=“That felt pretty darn nice. You're really good at rubbing oil on others.”
+「いい感じだったぜ。綺麗に塗ってくれてありがとな」=“That felt pretty nice. Thanks for rubbing it on me so nicely.”
+「こんなもんかな……普通に気持ち良かったぜ」=“I guess that's that... that felt pretty darn good.”
+「どうしたんだ？　まだ塗ってないだろ？　オイル切れてるのか？」=“What's wrong? You still ain't put it on me, no? Is the bottle empty or something?”

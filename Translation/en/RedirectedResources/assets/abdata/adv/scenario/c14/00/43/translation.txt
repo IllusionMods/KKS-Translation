@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線か……結構リズム感とか必要だよな」=
-//「そうだね。でもそんなに難しくないと思うけど」=
-//「いや、どうせやるならちゃんと気合の入った演奏したいじゃねぇか」=
-//「体験だけなんだから、そこまで力入れなくても……」=
-//「い～や、ちゃんとやるんだ……絶対ばっちり決めてやるからな」=
+「三線か……結構リズム感とか必要だよな」=“A sanshin, huh... you really need a sense of rhythm for this stuff, don't you?”
+「そうだね。でもそんなに難しくないと思うけど」=“Yeah. But I don't think it's that difficult.”
+「いや、どうせやるならちゃんと気合の入った演奏したいじゃねぇか」=“No, I mean, if we're gonna do this, we gotta do it with some fire.”
+「体験だけなんだから、そこまで力入れなくても……」=“We're just here for the experience, you don't need to get that into...”
+「い～や、ちゃんとやるんだ……絶対ばっちり決めてやるからな」=“No~, I'mma do it properly... I'm definitely gonna do a perfect job of it, just you watch.”
