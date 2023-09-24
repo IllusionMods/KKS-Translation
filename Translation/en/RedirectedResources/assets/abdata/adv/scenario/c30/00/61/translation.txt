@@ -3,6 +3,6 @@
 //
 「ここは……エステみたいなものかしら？」=“Is this... a beauty parlor of some sort?”
 「だね、スタッフはいないみたいだけど、オイルは無料みたい」=“Probably, it doesn't seem like any staff's around but, I think the oil's free.”
-「ふーん……？　折角だし、タダならちょっと塗ってもらっちゃおうかな？」=“Hmm....? Well, we're here anyway, I suppose I might as well get some oil rubbed on my body, what do you say?”
+「ふーん……？　折角だし、タダならちょっと塗ってもらっちゃおうかな？」=“Hmm...? Well, we're here anyway, I suppose I might as well get some oil rubbed on my body, what do you say?”
 「え、塗るって……俺が？」=“G-Get some oil rubbed... by me?”
 「キミ以外に誰がいるの？　大丈夫、背中だけなら恥ずかしくはないでしょ？」=“Is there anyone else here? Don't worry, my back's enough, that shouldn't be too embarrassing for you, right?”

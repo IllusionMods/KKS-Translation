@@ -3,12 +3,12 @@
 //
 「ホエールウォッチングやってみたくない？」=“Don't you feel like trying out whale watching?”
 「まさかキミがそんな素敵な提案をしてくれるなんて」=“I didn't expect you of all people to suggest something so wonderful.”
-「二人で寄り添いながらクジラを見て、キラキラした水面が私たちを輝かせてくれる……」=“Imagine, us snuggling together and looking at the whale, and the water shining light upon us....”
+「二人で寄り添いながらクジラを見て、キラキラした水面が私たちを輝かせてくれる……」=“Imagine, us snuggling together and looking at the whale, and the water shining light upon us...”
 「クジラも俺たちを祝福してくれたりして」=“And if we got the whale's blessings on top of that, that'd just seal the deal.”
 「ふふっ、キミってロマンチストなのね。ビックリしちゃったわ！」=“Fufuh--, you're pretty romantic, huh? Color me thoroughly surprised!”
 「ヤシガニってどんな生き物か知ってる？」=“Do you know what sort of a creature a coconut crab is?”
 「もちろん知ってるわ。カニのような、エビのような奇妙な形をした生き物よね」=“Of course. It's a weird creature halfway between a crab and a lobster, isn't it?”
-「しかもすごく大きいわよね。あの大きなハサミがキミの指を……」=“And it's super big too, isn't it? Those big claws going snip-snip around your fingers....”
+「しかもすごく大きいわよね。あの大きなハサミがキミの指を……」=“And it's super big too, isn't it? Those big claws going snip-snip around your fingers...”
 「待って待って！　考えたら痛くなってきたっ！」=“Alright, stop right there! It hurts just thinking about it--!”
 「ふふっ、ごめんね。ちょっと意地悪しちゃった。慌ててるキミを想像したら可愛くて♪」=“Fufuh, sorry. I couldn't help myself, the sight of you being flustered is just too adorable♪”
 「月桃って知ってるかな？」=“Do you know about shell gingers?”
@@ -42,7 +42,7 @@
 「もちろん。だけど実物を見たら幻かと思っちゃうかも」=“Of course. But I think I might end up thinking that it's an illusion, if I actually see one.”
 「実はね、鳥の雛が生まれたんだ！　すごく可愛いんだよ」=“The truth is, I saw a little birdy hatch! It's a super adorable little thing too.”
 「えっ！？　すごいわ！　おめでとう！　キミって鳥を飼っていたの？」=“Eh--!? Amazing! Congratulations! You have a bird pet?”
-「いや、偶然鳥の巣を見つけてさ。いつ卵が孵化するか気になって、ずっと見に行ってて……」=“Nah, I just happened upon a birds' nest. I got curious when the egg inside was gonna hatch, so I've been watching over it for a while now....”
+「いや、偶然鳥の巣を見つけてさ。いつ卵が孵化するか気になって、ずっと見に行ってて……」=“Nah, I just happened upon a birds' nest. I got curious when the egg inside was gonna hatch, so I've been watching over it for a while now...”
 「なるほど……じゃあキミがその鳥たちを暖かく見守ってたってことね」=“I see... So you were watching over those birds warmly, huh?”
 「そんなんじゃないよ。ただ心配だっただけで……」=“Not really. I was just worried so...”
 「ほら、心配だったんじゃない。キミってそういうところあるもの。隠さなくっていいのよ」=“See? You were worried. You're that kind of a person, afterall. You don't need to hide it.”
@@ -63,7 +63,7 @@
 「のんびりした性格だし、近くで観察できると思うわ」=“They've got really mild temperaments too, so I think you could get up close even.”
 「でもダイバーが守るべきルールがあるの。きちんと守って楽しい時間を過ごしたいわね」=“But there's a few rules that all divers must follow. Afterall, we all want to have a good time, don't we?”
 「海ほたるってどう思う？」=“What do you think of sea fireflies?”
-「とっても綺麗よね。夜の海辺で輝く光……まるで……」=“They're really pretty, aren't they? The way they glitter at night along the beach... they're almost like....”
+「とっても綺麗よね。夜の海辺で輝く光……まるで……」=“They're really pretty, aren't they? The way they glitter at night along the beach... they're almost like...”
 「星座みたい？」=“Like a constellation?”
 「っ！！　その通り！　ふふっ、まさか当てられるなんて」=“--!! Exactly! Fufuh--, I can't believe you guessed what I was thinking.”
 「空も海も光で輝いていたら……幻想的で素敵よね」=“Seeing the sky and the sea both glitter at the same time... would be fantastical, wouldn't it?”
@@ -73,7 +73,7 @@
 「あれは感動するわ。小さい体でひたむきに真っ直ぐで」=“That really is a moving sight. So earnest and hardworking with their tiny bodies.”
 「そう考えると、子ガメにとって海に向かっていくのは、生きることに向かっていくのと同じよね」=“Thinking about it like that, for those baby sea turtles, making their way into the sea is the same as taking their first steps towards life, isn't it?”
 「うん、そうかも。生きることに一生懸命ってことかな」=“Yep, I think. I guess it's them doing their very best to survive?”
-「生きることに一生懸命……自分のことを考えると……そんな風に頑張れてるかしら？」=“Doing their very best to survive, huh... now that I think about it.... am I doing my best here too?”
+「生きることに一生懸命……自分のことを考えると……そんな風に頑張れてるかしら？」=“Doing their very best to survive, huh... now that I think about it... am I doing my best here too?”
 「あはは、難しく考えることないよ。今を頑張って生きればいいだけじゃない？」=“Ahahah, you don't need to overthink it. Even if you haven't so far, isn't it fine to just live your life to the fullest from now on?”
 「キミに教えてもらうなんて！　でもその考えはとっても素敵だわ！」=“I can't believe you're teaching me something for once! But I think that's a lovely way of thinking about it!”
 「星の砂って見てて飽きないよね」=“Looking at starsand never gets old, does it?”
@@ -82,7 +82,7 @@
 「へぇ、すごい。俺も作ってみたいけど……確かビーチのものは勝手に持ち出しちゃいけなんだよね？」=“Hoh, amazing. I wanna try making my own tiny bottle too but... if I remember right, we can't just willy nilly take some from the beach, can we?”
 「ええ。そうよ。だからお土産物屋さんで探しましょう」=“Yes, that's right. So let's look for one at the gift shop instead.”
 「ウムイの鐘にまつわる伝説についてなんだけど……」=“Say, that legend around the Bell of Umuy...”
-「恋愛成就の伝説ね。二人で鐘を鳴らせば結ばれる。その鐘の音は未来永劫、恋人たちの心にも響き……」=“A legend about the fulfillment of love, isn't it? A pair that rings it will be tied together. And the chimes of the bell will ring in the hearts of the couple so formed forevermore....”
+「恋愛成就の伝説ね。二人で鐘を鳴らせば結ばれる。その鐘の音は未来永劫、恋人たちの心にも響き……」=“A legend about the fulfillment of love, isn't it? A pair that rings it will be tied together. And the chimes of the bell will ring in the hearts of the couple so formed forevermore...”
 「えっ？　そんな続きまであるの？」=“Eh--? That second part's a thing too?”
 「ふふっ、ごめんなさい。今のは私が考えたお話よ」=“Fufuh--, I'm sorry. I made that one up.”
 「でも今でこんなに信じられているってことは、きっと素敵な物語があるんじゃないかしら」=“But the fact that people still believe in it so much means that it probably has a wonderful story behind it too, no?”
@@ -95,14 +95,14 @@
 「もう、本当かしら？　でも……今回はキミの必死さに免じて見逃してあげる。ふふっ」=“Jeez, is it really? But... I'll let it pass this time, based on how frantic you are. Fufuh--”
 「何かフェチなところってある？」=“Do you have like any fetishes?”
 「フェチ？　なんだかちょっといやらしい質問ね」=“Fetishes? That's a pretty lewd question.”
-「えーと、気になってさ……もし良かったら教えてもらいたいんだけど……」=“Erhm, I just got curious... if it's alright, I'd love to hear it....”
+「えーと、気になってさ……もし良かったら教えてもらいたいんだけど……」=“Erhm, I just got curious... if it's alright, I'd love to hear it...”
 「もう……そんな風にしおらしく言われたら、答えないわけにはいかないわね」=“Jeez... I suppose I've got no choice, especially when you're being so meek for once.”
 「そうね、敢えて言うなら……キミフェチかしら」=“Let me think, if I had to say... a fetish for you?”
 「そうなの？　聞いたら恥ずかしくなってきた」=“Really? Suddenly it's feeling pretty embarrassing.”
 「欲求不満になった時ってどうしてる？」=“What do you do when you're feeling sexually frustrated?”
 「えっ！？　いきなりどうしたの？　キミって時々大胆な質問をするのね」=“Eh--!? What is it now? You really ask some pretty bold questions sometimes, you know that?”
 「でも……そうね……キミは私がどうするのか想像しなかったの？」=“But... let's see... you couldn't imagine what I do?”
-「あー、ちょっと想像してみたんだけど。正直全然分からなくて……」=“Ah, I tried but, I couldn't take a guess at all....”
+「あー、ちょっと想像してみたんだけど。正直全然分からなくて……」=“Ah, I tried but, I couldn't take a guess at all...”
 「ふふっ、そっか。じゃあキミが簡単に想像できるように今からお姉さんが実際にしてあげようかしら」=“Fufuh--, I see. Well then, I suppose your onee-san will just have to do it right here on the spot, so that you can easily imagine it next time.”
 「もう、からかわないでよー！」=“Jeez, don't tease me~!”
 「あのさ、答えにくいかもしれないけど……。初体験ってどうだったかな？」=“Listen, it might be hard to answer but... how was our first time for you?”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「エッチ、ねぇ……まぁキミとなら特に不満はないけど……」=“Sex, huh... well, I don't really mind doing it with you....”
+「エッチ、ねぇ……まぁキミとなら特に不満はないけど……」=“Sex, huh... well, I don't really mind doing it with you...”
 「やった！　それじゃ早速――」=“Yay! Well then, let's get right--”
 「こーら、がっつかないの。こういうのは男の子がしっかりリードするもんでしょ？」=“Hey~, don't be so greedy for it. It's your job as a boy to take the lead properly in this situation, no?”
 「そ、そうだね……えっと、改めて、いいかな……？」=“Y-You're right... erhm, again then, do you mind...?”
-「うん……優しく、ね……？」=“No... be gentle, okay....?”
+「うん……優しく、ね……？」=“No... be gentle, okay...?”

@@ -7,7 +7,7 @@
 「ねぇ、お互いのお土産を買うならどんなものにするか考えてみない？　特別なお土産ってことで。お菓子限定でどうかしら？」=“Hey, if we're gonna buy stuff for each other, how about we give it a real think? Let's make it something special, limited to just sweets, how about it?”
 「いいね。面白そう！」=“Sounds interesting!”
 「ふふっ。よーし、キミのセンスに期待するわ。キミは私にどんなお土産を買ってくれるのかな？」=“Fufuh--, alright~, I'm looking forward to seeing what you pick. Just what will you buy me?”
-「そうだなぁ……そう面と向かって聞かれると……迷うなぁ……」=“Let's see~... now that you're actually asking me... I don't know....”
+「そうだなぁ……そう面と向かって聞かれると……迷うなぁ……」=“Let's see~... now that you're actually asking me... I don't know...”
 「ふふっ、私はもう決まってるわ。今、手に持ってるこれ！　新商品のミステリアス謎味よ！」=“Fufuh--, I for one already know what I'll go with. This one, in my hands! The new mystery flavour box!”
 「え、ミステリアス謎味っ！？　なんでそれなの？」=“Eh, the mystery flavour box--!? Why that?”
 「だって……キミって色々な一面があるでしょ？　恥ずかしいことを平気で言ったと思ったら、ちょっとしたことで照れたり……」=“I mean... you've got all sorts of sides to you, no? Always saying the most embarrassing things with a straight face, yet blushing at the tiniest things...”

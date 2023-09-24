@@ -22,9 +22,9 @@
 「あはは、実はすっごくすっごく年上なのかもよ？　なーんて」=“Ahaha, don't you mean really, really old? Just kidding.”
 「もー、女性に対して失礼じゃないかなぁ？　ま、別に嫌じゃないけど」=“Geez, isn't that quite a rude thing to say to a girl? Well, it's not like I really mind.”
 「うーん……今は何か別の話しましょうか」=“Hmm... Let's talk about something else right now.”
-「あー、毎日楽して過ごしたいなぁ……」=“Ah~, I wanna spend everyday relaxing~....”
+「あー、毎日楽して過ごしたいなぁ……」=“Ah~, I wanna spend everyday relaxing~...”
 「気持ちはわかるわよ？　でも、かといって楽過ぎてもつまんないのよねー」=“I do understand how you feel, okay? But, just doing that everyday gets boring, you know~?”
-「この前、珍しいモノを見つけて……」=“The other day, I came across something really rare....”
+「この前、珍しいモノを見つけて……」=“The other day, I came across something really rare...”
 「え、なになに？　早く教えてよー」=“Eh, what what? Tell me~”
 「恋愛には積極的に行動する方？」=“You the type to be proactive when it's about love?”
 「そうだねぇ、当たって砕けろってよく言うし、そうなるんじゃないかしら？」=“Yeah~, nothing ventured nothing gained, as they say, no?”
@@ -146,7 +146,7 @@
 「自分ではそう思われたいんだけど……意外と年下扱いされちゃったりするのよね……」=“I feel the same way about myself but... sometimes it's surprising when I'm treated like I'm younger than I am...”
 「人間、やっぱり素直が一番だよね」=“Being honest really is the best, isn't it?”
 「うんうん、身も心も素直が一番よ」=“Yepyep, you should be honest with both your body and your heart.”
-「ふふっ、どうかしら？　私もいろんな事を秘めてるかもしれないわよ……？」=“Fufuh--, who knows? I could be hiding a whole lot, you know....?”
+「ふふっ、どうかしら？　私もいろんな事を秘めてるかもしれないわよ……？」=“Fufuh--, who knows? I could be hiding a whole lot, you know...?”
 「こういう場所に来ると、やっぱりテンション上がるよね」=“Coming to a place like this really has a way of filling you with energy, isn't it?”
 「そうね、ついついはしゃいじゃうわね」=“Yeah, I just can't help running around sometimes.”
 「でも、あまり羽目を外し過ぎるのはダメよ？」=“But, don't use that as an excuse to go too crazy, okay?”
@@ -222,7 +222,7 @@
 「ええ、またね」=“Yes, see you later.”
 「俺、[H名]の事が好きなんだ」=“I am in love with you, [H名].”
 「んー、困ったわね……ごめんなさい、返事はちょっと待ってくれるかしら？」=“Nn~, oh boy... I'm sorry, do you mind waiting just a bit for my answer?”
-「ねぇ、キミの事、好きって言ったら信じてくれる……？」=“Hey, if I said I love you, would you believe me....?”
+「ねぇ、キミの事、好きって言ったら信じてくれる……？」=“Hey, if I said I love you, would you believe me...?”
 「あら、本気にしちゃったかしら？　冗談よ、冗談……」=“Oh my, did you take it seriously? It was a joke, just a joke...”
 「あ、あのさ、[H名]とHしたいなって」=“I-I was thinking, I want to have sex with you, [H名].”
 「え？　冗談でしょ？　うそ、本気……なの？　ごめんなさい、さすがにそれは抵抗あるわね……」=“Eh? You're joking, right? No way, are you... serious? I'm sorry, I'll have to say no...”
@@ -247,7 +247,7 @@
 「残念だけど、また今度誘ってくれるかしら？」=“Sorry but, could you ask me another time?”
 「どうかしら、ちょっと遊んでみない？」=“How about it, want to go have some fun?”
 「ＯＫ、行きましょ行きましょ」=“Okay then, let's go let's go.”
-「そっか、残念ね……」=“I see, that's a shame....”
+「そっか、残念ね……」=“I see, that's a shame...”
 「ねぇ、体験コーナーに行ってみない？」=“Hey, wanna go hit up the experience corner together?”
 「あら面白そうね、行ってみましょ？」=“That sounds pretty interesting, let's go?”
 「あー、ちょっと今は……悪いわね」=“Ah, now's a bit... sorry.”
@@ -308,7 +308,7 @@
 「私だったら、お互いの気持ちをしっかりとぶつけ合う事が大事だと思うわ」=“Personally, I think it's important for us to just keep blasting each other with our love.”
 「好きだよ」=“I love you.”
 「ふふっ、私も好き、愛してるわ」=“Fufuh--, I love you too, dearly.”
-「っ……もぉ、不意打ち過ぎよ」=“--!.... Jeez, surprise attacks are unfair, you know.”
+「っ……もぉ、不意打ち過ぎよ」=“--!... Jeez, surprise attacks are unfair, you know.”
 「えっと……ちょっと照れちゃった。こういう話はまた今度にしましょう」=“Um... I'm getting a bit embarrassed. Let's talk about this some other time.”
 「[H名]が彼女で本当に良かった」=“I'm so glad you're my girlfriend, [H名].”
 「え……い、いきなり？　私だってキミが彼氏で良かったって思ってるわよ。ふふっ、本当よ？」=“Eh... W-what's this all of a sudden? I'm glad that you're my boyfriend too. Fufu, I'm serious, you know?”
@@ -382,7 +382,7 @@
 「賛成ね。たくさん遊びましょう？」=“I don't see why not. Let's have lots of fun?”
 「ねぇ、これから二人で遊ばない？」=“Hey, can we go have some fun together right now?”
 「ふふっ、キミも遊びたかったのね」=“Fufuh--, you wanted to blow some steam too, huh?”
-「そっか、無理そうかー……」=“I see, you can't, huh~....”
+「そっか、無理そうかー……」=“I see, you can't, huh~...”
 「面白そうね。私も体験してみたいわ」=“That sounds fun. I want to try it too.”
 「ねぇ、今から体験コーナーに行かない？」=“Hey, want to go to the experience corner together?”
 「ふふっ、そう来なくっちゃ♪」=“Fufuh--, that's my boy♪”
