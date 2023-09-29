@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//（よし、[H名]と一緒に鐘を鳴らそう……！）=
-//「……どうしたの？　難しい顔して」=
-//「あっ、こ、これは」=
-//「まるで、今からプロポーズでもするみたい」=
-//「プロポーズっ！？」=
-//「意地悪……だったかな。冗談ではぐらかすような言い方しちゃって」=
-//「ウムイの鐘でしょ？　一緒に鳴らそうって誘ってくれるのかな」=
-//「先回りされちゃったけど……う、うん、そうだよ。俺は[H名]と一緒にこの鐘を鳴らしたいんだ」=
-//「ありがとう。嬉しいよ、嬉しい……けど」=
-//「私ね？　こういうおまじないとか言い伝えには力があると思ってるの」=
-//「少なくとも誰かが信じて、願いを叶えた人もいて、他にたくさんの信じたいって願いがあって……」=
-//「……そうやって、初めて成立するのがこういうおまじないだと思うから」=
-//「あ、ごめん、私ったらいつもこうだね。引かれちゃったかな」=
-//「まさか。ただ、誤解だけはしないでね？　俺は軽い気持ちじゃなくて……」=
-//「うん、[H名]とずっと一緒にいたいから、そういう願いを込めて二人で鐘を鳴らしたいと思ったんだ」=
-//「本当？　ありがとう……って、なんだか本当のプロポーズみたいになっちゃった」=
-//「しかも、私からするプロポーズ」=
-//「そうだとしても嬉しいよ。それに、この願いは絶対に叶うなーって気がしてきた」=
-//「……だったらこの鐘を鳴らすことは誓いになるのかな。叶えようね、二人で」=
+（よし、[H名]と一緒に鐘を鳴らそう……！）=(Alright, time to ring the bell with her...!)
+「……どうしたの？　難しい顔して」=“...What's wrong? You've got a difficult expression.”
+「あっ、こ、これは」=“Ah--, t-this is--”
+「まるで、今からプロポーズでもするみたい」=“It almost feels like you're gonna propose to me right here and now.”
+「プロポーズっ！？」=“Propose--!?”
+「意地悪……だったかな。冗談ではぐらかすような言い方しちゃって」=“Sorry, I guess that was... a bit mean. I didn't mean to sidestep it as a joke like that.”
+「ウムイの鐘でしょ？　一緒に鳴らそうって誘ってくれるのかな」=“It's the bell, no? Are you gonna ask me if I want to ring it together with you?”
+「先回りされちゃったけど……う、うん、そうだよ。俺は[H名]と一緒にこの鐘を鳴らしたいんだ」=“You're really running circles around me here... b-but yeah, that's right. I want to ring this bell together with you, [H名].”
+「ありがとう。嬉しいよ、嬉しい……けど」=“Thank you. That makes me really happy, so happy... but.”
+「私ね？　こういうおまじないとか言い伝えには力があると思ってるの」=“You know, I really think charms and legends like these have some real power.”
+「少なくとも誰かが信じて、願いを叶えた人もいて、他にたくさんの信じたいって願いがあって……」=“Because at the very least, someone believed in it, and their wish came true, and so many more people came with similar wishes...”
+「……そうやって、初めて成立するのがこういうおまじないだと思うから」=“...And that's how, I think, these charms come into being.”
+「あ、ごめん、私ったらいつもこうだね。引かれちゃったかな」=“Ah, sorry, I'm always like this, aren't I? I wouldn't blame you if you just changed your mind.”
+「まさか。ただ、誤解だけはしないでね？　俺は軽い気持ちじゃなくて……」=“No way. Don't misunderstand, okay? I didn't bring you here with such a light resolve...”
+「うん、[H名]とずっと一緒にいたいから、そういう願いを込めて二人で鐘を鳴らしたいと思ったんだ」=“Yeah, for me, I want to be with you forever, that's the sort of wish with which I wanted to ring this bell with you.”
+「本当？　ありがとう……って、なんだか本当のプロポーズみたいになっちゃった」=“You mean it? Thank you... wuh, it almost turned into a real proposal there.”
+「しかも、私からするプロポーズ」=“Not to mention, a proposal I started.”
+「そうだとしても嬉しいよ。それに、この願いは絶対に叶うなーって気がしてきた」=“Maybe but, I'm still happy. And I have a feeling now that this wish of mine will definitely come true someday.”
+「……だったらこの鐘を鳴らすことは誓いになるのかな。叶えようね、二人で」=“...In that case, will ringing this bell turn into our own little vows? Let's make them come true, okay? Together.”

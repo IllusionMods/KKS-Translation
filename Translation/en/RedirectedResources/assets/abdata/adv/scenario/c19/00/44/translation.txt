@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線には結構色々な型があるらしいね」=
-//「……型？　どういう事？」=
-//「地域や作り手によって、大きさや棹の形が違って、音色も微妙に変わってくるんだって」=
-//「へぇ、三線にも色々と物語があるんだね」=
-//「そうだね、それじゃ折角だから頑張って演奏してみようか」=
-//「うん、あなたのおかげで物語を感じながら演奏できそう……」=
+「三線には結構色々な型があるらしいね」=“Seems like there's a whole bunch of different types of sanshin out there, huh?”
+「……型？　どういう事？」=“...Different types? What do you mean?”
+「地域や作り手によって、大きさや棹の形が違って、音色も微妙に変わってくるんだって」=“Depending on the maker and the region, their size and the shape of their neck can differ, and that can change up the tone a bit too.”
+「へぇ、三線にも色々と物語があるんだね」=“Hoh, so even sanshins have a whole story behind them, huh?”
+「そうだね、それじゃ折角だから頑張って演奏してみようか」=“Yep, well then, since we're here, let's do our best and play them properly together.”
+「うん、あなたのおかげで物語を感じながら演奏できそう……」=“Yeah, thanks to you, I can do it while savouring the story behind them...”

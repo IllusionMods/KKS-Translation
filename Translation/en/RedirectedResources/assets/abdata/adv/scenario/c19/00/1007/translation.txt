@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「わあ、キレイ」=
-//「本当だね。水の中なのにたくさんの色があって、なんだか……」=
-//「海の世界をそのまま水槽に切り出したみたいだね」=
-//「う、うん、俺もそんなようなこと言おうと思ってた」=
-//「ふふ、知ってる？　海って現代でもまだ解明されてない、たくさんの謎があるんだって」=
-//「……人類はもう宇宙にだって手が届くところまできてるのに、全ての命の源である海にはまだ謎が残ってる」=
-//「そう思うとなんだか神秘的じゃない……？」=
-//「そ、そうだね、スケールが大きくて圧倒されるよ」=
-//「たとえば、まだ解明されてない謎ってどういうものがあるの？」=
-//「たとえば、水深が深すぎて調査が及んでない海域は底に何があるかまだわからないままらしいし……」=
-//「……海底人の王国が？」=
-//「ファンタジー小説だね」=
-//「やっぱり、[P名]君とお話するの楽しいな」=
-//「[P名]君は私のこういう変なお話も楽しそうに聞いてくれるからかな」=
-//「本当に面白くて聞いてるだけだよ。他は？　どんな謎があるの？」=
-//「そうだね、たとえば……」=
+「わあ、キレイ」=“Wah, it's so pretty.”
+「本当だね。水の中なのにたくさんの色があって、なんだか……」=“It really is. To think the water would be so colorful inside, it's almost...”
+「海の世界をそのまま水槽に切り出したみたいだね」=“It's almost like a slice of the sea was taken and put into a fish tank as is, isn't it?”
+「う、うん、俺もそんなようなこと言おうと思ってた」=“Y-Yeah, I was thinking of basically the same thing.”
+「ふふ、知ってる？　海って現代でもまだ解明されてない、たくさんの謎があるんだって」=“Fufuh, did you know? The sea's still not been understood fully by humanity, even in the modern day. There's tons of still unresolved mysteries.”
+「……人類はもう宇宙にだって手が届くところまできてるのに、全ての命の源である海にはまだ謎が残ってる」=“...Even though we've reached all the way towards the stars, or atleast stretched out our hand to them, we still don't know so much about the font of life that we all arose from.”
+「そう思うとなんだか神秘的じゃない……？」=“Doesn't it feel almost mystical when you think about it that way...?”
+「そ、そうだね、スケールが大きくて圧倒されるよ」=“Y-Yeah, the scale's so big it's almost overwhelming.”
+「たとえば、まだ解明されてない謎ってどういうものがあるの？」=“Alright, as an example, what's one mystery that we still haven't solved yet?”
+「たとえば、水深が深すぎて調査が及んでない海域は底に何があるかまだわからないままらしいし……」=“Well, for example, it's still unknown what exactly lies in the areas of the sea that're too deep to be surveyed...”
+「……海底人の王国が？」=“...Maybe a country made of seapeople?”
+「ファンタジー小説だね」=“That's a fantasy novel on its own.”
+「やっぱり、[P名]君とお話するの楽しいな」=“It really is fun talking with you, [P名]-kun, you know?”
+「[P名]君は私のこういう変なお話も楽しそうに聞いてくれるからかな」=“I wonder if it's because you always seem to enjoy and care about whatever I have to say?”
+「本当に面白くて聞いてるだけだよ。他は？　どんな謎があるの？」=“I enjoy it because it's interesting. And? What else do we not know?”
+「そうだね、たとえば……」=“Let's see, for example...”

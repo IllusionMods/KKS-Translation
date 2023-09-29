@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ま、待って……私の事、好きって……どういう意味？」=
-//「意味なんて一つしかないよ……好きだから、俺と付き合って欲しいんだ……理解、してくれた？」=
-//「う、うん……理解した」=
-//「ごめんね、小説みたいにあんまりうまい告白思いつかなくて」=
-//「ううん、大丈夫……小説より、衝撃的だったから……」=
-//「あの……いいよ、私もあなたが好きだから……付き合って下さい」=
+「ま、待って……私の事、好きって……どういう意味？」=“W-Wait... you, love... what do you mean?”
+「意味なんて一つしかないよ……好きだから、俺と付き合って欲しいんだ……理解、してくれた？」=“I mean there's only one meaning to it... I love you so, I want you to go out with me... is that, direct enough?”
+「う、うん……理解した」=“Y-Yeah... I got it.”
+「ごめんね、小説みたいにあんまりうまい告白思いつかなくて」=“Sorry, I know it's not the sort of romantic scene you're used to reading in books.”
+「ううん、大丈夫……小説より、衝撃的だったから……」=“No, it's okay... it felt way more, impactful than in text...”
+「あの……いいよ、私もあなたが好きだから……付き合って下さい」=“Uhm... sure, I love you too so... please go out with me.”

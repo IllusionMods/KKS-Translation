@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういうご当地の家庭料理って、滅多に食べられないから嬉しいよね」=
-//「うん……それに、どの料理も美味しいから、ご飯の時間が楽しいの」=
-//「それはよかった。珍しい料理が多いけど、苦手な食べ物ってないの？」=
-//「今のところはないかな。さすがに色物的な料理は遠慮したいけど……」=
-//「色物といえば、ヤギの金玉を食べるってきいたことがあるよ」=
-//「……偏見はよくないって分かってるんだけど、やっぱり遠慮したいな」=
+「こういうご当地の家庭料理って、滅多に食べられないから嬉しいよね」=“It's not often you get to try such local home cooking like this, is it? It's so nice.”
+「うん……それに、どの料理も美味しいから、ご飯の時間が楽しいの」=“Yeah... not to mention, it's all so good, mealtimes are always fun.”
+「それはよかった。珍しい料理が多いけど、苦手な食べ物ってないの？」=“I'm glad to hear that. There's so many unique foods here, is there nothing you don't like?”
+「今のところはないかな。さすがに色物的な料理は遠慮したいけど……」=“I'd say so, for now. I mean, I'd rather not go for the particularly exotic things still...”
+「色物といえば、ヤギの金玉を食べるってきいたことがあるよ」=“On that note, I've heard that they eat goat testicles here.”
+「……偏見はよくないって分かってるんだけど、やっぱり遠慮したいな」=“...I realize that you shouldn't judge without trying but, I'd really rather not.”

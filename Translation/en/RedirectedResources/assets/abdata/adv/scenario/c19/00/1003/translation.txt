@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お土産を見ていこうよ」=
-//「……なんくるないさー」=
-//「も、もしかして、それ買おうとしてるの？」=
-//「おかしいかな？」=
-//「お土産として見たらおかしくないけど、[H名]はもっと落ち着いたものが好みかと思ったから」=
-//「お土産ならその土地っぽいものを選ぶのが王道だと思って……」=
-//「それは、まあ」=
-//「……それに『なんくるないさー』っていい言葉だと思う。『大丈夫だよ』ってことでしょ？」=
-//「大丈夫な気分になりたい時に着るの？」=
-//「着なくても、部屋に飾ってもいいんじゃないかな？　元気な気持ちになれるかも」=
-//「うん、決めた。私これ買うね」=
-//「……[H名]の話を聞いてたらだんだんよく見えてきた。俺も買おうかな」=
-//「……ふふ♪　二人おそろいで着てたら、お互いでお互いを励ましあってるみたいになるね。それも素敵かな」=
+「お土産を見ていこうよ」=“Let's go take a look at some souvenirs, c'mon.”
+「……なんくるないさー」=“...Issal gunna be well~”
+「も、もしかして、それ買おうとしてるの？」=“W-Wait, are you thinking of buying that?”
+「おかしいかな？」=“Is it weird?”
+「お土産として見たらおかしくないけど、[H名]はもっと落ち着いたものが好みかと思ったから」=“As a souvenir, not really, but I was thinking something a lot more subdued would suit you better, [H名].”
+「お土産ならその土地っぽいものを選ぶのが王道だと思って……」=“Well I thought that I couldn't go wrong by picking up something that just screams 'southern island'...”
+「それは、まあ」=“That's, well, it's not wrong.”
+「……それに『なんくるないさー』っていい言葉だと思う。『大丈夫だよ』ってことでしょ？」=“...Not to mention, I think it's a nice phrase, "issal gunna be well~". It just means "It'll all be alright", no?”
+「大丈夫な気分になりたい時に着るの？」=“Are you gonna wear it when you wanna feel alright?”
+「着なくても、部屋に飾ってもいいんじゃないかな？　元気な気持ちになれるかも」=“I mean, I don't have to wear it, I could just hang it in my room, no? I feel like it'd put me in a better mood just being there.”
+「うん、決めた。私これ買うね」=“Yep, I've decided. I'mma go with this, okay?”
+「……[H名]の話を聞いてたらだんだんよく見えてきた。俺も買おうかな」=“...You know, I think I can kinda see it too, now that you said it. Maybe I'll buy one too.”
+「……ふふ♪　二人おそろいで着てたら、お互いでお互いを励ましあってるみたいになるね。それも素敵かな」=“...Fufuh~♪ If we both wear it together, it'll look like we're both trying to cheer each other on. That'd be just lovely too, I think.”

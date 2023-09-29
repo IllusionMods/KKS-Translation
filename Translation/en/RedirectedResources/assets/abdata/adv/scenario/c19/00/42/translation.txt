@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういう染物は、淡い色から塗っていくのが基本なんだって」=
-//「そう、なんだ……でも私……まだデザインすら決まってないの」=
-//「大分悩んでるね。そんなの難しいかな」=
-//「こういうのにあんまり自信がなくて……」=
-//「見本を見ながらやれば大丈夫だって、ほら、頑張ろう」=
-//「う、うん。頑張ってみるけど……失敗しても笑わないでね？」=
+「こういう染物は、淡い色から塗っていくのが基本なんだって」=“Apparently, you start off these sorts of pieces by doing the light colors first.”
+「そう、なんだ……でも私……まだデザインすら決まってないの」=“I, see... but I... still haven't even picked a design yet.”
+「大分悩んでるね。そんなの難しいかな」=“You're sure taking your time with it. Is it that difficult?”
+「こういうのにあんまり自信がなくて……」=“I'm just not sure about this sorta stuff...”
+「見本を見ながらやれば大丈夫だって、ほら、頑張ろう」=“You'll be fine as long as you follow the sample, c'mon, let's do our best together.”
+「う、うん。頑張ってみるけど……失敗しても笑わないでね？」=“O-Okay. I'll try but... don't laugh if I mess up, okay?”

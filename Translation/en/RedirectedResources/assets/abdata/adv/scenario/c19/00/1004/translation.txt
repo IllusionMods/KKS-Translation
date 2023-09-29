@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと浜辺でゆっくりしようか」=
-//「……遮るものがないからかな？　海からの風が直接、身体に当たってくるね」=
-//「ちょっと風が強いかな。寒くない？」=
-//「気を使ってくれるんだ？　……優しいんだね」=
-//「平気だよ。それどころか、色んなこと意識して暑くなっちゃうくらい……かも」=
-//「意識？」=
-//「……浜辺を散歩なんて、それこそ恋愛小説の１シーンみたいだもの」=
-//（こ、これ、もしかして物語みたいなぐっとくるシーンを期待されてるのかも……）=
-//「どうかしたの？　急にそわそわして」=
-//「い、いやー、キレイだね！　海は雄大だ。まさに命の母」=
-//「？？　うん……」=
-//「ま、まるで命の！　なんだろう……宝石箱？　宝石箱だー！」=
-//「くすくす……何それ」=
-//「意識させちゃったかな？　ごめんね。無理に雰囲気を作ろうとしてくれなくても大丈夫だよ」=
-//「何気ない言葉だって言葉は言葉。心がこもってればちゃんと胸に残るの」=
-//「……心か」=
-//「うん、[P名]君が私にくれたたくさんの飾らない言葉は、みんな宝物だよ。大切にしまってある」=
-//「……好きだよ」=
-//「ありがとう。ふふっ、また宝物をもらっちゃった」=
-//「あはは。えっと、も、もうちょっと歩こうか？」=
-//「うん。私もそうしたい気分」=
+「ちょっと浜辺でゆっくりしようか」=“Let's take it easy at the beach for a bit.”
+「……遮るものがないからかな？　海からの風が直接、身体に当たってくるね」=“...is it because there's nothing to block it? The breeze is coming right at us, isn't it?”
+「ちょっと風が強いかな。寒くない？」=“It is a bit strong, yeah. You feel cold at all?”
+「気を使ってくれるんだ？　……優しいんだね」=“Are you trying to be mindful of me? ...You're really sweet.”
+「平気だよ。それどころか、色んなこと意識して暑くなっちゃうくらい……かも」=“I'm fine. If anything, I'm feeling so sensitive to everything, it might actually feel a bit... hot.”
+「意識？」=“Sensitive?”
+「……浜辺を散歩なんて、それこそ恋愛小説の１シーンみたいだもの」=“...Taking a walk at the beach is exactly the sort of scene that'd show up in a romance novel.”
+（こ、これ、もしかして物語みたいなぐっとくるシーンを期待されてるのかも……）=(H-Hey, she might be expecting something really heart stopping, like something from a novel...)
+「どうかしたの？　急にそわそわして」=“Is something wrong? You're being so restless all of a sudden.”
+「い、いやー、キレイだね！　海は雄大だ。まさに命の母」=“N-No, well~, it's just so pretty! The sea is so sublime. Truly, the mother of all life.”
+「？？　うん……」=“?? I guess...”
+「ま、まるで命の！　なんだろう……宝石箱？　宝石箱だー！」=“I-It's almost like a! What's the word... a jewel box? A jewel box of life, I say~!”
+「くすくす……何それ」=“*giggle*... what's with that?”
+「意識させちゃったかな？　ごめんね。無理に雰囲気を作ろうとしてくれなくても大丈夫だよ」=“Did I make you feel conscious of it? I'm sorry. You don't need to go out of your way to try and create a mood like that.”
+「何気ない言葉だって言葉は言葉。心がこもってればちゃんと胸に残るの」=“Even casual words are still words. As long as you put your heart into them, they'll remain in mine.”
+「……心か」=“...My heart, huh?”
+「うん、[P名]君が私にくれたたくさんの飾らない言葉は、みんな宝物だよ。大切にしまってある」=“Yep, every single one of the unadorned words you've ever said to me, are all my treasure. I've got them all sealed up in here.”
+「……好きだよ」=“...I love you.”
+「ありがとう。ふふっ、また宝物をもらっちゃった」=“Thanks. Fufuh--, I got another set for the treasure box.”
+「あはは。えっと、も、もうちょっと歩こうか？」=“Ahahah. Erhm, w-wanna walk a bit more?”
+「うん。私もそうしたい気分」=“Yeah. I do.”

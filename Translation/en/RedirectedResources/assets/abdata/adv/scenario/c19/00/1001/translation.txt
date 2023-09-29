@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「風が気持ちいいね。ここでちょっと涼んでいこうか？」=
-//「ええ、そうしましょ」=
-//「風情……っていうのかな？　こういう時間って心に染み渡るように感じる」=
-//「おじいちゃんの家で過ごした夏休み、みたいな？」=
-//「[P名]君はこういう夏を過ごしたことがあるの？　……私はちょっと記憶にないかな」=
-//「縁側で優雅に読書なんて、[H名]のイメージにぴったりだけどなぁ」=
-//「……残念だけど遠方の親戚がいないの」=
-//「根本的な問題だったか」=
-//「そう……だから、こういう時間が思い出に重なるとかそういうわけではないんだけど」=
-//「なんだか……うん、どこかでは懐かしさみたいなものを感じてる」=
-//「……ちょっと不思議。こういう気持ちって、どう言葉で表せばいいのかな？」=
-//「うーん。高尚な話題で、ついていけるかイマイチ自信ないけど……そうだな」=
-//「ふふっ、聞かせて」=
-//「こういうのって、誰もが思い浮かべる穏やかな夏の時間なんじゃないかな」=
-//「イメージに自分を重ねてるってこと？　……ふぅん」=
-//「なら、私達のこれは物語の登場人物に自分を重ねる感覚に近いのかな」=
-//（なんとなく答えに満足してくれたっぽいかな……）=
-//「……そっか。過ごした夏じゃなくて、過ごしたかった夏……その考えはすんなり入ってくるかも」=
-//「隣に好きな人もいるしね。まさに、理想的な夏の一時だよ」=
-//「っ、ず、ずるいよ。そんなこと急に言われたら……顔が熱くなっちゃう」=
+「風が気持ちいいね。ここでちょっと涼んでいこうか？」=“The breeze feels really nice, doesn't it? Wanna cool off here a bit?”
+「ええ、そうしましょ」=“Yes, let's do that.”
+「風情……っていうのかな？　こういう時間って心に染み渡るように感じる」=“Elegance... would be the word for it, I guess? I can almost feel my heart just filling up, spending time here.”
+「おじいちゃんの家で過ごした夏休み、みたいな？」=“Like spending summer vacation at your grandparents' place?”
+「[P名]君はこういう夏を過ごしたことがあるの？　……私はちょっと記憶にないかな」=“You've spent summer like this before, [P名]-kun? ...I can't say I have much memory of ever doing so.”
+「縁側で優雅に読書なんて、[H名]のイメージにぴったりだけどなぁ」=“Really? Darn, and I could just see you sitting around and reading a book or several in a veranda like this too~”
+「……残念だけど遠方の親戚がいないの」=“...It's a shame but I don't have any distant relatives like that.”
+「根本的な問題だったか」=“The line of thought was bad from the start, huh?”
+「そう……だから、こういう時間が思い出に重なるとかそういうわけではないんだけど」=“That's right... so, spending time like this doesn't really remind me of anything I've ever done before.”
+「なんだか……うん、どこかでは懐かしさみたいなものを感じてる」=“But somehow... yeah, I do feel some nostalgia, for some reason.”
+「……ちょっと不思議。こういう気持ちって、どう言葉で表せばいいのかな？」=“...This is weird. How do I even start expressing this feeling?”
+「うーん。高尚な話題で、ついていけるかイマイチ自信ないけど……そうだな」=“Nnnn, I'm not sure if this'll fit, what with the topic being such a complex one but... let's see.”
+「ふふっ、聞かせて」=“Fufuh--, I wanna hear it.”
+「こういうのって、誰もが思い浮かべる穏やかな夏の時間なんじゃないかな」=“Isn't this the sort of peaceful summer that just about anyone, no matter who, would call to mind?”
+「イメージに自分を重ねてるってこと？　……ふぅん」=“You mean placing yourself into the idea, rather than thinking back to a memory? ...Hmm.”
+「なら、私達のこれは物語の登場人物に自分を重ねる感覚に近いのかな」=“In that case, would this be similar to us self-inserting ourselves as characters in a story?”
+（なんとなく答えに満足してくれたっぽいかな……）=(I don't really get it but she seems pleased with that answer, I think...)
+「……そっか。過ごした夏じゃなくて、過ごしたかった夏……その考えはすんなり入ってくるかも」=“...I see. Not a summer I ever spent, but one that I would have liked to... I think I can accept it from that angle.”
+「隣に好きな人もいるしね。まさに、理想的な夏の一時だよ」=“Especially since the person we love is right next to us. It couldn't be a better summer than this.”
+「っ、ず、ずるいよ。そんなこと急に言われたら……顔が熱くなっちゃう」=“--! T-That's unfair. You're gonna... make me blush.”

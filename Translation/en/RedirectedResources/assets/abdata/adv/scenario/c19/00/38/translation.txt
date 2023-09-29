@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃ、カヤックに乗ろうか」=
-//「うん、すごく楽しみ。なんだか、冒険小説の主人公になった気分……」=
-//「カヤックは乗れるの？」=
-//「大丈夫だと思う。こういうの何度も頭の中で練習してるから」=
-//「なるほど、それじゃ冒険に出かけようか」=
-//「ふふっ。出発進行だね」=
+「それじゃ、カヤックに乗ろうか」=“Well then, let's ride a kayak today, shall we?”
+「うん、すごく楽しみ。なんだか、冒険小説の主人公になった気分……」=“Yep, I'm super excited. I feel like, the protagonist from an adventure novel...”
+「カヤックは乗れるの？」=“Can you ride a Kayak?”
+「大丈夫だと思う。こういうの何度も頭の中で練習してるから」=“I think I'll be fine, yeah. I've practiced this in my head a whole lot.”
+「なるほど、それじゃ冒険に出かけようか」=“I see, let's set out on our little adventure then.”
+「ふふっ。出発進行だね」=“Fufuh--. Off we go~”

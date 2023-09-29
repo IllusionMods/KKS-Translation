@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ～、オイルってこんなに気持ち良かったんだね」=
-//「ありがとう、最高に気持ち良かった」=
-//「こんなに綺麗に塗ってもらえて、嬉しい」=
-//「どうしたの？　塗らないで終わっちゃうの？」=
+「はぁ～、オイルってこんなに気持ち良かったんだね」=“Haah~, being oiled can feel this nice, huh?”
+「ありがとう、最高に気持ち良かった」=“Thanks, that felt the best.”
+「こんなに綺麗に塗ってもらえて、嬉しい」=“I'm so happy, you did it so nicely for me.”
+「どうしたの？　塗らないで終わっちゃうの？」=“What's wrong? Are you not gonna put it on me?”

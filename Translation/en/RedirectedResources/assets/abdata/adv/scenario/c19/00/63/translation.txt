@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごく良かったよ、なんだか感動しちゃった」=
-//「気持ち良かったよ、ありがとうね」=
-//「綺麗に塗ってくれて、ありがとう」=
-//「塗らないの？　べとべとするのが嫌だったとか？」=
+「すごく良かったよ、なんだか感動しちゃった」=“That was really nice, I felt kinda moved.”
+「気持ち良かったよ、ありがとうね」=“It felt great, thanks.”
+「綺麗に塗ってくれて、ありがとう」=“Thanks, for doing it so nicely.”
+「塗らないの？　べとべとするのが嫌だったとか？」=“You're not gonna do it? Don't feel like getting all icky?”

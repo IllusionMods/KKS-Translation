@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私と……エッチ、したいんだ」=
-//「ダメ、かな？」=
-//「そんな事ない……私達、恋人同士なんだし、全然問題ないよ」=
-//「私の初めて……あなたにもらって欲しい」=
+「私と……エッチ、したいんだ」=“You want... to have sex, with me.”
+「ダメ、かな？」=“I guess it's a, no go?”
+「そんな事ない……私達、恋人同士なんだし、全然問題ないよ」=“Not at all... we're a couple already so, it's not a problem at all.”
+「私の初めて……あなたにもらって欲しい」=“I want you to... take my virginity.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと待って……そういうのって、ちゃんと付き合ってからするものじゃないの？」=
-//「でも、そうじゃない関係だってあると思うんだ」=
-//「う、うん……確かに、そういう関係の事は……私も知ってるけど」=
-//「俺は、きみとそういう関係になりたいんだ……きみがいいんだよ」=
-//「そういう事なら、私も興味はあるから……でも、ちゃんと優しくしてくれないと、だめだからね」=
+「ちょっと待って……そういうのって、ちゃんと付き合ってからするものじゃないの？」=“Hang on a sec... isn't that sort of thing, something you should do after you're in a relationship with someone?”
+「でも、そうじゃない関係だってあると思うんだ」=“I do think that it's still possible to have a sort of relationship that's not quite there either, personally.”
+「う、うん……確かに、そういう関係の事は……私も知ってるけど」=“Y-Yeah... certainly, I know of... relationships like that too.”
+「俺は、きみとそういう関係になりたいんだ……きみがいいんだよ」=“I want to, have that sort of a relationship with you... it's gotta be you.”
+「そういう事なら、私も興味はあるから……でも、ちゃんと優しくしてくれないと、だめだからね」=“I'm interested in, that sort of thing myself too so... but, you gotta be gentle, okay? You really gotta.”

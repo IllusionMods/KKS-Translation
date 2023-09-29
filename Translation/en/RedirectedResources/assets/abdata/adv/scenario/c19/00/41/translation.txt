@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「難しかったけど楽しかったね。次は、どこを冒険しようか？」=
+「難しかったけど楽しかったね。次は、どこを冒険しようか？」=“It was pretty hard but also really fun, wasn't it? What place should we, venture off to next time?”
