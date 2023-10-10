@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……いいわ。あなたは私の大切な彼氏なんだから」=
-//「[H名]さん……」=
-//「彼氏のそういう期待に応えられないなんて、寂しいでしょ」=
-//「でも、初めてだから……優しくお願いね」=
+「……いいわ。あなたは私の大切な彼氏なんだから」=“...Sure. You're my boyfriend and I love you tons afterall.”
+「[H名]さん……」=“[H名]-san...”
+「彼氏のそういう期待に応えられないなんて、寂しいでしょ」=“Who's going to do it for you, if not your girlfriend? That'd just be a sad relationship.”
+「でも、初めてだから……優しくお願いね」=“But, it's my first time so... be gentle with me, okay?”

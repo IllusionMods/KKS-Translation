@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少し食べ過ぎたかしら。それじゃ、またね」=
+「少し食べ過ぎたかしら。それじゃ、またね」=“I think I overate a bit. See you then.”

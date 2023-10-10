@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、卓球台があるし、ちょっとやっていかない？」=
-//「ああーっ、くそ。やられたっ」=
-//「ふぅ……どう？　私だってなかなかやるでしょう？」=
-//「うん。こう言っちゃなんだけど、少し意外だったかも」=
-//「もしかして卓球の経験でもあったのかな？」=
-//「それはご想像にお任せするわ」=
-//「でも、たまには卓球で汗を流すのもいいわね」=
-//「そうだね。俺もそう思うよ」=
-//「よし、負けっぱなしじゃ悔しいからもう一勝負だ！」=
-//「え？　まだ続けるの？　どうしようかしら……」=
-//「どうせなら、このまま気持ちよく終わりたいんだけれど」=
-//「ええっ？　そんな、勝ち逃げなんてずるいよ」=
-//「ふふっ、冗談よ。せっかくだもの、もう少し続けましょう？」=
-//「でも……そうね。このまま続けるのもつまらないし、負けた方が罰ゲームでもしましょうか」=
-//「それは、ますます負けられないな」=
-//「それじゃ行くよ！」=
+「ねぇ、卓球台があるし、ちょっとやっていかない？」=“Hey, there's a ping pong table here and everything, wanna put it to some use?”
+「ああーっ、くそ。やられたっ」=“Aaah, damn. You got me--”
+「ふぅ……どう？　私だってなかなかやるでしょう？」=“Fuh... so, how was it? I'm pretty good, no?”
+「うん。こう言っちゃなんだけど、少し意外だったかも」=“Yeah. Honestly, it was a bit surprising.”
+「もしかして卓球の経験でもあったのかな？」=“Have you played ping pong before, or something?”
+「それはご想像にお任せするわ」=“I'll leave that to your imagination.”
+「でも、たまには卓球で汗を流すのもいいわね」=“But, working up a sweat with some ping pong every so often isn't bad either.”
+「そうだね。俺もそう思うよ」=“Yeah. I think so too.”
+「よし、負けっぱなしじゃ悔しいからもう一勝負だ！」=“Alright, I don't wanna end this on a losing streak so let's go for another round!”
+「え？　まだ続けるの？　どうしようかしら……」=“Eh? More? I don't know...”
+「どうせなら、このまま気持ちよく終わりたいんだけれど」=“I'd prefer to end it on my winning streak, personally.”
+「ええっ？　そんな、勝ち逃げなんてずるいよ」=“Eeh--? That's not fair, quitting while you're ahead is unsportsmanlike.”
+「ふふっ、冗談よ。せっかくだもの、もう少し続けましょう？」=“Fufuh--, I'm joking. We don't really do this much, so let's play more?”
+「でも……そうね。このまま続けるのもつまらないし、負けた方が罰ゲームでもしましょうか」=“But... let's see. Just playing more would be pretty boring, so let's tack on a punishment for the loser.”
+「それは、ますます負けられないな」=“Now I really can't lose.”
+「それじゃ行くよ！」=“Here I go then!”

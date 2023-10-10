@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お土産を買うなら、この店で十分そうだね」=
-//「そうね。かなりの品ぞろえだわ」=
-//「お、なんか珍しいものがある」=
-//「珍しすぎて、何なのかよくわからないわね」=
-//「お土産にしては、奇抜すぎるかな……」=
-//「買うかどうかは後で考えるわ。とりあえず見て回りましょ」=
+「お土産を買うなら、この店で十分そうだね」=“I think if you're just buying souvenirs, you really don't need to go to any other shop.”
+「そうね。かなりの品ぞろえだわ」=“Yeah. They've quite the collection.”
+「お、なんか珍しいものがある」=“Oh, that's pretty unique.”
+「珍しすぎて、何なのかよくわからないわね」=“It's so unique, you can't even tell what it is.”
+「お土産にしては、奇抜すぎるかな……」=“I wonder if it'd be a bit too eccentric as a souvenir...”
+「買うかどうかは後で考えるわ。とりあえず見て回りましょ」=“I'll think about whether to buy it or not later. For now, let's look around the shop.”

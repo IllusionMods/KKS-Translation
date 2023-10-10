@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なかなか良い音ね。華やかだし、なんだか心に染み入ってくる感じがするわ」=
-//「そうだね。この音も言い伝えの一因になっているのかな？」=
-//「この鐘を鳴らしたら必ず結ばれる……ね」=
-//「そもそも、この鐘を一緒に鳴らそうとしている時点で相思相愛だと思うんだけど」=
-//「必ず結ばれる――だなんて、さすがに言いすぎじゃないかしら？」=
-//「でも、それくらいの方がロマンがあるんじゃないかな？」=
-//「相思相愛だったとしても、家の都合とかで結ばれない人もいるかもしれないし」=
-//「確かにそういうパターンもありそうね。事情は人それぞれだもの」=
-//「でも、嬉しいな」=
-//「……嬉しい？　どうして？」=
-//「だってさ、[H名]さんはこの鐘を鳴らす時点で相思相愛だって思っているんでしょ？」=
-//「つまり俺との仲をそう思ってくれてるというわけで……」=
-//「っ……！？　別に、私はそんなこと――」=
-//「まったく思ってない？」=
-//「……そんなことも、ないけど。は、恥ずかしいこと、言わないで」=
-//「ごめん。でも、嬉しかったのは事実だからさ」=
-//「良かったら、もう一度鐘を鳴らしてみようよ」=
-//「……しかたないわね。あなたが鳴らしたいなら、私も付き合ってあげるわ」=
-//「ありがとう、[H名]さん。好きだよ」=
-//「ま、また、そんな恥ずかしいこと言って……！」=
+「なかなか良い音ね。華やかだし、なんだか心に染み入ってくる感じがするわ」=“That's a pretty nice sound, isn't it? I can feel it seeping into my heart, somehow.”
+「そうだね。この音も言い伝えの一因になっているのかな？」=“Yeah. I wonder if this sound's part of the legend too?”
+「この鐘を鳴らしたら必ず結ばれる……ね」=“About the people who ring it definitely getting tied together someday... huh?”
+「そもそも、この鐘を一緒に鳴らそうとしている時点で相思相愛だと思うんだけど」=“To begin with, I feel like by the time you're ringing this bell together, your love is probably already pretty rock solid, you know?”
+「必ず結ばれる――だなんて、さすがに言いすぎじゃないかしら？」=“But marriage--- isn't that going a bit too far?”
+「でも、それくらいの方がロマンがあるんじゃないかな？」=“Isn't that what makes it romantic in the first place?”
+「相思相愛だったとしても、家の都合とかで結ばれない人もいるかもしれないし」=“You never know, even if you love each other, you could end up not marrying due to circumstances or family issues.”
+「確かにそういうパターンもありそうね。事情は人それぞれだもの」=“That doesn't sound impossible, no. Especially since everyone's got their own issues.”
+「でも、嬉しいな」=“But, I'm pretty happy.”
+「……嬉しい？　どうして？」=“...Happy? Why?”
+「だってさ、[H名]さんはこの鐘を鳴らす時点で相思相愛だって思っているんでしょ？」=“I mean, you think that by the time you ring this bell, your relationship's pretty rock solid, no?”
+「つまり俺との仲をそう思ってくれてるというわけで……」=“So basically you think of our relationship that way...”
+「っ……！？　別に、私はそんなこと――」=“--...?! I didn't, say I think that--”
+「まったく思ってない？」=“You don't? Not even a bit?”
+「……そんなことも、ないけど。は、恥ずかしいこと、言わないで」=“...I mean I, guess a bit. I-It's embarrassing, don't say it.”
+「ごめん。でも、嬉しかったのは事実だからさ」=“Sorry. But it did make me happy, that's the truth.”
+「良かったら、もう一度鐘を鳴らしてみようよ」=“Let's try ringing it once more, if you're up for it.”
+「……しかたないわね。あなたが鳴らしたいなら、私も付き合ってあげるわ」=“...It can't be helped. I'll do it, if you want to do it so badly.”
+「ありがとう、[H名]さん。好きだよ」=“Thanks, [H名]-san. I love you.”
+「ま、また、そんな恥ずかしいこと言って……！」=“S-Stop with the, embarrassing stuff...!”

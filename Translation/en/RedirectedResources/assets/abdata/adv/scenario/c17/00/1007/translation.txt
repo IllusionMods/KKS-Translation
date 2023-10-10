@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、[H名]さんって魚が好きだったりするのかな？」=
-//「結構、夢中になって水槽の中を見ているよね」=
-//「そうね、魚を鑑賞するのは嫌いではないわ」=
-//「もちろん食べるのはもっと好きだけれども」=
-//「わかる。時々美味しそうな魚が泳いでいたりするよね」=
-//「俺も秋刀魚が泳いでいたら、多分そんなことを考えると思うし」=
-//「そうなの？　あなたって思っていたよりも食いしん坊なのね」=
-//「そうはいっても、食べたことのない魚の場合だとそんなことは思わないよ」=
-//「それで、[H名]さんは鑑賞する場合はどの魚が好き？」=
-//「そうね……強いて言えば深海魚かしら？」=
-//「おかしな姿の子も多いけど、それ以上にカラフルでしょう？　それが綺麗だと思って」=
-//「それはわかるかも。深海魚って面白いよね」=
-//「でも、ここら辺は回遊魚とか普通の魚が多いし……深海魚の水槽はあっちかな」=
-//「先に深海魚の水槽に行ってみようか？」=
-//「……いえ、遠慮しておくわ」=
-//「えっ、どうして？　どうせなら見たいものを見た方がいいんじゃない？」=
-//「いいのよ。こうして順番に見ていくのも楽しいから」=
-//「何より……。あなたと、一緒だもの」=
-//「[H名]さん……」=
-//「さ、次の水槽を見てみましょう？　サメを近くで見るのなんて初めてだわ」=
-//「うん、そうだね！　さあ、次へ行こうか！」=
+「ねぇ、[H名]さんって魚が好きだったりするのかな？」=“Hey, do you like fish, [H名]-san?”
+「結構、夢中になって水槽の中を見ているよね」=“I'm asking since you're so absorbed in looking at that tank.”
+「そうね、魚を鑑賞するのは嫌いではないわ」=“I suppose, I don't hate viewing fish, for sure.”
+「もちろん食べるのはもっと好きだけれども」=“Of course, I enjoy eating them a lot more.”
+「わかる。時々美味しそうな魚が泳いでいたりするよね」=“I feel you. Sometimes some really tasty looking fish swim by, don't they?”
+「俺も秋刀魚が泳いでいたら、多分そんなことを考えると思うし」=“If I saw a mackerel pike swimming by, I'd probably think the same thing.”
+「そうなの？　あなたって思っていたよりも食いしん坊なのね」=“Really? You're more of a glutton than I thought.”
+「そうはいっても、食べたことのない魚の場合だとそんなことは思わないよ」=“Maybe but, if it's a fish I've never eaten before, I wouldn't think that way.”
+「それで、[H名]さんは鑑賞する場合はどの魚が好き？」=“So then, which fish do you like looking at, [H名]? Not eating, I mean.”
+「そうね……強いて言えば深海魚かしら？」=“Let's see... I suppose deep sea fish, if I had to say?”
+「おかしな姿の子も多いけど、それ以上にカラフルでしょう？　それが綺麗だと思って」=“A lot of them have pretty weird shapes and, they're also very colorful, no? I think that makes them very pretty.”
+「それはわかるかも。深海魚って面白いよね」=“I think I can understand. They're pretty interesting, aren't they?”
+「でも、ここら辺は回遊魚とか普通の魚が多いし……深海魚の水槽はあっちかな」=“But, this part of the aquarium's filled with mostly migratory and regular fish... I think the deep sea ones are over there.”
+「先に深海魚の水槽に行ってみようか？」=“Want to go look at them first?”
+「……いえ、遠慮しておくわ」=“...No, I'll hold off.”
+「えっ、どうして？　どうせなら見たいものを見た方がいいんじゃない？」=“Eh--, why? We might as well go look at the ones you wanna look at first, no?”
+「いいのよ。こうして順番に見ていくのも楽しいから」=“It's fine. It's fun to look at them one by one in order like this too.”
+「何より……。あなたと、一緒だもの」=“More than that... We're, on a date.”
+「[H名]さん……」=“[H名]-san...”
+「さ、次の水槽を見てみましょう？　サメを近くで見るのなんて初めてだわ」=“Now then, let's go to the next one? It's going to be my first time looking at a shark up close.”
+「うん、そうだね！　さあ、次へ行こうか！」=“Yeah, sounds good! Let's go to the next one!”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こ、恋人でもない相手に、よくそんな事が言えるわね」=
-//「でも俺は本気なんだ、本気できみとシたいんだ」=
-//「……本気だったら、なんでも許されるわけじゃないのよ？」=
-//「わかってる……でも、どうしてもきみと……」=
-//「はぁ……そこまで言うなら、いいわ。その代わり優しくしてくれないと嫌よ」=
+「こ、恋人でもない相手に、よくそんな事が言えるわね」=“I-I'm surprised you have the stones to bring that up, to a girl you're not even dating.”
+「でも俺は本気なんだ、本気できみとシたいんだ」=“But I'm serious, I want to seriously do it with you.”
+「……本気だったら、なんでも許されるわけじゃないのよ？」=“...You're not going to get me to say yes to anything and everything just because you're serious, you know?”
+「わかってる……でも、どうしてもきみと……」=“I know that... but, I just really want you...”
+「はぁ……そこまで言うなら、いいわ。その代わり優しくしてくれないと嫌よ」=“Haah... fine then, if you really want to. But in return you have to be gentle, else I'll get mad.”

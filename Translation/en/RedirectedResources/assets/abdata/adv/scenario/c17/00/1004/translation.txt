@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと波打ち際を歩こうか」=
-//「……何だか不思議な気分ね」=
-「どうかしたの？」=“What's the matter?”
-//「南の島の海辺の波打ち際を、恋人と二人で歩いてるってシチュエーションのことよ」=
-//「こんな風にロマンチックなデートをできるとは思ってなかったから」=
-「どうして？」=“Why's that?”
-//「あなたも知っての通り私はこんな性格でしょう？」=
-//「ひねくれ者なんだから、そういうのも仕方ないじゃない」=
-//「でも、今日の[H名]さんはずいぶん素直だよ」=
-//「それにそんなところも含めて俺は[H名]さんを好きになったんだ」=
-//「す、好き、ってっ……」=
-//「ロマンチックなデートにも何度だって誘うよ」=
-//「……ばか」=
-//「別に、私はこんなデートをしたいだなんて一言だって言ってないわよ」=
-//「言ってなくても、心の中ではしたいって思っていたんでしょ？」=
-//「好きな人の性格くらいわかってるつもりだよ」=
-//「…………もう」=
-//「そんなこと言ったって、何も出てこないんだから」=
-//「何も……か。せめて、繋ぐのに手を出してくれたりはしないかな？」=
-//「知らないわよ、そんなのっ」=
-//「繋ぎたかったら……勝手に、繋げばいいじゃない……」=
+「ちょっと波打ち際を歩こうか」=“Let's walk along the shore a bit.”
+「……何だか不思議な気分ね」=“...Feels pretty unbelievable, overall.”
+「どうかしたの？」=“Hm? What does?”
+「南の島の海辺の波打ち際を、恋人と二人で歩いてるってシチュエーションのことよ」=“I'm talking about this situation, us walking together along the seashore like this.”
+「こんな風にロマンチックなデートをできるとは思ってなかったから」=“I never thought that we'd go on a date this romantic together.”
+「どうして？」=“Why?”
+「あなたも知っての通り私はこんな性格でしょう？」=“I mean, you know how I am, no?”
+「ひねくれ者なんだから、そういうのも仕方ないじゃない」=“I can't help it, I'm just a sour person.”
+「でも、今日の[H名]さんはずいぶん素直だよ」=“But, one thing's for sure, you're being pretty darn honest today.”
+「それにそんなところも含めて俺は[H名]さんを好きになったんだ」=“Not to mention, I fell in love with you as a whole, even that part of you.”
+「す、好き、ってっ……」=“L-Love...”
+「ロマンチックなデートにも何度だって誘うよ」=“And I'll keep taking you on these romantic dates too, don't worry.”
+「……ばか」=“...Dummy.”
+「別に、私はこんなデートをしたいだなんて一言だって言ってないわよ」=“Not like I, ever asked you to do that, not even once.”
+「言ってなくても、心の中ではしたいって思っていたんでしょ？」=“You didn't but, in your heart you wanted me to, right?”
+「好きな人の性格くらいわかってるつもりだよ」=“If I couldn't tell what you really wanted, I wouldn't have the grounds to say I love you.”
+「…………もう」=“...Jeez.”
+「そんなこと言ったって、何も出てこないんだから」=“How am I supposed to respond to that? Now nothing's coming out.”
+「何も……か。せめて、繋ぐのに手を出してくれたりはしないかな？」=“Nothing... huh? How about your hand, can you make that come out for me? I wanna hold it.”
+「知らないわよ、そんなのっ」=“Don't ask me, dummy--”
+「繋ぎたかったら……勝手に、繋げばいいじゃない……」=“If you wanna hold my hand... can't you just do it without asking me...”

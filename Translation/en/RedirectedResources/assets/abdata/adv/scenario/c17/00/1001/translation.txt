@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「せっかくだし、少し風に当たっていこうか？」=
-//「ん～……気持ちいい。ここって、思っていたよりも良い風が吹き抜けていくのね」=
-//「歩いて火照っていた体に心地よくて、なんだかホッとするわ」=
-//「わかるよ。潮風だけど、南国の風って特有の気持ちよさがあるよね」=
-//「それに、[H名]さんと２人きりでのんびりできるのも嬉しいな」=
-//「ふふっ。恋人同士なんだし、いつでもできるじゃない」=
-//「でも……そうね。こんな、民宿の縁側というシチュエーションも悪くないわ」=
-//「しなびたお爺さんやお婆さんになった気分が味わえるもの」=
-//「お爺さん、お婆さんって、そんなひねくれたこと言わなくても……って、それってもしかして」=
-//「そんな年齢になるまでずっと一緒にいたいってこと？」=
-//「……っ！？　そ、そんなこと、一言も言ってないじゃない」=
-//「でも、悪くないって言ったよね？」=
-//「それはそうだけど……。もう、意地悪ね、あなたは」=
-//「その意地悪なところは、どれだけ歳を取っても変わらないんじゃないかしら」=
-//「ねぇ、[P名]お爺さん？」=
-//「いやいや、そんなことはないよ、[H名]お婆さん」=
-//「ふふっ、もう……。でも本当にお爺さんお婆さんになるまで一緒にいられるのかしら」=
-//「そのときは、改めてこうして縁側で涼むのも良いかもしれないわね」=
+「せっかくだし、少し風に当たっていこうか？」=“Since we're here, want to stand in the breeze a bit?”
+「ん～……気持ちいい。ここって、思っていたよりも良い風が吹き抜けていくのね」=“Nn~... so good. I really didn't expect a breeze this nice to be blowing through here.”
+「歩いて火照っていた体に心地よくて、なんだかホッとするわ」=“We've been walking so much, it feels so nice against my hot and tired body, I feel my mind kinda melting.”
+「わかるよ。潮風だけど、南国の風って特有の気持ちよさがあるよね」=“I feel you. It's a salty breeze but, southern wind like this has its own charm, doesn't it?”
+「それに、[H名]さんと２人きりでのんびりできるのも嬉しいな」=“Not to mention, being able to spend time alone together like this with you is a big bonus too.”
+「ふふっ。恋人同士なんだし、いつでもできるじゃない」=“Fufuh--. We're a couple, we can do that anytime.”
+「でも……そうね。こんな、民宿の縁側というシチュエーションも悪くないわ」=“But... yeah. Standing around in the lodgehouse's veranda like this isn't bad either.”
+「しなびたお爺さんやお婆さんになった気分が味わえるもの」=“Especially since we can savour what it feels like to be some ancient old farts.”
+「お爺さん、お婆さんって、そんなひねくれたこと言わなくても……って、それってもしかして」=“Ancient old farts, now that's just... no, wait a minute.”
+「そんな年齢になるまでずっと一緒にいたいってこと？」=“You mean that you wanna stay together until we're that old?”
+「……っ！？　そ、そんなこと、一言も言ってないじゃない」=“...--?! W-When did I say that? When?”
+「でも、悪くないって言ったよね？」=“But, you did say it's not bad, no?”
+「それはそうだけど……。もう、意地悪ね、あなたは」=“I mean, I did but... Jeez, you're a bully, you know that?”
+「その意地悪なところは、どれだけ歳を取っても変わらないんじゃないかしら」=“Sadly, I'm stuck with that bully side of you until we die, as it's not gonna go away.”
+「ねぇ、[P名]お爺さん？」=“Is it, [P名]-ojii-san?”
+「いやいや、そんなことはないよ、[H名]お婆さん」=“No no, it just might, [H名]-obaa-san.”
+「ふふっ、もう……。でも本当にお爺さんお婆さんになるまで一緒にいられるのかしら」=“Fufuh--, jeez... But, I wonder if we'll really be able to stay together until we're both old bones.”
+「そのときは、改めてこうして縁側で涼むのも良いかもしれないわね」=“If we can, it might be nice to cool off in a veranda like this together at that time too.”

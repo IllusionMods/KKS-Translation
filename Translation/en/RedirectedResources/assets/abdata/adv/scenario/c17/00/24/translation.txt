@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「もういいの？　私は構わないけれど、その、あなたがまだ……」=“Was that enough? I don't mind, but you still...”
+「もういいの？　私は構わないけれど、その、あなたがまだ……」=“You sure? I don't mind, but uhm, you still haven't...”

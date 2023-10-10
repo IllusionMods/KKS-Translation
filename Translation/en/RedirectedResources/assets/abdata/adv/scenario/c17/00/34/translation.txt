@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お土産はまた今度にするわ、それじゃ、また会いましょう」=
+「お土産はまた今度にするわ、それじゃ、また会いましょう」=“I'll buy souvenirs next time. Let's see each other again soon.”

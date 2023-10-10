@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「マイナスイオンがいっぱい出てるんだろうなぁ」=
-//「マイナスイオンなんて、本当にあるのかしら」=
-//「あるはずだよ。だって滝の傍ってすごく気分がいいし」=
-//「気の所為とまではいわないけど、それこそ気分の問題でしょ」=
-//「そうだよ、だから何か気分が良くなる物質が出てるってことだよ」=
-//「……かなり暴論な気がするわね」=
+「マイナスイオンがいっぱい出てるんだろうなぁ」=“I bet it's shooting out lots of negative ions right now.”
+「マイナスイオンなんて、本当にあるのかしら」=“Do negative ions really exist, I wonder?”
+「あるはずだよ。だって滝の傍ってすごく気分がいいし」=“They should. I mean, it feels so nice next to it.”
+「気の所為とまではいわないけど、それこそ気分の問題でしょ」=“I won't say it's just your imagination but, that's just your mood at work, no?”
+「そうだよ、だから何か気分が良くなる物質が出てるってことだよ」=“That's right, and that means there must be something that's making my mood better.”
+「……かなり暴論な気がするわね」=“...That's pretty irrational but okay.”

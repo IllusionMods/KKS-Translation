@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「バナナボートの方が良かったんじゃない？」=
-//「いいのよ、シュノーケリングの方が楽しいもの」=
-//「もしかして、苦手だった？」=
-//「別に苦手じゃないわ。……ただ、ふとした拍子に、しがみついちゃいそうなのが嫌なのよ」=
-//「俺は思いっきりしがみ付いて欲しいけどなぁ」=
-//「はぁ……そう言うと思った。ほら、いつまでもバナナボートを見てないで潜りましょ」=
+「バナナボートの方が良かったんじゃない？」=“Shouldn't we have gone banana boating instead?”
+「いいのよ、シュノーケリングの方が楽しいもの」=“It's fine, snorkeling is much more fun.”
+「もしかして、苦手だった？」=“Do you not like banana boating, maybe?”
+「別に苦手じゃないわ。……ただ、ふとした拍子に、しがみついちゃいそうなのが嫌なのよ」=“It's not like that. ...It's just, I don't like the idea of needing to cling onto you to keep my balance.”
+「俺は思いっきりしがみ付いて欲しいけどなぁ」=“I wouldn't really mind that though~. If anything, I'd want you to do that.”
+「はぁ……そう言うと思った。ほら、いつまでもバナナボートを見てないで潜りましょ」=“Haah... I knew you'd say that. Come on, don't just stare at the banana boat, we're going diving.”

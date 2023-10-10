@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういう所って、こじんまりしてるけど逆に味があっていいよね」=
-//「利用してるのも、地元の人が多いみたいね」=
-//「そして何より、美味しいっていうのが一番だよ」=
-//「そうね。どの料理もいい味してるわ」=
-//「もう少し、何か食べようかな」=
-//「私も、どうしようかしら……なんだか迷っちゃうわ」=
+「こういう所って、こじんまりしてるけど逆に味があっていいよね」=“Hole in the wall places like these are tiny yet that just makes the flavour richer somehow, doesn't it?”
+「利用してるのも、地元の人が多いみたいね」=“Seems like it's mostly locals that come here too.”
+「そして何より、美味しいっていうのが一番だよ」=“And more than anything else, it's delicious.”
+「そうね。どの料理もいい味してるわ」=“Yeah. All of these taste good.”
+「もう少し、何か食べようかな」=“Maybe I'll order some more.”
+「私も、どうしようかしら……なんだか迷っちゃうわ」=“Same here, what do I get... it's hard to decide.”

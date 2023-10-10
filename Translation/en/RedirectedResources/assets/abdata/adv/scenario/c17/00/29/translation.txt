@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……私とエッチしたいって、顔に書いてあるわ」=
-//「うん。ダメかな？」=
-//「ダメじゃない……私も、期待してたの」=
-//「それじゃあ、お互い合意って事で……」=
-//「そうね、一緒にいい時間にしましょ」=
+「……私とエッチしたいって、顔に書いてあるわ」=“...It's written on your face, that you wanna have sex.”
+「うん。ダメかな？」=“Yep, I do. Can't we?”
+「ダメじゃない……私も、期待してたの」=“We can... I was hoping for it too.”
+「それじゃあ、お互い合意って事で……」=“Well then, since we both consent...”
+「そうね、一緒にいい時間にしましょ」=“Yeah, let's spend some nice time together.”

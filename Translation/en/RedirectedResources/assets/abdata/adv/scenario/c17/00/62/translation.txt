@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さて、オイル塗りは俺に任せてもらおうかな」=
-//「すごい自信ね……なら、前もきっちり塗ってもらおうかしら」=
-//「前も？　やっていいなら、思いっきり塗るけど？」=
-//「きちんとして……ちゃんとオイルを塗ってくれないならこの話は無しよ」=
-//「大丈夫、俺はオイル塗るの得意だから、心配しないでいいよ」=
+「さて、オイル塗りは俺に任せてもらおうかな」=“Now then, leave the oil to me.”
+「すごい自信ね……なら、前もきっちり塗ってもらおうかしら」=“Someone's pretty confident... in that case, I suppose I'll have you do the front too.”
+「前も？　やっていいなら、思いっきり塗るけど？」=“Your chest? I'm not gonna go easy on it, you know?”
+「きちんとして……ちゃんとオイルを塗ってくれないならこの話は無しよ」=“Do it properly... don't make me take it back, rub the oil in properly.”
+「大丈夫、俺はオイル塗るの得意だから、心配しないでいいよ」=“Don't worry, I'm really good at it, so you don't need to worry.”
