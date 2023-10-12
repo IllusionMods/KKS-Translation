@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお店を見てみようよ」=
-//「なぁ……これ、似合うと思う？」=
-//「うーん、ちょっと派手かな？　でもこの地域にピッタリって感じだね」=
-//「そうそう、ピッタリだよな。いかにも暑い国のデザインって感じでさ」=
-//「それ、買うの？」=
-//「ああ、もちろん。んーっと、サイズはこれで合うかな？」=
-//「サイズ？　ほら、ここに書いてあるよ」=
-//「じゃなくって、おまえのサイズだよ。これおまえにピッタリか？」=
-//「えっ？　俺に似合うかどうかの話だったの？」=
-//「そういうこと。まあ、別にすぐ着なくていいよ。旅の思い出として、持ち帰ってくれればそれでオッケーだ」=
-//「ふ～ん……じゃ、俺も[H名]の分を買うよ。これでペアルックだね」=
-//「ぺ、ペアルック！？　そういうのナシだ、やっぱ買うの止めよう」=
-//「それは残念」=
+「ちょっとお店を見てみようよ」=“Let's go look at the shop a bit, c'mon.”
+「なぁ……これ、似合うと思う？」=“Hey... do you think this'd look good?”
+「うーん、ちょっと派手かな？　でもこの地域にピッタリって感じだね」=“Nnnn, a bit too gaudy, I think? But I feel like it'd look perfect while we're here.”
+「そうそう、ピッタリだよな。いかにも暑い国のデザインって感じでさ」=“Yepyep, it would, wouldn't it? It really is a summer country design.”
+「それ、買うの？」=“You gonna buy that?”
+「ああ、もちろん。んーっと、サイズはこれで合うかな？」=“Yeah, of course. And hmm, is this about the right size?”
+「サイズ？　ほら、ここに書いてあるよ」=“The size? Look, it's written here.”
+「じゃなくって、おまえのサイズだよ。これおまえにピッタリか？」=“Not mine, yours. This'd fit you, I think?”
+「えっ？　俺に似合うかどうかの話だったの？」=“Eh--? We were talking about whether it'd fit me?”
+「そういうこと。まあ、別にすぐ着なくていいよ。旅の思い出として、持ち帰ってくれればそれでオッケーだ」=“Exactly. Well, it's not like you have to wear it right now or anything. Just take it home with you and keep it as a memory of this place.”
+「ふ～ん……じゃ、俺も[H名]の分を買うよ。これでペアルックだね」=“Hmm~... then I'll buy one for you too. With this, we'll match.”
+「ぺ、ペアルック！？　そういうのナシだ、やっぱ買うの止めよう」=“M-Matching shirts?! Not happening, yeah I don't think I'm buying this.”
+「それは残念」=“That's a shame.”

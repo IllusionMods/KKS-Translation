@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁぁ……綺麗だな。見てるだけで、いい気分になれそうだ」=
-//「うん、綺麗だね。あ、この水槽はこの辺りの近海を再現してるんだって」=
-//「え？　じゃあ、わざわざ水槽に入れなくてもいいんじゃないか？」=
-//「だよね、そこらの海で泳げばいいんだし」=
-//「でもまぁ、泳ぐのが好きじゃなくて、魚を見るのが好きって人もいるだろうしな」=
-//「そうだね。そういう人がアクアリウムにお金をかけるのかも」=
-//「あれはいいな。ただ始めるハードルが高いんだよな。お金やら部屋の大きさやら設備やら色々かかるし」=
-//「たしかに……凝ったやつはお金がないと厳しそうだ」=
-//「まぁ、海が見たくなったら、またここに来ればいいんじゃないか？」=
-//「そうだね。それがいいよ。ここは楽しいし」=
-//「……金も時間も気力もなければ、近所の水族館にいくってのもありだな」=
-//「俺とのデートなら、それでもいいよ」=
-//「ああ、もちろんだ。水族館だけじゃなく、いろんなところに二人で行かないとな」=
-//「うん、楽しみにしてるよ」=
-//「さあ、他の場所も見てみるとするか。深海コーナーの薄暗い感じ、あたし好きなんだよな――」=
+「はぁぁ……綺麗だな。見てるだけで、いい気分になれそうだ」=“Haah... it's so pretty. Just looking at it is putting me in a good mood.”
+「うん、綺麗だね。あ、この水槽はこの辺りの近海を再現してるんだって」=“Yeah, it sure is. Ah, apparently this tank's supposed to be a reproduction of the sea from around here.”
+「え？　じゃあ、わざわざ水槽に入れなくてもいいんじゃないか？」=“Eh? Did they really have to go through the effort to do that? When it's right outside?”
+「だよね、そこらの海で泳げばいいんだし」=“Yeah, you could just go for a swim in there.”
+「でもまぁ、泳ぐのが好きじゃなくて、魚を見るのが好きって人もいるだろうしな」=“But well, I guess there's probably people out there who don't like swimming all that much, but like looking at fish still.”
+「そうだね。そういう人がアクアリウムにお金をかけるのかも」=“Yeah. Maybe those are the people that spend the most money on aquariums.”
+「あれはいいな。ただ始めるハードルが高いんだよな。お金やら部屋の大きさやら設備やら色々かかるし」=“That's nice. It takes a lot to set it up though, doesn't it? Not just money, you need a big space, you need equipment, people to manage it, et cetra.”
+「たしかに……凝ったやつはお金がないと厳しそうだ」=“For sure... Stuff like that would be hard to do without money.”
+「まぁ、海が見たくなったら、またここに来ればいいんじゃないか？」=“Well, if we feel like looking at the sea, I guess we could just come here again?”
+「そうだね。それがいいよ。ここは楽しいし」=“Yeah. That'd be perfect. It's really fun here too, afterall.”
+「……金も時間も気力もなければ、近所の水族館にいくってのもありだな」=“...If we don't have the time, the money or even the energy, we could just go to the neighbourhood aquarium too.”
+「俺とのデートなら、それでもいいよ」=“I'd be fine with that too, if it's a date.”
+「ああ、もちろんだ。水族館だけじゃなく、いろんなところに二人で行かないとな」=“Yeah, of course. We gotta go check out all sorts of places together, not just aquariums.”
+「うん、楽しみにしてるよ」=“Yeah, I'm looking forward to it.”
+「さあ、他の場所も見てみるとするか。深海コーナーの薄暗い感じ、あたし好きなんだよな――」=“Now then, guess we can go look at the other tanks too. I really like the gloomy aura around the deep sea corner, you know~?”

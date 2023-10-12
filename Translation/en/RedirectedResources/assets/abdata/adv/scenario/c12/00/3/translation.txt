@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……俺も、好きだよ」=
-//「そっか、ダメかぁ……いや、分かってたんだ……って、あれ……？」=
-//「も、もしかして……ＯＫしてくれたのか？」=
-//「うん。ちゃんと好きって言ったはずだけど」=
-//「聞き間違いじゃなかったんだな！？　てっきりダメだと思ってたから、幻聴だとばかり……」=
-//「はは……勇気を出してよかったぁ」=
+「……俺も、好きだよ」=“...I, love you too.”
+「そっか、ダメかぁ……いや、分かってたんだ……って、あれ……？」=“I see, you can't, huh... no, I knew it... wuh, huh...?”
+「も、もしかして……ＯＫしてくれたのか？」=“D-Did you... just say yes to me?”
+「うん。ちゃんと好きって言ったはずだけど」=“Yeah. It wasn't a yes though, it was an "I love you too".”
+「聞き間違いじゃなかったんだな！？　てっきりダメだと思ってたから、幻聴だとばかり……」=“I didn't mishear you, huh!? I was so sure you'd say no, that I thought I was hallucinating it...”
+「はは……勇気を出してよかったぁ」=“Hahah... thank god I summoned the courage to ask~”

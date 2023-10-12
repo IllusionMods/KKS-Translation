@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ごちそうさま。ふぅ……お腹がいっぱいになった後って、眠くなるよな」=
+「ごちそうさま。ふぅ……お腹がいっぱいになった後って、眠くなるよな」=“That was awesome. Fuuh... man, now I feel like napping.”

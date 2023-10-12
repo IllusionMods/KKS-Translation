@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ま、まぁ……何をするつもりで誘ったかは分かってるから……お前のタイミングで始めてくれ」=
-//「って、いきなりかよ！？　言った傍からって、がっつき過ぎだ…………求められて、悪い気はしないけどさ」=
+「ま、まぁ……何をするつもりで誘ったかは分かってるから……お前のタイミングで始めてくれ」=“W-Well... I know why you brought me here so... start whenever you feel like it.”
+「って、いきなりかよ！？　言った傍からって、がっつき過ぎだ…………求められて、悪い気はしないけどさ」=“Wuh, right away!? I know I said it was okay but, you're being too greedy... not that it feels bad, to be wanted.”

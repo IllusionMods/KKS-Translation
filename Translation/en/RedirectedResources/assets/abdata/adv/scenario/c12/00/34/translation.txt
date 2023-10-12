@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「時間を忘れて、ぼーっと眺めるのも悪くないな」=
+「時間を忘れて、ぼーっと眺めるのも悪くないな」=“Sometimes just forgetting the time and staring out ain't bad either.”

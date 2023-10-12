@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「友達へのお土産を選びたいんだけど、なにか珍しいものはないもんかね」=
-//「名産品なんて大体珍しいと思うけど？」=
-//「その中でも特にってこと。なんていうか……『こんなものを見つけるなんてさすがだ！』って関心される感じのやつ」=
-//「う～ん……じゃあ、お菓子じゃなくて他のものに目を付けたらどう？　女の子に贈るなら美容品とかさ」=
-//「フェイスマスクとかアロマとか色々置いてあるみたいだよ」=
-//「なるほどね、それはアリだな！」=
+「友達へのお土産を選びたいんだけど、なにか珍しいものはないもんかね」=“I want to pick out some souvenirs for my friends, isn't there anything nice and unique here that I can get?”
+「名産品なんて大体珍しいと思うけど？」=“I'm pretty sure most local products would fit the 'unique' part of that though?”
+「その中でも特にってこと。なんていうか……『こんなものを見つけるなんてさすがだ！』って関心される感じのやつ」=“I want something even more special from between that. Something like... something that makes them go "I'm surprised you were able to find something like this!”
+「う～ん……じゃあ、お菓子じゃなくて他のものに目を付けたらどう？　女の子に贈るなら美容品とかさ」=“Nnn~... then, how about getting something other than sweets? If they're for girls, you could go with cosmetics.”
+「フェイスマスクとかアロマとか色々置いてあるみたいだよ」=“I'm pretty sure they sell all kinds of stuff, stuff like face masks and aroma oils and whatnot.”
+「なるほどね、それはアリだな！」=“I see, that could work!”

@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここでちょっと涼んでいこうよ」=
-//「ふぅ……ここはいい風が吹くね。気持ちいい……」=
-//「ああ、絶好のスポットだ。それにしても、この島は本当に暑いな……」=
-//「ただ歩いているだけで重労働してるみたいに感じるよ」=
-//「あー……うん、汗をかくと、すごくだるくなっちゃうよね」=
-//「まあ、そのおかげで、毎日ぐっすり眠れるんだけど」=
-//「でも疲れは中々抜けないんだよな～……寝方が悪いのかな？」=
-//「どうなんだろう？　寝具のせいかもしれないし、冷房のせいかもしれないし……」=
-//「まだ身体が、この気候に慣れていないってだけかも」=
-//「……といっても、慣れる頃には旅行が終わってるんだろうけどな」=
-//「ここ、いいところだから、離れたくないね」=
-//「ああ……いっそのこと、永住しちゃうか？」=
-//「……なんてな。せっかくの旅行だから、思い残すことのないように楽しみたいもんだ」=
-//「うん、同じ気持ちだよ。最後までみっちりと楽しもうね」=
-//「だな。遊び尽くしてやるから、覚悟しろよ？」=
-//「うん……って、やばアイス溶けかけてる」=
-//「わわ、ちょっとゆっくりしすぎたな。急いで食べよう」=
+「ここでちょっと涼んでいこうよ」=“Let's take it easy here for a bit.”
+「ふぅ……ここはいい風が吹くね。気持ちいい……」=“Fuuh... pretty nice breeze, this. So nice...”
+「ああ、絶好のスポットだ。それにしても、この島は本当に暑いな……」=“Yeah, it's the perfect relaxing spot. Still, this island is seriously hot...”
+「ただ歩いているだけで重労働してるみたいに感じるよ」=“Even just walking around the place feels like heavy labour.”
+「あー……うん、汗をかくと、すごくだるくなっちゃうよね」=“Ah... yeah, being sweaty kinda does that to you, doesn't it?”
+「まあ、そのおかげで、毎日ぐっすり眠れるんだけど」=“But well, thanks to that, I get great sleep every night.”
+「でも疲れは中々抜けないんだよな～……寝方が悪いのかな？」=“But even sleeping all night doesn't do much against that fatigue, you know~?... I wonder if my posture's bad?”
+「どうなんだろう？　寝具のせいかもしれないし、冷房のせいかもしれないし……」=“Who knows? It could be your pillow or mattress, it could also be the air conditioning not working great...”
+「まだ身体が、この気候に慣れていないってだけかも」=“Could also just be that our bodies aren't used to this climate yet.”
+「……といっても、慣れる頃には旅行が終わってるんだろうけどな」=“...The trip will probably be over by the time we do get used to it though.”
+「ここ、いいところだから、離れたくないね」=“This place is so good though, makes you really not wanna go back home, doesn't it?”
+「ああ……いっそのこと、永住しちゃうか？」=“Aah... wanna just shift here then?”
+「……なんてな。せっかくの旅行だから、思い残すことのないように楽しみたいもんだ」=“...If only. A trip like this is almost once in a lifetime, we gotta do all that we can so we have no regrets left.”
+「うん、同じ気持ちだよ。最後までみっちりと楽しもうね」=“Yeah, I feel the same way. Let's enjoy ourselves thoroughly until the end.”
+「だな。遊び尽くしてやるから、覚悟しろよ？」=“Yeah. I'm gonna run you ragged from place to place, so prepare yourself, alright?”
+「うん……って、やばアイス溶けかけてる」=“Yeah... wuh, our ice cream's melting away.”
+「わわ、ちょっとゆっくりしすぎたな。急いで食べよう」=“Wawah, we took it a bit too easy there. Let's eat through it quickly.”

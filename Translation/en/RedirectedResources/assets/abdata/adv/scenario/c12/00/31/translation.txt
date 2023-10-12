@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そういえば、灯台をこんな間近で見たのって初めてかも」=
-//「老朽化とか色々問題があるみたいだしね。間近で見ることが出来る場所は、少ないんじゃないかな」=
-//「なーるほどねぇ。じゃあ、この光景を目に焼き付けときますか」=
-//「だね。素敵な景色を忘れないようにしよう」=
+「そういえば、灯台をこんな間近で見たのって初めてかも」=“Come to think of it, this might be the first time I've ever seen a lighthouse from this up close.”
+「老朽化とか色々問題があるみたいだしね。間近で見ることが出来る場所は、少ないんじゃないかな」=“Most of them over Japan have deteriorated pretty badly. I'm pretty sure there's only a few left where you're allowed to go up this close.”
+「なーるほどねぇ。じゃあ、この光景を目に焼き付けときますか」=“Makes sense~. Then, guess it's time we burn this sight into our eyes.”
+「だね。素敵な景色を忘れないようにしよう」=“Yep. Let's never forget this sight.”

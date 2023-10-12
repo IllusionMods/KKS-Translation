@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「島に来なかったら、ずっとこの料理のことを知らないままだったろうな。出会いに感謝しないと」=
+「島に来なかったら、ずっとこの料理のことを知らないままだったろうな。出会いに感謝しないと」=“If we never came here, we'd have probably never gotten to sample this food either. We gotta be grateful for it.”

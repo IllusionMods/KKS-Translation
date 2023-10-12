@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へっ……ぁ……その……ありが、とう……？」=
-//「どういたしまして……って、そうじゃないよ！　返事を……聞かせてくれないかな？」=
-//「わ、分かってるよ。返事な、返事……」=
-//「……おまえの大胆な告白にドキドキして、すごく嬉しくなって……そんな自分の気持ちに……嘘は付けないな」=
-//「あたしも、おまえのことが好きだよ。だから……えと……よ、よろしく？」=
+「へっ……ぁ……その……ありが、とう……？」=“Heh--... ah... uhm... than, ks...?”
+「どういたしまして……って、そうじゃないよ！　返事を……聞かせてくれないかな？」=“My pleasure... wuh, that's not it! Won't you... tell me your answer?”
+「わ、分かってるよ。返事な、返事……」=“I-I know, I know. The answer, the answer...”
+「……おまえの大胆な告白にドキドキして、すごく嬉しくなって……そんな自分の気持ちに……嘘は付けないな」=“...Your bold confession made my heart pound, and made me very happy... I can't... lie to those feelings.”
+「あたしも、おまえのことが好きだよ。だから……えと……よ、よろしく？」=“I, love you too. So... erhm... l-let's go out?”

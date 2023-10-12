@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ん～っ、なんだかスッキリしたぁ。またここに足を運んでみようかな」=
+「ん～っ、なんだかスッキリしたぁ。またここに足を運んでみようかな」=“Nnn~, I feel refreshed~. Maybe I'll drag my feet here again sometime.”

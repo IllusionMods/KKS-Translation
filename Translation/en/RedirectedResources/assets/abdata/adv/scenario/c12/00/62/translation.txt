@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「オイル塗りって、背中だけ塗っても効果が薄いと思うんだよね」=
-//「……急にどうした？　正直、この後おまえが言いそうなことは読めてるぞ」=
-//「だから今回は前側も塗ろう！」=
-//「予想を裏切らず直球で言ったな！　まぁ、おまえにならいいけどさ……」=
+「オイル塗りって、背中だけ塗っても効果が薄いと思うんだよね」=“I feel like just doing your back's not really making great use of this oil, you know?”
+「……急にどうした？　正直、この後おまえが言いそうなことは読めてるぞ」=“...What is it now? Honestly, I can tell where you're going just from that.”
+「だから今回は前側も塗ろう！」=“So let's do your chest too!”
+「予想を裏切らず直球で言ったな！　まぁ、おまえにならいいけどさ……」=“So shamelessly straightforward! Well, I don't mind since it's you...”

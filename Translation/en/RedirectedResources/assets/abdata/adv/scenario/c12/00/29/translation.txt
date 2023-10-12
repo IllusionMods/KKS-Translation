@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……自分の荷物、散らかしたりせずにちゃんと片付けてるんだな」=
-//「ぅ……これから、するって思うと……なんか、細かいところに目が行っちゃう……」=
-//「変に意識しちゃいそうだから……その……もう始めてくれないか……？」=
+「……自分の荷物、散らかしたりせずにちゃんと片付けてるんだな」=“...So you've actually got it pretty tidy and clean, huh? I was expecting your stuff all over.”
+「ぅ……これから、するって思うと……なんか、細かいところに目が行っちゃう……」=“Uu... when I think about how, we're gonna do it... I just, can't help but look at it...”
+「変に意識しちゃいそうだから……その……もう始めてくれないか……？」=“I feel like I'm gonna go crazy overthinking it so... uhm... won't you start already...?”

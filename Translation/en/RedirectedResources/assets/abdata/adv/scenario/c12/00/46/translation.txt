@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線を弾いてるおまえの姿、中々カッコよかったよ」=
+「三線を弾いてるおまえの姿、中々カッコよかったよ」=“You looked pretty cool, playing that.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あたしが教えるまでもなく上手に出来てるじゃん。というか、お前の方が上手い様な……？」=
+「あたしが教えるまでもなく上手に出来てるじゃん。というか、お前の方が上手い様な……？」=“You didn't even need me to teach you, yours came out great. Heck, isn't yours better than mine...?”

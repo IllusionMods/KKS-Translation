@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……ついに、この時が来たって感じだな」=
-//「断ったりしないけどさ、ひとつだけお願いがあるんだ。わかってると思うけど、あたしは初めてだから……その……優しく……」=
-//「うん、もちろん。ありがとう、[H名]」=
-//「う、うん……じゃあ……し、しようか？」=
+「……ついに、この時が来たって感じだな」=“...The time finally came, huh?”
+「断ったりしないけどさ、ひとつだけお願いがあるんだ。わかってると思うけど、あたしは初めてだから……その……優しく……」=“I'm not gonna turn you down or anything but, I've got a single request. I'm sure you know this but, I'm a virgin so... uhm... be gentle...”
+「うん、もちろん。ありがとう、[H名]」=“Yeah, of course. Thank you, [H名].”
+「う、うん……じゃあ……し、しようか？」=“Y-Yeah... then... l-let's do it?”

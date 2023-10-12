@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]が紅型に興味あったなんて、ちょっと意外かも」=
-//「似合わない自覚はあるよ。でも……綺麗だし、女として惹かれるんだよ」=
-//「たしかに。お店で売られてる手ぬぐいとか、バッグとか色鮮やかで目を引くよね」=
-//「おまえも良さが分かってるじゃん。それを自分で作れるんだから、やってみたいと思うのは当然だろ？」=
-//「まぁ、あんなに綺麗に出来るとは思ってないけどさ」=
-//「それはやってみないと分からないと思うよ？　俺も手伝うから頑張ろう」=
+「[H名]が紅型に興味あったなんて、ちょっと意外かも」=“I don't think I ever expected you to be interested in this sort of thing, [H名].”
+「似合わない自覚はあるよ。でも……綺麗だし、女として惹かれるんだよ」=“I know it doesn't fit me. But... it's really pretty and as a girl it's really attractive to me.”
+「たしかに。お店で売られてる手ぬぐいとか、バッグとか色鮮やかで目を引くよね」=“You're not wrong. The towels and bags and whatnot they sell at the shops are so vividly coloured, they just catch your eye, don't they?”
+「おまえも良さが分かってるじゃん。それを自分で作れるんだから、やってみたいと思うのは当然だろ？」=“So you get it too. We get to make them here for ourselves so, it's only natural that I'd wanna try it out, no?”
+「まぁ、あんなに綺麗に出来るとは思ってないけどさ」=“Well, not that I think mine will come out even remotely as good.”
+「それはやってみないと分からないと思うよ？　俺も手伝うから頑張ろう」=“You gotta do it to see that for yourself, you know? I'll help you out too, so let's do our best.”

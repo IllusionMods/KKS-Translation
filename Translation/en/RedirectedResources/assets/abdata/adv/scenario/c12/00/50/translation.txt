@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ん～っ！　このフーチャンプルー、美味しい！」=
-//「どんな料理かと思ったけど、お麩と野菜の炒め物だったんだね」=
-//「ゴーヤチャンプルーは苦みがあって好き嫌いが分かれると思うけど、こっちは誰にでも勧められるな」=
-//「へ～、ひとくちもらってもいい？」=
-//「いいよ。絶対おまえも気に入ると思うぞ」=
-//「じゃあ、ありがたくいただいて…………うんっ、美味しいね！」=
+「ん～っ！　このフーチャンプルー、美味しい！」=“Nn~! This fu champuru is so good!”
+「どんな料理かと思ったけど、お麩と野菜の炒め物だったんだね」=“I was wondering what it was gonna be but, it's just wheat gluten (fu) and vegetable stir fry, huh?”
+「ゴーヤチャンプルーは苦みがあって好き嫌いが分かれると思うけど、こっちは誰にでも勧められるな」=“With bitter gourd champuru, you've got personal preferences for bitterness coming in but, anyone could enjoy this one.”
+「へ～、ひとくちもらってもいい？」=“Hoh~, mind if I have a bite?”
+「いいよ。絶対おまえも気に入ると思うぞ」=“Go ahead. I'm willing to bet real money that you'll love it too.”
+「じゃあ、ありがたくいただいて…………うんっ、美味しいね！」=“I'll take you up on that then... yep, it's great!”

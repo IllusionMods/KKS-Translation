@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふーん、ここではオイルを塗れるんだな」=
-//「せっかくだし塗ってく？　こう見えて得意なんだよね」=
-//「そんなことは初耳だが……背中には手は届かないし、お願いしよかな」=
-//「おっけー。じゃあ早速やっていくよ」=
+「ふーん、ここではオイルを塗れるんだな」=“Hmmm, we can use the oil here, huh?”
+「せっかくだし塗ってく？　こう見えて得意なんだよね」=“Want me to rub it on you? I'm actually pretty good at it.”
+「そんなことは初耳だが……背中には手は届かないし、お願いしよかな」=“That's the first I'm hearing about that... but well, I can't reach my back myself, so maybe I'll take you up on that.”
+「おっけー。じゃあ早速やっていくよ」=“Roger. Let's go for it then.”
