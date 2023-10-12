@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごくきれいな滝だね……」=
-//「こういう所って……アレがいっぱい出てるんだよな……なんて言ったっけ？」=
-//「マイナスイオンの事？」=
-//「そう、それだ、それ！　深呼吸するとそれが体に取り込まれるんだよな」=
-//「パワースポットって言われてるみたいだし、なにか効果があるのかもね」=
-//「よし、たっぷりパワーを取り込んでやるからな」=
+「すごくきれいな滝だね……」=“What a seriously beautiful waterfall, isn't it...”
+「こういう所って……アレがいっぱい出てるんだよな……なんて言ったっけ？」=“This sorta place... spits out a lotta those things, doesn't it... what'd you call them again?”
+「マイナスイオンの事？」=“Talking about negative ions?”
+「そう、それだ、それ！　深呼吸するとそれが体に取り込まれるんだよな」=“Yes, that, exactly that! Taking a deep breath in a place like this really gets you a large dose of that stuff, doesn't it?”
+「パワースポットって言われてるみたいだし、なにか効果があるのかもね」=“They do call this place a power spot of sorts so, there might be some effect to it.”
+「よし、たっぷりパワーを取り込んでやるからな」=“Alright, I'm gonna take in a whole lot of this power.”

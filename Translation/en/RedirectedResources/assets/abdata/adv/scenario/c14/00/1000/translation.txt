@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へえ、カップルドリンクが飲めるんだって。頼もうよ」=
-//「私のこと舐めてやがんのか？　バカにしやがって」=
-//「なんでいきなり攻撃的なのさ」=
-//「勝手にこんなチャラついたもん頼みやがるからだ」=
-//「二人で飲みたかったんだけど……」=
-//「私のキャラじゃねぇんだよ！　こ、こんなの二人で飲んだりしたら、浮かれてるみてぇだろうが」=
-//「ダメなの？　俺は結構、浮かれちゃってるんだけど」=
-//「浮かれてんじゃねーぞ！」=
-//「そんな無茶な」=
-//「なんで無茶なんだよ」=
-//「楽しいから。もしかして、まだ実感ない？　俺達カップルなんだよ」=
-//「そ、それは、わかってるっての。いちいち言うな」=
-//「わかってるならノリあわせてよ。一緒にドリンク飲んだり……」=
-//「そういうのはキャラじゃねーって言ってんだ！」=
-//「こういうのもこれからはキャラにしていこうよ」=
-//「……覚悟決めろってことか。ま、まあ、確かに、ビビってんのも私のキャラじゃねぇか」=
-//「上等だ、カップルドリンクくらい軽くシメてやるよ」=
-//「可愛いなぁ、[H名]は」=
-//「バカにすんなって言ってんだろ！」=
-//「あはは」=
+「へえ、カップルドリンクが飲めるんだって。頼もうよ」=“Heh, apparently we can get a couples' drink here. Let's order it.”
+「私のこと舐めてやがんのか？　バカにしやがって」=“Are you makin' fun of me? You dumbass.”
+「なんでいきなり攻撃的なのさ」=“What's got you on the offensive?”
+「勝手にこんなチャラついたもん頼みやがるからだ」=“You just went and ordered something like that all to look cool and stuff, that's why.”
+「二人で飲みたかったんだけど……」=“I was thinking we could drink it together though...”
+「私のキャラじゃねぇんだよ！　こ、こんなの二人で飲んだりしたら、浮かれてるみてぇだろうが」=“This kinda stuff doesn't fit me! I-If we drink it together, it'll look like I'm letting this shit get to my head.”
+「ダメなの？　俺は結構、浮かれちゃってるんだけど」=“Would that be so wrong? You're taking up quite a bit of space in my head, you know?”
+「浮かれてんじゃねーぞ！」=“Yeah well, don't let it!”
+「そんな無茶な」=“You're asking for too much.”
+「なんで無茶なんだよ」=“Why is it too much?”
+「楽しいから。もしかして、まだ実感ない？　俺達カップルなんだよ」=“Because it's fun. What, you still haven't gotten used to it? We're a couple, you know.”
+「そ、それは、わかってるっての。いちいち言うな」=“I-I know that, damn well. Don't say it like I don't.”
+「わかってるならノリあわせてよ。一緒にドリンク飲んだり……」=“If you do then get along with the program. Drink this together with me...”
+「そういうのはキャラじゃねーって言ってんだ！」=“I'm telling you, it ain't me, it doesn't fit my image!”
+「こういうのもこれからはキャラにしていこうよ」=“So let's just make it a part of your image from now on.”
+「……覚悟決めろってことか。ま、まあ、確かに、ビビってんのも私のキャラじゃねぇか」=“...Telling me to give in, huh? W-Well, I guess being a scaredy cat ain't me either.”
+「上等だ、カップルドリンクくらい軽くシメてやるよ」=“Alright, bring it on, a drink like this is nothing in front of me.”
+「可愛いなぁ、[H名]は」=“You're so adorable, [H名].”
+「バカにすんなって言ってんだろ！」=“I'm tellin' you to not make fun of me!”
+「あはは」=“Ahahah.”

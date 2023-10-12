@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「色んなものが売ってるね」=
-//「なんかいいもんねぇかな……」=
-//「お土産とか結構面白そうなもの売ってそうだけど」=
-//「私、Ｔシャツが欲しんだよな。こう……気合の入った文字が書いてるヤツ」=
-//「そういうのなら多分あるんじゃないかな、一緒に探そうか？」=
-//「ありがとよ、よろしく頼むぜ！」=
+「色んなものが売ってるね」=“They're selling a whole lot of stuff here, huh?”
+「なんかいいもんねぇかな……」=“Ain't there somethin' nice I can pick up...”
+「お土産とか結構面白そうなもの売ってそうだけど」=“The souvenirs they seem to be selling look pretty interesting though.”
+「私、Ｔシャツが欲しんだよな。こう……気合の入った文字が書いてるヤツ」=“I really want a t-shirt, you know? Something with like... real intense writing on it.”
+「そういうのなら多分あるんじゃないかな、一緒に探そうか？」=“They probably do have one of those, wanna look for it together?”
+「ありがとよ、よろしく頼むぜ！」=“Thanks and please!”

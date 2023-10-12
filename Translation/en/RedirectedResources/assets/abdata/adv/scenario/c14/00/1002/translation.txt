@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お、卓球台だ。一勝負していこうか？」=
-//「いいぞ。ちょうど身体を動かしたかったとこだ」=
-//「おっし、かますぜ！」=
-//「何その迫力……」=
-//「余裕見せてんのか？　すぐにその顔、青ざめさせてやるよ」=
-//（卓球ってもっとほのぼのしたものだったような……）=
-//「ほら、早く始めるぞ！」=
-//「ふぅ、こんなところか。[P名]がそこそこやるから、熱くなっちまった」=
-//「勝ったのは私だけどな！」=
-「はいはい、完敗だよ」=“Yes, yes... a flawless victory.”
-//「とか言って本当は花持たせたんじゃねぇだろうな？　お前は……その、優しいヤツだから……」=
-//「何か言った？　台挟んでるからよく聞こえないよ」=
-//「な、なんにも言ってねぇよ！」=
+「お、卓球台だ。一勝負していこうか？」=“Oh, it's a ping pong table. Wanna go for a round?”
+「いいぞ。ちょうど身体を動かしたかったとこだ」=“Sure. I was just feeling like moving my body a bit anyway.”
+「おっし、かますぜ！」=“Aight, I'm taking you down!”
+「何その迫力……」=“What's with that fire...”
+「余裕見せてんのか？　すぐにその顔、青ざめさせてやるよ」=“Pretending to be cool? Don't worry, I'll make you go pale in no time.”
+（卓球ってもっとほのぼのしたものだったような……）=(I recall ping pong being a lot more of a friendly sport...)
+「ほら、早く始めるぞ！」=“C'mon, we're starting!”
+「ふぅ、こんなところか。[P名]がそこそこやるから、熱くなっちまった」=“Fuuh, I guess that's that. You were pretty alright, alright enough that I got real into it.”
+「勝ったのは私だけどな！」=“I'm the one who won though!”
+「はいはい、完敗だよ」=“Yes yes, I lost completely.”
+「とか言って本当は花持たせたんじゃねぇだろうな？　お前は……その、優しいヤツだから……」=“You say that but, you didn't lose on purpose, right? You're... uhm, very sweet so...”
+「何か言った？　台挟んでるからよく聞こえないよ」=“Did you say something? I couldn't catch it, speak a bit louder.”
+「な、なんにも言ってねぇよ！」=“I-I ain't said a thing!”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ……ご当地の家庭料理って、なんだかほっとする味だね」=
-//「たしかにな。食い慣れてないのに、懐かしい感じがする」=
-//「このニンジンシリシリとか、家じゃ食べたことないのに」=
-//「そういや私もこっちに来て初めて食べたな。でもすごく馴染みがあるっていうか……とにかく美味いぜ」=
-//「今度、作り方教えてもらおうかな」=
-//「だったら、私が作ってやってもいいぞ……もちろん、お前の家でな」=
+「ふぅ……ご当地の家庭料理って、なんだかほっとする味だね」=“Fuuh... local home cooking like this, has this way of relaxing you, doesn't it?”
+「たしかにな。食い慣れてないのに、懐かしい感じがする」=“For sure. It feels nostalgic, even though it isn't.”
+「このニンジンシリシリとか、家じゃ食べたことないのに」=“Like this carrot shirishiri, I've never had this before in my life.”
+「そういや私もこっちに来て初めて食べたな。でもすごく馴染みがあるっていうか……とにかく美味いぜ」=“Now that I think about it, I ate it here for the first time too. But it almost feels like I've eaten it forever, like... anyways it's just amazing.”
+「今度、作り方教えてもらおうかな」=“Maybe I'll ask them for the recipe sometime.”
+「だったら、私が作ってやってもいいぞ……もちろん、お前の家でな」=“In that case, I wouldn't mind making it... of course, at your home.”

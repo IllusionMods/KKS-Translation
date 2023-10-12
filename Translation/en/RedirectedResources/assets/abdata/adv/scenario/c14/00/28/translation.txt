@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お前の部屋に来たんだし、ただ話をするだけってのもつまらないよな？」=
-//「……やっぱり[H名]もＨしたいと思わない？」=
-//「まあな……私だってその気がないわけじゃないぜ」=
+「お前の部屋に来たんだし、ただ話をするだけってのもつまらないよな？」=“We came over all the way to your room, so just chattin' around would be pretty boring too, wouldn't it?”
+「……やっぱり[H名]もＨしたいと思わない？」=“...Don't you wanna have sex too, [H名]?”
+「まあな……私だってその気がないわけじゃないぜ」=“Yeah... it's not like I don't have those sorta feelings in me or something.”

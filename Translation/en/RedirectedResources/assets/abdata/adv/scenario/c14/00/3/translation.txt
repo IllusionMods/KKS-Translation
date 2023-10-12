@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「俺の事が好きなの！？」=
-//「そ、そうだよ……なんだよ、何か文句あんのか」=
-//「いや、文句なんかないよ。すごく嬉しい……俺も、[H名]の事、好きだから……」=
-//「ほ、本当か…！？　本当に、私の事、好きなのか？」=
-//「あぁ……俺も、[H名]と付き合いたい」=
-//「そっか……良かった……これで、アレだな……私達、彼氏と彼女なんだな……それじゃあ、宜しくな！」=
+「俺の事が好きなの！？」=“What, you love me!?”
+「そ、そうだよ……なんだよ、何か文句あんのか」=“T-That's right... what, got a problem?”
+「いや、文句なんかないよ。すごく嬉しい……俺も、[H名]の事、好きだから……」=“No, not at all. I'm super happy... since I, love you too, [H名]...”
+「ほ、本当か…！？　本当に、私の事、好きなのか？」=“Y-You mean it...?! You really, love me?”
+「あぁ……俺も、[H名]と付き合いたい」=“Yeah... I want to, go out with you too, [H名].”
+「そっか……良かった……これで、アレだな……私達、彼氏と彼女なんだな……それじゃあ、宜しくな！」=“I see... thank god... with this, we're... you know, boyfriend girlfriend... well then, that's that then!”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「シーサー作りか……こういう工作的なのってあんま得意じゃねぇんだよな」=
-//「粘土で形を作って色を塗るだけだから、そんなに難しくないと思うけど」=
-//「うーん……まあ、そうだな。うだうだ言っててもしかたねぇし、作り始めるか！」=
-//「もし出来ない所があったら俺も手伝うよ」=
-//「おう、助かるぜ！」=
+「シーサー作りか……こういう工作的なのってあんま得意じゃねぇんだよな」=“Making shisas, huh... I'm not really all that good at this handicrafts sorta stuff, you know?”
+「粘土で形を作って色を塗るだけだから、そんなに難しくないと思うけど」=“It's just moulding some clay into shape and then painting it, I don't think it's that difficult.”
+「うーん……まあ、そうだな。うだうだ言っててもしかたねぇし、作り始めるか！」=“Nnnn... well, you're right. No point in just complaining anyway, might as well start!”
+「もし出来ない所があったら俺も手伝うよ」=“Just ask me if you get stuck over something, and I'll help.”
+「おう、助かるぜ！」=“Aight, that helps!”

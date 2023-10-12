@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「折角だから、何かレンタルして遊ぼうか」=
-//「そうだな……だったら私はシュノーケリングがいいかな」=
-//「いいね！　この辺はサンゴがきれいだって話だから」=
-//「よし、いっぱい魚見つけてやるぜ！」=
-//「あんまり熱中しすぎて、海水飲まないようにね」=
-//「そんなヘマはしねぇよ！」=
+「折角だから、何かレンタルして遊ぼうか」=“We came all this way, so let's rent something and have some fun.”
+「そうだな……だったら私はシュノーケリングがいいかな」=“Yeah... in that case, I wanna go snorkelling.”
+「いいね！　この辺はサンゴがきれいだって話だから」=“Oh, that sounds good! I've heard that the corals are real pretty around here.”
+「よし、いっぱい魚見つけてやるぜ！」=“Alright, we're gonna look at lots of fishes today!”
+「あんまり熱中しすぎて、海水飲まないようにね」=“Try not to get too excited and drink any seawater, alright?”
+「そんなヘマはしねぇよ！」=“Like hell I'd mess up like that!”

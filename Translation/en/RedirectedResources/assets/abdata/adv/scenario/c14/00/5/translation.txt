@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「いきなりＨがしたいなんて……お前は本当に、正直な奴だな……」=
-//「正直な奴は嫌い？」=
-//「いや、嫌いじゃない……嘘つきより、正直な方が好きだ」=
-//「良かった……俺も[H名]には正直でいたいから」=
-//「そうか……まあ、その……初めてだから……優しく頼むぞ」=
+「いきなりＨがしたいなんて……お前は本当に、正直な奴だな……」=“I want to have sex out of nowhere like that... you're a, seriously honest guy, you know...”
+「正直な奴は嫌い？」=“Do you hate honest guys?”
+「いや、嫌いじゃない……嘘つきより、正直な方が好きだ」=“No, I don't... I like them more, a lot more, than liars.”
+「良かった……俺も[H名]には正直でいたいから」=“Great... because I want to always be honest with you too, [H名].”
+「そうか……まあ、その……初めてだから……優しく頼むぞ」=“I see... well, so, you know... I'm a virgin so... go gentle on me.”

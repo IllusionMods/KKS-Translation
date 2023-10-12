@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「本当に美味かったな、また一緒に食いに来ようぜ！」=
+「本当に美味かったな、また一緒に食いに来ようぜ！」=“That was seriously great, let's go eat that again sometime!”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なかなかいい時間だったぜ。それじゃあ、私は先に出てるからな」=
+「なかなかいい時間だったぜ。それじゃあ、私は先に出てるからな」=“I had a pretty good time. Well then, I'mma head out first.”

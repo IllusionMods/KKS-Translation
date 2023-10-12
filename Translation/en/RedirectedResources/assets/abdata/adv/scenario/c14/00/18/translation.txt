@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「その……リードしてくれてありがとな、気持ちよかったぞ」=“It's, uh... Thank you for taking the lead. It felt good.”
+「その……リードしてくれてありがとな、気持ちよかったぞ」=“Uhm... thanks for taking the lead, okay? That felt really good.”

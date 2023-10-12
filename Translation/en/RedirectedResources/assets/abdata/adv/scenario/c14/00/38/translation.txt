@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カヤックに乗ってマングローブ林を見学出来るんだって」=
-//「カヤックか、面白そうだな」=
-//「初心者でも結構簡単に乗れるみたいだよ」=
-//「俺はあんまり操縦に自信ないけど……」=
-//「大丈夫だって、私がついててやるから、な！」=
+「カヤックに乗ってマングローブ林を見学出来るんだって」=“Apparently we can ride a kayak and study the mangroves ourselves.”
+「カヤックか、面白そうだな」=“A kayak, huh? That sounds fun.”
+「初心者でも結構簡単に乗れるみたいだよ」=“Seems like they're easy enough for even beginners to use.”
+「俺はあんまり操縦に自信ないけど……」=“I'm not sure I'll be able to steer it all that well though...”
+「大丈夫だって、私がついててやるから、な！」=“It'll be fine, I'm with you, so don't worry!”

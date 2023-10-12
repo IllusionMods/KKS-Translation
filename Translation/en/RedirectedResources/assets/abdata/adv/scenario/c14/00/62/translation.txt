@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「よし、それじゃあ、俺がオイルを塗ってあげるからね」=
-//「頼むぜ……だったら、前の方もお願いしてみるか……」=
-//「前って、身体の前？　塗っていいの？」=
-//「お前だったらいいぜ……その代わり、ちゃんと塗ってくれよ？」=
-//「任せてよ！　きちんと丁寧に塗るからね」=
+「よし、それじゃあ、俺がオイルを塗ってあげるからね」=“Alright then, I'll put the oil on you, alright?”
+「頼むぜ……だったら、前の方もお願いしてみるか……」=“Please do... if we're doing it, maybe I'll ask you to do the front too...”
+「前って、身体の前？　塗っていいの？」=“The front as in, your chest? You sure?”
+「お前だったらいいぜ……その代わり、ちゃんと塗ってくれよ？」=“I don't mind if it's you... in return, make sure to do it thoroughly, okay?”
+「任せてよ！　きちんと丁寧に塗るからね」=“Leave it to me! I'll rub it on real nicely and gently.”

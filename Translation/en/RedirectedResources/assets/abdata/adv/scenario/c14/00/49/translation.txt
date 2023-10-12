@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「このソーキそば、本当に美味しい！」=
-//「ラフテーもトロトロでうまいぞ！」=
-//「地元の食堂って、やっぱり美味しいんだね」=
-//「そりゃ、何が美味いか一番知ってるからな」=
-//「よし、もう一品何か食べよう」=
-//「私も！　私も食べるぞ！」=
+「このソーキそば、本当に美味しい！」=“This soki soba is, seriously amazing!”
+「ラフテーもトロトロでうまいぞ！」=“This Rafute too's great too, so melty and tasty!”
+「地元の食堂って、やっぱり美味しいんだね」=“Local diners like these really are great, aren't they?”
+「そりゃ、何が美味いか一番知ってるからな」=“Of course. They're the ones who know the most about the food here, afterall.”
+「よし、もう一品何か食べよう」=“Alright, I'll get another item.”
+「私も！　私も食べるぞ！」=“Me too! I'll get something more too!”

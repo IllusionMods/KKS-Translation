@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「これがウムイの鐘だよ、[H名]」=
-//「な、なんで、私に言うんだよ」=
-//「紹介しようと思って」=
-//「こんなもん知ってるっての！　知りたくなくたって耳に入ってくるだろ」=
-//「な、何が、鐘を鳴らしたら永遠に結ばれるだ。鐘ごときが調子乗ってんじゃねぇぞ」=
-//「そこにオラつくとは」=
-//「そうだろうが？　じゃあ、この鐘を鳴らしたことがあるヤツはみんな別れずに結ばれたままだって言うのかよ」=
+「これがウムイの鐘だよ、[H名]」=“This is the Bell of Umuy, [H名].”
+「な、なんで、私に言うんだよ」=“W-Why're you, telling me?”
+「紹介しようと思って」=“Well I thought I'd give an introduction.”
+「こんなもん知ってるっての！　知りたくなくたって耳に入ってくるだろ」=“I know stuff like this, idiot! Even if I didn't want to know, it'd have still found its way to my ears.”
+「な、何が、鐘を鳴らしたら永遠に結ばれるだ。鐘ごときが調子乗ってんじゃねぇぞ」=“H-Hell's with that "you'll be tied for eternity if you ring it" bullshit. Way too pretentious for a fucking bell.”
+「そこにオラつくとは」=“I didn't think that'd be the part to piss you off.”
+「そうだろうが？　じゃあ、この鐘を鳴らしたことがあるヤツはみんな別れずに結ばれたままだって言うのかよ」=“You didn't? Then, are you saying that just about every couple that rang this bell together ever is still together?”
 「…………………………」=“...”
-//「目ぇ逸らしてんじゃねぇぞ！」=
-//「そういう夢のないこと言わないんだよ。そりゃ、何年も先のことなんてわからないけど」=
-//「今、[H名]と一緒にこの鐘を鳴らしたいなって気持ちにウソはないんだから」=
-//「うぐ！？　そ、そっか、お前は……私と……」=
-//「しょうがねえなお前は！　女みたいなことにばっかり執着しやがって」=
-//「まったくよー……」=
-//「結局、俺と一緒にこの鐘を鳴らしてくれるってことでいいの？」=
-//「……言わせんじゃねぇよ。恥ずかしいだろ」=
-//「ありがとう。あはは……他のカップルさんのことはわからないけど、俺達はジンクス叶えられそうな気がしてきた」=
-//「バカか。そ、そんなもん、鐘なんか鳴らさなくても余裕だっての」=
-「そうだね」=“I know.”
-//「ニコニコすんじゃねぇ！　おら、早く鳴らしちまうぞ」=
+「目ぇ逸らしてんじゃねぇぞ！」=“Look me in the eyes!”
+「そういう夢のないこと言わないんだよ。そりゃ、何年も先のことなんてわからないけど」=“Don't say such pessimistic things, [H]. I mean, of course, nobody knows what the future holds, years down the line.”
+「今、[H名]と一緒にこの鐘を鳴らしたいなって気持ちにウソはないんだから」=“But I want to ring this bell with you, right here and now, and that's not a lie.”
+「うぐ！？　そ、そっか、お前は……私と……」=“Uguh!? I-I see, you want to... with me...”
+「しょうがねえなお前は！　女みたいなことにばっかり執着しやがって」=“There's no helping you! Always clinging to such girly things.”
+「まったくよー……」=“Good grief good grief~...”
+「結局、俺と一緒にこの鐘を鳴らしてくれるってことでいいの？」=“So, are you saying that you're fine with ringing it with me, after all that?”
+「……言わせんじゃねぇよ。恥ずかしいだろ」=“...Don't make me actually say it, dummy. It's embarrassing.”
+「ありがとう。あはは……他のカップルさんのことはわからないけど、俺達はジンクス叶えられそうな気がしてきた」=“Thanks. Ahahah... I don't know about all the other couples but, I think we could make it come true.”
+「バカか。そ、そんなもん、鐘なんか鳴らさなくても余裕だっての」=“Are you an idiot? Y-You don't need a, stupid bell to guarantee that for you.”
+「そうだね」=“That's true.”
+「ニコニコすんじゃねぇ！　おら、早く鳴らしちまうぞ」=“Don't grin like that! Come on, we're ringing it.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「紅型体験をやってみようと思うんだけど……知ってる？」=
-//「ああ、知ってるぜ。生地に色んな模様を描いて染めていくんだろ」=
-//「うん。綺麗な柄とか繊細な柄が描けるみたいだよ」=
-//「なるほどな……でも、こういうの私に似合うか？」=
-//「大丈夫だって、[H名]の好きな気合の入った柄にしちゃえばいいんだから」=
-//「いいアイデアだな！　よし、さっそくやるとするか！」=
+「紅型体験をやってみようと思うんだけど……知ってる？」=“I was thinking that we could go and try out the dyeing experience together... you know what it is?”
+「ああ、知ってるぜ。生地に色んな模様を描いて染めていくんだろ」=“Yeah, I do. You draw a bunch of patterns on cloth and then dye it, right?”
+「うん。綺麗な柄とか繊細な柄が描けるみたいだよ」=“Yep. Seems like they've got all sorts of patterns, from pretty ones to really detailed ones.”
+「なるほどな……でも、こういうの私に似合うか？」=“I see... but, would those sorta things really suit me?”
+「大丈夫だって、[H名]の好きな気合の入った柄にしちゃえばいいんだから」=“It'll be fine, just use an exciting and cheery pattern instead.”
+「いいアイデアだな！　よし、さっそくやるとするか！」=“That's a good idea! Alright, let's get to it then!”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ、最高に気持ち良かったぜ、ありがとな」=
-//「かなり綺麗に塗ってくれたんだな、助かったぜ」=
-//「まぁまぁ、悪くなかったぜ」=
-//「なんだよ、塗ってくれないのか？　ちょっと楽しみにしてたのにな」=
+「ふぅ、最高に気持ち良かったぜ、ありがとな」=“Fuuh, that felt just the best. Thanks.”
+「かなり綺麗に塗ってくれたんだな、助かったぜ」=“You rubbed it on me really nicely, thanks.”
+「まぁまぁ、悪くなかったぜ」=“Not bad, it was alright.”
+「なんだよ、塗ってくれないのか？　ちょっと楽しみにしてたのにな」=“What, not gonna put it on me? I was kinda looking forward to it too.”
