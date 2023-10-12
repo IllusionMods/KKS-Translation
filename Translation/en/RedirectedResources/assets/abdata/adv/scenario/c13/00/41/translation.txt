@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「キミと遊べてドキドキしちゃったぁ！　それじゃあ、また一緒に遊ぼうねー」=
+「キミと遊べてドキドキしちゃったぁ！　それじゃあ、また一緒に遊ぼうねー」=“That made my heart pound so much~! Well then, let's have fun like that again sometime~”

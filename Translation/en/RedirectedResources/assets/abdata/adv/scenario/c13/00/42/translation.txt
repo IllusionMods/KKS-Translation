@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「アタシ、三線の音って、陽気で好きなんだよねー」=
-//「演奏は難しいのかな？」=
-//「良くわかんないけど、楽しめれば、アタシはいいかなぁ」=
-//「そうだね……とりあえず、やってみようか」=
-//「うん、やっちゃおっかー」=
+「アタシ、三線の音って、陽気で好きなんだよねー」=“I really like the sounds sanshins make. They're so cheery, you know~?”
+「演奏は難しいのかな？」=“You think it's gonna be easy to play together?”
+「良くわかんないけど、楽しめれば、アタシはいいかなぁ」=“I dunno but, as long as we enjoy ourselves, I don't really care~”
+「そうだね……とりあえず、やってみようか」=“Yeah... well, for now, let's just try it.”
+「うん、やっちゃおっかー」=“Yeah, let's do it~”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あ～、美味しかったー！　また二人でご飯食べようね！」=
+「あ～、美味しかったー！　また二人でご飯食べようね！」=“Ah~, that was so good~! Let's get food together again, okay?~!”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「結構上手くできたと思うんだよね～。それじゃあ、またねー」=
+「結構上手くできたと思うんだよね～。それじゃあ、またねー」=“Mine came out pretty good, I'd say~. Well then, see ya~”

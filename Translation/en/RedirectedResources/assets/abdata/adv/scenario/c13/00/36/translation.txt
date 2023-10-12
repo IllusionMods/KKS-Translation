@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、カヤックに乗ってみない？」=
-//「カヤック？　オールで漕ぐヤツ？」=
-//「うん。マングローブ林の中を、カヤックに乗って進むんだ」=
-//「ふぅ～ん、なんか冒険ぽくって面白そうかも」=
-//「それじゃ、一緒に行こうか」=
-//「うん、行く、行くー！」=
+「ねぇ、カヤックに乗ってみない？」=“Hey, wanna try riding a kayak?”
+「カヤック？　オールで漕ぐヤツ？」=“A kayak? One of those boats you row with an oar?”
+「うん。マングローブ林の中を、カヤックに乗って進むんだ」=“Yeah. We're gonna ride a kayak through the mangroves.”
+「ふぅ～ん、なんか冒険ぽくって面白そうかも」=“Fuhn~, that sounds kinda fun, like an adventure.”
+「それじゃ、一緒に行こうか」=“Well then, let's go together.”
+「うん、行く、行くー！」=“Yeah, I wanna, I wanna~!”

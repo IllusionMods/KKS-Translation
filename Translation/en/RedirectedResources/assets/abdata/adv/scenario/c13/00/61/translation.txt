@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「美容向けのオイルが置いてあるんだね」=
-//「これ、好きに使っていいんでしょ？」=
-//「そうみたい……じゃあ、俺が塗ってあげようか？」=
-//「いいよー。綺麗に塗ってねー」=
-//「よぉし、任せといてよ」=
+「美容向けのオイルが置いてあるんだね」=“They've left some beauty oil for us, huh?”
+「これ、好きに使っていいんでしょ？」=“We can use it however we like, right?”
+「そうみたい……じゃあ、俺が塗ってあげようか？」=“Seems like it... then, want me to put it on you?”
+「いいよー。綺麗に塗ってねー」=“Sure~. Put it on nicely, okay~?”
+「よぉし、任せといてよ」=“Alright, leave it to me.”

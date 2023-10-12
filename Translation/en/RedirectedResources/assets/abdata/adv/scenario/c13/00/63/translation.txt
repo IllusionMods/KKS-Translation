@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うん、最高に気持ち良かったよー。ありがとうね」=
-//「なかなかいい感じだったと思うよ。またお願いしよっかなー」=
-//「いいんじゃない。悪くなかったかな」=
-//「あれ？　塗ってくれないの？　背中って自分じゃ届かないんだけどな―」=
+「うん、最高に気持ち良かったよー。ありがとうね」=“Yep, that felt super nice~. Thanks.”
+「なかなかいい感じだったと思うよ。またお願いしよっかなー」=“I think that was was pretty nice. Maybe I'll ask again another time~”
+「いいんじゃない。悪くなかったかな」=“Mmm. I'd say that was pretty alright.”
+「あれ？　塗ってくれないの？　背中って自分じゃ届かないんだけどな―」=“Huh? You won't put it on me? I can't really reach my own back by myself, you know~”

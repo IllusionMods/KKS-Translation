@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここのご飯美味しいね」=
-//「いい感じだよねー！　何食べても美味しいしー」=
-//「ソーキそばとかラフテーとか、メニューも多いし」=
-//「アタシの食べてるソーキそば、マジで美味しいから！」=
-//「それじゃあ、俺ももう少し何か食べようかな」=
-//「うん、注文しなって～。アタシも付き合うから」=
+「ここのご飯美味しいね」=“The food here's great, isn't it?”
+「いい感じだよねー！　何食べても美味しいしー」=“It's really nice~! It's all good no matter what you get~”
+「ソーキそばとかラフテーとか、メニューも多いし」=“They've got a whole bunch of stuff too, like soki soba or stewed pork rib cubes and whatnot.”
+「アタシの食べてるソーキそば、マジで美味しいから！」=“I got that soki soba, it's so good!”
+「それじゃあ、俺ももう少し何か食べようかな」=“Well then, maybe I'll order some myself.”
+「うん、注文しなって～。アタシも付き合うから」=“Yep, just do it~. I'll get something more too.”

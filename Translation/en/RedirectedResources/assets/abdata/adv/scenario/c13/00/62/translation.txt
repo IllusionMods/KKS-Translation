@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さてと、それじゃ俺がオイル塗ってあげるよ」=
-//「ありがとー。じゃあ……前も塗ってもらおっかなー」=
-//「前も？　いいの？」=
-//「うん……でも、ちゃんと全身綺麗に塗ってよね？」=
-//「ＯＫ、わかったよ」=
+「さてと、それじゃ俺がオイル塗ってあげるよ」=“Now then, c'mon, I'll put it on you.”
+「ありがとー。じゃあ……前も塗ってもらおっかなー」=“Thanks~. In that case... maybe I'll have you do the front too, this time~”
+「前も？　いいの？」=“The front too? You sure?”
+「うん……でも、ちゃんと全身綺麗に塗ってよね？」=“Yeah... but, put it all over me without missing a spot, okay?”
+「ＯＫ、わかったよ」=“Okay, I got it.”

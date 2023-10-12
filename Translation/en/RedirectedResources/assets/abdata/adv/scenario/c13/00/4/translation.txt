@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えっと、マジで言ってるの？　キミとだったら別にしてもいいけど……アタシで大丈夫なの？」=
-//「うん。俺、[H名]とＨできるってだけで、最高に幸せなんだ」=
-//「そうなんだ……だったら、アタシもいいかな……キミとＨするの、悪くないと思うし」=
-//「絶対、後悔させないから」=
-//「うん、それじゃあ……よろしくね」=
+「えっと、マジで言ってるの？　キミとだったら別にしてもいいけど……アタシで大丈夫なの？」=“Erhm, are you being serious? I mean I don't really mind doing it, especially since it's you... but are you okay with me?”
+「うん。俺、[H名]とＨできるってだけで、最高に幸せなんだ」=“Yeah. Just being able to do it with you would make my day, [H名].”
+「そうなんだ……だったら、アタシもいいかな……キミとＨするの、悪くないと思うし」=“I see... in that case, I guess I don't mind... having sex with you, doesn't sound all that bad either.”
+「絶対、後悔させないから」=“You definitely won't regret it.”
+「うん、それじゃあ……よろしくね」=“Okay, well then... take care of me.”

@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ねぇ……部屋にいる？」=“Hey... you in there?”
-SELECTION:「返事をする」=Respond
+「ねぇ……部屋にいる？」=“Hey... are you in there?”
+SELECTION:「返事をする」=Answer her
 SELECTION:「……」=...
-//「どうしたの、何かあった？」=
-//「なんていうか……ちょっと一人でいるのが寂しくなっちゃったんだよねー」=
-//「だから、[P名]くんと一緒に、寝ようかな～って……いいでしょ、ね？」=
-//「……居ないのぉ？　もう、タイミング悪ぅ」=
+「どうしたの、何かあった？」=“What's wrong, did something happen?”
+「なんていうか……ちょっと一人でいるのが寂しくなっちゃったんだよねー」=“It's like... I just started feeling really lonely by myself, you know~”
+「だから、[P名]くんと一緒に、寝ようかな～って……いいでしょ、ね？」=“So I thought, that maybe I'd come sleep with you tonight~... you don't mind, right?”
+「……居ないのぉ？　もう、タイミング悪ぅ」=“...You're not~? Jeez, the worst time to not answer~”

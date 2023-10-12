@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そ、それってつまり、アタシに彼女になって欲しいって事？」=
-//「うん、俺と付き合って欲しい」=
-//「うん！　分かった！　アタシで良かったら、キミとその……付き合うからっ」=
-//「ありがとう。[H名]と付き合えるなんて、俺、すごく嬉しいよ」=
-//「アタシも、アタシも嬉しい……えっと、これからも、宜しくね」=
+「そ、それってつまり、アタシに彼女になって欲しいって事？」=“D-Does that mean that, you want me to be your girlfriend?”
+「うん、俺と付き合って欲しい」=“Yeah, I want you to go out with me.”
+「うん！　分かった！　アタシで良かったら、キミとその……付き合うからっ」=“Okay! Got it! If you're fine with me then, I'll uhm... I'll go out with you--!”
+「ありがとう。[H名]と付き合えるなんて、俺、すごく嬉しいよ」=“Thank you. You don't know how happy it makes me, to be able to go out with you.”
+「アタシも、アタシも嬉しい……えっと、これからも、宜しくね」=“Me too, I'm happy too... erhm, let's take care of each other, okay?”

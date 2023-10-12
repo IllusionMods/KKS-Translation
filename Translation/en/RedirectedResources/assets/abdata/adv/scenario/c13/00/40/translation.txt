@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごく綺麗だったよー。それじゃあ、また遊ぼうね～」=
+「すごく綺麗だったよー。それじゃあ、また遊ぼうね～」=“It was really pretty~. Well then, let's do this again~”

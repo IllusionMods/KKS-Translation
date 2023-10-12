@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルドリンクだってさ。せっかくだから頼んでみない？」=
-//「おー、こうきたか。いかにもお二人様でどうぞって感じ」=
-//「そりゃ、カップルドリンクだからね」=
-//「平然としてるけどさー？　実は結構、ドキドキしちゃってるんじゃない？」=
-//「……そ、そんなことは。ないこともないけど」=
-//「だと思った。さっきからそわそわしてるし」=
-//「怖くないから大丈夫でちゅよー。はい、そっちからも顔近づけてきて」=
-//「……自分こそ照れてない？」=
-//「な、なんでそんなこと言うの？　そんなわけないじゃん」=
-//「自分の方こそそわそわしてるから」=
-//「ま、まあ、うん、白状するとちょっとはね。まだちょっと慣れないっていうか……」=
-//「って、言わせないでよこんなこと」=
-//「意地悪したかったわけじゃないよ。お互い様なら、うん、安心した」=
-//「安心っていうのもどうなんだろ」=
-//「いいからいいから。さ、せっかくだし二人で飲もうよ」=
-//「なんか、リードされちゃってるー」=
-//「それはもう、男なので」=
-//「た、たまにはいいでしょ？　そういうのも」=
-//「たまにじゃなくてもいいけど？　そうやってアタシのことグイグイリードしてよ」=
+「カップルドリンクだってさ。せっかくだから頼んでみない？」=“A "couples' drink", it says. Wanna try ordering it, since we're here anyway?”
+「おー、こうきたか。いかにもお二人様でどうぞって感じ」=“Ooh~, so it comes like this, huh? It really does look like it was made for two people.”
+「そりゃ、カップルドリンクだからね」=“Well yeah, it's a couples' drink, afterall.”
+「平然としてるけどさー？　実は結構、ドキドキしちゃってるんじゃない？」=“You're pretending to be pretty unfazed there but~, isn't your heart pounding really hard in there?”
+「……そ、そんなことは。ないこともないけど」=“...I-I won't, admit to admitting that.”
+「だと思った。さっきからそわそわしてるし」=“I knew it. You've been pretty restless for a while too.”
+「怖くないから大丈夫でちゅよー。はい、そっちからも顔近づけてきて」=“Don't worry, it's not scary at all~. C'mon, come closer yourself too.”
+「……自分こそ照れてない？」=“...Aren't you blushing too?”
+「な、なんでそんなこと言うの？　そんなわけないじゃん」=“W-Why'd you say that? Of course I'm not blushing.”
+「自分の方こそそわそわしてるから」=“You're pretty restless there too, afterall.”
+「ま、まあ、うん、白状するとちょっとはね。まだちょっと慣れないっていうか……」=“W-Well, yeah, if I'm being honest. I'm still not all that used to this stuff, like...”
+「って、言わせないでよこんなこと」=“Wuh, don't make me say that stuff.”
+「意地悪したかったわけじゃないよ。お互い様なら、うん、安心した」=“I wasn't trying to tease you into doing it. It's just that if we're both nervous then, yep, that's a relief”
+「安心っていうのもどうなんだろ」=“What's a relief? Whaddaya mean?”
+「いいからいいから。さ、せっかくだし二人で飲もうよ」=“Don't sweat the small stuff. C'mon, let's drink it together.”
+「なんか、リードされちゃってるー」=“I feel like I'm being led around~”
+「それはもう、男なので」=“Well yes, I'm a man afterall.”
+「た、たまにはいいでしょ？　そういうのも」=“I-It's fine every so often, no?”
+「たまにじゃなくてもいいけど？　そうやってアタシのことグイグイリードしてよ」=“It doesn't have to be just every so often though~. Take the lead like that all the time and drag me around.”
 「……頑張ります」=“...I'll do my best.”

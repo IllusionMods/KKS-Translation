@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「色々売ってるね」=
-//「面白そうなものがいっぱいだねー……なんか買ってこうかな」=
-//「あれなんて、可愛いんじゃないの？」=
-//「あー、悪くないけど、ちょっと高いかなぁ」=
-//「せっかく来たんだし、もうちょっと見て回ろうか」=
-//「うん、そうだねー」=
+「色々売ってるね」=“All kinds of stuff here, isn't there?”
+「面白そうなものがいっぱいだねー……なんか買ってこうかな」=“Yeah, there's so many interesting things~... maybe I'll buy something.”
+「あれなんて、可愛いんじゃないの？」=“Isn't that thing pretty cute?”
+「あー、悪くないけど、ちょっと高いかなぁ」=“Ah~, it's not bad but, it's a bit expensive, I'd say~”
+「せっかく来たんだし、もうちょっと見て回ろうか」=“Well, we bothered to come here, so let's look around more.”
+「うん、そうだねー」=“Yeah, okay~”
