@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「あなたは、嫌いな食べ物ってある？」=“Are there any foods you don't like?”
-「苦手な食べ物はあるけど、嫌いって程ではないかな」=“There's stuff that I don't enjoy, but nothing that I outright hate.”
-「昔は割と好き嫌いがあったんだけど、だんだん食べられる様になったよ」=“I used to have a lot of likes and dislikes, but I gradually taught myself to eat anything.”
-「年を取ると味覚は劣化するらしいから、それで食べられる様になったのかもしれないわね」=“It's said our taste buds deteriorate as we get older. Maybe that's how you got used to eating everything.”
-「大人になったからじゃなくて、老化だったのか……悲しい」=“So it isn't about maturing, it's about aging... well that's just sad.”
+「あなたは、嫌いな食べ物ってある？」=“Are there, things you hate eating?”
+「苦手な食べ物はあるけど、嫌いって程ではないかな」=“There's things I find a bit hard to eat but, I wouldn't go for "hate", no.”
+「昔は割と好き嫌いがあったんだけど、だんだん食べられる様になったよ」=“I used to be a really picky eater actually, back in the day, but not so much nowadays.”
+「年を取ると味覚は劣化するらしいから、それで食べられる様になったのかもしれないわね」=“Apparently, the older you get, the more your sense of taste deteriorates so, that might explain why.”
+「大人になったからじゃなくて、老化だったのか……悲しい」=“So it wasn't because I became more mature, but because I got older, huh... what a sad thought.”

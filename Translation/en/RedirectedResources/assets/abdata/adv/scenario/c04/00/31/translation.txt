@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「これは……絵になるなぁ」=“This is... quite the picture.”
-「うん？　何の話？」=“Yeah? What are you talking about?”
-「この景色ときみの姿が、なんというか様になってるなって思ったんだ」=“You, and the view... Kinda fits well within a frame.”
+「これは……絵になるなぁ」=“This is... pretty picturesque~”
+「うん？　何の話？」=“Hm? What're you talking about?”
+「この景色ときみの姿が、なんというか様になってるなって思ったんだ」=“You just standing there, with this scenery as a backdrop, is just the perfect picture, in my opinion.”
 「それは、褒めているのかしら？」=“Is that a compliment?”
-「もちろん！　俺にもうちょっと語彙力があれば、この美しさを伝えられるんだけど……」=“Of course! If my vocabulary was better, I could tell you how beautiful it looks from here...”
-「う、うーん、あんまりピンときてないんだけど……褒めて貰えて悪い気はしないわ」=“I-Is that so, I don't think that's the case... but I appreciate the compliment.”
+「もちろん！　俺にもうちょっと語彙力があれば、この美しさを伝えられるんだけど……」=“Of course! If my vocabulary wasn't so pathetic, I'd be able to express the beauty of this way better...”
+「う、うーん、あんまりピンときてないんだけど……褒めて貰えて悪い気はしないわ」=“N-Nnnn, I don't really see it myself but... well, it doesn't feel bad when someone compliments you.”

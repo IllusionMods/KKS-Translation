@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「お土産を見てみようよ」=“Let's have a look at the souvenirs.”
-「ねえ見て、星の砂のキーホルダーよ」=“Hey, look, a star sand keychain.”
-「砂が星の形をしているなんて素敵ね……」=“I like how it's in the shape of a star...”
-「知ってる？　星の砂の正体って小さな生き物が死んだあとの殻なんだって」=“Did you know? The true identity of the star sand is that it's a shell of a tiny creature, after it dies.”
-「もう……ここでそういうことを言う？　ロマンの欠片もないわね……」=“God... why did you have to tell me that? There's not an ounce of romance in it.”
-（まずい……！　呆れられている……！）=(Crap...! Wrong move...!)
-「だけどほら、中身が空っぽならその分だけ思い出を詰め込めるってことでしょ？　お土産にピッタリかも」=“But hey, look... if the shell's empty, doesn't that mean you can fill it with your own memories? It's the perfect souvenir.”
-「あら？　なかなか素敵な考え方ね。いいわ。今ので許してあげる」=“Oh? That's a nice sentiment. Good. You're forgiven.”
-「ほっ、よかった……」=“Whew, that's good...”
-「このキーホルダー買っていきましょうか」=“Should I buy the keychain?”
-「他のは見なくていいの？」=“Don't you want to check out the others, first?”
-「うん、これが気に入ったわ」=“Yeah, I like this one.”
-「肌身離さず持ち歩いて、島の思い出をキーホルダーに詰め込むの。素敵でしょ？」=“Carry it around with you, and fill it with the memories of your island vacation. Isn't that wonderful?”
-「それはいい考えだね。せっかくだからペアで買おっか？」=“That's a good idea. Let's buy a matching pair, okay?”
-「ふふっ。さっそくいい思い出が作れそうね」=“Fufu! I think we're gonna make some good memories right away.”
+「お土産を見てみようよ」=“Let's browse some souvenirs, c'mon.”
+「ねえ見て、星の砂のキーホルダーよ」=“Hey, look, it's a starsand keychain.”
+「砂が星の形をしているなんて素敵ね……」=“The fact that sand really does take this shape is just beautiful, isn't it...”
+「知ってる？　星の砂の正体って小さな生き物が死んだあとの殻なんだって」=“Actually, did you know? Apparently, starsand is all just the husks of dead tiny organisms.”
+「もう……ここでそういうことを言う？　ロマンの欠片もないわね……」=“Jeez... who brings up something like that in a place like this? You've not a shred of romance in you...”
+（まずい……！　呆れられている……！）=(Damn...! That just annoyed her...!)
+「だけどほら、中身が空っぽならその分だけ思い出を詰め込めるってことでしょ？　お土産にピッタリかも」=“But, you know, since the husks are empty, that just means that we can stuff them full of memories, no? Might be just the perfect souvenir, really.”
+「あら？　なかなか素敵な考え方ね。いいわ。今ので許してあげる」=“Oh? That's a pretty lovely way of thinking. Alright, I forgive you.”
+「ほっ、よかった……」=“Hoh--, thank god...”
+「このキーホルダー買っていきましょうか」=“Let's buy this keychain.”
+「他のは見なくていいの？」=“You sure you don't wanna look around more?”
+「うん、これが気に入ったわ」=“Yep, I like this.”
+「肌身離さず持ち歩いて、島の思い出をキーホルダーに詰め込むの。素敵でしょ？」=“I'm gonna walk all over the island with it, and stuff it full of memories of it. Doesn't that sound just wonderful?”
+「それはいい考えだね。せっかくだからペアで買おっか？」=“It does. Wanna buy two then, as a pair?”
+「ふふっ。さっそくいい思い出が作れそうね」=“Fufuh--. That'd be a nice first memory to fill it with.”

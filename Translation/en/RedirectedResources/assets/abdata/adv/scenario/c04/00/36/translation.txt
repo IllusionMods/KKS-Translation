@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「定番といえば、ビーチバレー、ビーチフラッグ、スイカ割りあたりだよね。何をしようか？」=“The most popular activities are beach volleyball, beach flags, and watermelon splits. What should we do?”
-「どれも二人でやる遊びじゃない気がするけど……本当にするの？」=“I don't think any of those are good with just two people... should we really try one?”
-「そっか……今から他の人を誘えないし、どうしようかな」=“I see... since we can't invite anyone else right now, what should we do?”
-「あ、それなら私、やってみたいことがあるの」=“Ah, there is something I want to try.”
-「砂浜を掘っていくから、あなたはその中に入ってね」=“I'm going to dig a hole in the sand, and you're going to go inside it.”
-「それ、埋められちゃうやつだよね！？」=“I'm the one who's gonna get buried!?”
+「定番といえば、ビーチバレー、ビーチフラッグ、スイカ割りあたりだよね。何をしようか？」=“As far as things to do go, we've got beach volleyball, beach flags, and watermelon splitting, and whatnot. What should we do?”
+「どれも二人でやる遊びじゃない気がするけど……本当にするの？」=“I feel like none of them are things you really do with just two people... are we really doing them?”
+「そっか……今から他の人を誘えないし、どうしようかな」=“Right... not like we can really invite anyone else at this point, what should we do?”
+「あ、それなら私、やってみたいことがあるの」=“Ah, in that case, there's something I want to try.”
+「砂浜を掘っていくから、あなたはその中に入ってね」=“I'll dig out the sand so, you get inside there, okay?”
+「それ、埋められちゃうやつだよね！？」=“You're just gonna bury me inside, no!?”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「紅型染めって着物なんかも、全部こういう風に手作業で作ってるんだよね、すごいなぁ……」=“Bingata-dyed kimonos and the likes are all made by hand, aren't they? Amazing when you think about it...”
-「ええ、職人さんには頭が下がるばかりね」=“Yeah, you've gotta hand it to the artisans who make them.”
-「集中力がすごいんだろうね。俺がやったら絶対途中で失敗する自信があるよ」=“They must have really incredible concentration. I just know that if I try to do that, I'll screw up somewhere along the way.”
-「きちんと仕上げられたら、私がご褒美をあげるって言ったらどうかしら？」=“What if I told you that I'd reward you... if you finished it correctly?”
-「それなら死に物狂いで頑張るよっ」=“If it's like that, then I'll work like crazy!”
+「紅型染めって着物なんかも、全部こういう風に手作業で作ってるんだよね、すごいなぁ……」=“Stencil dyed stuff like kimonos and whatnot, is all made by hand, one by one, isn't it? It's so amazing...”
+「ええ、職人さんには頭が下がるばかりね」=“Yes, it's hard to not be awed at a master's work, isn't it?”
+「集中力がすごいんだろうね。俺がやったら絶対途中で失敗する自信があるよ」=“I bet their concentration is just something else entirely. I have full faith that I'd mess something like that up midway through.”
+「きちんと仕上げられたら、私がご褒美をあげるって言ったらどうかしら？」=“What If I told you that I'd reward you thoroughly, for finishing it properly?”
+「それなら死に物狂いで頑張るよっ」=“I'd put my life on the line and do it--”

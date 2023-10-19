@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「気分転換に、ここでゆっくりしていこうよ」=“Let's relax here a while for a change of pace.”
-「ふぅ、風が気持ちいいね……」=“Fuuuu, the breeze feels good...”
-「海側から風が吹いているのね。潮の香りがするわ」=“The wind's blowing in from the seaside. It has that salty tang to it.”
-「こうしてのんびりと風を感じていると、なんだか眠くなっちゃう……」=“When I just relax, and enjoy the breeze like this, I get sleepy...”
-「眠ってもいいよ。俺がそばで見守ってるから」=“It's fine if you sleep. I'll watch over you.”
-「魅力的なお誘いだけれど、やめておくわ。あなたに悪戯されそう」=“That's an intriguing invitation, but I don't think so. I think you might play a trick on me.”
-「そんなことしないよ」=“I wouldn't do that.”
-「本当かしら？　私だったら、あなたを膝枕して髪を撫でたりするけれど」=“Is that really true? If it were me, I'd lay your head on my knees and stroke your hair.”
-「ふわぁ、なんだか眠くなってきたぞ。ちょっと横になろうかな」=“*yawns*, I'm starting to get sleepy. I wonder if I should take a little nap.”
-「ふふっ、わざとらしいあくびね」=“Fufu! You yawned on purpose.”
-「そんな演技をしなくても、お願いしてくれたら膝枕くらいするわよ」=“You don't need to pull an act. You can use my lap as a pillow any time you want.”
-「私たちは恋人同士なんだし」=“We are lovers, after all.”
-「それもそうだね。ならお願いしようかな」=“True that. How about now then?”
-「ふふっ。現金な人ね」=“Fufu! You're certainly not one to wait.”
-「それじゃあ、しばらく風を感じましょうか」=“Well then, let's just enjoy the breeze for awhile.”
-「あなたと二人きりで、何もせずゆったりと……ね」=“Just you and me, relaxing, doing nothing... yeah.”
+「気分転換に、ここでゆっくりしていこうよ」=“Let's take a break here, it'll make for some good change of pace.”
+「ふぅ、風が気持ちいいね……」=“Fuuh, the breeze feels really nice, doesn't it...”
+「海側から風が吹いているのね。潮の香りがするわ」=“It's blowing in from the sea, isn't it? I can smell saltwater.”
+「こうしてのんびりと風を感じていると、なんだか眠くなっちゃう……」=“Just feeling the breeze like this, is making me kinda sleepy...”
+「眠ってもいいよ。俺がそばで見守ってるから」=“You could just sleep, you know? I'll watch over you.”
+「魅力的なお誘いだけれど、やめておくわ。あなたに悪戯されそう」=“That's a really tempting offer but, I'll pass. I feel like you'd prank me.”
+「そんなことしないよ」=“I would never.”
+「本当かしら？　私だったら、あなたを膝枕して髪を撫でたりするけれど」=“Is that so? If it was me, I'd put your head on my lap and stroke it though.”
+「ふわぁ、なんだか眠くなってきたぞ。ちょっと横になろうかな」=“Fuwah~, I feel so sleepy all of a sudden. Maybe I'll take a nap myself.”
+「ふふっ、わざとらしいあくびね」=“Fufuh--, what a suspicious yawn.”
+「そんな演技をしなくても、お願いしてくれたら膝枕くらいするわよ」=“You don't need to put on an act like that, you know? I'd do it for you if you just asked me.”
+「私たちは恋人同士なんだし」=“We're a couple afterall.”
+「それもそうだね。ならお願いしようかな」=“You're not wrong. Maybe I'll take you up on that then.”
+「ふふっ。現金な人ね」=“Fufuh--, always so quick.”
+「それじゃあ、しばらく風を感じましょうか」=“Well then, let's savour the breeze for a bit.”
+「あなたと二人きりで、何もせずゆったりと……ね」=“Just you and me, without anything to interrupt us...”
