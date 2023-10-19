@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「綺麗な場所ね～。観光スポットとして人気があるのも分かるわ」=
-//「そうだね。こうやって景色を眺めるだけでも気持ちがいいや」=
-//「カップルで肩を並べて見たら、もっと素敵でしょうね」=
-//「う、うん……」=
-//（他意はないんだろうけど……カップルって言われると意識しちゃうな）=
+「綺麗な場所ね～。観光スポットとして人気があるのも分かるわ」=“What a pretty place. I can certainly see why it's so popular as a tourism spot.”
+「そうだね。こうやって景色を眺めるだけでも気持ちがいいや」=“Yeah. Just looking at the scenery like this feels good on its own.”
+「カップルで肩を並べて見たら、もっと素敵でしょうね」=“I imagine it'd look even more lovely, looking at this as a couple.”
+「う、うん……」=“Y-Yeah...”
+（他意はないんだろうけど……カップルって言われると意識しちゃうな）=(I'm sure she doesn't mean anything by it... but man if that doesn't make me conscious of it.)

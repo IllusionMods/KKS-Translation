@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うふふ……あなたの手が気持ち良くて、うっとりしちゃったわ♪」=
-//「あなたは上手ね。ありがとう♪」=
-//「ありがとう。おかげで助かったわ」=
-//「あら……都合が悪くなったの？　また時間が空いたときに塗ってくれたら嬉しいわ」=
+「うふふ……あなたの手が気持ち良くて、うっとりしちゃったわ♪」=“Ufufuh... your hands felt so nice, I was lost in them♪”
+「あなたは上手ね。ありがとう♪」=“You're really good at this. Thanks♪”
+「ありがとう。おかげで助かったわ」=“Thanks. You did me a big favour.”
+「あら……都合が悪くなったの？　また時間が空いたときに塗ってくれたら嬉しいわ」=“Oh dear... did something come up? If you could do it when you have the time, I'd love that.”

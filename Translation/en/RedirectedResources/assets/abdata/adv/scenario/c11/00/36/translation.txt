@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「一緒にカヤックを漕ぎながら、マングローブ林を巡るのね。面白そうだわ」=
-//「私があなたに合わせるから、あなたは気にせず漕いでちょうだい。見に行きたい場所も遠慮せずに言ってね」=
-//「あはは……ありがとう。でも遠慮しないでっていうのは、俺も同じ気持ちだよ」=
-//「気になることがあったらすぐに言ってね」=
-//「うふふ、ありがとう。それじゃあ一緒に楽しみましょうか」=
+「一緒にカヤックを漕ぎながら、マングローブ林を巡るのね。面白そうだわ」=“We're going to row our way together around mangroves, huh? Sounds fun.”
+「私があなたに合わせるから、あなたは気にせず漕いでちょうだい。見に行きたい場所も遠慮せずに言ってね」=“I'll match my beat with yours so, just go ahead and row freely. Also, if you want to stop and take a look at anything, don't hold it in and just lemme know, okay?”
+「あはは……ありがとう。でも遠慮しないでっていうのは、俺も同じ気持ちだよ」=“Ahahaha... thanks. But I wanna say the same thing to you.”
+「気になることがあったらすぐに言ってね」=“If you wanna stop and look at something, just say the word.”
+「うふふ、ありがとう。それじゃあ一緒に楽しみましょうか」=“Ufufuh, thanks. Well then, let's enjoy ourselves.”

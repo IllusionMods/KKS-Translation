@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うふふ、ありがと～。すっごくリラックス出来たわ♪」=
-//「ふふ、あなたにお願いしてよかったわ。ありがとう」=
-//「塗ってくれてありがとうね」=
-//「あら？　まだ塗ってないけど……用事でも思い出した？」=
+「うふふ、ありがと～。すっごくリラックス出来たわ♪」=“Ufufuh, thanks~. That was very relaxing♪”
+「ふふ、あなたにお願いしてよかったわ。ありがとう」=“Fufuh, I'm glad I asked you. Thanks.”
+「塗ってくれてありがとうね」=“Thanks for rubbing it on me.”
+「あら？　まだ塗ってないけど……用事でも思い出した？」=“Oh? You've not done it yet though... did you remember something urgent?”

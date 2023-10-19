@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えっと……混ざりたいの？　……どうする？」=“Erhm... You wanna join us? What do you wanna do?”
+「えっと……混ざりたいの？　……どうする？」=“Erhm... you wanna join us? ...What do you say?”
 「まぁ～、素敵な提案ね！　私はオッケーよ」=“My~, what a lovely idea! I'm all for it.”
 「もぉ、何人とでもいいから、早く続きしましょうよぉ♪」=“Jeez, I don't care how many people it ends up being, let's just keep going♪”

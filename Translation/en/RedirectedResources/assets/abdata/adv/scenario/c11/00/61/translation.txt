@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あら……？　ここのオイル、使ってもいいのかしら？」=
-//「そうみたいだね。よかったら、俺が塗ってあげようか？」=
-//「いいの？　一人だと背中側は届かないから助かるわ～」=
+「あら……？　ここのオイル、使ってもいいのかしら？」=“Oh...? Can we use the oil here, do you think?”
+「そうみたいだね。よかったら、俺が塗ってあげようか？」=“Seems like it. Want me to rub it on you?”
+「いいの？　一人だと背中側は届かないから助かるわ～」=“You sure? I can't really reach my own back myself so you'd be doing me a favour~”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ごちそうさまでした。お料理の腕を磨いてるから、期待しててちょうだい♪」=
+「ごちそうさまでした。お料理の腕を磨いてるから、期待しててちょうだい♪」=“That was a fantastic meal. I get better at cooking everyday so, expect great things♪”

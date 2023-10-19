@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「海の世界は素敵ね～。もっと上達して、長く潜れるようになりたいわ♪」=
+「海の世界は素敵ね～。もっと上達して、長く潜れるようになりたいわ♪」=“The world underwater is just wonderful, isn't it~? I want to get better at this, so that we can dive for longer♪”

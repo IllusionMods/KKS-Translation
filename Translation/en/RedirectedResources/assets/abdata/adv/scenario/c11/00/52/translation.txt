@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ごちそうさまでした。次から私があなたのメニューを考えようかしら……なんて、さすがにお節介が過ぎるわね」=
+「ごちそうさまでした。次から私があなたのメニューを考えようかしら……なんて、さすがにお節介が過ぎるわね」=“That was a great meal. Maybe I'll start thinking of your menu, from next time onwards... heh, I'm joking. Even I'm not that much of a busybody.”

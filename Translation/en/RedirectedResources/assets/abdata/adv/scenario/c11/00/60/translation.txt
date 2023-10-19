@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「ねえ……お部屋にいれてくれない？」=
-SELECTION:「返事をする」=Respond
+「ねえ……お部屋にいれてくれない？」=“Hey... won't you let me inside?”
+SELECTION:「返事をする」=Answer her
 SELECTION:「……」=...
-「どうしたの？」=“What's up?”
-//「夜遅くにごめんなさいね……今すぐあなたに会いたくなっちゃって、我慢出来なかったの」=
-//「あなたの温もりで……私を慰めてほしいわ」=
-//「もう寝ちゃってるみたいね……残念だけど、会えるのはまた明日かしら……」=
+「どうしたの？」=“What's wrong?”
+「夜遅くにごめんなさいね……今すぐあなたに会いたくなっちゃって、我慢出来なかったの」=“Sorry for bothering you so late at night... I wanted to see you so badly, I couldn't endure it.”
+「あなたの温もりで……私を慰めてほしいわ」=“I want you to soothe me... with your warmth.”
+「もう寝ちゃってるみたいね……残念だけど、会えるのはまた明日かしら……」=“Seems like he's already asleep... it's a shame but, I guess I'll see him tomorrow...”

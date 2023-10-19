@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あのね、今度は前の方も塗ってくれないかしら？」=
-//「前を……ゴクリ」=
-//「もう……エッチな意味じゃなくて、美容の為によ」=
-//「それはもちろん、分かってるよ？　だから俺に任せて」=
+「あのね、今度は前の方も塗ってくれないかしら？」=“Hey, listen, won't you do the front too, this time?”
+「前を……ゴクリ」=“The front... *gulp*.”
+「もう……エッチな意味じゃなくて、美容の為によ」=“Jeez... I don't mean anything lewd, it's just for my beauty.”
+「それはもちろん、分かってるよ？　だから俺に任せて」=“Of course, I get that. So leave it to me.”

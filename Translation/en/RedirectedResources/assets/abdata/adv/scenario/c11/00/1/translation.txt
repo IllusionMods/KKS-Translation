@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「付き合ってほしいってことは……お友達としての好きじゃなくて、男女の仲で……という意味よね？」=
-//「……そうだよ。俺のことをひとりの男として見て欲しいんだ」=
-//「あなたの気持ちは分かったわ。でも、そんなお願いなんてする必要なんてないの」=
-//「私はずっと……あなたのことをひとりの男の子として意識してたんだから」=
-//「本当？　俺、てっきり子供扱いされてるとばっかり……」=
-//「あなたは可愛いけれど、それ以上にカッコイイわ。だから……告白してくれてありがとう。私もあなたのことが好きよ」=
-//「あぁ……嬉しいよ！　これからよろしくね！」=
+「付き合ってほしいってことは……お友達としての好きじゃなくて、男女の仲で……という意味よね？」=“When you say you want to me to go out with you... you don't mean as a friend but rather... as a man and woman, right?”
+「……そうだよ。俺のことをひとりの男として見て欲しいんだ」=“...That's right. I want you to look at me as a man.”
+「あなたの気持ちは分かったわ。でも、そんなお願いなんてする必要なんてないの」=“I understand how you feel. But, you really don't need to ask me to do that.”
+「私はずっと……あなたのことをひとりの男の子として意識してたんだから」=“Since I've... always looked at you as a man, a wonderful man.”
+「本当？　俺、てっきり子供扱いされてるとばっかり……」=“Really? I always thought you only looked at me as a little boy...”
+「あなたは可愛いけれど、それ以上にカッコイイわ。だから……告白してくれてありがとう。私もあなたのことが好きよ」=“That's because you're very adorable, but you're even cooler than that. So... thanks for confessing to me. I love you too.”
+「あぁ……嬉しいよ！　これからよろしくね！」=“Aah... I'm so happy! From now on we're a couple then.”

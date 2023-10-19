@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここでカップルドリンクが飲めるんだよ。頼んでみない？」=
-//「美味しそうだね～。綺麗だし、すごく可愛い……」=
-//「ええ、素敵なドリンクね。ちょうど喉が乾いていたの。嬉しいわ」=
-//「いいタイミングだったみたいだね」=
-//「そういうあなたは大丈夫？　ちゃーんと水分、摂取してる？」=
-//「んー……まあ、大丈夫じゃないかな」=
-//「本当に？　少し心配。普段から水分をたっぷり摂る習慣を作った方がいいわよ？」=
-//「熱中症対策で、一番手軽なのは水分を摂取することだもの。それに、他の病気にもかかりにくくなるって話だし」=
-//「そ、そうだね。うん、心配してくれてありがとう。気をつけるよ」=
-//「あ、それと、水分だけじゃなくミネラルも取らなきゃ駄目よ？」=
-//「……う～ん、じゃあジュースじゃなく、麦茶でも飲んだ方がいいかなぁ」=
-//「え……？　これ、飲まないの？　こんなに美味しそうなのに？　こんなに綺麗で可愛いのに？」=
-//「あはは、頼んで飲まないだなんてもったいないよ」=
-//「うふふ、よかった。一番大事なのは水分摂取だものね～」=
-//「麦茶も併せて飲めば、水分もミネラルもバッチリだね」=
-//「お腹がチャプチャプになっちゃうわ。水分を摂りすぎると、胃の働きが鈍くなっちゃうそうよ」=
-//「う～ん、バランスが難しいね。まあ、とにかく飲もうよ。美味しそうだよ」=
-//「ええ、そうね……それじゃいただきます♪」=
+「ここでカップルドリンクが飲めるんだよ。頼んでみない？」=“We can get a couples' drink here. Wanna try it?”
+「美味しそうだね～。綺麗だし、すごく可愛い……」=“It looks pretty delicious, doesn't it~? It's so pretty, and so cute...”
+「ええ、素敵なドリンクね。ちょうど喉が乾いていたの。嬉しいわ」=“Yes, it looks wonderful. My throat was just feeling a bit dry. So I'm happy.”
+「いいタイミングだったみたいだね」=“Seems like my timing was good then.”
+「そういうあなたは大丈夫？　ちゃーんと水分、摂取してる？」=“What about you though? Are you making sure you get enough hydration?”
+「んー……まあ、大丈夫じゃないかな」=“Nn... well, probably not.”
+「本当に？　少し心配。普段から水分をたっぷり摂る習慣を作った方がいいわよ？」=“Really? Now I'm a bit worried. You'd do well to make it a habit to consume enough water regularly, you know?”
+「熱中症対策で、一番手軽なのは水分を摂取することだもの。それに、他の病気にもかかりにくくなるって話だし」=“As far as heatstroke goes, it's the easiest way to ward against it. Not to mention, it makes it harder for other diseases to get their slimey paws on you.”
+「そ、そうだね。うん、心配してくれてありがとう。気をつけるよ」=“R-Right. Yeah, you're right to worry, thanks. I'll be more careful.”
+「あ、それと、水分だけじゃなくミネラルも取らなきゃ駄目よ？」=“Ah, also, you have to make sure to consume minerals too, you know? Water alone isn't enough.”
+「……う～ん、じゃあジュースじゃなく、麦茶でも飲んだ方がいいかなぁ」=“...Nnn, then rather than juice, maybe I go for barley tea instead.”
+「え……？　これ、飲まないの？　こんなに美味しそうなのに？　こんなに綺麗で可愛いのに？」=“Eh...? Are you not gonna drink this? Even though it looks so tasty? Even though it's so pretty and cute?”
+「あはは、頼んで飲まないだなんてもったいないよ」=“Ahahah, it'd be a waste not to, we already ordered it.”
+「うふふ、よかった。一番大事なのは水分摂取だものね～」=“Ufufuh, great. What's most important is getting enough hydration~”
+「麦茶も併せて飲めば、水分もミネラルもバッチリだね」=“If I get some barley tea too, then I'll be good on both hydration and minerals.”
+「お腹がチャプチャプになっちゃうわ。水分を摂りすぎると、胃の働きが鈍くなっちゃうそうよ」=“That'll just make your belly all swishy. If you hydrate too much, it makes your stomach less efficient, you know.”
+「う～ん、バランスが難しいね。まあ、とにかく飲もうよ。美味しそうだよ」=“Nnn, so bothersome. Well, let's just drink it. It looks so tasty.”
+「ええ、そうね……それじゃいただきます♪」=“Yes, let's... C'mon, here we go♪”

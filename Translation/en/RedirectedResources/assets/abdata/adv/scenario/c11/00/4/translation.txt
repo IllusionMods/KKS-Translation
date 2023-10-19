@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ええ、いいわ。しましょうか」=
-//「誘った俺が言うことじゃないけど……本当にいいの？」=
-//「もちろんよ。だって赤ちゃんを作る為に避けられない行為でしょ？　今の内から練習しておきたいわ」=
+「ええ、いいわ。しましょうか」=“Yes, alright. Let's do it, shall we?”
+「誘った俺が言うことじゃないけど……本当にいいの？」=“I realize I'm not one to be saying this, having asked you and all that but... are you really sure?”
+「もちろんよ。だって赤ちゃんを作る為に避けられない行為でしょ？　今の内から練習しておきたいわ」=“Of course. It's something unavoidable if I want to have kids someday, no? I want to get some practice in while I still can.”
