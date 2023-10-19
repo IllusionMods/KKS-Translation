@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……人間界には奇妙なモノがたくさんあるのだな」=
-//「確かに、ここには珍しい商品が並んでるね」=
-//「魔界にも、こういうお土産コーナーみたいなところはあるの？」=
-//「勿論！　一度、人間界にアンテナショップを建てる計画もあったのだが……」=
-//「そんな計画が！？　え、どうなったの？」=
-//「人間には些か刺激が強すぎるなどと議論が進むうちに、いつの間にか立ち消えてしまった」=
-//（……良識的な悪魔もいるんだな）=
+「……人間界には奇妙なモノがたくさんあるのだな」=“...The human world has a lot of strange things, doesn't it?”
+「確かに、ここには珍しい商品が並んでるね」=“There really are a whole lot of unique looking things here.”
+「魔界にも、こういうお土産コーナーみたいなところはあるの？」=“Does the demon realm have gift shops like these too?”
+「勿論！　一度、人間界にアンテナショップを建てる計画もあったのだが……」=“Of course! Once, there was a plan in the works to open a branch store in the human world, however...”
+「そんな計画が！？　え、どうなったの？」=“Really?! Eh, what happened to it?”
+「人間には些か刺激が強すぎるなどと議論が進むうちに、いつの間にか立ち消えてしまった」=“It was thought that it'd be a bit too stimulating for humans, so it fizzled out.”
+（……良識的な悪魔もいるんだな）=(...There's some sensible demons out there too, huh?)

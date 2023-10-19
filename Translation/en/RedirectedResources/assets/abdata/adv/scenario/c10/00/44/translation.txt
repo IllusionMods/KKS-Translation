@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「我専用のケルベロスを作るぞ！」=
-//「３つ首のシーサーが並んでる光景か……恐ろしそうだ」=
-//「でもシーサーって魔よけの為に置かれてるんだよ？　[H名]は平気なの？」=
-//「ふふん、我は高位の悪魔だから効果がないのだ。それどころか僕にすることが可能！　さすが我！」=
-//「今日も[H名]が絶好調でなによりだよ」=
+「我専用のケルベロスを作るぞ！」=“I shalt make my very own cerberus!”
+「３つ首のシーサーが並んでる光景か……恐ろしそうだ」=“A shisa with 3 heads side by side, huh... sounds pretty scary.”
+「でもシーサーって魔よけの為に置かれてるんだよ？　[H名]は平気なの？」=“But shisas are supposed to be evil wards, you know? Will you be fine, [H名]?”
+「ふふん、我は高位の悪魔だから効果がないのだ。それどころか僕にすることが可能！　さすが我！」=“Fufuhn~, I'm a great demon so such things do not work on me. If anything, I can make it my servant! I truly am amazing!”
+「今日も[H名]が絶好調でなによりだよ」=“Well I'm glad to see you in such high spirits today too.”

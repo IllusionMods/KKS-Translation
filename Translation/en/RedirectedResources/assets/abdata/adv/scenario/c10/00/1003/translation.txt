@@ -1,15 +1,15 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お土産を見てみない？　[H名]が気に入りそうなお土産が売られてるかもしれないよ」=
-//「ククッ、我の眼鏡に適うアイテムなぞ、このような場末のショップに置いてあるわけがない」=
-//「だが、汝がそこまで言うなら付き合ってやろう。まったくもって時間の無駄だがな」=
-//「これを見よ！　おかしな文字がプリントされてるＴシャツだぞ。すごく可愛いな！」=
-//「おお！　あっちにはいかにも南国的なシャツが！　どれも魅力的だぞ！」=
-//「そうだね。気に入ったものはあるかな？」=
-//「うーむ、魅力的なアイテムがたくさんで、どれを選んだらいいか迷ってしまうなぁ」=
-//「すごい浮かれようだね。[H名]のお眼鏡に適いまくったみたいだ」=
-//「はっ！？」=
-//「ちちち違うぞっ。別に浮かれていたわけではない。これはただ、場に漂う妖気にあてられただけで……」=
-//「あっ！　カッコいいアクセサリーが売られているぞ！　あれはドラゴンがモチーフだと思わないかっ？」=
-//「なるほど。陽気という名の妖気にあてられたみたいだ」=
+「お土産を見てみない？　[H名]が気に入りそうなお土産が売られてるかもしれないよ」=“Wanna take a look at some souvenirs? You never know, they might have something you like.”
+「ククッ、我の眼鏡に適うアイテムなぞ、このような場末のショップに置いてあるわけがない」=“Kukuh--, there is simply no way for a backwater store like this to have an item that passes my evaluation.”
+「だが、汝がそこまで言うなら付き合ってやろう。まったくもって時間の無駄だがな」=“However, if thou insist then I shalt accompany thee. Though it is an utter waste of time.”
+「これを見よ！　おかしな文字がプリントされてるＴシャツだぞ。すごく可愛いな！」=“Look at this! A t-shirt with weird characters on it. It's so adorable!”
+「おお！　あっちにはいかにも南国的なシャツが！　どれも魅力的だぞ！」=“Ooh! There's so many southern looking shirts over there! They're all so charming!”
+「そうだね。気に入ったものはあるかな？」=“Yeah. Find anything you like?”
+「うーむ、魅力的なアイテムがたくさんで、どれを選んだらいいか迷ってしまうなぁ」=“Mmmmm, there's so many things I find attracting my eye, I cannot help but be indecisive.”
+「すごい浮かれようだね。[H名]のお眼鏡に適いまくったみたいだ」=“You're really loving it here, huh? Seems like this store did pass your evaluation then.”
+「はっ！？」=“Hah--!?”
+「ちちち違うぞっ。別に浮かれていたわけではない。これはただ、場に漂う妖気にあてられただけで……」=“N-N-N-Not at all--. I am not 'loving it' here. I was just, affected by the ghostly aura of this place...”
+「あっ！　カッコいいアクセサリーが売られているぞ！　あれはドラゴンがモチーフだと思わないかっ？」=“Ah--! What a cool accessory! Don't you think it looks like a dragon--?”
+「なるほど。陽気という名の妖気にあてられたみたいだ」=“I see. The god of joy himself possessed you, huh?”

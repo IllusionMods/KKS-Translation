@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ついに……ああ、ついにこの時が来てしまったな、我が同胞よ！」=
-「そうだね」=“I know.”
-//「ウムイの鐘……鐘を鳴らした者どもに絶対なる祝福を与えると言われる奇跡のアーティファクトッ！」=
-//「我と汝の契約を深めるのに役立つ、絶好の場所よ。この場にいるだけで愛の波動を感じる」=
-//「それじゃあさっそく鐘を鳴らそうか」=
-//「ま、待つのだ！　聖なる儀式を執り行うには、それ相応の準備が必要であろう？」=
-//「えぇと、その……わ、我は悪魔故に、ホーリーでセイントなパワーに完璧な耐性があるわけでない。直に浴びてしまったら……」=
-//「心の準備ができてないってことかな？　[H名]は初心だからなぁ」=
-//「初心ではない！　我の準備はとっくにできている！」=
-//「それより汝だ。聖域を使った本格的な儀式を行った経験はないだろう？」=
-//「確かに経験はないけど……何か特別な準備が必要なの？」=
-//「必要なのは覚悟だ。我とこの場で呪文を唱え、その魂を捧げてもらう」=
-//「具体的に内容は？」=
-//「汝、健やかなるときも病めるときも共に助け合い、命ある限り愛を尽くすことを誓います的な……」=
-//「その文言って、結婚式で誓う愛の言葉なのでは？」=
-//「……我と愛を誓うのは、嫌か……？」=
-//「そんなことないよ。[H名]となら永遠の愛も誓えるさ」=
-//「クククッ！　覚悟は出来ていたようだな。そうだ、汝は我から逃れられぬ運命にある！」=
-//「さあ、共に誓いを立てるぞ！　我らが愛よ、永遠なれ！　エターナルラブっ！」=
+「ついに……ああ、ついにこの時が来てしまったな、我が同胞よ！」=“Finally... aah, the time has finally come, my comrade!”
+「そうだね」=“Yeah.”
+「ウムイの鐘……鐘を鳴らした者どもに絶対なる祝福を与えると言われる奇跡のアーティファクトッ！」=“The bell of Umuy... A miraculous artifact, said to grant blessings and happiness to any that ring it!”
+「我と汝の契約を深めるのに役立つ、絶好の場所よ。この場にいるだけで愛の波動を感じる」=“The perfect place, to help deepen the pact between thee and I. Just being in this place, I feel the waves of love.”
+「それじゃあさっそく鐘を鳴らそうか」=“Well then, let's ring it.”
+「ま、待つのだ！　聖なる儀式を執り行うには、それ相応の準備が必要であろう？」=“T-Thou must wait! For such a sacred ritual, surely there are steps to be taken first?”
+「えぇと、その……わ、我は悪魔故に、ホーリーでセイントなパワーに完璧な耐性があるわけでない。直に浴びてしまったら……」=“Eerhm, uhm... a-as I am a demon, I am not perfectly immune to such holy and saintly powers. If I am showered in it directly...”
+「心の準備ができてないってことかな？　[H名]は初心だからなぁ」=“Do you mean to say that your heart's not ready? You are pretty innocent, for sure.”
+「初心ではない！　我の準備はとっくにできている！」=“I am not! My preparations have already been completed!”
+「それより汝だ。聖域を使った本格的な儀式を行った経験はないだろう？」=“However, surely thou do not have the experience of holding a genuine ritual in such a holy place?”
+「確かに経験はないけど……何か特別な準備が必要なの？」=“You're not wrong about that, but... do we need anything special?”
+「必要なのは覚悟だ。我とこの場で呪文を唱え、その魂を捧げてもらう」=“Indeed, and that special something is resolve. I shall have thee recite a spell with me, and give me thy soul.”
+「具体的に内容は？」=“And specifically, that would be?”
+「汝、健やかなるときも病めるときも共に助け合い、命ある限り愛を尽くすことを誓います的な……」=“It'd be a vow regarding us supporting each other whether in sickness or in health, and loving each other till our last breath...”
+「その文言って、結婚式で誓う愛の言葉なのでは？」=“Aren't those just marriage vows?”
+「……我と愛を誓うのは、嫌か……？」=“...Do you, not wish to swear thine love for me...?”
+「そんなことないよ。[H名]となら永遠の愛も誓えるさ」=“That's not true. I can swear eternal love for you, if you want me to.”
+「クククッ！　覚悟は出来ていたようだな。そうだ、汝は我から逃れられぬ運命にある！」=“Kukukuh--! Seems that your resolve was already steeled. That's right, thou art doomed to be unable to escape me!”
+「さあ、共に誓いを立てるぞ！　我らが愛よ、永遠なれ！　エターナルラブっ！」=“Come now, let us vow together! Our amour, shall last forevermore! Eternal love--!”

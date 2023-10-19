@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「耳栓で対策できるから、汝も持ち歩いていると良いぞ」=
+「耳栓で対策できるから、汝も持ち歩いていると良いぞ」=“The effect can be blocked with earplugs, so thou wouldst do well to carry some on thy person as well.”

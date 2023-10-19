@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「風の通り道になってるみたいだ。ここでゆっくりしていこうよ」=
-//「ふむ、よい風が吹いておるな」=
-//「でも、この風……少し悲しそうに聞こえるね。ひゅーひゅーってか細い声で鳴いてるよ」=
-//「何も悲しくて鳴いているわけではないと思うぞ。嬉しい時も過呼吸になるであろう？」=
-//「過呼吸？　つまりこの風は興奮してるってこと？」=
-//「その通り。魔界の限定レアグッズを見つけた時や、超時空のゲートが開いた時、悪魔なら喜びむせぶものだ」=
-//「この風は鬼門より吹いておる。おそらく、興奮した悪魔が息を乱しておるのだ。故に生ぬるい……」=
-//「えぇ……悪魔の吐息って生ぬるいんだ。何か嫌だなぁ」=
-//「悪魔が人に媚びへつらってどうする！　嫌なことを進んで行うのが悪魔だぞ！」=
-//「だったら、[H名]も人が嫌がることをするの？」=
-//「その通り。心苦しいが魂に刻まれし宿命故に、反故には出来ぬ」=
-//「ククッ、さっそく意地悪をしてやろうか？　悪魔的な吐息を汝にも吹きかけてやる」=
-//「我の生ぬるいデーモンブレスを喰らうがいい。汝と共に時を過ごせる喜びに、今日も呼吸が荒くなっておるぞ」=
-//「あはは。なるほどね。確かにいつも息が荒いもんね」=
-//「[H名]の吐息ならドンと来いだよ。そのままキスしちゃおうかな？」=
-//「んなぁ……っ！？　ば、ばかぁ。調子に乗るな！」=
-//「そういうのはその……しっかりと心の準備をした後で頼む……」=
-//「あ、う、うん。そのときはどうぞよろしくお願いします……」=
+「風の通り道になってるみたいだ。ここでゆっくりしていこうよ」=“Seems like lots of breeze blows through here. Let's sit down and relax for a bit.”
+「ふむ、よい風が吹いておるな」=“Humu, that's quite the breeze.”
+「でも、この風……少し悲しそうに聞こえるね。ひゅーひゅーってか細い声で鳴いてるよ」=“But... it does sound a bit sad somehow, doesn't it? It's making those hyuu-hyuu sounds.”
+「何も悲しくて鳴いているわけではないと思うぞ。嬉しい時も過呼吸になるであろう？」=“I do not think those are sad sounds. Are there not times one hyperventilates out of happiness?”
+「過呼吸？　つまりこの風は興奮してるってこと？」=“Hyperventilation? So you're saying that this breeze is excited?”
+「その通り。魔界の限定レアグッズを見つけた時や、超時空のゲートが開いた時、悪魔なら喜びむせぶものだ」=“Precisely. If they were to, perhaps, come across any sort of rare limited edition demon realm goods, or if the super-dimensional gate opened, any demon worth their salt would feel choked out of happiness.”
+「この風は鬼門より吹いておる。おそらく、興奮した悪魔が息を乱しておるのだ。故に生ぬるい……」=“This breeze is flowing out from the demon's gate. I imagine it's the work of an overexcited fiend. Little wonder that it's so tepid...”
+「えぇ……悪魔の吐息って生ぬるいんだ。何か嫌だなぁ」=“Eeh... a demon's breath is tepid? Feels kinda wrong. I don't like it~”
+「悪魔が人に媚びへつらってどうする！　嫌なことを進んで行うのが悪魔だぞ！」=“Dost thou thinkst that a demon would be obsequious to people?! Being a demon is about willfully doing things such as this!”
+「だったら、[H名]も人が嫌がることをするの？」=“In that case, do you do stuff that people don't like too?”
+「その通り。心苦しいが魂に刻まれし宿命故に、反故には出来ぬ」=“Precisely. It is a fate writ upon my soul, I cannot pretend it away.”
+「ククッ、さっそく意地悪をしてやろうか？　悪魔的な吐息を汝にも吹きかけてやる」=“Kukuh--, shall I play a prank on thee as well? I shalt lay a breeze upon thee as well.”
+「我の生ぬるいデーモンブレスを喰らうがいい。汝と共に時を過ごせる喜びに、今日も呼吸が荒くなっておるぞ」=“Just sit there and accept thine fate of having me blow my demon breath upon thee. My breath is quite charged already, for this is another happy day we've spent together.”
+「あはは。なるほどね。確かにいつも息が荒いもんね」=“Ahahah. I see. Your breath is always pretty rough, isn't it?”
+「[H名]の吐息ならドンと来いだよ。そのままキスしちゃおうかな？」=“Come at me then, I'm ready for it anytime. Wanna just make a kiss out of it while we're at it?”
+「んなぁ……っ！？　ば、ばかぁ。調子に乗るな！」=“Wwha...--!? D-Dummy--! Don't get carried away!”
+「そういうのはその……しっかりと心の準備をした後で頼む……」=“Do that sort of thing... when both of our hearts are ready for it...”
+「あ、う、うん。そのときはどうぞよろしくお願いします……」=“Ah, o-okay. Let's save it for then...”

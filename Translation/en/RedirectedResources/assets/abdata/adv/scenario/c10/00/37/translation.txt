@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「我の魔力を持ってすれば、カヤックなど一人で漕ぐことが出来るぞ！」=
-//「そうなの？　じゃあ俺はゆっくりマングローブを観察させてもらおうかな」=
-//「え？　あ……えっと、その……今のは違……」=
-//「ぐわぁぁぁ……百年前の戦いの古傷が急に……くっ、普段なら造作もないことだが、今の我の力だけは……」=
-//「ははは……意地悪言ってごめんね。じゃあ二人で力を合わせて頑張ろうか」=
+「我の魔力を持ってすれば、カヤックなど一人で漕ぐことが出来るぞ！」=“With powers like mine, be it a kayak or whathaveyou, I can row it all by myself!”
+「そうなの？　じゃあ俺はゆっくりマングローブを観察させてもらおうかな」=“Really? Maybe I'll just relax and appreciate the mangroves then.”
+「え？　あ……えっと、その……今のは違……」=“Eh? Ah... erhm, uhm... that was uhm...”
+「ぐわぁぁぁ……百年前の戦いの古傷が急に……くっ、普段なら造作もないことだが、今の我の力だけは……」=“Guwaaaaah... an old wound from the war a hundred years ago is suddenly acting... kuh--, normally this would be but a cinch, but as I am right now...”
+「ははは……意地悪言ってごめんね。じゃあ二人で力を合わせて頑張ろうか」=“Hahahah... sorry, I was being mean there. Alright, let's combine our powers and row it together.”

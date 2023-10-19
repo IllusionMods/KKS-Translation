@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ついに……汝に我の初めてを捧げる時が、訪れたのだな……」=
-//「儀式の準備は出来ている……いつでも大丈夫だ」=
+「ついに……汝に我の初めてを捧げる時が、訪れたのだな……」=“Finally... the time is here, for me to give my first time, to thee...”
+「儀式の準備は出来ている……いつでも大丈夫だ」=“I am ready for the ritual... thou canst start at any time.”
 「[H名]……」=“[H名]...”
-//「たとえ我が痛がっても、やめないでくれ。我は汝と最後まで、シたいのだ……」=
+「たとえ我が痛がっても、やめないでくれ。我は汝と最後まで、シたいのだ……」=“Even if I am in pain, pray do not stop. I wish to do it with thee, till the end...”

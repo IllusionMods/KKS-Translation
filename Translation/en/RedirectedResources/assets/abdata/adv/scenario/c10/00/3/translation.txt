@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えっと……告白ってことで、いいんだよね？」=
-//「ぅ……そ、そうです……好き、だから……」=
-//「ありがとう。実は俺も[H名]のことが気になっていたんだ」=
-//「だから、結ぶよ契約を」=
-//「ほ、本当か……？　冗談だと言っても、もう遅いぞ？」=
-//「こんな時に冗談を言ったりしない。本気で君のことが好きだ」=
-//「そ、そうか……じゃあ契約成立だ！　えっと……これからは、同胞としてだけじゃなくて……恋人として、その……」=
-//「うん、よろしくね！」=
+「えっと……告白ってことで、いいんだよね？」=“Erhm... I can take that as a confession, right?”
+「ぅ……そ、そうです……好き、だから……」=“Uu... t-that's right... I love, you so...”
+「ありがとう。実は俺も[H名]のことが気になっていたんだ」=“Thanks. You've been on my mind for the longest time too, actually.”
+「だから、結ぶよ契約を」=“So let's make that pact or whatever.”
+「ほ、本当か……？　冗談だと言っても、もう遅いぞ？」=“T-Thou meanst it...? Even if thou callst it a joke later, it is too late, alright?”
+「こんな時に冗談を言ったりしない。本気で君のことが好きだ」=“I'm not gonna weasel out like that, especially not about this. I do mean it, I am in love with you.”
+「そ、そうか……じゃあ契約成立だ！　えっと……これからは、同胞としてだけじゃなくて……恋人として、その……」=“I-I see... then, pact formed! Erhm... from now on, thou shalt be not just by comrade but... also my uhm, my boyfriend...”
+「うん、よろしくね！」=“Yep, let's take care of each other!”

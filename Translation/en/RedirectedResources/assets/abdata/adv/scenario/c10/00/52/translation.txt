@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「注文はあっていたな……次までに、見分けられる様にしないといけないようだ」=
+「注文はあっていたな……次までに、見分けられる様にしないといけないようだ」=“They did get it correct... We must learn how to tell them apart, by the next time.”

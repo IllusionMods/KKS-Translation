@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「な、汝は……この部屋で、儀式を行おうとしているのだろう？」=
-//「我もそれぐらい察しは付いてる……だから、その……」=
-//「……遠慮しないで始めても、大丈夫……だぞ？」=
+「な、汝は……この部屋で、儀式を行おうとしているのだろう？」=“T-Thou art... aiming to have the ceremony with me here, right?”
+「我もそれぐらい察しは付いてる……だから、その……」=“I am not such a fool as to not understand... so, uhm...”
+「……遠慮しないで始めても、大丈夫……だぞ？」=“...You don't need, hold back, you can just... start, you know?”

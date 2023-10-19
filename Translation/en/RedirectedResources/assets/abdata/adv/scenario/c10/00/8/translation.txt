@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「汝も目覚めたことだし、我は一旦魔界へと帰るとしよう」=
-//「何をしにって……お、女の子には色々と準備があるのだ。また会えるから、離れることを心配する必要はないぞ」=
+「汝も目覚めたことだし、我は一旦魔界へと帰るとしよう」=“Thou hath woken up as well, so I shall go back to the demon realm for the time being.”
+「何をしにって……お、女の子には色々と準備があるのだ。また会えるから、離れることを心配する必要はないぞ」=“To do what"... g-girls have a lot of things they have to do, okay? We can see each other at any time, so thou needst not worry.”

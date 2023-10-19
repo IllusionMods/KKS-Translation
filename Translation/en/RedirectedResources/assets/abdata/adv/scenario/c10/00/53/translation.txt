@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うぅ、まだ顔が熱い……食事時に変なことを言うのは、今後禁止だからな？」=
+「うぅ、まだ顔が熱い……食事時に変なことを言うのは、今後禁止だからな？」=“Uuu, my face is still hot... henceforth, thou art banned from speaking on such matters during mealtimes, alright?”

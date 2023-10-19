@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「首がたくさんあると、綺麗に作れないのだな……残念だ」=
+「首がたくさんあると、綺麗に作れないのだな……残念だ」=“It's quite hard to have this many heads, and have it be pretty at the same time... quite the shame.”

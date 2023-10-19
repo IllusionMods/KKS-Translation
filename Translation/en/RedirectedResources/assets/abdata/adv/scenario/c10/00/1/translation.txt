@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぇっ？　わ、我のことが好きなのか！？」=
-//「うん。実はずっと惹かれていてさ……俺が相手じゃダメかな？」=
-//「ダメなはずないよ……むしろ、私が彼女でいいの……？」=
-//「もちろん。[H名]以外、考えられないよ」=
-//「わ、我で良いのなら……汝と契約を交わそう」=
-//「この契りは不滅だからな？　もう我から離れられると思わないことだ！」=
-//「うん！　ずっと傍にいるよ。改めてよろしくね」=
+「ふぇっ？　わ、我のことが好きなのか！？」=“Fueh--? T-Thou art in love with me?!”
+「うん。実はずっと惹かれていてさ……俺が相手じゃダメかな？」=“Yeah. I've actually been attracted to you for the longest time... or am I not good enough?”
+「ダメなはずないよ……むしろ、私が彼女でいいの……？」=“There's no possible way for that to be the case... if anything, art thou fine with me...?”
+「もちろん。[H名]以外、考えられないよ」=“Of course. I can't think of anyone except you, [H名].”
+「わ、我で良いのなら……汝と契約を交わそう」=“I-If thou dost not mind... then I shall make a pack with thee.”
+「この契りは不滅だからな？　もう我から離れられると思わないことだ！」=“This pledge is eternal, understand? Let go of any thoughts of escaping my grasp!”
+「うん！　ずっと傍にいるよ。改めてよろしくね」=“Sure! I'll be with you forever. Let's take care of each other, okay?”

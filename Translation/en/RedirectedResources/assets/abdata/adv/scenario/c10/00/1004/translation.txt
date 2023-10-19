@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「浜辺を散歩しようよ」=
-//「ふぅ……海、か。深淵なる大海を眺めていると、我という存在がちっぽけなものに思えるな……」=
-//（[H名]が珍しくため息をついている。何か悩んでるのかな？）=
-//「くっ……！　我の右目が疼くっ。ええい、鎮まるのだっ！」=
-//「大丈夫？　目に砂が入ったのかな？」=
-//「違うぞ汝！　今のは海に眠りし邪神とのコンタクトを果たした我の安否を気遣い、解呪の魔法を使う場面であろう」=
-//「えっ！？　そうなの！？」=
-//「そうだ。そうしたら我が『危うく取り込まれるところだった。汝にはいつも助けられてばかりだな』と言う」=
-//「すると汝は『気にするな。きみを護ると契約したからな』とクールに笑ったあと、我の肩を抱き締めて……」=
-//「って、これ以上は恥ずかしくて言えぬ！」=
-//「あはは。そんなことまで妄想してたのか」=
-//「わ、悪いか？　汝と一緒に海で遊ぶの、すっごく楽しいから……」=
-//「全然悪くないよ。俺だって[H名]と遊ぶの楽しいよ」=
-//「でも、よかった。寂しそうな顔で遠くを見つめていたから心配したんだよ」=
-//「そ、そうであったか。いらぬ気を遣わせてすまなかったな」=
-//「悩みがあるなら遠慮せず打ち明けてね。解呪の魔法は使えないけど、[H名]の助けになりたいから」=
-//「クク、嬉しいことを言ってくれる。その心遣いで十分、我の助けになっているぞ」=
-//「気にしないで。[H名]を護ると契約したからね」=
-//「あっ、今の台詞……」=
-//「我が妄想したのと同じ台詞だな。やはり汝は最高のパートナーだ！」=
-//「それじゃあお望み通り、肩を抱こうか？」=
-//「……それは後で頼む。もうしばらく潮騒に耳を傾けていよう。今は二人の時間を楽しみたいのだ」=
+「浜辺を散歩しようよ」=“Let's take a walk down the beach.”
+「ふぅ……海、か。深淵なる大海を眺めていると、我という存在がちっぽけなものに思えるな……」=“Fuuh... the sea, huh? Looking at the abyssal sea directly, truly makes me feel the smallness of my own existence...”
+（[H名]が珍しくため息をついている。何か悩んでるのかな？）=(She's sighing. That's not like her. I wonder what's up?)
+「くっ……！　我の右目が疼くっ。ええい、鎮まるのだっ！」=“Kuh--...! My right eye is throbbing--! Quiet down, you--!”
+「大丈夫？　目に砂が入ったのかな？」=“You alright? Did you get some sand in there?”
+「違うぞ汝！　今のは海に眠りし邪神とのコンタクトを果たした我の安否を気遣い、解呪の魔法を使う場面であろう」=“No, thou! Now is where thou, out of concern for my safety, cast a rescue spell on me, after I have come into contact with the slumbering evil god in this place.”
+「えっ！？　そうなの！？」=“Eh--?! Really?!”
+「そうだ。そうしたら我が『危うく取り込まれるところだった。汝にはいつも助けられてばかりだな』と言う」=“That's right. And then I would say "I was almost swallowed up. Thou truly do always have my back, huh?".”
+「すると汝は『気にするな。きみを護ると契約したからな』とクールに笑ったあと、我の肩を抱き締めて……」=“And then thou wouldst say "Don't mind it. I swore to protect you" and laugh coolly, and then hold me...”
+「って、これ以上は恥ずかしくて言えぬ！」=“Wuh, any more is too embarrassing for me to say!”
+「あはは。そんなことまで妄想してたのか」=“Ahahah. You thought that far ahead, huh?”
+「わ、悪いか？　汝と一緒に海で遊ぶの、すっごく楽しいから……」=“I-Is there a problem with that? I quite enjoy, having fun with thee at the sea so...”
+「全然悪くないよ。俺だって[H名]と遊ぶの楽しいよ」=“Nope, no problem at all. I enjoy it too, you know.”
+「でも、よかった。寂しそうな顔で遠くを見つめていたから心配したんだよ」=“But I'm glad. You were staring out into the distance with a lonely face so I was getting worried.”
+「そ、そうであったか。いらぬ気を遣わせてすまなかったな」=“I-Is that so? Apologies, I did not mean to make thee worry.”
+「悩みがあるなら遠慮せず打ち明けてね。解呪の魔法は使えないけど、[H名]の助けになりたいから」=“If you've got anything bothering you, feel free to tell me, okay? I can't use any rescue spells but, I do want to help you as much as I can.”
+「クク、嬉しいことを言ってくれる。その心遣いで十分、我の助けになっているぞ」=“Kukuh, always saying such nice things. Thou art already much more of a saviour than thou realizest, with those feelings alone.”
+「気にしないで。[H名]を護ると契約したからね」=“Don't mind it. I swore to protect you afterall.”
+「あっ、今の台詞……」=“Ah--, that line...”
+「我が妄想したのと同じ台詞だな。やはり汝は最高のパートナーだ！」=“That's exactly the line I was imagining. Thou truly art the best partner one could ask for!”
+「それじゃあお望み通り、肩を抱こうか？」=“Well then, want me to hold you too?”
+「……それは後で頼む。もうしばらく潮騒に耳を傾けていよう。今は二人の時間を楽しみたいのだ」=“...Save that for later. Let us savour the sound of the waves for a bit more. I wish to enjoy this little slice of time for now.”
