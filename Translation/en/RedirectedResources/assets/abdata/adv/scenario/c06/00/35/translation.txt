@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「貴方とお揃いの品ですから、肌身離さず持ち歩こうかと思います」=
+「貴方とお揃いの品ですから、肌身離さず持ち歩こうかと思います」=“It is something I share with you, so I shall always keep it upon my person.”

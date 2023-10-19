@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この滝がぱわーすぽっとなのですね」=
-//「そうだね。何か不思議な力を感じたりする？」=
-//「綺麗な滝だとは思うのですが、特に変わったことは何も……」=
-//「やっぱり？　どうしてパワースポットって呼ばれるようになったんだろう」=
-//「由縁を調べてみると、面白いことが分かりそうな気がいたします」=
-//「それじゃあ、研修旅行らしく調べてみようかな」=
+「この滝がぱわーすぽっとなのですね」=“This waterfall is the so called 'power-spot', isn't it?”
+「そうだね。何か不思議な力を感じたりする？」=“Yeah. Feel anything supernatural?”
+「綺麗な滝だとは思うのですが、特に変わったことは何も……」=“I do think it's a very pretty sight but, I don't feel much else I'm afraid...”
+「やっぱり？　どうしてパワースポットって呼ばれるようになったんだろう」=“You too? I wonder why people call it a power spot then.”
+「由縁を調べてみると、面白いことが分かりそうな気がいたします」=“I have a feeling that the reason might be quite interesting, if we do end up finding it.”
+「それじゃあ、研修旅行らしく調べてみようかな」=“Well then, guess it's time to research it then, it's a study tour afterall.”

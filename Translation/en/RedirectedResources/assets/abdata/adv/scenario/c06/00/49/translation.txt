@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さて……何を注文しようかな。せっかくだし、二人で分けて食べる？」=
-//「では、こちらの天ぷらの盛り合わせはいかがでしょう。ご飯も注文すれば、丁度良い量かと思います」=
-//「あ……ですが、殿方には物足りないでしょうか？」=
-//「はは、気遣ってくれてありがとう。俺はもう一品何か頼もうかな」=
+「さて……何を注文しようかな。せっかくだし、二人で分けて食べる？」=“Now then... what should we order. Wanna get something together to share?”
+「では、こちらの天ぷらの盛り合わせはいかがでしょう。ご飯も注文すれば、丁度良い量かと思います」=“Well then, what about this assortment tempura platter? If we order rice as well, I do think it'd be just the perfect amount of food.”
+「あ……ですが、殿方には物足りないでしょうか？」=“Ah... however, as a man, would that be enough for you?”
+「はは、気遣ってくれてありがとう。俺はもう一品何か頼もうかな」=“Hahah, thanks for being considerate. Maybe I'll order an extra side.”

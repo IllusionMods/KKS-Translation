@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そういえば、[H名]は自分用のお土産は買った？」=
-//「いえ……そもそもお土産は人様に贈るものではないのですか？」=
-//「旅のお土産って自分にも買うと思うけどな。ほら、品物としての思い出も欲しいしさ」=
-//「せっかくだし、二人でお揃いの何か買おうよ」=
-//「貴方とお揃い……それは素敵です。何に致しましょう？　もっと見て回らないと行けませんね」=
+「そういえば、[H名]は自分用のお土産は買った？」=“Reminds me, have you bought any souvenirs for yourself yet?”
+「いえ……そもそもお土産は人様に贈るものではないのですか？」=“No... to begin with, are souvenirs not things to be given to other people?”
+「旅のお土産って自分にも買うと思うけどな。ほら、品物としての思い出も欲しいしさ」=“I think it's pretty normal to buy some for yourself too, on a trip. You know, as keepsakes.”
+「せっかくだし、二人でお揃いの何か買おうよ」=“Since we're here, let's go buy something matching together.”
+「貴方とお揃い……それは素敵です。何に致しましょう？　もっと見て回らないと行けませんね」=“Something matching with you... that sounds lovely. What should we buy? We really must look around the place more now.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「冗談では、ないのですね？」=
-//「……うん。本気でそう思ってるよ」=
-//「貴方のお気持ちは分かりました。そういう事でしたら……構いませんよ」=
-//「えっ？　本当にいいの？」=
-//「多少なりとも貴方の人柄は理解しているつもりです。だから……問題ございません」=
+「冗談では、ないのですね？」=“That isn't a, joke, is it?”
+「……うん。本気でそう思ってるよ」=“...Yeah. I'm serious.”
+「貴方のお気持ちは分かりました。そういう事でしたら……構いませんよ」=“I understand how you feel. I... do not mind.”
+「えっ？　本当にいいの？」=“Eh--? Are you really sure?”
+「多少なりとも貴方の人柄は理解しているつもりです。だから……問題ございません」=“I do understand how you are, at least a bit. So... I do not mind.”

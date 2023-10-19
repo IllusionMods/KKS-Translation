@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「その……貴方に初めてを捧げる覚悟は出来ていたつもりでしたが……」=
-//「いざ時が来ると、緊張してしまいますね……お恥ずかしい限りです」=
-//「ううん、そんなことないよ。俺の事をこんなにも思ってくれてありがとう」=
-//「絶対痛くしないなんて保証は出来ないけど……優しくするね」=
-//「はい、有難うございます。……宜しく、お願いいたします」=
+「その……貴方に初めてを捧げる覚悟は出来ていたつもりでしたが……」=“Uhm... my intention was to always be prepared to give you my virginity, however...”
+「いざ時が来ると、緊張してしまいますね……お恥ずかしい限りです」=“Now that the time has finally come, I cannot help but be nervous... how embarrassing.”
+「ううん、そんなことないよ。俺の事をこんなにも思ってくれてありがとう」=“Not at all. Thanks for thinking of me so much, [H名].”
+「絶対痛くしないなんて保証は出来ないけど……優しくするね」=“I can't give you a 100% guarantee that it won't hurt but... I'll be as gentle as I can.”
+「はい、有難うございます。……宜しく、お願いいたします」=“Yes, thank you very much. ...Please take, care of me.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「気持ち良さのあまり、天に昇ってしまいそうでした」=
-//「心休まる一時でした」=
-//「お疲れ様でした。改めてお礼申し上げます」=
-//「あ……本当に終わりにするのですね」=
+「気持ち良さのあまり、天に昇ってしまいそうでした」=“That felt so pleasant, I almost felt that I was ascending to heaven.”
+「心休まる一時でした」=“That was incredibly relaxing.”
+「お疲れ様でした。改めてお礼申し上げます」=“Thank you very much. Please do let me express my gratitude.”
+「あ……本当に終わりにするのですね」=“Ah... we really are stopping there, huh?”

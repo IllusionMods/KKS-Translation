@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「今回は、前の方も塗ってみない？」=
-//「私の胸に関心があるのですね？」=
-//「ないと言えば嘘になります。オイルまみれの胸はめっちゃ見たいです」=
-//「破廉恥ですね。かしこまりました。では、どうかよろしくお願いいたします」=
+「今回は、前の方も塗ってみない？」=“Wanna do the front too, this time?”
+「私の胸に関心があるのですね？」=“Interested in my chest, aren't you?”
+「ないと言えば嘘になります。オイルまみれの胸はめっちゃ見たいです」=“It would be a great lie to say that I do not, dear. I wish to see your chest covered in oil, dear.”
+「破廉恥ですね。かしこまりました。では、どうかよろしくお願いいたします」=“How lewd. Understood. Well then, please do it.”

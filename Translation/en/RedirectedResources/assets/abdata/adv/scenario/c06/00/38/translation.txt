@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こちらが、かやっく……成程、私達の絆が試されるわけですね」=
-//「息を合わせる必要はあるけど、そんな真剣に取り組むことじゃないよ？　楽しむことが大事だからさ」=
-//「仰ることは重々承知しておりますが、貴方の恋人として真剣に望むぬ訳にはいきません」=
-//「一糸乱れず貴方の呼吸に合わせますので、ご安心ください」=
-//「う、うん……嬉しいけど、マングローブを見るのは忘れないでね？」=
+「こちらが、かやっく……成程、私達の絆が試されるわけですね」=“So this is, a kayak... I see, our bond is going to be put to the test, is it?”
+「息を合わせる必要はあるけど、そんな真剣に取り組むことじゃないよ？　楽しむことが大事だからさ」=“We're gonna need to sync our breathing but that's really just about it, you know? What's important is to enjoy yourself.”
+「仰ることは重々承知しておりますが、貴方の恋人として真剣に望むぬ訳にはいきません」=“I understand what you're saying quite well but, as your woman I absolutely must take this seriously.”
+「一糸乱れず貴方の呼吸に合わせますので、ご安心ください」=“I shall match my breathing to yours perfectly so, please do not worry.”
+「う、うん……嬉しいけど、マングローブを見るのは忘れないでね？」=“S-Sure... that's alright but, don't forget to look at the mangroves too, alright?”

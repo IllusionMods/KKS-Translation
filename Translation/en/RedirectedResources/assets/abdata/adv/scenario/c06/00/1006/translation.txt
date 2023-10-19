@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「それじゃあ早速鳴らそうか」=“Okay, let's ring this thing then.”
-//「はい。あの……貴方との永遠の愛を願って鳴らしてもよろしいでしょうか？」=
-//「え、それ以外に何か願えたっけ？」=
-//「まだ婚約してはいませんから、ご迷惑ではないかと思いまして」=
-//「迷惑なんて、そんなことないよ。俺は[H名]との永遠の愛を願うつもりだったよ」=
-//「……！　ありがとうございます、それではしっかりと願わせていただきますね」=
-//「永遠の愛、願わせてくださって、誠にありがとうございます」=
-//「いや、そんな畏まってお礼を言われるようなことじゃ……いや、そんなこと言ったら[H名]に失礼だよね」=
-//「俺も、永遠の愛を願わせてくれてありがとう。[H名]は俺には勿体ないぐらい魅力的な女の子なのに」=
-//「そんなことはありません。人生を誓い合った相手は鏡合わせの自分と申します、貴方は私にとって勿体ない殿方では決してございません」=
-//「なるほど、ちょっと気後れしちゃってたかな」=
-//「それだけ私のことを本気で想ってくださっているのです。貴方の視線や態度、言葉の選び方、全てからしっかりと伝わってきます」=
-//「女を磨いてきた私にとって、想いを寄せる貴方に想い返していただけることほど嬉しいことはございません」=
-//「そこが気になってるのかな。俺は[H名]ほど男を磨いたことないから」=
-//「宝石は原石から磨かれたものだけではなく、天然水晶のように元から人を引きつけるものがございます」=
-//「いきなりこんなことを言われても容易には飲み込めないかと思いますが、いつかわかっていただけます。どうか心の片隅に留めてくださいまし……」=
-//「いや……人生を誓い合った相手は鏡合わせの自分なんだよね？」=
-//「人は一人一人違う存在ですが、人生を共にするならば陰陽の如く在るべしと教わりました」=
-//「陰陽ってあの白と黒の勾玉みたいなのが丸くなってるアレか。たしかに鏡合わせだね」=
-//「完全なる円を作るには二者が同じ形でなくてはなりません。お互いに影響し合い、溝を作らず、足りない部分を埋め、寄り添うことで実現します」=
-//「なら、俺は[H名]に天然水晶であることを証明してもらおうかな。自分の言葉ならいつか飲み込める気がするから」=
-//「はい。永遠の愛を誓った二人の……陰陽の陰として、陽である貴方の隣りで生き続けます。それこそが何よりの証明になるでしょうから」=
+「それじゃあ早速鳴らそうか」=“Well then, let's ring it.”
+「はい。あの……貴方との永遠の愛を願って鳴らしてもよろしいでしょうか？」=“Yes. Uhm... would it be alright if I was to wish for our love to last forever while we do it?”
+「え、それ以外に何か願えたっけ？」=“Eh, is there anything else we could wish for?”
+「まだ婚約してはいませんから、ご迷惑ではないかと思いまして」=“We are still not married so, I just think that it may be a bother to you.”
+「迷惑なんて、そんなことないよ。俺は[H名]との永遠の愛を願うつもりだったよ」=“Not at all, dummy. I was also planning on wishing for the same thing, you know.”
+「……！　ありがとうございます、それではしっかりと願わせていただきますね」=“...!! Thank you very much, I shall wish for it very hard then.”
+「永遠の愛、願わせてくださって、誠にありがとうございます」=“Thank you very much, truly, for letting me wish for this.”
+「いや、そんな畏まってお礼を言われるようなことじゃ……いや、そんなこと言ったら[H名]に失礼だよね」=“Seriously, you really don't need to humble yourself tha... no, I guess me saying that is disrespectful to you, isn't it?”
+「俺も、永遠の愛を願わせてくれてありがとう。[H名]は俺には勿体ないぐらい魅力的な女の子なのに」=“Thank you, for wishing for that too. You're seriously wasted on a guy like me, I mean it.”
+「そんなことはありません。人生を誓い合った相手は鏡合わせの自分と申します、貴方は私にとって勿体ない殿方では決してございません」=“Not at all. They say that the person you swear your life to is akin to your mirror self, so that's not true at all, atleast not to me.”
+「なるほど、ちょっと気後れしちゃってたかな」=“I see, I guess I lost my nerve there for a bit.”
+「それだけ私のことを本気で想ってくださっているのです。貴方の視線や態度、言葉の選び方、全てからしっかりと伝わってきます」=“You simply take our relationship that seriously, nothing more. I can feel it, from your gaze, from your attitude, and even from the words you choose.”
+「女を磨いてきた私にとって、想いを寄せる貴方に想い返していただけることほど嬉しいことはございません」=“To someone such as me, whose entire aim in life has been to become as appealing a woman as possible, nothing could make me happier than having my love be reciprocated by you in such a manner.”
+「そこが気になってるのかな。俺は[H名]ほど男を磨いたことないから」=“I guess that's what's been hanging over me. I mean, I'm not as appealing a man as you are a woman, you know?”
+「宝石は原石から磨かれたものだけではなく、天然水晶のように元から人を引きつけるものがございます」=“Not everything need be a gemstone in the rough, needing to be polished. Some things in life are naturally attractive, like water quartz are to some.”
+「いきなりこんなことを言われても容易には飲み込めないかと思いますが、いつかわかっていただけます。どうか心の片隅に留めてくださいまし……」=“I realize that it is something you may not be able to come to grips with right away but, you shall surely understand someday. Please, just bear those words of mine in a corner of your heart...”
+「いや……人生を誓い合った相手は鏡合わせの自分なんだよね？」=“No, but... you said that the person you swear your life to is like your mirror self, no?”
+「人は一人一人違う存在ですが、人生を共にするならば陰陽の如く在るべしと教わりました」=“I was taught that, though people are all different, one must be yin to the other's yang, for a couple to spend their lives together.”
+「陰陽ってあの白と黒の勾玉みたいなのが丸くなってるアレか。たしかに鏡合わせだね」=“You mean that black and white circle with holes in each side, huh? You're not wrong, each side definitely is a mirror of the other.”
+「完全なる円を作るには二者が同じ形でなくてはなりません。お互いに影響し合い、溝を作らず、足りない部分を埋め、寄り添うことで実現します」=“To make a perfect circle, both parties need be the same shape. To achieve that, they must influence each other, and without creating gaps, fill in the lacking parts of the other, and nustle up together.”
+「なら、俺は[H名]に天然水晶であることを証明してもらおうかな。自分の言葉ならいつか飲み込める気がするから」=“In that case, I guess I'll just have you prove to me that I'm a water quartz then. Since I think I'll be able to come to grips with myself someday that way.”
+「はい。永遠の愛を誓った二人の……陰陽の陰として、陽である貴方の隣りで生き続けます。それこそが何よりの証明になるでしょうから」=“Gladly. As the... yin, in our pair of lovers who've sworn to love each other forever, I shall stay with you until we die. That'll be the most convincing proof of all.”

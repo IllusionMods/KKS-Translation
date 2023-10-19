@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「夜分遅くに申し訳ございません。お部屋に入れていただけないでしょうか……」=
-SELECTION:「返事をする」=Respond
+「夜分遅くに申し訳ございません。お部屋に入れていただけないでしょうか……」=“I apologize for bothering you so late at night. Could you let me into the room, perhaps...”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「まだ起きてたし気にしないで。それで、どうかしたの？」=
-//「急に貴方の温もりが恋しくなりまして……自制することが出来ず、尋ねてしまいました」=
-//「どうか……私のことを抱いていただけませんか？」=
-//「……もうお休み中の様ですね。残念ですが、致し方ありません」=
+「まだ起きてたし気にしないで。それで、どうかしたの？」=“I was still awake so don't worry about it. So then, something happen?”
+「急に貴方の温もりが恋しくなりまして……自制することが出来ず、尋ねてしまいました」=“I just suddenly started craving your warmth... I couldn't control myself, and ended up looking for you.”
+「どうか……私のことを抱いていただけませんか？」=“Won't you... take me, please?”
+「……もうお休み中の様ですね。残念ですが、致し方ありません」=“...You must already be in bed. It's a shame but, it cannot be helped.”

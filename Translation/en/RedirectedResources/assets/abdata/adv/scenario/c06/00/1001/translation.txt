@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「涼しそうだし、ここでゆっくりしようよ」=“It's cool here. Let's relax here for a while.”
-//「風情のある縁側ですね。自然と心が落ち着きます」=
-//「[H名]にはこんな縁側がよく似合うよ。もしかして実家にもあるのかな？」=
-//「ご明察でございます。それほど立派なものではありませんが、我が家にも縁側がございます」=
-//「いいね。夏はそこでスイカを食べたり、花火をしたりしたの？　蚊取り線香とか焚いてさ」=
-//「いいえ、西瓜は居間でいただきます。花火は見ることはあってもいたしませんね」=
-//「あ、そっか。[H名]の家はけっこう厳格な家だったっけ」=
-//「私にとっては普通ですが、現代の考え方からしたら厳しすぎるぐらいかもしれません」=
-//「じゃあ、[H名]もそういうことはしたくないかな」=
-//「はい、教育の賜物か、自分からしたいとは思いません。ですが、昔は友人や周りの家庭が羨ましくて仕方ありませんでした」=
-//「子供のときはつらかっただろうね」=
-//「ええ。好きな雑誌や服を買ってもらっていて、習い事も嫌ならやめていいと聞いて、なぜうちはそうではないのかと呪ったこともございます」=
-//「ですがそのうち慣れてゆき、貴方と付き合って初めて私の花嫁修業はしっかりと意味のあったものなのだと確信いたしました」=
-//「そっか。でもそれって慣れて気にならなくなっただけで、まだ羨ましいと思う気持ちは残っているんじゃない？」=
-//「そう、ですね……もしかしたら、よく考えないようにしていたのかもしれません。貴方に言われて、胸がぎくりといたしました」=
-//「じゃあ今度しようよ。スイカにかぶりついて種を飛ばしたり、手持ちの花火で文字書いたりさ」=
-//「西瓜の種を……？　手で持つ花火もあるのですか？」=
-//「[H名]の知らないこと、いっぱいしよう。あ、でも、そういうの禁止されてるのかな」=
-//「そうですね、研修旅行に来る前に厳しく言いつけられました。ですが貴方とお付き合いさせていただいている以上、私は貴方の意見を優先させます」=
-//「厳しい家ではありますが、その厳しさは私があの家から巣立った後、立派な女として生きるためだと心得ております」=
-//「ですから、私の知らないことを沢山教えてください。この島では家のことは考えず、貴方のことを考えていたいのです」=
-//（[H名]、俺とのことを真剣に考えてくれてるんだな。俺もいろいろ教えてあげよう）=
+「涼しそうだし、ここでゆっくりしようよ」=“This place seems pretty cool, let's take it easy here.”
+「風情のある縁側ですね。自然と心が落ち着きます」=“Quite the refined veranda, isn't it? It's very calming.”
+「[H名]にはこんな縁側がよく似合うよ。もしかして実家にもあるのかな？」=“You really feel just perfect in a place like this. Do you have one of these at your home as well?”
+「ご明察でございます。それほど立派なものではありませんが、我が家にも縁側がございます」=“It is as you've guessed. It is nothing so impressive but, we do have one of these at home as well.”
+「いいね。夏はそこでスイカを食べたり、花火をしたりしたの？　蚊取り線香とか焚いてさ」=“Sounds nice. Ever eaten watermelon there in the summer? Or lit fireworks? With a mosquito coil and everything.”
+「いいえ、西瓜は居間でいただきます。花火は見ることはあってもいたしませんね」=“No, we eat watermelon at the dining table. And while we do go fireworks viewing, we do not do it ourselves.”
+「あ、そっか。[H名]の家はけっこう厳格な家だったっけ」=“Ah, right. Your family's pretty strict, isn't it?”
+「私にとっては普通ですが、現代の考え方からしたら厳しすぎるぐらいかもしれません」=“To me, it is perfectly normal but, from a modern point of view, it might just be a bit too suffocating indeed.”
+「じゃあ、[H名]もそういうことはしたくないかな」=“Then, I guess you don't feel like doing that stuff either?”
+「はい、教育の賜物か、自分からしたいとは思いません。ですが、昔は友人や周りの家庭が羨ましくて仕方ありませんでした」=“Yes, I imagine it's the result of my upbringing, but I do not feel the desire to do such things. However, back in the day I used to feel quite envious of my friends and neighbours indeed.”
+「子供のときはつらかっただろうね」=“Bet it must have been hard as a kid.”
+「ええ。好きな雑誌や服を買ってもらっていて、習い事も嫌ならやめていいと聞いて、なぜうちはそうではないのかと呪ったこともございます」=“Yes. I even used to detest it, how they would get whichever clothes and books they wished, and how they never had to force themselves to study things they did not like, and how I never had such freedom.”
+「ですがそのうち慣れてゆき、貴方と付き合って初めて私の花嫁修業はしっかりと意味のあったものなのだと確信いたしました」=“However, I became used to it eventually, and ever since we started our relationship, all that homemaking training truly does seem to have been worth it now.”
+「そっか。でもそれって慣れて気にならなくなっただけで、まだ羨ましいと思う気持ちは残っているんじゃない？」=“I see. But doesn't that mean you still feel a bit envious of that? You really only just got used to it, afterall.”
+「そう、ですね……もしかしたら、よく考えないようにしていたのかもしれません。貴方に言われて、胸がぎくりといたしました」=“I, suppose so... Perhaps, I have simply been trying not to think overmuch about it. I did just feel a very sharp pang in my heart.”
+「じゃあ今度しようよ。スイカにかぶりついて種を飛ばしたり、手持ちの花火で文字書いたりさ」=“Let's do it together sometime then. We'll dig into watermelon together and spit the seeds out, and we'll draw out characters with sparklers at night too.”
+「西瓜の種を……？　手で持つ花火もあるのですか？」=“Spit out watermelon seeds...? Are sparklers a type of firework?”
+「[H名]の知らないこと、いっぱいしよう。あ、でも、そういうの禁止されてるのかな」=“Let's do all sorts of things that you don't know, okay? Ah, but I'm not sure what your family would think of that.”
+「そうですね、研修旅行に来る前に厳しく言いつけられました。ですが貴方とお付き合いさせていただいている以上、私は貴方の意見を優先させます」=“Indeed, I was very strictly directed not to partake in such things before we left. However, now that I am yours, your opinion takes precedence.”
+「厳しい家ではありますが、その厳しさは私があの家から巣立った後、立派な女として生きるためだと心得ております」=“My family was a strict one, yet it was only because of that strictness, that I was able to leave the nest a wonderful woman.”
+「ですから、私の知らないことを沢山教えてください。この島では家のことは考えず、貴方のことを考えていたいのです」=“Thusly, please teach me all the things I do not know about. While we are here, I do not wish to think of my family, rather I wish to think only of you.”
+（[H名]、俺とのことを真剣に考えてくれてるんだな。俺もいろいろ教えてあげよう）=(She really does think of us so seriously. I'll have to teach her lots too.)

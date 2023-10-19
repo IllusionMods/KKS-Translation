@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「卓球台があるし、一勝負しない？」=
-//「――ご説明ありがとうございます。こちらのらけっとで、こちらのぴんぽん玉を打てばよろしいのですね」=
-//「そうそう。まさか初卓球とは思わなかったよ」=
-//「花嫁修業に卓球は含まれておりませんから。ですが、貴方に教わったおかげで、要領はつかめました」=
-//「おお、頼もしいな。でも最初はゆっくりでいいからね」=
-//「ありがとうございます。それでは参ります」=
-//「すごいよ、本当に初卓球？　ラリーすごく続いたね！」=
-//「お褒めいただきありがとうございます。教わったことは一度でしっかり覚えることと言いつけられております」=
-//「おぉ、それはなかなか厳しいね」=
-//「いいえ、厳しくはございません。こうして貴方にすごいと言っていただき、喜んでいただけました。それは私にとって何にも代え難い幸福です」=
-//「俺の喜びが幸せなんて、嬉しいこと言ってくれるなぁ……でも、もし一回で覚えられなくても俺は悲しんだりしないからね」=
-//「ありがとうございます。貴方はこの世で最もお優しい殿方ですね」=
-//「いや、さすがにそれはないよ」=
-//「いいえ。たとえ貴方よりも心の広い殿方が存在したとしても、私の人生には関係ございませんので」=
-//「これからも私は貴方を軸として生きてゆく所存でございます。ご迷惑でなければ、末永くお側に置いてくださいまし」=
-//（やっぱり[H名]は筋金入りの大和撫子だなぁ）=
+「卓球台があるし、一勝負しない？」=“They've even got a ping pong table, wanna go for a round?”
+「――ご説明ありがとうございます。こちらのらけっとで、こちらのぴんぽん玉を打てばよろしいのですね」=“---Thank you for explaining it to me. So I just need to use this 'racket' to hit this 'ping pong' ball at you, yes?”
+「そうそう。まさか初卓球とは思わなかったよ」=“Exactly. I didn't think it'd be the first time you've ever seen table tennis.”
+「花嫁修業に卓球は含まれておりませんから。ですが、貴方に教わったおかげで、要領はつかめました」=“It was never part of my homemaking training, you see. However, I have understood the gist of it, thanks to you.”
+「おお、頼もしいな。でも最初はゆっくりでいいからね」=“Ooh, great then. But we don't have to rush, it's your first time so let's take it easy, okay?”
+「ありがとうございます。それでは参ります」=“Thank you very much. Well then, let us start.”
+「すごいよ、本当に初卓球？　ラリーすごく続いたね！」=“Amazing, is this really your first time? We kept that rally going a while!”
+「お褒めいただきありがとうございます。教わったことは一度でしっかり覚えることと言いつけられております」=“Thank you for the praise. I have been taught to learn something from just the initial explanation.”
+「おぉ、それはなかなか厳しいね」=“Ooh, must have been pretty rough.”
+「いいえ、厳しくはございません。こうして貴方にすごいと言っていただき、喜んでいただけました。それは私にとって何にも代え難い幸福です」=“Not at all. It led to me making you happy, and being told that I am amazing by you. There could be no substitute for this happiness, for me.”
+「俺の喜びが幸せなんて、嬉しいこと言ってくれるなぁ……でも、もし一回で覚えられなくても俺は悲しんだりしないからね」=“Man, you really say some nice things sometimes... but, even if you didn't learn it from just the one explanation, it wouldn't have bothered me, you know?”
+「ありがとうございます。貴方はこの世で最もお優しい殿方ですね」=“Thank you very much. You truly are the sweetest man in this world.”
+「いや、さすがにそれはないよ」=“Nah, you really are overexaggerating now.”
+「いいえ。たとえ貴方よりも心の広い殿方が存在したとしても、私の人生には関係ございませんので」=“Not at all. Even if there were a man with a wider heart than you, he would not be someone I'd ever come across anyway.”
+「これからも私は貴方を軸として生きてゆく所存でございます。ご迷惑でなければ、末永くお側に置いてくださいまし」=“I intend to continue living my life with you as the center point of it. If it isn't a bother, please do let me stay by your side forever.”
+（やっぱり[H名]は筋金入りの大和撫子だなぁ）=(She really is a Yamato Nadeshiko through and through, isn't it?)

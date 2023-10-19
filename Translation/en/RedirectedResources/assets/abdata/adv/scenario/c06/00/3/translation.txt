@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お付き合いって……俺の事が好きなの？」=
-//「……はい。貴方の事を愛しております」=
-//「俺たち、両想いだったんだね。嬉しいよ」=
-//「誠、ですか？」=
-//「こんな時に嘘を吐かないよ。俺も愛してる」=
-//「有難うございます。はぁ……緊張が解けたら腰が抜けそうに……貴方と結ばれて本当に結ばれて良かったです」=
+「お付き合いって……俺の事が好きなの？」=“Go out... you love me?”
+「……はい。貴方の事を愛しております」=“...Yes. I do. I love you, truly.”
+「俺たち、両想いだったんだね。嬉しいよ」=“So this whole time we loved each other, huh? I feel so happy right now.”
+「誠、ですか？」=“Do you, truly mean it?”
+「こんな時に嘘を吐かないよ。俺も愛してる」=“I wouldn't lie at a time like this. I love you too.”
+「有難うございます。はぁ……緊張が解けたら腰が抜けそうに……貴方と結ばれて本当に結ばれて良かったです」=“Thank you very much. Haah... suddenly I feel quite limp... I feel truly blessed, to be tied to you like this.”

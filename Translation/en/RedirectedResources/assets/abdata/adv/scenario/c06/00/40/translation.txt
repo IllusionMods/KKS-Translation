@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お付き合いいただき感謝申し上げます。お陰でたくさん身体を動かす事が出来ました」=
+「お付き合いいただき感謝申し上げます。お陰でたくさん身体を動かす事が出来ました」=“Thank you for taking the time to keep me company there. Thanks to that, I got quite the workout today.”

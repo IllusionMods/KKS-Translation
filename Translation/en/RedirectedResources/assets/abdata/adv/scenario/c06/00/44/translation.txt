@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線って弦が少ないし簡単なのかと思ってたけど……全然そんなことなかったなぁ」=
-//「簡単に弾けないからこそ、面白いと思いませんか？」=
-//「[H名]はポジティブだね」=
-//「前向きに捉えれば、様々な事を楽しめると祖母に教わりましたから」=
-//「素敵な考え方だ。俺も一度、[H名]のおばあさんに会ってみたいな」=
-//「それは、然るべき時が来た際に……今はまだ時期尚早かと存じます……」=
+「三線って弦が少ないし簡単なのかと思ってたけど……全然そんなことなかったなぁ」=“I thought a sanshin would be pretty easy to play, what with its few strings and all but... I guess I took it too lightly, huh?”
+「簡単に弾けないからこそ、面白いと思いませんか？」=“Is it not interesting precisely because it is not an easy tool to master?”
+「[H名]はポジティブだね」=“You're quite the positive person, [H名].”
+「前向きに捉えれば、様々な事を楽しめると祖母に教わりましたから」=“My grandmother has always taught me, that as long as you think positively about things, you can enjoy almost everything.”
+「素敵な考え方だ。俺も一度、[H名]のおばあさんに会ってみたいな」=“That's a pretty nice way of thinking. I wanna meet your grandmother once too.”
+「それは、然るべき時が来た際に……今はまだ時期尚早かと存じます……」=“We can, arrange for that when the time is right... I think it would be a fair bit too premature still...”

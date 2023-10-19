@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お陰で有意義な時間を過ごす事が出来ました。ありがとうございます」=
+「お陰で有意義な時間を過ごす事が出来ました。ありがとうございます」=“Thanks to you, I had a very wonderful time. Thank you very much.”

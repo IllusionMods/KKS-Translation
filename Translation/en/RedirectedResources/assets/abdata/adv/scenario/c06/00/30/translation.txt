@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……広大な海を旅する船は、この灯台を目印にしているのですよね？」=
-//「うん？　まあ、そうらしいね」=
-//「潮風を浴びながら、旅の安全の為に建っている姿は、なんだか勇ましく見えます」=
-//「へぇ、面白いことを考えるんだね。言われたらなんかカッコよく見えてきたかも」=
+「……広大な海を旅する船は、この灯台を目印にしているのですよね？」=“...The ships that cross the vast distances between seas use these lighthouses as their guides, don't they?”
+「うん？　まあ、そうらしいね」=“Hm? Yeah, seems like it.”
+「潮風を浴びながら、旅の安全の為に建っている姿は、なんだか勇ましく見えます」=“The sight of it standing tall against the winds, all to safeguard ships and their voyages, almost looks manly in a sense.”
+「へぇ、面白いことを考えるんだね。言われたらなんかカッコよく見えてきたかも」=“Hoh, that's a pretty interesting way of looking at it. It kinda looks cool to me now too.”

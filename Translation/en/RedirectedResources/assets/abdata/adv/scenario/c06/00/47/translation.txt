@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「次の体験はいつにしましょう？　あ……気が早すぎましたね、申し訳ございません」=
+「次の体験はいつにしましょう？　あ……気が早すぎましたね、申し訳ございません」=“When shall we do this again? Ah... I got a bit ahead of myself there, I do apologize.”

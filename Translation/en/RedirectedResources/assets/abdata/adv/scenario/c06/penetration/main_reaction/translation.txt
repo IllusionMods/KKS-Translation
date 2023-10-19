@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ひっ……これはその、なんと申し上げたらよいのか……」=
+「ひっ……これはその、なんと申し上げたらよいのか……」=“Hih--... this is, uhm, how do I even begin to explain myself...”

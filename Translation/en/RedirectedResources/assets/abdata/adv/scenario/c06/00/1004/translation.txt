@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少し浜辺を歩かない？」=
-//「貴方とこうして浜辺を歩けるなんて、夢のような時間でございます。心なしか、時間の流れも遅く感じます」=
-//「穏やかな波のせいかな。こんな時間がずっと続けばいいのにね」=
-//「はい……こんな風に一生を過ごせたら、どんなに幸せなことでしょう」=
-//「いいえ、たとえ山あり谷ありの人生だとしても、貴方に添い遂げとうございます」=
-//「あはは、嬉しいけど、どうせなら穏やかな一生がいいよね」=
-//「私が花嫁修業を重ねてきたのは、貴方の人生を穏やかにするためです。これからも一層貴方のために尽くさせてください」=
-//「そんなことしたら疲れちゃう……と思ったけど、[H名]は尽力する方が人生に張りが出るタイプだよね」=
-//「貴方という、全身全霊を注ぎたいと思える人がいてこそです。厳しい花嫁修業に耐えられたのもそのためです」=
-//「ですから、どうか私を試してください。研ぎ澄まされた良い包丁も、使われなければなまくらと変わりませんから」=
-//「試すなんて、恋人同士では絶対しないのがセオリーだけど、[H名]と俺たちの関係だと違うみたいだね」=
-//「時代錯誤な、埃をかぶったような女です。ですが貴方は、そんな私を魅力的だと仰って、受け入れてくださいました」=
-//「俺と[H名]だけの関係だから、セオリーも流行も関係ないからね」=
-//「というか、尽くしてもらえるとか、男としては大歓迎だよ」=
-//「尽くすことに関しては一流だと自負しております。女尊男卑が叫ばれる昨今だからこそ、私は自らを貫く所存でございます」=
-//「理想は女尊男尊なんだろうけど、俺たちは男尊女卑を貫こう。いや、俺が女卑っていうのは失礼か」=
-//「いいえ、その女卑ですら受け入れていただきたく存じます。殿方を立てるためには、自らを下げて落とすことも必要です」=
-//「もちろん、貴方が女性を蔑むようなことをする殿方ではないことは百も承知です。お優しいからこそ、お願いしているのです」=
-//「優しく男尊女卑って、ちょっと想像しにくいけど……」=
-//「我が家は徹底した男尊女卑で、夫は強く妻は弱くが流儀。しかしその関係が完璧ではないことは小さい頃から痛感しておりました」=
-//「ですから私は貴方と共に、私たちにぴたりと合う男尊女卑を探したく存じます。定石も流行も関係ございません」=
-//「なるほど。なら俺たちは俺たちの男尊女卑を探すことにしようか。二人が幸せになれるような、そんな男尊女卑を」=
+「少し浜辺を歩かない？」=“Wanna walk along the beach a bit?”
+「貴方とこうして浜辺を歩けるなんて、夢のような時間でございます。心なしか、時間の流れも遅く感じます」=“Being able to walk along the beach with you like this, it is but like a dream. Somehow, the flow of time itself seems slowed.”
+「穏やかな波のせいかな。こんな時間がずっと続けばいいのにね」=“That's probably the gentle waves at work. If only this little slice of peace could last forever.”
+「はい……こんな風に一生を過ごせたら、どんなに幸せなことでしょう」=“Yes... If we could spend our whole lives like this, I cannot even imagine what bliss it'd be.”
+「いいえ、たとえ山あり谷ありの人生だとしても、貴方に添い遂げとうございます」=“No, even if our life is filled with its ups and downs, I would still rather spend it as your wife.”
+「あはは、嬉しいけど、どうせなら穏やかな一生がいいよね」=“Ahahah, that makes me happy but, if we're doing it, we might as well aim for a peaceful life.”
+「私が花嫁修業を重ねてきたのは、貴方の人生を穏やかにするためです。これからも一層貴方のために尽くさせてください」=“All my homemaking training has been for that sake, so that I may make your life ever more peaceful. Please let me keep serving you in that capacity evermore.”
+「そんなことしたら疲れちゃう……と思ったけど、[H名]は尽力する方が人生に張りが出るタイプだよね」=“You'll just get tired out that way... is what I used to think but, you're the type who gets her energy by serving those she loves, aren't you?”
+「貴方という、全身全霊を注ぎたいと思える人がいてこそです。厳しい花嫁修業に耐えられたのもそのためです」=“It is only because you exist, a man I wish to devote my entire body and soul to. It's only to that end, that I was able to bear my strict rearing as well.”
+「ですから、どうか私を試してください。研ぎ澄まされた良い包丁も、使われなければなまくらと変わりませんから」=“So please do put me to the test. Even a well sharpened knife is no different from a dull blade, afterall, if it isn't used.”
+「試すなんて、恋人同士では絶対しないのがセオリーだけど、[H名]と俺たちの関係だと違うみたいだね」=“Normally, "testing" is something you never do in a relationship but, I guess our relationship isn't a normal one, is it?”
+「時代錯誤な、埃をかぶったような女です。ですが貴方は、そんな私を魅力的だと仰って、受け入れてくださいました」=“I am an anachronistic woman, all but covered in dust. You not only accepted me for that, but even find that side of me attractive.”
+「俺と[H名]だけの関係だから、セオリーも流行も関係ないからね」=“Between us, things like modern sensibilities and relationship theories don't matter at all, afterall.”
+「というか、尽くしてもらえるとか、男としては大歓迎だよ」=“Heck, as a man, I'm not gonna say no to being served.”
+「尽くすことに関しては一流だと自負しております。女尊男卑が叫ばれる昨今だからこそ、私は自らを貫く所存でございます」=“I have full confidence that when it comes to serving you, I shall not lose to anybody. In these days of female chauvinism, I shall hold out my ground and stand firm.”
+「理想は女尊男尊なんだろうけど、俺たちは男尊女卑を貫こう。いや、俺が女卑っていうのは失礼か」=“I mean, the ideal is true gender equality but, I guess we should go for male chauvinism in our relationship. No, it's pretty rude for me to say that myself, isn't it?”
+「いいえ、その女卑ですら受け入れていただきたく存じます。殿方を立てるためには、自らを下げて落とすことも必要です」=“Not at all, I wish to accept even that chauvinism. Especially since to raise one's man, it is important to lower oneself as well.”
+「もちろん、貴方が女性を蔑むようなことをする殿方ではないことは百も承知です。お優しいからこそ、お願いしているのです」=“Of course, I know full well that you are not a man to scorn women. It is precisely because of the room in your heart, your gentleness, that I wish for that.”
+「優しく男尊女卑って、ちょっと想像しにくいけど……」=“It's pretty hard to imagine "gentle" male chauvinism though...”
+「我が家は徹底した男尊女卑で、夫は強く妻は弱くが流儀。しかしその関係が完璧ではないことは小さい頃から痛感しておりました」=“The house I come from has always been strictly male chauvinist. The men strong, and the women docile. However, I realized from a young age that such a relationship is not perfect.”
+「ですから私は貴方と共に、私たちにぴたりと合う男尊女卑を探したく存じます。定石も流行も関係ございません」=“Thusly, I wish to find a form of it that fits for us perfectly. Neither traditions nor modern views need hold us back.”
+「なるほど。なら俺たちは俺たちの男尊女卑を探すことにしようか。二人が幸せになれるような、そんな男尊女卑を」=“I see. Let's do just that then. The sort of a male dominated relationship, where we both end up happy.”

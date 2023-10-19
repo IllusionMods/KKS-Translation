@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「綺麗に作るのは中々難しいですね……」=
-//「シーサーは模様が細かいから手ごわいと思うよ」=
-//「勝手なイメージかもしれないけど、こういうのにはすごく凝って作りそうだよね」=
-//「否定は出来ないかもしれません。何事にも全力で臨みますので」=
-//「さすが。俺も見習って、もっと綺麗に仕上げようかな」=
+「綺麗に作るのは中々難しいですね……」=“It's rather hard to give it an endearing shape, isn't it...”
+「シーサーは模様が細かいから手ごわいと思うよ」=“Shisas have a pretty complicated pattern so I think it's just a difficult thing in general.”
+「勝手なイメージかもしれないけど、こういうのにはすごく凝って作りそうだよね」=“This might just be me but, you can really lose yourself in making these kind of things, you know?”
+「否定は出来ないかもしれません。何事にも全力で臨みますので」=“Indeed, I do not think I could deny that. One must be serious with all things.”
+「さすが。俺も見習って、もっと綺麗に仕上げようかな」=“Amazing. I guess I'll learn from you and do it more properly too.”
