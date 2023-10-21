@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「二人で息を合わせてカヤックを漕ぐんだね」=“So, we're going kayaking, paddling together.”
-「うん、タイミングは俺が合わせるよ」=“Yeah, I'll let you set the pace.”
-「わかった。慣れてないから、迷惑かけるかもしれないけど……」=“I understand. I'm not used to this, so I might end up just being a bother.”
-「大丈夫。一緒に楽しもう？」=“You're fine. So, let's enjoy this together, okay?”
+「二人で息を合わせてカヤックを漕ぐんだね」=“We're gonna sync our breathing and row it together, huh?”
+「うん、タイミングは俺が合わせるよ」=“Yep, I'll match my timing with yours.”
+「わかった。慣れてないから、迷惑かけるかもしれないけど……」=“Got it. I'm not really used to this so, I might end up being really annoying...”
+「大丈夫。一緒に楽しもう？」=“Don't worry. Let's just enjoy ourselves?”

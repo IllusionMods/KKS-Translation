@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「な、仲間？　よく分からないけど、俺のことが好きなの？」=“A c-companion? I'm not sure... you like me?”
-「うん、そうだよ。わたしは……あなたのことが好き。あなたの特別になりたいの」=“Yeah, that's right. I... I like you. I want to be special to you.”
+「な、仲間？　よく分からないけど、俺のことが好きなの？」=“A-A comrade? I don't really get it but, is it that you love me?”
+「うん、そうだよ。わたしは……あなたのことが好き。あなたの特別になりたいの」=“Yep, that's right. I... love you. I want to be your special someone.”
 「……そっか」=“...I see.”
-「……仲間かどうかは分かんないけど、俺も好きだよ」=“I'm not sure about being your companion, but I like you, too.”
-「本当？　えへへ、よかったぁ。これでわたしたちは結ばれたね」=“Really? Ehehe, that's good. We're connected now.”
+「……仲間かどうかは分かんないけど、俺も好きだよ」=“...I don't really get that "comrade" business but, I do love you too.”
+「本当？　えへへ、よかったぁ。これでわたしたちは結ばれたね」=“Really? Eheheh, I'm so happy~. With this, we're connected.”

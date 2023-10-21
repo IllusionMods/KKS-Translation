@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「朝から元気をもらえたし、わたしは帰るね。また後で、いっぱい話そう？」=“I'm energized this morning, so I'm heading out. Let's talk more later, okay?”
+「朝から元気をもらえたし、わたしは帰るね。また後で、いっぱい話そう？」=“You already charged me up for the whole day, so I'm gonna go back, okay? Let's chat lots later?”

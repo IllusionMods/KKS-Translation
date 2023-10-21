@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「ねぇ……部屋にいる？」=“Hey... are you in there?”
-SELECTION:「返事をする」=Answer her
+「ねぇ……部屋にいる？」=“Hey... are you in?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-「どうかしたの？」=“What's going on?”
-「“かれら”が……ううん、わたしの意思で、あなたに会いに来たの」=“‘They’... no, I came here to see you, of my own free will.” 
-「今夜はずっと……あなたの傍にいたい……」=“I want to be with you... all night long.”
-「はぁ……もう寝たのかな」=“Ahaa... I think he's asleep.”
+「どうかしたの？」=“Something wrong?”
+「“かれら”が……ううん、わたしの意思で、あなたに会いに来たの」=“They... no, I came to see you, out of my own free will.”
+「今夜はずっと……あなたの傍にいたい……」=“I want to be next to you... all night long...”
+「はぁ……もう寝たのかな」=“Haah... did you already go to sleep?”

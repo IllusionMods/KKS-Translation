@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「はぁ……みんなで宇宙、近づけたかな……」=“Haa... I wonder if we've gotten closer to the cosmos...”
+「はぁ……みんなで宇宙、近づけたかな……」=“Haah... wonder if we, got any closer to space...”

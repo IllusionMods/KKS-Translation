@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「この黒い天ぷら、なんだろ？」=“What's with this black tempura?”
-「ああ、それはもずくの天ぷらだよ」=“Ahh, that's mozuku tempura.”
-「酢の物やスープじゃなくて天ぷら……なんか珍しいね」=“Tempura, and not vinegar or soup... kind of unusual.”
-「他にも変わったメニューが多いよね」=“There's a lot of unusual cuisines, aren't there?”
-「ふーん。あとで“かれら”に報告しないと」=“Hmmmm. I must report this to ‘them’ later.”
+「この黒い天ぷら、なんだろ？」=“I wonder what this black tempura's supposed to be?”
+「ああ、それはもずくの天ぷらだよ」=“Aah, that's mozuku tempura.”
+「酢の物やスープじゃなくて天ぷら……なんか珍しいね」=“Not pickled mozuku, nor mozuku soup, but rather tempura... pretty unique, isn't it?”
+「他にも変わったメニューが多いよね」=“There's a whole lot of other pretty weird things on the menu here too, aren't there?”
+「ふーん。あとで“かれら”に報告しないと」=“Hmmmm. I gotta report this to "them" later too.”

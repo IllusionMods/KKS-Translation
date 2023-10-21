@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「うーん、“かれら”と関係がある場所かと思ってたけど……違うみたい」=“Hmmmm, I thought that ‘they’ had something to do with this place... but it doesn't look like so.”
-「……そもそも、パワースポットと“かれら”って関りがあるの？」=“Well, to begin with, is there a connection between power spots and ‘them’?”
-「地球にあるパワースポットの内、３割は“かれら”の痕跡だって言われてるよ」=“It's said that 30% of the power spots on Earth are traces of ‘them’.”
-「多いのか少ないのかよく分かんないな……」=“I'm not sure if that's a lot, or little...”
+「うーん、“かれら”と関係がある場所かと思ってたけど……違うみたい」=“Nnnn, I thought this was gonna be a place with a connection to "them" but... looks like it doesn't.”
+「……そもそも、パワースポットと“かれら”って関りがあるの？」=“...To begin with, would a power spot have a connection with "them" at all?”
+「地球にあるパワースポットの内、３割は“かれら”の痕跡だって言われてるよ」=“They say that out of all the power spots on Earth, one thirds of them bear "their" traces.”
+「多いのか少ないのかよく分かんないな……」=“That doesn't tell me much about whether that's high or low though...”

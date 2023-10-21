@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ごちそうさま。それじゃあ、またね」=“Thank you for the meal. See you later, then.”
+「ごちそうさま。それじゃあ、またね」=“That was nice. See you then.”

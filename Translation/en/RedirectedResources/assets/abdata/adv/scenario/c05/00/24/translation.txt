@@ -2,4 +2,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「もういいの？　あなたのエネルギーが欲しかったんだけど……」=“Are you done? I was hoping to get some of your energy...”
+「もういいの？　あなたのエネルギーが欲しかったんだけど……」=“Had enough already? I really wanted some of your energy too though...”

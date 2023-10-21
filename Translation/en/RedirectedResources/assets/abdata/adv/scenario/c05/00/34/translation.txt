@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「欲しいモノはなかったけど、楽しい時間だったよ」=“It didn't have what I wanted, I but I still had a good time.”
+「欲しいモノはなかったけど、楽しい時間だったよ」=“There was nothing I really wanted there but, I had fun.”

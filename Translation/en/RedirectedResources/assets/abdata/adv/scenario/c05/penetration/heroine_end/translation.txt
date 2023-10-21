@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「すごい……みんなのパワー、感じられた……♪」=“Amazing... I could feel everyone's power...♪”
+「すごい……みんなのパワー、感じられた……♪」=“Amazing... I felt everyone's power...♪”
