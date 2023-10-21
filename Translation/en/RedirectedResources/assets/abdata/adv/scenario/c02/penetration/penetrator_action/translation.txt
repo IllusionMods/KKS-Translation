@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「わたくしも、ご一緒させていただきたいですわ」=
+「わたくしも、ご一緒させていただきたいですわ」=“I shall have you let me join as well.”

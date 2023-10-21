@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おーっほっほっほ！　さすがわたくしのパートナー、完璧ですわ！」=
-//「おーっほっほっほ、中々良い心地でしたわ」=
-//「あなたならもっと腕を磨けますわ。精進してくださいまし」=
-//「今のままでも、わたくしは美しいと仰りたいのですか？　悪い気はしませんが、次は塗ってくださいまし」=
+「おーっほっほっほ！　さすがわたくしのパートナー、完璧ですわ！」=“Ohohohoh! As can be expected from my man, that was perfect!”
+「おーっほっほっほ、中々良い心地でしたわ」=“Ohohohoh, that felt quite nice indeed.”
+「あなたならもっと腕を磨けますわ。精進してくださいまし」=“You ought to be able to get even better at this, I'm sure of it. Do keep at it.”
+「今のままでも、わたくしは美しいと仰りたいのですか？　悪い気はしませんが、次は塗ってくださいまし」=“Do you wish to say that I'm already beautiful as I am? While I won't deny that, I wish for you to actually do it next time.”

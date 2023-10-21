@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おーっほっほっほ、高いところはテンションが上がりますわ！」=
-//「高笑いはしないけど、気持ちは分かるなぁ」=
-//「あら、大きな声を出すのは気持ち良くってよ？　あなたも一緒にいかが？」=
-//「ごめん、それはちょっと遠慮させてもらうよ」=
-//「……そうですか、残念ですわ」=
-//「いや、なんか急に叫びたくなったなぁ！　すぅぅぅ、ヤッホォォォー！！」=
+「おーっほっほっほ、高いところはテンションが上がりますわ！」=“Ohohohoh, tall places truly do make my mood rise!”
+「高笑いはしないけど、気持ちは分かるなぁ」=“I'm not gonna laugh like you but I can understand.”
+「あら、大きな声を出すのは気持ち良くってよ？　あなたも一緒にいかが？」=“Oh my, it feels very good to laugh loudly like I do, you know? How about you join me for once?”
+「ごめん、それはちょっと遠慮させてもらうよ」=“Sorry, I'd rather not.”
+「……そうですか、残念ですわ」=“...Is that so? That's a shame.”
+「いや、なんか急に叫びたくなったなぁ！　すぅぅぅ、ヤッホォォォー！！」=“Nevermind, for some reason I suddenly feel like shouting loudly! Sssss, yaaaahoooooooo!!”

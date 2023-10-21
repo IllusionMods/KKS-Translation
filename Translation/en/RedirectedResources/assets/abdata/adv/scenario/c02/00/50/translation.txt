@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「好きな方といただくご飯は、格別に美味しいですわ！」=
-//「はは、俺もそう思うよ」=
-//「……ふと疑問に思ったのですが、あなたの事をもっと好きになったら、もっとご飯を美味しく頂けるのかしら？」=
-//「う、うーん……可能性はあるかもしれないね」=
-//「では、さっそく実験ですわ。お互いに『好き』と呟きながらお食事しましょう！」=
-//「行動が早いね……まあ、気の済むまで付き合うよ」=
+「好きな方といただくご飯は、格別に美味しいですわ！」=“Eating with the man I love makes it taste truly delectable!”
+「はは、俺もそう思うよ」=“Hahah, I think so too.”
+「……ふと疑問に思ったのですが、あなたの事をもっと好きになったら、もっとご飯を美味しく頂けるのかしら？」=“...I just had a thought. If I fell in love with you even more, would I start finding these meals even more enjoyable?”
+「う、うーん……可能性はあるかもしれないね」=“N-Nnnn... maybe, can't deny the possibility for sure.”
+「では、さっそく実験ですわ。お互いに『好き』と呟きながらお食事しましょう！」=“Well then, let us experiment right away. We shall eat while saying "I love you" to each other!”
+「行動が早いね……まあ、気の済むまで付き合うよ」=“From theory to experimentation already... well, sure, I'll do whatever until you're satisfied.”

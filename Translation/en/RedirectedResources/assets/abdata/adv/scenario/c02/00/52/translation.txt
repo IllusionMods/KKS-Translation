@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「一緒にお食事出来て、良かったですわ。では、ごきげんよう」=
+「一緒にお食事出来て、良かったですわ。では、ごきげんよう」=“I quite enjoyed that meal together. Well then, good day.”

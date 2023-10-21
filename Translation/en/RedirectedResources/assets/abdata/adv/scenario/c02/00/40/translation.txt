@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お陰でとても楽しめましたわ！　褒めて差し上げます」=
+「お陰でとても楽しめましたわ！　褒めて差し上げます」=“I enjoyed myself quite a bit today, thanks to you! Allow me to offer my praise.”

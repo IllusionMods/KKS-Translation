@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「パワースポットかどうかはともかく、綺麗で癒されたの事実ですわ。では、ごきげんよう」=
+「パワースポットかどうかはともかく、綺麗で癒されたの事実ですわ。では、ごきげんよう」=“Powerspot or not aside, it was quite the pretty and soothing sight. Well then, a good day to you.”

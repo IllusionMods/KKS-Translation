@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ……まさか、ここまでとは思ってもみませんでしたわ……」=
+「ふぅ……まさか、ここまでとは思ってもみませんでしたわ……」=“Fuuh... I didn't think it would be this amazing...”

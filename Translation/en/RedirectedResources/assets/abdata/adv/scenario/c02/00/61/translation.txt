@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あら、ここではエステが出来るのですね」=
-//「もしかして興味がある？」=
-//「普通のエステと何が違うのか気になりますわ」=
-//「それじゃあ、俺がやってあげるよ」=
-//「では、お手並み拝見いたしますわ！」=
+「あら、ここではエステが出来るのですね」=“Oh my, this seems to be a beauty parlor of sorts.”
+「もしかして興味がある？」=“Are you interested?”
+「普通のエステと何が違うのか気になりますわ」=“Well, I'm certainly quite curious as to how it differs from a normal one.”
+「それじゃあ、俺がやってあげるよ」=“Well then, I'll do it for you.”
+「では、お手並み拝見いたしますわ！」=“I suppose I shall see what you've got then!”

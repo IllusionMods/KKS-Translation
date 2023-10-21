@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おーっほっほっほ、褒めて差し上げますわ！」=
-//「おほほほ、中々の腕前でしてよ」=
-//「あなたの努力は認めますわ」=
-//「どうして塗ってくださらないの？　わたくしに触れることを恐れているのかしら？」=
+「おーっほっほっほ、褒めて差し上げますわ！」=“Ohohohoh, that was quite praiseworthy!”
+「おほほほ、中々の腕前でしてよ」=“Ohohohoh, those were quite some skills.”
+「あなたの努力は認めますわ」=“I acknowledge your efforts.”
+「どうして塗ってくださらないの？　わたくしに触れることを恐れているのかしら？」=“Why do you refuse? Are you perhaps afraid of touching me?”

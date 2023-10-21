@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここでカップルドリンクが飲めるんだって。飲んでみようよ」=
-//「このわたくしにふさわしい、キュートでエレガントな飲み物のようね」=
-//（誘っておいてなんだけど、ドキドキするな……）=
-//「そうだね。美味しそうだと思わない？」=
-//「ええ、楽しみですわ！　けれど……少々気になりますわ」=
-//「あ、うん……わかるよ。恥ずかしくなっちゃうよね」=
-//「恥ずかしい？　このわたくしが？　おほほ、そんなはずないでしょう？」=
-//「そ、そうなの？　カップルらしいことが照れくさいのかと……」=
-//「全然違いますわ。何をわけのわからないことをおっしゃってるのかしら」=
-//「むしろいくらでもごらんなさい！　おーほほほほっ！」=
-//「えっと……じゃあ、何が気になるの？」=
-//「だって、あなた、緊張してるでしょう？　そんなことで、満足のいくエスコートができまして？」=
-//「あ、ああ……うん……まあ、緊張はしてるかもね。だってほら、すごく素敵だから……」=
-//「無理もありませんわ。なにせこの美貌ですものね」=
-//「好きなだけごらんになっていただけてよくってよ！　ほら、ほらほら」=
-//「う、うん……ありがとう。そう言ってもらえて嬉しいよ。でもとりあえず、この美味しそうなドリンクを飲まない？」=
-//「ええ、そうね。そういたしましょう」=
+「ここでカップルドリンクが飲めるんだって。飲んでみようよ」=“Apparently we can get a couples' drink here. Let's try ordering it.”
+「このわたくしにふさわしい、キュートでエレガントな飲み物のようね」=“Seems like quite the cute and elegant drink, perfect for one such as me.”
+（誘っておいてなんだけど、ドキドキするな……）=(I know I'm the one who suggested it but, my heart's pounding...)
+「そうだね。美味しそうだと思わない？」=“Yeah. Doesn't it look pretty delicious?”
+「ええ、楽しみですわ！　けれど……少々気になりますわ」=“Yes, I'm quite excited! However... there is a thing on my mind.”
+「あ、うん……わかるよ。恥ずかしくなっちゃうよね」=“Ah, yeah... I feel you. It makes you a bit embarrassed, doesn't it?”
+「恥ずかしい？　このわたくしが？　おほほ、そんなはずないでしょう？」=“Embarrassed? Me? Ohohoh, it couldn't possibly.”
+「そ、そうなの？　カップルらしいことが照れくさいのかと……」=“R-Really? I thought that you'd feel embarrassed since it's so couple-like...”
+「全然違いますわ。何をわけのわからないことをおっしゃってるのかしら」=“Not at all. What are you even saying, are you confused, perhaps?”
+「むしろいくらでもごらんなさい！　おーほほほほっ！」=“If anything, look at me as much as you want! Ohohohohoh!”
+「えっと……じゃあ、何が気になるの？」=“Erhm... then, what's on your mind?”
+「だって、あなた、緊張してるでしょう？　そんなことで、満足のいくエスコートができまして？」=“It's you. You're quite nervous, aren't you? Do you think you can be a proper escort like that?”
+「あ、ああ……うん……まあ、緊張はしてるかもね。だってほら、すごく素敵だから……」=“A-Aah... yeah... well, maybe I am a bit nervous. I mean, you're so lovely...”
+「無理もありませんわ。なにせこの美貌ですものね」=“I cannot blame you. Afterall, I am quite the beauty.”
+「好きなだけごらんになっていただけてよくってよ！　ほら、ほらほら」=“Feel entirely free to look at me as much as you want! Here, look at me, look at me more.”
+「う、うん……ありがとう。そう言ってもらえて嬉しいよ。でもとりあえず、この美味しそうなドリンクを飲まない？」=“Y-Yeah... thanks. That makes me really happy. But how about we drink this delicious looking drink for now?”
+「ええ、そうね。そういたしましょう」=“Yes, indeed. Let's do that.”

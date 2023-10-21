@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「こんばんは。会いに来ましたわ」=
-SELECTION:「返事をする」=Respond
+「こんばんは。会いに来ましたわ」=“Good day. I've come to see you.”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「こんな時間にどうしたの？」=
-//「……瞼を閉じた際に、ふとあなたの顔が浮かんできて、会いたくなりましたの」=
-//「ですので、眠る前にわたくしのことを抱きしめてくださる？」=
-//「……もうお休み中かしら。仕方がありません、部屋に戻るとしましょう」=
+「こんな時間にどうしたの？」=“It's pretty late though, what's up?”
+「……瞼を閉じた際に、ふとあなたの顔が浮かんできて、会いたくなりましたの」=“...The moment I lay down and shut my eyes, I saw your face, and it made me want to see you.”
+「ですので、眠る前にわたくしのことを抱きしめてくださる？」=“Thusly, will you take me, and hold me for tonight?”
+「……もうお休み中かしら。仕方がありません、部屋に戻るとしましょう」=“...Already asleep, are you? It cannot be helped, I shall go back to my room.”

@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少し、ここで涼んで行こうよ」=
-//「ふ～～……気持ちいいね」=
-//「ええ、潮風が身体を吹き抜けていく……素敵な場所ですわ」=
-//「ゴージャスとはいえませんが、静かで、落ち着いていて……心が安らぎますわね」=
-//「うん、いいところだよね」=
-//「おほほほほ、今の気分にふさわしい場所ですわ」=
-//「へぇ……今、どんな気分なの？」=
-//「……あなたとの時間を、落ち着いて楽しみたい……そんな気分ですわ」=
-//「うん、落ち着いて楽しむってのはいいね。ちょうど少し疲れてたし……」=
-//「あら、だらしないですわね。わたくしはまだまだ平気ですわよ。おーっほっほっほ」=
-//（すぐマウント取ってくる……）=
-//「でも、正直に言ったご褒美ですわ。疲れているなら、もたれかかってくれても構いませんわよ」=
-//「本当？」=
-//「ええ、もちろんですわ！　さ……いつでもいらっしゃい」=
-//「……いや、止めておくよ。汗で汚しちゃ悪いしね」=
-//「おほほほほ、その細やかな気遣い……とーってもよくってよ」=
-//「でも、今更そんなことを気にする間柄ではありませんでしょう？　遠慮は要りませんのよ」=
-//「そう？　ありがとう……けど少し座ったら元気になってきたよ」=
-//「あらそう？　少し残念ですわ。じゃあ、もう少し休んだらそろそろ参りましょう」=
-//「そうだね……もう少しここで涼んでいこうか」=
+「少し、ここで涼んで行こうよ」=“Let's chill out here for a bit.”
+「ふ～～……気持ちいいね」=“Fuh~~... feels great, huh?”
+「ええ、潮風が身体を吹き抜けていく……素敵な場所ですわ」=“Yes, the sea breeze is blowing over... what a wonderful place.”
+「ゴージャスとはいえませんが、静かで、落ち着いていて……心が安らぎますわね」=“You could not call it gorgeous, but it's so quiet, so relaxing... truly makes your heart feel at peace, doesn't it?”
+「うん、いいところだよね」=“Yep, it's a nice place.”
+「おほほほほ、今の気分にふさわしい場所ですわ」=“Ohohohohoh, it's perfect for my current mood.”
+「へぇ……今、どんな気分なの？」=“Hoh... what sorta mood would that be?”
+「……あなたとの時間を、落ち着いて楽しみたい……そんな気分ですわ」=“... I wish to enjoy a relaxing time with you... that's the sort of mood I'm in.”
+「うん、落ち着いて楽しむってのはいいね。ちょうど少し疲れてたし……」=“Yep, enjoying a relaxing time is really nice, isn't it? I was just feeling a bit tired anyway...”
+「あら、だらしないですわね。わたくしはまだまだ平気ですわよ。おーっほっほっほ」=“Oh my, how lethargic. I still feel perfectly fine. Ohohohoh.”
+（すぐマウント取ってくる……）=(Never misses a chance, does she...)
+「でも、正直に言ったご褒美ですわ。疲れているなら、もたれかかってくれても構いませんわよ」=“But, I shall reward you, for being honest. If you're feeling exhausted, I do not mind if you lean on me.”
+「本当？」=“You mean it?”
+「ええ、もちろんですわ！　さ……いつでもいらっしゃい」=“Yes, of course! Come now... I'm ready anytime.”
+「……いや、止めておくよ。汗で汚しちゃ悪いしね」=“...No, I'll pass. I wouldn't wanna get my sweat on you.”
+「おほほほほ、その細やかな気遣い……とーってもよくってよ」=“Ohohohohoh, such thorough consideration... it's very becoming of you.”
+「でも、今更そんなことを気にする間柄ではありませんでしょう？　遠慮は要りませんのよ」=“However, is such a thing really worth minding, between us? You needn't hold back.”
+「そう？　ありがとう……けど少し座ったら元気になってきたよ」=“That so? Thanks... but I feel better now after sitting down a bit.”
+「あらそう？　少し残念ですわ。じゃあ、もう少し休んだらそろそろ参りましょう」=“Oh my, is that so? That's a bit of a shame. Well then, let's rest a bit longer then head out.”
+「そうだね……もう少しここで涼んでいこうか」=“Yeah... let's relax here for a bit more.”

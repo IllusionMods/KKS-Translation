@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おーっほっほっほ、コツを掴みましたわ！　では、ごきげんよう」=
+「おーっほっほっほ、コツを掴みましたわ！　では、ごきげんよう」=“Ohohohoh, I've understood the trick to it! Well then, a good day to you.”

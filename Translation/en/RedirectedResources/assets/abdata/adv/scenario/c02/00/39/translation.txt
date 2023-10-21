@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「中々悪くない時間でしたわ。わたくしを楽しませようとしたあなたの努力、認めます！」=
+「中々悪くない時間でしたわ。わたくしを楽しませようとしたあなたの努力、認めます！」=“That was quite the pleasant time. I shall acknowledge your efforts, seeing as you were trying to make sure I enjoyed myself!”

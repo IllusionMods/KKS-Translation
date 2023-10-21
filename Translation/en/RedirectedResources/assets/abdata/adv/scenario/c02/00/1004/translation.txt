@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「波打ち際を、ちょっとだけ歩こうよ」=
-//「綺麗な浜辺ですわね……。心が洗われるようですわ」=
-//「そうだね。浜辺も海も空も空気も全部綺麗だ……」=
-//「おーっほっほっほ、まるでわたくしを飾る宝石のようですわね！」=
-//（相変わらずすごい自信だなぁ……）=
+「波打ち際を、ちょっとだけ歩こうよ」=“Let's take a short walk along the shore.”
+「綺麗な浜辺ですわね……。心が洗われるようですわ」=“What a beautiful beach, isn't it... It almost feels as though my heart's being cleansed.”
+「そうだね。浜辺も海も空も空気も全部綺麗だ……」=“Yeah. The beach, the sea, the sky and even the air, it's all so clean and beautiful...”
+「おーっほっほっほ、まるでわたくしを飾る宝石のようですわね！」=“Ohohohoh, it's as if they're gems adorning me!”
+（相変わらずすごい自信だなぁ……）=(Full of aplomb as usual...)
 「…………」=“...”
-//「……ちょっと、聞いてまして？」=
-//「あ、うん……ええっと……」=
-//（なんて言い訳しようかな……うーん……）=
-//「……はぁ、呆れましたわね。しっかりなさい。このわたくしと一緒にいるんですのよ=
-//「あ、いや……その、[H名]さんの美しさに見惚れてたんだよ……」=
-//「おーっほっほっほ！　そういうことなら納得ですわ！」=
-//（一瞬で機嫌がよくなってくれた……）=
-//「ふぅ……それにしても、雄大な自然ですわね」=
-//「そうだね。ここに来てよかった」=
-//「ええ、本当に……ふふ、わたくし、幸せですわ！」=
-//「そ、そんなに？」=
-//「吹き付ける風、打ち寄せる波……踏みしめる砂の感触……」=
-//「身体で感じる全てが素敵……ここへ来て、本当によかったですわ」=
-//「きっと、[H名]さんのおかげだね」=
-//「ええ、当然ですわ。おーっほっほっほっほ！」=
+「……ちょっと、聞いてまして？」=“...Hey, are you listening?”
+「あ、うん……ええっと……」=“Ah, yeah... errhm...”
+（なんて言い訳しようかな……うーん……）=(What excuse should I make... nnn...)
+「……はぁ、呆れましたわね。しっかりなさい。このわたくしと一緒にいるんですのよ=...Haah, how exasperating. Get a grip, will you. You're with none other than me right now.
+「あ、いや……その、[H名]さんの美しさに見惚れてたんだよ……」=“Ah, no... uhm, I was lost in your beauty...”
+「おーっほっほっほ！　そういうことなら納得ですわ！」=“Ohohohoh! I suppose I can let you off in that case!”
+（一瞬で機嫌がよくなってくれた……）=(And suddenly she's happy again...)
+「ふぅ……それにしても、雄大な自然ですわね」=“Fuuh... still, the nature here sure is grand.”
+「そうだね。ここに来てよかった」=“Yeah. I'm glad we came here.”
+「ええ、本当に……ふふ、わたくし、幸せですわ！」=“Yes, truly... fufuh, right now, I am in bliss!”
+「そ、そんなに？」=“R-Really? That much?”
+「吹き付ける風、打ち寄せる波……踏みしめる砂の感触……」=“The billowing breeze, the undulating waves... the sand beneath my feet...”
+「身体で感じる全てが素敵……ここへ来て、本当によかったですわ」=“Everything I feel with my body right now is simply wonderful... It really is a good thing that we came here.”
+「きっと、[H名]さんのおかげだね」=“I'm sure it's all thanks to you, [H名]-san.”
+「ええ、当然ですわ。おーっほっほっほっほ！」=“Yes, of course. Ohohohohoh!”

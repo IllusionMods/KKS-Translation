@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「当たり前のことですが、二人きりですわね。わたくし、期待してもよろしくて？」=
-//「……レディに言わせるおつもり？　意地悪ですわ」=
-//「はぁ……わたくしと、エッチいたしましょう？」=
+「当たり前のことですが、二人きりですわね。わたくし、期待してもよろしくて？」=“I realize I'm stating the obvious, but we're quite alone right now, aren't we? Might it be alright for me to get my hopes up?”
+「……レディに言わせるおつもり？　意地悪ですわ」=“...Are you really going to make me say it? Such a mean man.”
+「はぁ……わたくしと、エッチいたしましょう？」=“Haah... shall we, have sex?”
