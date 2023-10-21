@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「二人でカヤックを漕げるなんて……素敵なのですっ！」=“I can't believe that the two of us are going kaying together... it's so wonderful!”
-「うん、俺もそう思うよ。せっかくだし、ゆっくり楽しもうか」=“Yeah, I think so, too. So, since we're here, let's just take our time, and enjoy ourselves.”
-「はいなのですっ！　えへへ、頬がゆるんじゃうですよー」=“Roger dodger! Ehehe, I'm smiling so much-”
-「ははは……喜んでくれてるのは嬉しいけど、漕ぐのは忘れないでよ？」=“Ahaha... I'm glad you're happy, but don't forget to paddle, alright?”
+「二人でカヤックを漕げるなんて……素敵なのですっ！」=“To think we'd be rowing a kayak together... it's so wonderful--!”
+「うん、俺もそう思うよ。せっかくだし、ゆっくり楽しもうか」=“Yep, I think so too. There's no reason to rush, so let's just enjoy ourselves.”
+「はいなのですっ！　えへへ、頬がゆるんじゃうですよー」=“Yes--! Eheheh, I won't be able to stop my grin~”
+「ははは……喜んでくれてるのは嬉しいけど、漕ぐのは忘れないでよ？」=“Hahahah... I'm glad you're that happy about it, but don't forget to row, alright?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ど、どどどどーするですか！？」=“W-w-w-what are you doing!?”
+「ど、どどどどーするですか！？」=“W--, W-W-W-What are you doing?!”

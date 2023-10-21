@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ちょっとお土産を見てみようよ」=“Let's have a look at the souvenirs.”
-「これは……インパクト大なのですよ」=“Whoa... this is sure to make an impact.”
-「むしろインパクトしかないというか……その泡盛Ｔシャツ買うの？」=“I mean, what else would it make besides that...but, are you actually3 gonna buy that Awamori T-Shirt?”
-「私に似合うと思うです？」=“Think it would look good on me?”
+「ちょっとお土産を見てみようよ」=“Let's go take a look at some souvenirs, c'mon.”
+「これは……インパクト大なのですよ」=“This is... impact to the max.”
+「むしろインパクトしかないというか……その泡盛Ｔシャツ買うの？」=“Yeah, only impact and nothing else... are you really gonna buy that Awamori t-shirt?”
+「私に似合うと思うです？」=“Do you think it'll look good on me?”
 「…………」=“...”
-「部屋着なら大いにありだと思う」=“It might work for when you're lounging around in your room.”
-「予想外の返事なのです！　で、でも買うのには勇気がいるですよー？」=“I wasn't expecting that answer! But it takes a lot of bravery to buy something like that, right-?”
-「……それは暗に、俺にも買わせてペアルックにしようと思ってる？」=“Are you implying that you're thinking of buying one, so we can match up?”
-「その通りなのです！　彼氏彼女はお揃いが常識ですから！」=“Totally! It's common sense that a boyfriend and girlfriend should match.”
-「そんな常識は知らないけど……まあ、別にいいよ」=“I'm not sure I agree with your common sense... but well, sure why not.”
-「いいのですかっ！？　ぺ、ペアルックにしてくれるなら、本当に買っちゃうですよ？」=“Really!? I'm really gonna buy it if you'll wear it with mine, you know?”
-「うん。でも、泡盛Ｔシャツをお揃いで来てるカップルってだいぶ変じゃない？」=“Sure. But... wouldn't it be pretty weird to see a couple wearing matching Awamori T-Shirts?”
-「ぅ……部屋着だからいいのですっ。誰かに見せるわけじゃないですし」=“Uuu... it'll be fine, because it's just something we'd wear in our rooms. We won't show them off to anyone.”
-「それもそっか。じゃあ二人分の会計を済ませてくるよ」=“I guess that's true. OK, I'll go pay the bill for both.”
-「奢ってもらうのは悪いですよー！　私があなたの分を、あなたが私の分を買って送り合いたいのです！」=“No, you don't have to buy mine too! I'll buy yours, you'll buy mine, and then to both gift them to each other!”
+「部屋着なら大いにありだと思う」=“I think it could work pretty well as loungewear.”
+「予想外の返事なのです！　で、でも買うのには勇気がいるですよー？」=“I did not expect you to go with that! B-But but, buying it's gonna take a whole lot of courage, you know~?”
+「……それは暗に、俺にも買わせてペアルックにしようと思ってる？」=“...Are you trying to make me buy it too? So that we can wear it together?”
+「その通りなのです！　彼氏彼女はお揃いが常識ですから！」=“That's exactly what I'm trying to do, yes! A boyfriend and girlfriend wearing matching clothes is only common sense!”
+「そんな常識は知らないけど……まあ、別にいいよ」=“It's not really common on the planet I'm from... but, well, sure I guess.”
+「いいのですかっ！？　ぺ、ペアルックにしてくれるなら、本当に買っちゃうですよ？」=“Are you really sure--!? I-I really will buy it if you promise you'll wear it with me, you know?”
+「うん。でも、泡盛Ｔシャツをお揃いで来てるカップルってだいぶ変じゃない？」=“Yeah. But, wouldn't we stand out a whole lot, wearing awamori t-shirts together like that?”
+「ぅ……部屋着だからいいのですっ。誰かに見せるわけじゃないですし」=“Uu... it's fine since it'll just be loungewear anyway--! It's not like we're going to be showing it to others anyway.”
+「それもそっか。じゃあ二人分の会計を済ませてくるよ」=“That's true too. I guess I'll go pay for them then.”
+「奢ってもらうのは悪いですよー！　私があなたの分を、あなたが私の分を買って送り合いたいのです！」=“Please don't, I'd feel really bad~! I'd rather you paid for mine and I paid for yours!”

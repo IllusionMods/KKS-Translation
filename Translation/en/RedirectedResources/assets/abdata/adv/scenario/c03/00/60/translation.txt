@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「あの……お部屋にいるですか？」=“Um... are you in your room?”
-SELECTION:「返事をする」=Respond.
+「あの……お部屋にいるですか？」=“Uhm... are you in there?”
+SELECTION:「返事をする」=Answer her
 SELECTION:「……」=...
-「どうかしたの？」=“What's up?”
-「ちょっと、寂しくなっちゃいまして……だから、えっと……」=“I was feeling a little lonely... so, um...”
-「あ、あなたの温もりが……欲しいのです……」=“I-I want to... feel your warmth...”
-「あ……お留守ですか。残念なのです……」=“Ah... he's not here. That's too bad...”
+「どうかしたの？」=“Something up, [H]?”
+「ちょっと、寂しくなっちゃいまして……だから、えっと……」=“I started feeling, a bit lonely by myself... so, erhm...”
+「あ、あなたの温もりが……欲しいのです……」=“I-I want to feel... your warmth...”
+「あ……お留守ですか。残念なのです……」=“Ah... you're not? That's a shame...”

@@ -1,21 +1,21 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ここカップルドリンクが飲めるんだって。頼んじゃおうか」=“They have a drink for couples here. Let's order one.”
-「わわっ、来ちゃったですよ……ど、どうするですか？」=“Wawa! It's here... what should we do?”
-「どうするもこうするも、飲むでしょ？　注文したんだから」=“What else than to just drink it? I mean, we did order it.”
-「……むー」=“...muuu-”
-「えっ、なんで？　気に障ること言ったかな」=“Eh, why the face? Did I say something to annoy you?”
-「初めてのカップルドリンクなのですよ？　もっとテンションをあげてほしいのですっ！」=“Isn't this our first couple's drink? I wanted you to be more excited about it!”
-「わ、私にとっては、特別で……ドキドキしちゃうものですから……」=“This is something special for me... my heart is really pounding...”
-「ご、ごめん、深く考えずに頼んじゃった」=“S-sorry, I ordered without giving it much thought.”
-「頼むのはいいのです！　むしろ、ありがとうとお礼を言いたいぐらいなのです」=“Don't get me wrong, I'm super glad you ordered this! In fact, I really want to thank you for doing so.”
-「あなたの方から言ってくれたですから……こっそりにへーってなっちゃってたですよ」=“And because you were the one that ordered it... I kinda giggled by myself in secret the whole time.”
-（そんな表情をしてたのか……見逃してしまった）=(Wow, didn't know that she was doing that... I totally missed it.)
-「……じーっ」=*...Stare*
-「わかった！　ここから仕切り直しってことで……えーと、飲むのは一緒に飲むんだよね？」=“Alright, I got it! Let's start over from the beginning... er, um, so, shall we drink this together?”
-「当たり前なのです！　わ、私たちはカップルなのですから……」=“Naturally! We are a couple, after all...”
-「ふーーっ……よし、大丈夫なのです！　ではでは、せーので……」=“Fu---! Alright, everything's hunky-dory! C'mon, let's get started...”
-（や、やばい、めちゃくちゃドキドキしてきた……）=(Uh-oh... this is bad... my heart is starting to pound...)
-「ふふーっ、お顔が真っ赤なのです。カップルーな甘い雰囲気、出てきたですね♪」=“Fufu-! Your face is super red. This is starting to feel more couple-like now♪”
-「かもね。[H名]の顔も真っ赤だし……」=“Maybe. Your face is bright red, too, [H名].”
+「ここカップルドリンクが飲めるんだって。頼んじゃおうか」=“Apparently we can order couples' drinks here. So let's get one.”
+「わわっ、来ちゃったですよ……ど、どうするですか？」=“Wawah--, it really came... w-what do we do now?”
+「どうするもこうするも、飲むでしょ？　注文したんだから」=“I mean, there's only one thing to do, no? We gotta drink it, we can't waste it afterall.”
+「……むー」=“...Muh~”
+「えっ、なんで？　気に障ること言ったかな」=“Eh--, what? Did I say something?”
+「初めてのカップルドリンクなのですよ？　もっとテンションをあげてほしいのですっ！」=“It's our first couples' drink together, you know? I want you to be more into it--!”
+「わ、私にとっては、特別で……ドキドキしちゃうものですから……」=“T-To me it's, a really special and... heart pounding thing...”
+「ご、ごめん、深く考えずに頼んじゃった」=“S-Sorry, I wasn't thinking that seriously when I ordered it, my bad.”
+「頼むのはいいのです！　むしろ、ありがとうとお礼を言いたいぐらいなのです」=“That's fine, I don't mind! If anything, I want to thank you for it, almost.”
+「あなたの方から言ってくれたですから……こっそりにへーってなっちゃってたですよ」=“Since you brought it up yourself so... inside I was going all `Heh~` about it.”
+（そんな表情をしてたのか……見逃してしまった）=(She was?... Damn, I must have missed it.)
+「……じーっ」=“...*stare*”
+「わかった！　ここから仕切り直しってことで……えーと、飲むのは一緒に飲むんだよね？」=“I got it, I got it! Let's just start over... erhm, we drink it together, right?”
+「当たり前なのです！　わ、私たちはカップルなのですから……」=“Of course we do! W-We're a couple so...”
+「ふーーっ……よし、大丈夫なのです！　ではでは、せーので……」=“Fuuuh~--... alright, I am okay now! Come now, let's count to three...”
+（や、やばい、めちゃくちゃドキドキしてきた……）=(D-Damn, now my heart's pounding for sure too...)
+「ふふーっ、お顔が真っ赤なのです。カップルーな甘い雰囲気、出てきたですね♪」=“Fufuh~, your face is all red. Now we really feel like a couple♪”
+「かもね。[H名]の顔も真っ赤だし……」=“Yeah, maybe. Your face is pretty red too, [H名]...”

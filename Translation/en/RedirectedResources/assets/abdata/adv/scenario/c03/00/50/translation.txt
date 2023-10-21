@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「これは……箸が止まらなくなっちゃうな」=“This is... my chopsticks just won't stop.”
-「私もなのです！　おかずが豊富で、どんどん食べちゃうですよー」=“Mine too! There are so many side dishes, I just eat more and more-”
-「この定食を頼んで正解だったね。今度もこれを頼もうっと」=“You were right to order this combo meal. I think I'll order this again.”
-「私はまだ出会えていない美味しいモノを求めて、違うメニューを注文するです！」=“I'm always on the lookout for delicious food I've never encountered before, so I'm gonna order something different!”
-「探求心があるね。それじゃ、中身汁ってのを頼んでみたら？」=“You have an inquisitive soul. Well then, should we order this ‘insides juice’ thing?”
-「な、中身……！？　ちょっと響きが怖いですが、挑戦あるのみです！」=“Insides...?! It sounds a little scary, but I'm up for the challenge!”
+「これは……箸が止まらなくなっちゃうな」=“Man... I'm having a hard time stopping my chopsticks.”
+「私もなのです！　おかずが豊富で、どんどん食べちゃうですよー」=“Me too! There's so many side dishes too, I'mma eat my fill today~”
+「この定食を頼んで正解だったね。今度もこれを頼もうっと」=“It was the right idea to go for this set. I think I'll go for this again next time.”
+「私はまだ出会えていない美味しいモノを求めて、違うメニューを注文するです！」=“I'd rather chase that high of finding new things I love so, I'll go with something else!”
+「探求心があるね。それじゃ、中身汁ってのを頼んでみたら？」=“You love that stuff, don't you? Well then, how about going for offal stew next time?”
+「な、中身……！？　ちょっと響きが怖いですが、挑戦あるのみです！」=“O-Offal...!? That sounds a bit scary but, gotta try everything atleast once!”

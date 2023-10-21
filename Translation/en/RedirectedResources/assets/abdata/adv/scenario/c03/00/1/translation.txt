@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「へ？　あなたが……私のことを……ですか？」=“Eh? You're... in love with me...?”
-「うん、そうだよ。その……一応言っておくと、ライクじゃなくてラブの方だからね？」=“Yeah, that's right. Um... just so you know, I'm not saying 'I like you'. I'm saying 'I love you'.”
-「はわっ、今まさに聞こうと思っていたことをなぜ！？　え、エスパーなのですっ！」=“Awa! Why did you know what I was just about to ask?! You must have ESP!”
-「いや、何となくそういうことを言いそうだなと思ったから」=“No, I kinda thought you were going to tell me something like that.”
-「それで……返事はどう、かな？」=“So... what's your answer?”
-「わ、私も……あなたのこと……好きです……大好きですよ」=“I-I... love you... I super love you too.”
-「あ……良かった。それじゃ……これからも、よろしくお願いね」=“Ah... that's great. Well then... I hope we'll stay in touch.”
-「は、はいですっ！　こちらこそなのですっ！」=“Y-you betcha! It'll be my pleasure!”
+「へ？　あなたが……私のことを……ですか？」=“Heh? you... like... me?”
+「うん、そうだよ。その……一応言っておくと、ライクじゃなくてラブの方だからね？」=“Yep, that's right. Well, erm... I'm just gonna tell you, it's not a like but a "love", okay?”
+「はわっ、今まさに聞こうと思っていたことをなぜ！？　え、エスパーなのですっ！」=“Hawah--, how'd you know what I was going to ask!? A-Are you an esper--!?”
+「いや、何となくそういうことを言いそうだなと思ったから」=“No, I just had a feeling that you were gonna ask something like that.”
+「それで……返事はどう、かな？」=“So then... what's your, answer?”
+「わ、私も……あなたのこと……好きです……大好きですよ」=“I-I uhm... I like... I love you... too.”
+「あ……良かった。それじゃ……これからも、よろしくお願いね」=“Ah... thank god. Well then... things will be like that from now on, okay?”
+「は、はいですっ！　こちらこそなのですっ！」=“Y-Yes--! Please take care of me--!”
