@@ -10,7 +10,7 @@
 「ありがとう！　それじゃあ、俺から呼ぶね」=“Thank you! Well then, I'll start, okay?”
 「は、はい……分かりました」=“Y-Yes... I understand.”
 「[Hあだ名]……」=“[Hあだ名]...”
-「……[Pあだ名]」=“...[Pあだ名]”
+「……[Pあだ名]」=“...[Pあだ名].”
 「……ううぅ、は、恥ずかしいです……」=“...Uuuu, s-so embarrassing...”
 「嫌だった？」=“Didn't like it?”
 「い、いえ、そんなことは……たまに呼び合う分には……その、問題ないと思います」=“N-No, that's not... I think it'd be fine... to, uhm, call each other that, every so often.”

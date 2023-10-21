@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へぇ、ここのオイルは自由に使っていいんだって。よかったら俺が塗ろうか？」=
-//「え？　あなたがですか？」=
-//「うん。意外かもしれなけど、こういうの得意なんだ」=
-//「では……お言葉に甘えて。よろしくお願いいたしますね」=
+「へぇ、ここのオイルは自由に使っていいんだって。よかったら俺が塗ろうか？」=“Hoh, apparently we can use the oil here freely. Want me to rub it on you?”
+「え？　あなたがですか？」=“Eh? You will?”
+「うん。意外かもしれなけど、こういうの得意なんだ」=“Yeah. It might come off as a shocker, but I'm actually pretty good at this stuff.”
+「では……お言葉に甘えて。よろしくお願いいたしますね」=“Well then... I'll take you up on that. Please do it.”

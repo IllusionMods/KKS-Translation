@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線って難しいな……ちょっと甘くみてたかも」=
-//「[H名]はどう？　難しくない？」=
-//「難しいですが、あと少しでコツを掴めそうです」=
-//「おお、すごい！　俺も頑張ろっと」=
-//「ふふ、慣れたらデュエットに挑戦してみましょう」=
+「三線って難しいな……ちょっと甘くみてたかも」=“Man, sanshins sure are difficult to play... I think I understimated them a bit too much.”
+「[H名]はどう？　難しくない？」=“What about you, [H名]? Isn't it hard?”
+「難しいですが、あと少しでコツを掴めそうです」=“It is but, I think I've just about grasped the technique.”
+「おお、すごい！　俺も頑張ろっと」=“Ooh, amazing! Guess I'll put my back into it too.”
+「ふふ、慣れたらデュエットに挑戦してみましょう」=“Fufuh, once we're both used to playing it, let's go for a duet.”

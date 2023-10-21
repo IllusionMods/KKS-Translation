@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「一緒にお土産屋さんを見てみようか」=
-//「見てください。シーサーのキーホルダーがありました。可愛いですね」=
-//「はは、女の子はみんな可愛いになっちゃうんだね」=
-//「え……シーサー、可愛くありませんか？　どのシーサーグッズを買おうか迷っていたくらいなのですが……」=
-//「そのキーホルダーのは可愛いと思うよ。ただ、シーサーは守り神だからね……」=
-//「可愛いキーホルダーより、俺だったらカッコイイ置き物とかの方が欲しいかな」=
-//「ふふ、それこそ男性らしい発想ですね。では、私はキーホルダーを、あなたは置き物を買いますか？」=
-//「うーん、それもいいけど……キーホルダーも置き物も、どっちもあんまり実用性が無いからなー」=
-//「お土産とはそういうものだと思いますよ？　それに……きっといつか使う時が来る気がします」=
-//「いつかって……例えば？」=
-//「えぇと……例えばあなたと……ど、同棲することになって。合鍵を作った時にキーホルダーを付けたり……」=
-//「なっ……確かにそうなったら、キーホルダーは必要だね。置き物も、二人の部屋に飾ればいいし……」=
-//「はい、その通りです。そう考えたら無駄な買い物ではないと思うのですが……」=
-//「うん、全然無駄じゃないね！　よし、そうと決まれば早速レジに行こう！」=
-//「ふふ、そんなに急がなくても大丈夫ですよ。お土産は逃げたりしませんから」=
-//（[H名]と同棲か……考えただけでワクワクするな）=
+「一緒にお土産屋さんを見てみようか」=“Let's go to the souvenir shop together.”
+「見てください。シーサーのキーホルダーがありました。可愛いですね」=“Please look. They even have a shisa keychain. It's so cute, isn't it?”
+「はは、女の子はみんな可愛いになっちゃうんだね」=“Hahah, I guess that's how it would look to all girls.”
+「え……シーサー、可愛くありませんか？　どのシーサーグッズを買おうか迷っていたくらいなのですが……」=“Eh... is it not cute? But I was having such a hard time deciding between this and all the other shisa goods...”
+「そのキーホルダーのは可愛いと思うよ。ただ、シーサーは守り神だからね……」=“I think it is very cute, for sure. But you know, shisas are supposed to be guardian spirits...”
+「可愛いキーホルダーより、俺だったらカッコイイ置き物とかの方が欲しいかな」=“Personally, if I was getting one, I'd much rather get a cool looking ornament than a cute keychain.”
+「ふふ、それこそ男性らしい発想ですね。では、私はキーホルダーを、あなたは置き物を買いますか？」=“Fufuh, that's a very manly way of looking at it. Well then, shall I buy this key-chain, if you're buying an ornament?”
+「うーん、それもいいけど……キーホルダーも置き物も、どっちもあんまり実用性が無いからなー」=“Nnnn, I guess that could work but... neither a keychain nor an ornament has much practical use, you know~?”
+「お土産とはそういうものだと思いますよ？　それに……きっといつか使う時が来る気がします」=“I think all souvenirs are like that, you know? Not to mention... I'm sure a day will come when we'll put them to use.”
+「いつかって……例えば？」=“Like... when?”
+「えぇと……例えばあなたと……ど、同棲することになって。合鍵を作った時にキーホルダーを付けたり……」=“Eerhm... like if we... s-start living together some day, we could put the keychain on the duplicate key...”
+「なっ……確かにそうなったら、キーホルダーは必要だね。置き物も、二人の部屋に飾ればいいし……」=“Wha--... you're not wrong, we're gonna need a keychain for that. And we could put the ornament in our bedroom too...”
+「はい、その通りです。そう考えたら無駄な買い物ではないと思うのですが……」=“Yes, precisely. If you think about it that way, I don't think they're very useless things...”
+「うん、全然無駄じゃないね！　よし、そうと決まれば早速レジに行こう！」=“Yep, not useless at all! Alright, let's grab them and go to the counter then!”
+「ふふ、そんなに急がなくても大丈夫ですよ。お土産は逃げたりしませんから」=“Fufuh, you needn't rush so much. They're not going to run away, you know.”
+（[H名]と同棲か……考えただけでワクワクするな）=(Living together someday, huh... just thinking about it's making my heart pound.)

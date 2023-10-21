@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線の音はなんだか心がやすらぎますね。また、あなたと一緒に出来たら嬉しいです」=
+「三線の音はなんだか心がやすらぎますね。また、あなたと一緒に出来たら嬉しいです」=“The sounds a sanshin makes have a way of putting your heart at ease, don't they? I hope we can do this again together, that'd make me very happy.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「背中側だけ綺麗になっても仕方ないし、今回は正面も塗ってみない？」=
-//「へっ？　それは……その……胸の辺りも塗ったり……？」=
-//「もちろん、そのつもりだよ」=
-//「恥ずかしいですけど……あなたにでしたら……」=
+「背中側だけ綺麗になっても仕方ないし、今回は正面も塗ってみない？」=“We can't have just your back getting prettier, how about we do your front too?”
+「へっ？　それは……その……胸の辺りも塗ったり……？」=“Heh--? That's... uhm... you mean my breasts as well...?”
+「もちろん、そのつもりだよ」=“Of course, that's the plan.”
+「恥ずかしいですけど……あなたにでしたら……」=“That sounds very embarrassing... but if it's you...”

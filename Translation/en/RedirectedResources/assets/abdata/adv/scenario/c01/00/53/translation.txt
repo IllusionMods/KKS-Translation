@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ……あなたと一緒だと、よりご飯が美味しく感じられます。ごちそうさまでした」=
+「ふぅ……あなたと一緒だと、よりご飯が美味しく感じられます。ごちそうさまでした」=“Fuuh... I find food a whole lot more delicious, when you're there. That was wonderful.”

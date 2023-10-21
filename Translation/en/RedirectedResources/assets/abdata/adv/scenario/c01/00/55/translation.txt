@@ -7,7 +7,7 @@
 「この間目にした少女漫画に、同じような場面がありまして。それに、私たちの仲もだいぶ進展してきましたので」=“A shoujo manga I found the other day had a similar scene in it. Not to mention, our relationship has progressed quite a bit.”
 「いいね！　どんなふうに呼んでくれるか楽しみだよ」=“Sounds fun! I'm excited to see just what you've come up with.”
 「あ、ありがとうございます。それでは――」=“T-Thank you very much. Well then--”
-「……[Pあだ名]」=“...[Pあだ名]”
+「……[Pあだ名]」=“...[Pあだ名].”
 「…………け、結構照れくさいね。でも嬉しいよ。俺も愛称で呼んでみていいかな？」=“...T-That's a pretty embarrassing nickname. But it makes me happy. Mind if I try calling you by one too?”
 「は、はい。お願いします」=“Y-Yes. Please do.”
 「うん。じゃあ……[Hあだ名]」=“Okay. Then... [Hあだ名].”

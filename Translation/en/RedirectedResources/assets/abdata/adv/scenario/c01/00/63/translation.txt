@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「とてもリラックスできました。ありがとうございます」=
-//「気持ち良くしていただき、ありがとうございます」=
-//「少しスッキリ出来た気がします。ありがとうございました」=
-//「あの……どうして塗ってくださらないのですか……？」=
+「とてもリラックスできました。ありがとうございます」=“That was very relaxing. Thank you very much.”
+「気持ち良くしていただき、ありがとうございます」=“Thank you very much, that felt very nice.”
+「少しスッキリ出来た気がします。ありがとうございました」=“I think I feel a bit fresher, certainly. Thank you very much.”
+「あの……どうして塗ってくださらないのですか……？」=“Uhm... why won't you do it...?”

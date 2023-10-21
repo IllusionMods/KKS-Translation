@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「あの……お邪魔してもよろしいですか？」=
-SELECTION:「返事をする」=Respond
+「あの……お邪魔してもよろしいですか？」=“Uhm... could I perhaps intrude on you right now?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「もちろんいいよ。どうかしたの？」=
-//「遅い時間にすみません。ふと、あなたに会いたくなりまして……」=
-//「今夜は……傍にいさせてください」=
-//「……外出中なのでしょうか？　残念です……」=
+「もちろんいいよ。どうかしたの？」=“You're never intruding. Something happen?”
+「遅い時間にすみません。ふと、あなたに会いたくなりまして……」=“Sorry for bothering you so late at night. I just, wanted to see your face...”
+「今夜は……傍にいさせてください」=“Please let me... spend the night by your side.”
+「……外出中なのでしょうか？　残念です……」=“...Are you perhaps not in? That's a shame...”

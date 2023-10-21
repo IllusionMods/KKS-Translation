@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「景色の良い場所は、デートの定番だと聞いたことがあります」=
-//「まあ、そうだね」=
-//「そんな場所で、一般的なカップルはどの様な会話をするのでしょう？」=
-//「うーん、『景色が綺麗だねー』とか、当たり前の感想を二人で共有するだけだと思うよ」=
-//「物語なら『君の方が綺麗だ』みたいなキザなことを言うだろうけど」=
-//「……言ってくれないんですか？」=
-//「えっ！？　そんなフリ方をされると思わなかった……」=
-//「ふふ、冗談ですよ」=
+「景色の良い場所は、デートの定番だと聞いたことがあります」=“I've heard before, that beautiful places like these, are very common date spots.”
+「まあ、そうだね」=“I guess yeah.”
+「そんな場所で、一般的なカップルはどの様な会話をするのでしょう？」=“What sort of things do most couples chat about, when they come to places like these?”
+「うーん、『景色が綺麗だねー』とか、当たり前の感想を二人で共有するだけだと思うよ」=“Nnnn, I'm pretty sure they just share very obvious thoughts with each other, stuff like「this place sure is pretty, isn't it~?」and whatnot.”
+「物語なら『君の方が綺麗だ』みたいなキザなことを言うだろうけど」=“If it was a novel or something then that'd probably be followed by something pretentious like「You're much prettier」or whatever else though.”
+「……言ってくれないんですか？」=“...You won't say it it to me?”
+「えっ！？　そんなフリ方をされると思わなかった……」=“Eh--!? I didn't think that was what you were trying to lead it into...”
+「ふふ、冗談ですよ」=“Fufuh, I'm just joking.”

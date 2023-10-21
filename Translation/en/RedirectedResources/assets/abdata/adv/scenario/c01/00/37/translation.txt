@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「海のレジャーが充実していますね」=
-//「やってみたいものはある？　何でも選んでいいよ」=
-//「わ、私がですか？　うーん、何が良いでしょう……どれも楽しそうで……」=
-//「すみません……私一人では決められそうにないです」=
-//「じゃあ、二人で決めようか」=
+「海のレジャーが充実していますね」=“They truly have all sorts of sea activities, don't they?”
+「やってみたいものはある？　何でも選んでいいよ」=“Any you wanna do in particular? Go on, feel free to pick.”
+「わ、私がですか？　うーん、何が良いでしょう……どれも楽しそうで……」=“M-Me? Nnn, what would be good... they all seem very fun...”
+「すみません……私一人では決められそうにないです」=“I'm sorry... I don't think I can decide by myself.”
+「じゃあ、二人で決めようか」=“Let's decide together then.”

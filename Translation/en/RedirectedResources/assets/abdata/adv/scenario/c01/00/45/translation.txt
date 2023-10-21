@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えっと……あなた褒めてくださったお陰で、上手に出来た気がします。ありがとうございました」=
+「えっと……あなた褒めてくださったお陰で、上手に出来た気がします。ありがとうございました」=“Erhm... thanks to all your praise, I feel like I ended up making a great piece. Thank you very much.”
