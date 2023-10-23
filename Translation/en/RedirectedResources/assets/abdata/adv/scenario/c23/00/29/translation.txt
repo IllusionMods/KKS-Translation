@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]……いいよね？」=
-//「そんなにエッチしたがってたなんて……あなたはちょっと性欲が強すぎるのでは？」=
-//「うっ……もしかして、引いちゃう？」=
-//「普通ならそうかもしれませんが、あなたはワタシの彼氏ですから……求めて貰えるのは嬉しいですぞ」=
+「[H名]……いいよね？」=“[H名]... you don't mind, right?”
+「そんなにエッチしたがってたなんて……あなたはちょっと性欲が強すぎるのでは？」=“I can't believe you're so hungry for it... you sure your sex drive's not a bit too active?”
+「うっ……もしかして、引いちゃう？」=“Uu--... are you creeped out?”
+「普通ならそうかもしれませんが、あなたはワタシの彼氏ですから……求めて貰えるのは嬉しいですぞ」=“Normally any girl would be, but you're my boyfriend and I'm your girlfriend... being wanted feels just plain nice.”

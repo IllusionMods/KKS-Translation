@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「浜辺を歩くだけっていうのも、悪くないね」=
-//「そうですなぁ。波の音も穏やかで、心が落ち着きますな」=
-//「こういうのんびりした時間は、南の島ならではって感じだね」=
-//「島時間という概念ができるのも、わかる気がしますぞ」=
-//「うん。時間の流れそのものが、ゆっくりしてるみたいだ」=
-//「それでは、ワタシ達ももう少しゆっくりして行きましょうか」=
+「浜辺を歩くだけっていうのも、悪くないね」=“Even just taking a walk along the beach isn't all that bad, is it?”
+「そうですなぁ。波の音も穏やかで、心が落ち着きますな」=“Yeah~. The sound of the waves is so calm too, it really does relax your heart.”
+「こういうのんびりした時間は、南の島ならではって感じだね」=“Spending chilled out time like this is something you can only do in a place like this, isn't it?”
+「島時間という概念ができるのも、わかる気がしますぞ」=“I can understand why some people talk as if 'island time' is a separate thing from actual time.”
+「うん。時間の流れそのものが、ゆっくりしてるみたいだ」=“Yep. It almost feels like the flow of time itself is taking it easy here.”
+「それでは、ワタシ達ももう少しゆっくりして行きましょうか」=“Well then, let's take it a bit more easy ourselves too.”

@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「良いところに卓球台があるね。ちょっとやっていこうか？」=
-//「さあ、一勝負……っていきたいけど、ずいぶんと堂に入った構えだね？」=
-//「ふっふっふ、ようやく気付いたようだね」=
-//「卓球漫画を読み込んだ今のワタシは、いわばラバーの魔術士！」=
-//「今なら魔球だって打てる気がするのさぁ！」=
-//「いやいや、漫画を読み込んだだけで魔球なんて打てたら苦労しないよ」=
-//「ちなみに、実際にプレイした経験は？」=
-//「ヒミツですぞ！」=
-//「あーうん、なんとなくオチが読めたよ。たいして経験はないんだね？」=
-//「でも……まぁ、別にいいか。この勝負、受けて立つ！」=
-//「それでこそ、我が恋人にして好敵手。いざ、尋常に勝負！」=
-//「行くぞ、疾風迅雷、炎の――」=
-//「……何か、言うことはある？」=
-//「こんなはずじゃないのにぃぃ……！」=
+「良いところに卓球台があるね。ちょっとやっていこうか？」=“What a perfect spot for a round of ping pong. Wanna go for it?”
+「さあ、一勝負……っていきたいけど、ずいぶんと堂に入った構えだね？」=“Alright then, let the game begin... is what I'd like to say, but that's some master-like stance you've taken there.”
+「ふっふっふ、ようやく気付いたようだね」=“Fuh fuh fuh, seems that you finally realized it.”
+「卓球漫画を読み込んだ今のワタシは、いわばラバーの魔術士！」=“With all the ping pong manga I've read by my side, I may as well be a magician of rubber!”
+「今なら魔球だって打てる気がするのさぁ！」=“Hell, I could even hit back a miracle ball to you right now!”
+「いやいや、漫画を読み込んだだけで魔球なんて打てたら苦労しないよ」=“No way, if just reading manga was enough to let you do that, pros would be popping up day and night.”
+「ちなみに、実際にプレイした経験は？」=“Incidentally, how many actual games have you played?”
+「ヒミツですぞ！」=“That's a secret you shan't be privy to!”
+「あーうん、なんとなくオチが読めたよ。たいして経験はないんだね？」=“Ah, yeah yeah, I got it, yep. So you haven't played any, huh?”
+「でも……まぁ、別にいいか。この勝負、受けて立つ！」=“But... well, whatever. I'll take you on!”
+「それでこそ、我が恋人にして好敵手。いざ、尋常に勝負！」=“And that's why you are worthy of being my boyfriend. Come now, let us fight fair and square!”
+「行くぞ、疾風迅雷、炎の――」=“Here I go, whirlwind speed, fire---”
+「……何か、言うことはある？」=“...Do you have anything to say for yourself?”
+「こんなはずじゃないのにぃぃ……！」=“It wasn't supposed to be like this...!”

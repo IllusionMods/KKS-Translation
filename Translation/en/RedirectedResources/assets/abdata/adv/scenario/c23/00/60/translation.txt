@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「やぁどうも……あなたの部屋に入りたいんだけど、大丈夫かな？」=
-SELECTION:「返事をする」=Respond
+「やぁどうも……あなたの部屋に入りたいんだけど、大丈夫かな？」=“Hi, hello, how are you... I wanna come in, could I?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「大丈夫だけど、何かあったの？」=
-//「ただ、あなたと二人で過ごしたいと思っただけなんだなぁ……」=
-//「あなたと恋人になってから……一人の夜が寂しいって思うようになっちゃったんだよ……」=
-//「やや、いないのか……残念、またの機会にしますか」=
+「大丈夫だけど、何かあったの？」=“Sure but, did something happen?”
+「ただ、あなたと二人で過ごしたいと思っただけなんだなぁ……」=“I just wanted to spend some quality time together with you...”
+「あなたと恋人になってから……一人の夜が寂しいって思うようになっちゃったんだよ……」=“Ever since we became a couple... sleeping alone in bed's started feeling a whole lot lonelier, you know...”
+「やや、いないのか……残念、またの機会にしますか」=“What, he's not in, huh... shame, guess I'll hit him up another time.”

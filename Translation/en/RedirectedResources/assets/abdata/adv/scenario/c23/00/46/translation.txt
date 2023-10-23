@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「楽しかったですな。それでは、また」=
+「楽しかったですな。それでは、また」=“That was fun. See you later.”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線て、見た目より結構難しいんだね」=
-//「音は出せるけど、演奏するのはまだまだなんだなぁ」=
-//「でも、音を聞くだけでも、なぜだか陽気な気分になってくるけどね」=
-//「本当に不思議な楽器……この土地の魂が浸み込んでるみたいですな」=
-//「音を聞くだけで、踊り出すのもわかる気がするよ」=
-//「いっその事、三線と踊りも体験してみたくなって来ましたぞ」=
+「三線て、見た目より結構難しいんだね」=“Sanshins are harder than they look, aren't they?”
+「音は出せるけど、演奏するのはまだまだなんだなぁ」=“It's easy to make a sound with them, but hard to make anything approaching 'music', isn't it?”
+「でも、音を聞くだけでも、なぜだか陽気な気分になってくるけどね」=“But, even just those sounds alone kinda have a way of putting you in a great mood, don't they?”
+「本当に不思議な楽器……この土地の魂が浸み込んでるみたいですな」=“It truly is a mysterious instrument... Almost feels as if the soul of this land is imbued in it.”
+「音を聞くだけで、踊り出すのもわかる気がするよ」=“I think I get why people start wanting to get up and dance to the sound from these.”
+「いっその事、三線と踊りも体験してみたくなって来ましたぞ」=“Honestly, now I want to try out dancing as well.”

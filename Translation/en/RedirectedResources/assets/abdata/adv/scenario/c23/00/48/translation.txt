@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この食堂、色々面白いメニューが揃ってるね」=
-//「ワタシ達の地元じゃ、ほとんど見かけないお料理ばっかりだよ」=
-//「この辺じゃ、当たり前に食べられてるんだろうね」=
-//「味もしっかりしてて、どれも美味しいんだなぁ」=
-//「あのメニューも気になるよね」=
-//「頼もうよ。ワタシも頑張って残さず食べますぞ」=
+「この食堂、色々面白いメニューが揃ってるね」=“They've got a pretty interesting menu here, huh?”
+「ワタシ達の地元じゃ、ほとんど見かけないお料理ばっかりだよ」=“And it's all food that you don't really see in the city.”
+「この辺じゃ、当たり前に食べられてるんだろうね」=“For them, this is probably the sort of thing they eat everyday too.”
+「味もしっかりしてて、どれも美味しいんだなぁ」=“The flavouring's done really well too, it's all so good.”
+「あのメニューも気になるよね」=“I'm curious about what you ordered too.”
+「頼もうよ。ワタシも頑張って残さず食べますぞ」=“Let's just order more then. I'll try to clean up my side of the table too.”

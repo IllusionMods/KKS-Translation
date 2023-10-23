@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「見てよ、このオイル、全部自由に使っていいみたいだよ」=
-//「ほほぉ、大盤振る舞いですなぁ……全部美容オイルなのかな」=
-//「そうみたい。せっかくだし塗ってあげるよ」=
-//「いいの？　なんだか悪い気がするなぁ」=
-//「気にしない、気にしない。俺に任せといて」=
+「見てよ、このオイル、全部自由に使っていいみたいだよ」=“Look, seems like we can use all the oil here if we want.”
+「ほほぉ、大盤振る舞いですなぁ……全部美容オイルなのかな」=“Hohoh~, that's peak hospitality right there... is it all beauty oil?”
+「そうみたい。せっかくだし塗ってあげるよ」=“Seems like it. Since we're here, I'll rub it on you.”
+「いいの？　なんだか悪い気がするなぁ」=“You sure? I'd feel kinda bad though~”
+「気にしない、気にしない。俺に任せといて」=“Don't worry about it, really. Leave it to me.”

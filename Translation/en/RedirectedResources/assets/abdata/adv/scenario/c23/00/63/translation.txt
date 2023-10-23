@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「流石ですな……こんなに気持ち良く塗ってもらえるなんて」=
-//「最高でしたぞ……綺麗に塗ってくれてありがとう」=
-//「いい感じでしたぞ、助かっちゃったよぉ」=
-//「ありゃ？　何もしないんだね？」=
+「流石ですな……こんなに気持ち良く塗ってもらえるなんて」=“Amazing... I didn't expect you to do it so nicely for me.”
+「最高でしたぞ……綺麗に塗ってくれてありがとう」=“That was the best... thanks for doing it so nicely.”
+「いい感じでしたぞ、助かっちゃったよぉ」=“That felt great, you really helped me out here~”
+「ありゃ？　何もしないんだね？」=“Oh dearie? Not gonna do anything, huh?”

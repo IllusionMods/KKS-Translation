@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「悪くなかったですぞー。ではでは、ワタシはこれで」=
+「悪くなかったですぞー。ではでは、ワタシはこれで」=“That wasn't bad at all~. Well then, I shall be off~”

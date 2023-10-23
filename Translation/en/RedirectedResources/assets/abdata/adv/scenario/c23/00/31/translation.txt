@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あの灯台、なかなかカッコいいよね」=
-//「そうかな？　普通だと思うけど」=
-//「見敵必殺のレーザー砲を照射する、無慈悲な要塞的な感じだなぁ」=
-//「………どこをどう見ればそう見えるの？」=
-//「いや、この間読んだ漫画にそういうシーンが出てきたから」=
+「あの灯台、なかなかカッコいいよね」=“This lighthouse is pretty darn cool, isn't it?”
+「そうかな？　普通だと思うけど」=“You think? It looks pretty normal to me.”
+「見敵必殺のレーザー砲を照射する、無慈悲な要塞的な感じだなぁ」=“Looks to me like a merciless fortification to me, with a laser that wipes out enemies on all sides.”
+「………どこをどう見ればそう見えるの？」=“...Where are you looking? Can you show me?”
+「いや、この間読んだ漫画にそういうシーンが出てきたから」=“No well, the manga I read the other day had a scene like that.”

@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この水族館って、魚の種類多いよね」=
-//「ですなぁ。見応え満点で飽きが来ないのはすごいんだなぁ」=
-//「大型の回遊魚なんかも観賞できるのは個人的に高ポイントですぞ」=
-//「だね。まさか、小さめの種類とはいえマグロがいるとは思わなかったし」=
-//「あれは、美味しそうで……じゅるり」=
-//「いやいやいや、その感想は女の子としてどうなの？」=
-//「別におかしくないと宣言したい所存。料理好きな女子でも同じことを思う……はず」=
-//「そうかな……？」=
-//「だとしても、マグロを解体して食べてやろうと思う人はいないと思う」=
-//「それ以前に、魚をさばける女の子自体が希少種ですなー」=
-//「今はスーパーで普通に切り身を買えるからね」=
-//「ちなみに、[H名]はどうなの？」=
-//「……さすがにマグロをさばこうなんて考えたこともないよ」=
-//「いや、マグロにかぎった話じゃないよ。魚全般をさばけるかどうか」=
-//「ふふふ、あなたは出来ると思うかい？」=
-//「自信満々に言うことじゃないね」=
-//「しかし、自分から言い出しといてなんですが、水槽の前で話すことじゃありませんな」=
-//「まったくもってそうだね。俺としては、もっと甘酸っぱいデートを期待してたんだけど」=
-//「ぅ……それは申し訳ない……い、今から挽回しますぞー！」=
+「この水族館って、魚の種類多いよね」=“They've got a whole lot of different kinds of fish here, don't they?”
+「ですなぁ。見応え満点で飽きが来ないのはすごいんだなぁ」=“Yeah~. It's amazing how it doesn't get boring at all~”
+「大型の回遊魚なんかも観賞できるのは個人的に高ポイントですぞ」=“Personally, I love how they even have some large migratory fish for us to appreciate.”
+「だね。まさか、小さめの種類とはいえマグロがいるとは思わなかったし」=“Yeah. And I didn't expect to see any tuna here either, though they're the smaller kind but still.”
+「あれは、美味しそうで……じゅるり」=“Those look, so delicious... *drool*”
+「いやいやいや、その感想は女の子としてどうなの？」=“Alright, just hang on, as a girl, should you really be thinking that way?”
+「別におかしくないと宣言したい所存。料理好きな女子でも同じことを思う……はず」=“I would say that there is nothing wrong with that. Girls that love cooking should feel the same... should.”
+「そうかな……？」=“I don't know...?”
+「だとしても、マグロを解体して食べてやろうと思う人はいないと思う」=“Even if there were girls like that, I don't think many people out there would think of picking apart a whole tuna to eat it.”
+「それ以前に、魚をさばける女の子自体が希少種ですなー」=“And it's not as if there's many girls out there either, who know how to handle a fish.”
+「今はスーパーで普通に切り身を買えるからね」=“Yeah, since nowadays you can just buy pre-filleted fish at the supermarket.”
+「ちなみに、[H名]はどうなの？」=“Incidentally, can you?”
+「……さすがにマグロをさばこうなんて考えたこともないよ」=“...I've never even thought about filleting a tuna myself, no.”
+「いや、マグロにかぎった話じゃないよ。魚全般をさばけるかどうか」=“No, I'm not talking about just tuna. Can you fillet a whole fish yourself?”
+「ふふふ、あなたは出来ると思うかい？」=“Fufuh, do you think I can?”
+「自信満々に言うことじゃないね」=“I'm not sure you should feel so smug about it.”
+「しかし、自分から言い出しといてなんですが、水槽の前で話すことじゃありませんな」=“Still, while I did bring it up myself, this isn't something we should be talking about in front of a fishtank, is it?”
+「まったくもってそうだね。俺としては、もっと甘酸っぱいデートを期待してたんだけど」=“Finally some sense out of you. I was personally hoping for a more lovey-dovey date, you know.”
+「ぅ……それは申し訳ない……い、今から挽回しますぞー！」=“Uu... I do apologize... I-I can still bring it back~!”

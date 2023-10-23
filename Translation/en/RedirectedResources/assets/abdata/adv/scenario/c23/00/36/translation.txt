@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃあ、何かレンタルして遊ぼうか」=
-//「ワタシはシュノーケリングがいいんだなぁ」=
-//「海の中に興味があるの？」=
-//「ダイビングがテーマの漫画を読んでね。海の中が綺麗だなぁと思ったんですぞ」=
-//「なるほど、ダイビングって程じゃないけど、確かに気分は味わえるかもね」=
-//「そういうわけだから、早速行きましょうぞ」=
+「それじゃあ、何かレンタルして遊ぼうか」=“Well then, let's rent something to mess around with, shall we?”
+「ワタシはシュノーケリングがいいんだなぁ」=“I want to go snorkeling.”
+「海の中に興味があるの？」=“Interested in what lies under the sea?”
+「ダイビングがテーマの漫画を読んでね。海の中が綺麗だなぁと思ったんですぞ」=“Yeah, since I read a diving themed manga the other day. It really made me think about how pretty it must be under there.”
+「なるほど、ダイビングって程じゃないけど、確かに気分は味わえるかもね」=“I see, we're not going to be going diving necessarily but we can certainly savour the experience of it.”
+「そういうわけだから、早速行きましょうぞ」=“Exactly, so let's go.”

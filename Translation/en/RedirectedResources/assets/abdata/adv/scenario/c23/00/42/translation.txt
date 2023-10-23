@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「頑張って、格好いいシーサーを作りたいな」=
-//「ワタシも、せっかくなら格好いい方向で制作しますぞ」=
-//「粘土とか、弄った事あるの？」=
-//「子供の頃以来ないですが、フィギュアはよく観察してるんだなぁ」=
-//「なるほど、そういう路線ね」=
-//「ワタシの手で、聖獣シーサーの力強さを表現してみせますぞ」=
+「頑張って、格好いいシーサーを作りたいな」=“I wanna do my best to make a nice and cool shisa.”
+「ワタシも、せっかくなら格好いい方向で制作しますぞ」=“Me too, since we're making them already, I'm gonna make mine be on the cooler side.”
+「粘土とか、弄った事あるの？」=“You've messed around with stuff like this before?”
+「子供の頃以来ないですが、フィギュアはよく観察してるんだなぁ」=“No, I haven't played with clay since I was a kid but, I do observe figures a lot.”
+「なるほど、そういう路線ね」=“I see, that makes sense.”
+「ワタシの手で、聖獣シーサーの力強さを表現してみせますぞ」=“I shall put on display for the world, the might of a sacred beast shisa.”
