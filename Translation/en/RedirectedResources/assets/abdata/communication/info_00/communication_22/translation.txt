@@ -47,7 +47,7 @@
 「積極的な男性ってどう思う？」=“What do you think of proactive guys?”
 「引っ張ってくれるタイプってこと？　だったら嬉しいかも！」=“Do you mean the sort that'd pull me along by the hand? I'd like that!”
 「うーん、歩幅が合わない感じがして苦手かなぁ」=“Mmm, I don't think I'd be able to match their pace.”
-「慎重な男性ってどう思う？」=“What do you think of careful, catious guys?”
+「慎重な男性ってどう思う？」=“What do you think of careful, cautious guys?”
 「私、よく危なっかしいって言われるから……そういう人、いいね」=“I often get told that I'm pretty, no, really careless sometimes so... a guy like that would be nice.”
 「どうかなぁ。男の人なら大胆さも欲しいよね」=“I dunno. I'd like if my boyfriend was a bold guy.”
 「勤勉な男性ってどう思う？」=“What do you think of industrious guys?”
