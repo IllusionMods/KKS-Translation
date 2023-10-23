@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱりここに来ると灯台が目立つよね」=
-//「この場所のシンボルみたいな感じですね」=
-//「でも、灯台が目立ってなかったら船が困るし、当たり前って言えば当たり前だけど」=
-//「灯台の灯りって、どれぐらいの距離まで届くんでしょうか……」=
-//「高さや光の強さで変わると思うけど、日本一の距離が約４９キロぐらいって聞いたことがあるよ」=
-//「すごい、詳しいんですね……尊敬します」=
+「やっぱりここに来ると灯台が目立つよね」=“Man, the lighthouse really stands out here.”
+「この場所のシンボルみたいな感じですね」=“It does feel like a symbol of this place, doesn't it?”
+「でも、灯台が目立ってなかったら船が困るし、当たり前って言えば当たり前だけど」=“But well I guess it wouldn't be a very good lighthouse if it didn't stand out so, I guess that makes sense.”
+「灯台の灯りって、どれぐらいの距離まで届くんでしょうか……」=“I wonder how far the light from it reaches...”
+「高さや光の強さで変わると思うけど、日本一の距離が約４９キロぐらいって聞いたことがあるよ」=“That depends on the height and the intensity of the light I imagine but, I've heard before that the furthest one in Japan went out to about 49 kilometers.”
+「すごい、詳しいんですね……尊敬します」=“Amazing, you know so much... I really respect that.”

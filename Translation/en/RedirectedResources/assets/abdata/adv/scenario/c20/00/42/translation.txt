@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線って、結構難しいね」=
-//「でも、私……この音色、好きですよ」=
-//「確かに、軽快で心に響く感じだよね」=
-//「島の人が……演奏に合わせて踊り出す気持ち、わかる気がします」=
-//「よし……それじゃあ、俺たちも踊りだしたくなるような演奏を目指そうか」=
-//「はい、頑張りましょう」=
+「三線って、結構難しいね」=“Sanshins are pretty difficult instruments, aren't they?”
+「でも、私……この音色、好きですよ」=“But, I... really like this sound.”
+「確かに、軽快で心に響く感じだよね」=“For sure, it really echoes in your heart, doesn't it?”
+「島の人が……演奏に合わせて踊り出す気持ち、わかる気がします」=“I feel like I understand... why the people here tend to suddenly break out dancing to this.”
+「よし……それじゃあ、俺たちも踊りだしたくなるような演奏を目指そうか」=“Alright... let's aim to play the sort of music that makes us wanna do the same too then.”
+「はい、頑張りましょう」=“Yes, let's do our best.”

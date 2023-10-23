@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カヤック、意外と上手に乗れたと思います。それじゃ、またよろしくお願いします」=
+「カヤック、意外と上手に乗れたと思います。それじゃ、またよろしくお願いします」=“I did surprisingly better than I expected. Well then, let's do this again sometime.”

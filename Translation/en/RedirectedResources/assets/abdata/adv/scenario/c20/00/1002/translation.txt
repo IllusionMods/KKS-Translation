@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この卓球台で少し遊んでいかない？」=
-//「こうして向かい合うと、なんだかドキドキしちゃいますね」=
-//「緊張しているの？」=
-//「もし苦手なら、無理に付き合ってくれなくても良いけど……」=
-//「い、いえ、そう言うわけじゃないんです」=
-//「むしろ、あなたと一緒だったら、全然嫌じゃないと言いますか、したいといいますか……」=
-//「でも、あの……ピンポン球が来るのを待つ間、あなたをジッと見ていないといけないので……うぅぅ」=
-//「恥ずかしい、です……」=
-//「そ、そうなんだ。そう言われると、こっちまで恥ずかしくなって来ちゃうな」=
-//「俺が球を打つまで、[H名]に見つめられているってことだし……」=
-//「違うんです！　見つめているわけじゃ……ないこともないんですけど、その……」=
-//「と、とにかく始めませんか！？　さ、さあ、打ってきてください！」=
-//「そ、そうだね。それじゃ行くよ！」=
+「この卓球台で少し遊んでいかない？」=“Wanna put this ping pong table to some actual use and play some?”
+「こうして向かい合うと、なんだかドキドキしちゃいますね」=“Facing each other directly like this, really does make your heart pound, isn't it?”
+「緊張しているの？」=“You nervous?”
+「もし苦手なら、無理に付き合ってくれなくても良いけど……」=“If you don't feel up to it, we don't really have to, you know?...”
+「い、いえ、そう言うわけじゃないんです」=“N-No, that's not what I was trying to say.”
+「むしろ、あなたと一緒だったら、全然嫌じゃないと言いますか、したいといいますか……」=“If anything, with you, I don't mind it at all, rather I wish to do it...”
+「でも、あの……ピンポン球が来るのを待つ間、あなたをジッと見ていないといけないので……うぅぅ」=“But, uhm... having to stare at you, while waiting for the ball is a bit... uuuu--”
+「恥ずかしい、です……」=“It's a bit, embarrassing...”
+「そ、そうなんだ。そう言われると、こっちまで恥ずかしくなって来ちゃうな」=“I-I see. Man, now you're gonna make even me feel embarrassed.”
+「俺が球を打つまで、[H名]に見つめられているってことだし……」=“Since until I hit the ball back, you'll be looking right at me...”
+「違うんです！　見つめているわけじゃ……ないこともないんですけど、その……」=“That's not it! It's not as if I'll be... well, I will be doing that, but...”
+「と、とにかく始めませんか！？　さ、さあ、打ってきてください！」=“A-Anyways, could we start?! C-Come now, please serve!”
+「そ、そうだね。それじゃ行くよ！」=“Y-Yeah. Well then, here I go!”

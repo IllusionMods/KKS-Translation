@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「すごいですね……オイルを塗るのが、とても上手なんですね」=
-//「気持ち、良かったです……とても、いい感じでした」=
-//「ありがとうございます……嬉しかったです」=
-//「終わり……ですか？　何もしてない、ですよね？」=
+「すごいですね……オイルを塗るのが、とても上手なんですね」=“Amazing... you're really, good at this.”
+「気持ち、良かったです……とても、いい感じでした」=“That felt, very nice... I really, enjoyed it.”
+「ありがとうございます……嬉しかったです」=“Thank you very much... it made me very happy.”
+「終わり……ですか？　何もしてない、ですよね？」=“Are we... stopping there? You haven't done anything yet, have you?”

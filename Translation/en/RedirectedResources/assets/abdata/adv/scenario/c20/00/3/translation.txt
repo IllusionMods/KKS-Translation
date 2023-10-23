@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……それって、男女の関係でって事？」=
-//「は、はい……そうです、そういう意味です」=
-//「俺で、いいの？」=
-//「あなたが……いいんです。あなたじゃないと、ダメなんです」=
-//「ありがとう……俺もきみが好きだ。俺たち、付き合おう」=
-//「っ……嬉しいです……えへへ……よろしく、お願いしますね」=
+「……それって、男女の関係でって事？」=“...You mean the sort of love between a man and woman?”
+「は、はい……そうです、そういう意味です」=“Y-Yes... that's right, that's what I mean.”
+「俺で、いいの？」=“You sure you're fine with me?”
+「あなたが……いいんです。あなたじゃないと、ダメなんです」=“You're... the only one it could be. It has to be you, else I can't.”
+「ありがとう……俺もきみが好きだ。俺たち、付き合おう」=“Thanks... I love you as well. Let's go out together.”
+「っ……嬉しいです……えへへ……よろしく、お願いしますね」=“--!... I'm so happy... Eheheh... please take care of me, okay?”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「えっ、なっ、なんでここに……！？　もしかして、見て、ました？」=“Eh, uh-wha why, what are you doing here...!? You didn't, see anything, did you?”
+「えっ、なっ、なんでここに……！？　もしかして、見て、ました？」=“Eh--, w-why are you...!? Did you, see?”

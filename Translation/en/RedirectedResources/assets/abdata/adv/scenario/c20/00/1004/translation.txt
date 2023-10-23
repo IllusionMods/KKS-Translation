@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっと浜辺で海を見て行こうよ」=
-//「こうやって浜辺を一緒に歩くとさ、恋人同士って感じがするよね」=
-//「な、なんですか、急に！？」=
-//「いや、ふと恋人ってどんなことするのかな？　なんて考えてさ」=
-//「こうやって一緒に浜辺を歩くのって、いかにもって感じがすると思って」=
-//「……そ、そうですね。私も……その、そういう感じがします」=
-//「恋人と浜辺を歩くってシチュエーションって、ロマンチックだと思いますし……」=
-//「他にも、夜景の見えるビルでディナーとかも恋人って感じがするよね」=
-//「そうですね。憧れてしまいます……」=
-//「でも、さすがに南の島でそれは難しいかな。だからさ、[H名]」=
-//「はい。何でしょうか？」=
-//「えっと……。代わりにって訳じゃないんだけど、もう少し恋人らしく手を繋いだりしようか？」=
-//「……っ！？　そ、そんなの、無理です！」=
-//「えっ……そ、そんなに力一杯否定するくらい嫌だった……？」=
-//「あ……ち、違うんですっ、その、えっと……あの……！」=
-//「ただ……は、恥ずかしいので……。つい、言ってしまっただけで」=
-//「だから、手を繋ぐのが嫌って訳じゃなくて……その、むしろ繋ぎたい……と言いますか……」=
-//「あぅぅ……は、恥ずかしい……です」=
-//「その、えっと……。はは、なんだか俺まで恥ずかしくなって来ちゃったよ」=
-//「でも、嫌じゃないなら手を繋いでいいかな……？」=
-//「は、はい……。よ、よろしくお願い、しますぅ……」=
-//「それじゃあ。はい、[H名]」=
+「ちょっと浜辺で海を見て行こうよ」=“Let's go to the beach and look at the sea a bit, c'mon.”
+「こうやって浜辺を一緒に歩くとさ、恋人同士って感じがするよね」=“Walking along the beach together like this, really makes the couple feeling set in, doesn't it?”
+「な、なんですか、急に！？」=“W-What are you saying now?!”
+「いや、ふと恋人ってどんなことするのかな？　なんて考えてさ」=“No well, I was just wondering what sort of things couples do, you know?”
+「こうやって一緒に浜辺を歩くのって、いかにもって感じがすると思って」=“And walking along the beach like this, feels like a perfect example and all.”
+「……そ、そうですね。私も……その、そういう感じがします」=“...I-I suppose so. I uhm... I feel that as well.”
+「恋人と浜辺を歩くってシチュエーションって、ロマンチックだと思いますし……」=“I do think it's a very romantic situation, walking along the beach with the person I love and...”
+「他にも、夜景の見えるビルでディナーとかも恋人って感じがするよね」=“There's stuff like eating dinner at a restaurant inside a high rise with the view of the night sky too, that feels very romantic too, doesn't it?”
+「そうですね。憧れてしまいます……」=“Indeed. It's very dreamy...”
+「でも、さすがに南の島でそれは難しいかな。だからさ、[H名]」=“But, fat chance we're gonna get to do that here. So, [H名].”
+「はい。何でしょうか？」=“Yes, what is it?”
+「えっと……。代わりにって訳じゃないんだけど、もう少し恋人らしく手を繋いだりしようか？」=“Erhm... not like this is a substitute for it or anything but, wanna hold hands too? Like a couple and all.”
+「……っ！？　そ、そんなの、無理です！」=“...--?! T-There's no way!”
+「えっ……そ、そんなに力一杯否定するくらい嫌だった……？」=“Eh--... y-you hate the idea that much...?”
+「あ……ち、違うんですっ、その、えっと……あの……！」=“Ah... t-that's not it--, uhm, erhm... uhm...!”
+「ただ……は、恥ずかしいので……。つい、言ってしまっただけで」=“It's just... e-embarrassing so... I ended up, blurting that out.”
+「だから、手を繋ぐのが嫌って訳じゃなくて……その、むしろ繋ぎたい……と言いますか……」=“It's not that I, hate the idea of holding hands with you... uhm, if anything I... want you to hold my hand...”
+「あぅぅ……は、恥ずかしい……です」=“Auuu... i-it's so... embarrassing.”
+「その、えっと……。はは、なんだか俺まで恥ずかしくなって来ちゃったよ」=“Erhm, uh... Hahah, now even I'm getting embarrassed.”
+「でも、嫌じゃないなら手を繋いでいいかな……？」=“But I guess if you don't mind...?”
+「は、はい……。よ、よろしくお願い、しますぅ……」=“Y-Yes... p-please, do it...”
+「それじゃあ。はい、[H名]」=“Well then.”

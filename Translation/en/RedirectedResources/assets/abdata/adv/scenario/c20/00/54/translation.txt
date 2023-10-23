@@ -10,7 +10,7 @@
 「自分でもわかってるんだけど、どうしても[H]に呼んでほしいんだ」=“I understand that myself but, I really want to hear you say it, [H].”
 「……わ、わかりました。……私、やります！」=“...I-I understand. ...I'll do it!”
 「ありがとう！　[H]の愛称も考えてきたから、ちょっと呼んでみるね」=“Thank you! I've thought one for you too, so I'll try saying it, okay?”
-「[Hあだ名]」=“[Hあだ名]”
+「[Hあだ名]」=“[Hあだ名].”
 「あぅ……その……[Pあだ名]」=“Auu... uhm... [Pあだ名].”
 「うぅ……キスするよりも恥ずかしいかもです……」=“Uuu... this might be more embarrassing than even kissing...”
 「あはは……でも可愛かったよ。それに呼んでもらえてすっごく嬉しかった」=“Ahaha... but you were adorable. Not to mention, it made me amazingly happy to hear you say it.”

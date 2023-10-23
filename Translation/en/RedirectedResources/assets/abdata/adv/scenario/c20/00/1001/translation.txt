@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、少し縁側で涼んでいこうよ」=
-//「はぁ……縁側って、なんでこんなに落ち着くんだろうね」=
-//「そうですね。私もこういう時間はすっごく落ち着いて好きです」=
-//「時間がゆっくり流れているというのでしょうか……」=
-//「その感覚はわかる気がするよ」=
-//「縁側に限らないけど、南の島って都会と比べると時間がゆっくり流れてる気がする」=
-//「これって、どうしてなんでしょうね？」=
-//「普段みたいに時間に追われていない……とかもあると思うけど……」=
-//「今、そう感じている理由はなんとなくわかるよ」=
-//「今限定……ですか？」=
-//「うん。こうして恋人と一緒にいるから……さ」=
-//「あ……」=
-//「そ、その、えっと……あぅぅ。あ、ありがとう……ございます……」=
-//「わ、私も、同じ気持ちです……。あなたと一緒だから……」=
-//「えっと……は、はははは」=
-//「うぅぅ……」=
-//「せっかく縁側で涼んでるのに、何か逆に暑くなって来ちゃったね……！」=
-//「は、はい、顔が熱い、です……。でも」=
-//「心もポカポカして、少し……心地良いかも、しれません……」=
-//「そ、そっか……」=
-//「その……もう少し、だけ。ここで涼んでいきませんか……？」=
-//「うん……そうだね。そうしようか」=
+「ねぇ、少し縁側で涼んでいこうよ」=“Hey, let's cool off a bit at the veranda.”
+「はぁ……縁側って、なんでこんなに落ち着くんだろうね」=“Haah... I wonder why places like these are so calming.”
+「そうですね。私もこういう時間はすっごく落ち着いて好きです」=“Yes. I love spending time like this as well, it's so relaxing.”
+「時間がゆっくり流れているというのでしょうか……」=“I wonder if it's the feeling of time flowing slowly...”
+「その感覚はわかる気がするよ」=“I feel like it might be, yeah.”
+「縁側に限らないけど、南の島って都会と比べると時間がゆっくり流れてる気がする」=“And not just here, I feel like even just life here in general flows at a much more relaxed pace than the city.”
+「これって、どうしてなんでしょうね？」=“I wonder why that is?”
+「普段みたいに時間に追われていない……とかもあると思うけど……」=“The fact that we're not rushing from place to place here... might have a lot to do with it too but...”
+「今、そう感じている理由はなんとなくわかるよ」=“But I feel like I understand why it feels like this, right now.”
+「今限定……ですか？」=“Only... right now?”
+「うん。こうして恋人と一緒にいるから……さ」=“Yeah. Since right now I'm here with the girl I love... you know?”
+「あ……」=“Ah...”
+「そ、その、えっと……あぅぅ。あ、ありがとう……ございます……」=“U-Uhm, erhm... auuuu. T-Thank you... very much...”
+「わ、私も、同じ気持ちです……。あなたと一緒だから……」=“I-I uhm, I feel the same way... because you're here...”
+「えっと……は、はははは」=“Erhm... h-hahahahah.”
+「うぅぅ……」=“Uuuu...”
+「せっかく縁側で涼んでるのに、何か逆に暑くなって来ちゃったね……！」=“Even though we came here to cool down, we started heating up instead, didn't we...!”
+「は、はい、顔が熱い、です……。でも」=“Y-Yes, my face feels, very hot... But--”
+「心もポカポカして、少し……心地良いかも、しれません……」=“My heart feels so warm as well, it feels... a bit, nice...”
+「そ、そっか……」=“I-I see...”
+「その……もう少し、だけ。ここで涼んでいきませんか……？」=“Uhm... could we, uhm, stay here, just a bit longer...?”
+「うん……そうだね。そうしようか」=“Yeah... sure. Let's do that.”

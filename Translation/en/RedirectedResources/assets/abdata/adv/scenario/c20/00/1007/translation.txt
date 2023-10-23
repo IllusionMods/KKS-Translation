@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふふっ、見てください。このお魚さんは小さくて可愛いですよ」=
-//「本当だ。こんなに小さいのが海にいるなんて珍し気がするね」=
-//「淡水魚なら小さいのもいろいろ思いつくんだけど……」=
-//「でも、海水に生息する熱帯魚なら水槽で飼っている人も多いですよね？」=
-//「ああ、確かに。そう言われるとそこまで珍しくもないのかな？」=
-//「この魚もカラフルだし、名前はわからないけど水槽で飼えたりするのかも」=
-//「淡水魚に比べると、海に生きる魚を飼うのは大変そうですけど……」=
-//「水道水にそのまま入れるって訳にもいかないしね」=
-//「俺が飼おうと思ったら、すぐに死なせちゃいそうな気がするよ」=
-//「そう、なんですか？　結構マメそうに見えますけど……」=
-//「で、でも、それでしたら……私が、お世話しに行きましょうか……？」=
-「えっ？」=“Eh?”
-//「……っ！？　い、いえ、やっぱり何でもないです……！」=
-//「そ、その、えっとぉ……わ、私……何を言ってるんだろう……」=
-//「うぅぅ、恥ずかしい……」=
-//「あー……その、なんだろ。えっと……」=
-//「お、お世話に来るんじゃなくて、いっそ一緒に住んじゃったりとか……」=
-//「……っ！？　あぅぅ、そ、それは……その、えっと……うぅぅぅ」=
-//「私も……そういうの、してみたい……かもです……」=
-//「は、ははは……う、うん。その……俺も、何を言ってるんだろ」=
-//「つ、次の水槽を見に行こうか？　は、ははははは」=
+「ふふっ、見てください。このお魚さんは小さくて可愛いですよ」=“Fufuh--, please look. This miss fish is so tiny and cute.”
+「本当だ。こんなに小さいのが海にいるなんて珍し気がするね」=“It really is. Feels a bit insane that something this tiny exists in the sea, doesn't it?”
+「淡水魚なら小さいのもいろいろ思いつくんだけど……」=“I can think of a lot of tiny fish myself but they're all freshwater ones...”
+「でも、海水に生息する熱帯魚なら水槽で飼っている人も多いですよね？」=“But, there's a lot of people out there who keep tropical fish in fishtanks, aren't there?”
+「ああ、確かに。そう言われるとそこまで珍しくもないのかな？」=“Aah, for sure. I guess they're not that much of an unusual sight, when you think about it that way?”
+「この魚もカラフルだし、名前はわからないけど水槽で飼えたりするのかも」=“This fish is so colorful too, so who knows, I don't know its name but maybe there's someone out there who keeps one as a pet.”
+「淡水魚に比べると、海に生きる魚を飼うのは大変そうですけど……」=“Compared to freshwater fish, it does seem like it'd be quite the task to keep a sea fish in a fishtank though...”
+「水道水にそのまま入れるって訳にもいかないしね」=“Yeah, it's not like you could just use tap water afterall.”
+「俺が飼おうと思ったら、すぐに死なせちゃいそうな気がするよ」=“I feel like it'd die right away, if I tried to keep a sea fish as a pet.”
+「そう、なんですか？　結構マメそうに見えますけど……」=“Really? I feel like you're the very caring type though...”
+「で、でも、それでしたら……私が、お世話しに行きましょうか……？」=“B-But, if you really think so then... shall I, come over to take care of it instead...?”
+「えっ？」=“Eh--?”
+「……っ！？　い、いえ、やっぱり何でもないです……！」=“...--?! N-No, it's nothing, please don't mind me...!”
+「そ、その、えっとぉ……わ、私……何を言ってるんだろう……」=“U-Uhm, erhm... I-I... what am I saying...”
+「うぅぅ、恥ずかしい……」=“Uuu, so embarrassing...”
+「あー……その、なんだろ。えっと……」=“Ah... it's, well, you know...”
+「お、お世話に来るんじゃなくて、いっそ一緒に住んじゃったりとか……」=“I-If you're gonna be doing that everyday, we might as well be living together, you know...”
+「……っ！？　あぅぅ、そ、それは……その、えっと……うぅぅぅ」=“...--?! Auuu, t-that's... uhm, erhm... uuuuu”
+「私も……そういうの、してみたい……かもです……」=“I think I... want to, try that... as well...”
+「は、ははは……う、うん。その……俺も、何を言ってるんだろ」=“H-Hahahah... Y-Yeah. Erhm... what am I saying myself?”
+「つ、次の水槽を見に行こうか？　は、ははははは」=“W-Wanna go look at the next one? H-Hahahahahah.”

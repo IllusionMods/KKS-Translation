@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「見慣れない料理ばかりだけど、どれも美味しいね」=
-//「はい……きっと、どれも全部ここの郷土料理なんでしょうね」=
-//「滅多に食べられないんだから、たくさん食べておかないと勿体ないよ」=
-//「そうですね……私も、もっと食べますから」=
+「見慣れない料理ばかりだけど、どれも美味しいね」=“It's all food we've never seen before but, it's all great, isn't it?”
+「はい……きっと、どれも全部ここの郷土料理なんでしょうね」=“Yes... I imagine it's all local to this place.”
+「滅多に食べられないんだから、たくさん食べておかないと勿体ないよ」=“We won't be able to get much of this back in the city, so it'd be a waste not to eat as much as we can while we're here.”
+「そうですね……私も、もっと食べますから」=“Indeed... I'll eat more as well.”

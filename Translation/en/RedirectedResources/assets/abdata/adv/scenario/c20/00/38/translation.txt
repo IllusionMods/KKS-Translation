@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃあ、シュノーケリングでもしてみようか」=
-//「そうですね……一緒に海の中をお散歩しましょう」=
-//「どうかな、散歩できるほど潜れないと思うけど」=
-//「そうなんですか……それじゃあ、お魚と遊ぶのは？」=
-//「うん、それなら出来ると思うよ」=
-//「なら、それがいいです……一緒に遊びましょうね」=
+「それじゃあ、シュノーケリングでもしてみようか」=“Well then, let's try our hand at snorkeling, shall we?”
+「そうですね……一緒に海の中をお散歩しましょう」=“Indeed... let's take a walk under the sea together.”
+「どうかな、散歩できるほど潜れないと思うけど」=“I don't know about that, I don't think it'll let us dive in that deep.”
+「そうなんですか……それじゃあ、お魚と遊ぶのは？」=“Is that so... what about swimming around with the fish?”
+「うん、それなら出来ると思うよ」=“Yeah, that's plenty doable I think.”
+「なら、それがいいです……一緒に遊びましょうね」=“Then, let's do that please... let's have fun together.”

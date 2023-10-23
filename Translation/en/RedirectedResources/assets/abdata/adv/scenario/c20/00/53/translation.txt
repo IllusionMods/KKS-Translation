@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「とっても素敵な食堂でした……それじゃあ、また一緒に食べましょうね」=
+「とっても素敵な食堂でした……それじゃあ、また一緒に食べましょうね」=“That was a wonderful place... well then, let's do that again soon.”

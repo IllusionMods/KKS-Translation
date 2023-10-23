@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「このお店を見てこうよ」=
-//「んー……どれが良いでしょうか……」=
-//「[H名]はちんすこうを買うことにしたの？」=
-//「はい、お菓子が一番無難だと思うんです」=
-//「それで何味にしようか迷っていまして……」=
-//「へぇ……ちんすこう、美味しいもんね。しかも、ちんすこうはみんなに配れるし」=
-//「どんな味のちんすこうがあるの？」=
-//「普通のちんすこうも良いけど、変わり種のちんすこうも気になるし……」=
-//「…………あ、あの」=
-//「そんなに、その……ち、ちん……って、だめ、言えない……っ」=
-//「そ、その、名前、恥ずかしいので連呼しないでください……」=
-//「も、もう……ばか」=
-//「あー……うん、ごめん[H名]。別にからかったりするつもりは無かったんだけど……」=
-//「お詫びに俺が何かプレゼントさせてよ。それで機嫌を直して欲しいな」=
+「このお店を見てこうよ」=“Let's go take a look at this shop.”
+「んー……どれが良いでしょうか……」=“Nnn... I wonder which would be best...”
+「[H名]はちんすこうを買うことにしたの？」=“You're buying chinsukos, [H名]?”
+「はい、お菓子が一番無難だと思うんです」=“Yes, I think sweets are the safest choice.”
+「それで何味にしようか迷っていまして……」=“But I can't decide which flavour to get...”
+「へぇ……ちんすこう、美味しいもんね。しかも、ちんすこうはみんなに配れるし」=“Hoh... they are pretty delicious things, aren't they? Chinsukos. Not to mention, there's enough to go around for everyone.”
+「どんな味のちんすこうがあるの？」=“What sort of flavours do they have?”
+「普通のちんすこうも良いけど、変わり種のちんすこうも気になるし……」=“Normal chinsukos are great too, but damn if I don't feel the pull of the novelty chinsukos too...”
+「…………あ、あの」=“...U-Uhm!”
+「そんなに、その……ち、ちん……って、だめ、言えない……っ」=“Please don't say, uhm... c-chin... I can't, I can't say it...--”
+「そ、その、名前、恥ずかしいので連呼しないでください……」=“T-The uhm, the name is, very embarrassing so please do not say it again and again like that...”
+「も、もう……ばか」=“J-Jeez... dummy.”
+「あー……うん、ごめん[H名]。別にからかったりするつもりは無かったんだけど……」=“Ah... yeah, I'm sorry. I wasn't trying to tease you with that or anything, believe me...”
+「お詫びに俺が何かプレゼントさせてよ。それで機嫌を直して欲しいな」=“C'mon, I'll buy you something, whatever you like. So cheer up.”
