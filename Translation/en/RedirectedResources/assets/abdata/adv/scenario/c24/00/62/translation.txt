@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃあ、俺がオイルを塗ってあげるから」=
-//「はい……でしたら、前の方も……塗っていただけますか？」=
-//「前も塗るんだね？　うん、いいよ」=
-//「ありがとうございます、嬉しいです♡」=
-//「それじゃあ、始めるからね」=
+「それじゃあ、俺がオイルを塗ってあげるから」=“Well then, I'll rub the oil on you.”
+「はい……でしたら、前の方も……塗っていただけますか？」=“Yes... in that case, could you... do the front as well?”
+「前も塗るんだね？　うん、いいよ」=“The front too? Ok, sure.”
+「ありがとうございます、嬉しいです♡」=“Thank you very much, I'm so happy♡”
+「それじゃあ、始めるからね」=“Well then, let's start.”

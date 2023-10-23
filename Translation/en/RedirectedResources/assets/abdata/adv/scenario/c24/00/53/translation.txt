@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「味を覚えようとしていたら、ついつい食べ過ぎてしまいました♡」=
+「味を覚えようとしていたら、ついつい食べ過ぎてしまいました♡」=“I was trying to memorize it, but I ended up eating a bit too much♡”

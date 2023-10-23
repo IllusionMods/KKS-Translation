@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういう作業って、結構集中するよね」=
-//「私は、あなたの筆遣いであなた色に染められたいです♡」=
-//「そんな事言ってないで、ちゃんと自分の筆を使った方がいいよ」=
-//「私はいいんです……あなたの作業を見ている方が、いい体験になりますから♡」=
-//「あんまり見られると、緊張するんだけど……」=
-//「緊張しているあなたも、素敵です♡」=
+「こういう作業って、結構集中するよね」=“This sort of work takes a lot of concentration, doesn't it?”
+「私は、あなたの筆遣いであなた色に染められたいです♡」=“I want, to be dyed in your colors, by your own brushwork♡”
+「そんな事言ってないで、ちゃんと自分の筆を使った方がいいよ」=“Forget about that stuff for a bit, focus on your own one too.”
+「私はいいんです……あなたの作業を見ている方が、いい体験になりますから♡」=“I'm alright... watching you do it, is a much better experience in my opinion♡”
+「あんまり見られると、緊張するんだけど……」=“You're gonna make me nervous like this though...”
+「緊張しているあなたも、素敵です♡」=“You're wonderful when you're nervous, too♡”

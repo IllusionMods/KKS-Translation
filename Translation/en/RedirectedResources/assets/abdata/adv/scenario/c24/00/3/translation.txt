@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「今のは、本気の告白なの？」=
-//「そうです……あなたへの気持ちがあふれ出して、もう抑えられませんでした……」=
-//「分かったよ……うん、きみと付き合う事にする」=
-//「あの……自分から告白しておいて、おかしいですけど……いいんですか？　私が、相手で……」=
-//「大丈夫だよ、俺もきみの事、ちゃんと好きだから」=
-//「う、嬉しいです……本当に、本当に嬉しいです……ありがとう、ございます♡」=
+「今のは、本気の告白なの？」=“You really mean it this time then?”
+「そうです……あなたへの気持ちがあふれ出して、もう抑えられませんでした……」=“That's right... I couldn't keep my feelings for you held down any longer, they pushed their way out...”
+「分かったよ……うん、きみと付き合う事にする」=“Got it... yep, let's go out together.”
+「あの……自分から告白しておいて、おかしいですけど……いいんですか？　私が、相手で……」=“Uhm... I know it's strange, since I'm the one who asked but... are you sure? I'm like this, you know...”
+「大丈夫だよ、俺もきみの事、ちゃんと好きだから」=“Don't worry, it might not be obvious, but I love you too.”
+「う、嬉しいです……本当に、本当に嬉しいです……ありがとう、ございます♡」=“I-I'm so happy... I'm so, so happy right now... thank you, very much♡”

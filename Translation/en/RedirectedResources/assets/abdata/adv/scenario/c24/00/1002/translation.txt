@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「卓球台があるし、やっていかない？」=
-//「あの……私、卓球はあまりしたことがなくて……すみません、練習しておけばよかったんですけど……」=
-//「もしかして初卓球？　ルールもわからない感じ？」=
-//「いえ、まったくの初めてじゃないです。ルールもいちおうわかります、けど……」=
-//「なら勝負とかじゃなくて、普通にラリーにしよう……そうだ、長く続けば続くほど俺たちの仲も続くってことにしよう」=
-//「えっえっ、そんなっ、責任重大ですっ」=
-//「よーし、頑張ろう。はい、行くよ～」=
-//「そんなっ、えっあっ、あ～っ……」=
-//「はぁ……はぁ……どれぐらい続いた？　というか、俺が失敗しちゃってごめん……」=
-//「い、いえ♡　はぁ♡　はぁ♡　とっても長く続きましたから……♡　これで、私たちの仲は安泰ですね……♡　はぁ♡　はぁ♡」=
-//「永遠にも感じるラリーだったから、一生分は続くんじゃないかな」=
-//「それなら、もう１回しませんか？　来世の分も稼いでおきたいので♡　あ、でも疲れましたよね、休憩を挟みましょうか？」=
-//「いや、こうなったらトコトンやって稼げるだけ稼ごう」=
-//「はいっ♡　あ、でも、もし私が失敗してラリーが途切れたらちょっと不吉でしょうか……」=
-//「俺だって失敗したんだから、[H名]がしちゃいけない理由はないよ。というか、失敗しても何度でも挑戦したらいいさ」=
-//「失敗しても何度でも……♡　はい♡　なんだか恋愛の鉄則みたいで嬉しいです♡　何かがあっても私、何度だってあなたを諦めないです♡」=
+「卓球台があるし、やっていかない？」=“They've got a pingpong table here, wanna play some?”
+「あの……私、卓球はあまりしたことがなくて……すみません、練習しておけばよかったんですけど……」=“Uhm... I've never played much ping pong... I'm sorry, I should have practiced in advance...”
+「もしかして初卓球？　ルールもわからない感じ？」=“By any chance, are you a novice? Do you know the rules or?”
+「いえ、まったくの初めてじゃないです。ルールもいちおうわかります、けど……」=“No, I'm not a complete greenhorn. I do know the rules, more or less, but...”
+「なら勝負とかじゃなくて、普通にラリーにしよう……そうだ、長く続けば続くほど俺たちの仲も続くってことにしよう」=“Let's not have a match then, and just go for a plain old rally... right, how's this? The longer we can keep the rally going, the longer our relationship is gonna last too.”
+「えっえっ、そんなっ、責任重大ですっ」=“Eh--, eh--, that's--, that's too serious though--”
+「よーし、頑張ろう。はい、行くよ～」=“Alright, let's do our best. C'mon, I'm serving~”
+「そんなっ、えっあっ、あ～っ……」=“No, please--, eh--, ah--, ah~...”
+「はぁ……はぁ……どれぐらい続いた？　というか、俺が失敗しちゃってごめん……」=“Haah... haah... how long did we manage to go there? Heck, I'm sorry for being the one that messed up there...”
+「い、いえ♡　はぁ♡　はぁ♡　とっても長く続きましたから……♡　これで、私たちの仲は安泰ですね……♡　はぁ♡　はぁ♡」=“N-No♡ Haah♡ Haah♡ We managed to keep it going for quite long indeed so...♡ With this, our relationship is safe as well...♡”
+「永遠にも感じるラリーだったから、一生分は続くんじゃないかな」=“That rally felt like it went on for an eternity so, it's probably gonna last our whole life, no?”
+「それなら、もう１回しませんか？　来世の分も稼いでおきたいので♡　あ、でも疲れましたよね、休憩を挟みましょうか？」=“In that case, could we go for one more round? We might as well save up some for our next life as well♡ Ah, but that was really tiring, wasn't it? How about we take a break first?”
+「いや、こうなったらトコトンやって稼げるだけ稼ごう」=“Nah, now that we're doing this, let's save up as much as we can.”
+「はいっ♡　あ、でも、もし私が失敗してラリーが途切れたらちょっと不吉でしょうか……」=“Okay--♡ Ah, but, what if I end up being the one who messes up, would that be ominous...”
+「俺だって失敗したんだから、[H名]がしちゃいけない理由はないよ。というか、失敗しても何度でも挑戦したらいいさ」=“I messed up there too so, there's no reason why you can't. Heck, if we mess up then we can just do it again.”
+「失敗しても何度でも……♡　はい♡　なんだか恋愛の鉄則みたいで嬉しいです♡　何かがあっても私、何度だってあなたを諦めないです♡」=“We can do it again if we mess up...♡ Okay♡ That almost feels like a core rule of being in love, it makes me so happy♡ No matter what happens, I'll never give up on you♡”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あなたからもらったパワーで今日も生きていけます♡　ありがとうございます♡」=
+「あなたからもらったパワーで今日も生きていけます♡　ありがとうございます♡」=“I can live through another day today, with the power you've given me♡ Thank you very much♡”

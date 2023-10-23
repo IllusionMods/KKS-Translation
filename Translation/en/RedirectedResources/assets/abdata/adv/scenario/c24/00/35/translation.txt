@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「本当はもっと買いたかったんですが……あなたの荷物になったらいけないので諦めます……」=
+「本当はもっと買いたかったんですが……あなたの荷物になったらいけないので諦めます……」=“I wanted you buy you much more than just that but... I'll give up for now, I wouldn't want to trouble you with too much luggage...”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あなたのことですから……たくさんの子を相手にするのは、慣れて……ますよね……」=
+「あなたのことですから……たくさんの子を相手にするのは、慣れて……ますよね……」=“It's you we're talking about... I imagine you're very used to, doing... lots of girls together...”

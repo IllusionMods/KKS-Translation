@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こうやって砂浜を歩くだけでも楽しめるものだね」=
-//「あなたと二人だと、より一層高揚感が増してきます♡」=
-//「ただの散歩だから、そこまで興奮しなくてもいいと思うんだけど」=
-//「私にとってはただの散歩じゃありません……あなたとの愛を確かめるための歩行訓練のようなものです♡」=
-//「訓練が必要なの？」=
-//「必要です……私、あなたなしでは一歩も歩けない気がしますから……」=
+「こうやって砂浜を歩くだけでも楽しめるものだね」=“Just walking along the beach like this can be fun too, huh?”
+「あなたと二人だと、より一層高揚感が増してきます♡」=“And if I do them with you, the emotional high feels even more intense♡”
+「ただの散歩だから、そこまで興奮しなくてもいいと思うんだけど」=“We're just walking so, I really don't think you need to get that excited.”
+「私にとってはただの散歩じゃありません……あなたとの愛を確かめるための歩行訓練のようなものです♡」=“It's not just a walk to me... it's more akin to a walking exercise, to confirm our love for each other♡”
+「訓練が必要なの？」=“Exercise? Is it really?”
+「必要です……私、あなたなしでは一歩も歩けない気がしますから……」=“It is... without you here, I don't think I'd be able to walk even a step...”

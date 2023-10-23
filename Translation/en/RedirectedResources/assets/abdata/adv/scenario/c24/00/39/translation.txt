@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「砂浜に足を取られても、あなたがいたから安心できました♡」=
+「砂浜に足を取られても、あなたがいたから安心できました♡」=“Even though my feet got tripped up in the sand, you were there to catch me♡”

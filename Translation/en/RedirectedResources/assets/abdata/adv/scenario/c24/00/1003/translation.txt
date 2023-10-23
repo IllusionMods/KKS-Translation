@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねえ、お土産屋さんを見てこうよ」=
-//「このキーホルダー、可愛いです♡」=
-//「星の砂が入ってるキーホルダーか。[H名]らしくていいね」=
-//「私らしい、ですか？」=
-//「あ、勝手にそう思っちゃったんだけど、違ったかな」=
-//「いえ♡　可愛いと思ったキーホルダーが、私のイメージに合ってるなんて嬉しいです♡　どんな風に私らしいのか具体的に教えてください♡」=
-//「うーん……やっぱり一番は女の子らしさかな。星の砂って、見た目も名前の響きも可愛いし……」=
-//「女の子らしい♡　この世で唯一男の子として意識してるあなたに言われるなんて、幸せすぎます♡」=
-//「あと、キーホルダーに星の砂が入ってるなんてロマンチックだよね。[H名]ってロマンチストなイメージあるから」=
-//「ただの気持ち悪い妄想ストーカーな私を、ロマンチックだなんて♡　あなたからの深い愛をひしひし感じて、幸せすぎます♡」=
-//「ただの気持ち悪い妄想ストーカーっていうのは、自分のことばっかり大事で、相手のことを考えない人のことを言うんだよ」=
-//「あなたと付き合う前の私は完全にそうでした♡　私の為にあなたを殺したいなんて、怖いことを考えていました……♡」=
-//「でも、そんな私なんかを好きだって言ってもらえて、やっと理解したんです♡　あなたの為に死ねた方が幸せだって……♡」=
-//「やっぱり[H名]には星の砂が入ってるキーホルダーにぴったりだね。願いをかける星の中に女の子らしさとロマンを詰めてる感じ」=
-//「私のことをそんなにわかってくれるあなたにもぴったりだと思います♡　これ、お土産じゃなくてお揃いで買いませんか？」=
-//「いいね。それじゃ早速レジに持って行こうか」=
+「ねえ、お土産屋さんを見てこうよ」=“Hey, let's go take a look at the souvenirs.”
+「このキーホルダー、可愛いです♡」=“This key-chain is very cute♡”
+「星の砂が入ってるキーホルダーか。[H名]らしくていいね」=“Ah, a starsand key-chain, huh? It's so like you, [H名], I think it'd be great.”
+「私らしい、ですか？」=“Like me?”
+「あ、勝手にそう思っちゃったんだけど、違ったかな」=“Ah, that's just the feeling I got, was I wrong?”
+「いえ♡　可愛いと思ったキーホルダーが、私のイメージに合ってるなんて嬉しいです♡　どんな風に私らしいのか具体的に教えてください♡」=“No♡ I'm so happy you think such a cute key-chain is like me♡ Please tell me exactly what part of it made you think of me♡”
+「うーん……やっぱり一番は女の子らしさかな。星の砂って、見た目も名前の響きも可愛いし……」=“Nnn... I guess the biggest part would be the girliness of it. Both the appearance and the name are very cute...”
+「女の子らしい♡　この世で唯一男の子として意識してるあなたに言われるなんて、幸せすぎます♡」=“The girliness♡ Being told that by the only boy in the world that I care about makes me way too happy♡”
+「あと、キーホルダーに星の砂が入ってるなんてロマンチックだよね。[H名]ってロマンチストなイメージあるから」=“Also, a keychain with starsand in it is just so romantic, isn't it? You've got a real romantic image to you, so you know.”
+「ただの気持ち悪い妄想ストーカーな私を、ロマンチックだなんて♡　あなたからの深い愛をひしひし感じて、幸せすぎます♡」=“I can't believe you think of a disgusting delusional stalker like me as romantic♡ Your deep love for me makes me way too happy♡”
+「ただの気持ち悪い妄想ストーカーっていうのは、自分のことばっかり大事で、相手のことを考えない人のことを言うんだよ」=“A disgusting delusional stalker would be someone who cared only about herself and didn't care about the person she was stalking at all.”
+「あなたと付き合う前の私は完全にそうでした♡　私の為にあなたを殺したいなんて、怖いことを考えていました……♡」=“I was entirely that way, before we started dating♡ I used to think really scary thoughts, things like killing you for my sake and whatnot...♡”
+「でも、そんな私なんかを好きだって言ってもらえて、やっと理解したんです♡　あなたの為に死ねた方が幸せだって……♡」=“But, I finally understood after you told me that you loved the disgusting stalker that I was♡ That I'd be much happier dying for your sake instead...♡”
+「やっぱり[H名]には星の砂が入ってるキーホルダーにぴったりだね。願いをかける星の中に女の子らしさとロマンを詰めてる感じ」=“That starsand key-chain really does fit you. Like a wish carrying star filled with girliness and romance.”
+「私のことをそんなにわかってくれるあなたにもぴったりだと思います♡　これ、お土産じゃなくてお揃いで買いませんか？」=“I think it's a perfect fit for you too, with how much you understand me♡ Would you like to buy them as a matching set, rather than as a souvenir?”
+「いいね。それじゃ早速レジに持って行こうか」=“Sounds great. Let's grab them and take them to the counter.”

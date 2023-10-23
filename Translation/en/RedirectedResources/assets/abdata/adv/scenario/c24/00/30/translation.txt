@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この辺りが、島の先端なんでしょうか？」=
-//「どうだろう……とにかく、海から見晴らしがいい場所じゃないと、灯台の意味がないからね」=
-//「船にとっての道しるべ……私にとっての、あなたのような存在ですね♡」=
-//「どういう事なの？」=
-//「あなたは、私の未来を明るく照らし出す、灯台のような方……という意味です♡」=
+「この辺りが、島の先端なんでしょうか？」=“Is this the edge of this island?”
+「どうだろう……とにかく、海から見晴らしがいい場所じゃないと、灯台の意味がないからね」=“I wonder... it wouldn't make much sense to place a lighthouse somewhere you can't see out from the sea very well, that's for sure.”
+「船にとっての道しるべ……私にとっての、あなたのような存在ですね♡」=“A guiding light for ships... just like the way you are for me, huh♡”
+「どういう事なの？」=“What do you mean?”
+「あなたは、私の未来を明るく照らし出す、灯台のような方……という意味です♡」=“To me, you're a like a bright lighthouse, lighting up my future... that's what I mean♡”

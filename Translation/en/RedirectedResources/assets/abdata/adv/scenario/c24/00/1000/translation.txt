@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「カップルドリンクが飲めるんだって。頼んでみようよ」=“They have a drink for couples to share. Let's ask for one.”
-//「これがカップルドリンク♡　あなたと私のためだけに作られた、世界でひとつしかない愛情汁なんですね♡　幸せすぎて他界しちゃいそうです♡」=
-//「あはは、まだ飲んでないのに死んじゃったら駄目だよ」=
-//「あ♡　そうですよね♡　この幸せ絶頂な瞬間は絶対に壊したくないので、飲んでも絶対に死んだりしません♡　だから安心してくださいね♡」=
-//「それなら安心だね」=
-//「はいっ♡　あ、ごめんなさい、氷が私たちを祝福してくれている間に飲まないとですよね♡　どっちのストローから飲みたいですか？」=
-//「[H名]が決めていいよ」=
-//「え、じゃあこっちの、どちらかというとあなたに似てる形のストローにします♡　あなたはどちらかというと私の形のストローをどうぞ♡」=
-//（俺的にはどっちも同じ形に見えるけど……[H名]が幸せそうでなによりだ）=
-//「あぁ♡　最高の瞬間がもうそこまで来ていますよ♡　ドキドキが止まらないです♡　世界一幸せなふたりになる覚悟は、できていますか？」=
-//「もちろん。せーので、飲もうか」=
-//「はいっ♡　せーのっ♡♡♡」=
+「カップルドリンクが飲めるんだって。頼んでみようよ」=“Apparently we can get a couples' drink here. Let's order it.”
+「これがカップルドリンク♡　あなたと私のためだけに作られた、世界でひとつしかない愛情汁なんですね♡　幸せすぎて他界しちゃいそうです♡」=“So this is a couples' drink♡ A unique, one of a kind love drink made just for me and you, isn't it?♡ I feel so happy I feel as though I'll pass onto the next world♡”
+「あはは、まだ飲んでないのに死んじゃったら駄目だよ」=“Ahahah, that'd be a waste though, we still haven't drunk it.”
+「あ♡　そうですよね♡　この幸せ絶頂な瞬間は絶対に壊したくないので、飲んでも絶対に死んだりしません♡　だから安心してくださいね♡」=“Ah♡ Of course♡ I don't want to destroy this moment of pure happiness at all, so I won't die even after we drink it♡ So please don't worry♡”
+「それなら安心だね」=“That's a relief then.”
+「はいっ♡　あ、ごめんなさい、氷が私たちを祝福してくれている間に飲まないとですよね♡　どっちのストローから飲みたいですか？」=“Yes--♡ Ah, I'm sorry, we must drink it before this ice blessing our happiness melts away, mustn't we♡ Which straw would you like to use?♡”
+「[H名]が決めていいよ」=“You can pick.”
+「え、じゃあこっちの、どちらかというとあなたに似てる形のストローにします♡　あなたはどちらかというと私の形のストローをどうぞ♡」=“Eh, then I'll go with this one, it kind of looks like you♡ You can use the one that kind of looks like me instead♡”
+（俺的にはどっちも同じ形に見えるけど……[H名]が幸せそうでなによりだ）=(To me they both look exactly the same though... well, as long as she's happy.)
+「あぁ♡　最高の瞬間がもうそこまで来ていますよ♡　ドキドキが止まらないです♡　世界一幸せなふたりになる覚悟は、できていますか？」=“Aah♡ The best moment's almost upon us♡ My heart won't stop pounding♡ Are you prepared, to become the happiest person in the world along with me?”
+「もちろん。せーので、飲もうか」=“Of course. Let's drink on a count of three.”
+「はいっ♡　せーのっ♡♡♡」=“Okay--♡ One, two--♡♡♡”
 ……=...
-//「[H名]、飲んでる途中、幸せすぎて他界してたでしょ？」=
-//「やっぱりバレてましたよね……♡　でも、還ってきました♡　たとえそこが天国でも、あなたがいないだけで私にとっては地獄ですから♡」=
-//「心配だな……次逝ってもちゃんと還ってこれるの……？」=
-//「もちろんです♡　もし交通事故に遭って生死の境を彷徨っても、あなたの魂の匂いを辿って戻ってきますし……」=
-//「寿命が来て死神が訪れても、あなたへの愛を武器に立ち向かって追い返して、絶対にあなたの最後を看取りますからね♡」=
-//「頼もしすぎて心配じゃなくなってきた……でも危ないことは禁止だからね」=
-//「あぁ♡　本当に大切にされてるのが伝わってきます♡　この相思相愛な関係を壊さないために、危ないことは絶対にしません♡　約束します♡」=
-//（カップルドリンクを飲んだだけなのにすごいことになっちゃったな……でもそれだけ愛されてるって思うと、嬉しいな……）=
+「[H名]、飲んでる途中、幸せすぎて他界してたでしょ？」=“[H名], while we were drinking, you almost slipped onto the next world, didn't you?”
+「やっぱりバレてましたよね……♡　でも、還ってきました♡　たとえそこが天国でも、あなたがいないだけで私にとっては地獄ですから♡」=“I couldn't hide it from you, could I...♡ But, I came back♡ Even if that was heaven, without you, it would have been hell to me♡”
+「心配だな……次逝ってもちゃんと還ってこれるの……？」=“Now I'm worried... do you think you'll be able to come back next time...?”
+「もちろんです♡　もし交通事故に遭って生死の境を彷徨っても、あなたの魂の匂いを辿って戻ってきますし……」=“Of course♡ Even if I end up in a traffic accident, I'll follow the scent of your soul and definitely come back...”
+「寿命が来て死神が訪れても、あなたへの愛を武器に立ち向かって追い返して、絶対にあなたの最後を看取りますからね♡」=“And even if we're at the end of our lifespans and the god of death comes for me, I'll wield my love for you as a weapon and shoo it away, and care for you and attend to you at your death bed♡”
+「頼もしすぎて心配じゃなくなってきた……でも危ないことは禁止だからね」=“That sounds reliable enough that I'm no longer worried... But you're forbidden from anything dangerous, okay?”
+「あぁ♡　本当に大切にされてるのが伝わってきます♡　この相思相愛な関係を壊さないために、危ないことは絶対にしません♡　約束します♡」=“Aah♡ I can feel how much you care for me♡ I will definitely not get involved with anything dangerous, I do not wish to destroy our love for each other♡ I promise you♡”
+（カップルドリンクを飲んだだけなのにすごいことになっちゃったな……でもそれだけ愛されてるって思うと、嬉しいな……）=(We came here just to drink a couples' drink, but somehow it ended up like this... but when I think about how it's all because she loves me so much, it doesn't feel bad, not bad at all...)

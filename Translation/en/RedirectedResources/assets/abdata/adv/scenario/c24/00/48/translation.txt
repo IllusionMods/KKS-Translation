@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「このレストラン、本当に美味しいね」=
-//「あなたと食事ができている時点で、何を食べても素晴らしい味です♡」=
-//「メニューも多いし、色々頼みたくなるよ」=
-//「私は、あなたと同じものが食べられれば、それだけで満足です♡」=
-//「なら、一緒に何か追加しようか」=
-//「はい、あなたにお任せします♡」=
+「このレストラン、本当に美味しいね」=“This restaurant really is great, isn't it?”
+「あなたと食事ができている時点で、何を食べても素晴らしい味です♡」=“Just being able to eat together with you like this would make anything delicious for me though♡”
+「メニューも多いし、色々頼みたくなるよ」=“Their menu's so big too, I feel like ordering everything.”
+「私は、あなたと同じものが食べられれば、それだけで満足です♡」=“As long as I can eat the same things, as you do, that'd be enough for me♡”
+「なら、一緒に何か追加しようか」=“In that case, let's get another dish together.”
+「はい、あなたにお任せします♡」=“Okay, I'll leave it to you♡”

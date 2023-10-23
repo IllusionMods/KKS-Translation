@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お部屋に誘ってもらえて、本当に嬉しいです♡」=
-//「まぁ、俺たちは恋人同士なんだし、当たり前だよ」=
-//「……私達は恋人同士。改めて言われると、なんだか照れてしまいます♡」=
-//「そういう所、すごく可愛いよ。ねぇ、いいかな？」=
-//「褒めてからエッチに誘うなんてズルいです♡　グショグショに濡れてしまいます♡」=
+「お部屋に誘ってもらえて、本当に嬉しいです♡」=“I'm really happy, that you brought me here again♡”
+「まぁ、俺たちは恋人同士なんだし、当たり前だよ」=“Well, we're a couple so, it's only natural for you to come here.”
+「……私達は恋人同士。改めて言われると、なんだか照れてしまいます♡」=“...We're a couple. When you say it like that, I can't help but blush♡”
+「そういう所、すごく可愛いよ。ねぇ、いいかな？」=“That side of you is really cute. Hey, do you mind?”
+「褒めてからエッチに誘うなんてズルいです♡　グショグショに濡れてしまいます♡」=“That's really unfair of you, to ask me after calling me cute like that♡ You'll make me sopping wet♡”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「良かったら、一緒にペアのシーサー作ってみない？」=
-//「ペアですか？　オスとメスを作るんですね♡」=
-//「そう。俺がオスできみがメス。おそろいで作ろう」=
-//「素敵です……すごく素敵だと思います♡」=
-//「出来上がったら、並べて写真撮ろうよ」=
-//「はい♡　あぁ……私、こんなに幸せでいいんでしょうか……なんだか、怖いくらいです♡」=
+「良かったら、一緒にペアのシーサー作ってみない？」=“If you're down, wanna make a pair shisa together?”
+「ペアですか？　オスとメスを作るんですね♡」=“A pair? A girl and a boy, huh♡”
+「そう。俺がオスできみがメス。おそろいで作ろう」=“Exactly. I'll make the boy, you make the girl. Let's make them match.”
+「素敵です……すごく素敵だと思います♡」=“Lovely... I think that sounds very lovely♡”
+「出来上がったら、並べて写真撮ろうよ」=“Once they're done, let's line them up and take pictures.”
+「はい♡　あぁ……私、こんなに幸せでいいんでしょうか……なんだか、怖いくらいです♡」=“Okay♡ Aah... is it really alright for me to be this happy... It's almost, a bit scary♡”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線を楽しそうに弾いてるあなた……とても素敵です♡」=
-//「この音色を聞いていたら、何となく踊りだしたくなるのもわかる気がするよ」=
-//「踊るときは言って下さいね……私もご一緒したいです♡」=
-//「いいよ、その時は一緒に踊ろうか」=
-//「あぁ、あなたに踊りに誘ってもらえるなんて、本当に幸せです♡」=
+「三線を楽しそうに弾いてるあなた……とても素敵です♡」=“The way you're enjoying playing it so much... You look just wonderful♡”
+「この音色を聞いていたら、何となく踊りだしたくなるのもわかる気がするよ」=“I feel like I get it now too, why this tune really makes people want to dance.”
+「踊るときは言って下さいね……私もご一緒したいです♡」=“Please let me know if you do dance, alright?... I'll join you as well♡”
+「いいよ、その時は一緒に踊ろうか」=“Sure, let's dance together when that time comes.”
+「あぁ、あなたに踊りに誘ってもらえるなんて、本当に幸せです♡」=“Aah, to think you invited me to a dance together someday, I truly am blessed♡”

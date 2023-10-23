@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あなたの筆さばきに見とれて、時間が経つのを忘れてしまいました♡」=
+「あなたの筆さばきに見とれて、時間が経つのを忘れてしまいました♡」=“I was so absorbed in watching you do it, I forgot all about the time♡”

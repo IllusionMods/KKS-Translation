@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「水族館であなたとデート♡　ずっと……ずーっと♡　憧れていました……♡」=
-//「そうだったんだ。連れてきてよかったよ」=
-//「連れてきてくれて本当に嬉しいです♡　ここの水族館デート、もう何度も頭の中で練習してきてたんです♡」=
-//「じゃあ、ここから先は[H名]にエスコートしてもらおうかな」=
-//「いいんですか♡　私、連れ回しちゃいますよ♡」=
-//「うん、[H名]は俺より俺のこと知ってるし、間違いないだろうから」=
-//「そんな♡　自分より自分のこと知ってる気持ち悪い女のことサラッと褒めてくれるなんて……♡」=
-//「自分で自分のこと気持ち悪いなんて言っちゃダメだよ」=
-//「はい♡　あなたのことならなんでも知っていますから、絶対に満足してもらえるデートコースですよ♡　早速行っちゃいましょう♡」=
-…………=......
-//「はい♡　ここに戻ってきました♡　どうでしたか、私のデートプラン、楽しんでもらえましたか♡」=
-//「はぁ～～、すごいエスコートだったよ。もう俺の趣味全開というか、水族館ってこんなに楽しかったんだね」=
-//「うふふふ♡　私のあなたへの愛、フル活用しちゃいました♡」=
-//「あなたが私のために水族館を選んでくれたのもわかっていましたから、その恩返しでもあります♡」=
-//「あはは、[H名]に隠し事はできないね」=
-//「ふふ♡　そうですけど、あなたが隠したそうにしてることは、あえて見ないふりしています♡」=
-//「もしかして俺、めちゃくちゃ甘やかされてる？」=
-//「甘やかしてるなんて♡　私はただ、私といるときのあなたが少しでも生きやすいようにしているだけです♡」=
-//（いろいろ気を使ってくれてるんだな……俺も[H名]のことを少しでも生きやすくしてあげたいよ）=
+「水族館であなたとデート♡　ずっと……ずーっと♡　憧れていました……♡」=“A date with you at the aquarium♡ I've always... always♡ Dreamed of this...♡”
+「そうだったんだ。連れてきてよかったよ」=“I see. I'm glad I brought you here then.”
+「連れてきてくれて本当に嬉しいです♡　ここの水族館デート、もう何度も頭の中で練習してきてたんです♡」=“I really am so happy that you did♡ I've already rehearsed a date at this place with you lots of times in my head♡”
+「じゃあ、ここから先は[H名]にエスコートしてもらおうかな」=“Then, maybe I'll have you lead the show today.”
+「いいんですか♡　私、連れ回しちゃいますよ♡」=“Can I really?♡ I really will drag you around place to place, you know♡”
+「うん、[H名]は俺より俺のこと知ってるし、間違いないだろうから」=“Yeah, you know me better than I know myself, so I'm sure it'll be fine.”
+「そんな♡　自分より自分のこと知ってる気持ち悪い女のことサラッと褒めてくれるなんて……♡」=“Oh, you♡ You shouldn't praise such disgusting women like me that know you better than yourself...♡”
+「自分で自分のこと気持ち悪いなんて言っちゃダメだよ」=“You really shouldn't call yourself disgusting like that.”
+「はい♡　あなたのことならなんでも知っていますから、絶対に満足してもらえるデートコースですよ♡　早速行っちゃいましょう♡」=“Okay♡ I know everything about you so, you'll definitely enjoy today's date♡ Let's set off right away♡”
+…………=...
+「はい♡　ここに戻ってきました♡　どうでしたか、私のデートプラン、楽しんでもらえましたか♡」=“Alright♡ We're back here♡ How was my date plan, did you enjoy it?♡”
+「はぁ～～、すごいエスコートだったよ。もう俺の趣味全開というか、水族館ってこんなに楽しかったんだね」=“Haah~~, that was a great time. That was full of stuff that I'm into, even aquariums can be this fun, huh?”
+「うふふふ♡　私のあなたへの愛、フル活用しちゃいました♡」=“Ufufufuh♡ I made full, complete use of my love for you there♡”
+「あなたが私のために水族館を選んでくれたのもわかっていましたから、その恩返しでもあります♡」=“I knew that you picked this place today for my sake so, there was a bit of that mixed in as well♡”
+「あはは、[H名]に隠し事はできないね」=“Ahahah, I really can't hide a thing from you, huh?”
+「ふふ♡　そうですけど、あなたが隠したそうにしてることは、あえて見ないふりしています♡」=“Fufuh♡ That's right but, I do go out of my way to pretend to not notice, whenever you look like you're trying to hide something from me♡”
+「もしかして俺、めちゃくちゃ甘やかされてる？」=“Am I actually like being spoiled day in day out here?”
+「甘やかしてるなんて♡　私はただ、私といるときのあなたが少しでも生きやすいようにしているだけです♡」=“Not at all♡ I'm just trying to make life as easy as possible for you, so that you enjoy being with me♡”
+（いろいろ気を使ってくれてるんだな……俺も[H名]のことを少しでも生きやすくしてあげたいよ）=(She always does think of me first, doesn't she... I wanna make life easier for her too, somehow.)

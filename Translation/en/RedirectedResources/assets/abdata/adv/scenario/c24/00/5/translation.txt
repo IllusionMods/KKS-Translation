@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はい……嬉しいです♡」=
-//「でも、不思議ですね……以前はあんなに抱かれたいと思っていたのに、今はこんなに恥ずかしいなんて……」=
-//「あの……私、初めてなので……よろしくお願いしますね♡」=
+「はい……嬉しいです♡」=“Yes... I'm so happy♡”
+「でも、不思議ですね……以前はあんなに抱かれたいと思っていたのに、今はこんなに恥ずかしいなんて……」=“But, it's so strange... even though I've always wanted you to take me so badly, right now it feels so incredibly embarrassing...”
+「あの……私、初めてなので……よろしくお願いしますね♡」=“Uhm... I'm a, virgin so... please take care of me♡”

@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「それじゃあ、カヤックに乗ってマングローブを観察しようか」=
-//「私は、できればあなたをずっと観察していたいです♡」=
-//「いやいや、たまには自然に目を向けるのも大事なことだよ」=
-//「あなたがそう言うなら……でも、カヤックはあなたと一緒に乗りたいです♡」=
-//「いいよ、一緒に乗ろうか」=
-//「はい、ありがとうございます♡」=
+「それじゃあ、カヤックに乗ってマングローブを観察しようか」=“Well then, let's get into a kayak and observe some of these mangroves for ourselves.”
+「私は、できればあなたをずっと観察していたいです♡」=“If possible, I'd much rather just observe you forever instead♡”
+「いやいや、たまには自然に目を向けるのも大事なことだよ」=“No no, you really should point your eyes towards nature sometimes too, it's important.”
+「あなたがそう言うなら……でも、カヤックはあなたと一緒に乗りたいです♡」=“If you say so... but, I do want to ride the same kayak as you♡”
+「いいよ、一緒に乗ろうか」=“Sure, let's ride one together.”
+「はい、ありがとうございます♡」=“Thank you very much♡”
