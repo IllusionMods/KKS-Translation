@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……よしっと……私の手にかかればこんなものね」=
-//「おぉ、可愛く出来たね」=
-//「でしょ？　ま、私の可愛さには敵わないでしょうけどね？」=
-//「うん、[H]の方が可愛いよ」=
-//「っ、そ、そこはツッコむ所でしょ、もぉ……っ」=
+「……よしっと……私の手にかかればこんなものね」=“...There we go... In my hands, something like this is nothing.”
+「おぉ、可愛く出来たね」=“Ooh, that came out pretty cute.”
+「でしょ？　ま、私の可愛さには敵わないでしょうけどね？」=“Didn't it though? Well, it's probably nowhere near as cute as me though.”
+「うん、[H]の方が可愛いよ」=“Yep, you're way cuter.”
+「っ、そ、そこはツッコむ所でしょ、もぉ……っ」=“--! Y-You're supposed to retort there, dummy...--!”

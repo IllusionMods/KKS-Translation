@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「すぅ……すぅ…………ん、んん……」=“*snore... *snore*... Nnn, nnnn...”
-（ん、んん……何だか下半身に違和感が……？）=(Nn, nnnn... there's this weird feeling in my lower half...?)
+（ん、んん……何だか下半身に違和感が……？）=(Nnnnn... my crotch feels kinda...?)
 「…………」=“...”
 「って……え？　え？」=“...Eh? Eh?”
 「おはよっ。よく寝てたわね～、あんた」=“Morning--. You were sure sleeping tight~”

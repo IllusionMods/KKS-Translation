@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「何か借りてみたりアクティビティとかしてみる？」=
-//「そうね、二人で出来そうなものってあるかしら？」=
-//「んー、じゃあコレとかどうかな？」=
-//「……結構密着するのね」=
-//「あ……嫌だったかな？」=
-//「べ、別に嫌って訳じゃないから……ほら、やってみましょ？」=
+「何か借りてみたりアクティビティとかしてみる？」=“Wanna try renting out something?”
+「そうね、二人で出来そうなものってあるかしら？」=“Sure, is there anything we can do together?”
+「んー、じゃあコレとかどうかな？」=“Nn, how about this?”
+「……結構密着するのね」=“...That's gonna make us get pretty close, isn't it?”
+「あ……嫌だったかな？」=“Ah... if you don't want to, we can--”
+「べ、別に嫌って訳じゃないから……ほら、やってみましょ？」=“I-It's not like I don't want to or anything... c'mon, let's do it?”

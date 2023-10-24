@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「……それって、俺と付き合いたいって事……かな？」=
-//「ま、まぁ、捉え方によっては、そういう事にも……ごにょごにょ……」=
-//「……いいよ、俺もきみの事、好きだからさ」=
-//「っ！　じゃ、じゃぁ、これから私達は、こ、恋人同士って事だから……その、末永く、よろしく……ね？」=
+「……それって、俺と付き合いたいって事……かな？」=“...Do you mean to say that you wanna go out... with me?”
+「ま、まぁ、捉え方によっては、そういう事にも……ごにょごにょ……」=“W-Well, that's one way of, taking it, not that it's... *mumble mumble*...”
+「……いいよ、俺もきみの事、好きだからさ」=“...Sure. I love you too, afterall.”
+「っ！　じゃ、じゃぁ、これから私達は、こ、恋人同士って事だから……その、末永く、よろしく……ね？」=“--!! T-Then, from now on we're a c-couple, got it?... uhm, take care of me, forever... okay?”

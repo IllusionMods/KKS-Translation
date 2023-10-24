@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふふっ、また二人の思い出の品が増えちゃうわね」=
+「ふふっ、また二人の思い出の品が増えちゃうわね」=“Fufuh--, we've got even more memoribilia together now.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「次来たときはどんなモノが入荷してるのかしらね……楽しみだわ」=
+「次来たときはどんなモノが入荷してるのかしらね……楽しみだわ」=“I wonder what sort of goods they'll have in stock next time we come... I'm looking forward to it.”

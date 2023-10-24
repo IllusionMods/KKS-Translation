@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あのさ、ここまで来た時点で目的は分かってると思うんだけど……」=
-//「俺と一緒に鐘を鳴らしてほしいんだ」=
-//「う、うん……断る理由なんてないわ」=
-//「私も鳴らす相手は……あんたとしか、考えられないし……」=
-//「それじゃ、鳴らそうか」=
-//「や、やっぱり待って！」=
-//「へ？　どうかしたの？　まさか……この短時間に心変わりした……とか？」=
-//「心変わりは絶対しないから！」=
-//「そうじゃなくて……その……あんたは、本当に私が相手で……いいの？」=
-//「……自分でも分かってるけど……私は面倒くさいでしょ？」=
-//「そんな私と……鐘を鳴らして、あんたは後悔しない？」=
-//「なんだ、そんなことか」=
-//「そんなことって……私にとっては大事なことよ！」=
-//「[H名]は自分のそういう所は嫌ってるかもしれないけどさ」=
-//「俺は全部ひっくるめて、[H名]のことが好きだよ」=
-//「だから、後悔なんて絶対にしない」=
-//「本当に……？」=
-//「うん、本当」=
-//「あらためて聞くね。俺と……鐘を鳴らしてくれる？」=
-//「……うん。うんっ！」=
+「あのさ、ここまで来た時点で目的は分かってると思うんだけど……」=“Listen, I'm sure you know by now what I brought us here for but...”
+「俺と一緒に鐘を鳴らしてほしいんだ」=“I want you to ring this bell together with me.”
+「う、うん……断る理由なんてないわ」=“O-Okay... I don't have a reason to say no.”
+「私も鳴らす相手は……あんたとしか、考えられないし……」=“I can't think of... anyone else to ring this bell with, other than you...”
+「それじゃ、鳴らそうか」=“Well then, let's do it.”
+「や、やっぱり待って！」=“N-Nevermind, wait just a second!”
+「へ？　どうかしたの？　まさか……この短時間に心変わりした……とか？」=“Heh? Something wrong? No way... did you really fall out of love for me... in such a short time?”
+「心変わりは絶対しないから！」=“I would never fall out of love for you, never!”
+「そうじゃなくて……その……あんたは、本当に私が相手で……いいの？」=“It's not that... uhm... are you really, okay with... it being me?”
+「……自分でも分かってるけど……私は面倒くさいでしょ？」=“...I know how to look in the mirror, you know... I am a very big pain in the ass, no?”
+「そんな私と……鐘を鳴らして、あんたは後悔しない？」=“Won't you... regret doing this, with a girl like me?”
+「なんだ、そんなことか」=“Ah, it's just that?”
+「そんなことって……私にとっては大事なことよ！」=“Just that... it's really important to me, you know!”
+「[H名]は自分のそういう所は嫌ってるかもしれないけどさ」=“Maybe you hate that side of yourself, [H名].”
+「俺は全部ひっくるめて、[H名]のことが好きだよ」=“But you know, I don't. I love you for all that you are.”
+「だから、後悔なんて絶対にしない」=“So, I won't regret this at all, that you have my guarantee on.”
+「本当に……？」=“You mean it...?”
+「うん、本当」=“Yep, I do.”
+「あらためて聞くね。俺と……鐘を鳴らしてくれる？」=“I'll ask again. Will you... ring this bell with me?”
+「……うん。うんっ！」=“...I will. I will--!”

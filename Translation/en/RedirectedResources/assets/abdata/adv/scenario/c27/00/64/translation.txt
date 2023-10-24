@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ……あんたに塗られるの、ほんと気持ちいいわぁ……」=
-//「よかったわよ……また、塗って頂戴ね……？」=
-//「また来ましょ？　もちろん、あんたが塗るのよ？」=
-//「あ……ま、まぁ、次来た時に塗ってくれればいいから……」=
+「はぁ……あんたに塗られるの、ほんと気持ちいいわぁ……」=“Haah... it really does feel amazing, when you do it...”
+「よかったわよ……また、塗って頂戴ね……？」=“I really liked that... do it again for me, okay...?”
+「また来ましょ？　もちろん、あんたが塗るのよ？」=“Let's come here again? Of course, you'll be the one who gets to do it, you know?”
+「あ……ま、まぁ、次来た時に塗ってくれればいいから……」=“Ah... w-well, you can just do it the next time we come so...”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おぉ、綺麗に出来てるなぁ……」=
-//「そ、そうかしら？　まぁ、このくらいなら余裕で作れるわ！」=
-//「じゃあ、今度はこの模様に挑戦してみない？」=
-//「う、随分細かいけど……み、見てなさい……！」=
+「おぉ、綺麗に出来てるなぁ……」=“Ooh, that's pretty darn nice...”
+「そ、そうかしら？　まぁ、このくらいなら余裕で作れるわ！」=“Y-You think? Well, this much is nothing for me!”
+「じゃあ、今度はこの模様に挑戦してみない？」=“Then, wanna try out this pattern next?”
+「う、随分細かいけど……み、見てなさい……！」=“Uu, that's very detailed, but... j-just you watch...!”

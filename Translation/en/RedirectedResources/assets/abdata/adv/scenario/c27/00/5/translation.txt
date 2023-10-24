@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あぁ……ついにこの時が来たのね……覚悟は、出来ているわ……っ」=
-//「か、覚悟って……そんな大げさな……」=
-//「大げさですって！？　好きな人と初めて身体を重ねるのよ！？　一大イベントなのよ！？」=
-//「あ、うん……と、とりあえず、力を抜いて……ね？」=
-//「あ……は、はい……優しく、お願いします……」=
+「あぁ……ついにこの時が来たのね……覚悟は、出来ているわ……っ」=“Aah... finally that day's here, huh... I've already, steeled myself...--!”
+「か、覚悟って……そんな大げさな……」=“S-Steeled... it's nothing that b...”
+「大げさですって！？　好きな人と初めて身体を重ねるのよ！？　一大イベントなのよ！？」=“Nothing that big?! I'm going to be sleeping together for the first time with the man I love, you know?! It's a very big deal, you know?!”
+「あ、うん……と、とりあえず、力を抜いて……ね？」=“Ah, yeah... f-for now, just relax... okay?”
+「あ……は、はい……優しく、お願いします……」=“Ah... o-okay... please be, gentle with me...”

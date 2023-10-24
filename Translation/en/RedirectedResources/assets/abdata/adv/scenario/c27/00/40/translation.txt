@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「次も遊びましょ。……ふ、二人で、ね？」=
+「次も遊びましょ。……ふ、二人で、ね？」=“Let's have fun like that again. ...J-Just the two of us, okay?”

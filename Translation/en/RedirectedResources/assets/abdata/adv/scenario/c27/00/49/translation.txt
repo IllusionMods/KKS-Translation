@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういう所で出る食事って、旅先ではちょっと安心するわよね」=
-//「なんかわかるかも、見たことがある・知ってる料理があるからかな？」=
-//「そこから味がある程度想像つくから、というのもあるわね」=
-//「新しいモノにチャレンジもいいけど、そういった安心して食べられるってのも大事だよね」=
-//「えぇ。っと、冷めないうちに頂きましょ？」=
+「こういう所で出る食事って、旅先ではちょっと安心するわよね」=“Being able to eat at a place like this, feels a bit comforting when out travelling, doesn't it?”
+「なんかわかるかも、見たことがある・知ってる料理があるからかな？」=“I feel like I get you. I wonder if it's because the dishes are ones we've seen before, and know of?”
+「そこから味がある程度想像つくから、というのもあるわね」=“And from that you can atleast guess at what it's gonna taste like, so that probably helps too.”
+「新しいモノにチャレンジもいいけど、そういった安心して食べられるってのも大事だよね」=“Trying out new things is nice too but, being able to just relax while eating is important too sometimes, isn't it?”
+「えぇ。っと、冷めないうちに頂きましょ？」=“Yes. Oh, let's get to our food before it gets cold?”

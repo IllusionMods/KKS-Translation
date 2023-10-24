@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どうする？　また塗ってく？」=
-//「そ、そうね…………ねぇ……」=
-//「オイル、いっぱいあるんだし……折角なら、ま、前も塗ってほしいかなー、なんて……」=
-//「え、いいの……？」=
-//「あ、あんただからお願いしてるのよ……ほら、好きに塗りなさいよ……っ」=
+「どうする？　また塗ってく？」=“So, what do you wanna do? Want me to do it again?”
+「そ、そうね…………ねぇ……」=“Y-Yeah... hey...”
+「オイル、いっぱいあるんだし……折角なら、ま、前も塗ってほしいかなー、なんて……」=“We've got, lots of oil here so... since we're here, m-maybe you could do the front for me too, I mean, if you want to...”
+「え、いいの……？」=“Eh, you sure...?”
+「あ、あんただからお願いしてるのよ……ほら、好きに塗りなさいよ……っ」=“I-I'm only asking because it's you... C'mon, just do it however you like...--!”

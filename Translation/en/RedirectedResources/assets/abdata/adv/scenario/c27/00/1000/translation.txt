@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここ、カップルドリンクが飲めるんだって。頼んでみようよ」=
-//「す、好きにしたらいいじゃない……」=
-//「……あんたって意外とそういうところがあるのね」=
-//「そういうところって？」=
-//「こ、こういうことよ！　浮ついてるっていうか……その……」=
-//「あー、人目も気にしないでベタベタして……みたいなこと？」=
-//「そ、そう！　だいたいそういう感じ」=
-//「町とか歩いてて、周りの目も気にせずベタベタしてるカップルを見るとモヤモヤするもんね」=
-//「……ちょっとは」=
-//「でも、いざ自分がそういう立場になったら人目なんか気にせずイチャイチャしたいよね」=
-//「悪いところよ！　人間の自分勝手さという本質が出ちゃってるわ」=
-//「人間って、また大きな枠で……」=
-//「慎み深さは大切よ。私はそういうとこちゃんとしてるの」=
-//「……じゃあ、これどうしようか？」=
-//「そ、それは……また別の話。残したりしたら、もったいないし……」=
-//「そうだね、じゃあサッと飲んじゃおうか」=
-//「う、うん……サッとね？　サッとよ？」=
-//（顔、赤っ……）=
-//「ほ、ほら、何してるの？　一緒に飲まないとダメでしょ？　あと、写真も撮るから……」=
-//「結局、バカップルになってるような……」=
+「ここ、カップルドリンクが飲めるんだって。頼んでみようよ」=“We can order a couples' drink here, from the looks of it.”
+「す、好きにしたらいいじゃない……」=“D-Do whatever you like...”
+「……あんたって意外とそういうところがあるのね」=“...You really have one of those sides to you, don't you?”
+「そういうところって？」=“What do you mean?”
+「こ、こういうことよ！　浮ついてるっていうか……その……」=“I-I mean this! You're so like spur of the moment... like uhm...”
+「あー、人目も気にしないでベタベタして……みたいなこと？」=“Ah, not caring about what other people think and just being flirty anyway... and whatnot?”
+「そ、そう！　だいたいそういう感じ」=“B-Basically! More or less that.”
+「町とか歩いてて、周りの目も気にせずベタベタしてるカップルを見るとモヤモヤするもんね」=“Seeing couples being all lovey dovey and stuff while walking around town does feel like an eyesore, doesn't it?”
+「……ちょっとは」=“...A bit.”
+「でも、いざ自分がそういう立場になったら人目なんか気にせずイチャイチャしたいよね」=“But, when you're in those same shoes yourself, you wanna do stuff like that too, right?”
+「悪いところよ！　人間の自分勝手さという本質が出ちゃってるわ」=“No, it's a bad habit of yours! That's just the selfishness of human beings rearing its ugly head out.”
+「人間って、また大きな枠で……」=“human beings, there you go exaggerating again...”
+「慎み深さは大切よ。私はそういうとこちゃんとしてるの」=“Being discreet about this stuff is important. And I for one take that seriously.”
+「……じゃあ、これどうしようか？」=“...Then, what do we do about this drink?”
+「そ、それは……また別の話。残したりしたら、もったいないし……」=“T-That's... different. It'd be a waste to just, throw it away so...”
+「そうだね、じゃあサッと飲んじゃおうか」=“Right, let's just gulp it down quickly then.”
+「う、うん……サッとね？　サッとよ？」=“O-Okay... quickly, okay? Quickly, got it?”
+（顔、赤っ……）=(Red as a tomato...)
+「ほ、ほら、何してるの？　一緒に飲まないとダメでしょ？　あと、写真も撮るから……」=“C-C'mon, what're you doing? We gotta do it together, no? Also, I'm gonna take a picture of us so stay...”
+「結局、バカップルになってるような……」=“In the end, I feel like we're becoming one of those couples anyway...”

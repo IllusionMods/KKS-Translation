@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここ涼しそうだね。ちょっと休んでいこうか」=
-//「こういう所……あんまり馴染みがないかも」=
-//「まあ、家に立派な縁側があるなんて人、そうそういないからね」=
-//「そうよね。そういう意味では、物語の中にでも入り込んだ気分かも」=
-//「どんな物語？」=
-//「……猫？」=
-//「あはは。確かに、縁側って言ったら猫がくつろいでるイメージあるかも」=
-//「その場合、[H名]が猫ってことになるの？」=
-//「ふふっ、いいわね。登場するのは私と……」=
-//「あ、あんたが私の飼い主なんて……それはちょっと思い上がりすぎよ！」=
-//「俺は何も言ってないよ？」=
-//「い、今も隙を突いて……私のこと膝に乗せたり、頭を撫でたりしようと企んでるんでしょ？」=
-//「いや、全然……」=
-//「……全然思ってないの？」=
-//（うっ……その問いかけは反則だ）=
-//「全然なんてことはないよ！」=
-//「ふ、ふーん、そう……あんたはそんな風に思ってるんだ」=
-//「あ、あんたになら、その……そういうことされても……いいけど？」=
-//「それ、本当？」=
-//「……周りに誰もいないなら……いい、わよ」=
-//「じゃあちょっと確認してくる！」=
+「ここ涼しそうだね。ちょっと休んでいこうか」=“It's pretty cool here, isn't it? Let's take a break.”
+「こういう所……あんまり馴染みがないかも」=“I don't think I'm... very used to places like these.”
+「まあ、家に立派な縁側があるなんて人、そうそういないからね」=“Well, there's not that many people out there that have a house with a yard, so no surprise there.”
+「そうよね。そういう意味では、物語の中にでも入り込んだ気分かも」=“Right? In that sense, it kinda feels like I'm almost inside a story.”
+「どんな物語？」=“What sort of story?”
+「……猫？」=“...One with a cat?”
+「あはは。確かに、縁側って言ったら猫がくつろいでるイメージあるかも」=“Ahahah. For sure, a cat's the only thing that comes to mind when you think about some relaxing time in a yard.”
+「その場合、[H名]が猫ってことになるの？」=“In that case, would you be that cat, [H名]?”
+「ふふっ、いいわね。登場するのは私と……」=“Fufuh--, why not? The main cast would be me and...”
+「あ、あんたが私の飼い主なんて……それはちょっと思い上がりすぎよ！」=“Y-You as my owner?... You sure you're not thinking a bit too highly of yourself!?”
+「俺は何も言ってないよ？」=“I didn't say anything though?”
+「い、今も隙を突いて……私のこと膝に乗せたり、頭を撫でたりしようと企んでるんでしょ？」=“E-Even now, you're just waiting for your chance to... get me on your lap, and stroke my head and whatnot, no?”
+「いや、全然……」=“Nope, not at all...”
+「……全然思ってないの？」=“...Not even a bit?”
+（うっ……その問いかけは反則だ）=(Uu--... now that's just foul play.)
+「全然なんてことはないよ！」=“Only a sith deals in absolutes, my dear!”
+「ふ、ふーん、そう……あんたはそんな風に思ってるんだ」=“H-Hmm, I see... so that's how you think of me, huh?”
+「あ、あんたになら、その……そういうことされても……いいけど？」=“I-I wouldn't really, uhm... mind if it's you... you know?”
+「それ、本当？」=“You mean that?”
+「……周りに誰もいないなら……いい、わよ」=“...If there's nobody around here then... I don't, mind.”
+「じゃあちょっと確認してくる！」=“I'll go check right now!”

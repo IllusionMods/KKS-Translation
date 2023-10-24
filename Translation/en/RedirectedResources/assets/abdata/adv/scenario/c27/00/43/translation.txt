@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線の音色って、ほんと気持ちが落ち着くわね……」=
-//「うん、気持ちいい音だよね……」=
-//「のんびりとした、こういった雰囲気にピッタリなのよね……」=
-//「ここだけ、時間の流れがゆっくりに感じるね……」=
+「三線の音色って、ほんと気持ちが落ち着くわね……」=“Sanshins really calm you down something else entirely, don't they...”
+「うん、気持ちいい音だよね……」=“Yeah, the sound's really nice, isn't it...”
+「のんびりとした、こういった雰囲気にピッタリなのよね……」=“It's just the perfect sound, for a relaxed mood like this, isn't it...”
+「ここだけ、時間の流れがゆっくりに感じるね……」=“For once, the flow of time feels slower, doesn't it...”

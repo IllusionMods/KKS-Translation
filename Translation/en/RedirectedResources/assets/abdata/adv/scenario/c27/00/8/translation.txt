@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「私は先に出てるからね」=
-//「……だって、い、一緒に部屋出るとこなんて見られたら、恥ずかしいじゃない……っ」=
+「私は先に出てるからね」=“I'm gonna head out first, okay?”
+「……だって、い、一緒に部屋出るとこなんて見られたら、恥ずかしいじゃない……っ」=“...I mean, i-it'd be so embarrassing, if someone saw us leaving together...--!”

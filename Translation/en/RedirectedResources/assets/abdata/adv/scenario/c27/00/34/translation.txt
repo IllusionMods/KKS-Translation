@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「また来たいわね。……その時も、二人で……」=
+「また来たいわね。……その時も、二人で……」=“I wanna come here again. ...Together, with you...”

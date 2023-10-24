@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ほ、ほら、わかってるんだから、あんたのしたいこと……」=
-//「早く来なさいよ、ほら……私は、いつでもいいから……」=
+「ほ、ほら、わかってるんだから、あんたのしたいこと……」=“C-C'mon, I know exactly what you wanna do, you know...”
+「早く来なさいよ、ほら……私は、いつでもいいから……」=“So come here already, c'mon... I'm ready for it whenever...”
