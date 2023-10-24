@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「じゃあ、さっそくひと眠り……って、なんでそんな残念そうな顔をするの～？」=
-//「本当にくつろぐとは思わなくて……部屋で二人きりだから、もっと違うことしない？」=
-//「……ああ、そういうこと？　エッチがしたいなら最初からそう言ってよ～」=
-//「え！？　あぁ、いやまぁ……その気がなかったと言ったら嘘になるけど……」=
+「じゃあ、さっそくひと眠り……って、なんでそんな残念そうな顔をするの～？」=“Well then, time for a nap... hey, why do you look so disappointed~?”
+「本当にくつろぐとは思わなくて……部屋で二人きりだから、もっと違うことしない？」=“I didn't think you'd actually go straight for that... we're alone here, wanna do something different for once?”
+「……ああ、そういうこと？　エッチがしたいなら最初からそう言ってよ～」=“...Ah, is that it? If you wanted to have sex, you should have just said it from the start, dummy~”
+「え！？　あぁ、いやまぁ……その気がなかったと言ったら嘘になるけど……」=“Eh--!? Aah, no, well~... I'd be lying if I denied that...”

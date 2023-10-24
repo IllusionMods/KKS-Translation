@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱり、こういう地元の食堂が、結構美味しかったりするんだよね」=
-//「料理も珍しいものばっかりで、なんだか面白いね～」=
-//「普段は食べられないようなものばっかりだよ」=
-//「このおソバ、出汁が効いててすっごく美味しいよ～」=
-//「この豚バラの煮込みも、柔らかくて、かなり美味しいよ」=
-//「いいね～、どれも美味しくて、来て良かったよ～」=
+「やっぱり、こういう地元の食堂が、結構美味しかったりするんだよね」=“Local eateries like these tend to have very tasty food, don't they?”
+「料理も珍しいものばっかりで、なんだか面白いね～」=“The dishes are all stuff I've never seen before either, it's kinda interesting~”
+「普段は食べられないようなものばっかりだよ」=“It's all food we wouldn't normally eat, yeah.”
+「このおソバ、出汁が効いててすっごく美味しいよ～」=“The dashi in this soba is so good, it goes so well with it~”
+「この豚バラの煮込みも、柔らかくて、かなり美味しいよ」=“This pork belly stew too, it's so soft, so good.”
+「いいね～、どれも美味しくて、来て良かったよ～」=“Nice~, it's all so good, I'm glad we came here~”

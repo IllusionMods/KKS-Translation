@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ホテルで食事なんて、なんだか贅沢してる気分だよ」=
-//「でも、ハンバーグとかカレーとか、庶民的なメニューが多いけどね～」=
-//「そりゃ、確かにフォアグラやキャビアって訳にはいかないだろうけど」=
-//「味はどれも、みんな美味しいっすよ～。私、気に入っちゃったかも～」=
-//「なら良かった……俺も色々試してみようかな」=
-//「それがいいっすよ～、一緒にいっぱい食べよ～」=
+「ホテルで食事なんて、なんだか贅沢してる気分だよ」=“Eating at the hotel feels almost like indulging in luxury.”
+「でも、ハンバーグとかカレーとか、庶民的なメニューが多いけどね～」=“But, it's mostly just regular food though, like hamburg steaks and curry rice and whatnot~”
+「そりゃ、確かにフォアグラやキャビアって訳にはいかないだろうけど」=“Well yeah, it's not like they're gonna serve foie gras or caviar or whathaveyou.”
+「味はどれも、みんな美味しいっすよ～。私、気に入っちゃったかも～」=“All these dishes are so tasty~. I think I'm in love~”
+「なら良かった……俺も色々試してみようかな」=“Glad to hear that... maybe I'll try ordering a bunch too.”
+「それがいいっすよ～、一緒にいっぱい食べよ～」=“Do that~, let's eat lots~”

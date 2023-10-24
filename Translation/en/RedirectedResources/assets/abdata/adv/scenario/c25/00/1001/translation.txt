@@ -1,25 +1,25 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、縁側でちょっと休んでいこうよ」=
-//「……悩ましい～」=
-//「悩ましい？　もしかして、アイス嫌いだったとか……」=
-//「アイスが嫌いな人類なんてこの世にいないっすよ」=
-//（珍しくきっぱりした口調で断言を……）=
-//「そうじゃなくて。ほら～、これ棒アイスでしょ～？」=
+「ねぇ、縁側でちょっと休んでいこうよ」=“Hey, let's cool off a bit at the veranda.”
+「……悩ましい～」=“...What a bother~”
+「悩ましい？　もしかして、アイス嫌いだったとか……」=“A bother? Do you not like ice cream, by any chance...”
+「アイスが嫌いな人類なんてこの世にいないっすよ」=“There exists not a single human on this planet that doesn't like ice cream.”
+（珍しくきっぱりした口調で断言を……）=(That's an unusually strong declaration for her...)
+「そうじゃなくて。ほら～、これ棒アイスでしょ～？」=“That's not it. Look~, this is a popsicle, right?”
 「そうだね」=“Yeah.”
-//「棒アイスは、寝っ転がってると食べづらいんだよ～」=
-//「……そりゃそうだろうね」=
-//「本当にわかってる～？　溶けて顔に落ちてきたりしたら……もう、やばいっす。大惨事～」=
-//「寝っ転がって食べなきゃいいのでは」=
-//「そ～いうことを言っちゃうわけ～？　それ、猫舌ならラーメン冷まして食べろって言うのと同じだよ～？」=
-//「はあ、すいません？」=
-//「悔しいなぁ。せっかくの完璧なロケーションを１００％で楽しめないとか……」=
-//「そんなにこのロケーションを気に入ってたとは」=
-//「いい感じだよ～。静かで、風がゆっくーり通っていって……」=
-//「こ～んないいシチュで、彼氏さんの膝を枕にして猫みたいに甘やかされながらアイス食べたら最高なのに～……」=
-//「あはは、理想形までぐーたらだ」=
+「棒アイスは、寝っ転がってると食べづらいんだよ～」=“Popicles are really hard to eat lying down, you know~”
+「……そりゃそうだろうね」=“...Well, yeah, probably.”
+「本当にわかってる～？　溶けて顔に落ちてきたりしたら……もう、やばいっす。大惨事～」=“Do you actually get it~? If it melts and drips onto your face... it's really bad. A disaster, really~”
+「寝っ転がって食べなきゃいいのでは」=“You could just like, not.”
+「そ～いうことを言っちゃうわけ～？　それ、猫舌ならラーメン冷まして食べろって言うのと同じだよ～？」=“Are you really saying that to me~? That's like telling someone who can't stand hot food to just let their ramen cool off before eating~”
+「はあ、すいません？」=“Haah, what?”
+「悔しいなぁ。せっかくの完璧なロケーションを１００％で楽しめないとか……」=“So frustrating~. It's such a perfect location too, I gotta enjoy it 100% but...”
+「そんなにこのロケーションを気に入ってたとは」=“I didn't think you'd like it here that much.”
+「いい感じだよ～。静かで、風がゆっくーり通っていって……」=“It's really nice~. It's quiet, and the slow breeze is nice~...”
+「こ～んないいシチュで、彼氏さんの膝を枕にして猫みたいに甘やかされながらアイス食べたら最高なのに～……」=“Such a great situation, it'd be perfect if I could just use my boyfriend's lap as my pillow and get spoilt like a cat while licking my ice lolly too, oh well~...”
+「あはは、理想形までぐーたらだ」=“Ahahah, even your 'perfect' situation is one of sloth.”
 「…………」=“...”
-//「別に俺の膝くらい好きに使ってもいいけど、アイスが落ちてきても知らないからね」=
-//「しょうがないから諦めるか。は～ぁ、減点して９５点ってとこかな～……」=
-//（随分、お気に入りなんだな……）=
+「別に俺の膝くらい好きに使ってもいいけど、アイスが落ちてきても知らないからね」=“I don't really mind if you wanna borrow my lap but, don't blame me if the ice cream melts on your face.”
+「しょうがないから諦めるか。は～ぁ、減点して９５点ってとこかな～……」=“I guess I'll give up on it. Haah~, I guess I'll have to settle for 95%~...”
+（随分、お気に入りなんだな……）=(She really likes it here, huh?...)

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ、食べた食べた……このまま眠りたい気分だよ～」=
+「ふぅ、食べた食べた……このまま眠りたい気分だよ～」=“Fuh, I'm stuffed... I feel like just going to sleep on the spot~”

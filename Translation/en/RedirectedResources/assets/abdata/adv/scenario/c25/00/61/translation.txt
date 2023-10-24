@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここで自由にオイルを使っていいみたいだよ」=
-//「オイルって、美容オイルだよね～、気前良いっすね～」=
-//「良かったら、俺がオイル塗ってあげようか？」=
-//「いいんすか～？　その方が楽だからお願いしようかな～」=
-//「分かった、任せてよ」=
+「ここで自由にオイルを使っていいみたいだよ」=“Seems like we can use the oil here freely.”
+「オイルって、美容オイルだよね～、気前良いっすね～」=“Not just oil, it's beauty oil, isn't it~? That's pretty nice of them~”
+「良かったら、俺がオイル塗ってあげようか？」=“Want me to rub it on you?”
+「いいんすか～？　その方が楽だからお願いしようかな～」=“You sure~? I'm not gonna say no since it'll save me from having to do it myself~”
+「分かった、任せてよ」=“Sure, leave it to me.”

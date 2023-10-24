@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カップルドリンクだって。一緒に飲もうよ」=
-//「……うへー」=
-//「どうしたの？　うへーって」=
-//「いや～、聞いてないなぁって。一緒にってこういう意味での一緒か～……」=
-//「そりゃ、カップルドリンクなんだからこういうものでしょ」=
-//「私そんなにカップルに造詣深くないっすから～」=
-//（珍しいな。もじもじして……）=
-//「チュッ、チュッとこう……交互にササッと片付けよっか～？」=
-//「キツツキじゃないんだから」=
-//「う～ん。私ってこれで意外とのんびり屋で、あんまり細かいことは気にならないタイプっすけど～……」=
-//（知ってる……）=
-//「これはちょっと露骨すぎじゃない～？」=
-//「カップルで頼むものなんだから、露骨すぎるくらいでちょうどぴったりだよ」=
-//「そう言われると、まあ……」=
-//「二人で飲んでたって、ああ、カップルだなーって思われるだけだって」=
-//「そう言われると、まあ、そっか～。誰も私達にそんなに注目してないよね～、景色の一部みたいな感じ？」=
-//「……ちょっと自意識過剰だったかも。まだこういうの慣れないから～」=
-//「それは俺もだけど。こういう気恥ずかしさも、なんだろ……二人で楽しんでみようよ」=
-//「チャレンジりょーかーい。んじゃま、試してみますか～」=
+「カップルドリンクだって。一緒に飲もうよ」=“A couples' drink, it says. Let's order it together.”
+「……うへー」=“...Uheh~”
+「どうしたの？　うへーって」=“What's wrong? You just went "Uheh".”
+「いや～、聞いてないなぁって。一緒にってこういう意味での一緒か～……」=“Man~, you didn't tell me it was gonna be like this. So this is what you meant by 'together', huh~...”
+「そりゃ、カップルドリンクなんだからこういうものでしょ」=“Well, yeah. It's a couples' drink, what else did you expect?”
+「私そんなにカップルに造詣深くないっすから～」=“I'm not that much of an expert about couples, you know~”
+（珍しいな。もじもじして……）=(That's unusual, she's being very restless...)
+「チュッ、チュッとこう……交互にササッと片付けよっか～？」=“We could go like, *suck* and *suck*... in turns, after one another. Wanna do that~?”
+「キツツキじゃないんだから」=“We're not woodpeckers, you know.”
+「う～ん。私ってこれで意外とのんびり屋で、あんまり細かいことは気にならないタイプっすけど～……」=“Nnn~. I might not come off that way but I'm actually very chill and, don't really sweat the details all that much but~...”
+（知ってる……）=(Boy do I know that...)
+「これはちょっと露骨すぎじゃない～？」=“Isn't this just a bit too bold~?”
+「カップルで頼むものなんだから、露骨すぎるくらいでちょうどぴったりだよ」=“It's something you order together as a couple so, a bit too much boldness is just perfect for it.”
+「そう言われると、まあ……」=“I mean, when you put it like that...”
+「二人で飲んでたって、ああ、カップルだなーって思われるだけだって」=“Even if we drink it together, the most anyone's gonna think is "yep, they're a couple alright.", seriously.”
+「そう言われると、まあ、そっか～。誰も私達にそんなに注目してないよね～、景色の一部みたいな感じ？」=“When you put it like that, I guess it's okay~. It's not like anyone's paying that much attention to us anyway, is it~? Like a part of the scenery maybe?”
+「……ちょっと自意識過剰だったかも。まだこういうの慣れないから～」=“...Maybe I was being a bit too self-conscious. I'm still not used to this sort of thing~”
+「それは俺もだけど。こういう気恥ずかしさも、なんだろ……二人で楽しんでみようよ」=“That's the same for me. But, you know... let's savour the embarrassment of it too.”
+「チャレンジりょーかーい。んじゃま、試してみますか～」=“Roger that, roger that. Let's try it then~”

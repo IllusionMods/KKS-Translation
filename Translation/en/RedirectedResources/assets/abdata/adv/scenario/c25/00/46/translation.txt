@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱり、あんまりライオンぽく見えないよね～。それじゃあ、またね～」=
+「やっぱり、あんまりライオンぽく見えないよね～。それじゃあ、またね～」=“It really doesn't look much like a lion, does it~? Well then, see ya~”

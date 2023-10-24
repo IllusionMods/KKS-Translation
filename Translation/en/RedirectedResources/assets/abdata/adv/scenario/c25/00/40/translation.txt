@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「クラゲみたいにのんびりできたっす。それじゃあまたね～」=
+「クラゲみたいにのんびりできたっす。それじゃあまたね～」=“I got to float around like a jellyfish~. See you later then~”

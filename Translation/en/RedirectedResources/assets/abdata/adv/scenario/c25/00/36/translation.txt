@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うぉ……カヤック……私が漕ぐんすか～？」=
-//「大丈夫、俺も一緒に漕ぐから」=
-//「じゃあ、私は後ろから方向を指示する係でいい～？」=
-//「いや、少しは手伝って欲しいな」=
-//「はぁ、しょうがないな～……キミがそんなにマングローブ好きだなんて、知らなかったよ～」=
+「うぉ……カヤック……私が漕ぐんすか～？」=“Uwoh... a kayak... am I gonna be the one rowing~?”
+「大丈夫、俺も一緒に漕ぐから」=“Don't worry, I'mma row it with you.”
+「じゃあ、私は後ろから方向を指示する係でいい～？」=“Then, mind if I take the navigator's role instead~?”
+「いや、少しは手伝って欲しいな」=“No, help out atleast a bit, c'mon.”
+「はぁ、しょうがないな～……キミがそんなにマングローブ好きだなんて、知らなかったよ～」=“Haah, I guess I have no choice~... you know, I never took you for that much of a mangrove lover~”

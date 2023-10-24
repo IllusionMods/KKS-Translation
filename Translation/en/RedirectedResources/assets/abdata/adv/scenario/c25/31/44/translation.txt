@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「三線って、結構難しいね」=
-//「弦が少ないから簡単かなって思ってたんだけど、意外と奥が深いね～」=
-//「音は出せるんだけど、なかなか演奏にはならないね」=
-//「でも、雰囲気は伝わる気がするよ～」=
-//「もうちょっと練習してみようか」=
-//「そうだね～、キミと一緒なら頑張れる気がするよ～」=
+「三線って、結構難しいね」=“Sanshins are pretty difficult, huh?”
+「弦が少ないから簡単かなって思ってたんだけど、意外と奥が深いね～」=“I thought it'd be pretty easy to play one since they don't have many strings but, if anything it's a pretty profound instrument, huh?~”
+「音は出せるんだけど、なかなか演奏にはならないね」=“It's easy to make sound but, hard to actually make music, isn't it?”
+「でも、雰囲気は伝わる気がするよ～」=“But, I feel like the vibe is definitely there~”
+「もうちょっと練習してみようか」=“Let's practice it a bit more.”
+「そうだね～、キミと一緒なら頑張れる気がするよ～」=“Yeah~, I think I can hang on since you're here~”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「民宿の食堂って、こんなにレベルが高かったんだね」=
-//「うん、どの料理もすっごく美味しいよ～」=
-//「メニューはほとんど地元の家庭料理みたいだね」=
-//「こんなに美味しものが食べられるなら、この家の子になってもいいかな～」=
+「民宿の食堂って、こんなにレベルが高かったんだね」=“I didn't know the food here was this good.”
+「うん、どの料理もすっごく美味しいよ～」=“Yeah, it's all so tasty~”
+「メニューはほとんど地元の家庭料理みたいだね」=“Seems like the menu's mostly just local home food too.”
+「こんなに美味しものが食べられるなら、この家の子になってもいいかな～」=“I wouldn't mind being the daughter of the owner here, if I get to eat this everyday~”

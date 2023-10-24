@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ごほんっ！　ね、ねぇ、[H名]……」=
-//「鐘、鳴らすの～？　いいよ」=
-//「……台無しだよ」=
-//「私としては、しょんぼりしちゃう意味がわかんないんだけど～」=
-//「もしかして、私のこと動物か何かだと思ってる？　ナマケモノとか～」=
-//「どこからそんな話が出てきたの……」=
-//「だって、ここだよ？　私だって女子なんだから、ここがどんな意味を持つ場所かは知ってるって～」=
-//「バレバレだったってことか」=
-//「まあ、そうっちゃそう」=
-//「おー、なんか緊張してるな～……とか思って見てたよね～」=
-//「恥ずかしいからやめてー！」=
-//「んふふ、照れなくてもいいじゃ～ん」=
-//「わかってて、文句も言わずにここまでついてきたっていうのはそういうことっすよ～」=
-//「……なんか、今度はこっちが照れちゃうけど」=
-//「いい、ってことでいいのかな。この鐘……二人で鳴らしてくれる？」=
-//「永遠の愛はぶっちゃけ、眉唾だけどね～」=
-//「願掛けだよ！　二人の決意とか願いを、この鐘に聞いてもらう……みたいなイメージで」=
-//「なんかやっぱし、ちょっと恥ずかしくなってきたかも」=
-//「今更、撤回なんて無理だよ。ね？　一緒に鳴らそう」=
-//「うう、了解っす～……」=
+「ごほんっ！　ね、ねぇ、[H名]……」=“*cough*! H-Hey, [H名]...”
+「鐘、鳴らすの～？　いいよ」=“You wanna ring it~? Sure.”
+「……台無しだよ」=“...And it's ruined.”
+「私としては、しょんぼりしちゃう意味がわかんないんだけど～」=“I don't really get why you're so dejected about it~”
+「もしかして、私のこと動物か何かだと思ってる？　ナマケモノとか～」=“By any chance, do you take me for an animal or something? Like a real life sloth or whatever~”
+「どこからそんな話が出てきたの……」=“How did you even get from that to that...”
+「だって、ここだよ？　私だって女子なんだから、ここがどんな意味を持つ場所かは知ってるって～」=“I mean, we're here, you know? I'm a girl too, even I know what sort of meaning this place has~”
+「バレバレだったってことか」=“So you knew all along, huh?”
+「まあ、そうっちゃそう」=“Well, more or less.”
+「おー、なんか緊張してるな～……とか思って見てたよね～」=“I was watching you, and going... "Oh, he's kinda nervous, huh~" and all, you know~?”
+「恥ずかしいからやめてー！」=“It's embarrassing so stop~!”
+「んふふ、照れなくてもいいじゃ～ん」=“Nnfufuh, it's nothing to be embarrassed about~”
+「わかってて、文句も言わずにここまでついてきたっていうのはそういうことっすよ～」=“The fact that I tagged along with you all the way here while knowing the meaning of it should tell you all you need to know~”
+「……なんか、今度はこっちが照れちゃうけど」=“...Man, now I feel a blush coming up.”
+「いい、ってことでいいのかな。この鐘……二人で鳴らしてくれる？」=“So I can take that as a yes, then? Will you... ring this bell with me?”
+「永遠の愛はぶっちゃけ、眉唾だけどね～」=“Honestly though, eternal love? Really? Sounds fake as all hell~”
+「願掛けだよ！　二人の決意とか願いを、この鐘に聞いてもらう……みたいなイメージで」=“It's just a prayer! We're just gonna be making a prayer, to the bell... with all our resolve packed into it.”
+「なんかやっぱし、ちょっと恥ずかしくなってきたかも」=“Man, now I'm really starting to get a bit embarrassed.”
+「今更、撤回なんて無理だよ。ね？　一緒に鳴らそう」=“No takebacks, not anymore. Let's ring it, c'mon?”
+「うう、了解っす～……」=“Uuu, roger~...”

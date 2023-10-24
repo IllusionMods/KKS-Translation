@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちょっとお店を見てみようよ」=
-//「何か面白いものあった？」=
-//「ん～、面白いかはわかんないけど……」=
-//「……気に入ったの？」=
-//「心にスッと入ってきたっす。私にとって、道標みたいな……そんな言葉だね～……」=
-//「生きるヒントをもらったような……」=
-//「[H名]は今の時点で、もう充分すぎるくらい『なんくるないさー』って感じに生きてるでしょ？」=
-//「いや～～」=
-//（照れてる……）=
-//「私にはもう足りてるなら、このシャツは私から[P名]へのプレゼントにしよっかな～」=
-//「ええ！？　いいよ、そんなのっ」=
-//「この言葉……そんなにあくせくしなくてもなんとかなるよ、ってメッセージを胸に刻んで生きて欲しいんだよ～」=
-//「何事も加減や限度が必要なので……」=
-//「そんなこと言う時点で、なんくなるなってないっすね～」=
-//「なんくるなって？」=
-//「んじゃ、これ買ってくる～。二人でこの言葉をモットーに生きようね～」=
+「ちょっとお店を見てみようよ」=“Let's go take a look at the”
+「何か面白いものあった？」=“Find anything interesting?”
+「ん～、面白いかはわかんないけど……」=“Nn~, I dunno if it's interesting or not but...”
+「……気に入ったの？」=“...You like it?”
+「心にスッと入ってきたっす。私にとって、道標みたいな……そんな言葉だね～……」=“It shot straight into my heart. To me, this word is like... a signpost~...”
+「生きるヒントをもらったような……」=“I feel like I've been given a hint towards life itself...”
+「[H名]は今の時点で、もう充分すぎるくらい『なんくるないさー』って感じに生きてるでしょ？」=“Don't you already live in a way too「Nankurunaisa」sorta way?”
+「いや～～」=“Well~~”
+（照れてる……）=(She's blushing...)
+「私にはもう足りてるなら、このシャツは私から[P名]へのプレゼントにしよっかな～」=“If I don't need any more of it then, maybe I'll gift this shirt to you instead~”
+「ええ！？　いいよ、そんなのっ」=“Eeh!? It's fine, I don't want it--”
+「この言葉……そんなにあくせくしなくてもなんとかなるよ、ってメッセージを胸に刻んで生きて欲しいんだよ～」=“I want you to... live with these words on your chest, these words that'll tell you that you don't need to worry, that everything'll work out by itself, anytime you need it~”
+「何事も加減や限度が必要なので……」=“But you see, there is such a thing as moderation...”
+「そんなこと言う時点で、なんくなるなってないっすね～」=“The fact that you're saying that means you're not nankunaru enough~”
+「なんくるなって？」=“Nanku-what now?”
+「んじゃ、これ買ってくる～。二人でこの言葉をモットーに生きようね～」=“Well then, I'll go buy this~. Let's live with this word as our motto, okay~?”

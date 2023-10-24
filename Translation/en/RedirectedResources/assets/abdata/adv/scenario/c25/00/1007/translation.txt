@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お～、魚～……」=
-//「そりゃ魚だよ」=
-//「ほほう、ほ～……おお？　魚があっちにも」=
-//「そりゃ、水族館なんだから、至るところに魚はいるよ」=
-//「そっか～……」=
-//「なんの納得？　[H名]はこういうとこ好きそうかなって思ったんだけど」=
-//「バタバタしてないのはいいね。割と好みだけど～……」=
-//「魚って意外とキビキビ泳いでるんだね～。もっとこうのんびりしてるものかと思ってたっす」=
-//「……そういう意味では、若干の裏切られた感がしたり？」=
-//「それは、勝手に魚達を仲間扱いしてた[H名]が悪いよ」=
-//「私の心の理解者は誰もいないってこと？　……ショックだ～」=
-//「お、俺はっ？」=
-//「……ふえっ？　[P名]は別格っていうか。それくらい私にとっては近い存在で～……」=
-//「ごほんっ」=
-//「さて、せっかくだからもうちょっと見てこ～？　あんこうとかもっともっさりしたのいないかな～」=
-//（はぐらかした……）=
+「お～、魚～……」=“Oh~, fish~...”
+「そりゃ魚だよ」=“Well, yeah.”
+「ほほう、ほ～……おお？　魚があっちにも」=“Hohoh, hoh~... ooh? There's fish there too.”
+「そりゃ、水族館なんだから、至るところに魚はいるよ」=“Well, yeah. We're at an aquarium, of course there's fish everywhere.”
+「そっか～……」=“I see~...”
+「なんの納得？　[H名]はこういうとこ好きそうかなって思ったんだけど」=“What did you even see? I really thought you'd like places like these.”
+「バタバタしてないのはいいね。割と好みだけど～……」=“It's pretty nice how chill it is here, for sure. I do kinda like it, actually. But...”
+「魚って意外とキビキビ泳いでるんだね～。もっとこうのんびりしてるものかと思ってたっす」=“The fish are swimming around pretty energetically, huh~? I really thought they'd be chilling around more.”
+「……そういう意味では、若干の裏切られた感がしたり？」=“...In that way, I guess I do feel a bit betrayed?”
+「それは、勝手に魚達を仲間扱いしてた[H名]が悪いよ」=“That's on you for thinking of them as your comrades in the path of sloth.”
+「私の心の理解者は誰もいないってこと？　……ショックだ～」=“You mean there's nobody who understands me and my heart here? ...I'm shocked~”
+「お、俺はっ？」=“I-I mean, I do--?”
+「……ふえっ？　[P名]は別格っていうか。それくらい私にとっては近い存在で～……」=“...Fueh--? You don't count, [P名]. You're special. You're very special to me, you know~...”
+「ごほんっ」=“*cough*--”
+「さて、せっかくだからもうちょっと見てこ～？　あんこうとかもっともっさりしたのいないかな～」=“Now then, since we're here, let's look at them some more~? They gotta have some slow and dumb looking ones somewhere, no~? Like a monkfish or something.”
+（はぐらかした……）=(She changed the topic...)

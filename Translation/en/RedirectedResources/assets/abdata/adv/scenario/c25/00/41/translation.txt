@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「気持ちのいい時間だったね～。あんま遊んだ感じはしないけど、私は満足したよ～」=
+「気持ちのいい時間だったね～。あんま遊んだ感じはしないけど、私は満足したよ～」=“That was a really nice time, wasn't it~? We didn't really 'have fun' I feel like, but I'm pretty satisfied~”

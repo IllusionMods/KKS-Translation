@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「今のって……こ、告白だったり、するの……？」=
-//「そうだよ……きみが好きだ、俺と付き合って欲しい」=
-//「すごいよ～……私、告白されちゃってる～」=
-//「それで、返事は……？」=
-//「もちろん、キミならＯＫだよ～……私も、キミの事好きだったから～」=
-//「嬉しいな～……キミと恋人同士になれるなんて……これからもよろしくね～」=
+「今のって……こ、告白だったり、するの……？」=“That just now... w-was that a, confession...?”
+「そうだよ……きみが好きだ、俺と付き合って欲しい」=“That's right... you're the one I love, go out with me.”
+「すごいよ～……私、告白されちゃってる～」=“Amazing~... I'm being confessed to, like actually~”
+「それで、返事は……？」=“So then, your reply...?”
+「もちろん、キミならＯＫだよ～……私も、キミの事好きだったから～」=“Of course, I'm fine with it, since it's you~... Since I loved you too~”
+「嬉しいな～……キミと恋人同士になれるなんて……これからもよろしくね～」=“I'm so happy~... I can't believe I get to be your girlfriend... take care of me, okay~?”
