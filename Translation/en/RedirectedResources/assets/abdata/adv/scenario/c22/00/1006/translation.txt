@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ウムイの鐘……一緒にならしたら必ず結ばれるっていう鐘だよね」=
-//「うん、そういう言い伝えがあるだけあって、素敵な場所にあるんだね」=
-//「そうだね。二人一緒にここへ来るだけでも結ばれちゃいそうな雰囲気……」=
-//「……って、私ったらなに言って……あは、あははーっ」=
-//「あはは、俺も同じようなこと考えたよ。二人でここに来られるってだけで、もう気持ちは繋がってるんじゃないかなって……」=
-//「そうだよね。だって……同じ気持ちじゃないと……ここに来たりしないもん……」=
-//「恋人同士、これからもずっと傍にいて欲しいから来るんだもんね」=
-//「きっとみんな、それを口に出すのが恥ずかしいから……代わりに鐘を鳴らすんだよ」=
-//「[H名]も恥ずかしいの？」=
-//「私は……そ、それは……その……少しは恥ずかしいけど……でも……君にだったら何でも言えるよ」=
-//「嬉しいな。俺も同じだ。[H名]にだったら何でも言える」=
-//「これからもずっとずっと、俺の恋人として近くにいてください」=
-//「わぁっ、い、いきなりすぎだよーっ！」=
-//「でも……はい。私も同じ気持ちです。ずっとずっと……一番大切な人として傍にいてください」=
-//「君が傍にいてくれないと……私は私じゃいられなくなる気がするの……それくらい……大切な人だよ」=
+「ウムイの鐘……一緒にならしたら必ず結ばれるっていう鐘だよね」=“The Bell of Umuy... the bell that guarantees that we'll be tied together someday, isn't it?”
+「うん、そういう言い伝えがあるだけあって、素敵な場所にあるんだね」=“Yeah, it's a wonderful thing, isn't it? With a wonderful legend to go along with it.”
+「そうだね。二人一緒にここへ来るだけでも結ばれちゃいそうな雰囲気……」=“Yeah. I feel like just coming here together like this tied us together...”
+「……って、私ったらなに言って……あは、あははーっ」=“...Wuh, what am I saying... Ahah, ahahah~”
+「あはは、俺も同じようなこと考えたよ。二人でここに来られるってだけで、もう気持ちは繋がってるんじゃないかなって……」=“Ahahah, I was thinking the same thing. How since we came here together, aren't our hearts more or less 'tied' together at this point and whatnot...”
+「そうだよね。だって……同じ気持ちじゃないと……ここに来たりしないもん……」=“Of course. I mean... if we didn't feel the same way... we wouldn't have come here...”
+「恋人同士、これからもずっと傍にいて欲しいから来るんだもんね」=“Couples come here because they want the other to be with them forever, afterall.”
+「きっとみんな、それを口に出すのが恥ずかしいから……代わりに鐘を鳴らすんだよ」=“I bet it's because everyone's too shy, to say that... that they use the bell as a substitute.”
+「[H名]も恥ずかしいの？」=“Do you feel shy too, [H名]?”
+「私は……そ、それは……その……少しは恥ずかしいけど……でも……君にだったら何でも言えるよ」=“I... u-uhm... that's... I do... but... I can do it, I can say it because it's you.”
+「嬉しいな。俺も同じだ。[H名]にだったら何でも言える」=“I'm so happy. I feel the same. I can say anything and tell you anything too, [H名].”
+「これからもずっとずっと、俺の恋人として近くにいてください」=“Please keep being with me and please stay by my side always.”
+「わぁっ、い、いきなりすぎだよーっ！」=“Wah--, t-that's too sudden though~!”
+「でも……はい。私も同じ気持ちです。ずっとずっと……一番大切な人として傍にいてください」=“But... okay. I feel the same way. Please always... be by my side, as the person I love so much.”
+「君が傍にいてくれないと……私は私じゃいられなくなる気がするの……それくらい……大切な人だよ」=“If you don't... I don't think I'll be able to be myself anymore... that's how... important you are to me.”
 「[H名]……」=“[H名]...”
-//「あ、あはは……ここまで言うとさすがに恥ずかしいね！　でもでも、全部本音！　ぜーんぶ本当のことだよっ♪」=
-//「ありがとう。俺も全く同じように思ってる。全部本当だよ」=
-//「ありがとう……すごく嬉しい。それじゃ……せっかく来たんだし……約束の証に……いい……ですか？」=
-//「うん、もちろん！　一緒に鳴らそう」=
+「あ、あはは……ここまで言うとさすがに恥ずかしいね！　でもでも、全部本音！　ぜーんぶ本当のことだよっ♪」=“A-Ahahah... now I'm really feeling a bit shy! But but, I meant it all! That was all true♪”
+「ありがとう。俺も全く同じように思ってる。全部本当だよ」=“Thanks. I feel the exact same way, I meant all of what I said.”
+「ありがとう……すごく嬉しい。それじゃ……せっかく来たんだし……約束の証に……いい……ですか？」=“Thank you... I'm so happy. Well then... since we came here... could we... ring... it?”
+「うん、もちろん！　一緒に鳴らそう」=“Yeah, of course! Let's ring it together.”

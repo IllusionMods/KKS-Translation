@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「君の塗り方、すっごく上手だったよ。気持ち良かった」=
-//「正直言って、最高だったよ。どうもありがとう」=
-//「うん、いい感じだったよ」=
-//「あれ？　塗ってくれるんじゃなかったの？」=
+「君の塗り方、すっごく上手だったよ。気持ち良かった」=“Your technique was really really good. It felt great.”
+「正直言って、最高だったよ。どうもありがとう」=“Honestly, it was the best. Thanks~”
+「うん、いい感じだったよ」=“Yep, that felt nice.”
+「あれ？　塗ってくれるんじゃなかったの？」=“Huh? Weren't you gonna rub oil on me?”

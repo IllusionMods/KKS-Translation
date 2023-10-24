@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「あのね……部屋まで来ちゃったんだけど、入ってもいいかな？」=
-SELECTION:「返事をする」=Respond
+「あのね……部屋まで来ちゃったんだけど、入ってもいいかな？」=“Hey... I came all the way here, could I come in?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「いいけど、どうかしたの？」=
-//「なんだか寂しくなっちゃって、キミと一緒にいたいなぁって……」=
-//「二人で……素敵な夜を過ごしたいな……」=
-//「あれ、いない……残念だなぁ、また来ようっと」=
+「いいけど、どうかしたの？」=“Sure but, something happen?”
+「なんだか寂しくなっちゃって、キミと一緒にいたいなぁって……」=“I just kinda started feeling lonely, and wanted to be with you so...”
+「二人で……素敵な夜を過ごしたいな……」=“I wanna... spend a wonderful night together...”
+「あれ、いない……残念だなぁ、また来ようっと」=“Huh, he's not in... aww, that's such a shame, guess I'll come again another time.”

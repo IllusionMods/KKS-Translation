@@ -9,7 +9,7 @@
 「ううんううん、全然ダメじゃないよ！　君がそうして欲しいなら……私もそうしたいもん」=“No, no, not at all! If it's what you want then... I want it too.”
 「やった！　えーっと……それじゃまずは俺から呼ぶね」=“Yay! Erhm... I'll start then, okay?”
 「う、うん……お願いします……」=“O-Okay... please...”
-「[Hあだ名]」=“[Hあだ名]”
+「[Hあだ名]」=“[Hあだ名].”
 「はぅっ！？　あ、あのっ……それじゃ……[Pあだ名]」=“Hauu--!? U-Uhm--... well then... [Pあだ名].”
 「わぁ、ありがとう！　すごく嬉しいよ、[Hあだ名]!」=“Waah, thanks! I'm really happy, [Hあだ名].”
 「うぅぅ……わ、私は恥ずかしいよぅ……でもでも、そうやって呼び合うと、特別な感じがして……幸せかも」=“Uuuu... I-I'm embarrassing though... but but, calling each other that, feels so special... I really like it.”

@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「またオイルを塗ってあげるよ」=
-//「ありがとう……それじゃあ、もう前の方も塗ってもらっちゃおうかな」=
-//「わかった……なるべく慎重に塗るから」=
-//「そうしてもらえると嬉しいよ……それじゃ、よろしくね」=
-//「任せて、頑張るよ」=
+「またオイルを塗ってあげるよ」=“I'll rub some oil on you again.”
+「ありがとう……それじゃあ、もう前の方も塗ってもらっちゃおうかな」=“Thanks... well then, maybe I'll have you do my front this time too.”
+「わかった……なるべく慎重に塗るから」=“Got it... I'll be as careful as I can.”
+「そうしてもらえると嬉しいよ……それじゃ、よろしくね」=“Please, thanks... well then, please do it.”
+「任せて、頑張るよ」=“Leave it to me, I'll do my best for you.”

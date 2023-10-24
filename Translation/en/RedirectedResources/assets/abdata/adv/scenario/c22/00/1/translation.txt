@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ウソ……私の事、好きなの？」=
-//「ウソじゃないよ。本当にきみのことが好きなんだ……俺と、付き合って欲しい」=
-//「うん……いいよ」=
-「いいの？」=“You sure?”
-//「うん、だって……私も、君の事好きだから……」=
-//「だから……ぜひ、お付き合い、して下さい」=
+「ウソ……私の事、好きなの？」=“No way, you're lying... you, love me?”
+「ウソじゃないよ。本当にきみのことが好きなんだ……俺と、付き合って欲しい」=“I'm not lying. I really do love you... I want you to, go out with me.”
+「うん……いいよ」=“Okay... sure.”
+「いいの？」=“Really? Are you sure?”
+「うん、だって……私も、君の事好きだから……」=“Yeah, I mean... I, love you too so...”
+「だから……ぜひ、お付き合い、して下さい」=“So... please let me, go out with you.”

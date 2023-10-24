@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「レンタルショップで、遊び道具が借りれるみたいだね」=
-//「私、バナナボートに乗りたいなー」=
-//「いいね。落っこちそうになったら、俺にしがみ付いていいからね」=
-//「大丈夫、大丈夫。私、結構バランス感覚ある方なんだよ」=
-//「いや、でも……しがみ付いて、欲しいなぁ、なんて……」=
-//「はいはい、しっかりしがみ付くから、ちゃんと守ってね」=
+「レンタルショップで、遊び道具が借りれるみたいだね」=“Seems like we can rent out stuff at this rental shop.”
+「私、バナナボートに乗りたいなー」=“I wanna ride a banana boat~”
+「いいね。落っこちそうになったら、俺にしがみ付いていいからね」=“Sounds fun. If you think you're gonna fall off, feel free to cling onto me, alright?”
+「大丈夫、大丈夫。私、結構バランス感覚ある方なんだよ」=“Don't worry, don't worry. I've got pretty good balance, you know.”
+「いや、でも……しがみ付いて、欲しいなぁ、なんて……」=“No, but... It'd be nice, if you would, I mean...”
+「はいはい、しっかりしがみ付くから、ちゃんと守ってね」=“Yes yes, I'll cling to you I'll cling to you, make sure to protect me properly, okay?”

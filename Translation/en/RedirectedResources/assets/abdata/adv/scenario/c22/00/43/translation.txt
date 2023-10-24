@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「よし、頑張ってカッコいいシーサーを作るぞ」=
-//「私も、可愛いシーサー作りたいな」=
-//「シーサーは口が開いてるのがオスで、閉じてるのがメスなんだって」=
-//「それじゃ、私は口を閉じて女の子にしようかな」=
-//「俺は口を開けて、オスを作るよ」=
-//「両方できたら、一緒に飾ってみたいね」=
+「よし、頑張ってカッコいいシーサーを作るぞ」=“Alright, I'mma do my best and make a really cool shisa.”
+「私も、可愛いシーサー作りたいな」=“I wanna make an adorable one too.”
+「シーサーは口が開いてるのがオスで、閉じてるのがメスなんだって」=“Apparently shisas with open mouths are male, and ones with closed mouths are female.”
+「それじゃ、私は口を閉じて女の子にしようかな」=“I guess I'll make mine a girl with a closed mouth then.”
+「俺は口を開けて、オスを作るよ」=“I'll make a male with an open mouth then.”
+「両方できたら、一緒に飾ってみたいね」=“Let's put them together once we're done.”

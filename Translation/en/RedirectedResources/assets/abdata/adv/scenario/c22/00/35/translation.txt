@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「二人で灯台が見れて嬉しかったよ。それじゃあ、またどこか行こうね」=
+「二人で灯台が見れて嬉しかったよ。それじゃあ、またどこか行こうね」=“It made me really happy, seeing that with you. Let's go somewhere like that again, okay?”

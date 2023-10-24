@@ -6,5 +6,5 @@
 「…………」=“...”
 「って……え？　え？」=“...Eh? Eh?”
 「あ……びくびくしてる……おちんちんは起きたみたいだね♪」=“Ah... it's twitching... looks like your little guy here woke up♪”
-「何をして……？」=“Just what...?”
-「くすっ♪　おねむな君も、すぐに起こしてあげるからね」=*giggle*♪ Don't worry, I'll wake you right up too.
+「何をして……？」=“What are you...?”
+「くすっ♪　おねむな君も、すぐに起こしてあげるからね」=“*giggle*♪ Don't worry, I'll wake you right up too.”

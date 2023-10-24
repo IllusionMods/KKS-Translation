@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「砂浜を散歩するのって、気持ちいいね」=
-//「うん、気持ちいいけど……これって遊びのうちに入るのかな？」=
-//「のんびりできて、楽しいと思うんだけど……だったら綺麗な貝殻でも探してみる？」=
-//「でも、持って帰ったら怒られるんでしょ？」=
-//「うん、基本的にダメみたい」=
-//「だったら、私もお散歩だけでいいかなー」=
+「砂浜を散歩するのって、気持ちいいね」=“Taking a walk along the beach feels pretty good, huh?”
+「うん、気持ちいいけど……これって遊びのうちに入るのかな？」=“Yep, it does but... would you really call this "having fun"?”
+「のんびりできて、楽しいと思うんだけど……だったら綺麗な貝殻でも探してみる？」=“I mean, I'd say it's a pretty relaxing and fun time... alright, wanna search for some pretty seashells then?”
+「でも、持って帰ったら怒られるんでしょ？」=“They'll get mad at us if we take them with us, no?”
+「うん、基本的にダメみたい」=“Yeah, I think so.”
+「だったら、私もお散歩だけでいいかなー」=“In that case, I think I'm fine with just walking too~”

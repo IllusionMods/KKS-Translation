@@ -6,7 +6,7 @@
 「うん、あのね……君のこと、愛称で呼んでみたいなーって……恋人同士でそういうことするの、前から憧れだったから……」=“You see, it's... I was thinking that, maybe it'd be nice to use nicknames for each other... I've always dreamed of doing this sort of stuff, if I ever got a boyfriend so...”
 「あ……うん、もちろんいいよ。確かに愛称っていいよね」=“Ah... okay, no problem. Nicknames are pretty nice, for sure.”
 「うんっ！　ありがとう、それじゃえっと……呼んでみるね」=“They are--! Thanks, well then... I'll say it, okay?”
-「……[Pあだ名]」=“...[Pあだ名]”
+「……[Pあだ名]」=“...[Pあだ名].”
 「うわぁ、結構照れるかも……でも……うん、新鮮でいいね。俺も呼んでいい？」=“Uwah, that's pretty embarrassing... but... yeah, it's really nice and refreshing. Mind if I call you one too?”
 「うんっ！　えっと……お願いします」=“Sure--! Erhm... please.”
 「それじゃ……[Hあだ名]」=“Well then... [Hあだ名].”

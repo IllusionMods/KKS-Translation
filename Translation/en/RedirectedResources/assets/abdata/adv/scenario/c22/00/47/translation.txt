@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「一緒に演奏出来て良かったよ。また二人で体験とかしたいね」=
+「一緒に演奏出来て良かったよ。また二人で体験とかしたいね」=“We even got to play them together at the end, that was so nice. I wanna do something like that again.”

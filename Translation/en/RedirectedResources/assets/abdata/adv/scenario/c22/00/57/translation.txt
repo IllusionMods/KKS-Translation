@@ -6,4 +6,4 @@
 「…………」=“...”
 「って……え？　え？」=“...Eh? Eh?”
 「ふふふっ、まだ寝ぼけてる？」=“Fufufu--, still half asleep?”
-//「そんなお顔も素敵だけど……今は君の感じてるお顔が見たいな」=
+「そんなお顔も素敵だけど……今は君の感じてるお顔が見たいな」=“That expression is lovely too but... right now, I want to see your melty face instead.”

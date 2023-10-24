@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「頑張って三線を覚えて、ラブソングでも歌おうかな」=
-//「三線だとラブソングって言うより、恋唄って感じだよね」=
-//「恋唄か……確かに民謡っぽくなりそうだね」=
-//「私は、私のために歌ってくれるなら、どんな歌でも嬉しいけどね」=
-//「そうなの？　だったら、歌の練習しないと……」=
-//「その前に、ちゃんと三線習おうよ、ね」=
+「頑張って三線を覚えて、ラブソングでも歌おうかな」=“Guess I'll learn how to play this properly, and maybe sing you a love song (english) or two.”
+「三線だとラブソングって言うより、恋唄って感じだよね」=“With a sanshin, the word love song (Japanese) fits better than 'love song', doesn't it?”
+「恋唄か……確かに民謡っぽくなりそうだね」=“A love song (Japanese), huh... that does give it a very folk-y feeling, you're right.”
+「私は、私のために歌ってくれるなら、どんな歌でも嬉しいけどね」=“But personally, as long as you're singing it for me, I'd be fine with any kind of a song.”
+「そうなの？　だったら、歌の練習しないと……」=“Really? I'll have to seriously train my voice then...”
+「その前に、ちゃんと三線習おうよ、ね」=“Before that, let's properly learn these sanshins, okay?”

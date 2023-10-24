@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「卓球台があるよ。ちょっとやっていかない？」=
-//「よーし、頑張ってみるよ！　でも私、こういうの苦手だから、上手にできるかなぁ……」=
-//「だったらさ、勝負じゃなくて、何回ラリーを続けられるか挑戦しよう。それなら楽しくない？」=
-//「あ……うんっ！　だったら協力ゲームって感じで楽しいかも！」=
-//「でしょ？　それじゃ早速やってみよう！」=
-//「あーっ、失敗しちゃった！　ごめんね！」=
-//「大丈夫大丈夫！　でも今のラリーはいい感じだったんじゃない？」=
-//「うん、最初に想像していたよりもずいぶん長く続けられたよ♪　私たち、もしかして相性抜群なのかも……なんて。えへへ」=
-//「そうだね。[H名]からの球、すごく返しやすかったよ」=
-//「私の方こそ、だよ！　君が打ち返しやすいところに打ってくれてるの、すごく伝わってきたもん」=
-//「なんていうか……大切にされてるなぁって気がして……君のそういうところ、本当に好きだなぁ……なんて思ったよ♪」=
+「卓球台があるよ。ちょっとやっていかない？」=“There's a ping pong table here. Wanna give it a try?”
+「よーし、頑張ってみるよ！　でも私、こういうの苦手だから、上手にできるかなぁ……」=“Alright~, I'll do my best! But, I'm not really good at this stuff though, do you think I'll do well?...”
+「だったらさ、勝負じゃなくて、何回ラリーを続けられるか挑戦しよう。それなら楽しくない？」=“In that case, let's just try to keep a rally going, instead of having a match. Wouldn't that be fine?”
+「あ……うんっ！　だったら協力ゲームって感じで楽しいかも！」=“Ah... yeah--! That might be fun, since it'll be more like we're on the same team!”
+「でしょ？　それじゃ早速やってみよう！」=“Right? Let's get to it then!”
+「あーっ、失敗しちゃった！　ごめんね！」=“Ah--, I messed up! I'm sorry!”
+「大丈夫大丈夫！　でも今のラリーはいい感じだったんじゃない？」=“It's fine, it's fine! Didn't we keep it going pretty long there though?”
+「うん、最初に想像していたよりもずいぶん長く続けられたよ♪　私たち、もしかして相性抜群なのかも……なんて。えへへ」=“Yeah, it went on much longer than I thought it would at first♪ We might be a dream team together... Heh. Eheheh~”
+「そうだね。[H名]からの球、すごく返しやすかったよ」=“Maybe. It was definitely very easy to parry back the hits you served to me.”
+「私の方こそ、だよ！　君が打ち返しやすいところに打ってくれてるの、すごく伝わってきたもん」=“I should be saying that! I could tell, you know, that you were hitting them into spots that I could easily hit back.”
+「なんていうか……大切にされてるなぁって気がして……君のそういうところ、本当に好きだなぁ……なんて思ったよ♪」=“It made me... feel super treasured... it really made me realize... just how much I love you♪”
 「[H名]……」=“[H名]...”
-//「さ、さーてとっ！　それじゃもう一回挑戦しよ♪　君からどうぞ」=
-//「うん、もっと長く続けられるように頑張ろう！」=
+「さ、さーてとっ！　それじゃもう一回挑戦しよ♪　君からどうぞ」=“N-Now then--! Let's go for another one♪ You can start~.”
+「うん、もっと長く続けられるように頑張ろう！」=“Okay, let's do our best to keep it going longer this time!”
