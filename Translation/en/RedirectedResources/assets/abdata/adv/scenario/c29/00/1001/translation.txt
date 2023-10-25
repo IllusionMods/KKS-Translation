@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここで少し涼んでいかない？」=
-//「それにしても、暑いねぇ」=
-//「そうですね。ここへ来てから、ずっと汗をかき続けている様な気がします」=
-//「……汗は、身体を冷やすためにかくんですよね？」=
-「そうだね」=“I know.”
-//「冷えていますか？　私は全然冷えているように感じません」=
-//「はは……汗が乾く時に、熱が奪われるはずなんだけど……俺も暑いままだよ」=
-//「やはりそうですか…………ふぅ、暑い……」=
-//「…………あ、でも、いい風吹いてるよ」=
-//「はい……うちわは要らなかったかもしれませんね」=
-//「うちわを扇ぐ労力で、汗かいたりするからね」=
-//「物語に出てくる王様みたいに、付き人に扇がせる……みたいなことをすれば、その問題は解決しそうです」=
-//「俺がしてあげようか？」=
-//「えっと……今のは冗談ですよ？　実際にやっていただきたいわけではありません」=
-//「いいからいいから」=
-//「あなたがそこまで仰るのでしたら、別の機会にお願いします」=
-//「別の機会？」=
-//「冷房の効いた空間で、扇風機が回っている時です」=
-//「それなら、あなたにそれほど労力を求めず涼しくなると思いますので」=
+「ここで少し涼んでいかない？」=“Wanna cool off here a bit?”
+「それにしても、暑いねぇ」=“Still, it's pretty damn hot, huh?”
+「そうですね。ここへ来てから、ずっと汗をかき続けている様な気がします」=“Indeed. I feel as though I've been sweating non stop ever since we arrived to this island.”
+「……汗は、身体を冷やすためにかくんですよね？」=“...We sweat to cool down our bodies, don't we?”
+「そうだね」=“Yeah.”
+「冷えていますか？　私は全然冷えているように感じません」=“Do you feel any cooler? I do not.”
+「はは……汗が乾く時に、熱が奪われるはずなんだけど……俺も暑いままだよ」=“Hahah... the water's supposed to take away the heat when it evaporates too... and yet I'm burning up here too.”
+「やはりそうですか…………ふぅ、暑い……」=“So it's not just me... fuuh, so hot...”
+「…………あ、でも、いい風吹いてるよ」=“...Ah, but, there's a really nice breeze flowing.”
+「はい……うちわは要らなかったかもしれませんね」=“Yes... I suppose we didn't need this fan in the end.”
+「うちわを扇ぐ労力で、汗かいたりするからね」=“Especially since using the fan would just make you sweat even more.”
+「物語に出てくる王様みたいに、付き人に扇がせる……みたいなことをすれば、その問題は解決しそうです」=“If you find yourself an attendent like a prince from a story and... have them fan you, I feel that that would solve that problem.”
+「俺がしてあげようか？」=“Want me to do it for you then?”
+「えっと……今のは冗談ですよ？　実際にやっていただきたいわけではありません」=“Erhm... that was a joke, you know? It's not as if I want to actually do it.”
+「いいからいいから」=“It's fine, it's fine, give it here.”
+「あなたがそこまで仰るのでしたら、別の機会にお願いします」=“If you insist on it so much, then please do it another time.”
+「別の機会？」=“Another time?”
+「冷房の効いた空間で、扇風機が回っている時です」=“When we're somewhere with the air conditioner on and an electric fan as well.”
+「それなら、あなたにそれほど労力を求めず涼しくなると思いますので」=“Since there you'd be able to do it without having to work too needlessly hard for me.”

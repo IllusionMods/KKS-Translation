@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……どうでしょう？」=
-//「おぉ、上手く出来てるなぁ……俺は全然だよ……」=
-//「そうですか？　私は味があっていいと思いますよ？」=
-//「そ、そうかな……よし、もう少しチャレンジしてみよう」=
-//「はい、では私ももう一つ作ってみます」=
+「……どうでしょう？」=“...What do you think?”
+「おぉ、上手く出来てるなぁ……俺は全然だよ……」=“Ooh, that's pretty darn good... unlike mine...”
+「そうですか？　私は味があっていいと思いますよ？」=“Is that so? I personally think it's quite charming, you know?”
+「そ、そうかな……よし、もう少しチャレンジしてみよう」=“Y-You think?... Alright, guess I'll keep at it.”
+「はい、では私ももう一つ作ってみます」=“Yes, I shall try making another myself.”

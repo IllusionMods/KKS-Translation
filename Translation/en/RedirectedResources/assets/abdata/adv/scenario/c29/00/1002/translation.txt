@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねえ、卓球で勝負しない？」=
-//「なんというか……結構ハードだね」=
-//「……申し訳ありません。なんだかイメージ通りに動けませんでした」=
-//「いやいや！　空振り率が低いのはいいことだよ！」=
-//「……ですが、卓球はホームランを競う競技ではないですよね？」=
-//「それなのに、私は豪快にボールを飛ばしてばかりで……」=
-//「気にしないで！　スリリングで楽しかったよ」=
-//「すみません、卓球に慣れていなくて……これが野球ならよかったんですけど」=
-//「野球、やったことあるの」=
-//「いいえ、まったく」=
-//「そ、そう……まあ、ともかく、せっかくだしもう一勝負してみる？」=
-//「はい……あなたが楽しいのであれば、続けましょう」=
-//「めっちゃ楽しいよ。よし、それじゃ行くよ？」=
+「ねえ、卓球で勝負しない？」=“Hey, wanna go for a round of ping pong?”
+「なんというか……結構ハードだね」=“Hmm, how do I... it is a pretty hard game, isn't it?”
+「……申し訳ありません。なんだかイメージ通りに動けませんでした」=“...I have no excuses. I couldn't move my body as I thought to in my head.”
+「いやいや！　空振り率が低いのはいいことだよ！」=“No no! You didn't miss much, and that's what counts!”
+「……ですが、卓球はホームランを競う競技ではないですよね？」=“...However, table tennis is not a game about making home runs, is it?”
+「それなのに、私は豪快にボールを飛ばしてばかりで……」=“Yet, I just kept heartily making the ball fly beyond...”
+「気にしないで！　スリリングで楽しかったよ」=“Don't mind it! It was thrilling and fun.”
+「すみません、卓球に慣れていなくて……これが野球ならよかったんですけど」=“I'm very sorry, I'm just not much of a table tennis player... if only it were baseball.”
+「野球、やったことあるの」=“You've played baseball before?”
+「いいえ、まったく」=“No, not at all.”
+「そ、そう……まあ、ともかく、せっかくだしもう一勝負してみる？」=“I-I see... well, either way, wanna go for another round? We might as well.”
+「はい……あなたが楽しいのであれば、続けましょう」=“Yes... if this is still enjoyable for you, then let's continue.”
+「めっちゃ楽しいよ。よし、それじゃ行くよ？」=“It's super enjoyable. Alright, here I come, alright?”

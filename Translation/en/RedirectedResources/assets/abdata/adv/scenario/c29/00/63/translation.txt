@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ありがとうございます。お陰様で、肌がすべすべです」=
-//「ありがとうございました、とても気持ちよかったです」=
-//「沢山塗っていただき、ありがとうございます」=
-//「あら、都合が悪かったのであれば仕方ありません……」=
+「ありがとうございます。お陰様で、肌がすべすべです」=“Thank you very much. Thanks to you, my skin feels very smooth indeed.”
+「ありがとうございました、とても気持ちよかったです」=“Thank you very much. That felt wonderful.”
+「沢山塗っていただき、ありがとうございます」=“Thank you very much, for rubbing so much oil onto me.”
+「あら、都合が悪かったのであれば仕方ありません……」=“Oh my, if it's inconvenient for you then it cannot be helped...”

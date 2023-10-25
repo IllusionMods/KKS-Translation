@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この滝はパワースポットとしても有名みたいですね」=
-//「そうみたいだね。確かに、どこか力強さを感じるよ」=
-//「ここで力を貰って、いろいろな事に活かしていければいいですね」=
-//「いろいろな事？」=
-//「はい。……主に、あなたとの活動の力になれば、と思っています」=
-//「ふむ……そしたら、いっぱい力を貰っていかなきゃ、かな？」=
+「この滝はパワースポットとしても有名みたいですね」=“Seems that this waterfall is quite famous as a power spot, huh?”
+「そうみたいだね。確かに、どこか力強さを感じるよ」=“Seems like it, yeah. I do feel power from somewhere, for sure.”
+「ここで力を貰って、いろいろな事に活かしていければいいですね」=“If we could receive some of it's power, and make use of it in various ways, that would be quite nice, wouldn't it?”
+「いろいろな事？」=“Various ways?”
+「はい。……主に、あなたとの活動の力になれば、と思っています」=“Yes. ...In my case, mainly helping me help you do whatever it is you need.”
+「ふむ……そしたら、いっぱい力を貰っていかなきゃ、かな？」=“Hmm... in that case, we're gonna need to receive a lot of power, I guess?”

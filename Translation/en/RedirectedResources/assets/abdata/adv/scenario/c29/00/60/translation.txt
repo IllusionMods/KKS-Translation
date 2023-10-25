@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「あの、いらっしゃいますか……？」=
-SELECTION:「返事をする」=Respond
+「あの、いらっしゃいますか……？」=“Uhm, are you in...?”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「いるよ。ほら、入って」=
-//「お邪魔します……」=
-//「その、どうしてもあなたを感じたくなってしまい……はしたない女で、すみません……」=
-//「……留守、ですか……どこへ行ったのでしょう……」=
+「いるよ。ほら、入って」=“I am. C'mon, come inside.”
+「お邪魔します……」=“Do excuse me...”
+「その、どうしてもあなたを感じたくなってしまい……はしたない女で、すみません……」=“Uhm, I just couldn't help but crave you... I'm very sorry, for being such a slut...”
+「……留守、ですか……どこへ行ったのでしょう……」=“...Not in, are you?... I wonder where you've gone...”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どう？　またオイル塗りしていく？」=
-//「はい。折角ですし、今回は前もお願いしたいです」=
-//「前、となると、いろいろ触っちゃうことになりそうだけど……」=
-//「もちろんあなただから、ですが……あまり過度な事はしちゃダメですからね……？」=
+「どう？　またオイル塗りしていく？」=“How about it? Want me to put oil on you again?”
+「はい。折角ですし、今回は前もお願いしたいです」=“Yes. Since we're here, please do the front as well.”
+「前、となると、いろいろ触っちゃうことになりそうだけど……」=“That's gonna end up with me touching you all over in various places though...”
+「もちろんあなただから、ですが……あまり過度な事はしちゃダメですからね……？」=“Of course, that's exactly why I'm asking you, however... please try not to go too overboard, alright...?”

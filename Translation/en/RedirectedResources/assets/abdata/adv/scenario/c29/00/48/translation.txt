@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういった場所で食べる料理こそ、本当の地元料理という感じがしますよね」=
-//「うん、その分、なかなか特徴的なのも多そうだけど……」=
-//「そういった物に挑戦してみるのも醍醐味だと思いますよ？」=
-//「んー、それもそうだね。よし、頼んでみるか」=
+「こういった場所で食べる料理こそ、本当の地元料理という感じがしますよね」=“The food that you get in places like these has the most local feel to it, doesn't it?”
+「うん、その分、なかなか特徴的なのも多そうだけど……」=“Yeah, but it's just that much more 'unique' too, you know...”
+「そういった物に挑戦してみるのも醍醐味だと思いますよ？」=“I quite think that's part of the very charm of it all though?”
+「んー、それもそうだね。よし、頼んでみるか」=“Nnn, you're not wrong. Alright, guess I'll order something.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ごちそうさまでした、あなたと一緒に食べれてよかったと思います」=
+「ごちそうさまでした、あなたと一緒に食べれてよかったと思います」=“That was very good, I'm very happy I got to eat that with you today.”

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういった所だと、普段食べ慣れているものが出てきて安心しますね」=
-//「そうだね、食の安心ってほんと大事だと思うなぁ」=
-//「見知らぬ旅行先でそういった食べ物に出会えると、特段美味しいものよりも感動することもあったりしますね」=
+「こういった所だと、普段食べ慣れているものが出てきて安心しますね」=“Seeing dishes you're more used to eating in places like these truly does feel relaxing, doesn't it?”
+「そうだね、食の安心ってほんと大事だと思うなぁ」=“Yeah, I think that's really important too, being able to eat stuff you're used to.”
+「見知らぬ旅行先でそういった食べ物に出会えると、特段美味しいものよりも感動することもあったりしますね」=“Seeing food of this sort in an unknown place can sometimes feel infinitely more fulfilling than much more 'delicious' local food, indeed.”

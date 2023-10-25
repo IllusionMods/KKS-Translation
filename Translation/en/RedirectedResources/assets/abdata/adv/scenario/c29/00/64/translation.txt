@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ、気持ちよすぎて、いろいろと高ぶってしまうところでした……」=
-//「ふふっ、あなたの手、とても気持ちよかったですよ？」=
-//「ありがとうございます、次回もまたよろしくお願いしますね」=
-//「あなたに触れてほしかったのですが……残念です」=
+「はぁ、気持ちよすぎて、いろいろと高ぶってしまうところでした……」=“Haah, it felt so good, I almost felt myself getting excited in certain ways...”
+「ふふっ、あなたの手、とても気持ちよかったですよ？」=“Fufuh--, your hands felt very, very wonderful, you know?”
+「ありがとうございます、次回もまたよろしくお願いしますね」=“Thank you very much. Please do it the next time as well, alright?”
+「あなたに触れてほしかったのですが……残念です」=“I really wanted to feel your touch though... such a shame.”
