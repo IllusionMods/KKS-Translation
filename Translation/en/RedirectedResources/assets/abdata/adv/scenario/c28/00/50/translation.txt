@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さてと、お主は何にするかの？」=
-//「んー……じゃあこれにしようかな？」=
-//「ふむ、ならわしも同じものを頼もう」=
-//「あれ、違うのじゃなくてもいいの？」=
-//「うむ、恋人として、お主の見るもの聞くもの食べるもの……いろんな感覚を共有したいのじゃ」=
-//「そっか、そうだね……注文したものが当たりだといいなぁ……」=
-//「まぁ外れたら外れたで、お主と同じ苦しみを味わうというのも一興じゃと思うぞ……？」=
+「さてと、お主は何にするかの？」=“Now then, what shall you be getting?”
+「んー……じゃあこれにしようかな？」=“Nnn... maybe this?”
+「ふむ、ならわしも同じものを頼もう」=“Hmm, I shall go for the same then.”
+「あれ、違うのじゃなくてもいいの？」=“Huh, you sure? Thought you'd go for something different.”
+「うむ、恋人として、お主の見るもの聞くもの食べるもの……いろんな感覚を共有したいのじゃ」=“Umu, as your lover, I would like for us to share in all experiences... whether it's seeing the same things, listening to the same things or eating the same things.”
+「そっか、そうだね……注文したものが当たりだといいなぁ……」=“I see, of course... well I hope it's something tasty and not...”
+「まぁ外れたら外れたで、お主と同じ苦しみを味わうというのも一興じゃと思うぞ……？」=“Well, if it's awful then it's awful, either way it'll be an experience, and I do not mind sharing the same suffering as you, you know...?”

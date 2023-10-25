@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そうか、ついにこの時が来たのじゃな……もとより覚悟の上じゃ」=
-//「それは……いいって事なのかな……？」=
-//「うむ、わしとお主は恋人同士。肌を重ね合うこともあろうて」=
-//「じゃが、何分わしは初心じゃから……わかっておる、よな……？」=
+「そうか、ついにこの時が来たのじゃな……もとより覚悟の上じゃ」=“I see, so the time has finally come, huh... I have already been prepared for this, from the first.”
+「それは……いいって事なのかな……？」=“Is that... a yes...?”
+「うむ、わしとお主は恋人同士。肌を重ね合うこともあろうて」=“Umu, we are lovers. It is only natural for us to do this.”
+「じゃが、何分わしは初心じゃから……わかっておる、よな……？」=“However, that does not change the fact that I am a novice at this... you understand, what I mean, right...?”

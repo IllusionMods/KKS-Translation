@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふむ、ここで遊具を借りて遊ぶ、という事なのじゃな？」=
-//「うん、何かやってみたいものとかある？」=
-//「うーむそうじゃなぁ……これなんかどうじゃ？」=
-//「面白そうだね。試しにやってみよっか？」=
-//「うむ。何事も試す事は大事なのじゃ」=
+「ふむ、ここで遊具を借りて遊ぶ、という事なのじゃな？」=“Hmm, so we rent something out here and have fun using it, huh?”
+「うん、何かやってみたいものとかある？」=“Yeah, is there anything you wanna try?”
+「うーむそうじゃなぁ……これなんかどうじゃ？」=“Mmmm, let's see... how about this?”
+「面白そうだね。試しにやってみよっか？」=“That looks pretty interesting. Wanna give it a try?”
+「うむ。何事も試す事は大事なのじゃ」=“Umu. Everything must be tried atleast once.”

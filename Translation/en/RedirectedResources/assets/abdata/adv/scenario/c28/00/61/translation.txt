@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「む、ここで何をするのじゃ？」=
-//「ここではエステ体験が出来るみたいだね。オイルもご自由に、だって」=
-//「ふむ、スタッフがおらんという事は……」=
-//「[H名]がいいなら俺が塗ってあげるけど……どうする？」=
-//「まぁ折角じゃし、お主に頼もうとするかの。じゃが、おかしなとこを触ったら承知せんからな……？」=
+「む、ここで何をするのじゃ？」=“Muh, what is this place for?”
+「ここではエステ体験が出来るみたいだね。オイルもご自由に、だって」=“Seems like it's for some sort of a beauty experience. Says here that we can use the oil freely.”
+「ふむ、スタッフがおらんという事は……」=“Hmm, the fact that there is no staff means...”
+「[H名]がいいなら俺が塗ってあげるけど……どうする？」=“If you're fine with it then I don't mind rubbing it on you... how about it?”
+「まぁ折角じゃし、お主に頼もうとするかの。じゃが、おかしなとこを触ったら承知せんからな……？」=“Well, we're here so I suppose I might as well have you do it. However, touch my anywhere strange and there will be hell to pay, understand...>”

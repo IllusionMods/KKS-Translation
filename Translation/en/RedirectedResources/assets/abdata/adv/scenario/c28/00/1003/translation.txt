@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お土産を探してみようよ」=
-//「へぇ、夏らしいの見つけたねー」=
-//「む？　うむ、夏らしいといえばそうかもしれないのじゃ」=
-//「それ気に入ったんじゃないの？」=
-//「気に入ったというか……まぁ、目についたと言えなくもないのじゃ」=
-//「なら、買っちゃえば？　思い出にもなるだろうし」=
-//「お主のようにそうパッパッと判断できればよいのかもしれぬが……」=
-//「何か引っかかるの？　めっちゃ高額とか」=
-//「そういわけでなくてな……その、なんじゃ……」=
-//「……わしにこういうハイカラなものは似合わないかもしれぬ、と思っての」=
-//「なんだ、そんなこと？　[H名]は可愛いから何を着たって似合うよ」=
-//「かわっ、お、お主……！」=
-//「そう思ってなかったらお付き合いしてないから」=
-//「そうかもしれぬが……」=
-//「あはは。それで、どうするのそれ？　なんなら俺がプレゼントしようか」=
-//「よ、よい！　自分で買うのじゃ」=
+「お土産を探してみようよ」=“Let's go look for some souvenirs.”
+「へぇ、夏らしいの見つけたねー」=“Heh, that's a very summer thing you've found~”
+「む？　うむ、夏らしいといえばそうかもしれないのじゃ」=“Muh? Umu, I suppose it might be.”
+「それ気に入ったんじゃないの？」=“Hm? Didn't you pick that up because you like it?”
+「気に入ったというか……まぁ、目についたと言えなくもないのじゃ」=“I won't say that... but well, it did catch my eye I suppose.”
+「なら、買っちゃえば？　思い出にもなるだろうし」=“Why not buy it then? It'll make for a memory, if nothing.”
+「お主のようにそうパッパッと判断できればよいのかもしれぬが……」=“It'd be great if I could just decide things in seconds like you do...”
+「何か引っかかるの？　めっちゃ高額とか」=“Something holding you back? Is it mind bogglingly expensive or something?”
+「そういわけでなくてな……その、なんじゃ……」=“It isn't that, you see... it's erhm, you know...”
+「……わしにこういうハイカラなものは似合わないかもしれぬ、と思っての」=“...I do wonder if something so trendy and fashionable would fit me.”
+「なんだ、そんなこと？　[H名]は可愛いから何を着たって似合うよ」=“What, that's it? You're adorable so no matter what you wear it'll fit you, in my opinion.”
+「かわっ、お、お主……！」=“Ado--, y-you...!”
+「そう思ってなかったらお付き合いしてないから」=“I wouldn't be dating you if you weren't adorable to me.”
+「そうかもしれぬが……」=“You have a point, however...”
+「あはは。それで、どうするのそれ？　なんなら俺がプレゼントしようか」=“Ahahah. So then, gonna buy that or what? If not, maybe I'll gift it to you myself.”
+「よ、よい！　自分で買うのじゃ」=“I-It's fine! I shall buy it myself.”

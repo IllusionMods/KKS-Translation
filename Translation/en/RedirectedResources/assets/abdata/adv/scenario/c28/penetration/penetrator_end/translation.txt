@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「今日は仲間に入れてくれてありがとう……なのじゃ。……楽しかったのじゃ」=
+「今日は仲間に入れてくれてありがとう……なのじゃ。……楽しかったのじゃ」=“Thank you, for letting me join in today... I had a lot of fun.”

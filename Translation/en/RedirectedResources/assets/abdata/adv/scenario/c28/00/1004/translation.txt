@@ -1,22 +1,22 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ねぇ、ちょっと浜辺を散歩して行こうか？」=
-//「嬉しい申し出じゃな。勿論、付き合うのじゃ」=
-//「…………ほふぅ」=
-//「[H名]って海が好きなんだね」=
-//「む？　嫌いではないが、お主からもそう見えたのじゃ？」=
-//「うっとりしてたよ？　ほふーって」=
-//「ほふーはさすがに気を抜きすぎじゃろう？　それは言ってなかったはずじゃが……」=
-//（言ってた……）=
-//「こうして波の音を聞きながら、愛するお主とゆったりと浜辺を歩いているのじゃぞ？」=
-//「心満たされ、思わず笑みがこぼれてしまうのも不思議ではないはずじゃ」=
-//「なるほど、むふーも出るか」=
-//「むふーもほふーも言っておらんぞ」=
-//「あはは」=
-//「茶化すでない。今は……そう、こうしてお主も耳を澄ましてみるのじゃ……」=
-//「騒がしいくらいじゃろう？　この海は命で溢れているのじゃ」=
-//「う、うん、そうかも？」=
-//「こうしていると、身も心もこの雄大な海とひとつになるかのようじゃ……お主もそう思わぬか？」=
-//「……むふー」=
-//（大人っぽいんだか子供っぽいんだか……）=
+「ねぇ、ちょっと浜辺を散歩して行こうか？」=“Hey, let's go take a walk down the beach?”
+「嬉しい申し出じゃな。勿論、付き合うのじゃ」=“What a welcome offer. Of course, I shan't say no.”
+「…………ほふぅ」=“...Hofuh~”
+「[H名]って海が好きなんだね」=“You really like the sea, huh?”
+「む？　嫌いではないが、お主からもそう見えたのじゃ？」=“Muh? I won't say I hate it but, is that how it seems to you?”
+「うっとりしてたよ？　ほふーって」=“You were staring at it real hard, you know? Even went "Hofuh~".”
+「ほふーはさすがに気を抜きすぎじゃろう？　それは言ってなかったはずじゃが……」=“Surely not? Even I would not let my mind wander to that degree...”
+（言ってた……）=(But I heard it...)
+「こうして波の音を聞きながら、愛するお主とゆったりと浜辺を歩いているのじゃぞ？」=“Right now, I am savouring this leisurely walking with the man I love while listening to the sound of the waves, you know?”
+「心満たされ、思わず笑みがこぼれてしまうのも不思議ではないはずじゃ」=“Breaking a smile unawares in such circumstances should not be too far fetched.”
+「なるほど、むふーも出るか」=“I see. Incidentally, do you also go "mufuu~"?”
+「むふーもほふーも言っておらんぞ」=“I go neither "mufuu~" nor "hofuh~".”
+「あはは」=“Ahahah.”
+「茶化すでない。今は……そう、こうしてお主も耳を澄ましてみるのじゃ……」=“Do not tease me. Right now, you should be... yes, you should be straining your ears and listening to it yourself as well...”
+「騒がしいくらいじゃろう？　この海は命で溢れているのじゃ」=“It is almost too noisy, is it not? This sea is full of life.”
+「う、うん、そうかも？」=“Y-Yeah, I guess?”
+「こうしていると、身も心もこの雄大な海とひとつになるかのようじゃ……お主もそう思わぬか？」=“Looking at it like this, I almost feel my body and soul becoming one with the sea... do you not feel the same?”
+「……むふー」=“...Mufuu~”
+（大人っぽいんだか子供っぽいんだか……）=(I can't tell whether she's mature or a kid in a big shell...)

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふー、良い具合に仕上がってきたの。完成が楽しみじゃ」=
+「ふー、良い具合に仕上がってきたの。完成が楽しみじゃ」=“Fuuh, that came out quite well indeed. I cannot wait to see what it'll look like after baking.”
