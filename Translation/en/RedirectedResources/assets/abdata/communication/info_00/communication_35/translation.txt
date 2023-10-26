@@ -264,7 +264,7 @@
 「ちょっと付いてきて」=“Come with me for a bit.”
 「あはは、突然どーしたと？」=“Ahaha, what's the matter, all of a sudden?”
 「わぁ、今は無理！　この後ちょっと用事があるっちゃもん！」=“Wah, I can't right now! I need to take care of something in a bit!”
-「もー、君、度胸ありすぎよ。ま、まぁ、私しかおらん時はいいけど……って、よくないよくない！　ここ女子トイレやから！」=“Jeez, you have quite the guts. W-Well, I suppose it's fine when I'm the only one here...--what am I saying, it's not fine, it's not fine at all! This is the girls' toilet afterall!”
+「もー、君、度胸ありすぎよ。ま、まぁ、私しかおらん時はいいけど……って、よくないよくない！　ここ女子トイレやから！」=“Jeez, you have quite the guts. W-Well, I suppose it's fine when I'm the only one here...--what am I saying, it's not fine, it's not fine at all! This is the girls' toilet after all!”
 「な、なんしようと！？　ここはいかんってば！　付き合っとる私まで変な目で見られるやん」=“W-What are you doing!? I told you, don't come in here! People will start looking at me weird too.”
 「わ、入ってきたん？　たまたま人がおらんけん、いいけど……それ、結構危ないとよ？　分かっとる？」=“Y-You came in? There's no one here right now, so I guess it's fine... But, you know this is really dangerous, right? Right?”
 「こんなところ、男の子が入ったらいかんよ。恋人として、きちんと正すけんね！」=“Boys shouldn't enter this place. As your girlfriend, I'll have to straighten you out!”
