@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「ここの鐘の伝説って知ってる？」=“Do you know the legend behind the bell here?”
-「うん、知ってるよー。有名だからねー。この鐘を二人で鳴らしたら……必ず結ばれるって……」=“Yep, I do~. It's really famous, afterall~. If we ring this bell together... we'll end up marrying in the future...”
+「うん、知ってるよー。有名だからねー。この鐘を二人で鳴らしたら……必ず結ばれるって……」=“Yep, I do~. It's really famous, after all~. If we ring this bell together... we'll end up marrying in the future...”
 「[H名]は……そういうの信じるタイプ？」=“Do you... believe in those sorts of things, [H名]?”
 「信じる方だねぇ。自分も女の子だし……おまじないとかは小さい頃からよくやってたさー」=“I do~. I'm a girl too in the end... I've always believed in things like charms and whatnot, even as a kid~”
 「でも、やっぱり男の子は……そういうのは馬鹿らしいって思う？」=“But, I guess you can't... help think of it as silly, since you're a boy?”
@@ -21,7 +21,7 @@
 「それ、俺も同じ感じ。やっぱり鐘を鳴らして良かったね」=“I feel the same thing. I'm glad we run that bell.”
 「だからよー。あ、ねぇ……キミがよければ、またここに来たいなぁ……」=“Exactly~. Ah, hey~... if it's okay with you, I wanna come here again sometime...”
 「もちろんいいよ。お互いの気持ちを確かめ合ういい機会になりそうだし」=“Of course, no problem. Would make for a good way for us to reconfirm our love for one another too.”
-「えへへ、ありがとう。でも、来る度にどんどんキミのことが好きになっていったら、大変なことになりそうだねぇ……」=“Eheheh, thanks. But, if I keep falling more and more in love with you everytime we come here, it's going to get out of hand sooner or later~...”
+「えへへ、ありがとう。でも、来る度にどんどんキミのことが好きになっていったら、大変なことになりそうだねぇ……」=“Eheheh, thanks. But, if I keep falling more and more in love with you every time we come here, it's going to get out of hand sooner or later~...”
 「はは、確かに。俺もそうなると思うから……ここでよくイチャついてるカップルとして有名になるかもね」=“Hahah, for sure. I'm pretty sure too that that's exactly how we'll end up... we might end up becoming known as that couple that flirts a lot next to the bell.”
 「えぇっ！？　そんな有名になるまで頻繁には来ないよー？　他の人に迷惑はかけたくないさー」=“Eeh--!? We're not coming here that often, okay~? I wouldn't want us to be a bother to others~”
 「いや、ここは愛を確かめ合う場所なんだし。迷惑どころか、俺達にあてられてみんなイチャつき始めるかもよ？」=“No, I mean, people come here to confirm their love for one another anyway. Forget being a bother, we might even give them an excuse to start flirting themselves, you know?”

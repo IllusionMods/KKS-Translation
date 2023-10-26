@@ -12,7 +12,7 @@
 「平和の象徴かぁ……そこまでは考えたことなかったなぁ」=“Symbol of world peace, huh... I've never really thought about it like that.”
 「はは、普通はそうだろう。我が少しひねくれているだけだ、気にすることはない」=“Hahah, normally you never would. I am simply a bit twisted inside, pay it no mind.”
 「でも、改めて考えてみると……男女が普通に愛し合えるって凄いことなんだろうね」=“But, now that I think about it... men and women being able to love each other like this is pretty amazing, for sure.”
-「ほう、この平和な世界でそう考えられるか。流石……我の見込んだ男だな」=“Hoh, you can think of it that way, even in a peaceful world like this, huh? Suppose it's only fitting... you are my man afterall.”
+「ほう、この平和な世界でそう考えられるか。流石……我の見込んだ男だな」=“Hoh, you can think of it that way, even in a peaceful world like this, huh? Suppose it's only fitting... you are my man after all.”
 「はは、恋人同士は似るっていうしね。[H名]の考え方がうつったのかも」=“Hahah, they do say you tend to take after your lover. Maybe your way of thinking's spreading to me.”
 「それはあるかもしれないな。我だって、貴殿に影響されて大分変わった」=“Possibly. I have changed quite a lot too, under your shadow.”
 「そうなの？　例えばどんなとこが？」=“Really? For example?”

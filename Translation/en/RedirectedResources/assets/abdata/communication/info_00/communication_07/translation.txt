@@ -333,7 +333,7 @@
 「処女の見分け方ってさ、知ってる？」=“Do you know how to tell if a girl's a virgin?”
 「し、知らねーよ！」=“L-Like hell I do!”
 「急にエッチしたいって思ったことある？」=“Have you ever felt the itch to have sex creep up on you out of nowhere?”
-「そりゃ……あるよ。お前のこと、好きだし」=“Well... of course. I love you, afterall.”
+「そりゃ……あるよ。お前のこと、好きだし」=“Well... of course. I love you, after all.”
 「ん～？　なぁんだよお～」=“Hm~? What is it~?”
 「こらーっ。見すぎだってーの……たく～」=“Hey--. You're staring too much... Jeez~”
 「そんなに見られたら、緊張して汗が出てくるぞ……」=“If you stare at me so much, I'm gonna start sweating from nervousness...”

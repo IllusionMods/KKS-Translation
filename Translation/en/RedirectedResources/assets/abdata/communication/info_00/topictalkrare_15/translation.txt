@@ -95,7 +95,7 @@
 「鐘を鳴らした二人は永遠に結ばれるってやつかー？　うーん」=“You mean that one bell that ties two people together forever if rung? Nnn.”
 「……そんなことで簡単に叶ったら苦労しないぞ！」=“...If it was that easy to make things like that come true, then things wouldn't be so damn hard!”
 「言っちゃった」=“For sure.”
-「でも、一緒に鳴らすのはいいと思うぞ。願いを叶えるのは人間だからなー」=“But, I think it's a good thing to do it anyway. The ones who can make that wish come true are the people involved, afterall.”
+「でも、一緒に鳴らすのはいいと思うぞ。願いを叶えるのは人間だからなー」=“But, I think it's a good thing to do it anyway. The ones who can make that wish come true are the people involved, after all.”
 「その試みが大事、ってことね？　それはわかる」=“So just the act in itself has value, huh? I can agree with that.”
 「男はどうしておっぱいが好きなんだと思う？」=“Why do you think boys love boobs so much?”
 「し、知らないけど……多分、ふかふかしてるからじゃないか？」=“I-I dunno, but... probably because of how soft and pliant they are, no?”
@@ -120,7 +120,7 @@
 「初めて結ばれた時のこと、思い出しちゃうよね」=“It's hard not to think back to the first time we became one, isn't it?”
 「そ、そんな言い方するってことは……今も思い出しちゃってるのかー？」=“T-The way you said that... are you thinking of it even now?”
 「うん。正直、ふとした瞬間に過っちゃうなぁ」=“Yep. Honestly, my train of thought ends up going there out of nowhere.”
-「うぅ……聞きたくなかった……キミと話してる時に意識ちゃうぞー」=“Uuu... I shouldn't have asked... now I'm gonna end up being conscious of it everytime we talk.”
+「うぅ……聞きたくなかった……キミと話してる時に意識ちゃうぞー」=“Uuu... I shouldn't have asked... now I'm gonna end up being conscious of it every time we talk.”
 「いや、いつも思い出してるわけじゃないよ？　そこまで脳内真っピンクじゃないから」=“No, it's not like I think of it 24/7, you know? The insides of my head aren't that completely pink.”
 「本当かー？　今のキミはだいぶ疑わしいことを自覚してないんじゃないかー？」=“You sure~? You're not making for a very good case, you know~? Don't you realize that?”
 「じゃあ、証明する為にエッチな話は控えるよ」=“In that case, to prove it, I'll stop talking about lewd stuff from now on.”

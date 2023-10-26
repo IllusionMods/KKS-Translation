@@ -124,7 +124,7 @@
 「ちょうどお腹も空いてたし、ご一緒するわ」=“I was just feeling a bit hungry, so might as well.”
 「ごめんね、今は空いてないの」=“Sorry, I'm not all that hungry.”
 「ちょっと、一緒に来てくれる？」=“Hey, could you cum with me for a bit?”
-「いいわよ。あなたと歩くのは退屈しないしね」=“Sure. It's never boring to walk together with you, afterall.”
+「いいわよ。あなたと歩くのは退屈しないしね」=“Sure. It's never boring to walk together with you, after all.”
 「人と待ち合わせしてるの……ごめんね」=“I'm waiting on someone... I'm sorry.”
 「きゃっ……わ、私じゃなかったら大事件よ、もう……ほら出て……」=“Kyah--... i-if it was someone else here, it'd have been a real big incident, jeez... c'mon, leave...”
 「ち、ちょっと、どうしてここに居るの……早く出なさいったら」=“H-Hey, why are you in here... leave already, blockhead.”
@@ -316,7 +316,7 @@
 「そ、それは無理よ！　私には出来ないわ」=“I-I can't! I just can't.”
 「世界で一番愛してる！」=“I love the most in the world!”
 「も、もうわかったから……恥ずかしいわ……！」=“I-I got it... it's embarrassing...!”
-「やっぱり、優しいセックスが好き？」=“Do you like gentle sex afterall?”
+「やっぱり、優しいセックスが好き？」=“Do you like gentle sex after all?”
 「……そ、そうね。あなたの愛を感じられるから、好きよ……」=“...Y-Yes. I love it, since I can feel clearly just how much you love me...”
 「そ、そんなこと……どうどうと訊かないでちょうだい……」=“D-Don't ask me that... so openly...”
 「自分は感じやすいタイプだと思う？」=“Do you think you're more sensitive than average? Physically.”

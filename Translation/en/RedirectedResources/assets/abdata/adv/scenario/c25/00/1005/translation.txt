@@ -12,7 +12,7 @@
 「他人事？」=“You're talking as if you're not the one here.”
 「……もちろん、これは私の主観で言ってるんだけど～」=“...Of course, I'm talking about it from my own point of view~”
 「ここにいる私が私じゃないみたいだな～、っていうのは思っちゃってるかも」=“But I guess the me that's here right now does kinda not feel like me~”
-「柄じゃないからね～、こういうの」=“It's not really the type of thing I'd do~, afterall.”
+「柄じゃないからね～、こういうの」=“It's not really the type of thing I'd do~, after all.”
 「そこまで[H名]が浮世離れしてるイメージないんだけど……」=“You don't really feel that detached from the world though, to me...”
 「そりゃ、至って普通の人間なんだから。ノリを周りにあわせるくらいはできるけど～」=“Well, yeah. I'm still a human at the end of the day. I can atleast try to go along with everyone else's flow~”
 「そうじゃなくて、うーん……伝わらないかなぁ～」=“That's not it really, nnn... How can I say it~”

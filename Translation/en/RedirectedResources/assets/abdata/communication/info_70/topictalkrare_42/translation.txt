@@ -27,7 +27,7 @@
 「そっかぁ。私、できたらモフモフとかしたいんだけど……やっぱり無理かなー？」=“I see~. I'd wanna just stroke it and fluff it up but... I guess that's not gonna happen~?”
 「ちょっと難しいかもね。よほど人に慣れていれば別だと思うけど……」=“Would be pretty difficult. I mean I do think if they got used to being around people, it'd probably turn out differently...”
 「よーし、じゃあ見かけたらチャレンジしてみるよ！」=“Alright~, I'll try going for it if I come across one!”
-「もしかしたら撫でるのを許してくれるかもしれないしねっ」=“It might lemme stroke its head, afterall--”
+「もしかしたら撫でるのを許してくれるかもしれないしねっ」=“It might lemme stroke its head, after all--”
 「流れ星で思い出したんだけど、いろんな伝承が世界中にあるみたいだね」=“Seeing a shooting star reminded me, there's all sorts of legends in the world, aren't there?”
 「願いごとをすると、それが叶うって奴かな？」=“You mean stuff like how if you wish upon a shooting star, it'll come true?”
 「それもそうだけど、もっと神話的なものとか……」=“That too but, I was talking about more mythical stuff...”
@@ -47,7 +47,7 @@
 「あはは、心配性だなぁ。でも、ありがと。気をつけるねー」=“Ahahah, you're such a worrywart~. But, thanks. I'll be careful, okay~?”
 「そういえば……ときどき鳥の巣を見守ってたんだけど、ようやく雛が孵ったんだよ」=“Reminds me... there's this birds nest that I check over anytime I get the chance, and just the other day it had a little chick hatch in it.”
 「ええーっ、雛が？　すごいねー！」=“Eeeh~, a chick? That's amazing~!”
-「やっぱり、産まれて間もない雛って小っちゃいのかな？」=“Is a newborn chick really tiny afterall~?”
+「やっぱり、産まれて間もない雛って小っちゃいのかな？」=“Is a newborn chick really tiny after all~?”
 「手のひらには簡単に乗せられそうなサイズではあったね」=“I can tell you that it was definitely small enough for me to carry around on my palm.”
 「わぁ、可愛いー！　手のひらに乗せて撫で回したいなー」=“Wah, so cute~! I wanna let it ride on mine, and maybe stroke it~”
 「可愛いけど、野生の生き物だからね。そっとしておいた方がいいと思うよ」=“They're definitely cute but, they're still wild, you know? I think it'd be best if we just left them alone.”

@@ -8,7 +8,7 @@
 「海と陸、どっちで遊びたい？」=“Between the land and the sea, where do you wanna do stuff more?”
 「陸もいいけど、やっぱり海ですな。南国のビーチを満喫したいですぞ」=“The land's great too but, gotta be the sea for me. I wanna enjoy this southern beach thoroughly.”
 「この島は、普通に歩いてるだけでもレジャー感があるよね」=“Even just walking around the place makes you feel like you're doing something special, doesn't it?”
-「観光地ですからな。目に見える景色すべてがレジャーみたいなものですぞ」=“It's a tourist area, afterall. Everything you can lay eyes on is something you can enjoy.”
+「観光地ですからな。目に見える景色すべてがレジャーみたいなものですぞ」=“It's a tourist area, after all. Everything you can lay eyes on is something you can enjoy.”
 「体を激しく動かす系のアクティビティは大丈夫？」=“Are you okay with the more physically exerting activities?”
 「大丈夫、かなぁ……でも、やってみたら絶対楽しいとおもうんだなぁ」=“I, don't know... but, I'm sure I'd enjoy them anyway~”
 「遊びの事ばっかりに夢中になって、研修が出来そうにないね」=“Feels like the research's gonna end up taking a backseat to us just enjoying ourselves, isn't it?”
@@ -19,7 +19,7 @@
 「自然が多いですからな。木には空気を綺麗にする効果があるらしいんだなぁ」=“That's because of all the nature. Seems that all the trees clean the air up for us.”
 「やっぱり南国なだけあって、見たことない植物がいっぱいだね」=“There's a whole lot of plants here that we don't usually see, aren't there? I guess that's the south for you.”
 「道に咲いてる花もトロピカルで、バカンス気分が満点だなぁ」=“Even the flowers on the side of the road are so tropical, it gives the entire place a vacation-y tint.”
-「これだけ自然に囲まれてるんだから、沢山の野生動物がいるんだろうな」=“I bet there's a whole lot of wild animals around, we're surrounded by so much nature afterall.”
+「これだけ自然に囲まれてるんだから、沢山の野生動物がいるんだろうな」=“I bet there's a whole lot of wild animals around, we're surrounded by so much nature after all.”
 「そうですな。ひょっとしたら新種の珍獣を発見できるかも知れませんぞ」=“Indeed. You never know, we could come across a rare, undiscovered species ourselves.”
 「こういう自然の多い場所には、精霊みたいな存在がいてもおかしくないよね」=“It wouldn't be all that weird for the spirits of the dead to be around here, would it? There's so much nature everywhere.”
 「木々に宿る精霊がいるらしいですからな。人間の尺度だけではわからない事もあると思うなぁ」=“I wouldn't be surprised, there's all sorts of ghosts out there, even those that live within forests. I do think there's stuff out there that we just can't measure yet.”

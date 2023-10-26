@@ -19,7 +19,7 @@
 「逆にあなたから見て私は、なにを考えてるように見えるかしら？」=“Let me ask you that, from your eyes, what do you think I seem to always be thinking?”
 「何って言われても困るわね。あと私は無言なわけじゃないわよ」=“I don't exactly have a good answer for you. Also, it's not like I'm always quiet.”
 「この島って、結構暑いね」=“This island's pretty hot, isn't it?”
-「南の島だもの。寒かったら異常気象だわ」=“It's the south afterall. It'd be weirder if it was cold.”
+「南の島だもの。寒かったら異常気象だわ」=“It's the south after all. It'd be weirder if it was cold.”
 「でも嫌な暑さじゃないわ。空気がカラっとしてるからかしら」=“But it doesn't feel bad. I wonder if it's because the air is so crisp?”
 「正直その話はしたくないから、違う話題にしてちょうだい」=“Honestly, I don't wanna talk about that, so ask something else.”
 「なにか最近面白かったことってある？」=“Seen anything interesting lately?”
@@ -154,7 +154,7 @@
 「占ってもらわなくても、がんばっていれば結果はついてくるわ」=“As long as you put in the effort, you'll get what you deserve, with or without a fortune to back it up.”
 「旅行って好き？」=“You like travelling?”
 「好きな方だと思うわ。知らない土地って刺激的だもの」=“I'd say so. Going somewhere unknown is pretty stimulating.”
-「まあ、嫌いじゃないわ。現にこの研修も楽しんでるし」=“Well, I don't hate it. I'm enjoying this trip a fair bit, afterall.”
+「まあ、嫌いじゃないわ。現にこの研修も楽しんでるし」=“Well, I don't hate it. I'm enjoying this trip a fair bit, after all.”
 「えっと、申し訳ないんだけど、違う話題にしない？」=“Erhm, I'm sorry but, could we talk about something else?”
 「そういえばこないだ船着き場で……」=“Reminds me, the other day, at the harbor...”
 「そうなの？　それは私も見てみたかったわね」=“That so? I'd have liked to see that too.”

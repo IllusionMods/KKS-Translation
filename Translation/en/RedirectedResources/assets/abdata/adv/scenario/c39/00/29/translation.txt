@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「そっか、キミも男の子だもんね……お部屋でただお喋りするだけじゃ、満足できないよねぇ……」=“I see, you're a boy too, afterall... just chatting at your room, isn't gonna be enough for you, is it~...”
+「そっか、キミも男の子だもんね……お部屋でただお喋りするだけじゃ、満足できないよねぇ……」=“I see, you're a boy too, after all... just chatting at your room, isn't gonna be enough for you, is it~...”
 「全然嫌とかじゃないよー。自分はキミの彼女なんだから……当然、そういうことも付き合うさー」=“It's not like I don't want to, not at all~. I'm your girlfriend... so of course, I'll do this too~”
 「でも……ちょっとだけ優しくしてくれると、嬉しいかなぁ……」=“But... it'd make me really happy, if you could be a little bit gentle, just a bit~...”

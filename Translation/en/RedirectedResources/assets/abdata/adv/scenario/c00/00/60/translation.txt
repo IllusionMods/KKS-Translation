@@ -7,4 +7,4 @@ SELECTION:「……」=...
 「大丈夫、まだ寝てないよ。こんな時間にどうしたの？」=“Don't worry, I'm still wide awake. What's gotten into you, so late at night?”
 「なんだか人肌が恋しくなって……だから君に会いに来たの」=“I just kinda started feeling really lonely... so I thought I'd come see you.”
 「ね、傍にいっていい？」=“Hey, can I stay over?”
-「……もう眠ってるみたいね。こんな時間だし、仕方ないか」=“...Seems like you did. It's pretty late afterall, I can't blame you.”
+「……もう眠ってるみたいね。こんな時間だし、仕方ないか」=“...Seems like you did. It's pretty late after all, I can't blame you.”

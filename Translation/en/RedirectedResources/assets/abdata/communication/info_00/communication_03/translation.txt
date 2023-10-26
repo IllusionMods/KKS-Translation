@@ -259,7 +259,7 @@
 「ありがとうです！　はりきって臨むですよー！」=“Thank you! We're going to take it head on~!”
 「ダメでしたか……じゃあ、私も止めておくです」=“You don't, huh... in that case, I'll pass on it too.”
 「ご飯にしようと思ってるんだけど、一緒にどうかな？」=“I was thinking of going and grabbing lunch, how about joining me?”
-「行くですー！　誰かと食べた方が、ご飯は美味しいですから」=“I'd love to~! Food tastes a whole lot better, when you eat with someone else, afterall.”
+「行くですー！　誰かと食べた方が、ご飯は美味しいですから」=“I'd love to~! Food tastes a whole lot better, when you eat with someone else, after all.”
 「実はお腹が少し冷えちゃってまして……ごめんなさい、遠慮しておくです」=“My belly actually feels a bit uncomfortably cold right now... I'm sorry, I think I'll pass.”
 えっと、今から一緒にご飯を食べませんか？」=Erhm, would you like to maybe go eat something together?
 「えへへ、やったねなのです！」=“Eheheh, I did it!”

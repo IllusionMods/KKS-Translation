@@ -19,7 +19,7 @@
 「ただ同じ時を過ごすだけではなく、もっと恋人としての自覚を深めるような時間をあなたと過ごしたいです」=“I want to spend a more romantic and lovey-dovey time with you, not just spend more time.”
 「そんなことを考えてたんだね。嬉しいよ」=“So that's what you were thinking, huh? Man, you know how to make me happy.”
 「……今、あなたに喜んでいただけて、ホッとしています」=“...Do I? That's a relief.”
-「私は退屈な女だと思われることが怖くて……」=“I just can't help but be scared that I'm just boring you everytime...”
+「私は退屈な女だと思われることが怖くて……」=“I just can't help but be scared that I'm just boring you every time...”
 「全然思ってないよ。最高の子だよ」=“You're not boring me at all. You're the best around, [H名].”
 「そう、なんですね……ありがとうございます」=“I, see... thank you very much.”
 （恥ずかしがってる……可愛いなぁ……）=(She's blushing... so adorable...)

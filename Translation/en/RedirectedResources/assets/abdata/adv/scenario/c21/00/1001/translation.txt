@@ -9,7 +9,7 @@
 「えっ、絶対二度寝する！」=“Eh--, I'd definitely go right back to sleep!”
 「あははっ、わかる。いい夢を見た時は続き見れるか試すよね」=“Ahahah--, I feel you. You just can't help but try to see the continuation after a good dream, can you?”
 「そうだよ～。だってせっかくキミと仲良くなって付き合えたのに、夢だったらガッカリするよ。すごくガッカリするよね？」=“Yeah~. We finally became a loving couple and everything, if it was all a dream then I'd feel depressed. It'd be really depressing, wouldn't it?”
-「うん、ガッカリすぎるね。この島に来たから距離が縮まったわけだしね」=“Yeah, very. It's only after we came to this island that we got so close, afterall.”
+「うん、ガッカリすぎるね。この島に来たから距離が縮まったわけだしね」=“Yeah, very. It's only after we came to this island that we got so close, after all.”
 「でももし夢だったら、正夢にするしかないよね！」=“But even if it was a dream, the only choice would be to make it come true, wouldn't it!”
 「それって、この島に旅行に来るってこと？」=“You mean coming to this island together?”
 「そう！　もしこの状況が私が見た夢だったら、キミとなんとか旅行できるぐらい仲良くなって、この島に来て……」=“That's right! If this situation turned out to be something I dreamt up, I'd get close to you somehow, enough to come on a trip like this, and then we'd come here together and...”

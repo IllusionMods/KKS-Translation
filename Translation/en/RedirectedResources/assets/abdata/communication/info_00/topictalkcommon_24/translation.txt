@@ -28,7 +28,7 @@
 「この島の海は、本当に綺麗だよね」=“The sea here really is pretty, isn't it?”
 「そうですね、海底が見えるくらい、海水が透き通ってます♡」=“Indeed, it's transparent enough that you can see to the bottom of the sea floor♡”
 「この島周辺の魚は、本当にカラフルなものが多いよね」=“The fish around here really are colorful, aren't they?”
-「海の中がカラフルですから、逆に保護色なんでしょうね……私もあなた色に染まりたいです♡」=“The sea itself is very colorful afterall, so it might just be camoflauge instead... I want to be dyed in your colors as well♡”
+「海の中がカラフルですから、逆に保護色なんでしょうね……私もあなた色に染まりたいです♡」=“The sea itself is very colorful after all, so it might just be camoflauge instead... I want to be dyed in your colors as well♡”
 「この島の海は、サンゴ礁も綺麗なんだよね」=“The coral reefs are beautiful too, aren't they?”
 「色とりどりのサンゴが、幻想的な景色を作り上げているそうですよ♡」=“The sight all the colorful corals create is very fantastical♡”
 「海の生き物になれるとしたら、何がいい？」=“If you could become a sea creature, what would you wanna be?”

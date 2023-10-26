@@ -28,7 +28,7 @@
 「実際たくましいのでしょうね。少し憧れてしまいます」=“I imagine they are actually rather tough as well. I do idolize them.”
 「憧れるって……ヤマネコに？」=“Idolize... a wildcat?”
 「はい、一人で何でもできそうではありませんか。私は誰かを頼ってばかりなので」=“Yes, do they not seem like they can do anything they wish by themselves? I always end up relying on others.”
-「まぁ野生動物だからね。俺達は困った時は助け合いでいいんじゃない？」=“Well, it's a wild animal, afterall. We're not so, nothing wrong with helping each other out if it comes to that, no?”
+「まぁ野生動物だからね。俺達は困った時は助け合いでいいんじゃない？」=“Well, it's a wild animal, after all. We're not so, nothing wrong with helping each other out if it comes to that, no?”
 「ふふ、そうですね。もし困った時はご迷惑をかけない程度に頼らせていただきます」=“Fufuh, indeed. If there is such a time, I'll make sure to rely on you, atleast to the degree that it doesn't become a bother for you.”
 「そんな遠慮しないで、もうガンガン頼ってくれていいよ」=“You don't need to hold back with stuff like that. Feel free to rely on me as much as you want.”
 「流れ星ってさ、お願いしようと思うと消えてたりするよね」=“Shooting stars kinda tend to disappear just as you think of making a wish, don't they?”
@@ -36,7 +36,7 @@
 「そうそう。いつ見えるか分からないから、事前に考えておけないんだよね」=“Exactly. You never know when you're gonna see one so, gotta think of a wish in advance, don't you?”
 「ふふ、それなら今考えてみますか？　次に流れ星が来た時に慌てないように」=“Fufuh, how about doing it now then? So that you don't have to rush when you do see one.”
 「いいね。でもお願いかぁ……うーん、悩むなぁ……」=“Why not. But, a wish, huh... nnn, I dunno, I can't pick one...”
-「一つに絞らなくてもいいと思いますよ。そのために考えておくのですから」=“You don't have to, I'd say. That's why you're thinking of them in advance, afterall.”
+「一つに絞らなくてもいいと思いますよ。そのために考えておくのですから」=“You don't have to, I'd say. That's why you're thinking of them in advance, after all.”
 「そっか、流れ星が消える前に全部お願いしきっちゃえばいいんだもんね」=“Right, if you just wish for all of them at once before the star disappears, that's good enough, huh?”
 「はい。でもすぐ消えてしまいますから、よくて二つか三つが限界でしょうか？」=“Yes. But they really do disappear quickly so, I'd say two or three wishes would be the maximum you'll get?”
 「同じお願いを３回言うとかも効果ありそうだよね」=“Wishing for the same thing 3 times might work too.”

@@ -28,7 +28,7 @@
 「熱帯魚を見てたら、アクアリウムに凝る人の気持ちが分かった気がするよ」=“I finally understood what all those aquarium nerds were on about, when I looked at some of those tropical fish.”
 「カラフルでかわいいものね～。犬や猫とはまた違った魅力があると思うわ」=“They're really colorful and adorable, aren't they~? I think they've got a different sort of appeal to them than a dog or a housecat.”
 「この島の水平線って、本当に空と海が一つに繋がってるように見えるよね」=“The horizon here really does seem like it's connecting the sky and sea together, doesn't it?”
-「空も海も綺麗だものね」=“Both the sky and the sea are so clean and beautiful, afterall.”
+「空も海も綺麗だものね」=“Both the sky and the sea are so clean and beautiful, after all.”
 「浜辺にたまに綺麗な丸っこいガラスが落ちてるよね」=“You sometimes come across those really pretty round glass things on the shore, don't you?”
 「シーグラスって言うのよ。いくら綺麗でも、持ち帰るのは禁止されてるからダメよ？」=“It's called sea glass. And no matter how pretty it is, you can't take any home, it's banned, okay?”
 「海の生き物たちは、めちゃくちゃ広い海の中で出会って結ばれてるんだよね……すごいなぁ」=“The things that live under the sea, somehow find each other and reproduce in a place that wide, don't they... amazing.”
@@ -42,7 +42,7 @@
 「せっかくなら、ここの食べ物と飲み物を全部制覇してみたんだよね」=“It'd be a real shame to go back home without sampling all the food and drinks atleast once, wouldn't it?”
 「どれくらい種類があるか分からないけど、出来ないことはないんじゃない？」=“We probably could do it, no? I mean, not that I know how many unique dishes there are here.”
 「自販機の飲み物でさえも、普段全然見かけないものが多いよね」=“Even the vending machines have stuff you never really see in the city, don't they?”
-「どんな味がするんだろうって、ドキドキしながら買ってるわ」=“I buy different stuff with my heart pounding everytime, wondering what it's gonna taste like this time.”
+「どんな味がするんだろうって、ドキドキしながら買ってるわ」=“I buy different stuff with my heart pounding every time, wondering what it's gonna taste like this time.”
 「人へのプレゼントを選ぶのってなんか楽しくない？」=“Isn't it kinda fun to pick out presents for other people?”
 「すごくわかるわ～。自分の為に買ってるわけじゃないのに、不思議よね」=“I feel you~. You're not even buying it for yourself, it's so weird.”
 「お店で流れてるBGMとかって、どこかで買えないのかな？」=“You think they sell the BGM they play in the shops somewhere here?”

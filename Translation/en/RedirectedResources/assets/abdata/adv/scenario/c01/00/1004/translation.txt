@@ -4,11 +4,11 @@
 「風が気持ちいいね。少し浜辺を散歩していこうよ」=“The breeze feels really nice, doesn't it? Let's go take a short walk down the beach, c'mon.”
 「本当に風が気持ちいいですね。ずっとこうして海を見ていたい気分になります」=“The breeze really does feel nice. It makes me want to just stare at this sea forever.”
 「俺は構わないよ。少しって言ったけど、[H名]が満足するまで付き合うから」=“I wouldn't mind that. I said "short" but, I'm down to stay with you as long as you want to be here.”
-「それではお言葉に甘えて……もう少しだけ……」=“Well then, I suppose I'll just take you up on that... afterall...”
+「それではお言葉に甘えて……もう少しだけ……」=“Well then, I suppose I'll just take you up on that... after all...”
 「[H名]は海が好きなの？」=“You like the sea, [H名]?”
 「はい。見ているだけでなんだか落ち着きませんか？」=“Yes. Doesn't just looking at it calm you down?”
 「うん、落ち着くね。なんでかはよく分からないけど……」=“Yep, it sure does. I dunno why exactly but...”
-「ふふ、『母なる海』と言いますからね……きっとお母さんのような包容力を感じているのかもしれません」=“Fufuh, they do say「Mother Sea」afterall... I imagine it's the acceptance and tolerance of a mother that does it.”
+「ふふ、『母なる海』と言いますからね……きっとお母さんのような包容力を感じているのかもしれません」=“Fufuh, they do say「Mother Sea」after all... I imagine it's the acceptance and tolerance of a mother that does it.”
 「そっか……そう言われると、[H名]を見てる時の感じに近いかも」=“I see... now that you say it, it's a pretty similar feeling to when I look at you.”
 「えっ、私……恋人ではなくお母さんだと思われていたのですか？　それはなんというか、複雑ですね……」=“Eh--, me?... Have you been looking at me as a mother rather than as your beloved this whole time? That, I don't know how to quite feel about that...”
 「いやいや、お母さんと同じくらい包容力があるってことだからね？　[H名]は俺の自慢の恋人だよ」=“No no, I meant that you're just as tolerant and accepting as a mother, not that I see you as one, okay? You're my beloved girlfriend and I'll brag about that any day of the week.”

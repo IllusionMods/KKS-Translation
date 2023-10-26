@@ -3,7 +3,7 @@
 //
 「こういう何か模様を描くっていう作業、得意だったりするの？」=“Are you good at drawing patterns and stuff like this?”
 「得手不得手は置いておいても、こういうのは好きなんだなぁ」=“Whether or not I'm good at it aside, I do like doing it.”
-「やっぱりそうか。かなり丁寧に進めてるからそう思ったんだ」=“I guessed so. It's going so well afterall.”
+「やっぱりそうか。かなり丁寧に進めてるからそう思ったんだ」=“I guessed so. It's going so well after all.”
 「ついつい力が入ってしまいますぞ。綺麗に仕上げたいからね」=“I just can't help but go all out, I want to make something nice.”
 「いっその事、紅型の職人さんを目指してみたら？」=“Why not take this as a chance and go all out into becoming a master stencil dyer yourself?”
 「いいね。ワタシ、職人って呼ばれるのも嫌いじゃないんだなぁ」=“That sounds fun. Being called "master" doesn't sound bad at all.”

@@ -3,6 +3,6 @@
 //
 「はい、私でよければ、よろしくお願いします」=“Yes, if you'll have me, then please.”
 「本当！？　ありがとう……っ！」=“Really?! Thanks--...!”
-「感謝されるようなことではありません。私も同じ気持ちでしたから」=“There is nothing for you to be grateful about. I am of the same heart afterall.”
+「感謝されるようなことではありません。私も同じ気持ちでしたから」=“There is nothing for you to be grateful about. I am of the same heart after all.”
 「そっか、本当によかった……」=“I see, seriously, thank god...”
 「それに、ここで終わりではありません。ここから、改めて始まるのですから……」=“Not to mention, this is not the end. It is only a new beginning for us...”

@@ -8,7 +8,7 @@
 「そうだね、じゃあ……あっそうだ、こういうのって、いっせーのーせで飲むことが多いけど、英語で『せーの』ってなんていうの？」=“Yeah, let's... ah, right, in Japanese we say「Sei-no」when going for stuff like this, how do you say that in English?”
 「Ｒｅａｄｙ，ｓｅｔ，ｇｏ！　ダヨ♪」=“It's「Ready, set, go!」♪”
 「よし、ふたりで初Ｒｅａｄｙ，ｓｅｔ，ｇｏ、やっちゃおうよ」=“Alright, let's do our first ready, set, go together.”
-「モチロ～ン，ウイウイシイｌｏｖｅ　ｌｏｖｅ　ｃｏｕｐｌｅダネ♡」=“Of course~, we're a lovey-dovey pair of lovebirds, afterall♡”
+「モチロ～ン，ウイウイシイｌｏｖｅ　ｌｏｖｅ　ｃｏｕｐｌｅダネ♡」=“Of course~, we're a lovey-dovey pair of lovebirds, after all♡”
 「あはは、そう言われると照れるね。それじゃ飲もうか」=“Ahahah, now you're gonna make me blush. C'mon, let's go for it.”
 [P名]・[H名]=[P名] - [H名]
 「「Ｒｅａｄｙ，ｓｅｔ，ｇｏ！」」=Ready, set, go!

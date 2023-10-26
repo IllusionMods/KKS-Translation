@@ -3,6 +3,6 @@
 //
 「結構、大きな灯台だねー」=“It's pretty big, isn't it~?”
 「そうかな、普通くらいだと思うけど……日本で一番高い灯台は約４３ｍあるらしいよ」=“You think? It looks pretty normal sized to me... pretty sure the tallest lighthouse in Japan's like 43 meters.”
-「そうなんだ……だったら、普通くらいなのかな」=“I see... it's pretty normal sized afterall then, I guess?”
+「そうなんだ……だったら、普通くらいなのかな」=“I see... it's pretty normal sized after all then, I guess?”
 「まぁ、大きくても小さくても、船に光が届けばいいわけだしね」=“Well, not like it matters whether it's big or tiny, as long as it gets the light out to ships.”
 「そうだね……灯台は目立つのが一番だね、うん」=“Yeah... What's important for them is standing out, isn't it? Yep.”

@@ -11,7 +11,7 @@
 「うん、まぁそんなとこ。でも気にしないで、デート中に彼女の体調を気遣うのは当たり前のことだから」=“Yeah, more or less. But don't worry about it. We're on a date, it's kinda my job to watch over how my girlfriend's doing anyway.”
 「本当に……ありがとうございます。素敵な彼氏さんを持って、私は幸せ者ですね……」=“Really... thank you. I'm such a lucky girl, blessed with such a wonderful boyfriend...”
 「はは、それを言うならこちらこそ。とりあえず……汗が引くまではゆっくりしていこうか？」=“Hahah, if you're gonna go that far then it's the same for me. For now... wanna rest until our sweat dries up?”
-「はい、そうしましょう。ですが、その……汗の匂いなど……やはり気になっていましたか？」=“Yes, let's do that. However, uhm... was the... smell on your mind afterall?”
+「はい、そうしましょう。ですが、その……汗の匂いなど……やはり気になっていましたか？」=“Yes, let's do that. However, uhm... was the... smell on your mind after all?”
 「え？　いや、そういうわけじゃないよ。[H名]はいつだっていい匂いだし」=“Eh? Ah, not at all. You always smell nice anyway, [H名].”
 「本当ですか？　私、結構汗をかいてしまっていて……実はずっと気になっていて……」=“Do you mean it? I've gotten quite sweaty already today and... it's honestly been on my mind...”
 「そんな気にすることないって。[H名]が良い匂いだって証明するために嗅いでみようか？」=“You really don't need to worry so much, seriously. Want me to sniff you, then? That'll prove that you smell nice, [H名].”

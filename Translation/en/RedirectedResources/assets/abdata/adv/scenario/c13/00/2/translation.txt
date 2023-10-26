@@ -27,13 +27,13 @@
 「……あのさ、[H名]」=“...Listen, [H名].”
 「も、もう……キスとかするの？」=“W-What, dummy... are you gonna kiss me?”
 「違っ、むしろ逆！　恋人になったからって急ぎすぎずに、俺達のペースでいこうって言いたかったんだ」=“Wha--, no, just the reverse! I wanted to say that even if we're a couple now, let's keep going at our own pace, and all.”
-「そかそか。キミは優しいもんね？」=“I see I see. You're just the sweetest afterall, aren't you?”
+「そかそか。キミは優しいもんね？」=“I see I see. You're just the sweetest after all, aren't you?”
 「それに、アタシのことちゃんと理解してくれてる……安心感ずっとあったよ」=“Not to mention, you always think of me first... I always feel safe when you're there.”
 「アタシの話をちゃんと聞いてくれるとことか、ちゃんとまっすぐアタシのこと見てくれるとことかね？　全部好き」=“And the way you always listen to me, and always look straight at me, you know? I love it all.”
 「アタシ達って相性ばっちりかも」=“We might have just the perfect chemistry.”
 「はは。それさっき俺も言ったよ」=“Hahah. I just said that myself too.”
 「あは、そだっけ？　パクっちゃった」=“Ahah, did you? I stole it shamelessly.”
-「はあっ。緊張、一瞬だったかも……」=“Haah--. I think I was nervous afterall, for a tiny bit...”
+「はあっ。緊張、一瞬だったかも……」=“Haah--. I think I was nervous after all, for a tiny bit...”
 「むしろ、恋人になったアタシ達はこれからどうなっていくんだろうって思うと楽しみ」=“If anything, just thinking about how things are gonna be between us from now on is so fun.”
 「うん、俺もどんどん楽しみになってきた」=“Yeah, I'm starting to get excited about it too.”
 「明日はどうしよっか？　明後日もかな。アタシ達これからずっと一緒だもん」=“What should we do tomorrow? And the day after. I mean, we're gonna be together from now on, everyday.”

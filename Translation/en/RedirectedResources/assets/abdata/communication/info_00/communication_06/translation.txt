@@ -156,7 +156,7 @@
 「有難いことに、私の周りに怖いと思わせるような殿方はおりませんので」=“By god's grace, there are no men in my life who I find particularly scary.”
 「別のお話にいたしませんか？」=“Could we talk about something else?”
 「そういえば、昔友達が……」=“Reminds me, back in the day, a friend of mine...”
-「殿方特有の行動ですね。女はそういったことはいたしません」=“Truly, that is an act unique to men. Women do not do such things, afterall.”
+「殿方特有の行動ですね。女はそういったことはいたしません」=“Truly, that is an act unique to men. Women do not do such things, after all.”
 「付き合う男性に求める条件ってある？」=“Is there anything you'd want in a guy, for you to date him?”
 「強いて申し上げるなら、誠実さでしょうか」=“If I really must pick something, I suppose it'd have to be sincerity.”
 「私は求める側ではなく、求められる側ですので」=“As a woman, I shouldn't be doing the desiring, but rather be desired.”

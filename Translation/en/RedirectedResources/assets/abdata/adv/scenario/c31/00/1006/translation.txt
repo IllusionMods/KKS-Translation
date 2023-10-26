@@ -11,7 +11,7 @@
 「[H名]にも夢見がちなロマンチストなところはあるのかな？　って思ったんだけど……」=“I just thought that maybe you've got a naive dreaming side inside you too, that's all...”
 「見当違いだったかな？」=“Was I off the mark?”
 「当たり前だ。こんな本当かどうかもわからないもの、信じてもしかたない」=“Of course. God knows if this is real or not, I could never believe in it.”
-「そうだよね。この鐘がなくたって、俺と[H名]は結ばれてるわけだし」=“Right. And even without this bell, we're already 'tied together', afterall.”
+「そうだよね。この鐘がなくたって、俺と[H名]は結ばれてるわけだし」=“Right. And even without this bell, we're already 'tied together', after all.”
 「んぐっ……おまえ、またそういう恥ずかしいことを言って……」=“Nnguh--... always with embarrassing stuff like that...”
 「でも、事実でしょ？」=“But it's the truth, no?”
 「……まぁ、そうだな。こんなものに頼らなくても、私たちは十分に結ばれている」=“...Well, I guess so. We don't need to rely on something like this, we're already plenty tied together.”

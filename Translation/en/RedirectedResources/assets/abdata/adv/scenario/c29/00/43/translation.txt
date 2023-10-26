@@ -3,5 +3,5 @@
 //
 「本当に心に残る音ですよね」=“This sound really does echo in your heart, doesn't it?”
 「そうだね、特徴的で、この島の音って感じがするな」=“Yeah, it's so unique, it really does feel like the sound of this place.”
-「この先、この音を聞く度にあなたと共に体験した日々を思い出すと思います」=“I do think that everytime I hear this sound from this point on, I am going to think back to all the things we've experienced together.”
+「この先、この音を聞く度にあなたと共に体験した日々を思い出すと思います」=“I do think that every time I hear this sound from this point on, I am going to think back to all the things we've experienced together.”
 「はは、そしたら、より思い出になるようにしていかなくちゃね」=“Haha, in that case, I gotta make them even more memorable for you then.”

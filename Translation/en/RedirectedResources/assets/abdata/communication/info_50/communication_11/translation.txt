@@ -36,7 +36,7 @@
 「う～ん、とりあえずいっぱい可愛がってあげたいわね♪」=“Nnn~, I'd love to shower him in love, first thing♪”
 「好きな男性のタイプってある？」=“Got a type you're into?”
 「真面目な子かしらね。そういう子を見ると、尽くしてあげたくなっちゃうの」=“Earnest boys, I suppose. When I look at them, I just can't help but wanna dote on them.”
-「難しい質問ね……男の子のこと、あまり知らないんだもの」=“What a tough question... I don't really know much about boys, afterall.”
+「難しい質問ね……男の子のこと、あまり知らないんだもの」=“What a tough question... I don't really know much about boys, after all.”
 「男の子とこういう話をするのって意外と照れくさいのね……別の話にしましょう？」=“Chatting with a boy about this stuff is pretty embarrassing... how about we talk about something else?”
 「男女の意識の差って……」=“The things one sex notices, and the other doesn't...”
 「それは一理あるかもしれないわね」=“You might have a point with that.”
@@ -256,7 +256,7 @@
 「ごめんね、お友達との先約があるの……また今度じゃダメかしら？」=“Sorry, I've already promised a friend I'd do it with them... could we do it another time, possibly?”
 「あのね、研修の為に体験コーナーへ行こうと思うんだけど、一緒にどうかしら？」=“Listen, I was thinking of going over to the experience corner to do some research, how about joining me?”
 「うふふ、決まりね。それじゃあ私は手続きを済ませてくるわ」=“Ufufuh, that's settled then. I'll go deal with the procedures first then.”
-「あら……あんまり興味がないの？　無理に誘っちゃ悪いわね……」=“Oh my... not all that interested? That's alright, it wouldn't do to force you afterall...”
+「あら……あんまり興味がないの？　無理に誘っちゃ悪いわね……」=“Oh my... not all that interested? That's alright, it wouldn't do to force you after all...”
 「お腹が空いてたら、これからご飯にしない？」=“If you're feeling hungry, want to grab some food together?”
 「あら、私を誘ってくれるなんて嬉しいわ♪」=“Oh my, you came to ask me of all people, I'm so happy♪”
 「ごめんね。まだお腹は空いてないから、遠慮しておくわ」=“I'm sorry. I'm not all that hungry right now, so I'll pass.”

@@ -4,4 +4,4 @@
 「……宇宙に関するグッズは売ってなさそうだなぁ」=“...Doesn't seem like they're selling much of anything space related~”
 「それは……そうだろうとしか言えないかな。ここと宇宙はあんまり縁がないと思うよ」=“That's... it is what it is, really. I don't think this place has much of a connection with space.”
 「星の砂も関係ないみたいだし……残念」=“The starsand doesn't seem like it does either... what a shame.”
-「あれは生き物の殻だからね。ファンタジックな名前だから、騙される気持ちは分かるけど」=“That's because starsand is just husks of living organisms. But I can see why you feel a bit deceived, the name's a bit fantastical afterall.”
+「あれは生き物の殻だからね。ファンタジックな名前だから、騙される気持ちは分かるけど」=“That's because starsand is just husks of living organisms. But I can see why you feel a bit deceived, the name's a bit fantastical after all.”

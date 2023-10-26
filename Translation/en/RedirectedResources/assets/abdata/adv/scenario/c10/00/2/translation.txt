@@ -19,7 +19,7 @@
 「お、おほん……えぇと……な、汝の言霊には力を感じる……嘘や冗談で口にしたわけではなかろう」=“*C-Cough*... Eerhm... I feel the power of soul within thine words... Surely that was no mere joke or lie.”
 「うん。俺は本気だよ。本気で[H名]のことを思ってる」=“Yeah. I'm serious here. I think of you seriously, [H名].”
 「ひゃわっ！　ななな名前呼びは恥ずかしい……」=“Hyawah--! D-D-D-Don't call me directly by my name, dummy...”
-「おっとごめん。そうだよね。まだ返事をもらってないし」=“Oh, sorry. You're right, you haven't given me your answer yet, afterall.”
+「おっとごめん。そうだよね。まだ返事をもらってないし」=“Oh, sorry. You're right, you haven't given me your answer yet, after all.”
 「ぅ……えっと、その……やっぱり返事をしないとダメか……？」=“Uu... erhm, uhm... do I have to...?”
 「すぐにとは言わないけど、できれば返事をほしいかな」=“I won't ask you to tell me right now but, I would like one if possible.”
 「そ、そうか……まあ、なんだ。別に汝のことは嫌いでもないわけでもなく、ゴニョゴニョ……」=“I-I see... well, uhm, you know. It's not as if I don't like thee or anything or *mumble mumble*...”

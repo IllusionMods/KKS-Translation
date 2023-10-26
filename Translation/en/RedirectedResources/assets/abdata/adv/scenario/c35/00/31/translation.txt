@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「灯台をこげん近くで見るのはここが初めてやったなぁ」=“This is the first time I've ever seen a ligthouse from this up close~”
-「まあ、普通は近づかない場所だからねぇ」=“Well, they're not exactly places you can casually walk up to normally, afterall.”
+「まあ、普通は近づかない場所だからねぇ」=“Well, they're not exactly places you can casually walk up to normally, after all.”
 「実際近くで見ると、やっぱり迫力が違うなぁー」=“Actually looking at one from up close has a whole different kind of impact, doesn't it~”
 「だね、素朴な作りなんだけど、こう、存在感の強さっていうのかな？」=“Yep, it looks very simple and rustic but, it's like, I guess you'd call it its 'presence'? It's got a ton of that.”
 「うん……なんかこう、君と一緒に見れてよかったなーって思う……」=“Yeah... it kinda, makes me really glad that I saw this with you...”

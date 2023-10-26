@@ -307,7 +307,7 @@
 「私に苛められている時の表情は、そそられるものがあるわね」=“Your expression when I bully you does tingle my heart a little bit.”
 「そんなものあるわけないじゃない。貴方、もしかして自分の顔を鏡で見たことがないの？」=“Do you really think there is such a thing? Wait, have you never looked in the mirror before, is that it?”
 「一日に何回『好き』って言えばいいかな？」=“How many times in a day should I say "I love you"?”
-「それこそ好きなだけ言えばいいわ。ただし、口にするごとに言葉の意味が軽くなっていくことは覚えておきなさい」=“As much as you like. But remember that everytime you say it, the words lose more of their value.”
+「それこそ好きなだけ言えばいいわ。ただし、口にするごとに言葉の意味が軽くなっていくことは覚えておきなさい」=“As much as you like. But remember that every time you say it, the words lose more of their value.”
 「気が済むまで言えば？　私はそんな薄っぺらい言葉で喜んだりしないわ」=“As much as you want? Words that cheap would never make me happy anyway.”
 「下僕は主人と結婚できるのでしょうか？」=“Do you think a manservant can marry his master?”
 「可能性はゼロではないわ。身分違いの恋なんて、よく語られる事でしょう」=“The possibility is not zero. Afterall, aren't there lots of stories about love that transcends status and rank?”
@@ -374,7 +374,7 @@
 「そう、それでいいのよ。お互い悪い話ではないでしょう？」=“That's right, Exactly. Neither of us lose out, no?”
 「へぇ、女に恥をかかせるのね。貴方、いつからそんな大層な男になったの？」=“Heh, going to humiliate a woman, huh? Just when did you become such an mighty guy?”
 「ここで[H名]さんとＨしたい」=“I want to have sex with you here, [H名]-san!”
-「私は構わないわよ。貴方が情けない姿を晒す事になるだけだし。フフッ」=“I don't particularly mind, personally. You're the one who's going to be exposing his pathetic self to the world, afterall. Fufu--”
+「私は構わないわよ。貴方が情けない姿を晒す事になるだけだし。フフッ」=“I don't particularly mind, personally. You're the one who's going to be exposing his pathetic self to the world, after all. Fufu--”
 「貴方、性欲だけで生きてるの？　時と場所を弁えなさい」=“Do you subsist off your sex drive alone or something? Keep the time and place in mind.”
 「いいわよ。大声で泣かせてあげる。誰かにみっともない姿を見てもらいましょう」=“No problem. I'll make you cry in a loud voice. Let's show your pathetic figure to someone.”
 「勝手に一人で晒してなさい。下僕の露出癖に付き合う程、暇じゃないの」=“Make a show of it to the public by your lonesome. I don't have so much free time as to accompany my manservant in his exhibitionist tendencies.”
@@ -385,7 +385,7 @@
 「そんなにご主人様に躾けてほしかったのね。フフッ、たっぷり楽しませてあげるわ」=“You want to be disciplined by your master that badly, huh? Fufuh--, sure, I'll make this a day to remember for you.”
 「お遊びの時間よ。主も付き合ってあげるわ」=“It's play time. Your master's gonna tag along today too.”
 「こら、はしゃぎすぎよ。みっともないからやめなさい」=“Hey, don't go too wild. It's disgusting to look at.”
-「遊ぶ必要はないということね？　じゃあ、研修旅行らしくみっちり勉強してなさい」=“So you don't need any playtime in your life, huh? Then, study like your life depends on it, it is a study tour afterall.”
+「遊ぶ必要はないということね？　じゃあ、研修旅行らしくみっちり勉強してなさい」=“So you don't need any playtime in your life, huh? Then, study like your life depends on it, it is a study tour after all.”
 「いいわ。貴方が無様に失敗する様を隣で見ていてあげる」=“Sure. I'll watch over you as you fail pathetically and make an embarrassment of yourself.”
 「体験学習の時間よ。下僕ひとりじゃ難しいでしょうから、私も付き添ってあげる」=“It's time for some hands on learning. I'm sure you would never manage it all by yourself, as just a manservant, so I'll tag along too.”
 「私が見ているんだから、しっかりやりなさいよ？」=“I'll be watching, so do a proper job, okay?”
@@ -414,7 +414,7 @@
 「許可なく呼ぶなと言った筈よ。もの覚えが悪いなら、その間抜け面に書いておいてあげましょうか？」=“I told you to not call me that without permission, didn't I? If you're memory's so bad, shall I write it on that stupid face of yours with a sharpie instead?”
 「ねえ下僕、じゃなかった……[Pあだ名]」=“Hey, Manservant, Uh, No... [Pあだ名]...”
 「えっ、はい。どうしたの？　[Hあだ名]」=“Eh--, Yes. What's up, [Hあだ名]?”
-「呼んでみただけよ。いちいち愛称で返さなくていいわ」=“I just felt like saying your petname. You don't need to say mine in return everytime.”
+「呼んでみただけよ。いちいち愛称で返さなくていいわ」=“I just felt like saying your petname. You don't need to say mine in return every time.”
 「えぇ、いいわよ。私を楽しませなさい、[Pあだ名]」=“Yes, It's alright. Show me a good time, [Pあだ名]!”
 「ほら、遊んであげるわ。早く勃たせなさい、[Pあだ名]」=“Come, I'll play with you. Quickly pop a boner, [Pあだ名]!”
 「あら。少し付き合いなさい。まずは、そのニヤついた顔を直してからね」=“Ah. Accompany me for a bit. But first, take care of that grin of yours.”

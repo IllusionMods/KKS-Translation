@@ -11,6 +11,6 @@
 「それ！　そう呼ばれたかったんだ！」=“That! That's exactly what I wanted to hear!”
 「お礼に、俺も[H名]のことを、[Hあだ名]って呼ぶよ」=“As thanks, I'll call you [Hあだ名] too.”
 「う、うん。私もあだ名で呼んでくれるんだ？　ありがとー」=“O-Okay. I get a nickname too? Thanks~”
-「でも、毎回そうやって呼ぶのはちょっと恥ずかしいかも……」=“But, it really might be a bit embarrassing to call each other that everytime...”
+「でも、毎回そうやって呼ぶのはちょっと恥ずかしいかも……」=“But, it really might be a bit embarrassing to call each other that every time...”
 「じゃあ、時々こうやって呼び合うってことでどうかな？」=“Then, how about we call each other that sometimes?”
 「うーん……まぁ、それくらいなら良いかなー」=“Nnnn... well, I guess I'm okay with that~”

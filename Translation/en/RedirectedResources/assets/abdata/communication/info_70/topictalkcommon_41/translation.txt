@@ -20,7 +20,7 @@
 「ここはＴＨＥ南国の島って感じで、歩いてるだけでテンションがあがっちゃうね」=“Considering how this island is 'the' southern island, just walking around the place feels exciting, doesn't it?”
 「ふふ、だからキミも情熱的なのかな。ボクは嫌いじゃないよ」=“Fufuh, so that's why you're so passionate about it, huh? I don't hate it myself.”
 「日差しが強いからかな、この島の植物ってエネルギッシュだよね」=“The plant life here is very energetic here, isn't it? Wonder if it's because of the sun.”
-「太陽と水に恵まれてるもんね、ボクたちも元気いっぱいで研修旅行に臨もうね」=“It's blessed with lots of sunlight and water afterall, we gotta take that same outlook towards our field studies too, okay?”
+「太陽と水に恵まれてるもんね、ボクたちも元気いっぱいで研修旅行に臨もうね」=“It's blessed with lots of sunlight and water after all, we gotta take that same outlook towards our field studies too, okay?”
 「大自然に囲まれてると、普段は考えないことを考えたりするよね」=“It's easy to think of things you usually never would, surrounded by all this greenery, isn't it?”
 「あ、それわかる。普段は勉強とか人間関係のこととか、色々あるもんね」=“Ah, I think I get that. Normally we're just so busy thinking about our studies or our relationships with others and whatnot.”
 「この島に来てから星座に興味を持ったんだけど、[H名]は星について考えたことってある？」=“I've actually gotten interested in constellations ever since we came to this island. Have you ever thought much about the stars yourself, [H名]?”
@@ -28,7 +28,7 @@
 「浜辺を歩くとカニとかヤドカリとか、可愛い生き物がいっぱいいるよね」=“Taking a walk around the beach here, you see a lot of cute crabs and hermit crabs all over, don't you?”
 「お散歩気分で歩くと、素敵な発見がいっぱいあるよね。ボクもよく歩くんだ」=“Especially when you do it when you're in the mood for a walk, there's so many lovely things to see. I do it a lot too.”
 「海のしょっぱさがなかったら、気軽に海の中の景色を楽しめるんだけどね」=“If the sea wasn't so salty, we'd be able to enjoy the view of the world inside anytime we wish, you know?”
-「海がしょっぱいお陰でボクたちは塩に困らないけど、気持ちはわかるよ。海の中って凄く綺麗だもんね」=“Thanks to its saltiness, we don't ever have to worry about not having any for food but, I understand how you feel. It's so beautiful under the sea afterall.”
+「海がしょっぱいお陰でボクたちは塩に困らないけど、気持ちはわかるよ。海の中って凄く綺麗だもんね」=“Thanks to its saltiness, we don't ever have to worry about not having any for food but, I understand how you feel. It's so beautiful under the sea after all.”
 「海といえば、[H名]って泳げる？」=“On the topic of the sea, can you swim, [H名]?”
 「うーん、可もなく不可もなくって感じ。キミが海水浴に誘ってくれたら頷ける程度には泳げるよ」=“Nnn, pretty okay-ish. Enough that I wouldn't turn you down if you invited me to take a dip in there together.”
 「この島の浜辺って、よく見ると色んな生き物がいるよね」=“Looking closely, the beach here has a lot of different life living on it, doesn't it?”

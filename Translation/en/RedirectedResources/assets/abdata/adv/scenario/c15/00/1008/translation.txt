@@ -13,7 +13,7 @@
 「キレイで？」=“and?”
 「あはは、言葉が続かなくなっちゃったなー」=“Ahahah, I ran out of words to say there~”
 「……無理に言葉にしなくたっていいよ」=“...I mean, it's not like you have to put it in words.”
-「一番大切なのは、俺達がこうやって一緒にここにいるってことだから」=“What's important is, us being here together like this, afterall.”
+「一番大切なのは、俺達がこうやって一緒にここにいるってことだから」=“What's important is, us being here together like this, after all.”
 「ふふ、そうかもしれないなー」=“Fufuh, maybe~”
 「一人だったら、きっと……ちょっとくらいは虚しかったかもだ」=“If I was alone, this probably... would have felt a bit empty.”
 「キレイだなー？　ねー？　……って、感動を分けあうこともできないんだもんなー」=“Hey look, isn't it really pretty~? Isn't it~?... I wouldn't have been able to share that with anyone~”

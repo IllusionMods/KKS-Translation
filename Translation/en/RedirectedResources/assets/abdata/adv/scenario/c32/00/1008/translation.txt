@@ -13,7 +13,7 @@
 「え？　う、うーん……そうだなぁ……自分や家族の健康祈願、とか」=“Eh? N-Nnn... let's see... I guess me and my family's health?”
 「なんだか、神社でのお願いみたいですね」=“That sounds like the sort of wish you'd make at a shrine.”
 「じゃあ、[H名]は何をお願いするの？」=“What would you wish for then, [H名]?”
-「そうですね……やっぱり、私たちの幸せを願うと思います」=“Let's see... I think I'd wish for our happiness afterall.”
+「そうですね……やっぱり、私たちの幸せを願うと思います」=“Let's see... I think I'd wish for our happiness after all.”
 「……うん、それはいいね……俺も、そう願おっかな」=“...Yeah, that sounds nice... maybe I'll wish for that too.”
 「ふふ、ありがとうございます。一緒に幸せになりましょう」=“Fufuh, thank you very much. Let's become happy together.”
 「……でも、最初は何をお願いするつもりだったんですか？」=“...But, what were you actually going to wish for, at first?”

@@ -34,7 +34,7 @@
 「もし海の生き物になれるとしたら、何になりたい？」=“If you could become one of the marine life here, what would you like to be?”
 「う～ん、トビウオがいいかな。お魚なのに空も飛べるから一石二鳥だと思うんだぁ」=“Nn~, a flying fish, I guess~. Being able to fly while still being a fish really sounds like a two for one deal to me~”
 「綺麗な海を見れただけで、俺は満足だよ」=“Just being able to see a sea this beautiful is enough for me.”
-「見るだけでいいの？　せっかくだし、泳いだりして色々遊んだ方がいいと思うなぁ」=“You sure? It'd be a waste to not swim in it or play around in it, we came all this way afterall.”
+「見るだけでいいの？　せっかくだし、泳いだりして色々遊んだ方がいいと思うなぁ」=“You sure? It'd be a waste to not swim in it or play around in it, we came all this way after all.”
 「この島でも、海水から塩を作ったりしてるのかな？」=“I wonder if they make salt here too, from the seawater?”
 「えぇっ！　塩って海水から作ってるの！？　全然知らなかったぁ……」=“Eeh--! You make salt from seawater!? I didn't know that at all~...”
 「売られてるジュースの色はどれもカラフルだよね」=“The juice they sell here is all so colorful, aren't they?”

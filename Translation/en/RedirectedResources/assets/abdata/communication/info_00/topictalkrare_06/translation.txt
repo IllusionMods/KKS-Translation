@@ -63,7 +63,7 @@
 「私がそうあってほしいと思っていることです」=“It is the way I wish for it to be.”
 「実際の愛はわかりませんが、人も毎日会っていればお互いのことを知れますから」=“It may not be real love, you can never tell if it is, but even people come to understand each other well if they see each other everyday.”
 「うん、俺もそう思うよ。挨拶するだけでも違うしね」=“Yeah, I think so too. Even the way you greet each other changes.”
-「挨拶は全ての基本ですからね。私も貴方のことをもっと知りとうございます」=“Greetings are the start of everything, afterall. I wish to know you much more thoroughly as well.”
+「挨拶は全ての基本ですからね。私も貴方のことをもっと知りとうございます」=“Greetings are the start of everything, after all. I wish to know you much more thoroughly as well.”
 「水族館でマンタを見たけど、愛くるしいやつだよね」=“I saw a manta at the aquarium, they're pretty charming creatures, aren't they?”
 「まんたは人間に友好的だそうですね。だいびんぐでも一緒に遊泳してくれるとか」=“They do seem rather friendly to humans, don't they? Apparently they even tend to swim along with divers.”
 「へえ、そうなんだ！　もし一緒に遊泳するとしたら何をしたい？」=“Hoh, I see! If you could swim along with one, what would you wanna do?”
@@ -83,7 +83,7 @@
 「ウミガメもそんなに生きるのかな」=“Do sea turtles live that long too though?”
 「実際のところは、長く生きて８０年ほどだそうです」=“They apparently live as long as 80 years.”
 「それでもすごいね。８０歳か……そのときの俺はどうなってるんだろうな」=“That's amazing by itself. 80 years, huh... I wonder what I'm gonna be like at 80.”
-「きっと壮健です。貴方はとても精力的ですから」=“I'm sure you'll be hale and hearty. You are a very energetic man, afterall.”
+「きっと壮健です。貴方はとても精力的ですから」=“I'm sure you'll be hale and hearty. You are a very energetic man, after all.”
 「それは……褒められてるよね？」=“That's... a compliment, right?”
 「あら、私、失礼なことを申してしまいましたか？　申し訳ございません……」=“Oh my, did I say something impolite, perchance? I do apologize...”
 「い、いや、全然謝ることないよ」=“N-No, you don't need to.”
@@ -105,7 +105,7 @@
 「きみの胸の感触が忘れられない……」=“I can't forget the sensation of your boobs on my hands...”
 「藪から棒ですね……お楽しみいただけたのでしたら何よりです」=“Quite out of the blue, isn't it... but if you enjoyed it that much then nothing could make me happier.”
 「やっぱり触られる方も気持ちいい？」=“I'm guessing it feels good for you too, when I touch you?”
-「それは……もちろんでございます。貴方からの愛撫ですから」=“Well... of course. They're your hands, afterall.”
+「それは……もちろんでございます。貴方からの愛撫ですから」=“Well... of course. They're your hands, after all.”
 「いまも揉んでもらいたい？」=“Want me to rub them right now?”
 「もう……破廉恥なことはしかるべきときにお願いいたします」=“Jeez... please reserve that stuff for the bedroom.”
 （あはは、可愛いなぁ……）=(Ahahah, she's so adorable...)

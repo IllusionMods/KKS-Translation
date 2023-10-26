@@ -10,7 +10,7 @@
 「ヤシガニって、どうしてあんなに大きいのかな」=“I wonder why coconut crabs get so big?”
 「自然界では、『大きい』というだけで価値があるものですわ」=“Within nature, one's worth is decided by one's size.”
 「そうなの？」=“Really?”
-「だって、大きく育つまでに食べられたり死んじゃったりする可能性がありますもの」=“Indeed, afterall, there's quite the high chance for one to be devoured while growing up to full size.”
+「だって、大きく育つまでに食べられたり死んじゃったりする可能性がありますもの」=“Indeed, after all, there's quite the high chance for one to be devoured while growing up to full size.”
 「生き抜くだけで大変なんだね、野生動物って」=“Even just surviving's hard enough for wild animals, huh?”
 「それはそれとして……ヤシガニって食べられるのかしら？」=“Though, that aside... Can you eat coconut crabs, I wonder?”
 「……本当に、生き抜くって大変だね……ヤシガニには頑張って欲しいなぁ……」=“...Even just surviving's hard enough, isn't it... do your best, coconut crabs...”
@@ -113,7 +113,7 @@
 「おほほほほほ！　こうして笑って、話題をごまかしているだけですわ！」=“Ohohohohohoh! I'm simply trying to dodge the subject by laughing it away here!”
 「……やっぱり欲求不満があったりするってことだね」=“...So you do get sexually frustrated, huh?”
 「……時々、思い出すんだよね。[H名]との初めての時のこと……最高だったなーって」=“...I think back to it sometimes, you know? About our first time together... it was so wonderful.”
-「お～ほっほっほっほ！　当然でしょう？　このわたくしが相手なのですから」=“Ohohohohoh~! Only natural, no? It was me you were bedding, afterall.”
+「お～ほっほっほっほ！　当然でしょう？　このわたくしが相手なのですから」=“Ohohohohoh~! Only natural, no? It was me you were bedding, after all.”
 「そっちはどうなの？　忘れられない思い出になってる？　それともトラウマ？」=“What about you though? Is it an unforgettable memory for you? Or maybe a traumatic one?”
 「おバカなこと、聞かないでいただけて？　素晴らしい思い出ですわよ！」=“Could you not ask me such stupid things? It's a wonderful memory, of course!”
 「そうなんだ……ありがとう！」=“I see... thanks!”

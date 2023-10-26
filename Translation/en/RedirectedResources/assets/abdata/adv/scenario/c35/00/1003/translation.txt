@@ -9,7 +9,7 @@
 「確かに。そう考えると嬉しいかも」=“You're not wrong, that does sound like a good gift.”
 「やろ？　私ね、お土産とかプレゼント選ぶの好きなんよ。どげんものがいいかなって、相手のことを考えるのが面白いと」=“Right? I really like picking out souvenirs and presents, you know. Thinking about what to buy, and imagining them being happy is really fun.”
 「選びながら、相手が喜んでくれとるところまで想像して……それも含めてばり楽しいとよ」=“And you get to do them both together... it's really fun that way.”
-「そういうところ、[H名]らしい。優しいよね」=“That sounds just like you. My girlfriend is just so sweet afterall.”
+「そういうところ、[H名]らしい。優しいよね」=“That sounds just like you. My girlfriend is just so sweet after all.”
 「あはは、そんなんじゃないって！　優しさやなくて、むしろ自分が楽しみたいだけやしっ！」=“Ahahah, that's not it! I just enjoy doing it, my sweetness or whatever doesn't measure into it--!”
 「はは、じゃあそういうことにしておこっか」=“Hahah, I guess we can leave it at that then.”
 「むぅぅ、君はいつもそげんことばっかりー！　じゃあ君へのお土産は超ウルトラ激辛味で決まりやね。美味しそうやない？」=“Muuuh, always with that stuff~! Alright then, I guess we're buying something really spicy for you. Doesn't that sound tasty, hmm?”

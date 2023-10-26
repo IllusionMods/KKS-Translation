@@ -22,4 +22,4 @@
 「ん……おそろいですね」=“Nn... how nice, that we didn't differ.”
 「あ、今笑った？」=“Ah, did you just smile there?”
 「どうでしょう？　もう一度飲めば……同じ表情を再現することは可能かもしれません」=“Who's to say? If we drink it one more time... perhaps you'll get to see that expression again.”
-「よし、じゃあもう一回飲もう！　まだドリンクは残ってるしね」=“Alright, let's go for another gulp then! We've still got some of the drink left, afterall.”
+「よし、じゃあもう一回飲もう！　まだドリンクは残ってるしね」=“Alright, let's go for another gulp then! We've still got some of the drink left, after all.”

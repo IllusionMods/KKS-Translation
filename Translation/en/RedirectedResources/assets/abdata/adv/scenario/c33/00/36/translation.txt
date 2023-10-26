@@ -4,6 +4,6 @@
 「で、海に来てみたけど、何をして遊ぶのかしら？」=“So, we came all the way here but, what should we do to 'have fun'?”
 「そうだなぁ……うーん、[H名]さんと遊びたくて誘ったんだけど、実は何をしようかは特に考えてなくて……」=“Lemme think... Nnnn, I asked since I wanted to have fun but, I didn't actually think about what we would do, honestly...”
 「あら、そんなに私と遊びたかったのかしら？」=“Oh my, did you want to have fun with me that much?”
-「まあ、折角こんないいとこに来たんだしね」=“Well, we did come all the way to an island this nice, afterall.”
+「まあ、折角こんないいとこに来たんだしね」=“Well, we did come all the way to an island this nice, after all.”
 「ふふっ、思ったより仕方ない人ね……そういうときは、一緒に何をするか考えればいいのよ？」=“Fufuh--, there truly is no helping you, is there... at times like these, all we need to do is think of a solution together, you know?”
 「そ、そうだね……二人で考えてみよっか」=“Y-You're right... I guess two heads are better than one.”

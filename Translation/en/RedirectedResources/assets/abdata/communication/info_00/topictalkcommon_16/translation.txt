@@ -16,7 +16,7 @@
 「こんなに自然が豊かだと、心が穏やかになるよね」=“All this nature does wonders for the heart, doesn't it?”
 「本当ね。まるで時間がゆっくり流れているように感じるわ」=“It really does. Time as a whole feels slower here.”
 「植物も、見たことないものが沢山生えてるね」=“There's a whole lot of flora that you don't see in the city here too, isn't there?”
-「気候的には亜熱帯だもの。普段は見られない植物がいっぱいよ」=“It's a subtropical climate, afterall. There's going to be lots of those if you look around.”
+「気候的には亜熱帯だもの。普段は見られない植物がいっぱいよ」=“It's a subtropical climate, after all. There's going to be lots of those if you look around.”
 「これだけ自然が多いと、野生の動物も沢山いるんだろうね」=“With this much nature around us, I bet there's a whole lot of wild animals around the place too.”
 「もちろんよ。この島だけの固有種だっていっぱいいるはずだわ」=“Of course. And I'm sure lots of them are endemic to this island too.”
 「こんなに自然が豊かなのは、あんまり人が住んでないからなのかな」=“I wonder if all this nature is because not many people live here?”

@@ -27,10 +27,10 @@
 「海に飛び込んだら気持ちいいだろうなぁ」=“I bet it'd feel amazing to just jump into the sea~”
 「わかる！　何だか、わーって叫びながら飛び込みたくなるかも！」=“I feel you! It kinda makes you just want to dash into it while screaming your heart out, doesn't it!”
 「[H名]って日焼けって気にしたりする？」=“Do you worry about getting a tan, [H名]?”
-「全然気にしないよー。お日様を浴びるのは気持ちいいもんね！」=“Not at all~. It feels really nice to bath in the rays of the sun, afterall!”
+「全然気にしないよー。お日様を浴びるのは気持ちいいもんね！」=“Not at all~. It feels really nice to bath in the rays of the sun, after all!”
 「[H名]って好きな人はいるのかな？」=“Do you have anyone you love, [H名]?”
 「好きな人かー。えへへ、もちろんみんな大好き！」=“Someone I love, huh~. Eheheh, I love everyone here!”
-「いっぱいいるよー。お友達とか、みんな大好きだもん」=“Lots of them~. I love all my friends and stuff afterall.”
+「いっぱいいるよー。お友達とか、みんな大好きだもん」=“Lots of them~. I love all my friends and stuff after all.”
 「恋人ができたら、友達とは疎遠になる人も多いよね」=“There's lots of people that grow distant once they get a partner, you know?”
 「そうなんだ？　私はみんなと仲良くしたいかなー」=“Really? I'd want to stay friends with everyone still~”
 「恋人も、お友達も、みんな仲良くできると良いよねっ」=“It'd be nice if my partner and my friends could get along together--”
@@ -77,7 +77,7 @@
 「エッチな男のことはどう思う？」=“What do you think of lewd guys?”
 「時と場合によるかな？　変態さんはイヤだけどねー」=“That'd depend upon the circumstances, I guess? I don't like perverts though.”
 「女の子って１番敏感な場所はどこなのかな？」=“What's a girl's most sensitive spot?”
-「人によって違うんじゃないかな？　くすぐったい場所も人によるしねー」=“Isn't that different for every girl? Everyone has different places they feel ticklish too, afterall.”
+「人によって違うんじゃないかな？　くすぐったい場所も人によるしねー」=“Isn't that different for every girl? Everyone has different places they feel ticklish too, after all.”
 「んー？　どうかしたー？」=“Nn~? What's wrong~?”
 「もー、見過ぎだよー」=“Jeez~, you're looking too much~”
 「そんなに何度も見たって、何も出てこないよ？」=“Staring that much's not gonna get you anything, you know?”
@@ -139,7 +139,7 @@
 「私とお話するの？　いいよー！　嬉しいなっ」=“You want to chat with me? Sure~! I'm so happy right now--”
 「うん、何か用かな？　何でも言ってね！」=“Yep, need something? Whatever it is, I'll hear you out!”
 「[H名]っていつもすごく元気だよね」=“You're always just a ball of cheer, you know?”
-「もちろんだよ！　人間、元気なのが１番だもんね」=“Of course! Being cheerful is the most important thing, afterall.”
+「もちろんだよ！　人間、元気なのが１番だもんね」=“Of course! Being cheerful is the most important thing, after all.”
 「落ち込むことだってあるよー？　でも、空元気でも元気を出せば笑顔になれるから」=“I have times when I'm down too, you know~? But, even at times like that I can tough it out with a smile if I just try to.”
 「失敗したときってどうする？」=“What do you do when you mess up?”
 「何度でもチャレンジして、絶対に成功させるよ！」=“I just take it on again and again, until I manage not to!”
@@ -178,7 +178,7 @@
 「えぇ、言いにくいこと聞かないでよー。本とか動画を見ることはあるけど……」=“Eeh~, don't ask me something so embarrassing~. Sometimes I read books or watch videos though...”
 「そ、そんなことしないから、オカズなんて使ってないよ！？」=“I-I don't do that stuff so, I don't need that sort of material, okay?!”
 「最近はスローセックスが注目されたりしてるみたいだね」=“Seems like slow sex's been getting a lot of attention these days, huh?”
-「やっぱり気持ち良くなるなら一緒がいいもんね」=“I guess if you're going to enjoy it you might as well enjoy it slowly together afterall~”
+「やっぱり気持ち良くなるなら一緒がいいもんね」=“I guess if you're going to enjoy it you might as well enjoy it slowly together after all~”
 「そんなのがあったんだ？　知らなかったよー。普通のとどう違うんだろうね？」=“There's sex like that? I didn't know~. I wonder how it's different from regular sex~?”
 「もうっ、エッチなことをしたいなら、１人でしてきたらどうかな？」=“Jeez--, if you wanna be all lewd, why don't you go be all lewd by yourself?”
 「肌を合わせるとどうして気持ちいいんだろうね？」=“Just why does it feel so good to sleep together and touch each other, I wonder?”
@@ -299,8 +299,8 @@
 「だからって、お風呂やトイレにまで一緒に入っちゃダメなんだよ？」=“Yeah but, you can't use that as an excuse to follow me into the toilet or the bathroom, okay?”
 「[H名]って恋人にも言えないような秘密ってある？」=“Got any secrets that you can't tell even me, [H名]?”
 「キミのことが大好きなこと……とか？　でも、これは秘密じゃなかったね」=“I guess that I love you lots and lots... maybe? But I guess that wasn't much of a secret.”
-「そんなのないよー。だって、ありのままの私を好きになって欲しいもん」=“I don't have anything like that~. I mean, I want you to love me for who I am, afterall.”
-「俺たちが付き合えたのって、やっぱり運命なのかな？」=“Do you think it was fate at work afterall, that we got together and all?”
+「そんなのないよー。だって、ありのままの私を好きになって欲しいもん」=“I don't have anything like that~. I mean, I want you to love me for who I am, after all.”
+「俺たちが付き合えたのって、やっぱり運命なのかな？」=“Do you think it was fate at work after all, that we got together and all?”
 「もちろんだよ。きっと、私とキミは結ばれる運命だったんじゃないかな？」=“Of course. I bet our fates were always tied together, don't you think so too?”
 「運命ってことはない……かな？　だって、自分でちゃんと選択した相手だもん」=“I don't really... think so? I mean, I fell in love with you myself, there's no 'fate' there.”
 「えへへ、恋人とコイバナするの恥ずかしいし、別のお話にしよ？」=“Eheheh, chatting about this stuff with you is kinda embarrassing and stuff, let's talk about something else?”
@@ -311,7 +311,7 @@
 「エッチって毎日でもしたくなるよね」=“You just can't help but want to have sex daily, no?”
 「うんっ。……って、そ、そんなことは、ない……よ？」=“Yep--. ...wuh, t-that's not, true... you know?”
 「気持ちはわかるけど、そんなことばかり考えてちゃダメだよー？」=“I understand how you feel but, you gotta stop thinking about sex all the time, okay~?”
-「やっぱり、男のアレは大きければ大きい方が良いと思う？」=“Do you think bigger is better afterall, when it comes to a guy's, well, thing?”
+「やっぱり、男のアレは大きければ大きい方が良いと思う？」=“Do you think bigger is better after all, when it comes to a guy's, well, thing?”
 「人それぞれじゃないかな？　私は、相性が良ければどっちでも良いよー」=“Doesn't that depend on the person? For me, as long as there's chemistry, I don't care~”
 「大きければいいってわけじゃないと思うなー。痛そうだしね」=“I don't think so~. Seems like it'd hurt beyond a certain point.”
 「子供ができたら、パパとママどっちに似るかな？」=“If we have a baby, which one of us do you think it'll take after?”

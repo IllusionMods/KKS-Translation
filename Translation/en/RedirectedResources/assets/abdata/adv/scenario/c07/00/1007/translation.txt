@@ -16,7 +16,7 @@
 「目がキラキラしてるよ？　[H名]って海の生き物が好きなんだ」=“Your eyes are really sparkling there, you know? I didn't know you loved marine life so much.”
 「海が好き……かな？　ロマンっていうの？　何かこう、胸にぐーって迫るものがあるだろ」=“It's more that I love the... sea, I guess? What do they call it, the romance of it all? It's like, I feel it in my chest.”
 「はっ！？　もしかして私の前世、人魚だったり」=“Hah--!? Maybe in my past life, I mighta been a mermaid.”
-「……まあ、可能性はあるな。全ての生き物のルーツは海って言うし」=“...Well, who knows. They do say all life came outta the sea, afterall.”
+「……まあ、可能性はあるな。全ての生き物のルーツは海って言うし」=“...Well, who knows. They do say all life came outta the sea, after all.”
 「いやいや、そこはツッコミだろ？　お前みたいなガサツなののどこが人魚だー、とか」=“No no, normally you'd retort at that point, no? Like, which part of your rough ass could be a mermaid, and all.”
 「[H名]は人魚似合うよ！」=“Nah, you'd make a great mermaid, [H名]!”
 「余計なこと言わなきゃよかった……」=“I shouldn't have said a thing...”

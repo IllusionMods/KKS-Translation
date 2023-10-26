@@ -10,7 +10,7 @@
 「頑張って研究します♡　完成したら一生私といてくれますか？」=“I'll do my best to research it♡ If I succeed, will you stay with me forever?”
 「じゃなかったらこの鐘を鳴らしてないよ。だから不安にならないでね」=“I wouldn't be here with you right now if the answer was a no. So don't worry, alright?”
 「いつも不安になっちゃってすみません……せっかくあなたと付き合えたんだから、もう安心していいと思うんですけど……」=“I'm sorry for always being like this... I'm finally going out with you, so I do think it'd be fine to relax now but I just...”
-「いや、案外付き合ってからの方が不安って多いんじゃない？　付き合ってないときは『付き合えるかどうか』だけが不安なわけだし」=“No, when you think about it, isn't the risk greater once you do? When you're not dating someone, the only worry is whether you'll get to date them, afterall.”
+「いや、案外付き合ってからの方が不安って多いんじゃない？　付き合ってないときは『付き合えるかどうか』だけが不安なわけだし」=“No, when you think about it, isn't the risk greater once you do? When you're not dating someone, the only worry is whether you'll get to date them, after all.”
 「はい、あなたの言う通りです……でも、あまり面倒くさい女だって思われたくなくて……」=“Yes, it's as you say... but, I don't want you to think of me as a pain in the ass, atleast not too much of one...”
 「俺は[H名]の面倒くさいところも好きだけどね。面倒くさくなってる理由が大体俺のことっていうのが可愛い」=“I do love that side of you though. The way that it's always because of or about me in one way or another is adorable.”
 「でも、限度がありますから……」=“But, everything has limits, I realize that...”

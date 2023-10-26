@@ -17,7 +17,7 @@
 「月桃の花って綺麗だと思わない？」=“Don't you think shell gingers make for some really pretty flowers?”
 「うふふ、お花を見て、素直に『綺麗』って言える人、素敵ね♪」=“Ufufuh, you can honestly call a flower pretty, suich a wonderful boy♪”
 「そうかな？　なんか照れるや……」=“You think? You're gonna make me blush...”
-「そうやって照れる様子も可愛い♪」=“The way you blush everytime is adorable too♪”
+「そうやって照れる様子も可愛い♪」=“The way you blush every time is adorable too♪”
 「もう……からかわないで……それより月桃、どう思う？」=“Jeez... don't tease me... forget that, what do you think of shell gingers?”
 「う～ん、花ラッキョウみたいで可愛いわよね♪」=“Nnn~, they're adorable, aren't they? Just like shallots♪”
 「花ラッキョウ……まあたしかに似てるけど……」=“Shallots... well, I mean, you're not wrong but...”

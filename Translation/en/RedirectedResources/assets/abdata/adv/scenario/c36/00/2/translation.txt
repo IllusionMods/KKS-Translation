@@ -4,7 +4,7 @@
 （今日、ここで、[H名]さんに告白をする……！）=(Today, I will confess to her, right here...!)
 「[H名]さん、話があるんだ！」=“[H名]-san, I have something I want to talk about!”
 「私に……？　何かしら。別に忙しいわけではないけど、手短にお願いするわ」=“Me...? What is it? It's not as if I'm busy or anything, but do make it short.”
-「家畜に時間をさいても、無駄になってしまいそうなんだもの」=“Any time spent on livestock like you is just going to be a waste, afterall.”
+「家畜に時間をさいても、無駄になってしまいそうなんだもの」=“Any time spent on livestock like you is just going to be a waste, after all.”
 「それで？　聞いてあげるから言ってみなさい」=“So? I'm listening so say it.”
 「う、うん。これは真剣な話なんだけど……」=“O-Okay. I'm being serious here, so...”
 「[H名]さん、好きです！　俺と付き合ってください……！」=“[H名]-san, I love you! Please go out with me...!”

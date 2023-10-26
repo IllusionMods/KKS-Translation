@@ -11,7 +11,7 @@
 「夜はまだまだだよ。というか、こんなに綺麗な空をチラ見しただけで、帰っちゃうの？」=“The night's still young, very young. Heck, are you sure about just leaving a view like this behind, after just a glance?”
 「んー…………ううん、そんなもったいないことできないわね」=“Nnn... no, you're right, that really would be too wasteful.”
 「でしょ？　こんな壮大な夜空、もっといっぱい堪能しなきゃ」=“Right? A night like this is something that's gotta be enjoyed thoroughly.”
-「ええ、やっぱりそうしましょう……ああ、すごい……夜空に吸い込まれちゃいそうね……」=“Yes, let's do that afterall... aah, amazing... feels like I'm going to get swallowed up by the sky...”
+「ええ、やっぱりそうしましょう……ああ、すごい……夜空に吸い込まれちゃいそうね……」=“Yes, let's do that after all... aah, amazing... feels like I'm going to get swallowed up by the sky...”
 「そのまま、違う銀河につれていかれてしまうかも」=“Who knows, you might get dragged along to a whole other galaxy.”
 「夢があって素敵ね。でも……私一人じゃ嫌だわ。あなたも一緒じゃなきゃ」=“Such a wonderful imagination. But... I don't wanna go if it's by myself. You gotta come with.”
 「やっぱり一人じゃ寂しい？」=“Would you feel lonely, alone?”

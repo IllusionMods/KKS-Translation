@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「……魚がいっぱいなのじゃ」=“...That's a lot of fish.”
-「そりゃそうだよ。水族館なんだから」=“Well, yeah. We're in an aquarium, afterall.”
+「そりゃそうだよ。水族館なんだから」=“Well, yeah. We're in an aquarium, after all.”
 「もっとぬくもりのある返しが欲しいのじゃ！　み、見てわからぬのか……」=“Come up with a warmer reply! C-Can you not tell...”
 「わしちょっと圧倒されてるかもなのじゃ」=“I may be feeling a bit overwhelmed.”
 「そうだったの？」=“Really?”

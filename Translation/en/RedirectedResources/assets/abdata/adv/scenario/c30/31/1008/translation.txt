@@ -24,7 +24,7 @@
 「もう……それじゃさっきの俺と同じだよ。[H名]が可愛いからいじわる言いたくなるんだ」=“Jeez... that's no different from me then, though. I say the cheeky stuff I say because you're adorable, [H名].”
 「あ……ふふっ、それじゃ私たち、似たものカップルね。こんな素敵な星空の下で、お互いにいじわるを言い合うなんて」=“Ah... fufuh--, we really are made for each other then, huh? I can't believe we're being like this to each other, under such a pretty sky.”
 「あはは、確かに。ありそうでないカップルだよね」=“Ahahah, yeah. It doesn't seem like a couple like us would work in reality, does it? But we do.”
-「ええ、私たちらしくていいわ。流れ星よりもお互いのことを見ている証拠だもの」=“Yes, it's just the way we should be. It's just proof that we're looking at each other more than the stars, afterall.”
+「ええ、私たちらしくていいわ。流れ星よりもお互いのことを見ている証拠だもの」=“Yes, it's just the way we should be. It's just proof that we're looking at each other more than the stars, after all.”
 「……ねぇ、さっきのは本当？」=“...Hey, did you mean what you said before?”
 「さっきの……って？」=“What I said... what did I say?”
 「私たちはいつまでもこのまま……って言ったこと。本当の本当にそう思ってる？」=“When you said that... we'll always be like this. Do you really think that way? Really really?”

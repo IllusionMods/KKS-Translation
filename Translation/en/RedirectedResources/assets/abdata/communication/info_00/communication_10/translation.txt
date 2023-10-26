@@ -283,7 +283,7 @@
 「クク……存分に語り合おうぞ！」=“Kukuh... let us chat till our hearts are content then!”
 「汝、待っていたぞ！」=“I have been waiting for thee!”
 「悪魔の魔法ってどんなの？」=“What's magic like down there in the demon realm?”
-「クククッ……知りたいか？　汝はすでに魔法にかかっておる……我の虜なのだ」=“Kukukuh--... thou wouldst like to know? Thou should have first hand experience... I have already cast mine on thee, afterall.”
+「クククッ……知りたいか？　汝はすでに魔法にかかっておる……我の虜なのだ」=“Kukukuh--... thou wouldst like to know? Thou should have first hand experience... I have already cast mine on thee, after all.”
 「そ、それはふ、ふたりで添い寝したら……分かるかも？」=“I-If we sleep t-together... you might find out?”
 「魔界で使われている貨幣ってなに？」=“What sort of currency do they use in the demon realm?”
 「魔界では電子マネーが一般的だな。現金は何年も見ていないかもしれん」=“The electronic sort, I suppose. I cannot say I've seen physical cash there in the past decades.”

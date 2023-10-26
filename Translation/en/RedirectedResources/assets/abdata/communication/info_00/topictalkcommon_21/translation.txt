@@ -10,7 +10,7 @@
 「一緒にできるアクティビティとかあったらいいよね」=“It'd be nice if there were things here that we could do together.”
 「そうだね。できればその方が楽しいかも」=“Yeah. I think that might be more fun too.”
 「この島、普通に散歩してても、アクティビティって気がするよ」=“Even just walking around the place feels like an activity all on its own.”
-「そうそう！　だってどこを見ても南国ムードがたっぷりなんだもんね」=“Yeah, it really does! I mean, no matter where you look, it's all saturated by a southern mood, afterall.”
+「そうそう！　だってどこを見ても南国ムードがたっぷりなんだもんね」=“Yeah, it really does! I mean, no matter where you look, it's all saturated by a southern mood, after all.”
 「アクティビティをするなら、海と山、どっちがいい？」=“If you were gonna do something, would you rather do sea based stuff or something in the mountains?”
 「う～、決められないよう。だってどっちも楽しそうなんだもん」=“Uu~, I can't pick. Both sound like so much fun.”
 「この島、本当に自然が豊かだよね」=“This island seriously is full of nature, isn't it?”
@@ -34,11 +34,11 @@
 「この島の海には、サンゴ礁も多いらしいよ」=“Seems like there's lots of coral reefs in the sea here.”
 「サンゴも綺麗だよね。南の島の海にぴったりって感じ」=“Corals are really pretty too, aren't they? They feel right at home in the sea here.”
 「綺麗な水平線を見てると、なんだか懐かしい感じがしてくるんだ」=“Looking at that beautiful horizeon kinda makes me feel nostalgic.”
-「海は命のお母さんだからね……何となくわかる気がするよ」=“The sea is the mother of all life, afterall... so I feel you.”
+「海は命のお母さんだからね……何となくわかる気がするよ」=“The sea is the mother of all life, after all... so I feel you.”
 「海の生き物では何が好き？」=“What sea creature do you like the most?”
 「う～ん、熱帯魚もいいけどやっぱり、イルカかな。一緒に泳げたらすっごく楽しそうだよね」=“Nnn~, tropical fish are great but, I think dolphins for me. It sounds really fun to swim next to one, doesn't it?”
 「この島の料理は、味付けのバラエティが豊富だよね」=“The food here is seasoned very differently depending on where you go, isn't it?”
-「暑い地域だからね。さっぱり食べたい時と、ちゃんとカロリー取りたい時とパターンがあるんじゃないかな」=“It's a really hot place, afterall. There's gonna inevitably be times when you wanna eat something calorie dense, and times when you wanna eat something refreshing, no?”
+「暑い地域だからね。さっぱり食べたい時と、ちゃんとカロリー取りたい時とパターンがあるんじゃないかな」=“It's a really hot place, after all. There's gonna inevitably be times when you wanna eat something calorie dense, and times when you wanna eat something refreshing, no?”
 「この島の自販機って、見たことない飲み物売ってるよね」=“The vending machines here sell a whole lot of unique stuff, don't they?”
 「私、ああいうの試してみるの好きなんだ。意外と美味しいのもあるんだよ」=“I really like trying stuff like that out. A lot of it is surprisingly really good.”
 「この島の民芸品って、やっぱり歴史が深いのかな」=“I guess the local crafts here probably have fairly rich histories?”

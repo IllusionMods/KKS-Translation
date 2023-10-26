@@ -4,7 +4,7 @@
 「島にあるレジャーを全部やってみたいんだよね」=“I wanna try out all the activities here, you know?”
 「全てですか？　難しいかもしれませんが、頑張ってください」=“All of them? That might be rather difficult, but do give it your best shot.”
 「お気に入りのレジャーって、なにかある？」=“Got any activities in particular that you like?”
-「これが一番というものは特に……誰かと一緒にすれば、全部楽しいですから」=“Nothing I can really point to... They're all very fun afterall, when you do them together with someone.”
+「これが一番というものは特に……誰かと一緒にすれば、全部楽しいですから」=“Nothing I can really point to... They're all very fun after all, when you do them together with someone.”
 「どのレジャーも意外と体力が必要だけど、疲れたりしない？」=“No matter what activity it is, they all kinda seem very stamina heavy, doesn't it get tiring?”
 「確かに一部のレジャーはぐったりと疲れたりしますが、それも含めて楽しむものだと思っています」=“Some of them do really tax me heavily but, I think even that is a part of the fun of it all.”
 「遊ぶのに夢中になり過ぎて、水分補給を忘れない様に注意しなきゃね」=“We've gotta be careful to not get too lost into it all and forget about things like hydration and whatnot.”

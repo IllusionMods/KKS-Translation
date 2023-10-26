@@ -35,7 +35,7 @@
 「俺も。[H名]のご先祖さま全員に感謝したい。まずはご両親からかな」=“I wanna say my thanks to your ancestors too, [H名]. I guess I should start with your parents.”
 「えへへ、私の両親が聞いたらめっちゃ喜びそう！」=“Eheheh, my parents would be super happy to hear that!”
 「あはは、ご両親に伝えるとなると、俺はめちゃくちゃ緊張しそう……」=“Ahahah, I feel like I'm gonna end up getting insanely nervous in front of them...”
-「そ、そうよね。私はばり照れそう……でも……そういう流れの中で、みんな命を繋いできたっちゃもんね」=“O-Of course. I'll probably blush lots too... but... they all did the same and, that's how we're here, afterall.”
+「そ、そうよね。私はばり照れそう……でも……そういう流れの中で、みんな命を繋いできたっちゃもんね」=“O-Of course. I'll probably blush lots too... but... they all did the same and, that's how we're here, after all.”
 「いつか私も……君とそういう関係になられたら嬉しいなぁ。夫婦……みたいな……」=“Someday... we might have that sort of a relationship too, that'd make me really happy. You know... husband and wife...”
 「……って、私、なん言いようとかいな。ちょっと気が早すぎやんね。あはは、ごめん」=“...Wuh, what am I saying? I'm getting ahead of myself, aren't I? Ahahah, sorry.”
 「ううん、そうやって真剣に考えてくれること、嬉しいよ。俺も色々なことを真剣に考えていきたい」=“No, not at all. I'm really happy you think of me so seriously. I want to take things seriously too.”

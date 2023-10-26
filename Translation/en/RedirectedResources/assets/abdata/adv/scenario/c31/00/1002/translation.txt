@@ -11,7 +11,7 @@
 「体も温まってきて、ここからが本番だというのに情けないぞ」=“Our bodies are finally warmed up too, this is where the real show begins. C'mon, you're being pathetic.”
 「無茶を言わないでよ」=“Don't ask for the impossible.”
 「でも、[H名]は勝負事になると途端にいきいきしてくるね」=“Still, you really do get really into any sort of competition, huh?”
-「まぁ、私もこういうのは嫌いじゃないからな」=“Well, I don't hate this sorta thing afterall.”
+「まぁ、私もこういうのは嫌いじゃないからな」=“Well, I don't hate this sorta thing after all.”
 「いまの[H名]はキラキラしててとても可愛いよ」=“You look really adorable right now, all cheery and sparkly like that.”
 「褒めておけば、私がお開きにすると思っていないか？　そうはいかん」=“You sure you're not thinking that buttering me up's gonna get me to go easy on you? Because that's not gonna happen.”
 「勝負を再開するぞ！」=“Alright, here we go again!”

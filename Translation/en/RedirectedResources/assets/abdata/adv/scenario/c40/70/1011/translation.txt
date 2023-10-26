@@ -17,7 +17,7 @@
 「そ、そうか？　普段だって、貴殿の後ろをついて歩くことはあるだろう？」=“T-That so? Do I not usually follow you from behind, though?”
 「いやいや、[H名]って普段は用心棒みたいに自信満々な感じでついてくるからさ……」=“No no, usually you do that full of pomp though, like a bouncer keeping the area clear for me...”
 「寂しくなってちょこちょこついてきちゃうってのが、凄く可愛いポイントなんだよ」=“The part where you would have quietly and restlessly followed me from behind would have been the real gamechanger.”
-「むぅ……やはり散歩はやめよう。大きな部屋だからと歩き回るのは少々品性に欠ける……」=“Muh... let us not take a walk afterall. Taking a walk around it simply because it is big does feel a bit undignified...”
+「むぅ……やはり散歩はやめよう。大きな部屋だからと歩き回るのは少々品性に欠ける……」=“Muh... let us not take a walk after all. Taking a walk around it simply because it is big does feel a bit undignified...”
 「はは、そうだね。じゃあ乾杯して、上品な時間を楽しもうか」=“Hahah, yeah. Then let's toast each other instead and enjoy a dignified time together, hm?”
 「うむ、乾杯だ……貴殿と我の素敵な時間に……」=“Umu, here's to our wonderful time together... cheers...”
 「うん、乾杯……でも流石だね、そういう乾杯の口上とかスラっと出てきちゃうんだから」=“Yep, cheers... but, I'm pretty amazed, you really do say that sort of stuff without the slightest bit of shyness.”

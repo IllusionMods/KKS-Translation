@@ -42,7 +42,7 @@
 「嬉しいな。それだけあなたが私とのことを真剣に考えてくれてたってことだから……」=“I'm so happy. You take me, take us, so seriously...”
 「よかった。[H名]も笑ってくれて」=“Great. You finally smiled too.”
 「……私、きっと今日のことを何回も思い出すよ」=“...I'm definitely going to think back to this day, a whole lot.”
-「これから始まる私達の幸せな物語の、これが１ページ目だね」=“This is the first page of our story of happiness afterall, isn't it?”
+「これから始まる私達の幸せな物語の、これが１ページ目だね」=“This is the first page of our story of happiness after all, isn't it?”
 「うん、この海が俺達の見届け人だ」=“Yep, and this sea is the guardian watching over us.”
 「部屋に閉じこもってることが多かった私の一生に一度のことが、海で……なんて変な感じ」=“A shut in like me having her once in a life event, next to the sea like this... it feels kinda weird.”
 「……これからもきっと筋書きにない色んなことがあるんだろうね」=“...And I bet a whole lot of stuff that's not part of the synopsis is gonna happen too.”

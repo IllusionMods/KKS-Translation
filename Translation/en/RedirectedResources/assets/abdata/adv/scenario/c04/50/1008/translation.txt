@@ -13,9 +13,9 @@
 「残念。宇宙船私号は一人乗りなの」=“Sadly, no. The spaceship [H] is a single seater only.”
 「けれど……ふふっ、そうね。席を詰めれば、もう一人くらいは乗れるかしら？」=“But... fufuh--, let's see. We could probably get away with stuffing in one more seat.”
 「ほら、もっと近くに寄って。乗り遅れたら本当に置いていっちゃうわよ？」=“C'mon, come closer. If you don't get on, I really will leave you behind, you know?”
-「おっとそいつは大変だ。これからもずっと[H名]のそばにいたいからね」=“Woah, we can't have that. I don't want to let you go just yet afterall, my dear [H名].”
+「おっとそいつは大変だ。これからもずっと[H名]のそばにいたいからね」=“Woah, we can't have that. I don't want to let you go just yet after all, my dear [H名].”
 「歯の浮くような台詞ね。でも、今だけは許してあげる」=“What a cliche line. But, I'll let it go just this once.”
-「私も同じ気持ちだもの。これからもずっと、あなたのそばにいたい」=“I feel the same way, afterall. I don't want to let you go either, I want to be with you forever.”
+「私も同じ気持ちだもの。これからもずっと、あなたのそばにいたい」=“I feel the same way, after all. I don't want to let you go either, I want to be with you forever.”
 「[H名]……」=“[H名]...”
 「静かな夜ね。波の音しか聞こえないわ。まるで世界が止まったかのよう……」=“What a quiet night. I can't hear a thing except for the waves. It almost feels like the world's come to a standstill...”
 「たとえ世界が今日終わっても、最後まで[H名]のそばにいるよ」=“Even if the world ends today, I'll still be right here with you till the end, [H名].”

@@ -12,7 +12,7 @@
 「ふわぁ、なんだか眠くなってきたぞ。ちょっと横になろうかな」=“Fuwah~, I feel so sleepy all of a sudden. Maybe I'll take a nap myself.”
 「ふふっ、わざとらしいあくびね」=“Fufuh--, what a suspicious yawn.”
 「そんな演技をしなくても、お願いしてくれたら膝枕くらいするわよ」=“You don't need to put on an act like that, you know? I'd do it for you if you just asked me.”
-「私たちは恋人同士なんだし」=“We're a couple afterall.”
+「私たちは恋人同士なんだし」=“We're a couple after all.”
 「それもそうだね。ならお願いしようかな」=“You're not wrong. Maybe I'll take you up on that then.”
 「ふふっ。現金な人ね」=“Fufuh--, always so quick.”
 「それじゃあ、しばらく風を感じましょうか」=“Well then, let's savour the breeze for a bit.”

@@ -38,7 +38,7 @@
 「やっぱり、海を見るとテンションが上がるよね」=“Looking at the sea really has a way of making you excited, doesn't it?”
 「人それぞれだと思うわよ。逆に心が落ち着く人もいるんじゃないかしら」=“I think that's different for each person. Aren't there people out there who feel at peace looking at the sea?”
 「周りが海に囲まれてるから、海産物は豊富なんだろうね」=“With the fact that this place is surrounded by water, I bet there's tons of marine products that they harvest too.”
-「そうね。海ブドウとかもずくとかよく耳にするもの」=“Yeah. You hear a lot about sea grapes and mozuku and the like, afterall.”
+「そうね。海ブドウとかもずくとかよく耳にするもの」=“Yeah. You hear a lot about sea grapes and mozuku and the like, after all.”
 「サトウキビが取れるから、名物は甘いモノが多いのかな」=“I wonder if the local food products are mostly sweet? You can harvest sugarcane here, no?”
 「どうかしら。島唐辛子や塩もあるみたいだから、甘いだけじゃないんでしょ」=“I don't know about that. They harvest chilli peppers and make salt from the sea as well so, can you really say that?”
 「自販機で売ってる、見たことないような飲み物ってどう思う？」=“What do you think about all those drinks in those vending machines? I've never seen them before.”
@@ -46,7 +46,7 @@
 「民芸品って興味ある？」=“Got any interest in folk crafts?”
 「そうね、手に取って眺めるぐらいには、興味はあると思うわよ」=“Yeah, I suppose I do have some, atleast enough to pick them up to look at them.”
 「南国なだけあって、色んな種類のフルーツがあるよね」=“There's all sorts of fruits here, aren't there? This really is the south.”
-「完全に気候が違うもの。聞いたことないようなフルーツもあるみたいよ」=“The climate is entirely different, afterall. Seems like they have some fruits that we've never heard of before as well.”
+「完全に気候が違うもの。聞いたことないようなフルーツもあるみたいよ」=“The climate is entirely different, after all. Seems like they have some fruits that we've never heard of before as well.”
 「この島の民謡とかって、明るい雰囲気のものが多いよね」=“The folk songs here tend to be very cheerful, don't they?”
 「島の気候とか風土とか、それに人柄みたいなのものも現れるんじゃないかしら」=“I imagine that's just the local climate, the local land and even just the personalities of the people at work.”
 「自分はオナニーが上手だと思う？」=“Do you think you're good at masturbation?”

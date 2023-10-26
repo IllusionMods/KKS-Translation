@@ -78,7 +78,7 @@
 「あはは……実際に乗ったら各方面から怒られそうだけど、一度は考えるかな」=“Ahahah... you'd probably anger one a whole ton if you actually tried but, I can kinda see it, maybe.”
 「ウミガメに乗って竜宮城へれっつごー！　玉手箱はあなたにあげるね」=“Let's get on one and go to the Palace of the Dragon King! I'll let you have the tamatebako.”
 「え？　貰っちゃっていいの？」=“Eh? You sure about that?”
-「うん。だってお婆ちゃんになりたくないもん」=“Yep. I don't wanna become a granny, afterall.”
+「うん。だってお婆ちゃんになりたくないもん」=“Yep. I don't wanna become a granny, after all.”
 「ナチュラルに面倒事を押しつけられた……」=“Not even a spare thought before shoving the bothersome thing to me...”
 「星の砂って綺麗だよね」=“Starsand is really pretty, isn't it?”
 「うんうん。砂がお星様の形をしてるなんて素敵だよねぇ」=“Yepyep. It's amazing how sand can take the shape of a star, isn't it~?”

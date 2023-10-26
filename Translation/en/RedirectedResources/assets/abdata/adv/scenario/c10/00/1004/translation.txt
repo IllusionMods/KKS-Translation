@@ -18,7 +18,7 @@
 「そ、そうであったか。いらぬ気を遣わせてすまなかったな」=“I-Is that so? Apologies, I did not mean to make thee worry.”
 「悩みがあるなら遠慮せず打ち明けてね。解呪の魔法は使えないけど、[H名]の助けになりたいから」=“If you've got anything bothering you, feel free to tell me, okay? I can't use any rescue spells but, I do want to help you as much as I can.”
 「クク、嬉しいことを言ってくれる。その心遣いで十分、我の助けになっているぞ」=“Kukuh, always saying such nice things. Thou art already much more of a saviour than thou realizest, with those feelings alone.”
-「気にしないで。[H名]を護ると契約したからね」=“Don't mind it. I swore to protect you afterall.”
+「気にしないで。[H名]を護ると契約したからね」=“Don't mind it. I swore to protect you after all.”
 「あっ、今の台詞……」=“Ah--, that line...”
 「我が妄想したのと同じ台詞だな。やはり汝は最高のパートナーだ！」=“That's exactly the line I was imagining. Thou truly art the best partner one could ask for!”
 「それじゃあお望み通り、肩を抱こうか？」=“Well then, want me to hold you too?”

@@ -22,7 +22,7 @@
 「うん、ごめん。[H名]さんと踊るってことで緊張し過ぎちゃってさ……」=“Yeah, sorry. I got too nervous there, since I'm dancing with you...”
 「……今度はバランスを崩さないように、しっかりと私の手を握ると良いわ」=“...You'd best hold my hands properly this time, so that it doesn't happen again.”
 「えっ？　今なんて？」=“Eh--? Did you?”
-「だからっ、私のをしっかりと……や、やっぱり何でもないっ」=“Like I said--, you'd best hold my... i-it's nothing afterall--”
+「だからっ、私のをしっかりと……や、やっぱり何でもないっ」=“Like I said--, you'd best hold my... i-it's nothing after all--”
 「ごめんごめん、そうだよね。今度はもっとしっかりと手を握るよ」=“Sorry, sorry. You're right. I'll hold your hands more properly this time.”
 「～～～っ。聞こえてたなら、聞き返さないで」=“~~~!! If you heard me the first time then don't ask me to repeat myself--”
 「いや、[H名]さんからそんなこと言われると思ってなくて驚いちゃって」=“No well, I didn't think you'd ever actually say something like that so it caught me off guard.”

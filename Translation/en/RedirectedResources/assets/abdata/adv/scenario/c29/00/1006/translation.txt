@@ -14,7 +14,7 @@
 「……まあ、その、ジンクスはあまり賛同できませんが、二人で鐘を鳴らす、という行為は素敵だと思います」=“...Well, uhm, while I do not approve of the legend much at all, I do think it'd be very wonderful if we rang the bell together.”
 「それならよかった」=“That's great then.”
 「……夢見がちだとは思いませんか？」=“...Do I seem too much of a dreamer?”
-「ううん、全然。鳴らしたいと思ってたのは、俺も同じだよ」=“Nope, not at all. I wanted to ring it with you too, afterall.”
+「ううん、全然。鳴らしたいと思ってたのは、俺も同じだよ」=“Nope, not at all. I wanted to ring it with you too, after all.”
 「ありがとうございます。では……せーので一緒に引っ張りましょう」=“Thank you very much. Well then... let's pull on it on a count of three.”
 「うん。じゃあ行くよ」=“Yep. Here we go then.”
 [P名]・[H名]=[P名]・[H名]

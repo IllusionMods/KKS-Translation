@@ -25,14 +25,14 @@
 「そうそう。普通のネコよりちょっと強そうな感じがした」=“Yeah, exactly. Looked a bit stronger than a normal cat too.”
 「強そうって、男の子らしい発想だねぇ。自分だとまず可愛いって思うよー」=“Only a man would say that~. Personally I'd go for "Cuter" first~”
 「確かに可愛かったけど、触らせてもらえる雰囲気じゃなかったかなぁ……」=“It was definitely cute but, it didn't really seem the most amiable to petting, you know~?...”
-「野生の子は気難しいからねー。簡単には懐いてくれないさー」=“They are pretty moody, afterall~. They're not gonna take to you so easily~”
+「野生の子は気難しいからねー。簡単には懐いてくれないさー」=“They are pretty moody, after all~. They're not gonna take to you so easily~”
 「なるほど……そういう所は女の子と同じだね」=“I see... Pretty much the same as women in that aspect, huh?”
 「あは、だからよー。やたらに触ろうとすると引っかかれるから、気を付けてねー」=“Ahah, exactly~. If you get too touchy feely out of nowhere, you're gonna get pawed, so be careful~”
 「もし、ヤマネコと仲良くなれたら教えてー。キミなら頑張ればできるかもよー」=“If you get close to one, lemme know~. A guy like you might be able to if you try your best~”
 「流れ星にお願いってしたことある？」=“Have you ever wished upon a shooting star?”
 「小さい頃はよくしたよー。おじーとおばーと、みんなで空を見上げてねー」=“I did it a lot when I was a kid~. My gramps, grammy and I all used to look at the sky together~”
 「どういうお願いをしてたの？」=“What sort of wishes were they?”
-「うーん、それは秘密さー。お願いは言ったら叶わなくなるからねー」=“Nnn, that's a secret~. They won't come true if I tell you them, afterall~”
+「うーん、それは秘密さー。お願いは言ったら叶わなくなるからねー」=“Nnn, that's a secret~. They won't come true if I tell you them, after all~”
 「キミはお願いしたことあるの？　男の子だとしないのかなー？」=“Have you ever done it? Or do boys think that sorta stuff silly~?”
 「いや、あるよ。少し前に見た時に……ああ、いや、願いは言わない方がいいか」=“Nah, I have. Just a few days ago, I saw one and... aah, no, I guess I shouldn't say what exactly.”
 「そうそう、胸の奥にしまって、叶える努力を自分でするのが一番よー」=“Exactly, sealing it up deep within and putting the work into making it come true is the best way~”
@@ -82,7 +82,7 @@
 「どうだった？　可愛かったー？」=“How was it? Was it cute~?”
 「うん、可愛かった。でも、あんまり邪魔しちゃ悪いと思って、すぐに帰ったよ」=“Yep, very. But, I didn't want to bother it too much, so I left real quick.”
 「生で出会えただけで感激だったしね」=“Just being able to see one was more than enough for me.”
-「それはいい心掛けさー。野生の生き物の邪魔をするのはいけないことだからね」=“That's a nice way of thinking~. We really shouldn't bother the wildlife around us, afterall.”
+「それはいい心掛けさー。野生の生き物の邪魔をするのはいけないことだからね」=“That's a nice way of thinking~. We really shouldn't bother the wildlife around us, after all.”
 「それにしても、いいなぁー。自分も一回くらいは会ってみたいさー」=“Even so, musta been nice~. I wanna see one sometime too~”
 「もし今度見かけたら、すぐ[H名]に連絡するよ」=“If I see one again, I'll call you right away, [H名].”
 「本当？　えへ、ありがとー」=“You mean it? Eheh, thanks~”
@@ -92,7 +92,7 @@
 「へぇ～、故郷でもよく見かけたけど、ずっと小さい石が砕けたものかと思ってたよー」=“Heh~, it's pretty common where I'm from too but, I always thought it was ground down stone or something~”
 「俺もそう思ってたよ。お土産屋さんで見て気になったから、ちょっと調べたんだ」=“I thought the same. But I got curious after seeing it at a souvenir shop, and checked.”
 「キミは好奇心が強いんだねぇ。今度分からないことがあったらキミに聞こうかなー」=“You're a real curious duck, aren't you~. Maybe I'll ask you next time if I come across something I don't get~”
-「ウムイの鐘の『ウムイ』って、やっぱり方言なのかな？」=“Do you think the "umuy" in the Bell of Umuy is dialect afterall?”
+「ウムイの鐘の『ウムイ』って、やっぱり方言なのかな？」=“Do you think the "umuy" in the Bell of Umuy is dialect after all?”
 「うん、『ウムイ』は『思い』って意味よー」=“Yep, it's actually "omoi" as in "feelings"~”
 「なるほどね。『思いの鐘』になるのか……」=“I see. The Bell of Feelings, huh...”
 「たくさんの恋人達が、ウムイを込めて鐘を鳴らしたんだろうねー」=“Probably a whole lot of couples rang it while dedicating their feelings to it~”
@@ -117,7 +117,7 @@
 「なんか妙にオススメしてくるねぇ……もしかして、見たいとか？」=“That's quite the recommendation, coming from you~... do you wanna see it, or something?”
 「それはもちろん！　見せてくれるなら喜んで！」=“Of course! I'd gladly watch if you'd let me!”
 「み、見せるとは言ってないよー！　もぅ、キミの方が欲求不満なんじゃないー？」=“I-I didn't say I would~! Jeez, aren't you the frustrated one here~?”
-「初めてエッチした時……やっぱり痛かった？」=“The first time we had sex... did it hurt afterall?”
+「初めてエッチした時……やっぱり痛かった？」=“The first time we had sex... did it hurt after all?”
 「うーん、最初にちょっとだけねー。キミのが入ってきた時にズキって……」=“Nnn, a bit, at first~. The moment you went in, it just pierced into me...”
 「でもすぐに、痛いのと気持ちいいのが一緒な感じになって……それから……」=“But right after that, it started feeling amazing on top... and then...”
 「……それから？」=“... and then?”

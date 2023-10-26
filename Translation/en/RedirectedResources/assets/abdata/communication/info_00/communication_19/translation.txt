@@ -57,7 +57,7 @@
 「き、嫌いではないと思う。お互い自然体で接していけそうだし……」=“I-I don't hate them, I think. I feel like I'd get along with such a guy, with me being a pretty free spirit too...”
 「あ、あんまり振り回されるのは……苦手、かな？」=“I-I don't really like being... pushed around, you know?”
 「優しい男性ってどう思う？」=“What do you think of gentle, kind guys?”
-「私は、良いと思う……紳士な人だと、あまり怖くはならないから」=“I think, they're nice... the gentlemen sort of guys, don't scare me that much, afterall.”
+「私は、良いと思う……紳士な人だと、あまり怖くはならないから」=“I think, they're nice... the gentlemen sort of guys, don't scare me that much, after all.”
 「うーん、裏があるかもって思えて……信用はできないかな？」=“Mmm, they're hard to trust... feel like they're always hiding something behind that mask, you know?”
 「クールな男性ってどう思う？」=“What do you think of aloof guys?”
 「う、うん。周りに流されない人って、頼りになりそうかな……」=“W-Well. A guy that wouldn't get swept away by the crowd, does seem pretty reliable...”
@@ -268,7 +268,7 @@
 「ごめんなさい、今は忙しくて……アリスにはなれそうにないの」=“I'm sorry, I'm busy right now... don't think I can be your Alice for today.”
 「もう、また入ってきたの？　ほら、周りの目がないうちに……」=“Jeez, you came in here again? Come on, leave before the others notice...”
 「ダメだよ入ってきちゃ。私はともかく他の子が許さないのよ？」=“You can't come in here. Me aside, the other girls won't forgive you, you know?”
-「やっぱり来ちゃったのね……覗いていいのは、私だけだよ？」=“You came here afterall, huh... I'm the only one, you're allowed to peep on, okay?”
+「やっぱり来ちゃったのね……覗いていいのは、私だけだよ？」=“You came here after all, huh... I'm the only one, you're allowed to peep on, okay?”
 「もう、男子禁制って言ってるのに。私以外の子の着替えは覗かないこと！」=“Jeez, I always tell you that boys aren't allowed here too. No peeking on other girls changing!”
 「ごめんね、今忙しくて……終わってからゆっくりね？」=“Sorry, I'm a bit busy... Let's have a nice long chat later, okay?”
 「この下着、普段付けているものだから……つまらなくない？」=“I'm always wearing this underwear... it's not boring, is it?”
@@ -326,7 +326,7 @@
 「官能小説って、持ってたりする？」=“Do you carry around eroticas?”
 「その……勉強のためにと思って……」=“That's... purely as reference material...”
 「……描写がある本は持ってるけど、それ自体がメインの本はないかな」=“...I do have some books that have some illustrations like that, but none that are really 'about' being an erotica.”
-「やっぱり股間が一番感じる？」=“Is your crotch your most sensitive part afterall?”
+「やっぱり股間が一番感じる？」=“Is your crotch your most sensitive part after all?”
 「もう……そ、そんなこと聞かれても……うぅ……か、感じる、これでいいでしょ？」=“Jeez... a-asking me such a question... uuu... i-it is, happy?”
 「その……刺激が強いのは事実だけど……その……い、言わせないで……！」=“That's... it's true that I feel a lot of stimulation there but... uhm... d-don't make me say it...!”
 「も、もうこの話題はダメっ！不埒です、破廉恥ですっ！」=“N-No more of this topic--! It's wicked, shameless--!”

@@ -3,7 +3,7 @@
 //
 「ここカップルドリンクが飲めるんだって。頼んじゃおうか」=“Apparently we can order couples' drinks here. So let's get one.”
 「わわっ、来ちゃったですよ……ど、どうするですか？」=“Wawah--, it really came... w-what do we do now?”
-「どうするもこうするも、飲むでしょ？　注文したんだから」=“I mean, there's only one thing to do, no? We gotta drink it, we can't waste it afterall.”
+「どうするもこうするも、飲むでしょ？　注文したんだから」=“I mean, there's only one thing to do, no? We gotta drink it, we can't waste it after all.”
 「……むー」=“...Muh~”
 「えっ、なんで？　気に障ること言ったかな」=“Eh--, what? Did I say something?”
 「初めてのカップルドリンクなのですよ？　もっとテンションをあげてほしいのですっ！」=“It's our first couples' drink together, you know? I want you to be more into it--!”

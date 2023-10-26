@@ -3,4 +3,4 @@
 //
 「当然のことではございますが、二人きりですね」=“I realize I'm stating the obvious, but we're quite alone right now.”
 「……やはり、私と肌を重ねる為に、お部屋まで誘ってくださったのですね？」=“...The reason you brought me here, was to bed me, was it not?”
-「思い違いではなく安心致しました。私だけその気になっていたのでしたら、恥ずかしいですから……」=“It's quite the relief that I did not misunderstand you. It would be quite embarrassing afterall, if I was the only one who felt this way...”
+「思い違いではなく安心致しました。私だけその気になっていたのでしたら、恥ずかしいですから……」=“It's quite the relief that I did not misunderstand you. It would be quite embarrassing after all, if I was the only one who felt this way...”

@@ -3,7 +3,7 @@
 //
 「ここ涼しいね。休んでいこうか」=“It's pretty cool here, isn't it? Let's take a break here.”
 「ありがと♪　ふふ、アイス買ってきてくれるなんて気が利くじゃない」=“Thanks♪ Fufuh~, you even bought me some ice cream, you're pretty smooth.”
-「そこはレディーファーストですから」=“Ladies go first in all things, afterall.”
+「そこはレディーファーストですから」=“Ladies go first in all things, after all.”
 「火照った身体に、ひんやり冷たくて気持ちいい風に……アイス」=“My hot and bothered body, a cool breeze on it, and then... ice cream, to top it all off.”
 「こういうのなんて言うんだったかしら？」=“What did people call this, again?”
 「どういうのを表現しようとしてるのかわからないから、なんとも……」=“I don't really know what you're referring to so, I can't really say...”
