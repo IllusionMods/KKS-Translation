@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//OPTION[100]:気持ちに応える=
-//気持ちに応える=
+OPTION[100]:気持ちに応える=Respond to her feelings.
+気持ちに応える=Respond to her feelings.
 OPTION[100]:……ごめん=...Sorry.
 ……ごめん=...Sorry.
 OPTION[101]:いいよ=Sure.
@@ -19,18 +19,18 @@ OPTION[105]:いいよ=Sure.
 OPTION[105]:ごめん=Sorry.
 OPTION[201]:いいよ=Sure.
 OPTION[201]:ごめん=Sorry.
-//OPTION[202]:いいよ！=
-//いいよ！=
+OPTION[202]:いいよ！=Sure!
+いいよ！=Sure!
 OPTION[202]:ごめん=Sorry.
-//OPTION[203]:ＯＫ！=
-//ＯＫ！=
+OPTION[203]:ＯＫ！=Okay!
+ＯＫ！=Okay!
 OPTION[203]:ごめん=Sorry.
-//OPTION[204]:いいね、行こう！=
-//いいね、行こう！=
+OPTION[204]:いいね、行こう！=Sounds good, let's go!
+いいね、行こう！=Sounds good, let's go!
 OPTION[204]:ごめん=Sorry.
-//OPTION[205]:うん、ご飯にしよう=
-//うん、ご飯にしよう=
-//OPTION[205]:まだ空いてないかな=
-//まだ空いてないかな=
+OPTION[205]:うん、ご飯にしよう=Yeah, let's go get something.
+うん、ご飯にしよう=Yeah, let's go get something.
+OPTION[205]:まだ空いてないかな=I'm not all that hungry.
+まだ空いてないかな=I'm not all that hungry.
 OPTION[207]:いいよ=Sure.
 OPTION[207]:ごめん=Sorry.

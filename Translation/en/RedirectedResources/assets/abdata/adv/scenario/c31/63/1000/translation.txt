@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.8 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「[H名]、カップルジュースを飲んでみようよ」=
-//「これから、これをおまえと飲むというわけか……」=
-//「くっ、なんだこれは。飲むときは顔が近くなるのか！？」=
-//「吸い口こそ二つあるが、実質間接キスのようなものだろ……」=
-//「どうしたの？　飲まないの？」=
-//「もしかして……[H名]、怖じ気づいてる？」=
-//「そ、そんな訳ないだろ！　こんなことで怖じ気づくわけがないっ」=
-//「ただ……そう、どういうものなのか観察していただけだ」=
-//「そうなんだ？　じゃあさっそく飲もうよ」=
-//「飲む……のか？　本気で……？」=
-//「そりゃあ、そのために注文したんだし」=
-//「じゃあ、お先に。あむ」=
-//「……なっ！？　躊躇なくストローに口をつけて……！」=
-//「ぷはっ。どうしたの？　そんな顔して」=
-//「[H名]もそっちのストローに口をつけないと飲めないよ？」=
-//「分かってはいるが……その、なんだ……思ったよりも気恥ずかしくてな……」=
-//「あっ、やっぱりそうなんだ？」=
-//「大丈夫だよ。どうしても恥ずかしいなら、目を瞑りながら飲んでみたら？」=
-//「……いや、目を瞑ってしまうのは負けだ。覚悟を決めて、一瞬たりともおまえから目を離さず飲み切ってやるっ」=
-//（それは甘酸っぱさと無縁になりそうな気がするけど……まあ、いいか）=
+「[H名]、カップルジュースを飲んでみようよ」=“[H名], let's try out the couples' juice.”
+「これから、これをおまえと飲むというわけか……」=“I'm gonna be drinking this with you, huh...”
+「くっ、なんだこれは。飲むときは顔が近くなるのか！？」=“Kuh--, the hell is this? Our faces are gonna be this up close when we drink it!?”
+「吸い口こそ二つあるが、実質間接キスのようなものだろ……」=“The two straws make it look separate but, this is just an indirect kiss, no?...”
+「どうしたの？　飲まないの？」=“What's wrong? Not gonna drink it?”
+「もしかして……[H名]、怖じ気づいてる？」=“By any chance... are you chickening out, [H名]?”
+「そ、そんな訳ないだろ！　こんなことで怖じ気づくわけがないっ」=“N-No way! There's no way I'd chicken out over something like this--”
+「ただ……そう、どういうものなのか観察していただけだ」=“It's just... right, I was simply observing what sort of thing it is.”
+「そうなんだ？　じゃあさっそく飲もうよ」=“That so? Then let's get to drinking already.”
+「飲む……のか？　本気で……？」=“Are we... gonna? Seriously...?”
+「そりゃあ、そのために注文したんだし」=“Well, yeah. That's why we ordered it.”
+「じゃあ、お先に。あむ」=“Alright then, I'll go first. *suck*”
+「……なっ！？　躊躇なくストローに口をつけて……！」=“...Wha--!? You didn't hesitate even a bit...!”
+「ぷはっ。どうしたの？　そんな顔して」=“*puhaah*. What's wrong? You're making a face.”
+「[H名]もそっちのストローに口をつけないと飲めないよ？」=“You can't drink unless you put that straw in your mouth too, you know?”
+「分かってはいるが……その、なんだ……思ったよりも気恥ずかしくてな……」=“I get that, I do but... it's, erhm... it's more embarrassing than I thought it'd be...”
+「あっ、やっぱりそうなんだ？」=“Ah--, so you're embarrassed afterall?”
+「大丈夫だよ。どうしても恥ずかしいなら、目を瞑りながら飲んでみたら？」=“Don't worry. If it's too embarrassing to do it with your eyes open, why not close them while we do it?”
+「……いや、目を瞑ってしまうのは負けだ。覚悟を決めて、一瞬たりともおまえから目を離さず飲み切ってやるっ」=“...No, that'd be admitting defeat. I'll make up my mind, and gulp it down without letting my eyes off yours even for a moment--”
+（それは甘酸っぱさと無縁になりそうな気がするけど……まあ、いいか）=(That doesn't sound very romantic though~... well, whatever.)

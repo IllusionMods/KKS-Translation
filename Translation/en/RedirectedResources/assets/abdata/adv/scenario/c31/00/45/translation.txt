@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ、集中しすぎて一気に疲れが来たな……しばらく休むことにするよ」=
+「ふぅ、集中しすぎて一気に疲れが来たな……しばらく休むことにするよ」=“Fuuh, I was so focused on that, the fatigue's hitting me all at once now... I guess I'll take it easy for the rest of the day.”

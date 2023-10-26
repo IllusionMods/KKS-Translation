@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……ううん、ここで返事をするよ」=
-//「そう、か……分かった。聞かせてくれ」=
-「うん」=“Yeah.”
-//「俺も[H名]のことが好きだよ。だから、ありがとう。是非お願いします」=
-//「……は？　おまえ、私のことが好きだったのか？」=
-//「そうだよ。って、なんで告白してきた方が驚いてるのさ」=
-//「いや……ＯＫを貰えるとは全く思っていなくて……そうか、両想いだったのか」=
-//「予想外過ぎてまだ感情が追い付いていないが……その、これからよろしく頼む」=
+「……ううん、ここで返事をするよ」=“...No, I'm not that sorta guy, I'll give you an answer.”
+「そう、か……分かった。聞かせてくれ」=“I, see... got it. I'm ready for it.”
+「うん」=“Okay.”
+「俺も[H名]のことが好きだよ。だから、ありがとう。是非お願いします」=“I'm in love with you too, [H名]. So, thanks. I'd like to very much accept, please.”
+「……は？　おまえ、私のことが好きだったのか？」=“...Hah? You were in love with me?”
+「そうだよ。って、なんで告白してきた方が驚いてるのさ」=“That's right. Wait, why're you surprised about that? You're the one who confessed.”
+「いや……ＯＫを貰えるとは全く思っていなくて……そうか、両想いだったのか」=“No... I was just shooting my shot, I didn't think you'd say yes... I see, so we were both in love, huh?”
+「予想外過ぎてまだ感情が追い付いていないが……その、これからよろしく頼む」=“This is so out of the left field that my mind still can't keep up... uhm, take care of me, please.”

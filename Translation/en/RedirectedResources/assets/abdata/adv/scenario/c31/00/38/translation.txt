@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]はサーフィンをやったことある？」=
-//「興味はあるが、やったことはないな」=
-//「そうなんだ。勝手なイメージだけど、海に行ってはバリバリ波に乗ってるサーファーだと思ってたよ」=
-//「どんなイメージなんだ……そういうお前は、やったことあるのか？」=
-//「ネット上でならよくやってるよ」=
-//「別にうまいこと言えてないぞ」=
+「[H名]はサーフィンをやったことある？」=“Have you ever gone surfing, [H名]?”
+「興味はあるが、やったことはないな」=“I've always been interested, but no, never.”
+「そうなんだ。勝手なイメージだけど、海に行ってはバリバリ波に乗ってるサーファーだと思ってたよ」=“I see. I always had that sort of image of you though, of the sort of person that regularly goes to the sea to surf up a storm.”
+「どんなイメージなんだ……そういうお前は、やったことあるのか？」=“What sort of image is that... have you ever done it yourself?”
+「ネット上でならよくやってるよ」=“Well, I surf the net a lot. That should count, right?”
+「別にうまいこと言えてないぞ」=“I'm not sure why you're so proud of that.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……あぁ、するとしよう。心の準備は出来ている」=
-//「その……ありがとう。えっと……よろしくね？」=
-//「まったく……緊張する気持ちは分かるが、手が震えすぎた」=
-//「いいか？　私は、おまえに求められて嫌な気持ちになったりしない。だから、なんだ……堂々と構えてリードしてくれ」=
+「……あぁ、するとしよう。心の準備は出来ている」=“...Yeah, let's do it. I'm ready for it.”
+「その……ありがとう。えっと……よろしくね？」=“Uhm... thanks. Erhm... let's have a good time then, okay?”
+「まったく……緊張する気持ちは分かるが、手が震えすぎた」=“Good lord... I can understand being nervous but, your hands are genuinely shaking, you know?”
+「いいか？　私は、おまえに求められて嫌な気持ちになったりしない。だから、なんだ……堂々と構えてリードしてくれ」=“Listen up. Being wanted by you does not make me feel bad at all, got it? So, erhm... be manly about it and take the lead properly.”

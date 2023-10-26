@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なぁ……エッチがしたくて誘ったんだよな？　それなら最初から分かりやすく言ってくれ」=
-//「遊ぶと勘違いしたままだったら、恥をかくところだったぞ」=
-//「こういう勘違いを起こさないように、合図を決めていた方がいいかもしれないな……」=
+「なぁ……エッチがしたくて誘ったんだよな？　それなら最初から分かりやすく言ってくれ」=“Hey... you brought me here to have sex, right? Then just say that from the start.”
+「遊ぶと勘違いしたままだったら、恥をかくところだったぞ」=“If I'd mistaken the invite as just hanging out then, I'd be getting real red right now.”
+「こういう勘違いを起こさないように、合図を決めていた方がいいかもしれないな……」=“Maybe we should have a signal or something for each other, so that we don't have misunderstandings like that...”

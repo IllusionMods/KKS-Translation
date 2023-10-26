@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お土産を見よっか」=
-//「へぇ……なかなかイカしてるな、これ」=
-//「お、アロハシャツが気になってるの？」=
-//「ああ。なかなかクールだと思わないか？」=
-//「うーん。クールかどうかはともかく、着こなしによってはすごく格好よくなるよね」=
-//「しかも、ちゃんと着ればフォーマルにもなるし」=
-//「そうだな。だが、少し悩んでいてな……」=
-//「どんなところに悩んでるの？」=
-//「その……なんだ、もっと女らしい方がいいのかと思ったんだ」=
-//「おまえはどう思う？　もっと女らしい服装の方がいいと思うか？」=
-//「そうだね……女らしい服装の[H名]も良いと思うよ」=
-//「でも、[H名]は[H名]らしい格好をしているのが一番好きかな」=
-//「フフッ……そうか。おまえ、本当に私のことが好きなんだな」=
-//「よし、これは買うことにしよう。折角ならおまえも買ってペアルックにするか？　なんてな」=
+「お土産を見よっか」=“Let's look at some souvenirs then.”
+「へぇ……なかなかイカしてるな、これ」=“Heh... this is pretty good.”
+「お、アロハシャツが気になってるの？」=“Oh, you like that aloha shirt?”
+「ああ。なかなかクールだと思わないか？」=“Yeah. Don't you think it looks kinda cool?”
+「うーん。クールかどうかはともかく、着こなしによってはすごく格好よくなるよね」=“Nnn. Whether it's cool or not aside, you could definitely rock it if you tried.”
+「しかも、ちゃんと着ればフォーマルにもなるし」=“Not to mention, you could even pass it off as a formal shirt, if you button it up and tuck it in and all.”
+「そうだな。だが、少し悩んでいてな……」=“Yeah. But I was thinking, you know...”
+「どんなところに悩んでるの？」=“Thinking what?”
+「その……なんだ、もっと女らしい方がいいのかと思ったんだ」=“It's uhm... you know, like, should I buy something a bit more girly or what?”
+「おまえはどう思う？　もっと女らしい服装の方がいいと思うか？」=“What do you think? Do you think I should dress more girly?”
+「そうだね……女らしい服装の[H名]も良いと思うよ」=“Hmm, let's see... I think you could definitely rock a girly look just fine.”
+「でも、[H名]は[H名]らしい格好をしているのが一番好きかな」=“But, I like it the most when you're yourself, [H名].”
+「フフッ……そうか。おまえ、本当に私のことが好きなんだな」=“Fufuh--... I see. You really do love me, huh?”
+「よし、これは買うことにしよう。折角ならおまえも買ってペアルックにするか？　なんてな」=“Alright, I'll buy this then. Since we're here, why don't you buy one too, and we could wear it together? Joking.”

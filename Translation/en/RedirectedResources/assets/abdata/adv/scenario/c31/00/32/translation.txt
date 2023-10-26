@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふぅ……滝の音って、なんか心が落ち着くね」=
-//「実際ヒーリング効果があるんじゃなかったか？　他にも木々の揺れる音なんか該当していたはずだ」=
-//「へぇ、それじゃあこの公園は癒しの聖地って感じだね」=
-//「そういった効果があるからこそ、パワースポットと呼ばれているのかもな」=
-//「ちなみに俺は[H名]が傍にいるだけで癒されるよ」=
-//「何にちなんだんだ……まぁ、そう言われて悪い気はしないが」=
+「ふぅ……滝の音って、なんか心が落ち着くね」=“Fuuh... the sounds from the waterfall are really calming, huh?”
+「実際ヒーリング効果があるんじゃなかったか？　他にも木々の揺れる音なんか該当していたはずだ」=“Don't they actually have a healing effect to them? If I'm remembering right, the sound rustling trees make are the same way.”
+「へぇ、それじゃあこの公園は癒しの聖地って感じだね」=“Heh, I guess that makes this park a healing ground, huh?”
+「そういった効果があるからこそ、パワースポットと呼ばれているのかもな」=“Maybe that's why people call it a power spot, because it heals people.”
+「ちなみに俺は[H名]が傍にいるだけで癒されるよ」=“Incidentally, just having you next to me heals me, you know.”
+「何にちなんだんだ……まぁ、そう言われて悪い気はしないが」=“What's "incidentally" about that... well, not that I mind hearing you say that.”

@@ -1,19 +1,19 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おっ、卓球台だ。よし、[H名]勝負だ！」=
-//「っしゃぁ！　どうだ、まいったか！」=
-//「うわぁ、負けたぁ！」=
-//「よし、もう一勝負行くぞ！　おまえもさっさと構えろ」=
-//「ちょ、ちょっと待って、少し休ませて！」=
-//「さすがにこのペースで立て続けに勝負をするのは辛いよ」=
-//「なんだ、おまえから挑んできたくせにもう降参なのか？」=
-//「体も温まってきて、ここからが本番だというのに情けないぞ」=
-//「無茶を言わないでよ」=
-//「でも、[H名]は勝負事になると途端にいきいきしてくるね」=
-//「まぁ、私もこういうのは嫌いじゃないからな」=
-//「いまの[H名]はキラキラしててとても可愛いよ」=
-//「褒めておけば、私がお開きにすると思っていないか？　そうはいかん」=
-//「勝負を再開するぞ！」=
-//「ちょっ、待った！　まだこっちは構えてないから！」=
-//「問答無用！！」=
+「おっ、卓球台だ。よし、[H名]勝負だ！」=“Oh--, it's a ping pong table. Alright, you're on, [H名]!”
+「っしゃぁ！　どうだ、まいったか！」=“Aight! So then, do you give up!”
+「うわぁ、負けたぁ！」=“Uwah, I lost!”
+「よし、もう一勝負行くぞ！　おまえもさっさと構えろ」=“Alright, we're going for another round! Get ready, c'mon.”
+「ちょ、ちょっと待って、少し休ませて！」=“H-Hang on a second, lemme rest a bit!”
+「さすがにこのペースで立て続けに勝負をするのは辛いよ」=“Even I can't keep going at this pace, you know.”
+「なんだ、おまえから挑んできたくせにもう降参なのか？」=“What, you're the one who threw down the gauntlet. Are you already giving up?”
+「体も温まってきて、ここからが本番だというのに情けないぞ」=“Our bodies are finally warmed up too, this is where the real show begins. C'mon, you're being pathetic.”
+「無茶を言わないでよ」=“Don't ask for the impossible.”
+「でも、[H名]は勝負事になると途端にいきいきしてくるね」=“Still, you really do get really into any sort of competition, huh?”
+「まぁ、私もこういうのは嫌いじゃないからな」=“Well, I don't hate this sorta thing afterall.”
+「いまの[H名]はキラキラしててとても可愛いよ」=“You look really adorable right now, all cheery and sparkly like that.”
+「褒めておけば、私がお開きにすると思っていないか？　そうはいかん」=“You sure you're not thinking that buttering me up's gonna get me to go easy on you? Because that's not gonna happen.”
+「勝負を再開するぞ！」=“Alright, here we go again!”
+「ちょっ、待った！　まだこっちは構えてないから！」=“Hey--, wait! I haven't even gotten into position!”
+「問答無用！！」=“Just give it up!!”

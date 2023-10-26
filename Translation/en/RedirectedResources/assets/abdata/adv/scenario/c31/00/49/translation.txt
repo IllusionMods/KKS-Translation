@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「やっぱり誰かと食べるご飯は美味しいなぁ」=
-//「……急にどうした？　まぁ、私も同意はするが」=
-//「ああ、いや……[H名]と食べるといつもより美味しいなぁと思ったら、つい口に出してて……恥ずかしい……」=
-//「そ、そんな照れた反応をするなっ。こっちまで恥ずかしくなるだろう」=
+「やっぱり誰かと食べるご飯は美味しいなぁ」=“Eating with someone really does make food tastier.”
+「……急にどうした？　まぁ、私も同意はするが」=“...What is it now? Well, not that I disagree.”
+「ああ、いや……[H名]と食べるといつもより美味しいなぁと思ったら、つい口に出してて……恥ずかしい……」=“Aah, no... I was just thinking how it tasted better than usual since you're here too, and I ended up saying it out loud... so embarrassing...”
+「そ、そんな照れた反応をするなっ。こっちまで恥ずかしくなるだろう」=“D-Don't blush so much--! You're gonna make me embarrassed too.”

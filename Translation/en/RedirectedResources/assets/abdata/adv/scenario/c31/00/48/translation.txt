@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「メニューをずっと見てるけど、どうかしたの？」=
-//「どんな料理が出てくるか全く想像できないメニューがあってな……これなんだが」=
-//「『ナーベーラーンブシー』か……ナーベーってのは鍋のことかな？」=
-//「ここの方言はけっこう変わっているから、そんな単純ではないと思うぞ」=
-//「そっか……じゃあ、検索してみる？」=
-//「現代人の悪いところが出たな。すぐに調べたりせずに想像力を働かせろ」=
-//「ご、ごめん……」=
+「メニューをずっと見てるけど、どうかしたの？」=“You've been staring at the menu for a bit, something wrong?”
+「どんな料理が出てくるか全く想像できないメニューがあってな……これなんだが」=“Nah, it's just that I can't tell at all what this is supposed to be... look at it.”
+「『ナーベーラーンブシー』か……ナーベーってのは鍋のことかな？」=“Nabera n'bushi, huh... I wonder if the nabe's supposed to be a hotpot?”
+「ここの方言はけっこう変わっているから、そんな単純ではないと思うぞ」=“The dialect here's pretty weird so I don't think it's that simple.”
+「そっか……じゃあ、検索してみる？」=“I see... then, wanna look it up?”
+「現代人の悪いところが出たな。すぐに調べたりせずに想像力を働かせろ」=“There it is, the easy way out the phone generation always goes for. Don't immediately look things up, atleast try to use your imagination.”
+「ご、ごめん……」=“S-Sorry...”

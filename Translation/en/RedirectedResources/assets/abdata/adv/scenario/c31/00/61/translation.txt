@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]、ここではオイル塗りが出来るみたいだよ」=
-//「なぜ、それを私に言うんだ？」=
-//「興味があるかと思って……よかったら塗ろうか？」=
-//「なんだか下心があるような気がするが……まぁいい。変な気はおこすなよ？」=
-//「わ、分かってるよっ」=
+「[H名]、ここではオイル塗りが出来るみたいだよ」=“[H名], seems like we can rub oil here onto ourselves.”
+「なぜ、それを私に言うんだ？」=“Why... are you telling me that?”
+「興味があるかと思って……よかったら塗ろうか？」=“I thought you might be interested... want me to rub it on you?”
+「なんだか下心があるような気がするが……まぁいい。変な気はおこすなよ？」=“I feel like your intentions aren't as pure as you're making them out to be... but well, whatever. No weird stuff, got it?”
+「わ、分かってるよっ」=“I-I know--!”
