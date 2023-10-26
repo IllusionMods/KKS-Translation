@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「Ｏｈ，ワタシ、ついにアナタとＳｅｘしちゃいマスカ！」=“<Oh>, I'm going to have <sex> with you at last!”
-「うん、俺達恋人同士だし、そろそろどうかなってね」=“Yeah, I mean, we're lovers, so I'm thinking it's that time, you know?”
-「Ｏｆ　ｃｏｕｒｓｅ！　ワタシ、待ってまシタ！　とても嬉しいデス！」=“<Of course!> I've been waiting! I am very happy!”
-「そ、そこまで喜んでくれるならやりがいがある、かな……？」=“S-since you're this happy, then I guess it's all worthwhile...?”
-「Ｙｅｓ！　早くシマショウ！　ワタシのこと、いっぱい愛してくだサイ！」=“<Yes!> Come on, hurry up! Please love me a lot!”
+「Ｏｈ，ワタシ、ついにアナタとＳｅｘしちゃいマスカ！」=“Oh, I'm finally going to have sex with you, huh!”
+「うん、俺達恋人同士だし、そろそろどうかなってね」=“Yeah, we're a couple already so, I thought it was about time.”
+「Ｏｆ　ｃｏｕｒｓｅ！　ワタシ、待ってまシタ！　とても嬉しいデス！」=“Of course! I've been waiting for this! I'm really happy right now!”
+「そ、そこまで喜んでくれるならやりがいがある、かな……？」=“I-If you're that happy about it, I guess it makes it worth it then...?”
+「Ｙｅｓ！　早くシマショウ！　ワタシのこと、いっぱい愛してくだサイ！」=“Yes! Let's do it right now! Please love me lots!”

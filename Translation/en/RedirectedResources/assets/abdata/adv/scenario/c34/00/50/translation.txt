@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ホテルで食べるの、とてもＭａｔｕｒｅデス」=“Eating at the hotel is very <mature> desu.”
-「大人っぽい、か。確かに普段なら行かないところだろうからなぁ」=“Mature, huh? It's certainly not a place where I'd normally go.”
-「フフッ、この先、大人なＤａｔｅしたら、ホテルで食事、楽しみたいデスネ」=“Fufu, when we have adult <dates> later on, I would like to enjoy a meal at a hotel.”
-「あぁ、その時はしっかりいいとこ予約入れとくよ」=“Ahh, then I'll make sure that I make a reservation at a nice place.”
-「ハイ！　楽しみにしてマース！」=“Yes! I look forward to it!”
+「ホテルで食べるの、とてもＭａｔｕｒｅデス」=“Eating at a hotel, feels very mature.”
+「大人っぽい、か。確かに普段なら行かないところだろうからなぁ」=“Guess it does. It's not a place you come everyday to, for sure.”
+「フフッ、この先、大人なＤａｔｅしたら、ホテルで食事、楽しみたいデスネ」=“Fufuh--, if we have more mature dates in the future, we'd probably dine at more hotels like these.”
+「あぁ、その時はしっかりいいとこ予約入れとくよ」=“Yeah, you can leave it to me to reserve tables at nice places for us at those times.”
+「ハイ！　楽しみにしてマース！」=“Alright! I'm looking forward to it!”

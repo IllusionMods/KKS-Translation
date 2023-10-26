@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ごちそうさまでシター、また食べまショウ！」=“That was a delicious meal- Let's eat again!”
+「ごちそうさまでシター、また食べまショウ！」=“That was very good~, let's eat together again!”

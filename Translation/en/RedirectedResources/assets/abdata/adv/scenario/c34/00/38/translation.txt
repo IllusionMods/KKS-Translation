@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「Ｂｅａｃｈデース！　ワタシと何して遊びますカ？」=“<Beach> desu! What do you want to play with me?”
-「そうだなー……んー、[H名]と遊べれば何でもよかったからなー……」=“Let's see... nh- anything's fine, as long as I get to play with you, [H名]-...”
-「それならワタシ、アナタと一緒に遊びたかったアリマス！」=“Then I want to play with you, too!”
-「お、なになに？」=“Oh, what, what?”
-「ソレハ――」=“That's so-”
+「Ｂｅａｃｈデース！　ワタシと何して遊びますカ？」=“It's the beach~! What do you want us to do today?”
+「そうだなー……んー、[H名]と遊べれば何でもよかったからなー……」=“Let's see~... nnn, see, for me, as long as I get to spend time with you, I don't really care so...”
+「それならワタシ、アナタと一緒に遊びたかったアリマス！」=“In that case, there's something I've wanted to do with you here!”
+「お、なになに？」=“Oh, what is it?”
+「ソレハ――」=“That's--”

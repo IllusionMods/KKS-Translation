@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「サンシン、ｇｕｉｔａｒもｖｉｏｌｉｎも全然違いマス」=“Sanshin, <guitar> and <violin> are totally different.”
-「そうだね、こういう楽器はちょっとした差で全然違う音が出るからなぁ」=“That's right. They're only slightly different, but they each have a totally different sound.”
-「Ｙｅｓ，デモ、どれもｕｎｉｑｕｅでどれもイイデス」=“<Yes>, but all are <unique> and all are good!”
-「うんうん、よし、もう少し練習してみよっか」=“Yeah, yeah, right, so let's practice some more.”
-「ハイ！　いっぱい鳴らしマース！」=“Yes! Let's really ring out!”
+「サンシン、ｇｕｉｔａｒもｖｉｏｌｉｎも全然違いマス」=“Sanshins, guitars and violins, they're all different.”
+「そうだね、こういう楽器はちょっとした差で全然違う音が出るからなぁ」=“Yeah, just a bit of a difference and they make such a completely different sound, don't they?”
+「Ｙｅｓ，デモ、どれもｕｎｉｑｕｅでどれもイイデス」=“Yes, but, they're all unique and they're all nice.”
+「うんうん、よし、もう少し練習してみよっか」=“Yepyep, alright, let's practice it for a bit more.”
+「ハイ！　いっぱい鳴らしマース！」=“Yes! I'mma play it lots~!”

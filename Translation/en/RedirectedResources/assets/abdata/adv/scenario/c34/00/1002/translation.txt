@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「卓球台があるし、一勝負しない？」=
-//「Ｙａｙ♪　Ｐｉｎｇ　ｐｏｎｇダイスキ♪」=
-//「あはは、ピンポンか。あっちでもやってたんだ？」=
-//「トキドキ、ネ！　公園にこのｔａｂｌｅ、あるカラ！」=
-//「え、公園に卓球台あるの？」=
-//「大きいトコロにあって、ｇａｌｌｅｒｙもイッパイ、ミンナで楽しくＰｉｎｇ　ｐｏｎｇ♪　Ｐｉｎｇ　ｐｏｎｇ♪」=
-//「へぇ～、それは楽しそうだね」=
-//「ワタシはミンナで楽しくも、アナタとふたりでも、ドッチも楽しいヨ♡」=
-//「[H名]はいつでも楽しそうでいいね。俺も楽しんじゃうぞ」=
-//「Ｙｅａｈ♪　ふたりでｌｅｔ’ｓ　Ｐｉｎｇ　ｐｏｎｇ♪」=
-//「さすがにやってただけあってうまいね～」=
-//「Ｔｈａｎｋｓ♪　マダマダできるケド、Ｏｎｅ　ｍｏｒｅ？」=
-//「望むところ！」=
-//「ＯＫ～♪　……Ｉ　ｋｎｏｗ！　勝った方が、負けた方にＣｈｕするの、賭けナイ？」=
-「えっ！？」=“Eh!?”
-//「ソッチの方が、盛り上がる、デショ♡　ｌｅｔ’ｓ　ｌｏｖｅ　ｌｏｖｅ　Ｐｉｎｇ　ｐｏｎｇ♪」=
-//（[H名]、大胆だなぁ～……これは勝っても負けても嬉しいね）=
+「卓球台があるし、一勝負しない？」=“They've got a table here, wanna go for a round of table tennis?”
+「Ｙａｙ♪　Ｐｉｎｇ　ｐｏｎｇダイスキ♪」=“Yay♪ I love ping pong♪”
+「あはは、ピンポンか。あっちでもやってたんだ？」=“Ahahah, do you now? Did you play it over there too?”
+「トキドキ、ネ！　公園にこのｔａｂｌｅ、あるカラ！」=“Sometimes! They have a table, at the park near our house!”
+「え、公園に卓球台あるの？」=“Eh, a table tennis table at the park?”
+「大きいトコロにあって、ｇａｌｌｅｒｙもイッパイ、ミンナで楽しくＰｉｎｇ　ｐｏｎｇ♪　Ｐｉｎｇ　ｐｏｎｇ♪」=“It's in a really big place, and it's got a giant seating area too so, we'd just all get together and ping pong♪ ping pong♪ the whole time.”
+「へぇ～、それは楽しそうだね」=“Hoh~, that does sound pretty fun.”
+「ワタシはミンナで楽しくも、アナタとふたりでも、ドッチも楽しいヨ♡」=“For me, whether it's with everyone, or whether it's just us, both are fun♡”
+「[H名]はいつでも楽しそうでいいね。俺も楽しんじゃうぞ」=“You really do find everything fun, don't you? Guess I'll enjoy myself for today too.”
+「Ｙｅａｈ♪　ふたりでｌｅｔ’ｓ　Ｐｉｎｇ　ｐｏｎｇ♪」=“Yeah♪ Let's play ping pong together♪”
+「さすがにやってただけあってうまいね～」=“You really are pretty darn good, aren't you~”
+「Ｔｈａｎｋｓ♪　マダマダできるケド、Ｏｎｅ　ｍｏｒｅ？」=“Thanks♪ I can keep going, do you wanna go for one more?”
+「望むところ！」=“I'd like nothing more!”
+「ＯＫ～♪　……Ｉ　ｋｎｏｗ！　勝った方が、負けた方にＣｈｕするの、賭けナイ？」=“Ok~♪ ...I know! Wanna make a bet? The one who wins, has to kiss the loser.”
+「えっ！？」=“Eh--!?”
+「ソッチの方が、盛り上がる、デショ♡　ｌｅｔ’ｓ　ｌｏｖｅ　ｌｏｖｅ　Ｐｉｎｇ　ｐｏｎｇ♪」=“That'd make it way more interesting, no?♡ Let's play lovey-dovey ping pong♪”
+（[H名]、大胆だなぁ～……これは勝っても負けても嬉しいね）=(She sure is bold~... No matter who wins or loses, we both win this way.)
