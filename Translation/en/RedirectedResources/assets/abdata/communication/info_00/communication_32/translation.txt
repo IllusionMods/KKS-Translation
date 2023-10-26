@@ -278,7 +278,7 @@
 「少し胸躍る気分です……私がこんなことを言うのは変ですか？」=“I feel a bit excited... Is it weird for me for me to say that?”
 「もう、あなたという人は……。はい、もう帰りますよ」=“Jeez, you're so... Yes, I'm going home now.”
 「あなたともっと仲良くなるにはどうしたらいいんでしょうか？　今よりももっと、です」=“What do I need to do to become even closer to you? Even closer than we are now.”
-「私も人並みには興味があるんですよ？　……皆まで言わせないでください」=“I'm also just as interested in it as everyone else, you know?D$3 $4on't make me say the whole thing.”
+「私も人並みには興味があるんですよ？　……皆まで言わせないでください」=“I'm also just as interested in it as everyone else, you know? Don't make me say the whole thing.”
 「あっ！　あなたでしたか。すみません、ドキドキが収まるまで少々お待ちを」=“Ah--! So it was you. I'm sorry, please wait a moment, until my heart settles down.”
 「あなたが声を掛けてくれるのを待っていました」=“I was waiting for you to call out to me.”
 「よかった、丁度あなたに会いたいと思っていたところです」=“Great, I was just thinking about how much I wished to see your face.”
