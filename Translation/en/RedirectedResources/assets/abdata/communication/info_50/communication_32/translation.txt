@@ -220,7 +220,7 @@
 「すみません、一旦お別れの時間です。では、また」=“I'm sorry, we'll have to part ways here for now. Then, till next time.”
 「またお話しましょう、その時を楽しみにしています」=“Let us chat again, I am looking quite forward to it.”
 「また今度、時間があるときにゆっくりお話ししましょう」=“Let us chat again at length, when we both have time.”
-「わかりました。……あの。また話し掛けて下さいね」=“Understood.L$3 $4isten. Call out to me again sometime, alright?”
+「わかりました。……あの。また話し掛けて下さいね」=“Understood. Listen. Call out to me again sometime, alright?”
 「あなたがそれで良いのでしたら……」=“If you're okay with that...”
 「俺、君のことが好きだ。よかったら付き合ってほしい」=“I am in love with you. If possible, I want you to go out with me.”
 「……少し、心を整理する時間を下さい」=“...Please, do give me a bit of time to sort my heart out.”
