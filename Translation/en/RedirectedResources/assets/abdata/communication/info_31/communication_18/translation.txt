@@ -20,7 +20,7 @@
 「本来はそうでもない、つもりなんですけど、どうなんでしょう」=“I try not to come off that way but, well, I wonder?”
 「この島で何かしたい事はある？」=“Is there anything you'd like to do in particular, on this island?”
 「とりあえず、無事に過ごしたいです」=“For the time being, my only wish is to make it out safely.”
-「危険な場所には近づかないようにしたいです。安全第一ですから」=“I wish to keep away from dangerous places. Safety is most important, afterall.”
+「危険な場所には近づかないようにしたいです。安全第一ですから」=“I wish to keep away from dangerous places. Safety is most important, after all.”
 「えっと、違う話題にしてもらっても、いいですか？」=“Erhm, could we talk about something else, please?”
 「前に……うわっ、ごめん。急に躓いて……」=“The other... uwah--, sorry. I just tripped on...”
 「い、いえ……私は何ともないので、大丈夫です。むしろ私の体質の所為かもしれないので……」=“I-It's fine... I'm not hurt so it's alright. If anything, it might actually be my fault...”
@@ -328,7 +328,7 @@
 「幸せなんですが……たまに幸せすぎて怖くなることがあります。不安な時は強く抱きしめて欲しいです」=“I do feel happy but... sometimes I feel so happy, it makes me scared. At those times, I'd love it if you could hug me tight.”
 「やっぱり股間が一番感じる？」=“I've already got a hunch but, is your crotch the most sensitive part on your body?”
 「……はい。だから、いっぱいイジメてくださいね……？」=“...Yes. So, please bully it lots, okay...?”
-「知ってるから、いつもあんなに意地悪するんでしょう？」=“You already know the answer, no? That's why you always torment me there, afterall.”
+「知ってるから、いつもあんなに意地悪するんでしょう？」=“You already know the answer, no? That's why you always torment me there, after all.”
 「恥ずかしいからノーコメントです！」=“It's embarrassing, so no comment!”
 「押し倒すのと押し倒されるのどっちが好き？」=“Which do you like better, being pushed down or being the one doing the pushing?”
 「むさぼられるのも奉仕するのも、どちらも捨てがたいですね」=“It's hard to pick a favourite between being devoured and serving you.”

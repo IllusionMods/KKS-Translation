@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「こういう作業って、無言で集中しちゃうよね」=“Stuff like this really makes you just focus in silence, doesn't it?”
-「うん。やるからには綺麗に仕上げたいもんね」=“Yeah. Since we're already doing it, we might as well do it properly, afterall.”
+「うん。やるからには綺麗に仕上げたいもんね」=“Yeah. Since we're already doing it, we might as well do it properly, after all.”
 「あ、ちょっとはみ出しちゃった」=“Ah, I messed up a bit.”
 「大丈夫だよ。それぐらいなら多分落ちるから」=“Don't worry. I think that much is fine.”
 「なんか、かなり慣れてきてるんじゃないの？」=“Is it just me or are you pretty used to doing this stuff?”

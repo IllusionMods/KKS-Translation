@@ -15,7 +15,7 @@
 「うん、そう言ってくれると心強いね」=“Yep, I knew you'd say that. Thanks.”
 「……でも、おまえが危険な目にあうのは嫌だな」=“...But, I definitely wouldn't wanna see you in danger.”
 「だから、このキレイで、穏やかで、心洗われるような素晴らしいビーチで勘弁しておくよ」=“So I'll look the other way and let this beautiful, peaceful and heart cleansing wonderful sea be.”
-「なんだ。ここが気に入ってるじゃん」=“What, so you like it afterall.”
+「なんだ。ここが気に入ってるじゃん」=“What, so you like it after all.”
 「そりゃ気にいるに決まってるだろ？　こんなにキレイな浜辺……他で見られるわけがないし」=“Well, of course I do. It's such a pretty beach... We can't see this elsewhere.”
 「うん、いいところだね……ここは」=“Yeah, it really is nice... this place.”
 「けど、近々現実世界に帰らないとな。それまでたっぷりと、リゾートを楽しむことにしよう」=“But, we'll have to go back to reality soon enough. Until then, let's enjoy this resort as much as we can.”

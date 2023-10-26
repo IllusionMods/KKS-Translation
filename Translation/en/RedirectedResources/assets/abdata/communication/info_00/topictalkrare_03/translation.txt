@@ -12,7 +12,7 @@
 「目もつぶらで可愛いし」=“Their big round eyes are adorable too.”
 「……でも、凶暴なのですよ？　うかつに手を伸ばしたりしたらズバーッ！　です」=“...But they're very ferocious, you know? If you carelessly extend a hand out to them, it'll be a snap--!”
 「知ってたんだね」=“So you already knew, huh?”
-「危険な生き物については、あらかじめ調べてですから！」=“I already looked up all the dangerous creatures, afterall!”
+「危険な生き物については、あらかじめ調べてですから！」=“I already looked up all the dangerous creatures, after all!”
 「月桃って実は桃の仲間じゃないらしいね」=“Seems like shell gingers (月桃: Moon Peach) aren't related to peaches.”
 「そうなのですか？　でも、確かに桃みたいな香りはしないのです」=“Is that so? But, I do suppose they don't really smell like peaches.”
 「爽やかだけど、ちょっとツンとくる感じだよね」=“It's a really invigorating yet pungent smell, isn't it?”

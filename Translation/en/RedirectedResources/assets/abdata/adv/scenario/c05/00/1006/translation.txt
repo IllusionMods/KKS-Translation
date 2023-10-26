@@ -17,5 +17,5 @@
 「うん……」=“Okay...”
 「それじゃあいくよ。せ～の……」=“Well then, here we go. One, two~...”
 「ふふっ。これで契約完了だね。これからもずっと、わたしのそばにいてね」=“Fufuh--. That's that contract signed then. Stay with me forever, okay?”
-「ああ。何があっても離さないよ。そういう契約だもんね」=“Will do. No matter what happens, I'm not gonna let you go. I just promised you that, afterall.”
+「ああ。何があっても離さないよ。そういう契約だもんね」=“Will do. No matter what happens, I'm not gonna let you go. I just promised you that, after all.”
 「うん！　えへへ。だ～い好きっ♪」=“Yep! Eheheh. I love you~♪”

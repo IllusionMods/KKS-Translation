@@ -22,7 +22,7 @@
 「都会に帰ったら、ここの自然が恋しくなりそうだな……」=“It's gonna be hard to not miss the nature on this island, once we go back to the city, isn't it...”
 「そうなったら、また来ればいいだけよー。島はずっとここにあるんだからねー」=“We can just come back here again at that time~. This place ain't going anywhere~”
 「[H名]って自然の中にいるのが似合いそうだよね」=“You feel like you belong right here, in the middle of nature, you know?”
-「ここと同じような所で育ったからねー。木の上で寝たこともあるよー」=“I was raised in a place just like this, afterall~. I've even slept on the top of a tree before~”
+「ここと同じような所で育ったからねー。木の上で寝たこともあるよー」=“I was raised in a place just like this, after all~. I've even slept on the top of a tree before~”
 「自然の音っていいよね。目を閉じて聞いてるだけで癒される……」=“The sounds of nature are really nice, aren't they? Just closing your eyes and listening to them is so soothing...”
 「そのまま眠ちゃってもいいよー。少ししたら起こしてあげるー」=“Feel free to just take a nap like that too~. I'll wake you up in a bit if you do~”
 「ここの海って、凄く綺麗な色だよね」=“The sea here's a really pretty color, isn't it?”

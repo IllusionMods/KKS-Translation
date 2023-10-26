@@ -4,7 +4,7 @@
 「この島には、レジャーが沢山あるよね」=“This island has a whole lot of activities, doesn't it?”
 「そうですね……それだけ沢山危険が付きまとうという事だと思います」=“Indeed... and there's just as many risks as well.”
 「どんなアクティビティが好きなの？」=“What sort of activities do you like?”
-「なるべく、危なくないのがいいです……何か起きてからじゃ遅いので」=“The ones that are as safe as possible... it would be too late if something were to happen, afterall.”
+「なるべく、危なくないのがいいです……何か起きてからじゃ遅いので」=“The ones that are as safe as possible... it would be too late if something were to happen, after all.”
 「この島にいるだけで、レジャー気分に浸れるよね」=“Just being on this island puts you in a leisure sorta mood, doesn't it?”
 「そうですね……いるだけでいいなら、私でも楽しめると思います」=“Indeed... if just being here can get the job done, I think I could enjoy myself too.”
 「ゆっくり散歩するだけでも、何となくアクティビティって感じがするよね」=“Even just walking around slowly feels like an activity in itself, doesn't it?”
@@ -20,7 +20,7 @@
 「これだけ自然が豊かだと、色んな生き物がいるんだろうね」=“With this much nature surrounding everything, I bet there's a whole bunch of different life around.”
 「ガイドブックで、危険な生物を調べておいたんで、気を付けないといけませんよ」=“I've checked up on the dangerous animals around here in the guidebook, we'd do best to be careful.”
 「この島の空気って、すごく澄んでる気がするよ」=“The air here feels ridiculously fresh and clean.”
-「車が少ないですからね……交通事故もほとんどないと思いますよ」=“There's not many cars here, afterall... I don't think there's very many traffic accidents here either.”
+「車が少ないですからね……交通事故もほとんどないと思いますよ」=“There's not many cars here, after all... I don't think there's very many traffic accidents here either.”
 「これだけ人の手が入ってないと、生活も不便じゃないのかな」=“With how few people live here, I wonder if daily life's inconvenient here?”
 「難しい問題ですけど、慣れてしまえば不便も楽しいって聞いたことがありますよ」=“That's quite the difficult question but, I've heard that once you get used to it, even the inconvenience of it all is something you start enjoying.”
 「この島、確かに暑いけどそんなに不快って訳じゃないよね」=“This island's definitely hot but, it doesn't feel that bad, does it?”

@@ -14,5 +14,5 @@
 「いいですね。国内のスポットもそうですけど、海外なんかも行ってみたいです」=“That sounds nice. Going diving somewhere in Japan sounds very nice too, but I'd love to go somewhere foreign as well.”
 「魚を見るだけじゃなくて、海底の遺跡を見たり……ふふっ、貴方と話しているとどんどん夢が膨らんでいきます」=“We don't have to stop at just looking at fish either, we could even go looking at some underwater ruins and whathaveyou... fufuh--, my dreams always end up expanding so wide whenever we talk.”
 「俺もだよ。いつかこの水槽の中みたいに綺麗な場所を[H名]と泳ぎたいな」=“Me too. Someday, I wanna go swimming somewhere pretty like this fishtank with you, [H名].”
-「ええ、約束です。早速、色々な場所を調べてみますね。善は急げ、ですから」=“Yes, that's a promise. I'll go ahead and check out all sorts of places, okay? They say to strike while the hammer's hot, afterall.”
+「ええ、約束です。早速、色々な場所を調べてみますね。善は急げ、ですから」=“Yes, that's a promise. I'll go ahead and check out all sorts of places, okay? They say to strike while the hammer's hot, after all.”
 （[H名]、すごく嬉しそうな顔してる。きっと俺も同じような表情してるんだろうな）=(She looks so happy. I bet I look just as happy right now too.)

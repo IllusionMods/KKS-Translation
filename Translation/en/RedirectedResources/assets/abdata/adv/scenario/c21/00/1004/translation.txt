@@ -17,7 +17,7 @@
 「びっくりはしたけど、俺も好きだし」=“It did catch me off guard but, I love you too, so.”
 「えへへ……うん♡　だから南の島の魔法にもありがとうだけど、ちゃんとふたりの関係を築いてくれたキミにもありがと♪」=“Eheheh... yeah♡ That's why, I'm thankful to the magic of this place too but, I'm more thankful to you, for building our relationship like this♪”
 「それはこっちのセリフでもあるよ。頼りないところあるかもだけど、これからもよろしくね」=“That's my line too. I know I'm not always the most reliable but, keep being with me, okay?”
-「頼りないなんて思ってないよ。だってキミの気持ちはすごく伝わってるから。以心伝心は難しいけど、これからもキミのことずっと理解してたい」=“I don't think of you as unreliable at all. I feel how much thought you put into everything for me, afterall. It's hard to understand each other just instinctively but, I want to keep understanding you.”
+「頼りないなんて思ってないよ。だってキミの気持ちはすごく伝わってるから。以心伝心は難しいけど、これからもキミのことずっと理解してたい」=“I don't think of you as unreliable at all. I feel how much thought you put into everything for me, after all. It's hard to understand each other just instinctively but, I want to keep understanding you.”
 「キミが怒るときも、悲しむときも、感情を理解できてれば寄り添えるし、嬉しいときも、キミがどうして笑ってるのかわかれば私も嬉しいから」=“Whenever you're angry, or sad, if I can figure it out then I can snuggle up to you and make you feel better, and when you're happy, I can be happy about it together with you.”
 「俺もそうしたいから、[H名]の前ではできるだけ自分を隠さないようにするよ。恥ずかしいとつい隠しちゃうけど……」=“I want that too, so I try to not hide myself in front of you as much as I can. Sometimes it gets hard when it's embarrassing but...”
 「それこそ南の島の魔法にかからなくっちゃ♪　ふたりともずっと開放的でいたら、すれ違いとかも少なくなるよ！」=“That's exactly why we need the magic of this place♪ If we always stay open with each other like we are now, we won't have misunderstandings between us either!”

@@ -328,7 +328,7 @@
 「ま、まぁ、折角なら、使える所は使っておくべきだろう」=“W-Well, we ought to make use of all the places we can, no?”
 「このドスケベめ。私が思っていなくても、おまえはしたいのだろう？」=“You damn pervert. Even if I've never thought of it, you want to do it, no?”
 「やっぱり股間が一番感じるところ？」=“Is your crotch really your most sensitive place?”
-「あ、あぁ。そういうところだからな……おいやめろ、ジロジロ見るな」=“Y-Yeah. It's that sort of place afterall... Oi, stop it, don't stare at me like that.”
+「あ、あぁ。そういうところだからな……おいやめろ、ジロジロ見るな」=“Y-Yeah. It's that sort of place after all... Oi, stop it, don't stare at me like that.”
 「どうだろうな？　自分で確かめてみればいいんじゃないか？」=“Who knows? You just need to confirm it for yourself, no?”
 「はぁ、性欲の塊だなおまえは……少しはムードも考えろ」=“Haa, you really are just a lump of lust, aren't you... Try paying attention to the mood as well.”
 「俺と恋人になってから、オナニーの回数って増えた？」=“Have you started masturbating more after becoming my girlfriend?”

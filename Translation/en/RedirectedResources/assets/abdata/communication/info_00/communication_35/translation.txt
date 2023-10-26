@@ -151,7 +151,7 @@
 「私がよーやるとしたらRPGかなぁ」=“I guess RPGs for me~”
 「そうやな、私はアクションゲーが好きやなー」=“Lemme think, I think I like action games~”
 「食事には気を使ったりする？」=“Do you pay attention to what you eat?”
-「もちろん、自分の口に入るものやもん」=“Of course, it's stuff I'm putting in my mouth afterall.”
+「もちろん、自分の口に入るものやもん」=“Of course, it's stuff I'm putting in my mouth after all.”
 「んー、私は食べれれば何でもええかも……？」=“Nn~, as long as it's edible, I don't think I care...?”
 「んーと……もし良かったら他の話せん？」=“Mmm... Can we talk about something else?”
 「こんなに暑いと、冷たいものが……」=“When it's this hot, something nice and cool...”
@@ -335,7 +335,7 @@
 「見つめ合うん？　ふふっ、君、格好いいよ♪」=“We gonna look each other in the eyes? Fufu--, you're so cool♪”
 「やだっ、ちょっとドキドキしてくる……」=“Gosh--, my heart's throbbing so much...”
 「もう見たらいかんって。ばり恥ずかしいもん」=“Don't look at me anymore, it's really embarrassing.”
-「ふふっ、そんなに私の胸が気になるん？　まぁ、男の子にはないものやもんね」=“Fufu--, are you that curious about my chest? Well, I guess that's to be expected, boys don't have any afterall.”
+「ふふっ、そんなに私の胸が気になるん？　まぁ、男の子にはないものやもんね」=“Fufu--, are you that curious about my chest? Well, I guess that's to be expected, boys don't have any after all.”
 「ちょっと見過ぎやない？　あっ、ううん、別に嫌なわけじゃないとよ？」=“Aren't you staring too much? Ah--, no, not to say I hate it, okay?”
 「君、もしかして私におっぱいって言わせたいだけやろ？　言っちゃーけん、これ以上見たらいかんよ？　はい、おっぱい♪　おっぱい♪」=“You just want me to say "boobs", don't you? I'll say it, so don't look at them so much, okay? Here: Boobs♪ Boobs♪”
 「もう……彼女が拗ねとるのくらい分かるやろ？」=“Jeez... you should be able to tell when your girlfriend is sulking, no?”

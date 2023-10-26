@@ -12,7 +12,7 @@
 「そんなに意外？」=“Was it that unexpected?”
 「意外……かな？　どうなんだろ～」=“I... guess? I dunno~”
 「冷静になってみると、そこまでどひゃーって感じではないような気もしてきたかな～」=“Now that I'm thinking about it more calmly, I guess it wasn't that much of a shot out of nothing~”
-「……私とキミって、割と仲良しだったもんね～」=“...We were pretty close too, afterall~”
+「……私とキミって、割と仲良しだったもんね～」=“...We were pretty close too, after all~”
 「過去形！？」=“Past tense?!”
 「いや～、間違っちゃったっす」=“Ah, no~, slip of the tongue.”
 「……なんて、私のこういうノリにもキミは辛抱強く付き合ってくれるし」=“...Heh, you always patiently play along with my antics like that too.”

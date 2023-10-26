@@ -33,7 +33,7 @@
 「貴殿と半分に分け合うというのも、悪くないアイディアかもしれない」=“Perhaps sharing half of each with you, might not be a bad idea either.”
 //「<color%3Dyellow>紅型</color>の手ぬぐいはいいな。正に風流という感じだ」=
 「どの柄も綺麗で、全て欲しくなってしまうのが悩みの種だが……」=“Every single design looks so beautiful, I just cannot help but find myself wanting every single one...”
-「地域の文化を学んで損は無いからな。折角なら色々調べたいところだ」=“You cannot lose out by learning about the local culture, afterall. We're here already, so I'd love to learn about it all.”
+「地域の文化を学んで損は無いからな。折角なら色々調べたいところだ」=“You cannot lose out by learning about the local culture, after all. We're here already, so I'd love to learn about it all.”
 「そちらの話も興味深い。情報交換は大事だからな」=“That is also quite interesting to me. Information is quite important.”
 「ほう、それはそれで面白そうだ」=“Hoh, that sounds interesting in its own right.”
 「それはつまり……すまん、私が聞き役に回った方が良さそうだな」=“So essentially, you're... apologies, perhaps I ought to take the listener's role instead.”

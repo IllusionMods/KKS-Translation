@@ -23,7 +23,7 @@
 「あら、そんなにわたくしの性格が気になりまして？　おほほほ」=“Oh my, are you that interested in my personality? Ohohohoh.”
 「つまらないわね。もっと話題を選んでちょうだい」=“How uninteresting. Do pick better topics.”
 「色々興味深いね」=“You're very interesting, I'll give you that.”
-「でしょう？　当然ですわ。だってこのわたくしなんですもの」=“Aren't I? It's only natural. It is me and none other, afterall.”
+「でしょう？　当然ですわ。だってこのわたくしなんですもの」=“Aren't I? It's only natural. It is me and none other, after all.”
 「こういうリゾート地にはよく来るの？」=“Do you come to vacation islands like these a lot?”
 「ええ。ですが、国外へ行くことの方が多いかしら」=“Yes. However, I suppose we do tend to go out of Japan a whole lot more.”
 「ふぅ……やっぱり南の島は暑いね」=“Fuh... the south really is hot, huh?”
@@ -147,7 +147,7 @@
 「心配ご無用ですわ。わたくし、体調管理はしっかり出来ていますの」=“You needn't worry. I am quite physically fit.”
 「少々はしゃぎ過ぎているかもしれませんわね。少し自重しますわ」=“I may indeed be overdoing it a tad bit. I shall have to control myself.”
 「勝手な印象だけど、めちゃくちゃ歌が上手そうだよね」=“It's just my image of you, so feel free to deny it, but I feel like you'd make a great singer.”
-「おーっほっほっほ、当然得意ですわ！」=“Ohohohoh, of course, singing is one of my specialties, afterall!”
+「おーっほっほっほ、当然得意ですわ！」=“Ohohohoh, of course, singing is one of my specialties, after all!”
 「あら、勘が鋭い様で……わたくし、得意でしてよ」=“Oh my, you've quite the keen eyes... I am very good at it indeed.”
 「芸術に造詣が深そうだよね」=“I feel like you're someone very well versed in the arts, you know?”
 「おほほ、そう見えるのかしら？　あなたもセンスがありますわ」=“Ohohoh, do I seem that way? You've got quite the eyes yourself.”
@@ -289,7 +289,7 @@
 「オシャレなんて、学ぶものではありませんわ！　後から付いてくるものですもの」=“Fashion is not something to be learned! You must simply follow your betters.”
 「絶対に滑らないエピソードトークとかあったりする？」=“Is there any sort of topic that you can talk about that'll always land?”
 「おほほほ、わたくしの話術にかかれば、どんな話題でも面白くなりますわ」=“Ohohohoh, with my talent at the art of conversation, I could make anything sound quite riveting.”
-「絶対となると難しいですわね……価値観は人それぞれですもの」=“That's quite the hard ask... everyone has different interests, afterall.”
+「絶対となると難しいですわね……価値観は人それぞれですもの」=“That's quite the hard ask... everyone has different interests, after all.”
 「この島でお気に入りのスポットって出来た？」=“Found a spot you love around this place yet?”
 「あなたの隣ですわ！」=“Yes, your side!”
 「この島自体がお気に入りですわ！」=“I love this island itself!”
@@ -346,7 +346,7 @@
 「あらあら、そんなにわたくしの手を？　なんだか不憫になってまいりましたわ」=“Oh my, my hands are that appealing to you? I almost feel compassion for you.”
 「おほほ、もっと他に触りたい場所はありませんの？」=“Ohohoh, are there no other places you'd rather touch me?”
 「おほほほ、そんな触り方でよくって？　遠慮しなくてもよろしいのに」=“Ohohohoh, are you satisfied with simply that? You needn't hold back, you know?”
-「何度でも触りたくなりますわよね？　わたくしの胸なんですもの……当然ですわ」=“You just cannot help yourself, can you? It is my chest, afterall... it is only natural.”
+「何度でも触りたくなりますわよね？　わたくしの胸なんですもの……当然ですわ」=“You just cannot help yourself, can you? It is my chest, after all... it is only natural.”
 「これ以上触られたら、変な気持ちになってしまいますわ！」=“If you do it any more, I will get into a strange mood!”
 「おほほほ、髪に触りたかったの？　優しく触るなら、よろしくてよ」=“Ohohohoh, you wanted to touch my hair? You can, as long as you remain gentle.”
 「……撫でられてるだけ、というのも退屈ですわ。もう止めてちょうだい」=“...Just having my head stroked, gets quite boring. Stop it there, will you?”
@@ -388,7 +388,7 @@
 「今すぐあなたと遊びたい気分ですの」=“I am in the mood for some fun right now, with you.”
 「おほほ、素敵なお返事をありがとうございます。既に嬉しくなってしまいましたわ」=“Ohohoh, thank you very much for the wonderful and quick reply. I already feel happier.”
 「タイミングが悪かった様ですわね……」=“Seems that my timing was off, clearly...”
-「ええ、構いませんわ。二人でした方が楽しめるに決まってますもの」=“Yes, I do not mind. We'd enjoy ourselves more if we do it together, afterall.”
+「ええ、構いませんわ。二人でした方が楽しめるに決まってますもの」=“Yes, I do not mind. We'd enjoy ourselves more if we do it together, after all.”
 「気になる体験がありますの。エスコートしてくださらない？」=“There's an experience I really am quite interested in. Will you be my escort for the day?”
 「おほほほ、嬉しいですわ。では、さっそく申し込みに行きましょう」=“Ohohoho, I appreciate it quite a bit. Well then, let us go sign up right away.”
 「あまり興味がないのですか？　……仕方ありませんわ」=“Are you not interested, perhaps? ...It cannot be helped then.”

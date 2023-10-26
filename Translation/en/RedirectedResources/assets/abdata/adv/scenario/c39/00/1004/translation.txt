@@ -11,13 +11,13 @@
 「キミもきっと、いいお父さんになるはずよ－。母娘で取り合うくらいの、カッコイイお父さんに……」=“You'd probably make a great dad too~. A dad so cool, I'd probably have to compete with our children for your attention...”
 「そ、そうかな？　そこまでカッコよくいられるといいけど……」=“Y-You think? Not sure I'll be able to be that cool, I hope I am...”
 「キミなら大丈夫♪　自分が保証するさー。それで、いつか……ここの浜辺を、今度は三人で……」=“You'll be fine♪ I guarantee it~. And maybe someday... we could come to this beach again, as three instead of two...”
-「……えっと、[H名]はやっぱり……早く結婚したいとか考えてるの？」=“...Erhm, so you wanna... get married pretty quickly afterall, huh?”
+「……えっと、[H名]はやっぱり……早く結婚したいとか考えてるの？」=“...Erhm, so you wanna... get married pretty quickly after all, huh?”
 「あいっ、結婚！？　ぁ、う……今のはその、急かしてるとかではなくてー。ただ、自分の夢みたいな……」=“Aii--, married!? Ah, uu... I wasn't trying to rush you or anything there~. It's just, one of my dreams...”
 「じゃあ、それは今日から二人の夢だね」=“Then, I guess I'll have to make it mine too.”
 「え……それってキミも……うぅ、そう思っていいのー？　自分、本気で信じちゃうよー？」=“Eh... do you really wanna... uuu, are you sure you wanna say that~? I really will end up believing in it, you know~?”
 「うん、信じて欲しい。いつか、もっとちゃんとした言葉で伝えるから……その時まで待ってくれる？」=“Yep, I want you to believe in it. One day, I'll say it to you in better, more proper words so... will you wait until then?”
 「待つ！　いくらでも待つよ！　えへ、この海は……思い出の海になったねぇ……」=“I will! I'll wait as long as it takes! Eheh, this sea... we'll never forget this sea, will we~...”
-「来るたびに思い出して、急かさないでね？」=“Don't remember this everytime we come here and try to rush me, okay?”
+「来るたびに思い出して、急かさないでね？」=“Don't remember this every time we come here and try to rush me, okay?”
 「もう、だからさっきのは急かしてるとかじゃないって……キミは優しいのか意地悪なのか時々分からないさー」=“Jeez, I told you, I wasn't trying to rush you with that... sometimes I can't tell whether you're super sweet or a big bully on the inside~”
 「ごめん。ほら、好きな子には意地悪したくなっちゃうって言うでしょ？」=“Sorry. C'mon, they say that it's in a boy's nature to want to tease the girl they love, no?”
 「んー、そういうことなら……仕方ないってことにしておいてあげるさー。えへへ、好きな子かぁ……」=“Nn~, in that case... I'll write it off as something you can't help~. Eheheh, the girl you love, huh~...”

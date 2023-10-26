@@ -58,7 +58,7 @@
 「それを枯らすって、どれだけ適当な……」=“Just how careless do you have to be, to get one of those to dry up...”
 「ま、まだ、あのときは子供だったから！　ははは」=“I-I was still, you know, I was still a kid back then! Hahahah.”
 「マンタって、デカいよね……」=“Mantas are really big, aren't they...”
-「世界最大のエイですからなぁ、デカくて当然なんだなぁ」=“They're the biggest rays you can find, afterall, it's normal for them to be that big.”
+「世界最大のエイですからなぁ、デカくて当然なんだなぁ」=“They're the biggest rays you can find, after all, it's normal for them to be that big.”
 「知っているかい？　ドデカい奴は横幅が８メートルくらいあるのですぞ」=“Did you know? The biggest ones get as big as 8 meters wide.”
 「えっ、そうなの！？」=“Eh--, really?!”
 「いや……え？　それってデカすぎない……？」=“No, wait... eh? Isn't that a bit too big though...?”

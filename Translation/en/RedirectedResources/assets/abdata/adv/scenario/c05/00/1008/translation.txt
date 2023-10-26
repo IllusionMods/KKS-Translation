@@ -10,7 +10,7 @@
 「あはは。おみくじの結果みたいだね」=“Ahahah. Just like a shrine fortune slip, huh?”
 「安心して。悪い意味はひとつもないから。どの星からも良いエネルギーを感じる」=“Don't worry. There's not a single one with a bad meaning to it. I can feel good energies from every single one of them.”
 「きっとこの流れ星は、“かれら”からの贈り物なんだよ。わたし達の関係を祝福してくれてるのかも」=“I'm sure of it, all these shooting stars are a gift from "them" to us. They might be blessing our relationship.”
-「そうだといいな。これからも[H名]のそばにいたいから」=“I hope so. I wanna keep being by your side, afterall.”
+「そうだといいな。これからも[H名]のそばにいたいから」=“I hope so. I wanna keep being by your side, after all.”
 「えへへ。わたしもだよ」=“Eheheh. Me too.”
 「これだけ星が綺麗に見えるなら、わたし達の声が宇宙に届くはずだよ。交信してみよっ」=“We can see the stars so clearly, I bet our voices will definitely reach space. Let's try communicating--”
 「う～ん。難しそうだなぁ」=“Nnn~. Sounds kinda difficult.”

@@ -11,7 +11,7 @@
 「そういえば、ヤシガニって食べられるらしいね」=“Reminds me, seems like you can eat coconut crabs, huh?”
 「そうなの？　あれって虫みたいなものでしょう？」=“Really? I mean, they're kinda like bugs, no?”
 「でも食べられる虫もいるでしょ？」=“But there's bugs you can eat out there too, no?”
-「……でも、食べない方がいいわ。だってあんなに可愛いんだもの」=“...Even if we can, we shouldn't. They're so darn adorable afterall.”
+「……でも、食べない方がいいわ。だってあんなに可愛いんだもの」=“...Even if we can, we shouldn't. They're so darn adorable after all.”
 「……か、可愛いかなぁ？」=“...A-Are they?”
 「ええ、見ているだけでキュン♪　ってしちゃうんだもの」=“Yes, just looking at them makes my heart flutter♪”
 「そ、そうなんだ……まあ、食べないけどね」=“I-I see... well, not like I was gonna go and eat one, of course.”
@@ -49,7 +49,7 @@
 「ふふふ、なんだか君、お父さんみたいな顔になってるわよ」=“Fufufuh, you're looking very fatherly right now, you know?”
 「……ホントに？」=“...Really?”
 「ひな鳥ちゃんも、君をお父さんって思ってるかも……」=“Maybe the little chick thinks of you as its daddy too...”
-「……鳥って、生まれた直後に見たものを親に思うらしいからね」=“...They do think of anything they lay their sight on first after hatching as their parent, afterall, don't they?”
+「……鳥って、生まれた直後に見たものを親に思うらしいからね」=“...They do think of anything they lay their sight on first after hatching as their parent, after all, don't they?”
 「引き取って、育ててあげられればいいのにね」=“You could just pick it up, and raise it as your own.”
 「うん……ちょっと情がわいちゃった。でも自然の中が一番だから」=“Yeah... a part of me does want to, for sure. But leaving it be within nature would be the best choice.”
 「ふふ、迷いを吹っ切る表情……すごく素敵だわ。ゾクゾクしちゃう♪」=“Fufuh, that serious and hardened expression... it's lovely. It's making my heart pound♪”

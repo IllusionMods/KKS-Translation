@@ -4,4 +4,4 @@
 「ありがとう、すごく気持ち良かったわ」=“Thanks, that felt really nice.”
 「いい感じだったわ、どうもありがとう」=“That was very nice, thank you so much.”
 「綺麗に塗ってくれたのね。助かったわ」=“You rubbed it in really nicely, I could tell. Thanks.”
-「どうしたの？　塗ってくれなかったのね」=“What's wrong? You didn't do it afterall, huh?”
+「どうしたの？　塗ってくれなかったのね」=“What's wrong? You didn't do it after all, huh?”

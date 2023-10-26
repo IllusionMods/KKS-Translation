@@ -31,7 +31,7 @@
 「はぁ、付き合って欲しい……か。気持ちはすごく……嬉しいけど……」=“Haah, you want me to go out with you... huh? I mean, I feel really... happy right now but...”
 「どうかな？　返事が欲しい。よろしくお願いします！」=“How about it? I want your answer. Please!”
 「……どうしようかしら」=“...I wonder what I should do.”
-「もしかしてダメだとか……？」=“Is it gonna be a no afterall...?”
+「もしかしてダメだとか……？」=“Is it gonna be a no after all...?”
 「まだ、ダメとは言っていないじゃない。そう簡単に諦めちゃうの？」=“I didn't say that yet, did I? Are you going to give up that easily?”
 「じゃ、じゃあ、ＯＫってことで良いの！？」=“T-Then, is it a yes then?! Can I take it as a yes?!”
 「良いとも言っていないわ。そんな風に先走られても困るんだけど……」=“I didn't say that either. Could you stop running around like a runaway train all by yourself?...”
@@ -39,7 +39,7 @@
 「結局、付き合って貰えるのかな？　それとも、やっぱりダメ？」=“In the end, will you or won't you go out with me? Is it a yes or a no?”
 「……あなたは、どう答えて欲しい？」=“...How do you, want me to answer?”
 「当然、告白にＯＫが欲しい。付き合って欲しい」=“Of course, I want you to say yes. I want you to go out with me.”
-「そう……。じゃあ、やっぱりお断りしようかしら？」=“I see... Then, maybe it'll be a no afterall?”
+「そう……。じゃあ、やっぱりお断りしようかしら？」=“I see... Then, maybe it'll be a no after all?”
 「ええっ、なんで！？」=“Eeh--, why?!”
 「だって、私はひねくれているんですもの。あなたも、そんな私が好きなんでしょう？」=“I mean, I'm just such a grouch, you know? You love that part of me too, no?”
 「ひねくれてるからって……ぐぬぬ……」=“I mean, I do but... gnnn...”
@@ -50,6 +50,6 @@
 「でも、だからって……って、あれ？」=“But, still, that doesn't mean... wuh, eh?”
 「素直に『はい』とは言わないってことは、本音は……？」=“You won't give me a clear yes, so you mean...?”
 「……好きな人の内心くらい、すぐに察してよ。こんな私が好きなんでしょう？」=“...Atleast try to guess how the girl you love feels, dummy. Don't you love me?”
-「もう……こんなのが恋人なんて早まったかしら」=“Jeez... maybe I should have said no afterall.”
+「もう……こんなのが恋人なんて早まったかしら」=“Jeez... maybe I should have said no after all.”
 「……！？　[H姓]さん……！」=“...?! [H姓]-san...!”
 「ありがとう。そして、これからもよろしくね！」=“Thank you. Take care of me, okay?”

@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「ここでカップル向けのドリンクが飲めるみたいだよ。頼んでみない？」=“Seems like we can get a drink made for couples' here. Wanna try it?”
-「わぁ、綺麗！　キラキラ光ってて、本当に南国って感じ！　写真に撮って壁なんかに貼ったら、それだけで気分が上がりそう♪」=“Wah, it's so pretty! It's glittering too, it's so southern! I feel like putting it as my wallpaper would make me cheer up everytime I look at it♪”
+「わぁ、綺麗！　キラキラ光ってて、本当に南国って感じ！　写真に撮って壁なんかに貼ったら、それだけで気分が上がりそう♪」=“Wah, it's so pretty! It's glittering too, it's so southern! I feel like putting it as my wallpaper would make me cheer up every time I look at it♪”
 「あはは、[H名]っぽい考え方だ！」=“Ahahah, that's such a you way of thinking!”
 「うん！　だってほら、いつでも南国気分になれそうだし……なにより君との思い出だし！」=“Yeah! I mean, I can use it to get back into the southern mood at anytime... and more than anything else, it's a memory together!”
 「せっかくだから、早速飲んでみようよ」=“Let's get to drinking it then.”
@@ -11,7 +11,7 @@
 「え？　そうじゃなきゃカップルドリンクの意味なくない？」=“Eh? If we don't, is it really a couples' drink?”
 「そ、それはそう……だけど……お顔とお顔がすっごーく近くなるよ？」=“Y-You're not... wrong but... our faces are going to get up real close, you know?”
 「あはは、えーっとほら、そういうのも思い出の一つってことで」=“Ahahah, erhm, just think of it as another memory, okay?”
-「はぅ……そ、それだと……写真見るたびに恥ずかしくて……ほっぺた熱くなっちゃいそう……」=“Hauu... b-but then... I'll remember this and get embarrassed everytime... and my cheeks will burn...”
+「はぅ……そ、それだと……写真見るたびに恥ずかしくて……ほっぺた熱くなっちゃいそう……」=“Hauu... b-but then... I'll remember this and get embarrassed every time... and my cheeks will burn...”
 「でも……せっかくだもんね♪　カップルらしく仲良く頂いちゃお♪」=“But... I guess it's not an everyday thing♪ Let's gulp it down like a couple♪”
 「うん、そうしよう！　それじゃまずは[H名]からストロー咥えて」=“Yeah, let's do that! Alright, you go and put the straw in your mouth first.”
 「えええぇっ！？　もしかして私が待つパターンなのー！？」=“Eeeeeh--!? I'm gonna be the one who has to wait for it~?!”

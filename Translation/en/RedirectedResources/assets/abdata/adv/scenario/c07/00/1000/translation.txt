@@ -13,7 +13,7 @@
 「だろ？　だったらもうちょっと……たとえば、交代で飲むとか」=“See? So maybe we should like... you know, maybe take turns or something.”
 「それカップルドリンクの意味ないでしょ」=“That would kill the entire point of it being a couples' drink.”
 「呆れんな！　やっぱりお前、意識なんか全然してないだろ」=“Aight, I'm done! You're seriously not conscious of it at all, are you?”
-「してるってば。[H名]のこと大好きなんだから」=“I am, dummy. I love you, afterall.”
+「してるってば。[H名]のこと大好きなんだから」=“I am, dummy. I love you, after all.”
 「平然と言いやがって。やっぱし、からかわれてるような気がしてきた」=“Always without batting an eyelid. Now I'm really starting to feel like you're messing with me.”
 「あはは、[H名]は可愛いなぁ」=“Ahahah, you're seriously so adorable, [H名].”
 「ふんだ、言ってろ！」=“Hmph, keep running your mouth!”

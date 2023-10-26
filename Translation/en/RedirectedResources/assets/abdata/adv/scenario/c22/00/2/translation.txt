@@ -37,7 +37,7 @@
 「うん、だから……はっきりストレートに……好きだよ、[H名]。君のことが大好きだ」=“Yeah, so... I'm saying it directly... I love you, [H名]. I, me, love, you.”
 「え……？　……え？」=“Eh...? ...Eh?”
 「ええええぇっ、私ぃ！？」=“Eeeeeh--, me!?”
-「うん、そうだよ……あれ？　このシチュエーションじゃダメだった！？」=“Yeah, that's right... Huh? Was that not the right way afterall?!”
+「うん、そうだよ……あれ？　このシチュエーションじゃダメだった！？」=“Yeah, that's right... Huh? Was that not the right way after all?!”
 「やっ、あっ、ううんっ、そんなことないっ！　うそっ……私……あのっ、え……し、信じられなくて……あの……本当に……私……？」=“No--, ah--, that's not it--, at all--! No way--... I... uhm--, eh... I-I can't believe this... uhm... is it really... me?”
 「うん、俺は[H名]に告白したんだよ。だから……返事を聞かせて欲しい」=“Yeah, I confessed to you just now, nobody else. So... I want to hear your answer.”
 「あ、あの……私……私こそっ……いつか君に告白したいって……思ってたよ……だからすごく、すごくすごくすごく嬉しいっ！！」=“U-Uhm... I... I've also... wanted to confess to you... for the longest time... so I'm really, really really really happy!!”

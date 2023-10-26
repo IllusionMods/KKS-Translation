@@ -27,13 +27,13 @@
 「いいよ、ゆるゆるになっちゃって。俺しか知らない[H名]の顔、どんどん見せて」=“And what's the problem with that? Show me more and more of those sides, that nobody else has ever seen.”
 「不思議な感覚です。あなたの前だと、普段は閉じている場所がどんどん開いていくような……」=“It is a strange feeling. In front of you, I feel as though the parts of me I keep closed keep opening one by one...”
 「きっとそのうち、明るく笑えるようにもなるよ。あ……別に今のままでも十分だけどね」=“You'll learn to laugh brightly sooner or later too. Ah... you're perfectly fine as you are right now too though, okay?”
-「やはり明るく笑えた方が……あなたも嬉しいですか？」=“Would it make you happier afterall... if I did do that?”
+「やはり明るく笑えた方が……あなたも嬉しいですか？」=“Would it make you happier after all... if I did do that?”
 「うーん……正直に言えば、[H名]の笑顔が見たいって気持ちもあるよ。でも、無理することはないからね？」=“Nnnn... if I'm being honest, I do wanna see you smile, of course I do. But it's not like you need to force yourself, okay?”
 「何回も言うけど、俺は今の[H名]でも十分過ぎるくらいに可愛いと思ってるから」=“I've said this a few times already but, you're already more than cute enough in my eyes, [H名].”
 「ありがとうございます。ですが、あなたにはもっと私を好きになってもらいたいので……」=“Thank you very much. However, I wish to make you fall even more for me so...”
 「ふ……ふふ……ふふふ……こんな感じで、どうでしょう？」=“Fuh... fufuh... fufufuh... how was, that?”
 「えっと……うん、凄く可愛かったよ」=“Erhm... yep, it was really cute.”
-「……やはりダメでしたか。もう少し待ってもらえれば……きっと……」=“...It was no good afterall, huh? If you could just wait a bit more... I'm sure...”
+「……やはりダメでしたか。もう少し待ってもらえれば……きっと……」=“...It was no good after all, huh? If you could just wait a bit more... I'm sure...”
 「いや、ほんとに可愛かったよ。俺のために頑張って笑ってくれる彼女とか、もう抱き締めたいくらいだった」=“No, it really was cute. A girl trying her best for my sake? I wanted to hug you then and there.”
 「ん……では次はもっと頑張ります。あなたにギュっとしてもらいたいので」=“Nn... in that case, I shall try even harder. Since I want you to hug me.”
 「えへ……えへへへへ……あははっ……」=“Eheh... eheheheheh... ahahah--...”
@@ -49,4 +49,4 @@
 「恋人同士は似るって言うからね。きっとすぐに、誰が見ても素敵な笑顔で笑えるようになるよ」=“They do say couples take after one another. I'm sure that soon enough, you'll learn to sport a bright smile that just about anyone would find lovely.”
 「いいのですか？　あなただけの笑顔ではなくなってしまって」=“Would that really be okay though? It wouldn't remain a smile only for you anymore.”
 「あー、それはちょっと嫌かも……」=“Ah, that does sound a bit unappealing...”
-「ん……心配無用です。私が心から笑えるのは、あなたの前だけですから……」=“Nn... you needn't worry. It's only in front of you, that I can laugh so freely, afterall...”
+「ん……心配無用です。私が心から笑えるのは、あなたの前だけですから……」=“Nn... you needn't worry. It's only in front of you, that I can laugh so freely, after all...”

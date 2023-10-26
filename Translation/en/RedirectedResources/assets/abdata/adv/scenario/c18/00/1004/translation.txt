@@ -23,5 +23,5 @@
 「ひゃぁっ！？」=“Hyah--?!”
 「おっと……大丈夫？」=“Woah... you okay?”
 「は、はい、驚いただけですから、大丈夫なんですけど……」=“Y-Yes, it just caught me a bit off-guard, I am alright...”
-「やっぱり手を繋ぎながら歩こうか？」=“How about we hold hands properly afterall, huh?”
+「やっぱり手を繋ぎながら歩こうか？」=“How about we hold hands properly after all, huh?”
 「はい……お願いします、[P名]さん。うぅ、恥ずかしいです……」=“Yes... please, [P名]-san. Uuu, so embarrassing...”

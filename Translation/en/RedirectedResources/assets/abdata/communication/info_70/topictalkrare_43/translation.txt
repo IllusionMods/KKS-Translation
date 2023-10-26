@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
 「クジラは好き？　この近くの海でホエールウォッチングができるんだって」=“You like whales? Apparently we can do whale watching near this island.”
-「好きやで。なんか黒くてデッカイし」=“Ah do. They're big and black and stuff afterall.”
+「好きやで。なんか黒くてデッカイし」=“Ah do. They're big and black and stuff after all.”
 「……小さなクジラもいるんじゃない？」=“...Aren't there small ones too though?”
 「いや、小さかったらクジラちゃうんちゃう？　それはもう別の魚やで」=“Nah, are those really whales though? That's a whole different fish, my dude.”
 「クジラって、魚じゃないよ。哺乳類だよ」=“Whales aren't fish, you know. They're mammals.”
@@ -12,7 +12,7 @@
 「せやねん……あれはアカン。取って食われるサイズや」=“Yeah... they ain't good. They're big enough to eat ya up if ya get caught.”
 「もし……あれが襲いかかってきたらどうしよう？」=“If... one of those goes wild on us, what do we do?”
 「野生動物に立ち向かおう思たらアカン。逃げの一手やで」=“There's no fightin' wildlife. The only option's to run.”
-「でも写真は取りたいよね……レアモンスターだし」=“But you'd wanna take a picture, you know... it's such a rare monster afterall.”
+「でも写真は取りたいよね……レアモンスターだし」=“But you'd wanna take a picture, you know... it's such a rare monster after all.”
 「うん、希少動物やからね。腕一本失ってでも、エンカウントしたこと自慢できるで」=“Yep, it is a pretty rare animal. Even if ya lose an arm or two, ya'll get to have braggin' rights that you entered battle with one.”
 「……腕一本を犠牲にしなきゃいけないのかぁ。襲われないよう、注意しなきゃ」=“...Gotta sacrifice an arm, huh~? Gotta be careful then, to not get attacked.”
 「月桃って、なんか可愛い見た目してるよね」=“Shell gingers look kinda cute, don't they?”

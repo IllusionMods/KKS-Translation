@@ -18,7 +18,7 @@
 「はい……丁度いい所に鐘があります。鳴らして、約束の証にしましょう」=“Yes... there's a bell right here. Let's ring it and, solidify this promise.”
 「じゃあ二人で鳴らそう。いくよ？　せーのっ」=“Let's ring it together then. Here we go, alright? 3-2-1--”
 「ん……早速……約束を破ってもいいですか？」=“Nn... could I... break that promise?”
-「え？　やっぱり俺と結ばれるのは嫌だった？」=“Eh? I guess you don't wanna be married to me afterall?”
+「え？　やっぱり俺と結ばれるのは嫌だった？」=“Eh? I guess you don't wanna be married to me after all?”
 「『愛してる』と、もう一回言いたいです」=“I wish to, say it once more.”
 「あぁ、さっきのは直接俺に言ってくれたわけじゃないし、ノーカンてことにしよう」=“Aah, well it's not like you said it directly the last time anyway, so let's just not count it.”
 「そうしてもらえると助かります。あと……一日一回以上にしましょう」=“Please and thank you. Also... let's make it so that it's more than once a day.”

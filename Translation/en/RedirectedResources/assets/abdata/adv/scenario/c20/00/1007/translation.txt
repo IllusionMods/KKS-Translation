@@ -8,7 +8,7 @@
 「ああ、確かに。そう言われるとそこまで珍しくもないのかな？」=“Aah, for sure. I guess they're not that much of an unusual sight, when you think about it that way?”
 「この魚もカラフルだし、名前はわからないけど水槽で飼えたりするのかも」=“This fish is so colorful too, so who knows, I don't know its name but maybe there's someone out there who keeps one as a pet.”
 「淡水魚に比べると、海に生きる魚を飼うのは大変そうですけど……」=“Compared to freshwater fish, it does seem like it'd be quite the task to keep a sea fish in a fishtank though...”
-「水道水にそのまま入れるって訳にもいかないしね」=“Yeah, it's not like you could just use tap water afterall.”
+「水道水にそのまま入れるって訳にもいかないしね」=“Yeah, it's not like you could just use tap water after all.”
 「俺が飼おうと思ったら、すぐに死なせちゃいそうな気がするよ」=“I feel like it'd die right away, if I tried to keep a sea fish as a pet.”
 「そう、なんですか？　結構マメそうに見えますけど……」=“Really? I feel like you're the very caring type though...”
 「で、でも、それでしたら……私が、お世話しに行きましょうか……？」=“B-But, if you really think so then... shall I, come over to take care of it instead...?”

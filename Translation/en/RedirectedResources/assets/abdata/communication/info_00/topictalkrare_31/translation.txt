@@ -4,7 +4,7 @@
 「ホエールウォッチングって興味ある？」=“Got any interest in whale watching?”
 「ああ、あれはいいものだ」=“Yeah, that's a good one.”
 「なにしろ迫力が段違いだし、見てて飽きないからな」=“It's got a ton of impact, and you'd never get bored of looking at a whale either.”
-「[H名]って大きな生き物とか好きそうだよね」=“You do seem like the type of girl to like big creatures, afterall.”
+「[H名]って大きな生き物とか好きそうだよね」=“You do seem like the type of girl to like big creatures, after all.”
 「は？　なんだそれは？　まぁ、嫌いではないが……」=“Hah? What's that supposed to mean? I mean, I don't hate them I guess...”
 （……やっぱり。わりと感性が男の子っぽいところがあるからなぁ）=(...I knew it. She does have her boyish sides, doesn't she~?)
 「ヤシガニの巣って掘った穴タイプが多いのかな？」=“Do coconut crabs usually tend to dig out holes in the ground to make nests?”
@@ -63,7 +63,7 @@
 「それもそうだけど、あれってかなり大きいでしょ？」=“There's that too but, they're like pretty darn big, no?”
 「海の生き物って不思議だなぁって、つくづく思うよ」=“I just can't help but think how incredible sea creatures are.”
 「それ、海の生き物からみた陸の生き物も同じじゃないのか？」=“Wouldn't that be the same for us, from their viewpoint?”
-「生息している環境が全然違うわけだしな」=“The environments we live in are completely different, afterall.”
+「生息している環境が全然違うわけだしな」=“The environments we live in are completely different, after all.”
 「海ほたるをみて思ったんだ。あれって漁り火に似てないかな？」=“I was looking at sea fireflies when it hit me. Don't they look pretty similar to fishing lights?”
 「……そうか？　言うほど似てないと思うが」=“...You think? I don't think they look that similar.”
 「でも、海上と海面で違いがあるけど、どっちも明るいでしょ？」=“I mean yeah, there is the difference of one being inside the water and the other being above it but, both are pretty bright, no?”

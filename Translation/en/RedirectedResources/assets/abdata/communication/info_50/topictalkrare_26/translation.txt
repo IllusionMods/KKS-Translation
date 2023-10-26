@@ -20,7 +20,7 @@
 「色んな使い方があるなんて……すごい植物かも」=“There's so many uses... what an amazing plant.”
 「ヤマネコって意外と小さいよね」=“Wildcats are smaller than you'd expect, aren't they?”
 「……意外なの？　普通の猫より、大きいと思うけど」=“...Are they, though? I feel like, they're bigger than normal cats.”
-「いや、もっと大きいのかと思ってたんだ。野生の猫だしね」=“No, I thought they would have been much bigger. They're wild mountain cats afterall.”
+「いや、もっと大きいのかと思ってたんだ。野生の猫だしね」=“No, I thought they would have been much bigger. They're wild mountain cats after all.”
 「……当たり前のことだけど、人によって想像してるイメージは全然違うんだね」=“...It's a really obvious thing I'm saying but, people can imagine very different things, huh?”
 「でも、可愛いってイメージは共通じゃない？」=“But don't we all still think of them as cute?”
 「確かに……そうかもしれない」=“For sure... you might be right.”
@@ -45,7 +45,7 @@
 「巣って……なんの鳥？」=“A nest... which bird's?”
 「さぁ？　なんの鳥かは分かんない。この島固有の鳥じゃない？」=“Dunno? I can't really say. Probably a bird local to this place, no?”
 「……思い入れは、あるの？　ないの？」=“...Do you, care about it? Do you not?”
-「それじゃあ、あるよ。見守ってたわけだしね」=“I mean, of course I do. I did watch over it, afterall.”
+「それじゃあ、あるよ。見守ってたわけだしね」=“I mean, of course I do. I did watch over it, after all.”
 「情が移ると……ここを離れるのが辛くなるかも。……お母さんだと、思われてたりしない？」=“If you get attached... it might make it hard when leaving. ...Doesn't it think, you're its mother?”
 「さすがにそれはないよ」=“I'm not down that badly over it.”
 「……名前はつけたの？」=“...Gave it a name yet?”

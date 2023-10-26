@@ -6,4 +6,4 @@
 「それなら、上手く息を合わせないと前に進めないかもしれないね……」=“In that case, we'll have to sync our rhythm else we're gonna get stuck in place...”
 「大丈夫だよ。だって、私とキミだもん。きっと上手く行くよー」=“It'll be fine. I mean, it's you and me. I'm sure it'll go well~”
 「そ、そうかな？　まぁ、[H名]に言われるとそんな気もするね……」=“Y-You think so? Well, I feel like it would go pretty alright, yeah...”
-「えへへ。恋人同士の共同作業だもんねっ。よーし、がんばろうー！」=“Eheheh. It's a couples' group activity afterall, and we're a couple--. Alright, let's do our best~!”
+「えへへ。恋人同士の共同作業だもんねっ。よーし、がんばろうー！」=“Eheheh. It's a couples' group activity after all, and we're a couple--. Alright, let's do our best~!”

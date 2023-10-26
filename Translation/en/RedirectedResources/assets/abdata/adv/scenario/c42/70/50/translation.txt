@@ -6,5 +6,5 @@
 「なるほどね。確かにそれは言えてるかも……」=“You're not wrong. Certainly, you could say that...”
 「まぁ、料理よりも俺としては[H名]と一緒に食事しているってことが重要なんだけどね」=“Well, the food's good too but you being there eating next to me does a lot more for me, you know?”
 「えへへ。いつも通りのご飯でも、恋人同士のデートって考えると特別な感じがするもんねっ」=“Eheheh. Even just regular food seems special when you eat it on a date with a person you love, doesn't it--”
-「うん、せっかくだからいろいろお話しながら食事を楽しもうか？」=“Yep, wanna take our time eating and chatting? We came all this way afterall.”
+「うん、せっかくだからいろいろお話しながら食事を楽しもうか？」=“Yep, wanna take our time eating and chatting? We came all this way after all.”
 「賛成！　じゃあ、早速何か注文しよっ」=“I wanna! Let's order something already--”

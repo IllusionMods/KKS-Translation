@@ -4,7 +4,7 @@
 「この島にあるアクティビティ、どんどん楽しんでいかないとね」=“We gotta do savour as many of the activities here as we can, don't we?”
 「そうですね、この島に来たからには全力で楽しんでいきたいと思ってます」=“Indeed, we've come all the way here so I do think I'd like to go all out for once.”
 「全部のアクティビティをする為にも体力付けないとなぁ……」=“We're gonna need a whole lot of stamina if we wanna do everything here, don't we...”
-「えぇ、万全の調子で臨みたいですしね」=“Yes, we wouldn't want to do them in anything but perfect shape either, afterall.”
+「えぇ、万全の調子で臨みたいですしね」=“Yes, we wouldn't want to do them in anything but perfect shape either, after all.”
 「気になるアクティビティってある？」=“Is there any particular activity that's caught your eye?”
 「選ぶのは難しいですね……全てが気になる、というのが本音です」=“What a difficult question... I wish to say, that they all have.”
 「アクティビティを楽しむコツって何かあるかなぁ」=“I wonder if there's a specific trick to making the most of the activities here?”

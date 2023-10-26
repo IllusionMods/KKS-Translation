@@ -15,7 +15,7 @@
 「島に自生している、スパイシーな香りがするハーブのことよね」=“You mean that native herb with a spicy aroma to it, right?”
 「美容と健康にいい成分が多く含まれていて、アロマオイルにもなっているわ」=“It's packed full of stuff good for your health and beauty, and it's even used in aroma oils.”
 「へぇ～、詳しいんだね」=“Hoh~, you know your stuff.”
-「ふふっ。美容に関することだもの。これくらいはね」=“Fufuh--. It concerns beauty, afterall. I gotta know this much.”
+「ふふっ。美容に関することだもの。これくらいはね」=“Fufuh--. It concerns beauty, after all. I gotta know this much.”
 「ヤマネコって知ってる？」=“You know wildcats?”
 「貴重な野生種だったわよね。家じゃ飼えないわね……」=“If I remember right, they were a protected species. So we can't keep one as a pet at home, huh...”
 「さすがに無理だろうね。それなりに獰猛らしいから」=“It's probably impossible anyway. Since they're pretty ferocious wild animals in their own right.”
@@ -30,7 +30,7 @@
 「ダ～メ。秘密の数だけ女の子は綺麗になるんだから」=“Not happening~. A woman's beauty is measured by the secrets she has.”
 「どうしても知りたければ、そうね……流れ星にお願いしてみれば？」=“If you absolutely must know, let's see... how about wishing upon a star?”
 「きみの秘密を教えてください、って？」=“Please reveal to me her secrets", and all?”
-「ええ、そうしたら叶うかもしれないわよ？　お星様はきまぐれだから。ふふっ」=“Yep, it might just come true if you do that, you know? The stars are very very fickle, afterall. Fufuh--”
+「ええ、そうしたら叶うかもしれないわよ？　お星様はきまぐれだから。ふふっ」=“Yep, it might just come true if you do that, you know? The stars are very very fickle, after all. Fufuh--”
 「サガリバナって知ってる？」=“You know of mango pines?”
 「一夜だけその身を咲かせる幻の花よね。なんてロマンチックなのかしら」=“Those fantastical flowers that only bloom for a single night, right? How romantic.”
 「散り際が儚いほど花は綺麗に咲くものだよね」=“The more fleeting a flower is, the more beautiful it looks, doesn't it?”
@@ -40,7 +40,7 @@
 「ふふっ、心配させてごめんなさい」=“Fufuh--, I'm sorry.”
 「実はずっと鳥の巣を見守ってたんだ。雛がようやく孵ってホッとしたよ」=“I've actually been watching over this one bird's nest for the longest time. Thankfully, the egg in it finally hatched.”
 「お疲れ様。でも、寂しくならない？　情が移ったりしないのかしら」=“Great job. But, won't that make you feel lonely? I feel like you're gonna get attached.”
-「そうだね……。苦労した分だけ離れるのが辛くなるから」=“Yeah... The more effort you put into something, the harder it becomes to let go, afterall.”
+「そうだね……。苦労した分だけ離れるのが辛くなるから」=“Yeah... The more effort you put into something, the harder it becomes to let go, after all.”
 「ふふっ。あなたもわりとセンチメンタルなところがあるわよね」=“Fufuh--. You've got a pretty sentimental side to you too, huh?”
 「生き物を育てるのって大変だよね。親鳥はこれから先もたくさんの苦労を経験するんだろうなぁ」=“Raising a living thing is a lot of work, isn't it? I bet the mother bird's gonna have a lot of trouble going forward too.”
 「でも、だからこそ子供が元気に育つ姿を見ると嬉しくなるんじゃないかしら」=“But, isn't that exactly why seeing their children grow up healthy makes parents happy?”
@@ -69,7 +69,7 @@
 「えっ！？　そうだな……出産の痛みから、かな」=“Eh--?! Let's see... is it the, pain of laying the eggs?”
 「無難な答えね」=“What a safe answer.”
 「じゃあ、きみはどう思うの？」=“Then, what do you think it is?”
-「これから旅立つ子供達の未来を憂えているのよ。海は危険がつきものだから」=“It's just them grieving over the harsh future their children will have to overcome. The sea is unforgiving, afterall.”
+「これから旅立つ子供達の未来を憂えているのよ。海は危険がつきものだから」=“It's just them grieving over the harsh future their children will have to overcome. The sea is unforgiving, after all.”
 「けれどどこかに、エスコート役のお父さんがいてくれれば話は変わるかもね？」=“But if there was a father playing the role of an escort there, the story might change, you know?”
 「きみが海で泳ぐときは、俺がエスコートするよ」=“I'll take that job, when you're out swimming.”
 「ふふっ、ありがとう。期待してるわね」=“Fufuh--, thanks. I'll be expecting that.”

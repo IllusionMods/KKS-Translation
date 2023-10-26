@@ -103,6 +103,6 @@
 「もう……デリカシーがないわね。見たらわかるでしょう」=“Jeez... you seriously are so insensitive. You need to learn to use your eyes.”
 「うっ、ごめん……」=“Uu--, sorry...”
 「でも、気遣ってくれたのはお礼を言うわ。その……あ、ありが……」=“But, it does make me happy that you worry. So uhm... t-than...”
-「やっぱ、何でもない！　ふんっ、ヘタクソ」=“Nevermind, it's nothing afterall! Hmph--, you suck.”
+「やっぱ、何でもない！　ふんっ、ヘタクソ」=“Nevermind, it's nothing after all! Hmph--, you suck.”
 「ぐはっ、そ、そんなひねくれたこと言わなくたって良いじゃないか」=“Gah--, d-do you really have to be so crabby?”
 「ヘタクソは、地味にダメージがデカいよ……」=“Especially "you suck", you know that hits harder than anything else...”

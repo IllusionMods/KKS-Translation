@@ -357,7 +357,7 @@
 「最近いっぱいお話ししてるよね。もっと話そ？」=“We've been chatting a lot these days, haven't we? Let's chat some more?”
 「ねぇ、ちょっと？　具合でも悪いの？」=“Hey, uhm? Not feeling good today?”
 「……なにもないなら、もう帰っていい？」=“...If you've got nothing, mind if I leave?”
-「あなたは違ったのかな……ばいばい」=“Were you really not the one afterall... byebye.”
+「あなたは違ったのかな……ばいばい」=“Were you really not the one after all... byebye.”
 「あなたと話してても、どうにもならないから、ばいばい」=“Even if I chat with you, it won't help me achieve anything so, byebye.”
 「あの……わたし、宇宙に行くときはあなたと一緒がいい。だから、頑張ろうね！」=“Uhm... when I go to space, I wanna go with you. So, let's do our best, okay?”
 「今度はもっと、具体的な方法について話したいな」=“Next time, I wanna chat about a more concrete way of achieving our goals.”

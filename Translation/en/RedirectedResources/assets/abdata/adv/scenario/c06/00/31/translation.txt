@@ -6,4 +6,4 @@
 「綺麗な滝だとは思うのですが、特に変わったことは何も……」=“I do think it's a very pretty sight but, I don't feel much else I'm afraid...”
 「やっぱり？　どうしてパワースポットって呼ばれるようになったんだろう」=“You too? I wonder why people call it a power spot then.”
 「由縁を調べてみると、面白いことが分かりそうな気がいたします」=“I have a feeling that the reason might be quite interesting, if we do end up finding it.”
-「それじゃあ、研修旅行らしく調べてみようかな」=“Well then, guess it's time to research it then, it's a study tour afterall.”
+「それじゃあ、研修旅行らしく調べてみようかな」=“Well then, guess it's time to research it then, it's a study tour after all.”

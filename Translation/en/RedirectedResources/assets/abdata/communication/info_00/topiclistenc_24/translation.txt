@@ -7,7 +7,7 @@
 「ただ、あなたと歩きたいだけなんです♡　そしたら、景色もまるで違ってくると思うので♡」=“Really, I just want to take walks with you♡ I think even the scenery would look quite different, that way♡”
 「それは、素晴らしいですね♡」=“That sounds very wonderful♡”
 「分かります。素敵ですね♡」=“I can see it. It's lovely, isn't it?♡”
-「興味ないんですか？　大丈夫です、あなたならきっと良さに気づきますから♡」=“Are you not interest? Don't worry, I'm sure you'll see the goodness of it in no time, it's you afterall♡”
+「興味ないんですか？　大丈夫です、あなたならきっと良さに気づきますから♡」=“Are you not interest? Don't worry, I'm sure you'll see the goodness of it in no time, it's you after all♡”
 「面白くありませんか？　もしよかったら、一度試してみてください♡」=“Does that sound uninteresting? If you don't mind, please try it out once♡”
 「私、<color%3Dyellow>水牛</color>を見ると妄想が止まらなくなるんです♡」=“When I look at <color%3Dyellow>water buffalos</color>, I just can't stop myself from diving into my fantasies♡”
 「あなたと一緒に水牛に乗って、島中を回ってみたいです♡」=“I'd love to ride one together with you, and make a round of the entire place♡”

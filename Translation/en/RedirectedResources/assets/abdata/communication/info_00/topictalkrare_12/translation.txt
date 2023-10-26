@@ -46,7 +46,7 @@
 「え、ええっと、なんだったかな……？」=“E-Eerhm, what was it...”
 「ちゃんと調べておけよー。珍しい鳥かもしれないんだからさ」=“You gotta look into that stuff properly. You never know, it could be a rare species.”
 「ともかく、余計な手出しはするんじゃないぞ？　これからも見るだけだ」=“Anyways, you better not go pawing at it and stuff, alright? Only watching and no further.”
-「うん、触ったりはしないよ。親鳥が育てなくなるかもしれないからね」=“Yep, I won't touch it or anything. The mother might stop raising it afterall.”
+「うん、触ったりはしないよ。親鳥が育てなくなるかもしれないからね」=“Yep, I won't touch it or anything. The mother might stop raising it after all.”
 「そういえばさ、水やりしてたアサガオに花が咲いたんだ」=“Reminds me, this morning glory I've been watering finally bloomed some flowers.”
 「へぇ、やるじゃん。目が出て蔓が伸びていく感じ……結構好きなんだ」=“Hoh, good job. The way their vines slowly climb up is... kinda nice.”
 「ああ、かなり高いところまで伸びるって話だね」=“Yeah, they can creep up pretty darn high, can't they?”

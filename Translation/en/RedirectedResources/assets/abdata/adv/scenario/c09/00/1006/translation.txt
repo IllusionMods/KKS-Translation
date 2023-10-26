@@ -21,4 +21,4 @@
 「好きだよ」=“I love you.”
 「～～ッ！！　も、もういいわよ。わかったから……それは、あ、あたしもだし」=“~~!! A-Ah, jeez, whatever. I got it so stop it... also, I-I love you too.”
 「さ、二人で鳴らしてみよう？　二人の恋がずっと続くように」=“Now then, let's ring it together? So that our love lasts forever.”
-「最初からそう言えばいいの。当然鳴らすわ！　あたし達、運命の二人だもの」=“You could just say that from the start. Of course I'm gonna ring it! You and I are soulmates, afterall.”
+「最初からそう言えばいいの。当然鳴らすわ！　あたし達、運命の二人だもの」=“You could just say that from the start. Of course I'm gonna ring it! You and I are soulmates, after all.”

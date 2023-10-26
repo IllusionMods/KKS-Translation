@@ -35,7 +35,7 @@
 「するよー。ほとんど友達の話を聞くのが専門なんだけどね」=“I do~. I'm mostly just on listening duty though, for my friends.”
 「いっぱいするよ。でも私から振れる話がないのがちょっと悲しいけど」=“I do. But it's a bit sad that I never have any material of my own to gossip about.”
 「好きな男性のタイプってある？」=“Got a type of guy that you like?”
-「やっぱり、優しい人がいいかな？　一緒に支え合いたいって思うし」=“I guess I'd default to a sweet, kind guy afterall? Like, I just want us to support each other, you know?”
+「やっぱり、優しい人がいいかな？　一緒に支え合いたいって思うし」=“I guess I'd default to a sweet, kind guy after all? Like, I just want us to support each other, you know?”
 「まだ付き合ったことないから、自分でもよく分からないかも」=“I've never gone out with anyone so, I don't think I know myself, even.”
 「男女でこういう話するのって恥ずかしいし、別のにしない？」=“It's kinda embarrassing to chat about this stuff with a guy, so could we talk about something else?”
 「理想の恋愛ってどんな感じだろう？」=“What's your ideal romance like?”
@@ -326,7 +326,7 @@
 「アナルでも感じる？」=“Do you enjoy anal too?”
 「も～～～知ってて聞くんだからぁ。じゃあ耳貸して……お尻、好きだよ」=“Jeez~~~, you're asking me that knowing full well what the answer is~. Alright, lend me your ear a bit... I love it.”
 「感じません。断じて感じません……え、そっちの方がそそる？　こらー！」=“Not at all. Not even the slightest bit, mister... eh, that just makes you more aroused? Hey~!”
-「やっぱり股間が一番感じる？」=“So I guess your crotch is the most sensitive place afterall?”
+「やっぱり股間が一番感じる？」=“So I guess your crotch is the most sensitive place after all?”
 「もう開き直っちゃう！　キミのおちんちんのせいで一番感じるの！」=“Alright, I'm done being meek! Yes, your dick makes it feel the best out of anywhere else!”
 「も～……そんなに知りたいなら、自分ので確かめてみれば？」=“Jeez~... if you want to know it that badly, why not check for yourself?”
 「キミがエッチなのはわかってるから、強制話題チェーンジ！」=“I get it plenty that you're a really lewd boy so, time for a forceful topic change!”

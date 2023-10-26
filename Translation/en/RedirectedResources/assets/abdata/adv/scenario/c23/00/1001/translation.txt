@@ -18,4 +18,4 @@
 「う～……じゃ、じゃあ、食べる……？」=“Uu~... y-you want some then...?”
 「え、いいの？　さっきのはちょっと言ってみただけだったんだけど」=“Eh, you sure? I only said that because I felt like saying it.”
 「恋人としては、外せないイベント的な感じがしますし……？」=“As a couple, this ought to be an unskippable event though...?”
-「って、やっぱなし！　そんな恥ずかしいことしてないで、１人で全部食べますぞ！」=“Wuh, nevermind afterall! I'm not doing something so embarrassing, I'll eat it all myself!”
+「って、やっぱなし！　そんな恥ずかしいことしてないで、１人で全部食べますぞ！」=“Wuh, nevermind after all! I'm not doing something so embarrassing, I'll eat it all myself!”

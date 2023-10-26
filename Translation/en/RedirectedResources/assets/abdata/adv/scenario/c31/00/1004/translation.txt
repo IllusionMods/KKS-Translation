@@ -15,7 +15,7 @@
 「なにか下心があるんじゃないだろうな……？」=“There's no shady reason behind it, right...?”
 「そんなことないって」=“No way, seriously.”
 「ただ……うん、下心があるとしたら、少しでも[H名]の照れた顔をみたいなってことくらいかな」=“It's just... yeah, I guess if I had to come up with one, it'd be that I want to see you blushing even a bit if I can?”
-「やっぱりあるんじゃないかっ」=“So you had one afterall, I knew it--!”
+「やっぱりあるんじゃないかっ」=“So you had one after all, I knew it--!”
 「……まぁ、悪い気はしないが……それだけ愛されてるってことだろう？」=“...Then again, it doesn't feel bad so... you just love me that much, no?”
 「というか、少しはおまえも私に照れた顔をみせたらどうだ？」=“Hell, how about you show me the sight of you blushing one of these days instead?”
 「さっきから平然とした顔で、歯の浮くようなことばっかり言って」=“You just keep going on and on with stuff like that while not showing even a bit of color yourself.”

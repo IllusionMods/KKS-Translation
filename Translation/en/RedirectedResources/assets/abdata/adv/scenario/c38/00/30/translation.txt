@@ -2,6 +2,6 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「滝の音って結構耳に響くよね」=“The sound really echoes in your ears, doesn't it?”
-「他に何の音もないですからね……逆に静かな気持ちになります」=“There's no other sounds around here, afterall... if anything, it feels very peaceful.”
+「他に何の音もないですからね……逆に静かな気持ちになります」=“There's no other sounds around here, after all... if anything, it feels very peaceful.”
 「まさに大自然の音だね」=“Truly, this is the sound of mother nature.”
 「はい、これだけ豊かな自然が身近にあるのは、素敵な事だと思います」=“Yes, I think it's wonderful that we get to experience such rich nature this directly.”

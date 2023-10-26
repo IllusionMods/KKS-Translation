@@ -57,7 +57,7 @@
 「……そっか、あんまり目がいかないかー」=“...I see, it's not very noticeable, huh?”
 「すまん……これからは注意するから、そうしょげるでない」=“Apologies... I shall pay more attention to it from now on so, do not look so dejected.”
 「誰も見てないかも知れぬのに関わらず、ずっと世話をしたお主の努力は素晴らしいと思うぞ」=“I think it's a wonderful thing you've done though, especially since nobody might have ever noticed.”
-「努力ってのは大げさだよ。実際はただ水をあげてただけだし」=“It's not that big a deal. I was only just watering it, afterall.”
+「努力ってのは大げさだよ。実際はただ水をあげてただけだし」=“It's not that big a deal. I was only just watering it, after all.”
 「そんなことはないぞ。良い子良い子してあげるのじゃ」=“Not at all. Come, I shall stroke your head.”
 「ふ、普通に照れくさいんだけど……」=“T-That's way too embarrassing, so stop...”
 「マンタってマントだからマンタなんだよ」=“Mantas are called mantas because of mantles.”

@@ -6,7 +6,7 @@
 「ふー……暑い暑い……。歩いていると、汗が全然乾かないのよねぇ」=“Fuuh... so hot, so hot... Your sweat doesn't dry up at all when walking, does it?”
 「後から後から汗が吹き出して、身体中がべとべとしてる……」=“The sweat just keeps gushing out, drenching your entire body...”
 「こう暑いと、日焼け止めやスキンケア用品を使うから、汗をかくと大変なのよね」=“On hot days like these, I end up using sunblock and a few skincare products so, sweating really makes a mess of it all, you know?”
-「たしかに汗かくとなんだかネットリするね。これ、日焼け止めのせいなのかも……」=“For sure, sweating does make it all feel a bit icky, doesn't it? It might be the sunblock afterall...”
+「たしかに汗かくとなんだかネットリするね。これ、日焼け止めのせいなのかも……」=“For sure, sweating does make it all feel a bit icky, doesn't it? It might be the sunblock after all...”
 「あら、日焼け止めだけ？　それじゃ駄目よ。肌のケアをキチンとしなきゃ」=“Oh my, just sunblock? That's not good enough. You have to care for your skin too.”
 「え？　ああ、うん……でもそこまでしなくても大丈夫だよ」=“Eh? Aah, yeah... but I really don't think it's that big a deal.”
 「だめよ。歳を取ってから後悔したくないでしょう？」=“It is. You don't want to regret it once you're old, no?”

@@ -66,7 +66,7 @@
 「え、ええ。興味はあるわ。だって……ねぇ？」=“Y-Yes. I do. I mean... you know?”
 「な、何言ってんのよ！　興味があるなんて言えるわけないでしょ」=“W-What're you saying! Do you really think I can answer such a question?”
 「君は、エッチのことについて詳しい方？」=“Are you, knowledgable about sex and sex related things?”
-「そ、そんなの知らないわよ！　だって、あたし女の子なんだから」=“N-Not at all! I'm a girl, afterall.”
+「そ、そんなの知らないわよ！　だって、あたし女の子なんだから」=“N-Not at all! I'm a girl, after all.”
 「そ、そんなの答えられないわ！　変なこと聞かないで！」=“I-I'm not answering that! Stop asking me weird things!”
 「女の子同士で、エッチな話題をする？」=“Do girls talk about lewd stuff, between them?”
 「し、しないわよ！　そんな話、するわけないじゃない」=“W-We don't! Of course we don't, why would you think we do?”
@@ -150,7 +150,7 @@
 「瞬間移動ね。これで寝過ごしても何も怖くないわ」=“Teleportation for me. Oversleeping won't be a problem anymore for me then.”
 「念動力ね。触れずにモノを動かせるなんて想像が膨らむじゃない」=“Telekinesis for me. Doesn't the thought of being able to move things with just your imagination just fill you with awe?”
 「言葉づかいは意識するほう？」=“You the type to pay attention to how you talk?”
-「そうね。あたしは結構そういうのに敏感よ。品がでるからね」=“Yeah. I'm pretty sensitive to that sort of stuff. It's what people use to form an impression, afterall.”
+「そうね。あたしは結構そういうのに敏感よ。品がでるからね」=“Yeah. I'm pretty sensitive to that sort of stuff. It's what people use to form an impression, after all.”
 「意識しないわね。そんなの考えてたら、頭がおかしくなっちゃう」=“Not really. If I thought so much about that stuff, I'd go crazy.”
 「映画館にはよく行くの？」=“Do you go to the movie theatre often?”
 「もちろん！　劇場で見た方が迫力があるじゃない」=“Of course! Watching movies in a theatre feels way more impactful.”

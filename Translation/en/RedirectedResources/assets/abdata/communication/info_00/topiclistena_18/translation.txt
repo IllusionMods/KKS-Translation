@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
 //「<color%3Dyellow>釣り</color>って、楽しいと思いませんか？」=
-「のんびり糸を垂らしているだけなら、何の事故も起きなくて安全ですからね」=“Just throwing your line out and waiting is such a safe activity, afterall.”
+「のんびり糸を垂らしているだけなら、何の事故も起きなくて安全ですからね」=“Just throwing your line out and waiting is such a safe activity, after all.”
 //「私、<color%3Dyellow>シュノーケリング</color>は好きですよ」=
 「基本的に浅瀬で泳ぎますから……安全だと思います」=“I try to not step out of the shallows so... I do think it's quite safe.”
 「そうですね、それもいいかも知れませんね」=“Indeed, that might be quite nice as well.”

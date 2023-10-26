@@ -11,7 +11,7 @@
 「ホラー小説の世界だね。ヤシガニは雑食で、なんでも食べるから……」=“That'd be straight out of horror. Especially since they're omnivores, and can eat anything...”
 「ご、ごめんなさい……ちょっと、想像が育ちすぎちゃったたかも」=“I-I'm sorry... I think my imagination got the better of me there.”
 「こっちこそごめん。か、顔色悪いよ？」=“I'm sorry myself. Y-Your face's looking pretty pale, you know?”
-「……動きは鈍いから。ああ、でも、防御力が高そう……」=“...They are pretty slow, afterall. Aah, but, they're built like tanks...”
+「……動きは鈍いから。ああ、でも、防御力が高そう……」=“...They are pretty slow, after all. Aah, but, they're built like tanks...”
 （想像力が止まらなくなってる……）=(Her train of thought isn't stopping at all...)
 「月桃っていい匂いするよね」=“Shell gingers smell very nice, don't they?”
 「うん……私、月桃って名前も好きなの」=“Yeah... I really like that name too.”

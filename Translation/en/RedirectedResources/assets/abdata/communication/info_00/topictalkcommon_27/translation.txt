@@ -11,7 +11,7 @@
 「そうね……んー……ありすぎて一つに絞れないわ……」=“Hmm, let's see... nnn... there's so many I can't pin it down to one...”
 「どこへ行っても楽しみがあるって、とてもすごいことだよね」=“It's actually kind amazing how no matter where we go, there's always something to do, isn't it?”
 「この島の全てがアクティビティとして成り立ってるわね」=“This entire island is one giant activity paradise, isn't it?”
-「やっぱり、するなら二人で出来るアクティビティがいい？」=“Would you rather do something together than by yourself afterall?”
+「やっぱり、するなら二人で出来るアクティビティがいい？」=“Would you rather do something together than by yourself after all?”
 「ま、まぁ、あんたがどうしてもしたいって言うなら、考えてあげなくもないわよ……？」=“W-Well, if you really insist on doing something with me, I wouldn't mind giving it a bit of thought, you know...?”
 「この島に、どれくらい生き物が生息してるんだろう……」=“I wonder just how many creatures live on this island...”
 「ふふっ、もしかして私達が新種を発見しちゃったりするかも？」=“Fufuh--, we might just end up finding a new species or two ourselves. Maybe.”

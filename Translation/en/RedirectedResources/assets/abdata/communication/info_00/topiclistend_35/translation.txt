@@ -26,7 +26,7 @@
 「へぇ、それは知らんかったなぁ」=“Heh, I didn't know that.”
 「なるほど……教えてくれてありがとね」=“I see... thanks for telling me about it.”
 「二人でもっと勉強していかなね」=“We gotta study a whole lot more, don't we?”
-「ふふっ、知識は増やして損はないけんね」=“Fufuh--, there's no harm in learning more, afterall.”
+「ふふっ、知識は増やして損はないけんね」=“Fufuh--, there's no harm in learning more, after all.”
 「<color%3Dyellow>お土産</color>やけど、どげんあったか見てみた？」=“Have you gone and looked at the <color%3Dyellow>souvenirs</color> yet?”
 「あー、それ私も欲しいかも……」=“Ah~, I think I want that too...”
 「<color%3Dyellow>シークヮーサージュース</color>ってどげん効能あるかわかる？」=“Do you know what sort of <color%3Dyellow>Hirami lemon juice</color> has?”

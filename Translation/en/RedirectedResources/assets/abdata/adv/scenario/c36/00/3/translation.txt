@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「その……下僕と家畜って何が違うの？」=“Uhm... what's the difference between a manservant and livestock?”
-「はぁ、そんなことも分からない愚図なら、下僕にするのは取り止めようかしら」=“Haah, if you're so stupid that you don't even know that, then maybe not afterall.”
+「はぁ、そんなことも分からない愚図なら、下僕にするのは取り止めようかしら」=“Haah, if you're so stupid that you don't even know that, then maybe not after all.”
 「えっ！？」=“Eh--!?”
 （しょ、正直よく分からないけど、ここで下僕にならないと後悔する気がする……！）=(I-I don't really get it but, I feel like I'm gonna regret it if I don't say yes here...!)
 「なるよっ！　俺、[H名]さんの下僕になりますっ！」=“I'll be one--! I'll be your manservant, [H名]-san!”

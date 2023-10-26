@@ -10,7 +10,7 @@
 「あれはいいな。ただ始めるハードルが高いんだよな。お金やら部屋の大きさやら設備やら色々かかるし」=“That's nice. It takes a lot to set it up though, doesn't it? Not just money, you need a big space, you need equipment, people to manage it, et cetra.”
 「たしかに……凝ったやつはお金がないと厳しそうだ」=“For sure... Stuff like that would be hard to do without money.”
 「まぁ、海が見たくなったら、またここに来ればいいんじゃないか？」=“Well, if we feel like looking at the sea, I guess we could just come here again?”
-「そうだね。それがいいよ。ここは楽しいし」=“Yeah. That'd be perfect. It's really fun here too, afterall.”
+「そうだね。それがいいよ。ここは楽しいし」=“Yeah. That'd be perfect. It's really fun here too, after all.”
 「……金も時間も気力もなければ、近所の水族館にいくってのもありだな」=“...If we don't have the time, the money or even the energy, we could just go to the neighbourhood aquarium too.”
 「俺とのデートなら、それでもいいよ」=“I'd be fine with that too, if it's a date.”
 「ああ、もちろんだ。水族館だけじゃなく、いろんなところに二人で行かないとな」=“Yeah, of course. We gotta go check out all sorts of places together, not just aquariums.”

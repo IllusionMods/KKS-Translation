@@ -14,7 +14,7 @@
 「乗り物系のレジャーって、やっぱり特別感があるよね」=“Activities with things you can ride, definitely feel special, don't they?”
 「普段は乗らないものが多いからな。乗るだけで気分が高まるというものだ」=“Indeed, since normally you get to ride much of anything at all, for most activities. Just getting on top of something is quite the mood fixer.”
 「でっかい生き物って、もうそれだけでカッコいいと思わない？」=“Don't you think big organisms are cool just because they're big, sometimes?”
-「うむ、迫力が違うからな。大きいことはいいことだ」=“Umu, the pressure they exude is simply different, afterall. It is good to be big.”
+「うむ、迫力が違うからな。大きいことはいいことだ」=“Umu, the pressure they exude is simply different, after all. It is good to be big.”
 「動物を見ると、つい追いかけたくなっちゃうんだよね」=“Sometimes, you just can't help but chase after some of these animals here, you know?”
 「はは、ほどほどにな。動物を怯えさせてはいかんぞ」=“Hahah, do keep that under control. You mustn't go around being a terror.”
 「島の植物って、独特な形してるのが多いよね」=“The local fauna has really unique shapes to it, doesn't it?”
@@ -46,7 +46,7 @@
 「可愛い系の名産品とかには、あんまり興味ない感じ？」=“Would you say you're not the biggest fan of the cute sort of local products here?”
 「いや、そうでもないぞ。我に似合うかは別としてな……」=“No, I wouldn't say so. Whether they fit me is a different matter entirely, though...”
 「やっぱり、ここでしか買えないものを買っておきたいよね」=“Before leaving, you'd wanna buy everything unique that you can't get elsewhere, wouldn't you?”
-「ああ、思い出として残したいものなら、それが一番だろう」=“Aah, they'd make for the best mementos, afterall.”
+「ああ、思い出として残したいものなら、それが一番だろう」=“Aah, they'd make for the best mementos, after all.”
 「伝統工芸品って、ちょっと高いけど欲しくなるよね」=“The traditional handicrafts here are pretty expensive but, you just can't help but want them, can you?”
 「それだけの魅力があるからこそ残ってきたものなのだ。相応の対価を払うのは当然だな」=“Their undying charm is precisely why they still exist in the modern day. It is only natural to pay a suitable amount for such things.”
 「キスくらいなら、どこでしてもいいよね？」=“If it's just kissing and stuff, no matter where we do it, you wouldn't mind, right?”

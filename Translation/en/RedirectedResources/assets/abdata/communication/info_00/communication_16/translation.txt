@@ -33,17 +33,17 @@
 「興味はあるわ。でも、理解しているとは言い難いわね」=“I do. But, I can't say I understand it.”
 「恋人が欲しいと思う？」=“Do you want a boyfriend?”
 「そうね……今はまだ、その必要性を感じていないかしら」=“I don't know... I don't really feel the need for one, at present.”
-「何を以って恋人とするかの定義があいまいだもの、わからないわ」=“I couldn't tell you, the definition of what it means to have a boyfriend is so vague, afterall.”
+「何を以って恋人とするかの定義があいまいだもの、わからないわ」=“I couldn't tell you, the definition of what it means to have a boyfriend is so vague, after all.”
 「好きな男性のタイプってある？」=“Got a type of guy that you like?”
 「カッコイイ生き方をしている人かしら。お互いに高め合える関係が理想よ」=“A guy that lives his life to the fullest. I dream of a relationship in which we can both support each other.”
 「タイプ……ごめんなさい。考えた事がなかったわ」=“My type... I'm sorry. Never really thought about it.”
 「ごめんなさい、感情論は苦手なの」=“I'm sorry, emotion based arguments are not really my forte.”
 「女子同士ってコイバナとか多いの？」=“Do girls gossip about romance a lot between themselves?”
-「そうね、皆年頃だもの。他に話題はないのかってくらいね」=“Yes, everyone's about that age, afterall. Almost to the point that nobody talks about anything else.”
+「そうね、皆年頃だもの。他に話題はないのかってくらいね」=“Yes, everyone's about that age, after all. Almost to the point that nobody talks about anything else.”
 「コイバナに興味はあるの？」=“Got any interest in love gossip?”
 「あるわ。でも、話を振られることはあっても、自分から振った事はないわね」=“I do. But, though others have brought it up in front of me, I haven't ever done it myself.”
 「デートってしてみたい？」=“Is a date something you wanna try going on?”
-「したいも、したくないもないわ。デートが何たるか、把握できてないもの」=“I could not tell you, one way or the other. I don't understand what a 'date' is, afterall.”
+「したいも、したくないもないわ。デートが何たるか、把握できてないもの」=“I could not tell you, one way or the other. I don't understand what a 'date' is, after all.”
 「積極的な男性って好き？」=“Do you like assertive guys?”
 「何事にも意欲的に取り組めるというのは好ましいわ。生きる力そのものだもの」=“I can come to like a guy with a positive 'can-do' attitude about life. Really no other way to live life.”
 「自分の中で完結できるのならいいけど、大概そういう輩は他人を巻き込む迷惑な奴よ」=“As long as they limit it to themselves, it's fine but, people like that usually get other people wrapped up in their own mess.”
@@ -58,7 +58,7 @@
 「空気が読めないというのは社会に適合できないと同じ。論外ね」=“Knowing how to read the room is an important skill if one wants to survive in society. Out of the question for me, sorry.”
 「優しい男性ってどう思う？」=“What do you think of kind guys?”
 「愛に一番近いのは優しさじゃないかしら。つまり、男女の関係には不可欠ね」=“Would kindness not be the closest thing to love? In a word, it's indispensible in a relationship.”
-「優しさだけでは何もできない。飽きる程言われている事ね」=“You'll never achieve anything with kindness alone. If I had a dollar for everytime someone told me that.”
+「優しさだけでは何もできない。飽きる程言われている事ね」=“You'll never achieve anything with kindness alone. If I had a dollar for every time someone told me that.”
 「クールな男性ってどう思う？」=“What do you think of the aloof sort of guys?”
 「クールと言っても色々あるけど、パートナーには常にカッコよくあって欲しいものね」=“I mean, 'aloof' can mean a lot of things but, I'd expect my partner to always be a dashing man.”
 「ナルシストに用は無いわ。付き合っても何も生まれないもの」=“Narcissists bring no utility. Even if I were to date one, it wouldn't lead to anything.”
@@ -147,7 +147,7 @@
 「そう評価してくれるのは嬉しいけど、何か裏がありそうね」=“I appreciate the compliment but, I feel like you want something.”
 「普通よ。アナタが少しどんくさいの、フフッ」=“It's normal. You're just a bit slow yourself. Fufuh--”
 「心霊とかって信じる？」=“Do you believe in spirts and whatnot?”
-「信じる方だと思うわ。完全に否定できる確証がないから」=“I do think I do. I could never conclusively deny their existence, afterall.”
+「信じる方だと思うわ。完全に否定できる確証がないから」=“I do think I do. I could never conclusively deny their existence, after all.”
 「難しいわね……ただ、なんでも頭ごなしに否定するつもりはないわ」=“That's a hard one... though, I'm not in the habit of denying the existence of everything willy-nilly, I'll tell you.”
 「集中力を維持するコツってあるかな？」=“Is there a trick to keeping your concentration up?”
 「緊張し続けない事ね。適度なリラックスも必要だわ」=“That'd be not stressing out too much over things. Some relaxation is just as important.”
@@ -174,7 +174,7 @@
 「はぁ、恋ってなんなんだろ」=“Haah, just what the heck is love?”
 「それは私も疑問よ。一緒に考えましょう」=“What I wouldn't give to know that? Let's think on it together.”
 「エッチしたいなって思った事ある？」=“Ever really felt like having sex?”
-「あ、あるわ……そういう年頃ですもの。でも、誰でもいいってわけじゃない……」=“I-I have... I'm that age, afterall. But, it's not like I'd do it with just anyone, you know...”
+「あ、あるわ……そういう年頃ですもの。でも、誰でもいいってわけじゃない……」=“I-I have... I'm that age, after all. But, it's not like I'd do it with just anyone, you know...”
 「興味はあるけど、どうしてもって程のものじゃない。先にやるべき事が多すぎるもの」=“I am interested in it but, that's as far as it goes, really. There's way too many things I'd rather do.”
 「アブノーマルなエッチって知りたい？」=“Any interest in more fetishistic sex?”
 「なんだか目が怖いわよ……っぅ、し、知っておいて損はないと思うわ……」=“Your eyes are kinda scary... uu, w-well, I wouldn't lose anything knowing about it...”
@@ -285,7 +285,7 @@
 「あら、会いに来てくれて嬉しいわ」=“Oh my, I'm really happy you came to see me.”
 「良かった。私もアナタに会いたかったわ」=“Great. I wanted to see your face too.”
 「俺、[H]と釣り合ってるかな？」=“Do you really think I'm a good fit for you, [H]?”
-「もちろんよ、私が選んだのだもの。間違いないわ、自信を持ちなさい」=“Of course, I picked you, afterall. And I don't make mistakes, so be more confident.”
+「もちろんよ、私が選んだのだもの。間違いないわ、自信を持ちなさい」=“Of course, I picked you, after all. And I don't make mistakes, so be more confident.”
 「いきなりどうしたの？　何か言われたりした？　聞いてあげるから、全部吐き出しなさい」=“What's wrong, all of a sudden? Did someone say something to you? I'll hear you out so, tell me everything.”
 「この島で何か思い出できたかな？」=“Made any memories in this place yet?”
 「そうね……アナタと恋人になれた事、かしら？」=“Let's see... memories of us falling in love, I suppose?”
@@ -327,8 +327,8 @@
 「エッチなキスは好き？」=“Do you like lewd kisses?”
 「す、好きよ。いやらしくアナタの舌が絡み付いてきて……やだ、私何言ってるのかしらね。あは……」=“I-I do. Your tongue, lewdly wrapping around mine... gosh, what am I even saying? Ahah...”
 「もちろん、好きだけど……普通のキスの方が好きかしら」=“Of course, I do but... I'd say I like normal kisses more.”
-「やっぱりアソコが一番感じるんだよね？」=“So your crotch is definitely your most sensitive part afterall, I take it?”
-「そ、そうよ……そういう所ですもの。変な事なんて何もないわ。普通なのよ……普通」=“T-That's right... It's that sort of a place, afterall. It's not weird at all. It's normal... completely normal.”
+「やっぱりアソコが一番感じるんだよね？」=“So your crotch is definitely your most sensitive part after all, I take it?”
+「そ、そうよ……そういう所ですもの。変な事なんて何もないわ。普通なのよ……普通」=“T-That's right... It's that sort of a place, after all. It's not weird at all. It's normal... completely normal.”
 「その日にもよりけりよ。ちゃんと私が弄って欲しいところ……わかってね？」=“It depends on how I'm feeling on that day. Try to... figure out where I want it each time, okay?”
 「ほんと、男は下半身で生きてるって実感させられるわ……はぁ……」=“You're a walking example of "men really do think with their dicks"... haah...”
 「俺とのエッチは好き？」=“Do you like having sex with me?”

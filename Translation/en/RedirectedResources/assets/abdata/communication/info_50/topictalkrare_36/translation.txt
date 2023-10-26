@@ -67,7 +67,7 @@
 「だとしたら、虫が集ってるような気持ち悪さがあるわね……」=“In that case, the idea of insects all gathering together like that does feel a bit disgusting...”
 「虫とは違うと思うけど……その気持ちは、なんとなくわかるよ」=“I don't think they're exactly insects... but well, I get how you feel.”
 「この間、ウミガメを見かけたんだ」=“The other day, I came across a sea turtle.”
-「それは珍しいわね。やっぱり泣いていたのかしら？」=“That's pretty rare. Was it crying afterall?”
+「それは珍しいわね。やっぱり泣いていたのかしら？」=“That's pretty rare. Was it crying after all?”
 「うーん。よく見えなかったけど、たぶん泣いてたと思うよ」=“Nnnn. I didn't get that good a look at it, but it probably was.”
 「フフッ。カメとは言え、泣いているのを見るとゾクゾクするわね」=“Fufuh--. They're called turtles but, it's really something else to see them crying, isn't it? It makes my heart pound.”
 「浦島太郎のイジメっこは、カメが泣くのが面白くて、ちょっかいをかけていたのかしら？」=“I wonder if the bullies from Urashima Tarou bullied that turtle because they thought the tears were funny?”

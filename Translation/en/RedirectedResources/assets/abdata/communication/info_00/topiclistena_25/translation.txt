@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
 「私、<color%3Dyellow>釣り</color>って結構いいと思うんだよね～」=“I think <color%3Dyellow>fishing</color> is pretty darn nice, you know~?”
-「釣り糸を垂らしてるだけで、釣り人気分になれるっすからね～」=“Just letting your string dangle into the water's enough to let you enjoy it, afterall~”
+「釣り糸を垂らしてるだけで、釣り人気分になれるっすからね～」=“Just letting your string dangle into the water's enough to let you enjoy it, after all~”
 「私、<color%3Dyellow>シュノーケリング</color>気に入ってるんすよね」=“I've been really into <color%3Dyellow>snorkeling</color> lately, you know?”
 「海の中を眺めながら、プカプカ浮かんでるのが、楽でいいっすよね～」=“Floating around the place while looking at the sea is so nice and easy, you know~?”
 「そうだね～、それもいいかもね～」=“Yeah~, that might be nice too~”

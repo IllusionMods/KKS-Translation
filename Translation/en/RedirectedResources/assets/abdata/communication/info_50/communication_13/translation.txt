@@ -225,7 +225,7 @@
 「君のことが好きだ」=“I love you.”
 「そっか……それは嬉しいけど…まだ、友達でいたいかな……」=“I see... that makes me really happy but... I'd rather, we remained friends...”
 「アタシさ、キミの事好きなんだけど……付き合ってもらえない？」=“So listen, I actually like love you... won't you go out with me?”
-「やっぱ、ダメなんだね……まぁしょうがないか」=“I guess it's a no go afterall, isn't it... but well, you can't help what you can't help.”
+「やっぱ、ダメなんだね……まぁしょうがないか」=“I guess it's a no go after all, isn't it... but well, you can't help what you can't help.”
 「俺、きみとHなことしたいんだ」=“I wanna do lewd stuff with you.”
 「アタシらまだ付き合ってもないじゃん。そ、そんなことできないよ」=“We're still not going out together. W-We can't do that sort of thing.”
 「俺、きみとエッチなことしたいんだ」=“I wanna do lewd stuff with you.”

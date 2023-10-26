@@ -11,7 +11,7 @@
 「うむ、わしにとってお主との時間は心地のよいもので……時々、その……時間を忘れてしまうこともあったのじゃ」=“Umu, to me, time spent with you is of utmost comfort... and sometimes, I uhm... I even tend to forget time itself.”
 「よかった、同じ気持ちで」=“Great, we feel the same way then.”
 「本当か？　なんじゃ脅かすな。急に真面目な顔をするから、機嫌を損ねることでもしたのかとヒヤヒヤしたのじゃ」=“You mean it? Do not startle me so then. With that fierce face you showed me, I was beside myself with anxiety, thinking I'd offended you somehow.”
-「そんなことあり得ないよ。俺はきみのことが好きだから」=“That's not gonna happen, it's impossible. I love you, afterall.”
+「そんなことあり得ないよ。俺はきみのことが好きだから」=“That's not gonna happen, it's impossible. I love you, after all.”
 「あり得ないとまで言い切ってくれるとはのう。それ程わしのことが好きと――」=“Impossible, you do talk big sometimes. You love me just that--”
 「……今、わしのことを好きと言ったのか？」=“...Did you just say you love me?”
 「うん、言ったよ。俺は[H名]のことが好きだ」=“Yep, I did. I love you, [H名].”

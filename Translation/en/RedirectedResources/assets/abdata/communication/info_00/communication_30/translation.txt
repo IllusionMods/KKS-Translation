@@ -37,7 +37,7 @@
 「うーん、タイプって言われても……自分に合う人？　かしら？」=“Well, even if you say type... a person that fits me? I guess?”
 「こういう話ってちょっと難しいというか、恥ずかしいというか……別の話題にしましょ？」=“Talking about this kind of stuff, it's kinda hard, or rather, it's sort of embarrassing... Can we talk about something else?”
 「コイバナかぁ……うーん、女子と恋愛のことを話すって難しいなぁ」=“Love talk, huh... Well, talking with girls about love and stuff is pretty difficult.”
-「うんうん、分かるよ。異性だもんね」=“Yeah, yeah, I totally get you. It's with the opposite sex afterall.”
+「うんうん、分かるよ。異性だもんね」=“Yeah, yeah, I totally get you. It's with the opposite sex after all.”
 「ねぇ、こんな噂話、聞いたことある？」=“Hey, have you ever heard about this rumour before?”
 「なになに？　昼ドラ的な展開？」=“What what? We talking something soap opera tier?”
 「女の子同士、コイバナ的なものってやっぱり多かったりするの？」=“Do girls really gossip about love between each other a lot?”
@@ -349,7 +349,7 @@
 「さすがに恥ずかしいわよ。ほら、私だってもう立派に大人な女性なんだからー！」=“That's really embarrassing. After all, I'm a proper mature woman too--!”
 「ひゃんっ……触られちゃっ……た……♪」=“Hyan~... I got felt... up... ♪”
 「うーん、何が目的なのかしら？　ほっぺたの柔らかさは胸と一緒……じゃないわよね？」=“Hmm, I wonder what your aim is? You're not comparing the softness of my cheeks to my chest... right?”
-「もうダメ！　ほっぺた触られる度にキスされるんじゃないかってドキドキするんだからー！」=“Cut it out with that! I'm getting too excited just wondering if you're going to kiss me everytime you touch my cheeks!”
+「もうダメ！　ほっぺた触られる度にキスされるんじゃないかってドキドキするんだからー！」=“Cut it out with that! I'm getting too excited just wondering if you're going to kiss me every time you touch my cheeks!”
 「そういうことするなら、きちんと仲直りした後じゃないと嫌……かな」=“Unless you're gonna apologize and make up with me, doing something like that is a bit... I don't like it.”
 「キミの近くにいればいるほどキミのこと好きになっちゃう。魔法みたいね」=“I've fallen in love with you to the point that just being next to you is enough. It's like magic.”
 「キミが男の子だから……なのかな。私、いつも胸がドキドキして……身体、熱くなっちゃうの……」=“I wonder if it's because you're a boy... When I'm with you, my chest always starts throbbing... and my body becomes hot...”

@@ -6,4 +6,4 @@
 「そうだね。これでちゃんと演奏になってればいいんだけど」=“Yeah. I hope this actually counts as an 'experience' though.”
 「何となくノリで弾いてれば、演奏っぽい感じがするよ」=“As long as we really get into it and play them, it'll turn into a proper one, atleast I think so.”
 「でもそれ、同じ曲、二度と弾けないでしょ？」=“But we won't be able to recreate that same performance again, no?”
-「確かに……さっきどうやって弾いてたか覚えてないもんね」=“You're not wrong... I don't remember how I played it earlier, afterall.”
+「確かに……さっきどうやって弾いてたか覚えてないもんね」=“You're not wrong... I don't remember how I played it earlier, after all.”

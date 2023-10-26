@@ -30,7 +30,7 @@
 「……可愛いから、あなたにもおすすめ」=“...They're adorable so, I recommend them to you too.”
 「……あなたも、見に行くといいよ」=“...You should, go look at them too.”
 //「ここの<color%3Dyellow>名物料理</color>の中では何が好き？」=
-「わたしは……そばが一番美味しかったかも。そばは宇宙食にもなってるしね」=“I... liked the soba the most, I think. They eat that in space too, afterall.”
+「わたしは……そばが一番美味しかったかも。そばは宇宙食にもなってるしね」=“I... liked the soba the most, I think. They eat that in space too, after all.”
 //「<color%3Dyellow>シーサー</color>はどこにでもいるんだね」=
 「うんうん……まるで“かれら”みたい」=“Yepyep... they're almost like "them".”
 「うん、そっちもいいよね」=“Yep, that's nice too, isn't it?”

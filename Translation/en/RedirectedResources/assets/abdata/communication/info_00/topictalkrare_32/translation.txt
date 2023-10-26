@@ -78,7 +78,7 @@
 「……ロマンチックですが、血を流す覚悟は必要かもしれませんね」=“...That does sound quite romantic but, you may end up needing to make peace with some bleeding.”
 「少なくとも、私は遠慮しておきたいです」=“At the very least, I would rather not try such a thing.”
 「ウムイの鐘みたいな場所って、意外とあったりするよね」=“No matter where you go, you can always find spots like the Bell of Umuy or whathaveyou, can't you?”
-「恋に悩む方はどこにでもいますから……その方たちの為にあるんだと思います」=“People with love troubles exist everywhere, afterall... I think they exist for those people.”
+「恋に悩む方はどこにでもいますから……その方たちの為にあるんだと思います」=“People with love troubles exist everywhere, after all... I think they exist for those people.”
 「でも、カップルが鳴らしに行くならともかく、片思いの相手を誘うのは告白と同義じゃない？」=“Yeah but it's one thing for a couple to go and do it. Wouldn't taking someone you have onesided feelings for there be the same as just confessing?”
 「恋に悩む人にはあまり意味がないような……」=“I feel like it doesn't really do much for people with those sorts of troubles...”
 「そんなことはありません。少女漫画の場合でしたら、告白する勇気を出せず悩む女の子が、鐘の前にいて……」=“Not at all. In the case of shoujo manga, for example, a girl without the courage to confess, could be standing in front of that bell when...”

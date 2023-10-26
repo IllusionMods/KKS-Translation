@@ -105,7 +105,7 @@
 「ええい、話はもうしまいじゃ！　お主とはもう話したくない！」=“Alright, no more of this! I do not wish to talk to you any more!”
 「……すまんが、わしはこれでも忙しいのでな。さらばじゃ」=“...Apologies, but I am a busy woman, despite appearances. Fare thee well.”
 「まだまだ話足りぬが、仕方ないのう。ではな」=“I still have not chatted enough with you, but I suppose it cannot be helped. See you.”
-「お主は、その……この後は……や、やっぱりいいのじゃ」=“Are you, uhm... after this... n-nevermind, it is nothing afterall.”
+「お主は、その……この後は……や、やっぱりいいのじゃ」=“Are you, uhm... after this... n-nevermind, it is nothing after all.”
 「ん……わしはそろそろ行くのじゃ。ではまたな」=“Nnn... I shall be heading off. See you later.”
 「っと、わしはもう行くでな、またの」=“Oh, I must be going, see you.”
 「っと、また後でのー」=“Oh, see you later.”
@@ -180,7 +180,7 @@
 「……あ、あるにはあるが、誰とは教えられないのじゃ」=“...I-I have but, I cannot tell you who it was.”
 「……興味はあるが、聞くに聞けないのじゃ」=“...I am interested in such things, but no such event has come to pass.”
 「ドラマとかでエッチな場面があるとき、結構見ちゃう？」=“When the TV drama shifts to a sex scene, do you watch?”
-「み、見るのは仕方なかろう。……それも話の一部なのじゃ」=“I-It is unavoidable. ...It is part of the story, afterall.”
+「み、見るのは仕方なかろう。……それも話の一部なのじゃ」=“I-It is unavoidable. ...It is part of the story, after all.”
 「……激しいのは、恥ずかしくて見られないのじゃ……」=“...When it is too intense, I cannot help but turn my eyes away out of sheer embarrassment...”
 「エッチな妄想ってよくする方？」=“Do you daydream about sex often?”
 「……妄想は……するのじゃ……わっ！　そんな顔でわしを見るなっ！」=“...I... do... wah--! Do not look at me with such eyes--!”
@@ -279,7 +279,7 @@
 「そこには一緒にはいれないのじゃ。それとも……」=“We cannot go in there together. Or are you suggesting...”
 「片時もお主のことを忘れたことはないぞ。これが恋人なのじゃな」=“Not a moment has gone by without you making yourself known in my mind. This is what it means to love, huh?”
 「話だけでよいのか？　もっとしたいことがあるのではないか？」=“Are you fine with just a chat? Do you not have something else you would much rather do with me?”
-「す、少し驚いただけじゃ。お主のこと考えておってな」=“I-I just got a bit startled, that is all. I was thinking of you, afterall.”
+「す、少し驚いただけじゃ。お主のこと考えておってな」=“I-I just got a bit startled, that is all. I was thinking of you, after all.”
 「談笑したいのか？　わしはそれよりも……」=“You wish to chat? I would much rather we...”
 「お、丁度良い、お主の声を聴きたかったところじゃ」=“Oh, perfect timing, I was just about to call out to you myself.”
 「なんじゃ？　わしに会いにきてくれたのかの……？」=“What is it? Did you come to see me...?”
@@ -326,7 +326,7 @@
 「手コキって好き？」=“Do you like giving me a handjob?”
 「なっ……それは、その……お主が感じてくれるから、好きなのじゃ……」=“Wha--... that's, uhm... it makes you feel good, so I love it...”
 「……嫌いではないが、わしの手で気持ちよくできてるか、時々不安になるのじゃ」=“...I do not hate it but, I sometimes worry whether I'm actually pleasuring you or not.”
-「やっぱり股間が一番感じる？」=“Is your crotch your most sensitive spot afterall?”
+「やっぱり股間が一番感じる？」=“Is your crotch your most sensitive spot after all?”
 「……感じる、のじゃ。……は、恥ずかしいではないかっ！」=“...It, is. ...D-Do not make me say embarrassing things--!”
 「……わしは、よくわからないのじゃ。お主が確かめてくれぬか……？」=“...I do not, know. Won't you check...?”
 「これ以上は恥ずかしいのじゃ。他の話題にするのじゃ」=“Any more than this and I shall burst like an overripe tomato. Let us talk about something else.”

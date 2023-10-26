@@ -20,7 +20,7 @@
 「んっ……はい、私も……大好きです」=“Nn--... yes, I... love you as well.”
 「あー、ほんとはここから、もっと色々言うつもりだったんだけど……」=“Aah, I was actually planning, on saying a whole lot more beyond that but...”
 「ど、どうぞ……続けてください。ドキドキは凄いことになっていますけど、なんとか耐えられそうなので……」=“P-Please... go ahead. My heart's pounding something fierce but, I think I can withstand it...”
-「いや、やっぱりやめておくよ。続きは二人で鐘を鳴らして、違う鐘の下で結ばれる時まで取っておく」=“No, I'll pass afterall. I'll save that for after we've rung this bell, once we're standing under a different one to be wed.”
+「いや、やっぱりやめておくよ。続きは二人で鐘を鳴らして、違う鐘の下で結ばれる時まで取っておく」=“No, I'll pass after all. I'll save that for after we've rung this bell, once we're standing under a different one to be wed.”
 「違う鐘？　ぁ、チャペルの……はい、分かりました。その時を楽しみに……ずっと、ずっと待っています」=“A different one? Ah, a chapel's... okay, I understand. I will... wait, I'll wait as long as it takes.”
 「ありがとう。じゃあそろそろ……鐘を鳴らそうか」=“Thank you. Then, let's get around to... ringing this bell, shall we?”
 「はい。愛するあなたと結ばれることを願って……」=“Yes. I wish to be wed to the man I love...”

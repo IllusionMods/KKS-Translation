@@ -37,7 +37,7 @@
 「そうなの？」=“You think so?”
 「付き合いだしたからって突然人が変わるわけじゃないし……」=“It's not like you're gonna change suddenly the moment you start dating someone...”
 「結婚式みたいなことをすぐにやろうって話でもないしさ」=“And something big like "marriage" is completely out of the question between us right now, no?”
-「そう言われれば、確かにあんまり変化はないかも……？」=“When you say it like that, I guess there's not that much of a change afterall...?”
+「そう言われれば、確かにあんまり変化はないかも……？」=“When you say it like that, I guess there's not that much of a change after all...?”
 「でもでも、やっぱり特別なことはあると思うな」=“But but, I do think there's something special about it.”
 「そう？」=“Really?”
 「うん。だって、この瞬間から、キミは私の特別な人になったんだもん」=“Yep. I mean, from this moment on, you've become my "significant other".”

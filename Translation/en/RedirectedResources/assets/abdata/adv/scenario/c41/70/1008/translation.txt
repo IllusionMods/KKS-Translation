@@ -14,7 +14,7 @@
 「その心は？」=“And the reason being?”
 「完全に思いつきなんだけど、キミとボクだけのルールが欲しくて。お願い事を人に言ったら叶わないってボクたちが決めたルールじゃないよね」=“I just came up with it but, I just wanted to make it our own little rule. I mean, we weren't the ones who came up with the whole "you can't tell anyone else it won't come true" rule, did we?”
 「なるほど、面白いね。じゃあその俗説はひとまず忘れて、俺たちはお願いする前に言い合っちゃおうか」=“I see, that sounds interesting. Let's forget that then, and just tell each other before we wish for it.”
-「キミはそれでいいの？　無理にボクに合わせてくれなくても大丈夫だからね？」=“Are you fine with that? You don't need to force yourself to go along with me everytime, you know?”
+「キミはそれでいいの？　無理にボクに合わせてくれなくても大丈夫だからね？」=“Are you fine with that? You don't need to force yourself to go along with me every time, you know?”
 「[H名]に無理に合わせたことなんて１回もないよ」=“I've never 'forced myself', [H名], not once.”
 「あはは、キミって本当に頼もしいね。じゃあ、どっちから言う？」=“Ahahah, you really are just the sweetest, you know? Then, who's going first?”
 「俺はまだ願い事が決まってないから先に聞かせてほしいな。だいたい[H名]関連だけど、ひとつに絞りきれなくて」=“I still haven't made up my mind on what to wish for, so I'd like to hear yours first. I mean, it's gonna be related to you of course, but I still haven't decided on what exactly.”

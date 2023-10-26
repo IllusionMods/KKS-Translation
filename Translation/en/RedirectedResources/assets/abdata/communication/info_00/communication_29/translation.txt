@@ -158,7 +158,7 @@
 「この前、急にお腹を壊して急いでたら――」=“The other day, I messed up my belly and--”
 「誰にも見られなかったのが、不幸中の幸いですね……」=“Small mercy that nobody else saw you...”
 「誰かと付き合う想像ってする？」=“Do you fantasize about going out with someone?”
-「え、ええ、まあ……年齢も年齢ですから」=“Y-Yes, well... I'm of that age too, afterall.”
+「え、ええ、まあ……年齢も年齢ですから」=“Y-Yes, well... I'm of that age too, after all.”
 「積極的にはあまり……。たまにふと思わなくはないですけれど」=“Not really all that aggressively... It does just pop into my head sometimes though.”
 「運命的な出会いって信じたりする？」=“Do you believe in meetings of fate?”
 「えぇ、女性はロマンを追い求める生き物なんですよ？」=“Yes, women are creatures of romance, you know?”
@@ -229,7 +229,7 @@
 「申し訳ありません。お付き合いもしていない方と、そのような行為に及ぶわけには……」=“I'm sorry. I don't think I can do that sort of thing with someone I'm not even going out with...”
 「きみとHしたいんだ」=“I want to have sex with you.”
 「……はぁ。とんだ変態ですね。……ま、まあ、それを言うなら私もですけれど」=“...Haa. What a pervert you are. ...W-Well, not that I'm one to talk.”
-「い、いけません。私たちは……友人同士ですから」=“W-We mustn't. We're... just friends, afterall.”
+「い、いけません。私たちは……友人同士ですから」=“W-We mustn't. We're... just friends, after all.”
 「ここできみとHしたいんだけど」=“I wanna have sex with you here.”
 「こ、こんなところで……興奮し始めている自分が怖いです」=“I-In this sort of... I'm scared of the fact that I'm getting excited.”
 「さすがに、誰かに見られながらは無理です！」=“Doing it with other people in view really is just completely out of the question!”
@@ -415,7 +415,7 @@
 「あの……[Pあだ名]」=“Uhm... [Pあだ名].”
 「なに？　[Hあだ名]」=“What is it? [Hあだ名].”
 「よ、呼んでみただけ……です」=“I-I just wanted to... say it.”
-「は、はい……良いですよ。[Pあだ名]とのエッチ……満たされる感じがしますから」=“Y-Yes... alright. Having sex with you is always so... satisfying afterall, [Pあだ名].”
+「は、はい……良いですよ。[Pあだ名]とのエッチ……満たされる感じがしますから」=“Y-Yes... alright. Having sex with you is always so... satisfying after all, [Pあだ名].”
 「その……私、[Pあだ名]とエッチしたいのですが、よろしいですか？」=“Listen, uhm... I want to, have sex with you, [Pあだ名], is it alright?”
 「あの、少しお話しませんか？」=“Uhm, won't you chat with me for a bit?”
 「あの、[Pあだ名]。少しお話しませんか？」=“Uhm, [Pあだ名]. Won't you chat with me for a bit?”

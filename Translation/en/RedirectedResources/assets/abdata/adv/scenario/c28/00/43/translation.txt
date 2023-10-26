@@ -3,6 +3,6 @@
 //
 「どうじゃ？　中々上手くできたであろう？」=“How is it? Did it not come out quite well?”
 「……なんだろう、どことなく既視感があるような？」=“...It's kinda giving me a sense of dejavu, honestly.”
-「うむ、目の前によい参考対象がおったからの。どうじゃ？　この辺りとかお主そっくりじゃろ？」=“Umu, I did have a good reference to work with, afterall. How is it? This part looks especially just like you, no?”
+「うむ、目の前によい参考対象がおったからの。どうじゃ？　この辺りとかお主そっくりじゃろ？」=“Umu, I did have a good reference to work with, after all. How is it? This part looks especially just like you, no?”
 「そ、そうだね……」=“Y-Yeah...”
 「ん－、じゃがまだまだ改良の余地はありそうじゃな……ここをもっと、こう――」=“Nnn, I do think there's room for improvement though... perhaps this part could--”

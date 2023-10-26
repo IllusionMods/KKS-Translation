@@ -12,8 +12,8 @@
 「う～ん……いいけど、自分でもよく分かってないことだよ？」=“Nnn~... sure but, I don't really understand it all that well myself, okay?”
 「あなたがそばにいてくれると安心できるけど、それと同時にお胸がドキドキするの」=“Whenever you're there, I feel so safe but, at the same time my chest starts pounding.”
 「あなたとのお喋りは楽しくて、一緒に過ごす時間が私にとっては掛け替えのないものになってた」=“Just talking to you is so much fun to me, that the time we spend together's started becoming something I never want to let go.”
-「でも、喜びを感じるたびに胸の奥がキューって締め付けられるの」=“But, everytime I feel that happiness, I can feel my chest clench too.”
-「会えない時間が少しでも増えると、途端に寂しくなっちゃって……」=“And everytime something happens that makes it so I can't see you, I feel so lonely...”
+「でも、喜びを感じるたびに胸の奥がキューって締め付けられるの」=“But, every time I feel that happiness, I can feel my chest clench too.”
+「会えない時間が少しでも増えると、途端に寂しくなっちゃって……」=“And every time something happens that makes it so I can't see you, I feel so lonely...”
 「そっか……」=“I see...”
 「こんなのおかしいよね。一緒にいると安心するのに、不安にもなるなんて……」=“I'm just weird, aren't I? Even though I feel so safe with you, I also feel anxious...”
 「何もおかしくないよ。俺もきみと同じ気持ちだから」=“You're not weird at all. I feel the same as you do.”

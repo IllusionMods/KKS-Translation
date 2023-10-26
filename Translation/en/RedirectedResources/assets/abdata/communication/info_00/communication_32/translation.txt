@@ -150,7 +150,7 @@
 「そうですね……私はあまり推奨したくないです」=“Indeed... I certainly do not endorse them.”
 「私は……ついていい嘘といけない嘘があると思います」=“I... think that there are white lies, and then there are lies.”
 「もっと色んなことができるようになりたいな」=“Man, wish I could learn to do even more things.”
-「何を求められるかわかりませんからね、手広くやるのは良いことかと」=“You never know what you'll need in life, afterall. I think it's good to have a wide reach, to keep your options open.”
+「何を求められるかわかりませんからね、手広くやるのは良いことかと」=“You never know what you'll need in life, after all. I think it's good to have a wide reach, to keep your options open.”
 「手を広げすぎて、どれも中途半端になってしまっては目も当てられません」=“Be careful, for a jack of all trades is a master of none.”
 「ふと身体を動かしたくなるときってない？」=“Don't you just feel like moving your body sometimes?”
 「ありますね。何もしないと身体が鈍ってしまいますから」=“Indeed. Especially since if you do nothing, your body will only weaken with time.”
@@ -177,7 +177,7 @@
 「いざという時に備えて、イメージトレーニングはしっかりやっていますが、何か？」=“I do mental rehearsals, yes, just-in-case the situation ever arises. What about it?”
 「妄想なんて、この私がすると？　……なぜそのような疑いの目で見るのです」=“Do you really think I'd have "fantasies"? What's with those doubt-filled eyes?”
 「男の裸に興奮したりする？」=“Does a guy's naked body turn you on?”
-「緊張で心拍数は上がるでしょうね……見慣れないものですので」=“It does make my heart race, from nervousness though... It's not something I'm used to seeing, afterall.”
+「緊張で心拍数は上がるでしょうね……見慣れないものですので」=“It does make my heart race, from nervousness though... It's not something I'm used to seeing, after all.”
 「試しに見せつけようとしないで下さいね。あなたなら大丈夫だと思いますが」=“Please don't try to show off your own as a "test", alright? Though, I wouldn't mind seeing yours all that much.”
 「エッチな本て持ってる？」=“Do you own any porn mags?”
 「何冊かは。あくまで男性心理を知るための参考資料です」=“Quite a few. Though, I use them for reference data, in an attempt to understand the male psychology.”
@@ -392,7 +392,7 @@
 「残念です……ですが、仕方ありません」=“Shame... however, it cannot be helped.”
 「そうですね。私も、あなたとご飯をいただいたいと思っていました」=“Indeed. I was just thinking that I wanted to have a meal with you as well.”
 「あの、何か食べませんか？」=“Uhm, would you like to eat something?”
-「やはりお腹が空いていましたか。でしたら、早く行きましょう」=“I knew it, you were hungry afterall. Let's go right away then.”
+「やはりお腹が空いていましたか。でしたら、早く行きましょう」=“I knew it, you were hungry after all. Let's go right away then.”
 「そうですか、お腹が空いていたと思ったのですが……」=“Is that so, I thought that you would be quite hungry by now though...”
 「ねぇ、よければ、これから俺の部屋に来ない……？」=“Hey, if you can, won't you come up over to my room...?”
 「……なるほど、理解しました。勿論、行かせて頂きます」=“...I see, I understand. Of course, I would never say no.”

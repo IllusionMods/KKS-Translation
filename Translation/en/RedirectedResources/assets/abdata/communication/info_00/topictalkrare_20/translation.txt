@@ -10,7 +10,7 @@
 「ヤシガニって知ってる？」=“You know what coconut crabs are?”
 「実はカニじゃなくて、ヤドカリの一種らしいよ」=“Apparently, they're not crabs but rather a kind of hermit crab.”
 「ヤドカリの仲間なのに、殻に閉じこもらないんですね……」=“Yet they can't hide behind their shells, can they...”
-「あの大きさだからね。体に合うサイズの殻がないんじゃないかな？」=“Yeah, they're so big afterall. Their shell probably doesn't fit their body, no?”
+「あの大きさだからね。体に合うサイズの殻がないんじゃないかな？」=“Yeah, they're so big after all. Their shell probably doesn't fit their body, no?”
 「あ……確かにそうかも」=“Ah... you might be right.”
 「陸上最大の甲殻類っていわれているんですもんね……」=“They're not the biggest crustaceans on land for nothing, huh...”
 「月桃って、なんで果物じゃないのに桃なのかな？」=“Why are shell gingers (moon peach) called that even though they don't fruit?”

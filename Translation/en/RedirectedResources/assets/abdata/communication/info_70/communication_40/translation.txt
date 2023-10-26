@@ -48,7 +48,7 @@
 「そうだな。あまり無鉄砲なのも困り者だが、男はそれくらいで丁度いいと思うぞ」=“Indeed. Too much recklessness makes for nothing but trouble, however I do think a man ought to be a bit of a troublemaker.”
 「否だな。男の積極性とは大概情欲から湧くものだろう？　まったく、嘆かわしい……」=“I would have to say no. In a man, assertiveness generally rises from lust, does it not? Truly, such a pitiable state...”
 「慎重な男って好きだったりする？」=“Do you like the careful sort of men?”
-「ああ、嫌いではないぞ。勝手に突撃するやつはフォローが面倒だからな」=“Aah, I certainly do not hate them. It is hard to cover for those who charge in with nary a thought, afterall.”
+「ああ、嫌いではないぞ。勝手に突撃するやつはフォローが面倒だからな」=“Aah, I certainly do not hate them. It is hard to cover for those who charge in with nary a thought, after all.”
 「いいや。慎重と臆病は似ている……いざという時に踏み出せない男では話にならん」=“Not at all. The line between that and cowardice is paper thin... A man who cannot move when push comes to shove is not a man in my eyes.”
 「勤勉な男子って好み？」=“Are diligent boys more your type?”
 「真面目なことはそれだけで美徳だ。当然、私も好ましく思っているよ」=“Being straight-laced is a virtue on its own. As such, it is a good one to have in my eyes as well.”
@@ -81,7 +81,7 @@
 「ん？　なんだ？　言いたいことがあるなら遠慮せず言うがいい」=“Nn? What is it? If there is something you'd like to say then it'd be best to simply say it.”
 「おい、我の顔がそんなに珍しいか？　他とそう変わらないだろう？」=“Oi, is my face that much of a novelty? Surely it is not all that different from the others'?”
 「こら、我をからかうな。あまり見つめられると恥ずかしくなる……」=“Hey, do not tease me. I am going to start blushing if you stare at me too much...”
-「まったく、男は絶対に胸を見るな……貴殿も例外では無かったか」=“Good grief, men cannot help themselves, can they... I suppose you weren't an exception afterall.”
+「まったく、男は絶対に胸を見るな……貴殿も例外では無かったか」=“Good grief, men cannot help themselves, can they... I suppose you weren't an exception after all.”
 「貴殿は我に嫌われたいのか？　不躾にも程があるぞ」=“Do you wish for me to hate you? Even insolence has its limits.”
 「むぅ、じろじろ見過ぎだ……いやらしい奴め……」=“Muh, you are staring too much... dirty man...”
 「はは、組手の稽古でもしたいのか？　我の指導は厳しいぞ」=“Hahah, do you wish to do paired training, perhaps? My instruction can be quite severe, so forewarned.”
@@ -247,7 +247,7 @@
 「いや、今回は遠慮させてもらおう。折角誘ってくれたのに、すまないな」=“No, I shall pass this time. My apologies, you went out of your way to ask too.”
 「あー、体験学習と言うのか？　それを我と一緒にやってみないか？」=“Aah, what is it that they call it, some hands-on cultural experience? Won't you try that out with me?”
 「流石、貴殿は期待通りの返事をくれる。本当に感謝しているよ」=“You truly do always reply exactly as one wishes. I truly am grateful.”
-「そうか……仕方あるまい。貴殿には先約が多そうだしな……」=“I see... it cannot be helped. You do seem to be quite the popular man, afterall...”
+「そうか……仕方あるまい。貴殿には先約が多そうだしな……」=“I see... it cannot be helped. You do seem to be quite the popular man, after all...”
 「よかったら、一緒に食事でもどう？」=“How about we grab a meal together?”
 「ほう、願ってもない事が起きたな。もちろんご一緒させてもらおう」=“Hoh, I could not have asked for a better invitation. Of course, I shall join you.”
 「食事か……今はその、そこまで腹がな。すまないが、また今度誘ってくれ」=“A meal, huh... my stomach's not that empty at the moment, you see. Apologies, but ask me again another time.”
@@ -302,7 +302,7 @@
 「そうでもないと思うぞ？　貴殿の魅力は、我が敢えて語るまでもあるまい」=“I wouldn't say so. I need not go out of my way to talk about your charms, when you're so overflowing with it.”
 「このままずっと一緒にいたいなーって、思う時ない？」=“Don't you have times when you think, that you just want us to be together forever?”
 「正直、それはもう常にだな。なるべく貴殿の迷惑にならないようにと心掛けてはいるが」=“Honestly, it's not a matter of "times" anymore. However, it is my intent to never cause any undue bother to you.”
-「思うというより、それが当たり前ではないのか？　我は貴殿の剣なのだから」=“Is that really a matter of thinking? Surely it is only natural for us to be together. I am your sword afterall.”
+「思うというより、それが当たり前ではないのか？　我は貴殿の剣なのだから」=“Is that really a matter of thinking? Surely it is only natural for us to be together. I am your sword after all.”
 「むぅ、きっと我が悪いのだ……貴殿の話に即答できない我を許してくれ」=“Muh, I'm sure I'm the strange one... forgive me, for not being able to directly come up with an answer.”
 「[H名]……大好きだよ」=“[H名]... I love you.”
 「なっ！　い、いきなりどうした？　うぅ……わ、我も……大好きだぞ」=“Wha--! W-What is the matter with you? Uuu... I-I uhm... I love you as well.”
@@ -332,7 +332,7 @@
 「どれだけ見つめても胸は喋らないぞ。ほら、いい加減顔を上げろ」=“No matter how much you stare at them, they will not talk to you. Come on, that's enough of that.”
 「貴殿はすぐに加減を誤る……そんなに胸と話がしたいのか？」=“You always overdo it, no matter how... do you wish to talk to my breasts that badly?”
 「手の握り方にも色々あるのだろう？　貴殿とは、全部試してみたいな」=“There's all sorts of ways to hold hands, are there not? I'd love to try them all with you.”
-「はぁ……我がいちいち反応するのが悪いのか？　何事も引き際が肝心だぞ」=“Haah... is it my fault for giving you a reaction everytime? Knowing when to quit is key, you know.”
+「はぁ……我がいちいち反応するのが悪いのか？　何事も引き際が肝心だぞ」=“Haah... is it my fault for giving you a reaction every time? Knowing when to quit is key, you know.”
 「全部と言ったのは、今すぐ全てという意味ではないぞ？　貴殿は曲解が過ぎる」=“I did say "all" but, I did not mean right now, you know? You always twist things too much.”
 「なっ、こら……おいたはメッだぞ。ふふ、少しくらいなら許してやるがな」=“Wha--, hey... only bad kids do mischief. Fufuh, though I shall let it slide this once.”
 「メッ！　メッだぞ！　まったく……貴殿の調教は大変だな」=“Bad--! Bad boy! Good grief... training you is quite the rough time.”
@@ -349,7 +349,7 @@
 「んぅ？　我に見惚れているのか？　では我も、貴殿に見惚れるとするか……」=“Nn? Are you simply enjoying the view? Then perhaps, maybe I shall do the same...”
 「本音を言えば、貴殿の傍を離れたくないのだが……まぁ、致し方なしか」=“To be frank, I honestly do not wish to leave your side... but well, I suppose it cannot be helped.”
 「はぁ……貴殿と話しただけで、身体が疼いてしまう……」=“Haah... just talking with you, makes my body ache...”
-「こういう時は彼女らしく……ばいばい♪　と言った方が……いや、やはり恥ずかしいな」=“At times such as this, like a girlfriend, I ought to say... byebye♪... no, that really is too embarrassing afterall.”
+「こういう時は彼女らしく……ばいばい♪　と言った方が……いや、やはり恥ずかしいな」=“At times such as this, like a girlfriend, I ought to say... byebye♪... no, that really is too embarrassing after all.”
 「ではまたな。我が傍にいない間は、十分に気を付けるのだぞ」=“See you then. Pay thorough attention to your surroundings, while I'm not by your side.”
 「もうお別れか……名残惜しいが、我慢しよう」=“Already, huh... it is saddening but, I shall endure it.”
 「少しでも話せて嬉しかった。引き止めては悪いからな……我も失礼するとしよう」=“Getting to chat with you, even the tiniest bit, made me happy. I wouldn't want to hold you up... so I shall excuse myself as well.”
@@ -372,7 +372,7 @@
 「了解だ。はしゃぎ過ぎて、貴殿に恥を晒さぬように注意しないとな」=“Understood. I'll have to be careful, not to get too into it and cause you undue embarrassment.”
 「なぁ、我と一緒に遊んでくれないか？　急にその、恋人らしいことがしたくなってな」=“Hey, won't you have some fun with me? I suddenly, feel the urge to do lovey-dovey stuff together.”
 「ふふ、貴殿も我と遊びたかったのだな。以心伝心で嬉しいぞ」=“Fufuh, you were of the same mind, huh? That makes me quite happy.”
-「やはり少々急過ぎたか……いかんな、貴殿にはつい甘えてしまって……」=“Was it on too short a notice afterall... I'm no good, I let myself get carried away and started taking you for granted...”
+「やはり少々急過ぎたか……いかんな、貴殿にはつい甘えてしまって……」=“Was it on too short a notice after all... I'm no good, I let myself get carried away and started taking you for granted...”
 「承知した。貴殿と一緒なら、楽しく学べるに違いない」=“Understood. If you're together with me, I'm sure I'll have quite the enjoyable time studying.”
 「島の体験学習に挑戦してみないか？　二人のいい思い出になると思うのだが……」=“How about we go for another hands-on learning experience together? I do think it'd make for some nice memories for us...”
 「ふふ、感謝する。貴殿とはなるべくたくさん思い出を作りたいのだ」=“Fufuh, I am grateful. I wish for us to create as many memories together as we can.”

@@ -13,5 +13,5 @@
 「もちろん！　それじゃあ……[Hあだ名]！」=“Of course! Then... [Hあだ名]!”
 「…………[Pあだ名]」=“...[Pあだ名].”
 「……おお、ちょっと照れくさいけどすごくいい！　ねね、もう一回呼んでほしいな」=“...Ooh, it's a bit embarrassing but it feels amazing! Hey, please, call me that one more time, pretty please.”
-「…………ああ、いいぜ。ただし、呼ぶごとに記憶がなくなるまでお前のことを殴るからな」=“...Yeah, okay. However, be prepared to be beat up to the point of not remembering it everytime I do.”
+「…………ああ、いいぜ。ただし、呼ぶごとに記憶がなくなるまでお前のことを殴るからな」=“...Yeah, okay. However, be prepared to be beat up to the point of not remembering it every time I do.”
 「……え？　ちょっ、待っ……痛いっ！」=“...Eh? Hey--, wai--... OW--!”

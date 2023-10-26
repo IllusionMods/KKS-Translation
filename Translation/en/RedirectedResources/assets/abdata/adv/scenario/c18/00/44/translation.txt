@@ -6,4 +6,4 @@
 「なるほど、それじゃ俺も[H名]のために頑張って作るよ」=“I see, I'll do my best to make a nice one for you then too.”
 「ふふっ、ありがとうございます。そういえば、シーサーは基本二体で一対らしいですよ」=“Fufuh--, thank you very much. Come to think of it, apparently shisas usually come in pairs.”
 「なら、二人で夫婦シーサーを作ろうか」=“In that case, let's make a couples' pair, hm?”
-「嬉しいですっ。私、なんだかいいものが作れる気がします」=“I'm so happy--! I feel like mine will come out really nicely afterall.”
+「嬉しいですっ。私、なんだかいいものが作れる気がします」=“I'm so happy--! I feel like mine will come out really nicely after all.”

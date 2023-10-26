@@ -103,7 +103,7 @@
 「私、どこにでもお持ち帰りされますよ♡　あなたの実家でも、お墓でも♡」=“You can keep me anywhere♡ Whether at your home, or even a grave♡”
 「あ、あはは、考えておくよ」=“A-Ahahah, I'll think about it.”
 「ウムイの鐘には、他の子もよく行ってるみたいだよ」=“Apparently, even the other girls visit the Bell of Umuy a lot.”
-「年頃の女の子ばかりですから♡　恋愛祈願に使ってる子もいるみたいですよ♡」=“We're all of that age, afterall♡ Seems like there's lots of them that go to pray for love too♡”
+「年頃の女の子ばかりですから♡　恋愛祈願に使ってる子もいるみたいですよ♡」=“We're all of that age, after all♡ Seems like there's lots of them that go to pray for love too♡”
 「恋愛祈願か……」=“Pray for love, huh...”
 「私はひとりでいくつもりはないですよ♡　あなたとしか行きません♡」=“I have no intention of going there by myself, personally♡ I won't go unless you take me♡”
 「参考までに聞くけど、なんで？」=“Alright, I'm curious. Why not alone?”

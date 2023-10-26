@@ -30,7 +30,7 @@
 「簡単だ。睨み合って引かなければいい」=“It's simple. You glare at it, and make it be the one to look away.”
 「えぇっ、そんなことしたら飛びかかってくるよ！？」=“Eeh--, it's gonna end up charging at me if I do that, you know!?”
 「いや、大丈夫だ。野生の獣であれば相手の力量を見誤ることは無い」=“No, it'll be alright. Wild beasts never misjudge strength, they simply cannot.”
-「それ、俺は絶対襲われそうだから……やっぱ遠くから眺めるくらいにしておく」=“I'm pretty sure I'm gonna get assaulted either way so... I'll just appreciate them from afar afterall.”
+「それ、俺は絶対襲われそうだから……やっぱ遠くから眺めるくらいにしておく」=“I'm pretty sure I'm gonna get assaulted either way so... I'll just appreciate them from afar after all.”
 「男が流れ星にお願いとかしたらみっともないかな？」=“Would it be disgraceful for a man to wish upon a shooting star?”
 「いや、そうは思わないぞ。願い事に男女は関係ないからな」=“No, I do not think so. Wishes have no relation to one's gender.”
 「よかった。この軟弱者！　みたいに言われるかと思ってた」=“Great. I thought you'd go "You sissy!" and whatnot.”
@@ -102,7 +102,7 @@
 「うわ……それはちょっと怖いかも」=“Uwah... that might be a bit scary.”
 「なに、ただの例え話だ。土産屋に行って、星の砂を怖がったりするんじゃないぞ？」=“It's naught but an example. Do not go getting scared of starsand at a souvenir shop, alright?”
 「ウムイの鐘って名前がいいよね。いかにもこの島の名物って感じ」=“The Bell of Umuy has a really nice name, doesn't it? It fits just right in, in this place.”
-「名は体を表すと言うからな。恋愛の名所であれば、尚更重要だろう」=“They do say that one's name tells of one's nature, afterall. I imagine that's all the more important, when it's a tourist spot for romance.”
+「名は体を表すと言うからな。恋愛の名所であれば、尚更重要だろう」=“They do say that one's name tells of one's nature, after all. I imagine that's all the more important, when it's a tourist spot for romance.”
 「ただ『愛の鐘』とか言われたら、よくあるーって感じになっちゃうもんね」=“It would sound pretty commonplace if they just called it "The Bell of Love", for sure.”
 「はは、それでも人は来るだろうがな。それだけ愛は人を引き付ける」=“Hahah, I imagine people would still come, regardless. That's just how much of a pull love has on people.”
 「『モテモテの鐘』とかに名前を変えたら、男ばっかり来そうだけどね」=“Bet it'd only be popular with guys though, if they renamed it to something like "The Bell of Sex Appeal”
@@ -129,7 +129,7 @@
 「なに？　いきなりどうした？　感想も何も……あの時はあまり余裕がなくてだな……」=“What? What is it so suddenly? Our first time... frankly, I did not have much room to mull on it at the time...”
 「はは、俺も同じだったよ。だから、なんか変なことしてなかったか気になっちゃって……」=“Hahah, it was the same for me. So I started wondering if I did something weird then, or what...”
 「別に変なことはしていなかったと思うぞ？　まぁ正直、何が変かもあの時は分かっていなかったが……」=“Personally, I do not think so, you know? Well, to be fair, at the time I did not know what was normal and what was strange...”
-「特別なことだというのは強く感じたな。あと、やはり少し痛みもあったが、そこまでではなかった」=“I did feel very strongly that it was a very special time. Also, there was a bit of pain afterall, however it was not as severe as I thought it'd be.”
+「特別なことだというのは強く感じたな。あと、やはり少し痛みもあったが、そこまでではなかった」=“I did feel very strongly that it was a very special time. Also, there was a bit of pain after all, however it was not as severe as I thought it'd be.”
 「痛みと気持ちよさを同時に味わうなんて中々無い……そういう意味でも初めては特別なのだろうな」=“Feeling pain and pleasure at the same time is not something you can experience everyday... in that sense as well, it was certainly a special time.”
 「そっか、よかったぁ……俺、ちゃんとできてたみたいだね」=“I see, thank god... seems like I did a proper job then.”
 「ああ、何も案ずることはない。貴殿は我を女にしてくれた男だぞ？　もっと胸を張るがいい」=“Aah, you have nothing to worry about. You are the man who made a woman out of me, you know? Hold your head high.”

@@ -82,8 +82,8 @@
 「あれって実は……」=“They're actually...”
 「ミジンコの仲間だね～。群れで行動してて、なんでも食べるわんぱくな連中なんだよ～」=“A kind of water flea, aren't they~. They always move around in herds, and are a naughty bunch that can eat just about anything~”
 「普通に詳しいとか」=“So you actually know.”
-「ウミガメってやっぱり憧れる？」=“Do you idolize sea turtles afterall?”
-「やっぱりってなに～？　憧れないよ、ウミガメには～」=“What's that 'afterall' for~? I don't, why would I~?”
+「ウミガメってやっぱり憧れる？」=“Do you idolize sea turtles after all?”
+「やっぱりってなに～？　憧れないよ、ウミガメには～」=“What's that 'after all' for~? I don't, why would I~?”
 「そう？　好きそうだと思ったんだけど」=“That so? I really thought you'd like them.”
 「泣きながら卵を産むんすよ？　しかも、年に何回も」=“They lay eggs while crying, you know? Lots of times per year too.”
 「考えれば考えるほど、ウミガメの日常はカロリーが高すぎるよ～」=“The more I think about it, the more calorie expenditure heavy their lives seem~”
@@ -99,7 +99,7 @@
 「丹精込めて育てましたって？　野菜じゃないんだから」=“They're not vegetables that they grow themselves, you know.”
 「ウムイの鐘みたいな場所って他にもあるのかな？」=“I wonder if there's other places like the Bell of Umuy around.”
 「恋のジンクスみたいなやつ～？　結構、あちこちにありそうだよね～」=“You mean like a love charm or whatever~? Feels like there'd be a bunch all over, doesn't it?~”
-「旅行って恋人と行くこと多そうだし～」=“A lot of people do go travelling as couples too, afterall~”
+「旅行って恋人と行くこと多そうだし～」=“A lot of people do go travelling as couples too, after all~”
 「客寄せってこと？　そう聞くと途端に夢がなくなるな」=“So basically capitalism, huh? Suddenly it doesn't feel even a bit romantic.”
 「そうやって想いが集まる分、ご利益ましましになったりして～」=“And the more people's feelings gather up together, the more effect it actually starts having~”
 「それはどういうルール？」=“And what are you even basing that on?”

@@ -5,7 +5,7 @@
 「この島は紫外線の量が多いから、その紫外線を吸収しすぎないようにこんな色になってるって説があるんだよ」=“There's a theory that it's due to all the ultraviolet rays that this region gets hit with, apparently it might be protection against that.”
 「まあ、そうなのですね。お調べになったのですか？」=“My, I see. Did you look into it?”
 「うん、水族館に来る前にちょっとね。カラフルなサンゴ礁に紛れて天敵に見つかりにくくしてるって説もあるんだって」=“Yeah, a bit, before we came here. Another theory goes that it's supposed to be natural camoflauge against predators, helping them blend in with the corals and whatnot.”
-「まあまあ、私ももっと調べてくるべきでした。この島に来たのは研修旅行で多くを学ぶためですものね」=“Oh my, I should have researched it a bit myself before we came here. We did come here on a study tour, afterall.”
+「まあまあ、私ももっと調べてくるべきでした。この島に来たのは研修旅行で多くを学ぶためですものね」=“Oh my, I should have researched it a bit myself before we came here. We did come here on a study tour, after all.”
 「あはは、俺は別に研修旅行だから調べてきたわけじゃないよ。[H名]との話題が増えるかと思ってさ」=“Ahahah, it's not like I did it because of that. I only did it so that we'd have more to talk about here.”
 「そのお気持ちが嬉しいです……私の調べた魚もこの水槽にいたらよいのですが……」=“That makes me very, very happy... I only hope that they also have some of the fish that I've read about...”
 「[H名]も調べてきてたの？」=“You looked into it too?”

@@ -11,7 +11,7 @@
 「ふふ、確かに。自然豊かだし、健康的でいられそうだわ」=“Fufuh, for sure. There's so much nature around here too, I feel like we'd be able to live a pretty healthy lifestyle.”
 「だいたいのアクティビティはやってみた？」=“Tried out most of the activities here?”
 「ううん、まだ全然。でも、それだけ楽しみが残ってるってことだから、ワクワクしてるわ」=“Nope, not at all. But, that just means that there's just that many more things to do, so I'm pretty excited.”
-「やっぱり男は筋肉があった方がいいのかな？」=“Do you think men should be muscly afterall?”
+「やっぱり男は筋肉があった方がいいのかな？」=“Do you think men should be muscly after all?”
 「私が頷いたら筋トレをするの？　ふふ、それなら『うん』って答えようかな」=“Would you hit the gym if I were to say yes? Fufuh, in that case, maybe I just will.”
 「飼ってみたい動物や、育ててみたい植物ってある？」=“Is there any animal you want to have, or any plant you want to try raising?”
 「植物には明るくないから分からないけど……動物ならモモンガかな。変わった動物を飼ってみたいわ」=“I'm really not knowledgeable about plants, so I dunno but... as for pets, I'd like a flying squirrel. I like weird animals.”

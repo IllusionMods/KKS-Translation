@@ -41,7 +41,7 @@
 「あなたは流れ星にお願いをしたことがあるのですか？」=“Have you ever wished upon a shooting star before?”
 「あるよ。平和に暮らせますようにって」=“I have. I wished for our lives to continue to be peaceful.”
 「お願いは叶えてもらえましたか？」=“Has that wish come true, do you think?”
-「そうだね。一応何事もなく暮らせてるし、流れ星のおかげかも」=“Good question. Our lives are pretty uneventful so, maybe it might be thanks to that wish afterall.”
+「そうだね。一応何事もなく暮らせてるし、流れ星のおかげかも」=“Good question. Our lives are pretty uneventful so, maybe it might be thanks to that wish after all.”
 「効果が実証されたなら……私も次回からはお願いしてみます」=“Since it was effective... I shall wish upon one myself next time.”
 「はは、それなら今からお願いを考えておかないとね」=“Hahah, in that case, you're gonna have to start thinking of a wish sooner rather than later.”
 「サガリバナって昼も咲いたらいいのにね」=“It'd be so nice if mango pines would bloom in the day too.”
@@ -104,7 +104,7 @@
 「はは、流石に食べないって。ただそっちの方が似てるなって思っただけ」=“Hahah, even I'm not that far gone. I just thought that they looked pretty similar.”
 「コンペイトウの砂では……何がなんだか分かりません」=“Konpeitosand... I cannot even process that word.”
 「確かに……それこそお菓子なのかなって思っちゃうかも」=“For sure... now that sounds like some sort of candy.”
-「星の砂は、やはり星の砂であるべきです」=“Starsand really ought to be starsand afterall.”
+「星の砂は、やはり星の砂であるべきです」=“Starsand really ought to be starsand after all.”
 「そ、そうだね……名前ってやっぱり大事だね」=“Y-Yeah... I guess names really are important.”
 「女子にはウムイの鐘みたいな場所って人気あるの？」=“Are places like the Bell of Umuy popular with girls too?”
 「行きたいと言っている人は多いです」=“There's lots of them who do want to go to such places.”
