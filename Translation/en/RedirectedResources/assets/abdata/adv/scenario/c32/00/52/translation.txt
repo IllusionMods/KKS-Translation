@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「美味しかったですね。あなたと一緒に食べたからでしょうか？」=
+「美味しかったですね。あなたと一緒に食べたからでしょうか？」=“That was really nice, wasn't it? I wonder if it was because we ate together?”

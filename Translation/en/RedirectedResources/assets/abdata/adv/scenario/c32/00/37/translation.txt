@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この海は見ているだけでも飽きませんね」=
-//「でも、折角遊びに来たんだし、何かしていこ？」=
-//「そうですね……では、二人で一定時間で来た波の数を数えましょう」=
-//「……それ、結局眺めてるだけなんじゃ」=
+「この海は見ているだけでも飽きませんね」=“Even just looking at this sea never gets tiring, does it?”
+「でも、折角遊びに来たんだし、何かしていこ？」=“But, we came all this way to have fun so, let's do something?”
+「そうですね……では、二人で一定時間で来た波の数を数えましょう」=“Indeed... well then, let us both count the number of waves over a certain amount of time.”
+「……それ、結局眺めてるだけなんじゃ」=“...Isn't that just basically looking at the sea though?”

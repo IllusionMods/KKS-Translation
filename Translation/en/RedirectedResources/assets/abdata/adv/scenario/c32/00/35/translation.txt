@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「あなたと一緒に来れて良かったです。また見に来ましょう」=
+「あなたと一緒に来れて良かったです。また見に来ましょう」=“I'm glad we came here together. Let's do it again soon.”

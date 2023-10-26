@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「カヤック、一人乗りと二人乗りがありますが、どちらにしましょう」=
-//「んー、君はどっちがいい？」=
-//「私はどちらでも構いませんが……折角ですので、二人乗りにしてみますか？」=
-//「ＯＫ、二人で頑張ってみようか」=
+「カヤック、一人乗りと二人乗りがありますが、どちらにしましょう」=“Which shall we go with? The one person Kayak or the two person one?”
+「んー、君はどっちがいい？」=“Nn, which one do you want to go with?”
+「私はどちらでも構いませんが……折角ですので、二人乗りにしてみますか？」=“I do not mind either way but... shall we go for the two person one? We might as well.”
+「ＯＫ、二人で頑張ってみようか」=“Okay, let's do our best together.”

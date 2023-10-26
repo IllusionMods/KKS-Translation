@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「なるほど、私に触れたい、という事ですか」=
-//「う、うん……ダメ、かな……？」=
-//「そのような間柄ではないですが……それでもあなたなら、と思います」=
-//「本当！？　やった！！」=
-//「ですが、何分初めてですので……お手柔らかにお願いします」=
+「なるほど、私に触れたい、という事ですか」=“I see, you're saying you wish to touch me, huh?”
+「う、うん……ダメ、かな……？」=“Y-Yeah... I'm guessing, it's a no go...?”
+「そのような間柄ではないですが……それでもあなたなら、と思います」=“Our relationship is not one like that, however... I do not mind, if it's you.”
+「本当！？　やった！！」=“You mean it?! Yay!!”
+「ですが、何分初めてですので……お手柔らかにお願いします」=“However, that doesn't change the fact that I'm a virgin... so please do go easy on me.”

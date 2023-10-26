@@ -1,23 +1,23 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「この鐘、鳴らした二人は必ず結ばれるって話だけど……」=
-//「鳴らしましょう。思いと力をたくさん込めて！」=
-//「思いはともかく、力は込めるものじゃないと思うよ？」=
-//「必ず結ばれるのですよ？　込めるに越したことはないはずです」=
-//「……そもそも、これついて鳴らすタイプの鐘じゃないから、力の込めようがないよ」=
-//「あ……確かにその通りですね。と、ともかく鳴らしてみましょう！」=
-//「はは、そうだね」=
-//「いい音ですね。辺りに響き渡っています……」=
-//「うん、いい音だね」=
+「この鐘、鳴らした二人は必ず結ばれるって話だけど……」=“So, the legend goes that any pair that rings this bell together will be tied together by fate someday...”
+「鳴らしましょう。思いと力をたくさん込めて！」=“Let's ring it. We can pack in lots of our love and energy!”
+「思いはともかく、力は込めるものじゃないと思うよ？」=“Love is one thing but, energy isn't something you pack in, I'd say.”
+「必ず結ばれるのですよ？　込めるに越したことはないはずです」=“We'll be tied together someday, you know? We might as well get it in there.”
+「……そもそも、これついて鳴らすタイプの鐘じゃないから、力の込めようがないよ」=“...To begin with, it's not a bell with a clapper so, there's no way for us to do that anyway.”
+「あ……確かにその通りですね。と、ともかく鳴らしてみましょう！」=“Ah... you're right. E-Either way, let's ring it!”
+「はは、そうだね」=“Hahah, yeah.”
+「いい音ですね。辺りに響き渡っています……」=“What a nice sound. I can feel it echoing...”
+「うん、いい音だね」=“Yep, it is very nice.”
 「…………」=“...”
 「………………」=“...”
-//「……何か変化はあったでしょうか？」=
-//「いやぁ、特には……」=
-//「で、では、もう一度鳴らしてみましょう」=
-//「別にいいけど……もう結ばれてる人達には、あまり意味はないんじゃないかな？」=
-//「そ、そうですね……すみません、ちょっと必死になってしまいました」=
-//「ジンクスは大切だから、軽々しく扱いたくなくって気持ちはわかるよ」=
-//「……でも、やっぱりもう一度鳴らしてみませんか？　その、念の為ですけど……」=
-//「うん、いいよ。じゃあ次はもっと思いを込めてみようか」=
-//「わかりました。では、せーので鳴らしましょう――」=
+「……何か変化はあったでしょうか？」=“...Did anything change, I wonder?”
+「いやぁ、特には……」=“No, I don't really feel...”
+「で、では、もう一度鳴らしてみましょう」=“W-Well then, let's ring it once more.”
+「別にいいけど……もう結ばれてる人達には、あまり意味はないんじゃないかな？」=“Not that I mind but... would there be a point, considering we're already 'tied' together in a way?”
+「そ、そうですね……すみません、ちょっと必死になってしまいました」=“Y-You're not wrong... I'm sorry, I was clearly being a bit desperate there.”
+「ジンクスは大切だから、軽々しく扱いたくなくって気持ちはわかるよ」=“I mean, stuff like this is pretty serious so I can understand not wanting to treat it lightly.”
+「……でも、やっぱりもう一度鳴らしてみませんか？　その、念の為ですけど……」=“...But, can we really not ring it once more, just once? Just uhm, just in case...”
+「うん、いいよ。じゃあ次はもっと思いを込めてみようか」=“Yeah, sure. Let's pack in even more of our love this time then.”
+「わかりました。では、せーので鳴らしましょう――」=“Alright. Well then, let's do it on a count of three--”

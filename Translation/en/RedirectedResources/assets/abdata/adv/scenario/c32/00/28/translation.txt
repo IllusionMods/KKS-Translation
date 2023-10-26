@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「お邪魔します」=
-//「ここでならあなたに好きなだけ尽くせる、というわけですね。お任せ下さい」=
+「お邪魔します」=“Do excuse me.”
+「ここでならあなたに好きなだけ尽くせる、というわけですね。お任せ下さい」=“So I can serve you as much as I want here, huh? Please leave it to me then.”

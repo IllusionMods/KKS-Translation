@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここで、カップルドリンクが飲めるんだって。一緒に飲もうよ」=
-//「なんとういか、想像していた通りの飲み物ですね」=
-//「こういうの、映画やドラマなんかで見たことがあります」=
-//「うん、たしかにそのものだね」=
-//「あの、一つ心配事があるのですが……」=
-//「ん？　なに？」=
-//「二人同時にストローで飲むんですよね？」=
-//「うん、そうだね」=
-//「吸うんじゃなく、ぷーっと吹いたりしません……よね？」=
-//「あはは、そんなことはしないよ」=
-//「そ、そうですよね？　あなたはいたずらっ子みたいなところはありますけど、そこまで子供ではありませんよね？」=
-//「うん、大丈夫だってば」=
-//「さあ、飲もう……せぇの――」=
-//「……今『せぇの』で思いっきり空気を吸いませんでした？」=
-//「あはは、冗談だって」=
-//「もう、冗談は止めて下さい」=
-//「わかってるって。さあ、飲もう……喉がカラカラだよ」=
+「ここで、カップルドリンクが飲めるんだって。一緒に飲もうよ」=“Apparently, we can get a couples' drink here. Let's try it together.”
+「なんとういか、想像していた通りの飲み物ですね」=“How do I say this, it's exactly as I expected it to be.”
+「こういうの、映画やドラマなんかで見たことがあります」=“I've seen drinks like these before, in TV dramas and movies and whathaveyou.”
+「うん、たしかにそのものだね」=“Yep, that's exactly what this is.”
+「あの、一つ心配事があるのですが……」=“Uhm, there is one thing that troubles me...”
+「ん？　なに？」=“Nn? What is it?”
+「二人同時にストローで飲むんですよね？」=“We'll be drinking it together at the same time, won't we?”
+「うん、そうだね」=“Yeah.”
+「吸うんじゃなく、ぷーっと吹いたりしません……よね？」=“You won't be naughty and, blow through the straw instead... right?”
+「あはは、そんなことはしないよ」=“Ahahah, I would never.”
+「そ、そうですよね？　あなたはいたずらっ子みたいなところはありますけど、そこまで子供ではありませんよね？」=“O-Of course. You've got your impish sides but, even you're not that much of a child, are you?”
+「うん、大丈夫だってば」=“Yep, don't worry so much.”
+「さあ、飲もう……せぇの――」=“Now then, let's drink it... one, two--”
+「……今『せぇの』で思いっきり空気を吸いませんでした？」=“...Didn't you just take a deep breath while counting down there?”
+「あはは、冗談だって」=“Ahahah, I'm messing with you.”
+「もう、冗談は止めて下さい」=“Jeez, please stop that.”
+「わかってるって。さあ、飲もう……喉がカラカラだよ」=“Yes yes. C'mon now... my throat's getting drier by the second.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういった所に来たからには、一度はお土産に目を通さないといけませんよね」=
-//「だね、どういった物が置いてあるんだろってわくわくするな」=
-//「はい。まずは何があるか、それからどのタイミングで買うか……今のうちに計画を練っていきます」=
-//「確かに、無計画に買うと財布にも部屋的にも良くないからな……俺もそうしとこう」=
+「こういった所に来たからには、一度はお土産に目を通さないといけませんよね」=“We've come all this way to this island, so we really can't skip out on looking at the souvenirs atleast once, can we?”
+「だね、どういった物が置いてあるんだろってわくわくするな」=“Yep, it makes you excited just thinking about what sorts of things there might be, doesn't it?”
+「はい。まずは何があるか、それからどのタイミングで買うか……今のうちに計画を練っていきます」=“Yes. First, checking what they have, and then deciding on when to buy it... I think I'll start planning it all out now.”
+「確かに、無計画に買うと財布にも部屋的にも良くないからな……俺もそうしとこう」=“For sure, neither our wallets nor our small rooms would be very happy if we just bought stuff willy nilly... I guess I'll do that too.”

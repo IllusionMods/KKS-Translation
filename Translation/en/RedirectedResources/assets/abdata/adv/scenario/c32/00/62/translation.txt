@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「どうする？　今回も背中塗ってく？」=
-//「そうですね……今回は前の方もお願いしたいと思います」=
-//「ん？　前なら自分で塗れると思うんだけど……」=
-//「あなたの手で塗ってほしい。あなたに触れてほしい。……ダメですか？」=
-//「……そこまで言われちゃ、断れるわけないよ」=
+「どうする？　今回も背中塗ってく？」=“So, what do you wanna do? Want me to rub it on your back again?”
+「そうですね……今回は前の方もお願いしたいと思います」=“Let's see... I think I want you to do my chest as well, this time.”
+「ん？　前なら自分で塗れると思うんだけど……」=“Nn? I'm pretty sure you could do that on your own though...”
+「あなたの手で塗ってほしい。あなたに触れてほしい。……ダメですか？」=“I want you to do it, with your hands. I want to feel your hands on me. ...Could I?”
+「……そこまで言われちゃ、断れるわけないよ」=“...How am I supposed to say no to that face?”

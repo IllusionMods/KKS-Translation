@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こういった所での食事は、少々気負ってしまいますね」=
-//「まぁ、普段食べ慣れない場所ってのはどうしてもそうなっちゃうよね」=
-//「はい。ですがそのままだと美味しい食事も味わえないので、頑張って慣れたいと思います」=
-//「それこそあまり気を負い過ぎないほうがいいと思うけど……とりあえず、自然体で食べよう」=
+「こういった所での食事は、少々気負ってしまいますね」=“Meals at places like this do feel a bit daunting, don't they?”
+「まぁ、普段食べ慣れない場所ってのはどうしてもそうなっちゃうよね」=“Yeah, eating at places you're not used to tends to always end up like that, doesn't it?”
+「はい。ですがそのままだと美味しい食事も味わえないので、頑張って慣れたいと思います」=“Yes. However, if we do not try it, we won't get to savour the delicious food either, so I do wish to get used to it rather quickly.”
+「それこそあまり気を負い過ぎないほうがいいと思うけど……とりあえず、自然体で食べよう」=“I really don't think you need to get all that worked up about it... anyways, let's just relax and order whatever.”

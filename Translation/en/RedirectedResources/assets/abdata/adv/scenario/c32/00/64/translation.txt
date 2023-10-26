@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ありがとうございました、あなたに塗ってもらえてとても幸せです」=
-//「やはりあなたの手は気持ちいいですね、ありがとうございました」=
-//「お疲れさまでした、次もまた、よろしくお願いします」=
-//「また来ましょう。その時は、改めてお願いしますね」=
+「ありがとうございました、あなたに塗ってもらえてとても幸せです」=“Thank you very much, I feel very happy right now.”
+「やはりあなたの手は気持ちいいですね、ありがとうございました」=“Your hands really do feel wonderful, thank you very much.”
+「お疲れさまでした、次もまた、よろしくお願いします」=“Thank you very much for that, please do it next time as well.”
+「また来ましょう。その時は、改めてお願いしますね」=“Let's come here again. Please do it that time for me, okay?”

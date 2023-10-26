@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「さて、どんな曲に挑戦してみようかな……」=
-//「あ……この曲、有名ですね」=
-//「あぁ、俺も知ってるな。聞いた感じ弾きやすそうだし、これにしてみる？」=
-//「そうですね、二人で確認し合いながら練習してみましょう」=
+「さて、どんな曲に挑戦してみようかな……」=“Now then, what song should we try to play...”
+「あ……この曲、有名ですね」=“Ah... this song's rather famous, isn't it?”
+「あぁ、俺も知ってるな。聞いた感じ弾きやすそうだし、これにしてみる？」=“Aah, I know that one too. It seems like it'd be pretty easy to play, from what I've heard of it, so wanna go with that?”
+「そうですね、二人で確認し合いながら練習してみましょう」=“Indeed, let's practice together while checking each other's work.”

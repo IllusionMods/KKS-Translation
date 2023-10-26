@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここは割と食べ慣れたものがありそうですね」=
-//「そうっぽいね、旅行客用に合わせてる感じなのかな？」=
-//「かもしれません。が、それはありがたい配慮だと思います」=
-//「だね。それじゃ、俺はコレにしよっかな」=
-//「では、私はコレを頼んでみます」=
+「ここは割と食べ慣れたものがありそうですね」=“This seems like the sort of place to have the kinds of things we normally eat, doesn't it?”
+「そうっぽいね、旅行客用に合わせてる感じなのかな？」=“It does, I wonder if it's built around catering to tourists?”
+「かもしれません。が、それはありがたい配慮だと思います」=“It might very well be. However, it's a thankful consideration nonetheless.”
+「だね。それじゃ、俺はコレにしよっかな」=“Yeah. Well then, I think I'll go with this.”
+「では、私はコレを頼んでみます」=“I suppose I'll order this then.”
