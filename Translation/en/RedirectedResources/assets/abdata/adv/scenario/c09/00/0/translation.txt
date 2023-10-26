@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へえ、あんた面白い子ね！　気に入ったわ！」=“Ehe, you're a funny guy! I like you!“
+「へえ、あんた面白い子ね！　気に入ったわ！」=“Ehe, you're a funny guy! I like you!“
 「はは……どうも。でも、気に入ったとか、上から目線の言葉は使わない方がいいと思うよ」=“Haha... thank you. But, taken a liking to me and stuff, I think you'd be better off using less condescending words, just saying.”
 「あっ！　いけない……またやっちゃった……」=“Ah--! Darn... I did it again...”
 「あたしったら本当にデリカシーがないんだから……」=“I really don't have an ounce of tact...”

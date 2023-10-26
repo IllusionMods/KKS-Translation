@@ -1,5 +1,5 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「おはよう、[P]。起きて起きてー」=“Morning, [P]. Wake up, wake up-”
+「おはよう、[P]。起きて起きてー」=“Morning, [P]. Wake up, wake up-”
 「もう、また寝ないでよ！　せっかくなんだから何か話をしましょうよ！」=“Jeez, don't go back to sleep! I stayed over so, let's chat atleast!”
