@@ -135,9 +135,9 @@
 「あまりジロジロ見るものではないかと思いますが」=“I don't think it's something worth staring all that much at.”
 「おかしなところがあればおっしゃってくださいね……」=“If there's anything strange about it, please do let me know, alright?...”
 「水に濡れることを想定した格好ですが……何を想像してらっしゃるんです？」=“I'm dressed like this because I was expecting to get wet but... Just what are you imagining?”
-「どこへ行くのか説明を！　……と、言っても聞かないようですね」=“Tell me where you're going first!E$3 $4ven if I say that, you don't seem to be listening.”
+「どこへ行くのか説明を！　……と、言っても聞かないようですね」=“Tell me where you're going first! Even if I say that, you don't seem to be listening.”
 「今なら冗談で済ませられます。ここまでにしておきましょう」=“You can still pass it off as a joke. Let's just leave it at this.”
-「あなたともっと話がしたいです。……いけませんか？」=“I want to chat with you even more.I$3 $4s it bad of me?”
+「あなたともっと話がしたいです。……いけませんか？」=“I want to chat with you even more. Is it bad of me?”
 「その、男性というのは、性……いえ、何でもありません」=“Uhm, Boys are, that is, sex--... No, it's nothing.”
 「あ……すみません、声を掛けてもらえるとは思わず。で、何でしょう？」=“Ah... I'm sorry, I didn't think that through. So, what is it?”
 「お疲れ様です。どうされました？」=“Good work. What's up?”
