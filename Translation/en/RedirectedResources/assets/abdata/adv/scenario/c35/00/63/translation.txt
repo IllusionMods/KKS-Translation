@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はふ……そげん上手なの、ずるかよ……」=
-//「うん、なかなか良かったよ。また塗ってくれるー？」=
-//「お疲れ様、また来ようねー」=
-//「うーん、折角ならちゃんと塗ってほしかったなぁ……」=
+「はふ……そげん上手なの、ずるかよ……」=“*Pant*... that's unfair, why're you so good at it...”
+「うん、なかなか良かったよ。また塗ってくれるー？」=“Yep, that was pretty nice. Will you do it again later~?”
+「お疲れ様、また来ようねー」=“Thanks, let's come here again soon, okay?”
+「うーん、折角ならちゃんと塗ってほしかったなぁ……」=“Nnnn, I really wanted you to do it though~...”

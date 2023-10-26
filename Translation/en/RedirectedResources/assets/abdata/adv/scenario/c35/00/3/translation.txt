@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「えっと、それは本気ととらえていいのかな……？」=
-//「あ、当たり前やない、本気じゃなかったらこげん事言えんし……」=
-//「うん、そうだよね……」=
-//「……どうと？」=
-//「……うん、わかった。その気持ちにしっかり応えてあげたいと思う」=
-//「！　ほんなこつ！？　あ、ありがとう……私、今この瞬間が一番幸せかも……っ」=
+「えっと、それは本気ととらえていいのかな……？」=“Erhm, you're not joking, right? I mean, I'm gonna take it seriously...”
+「あ、当たり前やない、本気じゃなかったらこげん事言えんし……」=“O-Of course, dummy, I wouldn't say something like this if I wasn't serious...”
+「うん、そうだよね……」=“Right, of course...”
+「……どうと？」=“...So?”
+「……うん、わかった。その気持ちにしっかり応えてあげたいと思う」=“...Yeah, okay, I got it. I want to answer those feelings of yours seriously too.”
+「！　ほんなこつ！？　あ、ありがとう……私、今この瞬間が一番幸せかも……っ」=“--! You mean it!? T-Thanks... this might be the happiest I've ever been...--”

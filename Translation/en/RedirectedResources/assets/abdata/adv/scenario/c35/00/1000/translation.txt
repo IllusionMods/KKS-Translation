@@ -1,24 +1,24 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここってカップル向けのドリンクが飲めるらしいよ。頼んでみない？」=
-//「わぁっ、ばり可愛いやんっ！　まさにトロピカルって感じやね！」=
-//「あははっ、絶対に言うと思った」=
-//「むぅぅ、どういう意味かいな？　もしかして私のこと単純とか思ったっちゃろ？」=
-//「えっ、違うよ。可愛いな……と思って」=
-//「わぁっ、そげんこと言ってっ！　絶対単純と思っとっちゃん！」=
-//「違うってば。本当に可愛いと思ってるだけだよ」=
-//「も、もー、そげん可愛いって言われたら……顔、熱くなるやん……」=
-//「あはは、ごめん。じゃあさ、気を取り直して飲んでみようよ」=
-//「うんっ……って、ちょっと待って。なんでカップルドリンクのストローってこんな形しとると？」=
-//「え！？　そこを気にする？」=
-//「うん、だってどうせ一緒に飲むなら、ストローは別々でも構わんくない？」=
-//「まぁ、言ってしまえばそうなんだけど……でもそのストローに意味があるってことじゃない？」=
-//「そう、それ！　ちょっと想像してみるね。二人の前にドリンクがあって、一緒にストローへ口を近づけて……」=
-//「うんうん、それで？」=
-//「君と私のお顔が近くなって……めっちゃ近くなって……」=
-//「そっか。二人で一緒に飲んだら、顔が近くなるためのストローってことだね」=
-//「わぁぁっ！　考えたらばり恥ずかしくなってきた！　そげんこと言うけん、ますます顔が熱くなったやん！」=
-//「えー、俺のせいなの？　でも無事に分かったことだし、早く飲んでみようよ」=
-//「はぅ……こげん顔が熱いのに……今君に近づくの恥ずかしい……」=
-//「はは、そんな[H名]も可愛くて好きだよ」=
+「ここってカップル向けのドリンクが飲めるらしいよ。頼んでみない？」=“Seems like we can get a drink they reserve specifically for couples, here. Wanna try ordering it?”
+「わぁっ、ばり可愛いやんっ！　まさにトロピカルって感じやね！」=“Wah--, it's super cute--! Seriously, it's so tropical!”
+「あははっ、絶対に言うと思った」=“Ahahaha--, I knew you'd say that.”
+「むぅぅ、どういう意味かいな？　もしかして私のこと単純とか思ったっちゃろ？」=“Muuuh, what do you mean by that? You're calling me simple and stuff, aren't you?”
+「えっ、違うよ。可愛いな……と思って」=“Eh--, no no. I just thought that... you were very cute.”
+「わぁっ、そげんこと言ってっ！　絶対単純と思っとっちゃん！」=“Wah--, calling me cute--! You definitely think I'm too simple!”
+「違うってば。本当に可愛いと思ってるだけだよ」=“No, seriously. I really do just think that you're adorable.”
+「も、もー、そげん可愛いって言われたら……顔、熱くなるやん……」=“J-Jeez, if you call me cute that much... I'm, gonna blush...”
+「あはは、ごめん。じゃあさ、気を取り直して飲んでみようよ」=“Ahahah, sorry. Let's forget about all that and just drink it then.”
+「うんっ……って、ちょっと待って。なんでカップルドリンクのストローってこんな形しとると？」=“Okay--... wuh, wait. Why's the straw in this couples' drink like this?”
+「え！？　そこを気にする？」=“Eh?! Is that what you're hung up on?”
+「うん、だってどうせ一緒に飲むなら、ストローは別々でも構わんくない？」=“Yeah, I mean if we're just gonna drink it together, we could still do it through separate straws, no?”
+「まぁ、言ってしまえばそうなんだけど……でもそのストローに意味があるってことじゃない？」=“Well, I mean, I guess... but doesn't that mean that there's some meaning in the straw being like this?”
+「そう、それ！　ちょっと想像してみるね。二人の前にドリンクがあって、一緒にストローへ口を近づけて……」=“Yeah, exactly! Lemme think on it. The drink's in between us, and we'd both go in together...”
+「うんうん、それで？」=“Yepyep, and then?”
+「君と私のお顔が近くなって……めっちゃ近くなって……」=“And your face would get very close to mine... too close...”
+「そっか。二人で一緒に飲んだら、顔が近くなるためのストローってことだね」=“I see. So that's why the straw's like this, it's to make our faces come close, huh?”
+「わぁぁっ！　考えたらばり恥ずかしくなってきた！　そげんこと言うけん、ますます顔が熱くなったやん！」=“Waaah--! Suddenly it feels super embarrassing! And since you were calling me cute again and again, my face's feeling even hotter!”
+「えー、俺のせいなの？　でも無事に分かったことだし、早く飲んでみようよ」=“Eh, it's my fault? But you figured it out just fine so, let's just try going in for it.”
+「はぅ……こげん顔が熱いのに……今君に近づくの恥ずかしい……」=“Hauu... my face is so hot right now too... the thought of being centimeters from your face is so embarrassing...”
+「はは、そんな[H名]も可愛くて好きだよ」=“Hahah, you're adorable like that too. I love you.”

@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「んー、この音色、好きやなぁ……」=
-//「だね、いくらでも聞けるし、気持ちが落ち着いてく感じがする」=
-//「……落ち着きすぎて、ちょっと眠うなってくるね」=
-//「ほらほら、実際に弾いてみる体験なんだし、しっかり指も動かさないとー」=
+「んー、この音色、好きやなぁ……」=“Nn~, I really like this sound~...”
+「だね、いくらでも聞けるし、気持ちが落ち着いてく感じがする」=“Yeah, it really is calming, I could listen to it all day.”
+「……落ち着きすぎて、ちょっと眠うなってくるね」=“...It's so calming, it's actually making me kinda sleepy here.”
+「ほらほら、実際に弾いてみる体験なんだし、しっかり指も動かさないとー」=“C'mon, we're here to actually play it ourselves, so we gotta keep moving our fingers.”

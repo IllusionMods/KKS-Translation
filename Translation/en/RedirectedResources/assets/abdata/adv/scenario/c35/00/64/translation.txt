@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ふふっ、やっぱ、君に塗ってもらうの好きやけん……」=
-//「いっぱい触られてしもた……ふふっ」=
-//「君になら、いつでも塗ってほしいから……ね？」=
-//「そっか……君の手で、いっぱい塗ってほしかったなぁ……」=
+「ふふっ、やっぱ、君に塗ってもらうの好きやけん……」=“Fufuh--, I really do love it when you do it for me...”
+「いっぱい触られてしもた……ふふっ」=“You touched me lots today... fufuh--”
+「君になら、いつでも塗ってほしいから……ね？」=“I don't mind it, I want you to do it anytime you want... okay?”
+「そっか……君の手で、いっぱい塗ってほしかったなぁ……」=“I see... I really wanted you to rub lots onto me though, with your hands...”

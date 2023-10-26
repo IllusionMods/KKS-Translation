@@ -1,17 +1,17 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「卓球台があるよ！　やってみない？」=
-//「あはっ、卓球とかばり久しぶり！　よーし、ここは真剣勝負やね！」=
-//「ははっ、それじゃお手柔らかにお願いします」=
-//「えへへっ、こちらこそお手柔らかにお願いするん。あ、でも手加減は無用やけんね！」=
-//「うん、もちろん！」=
-//「うぅ……負けたぁ……最初はうまくいっとったんに……あのミスさえなければ勝てたっちゃけどなぁ……」=
-//「あはは、俺の方が運が良かったってとこかな」=
-//「でも君が本当に手を抜かんで勝負するとか……ちょっと意外やった。君ってこういうとき相手に気を遣いそうやもん」=
-//「そうかな？　でも真剣勝負って言ってたし、何より楽しかったから」=
-//「私も！　こげん楽しめるのって君とやからやと思う。君の前やとめっちゃ自然になれて。私が私でいられる感じがするけん」=
-//「俺もだよ。変に気を遣わずに俺が俺でいられるっていうか……」=
-//「な……なんか、改めて言われると照れる。でもこげん気持ちになれる人と巡る会えるとか……ばり幸せなことやんね」=
-//「あはは、こっちこそ……改めて言われると照れるよ」=
-//「えへへ。あのね……私を好きになってくれてありがとう。これからもよろしくね」=
+「卓球台があるよ！　やってみない？」=“There's a ping pong table! Wanna try playing a bit?”
+「あはっ、卓球とかばり久しぶり！　よーし、ここは真剣勝負やね！」=“Ahah--, it's been so long since I played ping poing! Alright~, time for a serious match then!”
+「ははっ、それじゃお手柔らかにお願いします」=“Hahah--, please do go easy on me then.”
+「えへへっ、こちらこそお手柔らかにお願いするん。あ、でも手加減は無用やけんね！」=“Eheheh--, you too, okay? Ah, but you can't just lose either, okay?”
+「うん、もちろん！」=“Yeah, of course!”
+「うぅ……負けたぁ……最初はうまくいっとったんに……あのミスさえなければ勝てたっちゃけどなぁ……」=“Uuu... I lost~... It was going so well at first too... If I didn't mess it up then, I'd have won too~...”
+「あはは、俺の方が運が良かったってとこかな」=“Ahahah, maybe I just got lucky.”
+「でも君が本当に手を抜かんで勝負するとか……ちょっと意外やった。君ってこういうとき相手に気を遣いそうやもん」=“But that really was a surprise... you actually went at it for real. I dunno why but I always felt like you'd be the type to go easy at times like this.”
+「そうかな？　でも真剣勝負って言ってたし、何より楽しかったから」=“You think? But you did call it a serious match, and well, I did enjoy myself.”
+「私も！　こげん楽しめるのって君とやからやと思う。君の前やとめっちゃ自然になれて。私が私でいられる感じがするけん」=“Me too! I think I enjoyed it this much because of you. Because I feel like I can always be myself in front of you.”
+「俺もだよ。変に気を遣わずに俺が俺でいられるっていうか……」=“Same here. I don't need to get fussy about weird stuff either around you, like...”
+「な……なんか、改めて言われると照れる。でもこげん気持ちになれる人と巡る会えるとか……ばり幸せなことやんね」=“I... It's kinda embarrassing, saying stuff like this to each other. But the fact that we met each other... it's like a miracle, isn't it?”
+「あはは、こっちこそ……改めて言われると照れるよ」=“Ahahah... you're gonna make me blush too, you know.”
+「えへへ。あのね……私を好きになってくれてありがとう。これからもよろしくね」=“Eheheh. Hey... thanks for falling in love with me. I love you.”

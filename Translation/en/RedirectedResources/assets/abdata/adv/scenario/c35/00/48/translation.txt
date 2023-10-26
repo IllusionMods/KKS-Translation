@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「うーん、こげな所って何を食べればよかか悩むっちゃね」=
-//「確かに、地元っぽいのから普段食べてるのまで幅広いしねぇ」=
-//「うーん……ここはひとつ、無難なのにしとくかなぁ、地元料理はそういう所で食べればよさそうやし」=
-//「そうだね、その時の楽しみにしとこっか」=
-//「うん。それじゃ、えーっと……」=
+「うーん、こげな所って何を食べればよかか悩むっちゃね」=“Nnnnn, it's really hard to decide what to get in a place like this, isn't it?”
+「確かに、地元っぽいのから普段食べてるのまで幅広いしねぇ」=“For sure, they've got all kinds of food, from local-looking stuff to stuff that you can still find in the city.”
+「うーん……ここはひとつ、無難なのにしとくかなぁ、地元料理はそういう所で食べればよさそうやし」=“Nnnn... I think I'll stick to the safe stuff personally, I'll leave the more local stuff for local places.”
+「そうだね、その時の楽しみにしとこっか」=“Good idea, we can just save it for then.”
+「うん。それじゃ、えーっと……」=“Yep. Well then, erhm...”

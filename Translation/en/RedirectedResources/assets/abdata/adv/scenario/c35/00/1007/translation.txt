@@ -1,18 +1,18 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「わぁぁ！　水槽めっちゃ綺麗やん！　お魚たくさんおって、本当に海の中におるみたいな気になる！」=
-//「あっ、見て見て！　あれサメやない！？　こげんいっぱいお魚おるのに、一緒におって大丈夫とかいな？」=
-//「本当だ。でも……意外と仲良さそうに泳いでない？」=
-//「うん。他のお魚も気にしとらん感じ。へぇぇ、みんな怖くないんやねぇ……」=
-//「でもこれが本来の自然の姿なんかな？　必要以上に争うことはないっていうか……みんな仲間っていうか……」=
-//「あー、確かにそうかも。本能的に必要ないことで争うのって、人間だけかもしれないね」=
-//「うん、そう考えると、この子たちってみんなすごいんやね。違う種族とも仲良くするっちゃもん」=
-//「自然って厳しいイメージがあるっちゃけど……この子たち見とると……実は優しいところもいっぱいあるんやなぁって思うよ」=
-//「厳しいけど優しい……うん、そうだね。言えてるかも」=
-//「やろ？　ね、私たちもそういう関係になれたらいいと思わん？」=
-//「お互いに厳しくするところは厳しくして！　優しくするところは優しくして！　で、必要以上に争わんと！」=
-//「あはは、時々は争うんだ？」=
-//「それは……ほら、喧嘩するほど仲が良いとも言うやん？」=
-//「でもやっぱり……君とはできるだけ喧嘩したくないなぁ。優しいだけの関係でおりたいかも……えへへ」=
-//「うん、俺も。喧嘩はあんまりしたくない。これからもずっと仲良しでいようね」=
+「わぁぁ！　水槽めっちゃ綺麗やん！　お魚たくさんおって、本当に海の中におるみたいな気になる！」=“Waah! The fishtanks are so pretty! And there's so many fish, it feels like we're really in the sea!”
+「あっ、見て見て！　あれサメやない！？　こげんいっぱいお魚おるのに、一緒におって大丈夫とかいな？」=“Ah--, look look! Ain't that a shark!? There's so many fish around though, is it really okay for it to be with them?”
+「本当だ。でも……意外と仲良さそうに泳いでない？」=“There really is one. But... doesn't it look like it's swimming along happily with them?”
+「うん。他のお魚も気にしとらん感じ。へぇぇ、みんな怖くないんやねぇ……」=“Yep. The other fish don't seem bothered either. Heh, none of them are scared, huh...”
+「でもこれが本来の自然の姿なんかな？　必要以上に争うことはないっていうか……みんな仲間っていうか……」=“Do you think this is what nature's supposed to be like? Not fighting anymore than they have to... getting along all together and stuff...”
+「あー、確かにそうかも。本能的に必要ないことで争うのって、人間だけかもしれないね」=“Ah, you might be right. It might just be humans, that instinctively compete and fight for more than we have to.”
+「うん、そう考えると、この子たちってみんなすごいんやね。違う種族とも仲良くするっちゃもん」=“Yep, thinking about it that way, they're all pretty amazing, aren't they? They're all getting along with each other, even though they're different species.”
+「自然って厳しいイメージがあるっちゃけど……この子たち見とると……実は優しいところもいっぱいあるんやなぁって思うよ」=“Nature seems really harsh at first glance but... when I look at them... it makes me realize that it probably has some soft sides too.”
+「厳しいけど優しい……うん、そうだね。言えてるかも」=“Harsh, yet soft... yep, you might have a point there.”
+「やろ？　ね、私たちもそういう関係になれたらいいと思わん？」=“Right? Hey, don't you think it'd be nice if we could have that sorta relationship too?”
+「お互いに厳しくするところは厳しくして！　優しくするところは優しくして！　で、必要以上に争わんと！」=“Strict to each other when we have to be strict! Sweet and soft when we can be! And, no more arguing than we absolutely have to!”
+「あはは、時々は争うんだ？」=“Ahahah, so we still gotta argue sometimes?”
+「それは……ほら、喧嘩するほど仲が良いとも言うやん？」=“That's... I mean, they say that, you know? A real relationship has arguments and whatnot.”
+「でもやっぱり……君とはできるだけ喧嘩したくないなぁ。優しいだけの関係でおりたいかも……えへへ」=“But... I really don't want to argue with you at all if I can. It might be nice if we could just be sweet to each other... eheheh.”
+「うん、俺も。喧嘩はあんまりしたくない。これからもずっと仲良しでいようね」=“Yeah, same here. I don't want fights between us either. Let's always get along, okay?”

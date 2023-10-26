@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「波の音が心地ええなぁ……」=
-//「ほらほら、折角来たんだし、しっかり遊んでいかないとー」=
-//「このままのんびりしててもええ気もするけど、まぁ折角やしなぁー」=
-//「うんうん、それじゃ、アレしてみようか――」=
+「波の音が心地ええなぁ……」=“The sound of the waves feels so nice~...”
+「ほらほら、折角来たんだし、しっかり遊んでいかないとー」=“C'mon, we came all this way, so we gotta enjoy ourselves too~”
+「このままのんびりしててもええ気もするけど、まぁ折角やしなぁー」=“Just relaxing like this doesn't feel all that bad either, but I guess you're right~”
+「うんうん、それじゃ、アレしてみようか――」=“Yepyep, well then, let's try that--”

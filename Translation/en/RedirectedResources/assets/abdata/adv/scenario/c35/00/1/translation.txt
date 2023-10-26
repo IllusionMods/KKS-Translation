@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そ、そうなんや……私の事、好いとっちゃん……」=
-//「うん、もちろん本気だよ」=
-//「あ、当たり前やん、本気やなかったら困るし……」=
-//「え、ってことは……？」=
-//「うん……ええよ、君と付き合うちゃる」=
+「そ、そうなんや……私の事、好いとっちゃん……」=“I-I see... you're in love with me...”
+「うん、もちろん本気だよ」=“Yeah, of course, I'm serious.”
+「あ、当たり前やん、本気やなかったら困るし……」=“O-Of course you are, I wouldn't know what to do if you weren't...”
+「え、ってことは……？」=“Eh, so you mean...?”
+「うん……ええよ、君と付き合うちゃる」=“Yeah... sure, I'll go out with you.”

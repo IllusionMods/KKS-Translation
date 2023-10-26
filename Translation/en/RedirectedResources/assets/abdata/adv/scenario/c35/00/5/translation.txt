@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「そ、そげん私に触れたかと……？」=
-//「うん、俺たち付き合ってるんだし、そういったことも、ね……？」=
-//「そうやなぁ、まぁ、遅かれ早かれすることやし……」=
-//「うん、ええよ。そん代わり、するからにはしっかり私の事、愛しんしゃいね……？」=
+「そ、そげん私に触れたかと……？」=“Y-You wanna touch me that much...?”
+「うん、俺たち付き合ってるんだし、そういったことも、ね……？」=“Yeah, we're a couple so, I thought we could, you know...?”
+「そうやなぁ、まぁ、遅かれ早かれすることやし……」=“That's true, I mean, we gotta do it someday anyway so...”
+「うん、ええよ。そん代わり、するからにはしっかり私の事、愛しんしゃいね……？」=“Yeah, okay. But you have to make sure to make lots of love to me, okay...?”

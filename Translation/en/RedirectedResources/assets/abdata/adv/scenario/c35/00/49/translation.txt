@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「こ、こげんとこで食べるのって、ちょっと緊張しちゃうな……」=
-//「そう？　そんな気にする必要はないと思うんだけど……」=
-//「むぅ、君だけ慣れとーの、なんか悔しか……」=
-//「はは、まぁ折角こういうとこに来たんだし、いい経験になるんじゃない？」=
-//「そ、そうやね……よし、どんどん来て、どんどん慣れていかないと……」=
+「こ、こげんとこで食べるのって、ちょっと緊張しちゃうな……」=“E-Eating in a place like this, makes me really nervous...”
+「そう？　そんな気にする必要はないと思うんだけど……」=“That so? I don't think you need to be that much on edge though...”
+「むぅ、君だけ慣れとーの、なんか悔しか……」=“Muh, why're you so used to it? I don't like it, why am I the only nervous one~...”
+「はは、まぁ折角こういうとこに来たんだし、いい経験になるんじゃない？」=“Hahah, well, we did come all the way here so, might as well, no? It'd make for some memories if nothing else.”
+「そ、そうやね……よし、どんどん来て、どんどん慣れていかないと……」=“R-Right... alright, I gotta come here more and more, and get used to this...”
