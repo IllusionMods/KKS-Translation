@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「少し貴方の実力を軽んじていたかもしれないわね。私を満足させるなんて、見直したわ」=
-//「貴方にしては頑張った方かしら。次も期待しているわ」=
-//「ま、こんなものね。次はもう少し私を満足させてみせなさい」=
-//「結局塗らないなんて、何がしたかったのか理解が出来ないわ」=
+「少し貴方の実力を軽んじていたかもしれないわね。私を満足させるなんて、見直したわ」=“I might have been looking down on your abilities too much. I can't believe you actually managed to satisfy me.”
+「貴方にしては頑張った方かしら。次も期待しているわ」=“I suppose you tried your best, in your own pathetic way. I'm expecting this next time too.”
+「ま、こんなものね。次はもう少し私を満足させてみせなさい」=“Well, I suppose that's that. Satisfy me more next time.”
+「結局塗らないなんて、何がしたかったのか理解が出来ないわ」=“In the end, you didn't do it. I genuinely don't understand what you even wanted to do in the first place.”

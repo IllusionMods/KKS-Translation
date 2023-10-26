@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「躾けの道具に使えそうなものは、何もレンタルしてないわね」=
-//「それはまぁ、海で遊ぶ道具を貸し出してる所だからね……物騒なものはないと思うよ」=
-//「空気をパンパンに入れた状態の浮き輪で殴れば、そこそこ威力はでるかしら……」=
-//「無理にひねり出そうとしなくていいから……」=
+「躾けの道具に使えそうなものは、何もレンタルしてないわね」=“They don't have anything at all that I can use as a tool to discipline you, huh?”
+「それはまぁ、海で遊ぶ道具を貸し出してる所だからね……物騒なものはないと思うよ」=“That's, well, they rent out things so that people can have fun at the sea... so I don't think they'd have anything dangerous.”
+「空気をパンパンに入れた状態の浮き輪で殴れば、そこそこ威力はでるかしら……」=“It'd probably have some decent impact, if I filled up a float to the brim with air and slugged you with it...”
+「無理にひねり出そうとしなくていいから……」=“You don't need to go out of your way to try and think of something...”

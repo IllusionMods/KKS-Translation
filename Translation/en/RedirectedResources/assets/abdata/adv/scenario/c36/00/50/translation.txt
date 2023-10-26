@@ -1,8 +1,8 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ゴーヤチャンプルー、タマナーチャンプルー、フーチャンプルー、ソーミンチャンプルー……チャンプルーとつく色んな料理があるのね」=
-//「だね。俺はゴーヤチャンプルーぐらいしか知らなかったよ」=
-//「そもそもチャンプルーとは、どういう意味なのかしら？」=
-//「方言で混ぜるって意味らしいよ。料理としては野菜炒めみたいなものみたい。具材を混ぜながら炒めるから、チャンプルーって言うんだって」=
-//「フフッ、主の疑問に対して即答できるなんて、優秀な下僕ね。褒めてあげるわ」=
+「ゴーヤチャンプルー、タマナーチャンプルー、フーチャンプルー、ソーミンチャンプルー……チャンプルーとつく色んな料理があるのね」=“Goya champuru, tamana champuru, fu champuru, soumin champuru... there's a whole lot of dishes called champuru, huh?”
+「だね。俺はゴーヤチャンプルーぐらいしか知らなかったよ」=“Yeah. The only one I knew of was goya champuru out of them all.”
+「そもそもチャンプルーとは、どういう意味なのかしら？」=“To begin with, what does champuru mean anyway?”
+「方言で混ぜるって意味らしいよ。料理としては野菜炒めみたいなものみたい。具材を混ぜながら炒めるから、チャンプルーって言うんだって」=“Seems like it means to 'mix' in the local dialect. In cooking, seems like it means to stir fry something. Apparently you add one ingredient after another while stir frying, that's why it's called that.”
+「フフッ、主の疑問に対して即答できるなんて、優秀な下僕ね。褒めてあげるわ」=“Fufuh--, what a well bred manservant you are, being able to answer your master's questions so quickly. Good boy.”

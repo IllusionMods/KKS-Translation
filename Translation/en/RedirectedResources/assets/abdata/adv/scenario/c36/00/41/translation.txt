@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ちゃんと躾けが出来なくて悪かったわね。ガッカリした下僕の為に、何か考えておくから安心してちょうだい」=
+「ちゃんと躾けが出来なくて悪かったわね。ガッカリした下僕の為に、何か考えておくから安心してちょうだい」=“I'm sorry, I wasn't able to discipline you properly today. I'll think of something for next time, so don't be too let down.”

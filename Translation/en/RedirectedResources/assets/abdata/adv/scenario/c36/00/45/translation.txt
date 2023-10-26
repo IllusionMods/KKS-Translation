@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「同じ絵柄を選んだと思えないほど、出来に差があるわね。比べて悲しくならないの？」=
+「同じ絵柄を選んだと思えないほど、出来に差があるわね。比べて悲しくならないの？」=“They're so different, nobody would ever believe that they both used the same pattern. Doesn't it make you sad looking at them?”

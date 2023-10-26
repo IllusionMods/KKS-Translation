@@ -1,10 +1,10 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「主がわざわざ会いに来てあげたわ。部屋に入れなさい」=
-SELECTION:「返事をする」=Respond
+「主がわざわざ会いに来てあげたわ。部屋に入れなさい」=“Your master's here to see you. Let me in.”
+SELECTION:「返事をする」=Answer her.
 SELECTION:「……」=...
-//「[H名]さん……？　こんな時間にどうしたの？」=
-//「下僕の様子を確かめに来ただけよ。他に理由なんてないわ」=
-//「でも……そうね。このまま帰るのもなんだし、ちょっとだけ遊んであげる」=
-//「……まさか、もう寝ているの？　私より先に寝るなんて、躾け直さないといけないわね」=
+「[H名]さん……？　こんな時間にどうしたの？」=“[H名]-san...? What's up, it's pretty late.”
+「下僕の様子を確かめに来ただけよ。他に理由なんてないわ」=“I just came to check up on my manservant. I don't have any other reason.”
+「でも……そうね。このまま帰るのもなんだし、ちょっとだけ遊んであげる」=“But... I suppose just going back to my room would be pretty boring, so I'll play with you a bit.”
+「……まさか、もう寝ているの？　私より先に寝るなんて、躾け直さないといけないわね」=“...I can't believe it, is he actually asleep? How dare you go to sleep before me, I'll have to retrain you, clearly.”

@@ -1,6 +1,6 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ホテルのレストランに家畜がいるなんて、ミスマッチな光景ね」=
-//「俺、そんなに浮いてるかな……？」=
-//「ええ、浮いてるわ。私と一緒にいなければ、入店を拒否されていたに違いないわ」=
+「ホテルのレストランに家畜がいるなんて、ミスマッチな光景ね」=“Livestock like you in a hotel restaurant like this, what a mismatched sight.”
+「俺、そんなに浮いてるかな……？」=“Do I stand out that much...?”
+「ええ、浮いてるわ。私と一緒にいなければ、入店を拒否されていたに違いないわ」=“Yes, very much so. If I wasn't with you, I'm sure you'd have been denied entry.”

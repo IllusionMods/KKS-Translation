@@ -1,16 +1,16 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]さん、この卓球台で少し遊んでいくのはどうかな？」=
-//「たまには、下僕と卓球に勤しむのも面白いものね」=
-//「ありがとう。楽しんで貰えて嬉しいよ」=
-//「あら、まだお礼を言うのは早いわよ？」=
-//「私の貴重な時間で貴方のわがままに付き合っているのだから、もっと私を楽しませなさい」=
-//「さもないと……ふふっ。ねぇ、下僕にはどんなお仕置きをするのがいいかしらね？」=
-//「それとも、お仕置きを期待して事前にお礼を言ったのかしら」=
-//「そ、そんなことはないよ！」=
-//「よし、[H名]さん。今度は少しラリーを続けてみるのはどうかな！？」=
-//「それも楽しそうね。じゃあ、貴方が失敗したら、そのたびにお仕置きを一回ね」=
-//「そんな！？」=
-//「ほら、早く打ってきなさい。私が打ち返せないような球が来てもお仕置きよ」=
-//「くっ……い、行くよ、[H名]さん！　南無三！！」=
+「[H名]さん、この卓球台で少し遊んでいくのはどうかな？」=“[H名]-san, how about we play a bit of ping pong here?”
+「たまには、下僕と卓球に勤しむのも面白いものね」=“It's not the worst thing to play a game like this sometimes with my manservant.”
+「ありがとう。楽しんで貰えて嬉しいよ」=“Thanks. I'm glad you're enjoying it.”
+「あら、まだお礼を言うのは早いわよ？」=“Oh my, you're getting a bit ahead of yourself there, you know?”
+「私の貴重な時間で貴方のわがままに付き合っているのだから、もっと私を楽しませなさい」=“I'm going along with this wilfullness from you using my precious time, you know? Make me enjoy it more.”
+「さもないと……ふふっ。ねぇ、下僕にはどんなお仕置きをするのがいいかしらね？」=“Else... fufuh--. Hey, what sort of punishment would you prefer?”
+「それとも、お仕置きを期待して事前にお礼を言ったのかしら」=“Or did you say that thanks because you were hoping to be punished?”
+「そ、そんなことはないよ！」=“N-No, that's not it!”
+「よし、[H名]さん。今度は少しラリーを続けてみるのはどうかな！？」=“Alright, [H名]-san. How about we try keeping up a rally for a bit?!”
+「それも楽しそうね。じゃあ、貴方が失敗したら、そのたびにお仕置きを一回ね」=“That sounds pretty fun too. Well then, everytime you mess up, it'll be one round of punishment.”
+「そんな！？」=“That much!?”
+「ほら、早く打ってきなさい。私が打ち返せないような球が来てもお仕置きよ」=“Come on, serve it already. I'll punish you if it's too hard for me to hit back too.”
+「くっ……い、行くよ、[H名]さん！　南無三！！」=“Kuh--... h-here I go, [H名]-san! Lord help me!!”

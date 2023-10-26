@@ -1,9 +1,9 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「ここはどうかな？　静かで波の音がよく聞こえるいい場所だと思うんだ」=
-//「……そうね、悪くないわ。わざわざ灯台の傍を選んだ貴方の意図も認めてあげる」=
-//「へ？　俺の意図……？」=
-//「『ご主人様は、いつも下僕の人生を明るく照らしてくれる、灯台の様なお方です』って、言いたかったんでしょう？」=
-//「フフッ、下僕にしてはいじらしいじゃない」=
-//（どうしよう……そんなつもりは一切なかったとは言いづらい雰囲気だ）=
+「ここはどうかな？　静かで波の音がよく聞こえるいい場所だと思うんだ」=“How about here? I think it's really nice how quiet it is here, you can even hear the waves.”
+「……そうね、悪くないわ。わざわざ灯台の傍を選んだ貴方の意図も認めてあげる」=“...Indeed, it's not bad. I can also approve of your intention behind going out of your way to pick a spot near the lighthouse.”
+「へ？　俺の意図……？」=“Eh? My intention...?”
+「『ご主人様は、いつも下僕の人生を明るく照らしてくれる、灯台の様なお方です』って、言いたかったんでしょう？」=“You wanted to say something like "My master is like a lighthouse, always lighting up my world", no?”
+「フフッ、下僕にしてはいじらしいじゃない」=“Fufuh--, that's very charming for a manservant like you.”
+（どうしよう……そんなつもりは一切なかったとは言いづらい雰囲気だ）=(What do I do... I can't even say that I wasn't planning that at all now.)

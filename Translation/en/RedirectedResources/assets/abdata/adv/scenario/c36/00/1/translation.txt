@@ -1,11 +1,11 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「へぇ……家畜から、私の下僕になりたいのね」=
-//「そうじゃなくて、恋人に…………」=
-//「寝言を言ってるの？　家畜と人が付き合えるわけないじゃない」=
-//「そっか……時間をとらせてごめん」=
-//「待ちなさい。貴方は家畜から下僕になるチャンスを与えられているのよ？　それを逃すなんて馬鹿のすることだわ」=
-//「それって……下僕になれば、最終的に対等な関係で付き合える可能性があるってこと……？」=
-//「じゃ、じゃあ、俺は[H名]さんの下僕になるよ！」=
-//「フフッ、いいわ。契約成立ね。これから、私の下僕としてたくさん躾けてあげる。感謝しなさい」=
+「へぇ……家畜から、私の下僕になりたいのね」=“Hoh... you want to upgrade from livestock to my manservant, huh?”
+「そうじゃなくて、恋人に…………」=“No, that's not what I mean, I meant boyfriend...”
+「寝言を言ってるの？　家畜と人が付き合えるわけないじゃない」=“Are you sleeptalking? A human cannot date livestock.”
+「そっか……時間をとらせてごめん」=“I see... Sorry for wasting your time then.”
+「待ちなさい。貴方は家畜から下僕になるチャンスを与えられているのよ？　それを逃すなんて馬鹿のすることだわ」=“Stop. You're being granted the chance to go from livestock to a manservant, you know? Only an idiot would let it slip by.”
+「それって……下僕になれば、最終的に対等な関係で付き合える可能性があるってこと……？」=“Does that mean... if I become your manservant, there's a possibility that I'll be able to have an equal relationship with you someday...?”
+「じゃ、じゃあ、俺は[H名]さんの下僕になるよ！」=“T-Then, I'll be your manservant!”
+「フフッ、いいわ。契約成立ね。これから、私の下僕としてたくさん躾けてあげる。感謝しなさい」=“Fufuh--, good. That's a verbal contract signed. Don't worry, I'll discipline you into my perfect manservant yet. Be grateful.”

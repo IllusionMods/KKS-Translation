@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「はぁ、意気地がないのね。そんなだから、貴方はただの豚なのよ。次は飛んで見せなさい」=
+「はぁ、意気地がないのね。そんなだから、貴方はただの豚なのよ。次は飛んで見せなさい」=“Haah, you don't have any backbone at all, do you? That's exactly why you're just a pig. Jump in there next time.”

@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「……ま、家畜のわりには頑張ってる方なんじゃない。そこまで落ち込む必要はないわ」=
+「……ま、家畜のわりには頑張ってる方なんじゃない。そこまで落ち込む必要はないわ」=“...Well, aren't you trying your best too, as livestock? You don't need to be that down about it.”

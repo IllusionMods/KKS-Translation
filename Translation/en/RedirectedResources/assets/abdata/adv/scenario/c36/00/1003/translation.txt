@@ -1,20 +1,20 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-//「[H名]さん、ちょっとお土産を見たいんだけどいいかな？」=
-//「……決めた。私はお菓子を買うことにするわ」=
-//「ちんすこうにしたんだね。でも、どうしてお菓子にしたの？」=
-//「[H名]さんにはアクセサリーとか、小物も似合うと思うんだけど」=
-//「貴方、私に意見をするつもりなの？」=
-//「そもそも似合う似合わないを勝手に判断しないで欲しいわね」=
-//「うっ、ごめん。でも、それじゃあどうしてお菓子に？」=
-//「これでも私も女なのよ？　甘いものが好きだっていいじゃない」=
-//「ああ、そういうことか」=
-//「ここのちんすこうって味のバリエーションも多いし、いろいろ楽しめそうだもんね」=
-//「そうね。……ちなみに、貴方はどんな味が好きなのかしら？」=
-//「俺はプレーンな味が一番かな。逆に、甘すぎるのはあまり食指が動かないかも」=
-//「そう……じゃあ、うんと甘そうな味を買うことにするわ」=
-//「えっ、わざわざ俺が食べなさそうなのを買うの……？」=
-//「あら、私から恵んで貰えると思ったの？　図々しい下僕ね」=
-//「でも安心しなさい。甘いちんすこうを、たっぷりと口の中にねじ込んであげるわ」=
-//「い、いや、遠慮しておきます……！！」=
+「[H名]さん、ちょっとお土産を見たいんだけどいいかな？」=“[H名]-san, I wanna look at the souvenirs a bit, could we?”
+「……決めた。私はお菓子を買うことにするわ」=“...I've decided. I'm going to buy sweets.”
+「ちんすこうにしたんだね。でも、どうしてお菓子にしたの？」=“Chinsukou, huh? But why sweets?”
+「[H名]さんにはアクセサリーとか、小物も似合うと思うんだけど」=“I think some accessories or other small things like that would fit you better, [H名]-san.”
+「貴方、私に意見をするつもりなの？」=“Are you really giving me your opinion?”
+「そもそも似合う似合わないを勝手に判断しないで欲しいわね」=“To begin with, I'd prefer if you didn't make the judgement of whether it'd suit me or not on your own.”
+「うっ、ごめん。でも、それじゃあどうしてお菓子に？」=“Uu--, sorry. But why sweets then?”
+「これでも私も女なのよ？　甘いものが好きだっていいじゃない」=“I'm a girl too in the end, you know? What's the big deal about liking sweet things.”
+「ああ、そういうことか」=“Aah, I see.”
+「ここのちんすこうって味のバリエーションも多いし、いろいろ楽しめそうだもんね」=“There's quite the variety of chinsukou here too, so even just one box would let you enjoy yourself a lot.”
+「そうね。……ちなみに、貴方はどんな味が好きなのかしら？」=“Yeah. ...Incidentally, what sort of flavour do you like?”
+「俺はプレーンな味が一番かな。逆に、甘すぎるのはあまり食指が動かないかも」=“Plain, more or less. If anything, if it's too sweet I don't think I could eat it.”
+「そう……じゃあ、うんと甘そうな味を買うことにするわ」=“I see... I'll buy something really sweet then.”
+「えっ、わざわざ俺が食べなさそうなのを買うの……？」=“Eh--, are you going out of your way to buy something I can't eat...?”
+「あら、私から恵んで貰えると思ったの？　図々しい下僕ね」=“Oh my, did you think I'd give you some? What an impudent manservant.”
+「でも安心しなさい。甘いちんすこうを、たっぷりと口の中にねじ込んであげるわ」=“But be relieved. I'll stuff lots of the extra sweet ones in your mouth, just for you.”
+「い、いや、遠慮しておきます……！！」=“N-No, I'd rather not have that...!!”
