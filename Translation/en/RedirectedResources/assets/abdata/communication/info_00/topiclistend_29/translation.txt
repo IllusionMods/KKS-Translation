@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-「<color\=yellow>釣り</color>はひたすら没頭出来るのでお勧めですよ？」=“I really recommend <color\=yellow>fishing<color>, you know? You can really lose yourself in it.”
+「<color\=yellow>釣り</color>はひたすら没頭出来るのでお勧めですよ？」=“I really recommend <color\=yellow>fishing</color>, you know? You can really lose yourself in it.”
 「それに釣りをしている最中は自分を見直す時間にも使えたりもします」=“Not to mention, it also provides ample time for some good old self reflection.”
-「<color\=yellow>バナナボート</color>を乗りこなすにはコツが必要なんですよ？」=“Proper <color\=yellow>banana boating<color> requires quite the knack for it, you know?”
+「<color\=yellow>バナナボート</color>を乗りこなすにはコツが必要なんですよ？」=“Proper <color\=yellow>banana boating</color> requires quite the knack for it, you know?”
 「なかなか難しいですが、一度掴んでしまえば、ですよね」=“It's quite hard but, once you get the hang of it, you never forget it, do you?”
-「<color\=yellow>カヤック</color>でのバランス感覚、難しいですよね」=“It's really hard to know how to balance on a <color\=yellow>Kayak<color>, isn't it?”
+「<color\=yellow>カヤック</color>でのバランス感覚、難しいですよね」=“It's really hard to know how to balance on a <color\=yellow>Kayak</color>, isn't it?”
 「やはり何度も乗って慣れるのが一番手っ取り早そうですね」=“It does seem like just riding one again and again would be the fastest way to get over it, doesn't it?”
 「なるほど、そちらも気になりますね」=“I see, that's quite the curious activity as well.”
 「ふむ、それも試してみたくなりますね」=“Fumuh, now I'm quite interested in that as well.”
 「これであなたも興味を持っていただければ、と思います」=“I do think it'd be quite nice if that led to some interest forming within you.”
 「是非ともチャレンジしてみて下さい」=“Please, do try it out.”
-「あなたも<color\=yellow>マングローブ</color>の不思議に触れてみませんか？」=“How about going and experiencing the wondrousness of <color\=yellow>mangroves<color> for yourself?”
+「あなたも<color\=yellow>マングローブ</color>の不思議に触れてみませんか？」=“How about going and experiencing the wondrousness of <color\=yellow>mangroves</color> for yourself?”
 「なるほど、あなたとはいろいろと語り合えそうです」=“I see, I do think we're going to get along just fine.”
-「あなたは<color\=yellow>ハイビスカス</color>についてどれほど知っていますか？」=“How much do you know about the flowers known as <color\=yellow>Hibiscus<color>?”
+「あなたは<color\=yellow>ハイビスカス</color>についてどれほど知っていますか？」=“How much do you know about the flowers known as <color\=yellow>Hibiscus</color>?”
 「あら、ご存じだったんですね」=“Oh my, so you've already come across them.”
 「なるほど……勉強になります」=“I see... that's quite illuminating.”
 「そうだったんですね、それは私も知りませんでした」=“I see, so that's how it is, I did not know that myself.”
 「一知識として留めておいてもいいかもしれません」=“You may find it to be useful information to have someday.”
 「あなたの知識になれば幸いです」=“It'd make me quite happy if that information is of use to you someday.”
-「<color\=yellow>サンゴ</color>は、ああ見えて動物に部類されているという事、知っていましたか？」=“Were you aware that <color\=yellow>corals<color>, despite looking the way they do, are actually classified as fauna?”
+「<color\=yellow>サンゴ</color>は、ああ見えて動物に部類されているという事、知っていましたか？」=“Were you aware that <color\=yellow>corals</color>, despite looking the way they do, are actually classified as fauna?”
 「私も初めて知った時は驚きました……」=“It really surprised me too, when I first came to know of it...”
-「この島の<color\=yellow>シオマネキ</color>には固有名称があるんでしょうかね？」=“I do wonder if the <color\=yellow>fiddler crabs<color> on this island have a unique name to them?”
+「この島の<color\=yellow>シオマネキ</color>には固有名称があるんでしょうかね？」=“I do wonder if the <color\=yellow>fiddler crabs</color> on this island have a unique name to them?”
 「はい、一つにシオマネキと言っても、様々な種類がいるようなので……」=“Yes, even if they're all fiddler crabs, it does seem that there's quite a few subspecies within...”
 「あら、そのような生態も……気になりますね」=“Oh my, so that's a thing as well... how curious.”
 「ふふっ、豊富な知識をお持ちですね」=“Fufuh--, you're quite the well read person, aren't you?”
 「これを期に調べてみてもいいかもしれませんね」=“This might make for a good chance for you to learn more about them.”
 「こういった生態を調べるのは楽しいですよね」=“It's quite enjoyable to look into such things, isn't it?”
-「あなたの方で気になる<color\=yellow>お土産</color>はありましたか？」=“Have you come across any <color\=yellow>souvenirs<color> that have caught your eye yet?”
+「あなたの方で気になる<color\=yellow>お土産</color>はありましたか？」=“Have you come across any <color\=yellow>souvenirs</color> that have caught your eye yet?”
 「そんなお土産もあったんですね……今度見に行ってみます」=“So such things exist as well, huh... I shall go check myself one of these days.”
-「こういった南島で<color\=yellow>シークヮーサージュース</color>が愛飲される理由、知っていますか？」=“Are you aware of the reason why the people here love drinking <color\=yellow>Hirami lemon juice<color> so much?”
+「こういった南島で<color\=yellow>シークヮーサージュース</color>が愛飲される理由、知っていますか？」=“Are you aware of the reason why the people here love drinking <color\=yellow>Hirami lemon juice</color> so much?”
 「はい、単に美味しいだけでなく、熱中症にも健康的にも効果的なところも大きいみたいです」=“Yes, it's not just the fact that it's delicious, it seems that it's quite the health drink and helps with dealing with heatstroke and the like as well.”
-「<color\=yellow>三線</color>と三味線の違い、あなたは知っていますか？」=“Are you aware of the difference between a <color\=yellow>sanshin<color> and a shamisen?”
+「<color\=yellow>三線</color>と三味線の違い、あなたは知っていますか？」=“Are you aware of the difference between a <color\=yellow>sanshin</color> and a shamisen?”
 「文字は似ていても素材やよく使用される地域と、まったく違うものなんですよね」=“Even if the characters used to write them are similar, the materials they're made out of and the regions they're used in are entirely different, aren't they?”
 「あら、それは私も知りませんでした」=“Oh my, I wasn't aware of that myself.”
 「ふむ、そういったものもあるのですね」=“Humuh, such things exist as well, huh?”

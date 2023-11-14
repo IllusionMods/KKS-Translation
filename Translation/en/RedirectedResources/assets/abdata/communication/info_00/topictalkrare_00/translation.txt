@@ -102,7 +102,7 @@
 「……チラ見ならOK？」=“...But a glance is okay?”
 「まあ、チラ見ぐらいならね」=“I guess, as long as it goes no further.”
 「フェチズムってどう思う？」=“What do you think of fetishm?”
-「フェチシズムじゃないの？」=“Isn't it <color\=purple>fetishism<color>?”
+「フェチシズムじゃないの？」=“Isn't it <color\=purple>fetishism</color>?”
 「……フェチシズム？　そうなの？」=“...Really?”
 「そうだったと思うけど……ちょっと自信ないわね。英語は得意じゃないし……」=“I thought so but... now I'm not sure. Not like my English's super good...”
 「……って、そういうことじゃなくって、性的嗜好の話がしたいんだけど」=“...--, that doesn't matter either way, what I wanted to ask was about your sexual preferences.”
