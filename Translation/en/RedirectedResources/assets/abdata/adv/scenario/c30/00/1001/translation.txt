@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「ここ涼しそうだよ。ちょっとゆっくりしていこうよ」=“Seems like it's pretty cool here, so let's chill out here for a bit.”
+「ここ涼しそうだよ。ちょっとゆっくりしていこうよ」=“Seems like it's pretty cool here, so let's stop and chill out for a bit.”
 「はぁぁ……やっぱり涼しくて快適だね」=“Haah... it really is nice and cool, huh?”
 「そうね、風があって気持ちいいわ。それにほら、団扇もあって風流でしょ？」=“Yeah, the breeze feels really nice. Not to mention, you know, the handfans add to the elegance, no?”
 「うん、風流だ」=“Yep, it's very elegant.”

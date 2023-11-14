@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「涼しそうだし、ここでゆっくりしようよ」=“It's pretty cool here, let's chill out here for a bit.”
+「涼しそうだし、ここでゆっくりしようよ」=“It's pretty cool here, so let's stop and chill out for a bit.”
 「風が気持ちいいなぁ。ザ・夏って感じだ」=“The breeze feels so nice~. It feels like what summer should be.”
 「うん。遠くに波の音が聞こえてて、とっても静かで……本当にいいところだね」=“Yeah. You can hear the sound of the waves all the way here too, and it's so peaceful... seriously, what a nice spot.”
 「……こんな素敵な島に来れただけでもいい思い出になるのに、キミと恋人同士になれるなんて、夢でも見てるみたい……」=“...Even though just being in a wonderful place like this would make for great memories, we even became a couple here, it's like I'm in a dream...”

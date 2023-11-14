@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.8 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-「涼しそうだし、ここでゆっくりしようよ」=“It's pretty cool here, so let's chill out here for a bit.”
+「涼しそうだし、ここでゆっくりしようよ」=“It's pretty cool here, so let's stop and chill out for a bit.”
 「ね、団扇持ってきてくれてありがとう。こういう気遣いができるから女の子にモテるのよね」=“Hey, thanks for packing these hand fans for us. It's why you're so popular with girls, you know? Because you care.”
 「えっ！？　な、なんの話！？」=“Eh--?! S-Sorry, what're we talking about?!”
 「あら、急に焦ってどうしたの？　私は思ったことを言っただけよ」=“Oh my, what's got you in a panic? I just said what I thought.”
