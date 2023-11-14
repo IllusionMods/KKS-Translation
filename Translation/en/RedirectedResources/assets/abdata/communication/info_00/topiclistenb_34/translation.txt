@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-「アナタは<color%3Dyellow>Ｔｒｅｅｉｎｇ</color>知ってマス？」=“Do you know about <color%3Dyellow>tree climbing<color>?”
+「アナタは<color\=yellow>Ｔｒｅｅｉｎｇ</color>知ってマス？」=“Do you know about <color\=yellow>tree climbing<color>?”
 「Ｙｅｓ！　高いところ登る、気持ちいデス！」=“Yes! It feels really nice, to climb high places!”
-「<color%3Dyellow>バナナボート</color>ｔｅｃｈｎｉｃ、アナタワカル？」=“Do you know the technique, to <color%3Dyellow>banana boating<color>?”
+「<color\=yellow>バナナボート</color>ｔｅｃｈｎｉｃ、アナタワカル？」=“Do you know the technique, to <color\=yellow>banana boating<color>?”
 「流石デース、今度見せてほしいデス！」=“Amazing, please show it to me next time!”
-「<color%3Dyellow>ｋａｙａｋ</color>＆ｃａｎｏｅ，違いワカル？」=“Do you know the difference, between a <color%3Dyellow>kayak<color> and a canoe?”
+「<color\=yellow>ｋａｙａｋ</color>＆ｃａｎｏｅ，違いワカル？」=“Do you know the difference, between a <color\=yellow>kayak<color> and a canoe?”
 「ハイ、似てるけどｒｏｏｔｓ、まったく違うデス」=“Yes, they look the same but their roots are entirely different.”
 「ムム、詳しく教えてくだサイ」=“Mumuh, please tell me more.”
 「ワタシ、その情報知りまセンデシタ」=“I did not know about that at all.”
 「フフッ、お役立てマシタ？」=“Fufuh--, did you learn something new today?”
 「覚えタ？　これでアナタも一人前デース！」=“Did you memorize that? You've grown today too then!”
-「<color%3Dyellow>ｐｏｗｅｒ　ｓｐｏｔ</color>，アナタは感じル？」=“Can you feel <color%3Dyellow>power spots<color>?”
+「<color\=yellow>ｐｏｗｅｒ　ｓｐｏｔ</color>，アナタは感じル？」=“Can you feel <color\=yellow>power spots<color>?”
 「ハイ、とてもｓｐｉｒｉｔｕａｌデース」=“Yes, they're very spiritual.”
-「<color%3Dyellow>ガジュマル</color>、種類ワカル？」=“Do you know what species <color%3Dyellow>banyans<color> are?”
+「<color\=yellow>ガジュマル</color>、種類ワカル？」=“Do you know what species <color\=yellow>banyans<color> are?”
 「ハイ、イチ……ジク？　同じ種類みたいデス」=“Yes, they're the same as fi... gs? Yeah.”
 「Ｏｈ，ワタシ、知識増えマシタ！」=“Oh, I learned something today!”
 「ナルホド、ワタシ、覚えマシタ！」=“I see, I've memorized that!”
 「どうデスカ？　勉強なりまシタ？」=“So? Did that help you learn something new?”
 「今度詳しく教えてあげマース！」=“I'll tell you all about it sometime~!”
-「<color%3Dyellow>チンアナゴ</color>、アナタどう思ウ？」=“What do you think of the <color%3Dyellow>spotted garden eels<color>?”
+「<color\=yellow>チンアナゴ</color>、アナタどう思ウ？」=“What do you think of the <color\=yellow>spotted garden eels<color>?”
 「Ｙｅｓ！　アナタもｃｕｔｅ思いますカ♡」=“Yes! You find them cute too, huh♡”
-「<color%3Dyellow>シオマネキ</color>なｃｒａｂ、どのくらい知ってマス？」=“How much do you know, about <color%3Dyellow>fiddler crabs<color>?”
+「<color\=yellow>シオマネキ</color>なｃｒａｂ、どのくらい知ってマス？」=“How much do you know, about <color\=yellow>fiddler crabs<color>?”
 「あのｃｌａｗ，大きくてかっこいいデスネ！」=“Those claws of theirs, are really big and cool, aren't they!”
 「Ｏｈ，ワタシ、それ知らなカッタヨー」=“Oh, I didn't know that~”
 「それ、もっと詳しく教えてくだサイ」=“Please tell me more about that.”
 「フフッ、もっと知りたいデスカ？」=“Fufuh--, do you want to know more?”
 「どんどん覚えていってくだサーイ！」=“Please learn more and more about it~!”
-「<color%3Dyellow>お土産</color>、何あるカ見ましたカ？」=“Have you taken a look at, what sort of <color%3Dyellow>souvenirs<color> are there?”
+「<color\=yellow>お土産</color>、何あるカ見ましたカ？」=“Have you taken a look at, what sort of <color\=yellow>souvenirs<color> are there?”
 「ソレデス！　ワタシも欲しい思ってマシタ！」=“That! I wanted to buy it too!”
-「<color%3Dyellow>シークヮーサーｊｕｉｃｅ</color>，アナタ詳しいデスカ？」=“Do you know a lot, about <color%3Dyellow>Hirami lemon juice<color>?”
+「<color\=yellow>シークヮーサーｊｕｉｃｅ</color>，アナタ詳しいデスカ？」=“Do you know a lot, about <color\=yellow>Hirami lemon juice<color>?”
 「Ｏｈ，そんなｅｆｆｅｃｔあったデスカ！」=“Oh, so it has an effect like that, huh!”
-「ｃｕｔｅな<color%3Dyellow>ぬいぐるみ</color>ありマシタ。知ってマス？」=“I found a really cute <color%3Dyellow>plushie<color>. You know the one I'm talking about?”
+「ｃｕｔｅな<color\=yellow>ぬいぐるみ</color>ありマシタ。知ってマス？」=“I found a really cute <color\=yellow>plushie<color>. You know the one I'm talking about?”
 「アレは買うデス。絶対買うデスヨ！」=“I'm going to buy it. I will definitely get my hands on it!”
 「Ｏｈ，ソレ、今度見つけてみマス」=“Oh, I'll check that out sometime.”
 「ナルホド、ワタシ、興味出てきマシタ！」=“I see, I'm curious now too!”

@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-「私、<color%3Dyellow>シュノーケリング</color>に興味があります♡」=“I'm quite interested in <color%3Dyellow>snorkeling</color>♡”
+「私、<color\=yellow>シュノーケリング</color>に興味があります♡」=“I'm quite interested in <color\=yellow>snorkeling</color>♡”
 「あなたと一緒に潜れたなら、同じ海水に溶け込んだみたいで、堪らないでしょうね♡」=“If we could go diving together, I imagine it would be an amazing sensation, considering it'd feel like us melting together into the same sea♡”
-「私、<color%3Dyellow>トレッキング</color>にすごく興味があるんです♡」=“I am very, very interested in <color%3Dyellow>trekking</color>♡”
+「私、<color\=yellow>トレッキング</color>にすごく興味があるんです♡」=“I am very, very interested in <color\=yellow>trekking</color>♡”
 「ただ、あなたと歩きたいだけなんです♡　そしたら、景色もまるで違ってくると思うので♡」=“Really, I just want to take walks with you♡ I think even the scenery would look quite different, that way♡”
 「それは、素晴らしいですね♡」=“That sounds very wonderful♡”
 「分かります。素敵ですね♡」=“I can see it. It's lovely, isn't it?♡”
 「興味ないんですか？　大丈夫です、あなたならきっと良さに気づきますから♡」=“Are you not interest? Don't worry, I'm sure you'll see the goodness of it in no time, it's you after all♡”
 「面白くありませんか？　もしよかったら、一度試してみてください♡」=“Does that sound uninteresting? If you don't mind, please try it out once♡”
-「私、<color%3Dyellow>水牛</color>を見ると妄想が止まらなくなるんです♡」=“When I look at <color%3Dyellow>water buffalos</color>, I just can't stop myself from diving into my fantasies♡”
+「私、<color\=yellow>水牛</color>を見ると妄想が止まらなくなるんです♡」=“When I look at <color\=yellow>water buffalos</color>, I just can't stop myself from diving into my fantasies♡”
 「あなたと一緒に水牛に乗って、島中を回ってみたいです♡」=“I'd love to ride one together with you, and make a round of the entire place♡”
-「<color%3Dyellow>マングローブ</color>、とても神秘的だと思います♡」=“I think <color%3Dyellow>mangroves</color> are very mystical♡”
+「<color\=yellow>マングローブ</color>、とても神秘的だと思います♡」=“I think <color\=yellow>mangroves</color> are very mystical♡”
 「あの絡まり合った幹が、私たちの運命を表しているようです♡」=“All those entertwined roots look just like our own destiny♡”
-「私、<color%3Dyellow>パワースポット</color>は見逃さないようにしてるんです♡」=“I'm actually trying to find all the local <color%3Dyellow>power spots</color> here♡”
+「私、<color\=yellow>パワースポット</color>は見逃さないようにしてるんです♡」=“I'm actually trying to find all the local <color\=yellow>power spots</color> here♡”
 「縁結びのパワースポットがあったら、必ず行くつもりですから♡」=“Since if there's a powerspot that makes love come true, I definitely plan on making a pilgrimage♡”
-「私、<color%3Dyellow>星空</color>を見上げるのが大好きなんです♡」=“I really do love looking up at the <color%3Dyellow>starry sky</color> here♡”
+「私、<color\=yellow>星空</color>を見上げるのが大好きなんです♡」=“I really do love looking up at the <color\=yellow>starry sky</color> here♡”
 「あなたと見上げる星空。新しい星座を見つけて、あなたと名前を付けたいです♡」=“Looking at it with you, that is. It'd be wonderful if we could discover a new constellation together, and name it as well♡”
 「もちろん、それも素敵だと思います♡」=“Of course, I think that's wonderful as well♡”
 「あなたの見る目は、素晴らしいですね♡」=“Your way of looking at things, is so wonderful♡”
 「そんなに興味ありませんか？　悪くないと思ったんですが……」=“Do you not feel much interest in it? I personally thought it was nice...”
 「そうですか……あなたの好みがわからないなんて、自分が許せません……」=“Is that so... I can't believe I don't understand what you like and don't like, how unforgiveable of me...”
-「<color%3Dyellow>サンゴ</color>って、神秘的だと思いませんか？」=“Don't you think <color%3Dyellow>corals</color> are very mystical?”
+「<color\=yellow>サンゴ</color>って、神秘的だと思いませんか？」=“Don't you think <color\=yellow>corals</color> are very mystical?”
 「大きさによっては千年生きるものもあるそうです……私も、千年変わらぬ想いを抱いてみたいです♡」=“Depending on their size, they can live for upto a thousand years... I want to, harbour my love for you for a thousand years as well♡”
-「<color%3Dyellow>クマノミ</color>って、とても素敵だと思います♡」=“I think <color%3Dyellow>clownfish</color> are very lovely♡”
+「<color\=yellow>クマノミ</color>って、とても素敵だと思います♡」=“I think <color\=yellow>clownfish</color> are very lovely♡”
 「クマノミの家族を見ていると、将来のあなたと私を思い浮かべてしまうんです♡」=“When I look at families of clownfish swimming around, it makes me think of our own future together♡”
 「海には、素敵なものが沢山ありますね♡」=“The sea has a whole lot of wonderful things for us, doesn't it♡”
 「素晴らしいものを教えてもらえて、嬉しいです♡」=“I'm really happy, you told me about something so wonderful♡”
 「思っていたのと違いましたか？　なかなか、いいものだと思ったんですが……」=“Was it perhaps different from what you expected? I personally thought it was quite nice though...”
 「興味ないんですね……とても残念です……」=“You're not interested, are you... what a shame...”
-「私、<color%3Dyellow>名物料理</color>に興味があるんです♡」=“I am very interested, in the <color%3Dyellow>local cuisine</color>♡”
+「私、<color\=yellow>名物料理</color>に興味があるんです♡」=“I am very interested, in the <color\=yellow>local cuisine</color>♡”
 「男性のためには胃袋を掴むのが重要だと聞いているので、あなたのために作ってあげたいんです♡」=“I've been told before that the way to a man's heart is through is stomach, so I want to make it for you♡”
-「<color%3Dyellow>紅型</color>って、素敵な文化ですよね♡」=“<color%3Dyellow>Stencil dyeing</color> is a wonderful part of the local culture, isn't it?♡”
+「<color\=yellow>紅型</color>って、素敵な文化ですよね♡」=“<color\=yellow>Stencil dyeing</color> is a wonderful part of the local culture, isn't it?♡”
 「私も、あんな風に艶やかに、あなた色に染め上げて欲しいです♡」=“I want you to dye me in your colors too, just as beautifully♡”
 「なるほど、そっちも素敵ですね♡」=“I see, that's wonderful as well.♡”
 「そうですね、とてもよくわかります♡」=“Indeed, I can understand very well.♡”

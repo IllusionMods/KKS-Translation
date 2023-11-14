@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-「さて、お主に<color%3Dyellow>釣り</color>の何たるかを語ってやるとするかの？」=“Well then, shall we perhaps converse about the path of <color%3Dyellow>fishing</color>?”
+「さて、お主に<color\=yellow>釣り</color>の何たるかを語ってやるとするかの？」=“Well then, shall we perhaps converse about the path of <color\=yellow>fishing</color>?”
 「おぉ、お主、なかなか通じゃのう……」=“Ooh, you're quite the expert yourself...”
-「のう、<color%3Dyellow>バナナボート</color>を乗りこなすコツ、知りたいと思わんか？」=“Say, do you not wish to know the trick to master riding a <color%3Dyellow>Banana Boat</color>?”
+「のう、<color\=yellow>バナナボート</color>を乗りこなすコツ、知りたいと思わんか？」=“Say, do you not wish to know the trick to master riding a <color\=yellow>Banana Boat</color>?”
 「なんと、わしも知らぬ技があったとは……」=“You don't say, to think there was a technique I was unaware of...”
-「のう、<color%3Dyellow>カヤック</color>とは本当に不思議な乗り物じゃと思わんか？」=“Say, do you not think <color%3Dyellow>Kayaks</color> are truly fantastical vehicles?”
+「のう、<color\=yellow>カヤック</color>とは本当に不思議な乗り物じゃと思わんか？」=“Say, do you not think <color\=yellow>Kayaks</color> are truly fantastical vehicles?”
 「ふむ、計算しつくされた構造とな……確かにのう……」=“Hmm, a thoroughly thought out structure... indeed...”
 「ぬ、何じゃそれは、気になるではないか……っ」=“W-What on earth is that, tell me more...--”
 「ふむ、お主の言う体験も気になるのう……」=“Hmm, what you've mentioned is also quite interesting...”
 「ふふっ、少しは勉強になったじゃろ？」=“Fufuh--, atleast you learned something new today, no?”
 「どうじゃ？　興味が湧いてきたじゃろ？」=“So, how about it? Surely that aroused your interest?”
-「<color%3Dyellow>マングローブ</color>の力強さ、お主にもわかるかの？」=“Can you feel it as well, the strength that lies within a <color%3Dyellow>Mangrove</color>?”
+「<color\=yellow>マングローブ</color>の力強さ、お主にもわかるかの？」=“Can you feel it as well, the strength that lies within a <color\=yellow>Mangrove</color>?”
 「うむ、わしもあのように力強く生きていきたいのじゃ」=“Umu, I wish to live my life just as heartily as well.”
-「お主は<color%3Dyellow>ハイビスカス</color>についてどれほどの知識があるのかの？」=“Pray tell, just how much do you know about the flowers known as <color%3Dyellow>Hibiscus</color>?”
+「お主は<color\=yellow>ハイビスカス</color>についてどれほどの知識があるのかの？」=“Pray tell, just how much do you know about the flowers known as <color\=yellow>Hibiscus</color>?”
 「ふむ、おおよそのことは知っておるようじゃの」=“Hmmm, seems that you're more or less in the know.”
 「ほう、そういった自然もあるのじゃな……」=“Hoh, so such a side to nature exists as well, huh...”
 「なるほど、言い分もわかるぞ……」=“I see, I can see why you would think so...”
 「どうじゃ？　これでまた一つ賢くなったじゃろ？」=“So, do you not feel a step more clever than you were before?”
 「これを期に、お主も観察してみるとよいぞ？」=“Best to take this chance, and go pay them a visit yourself.”
-「お主も<color%3Dyellow>サンゴ</color>の知識に触れてみぬか？」=“Won't you try your hand at learning about <color%3Dyellow>corals</color> as well?”
+「お主も<color\=yellow>サンゴ</color>の知識に触れてみぬか？」=“Won't you try your hand at learning about <color\=yellow>corals</color> as well?”
 「そう、美しい海に浜辺、どれもサンゴのおかげと言っても過言ではないのじゃ」=“That's right, the beautiful sea and the pristine beaches, it would not be an exaggeration to say that we have coral reefs to thank for both.”
-「<color%3Dyellow>シオマネキ</color>という名の由来、お主は知っておるか？」=“Are you aware of why <color%3Dyellow>fiddler crabs</color> are named such?”
+「<color\=yellow>シオマネキ</color>という名の由来、お主は知っておるか？」=“Are you aware of why <color\=yellow>fiddler crabs</color> are named such?”
 「うむ、あの求愛行動が潮の満ちを招いているように見える、というのが一節にあるようじゃの」=“Umu, one theory seems to be that it's due to the way they move their larger arm like a fiddle.”
 「ふむ、さすが母なる海とは言ったものじゃ」=“Hmm, I suppose there's a reason why they call it the mother ocean.”
 「やはり海は広いのう、わしもまだまだじゃの……」=“The sea truly goes deep, seems that I have much to learn yet...”
 「そうか、知れてよかったじゃろ？」=“I see, it is good that you learned of it here, no?”
 「うむ、お主ももっと海に触れていくのじゃぞ？」=“Umu, you must take the time to get to know the sea better as well, alright?”
-「ここの<color%3Dyellow>土産</color>にはもう目を通したかの？」=“Have you already taken a look at the <color%3Dyellow>souvenirs</color> on offer here?”
+「ここの<color\=yellow>土産</color>にはもう目を通したかの？」=“Have you already taken a look at the <color\=yellow>souvenirs</color> on offer here?”
 「そうかそうか、わしも色々と目移りしてしまってなぁ……どれも欲しくなってしまうのじゃ」=“I see I see, I got quite distracted by them as well... I just cannot help but want them all.”
-「のう、ここの<color%3Dyellow>シークヮーサージュース</color>は飲んでみたかの？」=“Say, have you tried the <color%3Dyellow>Hirami lemon juice</color> that they serve here yet?”
+「のう、ここの<color\=yellow>シークヮーサージュース</color>は飲んでみたかの？」=“Say, have you tried the <color\=yellow>Hirami lemon juice</color> that they serve here yet?”
 「うむ、あのさっぱりとした酸味がたまらんのじゃ」=“Umu, that refreshing sourness is truly to die for.”
-「のう、お主は<color%3Dyellow>三線</color>に対してどのような知識を持っておるかの？」=“Say, how much do you know about <color%3Dyellow>sanshins</color>?”
+「のう、お主は<color\=yellow>三線</color>に対してどのような知識を持っておるかの？」=“Say, how much do you know about <color\=yellow>sanshins</color>?”
 「今では人工の皮も出回っているからの、動物に優しくなったものじゃ」=“These days, even artificial animal skins have become quite decent, so it doesn't require much sacrifice of that kind either anymore.”
 「ふむ、そのようなものもあるのじゃな……」=“Hmm, things such as that exist as well, huh...”
 「む、それはわしも気になるのう……」=“Muh, I feel curious about that as well...”

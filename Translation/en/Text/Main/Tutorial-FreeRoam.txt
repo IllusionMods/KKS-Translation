@@ -6,11 +6,11 @@
 女の子に話しかけよう=Talk to girls
 仲良くなったら・・・=Advance your relationships to have
 簡単操作=Controls
-<size%3D48>　　　　</size> で\n　自由<size%3D30>に</size>移動！=\nMove freely!
+<size\=48>　　　　</size> で\n　自由<size\=30>に</size>移動！=\nMove freely!
 　　　　話しかけて= Talk and
-\n<size%3D48>仲良くなろう！</size>=\nBecome friends!
+\n<size\=48>仲良くなろう！</size>=\nBecome friends!
 一緒に=Joint
-\n　<size%3D48> 行動！</size>=\n activities!
+\n　<size\=48> 行動！</size>=\n activities!
 デート！=Dates!
 そして=And
 ◆マップ画面：様々な場所で過ごしている女の子たちを探して話しかけてみましょう=◆ Map: Find and talk to girls who are in various places around the island
@@ -44,9 +44,9 @@
 連れ歩いている女の子にエステオイルを\n塗ってあげられるスポットです。=You can help put on beauty oil for\nthe girl currently following you.
 ◆Ｈ系スポット：エッチ用の専用スポットもあります=◆ H-related spots: There are also dedicated spots for H
 ●「覗き」=● Peep
-特定の場所<size%3D30>で</size>発生<size%3D30>する</size>\n　　　特殊スポット=Only appears in specific locations
+特定の場所<size\=30>で</size>発生<size\=30>する</size>\n　　　特殊スポット=Only appears in specific locations
 ●「特殊Ｈ」=● Special H
-女の子<size%3D30>と</size>\n行動中<size%3D30>に</size>発生<size%3D30>する</size>\n　　　　特殊スポット=\n\nOnly appears when a girl is following you
+女の子<size\=30>と</size>\n行動中<size\=30>に</size>発生<size\=30>する</size>\n　　　　特殊スポット=\n\nOnly appears when a girl is following you
 ●「休憩」=● Rest
-欲求不満<size%3D30>な</size>\n女の子<size%3D30>に</size>\n襲われる<size%3D30>ことがある</size>\n特殊スポット=\nYou may get “assaulted” by a horny girl at this spot
+欲求不満<size\=30>な</size>\n女の子<size\=30>に</size>\n襲われる<size\=30>ことがある</size>\n特殊スポット=\nYou may get “assaulted” by a horny girl at this spot
 #unset level -1024

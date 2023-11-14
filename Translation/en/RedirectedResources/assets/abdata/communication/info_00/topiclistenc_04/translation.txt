@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-//「<color%3Dyellow>シュノーケリング</color>に興味はある？」=
+//「<color\=yellow>シュノーケリング</color>に興味はある？」=
 「近くで魚を見ることが出来て、すごく楽しいの」=“It's really fun, you get to see fish from right up close.”
-//「もう<color%3Dyellow>トレッキング</color>はやってみた？」=
+//「もう<color\=yellow>トレッキング</color>はやってみた？」=
 「自然の中を歩くのが気持ち良くて、私、ちょっとはまったかも」=“Walking within nature feels so good, I think I'm a bit addicted to it now.”
 「へぇ、そのレジャーも楽しそうね」=“Heh, that sounds fun too.”
 「ふふ、あなたがそれが好きなのね」=“Fufuh, so that's what you like, huh?”
 「よかったら、あなたもやってみてほしいわ」=“I'd love for you to try it out too.”
 「あんまり興味ないかしら？　でも、きっとあなたも気に入ると思うわ」=“Don't feel all that interested? But, I'm sure you'd come to love it too.”
-//「<color%3Dyellow>水牛</color>車で移動するのって、楽しいと思わない？」=
+//「<color\=yellow>水牛</color>車で移動するのって、楽しいと思わない？」=
 「のんびりとしていて、すごく心地が良いのよね」=“It's so relaxing, and just ridiculously comfortable, isn't it?”
-//「私、<color%3Dyellow>マングローブ</color>林を見たのって初めてだったの」=
+//「私、<color\=yellow>マングローブ</color>林を見たのって初めてだったの」=
 「淡水と海水か混ざってる所に木が生えてるなんて、なんだか不思議な光景よね」=“It's just such a wondrous sight, isn't it? To see trees growing in a place where saltwater meets freshwater.”
-//「この島にも、<color%3Dyellow>パワースポット</color>はあるのね」=
+//「この島にも、<color\=yellow>パワースポット</color>はあるのね」=
 「全国のパワースポットをまわったら、不思議な力が手に入ったりしてね……ふふっ」=“If we were to visit every single power spot in the country, we might just get our hands on some sort of incredible power... fufuh--”
-//「人工的な灯りがないだけで、<color%3Dyellow>星空</color>はとても綺麗に見えるのね」=
+//「人工的な灯りがないだけで、<color\=yellow>星空</color>はとても綺麗に見えるのね」=
 「ここへ来てから、空を眺めるのが日課になったわ」=“It's become a daily habit for me, to look up at the sky everyday, ever since we've come here.”
 「そっちも素敵だと思うわ」=“I think that's lovely too.”
 「ええ、それも良いと思うわ」=“Yes, I think that's nice too.”
 「あなたでも、知らないことはあるのね」=“Even you don't know everything, huh?”
 「えっと……私の話、聞こえてなかった？」=“Erhm... did you not hear, what I said?”
-//「砂浜に落ちている<color%3Dyellow>サンゴ</color>を見ると、南国にいることを実感するわ」=
+//「砂浜に落ちている<color\=yellow>サンゴ</color>を見ると、南国にいることを実感するわ」=
 「拾って集めたいけど……禁止されているから、ルールは守らないとね」=“I want to pick them all up and make a collection but... it's forbidden, and rules have to be followed, so.”
-//「水族館の<color%3Dyellow>クマノミ</color>は、もう見に行った？」=
+//「水族館の<color\=yellow>クマノミ</color>は、もう見に行った？」=
 「可愛くてグッズを買っちゃったわ。クリアファイルだし、かさばらないからいいかなって」=“They were so cute, I bought some commemorative goods. It's just a plastic file holder, thought it'd be easy to take back home.”
 「ふふ、可愛いと思うわ」=“I think that's very cute.”
 「あなたは、そっちに興味があるのね」=“You're more interested in that yourself, huh?”
 「うーん、楽しい話題じゃなかったかしら」=“Nnnn, was it not all that interesting a topic?”
 「私の話題選びが良くなかったみたいね」=“Seems like I didn't pick the best topic, huh?”
-//「ここの<color%3Dyellow>名物料理</color>の中では、なにが好き？」=
+//「ここの<color\=yellow>名物料理</color>の中では、なにが好き？」=
 「私はタコライスかな。挽き肉とレタス、チーズの食感が癖になるの」=“For me, gotta be the taco rice. The ground meat, the lettuce and the cheese all make such an addictive texture together.”
-//「自分用に<color%3Dyellow>紅型</color>染めの小物を買おうか迷っているの」=
+//「自分用に<color\=yellow>紅型</color>染めの小物を買おうか迷っているの」=
 「定番のハンカチもいいけど、ブックカバーが気になってて……どっちも可愛くて決め切れないわ」=“A bog standard handkerchief would be fine too but, this one book cover they had got me really interested... both look so cute, I just can't pick.”
 「へぇ、それも良さそうね」=“Heh, that sounds good too.”
 「それがあなたのお勧めなのね」=“So that's what you recommend, huh?”

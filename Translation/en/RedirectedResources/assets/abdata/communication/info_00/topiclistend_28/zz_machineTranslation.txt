@@ -1,34 +1,34 @@
-「さて、お主に<color%3Dyellow>釣り</color>の何たるかを語ってやるとするかの？」=“Now, shall I tell you what <color%3Dyellow>fishing</color> is all about?”
+「さて、お主に<color\=yellow>釣り</color>の何たるかを語ってやるとするかの？」=“Now, shall I tell you what <color\=yellow>fishing</color> is all about?”
 「おぉ、お主、なかなか通じゃのう……」=“Oh, you're quite a connoisseur, .......”
-「のう、<color%3Dyellow>バナナボート</color>を乗りこなすコツ、知りたいと思わんか？」=“Would you like to know how to ride a <color%3Dyellow>banana boat</color>?”
+「のう、<color\=yellow>バナナボート</color>を乗りこなすコツ、知りたいと思わんか？」=“Would you like to know how to ride a <color\=yellow>banana boat</color>?”
 「なんと、わしも知らぬ技があったとは……」=“Oh, I didn't know there was such a thing. ......”
-「のう、<color%3Dyellow>カヤック</color>とは本当に不思議な乗り物じゃと思わんか？」=“Don't you think <color%3Dyellow>kayaks</color> are really strange vehicles?”
+「のう、<color\=yellow>カヤック</color>とは本当に不思議な乗り物じゃと思わんか？」=“Don't you think <color\=yellow>kayaks</color> are really strange vehicles?”
 「ふむ、計算しつくされた構造とな……確かにのう……」=“Hmm, a well-calculated structure. ...... Indeed. ......”
 「ぬ、何じゃそれは、気になるではないか……っ」=“No, that's curious, isn't it, ......?”
 「ふむ、お主の言う体験も気になるのう……」=“Hmm, I'm curious about your experience, too. ......”
 「ふふっ、少しは勉強になったじゃろ？」=“Hmm, you've learned something, haven't you?”
 「どうじゃ？　興味が湧いてきたじゃろ？」=“How's that?　Now you're curious.”
-「<color%3Dyellow>マングローブ</color>の力強さ、お主にもわかるかの？」=“Do you understand the power of <color%3Dyellow>mangroves</color>?”
+「<color\=yellow>マングローブ</color>の力強さ、お主にもわかるかの？」=“Do you understand the power of <color\=yellow>mangroves</color>?”
 「うむ、わしもあのように力強く生きていきたいのじゃ」=“Yes, I want to be as strong as that.”
-「お主は<color%3Dyellow>ハイビスカス</color>についてどれほどの知識があるのかの？」=“How much do you know about <color%3Dyellow>hibiscus</color>?”
+「お主は<color\=yellow>ハイビスカス</color>についてどれほどの知識があるのかの？」=“How much do you know about <color\=yellow>hibiscus</color>?”
 「ふむ、おおよそのことは知っておるようじゃの」=“Hmm, you seem to know a lot about it.”
 「ほう、そういった自然もあるのじゃな……」=“Well, there is such a thing as nature, isn't there, ......?”
 「なるほど、言い分もわかるぞ……」=“Well, I can see your point, .......”
 「どうじゃ？　これでまた一つ賢くなったじゃろ？」=“What do you think?　Now you are wise.”
 「これを期に、お主も観察してみるとよいぞ？」=“Why don't you take this opportunity to observe?”
-「お主も<color%3Dyellow>サンゴ</color>の知識に触れてみぬか？」=“Wouldn't you like to learn about <color%3Dyellow>coral</color>?”
+「お主も<color\=yellow>サンゴ</color>の知識に触れてみぬか？」=“Wouldn't you like to learn about <color\=yellow>coral</color>?”
 「そう、美しい海に浜辺、どれもサンゴのおかげと言っても過言ではないのじゃ」=“Yes, we owe our beautiful seas and beaches to coral.”
-「<color%3Dyellow>シオマネキ</color>という名の由来、お主は知っておるか？」=“Do you know the origin of the name <color%3Dyellow>Shiomaneki</color>?”
-「うむ、あの求愛行動が潮の満ちを招いているように見える、というのが一節にあるようじゃの」=“Do you know the origin of the name <color%3Dyellow>Shiomaneki</color>?”
+「<color\=yellow>シオマネキ</color>という名の由来、お主は知っておるか？」=“Do you know the origin of the name <color\=yellow>Shiomaneki</color>?”
+「うむ、あの求愛行動が潮の満ちを招いているように見える、というのが一節にあるようじゃの」=“Do you know the origin of the name <color\=yellow>Shiomaneki</color>?”
 「ふむ、さすが母なる海とは言ったものじゃ」=“Well, that's the mother of all seas.”
 「やはり海は広いのう、わしもまだまだじゃの……」=“It's a big ocean, and I'm not ready for it. ......”
 「そうか、知れてよかったじゃろ？」=“Well, isn't it nice to know?”
 「うむ、お主ももっと海に触れていくのじゃぞ？」=“Well, it's good to know, isn't it?" "Well, you're going to have to get more in touch with it, aren't you?”
-「ここの<color%3Dyellow>土産</color>にはもう目を通したかの？」=“Have you looked through all the <color%3Dyellow>souvenirs</color> here?”
-「そうかそうか、わしも色々と目移りしてしまってなぁ……どれも欲しくなってしまうのじゃ」=“Have you looked through all the <color%3Dyellow>souvenirs</color> here?”
-「のう、ここの<color%3Dyellow>シークヮーサージュース</color>は飲んでみたかの？」=“Have you tried their <color%3Dyellow>Shikwasa Juice</color>?”
+「ここの<color\=yellow>土産</color>にはもう目を通したかの？」=“Have you looked through all the <color\=yellow>souvenirs</color> here?”
+「そうかそうか、わしも色々と目移りしてしまってなぁ……どれも欲しくなってしまうのじゃ」=“Have you looked through all the <color\=yellow>souvenirs</color> here?”
+「のう、ここの<color\=yellow>シークヮーサージュース</color>は飲んでみたかの？」=“Have you tried their <color\=yellow>Shikwasa Juice</color>?”
 「うむ、あのさっぱりとした酸味がたまらんのじゃ」=“Yes, I love its refreshing acidity.”
-「のう、お主は<color%3Dyellow>三線</color>に対してどのような知識を持っておるかの？」=“What do you know about the <color%3Dyellow>sanshin</color>?”
+「のう、お主は<color\=yellow>三線</color>に対してどのような知識を持っておるかの？」=“What do you know about the <color\=yellow>sanshin</color>?”
 「今では人工の皮も出回っているからの、動物に優しくなったものじゃ」=“What do you know about sanshin?”
 「ふむ、そのようなものもあるのじゃな……」=“Well, there is such a thing. ......”
 「む、それはわしも気になるのう……」=“Well, I'm curious about that, too. ......”

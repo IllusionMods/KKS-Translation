@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-「お魚を間近で見ることの出来る<color%3Dyellow>しゅのーけりんぐ</color>は、とても面白いですね」=“In the way that it allows us to get up close to fish and get a good look at them, <color%3Dyellow>snorkeling</color> is really an interesting activity, isn't it?”
+「お魚を間近で見ることの出来る<color\=yellow>しゅのーけりんぐ</color>は、とても面白いですね」=“In the way that it allows us to get up close to fish and get a good look at them, <color\=yellow>snorkeling</color> is really an interesting activity, isn't it?”
 「初めて体験したのですが……幼子の様に夢中になってしまいました」=“It was the first time I've ever done it in my life... yet I felt enchanted, as though a babe.”
-「<color%3Dyellow>とれっきんぐ</color>に興味はございますか？」=“Do you have any interest in <color%3Dyellow>trekking</color>?”
+「<color\=yellow>とれっきんぐ</color>に興味はございますか？」=“Do you have any interest in <color\=yellow>trekking</color>?”
 「自然の中を歩くと、心が安らぐのでお勧めですよ」=“Taking a walk within nature has a way of calming the heart, I do recommend it.”
 「そちらも興味深いです」=“That's quite interesting as well.”
 「成程、その様な体験も出来るのですね」=“I see, so we can even experience that here, huh?”
 「えぇと……貴方もきっと、お気に召すかと思います」=“Eerhm... I do think you'd come to like it quite a bit.”
 「その……よろしければ、今度挑戦してみて頂きたいです」=“Uhm... if you feel like it, do give it a try one of these days.”
-「島を歩く<color%3Dyellow>水牛</color>の姿はなんだか愛らしと思いませんか？」=“Do you not find the sight of the <color%3Dyellow>water buffalos</color> walking the island to be quite endearing?”
+「島を歩く<color\=yellow>水牛</color>の姿はなんだか愛らしと思いませんか？」=“Do you not find the sight of the <color\=yellow>water buffalos</color> walking the island to be quite endearing?”
 「この島ならではの光景ですよね」=“It's a sight you won't see easily elsewhere, is it?”
-「<color%3Dyellow>まんぐろーぶ</color>林の生態系は興味深いと思いませんか？」=“Do you not find <color%3Dyellow>mangroves</color> and their ecosystem to be quite fascinating?”
+「<color\=yellow>まんぐろーぶ</color>林の生態系は興味深いと思いませんか？」=“Do you not find <color\=yellow>mangroves</color> and their ecosystem to be quite fascinating?”
 「私、一日中観察していられるかもしれません」=“I think I truly could look at them all day.”
-「<color%3Dyellow>ぱわーすぽっと</color>に興味はございますか？」=“Do you have any interest in <color%3Dyellow>power spots</color>?”
+「<color\=yellow>ぱわーすぽっと</color>に興味はございますか？」=“Do you have any interest in <color\=yellow>power spots</color>?”
 「今度お時間がある際に、案内したい場所がございます」=“If you have the time for it sometime, there is a place I would like to show you.”
-「この島の<color%3Dyellow>星空</color>はとても綺麗だと思いませんか？」=“Do you not find the <color%3Dyellow>starry nightscapes</color> here to be incredibly beautiful?”
+「この島の<color\=yellow>星空</color>はとても綺麗だと思いませんか？」=“Do you not find the <color\=yellow>starry nightscapes</color> here to be incredibly beautiful?”
 「月と星に照らされながら野点をしてみたいものです」=“It would be quite the lovely thing to have a quaint little tea ceremony lit by the moonlight and the stars.”
 「そちらも趣がありますね」=“That's quite interesting as well.”
 「心惹かれるものがあります」=“That's quite fascinating indeed.”
 「……貴方に興味を持っていただけたら、嬉しく存じます」=“...It would leave me quite happy, if that made you even a bit interested.”
 「そう思っているのは、私だけなのでしょうか……」=“Am I the only one, who finds such things appealing...”
-「<color%3Dyellow>珊瑚</color>のあくせさりーなども販売しているのですね」=“They even seem to be selling <color%3Dyellow>coral</color> accessories, don't they?”
+「<color\=yellow>珊瑚</color>のあくせさりーなども販売しているのですね」=“They even seem to be selling <color\=yellow>coral</color> accessories, don't they?”
 「私にも似合うでしょうか？」=“Do you think they would suit me as well?”
-「<color%3Dyellow>くまのみ</color>は水族館の人気者の様ですね」=“Seems that <color%3Dyellow>clownfish</color> are the stars of the show as far as aquariums are concerned.”
+「<color\=yellow>くまのみ</color>は水族館の人気者の様ですね」=“Seems that <color\=yellow>clownfish</color> are the stars of the show as far as aquariums are concerned.”
 「様々の商品が販売されていて、私もくまのみの形をしたお菓子を購入したことがあります」=“They sell all sorts of themed products, even I've purchased some clownfish shaped sweets myself.”
 「成程、私も調べてみます」=“I see, I shall look into that as well.”
 「そちらも興味を惹かれます」=“That's quite interesting as well.”
 「素敵ですので、調べてみたら面白いかもしれません」=“It's wonderful so, you may find it quite interesting yourself if you look into it.”
 「……もう少し、話術を磨かなければならないようですね」=“...It seems that I must train myself in the art of conversation more.”
-「こちらの<color%3Dyellow>名物料理</color>は、どれも美味しいですね」=“The various dishes from the <color%3Dyellow>local cuisine</color> are all very delicious, aren't they?”
+「こちらの<color\=yellow>名物料理</color>は、どれも美味しいですね」=“The various dishes from the <color\=yellow>local cuisine</color> are all very delicious, aren't they?”
 「私はじーまみー豆腐でしょうか。たれが甘く、もちもちしていてお気に入りです」=“I suppose my pick would be the Jimami Tofu. The sauce is so sweet, and the tofu so springy, I like it quite a bit.”
-「<color%3Dyellow>紅型</color>の着物はとても綺麗ですね」=“<color%3Dyellow>Stencil dyed</color> kimonos are very pretty, are they not?”
+「<color\=yellow>紅型</color>の着物はとても綺麗ですね」=“<color\=yellow>Stencil dyed</color> kimonos are very pretty, are they not?”
 「色鮮やかで、見ているだけで気分が高揚します」=“They're so vividly colored, just looking at them can uplift the mood.”
 「そちらが貴方のお勧めなのですね」=“I see that's what you recommend.”
 「私も存じております」=“I am aware of that as well.”

@@ -157,7 +157,7 @@ ON/OFF=ON / OFF
 頬赤の表示=Show Cheek Flushing
 注視点の表示=Show Crosshair
 アクセサリー常時表示=Always Show Accessories
-アクセサリー常時表示<color%3Dred><size%3D14>※2=Always Show Accessories <color%3Dred><size%3D14>※2
+アクセサリー常時表示<color\=red><size\=14>※2=Always Show Accessories <color\=red><size\=14>※2
 
 //None
 頭の一部=Head Only
@@ -169,7 +169,7 @@ ON/OFF=ON / OFF
 
 マップ移動中の操作ガイドの表示=Show help for controls while walking on the map
 
-滞在人数<color%3Dred><size%3D14>※1=Number of Girls<color%3Dred><size%3D14>※1
+滞在人数<color\=red><size\=14>※1=Number of Girls<color\=red><size\=14>※1
 
 ※1 CPUやメモリーに負荷のかかる設定となります。\n　 マシンスペックやアクセサリの使用状況によって動作が不安定になりますのでご注意下さい。\n　 その場合は、滞在人数を減らすなどの調整をして下さい。\n※2 この設定が反映されるのは、各キャラの服装が次に変更されるタイミングとなります。=* 1 This will increase the load on the CPU and memory.\n May result on instabilities depending on your machine's specs, so please be careful.\n If this happens, please decrease the number of girls in the island.\n* 2 This setting is applied the next time a character changes their clothing.
 

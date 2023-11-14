@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-//「<color%3Dyellow>釣り</color>はいいわよ？　ひたすら没頭出来るし」=
+//「<color\=yellow>釣り</color>はいいわよ？　ひたすら没頭出来るし」=
 「ふふっ、今度、大物釣ってあんたに見せびらかすんだから」=“Fufuh--, one of these days I'm gonna catch some big game and show it off to you.”
-//「ふふっ、あんたに<color%3Dyellow>バナナボート</color>が乗りこなせるかしら？」=
+//「ふふっ、あんたに<color\=yellow>バナナボート</color>が乗りこなせるかしら？」=
 「ふ、ふーん、まぁ、あのくらい楽勝よね……？」=“H-Hmm, well, that much is just child's play, isn't it...?”
-//「マングローブでのアクティビティと言ったら<color%3Dyellow>カヤック</color>よね？」=
+//「マングローブでのアクティビティと言ったら<color\=yellow>カヤック</color>よね？」=
 「水上からあの森林を見渡す感覚、たまらないわよね」=“The sensation of looking out into that forest while floating on water is just something else, isn't it?”
 「……何よ、そっちも気になるじゃない」=“...The heck, that's pretty interesting too.”
 「ふぅん、今度やってみようかしら……」=“Hmmm, maybe I'll try that sometime too...”
 「いいから黙ってやっときなさいっ」=“Just shut up and go try it--!”
 「ま、あんたもやってみればわかるわ」=“Well, you'll get it too if you just try it.”
-//「ねぇ、<color%3Dyellow>マングローブ</color>っていいと思わない？」=
+//「ねぇ、<color\=yellow>マングローブ</color>っていいと思わない？」=
 「でしょう？　なんか好きなのよね……なんでかしら？」=“Aren't they though? I kinda love them, you know... I wonder why?”
-//「ねぇ、<color%3Dyellow>ハイビスカス</color>って意外な所あるんだけど、知ってた？」=
+//「ねぇ、<color\=yellow>ハイビスカス</color>って意外な所あるんだけど、知ってた？」=
 「そう、南国でよく見かける割には暑さに弱いのよね」=“That's right, for flowers that you see a lot in the south, they're actually pretty weak to heat, you know?”
 「へ、へぇ、まぁ私も知ってたし……？」=“H-Hoh, well, I knew about that too, you know...?”
 「……何よそれ、もっと詳しく教えなさいよ」=“...The heck, tell me more right now.”
 「ふふん、あんたもよく勉強することね」=“Fufuhn~, you've gotta study up more too.”
 「どう？　少しは物知りになったでしょう？」=“So, how about it? Doesn't it feel like your brain just got bigger?”
-//「海が綺麗な要因として<color%3Dyellow>サンゴ</color>が活躍してるって知ってるわよね？」=
+//「海が綺麗な要因として<color\=yellow>サンゴ</color>が活躍してるって知ってるわよね？」=
 「綺麗な海にはサンゴ礁がある、というのが納得出来るわよね」=“It makes sense why such beautiful seas always have coral reefs, doesn't it?”
-//「<color%3Dyellow>シオマネキ</color>って、どうして片方の爪が大きいのかしらね？」=
+//「<color\=yellow>シオマネキ</color>って、どうして片方の爪が大きいのかしらね？」=
 「へぇ、あれってオスだけで、メスは両方とも爪が小さいのね」=“Hoh, so those are only the males, the females only have small claws, huh?”
 「あぁ、それもあるわね……」=“Aah, that's a thing too...”
 「ふぅん、あんた、そういうのに詳しいのね……」=“Hmmm, so you know a lot about that, huh?...”
 「ふふっ、これからもっと知識を付けることね」=“Fufuh--, try to study up more, alright?”
 「ふふん、勉強になったかしら？」=“Fufuhn, did you learn anything from that?”
-//「ねぇ、ここの名物<color%3Dyellow>土産</color>、どうだったかしら？」=
+//「ねぇ、ここの名物<color\=yellow>土産</color>、どうだったかしら？」=
 「あんたもそう思う？　アレは買おうか迷うわよね……」=“You think so too? It's hard, isn't it, I wanna go all in and buy them...”
-//「ここの<color%3Dyellow>シークヮーサージュース</color>、すっごく美味しいのよ？」=
+//「ここの<color\=yellow>シークヮーサージュース</color>、すっごく美味しいのよ？」=
 「あのフルーティーな酸味がたまらないのよねぇ……」=“That fruity sourness is just too good, isn't it~...”
-//「ねぇ、<color%3Dyellow>三線</color>って三味線のことだって知ってた？」=
+//「ねぇ、<color\=yellow>三線</color>って三味線のことだって知ってた？」=
 「そうよね、私達だと三味線の方が馴染みがあるものね」=“Yeah, we're way more used to calling them shamisens ourselves, aren't we?”
 「へぇ……そういうのもあるのね……」=“Hoh... so those are a thing too, huh...”
 「ふぅん……あんた、そういうのも知ってるのね」=“Hmm... so you know about that too, huh?”

@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-//「あんたはもう<color%3Dyellow>ツリーイング</color>はやってみた？」=
+//「あんたはもう<color\=yellow>ツリーイング</color>はやってみた？」=
 「猿みたいに自由に……とまではいかないけど、木の上で遊べて楽しいわよね」=“Makes you feel as free as a money... well, almost anyway, but it's really fun playing around above the treeline, isn't it?”
-//「<color%3Dyellow>バナナボート</color>は何回乗っても飽きないわね！」=
+//「<color\=yellow>バナナボート</color>は何回乗っても飽きないわね！」=
 「あたし、帰るときはバナナボートでも全然大丈夫だわ！」=“Honestly, I'd be fine riding a banana boat home, I mean it!”
-//「あんたも、<color%3Dyellow>カヤック</color>は好き？」=
+//「あんたも、<color\=yellow>カヤック</color>は好き？」=
 「カヤックを漕ぐのに熱中しすぎて、つい景色を見るのを忘れちゃうのよね～」=“Rowing one gets so intense sometimes, it's easy to forget that you're doing it to enjoy the scenery, isn't it?~”
 「そっちも面白そうじゃない」=“That sounds pretty darn fun too.”
 「それがあんたのお勧めってわけね」=“So that's what you recommend, huh?”
 「あの楽しさが分からないわけ？　じゃあもっとやってみなさいよ」=“You don't see the fun in it? Try it out some more then.”
 「面白さが分からないなんて、楽しみ方を間違ってるんじゃない？」=“I can't believe you don't see the fun in it, you sure you're doing it right?”
-//「<color%3Dyellow>パワースポット</color>って、なんか不思議な力をもらえるわよね」=
+//「<color\=yellow>パワースポット</color>って、なんか不思議な力をもらえるわよね」=
 「色んなパワースポットを巡っていったら、最強の力が手に入るのかしら」=“I wonder if doing a tour of all sorts of power spots would fill you up with some insane power or something.”
-//「大きな<color%3Dyellow>ガジュマル</color>の樹の上って、秘密基地になりそうだと思わない？」=
+//「大きな<color\=yellow>ガジュマル</color>の樹の上って、秘密基地になりそうだと思わない？」=
 「すごく丈夫そうだし、一人くらいなら住めると思うのよね～」=“They look so strong and stable, I bet one or two people could even live there permanently~”
 「あんたは中々詳しいみたいね」=“Seems like you know a buncha stuff.”
 「この島の自然のことは、あんたに聞いた方が良さそうね」=“Seems like I'd be better off asking you about the things on this island.”
 「もしかして知らないの？　ふふん、あたしの方が詳しいわね」=“Do you not know of it, or something? Fufuhn~, seems like I know more than you.”
 「あんたの知識もまだまだね」=“Your studies are lacking, partner.”
-//「あんた、<color%3Dyellow>チンアナゴ</color>はもう見にいった？」=
+//「あんた、<color\=yellow>チンアナゴ</color>はもう見にいった？」=
 「集団で砂に埋まってるのを見ると、まとめて引っこ抜きたくなるのよね～」=“Seeing a bunch of them half stuck in the ground like that makes you wanna just pull them all out at once, doesn't it~”
-//「<color%3Dyellow>シオマネキ</color>って、なんで片方だけハサミがでかいのかしら？」=
+//「<color\=yellow>シオマネキ</color>って、なんで片方だけハサミがでかいのかしら？」=
 「あんなの絶対歩きにくいに決まってるわ」=“There's no way it's not hard to walk like that.”
 「へぇ、やっぱり海は広いわねー」=“Hoh, the sea really is wide, huh~?”
 「なるほど、あんたはそれが好きなのね」=“I see, so you like that, huh?”
 「まだ見てないなら、見に行った方がいいわよ」=“If you still haven't seen one, you should go and take a look.”
 「面白いんだから、探してみなさいよ」=“It's really interesting so, try looking for one yourself.”
-//「あんたは、もう<color%3Dyellow>お土産</color>買った？」=
+//「あんたは、もう<color\=yellow>お土産</color>買った？」=
 「なんだ、買ってたのね。あたしが選んであんたに毒見……いや、何も言ってないわ」=“What, you did, huh? I guess I can't take you around and have you taste stuff for... no, I said nothing.”
-//「<color%3Dyellow>シークヮーサージュース</color>を飲んでみたけど、やっぱり酸っぱいわね」=
+//「<color\=yellow>シークヮーサージュース</color>を飲んでみたけど、やっぱり酸っぱいわね」=
 「でも味は嫌いじゃないわ。ちょっとしたマイブームになるかも」=“But I didn't hate it. I might actually get hooked to it for a bit.”
-//「その……この年で<color%3Dyellow>ぬいぐるみ</color>を買うのって、やっぱり変かしら？」=
+//「その……この年で<color\=yellow>ぬいぐるみ</color>を買うのって、やっぱり変かしら？」=
 「変じゃ……ないのね？　そ、そう……あんたに聞いてみてよかったわ」=“It's... not, huh? I-I see... I'm glad I asked you.”
 「それもいいわよね～。あたしも好きだわ」=“That's nice too, isn't it~? I like it too.”
 「さすが名物って感じがするわ」=“No wonder it's a speciality of the region.”
