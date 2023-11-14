@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-「ねぇ、<color%3Dyellow>釣り</color>するときのコツ、知っとー？」=“Hey, do you know what the trick to <color%3Dyellow>fishing</color> is?”
+「ねぇ、<color\=yellow>釣り</color>するときのコツ、知っとー？」=“Hey, do you know what the trick to <color\=yellow>fishing</color> is?”
 「まあ、なんかなし忍耐なんやけどね」=“Well, it's more or less just about patience, you know?”
-「<color%3Dyellow>バナナボート</color>って乗るときの注意とか知っとー？」=“Do you know what you should keep in mind when going <color%3Dyellow>banana boating</color>?”
+「<color\=yellow>バナナボート</color>って乗るときの注意とか知っとー？」=“Do you know what you should keep in mind when going <color\=yellow>banana boating</color>?”
 「あーそげんやり方も……これで少しは落ちんくなるかな……？」=“Ah, that doesn't sound bad either... I guess that'd make it harder to fall off too...?”
-「<color%3Dyellow>カヤック</color>とカヌーってどっちがどっちかわからんくなったりするよね」=“It's hard to tell between a <color%3Dyellow>kayak</color> and a canoe, isn't it?”
+「<color\=yellow>カヤック</color>とカヌーってどっちがどっちかわからんくなったりするよね」=“It's hard to tell between a <color\=yellow>kayak</color> and a canoe, isn't it?”
 「あーうん、そっちがカヤックなんよなぁ、ほんとごっちゃになるんよ……」=“Ah~, yeah, that's what makes a kayak a kayak, right? What a mess, seriously...”
 「へぇ、そのアクティビティも気になるなぁ」=“Heh, that sounds pretty interesting too~”
 「なんそれ、もっと詳しく教えてくれん？」=“Heck's that, could you tell me more?”
 「どう？　コツはつかめたん？」=“So, got the hang of it yet?”
 「ふふっ、覚えて損はなかやろ？」=“Fufuh--, no harm in knowing about it, no?”
-「ねぇ、<color%3Dyellow>マングローブ</color>の特徴わかる？」=“Hey, do you know what's good about <color%3Dyellow>mangroves</color>?”
+「ねぇ、<color\=yellow>マングローブ</color>の特徴わかる？」=“Hey, do you know what's good about <color\=yellow>mangroves</color>?”
 「うん、普通の木とは全然違うよねぇ」=“Yep, they're completely different from regular trees, aren't they~?”
-「<color%3Dyellow>ハイビスカス</color>って言うとどんなんが浮かぶ？」=“When you hear "<color%3Dyellow>Hibiscus</color>", what comes to mind?”
+「<color\=yellow>ハイビスカス</color>って言うとどんなんが浮かぶ？」=“When you hear "<color\=yellow>Hibiscus</color>", what comes to mind?”
 「そうなん、赤いのが浮かぶけど、黄色や白とか、中には青が混ざってるのもあるんよね」=“That's right, you think of red ones but, there's yellow ones, white ones, and ones that are blueish on the inside too, you know?”
 「あ、それはちょっと知らんかったなぁ」=“Ah, I didn't know about those~”
 「そげんものもあるんね、勉強になるなぁ」=“So those sorta things exist too, huh? The more you know~”
 「ね、私達知らん事だらけよねぇ」=“Right? There's so much we don't know~”
 「どう？　勉強なったやろ？」=“So, how about it? You learned something new today, no?”
-「<color%3Dyellow>サンゴ</color>ってどれくらいの種類あるか知っとー？」=“Do you know just how many kinds of <color%3Dyellow>corals</color> are out there?”
+「<color\=yellow>サンゴ</color>ってどれくらいの種類あるか知っとー？」=“Do you know just how many kinds of <color\=yellow>corals</color> are out there?”
 「うん、でもまだまだ見つかってない種類もありそうやね」=“Yep, but it feels like there's probably quite a few we still haven't discovered, doesn't it?”
-「<color%3Dyellow>シオマネキ</color>と言えばあの爪やけど、なんであんな大きいかわかる？」=“When you think <color%3Dyellow>fiddler crabs</color>, you think of their one big claw but, do you know why they're so big?”
+「<color\=yellow>シオマネキ</color>と言えばあの爪やけど、なんであんな大きいかわかる？」=“When you think <color\=yellow>fiddler crabs</color>, you think of their one big claw but, do you know why they're so big?”
 「あぁ、そげん役割しとったんね、あと雄雌でも違うんやね」=“Aah, so that was the deal, huh? And it's different between males and females too, isn't it?”
 「へぇ、それは知らんかったなぁ」=“Heh, I didn't know that.”
 「なるほど……教えてくれてありがとね」=“I see... thanks for telling me about it.”
 「二人でもっと勉強していかなね」=“We gotta study a whole lot more, don't we?”
 「ふふっ、知識は増やして損はないけんね」=“Fufuh--, there's no harm in learning more, after all.”
-「<color%3Dyellow>お土産</color>やけど、どげんあったか見てみた？」=“Have you gone and looked at the <color%3Dyellow>souvenirs</color> yet?”
+「<color\=yellow>お土産</color>やけど、どげんあったか見てみた？」=“Have you gone and looked at the <color\=yellow>souvenirs</color> yet?”
 「あー、それ私も欲しいかも……」=“Ah~, I think I want that too...”
-「<color%3Dyellow>シークヮーサージュース</color>ってどげん効能あるかわかる？」=“Do you know what sort of <color%3Dyellow>Hirami lemon juice</color> has?”
+「<color\=yellow>シークヮーサージュース</color>ってどげん効能あるかわかる？」=“Do you know what sort of <color\=yellow>Hirami lemon juice</color> has?”
 「やっぱああいうの飲むと健康的になれそうやねー」=“Drinking a glass of that really makes you feel healthy, doesn't it~?”
-「<color%3Dyellow>三線</color>の材料ってなんだかわかる？」=“Do you know what <color%3Dyellow>sanshins</color> are made of?”
+「<color\=yellow>三線</color>の材料ってなんだかわかる？」=“Do you know what <color\=yellow>sanshins</color> are made of?”
 「せいかーい、蛇皮が使われとるんよなー」=“Correct~, they make them out of snake skin, don't they~?”
 「うん？　そげん話もあるん？」=“Nnn? That sorta thing's a thing too?”
 「なんそれ、もっと知りたくなるんやけど」=“Heck's that, now you're making me wanna know more.”

@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-//「<color%3Dyellow>釣り</color>って楽しいよね」=
+//「<color\=yellow>釣り</color>って楽しいよね」=
 「釣りあげた時の手ごたえもいいし、のんびり待ってるのも楽しいよ」=“The feeling of catching one is really nice, and just waiting till one bites is also fun.”
-//「私、<color%3Dyellow>シュノーケリング</color>って好きなの」=
+//「私、<color\=yellow>シュノーケリング</color>って好きなの」=
 「手軽に海の魚と触れ合える感じがいいよね」=“Being able to just come into contact with fish in the sea so easily is really nice, isn't it?”
 「その遊びも、いいね」=“That sounds fun too.”
 「確かに、そっちも面白そうかも」=“That does sound interesting, certainly.”
 「好みじゃなかったの？　でも、意外と面白いと思うよ」=“You're not a fan? But it's actually surprisingly fun.”
 「違ったんだね……でも、やってみたら気に入るかも」=“Not yout type of thing, huh?... But you might get into it if you try it.”
-//「<color%3Dyellow>水牛</color>って、よく見たら可愛いよね」=
+//「<color\=yellow>水牛</color>って、よく見たら可愛いよね」=
 「瞳も綺麗だし、ゆっくり歩てるのを見ると、こっちものんびりしてきちゃう」=“Their eyes are really pretty too and, just watching them slowly walk from place to place, really makes me feel relaxed.”
-//「私、<color%3Dyellow>ネコ</color>って好きなの」=
+//「私、<color\=yellow>ネコ</color>って好きなの」=
 「鳴き声も可愛いし、昼寝してるのを見るとついつい撫でたくなっちゃう」=“Their meows are really cute too, and when I come across one taking a nap I just can't help but want to stroke it.”
-//「<color%3Dyellow>ハイビスカス</color>って、綺麗で素敵だと思う」=
+//「<color\=yellow>ハイビスカス</color>って、綺麗で素敵だと思う」=
 「道で咲いてるのを見かけると、この島へようこそって、歓迎されてる気分になるんだよね」=“When I see them growing on the side of the road, it always makes me feel like they're welcoming us to the island, you know?”
-//「この島の<color%3Dyellow>星空</color>って、本当に綺麗だよね」=
+//「この島の<color\=yellow>星空</color>って、本当に綺麗だよね」=
 「自然に囲まれたこの島が、星明りに照らされてる風景って、すごく幻想的だと思う」=“The sight of this island, lush with nature, being lit up by starlight, is really fantastical to me.”
 「そういう見方もあるんだね。面白いかも」=“So that's how you look at it, huh? I can see it.”
 「確かに、そうやって考えると楽しいかも」=“Certainly, thinking about it that way is pretty fun too.”
 「興味ないの？　だけど、いつか好きになって欲しいかな」=“You don't feel interested? But I'd love it if you could come to like it too one day.”
 「そういう話じゃないんだ？　結構気に入ってもらえると思ったんだけどな」=“You're not into it? I really thought I could get you interested too.”
-//「<color%3Dyellow>チンアナゴ</color>って、よく見ると面白いよね」=
+//「<color\=yellow>チンアナゴ</color>って、よく見ると面白いよね」=
 「ユラユラ揺れてると思ったら、すぐに引っ込んだり……なんだか見ていて飽きない感じ」=“Just when you think they're just swaying in place, they pull back and hide... I never get tired of it.”
-//「私、<color%3Dyellow>クマノミ</color>って結構好きなの」=
+//「私、<color\=yellow>クマノミ</color>って結構好きなの」=
 「熱帯魚の中でも、特に好きかな。イソギンチャクに隠れちゃう所とか、可愛いと思う」=“Even amongst all the tropical fish, I like them the most I'd say. I think it's really cute, the way they go and hide behind the anemone.”
 「それね。私もいいと思う」=“Those, huh? I think they're nice.”
 「やっぱり、それも素敵だと思う」=“I really do think those are lovely too.”
 「あんまり好きじゃなかった？　私は結構いいと思ったんだけど」=“You don't like them? I personally thought they were really nice though.”
 「そんなに興味なかったかな……悪くないと思うんだけど」=“Was it that uninteresting... I don't think it's that boring though.”
-//「私、<color%3Dyellow>名物料理</color>って、かなり興味があるんだよね」=
+//「私、<color\=yellow>名物料理</color>って、かなり興味があるんだよね」=
 「色々試してみたいけど、やっぱりラフテーがいいかな」=“I wanna try it all out once but, personally I love Rafute.”
-//「<color%3Dyellow>シーサー</color>って色んな所で見かけるよね」=
+//「<color\=yellow>シーサー</color>って色んな所で見かけるよね」=
 「どれも可愛くって好きだけど、やっぱり魔除けなんだから、格好いい方がいいよね」=“I love them all since they're all so cute but, they're supposed to be charms that ward against evil so, they'd be better if they were cooler, wouldn't they?”
 「そうだね。それも素敵だと思う」=“Yeah. I think those are lovely too.”
 「なるほど、それも良さそうだね」=“I see, those sound really nice too.”

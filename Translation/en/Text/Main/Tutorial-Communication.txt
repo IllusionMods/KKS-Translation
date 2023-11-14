@@ -2,30 +2,30 @@
 会話やスキンシップで仲良くなろう！=Get close via conversations and skinship!
 コミュニケーション：会話や一緒に行動することで好感度が変化します。= Communication: Talking/doing activities together raises a girl's affection.
 ●話を振る=● Talking
-「世間話」<size%3D30>や</size>\n「コイバナ」<size%3D30>など</size>\n  話を振ると=Have\n“Small Talk”,\n“Love Talk” etc, and...
+「世間話」<size\=30>や</size>\n「コイバナ」<size\=30>など</size>\n  話を振ると=Have\n“Small Talk”,\n“Love Talk” etc, and...
 「好感度」=Her\nAffection
-<size%3D30>が</size>上がります=\n       goes up!
+<size\=30>が</size>上がります=\n       goes up!
 spacing to align with above text
 ●スキンシップ=● Skinship
 「触る」=    Caress
 「見る」=        Stare
 //spacing shit to match picture
 スキンシップで=\nUse skinship
-女の子<size%3D36>の</size>反応=      and enjoy
+女の子<size\=36>の</size>反応=      and enjoy
 //spacing shit to align with line below
-<size%3D30>を</size>楽しもう！=her reactions!
+<size\=30>を</size>楽しもう！=her reactions!
 ●コイカツ=● Koikatsu
 女の子と=Do things
-一緒<size%3D36>に</size>行動=together with a girl
+一緒<size\=36>に</size>行動=together with a girl
 島巡り=Travel
-<size%3D24>好感度</size>「愛の絆」<size%3D24>の時</size>\n特別なデートスポット\n<size%3D24>が</size>出現<size%3D24>します。</size>=Special date spots appear if you share a “true love”
+<size\=24>好感度</size>「愛の絆」<size\=24>の時</size>\n特別なデートスポット\n<size\=24>が</size>出現<size\=24>します。</size>=Special date spots appear if you share a “true love”
 「話題」を使い、女の子とのコミュニケーションをより楽しもう！=  Use “topics” to get more out of your conversations!
 //spacing shit
 「話題」の獲得=  Getting topics
 マップで拾ったり=From spots
 話を振ったり=  By talking
-一緒に\n行動したり\n<size%3D30>することで</size>=Doing\njoint activities
-<size%3D36>が</size>手に入る !!=are used in →
+一緒に\n行動したり\n<size\=30>することで</size>=Doing\njoint activities
+<size\=36>が</size>手に入る !!=are used in →
 //Ignore line with white space
 ●獲得した話題を使って「聞く」、「話題を振る」=● Using topics when replying/asking
 話題のカテゴリー=Topic category
@@ -33,9 +33,9 @@ spacing to align with above text
 「レジャー」=   Leisure
 「自然」=Nature
 「海」=Sea
-<size%3D30>女の子から</size>振られた話題<size%3D30>に</size>=When replying to a girl
-<size%3D30>合わせたり…</size>=\nReply with a\nmatching topic
-<size%3D30>「話題を振る」から</size>\n  高レアの話題\n<size%3D30>  を使ったりして</size>= Use a rare topic\n when asking
+<size\=30>女の子から</size>振られた話題<size\=30>に</size>=When replying to a girl
+<size\=30>合わせたり…</size>=\nReply with a\nmatching topic
+<size\=30>「話題を振る」から</size>\n  高レアの話題\n<size\=30>  を使ったりして</size>= Use a rare topic\n when asking
 //spacing shit
 ヤシガニ=☆ 3
 ウミガメ=☆ 4
@@ -58,12 +58,12 @@ spacing to align with above text
 女の子とのコミュニケーションや、一緒に行動することで「コイカツポイント」が獲得できます。\nコイカツポイントはショップにて商品と交換することができます。=Koikatsu Points can be acquired by talking with girls and doing joint activities.\nKoikatsu Points can be exchanged for goods at the shop.
 ◆Ｈをするには=◆ How to H
 「エッチしたい」=  Ask for Sex
-関係<size%3D30>を</size>深めると=Once you're close enough
-エッチ<size%3D36>に</size>誘う=\nYou can ask\nfor Sex!
+関係<size\=30>を</size>深めると=Once you're close enough
+エッチ<size\=36>に</size>誘う=\nYou can ask\nfor Sex!
 ことができます= 
 //ignoring with white space
 「自室に誘う」=  Invite to Room
-滞在中<size%3D30>の</size>自室<size%3D30>に</size>= 
+滞在中<size\=30>の</size>自室<size\=30>に</size>= 
 //ignore with white space
-女の子<size%3D36>を</size>\n連れ込めます=You can invite a girl to your room!
+女の子<size\=36>を</size>\n連れ込めます=You can invite a girl to your room!
 #unset level -1024

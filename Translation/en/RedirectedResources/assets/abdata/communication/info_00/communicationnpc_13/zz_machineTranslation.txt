@@ -111,64 +111,64 @@
 「へぇ、よく調べたねー。島に興味を持ってくれて嬉しいさー！」=“Wow, you did a lot of research. I'm glad you're interested in the island!”
 「それに注目するなんて流石だねー！　もうこの島をマスターしたといっても過言じゃないよー！」=“I'm glad you're interested in the island!　It's no exaggeration to say that you've mastered this island!”
 「ガイドブックで読んだんですけど、ここには珍しい猫がいるんですね」=“I read in the guidebook that there are rare cats here.”
-「たぶん<color%3D#ffa801ff>ヤマネコ</color>のことですね。とっても珍しくて、私もまだ一度しか会ったことがないんです」=“I read in the guidebook that there is a rare cat here..." "Probably the <color%3D#ffa801ff>wildcat</color>. It's so rare that I've only met one myself.”
-「島の人は、<color%3D#ffa801ff>自然公園</color>や<color%3D#ffa801ff>路地</color>を歩いてるときに見かけたことがあるそうですよ」=“People on the island have seen them while walking in <color%3D#ffa801ff>nature parks</color> and <color%3D#ffa801ff>alleyways.”
+「たぶん<color\=#ffa801ff>ヤマネコ</color>のことですね。とっても珍しくて、私もまだ一度しか会ったことがないんです」=“I read in the guidebook that there is a rare cat here..." "Probably the <color\=#ffa801ff>wildcat</color>. It's so rare that I've only met one myself.”
+「島の人は、<color\=#ffa801ff>自然公園</color>や<color\=#ffa801ff>路地</color>を歩いてるときに見かけたことがあるそうですよ」=“People on the island have seen them while walking in <color\=#ffa801ff>nature parks</color> and <color\=#ffa801ff>alleyways.”
 「もし見つけられたら、ラッキーですね！」=“If you find one, you're in luck!”
 「あ！　注意しないといけないことを忘れてました！」=“Oh!　I forgot to pay attention!”
-「<color%3D#ffa801ff>浜辺</color>のヤシの木の近くや、<color%3D#ffa801ff>自然公園</color>には<color%3D#ffa801ff>ヤシガニ</color>が出ることがあるんです」=“There are <color%3D#ffa801ff>coconut crabs</color> near palm trees on <color%3D#ffa801ff>beaches</color> and in <color%3D#ffa801ff>nature parks.”
+「<color\=#ffa801ff>浜辺</color>のヤシの木の近くや、<color\=#ffa801ff>自然公園</color>には<color\=#ffa801ff>ヤシガニ</color>が出ることがあるんです」=“There are <color\=#ffa801ff>coconut crabs</color> near palm trees on <color\=#ffa801ff>beaches</color> and in <color\=#ffa801ff>nature parks.”
 「珍しいからって近づいたりしたらダメですよ？　指を挟まれたら……ああ、想像しただけで恐ろしい……」=“Just because they're rare doesn't mean you should get too close.　If you get your fingers caught in one, ...... Oh, I'm terrified just thinking about it. ......”
 （コイカツするのが目的なんだし……ちょっと聞きにくいけど、確認しておこうかな）=(The purpose of this is to get coitus,......, and it's a little hard to hear, but I'll check it out.
 「その……どんな場所で告白されたら、ドキドキしますか？」=“That ...... kind of place would make you nervous if someone confessed to you?”
 「へっ？　告白……？　え、えーと……告白、告白……」=“Huh?　Confession ......?　Well, let's see, ...... confession, confession .......”
-「そう、ですねぇ……<color%3D#ffa801ff>流れ星が綺麗</color>に見えるような場所で<color%3D#ffa801ff>告白</color>されるのは……いいと思います」=“Yes, I think it would be ...... nice to be confessed in a place where you can see <color%3D#ffa801ff>a beautiful shooting star</color>.”
+「そう、ですねぇ……<color\=#ffa801ff>流れ星が綺麗</color>に見えるような場所で<color\=#ffa801ff>告白</color>されるのは……いいと思います」=“Yes, I think it would be ...... nice to be confessed in a place where you can see <color\=#ffa801ff>a beautiful shooting star</color>.”
 「って、私の好みを話してもしかたないですね！　恥ずかしい……」=“I can't help it if I tell you what I like!　It's embarrassing .......”
 「最初に教えてくれましたけど、本当に海が綺麗ですね。ついビーチに足を運んじゃいます」=“The first thing you told me is that the ocean is really beautiful. You told me at the beginning that the sea is really beautiful, and it makes me want to go to the beach.”
-「えへへ、ありがとうございます！　実は……島の人しか知らない綺麗な<color%3D#ffa801ff>ビーチがもう一つ</color>あるんですよ」=“Thank you very much!　Actually, ...... there is another <color%3D#ffa801ff>beautiful beach</color> that only the islanders know about.”
+「えへへ、ありがとうございます！　実は……島の人しか知らない綺麗な<color\=#ffa801ff>ビーチがもう一つ</color>あるんですよ」=“Thank you very much!　Actually, ...... there is another <color\=#ffa801ff>beautiful beach</color> that only the islanders know about.”
 「まあ、今は道が崩れて立ち入りが禁止されてるんですけど……見に行きたくても、危ないから入ったりしないでくださいね？」=“Well, now the road has collapsed and it's off limits, but ...... even if you want to go see it, please don't go in because it's dangerous, okay?”
 「……でも、しばらく人の手が入ってないから、珍しい生き物を見れたりするかもしれんねー」=“...... hasn't been touched by humans for a while, so you might see some rare creatures there.”
 「そういえば、有名な恋愛スポットがあるんですよね？」=“Oh, by the way, there is a famous love spot there, isn't there?”
-「それは<color%3D#ffa801ff>灯台</color>にある<color%3D#ffa801ff>ウムイの鐘</color>のことですね。ウムイは方言で、思いって意味なんです」=“That's the <color%3D#ffa801ff>Umui Bell</color> at the <color%3D#ffa801ff>lighthouse</color>. Umui is a dialect word meaning thought.”
-「鳴らした二人は必ず結ばれるという噂が昔からあって、<color%3D#ffa801ff>カップル</color>で訪れる方をよく見かけますよ」=“There's an old rumor that two people who ring the bell will always be united, so you'll often see <color%3D#ffa801ff>couples</color> visiting here.”
+「それは<color\=#ffa801ff>灯台</color>にある<color\=#ffa801ff>ウムイの鐘</color>のことですね。ウムイは方言で、思いって意味なんです」=“That's the <color\=#ffa801ff>Umui Bell</color> at the <color\=#ffa801ff>lighthouse</color>. Umui is a dialect word meaning thought.”
+「鳴らした二人は必ず結ばれるという噂が昔からあって、<color\=#ffa801ff>カップル</color>で訪れる方をよく見かけますよ」=“There's an old rumor that two people who ring the bell will always be united, so you'll often see <color\=#ffa801ff>couples</color> visiting here.”
 「いつか私も誰かと……なんてことをたまに考えちゃったりします」=“I sometimes think about ...... with someone someday.”
-「そういえば……最近、<color%3D#ffa801ff>ホテルのプールサイド</color>で注文できる<color%3D#ffa801ff>トロピカルドリンク</color>が人気なんですよ」=“Come to think of it, ...... has recently become a popular <color%3D#ffa801ff>tropical drink</color> that you can order at <color%3D#ffa801ff>the hotel poolside</color>.”
-「ドリンクを<color%3D#ffa801ff>恋人同士</color>で一緒に飲むのが、ちょっとしたブームになってるらしいです」=“Apparently it's becoming a bit of a craze for <color%3D#ffa801ff>lovers</color> to drink them together.”
+「そういえば……最近、<color\=#ffa801ff>ホテルのプールサイド</color>で注文できる<color\=#ffa801ff>トロピカルドリンク</color>が人気なんですよ」=“Come to think of it, ...... has recently become a popular <color\=#ffa801ff>tropical drink</color> that you can order at <color\=#ffa801ff>the hotel poolside</color>.”
+「ドリンクを<color\=#ffa801ff>恋人同士</color>で一緒に飲むのが、ちょっとしたブームになってるらしいです」=“Apparently it's becoming a bit of a craze for <color\=#ffa801ff>lovers</color> to drink them together.”
 「人気が出るのは嬉しいんですけど、ひとりだとちょっと頼みづらいんですよねー……あはは」=“I'm glad it's getting popular, but it's a little hard to order when you're alone. ...... Haha.”
-「普段から遊んでる<color%3D#ffa801ff>カップル</color>をよく見かけるんですか？」=“Do you often see <color%3D#ffa801ff>couples</color> playing together on a regular basis?”
-「そうですねー、<color%3D#ffa801ff>島の色んなところ</color>で見かけますよ」=“Yes, I see them in <color%3D#ffa801ff>everywhere on the island</color>.”
+「普段から遊んでる<color\=#ffa801ff>カップル</color>をよく見かけるんですか？」=“Do you often see <color\=#ffa801ff>couples</color> playing together on a regular basis?”
+「そうですねー、<color\=#ffa801ff>島の色んなところ</color>で見かけますよ」=“Yes, I see them in <color\=#ffa801ff>everywhere on the island</color>.”
 「ビーチ、公園、灯台、お土産屋さん……いっぱい遊んでくれてるみたいです」=“Beaches, parks, lighthouses, souvenir shops, ....... They seem to have a lot of fun.”
 「あなたにも、そういったお相手はいるんですか？　……って、そんな踏み込んだこと聞いちゃダメですね」=“Do you have a partner like that?　Do you have such a partner? ...... I shouldn't ask such an in-depth question.”
 「色んなレジャーがあると思うんですけど、一番人気ってなんですか？」=“I think there are many leisure activities, but what is the most popular?”
-「うーん、やっぱり<color%3D#ffa801ff>バナナボート</color>ですかね？　<color%3D#ffa801ff>浜辺のレンタルショップ</color>に行列が出来てるのをよく見ますよ」=“Hmm, I guess <color%3D#ffa801ff>banana boats</color>?　I often see a line forming at the <color%3D#ffa801ff>rental shops</color> on the beach.”
-「でも……あれに乗る<color%3D#ffa801ff>カップル</color>はみんなして、すごく密着するんですよね……」=“But ...... all the <color%3D#ffa801ff>couples</color> who ride them get very close together. ......”
+「うーん、やっぱり<color\=#ffa801ff>バナナボート</color>ですかね？　<color\=#ffa801ff>浜辺のレンタルショップ</color>に行列が出来てるのをよく見ますよ」=“Hmm, I guess <color\=#ffa801ff>banana boats</color>?　I often see a line forming at the <color\=#ffa801ff>rental shops</color> on the beach.”
+「でも……あれに乗る<color\=#ffa801ff>カップル</color>はみんなして、すごく密着するんですよね……」=“But ...... all the <color\=#ffa801ff>couples</color> who ride them get very close together. ......”
 「ここへ来て開放的な気分になるのか……イチャイチャしてる方は多いです」=“There are a lot of people who come here to feel free and ...... make out with each other.”
 「ガイドブックで読んだんだけど、ここには珍しい猫がいるんだね」=“I read in the guidebook that there are some rare cats here.”
-「たぶん<color%3D#ffa801ff>ヤマネコ</color>のことだはず。でーじ珍しいから、自分も一回したこと見たことないさーね」=“I read in a guidebook that there are rare cats here. They're so rare that I've never seen one myself.”
-「おじぃやおばぁは、<color%3D#ffa801ff>自然公園</color>とか<color%3D#ffa801ff>路地</color>を歩いてるときに見かけたって言ってたよー」=“My grandparents said they saw them when they were walking in <color%3D#ffa801ff>nature parks</color> or <color%3D#ffa801ff>alleyways</color>.”
+「たぶん<color\=#ffa801ff>ヤマネコ</color>のことだはず。でーじ珍しいから、自分も一回したこと見たことないさーね」=“I read in a guidebook that there are rare cats here. They're so rare that I've never seen one myself.”
+「おじぃやおばぁは、<color\=#ffa801ff>自然公園</color>とか<color\=#ffa801ff>路地</color>を歩いてるときに見かけたって言ってたよー」=“My grandparents said they saw them when they were walking in <color\=#ffa801ff>nature parks</color> or <color\=#ffa801ff>alleyways</color>.”
 「もし見つけることが出来たら、ラッキーやっさー！」=“If you can find him, you're in luck!”
 「あいっ！　注意しないといけないことを忘れてた！」=“Oh!　I forgot to pay attention!”
-「<color%3D#ffa801ff>浜辺</color>のヤシの木の近くや、<color%3D#ffa801ff>自然公園</color>には<color%3D#ffa801ff>ヤシガニ</color>が出るから気を付けてねー？」=“Watch out for coconut crabs near palm trees on <color%3D#ffa801ff>the beach</color> and in <color%3D#ffa801ff>nature parks.”
+「<color\=#ffa801ff>浜辺</color>のヤシの木の近くや、<color\=#ffa801ff>自然公園</color>には<color\=#ffa801ff>ヤシガニ</color>が出るから気を付けてねー？」=“Watch out for coconut crabs near palm trees on <color\=#ffa801ff>the beach</color> and in <color\=#ffa801ff>nature parks.”
 「珍しいからって近づいたりしたらダメよー。指を挟まれたりしたら……うぅ、想像しただけで痛くなってくるさぁ」=“Don't approach them just because they are rare. Don't go near them just because they're rare. If you get your fingers caught in one, ......, it'll hurt just thinking about it.”
 「その……どんな場所で告白されたら、ドキドキするかな？」=“What kind of place would make you nervous if someone confessed to you?”
 「へっ？　告白ね……？　え、えーと……告白、告白かぁ……」=“Huh?　Confession. ......?　Well, let's see. ...... Confession, confession, confession. ......”
-「うーん……<color%3D#ffa801ff>流れ星が綺麗に見える</color>場所で<color%3D#ffa801ff>告白</color>されるのは……憧れがあるさーね」=“Hmmm, I'd love to be ...... confessed in a place with a beautiful view of shooting stars.”
+「うーん……<color\=#ffa801ff>流れ星が綺麗に見える</color>場所で<color\=#ffa801ff>告白</color>されるのは……憧れがあるさーね」=“Hmmm, I'd love to be ...... confessed in a place with a beautiful view of shooting stars.”
 「って、自分の好みを話しても参考にはならんねー。恥ずかしいやっさー……」=“It's not helpful to talk about your own preferences. It's embarrassing. ......”
 「最初に教えてくれたけど、本当に海が綺麗だよね。ついビーチに足を運んじゃうよ」=“The first thing you told me is that the ocean is really beautiful. It makes me want to go to the beach.”
-「えへ、でーじ嬉しい！　実は……<color%3D#ffa801ff>もう一つ</color>島人しから知らない<color%3D#ffa801ff>ビーチ</color>があって、そこも綺麗だったさーね」=“I'm so happy!　Actually, there's another <color%3D#ffa801ff>beach</color> on ...... that only the islanders know about, and it's beautiful too.”
+「えへ、でーじ嬉しい！　実は……<color\=#ffa801ff>もう一つ</color>島人しから知らない<color\=#ffa801ff>ビーチ</color>があって、そこも綺麗だったさーね」=“I'm so happy!　Actually, there's another <color\=#ffa801ff>beach</color> on ...... that only the islanders know about, and it's beautiful too.”
 「まあ、今は道が崩れて立ち入り禁止になってるんだけど……だから興味があっても、危ないから入るのはダメよー？」=“Well, now the road has collapsed and it's off-limits, but ...... so even if you're interested, don't go in there because it's dangerous.”
 「そういえば、有名な恋愛スポットがあるんだよね？」=“Oh, by the way, there's a famous love spot there, isn't there?”
-「それは<color%3D#ffa801ff>灯台</color>にある<color%3D#ffa801ff>ウムイの鐘</color>だはず。ウムイは方言で、思いって意味さーね」=“It's the <color%3D#ffa801ff>Umui Bell</color> at the <color%3D#ffa801ff>lighthouse</color>. Umui is a dialect word meaning thought.”
-「鳴らした二人は必ず結ばれるという噂が昔からあって、<color%3D#ffa801ff>カップル</color>が訪れるのをよく見かけるよー」=“There's an old rumor that two people who ring the bell will always get married, and I often see <color%3D#ffa801ff>couples</color> visiting.”
+「それは<color\=#ffa801ff>灯台</color>にある<color\=#ffa801ff>ウムイの鐘</color>だはず。ウムイは方言で、思いって意味さーね」=“It's the <color\=#ffa801ff>Umui Bell</color> at the <color\=#ffa801ff>lighthouse</color>. Umui is a dialect word meaning thought.”
+「鳴らした二人は必ず結ばれるという噂が昔からあって、<color\=#ffa801ff>カップル</color>が訪れるのをよく見かけるよー」=“There's an old rumor that two people who ring the bell will always get married, and I often see <color\=#ffa801ff>couples</color> visiting.”
 「自分もいつか誰かと……なんてことをたまに考えちゃったりするさー」=“I sometimes think about ...... with someone someday.”
-「そういえば……最近、<color%3D#ffa801ff>ホテルのプールサイド</color>で注文できる<color%3D#ffa801ff>トロピカルドリンク</color>が人気みたいよー」=“Speaking of which, ...... has recently become popular for its <color%3D#ffa801ff>tropical drinks</color> that can be ordered poolside at <color%3D#ffa801ff>hotels.”
-「ドリンクを<color%3D#ffa801ff>恋人同士</color>で一緒に飲むのが、ちょっとしたブームになってるって聞いたさぁ」=“I heard that it's becoming a bit of a craze for <color%3D#ffa801ff>lovers</color> to drink the drinks together.”
+「そういえば……最近、<color\=#ffa801ff>ホテルのプールサイド</color>で注文できる<color\=#ffa801ff>トロピカルドリンク</color>が人気みたいよー」=“Speaking of which, ...... has recently become popular for its <color\=#ffa801ff>tropical drinks</color> that can be ordered poolside at <color\=#ffa801ff>hotels.”
+「ドリンクを<color\=#ffa801ff>恋人同士</color>で一緒に飲むのが、ちょっとしたブームになってるって聞いたさぁ」=“I heard that it's becoming a bit of a craze for <color\=#ffa801ff>lovers</color> to drink the drinks together.”
 「人気が出るのは嬉しいけど、ひとりだとちょっと頼みづらいよねー……あはは」=“I'm glad it's becoming popular, but it's a little hard to order when you're alone. ...... Haha.”
-「普段から遊んでる<color%3D#ffa801ff>カップル</color>をよく見かけるの？」=“Do you see a lot of <color%3D#ffa801ff>couples</color> playing around?”
-「うん、<color%3D#ffa801ff>島の色んなところ</color>で見かけるよー」=“Yes, I see them in <color%3D#ffa801ff>everywhere on the island.”
+「普段から遊んでる<color\=#ffa801ff>カップル</color>をよく見かけるの？」=“Do you see a lot of <color\=#ffa801ff>couples</color> playing around?”
+「うん、<color\=#ffa801ff>島の色んなところ</color>で見かけるよー」=“Yes, I see them in <color\=#ffa801ff>everywhere on the island.”
 「ビーチ、公園、灯台、お土産屋さん……いっぱい遊んでくれてるみたいやっさー」=“Beaches, parks, lighthouses, souvenir shops... ...... They seem to have a lot of fun.”
 「キミにも、そういう相手はいるねー？　……って、自分は何聞いてるんだろ……忘れて忘れて～」=“You have a partner, don't you?　I don't know what I'm asking. ...... Forget it, forget it.”
 「色んなレジャーがあるけど、一番人気ってなんだろ？」=“What's the most popular leisure activity of all?”
-「たぶん<color%3D#ffa801ff>バナナボート</color>だはず。<color%3D#ffa801ff>浜辺のレンタルショップ</color>に行列が出来てるのをよく見かけるさぁ」=“It's probably <color%3D#ffa801ff>banana boats</color>. You can often see a line forming at the <color%3D#ffa801ff>rental shop</color> on the beach.”
-「でも……あれに乗る<color%3D#ffa801ff>カップル</color>はみんなして、すっごくくっついたりしてるよねー」=“But all the <color%3D#ffa801ff>couples</color> on ...... are so close together, aren't they?”
+「たぶん<color\=#ffa801ff>バナナボート</color>だはず。<color\=#ffa801ff>浜辺のレンタルショップ</color>に行列が出来てるのをよく見かけるさぁ」=“It's probably <color\=#ffa801ff>banana boats</color>. You can often see a line forming at the <color\=#ffa801ff>rental shop</color> on the beach.”
+「でも……あれに乗る<color\=#ffa801ff>カップル</color>はみんなして、すっごくくっついたりしてるよねー」=“But all the <color\=#ffa801ff>couples</color> on ...... are so close together, aren't they?”
 「ここへ来て開放的な気分になるんかねぇ？　イチャイチャしてる人は多いよー」=“Do you feel liberated when you come here?　There are a lot of people flirting.”
 「あの、さ……俺、ひかりとエッチしたいと思ってるんだ」=“You know, ...... I'm thinking about having sex with Hikari.”
 「……う、うん……自分たちは恋人同士だから、そういうことも、しないといけないよね……」=“......Uh, yeah, ......we're lovers, so we have to do that kind of thing, don't we ......”

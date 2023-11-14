@@ -1,34 +1,34 @@
-「間近で魚を見れる<color%3Dyellow>シュノーケリング</color>は最高ですわね」=“I love snorkeling because you get to see the fish up close.”
+「間近で魚を見れる<color\=yellow>シュノーケリング</color>は最高ですわね」=“I love snorkeling because you get to see the fish up close.”
 「魚と一緒に泳げて、優雅な気分に浸れますわ」=“you get to swim with the fishes, and it's very elegant.”
-「<color%3Dyellow>トレッキング</color>を続けていると、体力が付きそうですわね」=“It looks like you'll get stronger if you keep <color%3Dyellow>trekking</color>.”
+「<color\=yellow>トレッキング</color>を続けていると、体力が付きそうですわね」=“It looks like you'll get stronger if you keep <color\=yellow>trekking</color>.”
 「体づくりのトレーニングには最適かもしれません」=“It may be the best way to train your body.”
 「おほほほ、そちらも楽しそうですわ」=“Oh, that sounds like fun, too.”
 「あら、あなたはそちらが好きなんですわね」=“Oh, I see you like it there.”
 「あの楽しさを知らないなんて、あなたは損していますわ」=“You're missing out on a lot of fun.”
 「面白いので、是非やってみてくださいまし」=“It's fun. You should try it.”
-「<color%3Dyellow>水牛</color>に乗って移動するのも、悪くありませんね」=“Riding a <color%3Dyellow>water buffalo</color> is not a bad way to travel.”
+「<color\=yellow>水牛</color>に乗って移動するのも、悪くありませんね」=“Riding a <color\=yellow>water buffalo</color> is not a bad way to travel.”
 「静かな時間が流れていて、なんだか落ち着きますわ」=“It's so quiet and relaxing.”
-「<color%3Dyellow>マングローブ</color>林の生態系に興味はありまして？」=“Are you interested in the ecology of mangrove forests?”
+「<color\=yellow>マングローブ</color>林の生態系に興味はありまして？」=“Are you interested in the ecology of mangrove forests?”
 「わたくし、研修旅行でマングローブの大切さを学びましたわ」=“I learned about the importance of mangroves on my study tour.”
-「この島には<color%3Dyellow>パワースポット</color>がいくつかあるそうですが、知っていまして？」=“Did you know that there are several <color%3Dyellow>power spots</color> on this island?”
+「この島には<color\=yellow>パワースポット</color>がいくつかあるそうですが、知っていまして？」=“Did you know that there are several <color\=yellow>power spots</color> on this island?”
 「眉唾か本物か、確かめてみたいですわ」=“I'd like to find out if they're real or not.”
-「澄んだ<color%3Dyellow>星空</color>を眺めていると、心がやすらぐのを感じますわ。あなたもそう思わなくて？」=“When I look up at the clear <color%3Dyellow>starry sky</color>, I feel relaxed and at ease. Don't you feel the same way?”
+「澄んだ<color\=yellow>星空</color>を眺めていると、心がやすらぐのを感じますわ。あなたもそう思わなくて？」=“When I look up at the clear <color\=yellow>starry sky</color>, I feel relaxed and at ease. Don't you feel the same way?”
 「おーっほっほっほ、あなたも情緒が分かる様で何よりですわ」=“Oh, I'm glad to see that you understand sentiment.”
 「そちらなら、わたくしも知っていますわ」=“I know you, too, my dear.”
 「そちらも素敵ですわ」=“It's lovely there.”
 「……そんな話はしていませんわ」=“...... I'm not talking about that.”
 「もう少し興味を持っていただけたら嬉しいですわ」=“I hope you'll be more interested.”
-「砂浜に落ちている<color%3Dyellow>サンゴ</color>を見ると、南国にいることを実感しますわ」=“When I see <color%3Dyellow>coral</color> on the beach, I know I'm in the tropics.”
+「砂浜に落ちている<color\=yellow>サンゴ</color>を見ると、南国にいることを実感しますわ」=“When I see <color\=yellow>coral</color> on the beach, I know I'm in the tropics.”
 「ふふふ、風情を感じますわね」=“It's very atmospheric.”
-「イソギンチャクに隠れる<color%3Dyellow>クマノミ</color>の姿……とても愛らしいですわ！」=“The <color%3Dyellow>tardigrades</color> hiding in the anemones are ...... so adorable!”
+「イソギンチャクに隠れる<color\=yellow>クマノミ</color>の姿……とても愛らしいですわ！」=“The <color\=yellow>tardigrades</color> hiding in the anemones are ...... so adorable!”
 「あなたもそう思いますの？　わたくしたち、気が合いますわね」=“Do you think so too?　You think so too? We're kindred spirits, aren't we?”
 「なるほど、わたくしもよく調べてみようかしら」=“I see. I'll have to look into it.”
 「ふぅん、物知りですわね」=“Well, you know a lot, don't you?”
 「あなたにも知らないことがあるのね」=“There are things you don't know.”
 「もう少しこの島について調べることをおすすめしますわ」=“I suggest you do a little more research on this island.”
-「ここの<color%3Dyellow>名物料理</color>は美味しいですわね」=“I'm sure the food here is delicious.”
+「ここの<color\=yellow>名物料理</color>は美味しいですわね」=“I'm sure the food here is delicious.”
 「わたくしは、ゆし豆腐が気に入りましたわ。おぼろ豆腐のようでとても美味ですの」=“I liked the tofu. I liked the yushi-dofu, it was very tasty, like tofu.”
-「わたくし、<color%3Dyellow>紅型</color>染めの魅力に取りつかれたかもしれません」=“I may have fallen under the spell of the <color%3Dyellow> Bingata dyeing</color>.”
+「わたくし、<color\=yellow>紅型</color>染めの魅力に取りつかれたかもしれません」=“I may have fallen under the spell of the <color\=yellow> Bingata dyeing</color>.”
 「美しく華やかで、ずっと眺めていられますわ」=“It's so beautiful and gorgeous, I could stare at it forever.”
 「おほほほ、そちらも良いですわね」=“Oh, that's nice, too.”
 「あら、そちらがあなたのお勧めですの？」=“Oh, that's your recommendation?”

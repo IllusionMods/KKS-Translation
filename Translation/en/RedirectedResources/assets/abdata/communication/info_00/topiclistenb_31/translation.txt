@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-「おまえは、<color%3Dyellow>ツリーイング</color>をやってみたことはあるか？」=“Have you ever gone <color%3Dyellow>tree climbing</color>?”
+「おまえは、<color\=yellow>ツリーイング</color>をやってみたことはあるか？」=“Have you ever gone <color\=yellow>tree climbing</color>?”
 「ああやって木に登れるのは楽しいよな。柄にもなく童心に帰って楽しんだよ」=“It's really fun to scale a tree like that, isn't it? Makes me return to being a kid, it really does.”
-「海のレジャーの定番といえば、<color%3Dyellow>バナナボート</color>だな」=“When it comes to things to do at the sea, you can't forget about <color%3Dyellow>Banana boating</color>, can you?”
+「海のレジャーの定番といえば、<color\=yellow>バナナボート</color>だな」=“When it comes to things to do at the sea, you can't forget about <color\=yellow>Banana boating</color>, can you?”
 「フッ、やはりおまえもそう思うか。ド定番だからこそ外せないレジャーだ」=“Pff--, so you agree too, huh? You just can't skip it, it's too staple.”
-「<color%3Dyellow>カヤック</color>に乗ったのは初めてだったんだが、かなり楽しめたぞ」=“I went <color%3Dyellow>kayaking</color> for the first time in my life here but, it was pretty darn fun.”
+「<color\=yellow>カヤック</color>に乗ったのは初めてだったんだが、かなり楽しめたぞ」=“I went <color\=yellow>kayaking</color> for the first time in my life here but, it was pretty darn fun.”
 「自然の中を悠々と漕いでいくのは、この島ならではの醍醐味だろうな」=“Slowly rowing through the water and savouring the view is probably something you can only do in a place like this.”
 「それも面白いと思うぞ」=“I think that's pretty interesting too.”
 「ふぅん。おまえはそれが好きなのか」=“Hmmm. So that's what you like, huh?”
 「私のオススメだ。やってみて損はないぞ」=“I recommend it. You're not gonna lose anything trying it out.”
 「おまえも気に入るはずだから、挑戦してみるといいぞ」=“I'm sure you're gonna love it too, so try it out when you can.”
-「この島には色々と<color%3Dyellow>パワースポット</color>があるみたいだぞ」=“Seems like there's quite a few different <color%3Dyellow>power spots</color> on this island.”
+「この島には色々と<color\=yellow>パワースポット</color>があるみたいだぞ」=“Seems like there's quite a few different <color\=yellow>power spots</color> on this island.”
 「本気で心の底から信じてるわけではないが……何かしらご利益はあるんじゃないか？」=“It's not like I actually believe in them from the bottom of my heart but... they probably have some power to them or something, no?”
-「大きな<color%3Dyellow>ガジュマル</color>の樹は、思わず息を呑んでしまうような迫力があるな」=“Big <color%3Dyellow>banyan</color> trees really have a way of stealing your breath away, don't they?”
+「大きな<color\=yellow>ガジュマル</color>の樹は、思わず息を呑んでしまうような迫力があるな」=“Big <color\=yellow>banyan</color> trees really have a way of stealing your breath away, don't they?”
 「生命力に溢れているというか……見ているだけで元気が出る気がするんだ」=“It's like they're overflowing with life energy... just looking at them makes me feel energetic again.”
 「なるほど……それは面白そうだ」=“I see... those sound pretty fun.”
 「おまえはそっちに興味があるんだな」=“So that's what you're into, huh?”
 「機会があったら、行ってみたらどうだ」=“How about you check them out too, if you get the chance?”
 「せっかくの観光だし、見て回るといいんじゃないか」=“We're on a trip and everything, no point in sitting inside all day, no?”
-「水族館に<color%3Dyellow>チンアナゴ</color>がいたんだが……なんというか不思議な魅力があったな」=“They had some <color%3Dyellow>spotted garden eels</color> at the aquarium here... I found them really charming, somehow.”
+「水族館に<color\=yellow>チンアナゴ</color>がいたんだが……なんというか不思議な魅力があったな」=“They had some <color\=yellow>spotted garden eels</color> at the aquarium here... I found them really charming, somehow.”
 「全員そろって同じ方向を眺めて、何を考えているんだろうな？　意思疎通をしてみたいものだ」=“The way they all face the same exact way, I wonder what goes through their heads? I wanna come to understand them.”
-「そういえば、この間<color%3Dyellow>シオマネキ</color>を見かけたんだ。本当に片方だけハサミが大きいんだな」=“Reminds me, the other day I came across a <color%3Dyellow>fiddler crab</color>. They really do have just the one big claw, huh?”
+「そういえば、この間<color\=yellow>シオマネキ</color>を見かけたんだ。本当に片方だけハサミが大きいんだな」=“Reminds me, the other day I came across a <color\=yellow>fiddler crab</color>. They really do have just the one big claw, huh?”
 「あんなにサイズが違うとバランスをとるのが難しいと思っていたが、器用に歩いていたよ」=“I'd have thought that it'd be pretty darn hard to balance with such a weight and size difference but, it was walking pretty smoothly.”
 「ふぅん。それも面白いな」=“Hmmm. Those are interesting too.”
 「フッ、海について勉強してきているのか」=“Heh--, are you studying up on the sea or something?”
 「見識を広めることをおすすめする。知識があって損をすることはないからな」=“I recommend widening your horizons. Knowing about more things never hurts.”
 「もう少し島を歩いてみてはどうだ？　思いがけない出会いがあるとおもうぞ」=“How about you try walking around the island a bit more? You never know, you might run into something pleasantly surprising.”
-「お菓子の<color%3Dyellow>お土産</color>を買おうと思っているんだが、なにかオススメはあるか？」=“I was thinking of buying some sweets as <color%3Dyellow>souvenirs</color> for people back home but, any you recommend in particular?”
+「お菓子の<color\=yellow>お土産</color>を買おうと思っているんだが、なにかオススメはあるか？」=“I was thinking of buying some sweets as <color\=yellow>souvenirs</color> for people back home but, any you recommend in particular?”
 「……なるほど、それは配るのに適しているな。おかげでいい買い物ができそうだ」=“...I see, those would work pretty good, especially since I could hand them out. Thanks, those are gonna be great souvenirs.”
-「<color%3Dyellow>シークヮーサージュース</color>はもう飲んでみたか？」=“Did you try out the <color%3Dyellow>Hirami lemon juice</color> yet?”
+「<color\=yellow>シークヮーサージュース</color>はもう飲んでみたか？」=“Did you try out the <color\=yellow>Hirami lemon juice</color> yet?”
 「あの酸っぱさはなかなか癖になると思わないか？　私は見かけたらつい買ってしまうようになった」=“Don't you think that sourness is addictive as hell? I always end up going for a glass whenever I see a shop selling some.”
-「……どこの観光地でも、可愛い<color%3Dyellow>ぬいぐるみ</color>の類は売られているんだな」=“...No matter where you go, every single place has some sort of cute <color%3Dyellow>plushie</color>, doesn't it?”
+「……どこの観光地でも、可愛い<color\=yellow>ぬいぐるみ</color>の類は売られているんだな」=“...No matter where you go, every single place has some sort of cute <color\=yellow>plushie</color>, doesn't it?”
 「い、いやっ、買ってほしいとねだったわけではないからな？　ただそう思って呟いただけだっ。決して欲しいわけではないっ」=“N-No--, I wasn't asking you to buy one for me as a gift or anything, okay? I just thought of it so I said it--! I didn't say I want it, I didn't--!”
 「……それも良さそうだな。参考にさせてもらおう」=“...That sounds pretty interesting too. Maybe I'll try it myself.”
 「おまえはそれが気に入っているのか」=“So that's what you're into, huh?”

@@ -11,7 +11,7 @@
 「だ、だよね。[H名]がちんこすうなんて……」=“Y-You're right. A girl like you would...”
 「……言っていません」=“...I didn't say it.”
 「分かったよ。俺の聞き間違い！　ごめんごめん」=“I got it. I just misheard you! Sorry, sorry.”
-「あなたは……何味の『ちんすこう』が好きですか？」=“What sort of... <color%3Dpurple>dimsums<color> do you like?”
+「あなたは……何味の『ちんすこう』が好きですか？」=“What sort of... 'dimsums' do you like?”
 「はは、そんな強調して言わなくても……」=“Hahah, you don't need to emphasize it so much...”
 「うーん、味の好みかぁ……なんだかんだで普通のが一番食べ飽きないかなぁ？」=“Nnnn, what sort, huh... I'd say the normal veggie filled ones? I never get bored of them.”
 「では、ゴーヤ味は返してきます」=“Well then, I shall put these back.”

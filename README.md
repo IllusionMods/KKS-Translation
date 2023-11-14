@@ -18,7 +18,7 @@ The translations are applied while the game is running and do not require replac
 
 - [BepInEx 5.4.x+](https://github.com/BepInEx/BepInEx/releases/)
 - [BepisPlugins for KKS](https://github.com/bbepis/BepisPlugins/releases)
-- [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
+- [XUnity.AutoTranslator 5.1+](https://github.com/bbepis/XUnity.AutoTranslator)
 - [KKS_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector)
 - [KKS_Subtitles](https://github.com/IllusionMods/KK_Plugins#subtitles)
 

@@ -5,15 +5,15 @@
 個性や性格を設定！=Set her personality and traits!
 キャラを撮影して保存！=Take a photo to finish and save your girl!
 顔、体、髪、服、\nアクセサリーなど\n項目を設定し…=Deep customization for face, body, hair, clothes, accessories
- <size%3D36>好みの</size>キャラ\n<size%3D36>を自由に創ろう！</size>=\nTo freely create your own girl!
+ <size\=36>好みの</size>キャラ\n<size\=36>を自由に創ろう！</size>=\nTo freely create your own girl!
 「コーディネートタイプ」で\n場面に合わせた衣装を登録！=Choose her clothes for a specific scene with "Clothing Type"!
 「名前」=Name
 「性格」=Personality
 「個性」=Traits
 など=and \nmore!
 キャラの情報を設定！=Character info\nto customize!
-「新規保存」<size%3D30>で</size>\n<size%3D30>  カード画像を撮影</size>= “Save New” to\n take pictures
-<size%3D30>画像を</size>\n２種類\n<size%3D30>撮影したら…</size>=Take both pictures\nthen...
+「新規保存」<size\=30>で</size>\n<size\=30>  カード画像を撮影</size>= “Save New” to\n take pictures
+<size\=30>画像を</size>\n２種類\n<size\=30>撮影したら…</size>=Take both pictures\nthen...
 「保存」=Save
 完成！=Done!
 #unset level -1024

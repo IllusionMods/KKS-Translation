@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.0 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「のんびりと<color%3Dyellow>釣り</color>糸を垂らすのも、たまには良いと思うよー？」=
+//「のんびりと<color\=yellow>釣り</color>糸を垂らすのも、たまには良いと思うよー？」=
 「ゆっくりとした時間を過ごせて、釣ったお魚は食べられる。一石二鳥だねっ」=“It's such a nice and peaceful way to spend time, not to mention you can eat the fish you catch. Two birds with one stone, isn't it--”
-//「海上とかで遊ぶのが好きなら、<color%3Dyellow>バナナボート</color>がおすすめだよ」=
+//「海上とかで遊ぶのが好きなら、<color\=yellow>バナナボート</color>がおすすめだよ」=
 「滑るように海の上を走って、水しぶきを浴びながら風を感じるのが最高なんだー」=“You can experience the feeling of almost running on top of the water surface, and you get to feel the wind while water splashes on you from all over, it's the best~”
-//「<color%3Dyellow>カヤック</color>に乗って、２人で競走するとかどうかなー？」=
+//「<color\=yellow>カヤック</color>に乗って、２人で競走するとかどうかなー？」=
 「たまには競走してみるのも楽しそうだよねっ」=“Having a race sounds fun, doesn't it--”
 「それも面白いよね。レジャーをこんなに楽しめるなんて、南の島は最高だよー」=“That sounds fun too. I can't believe we get to enjoy so many times, this island's the best~”
 「キミはそっちの方がいいのかな？　今度一緒にするのも良いかもね」=“You like that sorta stuff? Maybe we should do it together sometime.”
 「興味はなかったかなー？　残念だけど、自分がしたいことをするのが１番だよっ」=“Not interested~? It's a shame but, you should always do what you find the most fun anyway--”
 「もし少しでも気になったら、ぜひとも一度くらいためしてみてねー」=“If you've got even a bit of interest in it, do make sure to give it a shot atleast once, okay~?”
-//「<color%3Dyellow>マングローブ</color>って熱帯や亜熱帯でしか見られないって本当なのかなー」=
+//「<color\=yellow>マングローブ</color>って熱帯や亜熱帯でしか見られないって本当なのかなー」=
 「あんな不思議な形なのって、やっぱり暑いから……だったり？」=“I mean I guess that's why they're shaped like that, it must be the heat... right?”
-//「<color%3Dyellow>ハイビスカス</color>って綺麗なだけじゃなくて、お茶にして飲んだり食用になるのがあるらしいよー」=
+//「<color\=yellow>ハイビスカス</color>って綺麗なだけじゃなくて、お茶にして飲んだり食用になるのがあるらしいよー」=
 「私は観賞用のハイビスカスをずっと眺めていたいかなー」=“I'd much rather look at them all day instead though~”
 「あ、そっちもいいね。自然をこんなに感じられるのも、南の島の特権かもねー？」=“Ah, that sounds nice too. Being able to enjoy nature so much might just be one of the privileges of being here~”
 「そういうのもいいかも。本当に自然っていいなぁ」=“That sounds nice too. Nature really is just so nice~”
 「あれ？　あんまり自然に興味なかったかなー？」=“Huh? Does nature not interest you that much?”
 「いまいち好みが合わないね？　ちょっと残念かも」=“Our tastes don't match that much, huh? That's a bit of a shame.”
-//「<color%3Dyellow>サンゴ</color>って長い時間をかけて少しずつ成長しているらしいね」=
+//「<color\=yellow>サンゴ</color>って長い時間をかけて少しずつ成長しているらしいね」=
 「そんなに頑張って成長しているんだから、綺麗なのも当然なのかもー」=“It puts in so much effort to grow, looking so pretty might just be natural~”
-//「<color%3Dyellow>シオマネキ</color>って、どうして左右のハサミの大きさがあんなに違うんだろ？」=
+//「<color\=yellow>シオマネキ</color>って、どうして左右のハサミの大きさがあんなに違うんだろ？」=
 「しかも、雄と雌でも大きさが違うみたいなんだよー。不思議だよねっ」=“Apparently the size differens even between the males and the females~. So incredible--”
 「うんうん。海って、本当にいろいろな生き物がいてすごいよね」=“Yepyep. There's so much varied life in the sea, it's amazing, isn't it?”
 「もしかして、色々知ってるのかな？　私に教えてくれるー？」=“Do you already know a bunch about this stuff? Will you tell me instead~?”
 「あんまり海に興味がなかった？　ごめんね、つまらなかったかなー」=“Not all that interested in the sea? Sorry, was it boring~”
 「うーん、あんまり話があわないね？　残念かも」=“Nnnn, our tastes don't really match, do they? That's a shame.”
-//「欲しい<color%3Dyellow>お土産</color>がいっぱいありすぎて、お金が全然足りなくなっちゃいそうだよぉ」=
+//「欲しい<color\=yellow>お土産</color>がいっぱいありすぎて、お金が全然足りなくなっちゃいそうだよぉ」=
 「星の砂とか、お菓子とか、キミも欲しいと思うよねー？」=“You'd want souvenirs like star sand or the local sweets and whatnot too, right~?”
-//「<color%3Dyellow>シークヮーサージュース</color>に砂糖を少し入れて飲んでみて？　すっごく美味しいから！」=
+//「<color\=yellow>シークヮーサージュース</color>に砂糖を少し入れて飲んでみて？　すっごく美味しいから！」=
 「酸っぱさも強いから、口の中がきゅーってなっちゃうけどね、えへへ」=“It's really sour too though, so your mouth's gonna get all puckered up, eheheh~”
-//「<color%3Dyellow>三線</color>の音色、独特な響きがあって私は好きだなー」=
+//「<color\=yellow>三線</color>の音色、独特な響きがあって私は好きだなー」=
 「さすが名物って言われるだけの楽器だよね。カッコよく弾けるようになりたいな～」=“I guess there's a reason why it's such a prized instrument. I wanna learn to play it like a cool artist~”
 「名物っていうだけあって、どれもすっごい素敵だよねっ」=“Just about every single one of those local specialities are wonderful, aren't they--”
 「うぅぅ、あれもこれもって気になって来ちゃうよー」=“Uuuu, I just can't help but be curious about it all~”

@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-//「<color%3Dyellow>釣り</color>に興味ある？」=
+//「<color\=yellow>釣り</color>に興味ある？」=
 「深海魚を釣ってみたいんだけど、難しいみたい」=“I wanna try fishing up some deep sea fishes but, looks like it's not very easy.”
-//「<color%3Dyellow>シュノーケリング</color>をやったことある？」=
+//「<color\=yellow>シュノーケリング</color>をやったことある？」=
 「深くは潜れないけど……海の世界が覗けて楽しいよね」=“You can't go all that deep but... the world underwater is so fun, isn't it?”
 「ふ～ん、そういうのもあるんだね」=“Hmm~, so that sort of stuff exists too, huh?”
 「へぇ～、それも面白そう」=“Heh~, that sounds fun too.”
 「……よかったら、あなたもやってみて」=“...Try it too, if you feel like it.”
 「……あなたも、楽しめると思うよ」=“...I think you'll find it fun too.”
-//「<color%3Dyellow>水牛</color>が町を歩いてるのって、不思議な光景だよね」=
+//「<color\=yellow>水牛</color>が町を歩いてるのって、不思議な光景だよね」=
 「身体が大きいから、初めて見た時はビックリしちゃった」=“Their bodies are so big, I was really surprised the first time I saw one.”
-//「島にいる<color%3Dyellow>ネコ</color>に懐かれたかもしれないの」=
+//「島にいる<color\=yellow>ネコ</color>に懐かれたかもしれないの」=
 「あの子を宇宙には連れていくわけにはいかないから……ちょっと困ってる」=“I can't really take her to space with me so... I don't know what to do.”
-//「<color%3Dyellow>ハイビスカス</color>の花って綺麗だよね」=
+//「<color\=yellow>ハイビスカス</color>の花って綺麗だよね」=
 「“かれら”にも似合うかなぁ」=“I wonder if they'd suit "them" too?”
-//「ここは空気が澄んでいて、<color%3Dyellow>星空</color>がよく見えるんだよ」=
+//「ここは空気が澄んでいて、<color\=yellow>星空</color>がよく見えるんだよ」=
 「“かれら”と交信しやすいから、宇宙に行くまではこの島に住んでようかな」=“It's really easy to get into contact with "them" here so, maybe I'll just move here until I go out to space.”
 「ふ～ん、素敵だね」=“Hm~, that's wonderful.”
 「そう……あなたは、それがお気に入りなんだ」=“I see... so that's what you're into.”
 「……あなたにも、見てほしい」=“...I want you to, look at it too.”
 「……おすすめのスポットがあるから、今度教えてあげる」=“...There's a place I'd really like for you to see, so I'll take you there next time.”
-//「水族館の<color%3Dyellow>チンアナゴ</color>はもう見にいった？」=
+//「水族館の<color\=yellow>チンアナゴ</color>はもう見にいった？」=
 「見てるとなんだか癒されるから、“かれら”にもおすすめしたの」=“Just looking at them kinda heals me so, I recommended it to "them" too.”
-//「やっぱり<color%3Dyellow>クマノミ</color>は人気なんだね」=
+//「やっぱり<color\=yellow>クマノミ</color>は人気なんだね」=
 「グッズがたくさんあって、売り切れてたりもしたよ」=“There were so many goods based on them, some were even sold out.”
 「へぇー、そっちも気になるなぁ……」=“Heh~, that sounds interesting too...”
 「なるほど……それも悪くないね」=“I see... that doesn't sound bad either.”
 「……可愛いから、あなたにもおすすめ」=“...They're adorable so, I recommend them to you too.”
 「……あなたも、見に行くといいよ」=“...You should, go look at them too.”
-//「ここの<color%3Dyellow>名物料理</color>の中では何が好き？」=
+//「ここの<color\=yellow>名物料理</color>の中では何が好き？」=
 「わたしは……そばが一番美味しかったかも。そばは宇宙食にもなってるしね」=“I... liked the soba the most, I think. They eat that in space too, after all.”
-//「<color%3Dyellow>シーサー</color>はどこにでもいるんだね」=
+//「<color\=yellow>シーサー</color>はどこにでもいるんだね」=
 「うんうん……まるで“かれら”みたい」=“Yepyep... they're almost like "them".”
 「うん、そっちもいいよね」=“Yep, that's nice too, isn't it?”
 「それも“かれら”に教えてあげたいなぁ」=“I want to tell "them" about that too~”

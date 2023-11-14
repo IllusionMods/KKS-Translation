@@ -1,34 +1,34 @@
-「ねぇ、<color%3Dyellow>釣り</color>するときのコツ、知っとー？」=“Hey, do you know how to <color%3Dyellow>fish</color>?”
+「ねぇ、<color\=yellow>釣り</color>するときのコツ、知っとー？」=“Hey, do you know how to <color\=yellow>fish</color>?”
 「まあ、なんかなし忍耐なんやけどね」=“Well, I'm kind of patient.”
-「<color%3Dyellow>バナナボート</color>って乗るときの注意とか知っとー？」=“Do you know how to ride a banana boat?”
+「<color\=yellow>バナナボート</color>って乗るときの注意とか知っとー？」=“Do you know how to ride a banana boat?”
 「あーそげんやり方も……これで少しは落ちんくなるかな……？」=“Oh, I know how to do that, too. ...... I wonder if this will keep me from falling off. ......?”
-「<color%3Dyellow>カヤック</color>とカヌーってどっちがどっちかわからんくなったりするよね」=“<color%3Dyellow>Kayak</color> and canoe, it's sometimes hard to tell which is which.”
+「<color\=yellow>カヤック</color>とカヌーってどっちがどっちかわからんくなったりするよね」=“<color\=yellow>Kayak</color> and canoe, it's sometimes hard to tell which is which.”
 「あーうん、そっちがカヤックなんよなぁ、ほんとごっちゃになるんよ……」=“Oh, yeah, that's kayaking. It's really confusing. ......”
 「へぇ、そのアクティビティも気になるなぁ」=“Yeah, I'm curious about that activity too.”
 「なんそれ、もっと詳しく教えてくれん？」=“What's that? Can you tell me more about it?”
 「どう？　コツはつかめたん？」=“How's it going?　Did you get the hang of it?”
 「ふふっ、覚えて損はなかやろ？」=“It's good to know, isn't it?”
-「ねぇ、<color%3Dyellow>マングローブ</color>の特徴わかる？」=“Hey, do you know what a <color%3Dyellow>mangrove</color> is?”
+「ねぇ、<color\=yellow>マングローブ</color>の特徴わかる？」=“Hey, do you know what a <color\=yellow>mangrove</color> is?”
 「うん、普通の木とは全然違うよねぇ」=“Yes, they're very different from ordinary trees.”
-「<color%3Dyellow>ハイビスカス</color>って言うとどんなんが浮かぶ？」=“What do you think of when I say <color%3Dyellow>hibiscus</color>?”
+「<color\=yellow>ハイビスカス</color>って言うとどんなんが浮かぶ？」=“What do you think of when I say <color\=yellow>hibiscus</color>?”
 「そうなん、赤いのが浮かぶけど、黄色や白とか、中には青が混ざってるのもあるんよね」=“Yes, red ones come to mind, but there are also yellow ones, white ones, and even blue ones.”
 「あ、それはちょっと知らんかったなぁ」=“Oh, I didn't know that.”
 「そげんものもあるんね、勉強になるなぁ」=“I didn't know that." "So there are such things, I'm learning.”
 「ね、私達知らん事だらけよねぇ」=“You know, there's a lot we don't know.”
 「どう？　勉強なったやろ？」=“How's that?　Didn't you learn something?”
-「<color%3Dyellow>サンゴ</color>ってどれくらいの種類あるか知っとー？」=“Do you know how many kinds of <color%3Dyellow>coral</color> there are?”
+「<color\=yellow>サンゴ</color>ってどれくらいの種類あるか知っとー？」=“Do you know how many kinds of <color\=yellow>coral</color> there are?”
 「うん、でもまだまだ見つかってない種類もありそうやね」=“Yes, but I guess there are many more species that have yet to be discovered.”
-「<color%3Dyellow>シオマネキ</color>と言えばあの爪やけど、なんであんな大きいかわかる？」=“Do you know why the claws of the <color%3Dyellow>silkworm</color> are so big?”
+「<color\=yellow>シオマネキ</color>と言えばあの爪やけど、なんであんな大きいかわかる？」=“Do you know why the claws of the <color\=yellow>silkworm</color> are so big?”
 「あぁ、そげん役割しとったんね、あと雄雌でも違うんやね」=“Oh, so that's how they work, and they also differ between males and females.”
 「へぇ、それは知らんかったなぁ」=“Oh, I didn't know that.”
 「なるほど……教えてくれてありがとね」=“Well, thank you for telling me about .......”
 「二人でもっと勉強していかなね」=“We'll have to learn more together.”
 「ふふっ、知識は増やして損はないけんね」=“Well, it never hurts to be knowledgeable.”
-「<color%3Dyellow>お土産</color>やけど、どげんあったか見てみた？」=“Have you seen the <color%3Dyellow>souvenirs</color> I brought you?”
+「<color\=yellow>お土産</color>やけど、どげんあったか見てみた？」=“Have you seen the <color\=yellow>souvenirs</color> I brought you?”
 「あー、それ私も欲しいかも……」=“Oh, I think I want one of those. ......”
-「<color%3Dyellow>シークヮーサージュース</color>ってどげん効能あるかわかる？」=“Do you know what <color%3Dyellow>Shikwasa Juice</color> does?”
+「<color\=yellow>シークヮーサージュース</color>ってどげん効能あるかわかる？」=“Do you know what <color\=yellow>Shikwasa Juice</color> does?”
 「やっぱああいうの飲むと健康的になれそうやねー」=“Drinking that stuff seems to make you healthier.”
-「<color%3Dyellow>三線</color>の材料ってなんだかわかる？」=“Do you know what <color%3Dyellow>sanshin</color> is made of?”
+「<color\=yellow>三線</color>の材料ってなんだかわかる？」=“Do you know what <color\=yellow>sanshin</color> is made of?”
 「せいかーい、蛇皮が使われとるんよなー」=“It's made of snake skin, isn't it?”
 「うん？　そげん話もあるん？」=“Yeah?　Is that what they say?”
 「なんそれ、もっと知りたくなるんやけど」=“That makes me want to know more.”

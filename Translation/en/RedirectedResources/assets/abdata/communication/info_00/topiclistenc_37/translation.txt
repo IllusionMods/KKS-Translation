@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-//「あなたは<color%3Dyellow>シュノーケリング</color>に興味ありますか？」=
+//「あなたは<color\=yellow>シュノーケリング</color>に興味ありますか？」=
 「海を堪能するには欠かせないアクティビティですね」=“For anyone who wishes to truly enjoy the sea, it's an unskippable activity, isn't it?”
-//「あなたは<color%3Dyellow>トレッキング</color>がどのようなものか知っていますか？」=
+//「あなたは<color\=yellow>トレッキング</color>がどのようなものか知っていますか？」=
 「そうですね、ハイキングと登山の中間のようなものです」=“Indeed, it's almost in the same category as hiking or mountain climbing.”
 「なるほど、そのようなアクティビティもあるのですね」=“I see, so activities like that exist too.”
 「あなたはソレをすでに経験したことがあるのですね」=“You've already went and experienced that, have you?”
 「これを機に是非興味をもって頂ければと思います」=“I think it would be lovely if you took this as a chance to see it for yourself and develop an interest.”
 「どうでしょう、気になりましたか？」=“I wonder, did that arouse your curiosity?”
-//「<color%3Dyellow>水牛</color>車は私たち観光客に人気の様ですね」=
+//「<color\=yellow>水牛</color>車は私たち観光客に人気の様ですね」=
 「はい……のんびりしていて、私も好きです」=“Yes... it's very relaxed, and I like it very much as well.”
-//「<color%3Dyellow>マングローブ</color>とはなにか、あなたは語れますか？」=
+//「<color\=yellow>マングローブ</color>とはなにか、あなたは語れますか？」=
 「はい、植物固有の名称ではなく群衆を指していますね」=“Yes, rather than referring to a specific plant, it actually refers to a whole category, doesn't it?”
-//「<color%3Dyellow>パワースポット</color>について、あなたはどれ程語れますか？」=
+//「<color\=yellow>パワースポット</color>について、あなたはどれ程語れますか？」=
 「はい、霊場や聖地などもその一種のようです」=“Yes, it seems that holy grounds or sacred lands also receive such designations.”
-//「<color%3Dyellow>星空</color>にどれだけロマンがあるか、あなたはわかりますか？」=
+//「<color\=yellow>星空</color>にどれだけロマンがあるか、あなたはわかりますか？」=
 「見えている星の光は遥か昔のもの、というのが信じられませんよね」=“It's hard to believe that the starlight we can see, actually left its home millennia ago, isn't it?”
 「なるほど、やはり自然界というのは底が知れませんね」=“I see, truly the natural world is unfathomable, isn't it?”
 「まだまだ私の知らない知識は多いみたいです」=“Seems that there are many things that I am still unaware of, in this world.”
 「これで一つ、あなたへ知識を与える事が出来ました」=“With this, I was able to pass on yet unknown knowledge to you.”
 「少しでも知って頂ければと思います」=“I hope you grow to learn more about it, even a bit.”
-//「<color%3Dyellow>サンゴ</color>が海にもたらすものが何か、わかりますか？」=
+//「<color\=yellow>サンゴ</color>が海にもたらすものが何か、わかりますか？」=
 「はい、海中が綺麗なのも珊瑚のおかげとも言われています」=“Yes, it's said that even the fact that the ocean is so clear is thanks to corals.”
-//「<color%3Dyellow>クマノミ</color>についてあなたはどれ程の知識を持っていますか？」=
+//「<color\=yellow>クマノミ</color>についてあなたはどれ程の知識を持っていますか？」=
 「そうですね、やはりイソギンチャクとの共生が有名ですね」=“Indeed, they're quite famous for their coexistence with sea anemone.”
 「なるほど、流石、海は広いですね」=“I see, truly the ocean is wide.”
 「私も知らない海の知識が沢山ありますね」=“There's a lot about the sea that I yet am not aware of, isn't there?”
 「あなたも海について詳しくなって頂けたらと思います」=“It would be quite nice if I could get you to learn more about the sea as well.”
 「これで少しでも海が好きになって頂けたらと思います」=“It would be quite nice if I got you to come to like the sea even a bit more with this.”
-//「ここの<color%3Dyellow>名物料理</color>は試してみましたか？」=
+//「ここの<color\=yellow>名物料理</color>は試してみましたか？」=
 「私も、あれなら何度でも食べられますね」=“I could eat that again and again myself as well.”
-//「<color%3Dyellow>紅型</color>染めの特徴、あなたは伝えられますか？」=
+//「<color\=yellow>紅型</color>染めの特徴、あなたは伝えられますか？」=
 「そうですね、普通の染め物とは製法が大きく違いますね」=“Indeed, the method is quite different from stencil dyeing back on the mainland, isn't it?”
 「なるほど、それは知りませんでした」=“I see, I did not know that.”
 「そうですか、そういったものもあるのですね」=“Is that so, so things like that exist as well, huh?”

@@ -137,4 +137,4 @@
 
 //Random Registration
 呼び出し先の確認=Confirm call destination 
-<color%3Dorange>『選択した空席』</color>に\n以下からランダムで\nキャラを滞在させます。=<color%3Dorange>Selected Room</color> will be occupied by a random character.
+<color\=orange>『選択した空席』</color>に\n以下からランダムで\nキャラを滞在させます。=<color\=orange>Selected Room</color> will be occupied by a random character.

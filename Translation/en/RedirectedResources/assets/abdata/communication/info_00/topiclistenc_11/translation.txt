@@ -1,37 +1,37 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.2 (KoikatsuSunshine) by KKS_TextDump v1.4.5.1
 //
-//「あなたは、<color%3Dyellow>シュノーケリング</color>に興味あるかしら？」=
+//「あなたは、<color\=yellow>シュノーケリング</color>に興味あるかしら？」=
 「お魚を眺めながら綺麗な海を泳げて、とてもワクワクするのよね～」=“Swimming along the beautiful ocean while looking at all the fishies is very heart racing, isn't it~?”
-//「もう<color%3Dyellow>トレッキング</color>は体験してみた？」=
+//「もう<color\=yellow>トレッキング</color>は体験してみた？」=
 「うふふ、気軽に楽しめるから、みんなにおすすめしてるの」=“Ufufuh, I recommend it to everyone, it's such a peaceful way of enjoying the time.”
 「あらあら、あなたはそれが好きなのね」=“Oh my, so that's what you like, huh?”
 「ふふっ。そっちも楽しいわよね～」=“Fufuh--. That's fun too, isn't it~”
 「あら……よかったら、挑戦してみてほしいわ」=“Oh my... I'd love for you to try it sometime.”
 「あなたも楽しめると思うから、機会があったらやってみてね」=“I think you'd enjoy yourself a lot too, so if you get a chance, try it out, okay?”
-//「島を歩いてる<color%3Dyellow>水牛</color>ちゃん、可愛いわよね～」=
+//「島を歩いてる<color\=yellow>水牛</color>ちゃん、可愛いわよね～」=
 「あのつぶらな瞳が特にキュートだわ♪」=“Especially those big round eyes, they're the cutest part♪”
-//「<color%3Dyellow>マングローブ</color>林って、眺めてるだけでも楽しいわよね～」=
+//「<color\=yellow>マングローブ</color>林って、眺めてるだけでも楽しいわよね～」=
 「鳥さんカニさんお魚さん……色んな子が暮らしてるんだけど、どの子も可愛いわ」=“Birdies, crabies, and fishies... they all live together in there, but all of them are adorable.”
-//「この島にも、<color%3Dyellow>パワースポット</color>はあるのね」=
+//「この島にも、<color\=yellow>パワースポット</color>はあるのね」=
 「全国にどのぐらいあるのかしら？　調べてみたら、面白いかもしれないわね」=“I wonder how many there are in the whole country? The answer might be pretty fun.”
-//「ここの<color%3Dyellow>星空</color>はとても綺麗よね……」=
+//「ここの<color\=yellow>星空</color>はとても綺麗よね……」=
 「一番お星様が綺麗に見えるスポットはどこかしら？　見つけたら、あなたにも教えてあげるわ」=“I wonder where the best spot on this island is, to view the stars up above. If I find it, I'll take you there too.”
 「ふふふ、それも素敵だと思うわ～」=“Fufufuh, I think that's wonderful too~”
 「分かるわ。本当に見どころがたくさんあるわね～」=“I feel you. There's so many things to look at here, aren't there~”
 「あんまり興味ないかしら？　でも、きっとあなたも好きになると思うわ」=“Not all that interested? But, I'm sure you'll grow to love it too.”
 「あら……私の伝え方がよくなかったのかしら」=“Oh my... was my way of expressing it the issue?”
-//「<color%3Dyellow>サンゴ</color>は今でも新種が発見されたりするんですって」=
+//「<color\=yellow>サンゴ</color>は今でも新種が発見されたりするんですって」=
 「全部でどのぐらいのサンゴがこの島にはいるのかしら？　みんなに会ってみたいわ～」=“I wonder how many species exist just on this island alone? I wanna see them all once~”
-//「<color%3Dyellow>クマノミ</color>って、本当にイソギンチャクとずっと一緒にいるのね」=
+//「<color\=yellow>クマノミ</color>って、本当にイソギンチャクとずっと一緒にいるのね」=
 「仲良く暮らしていて、なんだか微笑ましいわ～」=“The way they get along so well brings a smile to my face~”
 「うふふ、その子たちも素敵ね～」=“Ufufuh, those are wonderful too~”
 「あら？　あなたは、その子が好きなのね」=“Oh? So you like those, huh?”
 「あなたにも分からないことがあるのね～。今度調べてみるといいわ」=“So even you don't know some things, huh~? Look into it sometime.”
 「島の海について調べてみるといわ。楽しいからおすすめよ」=“Look into this island's sea sometime. I recommend it, it's very fun and interesting.”
-//「あなたはこの島の<color%3Dyellow>名物料理</color>の中でなにが好きなの？」=
+//「あなたはこの島の<color\=yellow>名物料理</color>の中でなにが好きなの？」=
 「私はやっぱりゴーヤチャンプルーかしら。ゴーヤの苦みがアクセントになって美味しいのよね～」=“For me, I suppose it'd be the bitter gourd chanpuru. The way that it makes the bitterness into an accent of the dish is really tasty, isn't it~”
-//「<color%3Dyellow>紅型</color>の小物をプレゼントされたら、あなたは嬉しいかしら？」=
+//「<color\=yellow>紅型</color>の小物をプレゼントされたら、あなたは嬉しいかしら？」=
 「本をよく読んでいる子だから、ブックカバーあたりにしようかと思ってるの」=“I know you read a whole lot so, I was thinking of getting you a book jacket.”
 「そっちも素敵よね～。やっぱり悩ましいわ」=“That's wonderful too, isn't it~? It really is so alluring.”
 「うふふ、それがあなたのおすすめね」=“Ufufuh, so that's what you recommend, huh?”

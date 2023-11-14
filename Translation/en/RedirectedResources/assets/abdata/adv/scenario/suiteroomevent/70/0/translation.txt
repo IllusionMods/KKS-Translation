@@ -12,7 +12,7 @@
 「さすがに宿泊するとなると、すごいお値段になっちゃうんですが……なんと！」=“As you can imagine, if we were to stay overnight, it would be incredibly expensive... what a deal!”
 「休憩だけなら、やすーくご利用できるキャンペーンを行ってるんですっ！」=“We're running a campaign to make it easy for you to just take a break!”
 「とってもお得なキャンペーンなので、この機会にいかがですか？」=“We're offering a great deal, so why not take advantage of it?”
-「もし、ご利用いただく場合は、ショップから<color%3D#ffa801ff>スイートルーム利用券</color>を購入してくださいね」=“If you wish to use the suite, please purchase a <color%3D#ffa801ff>suite room ticket</color> from the store.”
+「もし、ご利用いただく場合は、ショップから<color\=#ffa801ff>スイートルーム利用券</color>を購入してくださいね」=“If you wish to use the suite, please purchase a <color\=#ffa801ff>suite room ticket</color> from the store.”
 「説明は以上になります！　私も一回だけ行ったことがあるんですけど、とってもいい所でしたよ」=“That's all I have to say!　I've been there once myself, and it was a very nice place.”
 「あなたも気に入ると思うので、本当にオススメです！」=“I really recommend it because I know you'll love it too!”
 「それじゃあ、私は仕事に戻りますね。何かあったらいつでも声をかけてくださいっ」=“I'll get back to work then. If you need anything at all, please feel free to call on me.”
