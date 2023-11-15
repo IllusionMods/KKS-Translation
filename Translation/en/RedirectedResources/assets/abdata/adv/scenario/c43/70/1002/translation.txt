@@ -3,7 +3,7 @@
 //
 「卓球台があるよ。よかったらやっていかない？」=“They've got a ping pong table. Wanna try it out?”
 「おっしゃ～～、もう一勝負行こか！」=“Aight~~, time for a round then!”
-「…………」=“...”
+「…………」=“......”
 「なんか言いたいことありそうやん……？　言うてええで」=“Ya seem like yer itchin' ta say somethin'... Just go ahead.”
 「いや、そんなに自信満々な態度で構えなのに、全然下手っぴだなーって」=“No well, you just went into that so confidently, I didn't think you'd be that bad at it, you know?”
 「別にええやん。勝負にはハッタリも必要やしな」=“Eh that's fine. Bluffin's part of any game too.”

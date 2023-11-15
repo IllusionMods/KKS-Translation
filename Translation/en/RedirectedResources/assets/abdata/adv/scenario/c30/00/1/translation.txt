@@ -4,7 +4,7 @@
 「ふーん？　そんなに私の事、好きなんだ」=“Hmmm? You like me that much, huh?”
 「あぁ、勿論本気だよ」=“Yeah, I'm very serious.”
 「ふふっ、大丈夫よ。キミの本気、ちゃんと伝わってるから」=“Fufuh--, don't worry. I can tell that much just fine.”
-「………………」=“...”
+「………………」=“.........”
 「答えは……うん、いいよ。これからもよろしくお願いね？」=“My answer's... yep, it's a yes. Take care of me, okay?”
 「っ！　ありがとう……！」=“--! Thank you...!”
 「こらこらはしゃがないの。これからもっと楽しいことしていくんだし、ね？」=“C'mon, don't let the excitement get to your head. There's gonna be even more fun stuff from here on out, you know?”

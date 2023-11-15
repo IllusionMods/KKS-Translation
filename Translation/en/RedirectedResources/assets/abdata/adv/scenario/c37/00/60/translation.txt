@@ -7,4 +7,4 @@ SELECTION:「……」=...
 「どうしたの？」=“What's wrong?”
 「失礼します」=“Do excuse me.”
 「どうしてもあなたを求めたくて来てしまいました。私の我儘をお許し下さい」=“I came since I just couldn't help but want you. Please forgive my wilfullness.”
-「………………」=“...”
+「………………」=“.........”

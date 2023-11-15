@@ -12,7 +12,7 @@
 「あはは、そう言われると照れるね。それじゃ飲もうか」=“Ahahah, now you're gonna make me blush. C'mon, let's go for it.”
 [P名]・[H名]=[P名] - [H名]
 「「Ｒｅａｄｙ，ｓｅｔ，ｇｏ！」」=Ready, set, go!
-…………=...
+…………=......
 「Ｆｏｏｏｏ♪　アハッ、ｂｅ　ｓｔｉｌｌ　ｍｙ　ｂｅａｔｉｎｇ　ｈｅａｒｔ♪　まだムネがｄｏｋｉ　ｄｏｋｉしてるヨ♪」=“Fooooh♪ Ahah--, be still my beating heart♪ It really won't stop pounding♪”
 「飲んでる最中に[H名]がウィンクしてくるから俺もドキドキしちゃったよ」=“You went and winked right at me when we were drinking it too, so mine won't either.”
 「フフフ♪　アナタもｄｏｋｉ　ｄｏｋｉ♡　ふたりでｈａｐｐｙダネ♡」=“Fufufuh♪ Yours is too, huh♡ We're so happy together, huh♡”

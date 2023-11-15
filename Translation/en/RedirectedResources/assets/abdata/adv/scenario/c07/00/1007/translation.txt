@@ -9,7 +9,7 @@
 「ぅ……さすがに南国だけあって、南国っぽい魚が多いな」=“Uu... there's a whole lot of southern looking fish in here, huh? I guess because it's a southern island.”
 「南国っぽいって、マンタとか？」=“You mean like mantas and whatnot?”
 「おお、マンタもいるかもしれないな。探そうぜ」=“Ooh, there might be those in here for sure. Let's go look for 'em.”
-…………=...
+…………=......
 「おー、でっかい亀……見ろよ？　顔が仙人っぽいぞ。人間の言葉とか喋りそう」=“Ooh, what a big turtle... look. It looks like a mountain hermit. Feels like it's gonna start talking to us.”
 （マンタ探すのでは……）=(Weren't we looking for mantas...)
 「よく見たら亀の大群じゃん。亀って意外とスイスイ泳ぐんだな」=“Now that I'm looking, ain't it a whole turtle herd? Turtles swim pretty smoothly, don't they? Never coulda imagined.”

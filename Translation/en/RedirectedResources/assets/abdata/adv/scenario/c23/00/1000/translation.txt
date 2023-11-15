@@ -11,7 +11,7 @@
 「そっか。テンションがそこまで高くなるくらい喜んでくれて嬉しいよ」=“I see. I'm glad you're that into it.”
 「じゃあ、早速飲んでみようか？」=“Well then, wanna go for it?”
 「ガッテン承知！」=“Roger that!”
-…………=...
+…………=......
 「……まいった。何これ、めちゃくちゃ恥ずかしいですぞ」=“...Damn. What is this, it's super embarrassing.”
 「そう、だね。俺もここまでとは思わなかったよ……」=“It, sure is. I didn't think it'd be this intense myself...”
 「あなたの顔が目の前にあるし、息遣いもハッキリと伝わってくるし……」=“I can see your face right up close, and feel your breathing too...”

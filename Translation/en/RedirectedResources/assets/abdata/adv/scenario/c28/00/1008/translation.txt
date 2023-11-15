@@ -9,7 +9,7 @@
 「そう……だね、大きさもふわふわ飛んでるあの蛍と同じくらいかな？」=“Yeah... I'd say they're about as big as those softly floating insects too?”
 「うむ、かもしれぬ」=“Umu, perhaps.”
 「この光の粒、ひとつひとつが命なのじゃな……」=“Each of these lights, is a life, isn't it...”
-「…………」=“...”
+「…………」=“......”
 「見よ、懸命に瞬いておる。このほの暗い世界で己の存在を主張しようとするかのようじゃ」=“Look, they are twinkling so brightly, making their existence known to this dark and gloomy world.”
 「俺はここにいるぞー、って？」=“I'm right here, you know!?”
 「ふふ、私かもしれぬぞ」=“Fufuh, you never know, it could be 'watashi' instead.”

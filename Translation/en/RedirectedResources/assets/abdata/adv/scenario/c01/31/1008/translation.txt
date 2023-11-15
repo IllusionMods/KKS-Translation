@@ -33,7 +33,7 @@
 「それじゃ、少し静かにしてようか」=“Well then, let's be quiet for a bit then.”
 「はい……静かに二人で、海ほたるさん達を眺めさせてもらいましょう……」=“Yes... let's just quietly, gaze at the sight of them glittering...”
 「……綺麗だ」=“...So beautiful.”
-「………………」=“...”
+「………………」=“.........”
 「…………[H名]、愛してるよ」=“...[H名], I love you, dearly.”
 「へっ！？　あぅ……不意打ちは反則です……」=“Heh--!? Auu... that's unfair...”
 「はは。[H名]の顔、真っ赤に光ってる。海ほたると一緒だね」=“Hahah. Your face is glowing red, [H名]. You got your wish, you're one of them now.”

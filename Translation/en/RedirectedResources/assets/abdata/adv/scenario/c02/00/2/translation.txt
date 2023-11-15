@@ -34,7 +34,7 @@
 「今で十分幸せですわ。これ以上わたくしを幸せにすることができまして？」=“I'm plenty happy as it is. Do you think you have what it takes to make me happier than I already am?”
 「う……どうだろう？　でも頑張るよ」=“Uu... I don't know. But I'll do my best.”
 「当然ですわ。ですが、あなたの力だけでは難しいでしょう」=“Of course you will. However, it will be difficult with only your strength alone.”
-「…………」=“...”
+「…………」=“......”
 「だからわたくし達を幸せにするため、全力を尽くしますわ……せいぜい覚悟することね」=“Thusly, I shall also endeavour with my all, to make our lives happy... do prepare yourself.”
 「負けないよ。俺が、俺と[H名]を幸せにしてみせる……俺の力でね」=“Don't worry, I won't lose to you. I'll definitely, make us both happy together... with my own power.”
 「ふふふ、意地っ張りですわね。ですが、努力は大切ですわ」=“Fufufuh, what a stubborn man. However, effort is important in all things.”

@@ -27,7 +27,7 @@
 「そ、そうですよね……すみません、では……静かに聞いています」=“O-Of course... I'm sorry. Well then... I'll simply listen.”
 「俺……[H名]のことが好きなんだ。真面目なところも、それでいて少しだけ抜けているようなところも」=“I... am in love with you, [H名]. I love your serious side, and your slightly ditzy side too.”
 「全部好きなんだ。だから……俺と付き合ってほしい」=“I love all of you. So... I want you to go out with me.”
-「…………」=“...”
+「…………」=“......”
 「返事は……今すぐじゃなくてもいいけど、聞かせてくれると嬉しい」=“You don't... need to answer it right now, but I'd love it if you could.”
 「……その……返事はもう……決まっています」=“...Uhm... my answer is... already set in stone.”
 「そ、そっか……じゃあ、お願いします……」=“I-I see... then, please...”

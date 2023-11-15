@@ -93,7 +93,7 @@
 「ロマンチック、かぁ……まあ、そうかも」=“Romance, huh... well, maybe.”
 「恋愛は苦悩がつきもの。簡単に成就できれば、それに越したことありませんわ！」=“Love entails struggle. If there was a way to fulfil it without it, who would not want a piece of that!”
 「そういう言い方、全然ロマンチックじゃないなぁ……」=“That doesn't sound romantic at all though...”
-「………………」=“...”
+「………………」=“.........”
 「いかがなさいまして？　黙って考え事してると、少し不気味ですわ」=“What seems to be the matter? The sight of you brooding is quite ominous, to say the least.”
 「ぶ、不気味って……ただ考え事してただけなのに……」=“O-Ominous... I was just lost in thought...”
 「あら失敬……いったい何を考えていらっしゃったの？」=“Oh my, I apologise... just what were you thinking of?”

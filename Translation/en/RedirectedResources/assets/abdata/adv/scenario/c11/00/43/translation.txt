@@ -4,6 +4,6 @@
 「三線を弾きながら歌えたら、カッコいいと思う？」=“Do you think it'd be cool, to sing while playing these?”
 「ええ！　私はとっても素敵だと思うわ！」=“Yes! I think it'd be very lovely!”
 「よしっ……それじゃあ、頑張ってみるよ！」=“Alright--... I'll try it!”
-…………=...
+…………=......
 「くっ……三線より、歌の方が難敵だったとは……」=“Kuh--... to think singing would be a tougher beast, than the sanshin itself...”
 「この島の昔の方言だもの、仕方がないと思うわ」=“It's this island's traditional dialect, you couldn't have helped it if you wanted.”

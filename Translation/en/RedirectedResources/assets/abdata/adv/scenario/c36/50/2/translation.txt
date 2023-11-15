@@ -21,7 +21,7 @@
 「嫌よ」=“No.”
 「うぐっ……ま、また、即答……」=“Uguh--... a-another quick answer...”
 「せっかく、一世一代のつもりで勇気を出して告白したのに……」=“I finally managed to, gather the courage too...”
-「…………」=“...”
+「…………」=“......”
 「でも、そうね。貴方次第では例外を作ってあげてもかまわないわ」=“But, I suppose I don't mind making an exception this once, if you're willing.”
 「本当！？」=“You mean it?!”
 「ええ、こんなことで嘘は吐かないわよ」=“Yes, I wouldn't lie about this.”

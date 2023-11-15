@@ -22,5 +22,5 @@
 「別にお世辞とかじゃなくて……ぶっちゃけると、さっきから[H名]しか目に入ってないよ」=“It wasn't flattery or anything though either... if I'm being honest, you're the only thing I've been able to look at, for a bit now.”
 「アタシも嫌がってはないから……その、照れ隠しで……だから……ありがと」=“It's not like I didn't like it or anything either... it's uhm, I'm just being shy... so... thanks.”
 「こちらこそ？　っていうのも変か。えーっと……」=“You're very welcome? No, I guess that's pretty weird. Erhm...”
-「…………………………」=“...”
+「…………………………」=“...............”
 （黙っちゃわないでください……）=(Please don't pick that point to shut up...)

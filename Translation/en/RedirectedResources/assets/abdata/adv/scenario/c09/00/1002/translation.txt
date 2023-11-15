@@ -8,7 +8,7 @@
 「ふっふっ、驚くのはこれからよ！」=“Fufuh--, save your surprise for what's coming!”
 「５点先取ね。負けたらジュースおーごりっ♪」=“First to 5 points wins. Whoever loses buys the other juice--♪”
 「ちょ、後出しでズルい……っ！」=“Wha--, that's unfair, you shoulda mentioned that earlier...--!”
-「…………………………」=“...”
+「…………………………」=“...............”
 「で、弱いってどういうことなの？　５対０で俺が勝っちゃったよ」=“So, what was all that posturing for? I won 5-0 there.”
 「経験者だったなんてずるい。あたしのことハメたわね」=“That's so unfair, you already knew how to play. I got set up.”
 「ちょっとやったことがあるくらいだよ」=“I've played a game or two before, not much more than that.”
