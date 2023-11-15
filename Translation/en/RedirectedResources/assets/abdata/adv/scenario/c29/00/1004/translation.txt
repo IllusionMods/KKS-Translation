@@ -3,7 +3,7 @@
 //
 「ねぇ、ちょっと散歩しない？」=“Hey, wanna go for a bit of a walk?”
 「何度来ても、素敵なビーチだよね」=“No matter how many times we come here, this beach is always beautiful, isn't it?”
-「…………」=“...”
+「…………」=“......”
 「あれ？　ノーリアクション……どうかしたの？」=“Huh? No reaction... something wrong?”
 「あ、いえ、色々と思うことがありまして……」=“Ah, no, I'm just thinking a lot at the moment...”
 「……それ、不吉な言い方だね……その切り出し方って、だいたい嫌な流れになりそうなんだけど……」=“...That sounds pretty ominous... I feel like this conversation's gonna head in a bad direction...”

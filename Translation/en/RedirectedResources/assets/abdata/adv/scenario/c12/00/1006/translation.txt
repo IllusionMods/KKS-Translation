@@ -6,7 +6,7 @@
 「え？　まさか鳴らさないの？」=“Eh? We're not ringing it?”
 「別に鳴らしてもいいよ。せっかく恋人っぽいところにいるんだし」=“I mean I don't really mind. We came all the way to this lovey dovey place too.”
 「そうだね、じゃあ、鳴らしてみようか」=“Yeah, we did. Let's ring it then.”
-「…………」=“...”
+「…………」=“......”
 「……いい音だな。けど、この場合、どうなるんだ？」=“...That's a nice ring. But, what's gonna happen now?”
 「どうなるんだろうね」=“I wonder.”
 「まさか……別れることになったりしないよな？」=“We're not... gonna be made to split up or anything, right?”

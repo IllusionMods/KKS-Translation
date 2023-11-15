@@ -11,7 +11,7 @@
 「なるほど、それはありそうかも」=“I see, that does make a whole lot of sense, for sure.”
 「だとしたら本当にそういう効果がありそうだね」=“But if so, then it really might have that sort of an effect.”
 「は、はい……」=“Y-Yes...”
-「…………」=“...”
+「…………」=“......”
 「ん？　どうかした？」=“Nn? Something wrong?”
 「い、いえ、何でもない……んですけど……」=“N-No, not at all... well...”
 「けど……なんだろ？　何か言いたいことでもあったかな？」=“Well... what? Is there something you want to say first?”

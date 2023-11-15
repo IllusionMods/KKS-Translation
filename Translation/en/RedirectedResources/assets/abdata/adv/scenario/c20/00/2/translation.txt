@@ -3,7 +3,7 @@
 //
 「好きだっ、付き合って欲しい！」=“I love you--, I want you to go out with me!”
 「……えっ？」=“...Eh--?”
-「…………」=“...”
+「…………」=“......”
 「えええっ！？　な、なななな、なにを……え？　えええっ！？」=“Eeeeh--!? W-W-W-W-Wha, what are you... eh? Eeeh--?!”
 「ご、ごめん。さすがにいきなり過ぎたかな？」=“S-Sorry. I guess that really was a bit too out of nowhere?”
 「告白しようって思いが先走っちゃったよ……」=“My desire to confess to you ran out ahead of me...”

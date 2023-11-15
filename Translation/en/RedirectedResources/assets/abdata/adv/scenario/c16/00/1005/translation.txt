@@ -22,6 +22,6 @@
 「……アナタにそうやってはしごを外されたら、私がはしたないみたいじゃない」=“...Why'd you have to go and become serious there? Now I'm the one who looks indecent for thinking that way.”
 「あはは。可愛いね、[H名]は」=“Ahahah. You're really adorable, you know that?”
 「もう……いいわ。私も真似するから」=“Jeez... Alright then. I'll just copy you too.”
-「…………」=“...”
+「…………」=“......”
 「……上書き、成功したかな？　音楽が耳に入らなくなってきた」=“...So, are those memories overwritten yet? The music's not reaching my ears anymore.”
 「ええ。……アナタも私から目を逸らさないで」=“Yes. ...Don't take your eyes off me either.”

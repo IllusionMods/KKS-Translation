@@ -4,7 +4,7 @@
 「…………好きだよ」=“...I love you.”
 「お？　……おー」=“Oh? ...Oh.”
 「そんな反応？　ごめん、も、もしかしてよく聞こえなかったとかかな」=“What, just that? Sorry, m-maybe you didn't catch me or something.”
-「…………………………」=“...”
+「…………………………」=“...............”
 （黙っちゃってるけど……）=(She's not saying anything...)
 「もう一度言うね？　俺は……[H名]のことが好きなんだ」=“I'll say it one more time, okay? I... love you, [H名].”
 「……あははははー」=“...Ahahahahah~”

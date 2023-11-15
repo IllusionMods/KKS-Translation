@@ -4,7 +4,7 @@
 「好きだよ」=“I love you.”
 「……えっ？」=“...Eh--?”
 「好きだ。俺と……恋人としてお付き合いして欲しい」=“I love you. I want you to... go out with me, as my girlfriend.”
-「…………」=“...”
+「…………」=“......”
 「な、なんだか……そんな感じ？　俺としてはかなり本気で、覚悟を決めてたんだけど」=“I-I guess... you don't think I mean it? I'm pretty serious though, I made up my heart and everything.”
 「そ、それは分かってるけれど……私、なにか変だった？」=“I-I get that... did I seem weird there?”
 「あんまり驚いた感じじゃなかったからさ……もしかして態度でバレバレだったかな？」=“Well, you didn't seem very shocked there... Was it obvious from the way I was acting, or something?”

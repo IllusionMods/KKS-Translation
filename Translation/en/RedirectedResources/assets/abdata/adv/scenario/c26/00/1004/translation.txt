@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「潮風が気持ちいいね。ちょっと歩いていこうか」=“The sea breeze feels really nice, doesn't it? How about we go for a walk?”
-「…………………………」=“...”
+「…………………………」=“...............”
 「何かいた？　珍しい鳥とか」=“You see something? A rare bird or something else maybe.”
 「へ？　あ……ぼーっとしてるように見えた……？」=“Heh? Ah... did I look like I was spacing out...?”
 「ただ……波の音を聞いてたの。それだけ」=“I was just... listening to the sound of the waves. That's all.”

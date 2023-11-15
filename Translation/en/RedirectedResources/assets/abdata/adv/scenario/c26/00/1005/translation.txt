@@ -14,7 +14,7 @@
 「意地悪って心外だよ。俺達は恋人で……こういうムードなんだしさ」=“You wound me. We're lovers... and we're in a mood like this.”
 「あ……そっか」=“Ah... right.”
 「意識しちゃうよ。今だって、[H名]が思ってるよりずっとドキドキしてる」=“Of course I'm gonna feel more aware of you. Even now, my heart's pounding more than you can imagine.”
-「…………………………」=“...”
+「…………………………」=“...............”
 （黙っちゃった……）=(She went quiet...)
 「……呆れちゃう？　全然ムードが読めない、こんな私で」=“...Do I make you feel fed up? With the way I am, the way I can't read the mood at all.”
 「さっき言ったよ？　可愛いって」=“I said it just now, didn't I? You're lovely to me.”

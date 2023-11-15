@@ -7,7 +7,7 @@
 「……まあ、思い出にはなるかな」=“...Well, it'll make for a memory, if nothing else.”
 「格好つけてないで行きましょ？　いいとこ取られちゃう」=“Don't put on airs, let's just join in? They'll take all the good spots.”
 「ペアは組めたでしょうか？　……では、準備が出来次第、音楽をかけますね」=“Have you all broken into pairs? ...Well then, once the prepwork is complete, I shall put on the music.”
-「…………」=“...”
+「…………」=“......”
 「おっとと、ごめん」=“Woah, sorry.”
 「え？　ごめんって何が……あ、さてはあたしの髪の匂いとかこっそり嗅いでたんでしょ。変態」=“Eh? Sorry for wha... ah, you were sniffing my hair in secret, weren't you? You perv.”
 「足踏んじゃいそうだっただけだって！　なんで、目の前なのに気付いてないの？」=“It was because I almost stepped on your foot, dummy! How did you not even notice, I'm right in front of you here.”

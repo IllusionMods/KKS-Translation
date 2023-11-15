@@ -1,7 +1,7 @@
 //
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
-「………………」=“...”
+「………………」=“.........”
 「ど、独創的なクマだね……」=“T-That's a creative looking bear...”
 「……シーサー」=“...It's a lion.”
 「あ、う、うん、かわいいシーサーだね！」=“Ah, y-yeah, a very cute lion!”

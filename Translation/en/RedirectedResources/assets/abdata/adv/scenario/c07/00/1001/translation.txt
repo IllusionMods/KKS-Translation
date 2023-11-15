@@ -14,7 +14,7 @@
 「よ、よせこの野郎！　アイスの味がわからなくなっちゃうだろ」=“S-Stop it, you dumbass! I'm not gonna be able to taste the ice cream if you keep that up.”
 「[H名]は可愛いなぁ」=“You're so adorable, [H名]”
 「まったく。すぐ、そうやってごまかすんだからな……」=“Jeez. You always gloss over things like that...”
-…………=...
+…………=......
 「はあっ。いいなぁ、こういう時間」=“Haah--. Just spending time like this, is so nice~”
 「こういうって？」=“Like this?”
 「隣に[H名]がいて、二人でのんびりしてる時間のこと」=“Having you next to me, and just taking it easy together like this.”

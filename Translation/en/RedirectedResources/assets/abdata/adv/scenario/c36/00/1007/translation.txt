@@ -2,7 +2,7 @@
 // Dumped for Koikatsu Sunshine v1.0.1 (KoikatsuSunshine) by KKS_TextDump v1.4.5.0
 //
 「[H名]さん、深海魚の水槽があるみたいだよ」=“[H名]-san, there's a fishtank with deep sea fish.”
-「…………」=“...”
+「…………」=“......”
 「[H名]さん？　そんなに囓りついてなにを見てるの？」=“[H名]-san? What're you staring at with that scary expression?”
 「別に……なかなか興味深いと思っていただけよ」=“Nothing... I just thought it was pretty interesting.”
 「小魚の群れが？　えっと、この魚の種類は……」=“This school of small fish? Erhm, this fish is...”

@@ -13,7 +13,7 @@
 「ありがとう、嬉しいよ[H名]さん」=“Thank you, I'm so happy, [H名]-san.”
 「それじゃ、さっそく頂いてみようかしら」=“Well then, I suppose it's time to drink.”
 「う、うん……」=“O-Okay...”
-「…………」=“...”
+「…………」=“......”
 「……あれ？　飲まないの？」=“...Huh? You're not drinking it?”
 「貴方ねぇ。下僕のくせに、何をジッと人の唇を見ているのよ」=“Say, manservant. Do you think you've got the standing to stare at someone's lips?”
 「そんな暇があったら、さっさと下僕もストローに口をつけて飲みなさい」=“If you're that free then put your straw in your mouth and start drinking already.”

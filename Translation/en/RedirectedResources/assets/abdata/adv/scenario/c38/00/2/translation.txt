@@ -14,7 +14,7 @@
 （照れてる[H名]、可愛いな。この流れのまま、はっきり伝えよう）=(She's so adorable when she blushes like that. Alright, let's keep this going and tell her.)
 「あのさ、[H名]。実は……大切な話があるんだ」=“Listen, [H名]. The truth is... I've got something important to say.”
 「え……大切な話……？　えぇっと……ど、どういうお話でしょうか……？」=“Eh... something important...? Eerhm... w-what could it be...?”
-「…………」=“...”
+「…………」=“......”
 「……好きだ」=“...I love you.”
 「っ……えっ！？　えぇっとっ……そのっ……あのっ……ま、待ってください。今、何て仰いましたか？」=“--! ...Eh--!? Eerhm--... uhm--... uhm--... p-please wait. What did you say just then?”
 「俺は……[H名]のことが好きなんだ！」=“I am... in love with you, [H名]!”

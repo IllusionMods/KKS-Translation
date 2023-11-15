@@ -5,7 +5,7 @@
 「これは……インパクト大なのですよ」=“This is... impact to the max.”
 「むしろインパクトしかないというか……その泡盛Ｔシャツ買うの？」=“Yeah, only impact and nothing else... are you really gonna buy that Awamori t-shirt?”
 「私に似合うと思うです？」=“Do you think it'll look good on me?”
-「…………」=“...”
+「…………」=“......”
 「部屋着なら大いにありだと思う」=“I think it could work pretty well as loungewear.”
 「予想外の返事なのです！　で、でも買うのには勇気がいるですよー？」=“I did not expect you to go with that! B-But but, buying it's gonna take a whole lot of courage, you know~?”
 「……それは暗に、俺にも買わせてペアルックにしようと思ってる？」=“...Are you trying to make me buy it too? So that we can wear it together?”

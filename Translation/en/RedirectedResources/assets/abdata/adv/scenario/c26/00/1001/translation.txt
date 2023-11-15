@@ -3,7 +3,7 @@
 //
 「ここでちょっと休んでいこうよ」=“Let's take a break here and relax.”
 「うん、冷たくておいしい」=“Yep, it's cold and tasty.”
-「…………………………」=“...”
+「…………………………」=“...............”
 「どうしたの？　おいしいよ」=“What's wrong? It's tasty.”
 「……そう」=“...I see.”
 「そうって……あ、もしかしてそのアイス好みじゃなかった？　甘いものは苦手とか」=“I see... ah, do you not like that ice cream? Or just sweet things in general.”

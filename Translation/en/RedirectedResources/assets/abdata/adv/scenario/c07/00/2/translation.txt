@@ -6,7 +6,7 @@
 「好きだって言ったんだよ」=“I said I love you.”
 「……マジで？」=“...For real?”
 「うん、マジの大マジ。[H名]さえよかったら、俺と付き合って欲しい」=“Yep, real as it gets. If it's alright with you, [H名], I want you to go out with me.”
-「…………………………」=“...”
+「…………………………」=“...............”
 「なんで目を丸くしちゃってるのさ」=“What're you making such wide eyes at me for?”
 「だってお前、い、いきなりそんな……す、好きってあれだろ？　恋人とかそういう意味の……」=“I mean, y-you suddenly... y-you mean that sorta love, right? The romantic sort, with the couples and junk...”
 「いきなりってことはないでしょ。この島に来てから、俺達さ……」=“It wasn't that sudden, I'm pretty sure. I mean, ever since we came to this island, you and I have been...”

@@ -10,8 +10,8 @@
 「はは、そうだね」=“Hahah, yeah.”
 「いい音ですね。辺りに響き渡っています……」=“What a nice sound. I can feel it echoing...”
 「うん、いい音だね」=“Yep, it is very nice.”
-「…………」=“...”
-「………………」=“...”
+「…………」=“......”
+「………………」=“.........”
 「……何か変化はあったでしょうか？」=“...Did anything change, I wonder?”
 「いやぁ、特には……」=“No, I don't really feel...”
 「で、では、もう一度鳴らしてみましょう」=“W-Well then, let's ring it once more.”

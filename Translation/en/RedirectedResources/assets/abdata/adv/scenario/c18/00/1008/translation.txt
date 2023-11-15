@@ -11,7 +11,7 @@
 「でも、私も[P名]さんと一緒に流れ星を見られてすごく嬉しいです」=“But, I am very happy as well, to be able to see such pretty shooting starts together with you.”
 「ははっ、ごめん。でも、それが俺の素直な気持ちだから」=“Hahah--, sorry. But it's how I really feel from within, you know.”
 「それは嬉しいですけど……」=“That does make me happy, but...”
-「…………」=“...”
+「…………」=“......”
 「そ、その、私も[P名]さんと同じ気持ちです。素直に、嬉しいと思ってますから」=“I-I uhm, I feel the same way as you. I am very happy inside, I really am.”
 「こんな私を恋人にしてくれて……。ありがとう、ございます」=“Thank you, so much... for making me yours.”
 「[H名]……。は、はは、なんだろこれ」=“[H名]... H-Hahah, man, what is this?”

@@ -10,7 +10,7 @@
 「いや、だから、そうじゃないってば！　いいから聞いて！」=“No, like I said, it's not that, dummy! Just listen to me for a bit!”
 「は、はい……失礼しました。ええっと……では、お願いします」=“O-Okay... I'm sorry. Erhm... please, go ahead.”
 「俺、[H名]のことが好きだ。付き合ってほしい」=“I love you, [H名]. Go out with me.”
-「………………」=“...”
+「………………」=“.........”
 「あれ？　無言……？」=“Huh? No response...?”
 「いえ、驚きのあまり言葉が出てこなくて……」=“No, I am just having a hard time from the shock...”
 「あまり驚いてないように見えたかもしれませんが、かなり驚いています……」=“I may not seem all that shocked to you, however I am quite shocked right now indeed...”
@@ -26,7 +26,7 @@
 「ああ……私、意味不明なこと言ってますね。すみません……」=“Aah... I'm just saying nonsensical things, aren't I? I'm sorry...”
 「いや、慌てるのはわかるよ。俺だって超緊張してるし、未だに心臓バクバクしてるし……」=“No, that's alright, you're just flustered. I was pretty darn nervous myself, even now my heart's still pounding...”
 「……少し、波の音でも聞いていようか」=“...Let's listen to the waves for a bit, alright?”
-「…………」=“...”
+「…………」=“......”
 「……ふぅ……かなり落ちつきました。では、質問しても、よろしいですか？　告白はＯＫである前提になりますが」=“...Fuuh... I feel much calmer now. Well then, would you mind if I, asked a question? Of course, with the idea that the confession is dealt with.”
 「もちろん。どうぞ」=“Of course, go ahead.”
 「あの……私なんかで、いいんでしょうか……？」=“Uhm... are you really okay, with someone like me...?”

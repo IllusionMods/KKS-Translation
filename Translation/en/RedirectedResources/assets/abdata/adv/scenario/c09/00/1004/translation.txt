@@ -8,7 +8,7 @@
 「寒いの？」=“Are you cold?”
 「まさか。暑いくらいよ！　そうじゃなくて……」=“As if. I'm almost boiling in this heat! It's not that...”
 「へぷしゅんっ」=“*sneeze*--”
-「…………」=“...”
+「…………」=“......”
 「また始まったわ。たまにあるの、潮風で鼻の奥がくすぐったくなる感じ」=“It's this again. Sometimes, the sea breeze really has its way of tickling the back of my nose.”
 「ごめん、あんまり共感できないかも」=“Sorry, I don't think I can relate at all.”
 「[P名]にそういう繊細さを求めても無駄だった、ってことね」=“I guess it was my fault for expecting you to, since you're such a burly and unsensitive man.”

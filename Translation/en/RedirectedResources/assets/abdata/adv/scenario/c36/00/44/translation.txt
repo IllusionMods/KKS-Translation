@@ -5,6 +5,6 @@
 「意気込んで挑戦したわりに無様ね。見てられないわ」=“For all your enthusiasm, you're putting up a pretty ugly sight. It's hard to watch.”
 「いや、三線は難しいんだって。[H名]さんもやってみてよ」=“No, it really is pretty hard to play. Try it yourself, [H名]-san.”
 「いいわ。私がお手本を見せてあげる」=“Alright. I'll show you how it's actually done.”
-…………=...
+…………=......
 「……どう？　これで自分のレベルの低さが分かったでしょう？」=“...So? You get how far below you are me now, right?”
 「はい……申し訳ありません、おみそれしました……」=“Yes... I'm sorry, I couldn't see Mount Tai...”
