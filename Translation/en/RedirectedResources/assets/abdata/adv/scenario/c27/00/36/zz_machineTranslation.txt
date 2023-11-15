@@ -1,6 +1,0 @@
-「さーて何しようかなぁ……」=“Now what am I going to do? ......”
-「何しようかしらねぇ……」=“What am I gonna do with ......?”
-「せっかく来たんだし、海に入ってみる？」=“Since we're here, why don't we go for a dip?”
-「え、あ、あんたと一緒に？」=“Yeah, uh, with you?”
-「そりゃぁ二人で来たんだし……？」=“Well, we're here together. ......?”
-「そ、そうよね……べ、別に気後れてるわけじゃないからね！」=“Yes, that's right. ...... I'm not being shy!”

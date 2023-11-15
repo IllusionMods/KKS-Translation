@@ -1,7 +1,0 @@
-「こういうところって、やっぱり海で獲れたてのが出てくるんだね」=“I guess places like this serve fresh from the sea.”
-「新鮮な魚介類は美味しいもんねー。生でもよし、焼いてもよしで、どれを食べるか迷っちゃうよぉ」=“Fresh seafood is delicious, isn't it? You can eat it raw or grilled, it's hard to decide which one to eat.”
-「欲張って、あれもこれもと注文したいところだけど……。[H名]はどうする？」=“I'd like to be greedy and order this and that, but I'm not... What about [H名]?”
-「うーん……決めた！　キミと同じものにする！」=“'Ummm ...... I've made up my mind!　I'll have the same as you!”
-「えっ、何それ、ずるい！」=“What? That's not fair!”
-「ずるくないもーん。それでどれを注文するの？　ほらほら、早く決めてよー」=“It's not fair. So which ones are you going to order?　Come on, come on, come on, come on, come on, come on, come on, come on, come on, come on.”
-「ぐぬぬ……ああくそっ、いっそ両方注文してやる……！」=“I'm going to order both ......!”

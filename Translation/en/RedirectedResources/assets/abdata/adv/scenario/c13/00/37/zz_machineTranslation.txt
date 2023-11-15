@@ -1,6 +1,0 @@
-「綺麗な浜辺だね」=“It's a beautiful beach.”
-「うん、海がキラキラしててすごくいい感じだよねー」=“Yeah, the sea is sparkling, it's really nice.”
-「知ってる？　島の人ってあんまり海で泳がないらしいよ」=“Do you know?　I heard that islanders don't swim in the sea very often.”
-「そうなの？　こんなに奇麗なのに？」=“Really?　It's so beautiful.”
-「浜辺はＢＢＱする場所って認識みたいだね」=“It's like they think the beach is a place for BBQs.”
-「ふぅ～ん、いっつも見てると、景色が当たり前になっちゃうのかな～」=“Hmmm, I wonder if you see it all the time, if you take the scenery for granted.”

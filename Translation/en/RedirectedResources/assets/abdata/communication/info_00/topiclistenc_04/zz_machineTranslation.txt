@@ -1,36 +1,10 @@
 「<color\=yellow>シュノーケリング</color>に興味はある？」=“Are you interested in <color\=yellow>snorkeling</color>?”
-「近くで魚を見ることが出来て、すごく楽しいの」=“It's really fun to see the fish up close.”
 「もう<color\=yellow>トレッキング</color>はやってみた？」=“Have you tried trekking yet?”
-「自然の中を歩くのが気持ち良くて、私、ちょっとはまったかも」=“It's nice to walk in nature. I think I'm a little addicted.”
-「へぇ、そのレジャーも楽しそうね」=“Wow, that sounds like a fun leisure activity.”
-「ふふ、あなたがそれが好きなのね」=“I see you like it.”
-「よかったら、あなたもやってみてほしいわ」=“I'd like to see you try it.”
-「あんまり興味ないかしら？　でも、きっとあなたも気に入ると思うわ」=“Not really interested?　But I'm sure you'll like it.”
 「<color\=yellow>水牛</color>車で移動するのって、楽しいと思わない？」=“Isn't it fun to drive around in a <color\=yellow>water buffalo</color>?”
-「のんびりとしていて、すごく心地が良いのよね」=“It's so relaxing and comfortable.”
 「私、<color\=yellow>マングローブ</color>林を見たのって初めてだったの」=“It's the first time I've seen a mangrove forest.”
-「淡水と海水か混ざってる所に木が生えてるなんて、なんだか不思議な光景よね」=“It's a strange sight to see trees growing in a place where freshwater and seawater are mixed together.”
 「この島にも、<color\=yellow>パワースポット</color>はあるのね」=“I guess there are <color\=yellow>power spots</color> on this island, too.”
-「全国のパワースポットをまわったら、不思議な力が手に入ったりしてね……ふふっ」=“If you visit all the power spots in the country, you might get some mysterious powers. ......”
 「人工的な灯りがないだけで、<color\=yellow>星空</color>はとても綺麗に見えるのね」=“The <color\=yellow>starry sky</color> looks so beautiful without artificial lights.”
-「ここへ来てから、空を眺めるのが日課になったわ」=“I've been gazing at the sky since I got here.”
-「そっちも素敵だと思うわ」=“I think it's beautiful, too.”
-「ええ、それも良いと思うわ」=“Yeah, I think it's nice, too.”
-「あなたでも、知らないことはあるのね」=“You don't know everything, do you?”
-「えっと……私の話、聞こえてなかった？」=“Well, ......, did you not hear what I said?”
 「砂浜に落ちている<color\=yellow>サンゴ</color>を見ると、南国にいることを実感するわ」=“When I see <color\=yellow>coral</color> on the beach, I know I'm in the tropics.”
-「拾って集めたいけど……禁止されているから、ルールは守らないとね」=“I'd love to pick them up and collect them, but they're ...... forbidden, so I have to follow the rules.”
 「水族館の<color\=yellow>クマノミ</color>は、もう見に行った？」=“Have you been to see the <color\=yellow>tiger bears</color> at the aquarium yet?”
-「可愛くてグッズを買っちゃったわ。クリアファイルだし、かさばらないからいいかなって」=“Have you seen the <color\=ellow>tiger bears</color> at the aquarium yet? It's a clear file. It's not too bulky, so I thought it would be nice.”
-「ふふ、可愛いと思うわ」=“Hmm. I think they're cute.”
-「あなたは、そっちに興味があるのね」=“I see you're interested in that.”
-「うーん、楽しい話題じゃなかったかしら」=“Hmm. I hope that wasn't too much fun.”
-「私の話題選びが良くなかったみたいね」=“I guess I didn't pick the right topic.”
 「ここの<color\=yellow>名物料理</color>の中では、なにが好き？」=“What's your favorite <color\=yellow>specialty food</color> here?”
-「私はタコライスかな。挽き肉とレタス、チーズの食感が癖になるの」=“I'd have to say taco rice. The texture of the ground meat, lettuce and cheese is really addictive.”
 「自分用に<color\=yellow>紅型</color>染めの小物を買おうか迷っているの」=“I'm thinking of buying some <color\=yellow> Bingata</color> dyed accessories for myself.”
-「定番のハンカチもいいけど、ブックカバーが気になってて……どっちも可愛くて決め切れないわ」=“The standard handkerchiefs are nice, but I'm curious about the book covers. ...... They're both so cute, I can't decide.”
-「へぇ、それも良さそうね」=“Oh, that sounds great.”
-「それがあなたのお勧めなのね」=“So that's what you're suggesting.”
-「えっと……そっちも楽しそうだけど、今は違う話をしてたの」=“Well, ...... looks fun too, but that's not what we were talking about.”
-「えぇと……私の話にも興味を持ってもらえたら嬉しいわ」=“Well, ......, I hope you're interested in what I have to say.”

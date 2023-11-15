@@ -1,9 +1,0 @@
-OPTION[100]:気持ちに応える=Respond to feelings
-気持ちに応える=Responding to Feelings
-OPTION[102]:もちろんいいよ！=Of course it's okay!
-もちろんいいよ！=Of course you can!
-OPTION[103]:任せて=I'll leave it to you.
-任せて=You got it.
-OPTION[105]:任せて=I'll take care of it.
-OPTION[203]:もちろんいいよ！=Of course it's okay!
-OPTION[204]:任せて=I got it.

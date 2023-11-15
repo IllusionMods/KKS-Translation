@@ -1,5 +1,0 @@
-「ここでは無料でオイルを使えるみたいですね」=“They have free oil here.”
-「うん、どうする？　折角だし使ってみる？」=“Yeah, what do you say?　Do you want to try it?”
-「そうですね。塗り手は……いないようなので、あなたに任せてしまうことになってしまいますが……」=“Yes, it is. I don't think there are any ...... painters, so I'm going to have to leave that up to you. ......”
-「むしろ俺でいいの？　喜んで塗らせてもらうけど……」=“Are you sure it's me?　I'd be happy to paint it for you. ......”
-「ふふっ、あなただから信用してるんですよ？　では、準備しますね……」=“I'm trusting you, you know?　I'll be ready for you at .......”

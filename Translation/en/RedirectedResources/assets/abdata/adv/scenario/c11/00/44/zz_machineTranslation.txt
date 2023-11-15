@@ -1,5 +1,0 @@
-「シーサーは、口を開いているのが男の子で、閉じているのが女の子よね？」=“Shisa is a boy with an open mouth and a girl with a closed mouth, right?”
-「確かそうだよ。ガイドブックに書いてたはず」=“I'm sure it is. It's in the guidebook.”
-「じゃあ、私が男の子を作るから、あなたは女の子を作ってちょうだい」=“Well, I'll make a boy, and you make a girl.”
-「それで完成したらお互いに贈り合いましょう？」=“And when it's done, we can give it to each other?”
-「いいね、それ！　[H名]にプレゼントするものだし、気合を入れて頑張るぞ」=“Great, that's it!　It's a gift for [H名], and I'm going to work hard to keep my spirits up.”

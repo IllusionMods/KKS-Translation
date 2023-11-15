@@ -1,7 +1,0 @@
-「ここって、この島では有名なパワースポットらしいよ？」=“I heard this place is a famous power spot on the island.”
-「……そう」=“...... Yeah.”
-「……やっぱり滝があるからか、他の所よりはちょっと涼しいね」=“...... Maybe it's because of the waterfall, but it's a little cooler than other places.”
-「…………ここ、あんまり好みじゃなかったかな？」=“............Not really your cup of tea, is it?”
-「あ……そういうわけじゃ……ない……」=“Oh ...... that's not ...... that's not ...... that's not ...... that's not ......”
-「その……あなたと一緒だから……少し……緊張して……」=“That ...... with you, I'm a little ...... nervous .......”
-「あー……うん、景色見ながら、そういうのにも慣れて行こっか？」=“Oh, ...... yeah, let's get used to the scenery and all that, shall we?”

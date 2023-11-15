@@ -1,4 +1,0 @@
-「ありがとうございました。おかげで肌が潤いました」=“Thank you very much. Thank you very much. My skin is moisturized thanks to you.”
-「ありがとうございます、とても気持ちよかったです」=“Thank you. That felt really good.”
-「お疲れさまでした、また機会がありましたらよろしくお願いします」=“Thank you for your time. I look forward to working with you again.”
-「残念ですが仕方ありません。またよろしくお願いします」=“It's a shame, but it can't be helped. I look forward to working with you again.”

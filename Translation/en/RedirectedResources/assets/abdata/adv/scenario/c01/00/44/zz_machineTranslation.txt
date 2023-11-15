@@ -1,5 +1,0 @@
-「三線って難しいな……ちょっと甘くみてたかも」=“Sanshin is difficult. ...... Maybe I underestimated it a little.”
-「[H名]はどう？　難しくない？」=“How's [H名]?　Not too hard?”
-「難しいですが、あと少しでコツを掴めそうです」=“It's hard, but I'm getting the hang of it.”
-「おお、すごい！　俺も頑張ろっと」=“Oh, great!　I'll do my best.”
-「ふふ、慣れたらデュエットに挑戦してみましょう」=“I'll walk with you for the rest of my life. - Hmm. Once you get used to it, we can try a duet.”

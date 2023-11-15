@@ -1,5 +1,0 @@
-「二人乗りのカヤック……？　……ああ、なるほど。貴方、私の手足になりたかったのね」=“A two-seater kayak ......?　...... Oh, I see. You wanted to be my hands and feet.”
-「そういうことなら早く言いなさい。いっぱいこき使ってあげるわ」=“If that's what you want, tell me now. If that's the case, I'll give you a hard time.”
-「えっと……何がどうなってそんな結論に至ったのか分からないけど、俺は純粋に[H名]さんとカヤックを楽しみたかったんだよ？」=“Well, ... I don't know what brought you to that conclusion, but I genuinely wanted to enjoy kayaking with [H名], okay?”
-「だから、貴方の要望に応えてあげているんじゃない。私はのんびりマングローブを眺めているから、貴方はずっと漕いでなさい」=“So I'm not giving you what you want. I'm going to relax and watch the mangroves, and you're going to keep paddling.”
-「はい……」=“Yes .......”

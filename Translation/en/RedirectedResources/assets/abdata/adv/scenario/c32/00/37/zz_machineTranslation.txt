@@ -1,4 +1,0 @@
-「この海は見ているだけでも飽きませんね」=“I never get tired of looking at this ocean.”
-「でも、折角遊びに来たんだし、何かしていこ？」=“But since we're here for fun, why don't we do something?”
-「そうですね……では、二人で一定時間で来た波の数を数えましょう」=“Well, ......, let's both count the number of waves that have come in a certain amount of time.”
-「……それ、結局眺めてるだけなんじゃ」=“...... You're just looking at it.”

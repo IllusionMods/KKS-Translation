@@ -1,5 +1,0 @@
-「うーん……何をして遊ぼうか？」=“Hmmm ......, what shall we do for fun?”
-「そうですね……バナナボートはいかがですか？」=“Yes, ...... would you like to go on a banana boat?”
-「俺はいいけど……結構スピードが出るよ？　[H名]は大丈夫？」=“I don't mind, but ... it goes pretty fast, doesn't it?　Is [H名] okay?”
-「はいっ。ちょっと怖いですけど……スリルがあって好きなんです」=“Yes. It's a little scary, but I like the ...... thrill of it.”
-「そっか。だったら一緒に乗ろう！」=“I see. Then let's ride together!”

@@ -1,6 +1,0 @@
-OPTION[100]:気持ちに応える=Respond to feelings
-気持ちに応える=Responding to Feelings
-OPTION[204]:いいよ！=All right!
-いいよ！=Okay!
-OPTION[204]:そういうのはちょっと……=Not like that ......
-そういうのはちょっと……=Not that kind of thing: ......

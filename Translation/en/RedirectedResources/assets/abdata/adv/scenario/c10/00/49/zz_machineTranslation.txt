@@ -1,8 +1,0 @@
-「魚とイカの天ぷらの盛り合わせを頼んでみたけど……」=“I ordered the fish and squid tempura platter. ......”
-「身に纏う鎧が分厚くて……どれがどれか分からぬ」=“The armor you wear is so thick you can't ...... tell which is which.”
-「こっちの天ぷらはこんなに衣が厚いんだね。まあ、どっちも美味しいだろうし気にせず食べればいいか」=“The tempura here has such a thick batter. Well, they're both delicious, so I guess I can just eat them without worrying.”
-「さっそく一つ…………これは魚だな」=“Let's start with one: ............ That's a fish.”
-「我も魚だったぞ」=“I was a fish, too.”
-「……俺もまた魚だ」=“...... I'm also a fish.”
-「我も……もしかして、注文を間違えたのではないか？」=“I'm also ...... wondering if maybe I ordered the wrong thing?”
-「それか、残りは全部イカかのどっちかだね……」=“It's either that or all the rest of the squid. ......”

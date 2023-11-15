@@ -1,7 +1,0 @@
-「ふぇっ？　わ、我のことが好きなのか！？」=“Huh?　Do you like me?”
-「うん。実はずっと惹かれていてさ……俺が相手じゃダメかな？」=“Yeah. I've been attracted to you for a long time, and I was wondering if ...... would be a good match for me?”
-「ダメなはずないよ……むしろ、私が彼女でいいの……？」=“No, you can't. ...... Are you sure you want me to be your girlfriend?”
-「もちろん。[H名]以外、考えられないよ」=“Of course. I can't think of anyone else but [H名].”
-「わ、我で良いのなら……汝と契約を交わそう」=“If it's okay with me, ...... I'll make a deal with you.”
-「この契りは不滅だからな？　もう我から離れられると思わないことだ！」=“Our bond is indestructible, you know.　Don't think you'll ever get away from me again!”
-「うん！　ずっと傍にいるよ。改めてよろしくね」=“Yes!　I'll always be by your side. I'll be here for you.”

@@ -1,6 +1,0 @@
-OPTION[100]:気持ちに応える=Respond to feelings
-気持ちに応える=Responding to Feelings
-OPTION[205]:いいね、行こう！=Great, let's go!
-いいね、行こう！=Great, let's go!
-OPTION[205]:俺はお腹空いてないよ？=I'm not hungry, okay?
-俺はお腹空いてないよ？=I'm not hungry, okay?

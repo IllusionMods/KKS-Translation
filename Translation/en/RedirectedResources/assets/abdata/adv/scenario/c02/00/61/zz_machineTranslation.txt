@@ -1,5 +1,0 @@
-「あら、ここではエステが出来るのですね」=“Oh, they do beauty treatments here, don't they?”
-「もしかして興味がある？」=“Maybe you're interested?”
-「普通のエステと何が違うのか気になりますわ」=“I'm wondering what the difference is between this and a regular beauty parlor.”
-「それじゃあ、俺がやってあげるよ」=“I'll do it for you, then.”
-「では、お手並み拝見いたしますわ！」=“Let's see what you can do!”

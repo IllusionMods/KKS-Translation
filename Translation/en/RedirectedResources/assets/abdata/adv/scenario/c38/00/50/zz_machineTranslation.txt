@@ -1,6 +1,0 @@
-「この食堂、すっごくメニューが豊富だね」=“This cafeteria has a very extensive menu.”
-「そうですね。この地域特有のお料理が多いみたいですね」=“That's true. I hear there are many dishes unique to this region.”
-「文字を読んだだけじゃ、分からないものもあるから、とりあえず頼んでみようか」=“There are some things you can't understand just by reading the words, so let's just order them.”
-「それは、中々勇気が要りますね」=“That takes a lot of courage.”
-「そういうのも、醍醐味だと思うんだけどなぁ」=“I think that's part of the fun of it.”
-「確かに、楽しそうですね……分かりました。一緒に頂きますね」=“It certainly sounds like fun. ...... I understand. I'll have some with you.”

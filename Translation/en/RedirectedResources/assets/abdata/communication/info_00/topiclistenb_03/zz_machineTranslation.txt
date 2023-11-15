@@ -1,36 +1,10 @@
 「<color\=yellow>ツリーイング</color>に興味があったりするですか？」=“Are you interested in <color\=yellow>treeing</color>?”
-「あんな風に樹の上で楽しめるなんて、テンション上がっちゃうですよね！」=“It's so exciting to be able to have fun in a tree like that!”
 「<color\=yellow>バナナボート</color>は、何回でも乗りたくなるですねっ」=“The <color\=yellow>banana boat</color> makes me want to ride it as many times as possible!”
-「他のレジャーでも遊びたいのに、つい足を運んじゃうですよー」=“Even though I want to play other leisure activities, I keep coming back.”
 「<color\=yellow>カヤック</color>がすっごく楽しいことを、ここで体験して初めて知ったのですっ」=“I didn't know that <color\=yellow>kayaking</color> was so much fun until I experienced it here.”
-「機会があったら、他の場所でも体験したいですよー！」=“If I have the chance, I'd like to try it in other places too!”
-「分かるです。そっちも楽しいですね」=“I know. It's fun there too.”
-「なるほど、あなたはそっちのレジャーが好きなのですね」=“I see. So you like that kind of leisure.”
-「とっても楽しいのでおすすめなのです」=“It's very fun and I recommend it.”
-「好き嫌いせず、やってみることを勧めるですよ」=“I suggest you give it a try, whether you like it or not.”
 「<color\=yellow>パワースポット</color>に行くと、なんだか元気が出る気がするですよ」=“I feel energized when I go to <color\=yellow>power spots</color>.”
-「もっと色んなところを巡ってみたいのですっ」=“I want to visit more places.”
 「大きな<color\=yellow>ガジュマル</color>の樹って、こう……生命力が溢れてる感じがするですねっ」=“A big <color\=yellow>Banyan tree</color> seems to be full of ...... life force.”
-「あの樹には、なにか精霊が宿っている予感がするのです」=“I have a feeling that there is some kind of spirit residing in that tree.”
-「あ、それも良いと思うのです」=“Oh, I think that's good too.”
-「へぇ、それも素敵なのです」=“Oh, that's nice too.”
-「あ、あれ？　あんまり共感してもらえないですか……」=“Oh, what?　Can't you relate to me much? ......”
-「私の話し方が下手だったですかね……」=“I guess I'm not very good at talking. ......”
 「<color\=yellow>チンアナゴ</color>って、すっごく可愛いと思うのですが、男の子的にはどうなのです？」=“<color\=yellow>Chinago</color> is very cute, but what about boys?”
-「砂からひょっこり顔を出している姿が、キュートなのですー！」=“<color\=yellow>Chinago</color> are very cute, but what about boys?”
 「<color\=yellow>シオマネキ</color>って、不思議な可愛さがあると思わないですか？」=“Don't you think the <color\=yellow>Shiomaneki</color> has a mysterious cuteness?”
-「あのアンバランスなハサミが、なんだか愛らしいのですー」=“Those unbalanced scissors are kind of adorable.”
-「おおっ、そっちにも興味が出たですよー」=“Oh, now I'm interested in that one too.”
-「なるほどなるほど、そちらも良いと思うのですー」=“I see, I see. I think that's good, too.”
-「あれ……？　そうでもなかったみたいですね……」=“Oh, ......?　Not so much. ......”
-「うーん……ちょっと感性が違ってるみたいですね……」=“Hmmm, ......, your sensibilities seem to be a little different. ......”
 「どんな<color\=yellow>お土産</color>を買うか、迷ったりしなかったですか？」=“Did you have any doubts about what kind of <color\=yellow>souvenir</color> to buy?”
-「おお、即決だったのですね！　私はずっと悩んでたですよー」=“Oh, so you made a quick decision!　I had a hard time deciding.”
 「<color\=yellow>シークヮーサージュース</color>は、もう飲んでみたですか？」=“Have you tried the <color\=yellow>Shikwasa Juice</color> yet?”
-「酸っぱいと思ってたら、意外と甘さがあってビックリしたですよー」=“I thought it would be sour, but I was surprised to find it was surprisingly sweet.”
 「気になる<color\=yellow>ぬいぐるみ</color>を見つけたのですが……買ったら子供っぽいですかね？」=“I found a <color\=yellow>stuffed animal</color> that I'm interested in. Is it childish if I buy it from ......?”
-「そんなことないですか？　よ、よかったのですー……」=“Isn't that so?　No, I'm glad. ......”
-「そういう名産品もあるですか。勉強になるのです」=“I'm glad to hear there are such specialties. I'm learning.”
-「あなたのお勧めは、そっちなのですね」=“So that's what you're recommending.”
-「……もっと興味をもってもらえるように、話術を磨かないといけないみたいですね」=“...... I guess I need to work on my storytelling skills so that I can get more people interested.”
-「う、うーん……話題のチョイスを間違えたですかね……」=“Hmmm... ...... I think I chose the wrong topic. ......”

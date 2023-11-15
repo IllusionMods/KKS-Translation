@@ -1,4 +1,0 @@
-「さて……何か遊んでみたいものってある？」=“Now, ......, what would you like to play with?”
-「いいえ、特には」=“No, not really.”
-「そしたら……何か適当にこっちで考えてみるけど、それでいいかな？」=“Then I'll try to come up with something appropriate for ....... Is that okay with you?”
-「はい、お任せします」=“Yes, I'll leave it to you.”

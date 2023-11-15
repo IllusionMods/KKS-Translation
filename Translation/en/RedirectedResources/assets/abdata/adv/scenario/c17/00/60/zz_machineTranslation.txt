@@ -1,5 +1,0 @@
-「ねぇ……部屋に入れて欲しいのだけど」=“Hey, ......, I'd like to get in your room.”
-「こんな時間にどうしたの？　何かあった？」=“What are you doing here at this hour?　What's going on?”
-「何かは、これからあるのよ」=“There's always something to do.”
-「彼女が彼氏の部屋に来たんだから、そういうサインだって分かってほしいわ」=“I hope she understands that it's a sign that she's in her boyfriend's room.”
-「いないのかしら？　仕方がないわね……」=“He's not here?　I don't have a choice. ......”

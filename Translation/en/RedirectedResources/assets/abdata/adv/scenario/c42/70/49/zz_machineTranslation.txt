@@ -1,7 +1,0 @@
-「南の島の家庭料理ってクセの強いものが多い印象があるよね」=“I have the impression that home cooking in the South has a strong flavor.”
-「苦かったり、他ではあまり食べないような部位を使ったりしてるもんねー」=“They use parts that are bitter or not eaten very often elsewhere.”
-「[H名]は食べられないものはないの？」=“Is there anything [H名] can't eat?”
-「うん、私はなんでも大丈夫だよー。どれもこれも美味しくて困っちゃうよぉ」=“I'm okay with everything. Everything tastes so good, I'm in trouble.”
-「ははっ、[H名]らしいね。じゃあ、今日の注文は[H名]のおすすめを中心にしようか？」=“Haha, that's very [H名]an of you. So, shall we focus on [H名]'s recommendations for today's order?”
-「いいよー。じゃあ、どれを食べようかな？　あっ、キミこそ苦手なものとかないの？　なんでも大丈夫ー？」=“I'm fine. Then, which one shall we eat?　Oh, you don't have anything you don't like?　Are you okay with everything?”
-「俺もなんでも問題ないから、じゃんじゃん頼んじゃって！」=“I have no problem with anything, so go ahead and ask!”

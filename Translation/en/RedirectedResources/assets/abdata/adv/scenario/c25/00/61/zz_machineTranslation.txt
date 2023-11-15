@@ -1,5 +1,0 @@
-「ここで自由にオイルを使っていいみたいだよ」=“You can use the oil here as you like.”
-「オイルって、美容オイルだよね～、気前良いっすね～」=“Oil is beauty oil, right? That's very generous.”
-「良かったら、俺がオイル塗ってあげようか？」=“I can oil them for you if you want.”
-「いいんすか～？　その方が楽だからお願いしようかな～」=“Are you sure?　It'll be easier, so I'll ask.”
-「分かった、任せてよ」=“All right, I'll do it.”

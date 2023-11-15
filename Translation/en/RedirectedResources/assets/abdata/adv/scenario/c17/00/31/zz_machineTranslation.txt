@@ -1,6 +1,0 @@
-「お土産を買うなら、この店で十分そうだね」=“If you're looking for souvenirs, I think this place will do.”
-「そうね。かなりの品ぞろえだわ」=“Yes. That's quite an assortment.”
-「お、なんか珍しいものがある」=“Oh, there's something unusual.”
-「珍しすぎて、何なのかよくわからないわね」=“They're so rare, I don't even know what they are.”
-「お土産にしては、奇抜すぎるかな……」=“I think it's too eccentric for a souvenir. ......”
-「買うかどうかは後で考えるわ。とりあえず見て回りましょ」=“I'll think about whether to buy it or not later. Let's just take a look around.”

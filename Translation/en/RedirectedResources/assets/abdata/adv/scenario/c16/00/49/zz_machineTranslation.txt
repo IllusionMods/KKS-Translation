@@ -1,6 +1,0 @@
-「さすがにホテルのレストランだけあって、しっかりした味だね」=“As expected of a hotel restaurant, the food is very tasty.”
-「本当ね、どの料理もいい味しているわ」=“It's true, all the food is so good.”
-「お腹すいてたから、ついつい頼み過ぎちゃったよ」=“I was so hungry, I ordered too much.”
-「まったく、そんなに沢山食べきれるのかしら」=“I don't know if I can eat that much.”
-「無理だったら、ちょっと手伝ってもらえると……」=“If you can't do it, I could use some help. ......”
-「ダメよ。自分で頼んだんだから、自分で責任持ちなさい」=“No. You asked for it. You're responsible for it.”
