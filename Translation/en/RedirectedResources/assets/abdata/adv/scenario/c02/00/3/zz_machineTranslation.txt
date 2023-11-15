@@ -1,7 +1,0 @@
-「……俺のことが好きって、本当なの？」=“...... Is it true that you like me?”
-「……ええ。わたくし、自分の気持ちに気付きましたの」=“...... Yes. I've realized my feelings.”
-「砕け散るのも覚悟の上での言葉ですわ。さぁ、返事を聞かせてくださる？」=“I'm prepared to be shattered, she said. Now, can I hear your answer?”
-「そんなのＯＫに決まってるよ！　俺も君のことが好きなんだ！」=“Of course you're okay with that!　I like you, too!”
-「ふふふ……おーっほっほっほ！　当然でしたわね。わたくしの傍にいて、好きにならないはずがありませんもの」=“...... Ooh-ho-ho-ho!　Of course you did. It's hard not to fall in love with someone when they're around me.”
-「……返事は当然分かっていましたが、安心いたしましたわ」=“...... I knew you'd reply, of course, but I'm relieved.”
-「そっか……えっと、これからよろしくね」=“I see. ...... Well, it's nice to meet you.”

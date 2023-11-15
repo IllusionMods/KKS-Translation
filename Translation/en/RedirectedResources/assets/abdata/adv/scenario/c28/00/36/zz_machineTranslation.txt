@@ -1,5 +1,0 @@
-「ふむ、ここで遊具を借りて遊ぶ、という事なのじゃな？」=“Hmm, you mean we can rent the equipment here?”
-「うん、何かやってみたいものとかある？」=“Yeah, is there anything you'd like to try?”
-「うーむそうじゃなぁ……これなんかどうじゃ？」=“Well, how about this one: ......?”
-「面白そうだね。試しにやってみよっか？」=“That sounds interesting. Do you want to try it out?”
-「うむ。何事も試す事は大事なのじゃ」=“Hmm. It's important to try everything.”

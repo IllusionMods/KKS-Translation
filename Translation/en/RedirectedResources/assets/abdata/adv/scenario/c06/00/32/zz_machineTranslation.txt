@@ -1,5 +1,0 @@
-「そういえば、[H名]は自分用のお土産は買った？」=“Speaking of which, did [H名] buy any souvenirs for herself?”
-「いえ……そもそもお土産は人様に贈るものではないのですか？」=“No. ...... Aren't souvenirs supposed to be given to people in the first place?”
-「旅のお土産って自分にも買うと思うけどな。ほら、品物としての思い出も欲しいしさ」=“I think people buy souvenirs for themselves when they travel. I think people buy souvenirs for themselves when they travel, because they want to have memories of the trip.”
-「せっかくだし、二人でお揃いの何か買おうよ」=“Why don't we buy something to go with it?”
-「貴方とお揃い……それは素敵です。何に致しましょう？　もっと見て回らないと行けませんね」=“You and I are matching ....... That's wonderful. What can I get for you?　I'll have to look around more.”

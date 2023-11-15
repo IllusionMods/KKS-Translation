@@ -1,4 +1,0 @@
-OPTION[100]:気持ちに応える=Respond to feelings
-気持ちに応える=Responding to Feelings
-OPTION[203]:いいよ！=OK!
-いいよ！=Okay!

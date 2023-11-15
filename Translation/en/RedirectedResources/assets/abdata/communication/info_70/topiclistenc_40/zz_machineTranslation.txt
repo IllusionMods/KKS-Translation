@@ -1,36 +1,10 @@
 「海の中は興味深いものだらけだぞ。<color\=yellow>シュノーケリング</color>は是非やってみるべきだな」=“There's a lot of interesting stuff in the ocean," he said. You should definitely try <color\=yellow>snorkeling</color>.”
-「水中は危険もあるが、それ以上に楽しさもある。病み付きになるのも分かるぞ」=“There are dangers underwater, but there is also a lot of fun. I can see why people get addicted to it.”
 「<color\=yellow>トレッキング</color>はいいぞ。森林浴をするだけでも心が安らぐ」=“<color\=yellow>Trekking</color>is good. Just taking a bath in the forest is a peaceful experience.”
-「山の傾斜は足腰の鍛錬にもってこいだ。遊びながら鍛えられるなんて最高だな」=“The slope of the mountain is great for training the legs and feet. It's a great way to train your legs and feet while you play.”
-「まぁ、そういう楽しみ方もあるか。参考にさせてもらおう」=“Well, that's one way to have fun. I'll take it under advisement.”
-「ふむ、貴殿の好みは分かった。だが我とは少し違うようだ」=“I know what you like. I know what you like, but it's a little different from mine.”
-「遊び方は人それぞれだ。貴殿が楽しいと思ったことをすればいい」=“Everyone has his or her own way of playing. You do what you enjoy.”
-「たまには興味のないことにも目を向けるといい。新しい発見があるはずだ」=“Sometimes you have to look at things you're not interested in. You'll discover something new.”
 「<color\=yellow>水牛</color>の力は侮れない。大人しい性格らしいが、悪戯するのはやめておけよ」=“The power of the <color\=yellow>buffalo</color> should not be underestimated. I hear it has a quiet disposition, but don't play tricks on it.”
-「力を持つものほど優しいものだ。我々も水牛のようにありたいものだな」=“The more power one has, the gentler one is. We should be like the buffalo.”
 「<color\=yellow>マングローブ</color>林は気を付けた方がいい。何が潜んでいるか分からん」=“<color\=yellow>Mangrove</color> forests should be watched out for. You never know what might be lurking there.”
-「もし探検に行くなら、我も同行した方がいいかもしれないな」=“If I go exploring, I might as well go with you.”
 「貴殿は<color\=yellow>パワースポット</color>巡りなどはする方か？」=“Are you a <color\=yellow>power spot</color> visitor?”
-「場所に集まる力には必ず意味がある。その経緯を調べたりすると面白いぞ」=“The power that gathers in a place always has a meaning. It would be interesting to find out how that came about.”
 「この島の<color\=yellow>星空</color>は本当に綺麗だ。よく見ておくといい」=“The <color\=yellow>starry sky</color> on this island is really beautiful. You should take a good look.”
-「貴殿と星について語り合うのも、楽しい時間になりそうだ」=“It would be fun to talk about the stars with you.”
-「貴殿は色々なものに興味があるのだな。いい傾向だと思うぞ」=“You are interested in many things, aren't you? I think that's a good sign.”
-「話が少々散らかってしまったな。なに、そういう時もあるさ」=“The conversation has become a bit scattered," he said. "It's a little scattered.”
-「あまり自然には興味がなかったか？　素晴らしいものばかりなのだがな……」=“Not much of a nature lover, are you?　It's all great stuff, though. ......”
-「ふむ、そういう選択肢は想定外だったな。我もまだまだ修行不足か……」=“I never expected such an option. I guess I'm still a little out of practice. ......”
 「<color\=yellow>サンゴ</color>は本当に綺麗だな。魚が住みたくなる気持ちも分かる」=“<color\=yellow>Coral</color> is really beautiful. I can see why fish would want to live there.”
-「サンゴが貴重なものでなければ、我々が住める家でも作ってみたかったな」=“If coral weren't so precious, I'd love to have built a house for us to live in.”
 「<color\=yellow>クマノミ</color>にも色々種類がいるようだが、我はオレンジ色のが好きだな」=“There are many types of <color\=yellow>clownfish</color>, but I like the orange ones.”
-「なかなか愛らしい姿をしているからな、我も一匹くらい飼ってみたい」=“They're quite adorable, and I'd like to have one myself.”
-「はは、海繋がりか？　貴殿の返し方は独特だな」=“Ha, ha, the ocean connection?　You have a very unique way of returning the favor.”
-「少し話が噛み合っていない気もするが……大外れというわけでもないか」=“I feel like we're not quite on the same page, but I guess that's not ...... far off, is it?”
-「すまない、少々話の振り方が雑だったかもしれないな」=“I'm sorry, that was a bit of a rhetorical question.”
-「興味のない話だったら、はっきりそう言ってくれても構わないぞ」=“If it's something you're not interested in, you can just say so.”
 「この島は<color\=yellow>名物料理</color>が多過ぎて、全部食べたら太ってしまいそうだな」=“There are so many <color\=yellow>specialties</color> on this island, I'd get fat if I ate them all.”
-「貴殿と半分に分け合うというのも、悪くないアイディアかもしれない」=“Maybe splitting it with you wouldn't be such a bad idea.”
 「<color\=yellow>紅型</color>の手ぬぐいはいいな。正に風流という感じだ」=“<color\=yellow>Bingata</color> tenugui is nice. It's really very elegant.”
-「どの柄も綺麗で、全て欲しくなってしまうのが悩みの種だが……」=“All the patterns are beautiful, and the trouble is that I want them all. ......”
-「地域の文化を学んで損は無いからな。折角なら色々調べたいところだ」=“It never hurts to learn about the local culture," he said. I'd like to find out more about it.”
-「そちらの話も興味深い。情報交換は大事だからな」=“It's interesting to hear your side of the story, too," he said. It's important to exchange information.”
-「ほう、それはそれで面白そうだ」=“Well, that sounds interesting.”
-「それはつまり……すまん、私が聞き役に回った方が良さそうだな」=“That means ...... sorry, I guess I better be a good listener.”

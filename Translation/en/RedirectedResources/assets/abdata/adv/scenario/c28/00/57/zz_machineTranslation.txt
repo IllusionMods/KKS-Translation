@@ -1,3 +1,0 @@
-「ふふっ、ここで熟睡するとは無用心じゃぞ」=“Hmmm, you're being careless sleeping here.”
-「……こんな風に襲われるから？」=“...... Because you're being attacked like this?”
-「ふむ、大正解なのじゃ！」=“Hmm, that's a good answer!”

@@ -1,6 +1,0 @@
-「シーサーって、魔除けのお守りなんだよね」=“Shisa is a talisman to ward off evil, right?”
-「はい。だから頑張ってちゃんと作って、魔除けしてもらおうと思ってるんです」=“Yes. So I'm going to try my best to make it right and have it ward off evil spirits.”
-「なるほど、それじゃ俺も[H名]のために頑張って作るよ」=“I see. I'll do my best to cook for [H名] then.”
-「ふふっ、ありがとうございます。そういえば、シーサーは基本二体で一対らしいですよ」=“Thank you, [nickname]. Oh, by the way, they say that two Shisa are basically a pair.”
-「なら、二人で夫婦シーサーを作ろうか」=“Then we'll make a couple Shisa together.”
-「嬉しいですっ。私、なんだかいいものが作れる気がします」=“I'm glad. I feel like I can make something good.”

@@ -1,4 +1,0 @@
-「えへへ、すっごく気持ち良かったよ～」=“Heh, it felt really good.”
-「おかげで気持ち良くなれたよ～」=“Thanks for making me feel good.”
-「私、綺麗になれたかなぁ？」=“I wonder if I'm pretty enough.”
-「なんで塗ってくれないの？　使い方が分かんないわけじゃないよね？」=“Why aren't you painting me?　It's not like you don't know how to use it, right?”

@@ -1,6 +1,0 @@
-「ここまで来たら灯台が良く見えるね」=“You can see the lighthouse from here.”
-「そうですね。とても素敵な灯台です」=“Yes, I do. A very nice lighthouse.”
-「何年もの間、この島の航路を見守って来たんだろうね」=“I wonder how many years they've been watching over the shipping lanes of this island.”
-「そう思うと、とても頼もしく見えて来ますね」=“When you think of it that way, it makes you look very reliable.”
-「俺たちも、灯台みたいな頼りがいのある道しるべを見つけられるといいね」=“I wish we could find a lighthouse to guide us.”
-「はい……大丈夫ですよ、二人で一緒に探しましょう」=“Yes ...... it's okay, we'll find it together.”

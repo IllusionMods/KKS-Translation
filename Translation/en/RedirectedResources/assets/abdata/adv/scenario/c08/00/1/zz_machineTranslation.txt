@@ -1,5 +1,0 @@
-「えっ？　あなたは、私のことが好き……なの？」=“What?　Do you like me ......?”
-「そうだよ。[H名]を見てるとドキドキするし、ずっと傍にいたいなって思うんだ」=“Yes, he said. I get a thrill when I look at [H名], and I want to be around her all the time.”
-「わ、私もね……あなたを見てるとドキドキして、もっと傍にいられたらなぁって……思うよ」=“I also ...... get nervous when I look at you and wish I could be around you more .......”
-「じゃあ、俺たち……両想いだったってこと？」=“So we're ...... both in love?”
-「うんっ！　えへへ……嬉しいなぁ。恋人として、これからもよろしくねっ」=“Yes!　I'm so happy with ....... I'm so happy to see you here.”

@@ -1,6 +1,0 @@
-「三線の演奏って楽しいね」=“Playing the sanshin is fun.”
-「わ、私は弦が切れたりしないか心配です……」=“I'm afraid I'm going to break my strings. ......”
-「大丈夫だよ、そんなに強く弾かなければ」=“It's okay, as long as you don't play it too hard.”
-「でも、緊張してるせいか、力んでしまってるんです……」=“But I'm nervous and I'm straining. ......”
-「そんなに肩に力を入れなくても大丈夫だよ」=“You don't have to put so much pressure on your shoulders.”
-「は、はいっ……やってみます」=“Yes, I'll try .......”

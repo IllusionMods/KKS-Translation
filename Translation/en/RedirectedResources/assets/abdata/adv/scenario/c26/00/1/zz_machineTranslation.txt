@@ -1,6 +1,0 @@
-「え……私、と……？」=“Yeah, ...... me and ......?”
-「うん、きみと付き合いたい……好きなんだ……っ」=“Yeah, I want to go out with you. ...... I like you. ......”
-「……勿論、嫌なら断ってくれても構わないから……」=“...... Of course, you can say no if you don't want to. ......”
-「あ……違う、の……その、こんな私に……好きって言ってくれて、嬉しくて……」=“Oh ......, no ......, I'm so happy that you told me that you like me .......”
-「それじゃぁ……！」=“See you at ......!”
-「うん……私も、好きだから……これからも、よろしくお願いします……」=“Yeah, ...... I like you, too, ...... and I'm looking forward to working with you, .......”

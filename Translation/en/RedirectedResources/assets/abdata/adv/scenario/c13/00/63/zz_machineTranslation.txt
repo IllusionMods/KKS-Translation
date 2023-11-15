@@ -1,4 +1,0 @@
-「うん、最高に気持ち良かったよー。ありがとうね」=“Yeah, that felt great. Thank you.”
-「なかなかいい感じだったと思うよ。またお願いしよっかなー」=“I think it was pretty good. I'll ask you again.”
-「いいんじゃない。悪くなかったかな」=“It's okay. That wasn't so bad, was it?”
-「あれ？　塗ってくれないの？　背中って自分じゃ届かないんだけどな―」=“Huh?　You're not going to apply it?　I can't reach my back.”

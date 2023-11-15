@@ -1,36 +1,10 @@
 「<color\=yellow>釣り</color>って、楽しいと思いませんか？」=“Isn't <color\=yellow>fishing</color> fun?”
-「のんびり糸を垂らしているだけなら、何の事故も起きなくて安全ですからね」=“Don't you think it's fun to fish?”
 「私、<color\=yellow>シュノーケリング</color>は好きですよ」=“I like <color\=yellow>snorkeling</color>.”
-「基本的に浅瀬で泳ぎますから……安全だと思います」=“I like <color\=yellow>snorkeling</color>. It's basically swimming in shallow water, so I think it's ...... safe.”
-「そうですね、それもいいかも知れませんね」=“Yes, that might be a good idea.”
-「なるほど、そっちも楽しそうですね」=“I see. That sounds like fun too.”
-「そうですか……でも、やってみると意外と楽しいかも知れませんよ」=“I see. ...... But it might be more fun if you try it.”
-「もし試す機会があったらやってみてください……きっと楽しいと思いますよ」=“If you get a chance to try it, please do. ...... I'm sure you'll enjoy it.”
 「<color\=yellow>水牛</color>って、大きいけど、可愛いですよね」=“<color\=yellow>Buffaloes</color> are big but cute, aren't they?”
-「あののんびり歩く姿を見ていたら、何にも動じない強さみたいなものを感じます」=“Buffaloes are big but cute.”
 「私、<color\=yellow>ネコ</color>って好きなんです」=“I like <color\=yellow>cats</color>.”
-「良くクロネコが目の前を横切って行くんです……その姿がとっても可愛くって……」=“I like <color\=yellow>cats</color>. I often see a black cat walking past me. ...... It's so cute. ......”
 「<color\=yellow>ハイビスカス</color>の花って、綺麗だと思いませんか？」=“<color\=yellow>Hibiscus</color> flowers are beautiful, don't you think?”
-「南国を象徴するような華麗な花なのに、花言葉は『繊細な美』なんですよ」=“<color\=yellow>Hibiscus</color> is a gorgeous flower that symbolizes the tropics, but the language of the flower is 'delicate beauty.”
 「この島の<color\=yellow>星空</color>って、本当に奇麗ですよね」=“The <color\=yellow>starry sky</color> on this island is really beautiful, isn't it?”
-「周りに明るい場所が少ないから、星の光がダイレクトに伝わるんでしょうね」=“There are not many bright places around, so the light from the stars must be transmitted directly.”
-「そうですね、それを見るのも楽しそうですね」=“Yes, it must be fun to see that.”
-「すごいですね、その面白さに気が付くなんて」=“It's amazing that you've noticed how interesting it is.”
-「そうですか……でも、ちゃんと見たら魅力に気が付くかも知れませんよ」=“Well, ......, but if you look at it properly, you might find it fascinating.”
-「一度見て見る事をお薦めします。きっと気に入ると思いますよ」=“I recommend that you take a look at it. You'll love it.”
 「<color\=yellow>チンアナゴ</color>って、ずっと眺めていても飽きませんね」=“<color\=yellow>Chinago</color> never gets tired of looking at them, does it?”
-「顔を出してユラユラしてるだけかと思ったら、結構危険察知能力が高いんですよ」=“<color\=yellow>Chinago</color> never get tired of watching them, do they?”
 「<color\=yellow>クマノミ</color>って、可愛くっていいですよね」=“<color\=yellow>Bearded sea anemone</color> is very cute, isn't it?”
-「イソギンチャクをお家みたいにしてる所なんか、とっても可愛いと思います」=“Tardigrades are very cute, aren't they? They use anemones as their homes.”
-「いいですね、私も好きになりそうです」=“I like it. I think I'm going to like it.”
-「なるほど、それは素敵ですね」=“I see. That's very nice.”
-「大丈夫です……今は興味がなくても、きっと好きになると思いますよ」=“Don't worry, ......, even if you're not interested right now, you'll like it.”
-「わかりませんでしたか？　でも、あなたならきっといつかわかってくれると思います」=“Didn't you understand?　But I'm sure you'll understand one day.”
 「実は、<color\=yellow>名物料理</color>にすごく興味があるんです」=“Actually, I'm very interested in <color\=yellow>local specialties</color>.”
-「食べてみたいんですが、私……かなりの確率でハズレを引き当ててしまうんで……」=“I'd like to try it, but I'm ...... pretty sure I'd get the wrong one.”
 「<color\=yellow>シーサー</color>って可愛いのに、力強くっていいですよね」=“The <color\=yellow>Shisa</color> is cute, but powerful, isn't it?”
-「魔除けにもなるらしいですから、私もいっぱい持ちたいです」=“I want to have a lot of them because I heard they can ward off evil.”
-「それもいいですね、私も興味があります」=“That's a good idea. I'm interested in it too.”
-「そんなものもあるんですね。面白そうです」=“I didn't know there was such a thing. It sounds interesting.”
-「きっと良いものだと思うんですけど……ちょっとわかりづらかったでしょうか」=“I'm sure it's a good one, but ...... is a bit confusing, isn't it?”
-「そうですね……良さを伝えるのってなかなか難しいですね」=“Yes, it's quite difficult to convey the goodness of .......”

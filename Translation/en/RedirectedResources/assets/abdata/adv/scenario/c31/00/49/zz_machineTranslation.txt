@@ -1,4 +1,0 @@
-「やっぱり誰かと食べるご飯は美味しいなぁ」=“It's always good to eat with someone.”
-「……急にどうした？　まぁ、私も同意はするが」=“...... What's wrong with you all of a sudden?　Well, I agree with you.”
-「ああ、いや……[H名]と食べるといつもより美味しいなぁと思ったら、つい口に出してて……恥ずかしい……」=“Oh, no,... I thought it tasted better than usual when I ate with [H名], but I just kept saying it,... and it was embarrassing,...”
-「そ、そんな照れた反応をするなっ。こっちまで恥ずかしくなるだろう」=“I'm sure you'll be fine. It's embarrassing for me.”

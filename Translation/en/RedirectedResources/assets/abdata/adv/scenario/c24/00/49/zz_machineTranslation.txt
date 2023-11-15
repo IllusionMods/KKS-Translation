@@ -1,6 +1,0 @@
-「この食堂、普段は見かけない料理がいっぱいだね」=“This diner has a lot of dishes you don't usually see.”
-「聞きなれない名前のお料理がいっぱい並んでますね……」=“There's a lot of food here with unfamiliar names. ......”
-「とりあえず、何を頼んだらいいか迷っちゃうよ」=“I don't know what I'm going to order.”
-「私の事は気にせず、あなたの好きなものを頼んでください♡」=“Don't worry about me, just ask me what you like, handsome.”
-「きみは食べなくていいの？」=“Do you have to eat?”
-「食べますよ、あなたのお皿から一口ずつ頂きます♡　それで十分です……いえ、それが最高です♡」=“I'll eat it. I'll take a bite from your plate. That's enough. ...... No, that's the best.”

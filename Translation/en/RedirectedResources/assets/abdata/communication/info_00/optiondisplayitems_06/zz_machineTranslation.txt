@@ -1,6 +1,0 @@
-OPTION[100]:気持ちに応える=Respond to feelings
-気持ちに応える=Responding to Feelings
-OPTION[203]:いいね、遊ぼう！=Great, let's play!
-いいね、遊ぼう！=Great, let's play!
-OPTION[205]:ちょうど腹ペコだったんだ=I was just hungry.
-ちょうど腹ペコだったんだ=I was just starving.

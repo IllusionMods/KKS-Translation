@@ -1,6 +1,0 @@
-「んぅ～……上手に弾けないなぁ」=“I can't play ...... very well.”
-「意気込んで挑戦したわりに無様ね。見てられないわ」=“I can't believe you were so eager to try it. I can't watch.”
-「いや、三線は難しいんだって。[H名]さんもやってみてよ」=“No, I heard that sanshin is difficult to play. You should try it, [H名].”
-「いいわ。私がお手本を見せてあげる」=“Okay. I'll show you how it's done.”
-「……どう？　これで自分のレベルの低さが分かったでしょう？」=“How's ......?"　Now you know how low you can go, don't you?”
-「はい……申し訳ありません、おみそれしました……」=“Yes ...... I'm sorry, I'm sorry, I'm sorry ......”

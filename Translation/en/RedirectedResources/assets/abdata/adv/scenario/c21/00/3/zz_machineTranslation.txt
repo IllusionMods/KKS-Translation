@@ -1,6 +1,0 @@
-「好きって……それは、友達としてって事？」=“Do you mean, like, ...... like, like, as friends?”
-「ううん、そうじゃなくて……友達以上、かな」=“No, not really. ...... More than friends, I guess.”
-「俺も、きみのことが好きなんだ……もちろん、友達以上として」=“I like you, too, ...... as more than a friend, of course.”
-「それって、恋人未満とか……？」=“Does that mean you're not my boyfriend or ......?”
-「いや、恋人として……俺と付き合って欲しい」=“No, I want you to go out with me ...... as my lover.”
-「私も、私もそう思ってたの……こちらこそ、よろしくね」=“I thought so too. ...... Nice to meet you too.”

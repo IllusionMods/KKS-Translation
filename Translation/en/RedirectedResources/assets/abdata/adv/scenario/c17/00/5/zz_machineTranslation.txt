@@ -1,4 +1,0 @@
-「……いいわ。あなたは私の大切な彼氏なんだから」=“...... Okay. You're my precious boyfriend.”
-「[H名]さん……」=“[H名], ...”
-「彼氏のそういう期待に応えられないなんて、寂しいでしょ」=“It must be lonely not being able to live up to your boyfriend's expectations.”
-「でも、初めてだから……優しくお願いね」=“But since it's your first time, please be ...... gentle.”

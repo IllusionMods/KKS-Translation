@@ -1,5 +1,0 @@
-「どうする？　また塗っていく？」=“What do you say?　You want me to paint it again?”
-「今回からは前もお願いしたいと思います」=“I think I'm going to need the front one this time.”
-「え、いいの？　色々触っちゃうことになるけど……」=“Oh, you sure?　You're gonna be touching a lot of stuff. ......”
-「はい、あなたにならいくら触られても問題ありません」=“Yes, I don't care how much you touch me.”
-「ですが、あくまでオイルを塗って頂くだけですので、悪しからず」=“But it's only for oiling, so please don't be offended.”

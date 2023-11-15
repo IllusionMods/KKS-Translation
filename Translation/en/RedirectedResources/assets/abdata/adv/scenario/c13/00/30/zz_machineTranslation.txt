@@ -1,6 +1,0 @@
-「色々売ってるね」=“They sell a lot of stuff.”
-「面白そうなものがいっぱいだねー……なんか買ってこうかな」=“There's a lot of interesting stuff here. ...... I'll buy something.”
-「あれなんて、可愛いんじゃないの？」=“Isn't that pretty?”
-「あー、悪くないけど、ちょっと高いかなぁ」=“Oh, it's not bad, but it's kind of expensive.”
-「せっかく来たんだし、もうちょっと見て回ろうか」=“Since we're here, why don't we take a look around?”
-「うん、そうだねー」=“Yeah, sure. - Yeah, sure.”

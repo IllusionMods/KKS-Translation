@@ -1,6 +1,0 @@
-「この粘土をこねて、シーサーを作るんだ」=“I'm going to knead this clay and make a shisa.”
-「なるほど～……でも実際、シーサーって何なんすかね～」=“I see. ...... But really, what is a shisa?”
-「魔除けのお守りみたいな感じかな、獅子が原型って言われてるらしいよ」=“It's like a talisman to ward off evil. It's said to have originated with the lion.”
-「獅子って事は、ライオンなんだね～……狛犬の仲間かと思ってたよ～」=“So a lion is a lion. ...... I thought it was a komainu.”
-「狛犬の原型も獅子らしいからね。大体似て来るんじゃないかな」=“The original form of the guardian dogs is said to be lions. I think they're pretty similar.”
-「そっか～……それじゃあ、とりあえず頑張ってシーサー作ろっかな～」=“I see. ...... Well, I guess I'll just try my best to make a shisa.”

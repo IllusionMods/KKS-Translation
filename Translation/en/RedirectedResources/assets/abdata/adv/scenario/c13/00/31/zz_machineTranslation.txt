@@ -1,6 +1,0 @@
-「おー、すごい滝だね」=“Oh, that's a great waterfall.”
-「ここ、確かパワースポットなんでしょ？」=“This place is a power spot, isn't it?”
-「何か神秘的なご利益とかあったりするのかな？」=“Do you have any mystical powers?”
-「絶対なんかあるって。ま、何もなくても景色がいいのは確かでしょ」=“There's always something. Well, even if there's nothing, it's still a nice view.”
-「はは、そうだね。とりあえずもうちょっと癒されていよっか」=“Haha, you're right. In the meantime, let's just relax a little longer.”
-「うん、いいよー」=“Yeah, that's good.”

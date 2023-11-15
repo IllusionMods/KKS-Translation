@@ -1,6 +1,0 @@
-「何を買うか考えてるの？」=“Are you thinking about what to buy?”
-「うん……でも、やっぱり本はあんまり置いてないみたい」=“Yeah, ......, but they don't seem to have a lot of books.”
-「そうだね、お土産物がメインみたいだから」=“Yeah, they're mostly souvenirs.”
-「私、お土産が本だったらすごく嬉しいのに……」=“I would be very happy with a book as a gift. ......”
-「写真集とかならありそうだよね。綺麗な景色とか写ってる」=“I think a photo book would be a good idea. It's like a photo book, with beautiful scenery.”
-「出来れば、活字が読みたいいんだけど……この辺りの伝承について書かれた本とかないのかな……」=“I'd like to read something in print if I can. ...... Is there a book on the folklore of this area? ......”

@@ -1,5 +1,0 @@
-「海のレジャーが充実していますね」=“There's so much to do in the ocean.”
-「やってみたいものはある？　何でも選んでいいよ」=“Is there anything you want to try?　You can choose anything you want.”
-「わ、私がですか？　うーん、何が良いでしょう……どれも楽しそうで……」=“Wow, me?　Hmmm, what would be good ...... for you, they all look so fun ......”
-「すみません……私一人では決められそうにないです」=“I'm sorry, ...... I don't think I can make that decision on my own.”
-「じゃあ、二人で決めようか」=“Then we'll decide together.”

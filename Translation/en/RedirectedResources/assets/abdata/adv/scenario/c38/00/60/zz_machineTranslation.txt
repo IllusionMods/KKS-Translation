@@ -1,5 +1,0 @@
-「あの、失礼いたします……お邪魔してもよろしいでしょうか？」=“Um, excuse me, may I come to ......?”
-「大丈夫だよ、どうかしたの？」=“It's all right. What's wrong?”
-「ありがとうございます……実は、少し独り寝が寂しくなってしまいまして……」=“Thank you. ...... Actually, I'm feeling a little lonely sleeping alone. ......”
-「こんな夜は、貴方と一緒に過ごしたいと思いまして……来てしまいました」=“I came ...... here because I wanted to spend a night like this with you.”
-「……もうお休みになっているのでしょうか。残念です」=“...... I wonder if you're on vacation. I'm sorry.”

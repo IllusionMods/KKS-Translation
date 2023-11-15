@@ -1,5 +1,0 @@
-「……よしっと……私の手にかかればこんなものね」=“......Okay, ......this is what I've got.”
-「おぉ、可愛く出来たね」=“Oh, that's cute.”
-「でしょ？　ま、私の可愛さには敵わないでしょうけどね？」=“Right?　But you'll never be as cute as me, will you?”
-「うん、[H]の方が可愛いよ」=“Yes, [H] is prettier.”
-「っ、そ、そこはツッコむ所でしょ、もぉ……っ」=“No, no, that's the part you should be talking about. ......”

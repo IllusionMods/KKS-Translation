@@ -1,6 +1,0 @@
-「それじゃあ、何かレンタルしてみようか」=“Okay, I'll rent you something.”
-「いいね、だったらアタシ、バナナボートがいいかなー」=“Yeah, I think I'd like a banana boat.”
-「バナナボートか……結構揺れると思うけど大丈夫？」=“Banana boats. ...... I think they're pretty bumpy. Are you okay?”
-「大丈夫、揺れたらキミに思いっきりしがみついちゃうから」=“Don't worry. I'll hold on to you for dear life.”
-「だったら……悪くないかな」=“Then ...... wouldn't be so bad.”
-「でしょ？　それじゃ、行こ、行こ～」=“Right?　Let's go, let's go.”

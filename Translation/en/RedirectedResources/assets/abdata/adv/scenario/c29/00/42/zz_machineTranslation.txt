@@ -1,5 +1,0 @@
-「……どうでしょう？」=“......What do you think?”
-「おぉ、上手く出来てるなぁ……俺は全然だよ……」=“Oh, you're doing great. ...... I'm not doing so good. ......”
-「そうですか？　私は味があっていいと思いますよ？」=“Do you?　I like the taste, don't you?”
-「そ、そうかな……よし、もう少しチャレンジしてみよう」=“Yeah, I think so. ...... Okay, I'll try a little more.”
-「はい、では私ももう一つ作ってみます」=“Yes, I'll try to make another one.”

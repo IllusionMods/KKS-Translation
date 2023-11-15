@@ -1,3 +1,0 @@
-「おっ、目が覚めたか。おはようなのじゃ」=“Oh, you're awake. Good morning.”
-「えっ、あ……おはよう？」=“What? ...... Good morning?”
-「うーむ、まだ夢心地のようじゃな。わしがしっかり目覚めさせるのじゃ」=“Hmm, you're still dreaming. I will wake you up.”
