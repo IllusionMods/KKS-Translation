@@ -18,9 +18,24 @@
 // chara/acc_p3_yukari.unity3d
 ゆかりの髪 (P3)=Yukari's hair (P3)
 
+// chara/airis accs common1.unity3d
+nw アイリス side hair2=nw Irys side hair2
+
+// chara/anse/anse_acs_sidecap.unity3d
+あんせ 略帽=Anse short hat
+
+// chara/anse/anse_fluffy_hair.unity3d
+あんせ ふんわりストレート=Anse Soft Straight
+
+// chara/anse/anse_fluffy_hair_short.unity3d
+あんせ ふんわりストレート(short)=Anse Soft Straight (short)
+
 // chara/anse/anse_hair_odango.unity3d
 あんせ穴あきお団子(L)=Anse Peirced Odango (L)
 あんせ穴あきお団子(R)=Anse Peirced Odango (R)
+
+// chara/anse/anse_side_tail_hair_b.unity3d
+あんせ ルーズサイドテール(後髪)=Anse loose side tail (back hair)
 
 // chara/ao_head_01.unity3d
 HM男主发型=HM male head shape
@@ -71,6 +86,9 @@ C酱 hair=Shiyuu Chishiki hair
 船头=Ship Head
 船头炮=Head of Boat
 防空炮=Air Defense Gun
+
+// chara/cdpsb0/iori_acs_halo.unity3d
+銀鏡イオリ ヘイロー=Shiromi Iori Halo
 
 // chara/choco.unity3d
 癒月ちょこ hair=Yuzuki Choco hair
@@ -291,8 +309,25 @@ C酱 hair=Shiyuu Chishiki hair
 長触覚あほ毛=Long Ahoge
 長触覚あほ毛（揺れなし）=Long Ahoge (No movement)
 
+// chara/dionel_ive_headphone.unity3d
+イヴのヘッドホン=Eve headphones
+
 // chara/flipped_long.unity3d
 外はねロング(伸)=Long, Feathered Out (Extension)
+
+// chara/giuls/sunshine3.unity3d
+付け毛20=Hairpiece 20
+付け毛21=False Hair 21
+付け毛22=False hair 22
+付け毛23=False hair 23
+付け毛24=Hairpiece 24
+付け毛25=Hairpiece 25
+付け毛26=Hairpiece 26
+付け毛27=Hairpiece 27
+付け毛28=Hairpiece 28
+付け毛29=Hairpiece 29
+付け毛30=Hairpiece 30
+付け毛31=Hairpiece 31
 
 // chara/halfup.unity3d
 ハーフアップ(バンド)=Half-Up (Band)
@@ -303,11 +338,23 @@ C酱 hair=Shiyuu Chishiki hair
 ハーフアップ(尾伸)=Half-Up (Tail Extend)
 ハーフアップ(後伸)=Half-Up (Back Extend)
 
+// chara/halloween_ghost.unity3d
+ハロウィンゴースト(不透明本体)=Halloween Ghost (opaque body)
+ハロウィンゴースト(半透明)=Halloween Ghost (transparent)
+ハロウィンゴースト(半透明本体)=Halloween Ghost (transparent body)
+ハロウィンゴーストキャンディ=Halloween Ghost Candy
+ハロウィンゴーストリボン=Halloween Ghost Ribbon
+ハロウィンゴースト帽子=Halloween Ghost Hat
+
 // chara/Hayashi/hayashi_crown.unity3d
 ロイヤルクラウン（装飾なし）=Royal Crown (No decoration)
 
 // chara/kaguranana.unity3d
 カグラナナ アーティストver. hair=Karuga Nana Artist ver. hair
+
+// chara/knotted_long.unity3d
+リボンなし結わえロング(伸)=Tied Long Without Ribbon (extension)
+結わえロング(伸)=Tied Long (extension)
 
 // chara/koikoi/ao_head_20.unity3d
 AI耳=AI Ears
@@ -426,6 +473,15 @@ AI耳=AI Ears
 ロングヘア改A=Long Hair Kai A
 ロングヘア改B=Long Hair B
 
+// chara/ponytail.unity3d
+ポニーテール(バンド)=Ponytail (band)
+ポニーテール(伸)=Ponytail (extension)
+ポニーテール(基)=Ponytail (base)
+ポニーテール(尾)=Ponytail (tail)
+ポニーテール(尾伸)=Ponytail (tail extension)
+リボンなしポニーテール(バンド)=Ponytail Without Ribbon (band)
+リボンなしポニーテール(伸)=Ponytail Without Ribbon (extension)
+
 // chara/rena.unity3d
 夜見れな hair=Yorumi Rena hair
 
@@ -455,6 +511,9 @@ AI耳=AI Ears
 // chara/suzukihina.unity3d
 鈴木ヒナ hair=Suzuki Hina hair
 
+// chara/Syn/ao_head_74.unity3d
+たれ犬耳=Hanging Dog Ears
+
 // chara/taka/taka_ao_head_03.unity3d
 ヘアバンド (真っ白)=Hair band (Pure white)
 ヘアバンド (真っ白/光沢あり)=Hair band (Pure white/Shiny)
@@ -482,6 +541,9 @@ AI耳=AI Ears
 ツーサイドアップ(後)=Both Sides Up (Rear)
 ツーサイドアップ(後側)=Both Sides Up (Rear Side)
 
+// chara/two_sideup_short.unity3d
+ツーサイドアップショート(伸)=Twin Side-Up Short (extension)
+
 // chara/umy.unity3d
 呜米Umy hair=MeUmy hair
 
@@ -497,6 +559,9 @@ AI耳=AI Ears
 ボリュームポニーテール(基)=Volume Ponytail (Base)
 ボリュームポニーテール(尾)=Volume Ponytail (Tail)
 ボリュームポニーテール(尾伸)=Volume Ponytail (Tail Extend)
+
+// chara/wave_long.unity3d
+ウェーブロング(伸)=Wavy Long (extension)
 
 // chara/ymd/mf_accbutahead.unity3d
 しゃれこうべ=Shamikabe
@@ -696,6 +761,9 @@ M1ヘルメット(MMD)=M1 Helmet (MMD)
 // chara/_mods/angela3.unity3d
 毛束 L=Hair bundle L
 毛束 R=Hair bundle R
+
+// chara/_mods/eva4.unity3d
+麦わらほっかむり=Straw hat
 
 // chara/_mods/ituki2.unity3d
 いつき髪 後中=Back middle of Itsuki hair

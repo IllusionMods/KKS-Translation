@@ -23,8 +23,45 @@
 // chara/anse/anse_tent_sailor.unity3d
 長袖テントセーラー(袖フリル)=Long Sleeve Tent Sailor (Sleeve Frill)
 
+// chara/co_top_00.unity3d
+Tシャツ(柄A)=T-Shirt (Design A)
+Tシャツ(柄B)=T-Shirt (Design B)
+Tシャツ(無地)=T-Shirt (Plain)
+キャミソール=Camisole
+サロペット=Overalls
+ショルダーレスブラウス=Blouse With Shoulder Lace
+チアトップス=Cheerleader Top
+ネグリジェ=Négligée
+ノースリーブワンピース=Sleeveless One-Piece
+バニースーツ=Bunny Suit
+ベビードール=Babydoll
+ランニングウェア=Running Top
+ワンピース=One-Piece
+小悪魔トップス=Devil Top
+
+// chara/co_top_00_01.unity3d
+カーディガンキャミソール=Cardigan Camisole
+
+// chara/co_top_06.unity3d
+鬼神の装束(上)=Demon God's Costume (Top)
+
+// chara/co_top_12.unity3d
+フリルワンピース=Frilly One-Piece Dress
+ワンピース（無地）=One-Piece Dress (Plain)
+ワンピース（花柄）=One-Piece Dress (Flower Pattern)
+
+// chara/co_top_20.unity3d
+ウェディングドレス=Wedding Dress
+
+// chara/co_top_24.unity3d
+クリスマストップス=Christmas Top
+
+// chara/cpo_jacket_a_06.unity3d
+巫女内衣=Shrine Maiden's Robe
+
 // chara/etc.unity3d
 なし=None
+//なし(互換)=None (互換)
 
 // chara/Matne/matne_sailor_a_00.unity3d
 セーラーノースリーブ=Sailor Sleeveless

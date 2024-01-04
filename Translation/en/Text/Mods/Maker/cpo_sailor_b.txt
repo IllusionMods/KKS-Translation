@@ -2,8 +2,12 @@
 // Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_ModTextDump v0.7.0.1
 //
 
+// chara/cpo_jacket_b_06.unity3d
+陣羽織=Battle Surcoat
+
 // chara/etc.unity3d
 なし=None
+//なし(互換)=None (互換)
 
 // chara/Matne/matne_sailor_bc_00.unity3d
 タイプ５改（胸当てラインなし色固定）=Type 5 modified (No breastplate line, color fixed)
