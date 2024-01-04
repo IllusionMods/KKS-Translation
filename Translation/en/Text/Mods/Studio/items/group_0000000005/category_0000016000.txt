@@ -5,6 +5,12 @@
 #set exe CharaStudio
 
 
+// chara/_mods/chloe6.unity3d
+ヘルメット=Helmet
+
+// chara/_mods/chloe9.unity3d
+ヘルメット2=Helmet 2
+
 // chara/_mods/mash3.unity3d
 ロード・カルデアス=Lord Chaldeans
 

@@ -2,6 +2,16 @@
 // Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_ModTextDump v0.7.0.1
 //
 
+// chara/anse/anse_toa_school_swim_emblem.unity3d
+//あんせ柊杏学園エンブレム(水着)=Anse 柊杏学園エンブレム (Swimsuit)
+
+// chara/anse/anse_toa_school_uniform_emblem.unity3d
+//あんせ柊杏学園エンブレム(グレー)=Anse 柊杏学園エンブレム (グレー)
+//あんせ柊杏学園エンブレム(ネイビー)=Anse 柊杏学園エンブレム (ネイビー)
+//あんせ柊杏学園エンブレム(ブラック)=Anse 柊杏学園エンブレム (ブラック)
+//あんせ柊杏学園エンブレム(ホワイト)=Anse 柊杏学園エンブレム (ホワイト)
+//あんせ柊杏学園エンブレム(レッド)=Anse 柊杏学園エンブレム (レッド)
+
 // chara/karasu/mt_emblem_k00.unity3d
 ハート1=Heart 1
 ハート2=Heart 2
