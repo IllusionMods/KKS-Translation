@@ -1,0 +1,22 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (CharaStudio) by KKS_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+
+// studio/sui/TD_daoju1.unity3d
+//BH_希儿镰=
+//BH_魔法球=
+//TD_可可利亚枪=
+//TD_吉他=
+//TD_呜呜=
+//TD_呜呜2=
+//TD_呜呜3=
+//TD_幻扇=
+//TD_纸鸾=
+//TD_镜流剑1=
+//TD_镜流剑2=
+//TD_驭空弓=
+//TD_驭空箭=
+//TD_鸭枪=

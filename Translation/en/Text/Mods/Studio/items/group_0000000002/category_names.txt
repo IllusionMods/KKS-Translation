@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (CharaStudio) by KKS_ModTextDump v0.7.0.1
+//
+
+#set exe CharaStudio
+
+机=Desk
+椅子=Chair
+仕切り=Partition
