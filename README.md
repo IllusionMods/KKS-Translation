@@ -19,8 +19,8 @@ The translations are applied while the game is running and do not require replac
 - [BepInEx 5.4.x+](https://github.com/BepInEx/BepInEx/releases/)
 - [BepisPlugins for KKS](https://github.com/bbepis/BepisPlugins/releases)
 - [XUnity.AutoTranslator 5.1+](https://github.com/bbepis/XUnity.AutoTranslator)
-- [KKS_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector)
-- [KKS_Subtitles](https://github.com/IllusionMods/KK_Plugins#subtitles)
+- [KKS_TextResourceRedirector](https://gitgoon.dev/IllusionMods/TranslationTools#textresourceredirector)
+- [KKS_Subtitles](https://gitgoon.dev/IllusionMods/KK_Plugins#subtitles)
 
 [//]: # "- [KKS_TranslationHelper](https://gebo1.github.io/GeBoPlugins/src/TranslationHelper/) (Optional, but recommended)"
 [//]: # "- [KKS_TranslationCacheCleaner](https://gebo1.github.io/GeBoPlugins/src/TranslationCacheCleaner/) (optional, but recommended)"
@@ -28,7 +28,7 @@ The translations are applied while the game is running and do not require replac
 ## Installation
 
 1. Ensure you have the prerequisites installed.
-2. Go to the [releases page](https://github.com/IllusionMods/KKS-Translation/releases) and download the latest version. Alternatively, advanced users can get the latest beta translations by clicking on the "Clone or download" button above. If you are a translator, read the sections below to see how to contribute to the translations.
+2. Go to the [releases page](https://gitgoon.dev/IllusionMods/KKS-Translation/releases) and download the latest version. Alternatively, advanced users can get the latest beta translations by clicking on the "Clone or download" button above. If you are a translator, read the sections below to see how to contribute to the translations.
 3. Extract the zip and place the BepInEx folder inside your game folder (where the file game executable is).
 
 ## Contribution
@@ -141,7 +141,7 @@ If `zz_machineTranslation.txt` files are present only lines that are not transla
 The `assets` folder inside of `Bepinex\Translation\en\RedirectedResources` can be compressed into a .zip archive to be read by the game (simply right-click on the assets folder and then compress to .zip). Uncompressed files under `assets` are also still loaded. The game has to be restarted in order to see updated translations.
 
 
-The plugin [TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) is required for these translations. Always keep it updated. (not ready yet, you early adopter!)
+The plugin [TextResourceRedirector](https://gitgoon.dev/IllusionMods/TranslationTools#textresourceredirector) is required for these translations. Always keep it updated. (not ready yet, you early adopter!)
 
 ### Structure of the "RedirectedResources" directory
 
@@ -290,7 +290,7 @@ Some prefixes can be combined with numbers, which limit them to matching specifi
 
 ## Tools
 
-[//]: # "- [TranslationSync](https://github.com/IllusionMods/TranslationTools#translationsync) is a plugin for formatting and copy/pasting translations between files when there are duplicate entries."
+[//]: # "- [TranslationSync](https://gitgoon.dev/IllusionMods/TranslationTools#translationsync) is a plugin for formatting and copy/pasting translations between files when there are duplicate entries."
 - [Release Tool](https://github.com/SpockBauru/TranslationTools_Illusion#releasetool) - Tool that cleans up the translation files to remove any unnecessary untranslated parts.
 - [Yomichan](https://foosoft.net/projects/yomichan/) - This browser plugin allows you to see the definition of Japanese words by putting your mouse over them in the browser and pressing shift.
 - Dictionaries:
